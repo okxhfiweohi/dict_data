@@ -23,7 +23,10 @@ jobs:
 
       - name: Install Dependencies
         run: |
+          sudo apt install -y libyaml-dev
           python -m pip install -r requirements.txt
+          echo ""
+          python -c "import yaml; print(f'libyaml enabled: {yaml.__with_libyaml__}')"
       - name: Format
         run: |
           python format.py
@@ -36,4 +39,3 @@ jobs:
           commit_user_email: "actions@github.com"
           # commit_author: "GitHub Actions"
           skip_dirty_check: false
-
