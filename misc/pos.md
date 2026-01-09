@@ -21,12 +21,14 @@
 
 unused:
 
+| ? | 含义 |
+|---|---|
 |B|从句前标记（in order that/to）|
 |G|所有格标记（'s）|
 |F|外来词（如café）|
 |Z|字母（A, b）|
 
-## normal abbr
+## pos normal abbr
 
 n.
 un.
