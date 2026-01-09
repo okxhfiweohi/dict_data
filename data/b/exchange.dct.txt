@@ -1,0 +1,4499 @@
+b-boy <> s: b-boys
+b-boys <> b: b-boy, f: s
+B-tree <> s: b-trees
+BA <> s: bas
+baa <> s: baas, i: baaing, p: baaed, '3': baas, d: baaed
+baaed <> f: pd, b: baa
+baaing <> f: i, b: baa
+baas <> f: s3, b: baa
+Baathist <> s: baathists
+bab <> s: babs
+baba <> s: babas
+Babar <> s: babars
+babas <> b: baba, f: s
+babbies <> b: babby, f: s
+Babbitt <> i: babbitting, p: babbitted, '3': babbitts, d: babbitted
+babbitted <> f: pd, b: babbitt
+babbitting <> f: i, b: babbitt
+babbitts <> f: '3', b: babbitt
+babble <> i: babbling, p: babbled, '3': babbles, d: babbled
+babbled <> f: pd, b: babble
+babbler <> s: babblers
+babblers <> b: babbler, f: s
+babbles <> b: babble, f: '3'
+babbling <> b: babble, f: i, s: babblings, i: babbling
+babby <> s: babbies
+babe <> s: babes
+babes <> b: babe, f: s
+babied <> f: pd, b: baby
+babies <> f: s3, b: baby
+babirusa <> s: babirusas
+babirusas <> b: babirusa, f: s
+baboon <> s: baboons
+baboons <> b: baboon, f: s
+babushka <> s: babushkas
+babushkas <> b: babushka, f: s
+baby <> s: babies, i: babying, p: babied, '3': babies, d: babied
+baby-faced <> b: baby-face, f: p
+babyhood <> s: babyhoods
+babyhoods <> b: babyhood, f: s
+babying <> i: babying, b: babying, f: i
+Babylonian <> s: babylonians
+babysit <> i: babysitting, '3': babysits
+babysits <> b: babysit, f: '3'
+babysitter <> s: babysitters
+babysitters <> b: babysitter, f: s
+babysitting <> b: babysit, f: i, i: babysitting
+bac <> s: bacs
+bacardi <> s: bacardis
+bacardis <> b: bacardi, f: s
+baccalaureate <> s: baccalaureates
+baccalaureates <> b: baccalaureate, f: s
+bacchanal <> s: bacchanals
+bacchanalian <> s: bacchanalians
+bacchanalians <> b: bacchanalian, f: s
+bach <> i: baching, p: bached, '3': baches, d: bached
+bachelor <> s: bachelors
+bachelors <> b: bachelor, f: s
+bacilli <> s: bacilli, b: bacilli, f: s
+back <> d: backed, s: backs, p: backed, i: backing, '3': backs
+back-bencher <> s: back-benchers
+back-benchers <> b: back-bencher, f: s
+back-pedal <> s: back-pedals
+back-pedals <> b: back-pedal, f: s
+back-projection <> s: back-projections
+back-projections <> b: back-projection, f: s
+back-to-back <> s: back-to-backs
+back-to-backs <> b: back-to-back, f: s
+back-up <> s: back-ups
+back-ups <> b: back-up, f: s
+backbeat <> s: backbeats
+backbeats <> b: backbeat, f: s
+backbench <> s: backbenches
+backbencher <> s: backbenchers
+backbenchers <> b: backbencher, f: s
+backbenches <> b: backbench, f: s
+backbit <> i: backbiting, b: backbite, f: p
+backbite <> i: backbiting, p: backbit, '3': backbites, d: backbitten
+backbiting <> b: backbit, f: i
+backbone <> s: backbones
+backbones <> b: backbone, f: s
+backbreaking <> i: backbreaking, b: backbreaking, f: i
+backburner <> d: backburnered
+backburnered <> b: backburner, f: d
+backcloth <> s: backcloths
+backcloths <> b: backcloth, f: s
+backcomb <> d: backcombed, i: backcombing, p: backcombed
+backcombed <> b: backcomb, f: dp
+backcombing <> b: backcomb, f: i, i: backcombing
+backcross <> s: backcrosses, d: backcrossed, i: backcrossing, p: backcrossed, '3': backcrosses
+backcrossed <> f: dp, b: backcross
+backcrosses <> f: s3, b: backcross
+backcrossing <> b: backcross, f: i
+backdate <> p: backdated, d: backdated, i: backdating, '3': backdates
+backdated <> b: backdate, f: pd, p: backdated
+backdates <> f: '3', b: backdate
+backdating <> b: backdate, f: i
+backdrop <> s: backdrops, p: backdropped
+backdropped <> b: backdrop, f: p
+backdrops <> b: backdrop, f: s
+backed <> b: back, f: dp, d: backed, p: backed
+backer <> s: backers
+backers <> b: backer, f: s
+backfire <> d: backfired, p: backfired, '3': backfires, i: backfiring
+backfired <> b: backfire, f: dp
+backfires <> b: backfire, f: '3'
+backfiring <> b: backfire, f: i, i: backfiring
+backflip <> p: backflipped, s: backflips
+backflipped <> b: backflip, f: p
+backflips <> b: backflip, f: s
+background <> s: backgrounds
+backgrounds <> b: background, f: s
+backhand <> p: backhanded, r: backhander, i: backhanding, s: backhands, '3': backhands, d: backhanded
+backhanded <> f: pd, b: backhand, d: backhanded, p: backhanded
+backhander <> b: backhand, f: r, '3': backhanders
+backhanding <> b: backhand, f: i
+backhands <> f: s3, b: backhand
+backing <> b: back, f: i, i: backing, s: backings
+backland <> s: backlands
+backlands <> b: backland, f: s
+backlash <> s: backlashes
+backlashes <> b: backlash, f: s
+backlight <> i: backlighting, p: backlighted
+backlighted <> b: backlight, f: p
+backlighting <> b: backlight, f: i
+backlog <> s: backlogs, d: backlogged, i: backlogging, p: backlogged, '3': backlogs
+backlogged <> b: backlog, f: d
+backlogs <> b: backlog, f: s
+backmarker <> s: backmarkers
+backmarkers <> b: backmarker, f: s
+backpack <> i: backpacking, s: backpacks
+backpacker <> s: backpackers
+backpackers <> b: backpacker, f: s
+backpacking <> b: backpack, f: i, i: backpacking
+backpacks <> b: backpack, f: s
+backpedal <> i: backpedalling, d: backpedalled, p: backpedalled, '3': backpedals
+backpedalled <> b: backpedal, f: dp
+backpedalling <> b: backpedal, f: i
+backpedals <> f: '3', b: backpedal
+backplane <> s: backplanes
+backplanes <> b: backplane, f: s
+backrest <> b: backr, f: t, s: backrests
+backrests <> b: backrest, f: s
+backroom <> s: backrooms
+backrooms <> b: backroom, f: s
+backs <> b: back, f: s3
+backscatter <> d: backscattered, i: backscattering, p: backscattered
+backscattered <> b: backscatter, f: dp
+backscattering <> b: backscatter, f: i
+backside <> s: backsides
+backsides <> b: backside, f: s
+backslap <> i: backslapping, s: backslaps, p: backslapped, '3': backslappes, d: backslapped
+backslapping <> b: backslap, f: i
+backslidden <> f: pd, b: backslide
+backslide <> i: backsliding, p: backslidden, '3': backslides, d: backslidden
+backslider <> s: backsliders
+backsliders <> b: backslider, f: s
+backslides <> f: '3', b: backslide
+backsliding <> b: backslide, f: i, s: backslidings, i: backsliding
+backspace <> i: backspacing, p: backspaced, '3': backspaces, d: backspaced
+backspaced <> f: pd, b: backspace
+backspaces <> f: '3', b: backspace
+backspacing <> f: i, b: backspace
+backstair <> s: backstairs
+backstairs <> b: backstair, f: s
+backstitch <> i: backstitching, d: backstitched, p: backstitched, '3': backstitches
+backstitched <> f: dp, b: backstitch
+backstitches <> f: '3', b: backstitch
+backstitching <> b: backstitch, f: i
+backstreet <> s: backstreets
+backstreets <> b: backstreet, f: s
+backstroke <> i: backstroking, p: backstroked, '3': backstrokes, d: backstroked
+backstroked <> f: pd, b: backstroke
+backstrokes <> f: '3', b: backstroke
+backstroking <> f: i, b: backstroke
+backtrack <> i: backtracking, p: backtracked, d: backtracked, '3': backtracks, s: backtracks
+backtracked <> b: backtrack, f: pd
+backtracking <> b: backtrack, f: i, i: backtracking
+backtracks <> b: backtrack, f: 3s
+backup <> s: backups
+backups <> b: backup, f: s
+backward-looking <> b: backward-look, f: i
+backwash <> i: backwashing, p: backwashed
+backwashed <> b: backwash, f: p
+backwashing <> b: backwash, f: i
+backwater <> s: backwaters
+backwaters <> b: backwater, f: s
+backwood <> s: backwoods
+backwoods <> b: backwood, f: s
+backwoodsman <> s: backwoodsmen
+backwoodsmen <> b: backwoodsman, f: s
+backyard <> s: backyards
+backyards <> b: backyard, f: s
+bacon <> s: bacons
+baconer <> s: baconers
+baconers <> b: baconer, f: s
+bacons <> b: bacon, f: s
+bacs <> b: bac, f: s
+bacteria <> b: bacterium, f: s
+bactericide <> s: bactericides
+bactericides <> b: bactericide, f: s
+bacteriologist <> s: bacteriologists
+bacteriologists <> b: bacteriologist, f: s
+bacteriophage <> s: bacteriophages, '3': bacteriophages
+bacteriophages <> b: bacteriophage, f: s3
+bacterium <> s: bacteria
+bad <> r: worse, t: worst
+baddies <> b: baddy, f: s
+baddy <> s: baddies
+bade <> b: bid, f: p
+badge <> s: badges, i: badging, p: badged, d: badged
+badged <> b: badge, f: pd, d: badged, p: badged
+badger <> s: badgers, i: badgering, p: badgered, d: badgered, '3': badgers
+badgered <> b: badger, f: pd
+badgering <> b: badger, f: i, i: badgering
+badgers <> b: badger, f: s3
+badges <> b: badge, f: s
+badging <> b: badge, f: i, i: badging
+badland <> s: badlands
+badlands <> b: badland, f: s
+baedeker <> s: baedekers
+baedekers <> b: baedeker, f: s
+baffle <> d: baffled, p: baffled, i: baffling, '3': baffles, s: baffles
+baffled <> b: baffle, f: dp, d: baffled, p: baffled
+baffles <> b: baffle, f: 3s
+baffling <> b: baffle, f: i, i: baffling
+bag <> s: bags, p: bagged, d: bagged, i: bagging, '3': bags
+bagatelle <> s: bagatelles
+bagatelles <> b: bagatelle, f: s
+bagel <> s: bagels, '3': bagels
+bagels <> b: bagel, f: s3
+bagful <> s: bagfuls
+bagfuls <> b: bagful, f: s
+baggage <> s: baggages
+baggages <> b: baggage, f: s
+bagged <> b: bag, f: pd, d: bagged
+bagger <> s: baggers
+baggers <> b: bagger, f: s
+baggier <> b: baggy, f: r
+baggies <> b: baggy, f: s
+bagging <> b: bag, f: i, s: baggings, i: bagging
+baggy <> s: baggies, r: baggier
+bagman <> s: bagmen
+bagmen <> b: bagman, f: s
+bagpipe <> s: bagpipes
+bagpipes <> b: bagpipe, f: s
+bags <> f: s3, b: bag
+baguette <> s: baguettes
+baguettes <> b: baguette, f: s
+bagwash <> s: bagwashes
+bagwashes <> b: bagwash, f: s
+Bahamian <> s: bahamians
+bai <> s: bai, b: bai, f: s
+bail <> d: bailed, i: bailing, p: bailed, s: bails, '3': bails
+baile <> s: bailes
+bailed <> b: bail, f: dp, d: bailed
+bailee <> s: bailees
+bailees <> b: bailee, f: s
+bailes <> b: baile, f: s
+bailey <> s: baileys
+baileys <> b: bailey, f: s
+bailiff <> s: bailiffs
+bailiffs <> b: bailiff, f: s
+bailing <> b: bail, f: i
+bailiwick <> s: bailiwicks
+bailiwicks <> b: bailiwick, f: s
+bailment <> s: bailments
+bailments <> b: bailment, f: s
+bails <> f: s3, b: bail
+bain <> s: bains
+Bainbridge <> s: bainbridges
+baine <> '3': baines, s: baines
+Baines <> b: baine, f: 3s
+bains <> b: bain, f: s
+Baird <> s: bairds
+bairn <> s: bairns
+bairns <> b: bairn, f: s
+bait <> s: baits, i: baiting, d: baited, p: baited, '3': baits
+baited <> b: bait, f: dp, d: baited, p: baited
+baiter <> s: baiters
+baiters <> b: baiter, f: s
+baiting <> b: bait, f: i, i: baiting
+baits <> b: bait, f: s3
+bake <> i: baking, d: baked, p: baked, '3': bakes
+baked <> b: bake, f: dp, d: baked, p: baked
+baker <> s: bakers
+bakeries <> b: bakery, f: s
+bakers <> b: baker, f: s
+bakery <> s: bakeries
+bakes <> b: bake, f: '3'
+Bakewell <> s: bakewells
+baking <> b: bake, f: i, i: baking, s: bakings
+BAL <> s: bals
+bala <> s: balas
+balaclava <> s: balaclavas
+balaclavas <> b: balaclava, f: s
+balance <> d: balanced, i: balancing, s: balances, '3': balances, p: balanced
+balanced <> b: balance, f: dp, d: balanced, p: balanced
+balancer <> s: balancers
+balancers <> b: balancer, f: s
+balances <> b: balance, f: s3
+balancing <> b: balance, f: i, i: balancing, s: balancings
+balas <> b: bala, f: s
+balconied <> b: balcony, f: p
+balconies <> b: balcony, f: s
+balcony <> s: balconies, p: balconied
+bald <> r: balder, t: baldest, i: balding, d: balded
+balded <> b: bald, f: d
+balder <> b: bald, f: r
+baldest <> b: bald, f: t
+baldies <> b: baldy, f: s
+balding <> b: bald, f: i, i: balding
+baldric <> s: baldrics
+baldrics <> b: baldric, f: s
+baldy <> s: baldies
+bale <> s: bales, p: baled, i: baling, d: baled, '3': bales
+Balearic <> s: balearics
+baled <> b: bale, f: pd, d: baled
+baler <> s: balers
+balers <> b: baler, f: s
+bales <> b: bale, f: s3
+Bali <> s: bali, b: bali, f: s
+baling <> b: bale, f: i, i: baling
+balk <> p: balked, d: balked, s: balks, i: balking, '3': balks
+Balkanize <> i: Balkanizing, p: Balkanized, '3': Balkanizes, d: Balkanized
+balked <> b: balk, f: pd
+balking <> b: balk, f: i
+balks <> b: balk, f: s
+ball <> s: balls, p: balled, i: balling, '3': balls, d: balled
+ball-bearing <> s: ball-bearings
+ball-bearings <> b: ball-bearing, f: s
+ballad <> s: ballads
+ballade <> '3': ballades, s: ballades
+balladeer <> s: balladeers, i: balladeering
+balladeering <> b: balladeer, f: i
+balladeers <> b: balladeer, f: s
+ballades <> b: ballade, f: 3s
+ballads <> b: ballad, f: s
+Ballard <> s: ballards
+ballast <> p: ballasted, d: ballasted, i: ballasting, s: ballasts, '3': ballasts
+ballasted <> b: ballast, f: pd
+ballasting <> b: ballast, f: i
+ballasts <> f: s3, b: ballast
+ballcock <> s: ballcocks
+ballcocks <> b: ballcock, f: s
+balled <> f: pd, b: ball
+ballerina <> s: ballerinas
+ballerinas <> b: ballerina, f: s
+ballet <> s: ballets
+ballets <> b: ballet, f: s
+ballgown <> s: ballgowns
+ballgowns <> b: ballgown, f: s
+balling <> i: balling, b: balling, f: i
+ballista <> s: ballistas
+ballistas <> b: ballista, f: s
+ballistic <> s: ballistics
+ballistics <> b: ballistic, f: s
+balloon <> s: balloons, p: ballooned, i: ballooning, d: ballooned, '3': balloons
+ballooned <> b: balloon, f: pd
+ballooning <> b: balloon, f: i, i: ballooning
+balloonist <> s: balloonists
+balloonists <> b: balloonist, f: s
+balloons <> f: s3, b: balloon
+ballot <> s: ballots, i: balloting, p: balloted, '3': ballots, d: balloted
+balloted <> b: ballote, f: dp
+balloting <> b: ballote, f: i, i: balloting
+ballots <> f: s3, b: ballot
+ballpoint <> s: ballpoints
+ballpoints <> b: ballpoint, f: s
+ballroom <> s: ballrooms
+ballrooms <> b: ballroom, f: s
+balls <> f: s3, b: ball
+balls-up <> s: balls-up, b: balls-up, f: s
+ballvalve <> s: ballvalves, '3': ballvalves
+ballvalves <> b: ballvalve, f: s3
+ballyhoo <> i: ballyhooing, p: ballyhooed, '3': ballyhoos, d: ballyhooed
+ballyhooed <> f: pd, b: ballyhoo
+ballyhooing <> f: i, b: ballyhoo
+ballyhoos <> f: '3', b: ballyhoo
+ballyrag <> i: ballyragging, p: ballyragged, '3': ballyrags, d: ballyragged
+ballyragged <> f: pd, b: ballyrag
+ballyragging <> f: i, b: ballyrag
+ballyrags <> f: '3', b: ballyrag
+balm <> s: balms, p: balmed
+balmed <> b: balm, f: p
+balmier <> b: balmy, f: r
+balmiest <> b: balmy, f: t
+balms <> b: balm, f: s
+balmy <> t: balmiest, r: balmier
+balsa <> s: balsas
+balsam <> s: balsams
+balsams <> b: balsam, f: s
+balsas <> b: balsa, f: s
+balt <> s: balts
+balts <> b: balt, f: s
+baluster <> s: balusters
+balusters <> b: baluster, f: s
+balustrade <> s: balustrades, i: balustrading, p: balustraded
+balustraded <> b: balustrade, f: p, p: balustraded
+balustrades <> b: balustrade, f: s
+balustrading <> b: balustrade, f: i, i: balustrading
+bambino <> s: bambinos
+bambinos <> b: bambino, f: s
+bamboo <> s: bamboos
+bamboos <> b: bamboo, f: s
+bamboozle <> p: bamboozled, d: bamboozled, i: bamboozling, s: bamboozles, '3': bamboozles
+bamboozled <> b: bamboozle, f: pd, p: bamboozled
+bamboozles <> b: bamboozle, f: s3
+bamboozling <> b: bamboozle, f: i
+ban <> d: banned, i: banning, p: banned, s: bans, '3': bans
+banalities <> b: banality, f: s
+banality <> s: banalities
+banana <> s: bananas
+bananas <> b: banana, f: s
+Banca <> s: bancas
+band <> s: bands, '3': bands, d: banded, i: banding, p: banded
+banda <> s: bandas
+bandage <> s: bandages, d: bandaged, p: bandaged, i: bandaging, '3': bandages
+bandaged <> b: bandage, f: dp, d: bandaged, p: bandaged
+bandages <> f: s3, b: bandage
+bandaging <> b: bandage, f: i, i: bandaging
+bandana <> s: bandanas
+bandanas <> b: bandana, f: s
+bandanna <> s: bandannas
+bandannas <> b: bandanna, f: s
+bandas <> b: banda, f: s
+bandbox <> s: bandboxes
+bandboxes <> b: bandbox, f: s
+banded <> f: dp, b: band, d: banded, p: banded
+banderilla <> s: banderillas
+banderillas <> b: banderilla, f: s
+bandicoot <> s: bandicoots
+bandicoots <> b: bandicoot, f: s
+bandied <> b: bandy, f: dp
+bandies <> f: '3', b: bandy
+banding <> s: bandings, i: banding, b: banding, f: i
+bandit <> s: bandits, '3': bandits
+bandits <> b: bandit, f: s3
+bandleader <> s: bandleaders
+bandleaders <> b: bandleader, f: s
+bandolier <> s: bandoliers
+bandoliers <> b: bandolier, f: s
+bands <> b: band, f: s3
+bandsaw <> s: bandsaws
+bandsaws <> b: bandsaw, f: s
+bandsman <> s: bandsmen
+bandsmen <> b: bandsman, f: s
+bandstand <> s: bandstands
+bandstands <> b: bandstand, f: s
+Bandung <> d: bandung, b: bandung, f: d
+bandwagon <> s: bandwagons, i: bandwagonning
+bandwagonning <> b: bandwagon, f: i
+bandwagons <> b: bandwagon, f: s
+bandwidth <> s: bandwidths
+bandwidths <> b: bandwidth, f: s
+bandy <> d: bandied, p: bandied, i: bandying, '3': bandies
+bandying <> b: bandy, f: i
+bane <> s: banes
+banes <> b: bane, f: s
+bang <> i: banging, p: banged, s: bangs, d: banged, '3': bangs
+banged <> b: bang, f: pd
+banger <> s: bangers
+bangers <> b: banger, f: s
+banging <> b: bang, f: i, i: banging
+Bangladeshi <> s: bangladeshi, b: bangladeshi, f: s
+bangle <> s: bangles
+bangles <> b: bangle, f: s
+bangs <> b: bang, f: s3
+banish <> d: banished, p: banished, i: banishing, '3': banishes
+banished <> b: banish, f: dp, p: banished, d: banished
+banishes <> b: banish, f: '3'
+banishing <> b: banish, f: i
+banister <> s: banisters
+banisters <> b: banister, f: s
+banjo <> s: banjos
+banjos <> b: banjo, f: s
+bank <> s: banks, i: banking, d: banked, p: banked, '3': banks
+banked <> b: bank, f: dp, p: banked
+banker <> s: bankers
+bankers <> b: banker, f: s
+banking <> b: bank, f: i, i: banking, s: bankings
+banknote <> s: banknotes
+banknotes <> b: banknote, f: s
+bankroll <> '3': bankrolls, i: bankrolling, p: bankrolled, d: bankrolled
+bankrolled <> b: bankrol, f: dp
+bankrolling <> b: bankrol, f: i
+bankrolls <> b: bankroll, f: '3'
+bankrupt <> s: bankrupts, d: bankrupted, p: bankrupted, '3': bankrupts, i: bankrupting
+bankruptcies <> b: bankruptcy, f: s
+bankruptcy <> s: bankruptcies
+bankrupted <> b: bankrupt, f: dp
+bankrupting <> b: bankrupt, f: i
+bankrupts <> b: bankrupt, f: s3
+banks <> b: bank, f: s
+Bankside <> s: banksides
+banned <> b: ban, f: dp, p: banned, d: banned
+banner <> s: banners, p: bannered
+bannered <> b: banner, f: p
+banneret <> s: bannerets
+bannerets <> b: banneret, f: s
+banners <> b: banner, f: s
+banning <> b: ban, f: i, i: banning, s: bannings
+bannister <> s: bannisters, b: bannist, f: r
+bannisters <> b: bannister, f: s
+bannock <> s: bannocks
+bannocks <> b: bannock, f: s
+banns <> s: banns, b: banns, f: s
+banquet <> s: banquets, i: banquetting, p: banqueted, '3': banquets, d: banqueted
+banqueted <> f: pd, b: banquet
+banqueter <> s: banqueters
+banqueters <> b: banqueter, f: s
+banqueting <> b: banquete, f: i
+banquets <> f: s3, b: banquet
+banquette <> s: banquettes
+banquettes <> b: banquette, f: s
+banquetting <> b: banquet, f: i
+bans <> b: ban, f: s3
+banshee <> s: banshees
+banshees <> b: banshee, f: s
+bant <> r: banter, i: banting
+bantam <> s: bantams, '3': bantams
+bantams <> b: bantam, f: s3
+banter <> i: bantering, p: bantered, d: bantered, b: bant, f: r, '3': banters
+bantered <> b: banter, f: pd
+bantering <> b: banter, f: i, i: bantering, s: banterings
+banters <> f: '3', b: banter
+bantustan <> s: bantustans
+bantustans <> b: bantustan, f: s
+banyan <> s: banyans
+banyans <> b: banyan, f: s
+banzai <> s: banzai, b: banzai, f: s
+baobab <> s: baobabs
+baobabs <> b: baobab, f: s
+BAP <> s: baps
+baptise <> d: baptised, i: baptising, p: baptised, '3': baptises
+baptised <> b: baptise, f: dp, d: baptised
+baptises <> b: baptise, f: '3'
+baptising <> b: baptise, f: i
+baptism <> s: baptisms
+baptisms <> b: baptism, f: s
+Baptist <> s: baptists
+baptisteries <> b: baptistery, f: s
+baptistery <> s: baptisteries
+baptists <> b: baptist, f: s
+baptize <> d: baptized, p: baptized, i: baptizing, '3': baptizes
+baptized <> b: baptize, f: dp, d: baptized, p: baptized
+baptizes <> b: baptize, f: '3'
+baptizing <> b: baptize, f: i
+bar <> s: bars, d: barred, p: barred, i: barring, '3': bars
+bar mitzvah <> i: bar mitzvah, p: bar mitzvah, '3': bar mitzvahs, d: bar mitzvah, s: bar mitzvahs
+barathea <> s: baratheas
+baratheas <> b: barathea, f: s
+barb <> s: barbs
+Barbadian <> s: barbadians
+barbarian <> s: barbarians
+barbarians <> b: barbarian, f: s
+barbarism <> s: barbarisms
+barbarisms <> b: barbarism, f: s
+barbarities <> b: barbarity, f: s
+barbarity <> s: barbarities
+barbarize <> i: barbarizing, p: barbarized, '3': barbarizes, d: barbarized
+barbarized <> f: pd, b: barbarize
+barbarizes <> f: '3', b: barbarize
+barbarizing <> f: i, b: barbarize
+barbecue <> s: barbecues, '3': barbecues, d: barbecued, i: barbecuing, p: barbecued
+barbecued <> b: barbecue, f: dp, p: barbecued
+barbecues <> b: barbecue, f: s3
+barbecuing <> b: barbecue, f: i
+barbel <> s: barbels, i: barbelling
+barbell <> s: barbells
+barbelling <> b: barbel, f: i
+barbells <> b: barbell, f: s
+barbels <> b: barbel, f: s
+barbeque <> s: barbeques
+barbeques <> b: barbeque, f: s
+barber <> s: barbers, d: barbered, i: barbering, p: barbered, '3': barbers
+barbered <> b: barber, f: dp
+barbering <> b: barber, f: i
+barbers <> f: s3, b: barber
+barbet <> s: barbets
+barbets <> b: barbet, f: s
+barbican <> s: barbicans
+barbicans <> b: barbican, f: s
+barbiturate <> s: barbiturates
+barbiturates <> b: barbiturate, f: s
+barbs <> b: barb, f: s
+barbule <> s: barbules
+barbules <> b: barbule, f: s
+barchan <> s: barchans
+barchans <> b: barchan, f: s
+barcode <> s: barcodes, d: barcoded, i: barcoding
+barcoded <> b: barcode, f: d
+barcodes <> b: barcode, f: s
+barcoding <> b: barcode, f: i
+bard <> s: bards, p: barded, i: barding
+barded <> b: bard, f: p, p: barded
+barding <> b: bard, f: i
+bards <> b: bard, f: s
+bare <> p: bared, t: barest, i: baring, d: bared, '3': bares, r: barer
+bare-knuckle <> s: bare-knuckles
+bare-knuckles <> b: bare-knuckle, f: s
+bareboat <> i: bareboating
+bareboating <> b: bareboat, f: i
+bared <> b: bare, f: pd, p: bared
+bareheaded <> p: bareheaded, b: bareheaded, f: p
+barelegged <> b: bareleg, f: dp
+barents <> b: barent, f: s
+barer <> b: bare, f: r
+bares <> b: bare, f: '3'
+barest <> b: bare, f: t
+barf <> i: barfing, p: barfed, '3': barfs, d: barfed
+barfing <> b: barf, f: i
+barflies <> b: barfly, f: s
+barfly <> i: barflying, s: barflies
+barflying <> b: barfly, f: i
+bargain <> s: bargains, i: bargaining, d: bargained, p: bargained, '3': bargains
+bargained <> b: bargain, f: dp, d: bargained, p: bargained
+bargainer <> s: bargainers
+bargainers <> b: bargainer, f: s
+bargaining <> b: bargain, f: i, i: bargaining
+bargains <> b: bargain, f: s3
+barge <> s: barges, p: barged, i: barging, d: barged, '3': barges
+bargeboard <> s: bargeboards, p: bargeboarded
+bargeboarded <> b: bargeboard, f: p
+bargeboards <> b: bargeboard, f: s
+barged <> b: barge, f: pd, p: barged
+bargee <> s: bargees
+bargees <> b: bargee, f: s
+barges <> b: barge, f: s3
+barging <> b: barge, f: i
+baring <> b: bare, f: i
+baritone <> s: baritones
+baritones <> b: baritone, f: s
+bark <> p: barked, i: barking, s: barks, d: barked, '3': barks
+barked <> b: bark, f: pd
+barker <> s: barkers
+barkers <> b: barker, f: s
+barking <> b: bark, f: i, i: barking, s: barkings
+barks <> b: bark, f: s3
+barley <> s: barleys
+barleys <> b: barley, f: s
+barmaid <> s: barmaids, i: barmaiding
+barmaiding <> b: barmaid, f: i
+barmaids <> b: barmaid, f: s
+barman <> s: barmen
+barmier <> b: barmy, f: r
+barmy <> r: barmier
+barn <> s: barns
+barnacle <> s: barnacles, p: barnacled
+barnacled <> b: barnacle, f: p
+barnacles <> b: barnacle, f: s
+barne <> s: barnes
+barnes <> b: barne, f: s
+barns <> b: barn, f: s
+barnstorm <> i: barnstorming, p: barnstormed, '3': barnstorms, d: barnstormed
+barnstormed <> f: pd, b: barnstorm
+barnstormer <> s: barnstormers
+barnstormers <> b: barnstormer, f: s
+barnstorming <> i: barnstorming, b: barnstorming, f: i
+barnstorms <> f: '3', b: barnstorm
+barograph <> s: barographs
+barographs <> b: barograph, f: s
+barometer <> s: barometers
+barometers <> b: barometer, f: s
+baron <> s: barons
+barone <> s: barones
+barones <> b: barone, f: s
+baronet <> s: baronets
+baronetcies <> b: baronetcy, f: s
+baronetcy <> s: baronetcies
+baronets <> b: baronet, f: s
+baronies <> b: barony, f: s
+barons <> b: baron, f: s
+barony <> s: baronies
+barque <> s: barques
+barques <> b: barque, f: s
+barr <> s: barrs
+barrack <> i: barracking, d: barracked, p: barracked, '3': barracks
+barracked <> b: barrack, f: dp
+barracking <> b: barrack, f: i, i: barracking, s: barrackings
+barracks <> f: '3', b: barrack
+barracuda <> s: barracudas
+barracudas <> b: barracuda, f: s
+barrage <> s: barrages, d: barraged, p: barraged, i: barraging, '3': barrages
+barraged <> b: barrage, f: dp
+barrages <> f: s3, b: barrage
+barraging <> f: i, b: barrage
+barre <> s: barres
+barred <> b: bar, f: dp, d: barred, p: barred
+barrel <> s: barrels, d: barrelled, i: barrelling, p: barrelled, '3': barrels
+barrelled <> b: barrel, f: dp, d: barrelled
+barrelling <> b: barrel, f: i
+barrels <> f: s3, b: barrel
+barren <> s: barrens
+barrens <> b: barren, f: s
+barres <> b: barre, f: s
+barricade <> s: barricades, d: barricaded, p: barricaded, i: barricading, '3': barricades
+barricaded <> b: barricade, f: dp, p: barricaded
+barricades <> f: s3, b: barricade
+barricading <> b: barricade, f: i
+barrier <> s: barriers
+barriers <> b: barrier, f: s
+barring <> b: bar, f: i, i: barring
+barrique <> s: barriques
+barriques <> b: barrique, f: s
+barrister <> s: barristers
+barristers <> b: barrister, f: s
+Barro <> s: barros
+barrow <> s: barrows, p: barrowed, i: barrowing
+barrowed <> b: barrow, f: p
+barrowing <> b: barrow, f: i
+barrows <> b: barrow, f: s
+barrs <> b: barr, f: s
+bars <> b: bar, f: s3
+bartender <> s: bartenders
+bartenders <> b: bartender, f: s
+barter <> i: bartering, d: bartered, p: bartered, s: barters, '3': barters
+bartered <> b: barter, f: dp, d: bartered
+bartering <> b: barter, f: i, i: bartering
+barters <> b: barter, f: s3
+Bartle <> i: bartling
+baryon <> s: baryons
+baryons <> b: baryon, f: s
+baryte <> s: barytes
+barytes <> b: baryte, f: s
+bas <> b: ba, f: s
+bas-relief <> s: bas-reliefs
+bas-reliefs <> b: bas-relief, f: s
+basalt <> s: basalts
+basalts <> b: basalt, f: s
+basanite <> s: basanites
+basanites <> b: basanite, f: s
+bascule <> s: bascules
+bascules <> b: bascule, f: s
+base <> d: based, p: based, i: basing, '3': bases, r: baser
+baseboard <> s: baseboards
+baseboards <> b: baseboard, f: s
+based <> b: base, f: dp
+baseline <> s: baselines, i: baselining
+baselines <> b: baseline, f: s
+baselining <> b: baseline, f: i
+basement <> s: basements
+basements <> b: basement, f: s
+baseplate <> s: baseplates
+baseplates <> b: baseplate, f: s
+baser <> b: base, f: r
+bases <> b: base, f: '3'
+bash <> i: bashing, d: bashed, p: bashed, '3': bashes, s: bashes
+bashed <> b: bash, f: dp
+basher <> s: bashers
+bashers <> b: basher, f: s
+bashes <> b: bash, f: 3s
+bashing <> b: bash, f: i, i: bashing, s: bashings
+basic <> s: basics
+basics <> b: basic, f: s
+basil <> s: basils
+basilica <> s: basilicas
+basilicas <> b: basilica, f: s
+basilisk <> s: basilisks
+basilisks <> b: basilisk, f: s
+basils <> b: basil, f: s
+basin <> s: basins, '3': basins
+basing <> b: base, f: i, i: basing
+basins <> b: basin, f: s3
+bask <> i: basking, p: basked, '3': basks, d: basked
+basked <> b: bask, f: pd
+basket <> s: baskets
+basketball <> s: basketballs
+basketballs <> b: basketball, f: s
+baskets <> b: basket, f: s
+basking <> b: bask, f: i
+basks <> b: bask, f: '3'
+basmati <> s: basmati, b: basmati, f: s
+basophil <> s: basophils
+basophils <> b: basophil, f: s
+Basque <> s: basques
+bass <> s: basses
+basses <> b: bass, f: s
+basset <> s: bassets, i: basseting, p: basseted, '3': bassets, d: basseted
+basseted <> f: pd, b: basset
+basseting <> f: i, b: basset
+bassets <> f: s3, b: basset
+bassinet <> s: bassinets
+bassinets <> b: bassinet, f: s
+bassist <> s: bassists
+bassists <> b: bassist, f: s
+bassoon <> s: bassoons
+bassoonist <> s: bassoonists
+bassoonists <> b: bassoonist, f: s
+bassoons <> b: bassoon, f: s
+bastard <> s: bastards
+bastardize <> d: bastardized, i: bastardizing, p: bastardized, '3': bastardizes
+bastardized <> f: dp, b: bastardize
+bastardizes <> f: '3', b: bastardize
+bastardizing <> b: bastardize, f: i
+bastards <> b: bastard, f: s
+baste <> i: basting, d: basted, p: basted, '3': bastes
+basted <> b: baste, f: dp
+baster <> s: basters
+basters <> b: baster, f: s
+bastes <> b: baste, f: '3'
+bastide <> s: bastides, '3': bastides
+bastides <> b: bastide, f: s3
+bastille <> s: bastilles
+bastilles <> b: bastille, f: s
+bastinado <> i: bastinadoing, p: bastinadoed, '3': bastinadoes, d: bastinadoed
+bastinadoed <> f: pd, b: bastinado
+bastinadoes <> f: '3', b: bastinado
+bastinadoing <> f: i, b: bastinado
+basting <> b: baste, f: i
+bastion <> s: bastions
+bastions <> b: bastion, f: s
+bat <> s: bats, p: batted, i: batting, '3': bats, d: batted
+Bataille <> s: batailles
+batch <> s: batches, i: batching, d: batched, p: batched, '3': batches
+batched <> b: batch, f: dp, p: batched
+Batchelor <> s: batchelors
+batches <> f: s3, b: batch
+batching <> b: batch, f: i, i: batching
+bate <> i: bating, s: bates, p: bated, '3': bates, d: bated
+bated <> p: bated, b: bated, f: p
+Bateman <> s: batemen
+bates <> f: s3, b: bate
+BATESON <> s: batesons
+bath <> s: baths, '3': baths, p: bathed, d: bathed
+bathe <> d: bathed, p: bathed, '3': bathes, i: bathing
+bathed <> b: bathe, f: dp
+bather <> s: bathers
+bathers <> b: bather, f: s
+bathes <> b: bathe, f: '3'
+bathhouse <> s: bathhouses
+bathhouses <> b: bathhouse, f: s
+bathing <> b: bthe, f: i, i: bathing
+bathing-suit <> s: bathing-suits
+bathing-suits <> b: bathing-suit, f: s
+batho <> s: bathos
+batholith <> s: batholiths
+batholiths <> b: batholith, f: s
+bathos <> b: batho, f: s
+bathrobe <> s: bathrobes
+bathrobes <> b: bathrobe, f: s
+bathroom <> s: bathrooms
+bathrooms <> b: bathroom, f: s
+baths <> b: bath, f: s3
+bathtub <> s: bathtubs
+bathtubs <> b: bathtub, f: s
+bathurst <> s: bathursts
+bathursts <> b: bathurst, f: s
+batik <> s: batiks
+batiks <> b: batik, f: s
+bating <> b: bate, f: i
+batman <> s: batmen
+batmen <> b: batman, f: s
+baton <> s: batons, d: batoned, i: batoning, p: batoned
+batoned <> b: baton, f: dp
+batoning <> b: baton, f: i
+batons <> b: baton, f: s
+bats <> b: bat, f: s3
+batsman <> s: batsmen
+batsmen <> b: batsman, f: s
+batt <> s: batts, i: battting
+battalion <> s: battalions
+battalions <> b: battalion, f: s
+batted <> b: bat, f: pd, p: batted
+battel <> s: battels
+battels <> b: battel, f: s
+batten <> s: battens, d: battened, p: battened, i: battening, '3': battens
+battened <> b: batten, f: dp, p: battened
+battening <> b: batten, f: i, i: battening
+battens <> f: s3, b: batten
+batter <> d: battered, p: battered, i: battering, '3': batters
+battered <> d: battered, b: battered, f: dp, p: battered
+batterer <> s: batterers
+batterers <> b: batterer, f: s
+batteries <> b: battery, f: s
+battering <> b: batter, f: i, i: battering
+batters <> b: batter, f: '3'
+battery <> s: batteries
+battier <> b: batty, f: r
+batting <> b: bat, f: i, i: batting
+battle <> s: battles, i: battling, p: battled, d: battled, '3': battles
+battle-cruiser <> s: battle-cruisers
+battle-cruisers <> b: battle-cruiser, f: s
+battlecruiser <> s: battlecruisers
+battlecruisers <> b: battlecruiser, f: s
+battled <> b: battle, f: pd
+battledore <> s: battledores
+battledores <> b: battledore, f: s
+battlefield <> s: battlefields
+battlefields <> b: battlefield, f: s
+battleground <> s: battlegrounds
+battlegrounds <> b: battleground, f: s
+battlement <> s: battlements, p: battlemented
+battlemented <> b: battlement, f: p, p: battlemented
+battlements <> b: battlement, f: s
+battler <> s: battlers
+battlers <> b: battler, f: s
+battles <> f: s3, b: battle
+battleship <> s: battleships
+battleships <> b: battleship, f: s
+battling <> b: battle, f: i, i: battling
+batts <> b: batt, f: s
+battting <> b: batt, f: i
+batty <> r: battier
+batwing <> b: batw, f: i
+bauble <> s: baubles, '3': baubles, p: baubled
+baubled <> b: bauble, f: p
+baubles <> b: bauble, f: s3
+bauhaus <> b: bauhau, f: s
+baulk <> d: baulked, p: baulked, s: baulks, '3': baulks, i: baulking
+baulked <> b: baulk, f: dp
+baulking <> b: baulk, f: i
+baulks <> b: baulk, f: s3
+Bavarian <> s: bavarians
+bawd <> s: bawds
+bawdiest <> b: bawdy, f: t
+bawds <> b: bawd, f: s
+bawdy <> t: bawdiest
+bawl <> p: bawled, i: bawling, d: bawled, '3': bawls
+bawled <> b: bawl, f: pd
+bawling <> b: bawl, f: i, i: bawling
+bawls <> b: bawl, f: '3'
+bay <> s: bays, i: baying, p: bayed, '3': bays, d: bayed
+baye <> '3': bayes, s: bayes, r: bayer
+bayed <> f: pd, b: bay
+Bayer <> b: baye, f: r
+Bayes <> b: baye, f: 3s
+baying <> b: bay, f: i, s: bayings
+Bayle <> s: bayles
+bayonet <> s: bayonets, d: bayonetted, p: bayonetted, i: bayoneting, '3': bayonets
+bayoneted <> b: bayonete, f: dp
+bayoneting <> b: bayonete, f: i
+bayonets <> f: s3, b: bayonet
+bayonetted <> b: bayonet, f: dp
+bays <> b: bay, f: s3
+bazaar <> s: bazaars
+bazaars <> b: bazaar, f: s
+bazooka <> s: bazookas
+bazookas <> b: bazooka, f: s
+be <> p: was, '3': is, d: been, i: being
+beach <> s: beaches, p: beached, d: beached, i: beaching, '3': beaches
+beachcomber <> s: beachcombers
+beachcombers <> b: beachcomber, f: s
+beached <> b: beach, f: pd, p: beached
+beaches <> f: s3, b: beach
+beachhead <> s: beachheads
+beachheads <> b: beachhead, f: s
+beaching <> f: i, b: beach, s: beachings
+beacon <> s: beacons, i: beaconing, p: beaconed, '3': beacons, d: beaconed
+beaconed <> f: pd, b: beacon
+beaconing <> b: beacon, f: i
+beacons <> f: s3, b: beacon
+bead <> s: beads, p: beaded, i: beading, d: beaded, '3': beads
+beaded <> b: bead, f: pd, p: beaded
+beading <> b: bead, f: i, i: beading
+beadle <> s: beadles
+beadles <> b: beadle, f: s
+beads <> f: s3, b: bead
+beagle <> s: beagles, i: beagling
+beagles <> b: beagle, f: s
+beagling <> b: beagle, f: i
+beak <> s: beaks, i: beaking, p: beaked
+beaked <> b: beak, f: p, p: beaked
+beaker <> s: beakers
+beakers <> b: beaker, f: s
+beaking <> b: beak, f: i
+beaks <> b: beak, f: s
+Beale <> s: beales
+beam <> s: beams, p: beamed, i: beaming, d: beamed, '3': beams
+beam-end <> s: beam-ends
+beam-ends <> b: beam-end, f: s
+beamed <> b: beam, f: pd, p: beamed, d: beamed
+beamer <> s: beamers
+beamers <> b: beamer, f: s
+beamier <> b: beamy, f: r
+beaming <> b: beam, f: i, i: beaming
+beamish <> s: beamishes, t: beamishest
+beamishes <> b: beamish, f: s
+beamishest <> b: beamish, f: t
+beams <> b: beam, f: s3
+beamy <> r: beamier
+bean <> s: beans
+beanbag <> s: beanbags
+beanbags <> b: beanbag, f: s
+Beano <> s: beanos
+beanpole <> s: beanpoles
+beanpoles <> b: beanpole, f: s
+beans <> b: bean, f: s
+beanstalk <> s: beanstalks
+beanstalks <> b: beanstalk, f: s
+bear <> d: born, i: bearing, p: bore, '3': bears, s: bears
+bearcat <> s: bearcats
+bearcats <> b: bearcat, f: s
+beard <> s: beards, i: bearding, p: bearded, '3': beards, d: bearded
+bearded <> f: pd, b: beard
+bearding <> b: beard, f: i
+beards <> f: s3, b: beard
+bearer <> s: bearers
+bearers <> b: bearer, f: s
+bearing <> b: bear, f: i, s: bearings, i: bearing
+bears <> b: bear, f: 3s
+bearskin <> s: bearskins
+bearskins <> b: bearskin, f: s
+beast <> s: beasts
+beasting <> s: beastings
+beastings <> b: beasting, f: s
+beasts <> b: beast, f: s
+beat <> p: beat, b: beat, f: pd, d: beaten, i: beating, '3': beats, s: beats
+beaten <> b: beat, f: d, d: beaten
+beater <> s: beaters
+beaters <> b: beater, f: s
+beatification <> s: beatifications
+beatifications <> b: beatification, f: s
+beatified <> b: beatify, f: dp
+beatifies <> f: '3', b: beatify
+beatify <> d: beatified, p: beatified, i: beatifying, '3': beatifies
+beatifying <> f: i, b: beatify
+beating <> b: beat, f: i, s: beatings, i: beating
+beatitude <> s: beatitudes
+beatitudes <> b: beatitude, f: s
+beatnik <> s: beatniks
+beatniks <> b: beatnik, f: s
+beats <> b: beat, f: 3s
+beau <> s: beaus
+Beauchamp <> s: beauchamps
+beaus <> b: beau, f: s
+beaut <> s: beauts
+beautician <> s: beauticians
+beauticians <> b: beautician, f: s
+beauties <> b: beauty, f: s
+beautified <> b: beautify, f: pd
+beautifies <> f: '3', b: beautify
+beautify <> i: beautifying, p: beautified, d: beautified, '3': beautifies
+beautifying <> b: beautify, f: i, i: beautifying
+beauts <> b: beaut, f: s
+beauty <> s: beauties
+beaux <> s: beaux, b: beaux, f: s
+beaver <> s: beavers, i: beavering, p: beavered, d: beavered, '3': beavers
+Beaverbrook <> s: beaverbrooks
+beavered <> b: beaver, f: pd
+beavering <> b: beaver, f: i, i: beavering
+beavers <> b: beaver, f: s3
+becalm <> d: becalmed, '3': becalms, i: becalming, p: becalmed
+becalmed <> d: becalmed, b: becalmed, f: d
+becalms <> b: becalm, f: '3'
+became <> b: become, f: p
+beck <> s: becks
+becket <> s: beckets
+beckets <> b: becket, f: s
+beckon <> p: beckoned, i: beckoning, '3': beckons, d: beckoned
+beckoned <> b: beckon, f: pd, d: beckoned
+beckoning <> b: beckon, f: i, i: beckoning
+beckons <> b: beckon, f: '3'
+becks <> b: beck, f: s
+becloud <> '3': beclouds, d: beclouded, p: beclouded, i: beclouding
+beclouded <> b: becloud, f: dp
+beclouding <> f: i, b: becloud
+beclouds <> b: becloud, f: '3'
+become <> p: became, d: become, b: become, f: d, '3': becomes, i: becoming
+becomes <> b: become, f: '3'
+becoming <> b: become, f: i, i: becoming
+Becquerel <> s: becquerels
+bed <> s: beds, d: bedded, i: bedding, p: bedded, '3': beds
+bed-and-breakfast <> s: bed-and-breakfasts
+bed-and-breakfasts <> b: bed-and-breakfast, f: s
+bedaub <> i: bedaubing, p: bedaubed, '3': bedaubs, d: bedaubed
+bedaubed <> f: pd, b: bedaub
+bedaubing <> f: i, b: bedaub
+bedaubs <> f: '3', b: bedaub
+bedazzle <> p: bedazzled, i: bedazzling, '3': bedazzles, d: bedazzled
+bedazzled <> f: pd, b: bedazzle
+bedazzles <> f: '3', b: bedazzle
+bedazzling <> f: i, b: bedazzle
+bedbug <> s: bedbugs
+bedbugs <> b: bedbug, f: s
+bedchamber <> s: bedchambers
+bedchambers <> b: bedchamber, f: s
+bedclothes <> b: bedclothe, f: s
+bedcover <> s: bedcovers
+bedcovers <> b: bedcover, f: s
+bedded <> f: dp, b: bed, d: bedded
+bedder <> s: bedders
+bedders <> b: bedder, f: s
+bedding <> b: bed, f: i, i: bedding
+beddow <> '3': beddows, s: beddows
+beddows <> b: beddow, f: 3s
+beddy-bye <> s: beddy-byes
+beddy-byes <> b: beddy-bye, f: s
+bedeck <> d: bedecked, i: bedecking, p: bedecked, '3': bedecks
+bedecked <> f: dp, b: bedeck
+bedecking <> b: bedeck, f: i
+bedecks <> f: '3', b: bedeck
+bedevil <> d: bedevilled, '3': bedevils, p: bedevilled, i: bedevilling, s: bedevils
+bedevilled <> b: bedevil, f: dp
+bedevilling <> b: bedevil, f: i
+bedevils <> b: bedevil, f: 3s
+bedew <> i: bedewing, p: bedewed, '3': bedews, d: bedewed
+bedewed <> f: pd, b: bedew
+bedewing <> f: i, b: bedew
+bedews <> f: '3', b: bedew
+bedfellow <> s: bedfellows, '3': bedfellows
+bedfellows <> b: bedfellow, f: s3
+bedhead <> s: bedheads
+bedheads <> b: bedhead, f: s
+bedight <> i: bedighting, p: bedighted, '3': bedights, d: bedighted
+bedighted <> f: pd, b: bedight
+bedighting <> f: i, b: bedight
+bedights <> f: '3', b: bedight
+bedim <> i: bedimming, p: bedimmed, '3': bedims, d: bedimmed
+bedimmed <> f: pd, b: bedim
+bedimming <> f: i, b: bedim
+bedims <> f: '3', b: bedim
+bedizen <> p: bedizened, d: bedizened, i: bedizening, '3': bedizens
+bedizened <> b: bedizen, f: pd, p: bedizened
+bedizening <> f: i, b: bedizen
+bedizens <> f: '3', b: bedizen
+bedlinen <> s: bedlinens
+bedlinens <> b: bedlinen, f: s
+Bedouin <> s: bedouins
+bedpan <> s: bedpans
+bedpans <> b: bedpan, f: s
+bedpost <> s: bedposts
+bedposts <> b: bedpost, f: s
+bedraggle <> i: bedraggling, p: bedraggled, '3': bedraggles, d: bedraggled
+bedraggled <> f: pd, b: bedraggle
+bedrail <> s: bedrails
+bedrails <> b: bedrail, f: s
+bedrock <> d: bedrocked, s: bedrocks
+bedrocked <> b: bedrock, f: d
+bedrocks <> b: bedrock, f: s
+bedroll <> s: bedrolls
+bedrolls <> b: bedroll, f: s
+bedroom <> s: bedrooms
+bedrooms <> b: bedroom, f: s
+beds <> f: s3, b: bed
+bedsheet <> s: bedsheets
+bedsheets <> b: bedsheet, f: s
+bedside <> s: bedsides
+bedsides <> b: bedside, f: s
+bedsit <> s: bedsits, '3': bedsits, i: bedsitting
+bedsits <> b: bedsit, f: s3
+bedsitter <> s: bedsitters, '3': bedsitters
+bedsitters <> b: bedsitter, f: s3
+bedsitting <> b: bedsit, f: i
+bedsock <> s: bedsocks
+bedsocks <> b: bedsock, f: s
+bedsore <> s: bedsores
+bedsores <> b: bedsore, f: s
+bedspread <> s: bedspreads
+bedspreads <> b: bedspread, f: s
+bedspring <> s: bedsprings
+bedsprings <> b: bedspring, f: s
+bedstead <> s: bedsteads
+bedsteads <> b: bedstead, f: s
+bedtime <> s: bedtimes
+bedtimes <> b: bedtime, f: s
+bee <> s: bees
+bee-eater <> s: bee-eaters
+bee-eaters <> b: bee-eater, f: s
+bee-keeper <> s: bee-keepers
+bee-keepers <> b: bee-keeper, f: s
+bee-keeping <> i: bee-keeping, b: bee-keeping, f: i
+beech <> s: beeches
+beecher <> s: beechers
+beechers <> b: beecher, f: s
+beeches <> b: beech, f: s
+beechwood <> s: beechwoods
+beechwoods <> b: beechwood, f: s
+beef <> d: beefed, i: beefing, p: beefed, s: beefs, '3': beefs
+beefburger <> s: beefburgers
+beefburgers <> b: beefburger, f: s
+beefeater <> s: beefeaters
+beefed <> b: beef, f: dp
+beefier <> b: beefy, f: r
+beefing <> b: beef, f: i
+beefs <> f: s3, b: beef
+beefsteak <> s: beefsteaks
+beefsteaks <> b: beefsteak, f: s
+beefy <> r: beefier
+beehive <> s: beehives
+beehives <> b: beehive, f: s
+beekeeper <> s: beekeepers
+beekeepers <> b: beekeeper, f: s
+Beelzebub <> s: beelzebubs
+been <> f: d, b: be, s: beens
+beep <> s: beeps, i: beeping, p: beeped, '3': beeps, d: beeped
+beeped <> f: pd, b: beep
+beeping <> b: beep, f: i, i: beeping
+beeps <> b: beep, f: s3
+beer <> s: beers
+beerhouse <> s: beerhouses
+beerhouses <> b: beerhouse, f: s
+beerier <> b: beery, f: r
+beers <> b: beer, f: s
+beery <> r: beerier
+bees <> b: bee, f: s
+beeswax <> i: beeswaxing, p: beeswaxed, '3': beeswaxes, d: beeswaxed
+beeswaxed <> f: pd, b: beeswax
+beeswaxes <> f: '3', b: beeswax
+beeswaxing <> f: i, b: beeswax
+beet <> s: beets, i: beeting
+Beethoven <> d: beethoven, b: beethoven, f: d
+beeting <> b: beet, f: i
+beetle <> s: beetles, i: beetling, p: beetled, '3': beetles, d: beetled
+beetled <> f: pd, b: beetle
+beetles <> f: s3, b: beetle
+beetling <> b: beetle, f: i
+beetroot <> s: beetroots
+beetroots <> b: beetroot, f: s
+beets <> b: beet, f: s
+befall <> p: befell, d: befallen, '3': befalls, s: befalls, i: befalling
+befallen <> b: befall, f: d
+befalling <> b: befal, f: i
+befalls <> b: befall, f: 3s
+befell <> b: befall, f: p
+befit <> '3': befits, p: befitted, i: befitting, d: befitted
+befits <> b: befit, f: '3'
+befitted <> b: befit, f: pd
+befitting <> b: befit, f: i
+befog <> d: befogged, p: befogged, i: befogging, '3': befogs
+befogged <> b: befog, f: dp
+befogging <> f: i, b: befog
+befogs <> f: '3', b: befog
+befool <> i: befooling, p: befooled, '3': befools, d: befooled
+befooled <> f: pd, b: befool
+befooling <> f: i, b: befool
+befools <> f: '3', b: befool
+befoul <> p: befouled, i: befouling, '3': befouls, d: befouled
+befouled <> f: pd, b: befoul
+befouling <> f: i, b: befoul
+befouls <> f: '3', b: befoul
+befriend <> p: befriended, d: befriended, i: befriending, '3': befriends
+befriended <> b: befriend, f: pd
+befriending <> b: befriend, f: i, i: befriending
+befriends <> b: befriend, f: '3'
+befuddle <> p: befuddled, d: befuddled, i: befuddling, '3': befuddles
+befuddled <> p: befuddled, b: befuddled, f: p
+befuddles <> f: '3', b: befuddle
+befuddling <> f: i, b: befuddle
+beg <> i: begging, p: begged, '3': begs, d: begged
+began <> b: begin, f: p, s: begans
+beget <> '3': begets, i: begetting, s: begets, p: begot, d: begotten
+begets <> b: beget, f: 3s
+begetter <> s: begetters
+begetters <> b: begetter, f: s
+begetting <> b: beget, f: i
+beggar <> s: beggars, '3': beggars, i: beggaring, p: beggared, d: beggared
+beggared <> b: beggare, f: dp, p: beggared
+beggaring <> f: i, b: beggar
+beggars <> b: beggar, f: s3
+begged <> b: beg, f: pd
+begging <> b: beg, f: i, i: begging
+begin <> p: began, i: beginning, d: begun, '3': begins
+beginner <> s: beginners
+beginners <> b: beginner, f: s
+beginning <> b: begin, f: i, s: beginnings, i: beginning
+begins <> b: begin, f: '3'
+begonia <> s: begonias
+begonias <> b: begonia, f: s
+begot <> f: p, b: beget
+begotten <> d: begotten, b: begotten, f: d
+begrime <> d: begrimed, p: begrimed, i: begriming, '3': begrimes
+begrimed <> b: begrime, f: dp
+begrimes <> f: '3', b: begrime
+begriming <> f: i, b: begrime
+begrudge <> p: begrudged, '3': begrudges, i: begrudging, d: begrudged
+begrudged <> f: pd, b: begrudge, p: begrudged
+begrudges <> b: begrudge, f: '3'
+begrudging <> b: begrudge, f: i
+begs <> b: beg, f: '3'
+beguile <> d: beguiled, p: beguiled, i: beguiling, '3': beguiles
+beguiled <> b: beguile, f: dp
+beguilement <> s: beguilements
+beguilements <> b: beguilement, f: s
+beguiles <> f: '3', b: beguile
+beguiling <> i: beguiling, b: beguiling, f: i
+beguine <> s: beguines
+beguines <> b: beguine, f: s
+begun <> b: begin, f: d
+behave <> i: behaving, p: behaved, d: behaved, '3': behaves
+behaved <> b: behave, f: pd
+behaves <> b: behave, f: '3'
+behaving <> b: behave, f: i
+behavior <> s: behaviors
+behaviors <> b: behavior, f: s
+behaviour <> s: behaviours
+behaviouralist <> s: behaviouralists
+behaviouralists <> b: behaviouralist, f: s
+behaviourist <> s: behaviourists
+behaviourists <> b: behaviourist, f: s
+behaviours <> b: behaviour, f: s
+behead <> d: beheaded, i: beheading, p: beheaded, '3': beheads
+beheaded <> b: behead, f: dp, d: beheaded
+beheading <> b: behead, f: i, s: beheadings, i: beheading
+beheads <> f: '3', b: behead
+beheld <> p: beheld, b: beheld, f: pd, d: beheld
+behemoth <> s: behemoths
+behemoths <> b: behemoth, f: s
+behest <> s: behests
+behests <> b: behest, f: s
+behold <> i: beholding, '3': beholds, p: beheld, d: beheld
+beholder <> s: beholders
+beholders <> b: beholder, f: s
+beholding <> b: behold, f: i
+beholds <> b: behold, f: '3'
+behoove <> i: behooving, p: behooved, '3': behooves, d: behooved, s: behooves
+behove <> '3': behoves, p: behoved, d: behoved, i: behoving
+behoved <> b: behove, f: pd
+behoves <> b: behove, f: '3'
+behoving <> f: i, b: behove
+Behring <> r: behringer
+beige <> s: beiges
+beiges <> b: beige, f: s
+being <> f: i, b: be, s: beings
+bejewel <> i: bejewelling, p: bejewelled, '3': bejewels, d: bejewelled
+bejewelled <> f: pd, b: bejewel
+BEL <> s: bels
+belabour <> i: belabouring, p: belaboured, d: belaboured, '3': belabours
+belaboured <> b: belabour, f: pd
+belabouring <> b: belabour, f: i
+belabours <> f: '3', b: belabour
+belay <> s: belays, i: belaying, p: belayed, d: belayed, '3': belays
+belayed <> b: belay, f: pd
+belaying <> b: belay, f: i
+belays <> b: belay, f: s3
+belch <> p: belched, i: belching, '3': belches, d: belched, s: belches
+belched <> b: belch, f: pd
+belches <> b: belch, f: 3s
+belching <> b: belch, f: i, i: belching
+beleaguer <> d: beleaguered, i: beleaguering, p: beleaguered, '3': beleaguers
+beleaguered <> d: beleaguered, b: beleaguered, f: d
+beleaguering <> f: i, b: beleaguer
+beleaguers <> f: '3', b: beleaguer
+belemnite <> s: belemnites
+belemnites <> b: belemnite, f: s
+belfries <> b: belfry, f: s
+belfry <> s: belfries
+Belgae <> s: belgae, b: belgae, f: s
+Belgian <> s: belgians
+belgians <> b: belgian, f: s
+belie <> '3': belies, i: belying, p: belied, d: belied
+belied <> b: bely, f: pd
+belief <> s: beliefs
+beliefs <> b: belief, f: s
+belies <> b: belie, f: '3'
+believe <> p: believed, '3': believes, d: believed, i: believing
+believed <> b: believe, f: pd
+believer <> s: believers
+believers <> b: believer, f: s
+believes <> b: believe, f: '3'
+believing <> b: believe, f: i, i: believing
+belittle <> i: belittling, d: belittled, '3': belittles, p: belittled
+belittled <> b: belittle, f: dp
+belittles <> b: belittle, f: '3'
+belittling <> b: belittle, f: i, i: belittling
+bell <> s: bells, p: belled, i: belling, '3': bells, d: belled
+bell-bottom <> s: bell-bottoms
+bell-bottoms <> b: bell-bottom, f: s
+bell-ringer <> s: bell-ringers
+bell-ringers <> b: bell-ringer, f: s
+bellbird <> s: bellbirds
+bellbirds <> b: bellbird, f: s
+belle <> s: belles
+belled <> f: pd, b: bell
+belles <> b: belle, f: s
+bellflower <> s: bellflowers
+bellflowers <> b: bellflower, f: s
+bellhop <> s: bellhops
+bellhops <> b: bellhop, f: s
+belli <> '3': bellis, s: bellis, b: belli, f: s
+bellied <> b: belly, f: pd, p: bellied
+bellies <> f: s3, b: belly
+belligerent <> s: belligerents
+belligerents <> b: belligerent, f: s
+belling <> f: i, b: bell, r: bellinger
+Bellini <> s: bellini, b: bellini, f: s
+Bellis <> b: belli, f: 3s
+bellow <> p: bellowed, i: bellowing, '3': bellows, d: bellowed
+bellowed <> b: bellow, f: pd, p: bellowed
+bellowing <> b: bellow, f: i, i: bellowing, s: bellowings
+bellows <> b: bellow, f: '3'
+bells <> f: s3, b: bell
+belly <> s: bellies, p: bellied, i: bellying, d: bellied, '3': bellies
+belly-laugh <> s: belly-laughs
+belly-laughs <> b: belly-laugh, f: s
+bellyache <> i: belly-aching, p: bellyached, '3': bellyaches', d: belly-ached
+bellyful <> s: bellyfuls
+bellyfuls <> b: bellyful, f: s
+bellying <> b: belly, f: i
+belong <> i: belonging, p: belonged, '3': belongs, d: belonged
+belonged <> b: belong, f: pd
+belonging <> b: belong, f: i, i: belonging
+belongings <> s: belongings, b: belongings, f: s
+belongs <> b: belong, f: '3'
+beloved <> s: beloveds
+beloveds <> b: beloved, f: s
+belt <> s: belts, p: belted, i: belting, d: belted, '3': belts
+Beltane <> s: beltanes
+belted <> b: belt, f: pd, p: belted
+belter <> s: belters
+belters <> b: belter, f: s
+belting <> b: belt, f: i, s: beltings
+belts <> b: belt, f: s3
+beluga <> s: belugas
+belugas <> b: beluga, f: s
+belvedere <> s: belvederes
+belvederes <> b: belvedere, f: s
+bely <> p: belied, i: belying, d: belied
+belying <> b: bely, f: i
+bem <> s: bems
+bemire <> i: bemiring, p: bemired, '3': bemires, d: bemired
+bemired <> f: pd, b: bemire
+bemires <> f: '3', b: bemire
+bemiring <> f: i, b: bemire
+bemoan <> i: bemoaning, p: bemoaned, '3': bemoans, d: bemoaned
+bemoaned <> b: bemoan, f: pd
+bemoaning <> b: bemoan, f: i
+bemoans <> b: bemoan, f: '3'
+bems <> b: bem, f: s
+bemuse <> p: bemused, i: bemusing, '3': bemuses, d: bemused
+bemused <> p: bemused, b: bemused, f: p
+bemuses <> f: '3', b: bemuse
+bemusing <> b: bemuse, f: i
+bench <> s: benches, p: benched, i: benching, '3': benches, d: benched
+benched <> f: pd, b: bench
+bencher <> s: benchers
+benchers <> b: bencher, f: s
+benches <> f: s3, b: bench
+benching <> i: benching, b: benching, f: i
+benchmark <> s: benchmarks, i: benchmarking, p: benchmarked, d: benchmarked
+benchmarked <> b: benchmark, f: pd
+benchmarking <> b: benchmark, f: i, i: benchmarking
+benchmarks <> b: benchmark, f: s
+bend <> p: bent, i: bending, d: bent, s: bends, '3': bends
+bended <> d: bended, b: bended, f: d
+bender <> s: benders
+benders <> b: bender, f: s
+bendiest <> b: bendy, f: t
+bending <> b: bend, f: i, i: bending
+bends <> b: bend, f: s3
+bendy <> t: bendiest
+Benedictine <> s: benedictines
+benediction <> s: benedictions
+benedictions <> b: benediction, f: s
+benefaction <> s: benefactions
+benefactions <> b: benefaction, f: s
+benefactor <> s: benefactors
+benefactors <> b: benefactor, f: s
+benefice <> s: benefices, d: beneficed, p: beneficed, '3': benefices, i: beneficing
+beneficed <> b: benefice, f: dp, p: beneficed
+benefices <> b: benefice, f: s3
+beneficiaries <> b: beneficiary, f: s
+beneficiary <> s: beneficiaries
+beneficing <> f: i, b: benefice
+benefit <> s: benefits, d: benefited, '3': benefits, p: benefited, i: benefiting
+benefited <> b: benefit, f: dp
+benefiting <> b: benefit, f: i, i: benefiting
+benefits <> b: benefit, f: s3
+BENETTON <> s: benettons
+benevolence <> s: benevolences
+benevolences <> b: benevolence, f: s
+beni <> s: beni, b: beni, f: s
+benison <> s: benisons
+benisons <> b: benison, f: s
+bennies <> b: benny, f: s
+benny <> s: bennies
+bent <> b: bend, f: pd, d: bent, p: bent, s: bents
+benthamite <> s: benthamites
+benthamites <> b: benthamite, f: s
+benthos <> b: bentho, f: s
+bentonite <> s: bentonites
+bentonites <> b: bentonite, f: s
+benumb <> p: benumbed, '3': benumbs, d: benumbed, i: benumbing
+benumbed <> b: benumb, f: pd
+benumbing <> b: benumb, f: i
+benumbs <> b: benumb, f: '3'
+benzodiazepine <> s: benzodiazepines, '3': benzodiazepines
+benzodiazepines <> b: benzodiazepine, f: s3
+bequeath <> p: bequeathed, d: bequeathed, '3': bequeaths, i: bequeathing
+bequeathed <> b: bequeath, f: pd
+bequeather <> s: bequeathers
+bequeathers <> b: bequeather, f: s
+bequeathing <> b: bequethe, f: i
+bequeaths <> b: bequeath, f: '3'
+bequest <> s: bequests, p: bequested
+bequested <> b: bequest, f: p
+bequests <> b: bequest, f: s
+berate <> p: berated, i: berating, d: berated, '3': berates
+berated <> b: berate, f: pd
+berates <> b: berate, f: '3'
+berating <> b: berate, f: i
+Berber <> s: berbers
+bereave <> d: bereaved, '3': bereaves, i: bereaving, p: bereaved
+bereaved <> d: bereaved, b: bereaved, f: d
+bereavement <> s: bereavements
+bereavements <> b: bereavement, f: s
+bereaves <> b: bereave, f: '3'
+bereaving <> f: i, b: bereave
+Berenice <> '3': berenices
+beret <> s: berets
+berets <> b: beret, f: s
+berg <> s: bergs
+bergen <> s: bergens
+bergenia <> s: bergenias
+bergens <> b: bergen, f: s
+Berghaus <> b: berghau, f: s
+bergs <> b: berg, f: s
+bergschrund <> s: bergschrunds
+bergschrunds <> b: bergschrund, f: s
+Bering <> b: ber, f: i
+berk <> s: berks
+Berks <> b: berk, f: s
+Berliner <> s: berliners
+Berlusconi <> s: berlusconi, b: berlusconi, f: s
+berm <> s: berms
+Berman <> s: bermans
+berms <> b: berm, f: s
+Bermuda <> s: bermudas
+Bermudian <> s: bermudians
+Berne <> t: bernest
+berner <> s: berners
+berners <> b: berner, f: s
+Bernhard <> s: bernhards
+Bernstein <> s: bernsteins
+Berri <> s: berri, b: berri, f: s
+berried <> f: pd, b: berry
+berries <> b: berry, f: s3
+berry <> s: berries, '3': berries, p: berried, i: berrying, d: berried
+berrying <> f: i, b: berry
+berserker <> s: berserkers
+berserkers <> b: berserker, f: s
+berth <> s: berths, p: berthed, d: berthed, i: berthing, '3': berths
+berthed <> b: berth, f: pd
+berthing <> b: berth, f: i, i: berthing
+berths <> f: s3, b: berth
+berwick <> s: berwicks
+berwicks <> b: berwick, f: s
+beseech <> i: beseeching, p: beseeched, '3': beseeches, d: beseeched
+beseeched <> b: beseech, f: pd
+beseeches <> b: beseech, f: '3'
+beseeching <> b: beseech, f: i
+beset <> d: beset, b: beset, f: dp, p: beset, '3': besets, i: besetting
+besets <> b: beset, f: '3'
+besetting <> b: beset, f: i
+besiege <> d: besieged, p: besieged, i: besieging, '3': besieges
+besieged <> b: besiege, f: dp, d: besieged, p: besieged
+besieger <> s: besiegers, '3': besiegers
+besiegers <> b: besieger, f: s3
+besieges <> b: besiege, f: '3'
+besieging <> b: besiege, f: i, s: besiegings, i: besieging
+besmear <> i: besmearing, p: besmeared, '3': besmears, d: besmeared
+besmeared <> f: pd, b: besmear
+besmearing <> f: i, b: besmear
+besmears <> f: '3', b: besmear
+besmirch <> d: besmirched, p: besmirched, i: besmirching, '3': besmirches, s: besmirches
+besmirched <> b: besmirch, f: dp
+besmirches <> b: besmirch, f: 3s
+besmirching <> b: besmirch, f: i
+besom <> s: besoms, '3': besoms
+besoms <> b: besom, f: s3
+besot <> d: besotted, p: besotted, i: besotting, '3': besots
+besotted <> p: besotted, b: besotted, f: p
+besought <> b: beseech, f: pd
+bespangle <> i: bespangling, p: bespangled, '3': bespangles, d: bespangled
+bespangled <> f: pd, b: bespangle
+bespangles <> f: '3', b: bespangle
+bespangling <> f: i, b: bespangle
+bespatter <> p: bespattered, d: bespattered, i: bespattering, '3': bespatters
+bespattered <> b: bespatter, f: pd
+bespattering <> b: bespatter, f: i
+bespatters <> f: '3', b: bespatter
+bespeak <> '3': bespeaks, i: bespeaking, s: bespeaks, p: bespoke, d: bespoken
+bespeaking <> b: bespeak, f: i
+bespeaks <> b: bespeak, f: 3s
+bespoke <> f: p, b: bespeak
+bespoken <> f: d, b: bespeak
+besprinkle <> i: besprinkling, p: besprinkled, '3': besprinkles, d: besprinkled
+besprinkled <> f: pd, b: besprinkle
+besprinkles <> f: '3', b: besprinkle
+besprinkling <> f: i, b: besprinkle
+best <> b: good, f: t, r: best, '3': bests, d: bested, i: besting, p: bested
+best-seller <> s: best-sellers
+best-sellers <> b: best-seller, f: s
+bested <> f: dp, b: best
+bestialize <> i: bestializing, p: bestialized, '3': bestializes, d: bestialized
+bestialized <> f: pd, b: bestialize
+bestializes <> f: '3', b: bestialize
+bestializing <> f: i, b: bestialize
+bestiaries <> b: bestiary, f: s
+bestiary <> s: bestiaries
+besting <> f: i, b: best
+bestir <> p: bestirred, i: bestirring, d: bestirred, '3': bestirs
+bestirred <> b: bestir, f: pd
+bestirring <> b: bestir, f: i
+bestirs <> f: '3', b: bestir
+bestow <> d: bestowed, p: bestowed, i: bestowing, '3': bestows
+bestowed <> b: bestow, f: dp
+bestowing <> b: bestow, f: i, i: bestowing
+bestows <> b: bestow, f: '3'
+bestrew <> i: bestrewing, p: bestrewed, '3': bestrews, d: bestrewn
+bestrewed <> f: p, b: bestrew
+bestrewing <> f: i, b: bestrew
+bestrewn <> f: d, b: bestrew
+bestrews <> f: '3', b: bestrew
+bestride <> '3': bestrides, i: bestriding, p: bestrode, d: bestrode
+bestrode <> f: pd, b: bestride
+bests <> b: best, f: '3'
+bestseller <> s: bestsellers
+bestsellers <> b: bestseller, f: s
+besuited <> p: besuited, b: besuited, f: p
+bet <> s: bets, i: betting, p: bet, b: bet, f: pd, '3': bets, d: bet
+beta <> s: betas
+beta-blocker <> s: beta-blockers
+beta-blockers <> b: beta-blocker, f: s
+betake <> d: betaken
+betaken <> b: betake, f: d
+betas <> b: beta, f: s
+betel <> s: betels
+betels <> b: betel, f: s
+bethink <> i: bethinking, p: bethought, '3': bethinks, d: bethought
+bethinking <> f: i, b: bethink
+bethinks <> f: '3', b: bethink
+bethought <> p: bethought, b: bethought, f: pd, d: bethought
+betide <> s: betides, i: betiding, p: betided, '3': betides, d: betided
+betided <> f: pd, b: betide
+betides <> f: s3, b: betide
+betiding <> f: i, b: betide
+betimes <> b: betime, f: s
+betoken <> '3': betokens, i: betokening, p: betokened, d: betokened
+betokened <> f: pd, b: betoken
+betokening <> b: betoken, f: i
+betokens <> b: betoken, f: '3'
+betook <> p: betook, b: betook, f: p
+betray <> d: betrayed, p: betrayed, i: betraying, '3': betrays
+betrayal <> s: betrayals
+betrayals <> b: betrayal, f: s
+betrayed <> b: betray, f: dp, d: betrayed, p: betrayed
+betrayer <> s: betrayers
+betrayers <> b: betrayer, f: s
+betraying <> b: betray, f: i, i: betraying
+betrays <> b: betray, f: '3'
+betroth <> d: betrothed, p: betrothed, i: betrothing, '3': betroths
+betrothal <> s: betrothals
+betrothals <> b: betrothal, f: s
+betrothed <> b: betroth, f: dp, d: betrothed, p: betrothed
+betrothing <> f: i, b: betroth
+betroths <> f: '3', b: betroth
+bets <> b: bet, f: s3
+better <> b: good, f: r, d: bettered, s: betters, i: bettering, p: bettered, '3': betters
+bettered <> b: better, f: dp
+bettering <> b: better, f: i
+betters <> b: better, f: s3
+betting <> b: bet, f: i, i: betting, s: bettings
+bevel <> s: bevels, p: bevelled, d: bevelled, i: bevelling, '3': bevels
+bevelled <> b: bevel, f: pd, p: bevelled
+bevelling <> b: bevel, f: i, i: bevelling
+bevels <> b: bevel, f: s
+beverage <> s: beverages
+beverages <> b: beverage, f: s
+bevies <> b: bevy, f: s
+Bevin <> s: bevins
+bevvies <> b: bevvy, f: s
+bevvy <> s: bevvies
+bevy <> s: bevies
+bewail <> i: bewailing, p: bewailed, '3': bewails, d: bewailed
+bewailed <> f: pd, b: bewail
+bewailing <> b: bewail, f: i
+bewails <> b: bewail, f: '3'
+beware <> i: bewaring, p: bewared, '3': bewares, d: bewared
+bewared <> f: pd, b: beware
+bewares <> f: '3', b: beware
+bewaring <> f: i, b: beware
+bewigged <> b: bewig, f: pd
+bewilder <> d: bewildered, p: bewildered, '3': bewilders, i: bewildering, s: bewilders
+bewildered <> d: bewildered, b: bewildered, f: dp, p: bewildered
+bewildering <> i: bewildering, b: bewildering, f: i
+bewilderment <> s: bewilderments
+bewilderments <> b: bewilderment, f: s
+bewilders <> b: bewilder, f: 3s
+bewitch <> d: bewitched, i: bewitching, p: bewitched, '3': bewitches
+bewitched <> b: bewitch, f: dp, p: bewitched, d: bewitched
+bewitches <> b: bewitch, f: '3'
+bewitching <> b: bewitch, f: i, i: bewitching
+bewitchment <> s: bewitchments
+bewitchments <> b: bewitchment, f: s
+bey <> s: beys
+beys <> b: bey, f: s
+bezel <> s: bezels
+bezels <> b: bezel, f: s
+bhaji <> s: bhaji, b: bhaji, f: s
+bhakti <> s: bhakti, b: bhakti, f: s
+BI <> s: bi, b: bi, f: s
+biafran <> s: biafrans
+biafrans <> b: biafran, f: s
+Bianchi <> s: bianchi, b: bianchi, f: s
+Bianco <> s: biancos
+bias <> d: biased, p: biased, i: biassing, '3': biases
+biased <> b: bias, f: dp, d: biased
+biases <> b: biase, f: s3
+biasing <> b: biase, f: i
+biassing <> f: i, b: bias
+biathlon <> s: biathlons
+biathlons <> b: biathlon, f: s
+bib <> s: bibs, i: bibbing, p: bibbed
+bibbed <> b: bib, f: p
+bibbing <> b: bib, f: i
+bibelot <> s: bibelots
+bibelots <> b: bibelot, f: s
+bible <> s: bibles
+bibles <> b: bible, f: s
+bibliographer <> s: bibliographers
+bibliographers <> b: bibliographer, f: s
+bibliographies <> b: bibliography, f: s
+bibliography <> s: bibliographies
+bibliometrics <> b: bibliometric, f: s
+bibliophile <> s: bibliophiles
+bibliophiles <> b: bibliophile, f: s
+bibs <> b: bib, f: s
+bicarbonate <> s: bicarbonates
+bicarbonates <> b: bicarbonate, f: s
+bicentenaries <> b: bicentenary, f: s
+bicentenary <> s: bicentenaries
+bicep <> s: biceps, '3': biceps
+biceps <> b: bicep, f: s3
+bichir <> s: bichirs
+bichirs <> b: bichir, f: s
+bicker <> i: bickering, '3': bickers, p: bickered, d: bickered
+bickered <> f: pd, b: bicker
+bickering <> b: bicker, f: i, i: bickering, s: bickerings
+bickers <> b: bicker, f: '3'
+bickies <> b: bicky, f: s
+bicky <> s: bickies
+bicolour <> d: bicoloured
+bicoloured <> b: bicolour, f: d
+bicycle <> s: bicycles, p: bicycled, i: bicycling, d: bicycled, '3': bicycles
+bicycled <> b: bicycle, f: pd
+bicycles <> f: s3, b: bicycle
+bicycling <> b: bicycle, f: i, i: bicycling
+bicyclist <> s: bicyclists
+bicyclists <> b: bicyclist, f: s
+bid <> s: bids, d: bid, b: bid, f: dp, i: bidding, p: bade, '3': bids
+bidden <> b: bid, f: d
+bidder <> s: bidders
+bidders <> b: bidder, f: s
+biddies <> b: biddy, f: s
+bidding <> b: bid, f: i, i: bidding
+biddy <> s: biddies
+bide <> i: biding, p: bided, '3': bides, d: bided
+bided <> b: bide, f: pd
+bides <> b: bide, f: '3'
+bidet <> s: bidets
+bidets <> b: bidet, f: s
+bidi <> s: bidis
+biding <> b: bide, f: i
+bidis <> b: bidi, f: s
+bids <> b: bid, f: s3
+bien <> s: biens
+biennial <> s: biennials
+biennials <> b: biennial, f: s
+biens <> b: bien, f: s
+biff <> i: biffing, '3': biffs, p: biffed, s: biffs, d: biffed
+biffed <> f: pd, b: biff
+biffing <> b: biff, f: i
+biffs <> b: biff, f: 3s
+bifocal <> s: bifocals
+bifocals <> b: bifocal, f: s
+bifurcate <> '3': bifurcates, p: bifurcated, d: bifurcated, i: bifurcating
+bifurcated <> p: bifurcated, b: bifurcated, f: p
+bifurcates <> b: bifurcate, f: '3'
+bifurcating <> f: i, b: bifurcate
+bifurcation <> s: bifurcations
+bifurcations <> b: bifurcation, f: s
+big <> t: biggest, r: bigger
+big-head <> s: big-heads
+big-heads <> b: big-head, f: s
+bigg <> s: biggs, '3': biggs
+bigger <> b: big, f: r
+biggest <> b: big, f: t
+Biggs <> b: bigg, f: s3
+bighead <> d: bigheaded
+bigheaded <> b: bighead, f: d
+bight <> s: bights, i: bighting, p: bighted, '3': bights, d: bighted
+bighted <> f: pd, b: bight
+bighting <> f: i, b: bight
+bights <> f: s3, b: bight
+bigot <> s: bigots, '3': bigots
+bigotries <> b: bigotry, f: s
+bigotry <> s: bigotries
+bigots <> b: bigot, f: s3
+biguanide <> s: biguanides
+biguanides <> b: biguanide, f: s
+bigwig <> s: bigwigs, '3': bigwigs
+bigwigs <> b: bigwig, f: s3
+bike <> s: bikes, i: biking, p: biked, '3': bikes, d: biked
+biked <> f: pd, b: bike
+biker <> s: bikers
+bikers <> b: biker, f: s
+bikes <> f: s3, b: bike
+biking <> b: bike, f: i, i: biking
+bikini <> s: bikinis
+bikinis <> b: bikini, f: s
+bikkies <> b: bikky, f: s
+bikky <> s: bikkies
+bilateral <> s: bilaterals
+bilaterals <> b: bilateral, f: s
+bilayer <> s: bilayers
+bilayers <> b: bilayer, f: s
+bilberries <> b: bilberry, f: s
+bilberry <> s: bilberries, i: bilberrying
+bilberrying <> b: bilberry, f: i
+bildungsroman <> s: bildungsromans
+bildungsromans <> b: bildungsroman, f: s
+bile <> s: biles
+biles <> b: bile, f: s
+bilge <> s: bilges, '3': bilges, i: bilging, p: bilged, d: bilged
+bilged <> f: pd, b: bilge
+bilges <> b: bilge, f: s3
+bilging <> f: i, b: bilge
+bilingual <> s: bilinguals
+bilinguals <> b: bilingual, f: s
+bilk <> i: bilking, p: bilked, '3': bilks, d: bilked
+bilked <> f: pd, b: bilk
+bilking <> b: bilk, f: i
+bilks <> f: '3', b: bilk
+bill <> s: bills, d: billed, i: billing, p: billed, '3': bills
+billabong <> s: billabongs
+billabongs <> b: billabong, f: s
+billboard <> s: billboards
+billboards <> b: billboard, f: s
+billed <> f: dp, b: bill, d: billed
+billet <> s: billets, d: billetted, p: billetted, i: billeting, '3': billets
+billeted <> b: billete, f: dp
+billeting <> f: i, b: billet
+billets <> f: s3, b: billet
+billetted <> b: billet, f: dp
+billhook <> s: billhooks
+billhooks <> b: billhook, f: s
+billiard <> s: billiards
+billiards <> b: billiard, f: s
+billing <> s: billings, i: billing, b: billing, f: i
+Billington <> s: billingtons
+billionaire <> s: billionaires
+billionaires <> b: billionaire, f: s
+billionth <> s: billionths
+billionths <> b: billionth, f: s
+billow <> i: billowing, p: billowed, s: billows, '3': billows, d: billowed
+billowed <> b: billow, f: pd
+billowing <> b: billow, f: i, i: billowing, s: billowings
+billows <> b: billow, f: s3
+bills <> f: s3, b: bill
+billy-goat <> s: billy-goats
+billy-goats <> b: billy-goat, f: s
+bimbette <> s: bimbettes
+bimbettes <> b: bimbette, f: s
+bimbo <> s: bimbos
+bimbos <> b: bimbo, f: s
+bin <> s: bins, p: binned, d: binned, i: binning, '3': bins
+binaries <> b: binary, f: s
+binary <> s: binaries
+bind <> d: bound, i: binding, p: bound, '3': binds
+binder <> s: binders
+binders <> b: binder, f: s
+binding <> b: bind, f: i, i: binding, s: bindings
+binds <> b: bind, f: '3'
+bindweed <> s: bindweeds
+bindweeds <> b: bindweed, f: s
+bine <> s: bines
+bines <> b: bine, f: s
+bing <> s: bings, i: binging, '3': bings, b: bing, f: i
+binge <> s: binges, i: bingeing, p: binged, '3': binges, d: binged
+binged <> b: binge, f: p
+bingeing <> b: binge, f: i, i: bingeing
+binges <> b: binge, f: s3
+binging <> b: bing, f: i
+bings <> b: bing, f: s3
+binman <> s: binmen
+binmen <> b: binman, f: s
+binned <> b: bin, f: pd
+binning <> b: bin, f: i, i: binning
+binocs <> b: binoc, f: s
+binoculars <> s: binoculars, b: binoculars, f: s
+binomial <> s: binomials
+binomials <> b: binomial, f: s
+bins <> f: s3, b: bin
+bint <> s: bints
+bints <> b: bint, f: s
+bio <> s: bios
+bioassay <> s: bioassays, i: bioassaying, p: bioassayed, '3': bioassays, d: bioassayed
+bioassayed <> f: pd, b: bioassay
+bioassaying <> f: i, b: bioassay
+bioassays <> f: s3, b: bioassay
+biochemical <> s: biochemicals
+biochemicals <> b: biochemical, f: s
+biochemist <> s: biochemists
+biochemistries <> b: biochemistry, f: s
+biochemistry <> s: biochemistries
+biochemists <> b: biochemist, f: s
+biocide <> s: biocides
+biocides <> b: biocide, f: s
+bioclast <> s: bioclasts
+bioclasts <> b: bioclast, f: s
+biodegrade <> i: biodegrading, p: biodegraded, '3': biodegrades, d: biodegraded
+biodegrading <> b: biodegrade, f: i
+bioenergetic <> s: bioenergetics
+bioenergetics <> b: bioenergetic, f: s
+bioengineer <> i: bioengineering, p: bioengineered
+bioengineered <> b: bioengineer, f: p
+bioengineering <> b: bioengineer, f: i
+bioethics <> b: bioethic, f: s
+biofuel <> s: biofuels
+biofuels <> b: biofuel, f: s
+biog <> '3': biogs, s: biogs
+biogas <> b: bioga, f: s
+biogeographer <> s: biogeographers
+biogeographers <> b: biogeographer, f: s
+biographee <> s: biographees
+biographees <> b: biographee, f: s
+biographer <> s: biographers
+biographers <> b: biographer, f: s
+biographies <> b: biography, f: s
+biography <> s: biographies
+biogs <> b: biog, f: 3s
+biolistics <> b: biolistic, f: s
+biologic <> s: biologics
+biological <> s: biologicals
+biologicals <> b: biological, f: s
+biologics <> b: biologic, f: s
+biologist <> s: biologists
+biologists <> b: biologist, f: s
+biomarker <> s: biomarkers
+biomarkers <> b: biomarker, f: s
+biomaterial <> s: biomaterials
+biomaterials <> b: biomaterial, f: s
+biome <> s: biomes
+biomes <> b: biome, f: s
+biometric <> s: biometrics
+biometrician <> s: biometricians
+biometricians <> b: biometrician, f: s
+biometrics <> b: biometric, f: s
+biomolecule <> s: biomolecules
+biomolecules <> b: biomolecule, f: s
+biomorph <> s: biomorphs
+biomorphs <> b: biomorph, f: s
+biophysics <> b: biophysic, f: s
+biopic <> s: biopics
+biopics <> b: biopic, f: s
+biopolymer <> s: biopolymers
+biopolymers <> b: biopolymer, f: s
+biopsied <> b: biopsy, f: dp
+biopsies <> b: biopsy, f: s
+biopsy <> s: biopsies, d: biopsied, p: biopsied
+bioreactor <> s: bioreactors
+bioreactors <> b: bioreactor, f: s
+biorhythm <> s: biorhythms
+biorhythms <> b: biorhythm, f: s
+BIOS <> b: bio, f: s
+bioscience <> s: biosciences
+biosciences <> b: bioscience, f: s
+biosensor <> s: biosensors
+biosensors <> b: biosensor, f: s
+biota <> s: biota, b: biota, f: s
+biotechnologies <> b: biotechnology, f: s
+biotechnologist <> s: biotechnologists
+biotechnologists <> b: biotechnologist, f: s
+biotechnology <> s: biotechnologies
+biotope <> s: biotopes
+biotopes <> b: biotope, f: s
+biotransformation <> s: biotransformations
+biotransformations <> b: biotransformation, f: s
+bioturbate <> p: bioturbated, d: bioturbated
+bioturbated <> b: bioturbate, f: pd
+biotype <> s: biotypes
+biotypes <> b: biotype, f: s
+biped <> s: bipeds, p: biped, b: biped, f: p
+bipedal <> s: bipedals
+bipedals <> b: bipedal, f: s
+bipeds <> b: biped, f: s
+biphenyl <> s: biphenyls
+biphenyls <> b: biphenyl, f: s
+biplane <> s: biplanes
+biplanes <> b: biplane, f: s
+bipolar <> s: bipolars
+bipolars <> b: bipolar, f: s
+bir <> s: birs
+birch <> s: birches, d: birched, i: birching, p: birched, '3': birches
+birched <> f: dp, b: birch
+Bircher <> s: birchers
+birches <> f: s3, b: birch
+birching <> b: birch, f: i, i: birching
+bird <> s: birds, i: birding, p: birded, '3': birds, d: birded
+bird-watcher <> s: bird-watchers
+bird-watchers <> b: bird-watcher, f: s
+birdbath <> s: birdbaths
+birdbaths <> b: birdbath, f: s
+birdcage <> s: birdcages
+birdcages <> b: birdcage, f: s
+birder <> s: birders
+birders <> b: birder, f: s
+birdie <> i: birdying, p: birdied, '3': birdies, d: birdied, s: birdies
+birdied <> b: birdy, f: pd
+birdies <> b: birdy, f: s
+birdlime <> i: birdliming, p: birdlimed, '3': birdlimes, d: birdlimed
+birdlimed <> f: pd, b: birdlime
+birdlimes <> f: '3', b: birdlime
+birdliming <> f: i, b: birdlime
+birds <> b: bird, f: s
+birdsong <> s: birdsongs
+birdsongs <> b: birdsong, f: s
+birdwatch <> i: birdwatching
+birdwatcher <> s: birdwatchers
+birdwatchers <> b: birdwatcher, f: s
+birdwatching <> b: birdwatch, f: i, i: birdwatching
+birdy <> s: birdies, p: birdied, d: birdied
+biriani <> s: biriani, b: biriani, f: s
+Birk <> s: birks, '3': birks
+birl <> i: birling, p: birled, '3': birls, d: birled
+birled <> f: pd, b: birl
+birling <> f: i, b: birl
+birls <> f: '3', b: birl
+biro <> s: biros
+birr <> i: birring, p: birred, '3': birrs, d: birred
+birred <> f: pd, b: birr
+birring <> f: i, b: birr
+birrs <> f: '3', b: birr
+birs <> b: bir, f: s
+birth <> s: births, i: birthing, p: birthed, '3': births, d: birthed
+birthdate <> s: birthdates
+birthdates <> b: birthdate, f: s
+birthday <> s: birthdays
+birthdays <> b: birthday, f: s
+birthed <> f: pd, b: birth
+birthing <> f: i, b: birth
+birthmark <> s: birthmarks
+birthmarks <> b: birthmark, f: s
+birthplace <> s: birthplaces
+birthplaces <> b: birthplace, f: s
+birthrate <> s: birthrates
+birthrates <> b: birthrate, f: s
+birthright <> s: birthrights
+birthrights <> b: birthright, f: s
+births <> f: s3, b: birth
+birthstone <> s: birthstones
+birthstones <> b: birthstone, f: s
+biryani <> s: biryani, b: biryani, f: s
+biscuit <> s: biscuits
+biscuits <> b: biscuit, f: s
+bisect <> '3': bisects, d: bisected, i: bisecting, p: bisected
+bisected <> b: bisect, f: dp, p: bisected
+bisecting <> b: bisect, f: i
+bisects <> b: bisect, f: '3'
+bisexual <> s: bisexuals
+bisexuals <> b: bisexual, f: s
+bishop <> s: bishops
+bishopric <> s: bishoprics
+bishoprics <> b: bishopric, f: s
+Bishops <> b: bishop, f: s
+bison <> s: bisons
+bisons <> b: bison, f: s
+bisphosphonate <> s: bisphosphonates
+bisphosphonates <> b: bisphosphonate, f: s
+bisque <> s: bisques
+bisques <> b: bisque, f: s
+bistable <> s: bistables
+bistables <> b: bistable, f: s
+bistro <> s: bistros
+bistros <> b: bistro, f: s
+bit <> s: bits, b: bite, f: pd
+bitch <> s: bitches, i: bitching, '3': bitches, p: bitched, d: bitched
+bitched <> f: pd, b: bitch
+bitches <> b: bitch, f: s3
+bitchiest <> b: bitchy, f: t
+bitching <> b: bitch, f: i, s: bitchings
+bitchy <> t: bitchiest
+bite <> p: bit, i: biting, s: bites, '3': bites, d: bit
+biter <> s: biters
+biters <> b: biter, f: s
+biting <> b: bite, f: i, i: biting, s: bitings
+bitings <> b: biting, f: s
+bitmap <> s: bitmaps, d: bitmapped, p: bitmapped
+bitmapped <> b: bitmap, f: dp, p: bitmapped
+bitmaps <> b: bitmap, f: s
+bits <> b: bit, f: s
+bitten <> d: bitten, b: bitten, f: d
+bitter <> s: bitters, i: bittering, p: bittered, '3': bitters, d: bittered
+bittered <> f: pd, b: bitter
+bittering <> f: i, b: bitter
+bittern <> s: bitterns
+bitterness <> s: bitternesses
+bitternesses <> b: bitterness, f: s
+bitterns <> b: bittern, f: s
+bitters <> f: s3, b: bitter
+bittier <> b: bitty, f: r
+bitties <> b: bitty, f: s
+bitty <> s: bitties, r: bittier
+bitumen <> s: bitumens
+bitumens <> b: bitumen, f: s
+bituminize <> i: bituminizing, p: bituminized, '3': bituminizes, d: bituminized
+bituminized <> f: pd, b: bituminize
+bituminizes <> f: '3', b: bituminize
+bituminizing <> f: i, b: bituminize
+bivalent <> s: bivalents
+bivalents <> b: bivalent, f: s
+bivalve <> s: bivalves, p: bivalved
+bivalved <> b: bivalve, f: p
+bivalves <> b: bivalve, f: s
+bivouac <> s: bivouacs, '3': bivouacs, i: bivouacking, p: bivouacked, d: bivouacked
+bivouacked <> b: bivouack, f: dp
+bivouacking <> b: bivouack, f: i
+bivouacs <> b: bivouac, f: s3
+bivvy <> i: bivvying
+bivvying <> b: bivvy, f: i
+bizzies <> b: bizzy, f: s
+bizzy <> s: bizzies
+bla <> s: blas
+blab <> p: blabbed, i: blabbing, '3': blabs, d: blabbed
+blabbed <> f: pd, b: blab
+blabber <> i: blabbering, p: blabbered, '3': blabbers, d: blabbered
+blabbered <> f: pd, b: blabber
+blabbering <> f: i, b: blabber
+blabbers <> f: '3', b: blabber
+blabbing <> b: blab, f: i, i: blabbing
+blabs <> f: '3', b: blab
+black <> s: blacks, p: blacked, r: blacker, t: blackest, d: blacked, i: blacking, '3': blacks
+black market <> s: black markets
+black marketeer <> s: black marketeers
+blackball <> i: blackballing, p: blackballed, '3': blackballs, d: blackballed
+blackballed <> b: blackbal, f: dp
+blackballing <> f: i, b: blackball
+blackballs <> f: '3', b: blackball
+blackberries <> b: blackberry, f: s
+blackberry <> s: blackberries, i: blackberrying
+blackberrying <> b: blackberry, f: i
+blackbird <> s: blackbirds
+blackbirds <> b: blackbird, f: s
+blackboard <> s: blackboards
+blackboards <> b: blackboard, f: s
+blackcap <> s: blackcaps, '3': blackcaps
+blackcaps <> b: blackcap, f: s3
+blackcock <> s: blackcocks
+blackcocks <> b: blackcock, f: s
+blackcurrant <> s: blackcurrants
+blackcurrants <> b: blackcurrant, f: s
+blacked <> b: black, f: pd
+blacken <> d: blackened, i: blackening, p: blackened, '3': blackens
+blackened <> p: blackened, b: blackened, f: pd, d: blackened
+blackening <> b: blacken, f: i
+blackens <> b: blacken, f: '3'
+blacker <> b: black, f: r
+blackest <> b: black, f: t
+blackflies <> b: blackfly, f: s
+blackfly <> s: blackflies
+blackguard <> s: blackguards, i: blackguarding, p: blackguarded, '3': blackguards, d: blackguarded
+blackguarded <> f: pd, b: blackguard
+blackguarding <> b: blackguard, f: i
+blackguards <> f: s3, b: blackguard
+blackhead <> s: blackheads
+blackheads <> b: blackhead, f: s
+blacking <> b: black, f: i, i: blacking
+blackjack <> s: blackjacks, i: blackjacking, p: blackjacked, '3': blackjacks, d: blackjacked
+blackjacked <> f: pd, b: blackjack
+blackjacking <> f: i, b: blackjack
+blackjacks <> f: s3, b: blackjack
+blacklead <> i: blackleading
+blackleading <> b: blacklead, f: i
+blackleg <> s: blacklegs, '3': blacklegs, i: blacklegging, p: blacklegged, d: blacklegged
+blacklegged <> f: pd, b: blackleg
+blacklegging <> b: blackleg, f: i
+blacklegs <> b: blackleg, f: s3
+blacklist <> d: blacklisted, p: blacklisted, s: blacklists, i: blacklisting, '3': blacklists
+blacklisted <> b: blacklist, f: dp, d: blacklisted
+blacklisting <> b: blacklist, f: i
+blacklists <> f: s3, b: blacklist
+blackmail <> i: blackmailing, d: blackmailed, p: blackmailed, '3': blackmails
+blackmailed <> b: blackmail, f: dp
+blackmailer <> s: blackmailers
+blackmailers <> b: blackmailer, f: s
+blackmailing <> b: blackmail, f: i
+blackmails <> b: blackmail, f: '3'
+Blackman <> s: blackmen
+blackout <> s: blackouts
+blackouts <> b: blackout, f: s
+blacks <> b: black, f: s
+blackshirt <> s: blackshirts
+blackshirts <> b: blackshirt, f: s
+blacksmith <> s: blacksmiths
+blacksmiths <> b: blacksmith, f: s
+blackspot <> s: blackspots
+blackspots <> b: blackspot, f: s
+Blackstone <> s: blackstones
+bladder <> s: bladders, p: bladdered
+bladdered <> b: bladder, f: p
+bladders <> b: bladder, f: s
+blade <> s: blades, p: bladed
+bladed <> b: blade, f: p, p: bladed
+blades <> b: blade, f: s
+blag <> d: blagged, p: blagged, '3': blags, s: blags
+blagged <> b: blag, f: dp
+blagger <> s: blaggers
+blaggers <> b: blagger, f: s
+blags <> b: blag, f: 3s
+blame <> d: blamed, p: blamed, i: blaming, '3': blames
+blamed <> b: blame, f: dp
+blames <> b: blame, f: '3'
+blaming <> b: blame, f: i, i: blaming
+blanc <> s: blancs
+blanch <> p: blanched, i: blanching, d: blanched, '3': blanches, s: blanches
+blanched <> b: blanch, f: pd, p: blanched, d: blanched
+blanches <> b: blanch, f: 3s
+blanching <> b: blanch, f: i
+blancmange <> s: blancmanges
+blancmanges <> b: blancmange, f: s
+blancs <> b: blanc, f: s
+bland <> r: blander, t: blandest, i: blanding
+blander <> b: bland, f: r
+blandest <> b: bland, f: t
+blanding <> b: bland, f: i
+blandish <> i: blandishing, p: blandished, '3': blandishes, d: blandished
+blandished <> f: pd, b: blandish
+blandishes <> f: '3', b: blandish
+blandishing <> b: blandish, f: i
+blandishments <> s: blandishments, b: blandishments, f: s
+Blaney <> s: blaneys
+blank <> s: blanks, p: blanked, d: blanked, i: blanking, r: blanker, '3': blanks
+blanked <> b: blank, f: pd, d: blanked
+blanker <> b: blank, f: r
+blanket <> s: blankets, d: blanketed, p: blanketed, i: blanketing, '3': blankets
+blanketed <> b: blanket, f: dp, p: blanketed
+blanketing <> b: blankete, f: i, i: blanketing
+blankets <> f: s3, b: blanket
+blanking <> b: blank, f: i
+blanks <> f: s3, b: blank
+blare <> i: blaring, p: blared, '3': blares, d: blared, s: blares
+blared <> b: blare, f: pd
+blares <> b: blare, f: 3s
+blaring <> b: blare, f: i, s: blarings
+blarney <> i: blarneying, p: blarneyed, '3': blarneys, d: blarneyed
+blarneyed <> f: pd, b: blarney
+blarneying <> f: i, b: blarney
+blarneys <> f: '3', b: blarney
+blas <> b: bla, f: s
+blaspheme <> i: blaspheming, p: blasphemed, d: blasphemed, s: blasphemes, '3': blasphemes
+blasphemed <> b: blaspheme, f: pd
+blasphemer <> s: blasphemers
+blasphemers <> b: blasphemer, f: s
+blasphemes <> f: s3, b: blaspheme
+blasphemies <> b: blasphemy, f: s
+blaspheming <> b: blaspheme, f: i, i: blaspheming
+blasphemy <> s: blasphemies
+blast <> p: blasted, i: blasting, d: blasted, s: blasts, '3': blasts
+blasted <> b: blast, f: pd, p: blasted, d: blasted
+blaster <> s: blasters
+blasters <> b: blaster, f: s
+blasting <> b: blast, f: i, i: blasting, s: blastings
+blastocyst <> s: blastocysts
+blastocysts <> b: blastocyst, f: s
+blastomere <> s: blastomeres
+blastomeres <> b: blastomere, f: s
+blasts <> b: blast, f: s3
+blat <> i: blatting, p: blatted, '3': blats, d: blatted
+blather <> i: blathering, p: blathered, '3': blathers, d: blathered
+blathered <> f: pd, b: blather
+blathering <> b: blather, f: i, s: blatherings, i: blathering
+blathers <> f: '3', b: blather
+blats <> f: '3', b: blat
+blatted <> f: pd, b: blat
+blatting <> b: blat, f: i
+blaze <> i: blazing, p: blazed, s: blazes, d: blazed, '3': blazes
+blazed <> b: blaze, f: pd
+blazer <> s: blazers, p: blazered
+blazered <> b: blazer, f: p
+blazers <> b: blazer, f: s
+blazes <> b: blaze, f: s3
+blazing <> b: blaze, f: i, i: blazing
+blazon <> d: blazoned, p: blazoned, '3': blazons, s: blazons, i: blazoning
+blazoned <> b: blazon, f: dp
+blazoning <> b: blazon, f: i
+blazons <> b: blazon, f: 3s
+bleach <> d: bleached, i: bleaching, s: bleaches, '3': bleaches, p: bleached
+bleached <> b: bleach, f: dp, d: bleached
+bleacher <> s: bleachers
+bleachers <> b: bleacher, f: s
+bleaches <> b: bleach, f: s3
+bleaching <> b: bleach, f: i, i: bleaching
+bleak <> r: bleaker, t: bleakest
+bleaker <> b: bleak, f: r
+bleakest <> b: bleak, f: t
+blear <> d: bleared, b: blear, i: blearing, f: '3', p: bleared, '3': blear
+bleared <> d: bleared, b: bleared, f: d
+blearing <> f: i, b: blear
+bleat <> p: bleated, i: bleating, s: bleats, '3': bleats, d: bleated
+bleated <> f: pd, b: bleat
+bleating <> b: bleat, f: i, s: bleatings, i: bleating
+bleats <> b: bleat, f: s3
+bleb <> i: blebbing, s: blebs
+blebbing <> b: bleb, f: i
+blebs <> b: bleb, f: s
+bled <> b: bleed, f: dp
+bleed <> i: bleeding, '3': bleeds, d: bled, p: bled
+bleeder <> s: bleeders
+bleeders <> b: bleeder, f: s
+bleeding <> i: bleeding, b: bleeding, f: i, s: bleedings
+bleeds <> b: bleed, f: '3'
+bleep <> s: bleeps, i: bleeping, '3': bleeps, p: bleeped, d: bleeped
+bleeped <> b: bleep, f: pd
+bleeper <> s: bleepers
+bleepers <> b: bleeper, f: s
+bleeping <> b: bleep, f: i
+bleeps <> b: bleep, f: s3
+blemish <> s: blemishes, p: blemished, d: blemished, i: blemishing, '3': blemishes
+blemished <> b: blemish, f: pd
+blemishes <> f: s3, b: blemish
+blemishing <> b: blemish, f: i
+blench <> p: blenched, i: blenching, '3': blenches, d: blenched
+blenched <> f: pd, b: blench
+blenches <> f: '3', b: blench
+blenching <> b: blench, f: i
+blend <> i: blending, d: blended, '3': blends, s: blends, p: blended
+blended <> b: blend, f: dp, d: blended, p: blended
+blender <> s: blenders
+blenders <> b: blender, f: s
+blending <> b: blend, f: i, i: blending
+blends <> b: blend, f: 3s
+blennies <> b: blenny, f: s
+blenny <> s: blennies
+bless <> d: blessed, p: blessed, i: blessing, '3': blesses
+blessed <> b: bless, f: dp, d: blessed, p: blessed
+blesses <> b: bless, f: '3'
+blessing <> b: bless, f: i, s: blessings, i: blessing
+blest <> d: blest, b: blest, f: dp, p: blest
+blether <> '3': blethers, i: blethering, p: blethered, d: blethered
+blethered <> f: pd, b: blether
+blethering <> b: blether, f: i
+blethers <> b: blether, f: '3'
+blew <> b: blow, f: p
+blight <> d: blighted, p: blighted, i: blighting, s: blights, '3': blights
+blighted <> b: blight, f: dp, p: blighted, d: blighted
+blighter <> s: blighters
+blighters <> b: blighter, f: s
+blighting <> b: blight, f: i
+blights <> b: blight, f: s3
+blimp <> s: blimps
+blimps <> b: blimp, f: s
+blind <> s: blinds, d: blinded, p: blinded, r: blinder, i: blinding, '3': blinds
+blinded <> b: blind, f: dp, p: blinded, d: blinded
+blinder <> b: blind, f: r
+blindfold <> p: blindfolded, d: blindfolded, s: blindfolds, i: blindfolding, '3': blindfolds
+blindfolded <> b: blindfold, f: pd, p: blindfolded
+blindfolding <> b: blindfold, f: i
+blindfolds <> b: blindfold, f: s3
+blinding <> b: blind, f: i, i: blinding, s: blindings
+blindness <> s: blindnesses
+blindnesses <> b: blindness, f: s
+blinds <> b: blind, f: s3
+blink <> p: blinked, i: blinking, '3': blinks, s: blinks, d: blinked
+blinked <> b: blink, f: pd
+blinker <> d: blinkered, p: blinkered, i: blinkering
+blinkered <> p: blinkered, b: blinkered, f: pd, d: blinkered
+blinkering <> b: blinker, f: i
+blinkers <> s: blinkers, b: blinkers, f: s
+blinking <> b: blink, f: i, i: blinking
+blinks <> b: blink, f: 3s
+blip <> s: blips, '3': blips, p: blipped
+blipped <> b: blip, f: p, p: blipped
+blips <> b: blip, f: s3
+bliss <> i: blissing, d: blissed, p: blissed, s: blisses
+blissed <> b: bliss, f: dp, d: blissed
+blisses <> b: bliss, f: s
+blissing <> b: bliss, f: i
+blister <> s: blisters, p: blistered, d: blistered, i: blistering, '3': blisters
+blistered <> b: blister, f: pd, p: blistered
+blistering <> b: blister, f: i
+blisters <> b: blister, f: s3
+blither <> i: blithering, p: blithered, '3': blithers, d: blithered
+blithering <> s: blitherings
+blitz <> s: blitzes, i: blitzing, p: blitzed, '3': blitzes, d: blitzed
+blitze <> p: blitzed, d: blitzed, i: blitzing, s: blitzes, '3': blitzes
+blitzed <> b: blitze, f: pd, p: blitzed
+blitzes <> f: s3, b: blitz
+blitzing <> b: blitze, f: i
+blitzkrieg <> s: blitzkriegs
+blizzard <> s: blizzards, i: blizzarding, p: blizzarded
+blizzarded <> b: blizzard, f: p
+blizzarding <> b: blizzard, f: i
+blizzards <> b: blizzard, f: s
+bloat <> i: bloating, p: bloated, '3': bloats, d: bloated
+bloated <> f: pd, b: bloat
+bloater <> '3': bloaters
+bloaters <> b: bloater, f: '3'
+bloating <> b: bloat, f: i, i: bloating
+bloats <> f: '3', b: bloat
+blob <> s: blobs, d: blobbed, p: blobbed, i: blobbing, '3': blobs
+blobbed <> b: blob, f: dp
+blobbing <> f: i, b: blob
+blobs <> f: s3, b: blob
+bloc <> s: blocs
+block <> s: blocks, d: blocked, i: blocking, p: blocked, '3': blocks
+blockade <> s: blockades, d: blockaded, i: blockading, p: blockaded, '3': blockades
+blockaded <> b: blockade, f: dp, p: blockaded
+blockades <> b: blockade, f: s3
+blockading <> b: blockade, f: i, i: blockading
+blockage <> s: blockages
+blockages <> b: blockage, f: s
+blockbuster <> s: blockbusters
+blockbusters <> b: blockbuster, f: s
+blocked <> b: block, f: dp, d: blocked, p: blocked
+blocker <> s: blockers
+blockers <> b: blocker, f: s
+blockhead <> s: blockheads
+blockheads <> b: blockhead, f: s
+blockhouse <> s: blockhouses
+blockhouses <> b: blockhouse, f: s
+blockier <> b: blocky, f: r
+blocking <> b: block, f: i, i: blocking
+blocks <> b: block, f: s3
+blocky <> r: blockier
+blocs <> b: bloc, f: s
+blog <> i: blogging, p: blogged, '3': blogs, d: blogged, s: blogs
+bloke <> s: blokes
+blokes <> b: bloke, f: s
+blond <> r: blonder, s: blonds, d: blonded, p: blonded
+blonde <> s: blondes
+blonded <> b: blond, f: dp
+blonder <> b: blond, f: r
+blondes <> b: blonde, f: s
+blonds <> b: blond, f: s
+blood <> s: bloods, d: blooded, i: blooding, p: blooded, '3': bloods
+blooded <> f: dp, b: blood, p: blooded
+bloodfin <> s: bloodfins
+bloodfins <> b: bloodfin, f: s
+bloodhound <> s: bloodhounds
+bloodhounds <> b: bloodhound, f: s
+bloodied <> f: dp, b: bloody, d: bloodied
+bloodiest <> b: bloody, f: t
+blooding <> f: i, b: blood
+bloodletting <> i: bloodletting, b: bloodletting, f: i
+bloodline <> s: bloodlines
+bloodlines <> b: bloodline, f: s
+bloodlust <> i: bloodlusting
+bloodlusting <> b: bloodlust, f: i
+bloods <> f: s3, b: blood
+bloodstain <> s: bloodstains
+bloodstains <> b: bloodstain, f: s
+bloodstone <> s: bloodstones
+bloodstones <> b: bloodstone, f: s
+bloodstream <> s: bloodstreams
+bloodstreams <> b: bloodstream, f: s
+bloodsucker <> s: bloodsuckers
+bloodsuckers <> b: bloodsucker, f: s
+bloodsucking <> b: bloodsuck, f: i
+bloodworm <> s: bloodworms
+bloodworms <> b: bloodworm, f: s
+bloody <> t: bloodiest, d: bloodied, i: bloodying, p: bloodied, '3': bloodies
+bloom <> s: blooms, p: bloomed, i: blooming, d: bloomed, '3': blooms
+bloomed <> b: bloom, f: pd
+bloomer <> s: bloomers
+bloomers <> b: bloomer, f: s
+blooming <> b: bloom, f: i, i: blooming
+blooms <> b: bloom, f: s3
+bloop <> s: bloops
+bloops <> b: bloop, f: s
+blossom <> s: blossoms, p: blossomed, d: blossomed, '3': blossoms, i: blossoming
+blossomed <> b: blossom, f: pd
+blossoming <> i: blossoming, b: blossoming, f: i
+blossoms <> b: blossom, f: s3
+blot <> p: blotted, s: blots, i: blotting, d: blotted, '3': blots
+blotch <> s: blotches, d: blotched, p: blotched, i: blotching, '3': blotches
+blotched <> b: blotch, f: dp, d: blotched
+blotches <> f: s3, b: blotch
+blotching <> f: i, b: blotch
+blots <> b: blot, f: s3
+blotted <> b: blot, f: pd, p: blotted
+blotter <> s: blotters
+blotters <> b: blotter, f: s
+blotting <> b: blot, f: i, i: blotting, s: blottings
+blouse <> s: blouses, p: bloused, i: blousing
+bloused <> b: blouse, f: p
+blouses <> b: blouse, f: s
+blousing <> b: blouse, f: i
+blouson <> s: blousons
+blousons <> b: blouson, f: s
+blow <> p: blew, d: blown, i: blowing, s: blows, '3': blows
+blow-dries <> b: blow-dry, f: '3'
+blow-dry <> '3': blow-dries, s: blow-drys, i: blow-drying, p: blow-dried, d: blow-dried
+blow-drys <> b: blow-dry, f: s
+blow-lamp <> s: blow-lamps
+blow-lamps <> b: blow-lamp, f: s
+blow-up <> s: blow-ups
+blow-ups <> b: blow-up, f: s
+blower <> s: blowers
+blowers <> b: blower, f: s
+blowflies <> b: blowfly, f: s
+blowfly <> s: blowflies
+blowhole <> s: blowholes
+blowholes <> b: blowhole, f: s
+blowing <> b: blow, f: i, i: blowing
+blowjob <> s: blowjobs
+blowjobs <> b: blowjob, f: s
+blowlamp <> s: blowlamps
+blowlamps <> b: blowlamp, f: s
+blown <> b: blow, f: d, d: blown, p: blown
+blowout <> s: blowouts
+blowouts <> b: blowout, f: s
+blowpipe <> s: blowpipes
+blowpipes <> b: blowpipe, f: s
+blows <> b: blow, f: s3
+BLU <> r: bluer, t: bluest
+blub <> i: blubbing, p: blubbed, '3': blubs, s: blubs, d: blubbed
+blubbed <> f: pd, b: blub
+blubber <> i: blubbering, p: blubbered, d: blubbered, '3': blubbers
+blubbered <> b: blubber, f: pd
+blubbering <> b: blubber, f: i, i: blubbering
+blubbers <> f: '3', b: blubber
+blubbing <> b: blub, f: i
+blubs <> b: blub, f: 3s
+bludgeon <> d: bludgeoned, p: bludgeoned, i: bludgeoning, s: bludgeons, '3': bludgeons
+bludgeoned <> b: bludgeon, f: dp
+bludgeoning <> b: bludgeon, f: i, i: bludgeoning
+bludgeons <> f: s3, b: bludgeon
+blue <> s: blues, i: bluing, p: blued, '3': blues, d: blued
+blue-black <> s: blue-blacks
+blue-blacks <> b: blue-black, f: s
+blue-chip <> s: blue-chips
+blue-chips <> b: blue-chip, f: s
+blue-pencil <> i: blue-pencilling, p: blue-pencilled, '3': blue-pencils, d: blue-pencilled
+bluebell <> s: bluebells
+bluebells <> b: bluebell, f: s
+blueberries <> b: blueberry, f: s
+blueberry <> s: blueberries
+bluebird <> s: bluebirds
+bluebirds <> b: bluebird, f: s
+bluebottle <> s: bluebottles, '3': bluebottles
+bluebottles <> b: bluebottle, f: s3
+bluecoat <> s: bluecoats
+bluecoats <> b: bluecoat, f: s
+blued <> f: pd, b: blue
+blueprint <> s: blueprints, p: blueprinted, i: blueprinting, '3': blueprints, d: blueprinted
+blueprinted <> f: pd, b: blueprint
+blueprinting <> f: i, b: blueprint
+blueprints <> f: s3, b: blueprint
+bluer <> b: blu, f: r
+blues <> f: s3, b: blue
+bluesman <> s: bluesmen
+bluesmen <> b: bluesman, f: s
+bluest <> b: blu, f: t
+bluestocking <> s: bluestockings
+bluestockings <> b: bluestocking, f: s
+bluestone <> s: bluestones
+bluestones <> b: bluestone, f: s
+bluethroat <> s: bluethroats
+bluethroats <> b: bluethroat, f: s
+bluetit <> s: bluetits
+bluetits <> b: bluetit, f: s
+bluey <> r: blueyer
+blueyer <> b: bluey, f: r
+bluff <> i: bluffing, s: bluffs, p: bluffed, r: bluffer, d: bluffed, '3': bluffs
+bluffed <> b: bluff, f: pd
+bluffer <> b: bluff, f: r, s: bluffers
+bluffing <> b: bluff, f: i, i: bluffing
+bluffs <> b: bluff, f: s3
+bluing <> f: i, b: blue
+blunder <> s: blunders, i: blundering, p: blundered, d: blundered, '3': blunders
+blunderbuss <> s: blunderbusses
+blunderbusses <> b: blunderbuss, f: s
+blundered <> b: blunder, f: pd
+blundering <> b: blunder, f: i, i: blundering, s: blunderings
+blunders <> b: blunder, f: s3
+blunt <> r: blunter, d: blunted, '3': blunts, i: blunting, p: blunted, t: bluntest
+blunted <> b: blunt, f: dp, d: blunted, p: blunted
+blunter <> b: blunt, f: r
+bluntest <> b: blunt, f: t
+blunting <> b: blunt, f: i
+blunts <> b: blunt, f: '3'
+blur <> d: blurred, p: blurred, i: blurring, '3': blurs, s: blurs
+blurb <> s: blurbs, i: blurbing, p: blurbed
+blurbed <> b: blurb, f: p
+blurbing <> b: blurb, f: i
+blurbs <> b: blurb, f: s
+blurred <> b: blur, f: dp, d: blurred, p: blurred
+blurriest <> b: blurry, f: t
+blurring <> b: blur, f: i, i: blurring, s: blurrings
+blurry <> t: blurriest
+blurs <> b: blur, f: 3s
+blurt <> p: blurted, i: blurting, d: blurted, '3': blurts
+blurted <> b: blurt, f: pd
+blurting <> b: blurt, f: i
+blurts <> b: blurt, f: '3'
+blush <> p: blushed, i: blushing, s: blushes, d: blushed, '3': blushes
+blushed <> b: blush, f: pd
+blusher <> s: blushers
+blushers <> b: blusher, f: s
+blushes <> b: blush, f: s3
+blushing <> b: blush, f: i, i: blushing
+bluster <> p: blustered, i: blustering, s: blusters, '3': blusters, d: blustered
+blustered <> f: pd, b: bluster
+blusterer <> s: blusterers
+blusterers <> b: blusterer, f: s
+blustering <> b: bluster, f: i, i: blustering
+blusters <> f: s3, b: bluster
+Blyth <> i: blything
+bn <> s: bns
+bns <> b: bn, f: s
+bo <> s: bos, i: boing
+boa <> s: boas
+boar <> s: boars
+board <> s: boards, p: boarded, d: boarded, i: boarding, '3': boards
+boarded <> b: board, f: pd, d: boarded, p: boarded
+boarder <> s: boarders
+boarders <> b: boarder, f: s
+boarding <> b: board, f: i, i: boarding, s: boardings
+boarding-house <> s: boarding-houses
+boarding-houses <> b: boarding-house, f: s
+boarding-school <> s: boarding-schools
+boarding-schools <> b: boarding-school, f: s
+boardroom <> s: boardrooms
+boardrooms <> b: boardroom, f: s
+boards <> f: s3, b: board
+boardwalk <> s: boardwalks
+boardwalks <> b: boardwalk, f: s
+boars <> b: boar, f: s
+Boas <> b: boa, f: s
+boast <> '3': boasts, p: boasted, i: boasting, d: boasted, s: boasts
+boasted <> b: boast, f: pd
+boasting <> b: boast, f: i, i: boasting
+boasts <> b: boast, f: 3s
+boat <> s: boats, i: boating, p: boated, '3': boats, d: boated
+boatbuilder <> s: boatbuilders, '3': boatbuilders
+boatbuilders <> b: boatbuilder, f: s3
+boatbuilding <> b: boatbuild, f: i
+boated <> f: pd, b: boat
+boater <> s: boaters, p: boatered
+boatered <> b: boater, f: p
+boaters <> b: boater, f: s
+boathouse <> s: boathouses
+boathouses <> b: boathouse, f: s
+boating <> b: boat, f: i, i: boating
+boatload <> s: boatloads
+boatloads <> b: boatload, f: s
+boatman <> s: boatmen
+boatmen <> b: boatman, f: s
+boats <> f: s3, b: boat
+boatswain <> s: boatswains
+boatswains <> b: boatswain, f: s
+boatyard <> s: boatyards
+boatyards <> b: boatyard, f: s
+bob <> i: bobbing, p: bobbed, s: bobs, '3': bobs, d: bobbed
+bobbed <> b: bob, f: pd, d: bobbed, p: bobbed
+bobbies <> b: bobby, f: s
+bobbin <> s: bobbins
+bobbing <> b: bob, f: i, s: bobbings, i: bobbing
+bobbins <> b: bobbin, f: s
+bobble <> s: bobbles, p: bobbled, i: bobbling, '3': bobbles, d: bobbled
+bobbled <> b: bobble, f: pd
+bobbles <> b: bobble, f: s3
+bobbling <> b: bobble, f: i
+bobby <> s: bobbies
+bobcat <> s: bobcats
+bobcats <> b: bobcat, f: s
+bobs <> b: bob, f: s3
+bobsled <> p: bobsled, b: bobsled, f: p, s: bobsleds
+bobsleigh <> i: bobsleighing
+bobsleighing <> b: bobsleigh, f: i
+bobtail <> s: bobtails
+bobtails <> b: bobtail, f: s
+boca <> s: bocas
+bocas <> b: boca, f: s
+bock <> i: bocking
+bocking <> b: bock, f: i
+BOD <> s: bods, '3': bods
+Boddy <> s: boddys
+bode <> '3': bodes, p: boded, s: bodes, i: boding, d: boded
+boded <> f: pd, b: bode
+bodega <> s: bodegas
+bodegas <> b: bodega, f: s
+bodes <> b: bode, f: 3s
+bodge <> i: bodging, d: bodged, p: bodged, '3': bodges
+bodged <> b: bodge, f: dp
+bodger <> s: bodgers
+bodgers <> b: bodger, f: s
+bodges <> f: '3', b: bodge
+bodging <> b: bodge, f: i
+bodice <> s: bodices, p: bodiced
+bodiced <> b: bodice, f: p
+bodices <> b: bodice, f: s
+bodied <> d: bodied, b: bodied, f: d
+bodies <> f: s3, b: body
+boding <> b: bode, f: i
+bodkin <> s: bodkins
+bodkins <> b: bodkin, f: s
+bods <> b: bod, f: s3
+body <> s: bodies, i: bodying, p: bodied, '3': bodies, d: bodied
+bodybuilder <> s: bodybuilders
+bodybuilders <> b: bodybuilder, f: s
+bodyguard <> s: bodyguards, i: bodyguarding
+bodyguarding <> b: bodyguard, f: i
+bodyguards <> b: bodyguard, f: s
+bodying <> f: i, b: body
+bodyshell <> s: bodyshells
+bodyshells <> b: bodyshell, f: s
+bodysuit <> s: bodysuits
+bodysuits <> b: bodysuit, f: s
+bodysurf <> p: bodysurfed
+bodysurfed <> b: bodysurf, f: p
+boe <> i: boeing, s: boes
+boeing <> b: boe, f: i
+Boer <> s: boers
+boff <> s: boffs, i: boffing, p: boffed
+boffed <> b: boff, f: p
+boffin <> s: boffins
+boffing <> b: boff, f: i
+boffins <> b: boffin, f: s
+boffs <> b: boff, f: s
+bog <> s: bogs, d: bogged, i: bogging, p: bogged, '3': bogs
+bogey <> s: bogeys, p: bogeyed, i: bogeying
+bogeyed <> b: bogey, f: p
+bogeying <> b: bogey, f: i
+bogeyman <> s: bogeymen
+bogeymen <> b: bogeyman, f: s
+bogeys <> b: bogey, f: s
+boggart <> s: boggarts
+boggarts <> b: boggart, f: s
+bogged <> b: bog, f: dp
+bogging <> b: bog, f: i
+boggle <> '3': boggles, i: boggling, p: boggled, d: boggled
+boggled <> b: boggle, f: pd
+boggles <> b: boggle, f: '3'
+boggling <> b: boggle, f: i, i: boggling
+bogies <> b: bogy, f: s
+bogle <> s: bogles
+bogles <> b: bogle, f: s
+bogs <> b: bog, f: s
+bogy <> s: bogies, i: bogying
+bogying <> b: bogy, f: i
+bogyman <> s: bogymen
+bogymen <> b: bogyman, f: s
+bohemian <> s: bohemians
+bohemians <> b: bohemian, f: s
+boil <> i: boiling, d: boiled, '3': boils, p: boiled, s: boils
+boiled <> b: boil, f: dp, d: boiled, p: boiled, s: boileds
+boiler <> s: boilers, p: boilered
+boilered <> b: boiler, f: p
+boilermaker <> s: boilermakers
+boilermakers <> b: boilermaker, f: s
+boilerplate <> i: boilerplating
+boilerplating <> b: boilerplate, f: i
+boilers <> b: boiler, f: s
+boiling <> b: boil, f: i, i: boiling
+boils <> b: boil, f: 3s
+boing <> b: bo, f: i, s: boings
+boke <> s: bokes
+bokes <> b: boke, f: s
+bola <> s: bolas
+bolas <> b: bola, f: s
+bold <> r: bolder, t: boldest
+bolder <> b: bold, f: r
+boldest <> b: bold, f: t
+boldface <> d: boldfaced
+boldfaced <> b: boldface, f: d
+bole <> s: boles
+bolero <> s: boleros
+boleros <> b: bolero, f: s
+boles <> b: bole, f: s
+bolide <> s: bolides, '3': bolides
+bolides <> b: bolide, f: s3
+bolivian <> s: bolivians
+boliviano <> s: bolivianos
+bolivianos <> b: boliviano, f: s
+boll <> s: bolls
+bollard <> s: bollards
+bollards <> b: bollard, f: s
+bollock <> s: bollocks, d: bollocked, i: bollocking, p: bollocked
+bollocked <> b: bollock, f: dp
+bollocking <> b: bollock, f: i, i: bollocking, s: bollockings
+bollocks <> b: bollock, f: s
+bolls <> b: boll, f: s
+bollworm <> s: bollworms
+bollworms <> b: bollworm, f: s
+Bolshevik <> s: bolsheviks
+bolsheviks <> b: bolshevik, f: s
+Bolshevist <> s: bolshevists
+bolster <> d: bolstered, i: bolstering, '3': bolsters, p: bolstered, s: bolsters
+bolstered <> b: bolster, f: dp, p: bolstered
+bolstering <> b: bolster, f: i, i: bolstering
+bolsters <> b: bolster, f: 3s
+bolt <> s: bolts, d: bolted, p: bolted, i: bolting, '3': bolts
+bolt-hole <> s: bolt-holes
+bolt-holes <> b: bolt-hole, f: s
+bolt-on <> s: bolt-ons
+bolt-ons <> b: bolt-on, f: s
+bolted <> b: bolt, f: dp, d: bolted, p: bolted
+bolter <> s: bolters
+bolters <> b: bolter, f: s
+bolthole <> s: boltholes
+boltholes <> b: bolthole, f: s
+bolting <> b: bolt, f: i, i: bolting
+bolts <> b: bolt, f: s3
+bom <> s: boms
+bomb <> s: bombs, d: bombed, i: bombing, p: bombed, '3': bombs
+bombard <> d: bombarded, p: bombarded, i: bombarding, s: bombards, '3': bombards
+bombarded <> b: bombard, f: dp, p: bombarded
+bombarding <> b: bombard, f: i
+bombardment <> s: bombardments
+bombardments <> b: bombardment, f: s
+bombards <> f: s3, b: bombard
+bombe <> s: bombes
+bombed <> b: bomb, f: dp, d: bombed, p: bombed
+bombed-out <> s: bombed-outs
+bombed-outs <> b: bombed-out, f: s
+bomber <> s: bombers
+bombers <> b: bomber, f: s
+bombes <> b: bombe, f: s
+bombinate <> i: bombinating, p: bombinated, '3': bombinates, d: bombinated
+bombing <> b: bomb, f: i, s: bombings, i: bombing
+bomblet <> s: bomblets
+bomblets <> b: bomblet, f: s
+bombs <> b: bomb, f: s3
+bombshell <> s: bombshells
+bombshells <> b: bombshell, f: s
+boms <> b: bom, f: s
+bon <> p: boned, s: bons, d: boned, i: boning
+bonanza <> s: bonanzas
+bonanzas <> b: bonanza, f: s
+bonbon <> s: bonbons
+bonbons <> b: bonbon, f: s
+bonce <> s: bonces
+bonces <> b: bonce, f: s
+bond <> s: bonds, d: bonded, p: bonded, '3': bonds, i: bonding
+bondager <> s: bondagers
+bondagers <> b: bondager, f: s
+bonded <> b: bond, f: dp, p: bonded
+bondholder <> s: bondholders
+bondholders <> b: bondholder, f: s
+bonding <> b: bond, f: i, i: bonding
+bonds <> b: bond, f: s3
+bondsman <> s: bondsmen
+bondsmen <> b: bondsman, f: s
+bone <> s: bones, i: boning, p: boned, '3': bones, d: boned
+bone-setter <> s: bone-setters
+bone-setters <> b: bone-setter, f: s
+boned <> b: bon, f: pd, p: boned
+bonefish <> i: bonefishing
+bonefishing <> b: bonefish, f: i
+bones <> f: s3, b: bone
+boneshaker <> s: boneshakers
+boneshakers <> b: boneshaker, f: s
+bonfire <> s: bonfires
+bonfires <> b: bonfire, f: s
+bong <> s: bongs, i: bonging, p: bonged, '3': bongs, d: bonged
+bonged <> f: pd, b: bong
+bonging <> f: i, b: bong
+bongo <> s: bongos
+bongos <> b: bongo, f: s
+bongs <> f: s3, b: bong
+Bonham <> s: bonhams
+boning <> b: bon, f: i, i: boning
+bonk <> i: bonking, '3': bonks, p: bonked, s: bonks, d: bonked
+bonked <> b: bonk, f: pd
+bonker <> s: bonkers
+bonkers <> b: bonker, f: s
+bonking <> b: bonk, f: i, i: bonking
+bonks <> b: bonk, f: 3s
+Bonnard <> s: bonnards
+bonnet <> s: bonnets
+bonneted <> b: bonnete, f: p
+bonnets <> b: bonnet, f: s
+bonnier <> b: bonny, f: r
+bonniest <> b: bonny, f: t
+bonny <> t: bonniest, r: bonnier
+bono <> s: bonos
+bonos <> b: bono, f: s
+bons <> b: bon, f: s
+bonsai <> s: bonsais
+bonsais <> b: bonsai, f: s
+bonus <> s: bonuses
+bonuses <> b: bonus, f: s
+boo <> s: boos, i: booing, '3': boos, p: booed, d: booed
+boob <> s: boobs, d: boobed, p: boobed, '3': boobs, i: boobing
+boobed <> b: boob, f: dp
+boobies <> b: booby, f: s
+boobing <> f: i, b: boob
+boobs <> b: boob, f: s3
+booby <> s: boobies
+booed <> b: booe, f: dp
+boogie <> i: boogieing, p: boogied, '3': boogies, d: boogied
+boogied <> b: boogy, f: pd
+boogieing <> b: boogie, f: i
+boogies <> b: boogy, f: s
+booing <> b: boo, f: i
+book <> s: books, d: booked, p: booked, i: booking, '3': books
+bookbinder <> s: bookbinders
+bookbinders <> b: bookbinder, f: s
+bookbinding <> s: bookbindings
+bookbindings <> b: bookbinding, f: s
+bookcase <> s: bookcases
+bookcases <> b: bookcase, f: s
+booked <> b: book, f: dp, d: booked, p: booked
+bookend <> s: bookends, i: bookending
+bookending <> b: bookend, f: i
+bookends <> b: bookend, f: s
+booker <> s: bookers, i: bookering
+bookering <> b: booker, f: i
+bookers <> b: booker, f: s
+bookies <> b: booky, f: s
+booking <> b: book, f: i, s: bookings, i: booking
+bookkeeper <> s: bookkeepers
+bookkeepers <> b: bookkeeper, f: s
+booklet <> s: booklets
+booklets <> b: booklet, f: s
+booklist <> s: booklists
+booklists <> b: booklist, f: s
+bookmaker <> s: bookmakers
+bookmakers <> b: bookmaker, f: s
+bookmaking <> i: bookmaking, b: bookmaking, f: i
+bookman <> s: bookmen
+bookmark <> s: bookmarks
+bookmarks <> b: bookmark, f: s
+bookmen <> b: bookman, f: s
+bookplate <> s: bookplates
+bookplates <> b: bookplate, f: s
+books <> f: s3, b: book
+bookseller <> s: booksellers
+Booksellers <> b: bookseller, f: s
+bookshop <> s: bookshops
+bookshops <> b: bookshop, f: s
+bookstall <> s: bookstalls, '3': bookstalls
+bookstalls <> b: bookstall, f: s3
+bookstore <> s: bookstores
+bookstores <> b: bookstore, f: s
+bookwork <> s: bookworks
+bookworks <> b: bookwork, f: s
+bookworm <> s: bookworms, '3': bookworms
+bookworms <> b: bookworm, f: s3
+booky <> s: bookies
+Boolean <> s: booleans
+boom <> p: boomed, s: booms, i: booming, d: boomed, '3': booms
+boomed <> b: boom, f: pd
+boomer <> s: boomers
+boomerang <> s: boomerangs, i: boomeranging, p: boomeranged, '3': boomerangs, d: boomeranged
+boomeranged <> b: boomerange, f: p
+boomeranging <> f: i, b: boomerang
+boomerangs <> f: s3, b: boomerang
+boomers <> b: boomer, f: s
+boomiest <> b: boomy, f: t
+booming <> b: boom, f: i, i: booming
+booms <> f: s3, b: boom
+boomy <> t: boomiest
+boon <> s: boons
+boondoggle <> i: boondoggling, p: boondoggled, '3': boondoggles, d: boondoggled
+boondoggled <> f: pd, b: boondoggle
+boondoggles <> f: '3', b: boondoggle
+boondoggling <> f: i, b: boondoggle
+boons <> b: boon, f: s
+boor <> s: boors, i: booring
+booring <> b: boor, f: i
+boors <> b: boor, f: s
+boos <> b: boo, f: s3
+boost <> d: boosted, i: boosting, p: boosted, '3': boosts, s: boosts
+boosted <> b: boost, f: dp, p: boosted
+booster <> s: boosters
+boosters <> b: booster, f: s
+boosting <> b: boost, f: i, i: boosting
+boosts <> b: boost, f: 3s
+boot <> s: boots, d: booted, p: booted, i: booting, '3': boots
+bootboy <> s: bootboys
+bootboys <> b: bootboy, f: s
+booted <> b: boot, f: dp, p: booted, d: booted
+bootee <> s: bootees
+bootees <> b: bootee, f: s
+booth <> s: booths
+booths <> b: booth, f: s
+booties <> b: booty, f: s
+booting <> b: boot, f: i
+bootlace <> s: bootlaces
+bootlaces <> b: bootlace, f: s
+Bootle <> i: bootling
+bootleg <> s: bootlegs, d: bootlegged, i: bootlegging, p: bootlegged, '3': bootlegs
+bootlegged <> f: dp, b: bootleg
+bootlegger <> s: bootleggers, '3': bootleggers
+bootleggers <> b: bootlegger, f: s3
+bootlegging <> b: bootleg, f: i, i: bootlegging
+bootlegs <> f: s3, b: bootleg
+bootlick <> i: bootlicking, p: bootlicked, '3': bootlicks, d: bootlicked
+bootlicking <> f: i, b: bootlick
+bootmaker <> s: bootmakers
+bootmakers <> b: bootmaker, f: s
+boots <> b: boot, f: s3
+bootstrap <> s: bootstraps
+bootstraps <> b: bootstrap, f: s
+booty <> s: booties
+booze <> i: boozing, d: boozed, '3': boozes, p: boozed
+booze-up <> s: booze-ups
+booze-ups <> b: booze-up, f: s
+boozed <> b: booze, f: dp, p: boozed
+boozer <> s: boozers
+boozers <> b: boozer, f: s
+boozes <> b: booze, f: '3'
+boozier <> b: boozy, f: r
+boozing <> b: booze, f: i, i: boozing
+boozy <> r: boozier
+bop <> i: bopping, p: bopped, s: bops, d: bopped, '3': bops
+bopped <> b: bop, f: pd
+bopper <> s: boppers
+boppers <> b: bopper, f: s
+bopping <> b: bop, f: i
+bops <> f: s3, b: bop
+borane <> s: boranes
+boranes <> b: borane, f: s
+bordelaise <> s: bordelaises
+bordello <> s: bordellos
+bordellos <> b: bordello, f: s
+border <> s: borders, i: bordering, d: bordered, p: bordered, '3': borders
+bordered <> b: border, f: dp, d: bordered
+borderer <> s: borderers
+borderers <> b: borderer, f: s
+bordering <> b: border, f: i, i: bordering
+borderland <> s: borderlands
+borderlands <> b: borderland, f: s
+borderline <> s: borderlines
+borderlines <> b: borderline, f: s
+borders <> f: s3, b: border
+bore <> b: bear, f: p, i: boring, p: bored, '3': bores, d: bored, s: bores
+bored <> d: bored, b: bored, f: dp, p: bored
+boreen <> s: boreens
+boreens <> b: boreen, f: s
+borehole <> s: boreholes, i: boreholing
+boreholes <> b: borehole, f: s
+boreholing <> b: borehole, f: i
+borer <> s: borers
+borers <> b: borer, f: s
+Borgia <> s: borgias
+boring <> i: boring, b: boring, f: i, s: borings
+borings <> b: boring, f: s
+born <> b: bear, f: d, d: born, p: born, i: borning
+born-again <> s: born-agains
+born-agains <> b: born-again, f: s
+borne <> b: bear, f: d, d: borne
+borough <> s: boroughs
+boroughs <> b: borough, f: s
+borrow <> d: borrowed, p: borrowed, i: borrowing, '3': borrows
+borrowed <> b: borrow, f: dp, d: borrowed, p: borrowed
+borrower <> s: borrowers
+borrowers <> b: borrower, f: s
+borrowing <> b: borrow, f: i, s: borrowings, i: borrowing
+borrows <> b: borrow, f: '3'
+borstal <> s: borstals
+borstals <> b: borstal, f: s
+Bosanquet <> s: bosanquets
+bosh <> d: boshed
+boshed <> b: bosh, f: d
+Bosnian <> s: bosnians
+bosom <> s: bosoms, i: bosoming, p: bosomed, '3': bosoms, d: bosomed
+bosomed <> f: pd, b: bosom
+bosoming <> f: i, b: bosom
+bosoms <> f: s3, b: bosom
+boson <> s: bosons
+bosons <> b: boson, f: s
+boss <> s: bosses, i: bossing, p: bossed, '3': bosses, d: bossed
+bossed <> b: boss, f: pd, p: bossed
+bosses <> b: boss, f: s3
+bossiest <> b: bossy, f: t
+bossing <> b: boss, f: i
+bossy <> t: bossiest
+bosun <> s: bosuns
+bosuns <> b: bosun, f: s
+BOT <> s: bots, '3': bots, i: botting
+botanical <> s: botanicals
+botanicals <> b: botanical, f: s
+botanist <> s: botanists
+botanists <> b: botanist, f: s
+botanize <> i: botanizing, p: botanized, '3': botanizes, d: botanized
+botanized <> f: pd, b: botanize
+botanizes <> f: '3', b: botanize
+botanizing <> f: i, b: botanize
+botch <> d: botched, p: botched, i: botching, '3': botches
+botched <> b: botch, f: dp, p: botched
+botches <> f: '3', b: botch
+botching <> b: botch, f: i
+botflies <> b: botfly, f: s
+botfly <> s: botflies
+bother <> d: bothered, i: bothering, p: bothered, '3': bothers
+bothered <> b: bother, f: dp, d: bothered, p: bothered
+bothering <> b: bother, f: i
+bothers <> b: bother, f: '3'
+bothies <> b: bothy, f: s
+bothy <> s: bothies
+boto <> s: botos
+botos <> b: boto, f: s
+bots <> b: bot, f: s3
+Botticelli <> s: botticelli, b: botticelli, f: s
+botties <> b: botty, f: s
+botting <> b: bot, f: i
+bottle <> s: bottles, d: bottled, p: bottled, i: bottling, '3': bottles
+bottle-feed <> s: bottle-feeds, i: bottle-feeding, p: bottle-fed, '3': bottle-feeds, d: bottle-fed
+bottle-feeds <> b: bottle-feed, f: s
+bottled <> b: bottle, f: dp, d: bottled
+bottleneck <> s: bottlenecks, i: bottlenecking, p: bottlenecked, '3': bottlenecks, d: bottlenecked
+bottlenecked <> f: pd, b: bottleneck
+bottlenecking <> b: bottleneck, f: i, i: bottlenecking
+bottlenecks <> f: s3, b: bottleneck
+bottler <> s: bottlers
+bottlers <> b: bottler, f: s
+bottles <> b: bottle, f: s3
+bottling <> b: bottle, f: i, i: bottling
+bottom <> s: bottoms, i: bottoming, p: bottomed, '3': bottoms, d: bottomed
+bottome <> d: bottomed, i: bottoming, p: bottomed
+bottomed <> b: bottome, f: dp
+bottoming <> b: bottome, f: i
+bottoms <> f: s3, b: bottom
+botty <> s: botties
+boudin <> s: boudins
+boudins <> b: boudin, f: s
+boudoir <> s: boudoirs
+boudoirs <> b: boudoir, f: s
+bouffant <> s: bouffants
+bouffants <> b: bouffant, f: s
+bough <> s: boughs, i: boughing
+boughing <> b: bough, f: i
+boughs <> b: bough, f: s
+bought <> b: buy, f: pd
+bouillon <> s: bouillons
+bouillons <> b: bouillon, f: s
+boulder <> s: boulders, i: bouldering
+bouldering <> b: boulder, f: i, i: bouldering
+boulders <> b: boulder, f: s
+Boule <> s: boules
+boules <> b: boule, f: s
+boulevard <> s: boulevards
+boulevards <> b: boulevard, f: s
+Boult <> i: boulting
+Boulting <> s: boultings, b: boult, f: i
+bounce <> p: bounced, i: bouncing, d: bounced, '3': bounces, s: bounces
+bounced <> b: bounce, f: pd, p: bounced
+bouncer <> s: bouncers
+bouncers <> b: bouncer, f: s
+bounces <> b: bounce, f: 3s
+bouncier <> b: bouncy, f: r
+bouncing <> b: bounce, f: i, i: bouncing, s: bouncings
+bouncy <> r: bouncier
+bound <> b: bind, f: dp, s: bounds, d: bounded, i: bounding, p: bound, '3': bounds
+boundaries <> b: boundary, f: s
+boundary <> s: boundaries
+bounded <> b: bound, f: dp, d: bounded
+bounder <> s: bounders
+bounders <> b: bounder, f: s
+bounding <> b: bound, f: i, i: bounding
+bounties <> b: bounty, f: s
+bounty <> s: bounties
+bouquet <> s: bouquets
+bouquets <> b: bouquet, f: s
+Bourbon <> s: bourbons
+bourgeoise <> p: bourgeoised, s: bourgeoises
+bourgeoised <> b: bourgeoise, f: p
+bourgeoises <> b: bourgeoise, f: s
+bourse <> s: bourses
+bourses <> b: bourse, f: s
+bout <> s: bouts
+boutique <> s: boutiques
+boutiques <> b: boutique, f: s
+Boutros <> b: boutro, f: s
+bouts <> b: bout, f: s
+bouzouki <> s: bouzouki, b: bouzouki, f: s
+bovid <> s: bovids
+bovids <> b: bovid, f: s
+bovine <> s: bovines
+bovines <> b: bovine, f: s
+bow <> p: bowed, s: bows, i: bowing, d: bowed, '3': bows
+Bowater <> s: bowaters, b: bowate, f: r
+bowdlerize <> p: bowdlerized, d: bowdlerized, i: bowdlerizing, '3': bowdlerizes
+bowdlerized <> b: bowdlerize, f: pd
+bowdlerizes <> f: '3', b: bowdlerize
+bowdlerizing <> f: i, b: bowdlerize
+bowed <> b: bow, f: pd, d: bowed, p: bowed
+bowel <> s: bowels
+bowels <> b: bowel, f: s
+bower <> s: bowers, i: bowering, p: bowered, '3': bowers, d: bowered
+bowerbird <> s: bowerbirds
+bowerbirds <> b: bowerbird, f: s
+bowering <> b: bower, f: i
+Bowers <> b: bower, f: s
+bowhead <> s: bowheads
+bowheads <> b: bowhead, f: s
+bowing <> b: bow, f: i, i: bowing, s: bowings
+bowl <> s: bowls, p: bowled, d: bowled, i: bowling, '3': bowls
+bowled <> b: bowl, f: pd, p: bowled
+bowler <> s: bowlers
+bowlers <> b: bowler, f: s
+bowlful <> s: bowlfuls
+bowlfuls <> b: bowlful, f: s
+bowline <> s: bowlines
+bowlines <> b: bowline, f: s
+bowling <> b: bowl, f: i, i: bowling
+bowls <> b: bowl, f: s3
+bowman <> s: bowmen
+bowmen <> b: bowman, f: s
+bowr <> i: bowring
+Bowring <> b: bowr, f: i
+bows <> b: bow, f: s3
+bowser <> s: bowsers
+bowsers <> b: bowser, f: s
+bowshot <> s: bowshots
+bowshots <> b: bowshot, f: s
+bowsprit <> s: bowsprits
+bowsprits <> b: bowsprit, f: s
+bowstring <> s: bowstrings
+bowstrings <> b: bowstring, f: s
+bowy <> r: bowyer
+bowyer <> s: bowyers, b: bowy, f: r
+bowyers <> b: bowyer, f: s
+box <> s: boxes, d: boxed, p: boxed, i: boxing, '3': boxes
+boxcar <> s: boxcars
+boxcars <> b: boxcar, f: s
+boxed <> b: box, f: dp, d: boxed, p: boxed
+boxer <> s: boxers
+boxers <> b: boxer, f: s
+boxes <> f: s3, b: box
+boxful <> s: boxfuls
+boxfuls <> b: boxful, f: s
+boxier <> b: boxy, f: r
+boxing <> b: box, f: i, i: boxing
+boxroom <> s: boxrooms
+boxrooms <> b: boxroom, f: s
+boxy <> r: boxier
+boy <> s: boys
+boyar <> s: boyars
+boyars <> b: boyar, f: s
+boycott <> d: boycotted, p: boycotted, i: boycotting, s: boycotts, '3': boycotts
+boycotted <> b: boycott, f: dp
+boycotting <> b: boycott, f: i, i: boycotting
+boycotts <> b: boycott, f: s3
+boyfriend <> s: boyfriends
+boyfriends <> b: boyfriend, f: s
+boyo <> s: boyos, i: boyoing
+boyoing <> b: boyo, f: i
+boyos <> b: boyo, f: s
+boys <> b: boy, f: s
+boyz <> s: boyz, b: boyz, f: s
+bozo <> s: bozos
+bozos <> b: bozo, f: s
+bpi <> s: bpi, b: bpi, f: s
+BR <> r: brer, i: brring, t: brest
+bra <> s: bras
+brabham <> s: brabhams
+brabhams <> b: brabham, f: s
+brace <> s: braces, p: braced, i: bracing, d: braced, '3': braces
+braced <> b: brace, f: pd
+bracelet <> s: bracelets
+bracelets <> b: bracelet, f: s
+bracero <> s: braceros
+braceros <> b: bracero, f: s
+braces <> b: brace, f: s3
+brachiate <> d: brachiated, i: brachiating, p: brachiated, '3': brachiates
+brachiated <> f: dp, b: brachiate
+brachiates <> f: '3', b: brachiate
+brachiating <> b: brachiate, f: i
+brachiopod <> s: brachiopods
+brachiopods <> b: brachiopod, f: s
+bracing <> b: brace, f: i, i: bracing, s: bracings
+brack <> p: bracked
+bracked <> b: brack, f: p
+bracken <> s: brackens, d: brackened
+brackened <> b: bracken, f: d
+brackens <> b: bracken, f: s
+bracket <> s: brackets, d: bracketed, p: bracketed, '3': brackets, i: bracketing
+bracketed <> b: bracket, f: dp, d: bracketed, p: bracketed
+bracketing <> b: brackete, f: i, i: bracketing
+brackets <> b: bracket, f: s3
+bract <> s: bracts
+bracteate <> s: bracteates
+bracteates <> b: bracteate, f: s
+bracts <> b: bract, f: s
+brad <> s: brads, i: bradding, p: bradded, '3': brads, d: bradded
+Braddock <> s: braddocks
+brads <> b: brad, f: s
+bradycardia <> s: bradycardias
+bradycardias <> b: bradycardia, f: s
+brae <> s: brae, b: brae, f: s
+brag <> i: bragging, p: bragged, d: bragged, '3': brags
+braggart <> s: braggarts, '3': braggarts
+braggarts <> b: braggart, f: s3
+bragged <> b: brag, f: pd
+bragging <> b: brag, f: i, i: bragging
+brags <> b: brag, f: '3'
+brahm <> s: brahms
+Brahman <> s: brahmans
+brahmans <> b: brahman, f: s
+Brahmin <> s: brahmins
+brahmins <> b: brahmin, f: s
+brahms <> b: brahm, f: s
+braid <> s: braids, d: braided, i: braiding, p: braided, '3': braids
+braided <> b: braid, f: d, d: braided
+braiding <> b: braid, f: i, i: braiding
+braids <> b: braid, f: s
+brail <> p: brailled, i: brailing, '3': brails, d: brailed
+brailed <> f: pd, b: brail
+brailing <> f: i, b: brail
+brailled <> b: brail, f: p
+brails <> f: '3', b: brail
+brain <> s: brains, i: braining, p: brained, '3': brains, d: brained
+brain-teaser <> s: brain-teasers
+brain-teasers <> b: brain-teaser, f: s
+brainbox <> s: brainboxes
+brainboxes <> b: brainbox, f: s
+braincase <> s: braincases
+braincases <> b: braincase, f: s
+brainchild <> s: brainchilds
+brainchilds <> b: brainchild, f: s
+brained <> f: pd, b: brain
+brainiest <> b: brainy, f: t
+braining <> f: i, b: brain
+brains <> f: s3, b: brain
+brainstorm <> i: brainstorming, s: brainstorms, p: brainstormed, '3': brainstorms, d: brainstormed
+brainstorming <> i: brainstorming, b: brainstorming, f: i
+brainstorms <> b: brainstorm, f: s
+brainwash <> d: brainwashed, i: brainwashing, p: brainwashed, '3': brainwashes
+brainwashed <> b: brainwash, f: dp, p: brainwashed
+brainwashes <> b: brainwash, f: '3'
+brainwashing <> b: brainwash, f: i, i: brainwashing
+brainwave <> s: brainwaves
+brainwaves <> b: brainwave, f: s
+brainy <> t: brainiest
+braise <> p: braised, i: braising, '3': braises, d: braised
+braised <> d: braised, b: braised, f: dp, p: braised
+braises <> f: '3', b: braise
+braising <> b: braise, f: i, i: braising
+brake <> s: brakes, p: braked, i: braking, d: braked, '3': brakes
+braked <> b: brake, f: pd
+brakeman <> s: brakemen
+brakemen <> b: brakeman, f: s
+brakes <> b: brake, f: s3
+braking <> b: brake, f: i, i: braking
+bramble <> s: brambles, i: brambling
+brambles <> b: bramble, f: s
+brambling <> b: bramble, f: i, s: bramblings
+bran <> s: brans
+branch <> s: branches, i: branching, p: branched, '3': branches, d: branched
+branched <> b: branch, f: pd, d: branched, p: branched
+branches <> b: branch, f: s3
+branching <> b: branch, f: i, i: branching, s: branchings
+brand <> s: brands, d: branded, i: branding, p: branded, '3': brands
+branded <> b: brand, f: dp, d: branded, p: branded
+brander <> s: branders
+branders <> b: brander, f: s
+brandies <> b: brandy, f: s
+branding <> b: brand, f: i, i: branding, s: brandings
+brandish <> i: brandishing, p: brandished, '3': brandishes, d: brandished
+brandished <> b: brandish, f: pd
+brandishes <> b: brandish, f: '3'
+brandishing <> b: brandish, f: i, i: brandishing
+brandling <> s: brandlings
+brandlings <> b: brandling, f: s
+Brando <> s: brandos
+BRANDRETH <> '3': brandreth, b: brandreth, f: '3'
+brands <> b: brand, f: s3
+brandy <> s: brandies
+brans <> b: bran, f: s
+Braque <> s: braques
+bras <> b: bra, f: s
+brash <> r: brasher, t: brashest, d: brashed
+brashed <> b: brash, f: d
+brasher <> b: brash, f: r
+brashest <> b: brash, f: t
+brass <> s: brasses, d: brassed
+brassed <> b: brass, f: d, d: brassed
+brasses <> b: brass, f: s
+Brassica <> s: brassicas
+brassiere <> s: brassieres
+brassieres <> b: brassiere, f: s
+brat <> s: brats
+brats <> b: brat, f: s
+brattice <> i: bratticing, p: bratticed, '3': brattices, d: bratticed
+bratticed <> f: pd, b: brattice
+brattices <> f: '3', b: brattice
+bratticing <> f: i, b: brattice
+bratwurst <> s: bratwursts
+bratwursts <> b: bratwurst, f: s
+bravado <> s: bravados
+bravados <> b: bravado, f: s
+brave <> p: braved, r: braver, t: bravest, i: braving, d: braved, '3': braves, s: braves
+braved <> b: brave, f: pd
+braver <> b: brave, f: r
+braves <> b: brave, f: 3s
+bravest <> b: brave, f: t
+braving <> b: brave, f: i
+bravo <> s: bravos
+bravos <> b: bravo, f: s
+braw <> t: brawest
+brawest <> b: braw, f: t
+brawl <> s: brawls, i: brawling, '3': brawls, d: brawled, p: brawled
+brawled <> b: brawl, f: dp
+brawler <> s: brawlers
+brawlers <> b: brawler, f: s
+brawling <> b: brawl, f: i, i: brawling
+brawls <> b: brawl, f: s3
+brawnier <> b: brawny, f: r
+brawniest <> b: brawny, f: t
+brawny <> r: brawnier, t: brawniest
+bray <> p: brayed, i: braying, s: brays, '3': brays, d: brayed
+brayed <> b: bray, f: pd
+braying <> b: bray, f: i, s: brayings
+brays <> b: bray, f: s3
+braze <> p: brazed, d: brazed, i: brazing, '3': brazes
+brazed <> b: braze, f: pd
+brazen <> p: brazened, d: brazened, i: brazening, s: brazens, '3': brazens
+brazened <> b: brazen, f: pd
+brazening <> b: brazen, f: i
+brazens <> f: s3, b: brazen
+brazes <> f: '3', b: braze
+brazier <> s: braziers
+braziers <> b: brazier, f: s
+Brazil <> s: brazils
+Brazilian <> s: brazilians
+brazing <> b: braze, f: i
+breach <> s: breaches, d: breached, i: breaching, p: breached, '3': breaches
+breached <> b: breach, f: dp, d: breached
+breaches <> b: breach, f: s3
+breaching <> b: breach, f: i
+bread <> s: breads, i: breading, p: breaded, '3': breads, d: breaded
+breadboard <> i: breadboarding
+breadboarding <> b: breadboard, f: i
+breadcrumb <> s: breadcrumbs, p: breadcrumbed
+breadcrumbed <> b: breadcrumb, f: p
+breadcrumbs <> b: breadcrumb, f: s
+breaded <> p: breaded, b: breaded, f: p
+breading <> f: i, b: bread
+breadline <> s: breadlines
+breadlines <> b: breadline, f: s
+breads <> f: s3, b: bread
+breadstick <> s: breadsticks
+breadsticks <> b: breadstick, f: s
+breadwinner <> s: breadwinners
+breadwinners <> b: breadwinner, f: s
+break <> p: broke, d: broken, i: breaking, '3': breaks, s: breaks
+break-in <> s: break-ins
+break-ins <> b: break-in, f: s
+break-up <> s: break-ups
+break-ups <> b: break-up, f: s
+breakage <> s: breakages
+breakages <> b: breakage, f: s
+breakaway <> s: breakaways
+breakaways <> b: breakaway, f: s
+breakbeat <> s: breakbeats
+breakbeats <> b: breakbeat, f: s
+breakdown <> s: breakdowns
+breakdowns <> b: breakdown, f: s
+breaker <> s: breakers
+breakers <> b: breaker, f: s
+breakfast <> s: breakfasts, p: breakfasted, i: breakfasting, d: breakfasted, '3': breakfasts
+breakfasted <> b: breakfast, f: pd
+breakfaster <> s: breakfasters
+breakfasters <> b: breakfaster, f: s
+breakfasting <> b: breakfast, f: i
+breakfasts <> f: s3, b: breakfast
+breaking <> b: break, f: i, i: breaking
+breakneck <> i: breaknecking
+breaknecking <> b: breakneck, f: i
+breakout <> s: breakouts
+breakouts <> b: breakout, f: s
+breakpoint <> s: breakpoints
+breakpoints <> b: breakpoint, f: s
+breaks <> b: break, f: 3s
+breakthrough <> s: breakthroughs
+breakthroughs <> b: breakthrough, f: s
+breakup <> s: breakups
+breakups <> b: breakup, f: s
+breakwater <> s: breakwaters, b: breakwate, f: r
+breakwaters <> b: breakwater, f: s
+bream <> s: breams, i: breaming, p: breamed, '3': breams, d: breamed
+breamed <> f: pd, b: bream
+breaming <> f: i, b: bream
+breams <> f: s3, b: bream
+breast <> s: breasts, p: breasted, i: breasting, d: breasted, '3': breasts
+breasted <> b: breast, f: pd, p: breasted
+breastfed <> f: pd, b: breastfeed
+breastfeed <> i: breastfeeding, '3': breastfeeds, s: breastfeeds, p: breastfed, d: breastfed
+breastfeeding <> i: breastfeeding, b: breastfeeding, f: i
+breastfeeds <> b: breastfeed, f: 3s
+breasting <> b: breast, f: i
+breastplate <> s: breastplates
+breastplates <> b: breastplate, f: s
+breasts <> f: s3, b: breast
+breastsummer <> s: breastsummers
+breastsummers <> b: breastsummer, f: s
+breath <> s: breaths
+breathalyse <> d: breathalysed, p: breathalysed
+breathalysed <> b: breathalyse, f: dp
+breathalyser <> s: breathalysers
+breathalysers <> b: breathalyser, f: s
+breathe <> i: breathing, p: breathed, '3': breathes, d: breathed
+breathed <> b: breathe, f: pd
+breather <> s: breathers
+breathers <> b: breather, f: s
+breathes <> b: breathe, f: '3'
+breathing <> b: breathe, f: i, i: breathing, s: breathings
+breaths <> b: breath, f: s
+breccia <> s: breccias
+breccias <> b: breccia, f: s
+brecciate <> p: brecciated, d: brecciated, i: brecciating, '3': brecciates
+brecciated <> b: brecciate, f: pd
+bred <> b: breed, f: dp
+breech <> s: breeches, '3': breeches, p: breeched, i: breeching
+breechclout <> '3': breechclouts, s: breechclouts
+breechclouts <> b: breechclout, f: 3s
+breeched <> b: breech, f: p
+breeches <> b: breech, f: s3
+breeching <> b: breech, f: i
+breed <> s: breeds, d: bred, p: bred, i: breeding, '3': breeds
+breeder <> s: breeders
+breeders <> b: breeder, f: s
+breeding <> b: breed, f: i, i: breeding
+breeds <> b: breed, f: s3
+breeks <> b: breek, f: s
+breeze <> s: breezes, p: breezed, i: breezing, d: breezed, '3': breezes
+breeze-block <> s: breeze-blocks
+breeze-blocks <> b: breeze-block, f: s
+breezed <> b: breeze, f: pd
+breezes <> f: s3, b: breeze
+breeziest <> b: breezy, f: t
+breezing <> b: breeze, f: i
+breezy <> t: breeziest
+bremsstrahlung <> d: bremsstrahlung, b: bremsstrahlung, f: dp, p: bremsstrahlung
+Bren <> s: brens
+Brent <> s: brents
+brer <> b: br, f: r
+brest <> b: br, f: t
+brethren <> b: brother, f: s
+Breton <> s: bretons
+Breughel <> s: breughels
+brevet <> '3': brevets, s: brevets, i: brevetting, p: brevetted, d: brevetted
+brevets <> b: brevet, f: 3s
+brevetted <> f: pd, b: brevet
+brevetting <> f: i, b: brevet
+brew <> d: brewed, i: brewing, s: brews, '3': brews, p: brewed
+brewed <> b: brew, f: dp, d: brewed
+brewer <> s: brewers
+breweries <> b: brewery, f: s
+brewers <> b: brewer, f: s
+brewery <> s: breweries
+brewhouse <> s: brewhouses
+brewhouses <> b: brewhouse, f: s
+brewing <> b: brew, f: i, i: brewing
+brews <> b: brew, f: s3
+briar <> s: briars, '3': briars
+briars <> b: briar, f: s3
+bribe <> s: bribes, d: bribed, p: bribed, i: bribing, '3': bribes
+bribed <> b: bribe, f: dp
+bribes <> b: bribe, f: s3
+bribing <> b: bribe, f: i, i: bribing
+brick <> s: bricks, d: bricked, i: bricking
+brickbat <> s: brickbats, '3': brickbats
+brickbats <> b: brickbat, f: s3
+bricked <> b: brick, f: d
+brickfield <> s: brickfields
+brickfields <> b: brickfield, f: s
+bricking <> b: brick, f: i
+bricklayer <> s: bricklayers
+bricklayers <> b: bricklayer, f: s
+bricks <> b: brick, f: s
+brickwork <> s: brickworks, i: brickworking
+brickworking <> b: brickwork, f: i
+brickworks <> b: brickwork, f: s
+brickyard <> s: brickyards
+brickyards <> b: brickyard, f: s
+bricoleur <> s: bricoleurs
+bricoleurs <> b: bricoleur, f: s
+bride <> s: brides
+bridegroom <> s: bridegrooms
+bridegrooms <> b: bridegroom, f: s
+brides <> b: bride, f: s
+bridesmaid <> s: bridesmaids
+bridesmaids <> b: bridesmaid, f: s
+bridewell <> s: bridewells
+bridewells <> b: bridewell, f: s
+bridge <> s: bridges, d: bridged, i: bridging, p: bridged, '3': bridges
+bridge-builder <> s: bridge-builders
+bridge-builders <> b: bridge-builder, f: s
+bridged <> b: bridge, f: dp, d: bridged
+bridgehead <> s: bridgeheads
+bridgeheads <> b: bridgehead, f: s
+bridges <> b: bridge, f: s3
+Bridgewater <> b: bridgewate, f: r
+bridgework <> s: bridgeworks
+bridgeworks <> b: bridgework, f: s
+bridging <> b: bridge, f: i, i: bridging
+bridle <> s: bridles, p: bridled, d: bridled, i: bridling, '3': bridles
+bridled <> b: bridle, f: pd, p: bridled
+bridles <> b: bridle, f: s3
+bridleway <> s: bridleways
+bridleways <> b: bridleway, f: s
+bridling <> b: bridle, f: i, i: bridling
+brief <> d: briefed, s: briefs, i: briefing, t: briefest, r: briefer, p: briefed, '3': briefs
+briefcase <> s: briefcases
+briefcases <> b: briefcase, f: s
+briefed <> b: brief, f: dp
+briefer <> b: brief, f: r
+briefest <> b: brief, f: t
+briefing <> b: brief, f: i, s: briefings, i: briefing
+briefs <> b: brief, f: s3
+brier <> s: briers
+briers <> b: brier, f: s
+brig <> s: brigs, d: brigged
+brigade <> s: brigades, i: brigading, p: brigaded, '3': brigades, d: brigaded
+brigaded <> f: pd, b: brigade
+brigades <> f: s3, b: brigade
+brigadier <> s: brigadiers
+brigadier-general <> s: brigadier-generals
+brigadier-generals <> b: brigadier-general, f: s
+brigadiers <> b: brigadier, f: s
+brigading <> f: i, b: brigade
+brigand <> s: brigands, '3': brigands
+brigandine <> s: brigandines
+brigandines <> b: brigandine, f: s
+brigands <> b: brigand, f: s3
+brigantine <> s: brigantines
+brigantines <> b: brigantine, f: s
+brigged <> b: brig, f: d
+bright <> r: brighter, t: brightest
+brighten <> p: brightened, i: brightening, '3': brightens, d: brightened
+brightened <> b: brighten, f: pd
+brightening <> b: brighten, f: i, s: brightenings, i: brightening
+brightens <> b: brighten, f: '3'
+brighter <> b: bright, f: r
+brightest <> b: bright, f: t, r: brightest
+brightness <> s: brightnesses
+brightnesses <> b: brightness, f: s
+brigs <> b: brig, f: s
+brilliance <> s: brilliances
+brilliances <> b: brilliance, f: s
+brilliant <> s: brilliants
+brilliantine <> d: brilliantined, p: brilliantined
+brilliantined <> b: brilliantine, f: dp
+brilliants <> b: brilliant, f: s
+brim <> i: brimming, p: brimmed, s: brims, '3': brims, d: brimmed
+brimmed <> b: brim, f: pd, p: brimmed
+brimming <> b: brim, f: i, i: brimming
+brims <> b: brim, f: s3
+brindle <> s: brindles, p: brindled, d: brindled
+brindled <> b: brindle, f: pd, p: brindled
+brindles <> b: brindle, f: s
+brine <> s: brines, i: brining, p: brined, '3': brines, d: brined
+brined <> f: pd, b: brine
+brines <> f: s3, b: brine
+bring <> d: brought, p: brought, i: bringing, '3': brings
+bringer <> s: bringers
+bringers <> b: bringer, f: s
+bringing <> b: bring, f: i, i: bringing
+brings <> b: bring, f: '3'
+brining <> b: brine, f: i
+brink <> s: brinks
+brinks <> b: brink, f: s
+briquette <> s: briquettes
+briquettes <> b: briquette, f: s
+brisk <> r: brisker, i: brisking, t: briskest
+brisker <> b: brisk, f: r
+briskest <> b: brisk, f: t
+brisking <> b: brisk, f: i
+bristle <> s: bristles, i: bristling, p: bristled, '3': bristles, d: bristled
+bristled <> b: bristle, f: pd
+bristles <> b: bristle, f: s3
+bristletail <> s: bristletails
+bristletails <> b: bristletail, f: s
+bristling <> b: bristle, f: i, i: bristling
+Bristow <> s: bristows
+brit <> s: brits
+britannica <> s: britannicas
+britannicas <> b: britannica, f: s
+britch <> s: britches
+britches <> b: britch, f: s
+Britisher <> s: britishers
+Briton <> s: britons
+britons <> b: briton, f: s
+brittle <> i: brittling
+brittling <> b: brittle, f: i
+bro <> s: bros
+broach <> d: broached, p: broached, i: broaching, '3': broaches, s: broaches
+broached <> b: broach, f: dp
+broaches <> b: broach, f: 3s
+broaching <> b: broach, f: i
+broad <> r: broader, t: broadest, s: broads
+broadcast <> s: broadcasts, d: broadcast, b: broadcast, f: dp, i: broadcasting, '3': broadcasts, p: broadcast
+broadcaster <> s: broadcasters
+broadcasters <> b: broadcaster, f: s
+broadcasting <> b: broadcast, f: i, i: broadcasting
+broadcasts <> b: broadcast, f: s3
+broadcloth <> s: broadcloths
+broadcloths <> b: broadcloth, f: s
+broaden <> d: broadened, i: broadening, '3': broadens, p: broadened
+broadened <> b: broaden, f: dp, d: broadened
+broadening <> b: broaden, f: i, i: broadening
+broadens <> b: broaden, f: '3'
+broader <> b: broad, f: r
+broadest <> b: broad, f: t
+broadland <> s: broadlands
+broadlands <> b: broadland, f: s
+broadleaved <> p: broadleaved, b: broadleaved, f: p
+broadloom <> s: broadlooms
+broadlooms <> b: broadloom, f: s
+broads <> b: broad, f: s
+broadsheet <> s: broadsheets
+broadsheets <> b: broadsheet, f: s
+broadside <> s: broadsides, i: broadsiding, p: broadside, '3': broadsides, d: broadside
+broadsides <> b: broadside, f: s
+broadsword <> s: broadswords
+broadswords <> b: broadsword, f: s
+broadway <> s: broadways
+broadways <> b: broadway, f: s
+brocade <> s: brocades, i: brocading, p: brocaded, '3': brocades, d: brocaded
+brocaded <> f: pd, b: brocade
+brocades <> f: s3, b: brocade
+brocading <> f: i, b: brocade
+broch <> s: brochs
+brochette <> s: brochettes
+brochettes <> b: brochette, f: s
+brochs <> b: broch, f: s
+brochure <> s: brochures
+brochures <> b: brochure, f: s
+brock <> s: brocks, d: brocked
+brocked <> b: brock, f: d
+brocks <> b: brock, f: s
+Brody <> s: brodies
+brogan <> s: brogans
+brogans <> b: brogan, f: s
+brogue <> s: brogues
+brogues <> b: brogue, f: s
+broil <> p: broiled, '3': broils, d: broiled, i: broiling, s: broils
+broiled <> b: broil, f: pd
+broiler <> s: broilers
+broilers <> b: broiler, f: s
+broiling <> b: broil, f: i
+broils <> b: broil, f: 3s
+broke <> b: break, f: pd, d: broke, p: broke
+broken <> b: break, f: d, d: broken
+broker <> s: brokers, p: brokered, d: brokered, i: brokering, '3': brokers
+broker-dealer <> s: broker-dealers
+broker-dealers <> b: broker-dealer, f: s
+brokerage <> s: brokerages
+brokerages <> b: brokerage, f: s
+brokered <> b: broker, f: pd, p: brokered
+brokering <> i: brokering, b: brokering, f: i
+brokers <> b: broker, f: s
+broking <> i: broking, b: broking, f: i
+brollies <> b: brolly, f: s
+brolly <> s: brollies
+bromate <> i: bromating, p: bromated, '3': bromates, d: bromated
+bromated <> f: pd, b: bromate
+bromates <> f: '3', b: bromate
+bromating <> f: i, b: bromate
+bromeliad <> s: bromeliads
+bromeliads <> b: bromeliad, f: s
+bromide <> s: bromides
+bromides <> b: bromide, f: s
+bronchi <> s: bronchi, b: bronchi, f: s
+bronchiole <> s: bronchioles
+bronchioles <> b: bronchiole, f: s
+bronchodilator <> s: bronchodilators
+bronchodilators <> b: bronchodilator, f: s
+bronchoscope <> s: bronchoscopes
+bronchoscopes <> b: bronchoscope, f: s
+bronco <> s: broncos
+broncos <> b: bronco, f: s
+brontosaur <> s: brontosaurs
+brontosaurs <> b: brontosaur, f: s
+bronze <> s: bronzes, i: bronzing, p: bronzed, '3': bronzes, d: bronzed
+bronzed <> f: pd, b: bronze
+bronzer <> s: bronzers
+bronzers <> b: bronzer, f: s
+bronzes <> f: s3, b: bronze
+bronzewing <> s: bronzewings, i: bronzewing, b: bronzewing, f: i
+bronzewings <> b: bronzewing, f: s
+bronzier <> b: bronzy, f: r
+bronzing <> b: bronze, f: i, i: bronzing
+bronzy <> r: bronzier
+brooch <> s: brooches
+brooches <> b: brooch, f: s
+brood <> p: brooded, s: broods, i: brooding, '3': broods, d: brooded
+brooded <> b: brood, f: pd
+brooding <> b: brood, f: i, i: brooding, s: broodings
+broodmare <> s: broodmares
+broodmares <> b: broodmare, f: s
+broods <> b: brood, f: s3
+brook <> s: brooks, p: brooked, '3': brooks, i: brooking, d: brooked
+brooked <> f: pd, b: brook
+Brooking <> b: brook, f: i, s: brookings
+brooks <> b: brook, f: s3
+broom <> s: brooms
+brooms <> b: broom, f: s
+broomstick <> s: broomsticks
+broomsticks <> b: broomstick, f: s
+BROS <> b: bro, f: s
+broth <> s: broths
+brothel <> s: brothels
+brothels <> b: brothel, f: s
+brother <> s: brothers
+brother-in-law <> s: brother-in-laws
+brother-in-laws <> b: brother-in-law, f: s
+brotherhood <> s: brotherhoods
+brotherhoods <> b: brotherhood, f: s
+brothers <> b: brother, f: s
+broths <> b: broth, f: s
+brougham <> s: broughams
+broughams <> b: brougham, f: s
+brought <> b: bring, f: dp
+brow <> s: brows
+browbeat <> d: browbeaten, b: browbeat, i: browbeating, f: p, p: browbeat, '3': browbeats
+browbeaten <> d: browbeaten, b: browbeaten, f: d
+browbeating <> b: browbeat, f: i
+browbeats <> f: '3', b: browbeat
+brown <> s: browns, p: browned, r: browner, d: browned, i: browning, '3': browns
+brown-nose <> i: brown-nosing, p: brown-nosed, '3': brown-noses, d: brown-nosed, s: brown-noses
+brown-out <> s: brown-outs
+brown-outs <> b: brown-out, f: s
+browned <> b: brown, f: pd, p: browned
+browner <> b: brown, f: r
+brownies <> b: browny, f: s
+Browning <> b: brown, f: i, i: browning, s: brownings
+Brownlow <> s: brownlows
+Brownshirt <> s: brownshirts
+brownstone <> s: brownstones
+brownstones <> b: brownstone, f: s
+browny <> s: brownies
+brows <> b: brow, f: s
+browse <> i: browsing, p: browsed, d: browsed, '3': browses
+browsed <> b: browse, f: pd
+browser <> s: browsers
+browsers <> b: browser, f: s
+browses <> b: browse, f: '3'
+browsing <> b: browse, f: i, i: browsing
+bruise <> s: bruises, d: bruised, i: bruising, p: bruised, '3': bruises
+bruised <> b: bruise, f: dp, d: bruised
+bruiser <> s: bruisers
+bruisers <> b: bruiser, f: s
+bruises <> b: bruise, f: s3
+bruising <> b: bruise, f: i, i: bruising, s: bruisings
+bruit <> d: bruited, i: bruiting, p: bruited, '3': bruits
+bruited <> f: dp, b: bruit
+bruiting <> f: i, b: bruit
+bruits <> f: '3', b: bruit
+brummies <> b: brummy, f: s
+brummy <> s: brummies
+brunch <> s: brunches
+brunches <> b: brunch, f: s
+brunette <> s: brunettes
+brunettes <> b: brunette, f: s
+brung <> d: brung, b: brung, f: dp, p: brung
+brush <> p: brushed, i: brushing, s: brushes, d: brushed, '3': brushes
+brush-turkey <> s: brush-turkeys
+brush-turkeys <> b: brush-turkey, f: s
+brushed <> b: brush, f: pd, d: brushed, p: brushed
+brushes <> b: brush, f: s3
+brushing <> b: brush, f: i, i: brushing, s: brushings
+brushstroke <> s: brushstrokes
+brushstrokes <> b: brushstroke, f: s
+brushwork <> s: brushworks
+brushworks <> b: brushwork, f: s
+Brussels <> s: brussels, b: brussels, f: s
+brutal <> s: brutals
+brutalise <> d: brutalised, '3': brutalises, i: brutalising
+brutalised <> b: brutalise, f: d, d: brutalised
+brutalises <> b: brutalise, f: '3'
+brutalising <> b: brutalise, f: i, i: brutalising
+brutalist <> s: brutalists
+brutalists <> b: brutalist, f: s
+brutalities <> b: brutality, f: s
+brutality <> s: brutalities
+brutalize <> p: brutalized, d: brutalized, i: brutalizing, '3': brutalizes
+brutalized <> b: brutalize, f: pd
+brutalizes <> b: brutalize, f: '3'
+brutalizing <> b: brutalize, f: i
+brutals <> b: brutal, f: s
+brute <> s: brutes
+brutes <> b: brute, f: s
+bryophyte <> s: bryophytes
+bryophytes <> b: bryophyte, f: s
+Bryozoa <> s: bryozoa, b: bryozoa, f: s
+bryozoan <> s: bryozoans
+bryozoans <> b: bryozoan, f: s
+bse <> s: bses
+bses <> b: bse, f: s
+bsi <> s: bsi, b: bsi, f: s
+bubble <> s: bubbles, i: bubbling, p: bubbled, d: bubbled, '3': bubbles
+bubbled <> b: bubble, f: pd
+bubbles <> b: bubble, f: s3
+bubbliest <> b: bubbly, f: t
+bubbling <> b: bubble, f: i, i: bubbling, s: bubblings
+bubbly <> t: bubbliest
+buccaneer <> s: buccaneers
+buccaneers <> b: buccaneer, f: s
+buck <> s: bucks, i: bucking, p: bucked, d: bucked, '3': bucks
+buckaroo <> s: buckaroos
+buckaroos <> b: buckaroo, f: s
+bucked <> b: buck, f: pd
+bucket <> s: buckets, i: bucketing, p: bucketed, '3': buckets, d: bucketed
+bucketed <> b: buckete, f: p
+bucketful <> s: bucketfuls
+bucketfuls <> b: bucketful, f: s
+bucketing <> b: buckete, f: i, i: bucketing
+buckets <> f: s3, b: bucket
+buckeye <> s: buckeyes
+buckeyes <> b: buckeye, f: s
+bucking <> b: buck, f: i, i: bucking
+buckle <> s: buckles, i: buckling, d: buckled, p: buckled, '3': buckles
+buckled <> b: buckle, f: dp, p: buckled, d: buckled
+buckler <> s: bucklers, p: bucklered
+bucklered <> b: buckler, f: p
+bucklers <> b: buckler, f: s
+buckles <> b: buckle, f: s3
+buckling <> b: buckle, f: i, i: buckling
+buckminsterfullerene <> s: buckminsterfullerenes
+buckminsterfullerenes <> b: buckminsterfullerene, f: s
+bucko <> s: buckos
+buckos <> b: bucko, f: s
+buckram <> i: buckraming, p: buckramed, '3': buckrams, d: buckramed
+buckramed <> f: pd, b: buckram
+buckraming <> f: i, b: buckram
+buckrams <> f: '3', b: buckram
+bucks <> b: buck, f: s3
+buckskin <> s: buckskins
+buckskins <> b: buckskin, f: s
+buckwheat <> s: buckwheats
+buckwheats <> b: buckwheat, f: s
+buckyball <> s: buckyballs
+buckyballs <> b: buckyball, f: s
+bucolic <> s: bucolics
+bucolics <> b: bucolic, f: s
+bud <> s: buds, i: budding, d: budded, p: budded, '3': buds
+budded <> b: bud, f: dp, d: budded, p: budded
+Buddha <> s: buddhas
+buddhas <> b: buddha, f: s
+Buddhist <> s: buddhists
+buddies <> b: buddy, f: s
+budding <> b: bud, f: i, i: budding
+buddle <> s: buddles
+buddleia <> s: buddleias
+buddleias <> b: buddleia, f: s
+buddles <> b: buddle, f: s
+buddy <> s: buddies
+budge <> d: budged, i: budging, p: budged, '3': budges
+budged <> b: budge, f: dp
+budgerigar <> s: budgerigars, '3': budgerigars
+budgerigars <> b: budgerigar, f: s3
+budges <> f: '3', b: budge
+budget <> s: budgets, d: budgeted, p: budgeted, i: budgeting, '3': budgets
+budgeted <> b: budget, f: dp, p: budgeted, d: budgeted
+budgeting <> i: budgeting, b: budgeting, f: i
+budgets <> f: s3, b: budget
+budging <> b: budge, f: i
+buds <> f: s3, b: bud
+buff <> s: buffs, i: buffing, '3': buffs, p: buffed, d: buffed
+buffalo <> s: buffalos, i: buffaloing, p: buffaloed, '3': buffalos, d: buffaloed
+buffaloed <> f: pd, b: buffalo
+buffaloing <> f: i, b: buffalo
+buffalos <> f: s3, b: buffalo
+buffed <> b: buff, f: pd, d: buffed
+buffer <> s: buffers, p: buffered, d: buffered, i: buffering, '3': buffers
+buffered <> b: buffer, f: pd, p: buffered
+buffering <> b: buffer, f: i, i: buffering
+buffers <> b: buffer, f: s3
+buffet <> s: buffets, d: buffetted, i: buffeting, p: buffeted, '3': buffets
+buffeted <> b: buffete, f: dp
+buffeting <> b: buffete, f: i, s: buffetings
+buffets <> f: s3, b: buffet
+buffetted <> b: buffet, f: d
+buffing <> b: buff, f: i
+Buffon <> s: buffons
+buffoon <> s: buffoons
+buffoons <> b: buffoon, f: s
+buffs <> b: buff, f: s3
+bug <> s: bugs, d: bugged, i: bugging, '3': bugs, p: bugged
+bugaboo <> s: bugaboos
+bugaboos <> b: bugaboo, f: s
+bugbear <> s: bugbears
+bugbears <> b: bugbear, f: s
+bugged <> b: bug, f: dp
+bugger <> s: buggers, d: buggered, p: buggered, i: buggering, '3': buggers
+buggered <> b: bugger, f: dp, d: buggered
+buggering <> b: bugger, f: i
+buggers <> b: bugger, f: s3
+buggies <> b: buggy, f: s
+bugging <> b: bug, f: i, i: bugging
+buggy <> s: buggies
+bugle <> s: bugles, i: bugling, p: bugled, '3': bugles, d: bugled
+bugled <> f: pd, b: bugle
+bugler <> s: buglers
+buglers <> b: bugler, f: s
+bugles <> f: s3, b: bugle
+bugling <> f: i, b: bugle
+bugs <> b: bug, f: s3
+buick <> s: buicks
+buicks <> b: buick, f: s
+build <> d: built, i: building, p: built, '3': builds
+build-up <> s: build-ups
+build-ups <> b: build-up, f: s
+builder <> s: builders
+builders <> b: builder, f: s
+building <> b: build, f: i, s: buildings, i: building
+builds <> b: build, f: '3'
+built <> b: build, f: dp
+built-in <> d: built-in, b: built-in, f: d, s: built-ins
+built-ins <> b: built-in, f: s
+bulb <> s: bulbs
+bulbs <> b: bulb, f: s
+bulbul <> s: bulbuls
+bulbuls <> b: bulbul, f: s
+Bulgar <> s: bulgars
+bulgarian <> s: bulgarians
+bulgarians <> b: bulgarian, f: s
+bulge <> i: bulging, p: bulged, s: bulges, '3': bulges, d: bulged
+bulged <> b: bulge, f: pd, p: bulged
+bulger <> s: bulgers
+bulgers <> b: bulger, f: s
+bulges <> b: bulge, f: s3
+bulging <> b: bulge, f: i, i: bulging
+bulimic <> s: bulimics
+bulimics <> b: bulimic, f: s
+bulk <> p: bulked, i: bulking, s: bulks, '3': bulks, d: bulked
+bulk-buy <> i: bulk-buying, s: bulk-buys
+bulk-buying <> b: bulk-buy, f: i
+bulk-buys <> b: bulk-buy, f: s
+bulked <> f: pd, b: bulk
+bulkhead <> s: bulkheads
+bulkheads <> b: bulkhead, f: s
+bulkier <> b: bulky, f: r
+bulkiest <> b: bulky, f: t
+bulking <> b: bulk, f: i
+bulks <> f: s3, b: bulk
+bulky <> r: bulkier, t: bulkiest
+bull <> s: bulls, i: bulling, p: bulled, '3': bulls, d: bulled
+bullace <> s: bullaces
+bullaces <> b: bullace, f: s
+bulldog <> s: bulldogs
+bulldogs <> b: bulldog, f: s
+bulldoze <> d: bulldozed, p: bulldozed, i: bulldozing, '3': bulldozes
+bulldozed <> b: bulldoze, f: dp, p: bulldozed
+bulldozer <> s: bulldozers, d: bulldozered
+bulldozered <> b: bulldozer, f: d
+bulldozers <> b: bulldozer, f: s
+bulldozes <> b: bulldoze, f: '3'
+bulldozing <> b: bulldoze, f: i, s: bulldozings, i: bulldozing
+bulled <> f: pd, b: bull
+Buller <> s: bullers
+bullet <> s: bullets
+bulleted <> b: bullete, f: p
+bulletin <> s: bulletins, i: bulletining, p: bulletined, '3': bulletins, d: bulletined
+bulletined <> f: pd, b: bulletin
+bulletining <> f: i, b: bulletin
+bulletins <> f: s3, b: bulletin
+bulletproof <> i: bulletproofing, p: bulletproofed, '3': bulletproofs, d: bulletproofed
+bulletproofed <> f: pd, b: bulletproof
+bulletproofing <> f: i, b: bulletproof
+bulletproofs <> f: '3', b: bulletproof
+bullets <> b: bullet, f: s
+bullfight <> s: bullfights, i: bullfighting
+bullfighter <> s: bullfighters
+bullfighters <> b: bullfighter, f: s
+bullfighting <> b: bullfight, f: i
+bullfights <> b: bullfight, f: s
+bullfinch <> s: bullfinches
+bullfinches <> b: bullfinch, f: s
+bullfrog <> s: bullfrogs
+bullfrogs <> b: bullfrog, f: s
+bullhead <> p: bullheaded, s: bullheads
+bullheaded <> b: bullhead, f: p
+bullheads <> b: bullhead, f: s
+bullhorn <> s: bullhorns
+bullhorns <> b: bullhorn, f: s
+bullied <> b: bully, f: dp, d: bullied
+bullies <> b: bully, f: s3
+bulling <> b: bull, f: i, i: bulling
+bullock <> s: bullocks, i: bullocking, p: bullocked
+bullocked <> b: bullock, f: p
+bullocking <> b: bullock, f: i
+bullocks <> b: bullock, f: s
+bullring <> s: bullrings, i: bullring, b: bullring, f: i
+bullrings <> b: bullring, f: s
+bullrush <> s: bullrushes
+bullrushes <> b: bullrush, f: s
+bulls <> f: s3, b: bull
+bullseye <> s: bullseyes
+bullseyes <> b: bullseye, f: s
+bullshit <> i: bullshitting, p: bullshitted, '3': bullshits, d: bullshitted
+bullshits <> f: '3', b: bullshit
+bullshitted <> f: pd, b: bullshit
+bullshitting <> b: bullshit, f: i
+bully <> d: bullied, s: bullies, i: bullying, p: bullied, '3': bullies
+bullying <> b: bully, f: i, i: bullying
+bullyrag <> i: bullyragging, p: bullyragged, '3': bullyrags, d: bullyragged
+bullyragged <> f: pd, b: bullyrag
+bullyragging <> f: i, b: bullyrag
+bullyrags <> f: '3', b: bullyrag
+Bulmer <> s: bulmers
+bulrush <> s: bulrushes
+bulrushes <> b: bulrush, f: s
+bulwark <> s: bulwarks, i: bulwarking, p: bulwarked, '3': bulwarks, d: bulwarked
+bulwarked <> f: pd, b: bulwark
+bulwarking <> f: i, b: bulwark
+bulwarks <> f: s3, b: bulwark
+bum <> s: bums, i: bumming, d: bummed, p: bummed, '3': bums
+bumble <> i: bumbling, p: bumbled, '3': bumbles, s: bumbles, d: bumbled
+bumblebee <> s: bumblebees
+bumblebees <> b: bumblebee, f: s
+bumbled <> f: pd, b: bumble
+bumbler <> s: bumblers
+bumblers <> b: bumbler, f: s
+bumbles <> b: bumble, f: 3s
+bumbling <> b: bumble, f: i, i: bumbling
+bummed <> b: bum, f: dp
+bummer <> s: bummers
+bummers <> b: bummer, f: s
+bumming <> b: bum, f: i
+bump <> i: bumping, p: bumped, s: bumps, d: bumped, '3': bumps
+bumped <> b: bump, f: pd
+bumper <> s: bumpers
+bumpers <> b: bumper, f: s
+bumpier <> b: bumpy, f: r
+bumpiest <> b: bumpy, f: t
+bumping <> b: bump, f: i, i: bumping, s: bumpings
+bumpkin <> s: bumpkins
+bumpkins <> b: bumpkin, f: s
+bumps <> b: bump, f: s3
+bumpy <> r: bumpier, t: bumpiest
+bums <> f: s3, b: bum
+bun <> s: buns, d: bunned, i: bunning
+bunch <> s: bunches, d: bunched, i: bunching, p: bunched, '3': bunches
+bunched <> b: bunch, f: dp, d: bunched
+bunches <> f: s3, b: bunch
+bunching <> b: bunch, f: i, i: bunching
+bunco <> i: buncoing, p: buncoed, '3': buncos, d: buncoed, s: buncos
+bund <> s: bunds
+bundle <> s: bundles, d: bundled, p: bundled, i: bundling, '3': bundles
+bundled <> b: bundle, f: dp, d: bundled, p: bundled
+bundles <> b: bundle, f: s3
+bundling <> b: bundle, f: i, i: bundling
+bunds <> b: bund, f: s
+bunfight <> s: bunfights
+bunfights <> b: bunfight, f: s
+bung <> i: bunging, d: bunged, p: bunged, '3': bungs, s: bungs
+bungalow <> s: bungalows
+bungalows <> b: bungalow, f: s
+bunged <> b: bung, f: dp
+bungee <> s: bungees
+bungees <> b: bungee, f: s
+bunging <> b: bung, f: i
+bungle <> p: bungled, d: bungled, s: bungles, '3': bungles, i: bungling
+bungled <> b: bungle, f: pd
+bungler <> s: bunglers
+bunglers <> b: bungler, f: s
+bungles <> b: bungle, f: s3
+bungling <> b: bungle, f: i, i: bungling
+bungs <> b: bung, f: 3s
+bunion <> s: bunions
+bunions <> b: bunion, f: s
+bunk <> s: bunks, i: bunking, d: bunked, p: bunked, '3': bunks
+bunked <> b: bunk, f: dp
+bunker <> s: bunkers, d: bunkered, p: bunkered, i: bunkering, '3': bunkers
+bunkered <> b: bunker, f: dp
+bunkering <> b: bunker, f: i
+bunkers <> f: s3, b: bunker
+bunkhouse <> s: bunkhouses
+bunkhouses <> b: bunkhouse, f: s
+bunking <> b: bunk, f: i
+bunks <> b: bunk, f: s3
+Bunn <> s: bunns
+bunned <> b: bun, f: d
+bunnied <> b: bunny, f: p
+bunnies <> b: bunny, f: s
+bunning <> b: bun, f: i
+bunny <> s: bunnies, p: bunnied
+buns <> b: bun, f: s
+bunt <> i: bunting, p: bunted, '3': bunts, d: bunted
+Bunter <> s: bunters
+bunting <> f: i, b: bunt, s: buntings
+buntings <> b: bunting, f: s
+bunyip <> s: bunyips
+bunyips <> b: bunyip, f: s
+buoy <> d: buoyed, s: buoys, p: buoyed, i: buoying, '3': buoys
+buoyed <> b: buoy, f: dp
+buoying <> b: buoy, f: i
+buoys <> f: s3, b: buoy
+bur <> s: burs, i: burring, p: burred, '3': burs, d: burred
+Burberry <> s: burberrys
+burble <> p: burbled, i: burbling, '3': burbles, s: burbles, d: burbled
+burbled <> f: pd, b: burble
+burbles <> b: burble, f: 3s
+burbling <> b: burble, f: i, s: burblings
+burden <> s: burdens, d: burdened, i: burdening, p: burdened, '3': burdens
+burdened <> b: burden, f: dp, d: burdened
+burdening <> b: burden, f: i
+burdens <> f: s3, b: burden
+burdock <> s: burdocks
+burdocks <> b: burdock, f: s
+BURDON <> d: burdoned
+bureau <> s: bureaux
+bureaucracies <> b: bureaucracy, f: s
+bureaucracy <> s: bureaucracies
+bureaucrat <> s: bureaucrats
+bureaucratize <> d: bureaucratized, p: bureaucratized, i: bureaucratizing
+bureaucratized <> b: bureaucratize, f: dp, p: bureaucratized
+bureaucratizing <> b: bureaucratize, f: i
+bureaucrats <> b: bureaucrat, f: s
+bureaux <> b: bureau, f: s
+burgage <> s: burgages
+burgages <> b: burgage, f: s
+Burge <> s: burges, '3': burges
+burgeon <> d: burgeoned, s: burgeons, p: burgeoned, i: burgeoning, '3': burgeons
+burgeoned <> b: burgeon, f: dp
+burgeoning <> i: burgeoning, b: burgeoning, f: i
+burgeons <> f: s3, b: burgeon
+burger <> s: burgers
+burgers <> b: burger, f: s
+burgess <> s: burgesses
+burgesses <> b: burgess, f: s
+burgh <> s: burghs
+burgher <> s: burghers
+burghers <> b: burgher, f: s
+burghs <> b: burgh, f: s
+burglar <> s: burglars
+burglaries <> b: burglary, f: s
+burglarize <> i: burglarizing, p: burglarized, '3': burglarizes, d: burglarized
+burglarized <> f: pd, b: burglarize
+burglarizes <> f: '3', b: burglarize
+burglarizing <> f: i, b: burglarize
+burglars <> b: burglar, f: s
+burglary <> s: burglaries
+burgle <> d: burgled, p: burgled, i: burgling, '3': burgles
+burgled <> b: burgle, f: dp, d: burgled
+burgles <> b: burgle, f: '3'
+burgling <> b: burgle, f: i
+burgo <> s: burgos
+Burgos <> b: burgo, f: s
+Burgundian <> s: burgundians
+Burgundy <> s: burgundies
+burial <> s: burials
+burials <> b: burial, f: s
+buried <> b: bury, f: dp, d: buried, p: buried
+burk <> s: burks
+burka <> s: burkas
+burkas <> b: burka, f: s
+burke <> i: burking, p: burked, '3': burkes, d: burked
+burked <> f: pd, b: burke
+burkes <> f: '3', b: burke
+burking <> f: i, b: burke
+burks <> b: burk, f: s
+burl <> i: burling, p: burled, '3': burls, d: burled
+burlap <> s: burlaps
+burlaps <> b: burlap, f: s
+burled <> f: pd, b: burl
+burlesque <> s: burlesques, d: burlesqued, i: burlesquing, p: burlesqued, '3': burlesques
+burlesqued <> f: dp, b: burlesque
+burlesques <> f: s3, b: burlesque
+burlesquing <> b: burlesque, f: i
+burlier <> b: burly, f: r
+burlies <> b: burly, f: '3'
+burliest <> b: burly, f: t
+burling <> b: burl, f: i
+burls <> f: '3', b: burl
+burly <> r: burlier, '3': burlies, t: burliest
+Burman <> s: burmans
+burmans <> b: burman, f: s
+burn <> d: burnt, i: burning, p: burned, s: burns, '3': burns
+burned <> b: burn, f: dp, d: burned, p: burned
+burner <> s: burners
+burners <> b: burner, f: s
+burnet <> s: burnets
+burnets <> b: burnet, f: s
+burning <> b: burn, f: i, i: burning, s: burnings
+burnish <> i: burnishing, p: burnished, d: burnished, r: burnisher, '3': burnishes
+burnished <> p: burnished, b: burnished, f: p
+burnisher <> b: burnish, f: r
+burnishes <> f: '3', b: burnish
+burnishing <> b: burnish, f: i
+burns <> b: burn, f: s3
+burnt <> b: burn, f: dp, d: burnt
+burp <> p: burped, i: burping, s: burps, '3': burps, d: burped
+burped <> b: burp, f: pd
+burping <> b: burp, f: i
+burps <> b: burp, f: s3
+burr <> s: burrs, d: burred, p: burred, '3': burrs
+burred <> b: burr, f: dp
+Burridge <> s: burridges
+burring <> i: burring, b: burring, f: i
+burrito <> s: burritos
+burritos <> b: burrito, f: s
+burrow <> s: burrows, i: burrowing, p: burrowed, d: burrowed, '3': burrows
+burrowed <> b: burrow, f: pd
+burrower <> s: burrowers
+burrowers <> b: burrower, f: s
+burrowing <> b: burrow, f: i, s: burrowings, i: burrowing
+Burrows <> b: burrow, f: s3
+burrs <> b: burr, f: s
+burs <> f: s3, b: bur
+bursar <> s: bursars
+bursaries <> b: bursary, f: s
+bursars <> b: bursar, f: s
+bursary <> s: bursaries
+burst <> p: burst, b: burst, f: pd, i: bursting, s: bursts, d: burst, '3': bursts
+bursting <> b: burst, f: i, i: bursting
+bursts <> b: burst, f: s3
+burthen <> s: burthens, i: burthening, p: burthened, '3': burthens, d: burthened
+burthened <> f: pd, b: burthen
+burthening <> f: i, b: burthen
+burthens <> f: s3, b: burthen
+Burundian <> s: burundians
+bury <> d: buried, i: burying, p: buried, '3': buries
+bus <> s: buses, i: bussing, p: bussed, '3': busses, d: bussed
+busbar <> s: busbars
+busbars <> b: busbar, f: s
+busboy <> s: busboys
+busboys <> b: busboy, f: s
+busby <> s: busbys
+busbys <> b: busby, f: s
+buse <> d: bused, i: busing, s: buses, '3': buses, p: bused
+bused <> b: buse, f: dp
+buses <> b: bus, f: s
+bush <> s: bushes, d: bushed, i: bushing, p: bushed, '3': bushes
+bushbabies <> b: bushbaby, f: s
+bushbaby <> s: bushbabies
+bushed <> f: dp, b: bush
+bushel <> s: bushels, i: bushelling, p: bushelled, '3': bushels, d: bushelled
+bushelled <> f: pd, b: bushel
+bushelling <> f: i, b: bushel
+bushels <> f: s3, b: bushel
+bushes <> f: s3, b: bush
+bushier <> b: bushy, f: r
+bushies <> b: bushy, f: '3'
+bushing <> f: i, b: bush
+bushland <> s: bushlands
+bushlands <> b: bushland, f: s
+bushman <> s: bushmen
+bushmen <> b: bushman, f: s
+bushwhack <> i: bushwhacking, d: bushwhacked, p: bushwhacked, '3': bushwhacks
+bushwhacked <> f: dp, b: bushwhack
+bushwhacking <> b: bushwhack, f: i
+bushwhacks <> f: '3', b: bushwhack
+bushy <> r: bushier, '3': bushies
+busied <> b: busy, f: pd
+busier <> b: busy, f: r
+busies <> b: busy, f: '3'
+busiest <> b: busy, f: t
+business <> s: businesses
+businesses <> b: business, f: s
+businessman <> s: businessmen
+businessmen <> b: businessman, f: s
+businessperson <> s: businesspersons
+businesspersons <> b: businessperson, f: s
+businesswoman <> s: businesswomen
+businesswomen <> b: businesswoman, f: s
+busing <> b: buse, f: i
+busk <> i: busking, p: busked, d: busked
+busked <> b: busk, f: pd
+busker <> s: buskers
+buskers <> b: busker, f: s
+buskin <> s: buskins
+busking <> b: busk, f: i
+buskins <> b: buskin, f: s
+busload <> s: busloads
+busloads <> b: busload, f: s
+busman <> s: busmen
+busmen <> b: busman, f: s
+buss <> d: bussed, i: bussing, p: bussed, s: busses, '3': busses
+bussed <> b: buss, f: dp
+busses <> b: buss, f: s3
+bussing <> b: buss, f: i
+bust <> s: busts, i: busting, d: busted, b: bust, f: dp, p: busted, '3': busts, r: buster
+bust-up <> s: bust-ups
+bust-ups <> b: bust-up, f: s
+bustard <> s: bustards
+bustards <> b: bustard, f: s
+busted <> b: bust, f: dp, d: busted, p: busted
+buster <> b: bust, f: r, s: busters
+bustier <> b: busty, f: r, s: bustiers
+busting <> b: bust, f: i
+bustle <> p: bustled, i: bustling, '3': bustles, d: bustled, s: bustles
+bustled <> b: bustle, f: pd
+bustles <> b: bustle, f: 3s
+bustling <> b: bustle, f: i, i: bustling
+busts <> b: bust, f: s3
+busty <> r: bustier
+busway <> s: busways
+busways <> b: busway, f: s
+busy <> t: busiest, p: busied, r: busier, i: busying, d: busied, '3': busies
+busybodies <> b: busybody, f: s
+busybody <> s: busybodies
+busying <> b: busy, f: i
+butane <> s: butanes
+butanes <> b: butane, f: s
+butch <> i: butching, s: butches
+butcher <> d: butchered, p: butchered, i: butchering, '3': butchers
+butchered <> b: butcher, f: dp, p: butchered
+butcheries <> b: butchery, f: s
+butchering <> b: butcher, f: i
+butchers <> b: butcher, f: '3'
+butchery <> s: butcheries
+butches <> b: butch, f: s
+butching <> b: butch, f: i
+bute <> s: butes
+butes <> b: bute, f: s
+butler <> s: butlers
+butlers <> b: butler, f: s
+Butlin <> s: butlins
+Butlins <> b: butlin, f: s
+butt <> s: butts, i: butting, '3': butts, p: butted, d: butted
+butte <> s: buttes
+butted <> f: pd, b: butt
+butter <> d: buttered, i: buttering, p: buttered, s: butters, '3': butters
+buttercup <> s: buttercups
+buttercups <> b: buttercup, f: s
+buttered <> b: butter, f: dp, d: buttered
+butterfat <> s: butterfats
+butterfats <> b: butterfat, f: s
+butterfingers <> b: butterfinger, f: s
+butterflies <> b: butterfly, f: s
+butterfly <> s: butterflies, i: butterflying, p: butterflied, '3': butterflies, d: butterflied
+buttering <> b: butter, f: i
+butters <> f: s3, b: butter
+butterwort <> s: butterworts
+butterworts <> b: butterwort, f: s
+buttes <> b: butte, f: s
+butties <> b: butty, f: s
+butting <> b: butt, f: i, i: butting
+buttock <> s: buttocks, p: buttocked
+buttocked <> b: buttock, f: p
+buttocks <> b: buttock, f: s
+button <> s: buttons, p: buttoned, i: buttoning, d: buttoned, '3': buttons
+buttoned <> b: button, f: pd, p: buttoned, d: buttoned
+buttonhole <> s: buttonholes, p: buttonholed, d: buttonholed, i: buttonholing, '3': buttonholes
+buttonholed <> b: buttonhole, f: pd
+buttonholes <> f: s3, b: buttonhole
+buttonholing <> b: buttonhole, f: i
+buttoning <> b: button, f: i, s: buttonings, i: buttoning
+buttons <> b: button, f: s3
+buttress <> s: buttresses, d: buttressed, '3': buttresses, i: buttressing, p: buttressed
+buttressed <> b: buttress, f: dp, d: buttressed
+buttresses <> b: buttress, f: s3
+buttressing <> b: buttress, f: i, i: buttressing
+butts <> b: butt, f: s3
+butty <> s: butties
+buy <> p: bought, i: buying, d: bought, '3': buys, s: buys
+buy-back <> s: buy-backs
+buy-backs <> b: buy-back, f: s
+buy-in <> s: buy-ins
+buy-ins <> b: buy-in, f: s
+buyer <> s: buyers
+buyers <> b: buyer, f: s
+buying <> b: buy, f: i, i: buying
+buyout <> s: buyouts
+buyouts <> b: buyout, f: s
+buys <> b: buy, f: 3s
+buz <> p: buzzed, i: buzzing, d: buzzed
+buzz <> '3': buzzes, s: buzzes, i: buzzing, p: buzzed, d: buzzed
+buzzard <> s: buzzards
+buzzards <> b: buzzard, f: s
+buzzed <> b: buz, f: pd
+buzzer <> s: buzzers
+buzzers <> b: buzzer, f: s
+buzzes <> b: buzz, f: 3s
+buzzing <> b: buz, f: i, i: buzzing, s: buzzings
+buzzword <> s: buzzwords
+buzzwords <> b: buzzword, f: s
+by-election <> s: by-elections
+by-elections <> b: by-election, f: s
+by-law <> s: by-laws
+by-laws <> b: by-law, f: s
+by-product <> s: by-products
+by-products <> b: by-product, f: s
+bye <> s: byes
+bye-bye <> s: bye-byes
+bye-byes <> b: bye-bye, f: s
+byelaw <> s: byelaws
+byelaws <> b: byelaw, f: s
+Byelorussian <> s: byelorussians
+byer <> s: byers
+Byers <> b: byer, f: s
+byes <> b: bye, f: s
+bygone <> s: bygones
+bygones <> b: bygone, f: s
+bylaw <> s: bylaws
+bylaws <> b: bylaw, f: s
+byline <> s: bylines
+bylines <> b: byline, f: s
+byname <> s: bynames, '3': bynames
+bynames <> b: byname, f: s3
+Byng <> s: byngs
+bypass <> i: bypassing, d: bypassed, s: bypasses, p: bypassed, '3': bypasses
+bypassed <> b: bypass, f: dp, p: bypassed
+bypasses <> b: bypass, f: s3
+bypassing <> b: bypass, f: i, i: bypassing
+byproduct <> s: byproducts, '3': byproducts
+byproducts <> b: byproduct, f: s3
+byre <> s: byres
+byres <> b: byre, f: s
+Byrne <> s: byrnes, '3': byrnes
+byroad <> s: byroads
+byroads <> b: byroad, f: s
+bystander <> s: bystanders
+bystanders <> b: bystander, f: s
+byte <> s: bytes
+bytes <> b: byte, f: s
+byway <> s: byways
+byways <> b: byway, f: s
+byword <> s: bywords
+bywords <> b: byword, f: s
+Byzantine <> s: byzantines

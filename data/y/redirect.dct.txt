@@ -1,0 +1,10 @@
+yakuts => Yakut
+yankees => Yankee
+yanomami => Yanomami
+yemenis => Yemeni
+yorkers => yorker
+yorubas => Yoruba
+yts => Yt
+yugoslavians => Yugoslavian
+yuppies => yuppy
+yves => yve

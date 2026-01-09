@@ -1,0 +1,1370 @@
+e'er <> w: 57028
+e-commerce <> w: 57030
+each <> w: 57053
+each other <> w: 225787
+eager <> w: 57060, p: [20203]
+eager beaver <> p: [20345]
+eagerly <> w: 57062, p: [42864]
+eagerness <> w: 57063, p: [20203]
+eagle <> w: 57064, p: [50215]
+eagle eye <> p: [42308, 26365, 42308]
+eagle owl <> p: [24627]
+eaglet <> w: 57068, p: [24655]
+ear <> w: 57073, p: [50645]
+ear lobe <> w: 57082, p: [50647]
+earache <> w: 57085, p: [51602]
+eardrum <> w: 57087, p: [30351]
+earful <> w: 57092
+earl <> w: 57094
+earlier <> w: 57106
+earlobe <> w: 57109, p: [50647]
+early <> w: 57110, p: [22421, 22421]
+early music <> p: [38313]
+earmark <> w: 57127, p: [59112]
+earmuff <> w: 57128, p: [33113, 33809]
+earn <> w: 57129, p: [17897, 53889]
+earnest <> w: 57134, p: [60168]
+earnestly <> w: 57136
+earnestness <> w: 57137
+earnings <> w: 57139, p: [17903]
+earphone <> w: 57142, p: [29406]
+earpiece <> w: 57143
+earplug <> w: 57144, p: [33807]
+earring <> w: 57146, p: [28389]
+earshot <> w: 57147
+earth <> w: 57149, p: [48649, 17609, 51108]
+earthenware <> w: 57172
+earthnut <> w: 57180, p: [36349, 14641]
+earthquake <> w: 57182, p: [39615]
+earthworm <> w: 57187, p: [50100]
+earthy <> w: 57188, p: [49922]
+earwax <> w: 57189
+earwig <> w: 57190, p: [25243]
+earworm <> w: 366969
+ease <> w: 57192
+eased <> w: 57195
+easel <> w: 57196, p: [25531]
+easily <> w: 57198, p: [43330]
+east <> w: 57201, p: [49500, 49500, 49500]
+eastbound <> w: 57243
+easterly <> w: 57254, p: [49500]
+eastern <> w: 57255, p: [49500]
+eastward <> w: 57307, p: [49500]
+easy <> w: 57309, p: [48611, 49628, 38889, 46589]
+easy chair <> w: 57310, p: [28313]
+easy listening <> p: [38180]
+easy money <> w: 57314, p: [43955]
+easy-going <> w: 210102, p: [51488]
+easygoing <> w: 57316, p: [51488, 49628]
+eat <> w: 57318, p: [48579, 48917, 53258]
+eat crow <> p: [40761]
+eat dirt <> p: [44698, 42806]
+eat humble pie <> p: [40761]
+eat in <> p: [52691]
+eat into <> p: [22674]
+eat out <> p: [23431]
+eat-in <> p: [52691]
+eatable <> w: 57326, p: [22778]
+eater <> w: 57328, p: [48579]
+eatery <> w: 57329, p: [51294]
+eating <> w: 57330, p: [48579]
+eating apple <> w: 57331, p: [48867]
+eats <> w: 57338
+eau de cologne <> p: [22933]
+eave <> w: 57345
+eavesdrop <> w: 57346, p: [47738]
+ebb <> w: 57349
+ebon <> w: 57508, p: [29092]
+ebony <> w: 57513, p: [29092, 29092]
+ebullient <> w: 57522
+eccentric <> w: 57535, p: [29657, 29657]
+eccentrically <> w: 57537, p: [49147]
+eccentricity <> w: 57538
+ecclesiastic <> w: 57543
+echelon <> w: 57566
+echidna <> w: 57570, p: [24130]
+echinus <> w: 57588
+echo <> w: 57592, p: [58849]
+echocardiogram <> w: 57596
+echocardiography <> w: 57598
+echoing <> w: 57605
+echolalia <> w: 57606
+echolocation <> w: 57609
+eclair <> w: 57614, p: [31161]
+eclampsia <> w: 57615
+eclat <> w: 57616
+eclectic <> w: 57617
+eclecticism <> w: 57619
+eclipse <> w: 57621, p: [23791]
+ecliptic <> w: 57623
+eclogue <> w: 57624
+eco <> w: 228644
+ecologic <> w: 57628, p: [21155]
+ecological <> w: 57629, p: [21155]
+ecologically <> w: 57634
+ecologist <> w: 57635
+ecology <> w: 57636, p: [21155]
+econobox <> w: 227653
+economic <> w: 57641, p: [28359]
+economical <> w: 57668, p: [49882, 28359]
+economically <> w: 57669, p: [41930]
+economics <> w: 57670, p: [36948]
+economist <> w: 57675, p: [50627]
+economize <> w: 57676
+economy <> w: 57678
+ecossaise <> w: 220916
+ecosystem <> w: 57683, p: [21042]
+ecoterrorism <> w: 57684
+ecotourism <> w: 57685
+ecru <> w: 57688, p: [29082, 29082]
+ecstasy <> w: 57689
+ecstatic <> w: 57690, p: [42560]
+ecstatically <> w: 57692
+ectomorph <> w: 57700, p: [16282]
+ectothermic <> w: 57714
+ecumenical <> w: 57723
+eczema <> w: 57729
+edacious <> w: 57736, p: [39143]
+edamame <> w: 218028
+eddo <> w: 57745, p: [26375]
+eddy <> w: 57746, p: [47530]
+edge <> w: 57770, p: [26262]
+edged <> w: 57774
+edgeless <> w: 57775
+edging <> w: 57781
+edgy <> w: 57782
+edible <> w: 57784, p: [22778]
+edifice <> w: 57802
+edify <> w: 57804, p: [55068]
+edit <> w: 57809, p: [19080, 35882]
+edited <> w: 57811
+edition <> w: 57819
+editor <> w: 57820, p: [51432, 19080]
+editorial <> w: 57823
+editorialist <> w: 57826
+editorialize <> w: 57827
+educate <> w: 57867, p: [19991]
+educated <> w: 57868, p: [44504]
+education <> w: 57870, p: [19989]
+educational <> w: 57873, p: [19989]
+educationalist <> w: 57877
+educationally <> w: 57878
+educationist <> w: 57879
+educator <> w: 57881, p: [50529]
+educe <> w: 57882
+edutainment <> w: 57884
+eel <> w: 58064, p: [24641]
+eerie <> w: 58073, p: [45984]
+eerily <> w: 58074, p: [49063]
+efface <> w: 58079, p: [26323]
+effect <> w: 58082, p: [60921, 60921]
+effective <> w: 58085, p: [43422]
+effectively <> w: 58086, p: [43422]
+effectiveness <> w: 58087
+effects <> w: 58090, p: [28998]
+effectual <> w: 58091
+effectually <> w: 58093
+effectuate <> w: 58095
+effeminacy <> w: 58097
+effeminate <> w: 58098
+effervesce <> w: 58107
+effervescence <> w: 58108, p: [19558]
+effervescent <> w: 58109, p: [19558]
+effete <> w: 58111
+efficacious <> w: 58112, p: [43422]
+efficacy <> w: 58115
+efficiency <> w: 58116
+efficient <> w: 58120, p: [46247]
+efficiently <> w: 58121, p: [46247]
+effigy <> w: 58122, p: [18778]
+efflorescence <> w: 58125, p: [29426]
+efflorescent <> w: 58126
+effluent <> w: 58128
+effluvium <> w: 58129
+effort <> w: 58131
+effortful <> w: 58132
+effortless <> w: 58134, p: [48611]
+effortlessly <> w: 58135, p: [46591]
+effrontery <> w: 58137
+effulgence <> w: 58138
+effulgent <> w: 58139
+effuse <> w: 58140, p: [42612]
+effusion <> w: 58141
+effusive <> w: 58142
+eft <> w: 58146
+egalitarian <> w: 58148
+egalitarianism <> w: 58149
+egg <> w: 58156, p: [27047, 15635]
+egg cup <> p: [38216]
+egg roll <> p: [29673]
+egg timer <> p: [37556]
+egg white <> p: [18209]
+eggbeater <> w: 58178, p: [50813, 49486]
+eggnog <> w: 58184, p: [50379]
+eggplant <> w: 58185, p: [50451, 38749]
+eggs <> w: 58187, p: [27047]
+eggshell <> w: 58190, p: [38797]
+ego <> w: 58195
+ego trip <> p: [42478]
+egocentric <> w: 58198, p: [27299, 27299]
+egoism <> w: 58200
+egoist <> w: 58201
+egoistic <> w: 58202, p: [27299]
+egoistical <> w: 58203, p: [27299]
+egomania <> w: 58204
+egotism <> w: 58206
+egotist <> w: 58207
+egotistic <> w: 58208, p: [22025]
+egotistical <> w: 58209, p: [22025]
+egotistically <> w: 58210
+egregious <> w: 58212
+egregiously <> w: 225423, p: [49227]
+egress <> w: 58213, p: [44016]
+egret <> w: 58215, p: [24657]
+eh <> w: 218070
+eiderdown <> w: 58259, p: [32962]
+eigenvalue <> w: 58265
+eight <> w: 58268, p: [35954]
+eighteen <> w: 58275, p: [36008]
+eighteenth <> w: 58276, p: [36509, 36509]
+eighth <> w: 58281, p: [36489, 36489]
+eighth note <> w: 58283, p: [30719]
+eightieth <> w: 58285
+eighty <> w: 58291, p: [36166]
+either <> w: 58323, p: [60813, 60813]
+ejaculate <> w: 58324
+eject <> w: 58328, p: [53649]
+elaborate <> w: 58359, p: [50126, 50086]
+elaborated <> w: 58360
+elaborately <> w: 58361, p: [50086]
+eland <> w: 58385, p: [34260]
+elapse <> w: 58514, p: [51370]
+elastic <> w: 58522, p: [45772]
+elasticity <> w: 58531
+elastoplast <> w: 58536
+elated <> w: 58539, p: [42566]
+elation <> w: 58545
+elbow <> w: 58549, p: [50649, 59240]
+elbow grease <> p: [43042]
+elder <> w: 58557, p: [20277]
+elderberry <> w: 58560, p: [35072]
+elderly <> w: 58562, p: [60594, 20277]
+eldritch <> w: 58567
+elect <> w: 58574, p: [27347, 46109]
+election <> w: 58577, p: [27347]
+elective <> w: 58584
+elector <> w: 58586
+electoral <> w: 58587, p: [27347]
+electoral college <> w: 58588
+electorally <> w: 225493
+electorate <> w: 58590
+electra <> w: 58591
+electric <> w: 58593, p: [61138, 36359]
+electric blanket <> w: 58602
+electric blue <> p: [38433]
+electric chair <> w: 58607
+electric eel <> p: [50313]
+electric guitar <> p: [36950]
+electric shaver <> p: [22802]
+electric shock <> w: 58651
+electric storm <> p: [17240]
+electrical <> w: 58658, p: [61138]
+electrical storm <> w: 58686, p: [17240]
+electrically <> w: 58690, p: [49956]
+electrician <> w: 58691, p: [20974]
+electricity <> w: 58692, p: [22425]
+electrify <> w: 58694, p: [46241]
+electrifying <> w: 58695
+electrocardiogram <> w: 58697, p: [35627]
+electrocute <> w: 58706, p: [59242]
+electrode <> w: 58709
+electroencephalogram <> w: 58063
+electrolysis <> w: 58718
+electrolyte <> w: 58719
+electromagnetic <> w: 58727
+electromagnetism <> w: 58736
+electromechanical <> w: 58737
+electromyography <> w: 58747
+electron <> w: 58748
+electronic <> w: 58768, p: [28626]
+electronic mail <> w: 58789
+electronica <> w: 219877
+electronically <> w: 58806, p: [50024]
+electronics <> w: 58807, p: [28626]
+electronystagmography <> w: 218640
+electrophorus <> w: 58814, p: [50313]
+eleemosynary <> w: 58841
+elegance <> w: 58842
+elegant <> w: 58843, p: [60580, 26397]
+elegantly <> w: 58847, p: [27564]
+elegiac <> w: 58848
+elegy <> w: 58853
+element <> w: 58854, p: [23557]
+elemental <> w: 58870
+elementary <> w: 58872
+elementary school <> p: [28770]
+elephant <> w: 58886, p: [50138]
+elephant ear <> p: [37844]
+elephant seal <> p: [33896]
+elephantine <> w: 58899, p: [28744]
+elevate <> w: 58910, p: [61068]
+elevated <> w: 58911
+elevation <> w: 58914
+elevator <> w: 58915, p: [47124]
+eleven <> w: 59008, p: [35988, 49804]
+eleven-plus <> w: 59009
+elevenses <> w: 209269
+eleventh <> w: 59011, p: [36495, 36495]
+eleventh hour <> w: 59013, p: [44088]
+elfin <> w: 59016
+elicit <> w: 59027
+elide <> w: 59030
+eligible <> w: 59037
+eliminate <> w: 59042, p: [59442]
+elision <> w: 59056
+elite <> w: 59057
+elitist <> w: 59060
+elixir <> w: 59061
+elk <> w: 59084, p: [33904, 24132]
+ellipse <> w: 59098, p: [25944]
+ellipsis <> w: 59099
+ellipsoid <> w: 59100
+ellipsoidal <> w: 59102
+elliptic <> w: 59103, p: [22897]
+elliptical <> w: 59106, p: [22897]
+elm <> w: 59112, p: [31873]
+elocution <> w: 59125
+elongate <> w: 59131, p: [28129]
+elongated <> w: 59133
+elope <> w: 59135, p: [53535]
+elopement <> w: 59136
+eloquence <> w: 59140
+eloquent <> w: 59141, p: [60170]
+eloquently <> w: 59142, p: [40549]
+else <> w: 210475, p: [60712]
+elsewhere <> w: 59145
+elucidate <> w: 59149
+elude <> w: 59152, p: [44040]
+elusion <> w: 59155
+elusive <> w: 59156
+elver <> w: 59160, p: [24645]
+emaciate <> w: 59181
+emaciated <> w: 59182, p: [19795]
+emaciation <> w: 59183, p: [19795]
+emanate <> w: 59185, p: [54934]
+emancipate <> w: 59187, p: [59710]
+embankment <> w: 59204
+embargo <> w: 59205, p: [58613]
+embark <> w: 59206, p: [18585, 52747]
+embarrass <> w: 59210, p: [47746]
+embarrassed <> w: 59211, p: [19596]
+embarrassing <> w: 59212, p: [49556]
+embarrassingly <> w: 59213, p: [49556]
+embarrassment <> w: 59214, p: [52127]
+embassy <> w: 59216, p: [44980]
+embed <> w: 59220, p: [46517]
+embedded <> w: 59221
+embellish <> w: 59222, p: [20187]
+embellishment <> w: 59223
+embezzle <> w: 59232, p: [60031]
+embezzlement <> w: 59234
+emblazon <> w: 59241
+emblem <> w: 59242
+emblematic <> w: 59243
+emblematical <> w: 59244
+embodied <> w: 59245
+embodiment <> w: 59246
+embody <> w: 59247, p: [59541]
+embolden <> w: 59248, p: [40165]
+emboldened <> w: 59249
+embolism <> w: 59252
+embonpoint <> w: 59254, p: [29206]
+emboss <> w: 59255, p: [47156]
+embossing <> w: 222288
+embouchure <> w: 59260, p: [30207]
+embrace <> w: 59262, p: [19366]
+embrasure <> w: 59266
+embroider <> w: 59270, p: [47084]
+embroidery <> w: 59273, p: [31313]
+embroil <> w: 59278
+embroiled <> w: 59279
+embryo <> w: 59282, p: [29659]
+embryonic <> w: 59292
+emcee <> w: 59298, p: [19773]
+emend <> w: 59301
+emerald <> w: 59304, p: [25321, 25321]
+emerge <> w: 59308, p: [50257]
+emergence <> w: 59309
+emergency <> w: 59310, p: [21340]
+emergency brake <> w: 59312, p: [21340]
+emergency room <> w: 59317
+emergent <> w: 59318
+emerging <> w: 59320
+emeritus <> w: 59321
+emery board <> w: 216721, p: [33382]
+emetic <> w: 59333
+emigrant <> w: 59337
+emigrate <> w: 59338, p: [19849]
+emigration <> w: 59339, p: [19849]
+emigre <> w: 59340
+eminence <> w: 59363
+eminent <> w: 59365
+eminently <> w: 59367
+emissary <> w: 59370
+emission <> w: 59372
+emit <> w: 59374, p: [54529]
+emitter <> w: 59502
+emmer <> w: 59512, p: [35473]
+emo <> w: 219971, p: [38403]
+emollient <> w: 59519, p: [32632]
+emolument <> w: 59520
+emote <> w: 59521
+emoticon <> w: 59522, p: [28952]
+emotion <> w: 59523, p: [61280]
+emotional <> w: 59524, p: [45249]
+emotionally <> w: 59532
+emotionless <> w: 59533, p: [39875]
+empanada <> w: 217544, p: [37287]
+empathetic <> w: 59539, p: [42476]
+empathetically <> w: 59540, p: [20261]
+empathic <> w: 59541, p: [20261]
+empathize <> w: 59543, p: [61308]
+empathy <> w: 59544
+emperor <> w: 59547
+emperor penguin <> p: [27099]
+emphasis <> w: 59556, p: [39453]
+emphasize <> w: 59559, p: [52835]
+emphasized <> w: 59560, p: [49558]
+emphatic <> w: 59562, p: [49558, 45842]
+emphatically <> w: 59563, p: [49558]
+emphysema <> w: 59564
+empire <> w: 59568, p: [34738]
+empiric <> w: 59573
+empirical <> w: 59574
+empirically <> w: 59577, p: [50054]
+empiricism <> w: 59578
+employ <> w: 59585, p: [16397, 26808]
+employed <> w: 59587, p: [20069]
+employee <> w: 59588, p: [20069]
+employer <> w: 59595, p: [20073]
+employment <> w: 59596, p: [26808, 26808, 16397]
+employment agency <> w: 59597
+emporium <> w: 59603, p: [27045]
+empower <> w: 59604, p: [59184]
+empowering <> w: 225422
+empowerment <> w: 59606
+empress <> w: 59607
+emptiness <> w: 59608, p: [14958, 28413]
+empty <> w: 59610, p: [14958, 23543, 47046, 14958]
+empty-headed <> w: 59613
+empurple <> w: 59619
+ems <> w: 208604
+emulate <> w: 59626, p: [59278]
+emulsifier <> w: 59631
+emulsify <> w: 59632, p: [20940]
+emulsion <> w: 59633
+en bloc <> w: 59637
+en masse <> w: 59642, p: [49904]
+en papillote <> p: [37968]
+en route <> w: 59644
+en suite <> w: 208494, p: [28708]
+enable <> w: 59645, p: [48327]
+enact <> w: 59650, p: [58601, 26604]
+enactment <> w: 59651
+enamel <> w: 59654, p: [30513, 47941]
+enamelware <> w: 59655
+enamor <> w: 59657
+enamored <> w: 59658
+encamp <> w: 59673
+encampment <> w: 59674, p: [28840, 28838, 23573]
+encapsulate <> w: 59675, p: [46002]
+encase <> w: 59677, p: [54428]
+encaustic <> w: 59680, p: [47995]
+enceinte <> w: 59681, p: [21997]
+encephalitis <> w: 59688
+encephalography <> w: 59692
+encephalon <> w: 59695, p: [48519]
+enchant <> w: 59699, p: [47955]
+enchanted <> w: 59700
+enchanting <> w: 59703, p: [49369]
+enchantingly <> w: 59704, p: [49369]
+enchantment <> w: 59705
+enchantress <> w: 59706, p: [29795]
+enchilada <> w: 59707, p: [31203]
+encircle <> w: 59711, p: [23775]
+encircling <> w: 59714
+enclave <> w: 59715
+enclose <> w: 59716, p: [47740]
+enclosed <> w: 59717
+enclosure <> w: 59720
+encode <> w: 59722, p: [54617]
+encoder <> w: 223837
+encomium <> w: 59726
+encompass <> w: 59727, p: [43192]
+encompassing <> w: 59728
+encore <> w: 59731
+encounter <> w: 59732, p: [59082, 59688]
+encourage <> w: 59734, p: [27766]
+encouraged <> w: 59735, p: [19614]
+encouragement <> w: 59736, p: [27766]
+encouraging <> w: 59737, p: [46095, 20251]
+encroach <> w: 59740
+encroaching <> w: 59743
+encrust <> w: 59745, p: [54511]
+encrypt <> w: 59748, p: [54617]
+encryption <> w: 59749
+encumber <> w: 59751
+encumbrance <> w: 59753
+encyclical <> w: 59758
+encyclopedia <> w: 59764
+encyclopedic <> w: 59765
+end <> w: 59769, p: [21268, 47935]
+end up <> p: [52071]
+end zone <> w: 226642
+endanger <> w: 59791, p: [47602]
+endangered <> w: 59792, p: [31299]
+endear <> w: 59797
+endearing <> w: 59798, p: [49209]
+endearingly <> w: 59799
+endearment <> w: 59800, p: [61302]
+endeavor <> w: 59801, p: [43004]
+ended <> w: 59804
+endemic <> w: 59805, p: [45738, 29006]
+endgame <> w: 59814
+ending <> w: 59816, p: [21268]
+endive <> w: 59817, p: [35019]
+endless <> w: 59818, p: [46495]
+endlessly <> w: 59819, p: [45399]
+endocardium <> w: 59823
+endocrine <> w: 59829
+endocrinologist <> w: 59832
+endocrinology <> w: 59833
+endogamy <> w: 60005
+endometriosis <> w: 60017
+endorse <> w: 60031, p: [59070]
+endorsement <> w: 60032
+endoscope <> w: 60035, p: [25711]
+endoscopy <> w: 60037
+endoskeleton <> w: 60038
+endosperm <> w: 60039, p: [36044]
+endothermic <> w: 60047
+endow <> w: 60052
+endowment <> w: 60054
+endpaper <> w: 221370
+ends <> w: 367622
+endue <> w: 60061
+endurable <> w: 60062
+endurance <> w: 60063
+endure <> w: 60066, p: [46420]
+enduring <> w: 60067
+enduro <> w: 227142
+enema <> w: 60074
+enemy <> w: 60075, p: [19568]
+energetic <> w: 60076, p: [23047]
+energetically <> w: 60077, p: [43044]
+energising <> w: 60081
+energize <> w: 60082, p: [59016]
+energizing <> w: 60084
+energy <> w: 60085, p: [22427]
+enervate <> w: 60095
+enervated <> w: 60096
+enfeeble <> w: 60102, p: [54682]
+enfeebled <> w: 225393
+enfold <> w: 60110
+enforce <> w: 60112, p: [27692]
+enforceable <> w: 60113
+enforced <> w: 60114
+enforcement <> w: 60115
+enfranchise <> w: 60117
+engage <> w: 60120, p: [16397, 18730]
+engage in <> p: [52705]
+engaged <> w: 60121, p: [18730]
+engagement <> w: 60122, p: [18810, 18730, 17627, 16397]
+engagement ring <> w: 60123, p: [21985]
+engaging <> w: 60124, p: [43364]
+engender <> w: 60131
+engine <> w: 60133, p: [23589]
+engineer <> w: 60139, p: [50527, 59515]
+engineered <> w: 365487
+engineering <> w: 60141, p: [50527]
+engorge <> w: 60198, p: [32531]
+engrave <> w: 60206, p: [51194]
+engraver <> w: 60208, p: [47702]
+engraving <> w: 60209, p: [31301, 31361]
+engross <> w: 60210, p: [48715]
+engrossed <> w: 60211
+engrossing <> w: 60212, p: [17857]
+engulf <> w: 60214
+enhance <> w: 60215, p: [51896]
+enhanced <> w: 60216
+enhancement <> w: 60217
+enigma <> w: 60223
+enigmatic <> w: 60225, p: [48609]
+enjambement <> w: 60231
+enjambment <> w: 60232
+enjoin <> w: 60233
+enjoy <> w: 60236, p: [20416]
+enjoyable <> w: 60237, p: [15943]
+enjoyably <> w: 60239
+enjoyment <> w: 60241, p: [52115]
+enkindle <> w: 60246
+enkindled <> w: 60247
+enlarge <> w: 60250, p: [52065]
+enlarged <> w: 60251
+enlargement <> w: 60253
+enlarger <> w: 60254
+enlighten <> w: 60255, p: [55070]
+enlightened <> w: 60256, p: [45158]
+enlightening <> w: 60257
+enlightenment <> w: 60258
+enlist <> w: 60260, p: [47690]
+enlivening <> w: 60271
+enmity <> w: 60274
+ennead <> w: 60275, p: [35976]
+ennoble <> w: 60276
+ennui <> w: 60279
+enology <> w: 60283
+enormity <> w: 60285
+enormous <> w: 60286, p: [23559]
+enormously <> w: 60287, p: [49301]
+enormousness <> w: 60288
+enough <> w: 60290, p: [20055, 51394, 43238]
+enough said <> p: [43252]
+enquiry <> w: 60297, p: [28802]
+enrage <> w: 60298, p: [48095]
+enraged <> w: 60299, p: [52143]
+enrapture <> w: 60301, p: [47959]
+enrich <> w: 60303, p: [48921]
+enroll <> w: 60309, p: [59092]
+enrollee <> w: 60310
+enrollment <> w: 60312
+ensconce <> w: 60313
+ensemble <> w: 60314, p: [18567]
+enshrine <> w: 60317
+enshroud <> w: 60318
+ensign <> w: 60321, p: [51590]
+ensilage <> w: 60322, p: [31881]
+enslave <> w: 60326, p: [59808]
+enslaved <> w: 224486, p: [19338]
+ensnare <> w: 60328
+ensue <> w: 60332
+ensuing <> w: 60333
+ensure <> w: 60334, p: [59580]
+ent <> w: 210013, p: [21505]
+entablature <> w: 60503
+entail <> w: 60504, p: [59367]
+entangle <> w: 60508
+entanglement <> w: 60510, p: [28786]
+entasis <> w: 60511
+entente <> w: 60516
+enter <> w: 60518, p: [22684]
+enter into <> p: [51923]
+entering <> w: 60526
+enteritis <> w: 60527
+enterprise <> w: 60548, p: [17911]
+enterprising <> w: 60551
+entertain <> w: 60554, p: [18744]
+entertained <> w: 60555, p: [35724]
+entertainer <> w: 60556, p: [18577]
+entertaining <> w: 60557, p: [52115]
+entertainment <> w: 60559, p: [35846, 19438]
+enthalpy <> w: 60563
+enthrall <> w: 60565
+enthralled <> w: 60566
+enthralling <> w: 60567, p: [49369]
+enthrone <> w: 60570, p: [30048]
+enthronement <> w: 60571, p: [30048]
+enthuse <> w: 60574
+enthusiasm <> w: 60575, p: [52009]
+enthusiast <> w: 60576, p: [17523]
+enthusiastic <> w: 60577, p: [22031]
+enthusiastically <> w: 60578
+enthymeme <> w: 221719
+entice <> w: 60579, p: [58739]
+enticing <> w: 60581
+entire <> w: 60582, p: [23701, 50136]
+entirely <> w: 60584, p: [45730]
+entirety <> w: 60586
+entitle <> w: 60587, p: [59184, 57901]
+entitled <> w: 60588, p: [60270]
+entitlement <> w: 60589
+entomb <> w: 60599, p: [27884]
+entombment <> w: 60600, p: [35870]
+entomologist <> w: 60604
+entomology <> w: 60605
+entourage <> w: 60616
+entrails <> w: 60621, p: [50715]
+entrance <> w: 60623, p: [18101, 48057]
+entranced <> w: 60629
+entranceway <> w: 60631, p: [18101]
+entrancing <> w: 60632, p: [49369]
+entrant <> w: 60633
+entrapment <> w: 60635
+entreat <> w: 60636, p: [55312]
+entreaty <> w: 60638
+entree <> w: 60640, p: [31153, 18101]
+entremets <> w: 60641, p: [31500]
+entrench <> w: 60642
+entrenched <> w: 60643
+entrepot <> w: 60646, p: [18059]
+entrepreneur <> w: 60647, p: [16358]
+entrepreneurial <> w: 60648
+entropic <> w: 224420
+entropy <> w: 60651
+entrust <> w: 60652, p: [59916]
+entry <> w: 60653, p: [18101]
+entryway <> w: 60655, p: [18101]
+entwine <> w: 60658
+enumerate <> w: 60663, p: [22732]
+enumeration <> w: 60664, p: [22732]
+enunciate <> w: 60666, p: [27999]
+enunciation <> w: 60667
+envelop <> w: 60670, p: [61062]
+envelope <> w: 60671, p: [16252]
+envenom <> w: 60674
+envious <> w: 60677, p: [60392]
+enviously <> w: 60678
+environment <> w: 60681, p: [17605]
+environmental <> w: 60682, p: [17605, 17605]
+environmentalism <> w: 60686
+environmentalist <> w: 60687, p: [21044]
+environmentally <> w: 60688
+environmentally friendly <> w: 210211
+environs <> w: 60689
+envisage <> w: 60690, p: [27624]
+envision <> w: 60691, p: [44974]
+envoy <> w: 60695
+envy <> w: 60697, p: [48133, 23601]
+enzyme <> w: 60702
+eon <> w: 60715
+eosinophil <> w: 60721
+epaulette <> w: 60740
+epee <> w: 60742
+epenthesis <> w: 60744
+epergne <> w: 60746, p: [41844]
+ephemeral <> w: 60754, p: [49614]
+epic <> w: 60774
+epically <> w: 225414
+epicardium <> w: 60783
+epicenter <> w: 60788
+epicure <> w: 60794
+epicurean <> w: 60795
+epicycle <> w: 60799
+epicycloid <> w: 60805
+epidemic <> w: 60809
+epidemiologist <> w: 60821
+epidemiology <> w: 60822
+epidermis <> w: 60830, p: [50741]
+epididymis <> w: 60832
+epiglottis <> w: 60846
+epigram <> w: 60850
+epigraph <> w: 60852
+epilation <> w: 60859
+epilator <> w: 60860, p: [29854]
+epilepsy <> w: 60863
+epileptic <> w: 60864
+epilogue <> w: 60872
+epinephrine <> w: 60881
+epiphysis <> w: 61012, p: [30439]
+epiphytic <> w: 365573
+episiotomy <> w: 61033
+episode <> w: 61034
+episodic <> w: 61035
+epistaxis <> w: 61042, p: [27181]
+epistemological <> w: 61046
+epistemology <> w: 61048
+epistolary <> w: 61068
+epistrophe <> w: 61070
+epitaph <> w: 61071
+epithalamium <> w: 61073
+epithelial <> w: 61074
+epithet <> w: 61081
+epitome <> w: 61082
+epitomize <> w: 61084
+epizootic <> w: 61090
+epoch <> w: 61091
+eponym <> w: 61095
+epos <> w: 61099
+epyllion <> w: 221987
+equable <> w: 61115, p: [31261]
+equal <> w: 61118, p: [61224, 48829, 49065, 48189, 61224]
+equal sign <> w: 61123, p: [23223]
+equality <> w: 61131, p: [61224]
+equalize <> w: 61135
+equalizer <> w: 61136
+equally <> w: 61138, p: [49065]
+equanimity <> w: 61140, p: [46344]
+equanimous <> w: 61141
+equate <> w: 61143, p: [48193]
+equation <> w: 61145
+equator <> w: 61146, p: [51254]
+equatorial <> w: 61147, p: [51254]
+equestrian <> w: 61151, p: [51082]
+equidistant <> w: 61160
+equilibrist <> w: 220935
+equilibrium <> w: 61167
+equine <> w: 61171
+equinox <> w: 61181
+equip <> w: 61182, p: [46822]
+equipage <> w: 61183, p: [30058]
+equipment <> w: 61184, p: [32966]
+equipoise <> w: 61187
+equipped <> w: 61190, p: [32624]
+equitable <> w: 61206
+equitably <> w: 61207, p: [50005]
+equity <> w: 61209, p: [61224]
+equivalent <> w: 61212, p: [49275]
+equivalently <> w: 225474, p: [49275]
+equivocal <> w: 61216
+equivocate <> w: 61219
+equivocation <> w: 61220
+era <> w: 61236
+eradicate <> w: 61238, p: [59341]
+erase <> w: 61249, p: [47811, 26323]
+eraser <> w: 61250, p: [49181]
+erasure <> w: 61254
+ere <> w: 229332
+erect <> w: 61263, p: [49453, 51218]
+erection <> w: 61271
+erectly <> w: 61272
+ergometer <> w: 61293
+ergonomic <> w: 61294
+ergonomically <> w: 225498
+erm <> w: 226066, p: [48789]
+ermine <> w: 61381, p: [34435]
+erode <> w: 61504, p: [22658]
+erosion <> w: 61519, p: [22658, 31895]
+erotic <> w: 61521
+err <> w: 61528, p: [49564]
+err on the right side <> p: [45469]
+err on the side of <> p: [41926]
+errand <> w: 61530
+errant <> w: 61532
+erratic <> w: 61533, p: [45940]
+erratically <> w: 61534, p: [45940]
+erratum <> w: 61535
+erroneous <> w: 61538
+erroneously <> w: 61540
+error <> w: 61542, p: [20133]
+ersatz <> w: 61546
+erst <> w: 61550
+erstwhile <> w: 61551
+erudite <> w: 61558, p: [45158]
+erudition <> w: 61561
+erupt <> w: 61562, p: [51100]
+eruption <> w: 61563, p: [51100]
+erythrocyte <> w: 61606, p: [29446]
+erythropoietin <> w: 61622
+escalate <> w: 61634, p: [41295]
+escalator <> w: 61636, p: [28846]
+escallop <> w: 61638, p: [27820]
+escalope <> w: 209229, p: [27947]
+escapade <> w: 61640
+escape <> w: 61641, p: [20438, 31958, 29469]
+escapee <> w: 61651
+escapologist <> w: 61655
+escapology <> w: 61656
+escargot <> w: 61657, p: [36271]
+escarole <> w: 61658, p: [35019]
+escarpment <> w: 61660
+eschatology <> w: 61666
+eschew <> w: 61671, p: [27255]
+escort <> w: 61679, p: [47296, 51416]
+escritoire <> w: 61680, p: [42076]
+esophagus <> w: 61707
+esoteric <> w: 61708, p: [45675]
+espadrille <> w: 61717, p: [25034]
+especially <> w: 61723, p: [43384]
+espionage <> w: 61727
+esplanade <> w: 61730, p: [31932]
+espouse <> w: 61733
+espresso <> w: 61734, p: [50381]
+esprit <> w: 61737
+espy <> w: 61740, p: [58915]
+esquire <> w: 61743
+essay <> w: 61745, p: [43162, 27664]
+essayist <> w: 61747
+essence <> w: 61750
+essential <> w: 61752, p: [45850]
+essential oil <> w: 61756
+essentially <> w: 61760
+establish <> w: 61765, p: [27796, 59430]
+established <> w: 61766
+establishment <> w: 61768
+estate <> w: 61772, p: [21080]
+estate agency <> p: [31761]
+estate agent <> w: 61773, p: [31761]
+estate car <> w: 61774, p: [33483]
+esteem <> w: 61780, p: [27979, 27979]
+esteemed <> w: 61781, p: [45375]
+ester <> w: 61782
+estimable <> w: 61797
+estimate <> w: 61798, p: [45830]
+estimated <> w: 365470
+estimation <> w: 61801
+estivation <> w: 61805
+estrange <> w: 61813
+estranged <> w: 61814, p: [46346]
+estrangement <> w: 61815
+estrogen <> w: 61820
+estrus <> w: 61826
+estuary <> w: 61829, p: [31934]
+esurient <> w: 61831, p: [39143, 29338]
+etch <> w: 61845, p: [51194]
+etching <> w: 61848, p: [44896]
+eternal <> w: 61850, p: [45399]
+eternally <> w: 62009, p: [43404]
+eternity <> w: 62011
+eth <> w: 223441
+ethanol <> w: 62024
+ethereal <> w: 62039
+ethical <> w: 62048, p: [23703]
+ethically <> w: 62052, p: [23703]
+ethicist <> w: 62055
+ethics <> w: 62056
+ethnic <> w: 62071
+ethnically <> w: 62079
+ethnicity <> w: 62080, p: [17721]
+ethnobotanist <> w: 365906
+ethnocentric <> w: 62081
+ethnocentrism <> w: 62082
+ethnographer <> w: 62083
+ethnography <> w: 62086
+ethnolinguistics <> w: 223098
+ethnology <> w: 62090
+ethology <> w: 62094
+ethos <> w: 62095
+etiology <> w: 62120
+etiquette <> w: 62121
+etna <> w: 62122, p: [31889]
+etude <> w: 62132
+etymological <> w: 62134
+etymology <> w: 62140
+etymon <> w: 62141
+eucalyptus <> w: 62155, p: [21671]
+euchre <> w: 62185
+eugenic <> w: 62234
+eugenics <> w: 62235
+euglena <> w: 62237
+eukaryote <> w: 62244
+eulogize <> w: 62251
+eulogy <> w: 62252
+euphemism <> w: 62289, p: [49772]
+euphemistic <> w: 62290, p: [49772]
+euphemistically <> w: 62291, p: [49772]
+euphemize <> w: 62292, p: [49772]
+euphonious <> w: 62295
+euphonium <> w: 62296, p: [27548]
+euphony <> w: 62298
+euphorbia <> w: 62299
+euphoria <> w: 62323, p: [60634]
+euphoric <> w: 62325, p: [42560]
+euphorically <> w: 225435, p: [42564]
+eureka <> w: 62351, p: [48661]
+euro <> w: 62355, p: [17503]
+eutectic <> w: 62537
+euthanasia <> w: 62541
+eutrophication <> w: 62549
+evacuate <> w: 62555, p: [46996]
+evacuation <> w: 62556
+evacuee <> w: 62557
+evade <> w: 62558, p: [59596]
+evaluate <> w: 62559, p: [52123]
+evaluation <> w: 62560
+evaluative <> w: 62561
+evanesce <> w: 62563, p: [44042]
+evanescence <> w: 62564
+evanescent <> w: 62565
+evangel <> w: 62566, p: [23971]
+evangelical <> w: 62567
+evangelicalism <> w: 62570
+evangelist <> w: 62573
+evangelize <> w: 62576, p: [60039]
+evaporate <> w: 62580, p: [47386]
+evaporated milk <> w: 62582, p: [33436]
+evaporation <> w: 62583
+evasion <> w: 62589
+evasive <> w: 62590
+eve <> w: 62595, p: [19476, 48437]
+even <> w: 62598, p: [23705, 49385, 48437, 43386]
+even-tempered <> w: 62601, p: [31261]
+evenhandedly <> w: 62615
+evening <> w: 62616, p: [48437]
+evening dress <> w: 62621, p: [33969]
+evenly <> w: 62634, p: [49385]
+event <> w: 62637, p: [19474]
+eventer <> w: 227478
+eventful <> w: 62639
+eventide <> w: 62640, p: [48437]
+eventing <> w: 227254
+eventual <> w: 62642
+eventually <> w: 62644, p: [43332]
+eventuate <> w: 62645
+ever <> w: 62646, p: [43404]
+evergreen <> w: 62654, p: [21955, 21955]
+everlasting <> w: 62669
+everlastingly <> w: 62672
+evermore <> w: 62674
+evert <> w: 62678
+every <> w: 62680
+every so often <> p: [16863]
+every trick in the book <> p: [46647]
+everybody <> w: 216624
+everyday <> w: 62691, p: [45641, 16280]
+everyman <> w: 62693
+everyone <> w: 210308
+everyplace <> w: 62694
+everything <> w: 210309
+everything but the kitchen sink <> p: [45104]
+everywhere <> w: 62695, p: [43500]
+evict <> w: 62696, p: [58119]
+evidence <> w: 62698
+evident <> w: 62700, p: [49283]
+evidential <> w: 62701
+evidently <> w: 62703, p: [48385]
+evil <> w: 62704, p: [23489]
+evilly <> w: 62711
+evince <> w: 62713, p: [44846]
+evocation <> w: 62717
+evocative <> w: 62718
+evoke <> w: 62719
+evolution <> w: 62722, p: [23299]
+evolutionarily <> w: 62723
+evolutionary <> w: 62724, p: [23299]
+evolutionism <> w: 62726, p: [23299]
+evolve <> w: 62728, p: [43604, 23299]
+ew <> w: 62729, p: [23433]
+ewe <> w: 62730, p: [50184, 36706]
+ewer <> w: 62732, p: [20071]
+ex <> w: 62736, p: [46346]
+exacerbate <> w: 62755, p: [41295]
+exacerbation <> w: 62757
+exact <> w: 62758, p: [43458, 23673, 55314]
+exacting <> w: 62760
+exactly <> w: 62763, p: [47935]
+exaggerate <> w: 62768, p: [45792]
+exaggerated <> w: 62769, p: [45792]
+exaggeration <> w: 62771
+exalt <> w: 62772
+exaltation <> w: 62773
+exalted <> w: 62774
+exam <> w: 62776, p: [20017]
+exam paper <> w: 62777, p: [20017]
+examination <> w: 62779, p: [17635, 20017, 47787]
+examination paper <> p: [20017]
+examine <> w: 62781, p: [17635, 27664, 20239]
+examinee <> w: 62782
+examiner <> w: 62783
+example <> w: 62784
+exasperate <> w: 62791, p: [46127]
+exasperated <> w: 62792, p: [60628]
+exasperating <> w: 62793
+exasperation <> w: 62795, p: [42594]
+excavate <> w: 62800, p: [46784]
+excavation <> w: 62801
+excavator <> w: 62802, p: [47372]
+exceed <> w: 62803, p: [59400]
+exceedingly <> w: 62806, p: [49301]
+excel <> w: 62807, p: [51900]
+excellence <> w: 62809
+excellent <> w: 62811, p: [48961]
+excellently <> w: 62812, p: [48961]
+except <> w: 62814
+excepting <> w: 225604
+exception <> w: 62815
+exceptionable <> w: 62816
+exceptional <> w: 62817, p: [48781]
+exceptionally <> w: 62818, p: [48781]
+excerpt <> w: 62819
+excess <> w: 62821, p: [20057]
+excessive <> w: 62822, p: [49317]
+excessively <> w: 63002, p: [22628]
+exchange <> w: 63004, p: [51496]
+exchange rate <> w: 63006
+exchangeable <> w: 63010
+excitable <> w: 63019
+excitant <> w: 63022
+excitation <> w: 63023
+excitatory <> w: 63025
+excite <> w: 63026, p: [47991]
+excited <> w: 63027, p: [20203]
+excitedly <> w: 63028, p: [15953]
+excitement <> w: 63029, p: [20203]
+exciting <> w: 63030, p: [17853]
+excitingly <> w: 63031, p: [20203]
+exclaim <> w: 63032, p: [57997]
+exclamation <> w: 63034
+exclamation mark <> w: 63035, p: [27471]
+exclamatory <> w: 63037
+exclude <> w: 63038, p: [48031]
+excluding <> w: 225605
+exclusion <> w: 63039
+exclusive <> w: 63042, p: [50031]
+exclusively <> w: 63044, p: [50031]
+excogitate <> w: 63046, p: [61204]
+excoriate <> w: 63052
+excoriation <> w: 63053
+excrescence <> w: 63055
+excrete <> w: 63058
+excretion <> w: 63060
+excruciate <> w: 63064
+excruciating <> w: 63065, p: [23521]
+exculpate <> w: 63068, p: [51260]
+excursion <> w: 63072, p: [17761]
+excursive <> w: 63075
+excursus <> w: 63076
+excusable <> w: 63077
+excuse <> w: 63080, p: [59718]
+excuse me <> p: [60714]
+exeat <> w: 225019
+execrable <> w: 63084
+execrate <> w: 63085, p: [52101]
+execration <> w: 63086, p: [52101]
+executable <> w: 63088, p: [22035]
+execute <> w: 63090, p: [43640]
+execution <> w: 63093, p: [61262]
+executioner <> w: 63097
+executive <> w: 63098, p: [40741]
+executor <> w: 63112
+exedra <> w: 222138
+exegesis <> w: 63115
+exemplar <> w: 63119
+exemplary <> w: 63120
+exemplify <> w: 63123
+exempt <> w: 63125
+exercise <> w: 63129, p: [17214, 17214]
+exercise bike <> p: [21677]
+exercise book <> w: 226318
+exercising <> w: 63134, p: [20410]
+exercycle <> w: 63136, p: [21677]
+exert <> w: 63138
+exeunt <> w: 221318
+exfoliant <> w: 216822
+exfoliate <> w: 63142, p: [58427]
+exfoliation <> w: 63143
+exhalation <> w: 63144, p: [20404]
+exhale <> w: 63145, p: [20404]
+exhaust <> w: 63146, p: [23545, 27790, 21344]
+exhaust pipe <> w: 63151, p: [21344]
+exhausted <> w: 63154, p: [20199, 39209]
+exhausting <> w: 63156, p: [23545]
+exhaustion <> w: 63157, p: [20199]
+exhaustive <> w: 63158, p: [46187]
+exhaustively <> w: 63159
+exhibit <> w: 63160, p: [20780, 36886]
+exhibition <> w: 63161, p: [19194]
+exhibitionism <> w: 63167
+exhilarate <> w: 63171, p: [47955]
+exhilarated <> w: 63172
+exhilarating <> w: 63173, p: [17853]
+exhilaration <> w: 63174, p: [20203]
+exhort <> w: 63175, p: [58591]
+exhortation <> w: 63176
+exhume <> w: 63180, p: [59032]
+exigency <> w: 63181
+exigent <> w: 63182
+exiguity <> w: 63183
+exiguous <> w: 63184
+exile <> w: 63185, p: [58121]
+exist <> w: 63187, p: [43616]
+existence <> w: 63188
+existent <> w: 63189, p: [61122]
+existential <> w: 63190
+existentialism <> w: 63195
+existing <> w: 63199, p: [43616]
+exit <> w: 63200, p: [35868, 23035, 18589, 17775]
+exocarp <> w: 63204, p: [36048]
+exocrine <> w: 63208
+exodus <> w: 63217
+exonerate <> w: 63230, p: [51260]
+exoplanet <> w: 210279
+exorbitance <> w: 63238
+exorbitant <> w: 63239, p: [45774]
+exorcise <> w: 63241, p: [60071]
+exorcism <> w: 63243
+exoskeleton <> w: 63247, p: [50305]
+exosphere <> w: 63248
+exotic <> w: 63255, p: [45659]
+exotic dancer <> w: 63257, p: [29808]
+expand <> w: 63263, p: [52871]
+expand on <> p: [44876]
+expandable <> w: 63264, p: [45916]
+expanded <> w: 63265
+expanse <> w: 63268, p: [23879]
+expansion <> w: 63271
+expansive <> w: 63277, p: [45443]
+expansively <> w: 63279
+expat <> w: 63282
+expatiate <> w: 63283
+expatriate <> w: 63285
+expect <> w: 63287, p: [61110, 21997]
+expectancy <> w: 63289
+expectant <> w: 63502, p: [21997]
+expectantly <> w: 63503
+expectation <> w: 63504
+expected <> w: 63505
+expectorant <> w: 63508
+expectorate <> w: 63509
+expediency <> w: 63513
+expedient <> w: 63514
+expedite <> w: 63516
+expediter <> w: 219644
+expedition <> w: 63517
+expeditious <> w: 63519
+expeditiously <> w: 63520, p: [43082]
+expel <> w: 63522, p: [58123]
+expend <> w: 63524, p: [59940]
+expendable <> w: 63525
+expenditure <> w: 63528
+expense <> w: 63529
+expensive <> w: 63532, p: [28329]
+expensively <> w: 63533, p: [50056]
+experience <> w: 63535, p: [43700, 53347]
+experienced <> w: 63536, p: [19578]
+experiencer <> w: 223500
+experiential <> w: 63538
+experiment <> w: 63539, p: [26926, 26926]
+experimental <> w: 63540, p: [49958]
+experimentally <> w: 63548, p: [49958]
+experimentation <> w: 63549, p: [26926]
+expert <> w: 63552, p: [46647, 50072]
+expertise <> w: 63554
+expertly <> w: 63555, p: [46647]
+expiate <> w: 63558
+expire <> w: 63564, p: [17775, 59624]
+expiry <> w: 63566
+explain <> w: 63567, p: [60752, 55216]
+explainable <> w: 63568
+explanation <> w: 63571
+explicable <> w: 63574
+explicate <> w: 63576, p: [60752]
+explicit <> w: 63579, p: [50058]
+explicitly <> w: 63581, p: [50058]
+explode <> w: 63583, p: [19584, 18886]
+exploit <> w: 63587
+exploitation <> w: 63588
+exploration <> w: 63594
+exploratory <> w: 63596
+explore <> w: 63598, p: [17809, 51378]
+explorer <> w: 63599
+explosion <> w: 63601, p: [18886]
+explosive <> w: 63602, p: [27157, 27157]
+explosively <> w: 63610, p: [42532]
+expo <> w: 63611, p: [19194]
+exponent <> w: 63612
+exponential <> w: 63613
+exponentially <> w: 63621, p: [43462]
+export <> w: 63623, p: [59942]
+expose <> w: 63630, p: [59422, 58627]
+exposition <> w: 63633, p: [19194]
+expository <> w: 63636
+expostulate <> w: 63637
+expostulation <> w: 63638
+exposure <> w: 63639
+expound <> w: 63642
+express <> w: 63645
+expression <> w: 63658
+expressionism <> w: 63659, p: [25373]
+expressionist <> w: 63660
+expressive <> w: 63663
+expressly <> w: 63668, p: [50058]
+expressway <> w: 63669, p: [51630]
+expropriate <> w: 63670, p: [26395]
+expulsion <> w: 63672
+expunge <> w: 63674, p: [52183]
+expurgate <> w: 63676
+exquisite <> w: 63680
+exquisitely <> w: 63681, p: [34059]
+extant <> w: 63687
+extemporaneous <> w: 63688
+extempore <> w: 63692, p: [49960, 49960]
+extemporize <> w: 63696
+extend <> w: 63697, p: [54744]
+extended <> w: 63701
+extended family <> w: 63703, p: [20886]
+extensible <> w: 63707
+extension <> w: 63709
+extensive <> w: 63717, p: [23249, 49105]
+extensively <> w: 63718, p: [49105]
+extensor <> w: 63720
+extent <> w: 63722
+extenuate <> w: 63723
+extenuating <> w: 63724
+exterior <> w: 63726, p: [31492, 31492]
+exterminate <> w: 63734, p: [47801]
+extermination <> w: 63736
+exterminator <> w: 63737
+external <> w: 63739, p: [28724]
+externally <> w: 63764, p: [28724]
+extinct <> w: 63769, p: [20621]
+extinction <> w: 63770, p: [20621]
+extinguish <> w: 63772, p: [59341]
+extinguisher <> w: 63775, p: [39067]
+extirpate <> w: 63778, p: [47801, 22796]
+extol <> w: 63780
+extolment <> w: 63782, p: [19374]
+extort <> w: 63783
+extortion <> w: 64002
+extra <> w: 64007, p: [20057, 49107]
+extract <> w: 64016, p: [46870]
+extraction <> w: 64019
+extracurricular <> w: 64021
+extradite <> w: 64023, p: [58161]
+extradition <> w: 64024
+extrados <> w: 64025
+extrajudicial <> w: 64029
+extramarital <> w: 64032
+extramural <> w: 64034
+extraneous <> w: 64035
+extranet <> w: 224973
+extraordinarily <> w: 64038, p: [49588]
+extraordinary <> w: 64040, p: [23707]
+extrapolate <> w: 64041, p: [45830]
+extrapolation <> w: 64042
+extraterrestrial <> w: 64047, p: [21965]
+extravagance <> w: 64053
+extravagant <> w: 64055
+extravagantly <> w: 64056, p: [46259]
+extravasate <> w: 64058, p: [51100]
+extreme <> w: 64065, p: [33139]
+extremely <> w: 64069, p: [43466]
+extremism <> w: 64073
+extremist <> w: 64074, p: [45238]
+extremity <> w: 64075
+extricate <> w: 64078, p: [59932]
+extrinsic <> w: 64080
+extrovert <> w: 64087
+extroverted <> w: 64088, p: [19306]
+extrude <> w: 64091
+exuberance <> w: 64094
+exuberant <> w: 64095
+exude <> w: 64100
+exult <> w: 64101, p: [60634]
+exultant <> w: 64102
+exultation <> w: 64104
+exulting <> w: 64105
+exuviate <> w: 64110, p: [34357]
+eyas <> w: 64111
+eye <> w: 64113, p: [50611, 22213, 36050, 48677]
+eye bolt <> p: [41424]
+eye strain <> w: 228544
+eye tooth <> w: 64143, p: [30489]
+eye-catching <> w: 64116
+eye-opener <> w: 64138
+eyeball <> w: 64144, p: [18519, 48677]
+eyebrow <> w: 64146, p: [50673]
+eyebrow pencil <> w: 64147, p: [29856]
+eyed <> w: 64149
+eyeful <> w: 64152
+eyeglasses <> w: 64155, p: [17001]
+eyehole <> w: 64156, p: [32610]
+eyelash <> w: 64158, p: [50675]
+eyelid <> w: 64162, p: [23807]
+eyeliner <> w: 64164, p: [51850]
+eyeshade <> w: 64169
+eyeshadow <> w: 64170, p: [51852]
+eyesight <> w: 64172, p: [18531]
+eyesore <> w: 64173
+eyestrain <> w: 64175
+eyewear <> w: 219451, p: [37183]
+eyewitness <> w: 64178, p: [20696, 20842]

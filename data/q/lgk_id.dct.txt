@@ -1,0 +1,149 @@
+quack <> w: 148315
+quackery <> w: 148318
+quad <> w: 148320, p: [36914]
+quad bike <> p: [36914]
+quadrangle <> w: 148322
+quadrant <> w: 148325
+quadrate <> w: 148331
+quadratic <> w: 148332
+quadratic equation <> w: 148333
+quadriceps <> w: 148340
+quadrilateral <> w: 148343, p: [25974, 25974]
+quadrille <> w: 148344
+quadrillion <> w: 148345
+quadrillionth <> w: 148346
+quadriplegia <> w: 148351
+quadriplegic <> w: 148352
+quadruped <> w: 148357, p: [39897, 39897]
+quadrupedal <> w: 148358, p: [39897]
+quadruple <> w: 148359, p: [59862]
+quadruplet <> w: 148361, p: [35946]
+quaff <> w: 148506, p: [47260]
+quaggy <> w: 148510, p: [27231]
+quagmire <> w: 148511
+quail <> w: 148515, p: [24990, 36236]
+quaint <> w: 148519
+quake <> w: 148522, p: [39615]
+qualification <> w: 148528
+qualified <> w: 148529, p: [59612]
+qualifier <> w: 148530
+qualify <> w: 148531, p: [52123]
+qualitative <> w: 148534
+qualitatively <> w: 148536
+quality <> w: 148537, p: [51338]
+quality control <> w: 148538
+qualm <> w: 148540
+quandary <> w: 148545, p: [32568]
+quantifier <> w: 148555
+quantify <> w: 148556, p: [23561]
+quantitative <> w: 148559
+quantitatively <> w: 148563
+quantity <> w: 148564
+quantum <> w: 148570
+quantum leap <> w: 148574, p: [40419]
+quantum mechanics <> w: 148576
+quarantine <> w: 148581, p: [58565]
+quark <> w: 148583, p: [27381]
+quarrel <> w: 148585, p: [61066, 61066]
+quarrelsome <> w: 148588
+quarry <> w: 148591
+quart <> w: 148594
+quartan <> w: 148595
+quarter <> w: 148596, p: [51262]
+quarter note <> w: 148606, p: [30644]
+quarterback <> w: 148615
+quarterfinal <> w: 148617
+quarterly <> w: 148620
+quarters <> w: 148624
+quartet <> w: 148627, p: [30325, 35946]
+quartile <> w: 148631
+quarto <> w: 148632
+quartzite <> w: 148640
+quasar <> w: 148642
+quasi <> w: 148644
+quassia <> w: 148651, p: [35350]
+quaternary <> w: 148658, p: [35946, 36481]
+quaternion <> w: 148662, p: [35946]
+quatrain <> w: 148664
+quatrefoil <> w: 222155
+quattrocento <> w: 148665
+quaver <> w: 148666
+quay <> w: 148669
+queasy <> w: 148673
+queen <> w: 148682, p: [60069, 25910, 30004]
+queen bee <> p: [25910]
+queen-size <> w: 148688, p: [37162]
+queer <> w: 148720, p: [49137]
+queerly <> w: 148723, p: [49137]
+quell <> w: 148725, p: [51660]
+quench <> w: 148730
+querulous <> w: 148790
+query <> w: 148793, p: [28804, 28802]
+quesadilla <> w: 148795, p: [30912]
+quest <> w: 148796, p: [45216]
+question <> w: 148800, p: [28802, 28075, 47787]
+question mark <> w: 148801, p: [27485]
+questionable <> w: 148807, p: [45822]
+questionably <> w: 148808
+questioning <> w: 148810, p: [19266]
+questionnaire <> w: 148812, p: [16842]
+quetzal <> w: 148814
+queue <> w: 148817, p: [26309, 26309]
+quibble <> w: 148822
+quiche <> w: 148824, p: [30922]
+quick <> w: 148826, p: [48413, 48413]
+quick fix <> p: [46659]
+quick-tempered <> w: 149008
+quick-witted <> w: 149009, p: [17511]
+quicken <> w: 149020
+quickly <> w: 149027, p: [44022]
+quicksand <> w: 149029
+quicksilver <> w: 149031
+quickstep <> w: 149032
+quid <> w: 149034, p: [27481]
+quid pro quo <> w: 149035
+quiescence <> w: 149039
+quiescent <> w: 149041
+quiet <> w: 149042, p: [23101, 17859, 54625, 23101]
+quieten <> w: 149044
+quietly <> w: 149047, p: [23205]
+quietness <> w: 149048
+quietude <> w: 149049
+quietus <> w: 149050
+quiff <> w: 149051
+quill <> w: 149052, p: [33649]
+quilling <> w: 222681
+quilt <> w: 149057, p: [32962]
+quilted <> w: 149058
+quilting <> w: 149060
+quince <> w: 149065, p: [26916]
+quint <> w: 149085, p: [35948]
+quintessence <> w: 149088
+quintessential <> w: 149089
+quintessentially <> w: 229434
+quintet <> w: 149090, p: [30327, 35948]
+quintillion <> w: 149092
+quintillionth <> w: 149093
+quintuplet <> w: 149096, p: [35948]
+quip <> w: 149099, p: [60823]
+quire <> w: 149102
+quirk <> w: 149103
+quirky <> w: 149108
+quisling <> w: 149112
+quit <> w: 149114, p: [53493, 17837, 29414]
+quite <> w: 149117, p: [43342]
+quiver <> w: 149125, p: [42788]
+quixotic <> w: 149127
+quiz <> w: 149130, p: [20017, 20239, 47787]
+quizzical <> w: 149134
+quodlibet <> w: 149138
+quoin <> w: 149139
+quokka <> w: 220285
+quorate <> w: 209762
+quorum <> w: 149145
+quota <> w: 149146
+quotation <> w: 149149
+quotation mark <> w: 149150, p: [27473]
+quote <> w: 149151, p: [27473, 58012]
+quotidian <> w: 149153
+quotient <> w: 149154

@@ -1,0 +1,2761 @@
+H <> p: hed
+H-bomb <> s: h-bombs
+ha-ha <> s: ha-has
+ha-has <> b: ha-ha, f: s
+HAA <> s: haas
+haberdasher <> s: haberdashers
+haberdasheries <> b: haberdashery, f: s
+haberdashers <> b: haberdasher, f: s
+haberdashery <> s: haberdasheries
+habilitate <> i: habilitating, p: habilitated, '3': habilitates, d: habilitated
+habilitated <> f: pd, b: habilitate
+habilitates <> f: '3', b: habilitate
+habilitating <> f: i, b: habilitate
+habit <> s: habits, i: habiting, p: habited, '3': habits, d: habited
+habitat <> s: habitats
+habitation <> s: habitations
+habitations <> b: habitation, f: s
+habitats <> b: habitat, f: s
+habited <> f: pd, b: habit
+habiting <> f: i, b: habit
+habits <> f: s3, b: habit
+habituate <> d: habituated, p: habituated, '3': habituates, i: habituating, s: habituates
+habituated <> b: habituate, f: dp, p: habituated, d: habituated
+habituates <> b: habituate, f: 3s
+habituating <> b: habituate, f: i
+habitude <> s: habitudes
+habitudes <> b: habitude, f: s
+habitue <> s: habitues
+habitues <> b: habitue, f: s
+hacienda <> s: haciendas
+haciendas <> b: hacienda, f: s
+hack <> i: hacking, d: hacked, s: hacks, p: hacked, '3': hacks
+hacked <> b: hack, f: dp
+hacker <> s: hackers
+hackers <> b: hacker, f: s
+hackette <> s: hackettes
+hackettes <> b: hackette, f: s
+hacking <> b: hack, f: i, i: hacking
+hackle <> s: hackles, '3': hackles, p: hackled, i: hackling, d: hackled
+hackled <> f: pd, b: hackle
+hackles <> b: hackle, f: s3
+hackling <> f: i, b: hackle
+hackney <> s: hackneys
+hackneys <> b: hackney, f: s
+hacks <> b: hack, f: s3
+hacksaw <> s: hacksaws, i: hacksawing, d: hacksawed
+hacksawed <> b: hacksaw, f: d
+hacksawing <> b: hacksaw, f: i
+hacksaws <> b: hacksaw, f: s
+had <> f: pd, b: have, s: hads
+haddock <> s: haddocks
+haddocks <> b: haddock, f: s
+hade <> i: hading, s: hades
+Hades <> b: hade, f: s
+hadlee <> s: hadlees
+hadlees <> b: hadlee, f: s
+hadron <> s: hadrons
+hadrons <> b: hadron, f: s
+hadrosaur <> s: hadrosaurs
+hadrosaurs <> b: hadrosaur, f: s
+haematite <> s: haematites
+haematites <> b: haematite, f: s
+haematologist <> s: haematologists
+haematologists <> b: haematologist, f: s
+haematoma <> s: haematomas
+haematomas <> b: haematoma, f: s
+haemocyte <> s: haemocytes
+haemocytes <> b: haemocyte, f: s
+haemodynamic <> s: haemodynamics
+haemodynamics <> b: haemodynamic, f: s
+haemoglobin <> s: haemoglobins
+haemoglobinopathies <> b: haemoglobinopathy, f: s
+haemoglobinopathy <> s: haemoglobinopathies
+haemoglobins <> b: haemoglobin, f: s
+haemophilia <> s: haemophilias
+haemophiliac <> s: haemophiliacs
+haemophiliacs <> b: haemophiliac, f: s
+haemophilias <> b: haemophilia, f: s
+haemorrhage <> s: haemorrhages, i: haemorrhaging, p: haemorrhaged
+haemorrhaged <> b: haemorrhage, f: p
+haemorrhages <> b: haemorrhage, f: s
+haemorrhaging <> b: haemorrhage, f: i, i: haemorrhaging
+haemorrhoid <> s: haemorrhoids
+haemorrhoids <> b: haemorrhoid, f: s
+haft <> i: hafting, s: hafts, d: hafted
+hafted <> b: haft, f: d
+hafting <> b: haft, f: i
+hafts <> b: haft, f: s
+hag <> s: hags
+Hagan <> s: hagans
+hagfish <> s: hagfishes
+hagfishes <> b: hagfish, f: s
+haggle <> i: haggling, d: haggled, p: haggled, s: haggles, '3': haggles
+haggled <> b: haggle, f: dp
+haggler <> s: hagglers
+hagglers <> b: haggler, f: s
+haggles <> b: haggle, f: s3
+haggling <> b: haggle, f: i, i: haggling
+hagiographer <> s: hagiographers
+hagiographers <> b: hagiographer, f: s
+hagiographies <> b: hagiography, f: s
+hagiography <> s: hagiographies
+hags <> b: hag, f: s
+hah <> s: hahs
+hahs <> b: hah, f: s
+hai <> s: hai, b: hai, f: s
+hail <> d: hailed, p: hailed, i: hailing, '3': hails, s: hails
+Haile <> s: hailes
+hailed <> b: hail, f: dp
+hailer <> s: hailers
+hailers <> b: hailer, f: s
+HAILES <> b: haile, f: s
+hailing <> b: hail, f: i, i: hailing
+hails <> b: hail, f: 3s
+hailstone <> s: hailstones
+hailstones <> b: hailstone, f: s
+hailstorm <> s: hailstorms
+hailstorms <> b: hailstorm, f: s
+hain <> s: hains, i: haining, r: hainer
+hainer <> b: hain, f: r
+haining <> b: hain, f: i
+hains <> b: hain, f: s
+hair <> s: hairs
+hairband <> s: hairbands
+hairbands <> b: hairband, f: s
+hairbrush <> s: hairbrushes
+hairbrushes <> b: hairbrush, f: s
+haircut <> s: haircuts, i: haircutting
+haircuts <> b: haircut, f: s
+haircutting <> b: haircut, f: i
+hairdo <> s: hairdos
+hairdos <> b: hairdo, f: s
+hairdresser <> s: hairdressers
+hairdressers <> b: hairdresser, f: s
+hairdryer <> s: hairdryers
+hairdryers <> b: hairdryer, f: s
+hairgrip <> s: hairgrips, '3': hairgrips
+hairgrips <> b: hairgrip, f: s3
+hairier <> b: hairy, f: r
+hairies <> b: hairy, f: s
+hairiest <> b: hairy, f: t
+hairline <> s: hairlines
+hairlines <> b: hairline, f: s
+hairnet <> s: hairnets
+hairnets <> b: hairnet, f: s
+hairpiece <> s: hairpieces
+hairpieces <> b: hairpiece, f: s
+hairpin <> s: hairpins
+hairpins <> b: hairpin, f: s
+hairs <> b: hair, f: s
+hairslide <> s: hairslides
+hairslides <> b: hairslide, f: s
+hairspray <> s: hairsprays
+hairsprays <> b: hairspray, f: s
+hairstreak <> s: hairstreaks
+hairstreaks <> b: hairstreak, f: s
+hairstyle <> s: hairstyles, i: hairstyling
+hairstyles <> b: hairstyle, f: s
+hairstyling <> b: hairstyle, f: i
+hairstylist <> s: hairstylists
+hairstylists <> b: hairstylist, f: s
+hairy <> r: hairier, s: hairies, t: hairiest
+Haitian <> s: haitians
+haitians <> b: haitian, f: s
+haji <> s: haji, b: haji, f: s
+haka <> s: hakas
+hakas <> b: haka, f: s
+Hakim <> s: hakims
+HAL <> s: hals
+halberd <> s: halberds
+halberdier <> s: halberdiers
+halberdiers <> b: halberdier, f: s
+halberds <> b: halberd, f: s
+hale <> s: hales, p: haled, i: haling, '3': hales, d: haled
+haled <> f: pd, b: hale
+haler <> s: halers
+halers <> b: haler, f: s
+hales <> f: s3, b: hale
+half <> s: halves
+half-and-half <> s: half-and-halfs
+half-and-halfs <> b: half-and-half, f: s
+half-breed <> s: half-breeds
+half-breeds <> b: half-breed, f: s
+half-brother <> s: half-brothers
+half-brothers <> b: half-brother, f: s
+half-centuries <> b: half-century, f: s
+half-century <> s: half-centuries
+half-crown <> s: half-crowns
+half-crowns <> b: half-crown, f: s
+half-hardies <> b: half-hardy, f: s
+half-hardy <> s: half-hardies
+half-holiday <> s: half-holidays
+half-holidays <> b: half-holiday, f: s
+half-hour <> s: half-hours
+half-hours <> b: half-hour, f: s
+half-length <> s: half-lengths
+half-lengths <> b: half-length, f: s
+half-life <> s: half-lives
+half-light <> s: half-lights
+half-lights <> b: half-light, f: s
+half-lives <> b: half-life, f: s
+half-moon <> s: half-moons
+half-moons <> b: half-moon, f: s
+half-sister <> s: half-sisters
+half-sisters <> b: half-sister, f: s
+half-sovereign <> s: half-sovereigns
+half-sovereigns <> b: half-sovereign, f: s
+half-term <> s: half-terms
+half-terms <> b: half-term, f: s
+half-time <> s: half-times
+half-times <> b: half-time, f: s
+half-title <> s: half-titles
+half-titles <> b: half-title, f: s
+half-tone <> s: half-tones
+half-tones <> b: half-tone, f: s
+half-track <> s: half-tracks
+half-tracks <> b: half-track, f: s
+half-truth <> s: half-truths
+half-truths <> b: half-truth, f: s
+half-volley <> s: half-volleys
+half-volleys <> b: half-volley, f: s
+half-wit <> s: half-wits
+half-wits <> b: half-wit, f: s
+halfback <> s: halfbacks
+halfbacks <> b: halfback, f: s
+halfbeak <> s: halfbeaks
+halfbeaks <> b: halfbeak, f: s
+halfpennies <> b: halfpenny, f: s
+halfpenny <> s: halfpennies
+halftone <> s: halftones
+halftones <> b: halftone, f: s
+halfwit <> s: halfwits
+halfwits <> b: halfwit, f: s
+halide <> s: halides, '3': halides
+halides <> b: halide, f: s3
+haling <> b: hale, f: i
+halite <> s: halites
+halites <> b: halite, f: s
+hall <> s: halls, i: halling
+halle <> s: halles
+hallelujah <> s: hallelujahs
+hallelujahs <> b: hallelujah, f: s
+halles <> b: halle, f: s
+halley <> s: halleys
+halleys <> b: halley, f: s
+halliard <> s: halliards
+halliards <> b: halliard, f: s
+Halling <> b: hall, f: i, i: halling
+hallmark <> s: hallmarks, p: hallmarked, d: hallmarked, i: hallmarking
+hallmarked <> b: hallmark, f: pd
+hallmarking <> b: hallmark, f: i
+hallmarks <> b: hallmark, f: s
+hallo <> s: hallos
+halloo <> s: halloos, i: hallooing, p: hallooed, '3': halloos, d: hallooed
+hallooed <> b: hallooe, f: pd
+hallooing <> b: halloo, f: i
+halloos <> f: s3, b: halloo
+hallos <> b: hallo, f: s
+hallow <> s: hallows, i: hallowing, p: hallowed, '3': hallows, d: hallowed
+hallowed <> f: pd, b: hallow
+hallowing <> b: hallow, f: i
+hallows <> f: s3, b: hallow
+halls <> b: hall, f: s
+hallucinate <> i: hallucinating, d: hallucinated, p: hallucinated, s: hallucinates, '3': hallucinates
+hallucinated <> b: hallucinate, f: dp
+hallucinates <> b: hallucinate, f: s3
+hallucinating <> b: hallucinate, f: i
+hallucination <> s: hallucinations
+hallucinations <> b: hallucination, f: s
+hallucinogen <> s: hallucinogens
+hallucinogenic <> s: hallucinogenics
+hallucinogenics <> b: hallucinogenic, f: s
+hallucinogens <> b: hallucinogen, f: s
+hallway <> s: hallways
+hallways <> b: hallway, f: s
+halo <> s: haloes, d: haloed, i: haloing, p: haloed
+halocarbon <> s: halocarbons
+halocarbons <> b: halocarbon, f: s
+haloed <> b: halo, f: dp, d: haloed
+haloes <> b: halo, f: s
+halogen <> s: halogens
+halogens <> b: halogen, f: s
+haloing <> b: halo, f: i
+halon <> s: halons
+halons <> b: halon, f: s
+halophyte <> s: halophytes
+halophytes <> b: halophyte, f: s
+hals <> b: hal, f: s
+halt <> d: halted, p: halted, '3': halts, i: halting, s: halts
+halted <> b: halt, f: dp
+halter <> s: halters, d: haltered, i: halting, p: halted, '3': halts
+haltere <> s: halteres
+haltered <> b: halter, f: d
+halteres <> b: haltere, f: s
+halters <> b: halter, f: s
+halting <> b: halt, f: i, i: halting
+halts <> b: halt, f: 3s
+halve <> d: halved, b: halve, i: halving, s: halves, f: '3', p: halved, '3': halves
+halved <> b: halve, f: dp, d: halved
+halves <> b: half, f: s
+halving <> b: halve, f: i, i: halving
+halyard <> s: halyards
+halyards <> b: halyard, f: s
+ham <> s: hams, i: hamming, p: hammed, '3': hams, d: hammed
+Hama <> s: hamas
+hamadryad <> s: hamadryads
+hamadryads <> b: hamadryad, f: s
+hamadryas <> b: hamadrya, f: s
+hamas <> b: hama, f: s
+hamburger <> s: hamburgers
+hamburgers <> b: hamburger, f: s
+hame <> p: hamed, s: hames
+Hamer <> s: hamers
+hames <> b: hame, f: s
+hamlet <> s: hamlets
+hamlets <> b: hamlet, f: s
+Hamley <> s: hamleys
+hammed <> f: pd, b: ham
+hammer <> i: hammering, s: hammers, p: hammered, d: hammered, '3': hammers
+hammered <> b: hammer, f: pd, p: hammered, d: hammered
+hammering <> b: hammer, f: i, i: hammering, s: hammerings
+hammers <> b: hammer, f: s3
+hammier <> b: hammy, f: r
+hamming <> b: ham, f: i, i: hamming
+hammock <> s: hammocks, p: hammocked
+hammocked <> b: hammock, f: p
+hammocks <> b: hammock, f: s
+hammond <> t: hammondest
+hammondest <> b: hammond, f: t
+hammy <> r: hammier
+hamper <> d: hampered, p: hampered, s: hampers, i: hampering, '3': hampers
+hampered <> b: hamper, f: dp, p: hampered
+hampering <> b: hamper, f: i
+hampers <> b: hamper, f: s3
+hams <> f: s3, b: ham
+hamster <> s: hamsters
+hamsters <> b: hamster, f: s
+hamstring <> s: hamstrings, i: hamstringing, p: hamstrung, '3': hamstrings, d: hamstrung
+hamstringing <> b: hamstring, f: i
+hamstrings <> f: s3, b: hamstring
+hamstrung <> d: hamstrung, b: hamstrung, f: dp, p: hamstrung
+han <> i: hanning, s: hans
+hand <> s: hands, p: handed, d: handed, i: handing, '3': hands
+hand-held <> s: hand-helds
+hand-helds <> b: hand-held, f: s
+hand-me-down <> s: hand-me-downs
+hand-me-downs <> b: hand-me-down, f: s
+hand-pick <> i: hand-picking, p: hand-picked, '3': hand-picks
+handbag <> s: handbags, d: handbagged
+handbagged <> b: handbag, f: d
+handbags <> b: handbag, f: s
+handbell <> s: handbells
+handbells <> b: handbell, f: s
+handbill <> s: handbills
+handbills <> b: handbill, f: s
+handbook <> s: handbooks
+handbooks <> b: handbook, f: s
+handcart <> s: handcarts
+handcarts <> b: handcart, f: s
+handclap <> s: handclaps
+handclaps <> b: handclap, f: s
+handclasp <> s: handclasps
+handclasps <> b: handclasp, f: s
+handcraft <> d: handcrafted, p: handcrafted, i: handcrafting, s: handcrafts, '3': handcrafts
+handcrafted <> b: handcraft, f: dp, p: handcrafted
+handcrafting <> b: handcraft, f: i
+handcrafts <> b: handcraft, f: s
+handcuff <> s: handcuffs, d: handcuffed, p: handcuffed, i: handcuffing, '3': handcuffs
+handcuffed <> b: handcuff, f: dp, d: handcuffed, p: handcuffed
+handcuffing <> b: handcuff, f: i
+handcuffs <> f: s3, b: handcuff
+handed <> b: hand, f: pd
+hander <> s: handers
+handers <> b: hander, f: s
+handful <> s: handfuls
+handfuls <> b: handful, f: s
+handgrip <> s: handgrips
+handgrips <> b: handgrip, f: s
+handgun <> s: handguns, '3': handguns
+handguns <> b: handgun, f: s3
+handheld <> s: handhelds
+handhelds <> b: handheld, f: s
+handhold <> s: handholds, i: handholding
+handholding <> b: handhold, f: i
+handholds <> b: handhold, f: s
+handicap <> d: handicapped, s: handicaps, i: handicapping, p: handicapped, '3': handicaps
+handicapped <> b: handicap, f: dp, d: handicapped
+handicapper <> s: handicappers
+handicappers <> b: handicapper, f: s
+handicapping <> b: handicap, f: i, i: handicapping
+handicaps <> f: s3, b: handicap
+handicraft <> s: handicrafts
+handicrafts <> b: handicraft, f: s
+handier <> b: handy, f: r
+handies <> b: handy, f: s
+handing <> b: hand, f: i
+handjob <> s: handjobs
+handjobs <> b: handjob, f: s
+handkerchief <> s: handkerchiefs
+handkerchiefs <> b: handkerchief, f: s
+handle <> d: handled, i: handling, p: handled, s: handles, '3': handles
+handlebar <> s: handlebars
+handlebars <> b: handlebar, f: s
+handled <> b: handle, f: dp
+handler <> s: handlers
+handlers <> b: handler, f: s
+handles <> b: handle, f: s3
+handling <> b: handle, f: i, i: handling, s: handlings
+handloom <> s: handlooms
+handlooms <> b: handloom, f: s
+handmaid <> s: handmaids
+handmaiden <> s: handmaidens
+handmaidens <> b: handmaiden, f: s
+handmaids <> b: handmaid, f: s
+handout <> s: handouts
+handouts <> b: handout, f: s
+handover <> s: handovers
+handovers <> b: handover, f: s
+handpick <> d: handpicked, p: handpicked
+handpicked <> b: handpick, f: dp
+handpiece <> s: handpieces
+handpieces <> b: handpiece, f: s
+handprint <> s: handprints, p: handprinted
+handprinted <> b: handprint, f: p
+handprints <> b: handprint, f: s
+handpump <> s: handpumps
+handpumps <> b: handpump, f: s
+handrail <> s: handrails, '3': handrails
+handrails <> b: handrail, f: s3
+hands <> b: hand, f: s3
+hands-off <> s: hands-off, b: hands-off, f: s
+handsaw <> s: handsaws
+handsaws <> b: handsaw, f: s
+handsel <> s: handsels
+handsels <> b: handsel, f: s
+handset <> s: handsets, '3': handsets, i: handsetting
+handsets <> b: handset, f: s3
+handsetting <> b: handset, f: i
+handshake <> s: handshakes
+handshakes <> b: handshake, f: s
+handshaking <> s: handshakings
+handshakings <> b: handshaking, f: s
+handsome <> t: handsomest, r: handsomer
+handsomer <> b: handsome, f: r
+handsomest <> b: handsome, f: t
+handspring <> s: handsprings
+handsprings <> b: handspring, f: s
+handstand <> s: handstands
+handstands <> b: handstand, f: s
+handwash <> i: handwashing, s: handwashes, p: handwashed, '3': handwashes
+handwashes <> b: handwash, f: s
+handwashing <> b: handwash, f: i
+handwoven <> d: handwoven, b: handwoven, f: d
+handwriting <> s: handwritings
+handwritings <> b: handwriting, f: s
+handwritten <> d: handwritten, b: handwritten, f: d
+handy <> r: handier, s: handies
+handyman <> s: handymen
+handymen <> b: handyman, f: s
+hang <> i: hanging, p: hung, d: hung, '3': hangs
+hang-glider <> s: hang-gliders
+hang-gliders <> b: hang-glider, f: s
+hang-out <> s: hang-outs
+hang-outs <> b: hang-out, f: s
+hang-up <> s: hang-ups
+hang-ups <> b: hang-up, f: s
+hangar <> s: hangars
+hangars <> b: hangar, f: s
+hanged <> b: hang, f: dp, d: hanged, p: hanged
+hanger <> s: hangers
+hangers <> b: hanger, f: s
+hanging <> b: hang, f: i, i: hanging, s: hangings
+hangman <> s: hangmen
+hangmen <> b: hangman, f: s
+hangout <> s: hangouts
+hangouts <> b: hangout, f: s
+hangover <> s: hangovers
+hangovers <> b: hangover, f: s
+hangs <> b: hang, f: '3'
+hank <> s: hanks, r: hanker, p: hanked
+hanked <> b: hank, f: p
+hanker <> b: hank, f: r, i: hankering, p: hankered, s: hankers, d: hankered, '3': hankers
+hankering <> b: hanker, f: i, i: hankering
+hankies <> b: hanky, f: s
+hanks <> b: hank, f: s
+hanky <> s: hankies
+Hann <> s: hanns, '3': hanns
+hanning <> b: han, f: i
+Hannover <> s: hannovers
+Hanoverian <> s: hanoverians
+hans <> b: han, f: s
+hansom <> s: hansoms
+hansoms <> b: hansom, f: s
+haole <> s: haoles
+haoles <> b: haole, f: s
+hap <> s: haps, d: happed, i: happing, p: happed, '3': haps
+haplochromine <> s: haplochromines, '3': haplochromines
+haploid <> s: haploids
+haploids <> b: haploid, f: s
+haplotype <> s: haplotypes, '3': haplotypes
+haplotypes <> b: haplotype, f: s3
+happed <> f: dp, b: hap
+happen <> p: happened, '3': happens, d: happened, i: happening
+happened <> b: happen, f: pd
+happening <> b: happen, f: i, s: happenings, i: happening
+happens <> b: happen, f: '3'
+happenstance <> s: happenstances
+happenstances <> b: happenstance, f: s
+happier <> b: happy, f: r
+happiest <> b: happy, f: t, r: happiest
+happiness <> s: happinesses
+happinesses <> b: happiness, f: s
+happing <> f: i, b: hap
+happy <> r: happier, t: happiest
+haps <> f: s3, b: hap
+hapten <> '3': haptens
+haptens <> b: hapten, f: '3'
+haptic <> s: haptics
+haptics <> b: haptic, f: s
+haptoglobin <> s: haptoglobins
+haptoglobins <> b: haptoglobin, f: s
+harangue <> i: haranguing, p: harangued, d: harangued, s: harangues, '3': harangues
+harangued <> b: harangue, f: pd
+harangues <> b: harangue, f: s3
+haranguing <> b: harangue, f: i
+harass <> d: harassed, i: harassing, p: harassed, '3': harasses
+harassed <> b: harass, f: dp, d: harassed
+harasser <> s: harassers
+harassers <> b: harasser, f: s
+harasses <> b: harass, f: '3'
+harassing <> b: harass, f: i
+harassment <> s: harassments
+harassments <> b: harassment, f: s
+harbinger <> s: harbingers, i: harbingering, p: harbingered, '3': harbingers, d: harbingered
+harbingered <> f: pd, b: harbinger
+harbingering <> f: i, b: harbinger
+harbingers <> f: s3, b: harbinger
+harbor <> i: harboring, p: harbored, '3': harbors, d: harbored, s: harbors
+harbour <> i: harbouring, s: harbours, p: harboured, '3': harbours, d: harboured
+harbourage <> s: harbourages
+harbourages <> b: harbourage, f: s
+harboured <> b: harbour, f: pd
+harbouring <> b: harbour, f: i, i: harbouring
+harbours <> b: harbour, f: s3
+hard <> r: harder, t: hardest
+hard-boiled <> d: hard-boiled, b: hard-boiled, f: d
+hard-on <> s: hard-ons
+hard-ons <> b: hard-on, f: s
+hard-work <> i: hard-working
+hard-working <> b: hard-work, f: i
+hardback <> s: hardbacks, p: hardbacked, d: hardbacked
+hardbacked <> b: hardback, f: pd
+hardbacks <> b: hardback, f: s
+hardboard <> s: hardboards
+hardboards <> b: hardboard, f: s
+Hardcastle <> s: hardcastles
+hardcover <> s: hardcovers
+hardcovers <> b: hardcover, f: s
+harden <> d: hardened, i: hardening, p: hardened, '3': hardens
+hardened <> b: harden, f: dp, d: hardened, p: hardened
+hardener <> s: hardeners
+hardeners <> b: hardener, f: s
+hardening <> b: harden, f: i, i: hardening
+hardens <> b: harden, f: '3'
+harder <> b: hard, f: r
+hardest <> b: hard, f: t
+hardhat <> s: hardhats
+hardhats <> b: hardhat, f: s
+hardhead <> p: hardheaded
+hardheaded <> b: hardhead, f: p
+hardier <> b: hardy, f: r
+hardiest <> b: hardy, f: t
+hardliner <> s: hardliners
+hardliners <> b: hardliner, f: s
+hardness <> s: hardnesses
+hardnesses <> b: hardness, f: s
+hardship <> s: hardships
+hardships <> b: hardship, f: s
+hardwood <> s: hardwoods
+hardwoods <> b: hardwood, f: s
+hardy <> r: hardier, t: hardiest
+hare <> s: hares, i: haring, p: hared, '3': hares, d: hared
+harebell <> s: harebells
+harebells <> b: harebell, f: s
+hared <> f: pd, b: hare, p: hared
+harelip <> s: harelips
+harelips <> b: harelip, f: s
+harem <> s: harems
+harems <> b: harem, f: s
+hares <> f: s3, b: hare
+Hari <> s: hari, b: hari, f: s
+haricot <> s: haricots
+haricots <> b: haricot, f: s
+haring <> b: hare, f: i
+hark <> i: harking, '3': harks, p: harked, d: harked
+harked <> f: pd, b: hark
+harken <> s: harkens
+harkens <> b: harken, f: s
+harking <> b: hark, f: i
+harks <> b: hark, f: '3'
+harlequin <> s: harlequins
+harlequins <> b: harlequin, f: s
+harlot <> s: harlots
+harlots <> b: harlot, f: s
+harm <> d: harmed, i: harming, s: harms, '3': harms, p: harmed
+harmed <> b: harm, f: dp
+harming <> b: harm, f: i
+harmonic <> s: harmonics
+harmonica <> s: harmonicas
+harmonicas <> b: harmonica, f: s
+harmonics <> b: harmonic, f: s
+harmonies <> b: harmony, f: s
+harmonise <> d: harmonised, i: harmonising, '3': harmonises, p: harmonised
+harmonised <> b: harmonise, f: dp, d: harmonised, p: harmonised
+harmonises <> b: harmonise, f: '3'
+harmonising <> b: harmonise, f: i, i: harmonising
+harmonization <> s: harmonizations
+harmonizations <> b: harmonization, f: s
+harmonize <> i: harmonizing, d: harmonized, '3': harmonizes, p: harmonized
+harmonized <> b: harmonize, f: dp, d: harmonized, p: harmonized
+harmonizes <> b: harmonize, f: '3'
+harmonizing <> b: harmonize, f: i
+harmony <> s: harmonies
+harms <> b: harm, f: s3
+harness <> d: harnessed, i: harnessing, s: harnesses, '3': harnesses, p: harnessed
+harnessed <> b: harness, f: dp, d: harnessed, p: harnessed
+harnesses <> b: harness, f: s3
+harnessing <> b: harness, f: i, i: harnessing
+harp <> i: harping, s: harps, p: harped, '3': harps, d: harped
+harped <> b: harp, f: pd
+Harper <> s: harpers
+harpies <> b: harpy, f: s
+harping <> b: harp, f: i, i: harping
+harpist <> s: harpists
+harpists <> b: harpist, f: s
+harpoon <> s: harpoons, d: harpooned, i: harpooning, p: harpooned, '3': harpoons
+harpooned <> f: dp, b: harpoon
+harpooning <> f: i, b: harpoon, s: harpoonings
+harpoons <> f: s3, b: harpoon
+harps <> b: harp, f: s3
+harpsichord <> s: harpsichords
+harpsichordist <> s: harpsichordists
+harpsichordists <> b: harpsichordist, f: s
+harpsichords <> b: harpsichord, f: s
+Harpy <> s: harpies
+harridan <> s: harridans
+harridans <> b: harridan, f: s
+harried <> b: harry, f: pd, p: harried
+harrier <> s: harriers
+harriers <> b: harrier, f: s
+Harrovian <> s: harrovians
+harrow <> i: harrowing, s: harrows, d: harrowed, p: harrowed, '3': harrows
+harrowed <> b: harrow, f: dp
+harrowing <> b: harrow, f: i, i: harrowing
+harrows <> f: s3, b: harrow
+harrumph <> p: harrumphed, i: harrumphing
+harrumphed <> b: harrumph, f: p
+harrumphing <> b: harrumph, f: i
+harry <> p: harried, d: harried, i: harrying, '3': harries
+harsh <> r: harsher, t: harshest
+harsher <> b: harsh, f: r
+harshest <> b: harsh, f: t
+harshness <> s: harshnesses
+harshnesses <> b: harshness, f: s
+hart <> s: harts
+harts <> b: hart, f: s
+harvest <> d: harvested, i: harvesting, s: harvests, p: harvested, '3': harvests
+harvested <> b: harvest, f: dp
+harvester <> s: harvesters
+harvesters <> b: harvester, f: s
+harvesting <> b: harvest, f: i, i: harvesting
+harvestman <> s: harvestmen
+harvestmen <> b: harvestman, f: s
+harvests <> b: harvest, f: s3
+harzburgite <> s: harzburgites
+harzburgites <> b: harzburgite, f: s
+has <> f: '3', b: have
+has-been <> s: has-beens
+has-beens <> b: has-been, f: s
+hash <> i: hashing, p: hashed, s: hashes, '3': hashes, d: hashed
+hashed <> f: pd, b: hash
+Hashemite <> s: hashemites, r: hashemiter
+hashes <> f: s3, b: hash
+hashing <> b: hash, f: i, i: hashing
+Hasid <> s: hasids
+hasp <> s: hasps, i: hasping, p: hasped, '3': hasps, d: hasped
+hasped <> f: pd, b: hasp
+hasping <> f: i, b: hasp
+hasps <> f: s3, b: hasp
+hassle <> s: hassles, d: hassled, i: hassling, p: hassled, '3': hassles
+hassled <> b: hassle, f: dp, d: hassled, p: hassled
+hassles <> b: hassle, f: s3
+hassling <> b: hassle, f: i
+hassock <> s: hassocks
+hassocks <> b: hassock, f: s
+hast <> p: hasted, i: hasting
+hasted <> b: hast, f: p, p: hasted
+hasten <> p: hastened, d: hastened, i: hastening, '3': hastens
+hastened <> b: hasten, f: pd
+hastening <> b: hasten, f: i
+hastens <> b: hasten, f: '3'
+hastier <> b: hasty, f: r
+hastiest <> b: hasty, f: t
+hasting <> b: hast, f: i, s: hastings
+hastings <> b: hasting, f: s
+hasty <> t: hastiest, r: hastier
+hat <> s: hats, p: hatted, i: hatting, '3': hats, d: hatted
+hat-trick <> s: hat-tricks
+hat-tricks <> b: hat-trick, f: s
+hatbox <> s: hatboxes
+hatboxes <> b: hatbox, f: s
+hatch <> d: hatched, i: hatching, s: hatches, p: hatched, '3': hatches
+hatchard <> s: hatchards
+hatchards <> b: hatchard, f: s
+hatchback <> s: hatchbacks
+hatchbacks <> b: hatchback, f: s
+hatched <> b: hatch, f: dp, d: hatched, p: hatched
+hatchel <> i: hatcheling, p: hatcheled, '3': hatchels, d: hatcheled
+hatcheled <> f: pd, b: hatchel
+hatcheling <> f: i, b: hatchel
+hatchels <> f: '3', b: hatchel
+hatcheries <> b: hatchery, f: s
+hatchery <> s: hatcheries
+hatches <> b: hatch, f: s3
+hatchet <> s: hatchets
+hatchets <> b: hatchet, f: s
+hatching <> b: hatch, f: i, i: hatching, s: hatchings
+hatchling <> s: hatchlings
+hatchlings <> b: hatchling, f: s
+hatchment <> s: hatchments
+hatchments <> b: hatchment, f: s
+hatchway <> s: hatchways
+hatchways <> b: hatchway, f: s
+hate <> p: hated, '3': hates, i: hating, d: hated
+hated <> b: hate, f: pd, p: hated, d: hated
+hater <> s: haters
+haters <> b: hater, f: s
+hates <> b: hate, f: '3'
+Hathaway <> s: hathaways
+hating <> b: hate, f: i, i: hating
+hatmaker <> s: hatmakers
+hatmakers <> b: hatmaker, f: s
+hatpin <> s: hatpins
+hatpins <> b: hatpin, f: s
+hatred <> s: hatreds
+hatreds <> b: hatred, f: s
+hats <> f: s3, b: hat
+hatstand <> s: hatstands
+hatstands <> b: hatstand, f: s
+hatted <> f: pd, b: hat
+hatter <> s: hatters
+hatters <> b: hatter, f: s
+hatting <> f: i, b: hat
+hauberk <> s: hauberks
+hauberks <> b: hauberk, f: s
+haughtiest <> b: haughty, f: t
+haughty <> t: haughtiest
+haul <> p: hauled, i: hauling, d: hauled, '3': hauls, s: hauls
+hauled <> b: haul, f: pd
+haulier <> b: hauly, f: r, s: hauliers
+hauliers <> b: haulier, f: s
+hauling <> b: haul, f: i, i: hauling
+haulm <> s: haulms
+haulms <> b: haulm, f: s
+hauls <> b: haul, f: 3s
+haunch <> s: haunches
+haunches <> b: haunch, f: s
+haunt <> d: haunted, '3': haunts, s: haunts, p: haunted, i: haunting
+haunted <> b: haunt, f: dp, p: haunted, d: haunted
+haunting <> b: haunt, f: i, s: hauntings, i: haunting
+haunts <> b: haunt, f: 3s
+Hausa <> s: hausas
+hautboy <> s: hautboys
+hautboys <> b: hautboy, f: s
+haute <> '3': hautes
+hautes <> b: haute, f: '3'
+Havana <> s: havanas
+have <> i: having, p: had, '3': has, d: had
+have-not <> s: have-nots
+have-nots <> b: have-not, f: s
+haveli <> s: havelis
+havelis <> b: haveli, f: s
+haven <> s: havens
+havens <> b: haven, f: s
+haver <> '3': havers, i: havering, p: havered, s: havers
+Havering <> s: haverings, i: havering, b: havering, f: i
+HAVERS <> b: haver, f: 3s
+haversack <> s: haversacks
+haversacks <> b: haversack, f: s
+having <> f: i, b: have
+havoc <> s: havocs
+havocs <> b: havoc, f: s
+haw <> s: haws, p: hawed, i: hawing, '3': haws, d: hawed
+Hawaiian <> s: hawaiians
+hawaiians <> b: hawaiian, f: s
+hawed <> f: pd, b: haw
+hawing <> b: haw, f: i
+hawk <> s: hawks, i: hawking, p: hawked, d: hawked, '3': hawks
+hawked <> b: hawk, f: pd
+hawker <> s: hawkers
+hawkers <> b: hawker, f: s
+Hawking <> b: hawk, f: i, s: hawkings, i: hawking
+hawkmoth <> s: hawkmoths
+hawkmoths <> b: hawkmoth, f: s
+hawks <> f: s3, b: hawk
+haws <> f: s3, b: haw
+hawser <> s: hawsers
+hawsers <> b: hawser, f: s
+hawthorn <> s: hawthorns
+hawthorns <> b: hawthorn, f: s
+hay <> s: hays, i: haying, p: hayed, '3': hays, d: hayed
+haybox <> s: hayboxes
+hayboxes <> b: haybox, f: s
+haycock <> s: haycocks
+haycocks <> b: haycock, f: s
+hayed <> f: pd, b: hay
+hayfield <> s: hayfields
+hayfields <> b: hayfield, f: s
+haying <> f: i, b: hay
+hayloft <> s: haylofts
+haylofts <> b: hayloft, f: s
+haymaker <> s: haymakers
+haymakers <> b: haymaker, f: s
+haymaking <> i: haymaking, b: haymaking, f: i
+Hayman <> s: haymans
+hayrick <> s: hayricks
+hayricks <> b: hayrick, f: s
+hays <> f: s3, b: hay
+haystack <> s: haystacks
+haystacks <> b: haystack, f: s
+hazard <> s: hazards, p: hazarded, i: hazarding, d: hazarded, '3': hazards
+hazarded <> b: hazard, f: pd
+hazarding <> b: hazard, f: i
+hazards <> f: s3, b: hazard
+haze <> s: hazes, p: hazed, d: hazed, i: hazing, '3': hazes
+hazed <> b: haze, f: pd, p: hazed
+hazel <> s: hazels
+Hazell <> s: hazells
+hazelnut <> s: hazelnuts
+hazelnuts <> b: hazelnut, f: s
+hazels <> b: hazel, f: s
+hazes <> f: s3, b: haze
+hazier <> b: hazy, f: r
+haziest <> b: hazy, f: t
+hazing <> b: haze, f: i, i: hazing
+hazy <> t: haziest, r: hazier
+hci <> s: hci, b: hci, f: s
+he-man <> s: he-men
+he-men <> b: he-man, f: s
+head <> s: heads, i: heading, d: headed, p: headed, '3': heads
+headache <> s: headaches
+headaches <> b: headache, f: s
+headband <> s: headbands
+headbands <> b: headband, f: s
+headbanger <> s: headbangers
+headbangers <> b: headbanger, f: s
+headbanging <> i: headbanging, b: headbanging, f: i
+headboard <> s: headboards
+headboards <> b: headboard, f: s
+headcount <> s: headcounts
+headcounts <> b: headcount, f: s
+headdress <> s: headdresses
+headdresses <> b: headdress, f: s
+headed <> b: head, f: dp, d: headed, p: headed
+header <> s: headers
+headers <> b: header, f: s
+headhunt <> d: headhunted, p: headhunted, '3': headhunts, i: headhunting
+headhunted <> b: headhunt, f: dp
+headhunter <> s: headhunters
+headhunters <> b: headhunter, f: s
+headhunting <> i: headhunting, b: headhunting, f: i
+headhunts <> b: headhunt, f: '3'
+headier <> b: heady, f: r
+heading <> b: head, f: i, s: headings, i: heading
+headlamp <> s: headlamps, '3': headlamps
+headlamps <> b: headlamp, f: s3
+headland <> s: headlands
+headlands <> b: headland, f: s
+headlight <> s: headlights
+headlights <> b: headlight, f: s
+headline <> s: headlines, p: headlined, i: headlining, d: headlined, '3': headlines
+headlined <> b: headline, f: pd, d: headlined, p: headlined
+headliner <> s: headliners
+headliners <> b: headliner, f: s
+headlines <> f: s3, b: headline
+headlining <> b: headline, f: i, i: headlining
+headlock <> s: headlocks
+headlocks <> b: headlock, f: s
+headman <> s: headmen
+headmaster <> s: headmasters
+headmasters <> b: headmaster, f: s
+headmen <> b: headman, f: s
+headmistress <> s: headmistresses
+headmistresses <> b: headmistress, f: s
+headnote <> s: headnotes
+headnotes <> b: headnote, f: s
+headphone <> s: headphones
+headphones <> b: headphone, f: s
+headpiece <> s: headpieces
+headpieces <> b: headpiece, f: s
+headquarter <> p: headquartered, d: headquartered
+headquartered <> b: headquarter, f: pd
+headrest <> b: headr, f: t, s: headrests
+headrests <> b: headrest, f: s
+heads <> b: head, f: s3
+headsail <> s: headsails
+headsails <> b: headsail, f: s
+headscarf <> s: headscarves, p: headscarfed
+headscarfed <> b: headscarf, f: p
+headscarves <> b: headscarf, f: s
+headset <> s: headsets, '3': headsets
+headsets <> b: headset, f: s3
+headship <> s: headships
+headships <> b: headship, f: s
+headsquare <> '3': headsquares
+headsquares <> b: headsquare, f: '3'
+headstock <> s: headstocks
+headstocks <> b: headstock, f: s
+headstone <> s: headstones
+headstones <> b: headstone, f: s
+headteacher <> s: headteachers
+Headteachers <> b: headteacher, f: s
+headwater <> s: headwaters, b: headwate, f: r
+headwaters <> b: headwater, f: s
+headway <> s: headways
+headways <> b: headway, f: s
+headwind <> s: headwinds
+headwinds <> b: headwind, f: s
+headword <> s: headwords
+headwords <> b: headword, f: s
+heady <> r: headier
+heal <> d: healed, i: healing, p: healed, '3': heals, s: heals
+healed <> b: heal, f: dp, d: healed
+healer <> s: healers
+healers <> b: healer, f: s
+healing <> s: healings, i: healing, b: healing, f: i
+heals <> b: heal, f: 3s
+healthier <> b: healthy, f: r
+healthiest <> b: healthy, f: t
+healthy <> r: healthier, t: healthiest
+heap <> s: heaps, p: heaped, d: heaped, i: heaping, '3': heaps
+heaped <> b: heap, f: pd, p: heaped
+heaping <> b: heap, f: i
+heaps <> b: heap, f: s3
+hear <> d: heard, p: heard, i: hearing, '3': hears
+heard <> b: hear, f: dp
+hearer <> s: hearers
+hearers <> b: hearer, f: s
+hearing <> b: hear, f: i, i: hearing, s: hearings
+hearken <> i: hearkening, p: hearkened, '3': hearkens, d: hearkened
+hearkened <> f: pd, b: hearken
+hearkening <> b: hearken, f: i
+hearkens <> f: '3', b: hearken
+hears <> b: hear, f: '3'
+hearse <> s: hearses
+hearses <> b: hearse, f: s
+heart <> s: hearts
+heart-searching <> s: heart-searchings
+heart-searchings <> b: heart-searching, f: s
+heart-throb <> s: heart-throbs
+heart-throbs <> b: heart-throb, f: s
+heart-to-heart <> s: heart-to-hearts
+heart-to-hearts <> b: heart-to-heart, f: s
+heartbeat <> s: heartbeats, '3': heartbeats
+heartbeats <> b: heartbeat, f: s3
+heartbreak <> s: heartbreaks
+heartbreaker <> s: heartbreakers
+heartbreakers <> b: heartbreaker, f: s
+heartbreaks <> b: heartbreak, f: s
+hearten <> d: heartened, p: heartened, '3': heartens, i: heartening
+heartened <> b: hearten, f: dp, d: heartened, p: heartened
+heartening <> f: i, b: hearten
+heartens <> b: hearten, f: '3'
+hearth <> s: hearths
+hearths <> b: hearth, f: s
+hearthstone <> s: hearthstones
+hearthstones <> b: hearthstone, f: s
+heartier <> b: hearty, f: r
+hearties <> b: hearty, f: s
+heartiest <> b: hearty, f: t
+heartland <> s: heartlands
+heartlands <> b: heartland, f: s
+hearts <> b: heart, f: s
+heartstring <> s: heartstrings
+heartstrings <> b: heartstring, f: s
+heartwood <> s: heartwoods
+heartwoods <> b: heartwood, f: s
+hearty <> s: hearties, t: heartiest, r: heartier
+heat <> d: heated, s: heats, i: heating, '3': heats, p: heated
+heated <> b: heat, f: dp, d: heated, p: heated
+heater <> s: heaters
+heaters <> b: heater, f: s
+heath <> s: heaths
+heathen <> s: heathens
+heathens <> b: heathen, f: s
+heather <> s: heathers
+heathers <> b: heather, f: s
+heathland <> s: heathlands
+heathlands <> b: heathland, f: s
+heaths <> b: heath, f: s
+heating <> b: heat, f: i, i: heating
+heats <> b: heat, f: s3
+heatwave <> s: heatwaves
+heatwaves <> b: heatwave, f: s
+heave <> p: heaved, i: heaving, d: heaved, '3': heaves, s: heaves
+heaved <> b: heave, f: pd
+heaven <> s: heavens
+heavens <> b: heaven, f: s
+heaver <> s: heavers, '3': heavers
+heavers <> b: heaver, f: s3
+heaves <> b: heave, f: 3s
+heavier <> b: heavy, f: r
+heavies <> b: heavy, f: s
+heaviest <> b: heavy, f: t
+heaving <> b: heave, f: i, i: heaving, s: heavings
+heavy <> r: heavier, t: heaviest, s: heavies
+heavyweight <> s: heavyweights
+heavyweights <> b: heavyweight, f: s
+hebe <> s: hebes
+hebes <> b: hebe, f: s
+Hebraist <> s: hebraists
+Hebrew <> s: hebrews
+hebrews <> b: hebrew, f: s
+hebridean <> s: hebrideans
+hebrideans <> b: hebridean, f: s
+heck <> s: hecks
+heckle <> d: heckled, i: heckling, p: heckled, s: heckles, '3': heckles
+heckled <> b: heckle, f: dp
+heckler <> s: hecklers
+hecklers <> b: heckler, f: s
+heckles <> f: s3, b: heckle
+heckling <> b: heckle, f: i, i: heckling
+hecks <> b: heck, f: s
+hectare <> s: hectares
+hectares <> b: hectare, f: s
+hectolitre <> s: hectolitres
+hectolitres <> b: hectolitre, f: s
+hector <> i: hectoring, p: hectored, '3': hectors, d: hectored
+hectored <> b: hectore, f: pd
+hectoring <> b: hectore, f: i
+hectors <> f: '3', b: hector
+hed <> b: h, f: p, d: hed
+hedda <> s: heddas
+heddas <> b: hedda, f: s
+heddle <> s: heddles
+heddles <> b: heddle, f: s
+hedge <> s: hedges, i: hedging, d: hedged, p: hedged, '3': hedges
+hedged <> b: hedge, f: dp, d: hedged
+hedgehog <> s: hedgehogs
+hedgehogs <> b: hedgehog, f: s
+hedger <> s: hedgers
+hedgerow <> s: hedgerows
+Hedgerows <> b: hedgerow, f: s
+hedgers <> b: hedger, f: s
+hedges <> b: hedge, f: s3
+hedging <> b: hedge, f: i, i: hedging
+hedonist <> s: hedonists
+hedonists <> b: hedonist, f: s
+hee <> s: hees
+heed <> d: heeded, i: heeding, p: heeded, '3': heeds, s: heeds
+heeded <> b: heed, f: dp
+heeding <> b: heed, f: i
+heeds <> b: heed, f: 3s
+heel <> s: heels, p: heeled, d: heeled, i: heeling, '3': heels
+heeled <> b: heel, f: pd, p: heeled
+heeling <> b: heel, f: i
+heels <> f: s3, b: heel
+hees <> b: hee, f: s
+heft <> p: hefted, i: hefting, d: hefted, '3': hefts
+hefted <> b: heft, f: pd
+heftier <> b: hefty, f: r
+heftiest <> b: hefty, f: t
+hefting <> b: heft, f: i
+hefts <> f: '3', b: heft
+hefty <> r: heftier, t: heftiest
+hegel <> s: hegels
+Hegelian <> s: hegelians
+hegels <> b: hegel, f: s
+hegemonies <> b: hegemony, f: s
+hegemony <> s: hegemonies
+heifer <> s: heifers, '3': heifers
+heifers <> b: heifer, f: s3
+height <> s: heights
+heighten <> d: heightened, p: heightened, i: heightening, '3': heightens
+heightened <> b: heighten, f: dp, p: heightened, d: heightened
+heightening <> b: heighten, f: i, i: heightening
+heightens <> b: heighten, f: '3'
+heights <> b: height, f: s
+Heinkel <> s: heinkels
+Heinrich <> s: heinrichs
+heir <> s: heirs
+heiress <> s: heiresses
+heiresses <> b: heiress, f: s
+heirloom <> s: heirlooms
+heirlooms <> b: heirloom, f: s
+heirs <> b: heir, f: s
+heist <> s: heists, p: heisted, i: heisting, '3': heists, d: heisted
+heisted <> f: pd, b: heist
+heisting <> f: i, b: heist
+heists <> f: s3, b: heist
+held <> b: hold, f: dp, p: held, d: held
+helenium <> s: heleniums
+heleniums <> b: helenium, f: s
+heli <> s: heli, b: heli, f: s
+helice <> s: helices, '3': helices
+helices <> b: helice, f: s3
+helichrysum <> s: helichrysums
+helichrysums <> b: helichrysum, f: s
+helicopter <> s: helicopters, d: helicoptered, i: helicoptering, p: helicoptered
+helicoptered <> b: helicopter, f: dp
+helicoptering <> b: helicopter, f: i
+helicopters <> b: helicopter, f: s
+Helio <> s: helios
+heliograph <> s: heliographs, i: heliographing, p: heliographed, '3': heliographs, d: heliographed
+heliographs <> b: heliograph, f: s
+Helios <> b: helio, f: s
+heliostat <> s: heliostats
+heliostats <> b: heliostat, f: s
+heliotrope <> s: heliotropes
+heliotropes <> b: heliotrope, f: s
+heliport <> s: heliports
+heliports <> b: heliport, f: s
+helix <> s: helixes
+helixes <> b: helix, f: s
+hell <> s: hells
+hell-hole <> s: hell-holes
+hell-holes <> b: hell-hole, f: s
+helleborine <> s: helleborines
+helleborines <> b: helleborine, f: s
+Hellene <> s: hellenes
+Hellenist <> s: hellenists
+Hellenize <> i: hellenizing, p: hellenized
+hellfire <> d: hellfired
+hellfired <> b: hellfire, f: d
+hellhole <> s: hellholes
+hellholes <> b: hellhole, f: s
+hellhound <> s: hellhounds
+hellhounds <> b: hellhound, f: s
+hello <> s: hellos
+hellos <> b: hello, f: s
+hellraiser <> s: hellraisers
+hellraisers <> b: hellraiser, f: s
+hells <> b: hell, f: s
+helly <> r: hellyer
+Hellyer <> b: helly, f: r
+helm <> s: helms, i: helming, d: helmed
+helmed <> b: helm, f: d
+helmet <> s: helmets
+helmets <> b: helmet, f: s
+helming <> b: helm, f: i
+helminth <> s: helminths
+helminths <> b: helminth, f: s
+Helms <> b: helm, f: s
+helmsman <> s: helmsmen
+helmsmen <> b: helmsman, f: s
+helot <> s: helots
+helots <> b: helot, f: s
+help <> d: helped, i: helping, p: helped, '3': helps, s: helps
+helped <> b: help, f: dp, p: helped, d: helped
+helper <> s: helpers
+helpers <> b: helper, f: s
+helpfulness <> s: helpfulnesses
+helpfulnesses <> b: helpfulness, f: s
+helping <> b: help, f: i, i: helping, s: helpings
+helpline <> s: helplines
+helplines <> b: helpline, f: s
+helpmate <> s: helpmates
+helpmates <> b: helpmate, f: s
+helpmeet <> s: helpmeets
+helpmeets <> b: helpmeet, f: s
+helps <> b: help, f: 3s
+helter-skelter <> s: helter-skelters
+helter-skelters <> b: helter-skelter, f: s
+hem <> d: hemmed, s: hems, i: hemming, p: hemmed, '3': hems
+hemichordate <> s: hemichordates
+hemichordates <> b: hemichordate, f: s
+hemiola <> s: hemiolas
+hemiolas <> b: hemiola, f: s
+hemisphere <> s: hemispheres
+hemispheres <> b: hemisphere, f: s
+hemline <> s: hemlines
+hemlines <> b: hemline, f: s
+hemlock <> s: hemlocks
+hemlocks <> b: hemlock, f: s
+hemmed <> b: hem, f: dp, d: hemmed
+hemming <> b: hem, f: i, s: hemmings
+hemorrhage <> i: hemorrhaging, p: hemorrhaged, '3': hemorrhages, d: hemorrhaged
+hemorrhaged <> f: pd, b: hemorrhage
+hemorrhages <> f: '3', b: hemorrhage
+hemorrhaging <> f: i, b: hemorrhage
+hems <> b: hem, f: s3
+hemstitch <> i: hemstitching, p: hemstitched, '3': hemstitches, d: hemstitched
+hemstitched <> f: pd, b: hemstitch
+hemstitches <> f: '3', b: hemstitch
+hemstitching <> f: i, b: hemstitch
+hen <> s: hens
+henchman <> s: henchmen
+henchmen <> b: henchman, f: s
+Hendrick <> s: hendricks
+henge <> s: henges, '3': henges
+henges <> b: henge, f: s3
+henhouse <> s: henhouses
+henhouses <> b: henhouse, f: s
+henna <> i: hennaing, p: hennaed, '3': hennas, d: hennaed, s: hennas
+henpeck <> p: henpecked, d: henpecked
+henpecked <> p: henpecked, b: henpecked, f: pd, d: henpecked
+hens <> b: hen, f: s
+heparin <> s: heparins
+heparins <> b: heparin, f: s
+hepatic <> s: hepatics
+hepatics <> b: hepatic, f: s
+hepatocyte <> s: hepatocytes
+hepatocytes <> b: hepatocyte, f: s
+hepatotoxin <> s: hepatotoxins
+hepatotoxins <> b: hepatotoxin, f: s
+her <> i: hering
+herald <> p: heralded, d: heralded, '3': heralds, s: heralds, i: heralding
+heralded <> b: herald, f: pd
+heralding <> b: herald, f: i
+heralds <> b: herald, f: 3s
+herb <> s: herbs
+herbal <> s: herbals
+herbalist <> s: herbalists
+herbalists <> b: herbalist, f: s
+herbals <> b: herbal, f: s
+herbicide <> s: herbicides, '3': herbicides
+herbicides <> b: herbicide, f: s3
+herbivore <> s: herbivores, '3': herbivores
+herbivores <> b: herbivore, f: s3
+herbs <> b: herb, f: s
+Hercule <> s: hercules
+Hercules <> b: hercule, f: s
+herd <> s: herds, d: herded, i: herding, p: herded, '3': herds
+herdbook <> s: herdbooks
+herdbooks <> b: herdbook, f: s
+herded <> b: herd, f: dp, p: herded
+herder <> s: herders
+herders <> b: herder, f: s
+herding <> b: herd, f: i, i: herding
+herds <> b: herd, f: s3
+herdsman <> s: herdsmen
+herdsmen <> b: herdsman, f: s
+hereditament <> s: hereditaments
+hereditaments <> b: hereditament, f: s
+Herero <> s: hereros
+heresiarch <> s: heresiarchs
+heresiarchs <> b: heresiarch, f: s
+heresies <> b: heresy, f: s
+heresy <> s: heresies
+heretic <> s: heretics
+heretics <> b: heretic, f: s
+hering <> b: her, f: i
+heriot <> s: heriots
+heriots <> b: heriot, f: s
+heritage <> s: heritages
+heritages <> b: heritage, f: s
+heritor <> s: heritors
+heritors <> b: heritor, f: s
+herm <> s: herms, '3': herms
+hermaphrodite <> s: hermaphrodites
+hermaphrodites <> b: hermaphrodite, f: s
+hermeneutic <> s: hermeneutics
+hermeneutics <> b: hermeneutic, f: s
+hermit <> s: hermits
+hermitage <> s: hermitages
+hermitages <> b: hermitage, f: s
+hermits <> b: hermit, f: s
+herms <> b: herm, f: s3
+hernia <> s: hernias
+hernias <> b: hernia, f: s
+herniate <> d: herniated
+herniated <> b: herniate, f: d
+hero <> s: heroes
+Herodian <> s: herodians
+heroes <> b: hero, f: s
+heroic <> s: heroics
+heroics <> b: heroic, f: s
+heroine <> s: heroines
+heroines <> b: heroine, f: s
+heroism <> s: heroisms
+heroisms <> b: heroism, f: s
+heron <> s: herons
+heronries <> b: heronry, f: s
+heronry <> s: heronries
+herons <> b: heron, f: s
+herpe <> s: herpes
+herpes <> b: herpe, f: s
+herr <> s: herrs
+herring <> s: herrings
+herrings <> b: herring, f: s
+herrs <> b: herr, f: s
+herstories <> b: herstory, f: s
+herstory <> s: herstories
+hesitancies <> b: hesitancy, f: s
+hesitancy <> s: hesitancies
+hesitate <> p: hesitated, i: hesitating, '3': hesitates, d: hesitated
+hesitated <> b: hesitate, f: pd
+hesitates <> b: hesitate, f: '3'
+hesitating <> b: hesitate, f: i
+hesitation <> s: hesitations
+hesitations <> b: hesitation, f: s
+Hesperides <> b: hesperide, f: s3
+hessian <> s: hessians
+hessians <> b: hessian, f: s
+het <> f: pd, b: heat
+hetero <> s: heteros
+heterocyclic <> s: heterocyclics
+heterocyclics <> b: heterocyclic, f: s
+heterodoxies <> b: heterodoxy, f: s
+heterodoxy <> s: heterodoxies
+heterodyne <> i: heterodyning, p: heterodyned, '3': heterodynes, d: heterodyned
+heterodyned <> f: pd, b: heterodyne
+heterodynes <> f: '3', b: heterodyne
+heterodyning <> f: i, b: heterodyne
+heterogeneities <> b: heterogeneity, f: s
+heterogeneity <> s: heterogeneities
+heterojunction <> s: heterojunctions
+heterojunctions <> b: heterojunction, f: s
+heteros <> b: hetero, f: s
+heterosexual <> s: heterosexuals
+heterosexuals <> b: heterosexual, f: s
+heterozygote <> s: heterozygotes
+heterozygotes <> b: heterozygote, f: s
+hetman <> s: hetmans
+hetmans <> b: hetman, f: s
+heuristic <> s: heuristics
+heuristics <> b: heuristic, f: s
+hew <> i: hewing, p: hewed, '3': hews, d: hewn
+hewed <> b: hew, f: p
+hewer <> s: hewers
+hewers <> b: hewer, f: s
+hewing <> b: hew, f: i
+hewn <> f: d, b: hew
+hews <> b: hew, f: '3'
+hex <> s: hexes, d: hexed, i: hexing, p: hexed, '3': hexes
+hexagon <> s: hexagons
+hexagonal <> s: hexagonals
+hexagonals <> b: hexagonal, f: s
+hexagons <> b: hexagon, f: s
+hexagram <> s: hexagrams
+hexagrams <> b: hexagram, f: s
+hexameter <> s: hexameters
+hexameters <> b: hexameter, f: s
+hexed <> f: dp, b: hex
+hexes <> f: s3, b: hex
+hexing <> f: i, b: hex
+hexose <> s: hexoses
+hexoses <> b: hexose, f: s
+hey <> s: heys
+heyday <> s: heydays
+heydays <> b: heyday, f: s
+heys <> b: hey, f: s
+hgv <> s: hgvs
+hgvs <> b: hgv, f: s
+hi-fi <> s: hi-fis
+hi-fis <> b: hi-fi, f: s
+hi-hat <> s: hi-hats
+hi-hats <> b: hi-hat, f: s
+hi-res <> b: hi-re, f: s
+hibernate <> i: hibernating, d: hibernated, p: hibernated, s: hibernates, '3': hibernates
+hibernated <> b: hibernate, f: dp
+hibernates <> f: s3, b: hibernate
+hibernating <> b: hibernate, f: i
+hibernator <> s: hibernators
+hibernators <> b: hibernator, f: s
+HIC <> s: hics
+hiccough <> s: hiccoughs, i: hiccoughing, p: hiccoughed, '3': hiccoughs, d: hiccoughed
+hiccoughed <> f: pd, b: hiccough
+hiccoughing <> b: hiccough, f: i
+hiccoughs <> f: s3, b: hiccough
+hiccup <> s: hiccups, p: hiccupped, '3': hiccups, i: hiccupping, d: hiccuped
+hiccuped <> b: hiccupe, f: p
+hiccupped <> b: hiccup, f: p
+hiccupping <> b: hiccup, f: i
+hiccups <> b: hiccup, f: s3
+hick <> s: hicks
+hicks <> b: hick, f: s
+hid <> b: hide, f: pd
+hidalgo <> s: hidalgos
+hidalgos <> b: hidalgo, f: s
+hidden <> b: hide, f: d, d: hidden
+hide <> d: hidden, i: hiding, p: hid, '3': hides, s: hides
+hide-out <> s: hide-outs
+hide-outs <> b: hide-out, f: s
+hideaway <> s: hideaways
+hideaways <> b: hideaway, f: s
+hideout <> s: hideouts
+hideouts <> b: hideout, f: s
+hider <> s: hiders
+hiders <> b: hider, f: s
+hidey-hole <> s: hidey-holes
+hidey-holes <> b: hidey-hole, f: s
+hiding <> b: hide, f: i, i: hiding
+hie <> p: hied, '3': hies, i: hying, d: hied
+hied <> f: pd, b: hie
+hierarch <> s: hierarchs
+hierarchies <> b: hierarchy, f: s
+hierarchs <> b: hierarch, f: s
+hierarchy <> s: hierarchies
+hieroglyph <> s: hieroglyphs
+hieroglyphic <> s: hieroglyphics
+hieroglyphics <> b: hieroglyphic, f: s
+hieroglyphs <> b: hieroglyph, f: s
+hierophant <> s: hierophants
+hierophants <> b: hierophant, f: s
+hies <> b: hie, f: '3'
+higg <> s: higgs
+higgle <> i: higgling, p: higgled, '3': higgles, d: higgled
+higgled <> f: pd, b: higgle
+higgles <> f: '3', b: higgle
+higgling <> f: i, b: higgle
+Higgs <> b: higg, f: s
+high <> r: higher, t: highest, s: highs
+high-flier <> s: high-fliers
+high-fliers <> b: high-flier, f: s
+high-flyer <> s: high-flyers
+high-flyers <> b: high-flyer, f: s
+high-power <> p: high-powered
+high-powered <> b: high-power, f: p
+high-rise <> s: high-rises
+high-rises <> b: high-rise, f: s
+high-top <> s: high-tops
+high-tops <> b: high-top, f: s
+high-up <> s: high-ups
+high-ups <> b: high-up, f: s
+highball <> s: highballs
+highballs <> b: highball, f: s
+highbrow <> s: highbrows
+highbrows <> b: highbrow, f: s
+highchair <> s: highchairs, '3': highchairs
+highchairs <> b: highchair, f: s3
+higher <> b: high, f: r, s: highers
+higher-up <> s: higher-ups, r: higher-up, b: higher-up, f: r
+higher-ups <> b: higher-up, f: s
+Highers <> b: higher, f: s
+highest <> b: high, f: t
+highland <> s: highlands
+highlander <> s: highlanders
+highlanders <> b: highlander, f: s
+highlandman <> s: highlandmen
+highlandmen <> b: highlandman, f: s
+highlands <> b: highland, f: s
+highlight <> d: highlighted, s: highlights, '3': highlights, p: highlighted, i: highlighting
+highlighted <> b: highlight, f: dp, p: highlighted, d: highlighted
+highlighting <> b: highlight, f: i, i: highlighting
+highlights <> b: highlight, f: s3
+highness <> s: highnesses
+highnesses <> b: highness, f: s
+highpoint <> s: highpoints
+highpoints <> b: highpoint, f: s
+highrise <> s: highrises
+highrises <> b: highrise, f: s
+highs <> b: high, f: s
+hightail <> '3': hightails, p: hightailed, i: hightailing, d: hightailed
+hightailed <> f: pd, b: hightail
+hightailing <> f: i, b: hightail
+hightails <> b: hightail, f: '3'
+highway <> s: highways
+highwayman <> s: highwaymen
+highwaymen <> b: highwayman, f: s
+highways <> b: highway, f: s
+hijack <> d: hijacked, p: hijacked, i: hijacking, s: hijacks, '3': hijacks
+hijacked <> b: hijack, f: dp
+hijacker <> s: hijackers
+hijackers <> b: hijacker, f: s
+hijacking <> b: hijack, f: i, s: hijackings, i: hijacking
+hijacks <> f: s3, b: hijack
+hijra <> s: hijras
+hijras <> b: hijra, f: s
+hike <> s: hikes, i: hiking, p: hiked, d: hiked, '3': hikes
+hiked <> b: hike, f: pd
+hiker <> s: hikers
+hikers <> b: hiker, f: s
+hikes <> f: s3, b: hike
+hiking <> b: hike, f: i, i: hiking
+hill <> s: hills, i: hilling, p: hilled, '3': hills, d: hilled
+hillbillies <> b: hillbilly, f: s
+hillbilly <> s: hillbillies
+hilled <> f: pd, b: hill
+Hillier <> b: hilly, f: r
+hilliest <> b: hilly, f: t
+hilling <> i: hilling, b: hilling, f: i
+hillman <> s: hillmen
+hillmen <> b: hillman, f: s
+hillock <> s: hillocks
+hillocks <> b: hillock, f: s
+hills <> f: s3, b: hill
+hillside <> s: hillsides
+hillsides <> b: hillside, f: s
+hilltop <> s: hilltops
+hilltops <> b: hilltop, f: s
+hillwalking <> b: hillwalk, f: i, i: hillwalking
+hilly <> r: hillier, t: hilliest
+Hillyard <> s: hillyards
+hilt <> s: hilts
+hilts <> b: hilt, f: s
+him <> s: hims
+hims <> b: him, f: s
+hind <> s: hinds
+hindbrain <> s: hindbrains
+hindbrains <> b: hindbrain, f: s
+Hinde <> s: hindes
+hinder <> d: hindered, p: hindered, i: hindering, '3': hinders
+hindered <> b: hinder, f: dp, p: hindered
+hindering <> b: hinder, f: i, i: hindering
+hinders <> b: hinder, f: '3'
+hindleg <> s: hindlegs
+hindlegs <> b: hindleg, f: s
+hindmost <> t: hindmost, b: hindmost, f: t
+Hindoo <> s: hindoos
+hindoos <> b: hindoo, f: s
+hindquarter <> s: hindquarters
+hindquarters <> b: hindquarter, f: s
+hindrance <> s: hindrances
+hindrances <> b: hindrance, f: s
+Hinds <> b: hind, f: s
+Hindu <> s: hindus
+hindus <> b: hindu, f: s
+hing <> i: hinging, s: hings
+hinge <> s: hinges, p: hinged, '3': hinges, d: hinged, i: hingeing
+hinged <> b: hinge, f: pd, p: hinged, d: hinged
+hingeing <> b: hinge, f: i
+hinges <> b: hinge, f: s3
+hinging <> b: hing, f: i
+hings <> b: hing, f: s
+hinnies <> b: hinny, f: s
+hinny <> s: hinnies
+hint <> s: hints, p: hinted, d: hinted, i: hinting, '3': hints
+hinted <> b: hint, f: pd
+hinterland <> s: hinterlands
+hinterlands <> b: hinterland, f: s
+hinting <> b: hint, f: i, s: hintings
+Hinton <> s: hintons
+hints <> b: hint, f: s3
+hip <> s: hips, t: hippest, r: hipper
+hipbone <> s: hipbones
+hipbones <> b: hipbone, f: s
+hipper <> b: hip, f: r
+hippest <> b: hip, f: t
+hippies <> b: hippy, f: s
+hippo <> s: hippos
+Hippocrates <> b: hippocrate, f: s3
+hippos <> b: hippo, f: s
+hippy <> s: hippies
+hipster <> s: hipsters
+hipsters <> b: hipster, f: s
+hir <> s: hirs
+hire <> d: hired, p: hired, i: hiring, '3': hires, s: hires
+hired <> b: hire, f: dp, p: hired, d: hired
+hireling <> s: hirelings, i: hireling, b: hireling, f: i
+hirelings <> b: hireling, f: s
+hirer <> s: hirers
+hirers <> b: hirer, f: s
+hires <> b: hire, f: 3s
+hiring <> b: hire, f: i, i: hiring, s: hirings
+hirple <> i: hirpling, p: hirpled
+hirpled <> b: hirple, f: p
+hirpling <> b: hirple, f: i
+hirs <> b: hir, f: s
+hirundine <> s: hirundines
+hirundines <> b: hirundine, f: s
+Hispanic <> s: hispanics
+hispanics <> b: hispanic, f: s
+hiss <> p: hissed, i: hissing, d: hissed, '3': hisses, s: hisses
+hissed <> b: hiss, f: pd
+hisses <> b: hiss, f: 3s
+hissing <> b: hiss, f: i, i: hissing
+histamine <> s: histamines
+histamines <> b: histamine, f: s
+histidine <> s: histidines
+histidines <> b: histidine, f: s
+histogram <> s: histograms
+histograms <> b: histogram, f: s
+histone <> s: histones
+histones <> b: histone, f: s
+historian <> s: historians
+historians <> b: historian, f: s
+historiated <> b: historiate, f: pd
+historicism <> s: historicisms
+historicisms <> b: historicism, f: s
+historicist <> s: historicists
+historicists <> b: historicist, f: s
+historicize <> i: historicizing, p: historicized
+historicized <> b: historicize, f: p
+historicizing <> b: historicize, f: i
+histories <> b: history, f: s
+historiographer <> s: historiographers
+historiographers <> b: historiographer, f: s
+history <> s: histories
+histrionic <> s: histrionics
+histrionics <> b: histrionic, f: s
+hit <> p: hit, b: hit, f: pd, d: hit, i: hitting, '3': hits, s: hits
+hitch <> p: hitched, i: hitching, s: hitches, d: hitched, '3': hitches
+hitch-hike <> s: hitch-hikes
+hitch-hiker <> s: hitch-hikers
+hitch-hikers <> b: hitch-hiker, f: s
+hitch-hikes <> b: hitch-hike, f: s
+hitched <> b: hitch, f: pd, p: hitched
+hitchen <> s: hitchens
+hitchens <> b: hitchen, f: s
+hitcher <> s: hitchers
+hitchers <> b: hitcher, f: s
+hitches <> b: hitch, f: s3
+hitchhike <> i: hitchhiking, p: hitchhiked, '3': hitchhikes, d: hitchhiked
+hitchhiked <> f: pd, b: hitchhike
+hitchhiker <> s: hitchhikers
+hitchhikers <> b: hitchhiker, f: s
+hitchhikes <> f: '3', b: hitchhike
+hitchhiking <> b: hitchhike, f: i
+hitching <> b: hitch, f: i, i: hitching, s: hitchings
+Hitlerite <> s: hitlerites
+hitman <> s: hitmen
+hitmen <> b: hitman, f: s
+hits <> b: hit, f: 3s
+hitter <> s: hitters
+hitters <> b: hitter, f: s
+hitting <> b: hit, f: i, i: hitting
+Hittite <> s: hittites
+hive <> s: hives, d: hived, i: hiving, p: hived, '3': hives
+hived <> b: hive, f: dp
+hives <> f: s3, b: hive
+hiving <> b: hive, f: i
+hlca <> s: hlcas
+hlcas <> b: hlca, f: s
+HMO <> s: hmos
+HO <> s: hos
+hoar <> s: hoars
+hoard <> s: hoards, i: hoarding, d: hoarded, p: hoarded, '3': hoards
+hoarded <> b: hoard, f: dp
+hoarder <> s: hoarders
+hoarders <> b: hoarder, f: s
+hoarding <> b: hoard, f: i, s: hoardings, i: hoarding
+hoards <> b: hoard, f: s3
+hoarier <> b: hoary, f: r
+hoariest <> b: hoary, f: t
+hoars <> b: hoar, f: s
+hoarse <> r: hoarser
+hoarser <> b: hoarse, f: r
+hoary <> t: hoariest, r: hoarier
+hoax <> s: hoaxes, d: hoaxed, i: hoaxing, p: hoaxed, '3': hoaxes
+hoaxed <> b: hoax, f: dp
+hoaxer <> s: hoaxers
+hoaxers <> b: hoaxer, f: s
+hoaxes <> f: s3, b: hoax
+hoaxing <> b: hoax, f: i
+hob <> s: hobs, i: hobbing, p: hobbed, '3': hobs, d: hobbed
+hobbed <> f: pd, b: hob
+Hobbesian <> s: hobbesians
+hobbies <> b: hobby, f: s
+hobbing <> f: i, b: hob
+hobbit <> s: hobbits, '3': hobbits
+hobbits <> b: hobbit, f: s3
+hobble <> p: hobbled, i: hobbling, d: hobbled, '3': hobbles, s: hobbles
+hobbled <> b: hobble, f: pd
+hobbler <> s: hobblers
+hobblers <> b: hobbler, f: s
+hobbles <> b: hobble, f: 3s
+hobbling <> b: hobble, f: i
+hobby <> s: hobbies
+hobbyhorse <> s: hobbyhorses
+hobbyhorses <> b: hobbyhorse, f: s
+hobbyist <> s: hobbyists
+hobbyists <> b: hobbyist, f: s
+hobday <> d: hobdayed, i: hobdaying
+hobdayed <> b: hobday, f: d
+hobdaying <> b: hobday, f: i
+hobgoblin <> s: hobgoblins
+hobgoblins <> b: hobgoblin, f: s
+hobnail <> s: hobnails, d: hobnailed
+hobnailed <> b: hobnail, f: d
+hobnails <> b: hobnail, f: s
+hobnob <> i: hobnobbing, s: hobnobs, p: hobnobbed, '3': hobnobs, d: hobnobbed
+hobnobbed <> f: pd, b: hobnob
+hobnobbing <> b: hobnob, f: i
+hobnobs <> f: s3, b: hobnob
+hobo <> s: hobos
+hobos <> b: hobo, f: s
+hobs <> f: s3, b: hob
+Hobson <> s: hobsons
+hoc <> s: hocs
+hock <> s: hocks, i: hocking, p: hocked, d: hocked, '3': hocks
+hocked <> b: hock, f: pd
+hocks <> f: s3, b: hock
+hocs <> b: hoc, f: s
+hod <> '3': hods, s: hods
+hodge-podge <> s: hodge-podges
+hodge-podges <> b: hodge-podge, f: s
+hods <> b: hod, f: 3s
+hoe <> i: hoeing, s: hoes, d: hoed, p: hoed, '3': hoes
+hoed <> b: hoe, f: dp
+hoeing <> b: hoe, f: i, i: hoeing
+hoes <> b: hoe, f: s3
+Hofmann <> s: hofmanns
+hog <> i: hogging, s: hogs, p: hogged, '3': hogs, d: hogged
+hogan <> s: hogans
+hogans <> b: hogan, f: s
+Hogg <> s: hoggs, '3': hoggs
+hoggart <> s: hoggarts
+hoggarts <> b: hoggart, f: s
+hogged <> b: hog, f: pd
+hogger <> s: hoggers
+hoggers <> b: hogger, f: s
+hogget <> s: hoggets, '3': hoggets
+hoggets <> b: hogget, f: s3
+hogging <> b: hog, f: i
+hogmanay <> s: hogmanays
+hogmanays <> b: hogmanay, f: s
+hogs <> b: hog, f: s3
+hogshead <> s: hogsheads
+hogsheads <> b: hogshead, f: s
+hohenzollern <> s: hohenzollerns
+hohenzollerns <> b: hohenzollern, f: s
+hoi <> s: hoi, b: hoi, f: s
+hoick <> '3': hoicks, d: hoicked, p: hoicked
+hoicked <> b: hoick, f: dp
+hoicks <> b: hoick, f: '3'
+hoist <> p: hoisted, d: hoisted, i: hoisting, '3': hoists, b: hoist, f: d, s: hoists
+hoisted <> b: hoist, f: pd
+hoisting <> b: hoist, f: i
+hoists <> b: hoist, f: 3s
+hol <> s: hols, '3': hols
+hold <> d: held, p: held, i: holding, '3': holds, s: holds
+hold-up <> s: hold-ups
+hold-ups <> b: hold-up, f: s
+holdall <> s: holdalls
+holdalls <> b: holdall, f: s
+holdback <> s: holdbacks
+holdbacks <> b: holdback, f: s
+holder <> s: holders
+holders <> b: holder, f: s
+holding <> b: hold, f: i, s: holdings, i: holding
+holdings <> b: holding, f: s
+holdup <> s: holdups
+holdups <> b: holdup, f: s
+hole <> s: holes, p: holed, d: holed, i: holing, '3': holes
+holed <> b: hole, f: pd, p: holed, d: holed
+holes <> f: s3, b: hole
+holiday <> s: holidays, i: holidaying, '3': holidays, p: holidayed, d: holidayed
+holidayed <> f: pd, b: holiday
+holidaying <> b: holiday, f: i, i: holidaying
+holidaymaker <> s: holidaymakers
+holidaymakers <> b: holidaymaker, f: s
+holidays <> b: holiday, f: s3
+holier <> b: holy, f: r
+holies <> b: holy, f: s
+holiest <> b: holy, f: t
+holiness <> s: holinesses
+holinesses <> b: holiness, f: s
+holing <> b: hole, f: i
+holist <> s: holists
+holists <> b: holist, f: s
+Holland <> s: hollands
+Hollands <> b: holland, f: s
+holler <> p: hollered, i: hollering, '3': hollers, s: hollers, d: hollered
+hollered <> f: pd, b: holler
+hollering <> b: holler, f: i, i: hollering
+hollers <> b: holler, f: 3s
+hollies <> b: holly, f: s
+hollow <> s: hollows, p: hollowed, d: hollowed, i: hollowing, '3': hollows
+hollow-eyed <> p: hollow-eyed, b: hollow-eyed, f: p
+Holloway <> s: holloways
+hollowed <> b: hollow, f: pd, p: hollowed
+hollowing <> b: hollow, f: i, s: hollowings, i: hollowing
+hollows <> f: s3, b: hollow
+holly <> s: hollies
+hollyhock <> s: hollyhocks
+hollyhocks <> b: hollyhock, f: s
+Holm <> s: holms
+holo <> s: holos
+holocaust <> s: holocausts
+holocausts <> b: holocaust, f: s
+holoenzyme <> s: holoenzymes
+holoenzymes <> b: holoenzyme, f: s
+hologram <> s: holograms
+holograms <> b: hologram, f: s
+holograph <> s: holographs
+holographs <> b: holograph, f: s
+holos <> b: holo, f: s
+hols <> b: hol, f: s3
+holstein <> s: holsteins
+holsteins <> b: holstein, f: s
+holster <> s: holsters, p: holstered, d: holstered, i: holstering
+holstered <> b: holster, f: pd
+holstering <> b: holster, f: i
+holsters <> b: holster, f: s
+holt <> s: holts
+holts <> b: holt, f: s
+holy <> t: holiest, r: holier, s: holies
+holystone <> i: holystoning, p: holystoned, '3': holystones, d: holystoned
+holystoned <> f: pd, b: holystone
+holystones <> f: '3', b: holystone
+holystoning <> f: i, b: holystone
+homage <> s: homages
+homages <> b: homage, f: s
+home <> s: homes, i: homing, p: homed, '3': homes, d: homed
+homebodies <> b: homebody, f: s
+homebody <> s: homebodies
+homeboy <> s: homeboys
+homeboys <> b: homeboy, f: s
+homebuyer <> s: homebuyers
+homebuyers <> b: homebuyer, f: s
+homecoming <> s: homecomings
+homecomings <> b: homecoming, f: s
+homed <> f: pd, b: home
+homegrown <> d: homegrown, b: homegrown, f: d, s: homegrowns
+homegrowns <> b: homegrown, f: s
+homeland <> s: homelands
+homelands <> b: homeland, f: s
+homelier <> b: homely, f: r
+homely <> r: homelier
+homemaker <> s: homemakers
+homemakers <> b: homemaker, f: s
+homemaking <> b: homemake, f: i
+homeobox <> s: homeoboxes
+homeoboxes <> b: homeobox, f: s
+homeopath <> s: homeopaths
+homeopathist <> s: homeopathists
+homeopathists <> b: homeopathist, f: s
+homeopaths <> b: homeopath, f: s
+homeotherm <> s: homeotherms
+homeotherms <> b: homeotherm, f: s
+homeowner <> s: homeowners
+homeowners <> b: homeowner, f: s
+homer <> s: homers
+homers <> b: homer, f: s
+homes <> f: s3, b: home
+homesite <> s: homesites
+homesites <> b: homesite, f: s
+homestead <> s: homesteads, i: homesteading
+homesteader <> s: homesteaders
+homesteaders <> b: homesteader, f: s
+homesteading <> b: homestead, f: i
+homesteads <> b: homestead, f: s
+homework <> s: homeworks, i: homeworking
+homeworker <> s: homeworkers
+homeworkers <> b: homeworker, f: s
+homeworking <> b: homework, f: i
+homeworks <> b: homework, f: s
+homicide <> s: homicides
+homicides <> b: homicide, f: s
+homies <> b: homy, f: s
+homiletic <> s: homiletics
+homiletics <> b: homiletic, f: s
+homilies <> b: homily, f: s
+homily <> s: homilies
+homing <> i: homing, b: homing, f: i
+hominid <> s: hominids
+hominids <> b: hominid, f: s
+hominoid <> s: hominoids
+hominoids <> b: hominoid, f: s
+HOMO <> s: homos
+homoeopath <> s: homoeopaths
+homoeopaths <> b: homoeopath, f: s
+homogenate <> s: homogenates, '3': homogenates
+homogenates <> b: homogenate, f: s3
+homogenise <> d: homogenised, p: homogenised, i: homogenising
+homogenised <> b: homogenise, f: dp, d: homogenised
+homogenising <> b: homogenise, f: i, i: homogenising
+homogenization <> s: homogenizations
+homogenizations <> b: homogenization, f: s
+homogenize <> d: homogenized, i: homogenizing, '3': homogenizes, p: homogenized
+homogenized <> b: homogenize, f: dp, p: homogenized
+homogenizes <> b: homogenize, f: '3'
+homogenizing <> b: homogenize, f: i
+homograph <> s: homographs
+homographs <> b: homograph, f: s
+homoiotherm <> s: homoiotherms
+homoiotherms <> b: homoiotherm, f: s
+homolog <> s: homologs
+homologies <> b: homology, f: s
+homologize <> i: homologizing, p: homologized, '3': homologizes, d: homologized
+homologized <> f: pd, b: homologize
+homologizes <> f: '3', b: homologize
+homologizing <> f: i, b: homologize
+homologs <> b: homolog, f: s
+homologue <> s: homologues
+homologues <> b: homologue, f: s
+homology <> s: homologies
+homomorphism <> s: homomorphisms
+homomorphisms <> b: homomorphism, f: s
+homonym <> s: homonyms
+homonyms <> b: homonym, f: s
+homophobe <> s: homophobes, '3': homophobes
+homophobes <> b: homophobe, f: s3
+homophobic <> s: homophobics
+homophobics <> b: homophobic, f: s
+homophone <> s: homophones, '3': homophones
+homophones <> b: homophone, f: s3
+homosexual <> s: homosexuals
+homosexualities <> b: homosexuality, f: s
+homosexuality <> s: homosexualities
+homosexuals <> b: homosexual, f: s
+homozygote <> s: homozygotes
+homozygotes <> b: homozygote, f: s
+homy <> s: homies
+HON <> s: hons, i: honing
+honcho <> s: honchos
+honchos <> b: honcho, f: s
+Honduran <> s: hondurans
+hone <> d: honed, p: honed, '3': hones, s: hones, i: honing
+honed <> b: hone, f: dp
+hones <> b: hone, f: 3s
+honey <> s: honeys, i: honeying, p: honied, '3': honeys, d: honied
+honeybee <> s: honeybees
+honeybees <> b: honeybee, f: s
+honeycomb <> d: honeycombed, s: honeycombs, p: honeycombed, i: honeycombing, '3': honeycombs
+honeycombed <> b: honeycomb, f: dp
+honeycombing <> b: honeycomb, f: i
+honeycombs <> f: s3, b: honeycomb
+honeyeater <> s: honeyeaters
+honeyeaters <> b: honeyeater, f: s
+honeyguide <> s: honeyguides
+honeyguides <> b: honeyguide, f: s
+honeying <> f: i, b: honey
+honeymoon <> s: honeymoons, i: honeymooning, p: honeymooned, '3': honeymoons, d: honeymooned
+honeymooned <> f: pd, b: honeymoon
+honeymooner <> s: honeymooners
+honeymooners <> b: honeymooner, f: s
+honeymooning <> b: honeymoon, f: i
+honeymoons <> f: s3, b: honeymoon
+honeypot <> s: honeypots
+honeypots <> b: honeypot, f: s
+honeys <> f: s3, b: honey
+honeysuckle <> s: honeysuckles
+honeysuckles <> b: honeysuckle, f: s
+honied <> f: pd, b: honey
+honing <> b: hon, f: i
+honk <> i: honking, p: honked, s: honks, d: honked, '3': honks
+honked <> b: honk, f: pd
+honker <> s: honkers
+honkers <> b: honker, f: s
+honkies <> b: honky, f: s
+honking <> b: honk, f: i
+honks <> b: honk, f: s
+honky <> s: honkies
+honor <> s: honors, i: honoring, p: honored, '3': honors, d: honored
+honorarium <> s: honorariums
+honorariums <> b: honorarium, f: s
+honored <> b: honore, f: pd
+honorific <> s: honorifics
+honorifics <> b: honorific, f: s
+honoring <> f: i, b: honor
+honors <> f: s3, b: honor
+honour <> s: honours, d: honoured, i: honouring, p: honoured, '3': honours
+honourable <> s: honourables
+honourables <> b: honourable, f: s
+honoured <> b: honour, f: dp, d: honoured, p: honoured
+honouring <> b: honour, f: i, i: honouring
+honours <> b: honour, f: s3
+hoo <> i: hooing
+hood <> s: hoods, i: hooding, p: hooded, '3': hoods, d: hooded
+hooded <> f: pd, b: hood
+hoodies <> b: hoody, f: s
+hooding <> b: hood, f: i
+hoodlum <> s: hoodlums
+hoodlums <> b: hoodlum, f: s
+hoodoo <> s: hoodoos, i: hoodooing, p: hoodooed, '3': hoodoos, d: hoodooed
+hoodooed <> f: pd, b: hoodoo
+hoodooing <> f: i, b: hoodoo
+hoodoos <> f: s3, b: hoodoo
+hoods <> f: s3, b: hood
+hoodwink <> d: hoodwinked, p: hoodwinked, i: hoodwinking, '3': hoodwinks
+hoodwinked <> b: hoodwink, f: dp, d: hoodwinked
+hoodwinking <> b: hoodwink, f: i
+hoodwinks <> b: hoodwink, f: '3'
+hoody <> s: hoodies
+hoof <> s: hooves, i: hoofing, p: hoofed, '3': hoofs, d: hoofed
+hoofed <> f: pd, b: hoof, p: hoofed
+hoofer <> s: hoofers
+hoofers <> b: hoofer, f: s
+hoofing <> b: hoof, f: i
+hoofprint <> s: hoofprints
+hoofprints <> b: hoofprint, f: s
+hoofs <> b: hoof, f: s3
+hooing <> b: hoo, f: i
+hook <> s: hooks, d: hooked, p: hooked, i: hooking, '3': hooks
+hook-up <> s: hook-ups
+hook-ups <> b: hook-up, f: s
+hookah <> s: hookahs
+hookahs <> b: hookah, f: s
+hooke <> s: hookes
+hooked <> b: hook, f: dp, d: hooked
+hooker <> s: hookers
+hookers <> b: hooker, f: s
+hookes <> b: hooke, f: s
+hooking <> b: hook, f: i, i: hooking
+hooks <> b: hook, f: s3
+hookworm <> s: hookworms, '3': hookworms
+hookworms <> b: hookworm, f: s3
+hooley <> s: hooleys
+hooleys <> b: hooley, f: s
+hooligan <> s: hooligans
+hooligans <> b: hooligan, f: s
+hoop <> s: hoops, p: hooped, d: hooped, i: hooping, '3': hoops
+hooped <> b: hoop, f: pd, p: hooped
+hooper <> s: hoopers
+hoopers <> b: hooper, f: s
+hooping <> f: i, b: hoop
+hoopoe <> s: hoopoes
+hoopoes <> b: hoopoe, f: s
+hoops <> f: s3, b: hoop
+hooray <> s: hoorays
+hoorays <> b: hooray, f: s
+hoot <> p: hooted, s: hoots, i: hooting, '3': hoots, d: hooted
+hooted <> b: hoot, f: pd
+hooter <> s: hooters
+hooters <> b: hooter, f: s
+hooting <> b: hoot, f: i, i: hooting, s: hootings
+hoots <> b: hoot, f: s3
+hoover <> i: hoovering, p: hoovered, d: hoovered, s: hoovers, '3': hoovers
+hoovered <> b: hoover, f: pd
+hoovering <> b: hoover, f: i
+hoovers <> b: hoover, f: s3
+hooves <> b: hoof, f: s
+hop <> s: hops, i: hopping, p: hopped, d: hopped, '3': hops
+hope <> i: hoping, d: hoped, p: hoped, s: hopes, '3': hopes
+hoped <> b: hope, f: dp
+hopeful <> s: hopefuls
+hopefuls <> b: hopeful, f: s
+hoper <> s: hopers
+hopers <> b: hoper, f: s
+hopes <> b: hope, f: s3
+hoping <> b: hope, f: i
+hoplite <> s: hoplites
+hoplites <> b: hoplite, f: s
+hopped <> b: hop, f: pd
+hopper <> s: hoppers
+hoppers <> b: hopper, f: s
+hopping <> b: hop, f: i, i: hopping
+hopple <> i: hoppling, p: hoppled, '3': hopples, d: hoppled
+hoppled <> f: pd, b: hopple
+hopples <> f: '3', b: hopple
+hoppling <> f: i, b: hopple
+hops <> f: s3, b: hop
+hopscotch <> p: hopscotched
+hopscotched <> b: hopscotch, f: p
+horde <> s: hordes
+hordes <> b: horde, f: s
+horizon <> s: horizons
+horizons <> b: horizon, f: s
+horizontal <> s: horizontals
+horizontals <> b: horizontal, f: s
+hormone <> s: hormones
+hormones <> b: hormone, f: s
+horn <> s: horns, p: horned, d: horned, i: horning, '3': horns
+hornbill <> s: hornbills
+hornbills <> b: hornbill, f: s
+hornblende <> s: hornblendes
+hornblendes <> b: hornblende, f: s
+horned <> b: horn, f: pd, p: horned
+hornet <> s: hornets
+hornets <> b: hornet, f: s
+horniest <> b: horny, f: t
+horning <> f: i, b: horn
+hornpipe <> s: hornpipes
+hornpipes <> b: hornpipe, f: s
+horns <> f: s3, b: horn
+hornswoggle <> i: hornswoggling, p: hornswoggled, '3': hornswoggles, d: hornswoggled
+hornswoggled <> f: pd, b: hornswoggle
+hornswoggles <> f: '3', b: hornswoggle
+hornswoggling <> f: i, b: hornswoggle
+horny <> t: horniest
+horologist <> s: horologists
+horologists <> b: horologist, f: s
+horoscope <> s: horoscopes
+horoscopes <> b: horoscope, f: s
+horrid <> s: horrids
+horrids <> b: horrid, f: s
+horrified <> d: horrified, b: horrified, f: dp, p: horrified
+horrifies <> b: horrify, f: '3'
+horrify <> d: horrified, p: horrified, '3': horrifies, i: horrifying
+horrifying <> i: horrifying, b: horrifying, f: i
+horripilate <> i: horripilating, p: horripilated, '3': horripilates, d: horripilated
+horrock <> s: horrocks, '3': horrocks
+Horrocks <> b: horrock, f: s3
+horror <> s: horrors
+horrors <> b: horror, f: s
+horse <> s: horses, i: horsing, p: horsed, '3': horses, d: horsed
+horsebox <> s: horseboxes
+horseboxes <> b: horsebox, f: s
+horsed <> d: horsed, b: horsed, f: d
+horseflies <> b: horsefly, f: s3
+horsefly <> s: horseflies, '3': horseflies
+horseman <> s: horsemen
+horsemen <> b: horseman, f: s
+horses <> f: s3, b: horse
+horseshoe <> s: horseshoes, i: horseshoeing, p: horseshoed, '3': horseshoes, d: horseshoed
+horseshoed <> f: pd, b: horseshoe
+horseshoeing <> f: i, b: horseshoe
+horseshoes <> f: s3, b: horseshoe
+horsetail <> s: horsetails, '3': horsetails
+horsetails <> b: horsetail, f: s3
+horsewhip <> i: horsewhipping, p: horsewhipped, '3': horsewhips, d: horsewhipped
+horsewhipped <> f: pd, b: horsewhip
+horsewhipping <> b: horsewhip, f: i
+horsewhips <> f: '3', b: horsewhip
+horsewoman <> s: horsewomen
+horsewomen <> b: horsewoman, f: s
+horsing <> f: i, b: horse
+horticulturalist <> s: horticulturalists
+horticulturalists <> b: horticulturalist, f: s
+horticulturist <> s: horticulturists
+horticulturists <> b: horticulturist, f: s
+hos <> b: ho, f: s
+hosanna <> s: hosannas
+hosannas <> b: hosanna, f: s
+hose <> s: hoses, i: hosing, d: hosed, p: hosed, '3': hoses
+hosed <> b: hose, f: dp
+hosepipe <> s: hosepipes, i: hosepiping
+hosepipes <> b: hosepipe, f: s
+hosepiping <> b: hosepipe, f: i
+hoses <> b: hose, f: s3
+hosing <> b: hose, f: i, i: hosing
+hospice <> s: hospices
+hospices <> b: hospice, f: s
+hospital <> s: hospitals
+hospitalisation <> s: hospitalisations
+hospitalisations <> b: hospitalisation, f: s
+hospitalise <> d: hospitalised, p: hospitalised
+hospitalised <> b: hospitalise, f: dp, d: hospitalised
+hospitalities <> b: hospitality, f: s
+hospitality <> s: hospitalities
+hospitalization <> s: hospitalizations
+hospitalizations <> b: hospitalization, f: s
+hospitalize <> d: hospitalized, p: hospitalized, '3': hospitalizes, i: hospitalizing
+hospitalized <> b: hospitalize, f: dp
+hospitalizes <> b: hospitalize, f: '3'
+hospitalizing <> f: i, b: hospitalize
+hospitaller <> s: hospitallers
+hospitallers <> b: hospitaller, f: s
+hospitals <> b: hospital, f: s
+hoss <> s: hosses
+hosses <> b: hoss, f: s
+host <> s: hosts, d: hosted, i: hosting, p: hosted, '3': hosts
+hosta <> s: hostas
+hostage <> s: hostages
+hostages <> b: hostage, f: s
+hostas <> b: hosta, f: s
+hosted <> b: host, f: dp
+hostel <> s: hostels, i: hostelling
+hosteller <> s: hostellers
+hostellers <> b: hosteller, f: s
+hostelling <> b: hostel, f: i
+hostelries <> b: hostelry, f: s
+hostelry <> s: hostelries
+hostels <> b: hostel, f: s
+hostess <> s: hostesses, i: hostessing, d: hostessed
+hostessed <> b: hostess, f: d
+hostesses <> b: hostess, f: s
+hostessing <> b: hostess, f: i
+hostile <> s: hostiles
+hostiles <> b: hostile, f: s
+hostilities <> b: hostility, f: s
+hostility <> s: hostilities
+hosting <> b: host, f: i, i: hosting
+hosts <> b: host, f: s3
+hot <> r: hotter, t: hottest, i: hotting, s: hots
+hot-rodder <> s: hot-rodders
+hot-rodders <> b: hot-rodder, f: s
+hot-wire <> s: hot-wires, i: hot-wiring, p: hot-wired, '3': hot-wires, d: hot-wired
+hot-wires <> b: hot-wire, f: s
+hotbed <> s: hotbeds
+hotbeds <> b: hotbed, f: s
+hotdog <> s: hotdogs, i: hotdogging
+hotdogging <> b: hotdog, f: i
+hotdogs <> b: hotdog, f: s
+hotel <> s: hotels
+hotelier <> s: hoteliers
+hoteliers <> b: hotelier, f: s
+hotels <> b: hotel, f: s
+hotfoot <> i: hotfooting, p: hotfooted, d: hotfooted, '3': hotfoots
+hotfooted <> b: hotfoot, f: pd
+hotfooting <> b: hotfoot, f: i
+hotfoots <> f: '3', b: hotfoot
+hothead <> s: hotheads, d: hotheaded
+hotheaded <> b: hothead, f: d
+hotheads <> b: hothead, f: s
+hothouse <> s: hothouses
+hothouses <> b: hothouse, f: s
+hotline <> s: hotlines
+hotlines <> b: hotline, f: s
+hotplate <> s: hotplates, '3': hotplates
+hotplates <> b: hotplate, f: s3
+hotpot <> s: hotpots
+hotpots <> b: hotpot, f: s
+hots <> b: hot, f: s
+hotshot <> s: hotshots
+hotshots <> b: hotshot, f: s
+hotspot <> s: hotspots, '3': hotspots
+hotspots <> b: hotspot, f: s3
+Hottentot <> s: hottentots
+hotter <> b: hot, f: r, s: hotters
+hottest <> b: hot, f: t
+hotting <> b: hot, f: i, i: hotting
+hound <> s: hounds, d: hounded, i: hounding, p: hounded, '3': hounds
+hounded <> b: hound, f: dp
+hounding <> b: hound, f: i, i: hounding
+hounds <> b: hound, f: s3
+houndstooth <> s: houndstooths
+houndstooths <> b: houndstooth, f: s
+hour <> s: hours
+houri <> s: houris
+houris <> b: houri, f: s
+hours <> b: hour, f: s
+house <> s: houses, i: housing, d: housed, '3': houses, p: housed
+house-hunter <> s: house-hunters
+house-hunters <> b: house-hunter, f: s
+house-train <> d: house-trained, i: house-training, p: house-trained, '3': house-trains
+house-trained <> d: house-trained, b: house-trained, f: d
+house-training <> f: i, b: house-train
+house-trains <> f: '3', b: house-train
+houseboat <> s: houseboats
+houseboats <> b: houseboat, f: s
+houseboy <> s: houseboys
+houseboys <> b: houseboy, f: s
+housebreak <> i: housebreaking, p: housebroke, '3': housebreaks, d: housebroken
+housebreaker <> s: housebreakers
+housebreakers <> b: housebreaker, f: s
+housebreaking <> b: housebreak, f: i
+housebuilder <> s: housebuilders
+housebuilders <> b: housebuilder, f: s
+housecarl <> s: housecarls
+housecarls <> b: housecarl, f: s
+housecleaning <> s: housecleanings, i: housecleaning, b: housecleaning, f: i
+housecleanings <> b: housecleaning, f: s
+housecoat <> s: housecoats
+housecoats <> b: housecoat, f: s
+housed <> b: house, f: dp, d: housed
+houseflies <> b: housefly, f: s
+housefly <> s: houseflies
+houseguest <> '3': houseguests, i: houseguesting
+houseguesting <> b: houseguest, f: i
+houseguests <> b: houseguest, f: '3'
+household <> s: households
+householder <> s: householders
+householders <> b: householder, f: s
+households <> b: household, f: s
+housekeep <> '3': housekeeps, i: housekeeping, p: housekept, d: housekept
+housekeeper <> s: housekeepers
+housekeepers <> b: housekeeper, f: s
+housekeeps <> b: housekeep, f: '3'
+houselights <> b: houselight, f: s
+housemaid <> s: housemaids
+housemaids <> b: housemaid, f: s
+houseman <> s: housemen
+housemaster <> s: housemasters
+housemasters <> b: housemaster, f: s
+housemate <> s: housemates
+housemates <> b: housemate, f: s
+housemen <> b: houseman, f: s
+houseparent <> s: houseparents
+houseparents <> b: houseparent, f: s
+houseplant <> s: houseplants
+houseplants <> b: houseplant, f: s
+houses <> b: house, f: s3
+housetop <> s: housetops
+housetops <> b: housetop, f: s
+houseware <> s: housewares
+housewares <> b: houseware, f: s
+housewarming <> i: housewarming, b: housewarming, f: i
+housewife <> s: housewives
+housewives <> b: housewife, f: s
+housing <> b: house, f: i, i: housing, s: housings
+hove <> p: hove, b: hove, f: pd, '3': hoves, d: hove, i: hoving
+hovel <> s: hovels, p: hovelled
+hovelled <> b: hovel, f: p
+hovels <> b: hovel, f: s
+hover <> i: hovering, p: hovered, '3': hovers, d: hovered
+hovered <> b: hover, f: pd
+hoverflies <> b: hoverfly, f: s3
+hoverfly <> s: hoverflies, '3': hoverflies
+hovering <> b: hover, f: i, i: hovering
+hovers <> b: hover, f: '3'
+hoves <> b: hove, f: '3'
+hoving <> b: hove, f: i
+howdah <> s: howdahs
+howdahs <> b: howdah, f: s
+howff <> s: howffs
+howffs <> b: howff, f: s
+Howgill <> '3': howgills, s: howgills
+howitzer <> s: howitzers
+howitzers <> b: howitzer, f: s
+howl <> p: howled, s: howls, i: howling, '3': howls, d: howled
+howled <> b: howl, f: pd
+howler <> s: howlers
+howlers <> b: howler, f: s
+howling <> b: howl, f: i, i: howling, s: howlings
+howls <> b: howl, f: s3
+hoy <> p: hoyed, s: hoys
+hoyed <> b: hoy, f: p
+Hoyle <> s: hoyles
+hoys <> b: hoy, f: s
+HQ <> s: hqs
+hr <> s: hrs
+hrs <> b: hr, f: s
+hse <> i: hsing, s: hses
+hses <> b: hse, f: s
+hsing <> b: hse, f: i
+HT <> s: hts, r: hter
+hts <> b: ht, f: s
+hub <> s: hubs
+hubbies <> b: hubby, f: s
+hubble <> i: hubbling
+hubbling <> b: hubble, f: i
+hubby <> s: hubbies
+hubcap <> s: hubcaps
+hubcaps <> b: hubcap, f: s
+Hubei <> s: hubei, b: hubei, f: s
+hubs <> b: hub, f: s
+huckster <> s: hucksters, i: huckstering, p: huckstered, '3': hucksters, d: huckstered
+huckstered <> f: pd, b: huckster
+huckstering <> f: i, b: huckster
+hucksters <> f: s3, b: huckster
+huddle <> p: huddled, d: huddled, i: huddling, s: huddles, '3': huddles
+huddled <> b: huddle, f: pd, p: huddled
+huddles <> b: huddle, f: s3
+huddling <> b: huddle, f: i, i: huddling
+Hudson <> p: hudsoned, i: hudsoning
+hue <> s: hues, p: hued
+hued <> b: hue, f: p, p: hued
+hues <> b: hue, f: s
+huff <> p: huffed, i: huffing, d: huffed, s: huffs, '3': huffs
+huffed <> b: huff, f: pd
+huffing <> b: huff, f: i, i: huffing
+huffs <> f: s3, b: huff
+hug <> p: hugged, i: hugging, s: hugs, d: hugged, '3': hugs
+hugged <> b: hug, f: pd
+hugger <> s: huggers, d: huggered
+huggered <> b: hugger, f: d
+huggers <> b: hugger, f: s
+hugging <> b: hug, f: i, i: hugging, s: huggings
+Hughes <> b: hughe, f: s
+hugs <> b: hug, f: s3
+Huguenot <> s: huguenots
+hulk <> s: hulks, '3': hulks, p: hulked, i: hulking, d: hulked
+hulked <> f: pd, b: hulk
+hulking <> f: i, b: hulk
+hulks <> b: hulk, f: s3
+hull <> s: hulls, p: hulled, i: hulling, '3': hulls, d: hulled
+hulled <> b: hull, f: p
+hulls <> b: hull, f: s
+hum <> i: humming, p: hummed, '3': hums, s: hums, d: hummed
+human <> s: humans
+humanise <> '3': humanises, d: humanised, i: humanising, p: humanised
+humanised <> b: humanise, f: dp, d: humanised
+humanises <> b: humanise, f: '3'
+humanising <> b: humanise, f: i
+humanist <> s: humanists
+humanists <> b: humanist, f: s
+humanitarian <> s: humanitarians
+humanitarians <> b: humanitarian, f: s
+humanities <> s: humanities, b: humanities, f: s
+humanize <> i: humanizing, p: humanized, d: humanized, '3': humanizes
+humanized <> b: humanize, f: pd
+humanizes <> f: '3', b: humanize
+humanizing <> b: humanize, f: i
+humanoid <> s: humanoids
+humanoids <> b: humanoid, f: s
+humans <> b: human, f: s
+humble <> d: humbled, p: humbled, '3': humbles, i: humbling
+humbled <> b: humble, f: dp, p: humbled, d: humbled
+humbler <> b: humbl, f: r
+humbles <> b: humble, f: '3'
+humblest <> b: humbl, f: t
+humbling <> b: humble, f: i
+humbug <> s: humbugs, d: humbugged, i: humbugging, p: humbugged, '3': humbugs
+humbugged <> f: dp, b: humbug
+humbugging <> b: humbug, f: i
+humbugs <> f: s3, b: humbug
+humdinger <> s: humdingers
+humdingers <> b: humdinger, f: s
+hume <> s: humes
+humectant <> s: humectants
+humectants <> b: humectant, f: s
+humes <> b: hume, f: s
+humidified <> f: pd, b: humidify
+humidifier <> s: humidifiers
+humidifiers <> b: humidifier, f: s
+humidifies <> f: '3', b: humidify
+humidify <> i: humidifying, p: humidified, '3': humidifies, d: humidified
+humidifying <> b: humidify, f: i
+humidities <> b: humidity, f: s
+humidity <> s: humidities
+humidor <> s: humidors
+humidors <> b: humidor, f: s
+humiliate <> d: humiliated, p: humiliated, i: humiliating, '3': humiliates
+humiliated <> b: humiliate, f: dp, d: humiliated, p: humiliated
+humiliates <> b: humiliate, f: '3'
+humiliating <> b: humiliate, f: i, i: humiliating
+humiliation <> s: humiliations
+humiliations <> b: humiliation, f: s
+hummed <> b: hum, f: pd
+hummel <> s: hummels
+hummels <> b: hummel, f: s
+humming <> b: hum, f: i, i: humming, s: hummings
+hummingbird <> s: hummingbirds
+hummingbirds <> b: hummingbird, f: s
+hummock <> s: hummocks, '3': hummocks
+hummocks <> b: hummock, f: s3
+humor <> '3': humors, s: humors, i: humoring, p: humored, d: humored
+humored <> b: humore, f: d
+humoring <> b: humore, f: i
+humorist <> s: humorists
+humorists <> b: humorist, f: s
+humors <> b: humor, f: 3s
+humour <> s: humours, i: humouring, p: humoured, d: humoured, '3': humours
+humoured <> b: humour, f: pd, p: humoured
+humouring <> b: humour, f: i
+humours <> f: s3, b: humour
+hump <> s: humps, i: humping, p: humped, d: humped, '3': humps
+humpback <> s: humpbacks, p: humpbacked
+humpbacked <> b: humpback, f: p
+humpbacks <> b: humpback, f: s
+humped <> b: hump, f: pd, p: humped
+humph <> p: humphed
+humphed <> b: humph, f: p
+HUMPHRIES <> b: humphry, f: s
+Humphry <> s: humphries
+humping <> b: hump, f: i, i: humping
+humps <> b: hump, f: s3
+hums <> b: hum, f: 3s
+hunch <> d: hunched, s: hunches, p: hunched, i: hunching, '3': hunches
+hunchback <> s: hunchbacks, p: hunchbacked, d: hunchbacked
+hunchbacked <> b: hunchback, f: pd
+hunchbacks <> b: hunchback, f: s
+hunched <> b: hunch, f: dp, d: hunched
+hunches <> f: s3, b: hunch
+hunching <> b: hunch, f: i
+hundredweight <> s: hundredweights
+hundredweights <> b: hundredweight, f: s
+hung <> b: hang, f: pd, d: hung, p: hung
+Hungarian <> s: hungarians
+hunger <> s: hungers, p: hungered, i: hungering, d: hungered, '3': hungers
+hungered <> b: hunger, f: pd
+hungering <> b: hunger, f: i
+hungers <> b: hunger, f: s3
+hungrier <> b: hungry, f: r
+hungriest <> b: hungry, f: t
+hungry <> r: hungrier, t: hungriest
+hunk <> s: hunks, '3': hunks
+hunker <> p: hunkered, s: hunkers, i: hunkering, d: hunkered, '3': hunkers
+hunkered <> b: hunker, f: pd
+hunkering <> b: hunker, f: i
+hunkers <> b: hunker, f: s
+hunkier <> b: hunky, f: r
+hunkiest <> b: hunky, f: t
+hunks <> b: hunk, f: s3
+hunky <> t: hunkiest, r: hunkier
+hunt <> i: hunting, d: hunted, p: hunted, s: hunts, '3': hunts
+hunted <> b: hunt, f: dp, p: hunted, d: hunted
+hunter <> s: hunters
+hunter-gatherer <> s: hunter-gatherers
+hunter-gatherers <> b: hunter-gatherer, f: s
+hunter-killer <> s: hunter-killers
+hunter-killers <> b: hunter-killer, f: s
+hunters <> b: hunter, f: s
+hunting <> b: hunt, f: i, i: hunting
+hunts <> b: hunt, f: s3
+huntsman <> s: huntsmen
+huntsmen <> b: huntsman, f: s
+Hur <> s: hurs
+hurdle <> s: hurdles, i: hurdling, p: hurdled, d: hurdled, '3': hurdles
+hurdled <> b: hurdle, f: pd
+hurdler <> s: hurdlers
+hurdlers <> b: hurdler, f: s
+hurdles <> f: s3, b: hurdle
+hurdling <> b: hurdle, f: i, i: hurdling
+hurdy-gurdies <> b: hurdy-gurdy, f: s
+hurdy-gurdy <> s: hurdy-gurdies
+hurl <> p: hurled, d: hurled, i: hurling, '3': hurls
+hurled <> b: hurl, f: pd
+hurler <> s: hurlers
+hurlers <> b: hurler, f: s
+hurley <> s: hurleys
+hurleys <> b: hurley, f: s
+hurling <> b: hurl, f: i, i: hurling
+hurls <> b: hurl, f: '3'
+Huron <> s: hurons
+hurons <> b: huron, f: s
+hurrah <> s: hurrahs, i: hurrahing, p: hurrahed, '3': hurrahs, d: hurrahed
+hurrahed <> f: pd, b: hurrah
+hurrahing <> f: i, b: hurrah
+hurrahs <> f: s3, b: hurrah
+hurricane <> s: hurricanes
+hurricanes <> b: hurricane, f: s
+hurried <> b: hurry, f: pd, p: hurried, d: hurried
+hurry <> p: hurried, i: hurrying, d: hurried, '3': hurries
+hurrying <> b: hurry, f: i, i: hurrying
+hurt <> d: hurt, b: hurt, f: dp, p: hurt, i: hurting, '3': hurts, s: hurts
+hurting <> b: hurt, f: i, i: hurting
+hurtle <> i: hurtling, p: hurtled, '3': hurtles, s: hurtles, d: hurtled
+hurtled <> b: hurtle, f: pd
+hurtles <> b: hurtle, f: 3s
+hurtling <> b: hurtle, f: i, i: hurtling
+hurts <> b: hurt, f: 3s
+husband <> s: husbands, i: husbanding, p: husbanded, '3': husbands, d: husbanded
+husbanded <> f: pd, b: husband
+husbanding <> f: i, b: husband
+husbandman <> s: husbandmen
+husbandmen <> b: husbandman, f: s
+husbands <> f: s3, b: husband
+hush <> p: hushed, d: hushed, i: hushing, '3': hushes, s: hushes
+hushed <> b: hush, f: pd, p: hushed
+hushes <> b: hush, f: 3s
+hushing <> b: hush, f: i, i: hushing
+husk <> s: husks, p: husked, i: husking
+husked <> b: husk, f: p
+huskier <> b: husky, f: r
+huskies <> b: husky, f: s
+huskiest <> b: husky, f: t
+husking <> b: husk, f: i
+husks <> b: husk, f: s
+husky <> r: huskier, s: huskies, t: huskiest
+hussar <> s: hussars, '3': hussars
+hussars <> b: hussar, f: s3
+hussies <> b: hussy, f: s
+Hussite <> s: hussites
+hussy <> s: hussies
+hustings <> b: husting, f: s
+hustle <> d: hustled, p: hustled, i: hustling, s: hustles, '3': hustles
+hustled <> b: hustle, f: dp
+hustler <> s: hustlers
+hustlers <> b: hustler, f: s
+hustles <> b: hustle, f: s3
+hustling <> b: hustle, f: i, i: hustling
+hut <> s: huts
+hutch <> s: hutches, '3': hutches, p: hutched
+hutched <> b: hutch, f: p
+hutches <> b: hutch, f: s3
+hutchin <> s: hutchins
+hutching <> s: hutchings
+Hutchings <> b: hutching, f: s
+Hutchins <> b: hutchin, f: s
+huts <> b: hut, f: s
+Hutt <> s: hutts
+huzza <> s: huzzas, i: huzzaing
+huzzaing <> b: huzza, f: i
+huzzas <> b: huzza, f: s
+hyacinth <> s: hyacinths
+hyacinths <> b: hyacinth, f: s
+hyaena <> s: hyaenas
+hyaenas <> b: hyaena, f: s
+hybrid <> s: hybrids
+hybridisation <> s: hybridisations
+hybridisations <> b: hybridisation, f: s
+hybridise <> d: hybridised, p: hybridised, i: hybridising, '3': hybridises, s: hybridises
+hybridised <> b: hybridise, f: dp
+hybridises <> b: hybridise, f: 3s
+hybridising <> b: hybridise, f: i
+hybridization <> s: hybridizations
+hybridizations <> b: hybridization, f: s
+hybridize <> p: hybridized, d: hybridized, i: hybridizing, '3': hybridizes
+hybridized <> b: hybridize, f: pd
+hybridizes <> b: hybridize, f: '3'
+hybridizing <> b: hybridize, f: i, i: hybridizing
+hybrids <> b: hybrid, f: s
+hydra <> s: hydras
+hydrangea <> s: hydrangeas
+hydrangeas <> b: hydrangea, f: s
+hydrant <> s: hydrants
+hydrants <> b: hydrant, f: s
+hydras <> b: hydra, f: s
+hydrate <> d: hydrated, i: hydrating, p: hydrated, '3': hydrates, s: hydrates
+hydrated <> b: hydrate, f: dp, p: hydrated, d: hydrated
+hydrates <> b: hydrate, f: 3s
+hydrating <> b: hydrate, f: i
+hydride <> '3': hydrides, s: hydrides
+hydrides <> b: hydride, f: 3s
+hydro <> s: hydros
+hydrocarbon <> s: hydrocarbons
+hydrocarbons <> b: hydrocarbon, f: s
+hydrochlorofluorocarbon <> s: hydrochlorofluorocarbons
+hydrochlorofluorocarbons <> b: hydrochlorofluorocarbon, f: s
+hydrocolloid <> s: hydrocolloids
+hydrocolloids <> b: hydrocolloid, f: s
+hydrodynamic <> s: hydrodynamics
+hydrodynamics <> b: hydrodynamic, f: s
+hydrofluorocarbon <> s: hydrofluorocarbons
+hydrofluorocarbons <> b: hydrofluorocarbon, f: s
+hydrofoil <> s: hydrofoils
+hydrofoils <> b: hydrofoil, f: s
+hydrogel <> s: hydrogels
+hydrogels <> b: hydrogel, f: s
+hydrogen <> s: hydrogens
+hydrogenate <> p: hydrogenated, i: hydrogenating, '3': hydrogenates, d: hydrogenated
+hydrogenated <> p: hydrogenated, b: hydrogenated, f: p
+hydrogens <> b: hydrogen, f: s
+hydrogeologist <> s: hydrogeologists
+hydrogeologists <> b: hydrogeologist, f: s
+hydrographer <> s: hydrographers
+hydrographers <> b: hydrographer, f: s
+hydroid <> s: hydroids
+hydroids <> b: hydroid, f: s
+hydrolase <> s: hydrolases
+hydrolases <> b: hydrolase, f: s
+hydrologist <> s: hydrologists
+hydrologists <> b: hydrologist, f: s
+hydrolysate <> s: hydrolysates
+hydrolysates <> b: hydrolysate, f: s
+hydrolyse <> d: hydrolysed, '3': hydrolyses, p: hydrolysed, i: hydrolysing
+hydrolysed <> b: hydrolyse, f: dp, d: hydrolysed, p: hydrolysed
+hydrolyses <> b: hydrolyse, f: '3'
+hydrolysing <> b: hydrolyse, f: i
+hydrolyze <> i: hydrolyzing, p: hydrolyzed, '3': hydrolyzes, d: hydrolyzed
+hydrolyzed <> f: pd, b: hydrolyze
+hydrometer <> s: hydrometers, b: hydromete, f: r
+hydrometers <> b: hydrometer, f: s
+hydrophone <> s: hydrophones
+hydrophones <> b: hydrophone, f: s
+hydroplane <> s: hydroplanes, i: hydroplaning, p: hydroplaned, '3': hydroplanes, d: hydroplaned
+hydroplaned <> f: pd, b: hydroplane
+hydroplanes <> f: s3, b: hydroplane
+hydroplaning <> f: i, b: hydroplane
+hydroponic <> s: hydroponics
+hydroponics <> b: hydroponic, f: s
+hydrops <> b: hydrop, f: s
+hydrostatic <> s: hydrostatics
+hydrostatics <> b: hydrostatic, f: s
+hydrotherapies <> b: hydrotherapy, f: s
+hydrotherapy <> s: hydrotherapies
+hydroxide <> s: hydroxides
+hydroxides <> b: hydroxide, f: s
+hydroxyapatite <> s: hydroxyapatites
+hydroxyapatites <> b: hydroxyapatite, f: s
+hydroxyl <> s: hydroxyls
+hydroxyls <> b: hydroxyl, f: s
+hyena <> s: hyenas
+hyenas <> b: hyena, f: s
+hygienic <> s: hygienics
+hygienics <> b: hygienic, f: s
+hygienist <> s: hygienists
+hygienists <> b: hygienist, f: s
+hying <> f: i, b: hie
+Hyksos <> b: hykso, f: s
+hymen <> s: hymens
+hymens <> b: hymen, f: s
+hymn <> s: hymns, d: hymned, p: hymned, i: hymning, '3': hymns
+hymnal <> s: hymnals
+hymnals <> b: hymnal, f: s
+hymnbook <> s: hymnbooks
+hymnbooks <> b: hymnbook, f: s
+hymned <> b: hymn, f: dp
+hymning <> b: hymn, f: i
+hymns <> f: s3, b: hymn
+hyp <> d: hyped, p: hyped, i: hyping
+hype <> s: hypes, '3': hypes
+hyped <> b: hyp, f: dp, p: hyped
+hyperbola <> s: hyperbolas
+hyperbolas <> b: hyperbola, f: s
+hyperbole <> s: hyperboles
+hyperboles <> b: hyperbole, f: s
+hypercorrection <> s: hypercorrections
+hypercorrections <> b: hypercorrection, f: s
+hypercube <> s: hypercubes
+hypercubes <> b: hypercube, f: s
+hyperextension <> s: hyperextensions
+hyperextensions <> b: hyperextension, f: s
+hyperinflation <> s: hyperinflations
+hyperinflations <> b: hyperinflation, f: s
+hyperkinetic <> s: hyperkinetics
+hyperkinetics <> b: hyperkinetic, f: s
+hyperlipidaemia <> s: hyperlipidaemias
+hyperlipidaemias <> b: hyperlipidaemia, f: s
+hypermarket <> s: hypermarkets
+hypermarkets <> b: hypermarket, f: s
+hypernym <> s: hypernyms
+hypernyms <> b: hypernym, f: s
+hyperparasite <> s: hyperparasites
+hyperparasites <> b: hyperparasite, f: s
+hyperplasia <> s: hyperplasias
+hyperplasias <> b: hyperplasia, f: s
+hypersensitivities <> b: hypersensitivity, f: s
+hypersensitivity <> s: hypersensitivities
+hypertensive <> s: hypertensives
+hypertensives <> b: hypertensive, f: s
+hypertext <> s: hypertexts
+hypertexts <> b: hypertext, f: s
+hypertrophied <> f: pd, b: hypertrophy
+hypertrophies <> f: '3', b: hypertrophy
+hypertrophy <> i: hypertrophying, p: hypertrophied, '3': hypertrophies, d: hypertrophied
+hypertrophying <> f: i, b: hypertrophy
+hyperventilate <> i: hyperventilating, p: hyperventilated, '3': hyperventilates
+hyperventilated <> b: hyperventilate, f: p
+hyperventilating <> b: hyperventilate, f: i
+hypes <> b: hype, f: s3
+hyphen <> s: hyphens, p: hyphened, '3': hyphens
+hyphenate <> i: hyphenating, p: hyphened, '3': hyphenates, d: hyphened
+hyphenates <> f: '3', b: hyphenate
+hyphenating <> b: hyphenate, f: i
+hyphenation <> s: hyphenations
+hyphenations <> b: hyphenation, f: s
+hyphened <> b: hyphen, f: p
+hyphens <> b: hyphen, f: s
+hypno <> s: hypnos
+Hypnos <> b: hypno, f: s
+hypnotherapist <> s: hypnotherapists
+hypnotherapists <> b: hypnotherapist, f: s
+hypnotic <> s: hypnotics
+hypnotics <> b: hypnotic, f: s
+hypnotise <> d: hypnotised, p: hypnotised, '3': hypnotises, i: hypnotising, s: hypnotises
+hypnotised <> b: hypnotise, f: dp, p: hypnotised, d: hypnotised
+hypnotises <> b: hypnotise, f: 3s
+hypnotising <> b: hypnotise, f: i
+hypnotist <> s: hypnotists
+hypnotists <> b: hypnotist, f: s
+hypnotize <> d: hypnotized, p: hypnotized, i: hypnotizing, '3': hypnotizes
+hypnotized <> b: hypnotize, f: dp, p: hypnotized, d: hypnotized
+hypnotizes <> b: hypnotize, f: '3'
+hypnotizing <> b: hypnotize, f: i
+hypocaust <> s: hypocausts
+hypocausts <> b: hypocaust, f: s
+hypochlorite <> s: hypochlorites
+hypochlorites <> b: hypochlorite, f: s
+hypochondriac <> s: hypochondriacs
+hypochondriacs <> b: hypochondriac, f: s
+hypocrisies <> b: hypocrisy, f: s
+hypocrisy <> s: hypocrisies
+hypocrite <> s: hypocrites
+hypocrites <> b: hypocrite, f: s
+hypodermic <> s: hypodermics
+hypodermics <> b: hypodermic, f: s
+hypoglycaemic <> s: hypoglycaemics
+hypoglycaemics <> b: hypoglycaemic, f: s
+hyponym <> s: hyponyms
+hyponyms <> b: hyponym, f: s
+hypostasize <> '3': hypostasizes, d: hypostasized, i: hypostasizing
+hypostasized <> b: hypostasize, f: d
+hypostasizes <> b: hypostasize, f: '3'
+hypostasizing <> b: hypostasize, f: i
+hypostatize <> i: hypostatizing, p: hypostatized, '3': hypostatizes, d: hypostatized
+hypostatized <> f: pd, b: hypostatize
+hypostatizes <> f: '3', b: hypostatize
+hypostatizing <> f: i, b: hypostatize
+hypothec <> s: hypothecs
+hypothecate <> d: hypothecated, p: hypothecated, i: hypothecating, '3': hypothecates
+hypothecated <> p: hypothecated, b: hypothecated, f: p
+hypothecates <> f: '3', b: hypothecate
+hypothecating <> f: i, b: hypothecate
+hypothecs <> b: hypothec, f: s
+hypotheses <> b: hypothesis, f: s
+hypothesis <> s: hypotheses
+hypothesise <> d: hypothesised, p: hypothesised, i: hypothesising, '3': hypothesises
+hypothesised <> b: hypothesise, f: dp
+hypothesises <> b: hypothesise, f: '3'
+hypothesising <> b: hypothesise, f: i
+hypothesize <> d: hypothesized, p: hypothesized, i: hypothesizing, '3': hypothesizes
+hypothesized <> b: hypothesize, f: dp, p: hypothesized
+hypothesizes <> b: hypothesize, f: '3'
+hypothesizing <> b: hypothesize, f: i
+hypothetical <> s: hypotheticals
+hypotheticals <> b: hypothetical, f: s
+hypotonic <> s: hypotonics
+hypotonics <> b: hypotonic, f: s
+hyrax <> s: hyraxes
+hyraxes <> b: hyrax, f: s
+hysterectomies <> b: hysterectomy, f: s
+hysterectomy <> s: hysterectomies
+hysteria <> s: hysterias
+hysterias <> b: hysteria, f: s
+hysteric <> s: hysterics
+hysterics <> b: hysteric, f: s

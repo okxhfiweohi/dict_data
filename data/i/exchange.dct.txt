@@ -1,0 +1,2626 @@
+IB <> s: ibs, '3': ibs
+Ibc <> s: ibcs
+Iberian <> s: iberians
+ibs <> b: ib, f: s3
+IC <> s: ics
+ice <> i: icing, s: ices, d: iced, p: iced, '3': ices
+ice-skate <> s: ice-skates
+ice-skates <> b: ice-skate, f: s
+iceberg <> s: icebergs
+icebergs <> b: iceberg, f: s
+icebox <> s: iceboxes
+iceboxes <> b: icebox, f: s
+icebreaker <> s: icebreakers
+icebreakers <> b: icebreaker, f: s
+icecap <> s: icecaps
+icecaps <> b: icecap, f: s
+icecream <> s: icecreams
+icecreams <> b: icecream, f: s
+iced <> b: ice, f: dp, d: iced
+icefall <> s: icefalls
+icefalls <> b: icefall, f: s
+icehouse <> s: icehouses
+icehouses <> b: icehouse, f: s
+Iceland <> s: icelands
+Icelander <> s: icelanders
+Icelandic <> s: icelandics
+iceman <> s: icemen
+icemen <> b: iceman, f: s
+ices <> f: s3, b: ice
+ichthyologist <> s: ichthyologists
+ichthyologists <> b: ichthyologist, f: s
+ichthyosaur <> s: ichthyosaurs
+ichthyosaurs <> b: ichthyosaur, f: s
+ici <> s: ici, b: ici, f: s
+icicle <> s: icicles
+icicles <> b: icicle, f: s
+icier <> b: icy, f: r
+icing <> b: ice, f: i, i: icing, s: icings
+ick <> '3': icks, s: icks
+icks <> b: ick, f: 3s
+icon <> s: icons
+iconoclast <> s: iconoclasts, '3': iconoclasts
+iconoclasts <> b: iconoclast, f: s3
+iconographies <> b: iconography, f: s
+iconography <> s: iconographies
+icons <> b: icon, f: s
+ics <> b: ic, f: s
+ICU <> s: icus
+icy <> r: icier
+id <> s: ids, i: iding
+idb <> s: idbs
+idbs <> b: idb, f: s
+IDE <> s: ides, '3': ides
+idea <> s: ideas
+ideal <> s: ideals
+idealisation <> s: idealisations
+idealisations <> b: idealisation, f: s
+idealise <> p: idealised, i: idealising
+idealised <> d: idealised, b: idealised, f: dp, p: idealised
+idealising <> b: idealise, f: i
+idealism <> s: idealisms
+idealisms <> b: idealism, f: s
+idealist <> s: idealists
+idealists <> b: idealist, f: s
+idealization <> s: idealizations
+idealizations <> b: idealization, f: s
+idealize <> p: idealized, d: idealized, '3': idealizes, i: idealizing
+idealized <> p: idealized, b: idealized, f: p
+idealizes <> b: idealize, f: '3'
+idealizing <> b: idealize, f: i
+ideals <> b: ideal, f: s
+ideas <> b: idea, f: s
+ideate <> i: ideating, p: ideated, '3': ideates, d: ideated
+ideated <> f: pd, b: ideate
+ideates <> f: '3', b: ideate
+ideating <> f: i, b: ideate
+ident <> s: idents
+identification <> s: identifications
+identifications <> b: identification, f: s
+identified <> b: identify, f: dp, d: identified, p: identified
+identifier <> s: identifiers
+identifiers <> b: identifier, f: s
+identifies <> b: identify, f: '3'
+identify <> d: identified, i: identifying, '3': identifies, p: identified
+identifying <> b: identify, f: i, i: identifying
+identities <> b: identity, f: s
+identity <> s: identities
+idents <> b: ident, f: s
+ideogram <> s: ideograms, '3': ideograms
+ideograms <> b: ideogram, f: s3
+ideograph <> s: ideographs
+ideographs <> b: ideograph, f: s
+ideologies <> b: ideology, f: s
+ideologist <> s: ideologists
+ideologists <> b: ideologist, f: s
+ideologue <> s: ideologues
+ideologues <> b: ideologue, f: s
+ideology <> s: ideologies
+ides <> b: ide, f: s3
+iding <> b: id, f: i
+idiocies <> b: idiocy, f: s
+idiocy <> s: idiocies
+idiolect <> s: idiolects
+idiolects <> b: idiolect, f: s
+idiom <> s: idioms
+idioms <> b: idiom, f: s
+idiosyncrasies <> b: idiosyncrasy, f: s
+idiosyncrasy <> s: idiosyncrasies
+idiot <> s: idiots
+idiots <> b: idiot, f: s
+idle <> i: idling, p: idled, d: idled, '3': idles
+idled <> b: idle, f: pd
+idler <> s: idlers, b: idl, f: r
+idlers <> b: idler, f: s
+idles <> f: '3', b: idle
+idling <> b: idle, f: i, i: idling
+idol <> s: idols
+idolise <> p: idolised, d: idolised, i: idolising, '3': idolises, s: idolises
+idolised <> b: idolise, f: pd, p: idolised
+idolises <> b: idolise, f: 3s
+idolising <> b: idolise, f: i
+idolize <> p: idolized, d: idolized, i: idolizing, '3': idolizes
+idolized <> b: idolize, f: pd
+idolizes <> f: '3', b: idolize
+idolizing <> f: i, b: idolize
+idols <> b: idol, f: s
+ids <> b: id, f: s
+idyll <> s: idylls
+idylls <> b: idyll, f: s
+IE <> s: ies
+ies <> b: ie, f: s
+ifa <> s: ifas
+ifas <> b: ifa, f: s
+ig <> s: igs
+Iglesia <> s: iglesias
+Iglesias <> b: iglesia, f: s
+igloo <> s: igloos
+igloos <> b: igloo, f: s
+ignimbrite <> s: ignimbrites
+ignimbrites <> b: ignimbrite, f: s
+ignite <> d: ignited, p: ignited, i: igniting, '3': ignites
+ignited <> b: ignite, f: dp
+ignites <> b: ignite, f: '3'
+igniting <> b: ignite, f: i
+ignition <> s: ignitions
+ignitions <> b: ignition, f: s
+ignorant <> s: ignorants
+ignorants <> b: ignorant, f: s
+ignore <> d: ignored, i: ignoring, p: ignored, '3': ignores
+ignored <> b: ignore, f: dp, d: ignored, p: ignored
+ignorer <> s: ignorers
+ignorers <> b: ignorer, f: s
+ignores <> b: ignore, f: '3'
+ignoring <> b: ignore, f: i, i: ignoring
+igs <> b: ig, f: s
+iguana <> s: iguanas
+iguanas <> b: iguana, f: s
+iguanodon <> s: iguanodons
+iguanodons <> b: iguanodon, f: s
+iia <> s: iias
+iias <> b: iia, f: s
+ikat <> s: ikats
+ikats <> b: ikat, f: s
+ikon <> s: ikons
+ikons <> b: ikon, f: s
+IL <> s: ils, '3': ils
+ileostomies <> b: ileostomy, f: s
+ileostomy <> s: ileostomies
+ileum <> s: ileums
+ileums <> b: ileum, f: s
+ilex <> s: ilexes
+ilexes <> b: ilex, f: s
+ilia <> s: ilias
+ilias <> b: ilia, f: s
+ilk <> s: ilks
+ilks <> b: ilk, f: s
+ill <> s: ills
+ill-equipped <> d: ill-equipped, b: ill-equipped, f: d
+ill-treat <> i: ill-treating, p: ill-treated, '3': ill-treats, d: ill-treated
+ill-use <> i: ill-using, p: ill-used, '3': ill-uses, d: ill-used
+illegal <> s: illegals
+illegalities <> b: illegality, f: s
+illegality <> s: illegalities
+illegals <> b: illegal, f: s
+illegitimate <> s: illegitimates
+illegitimates <> b: illegitimate, f: s
+illicit <> '3': illicits
+illicits <> b: illicit, f: '3'
+illite <> s: illites
+illiterate <> s: illiterates
+illiterates <> b: illiterate, f: s
+illites <> b: illite, f: s
+illness <> s: illnesses
+illnesses <> b: illness, f: s
+illocution <> s: illocutions
+illocutions <> b: illocution, f: s
+illogicalities <> b: illogicality, f: s
+illogicality <> s: illogicalities
+ills <> b: ill, f: s
+illume <> i: illuming, p: illumed, '3': illumes, d: illumed
+illumed <> f: pd, b: illume
+illumes <> f: '3', b: illume
+illuminant <> s: illuminants
+illuminants <> b: illuminant, f: s
+illuminate <> d: illuminated, '3': illuminates, i: illuminating, p: illuminated
+illuminated <> b: illuminate, f: dp, d: illuminated, p: illuminated
+illuminates <> b: illuminate, f: '3'
+illuminati <> s: illuminati, b: illuminati, f: s
+illuminating <> b: illuminate, f: i, i: illuminating
+illumination <> s: illuminations
+illuminations <> b: illumination, f: s
+illuminator <> s: illuminators
+illuminators <> b: illuminator, f: s
+illumine <> d: illumined, '3': illumines, p: illumined, i: illumining
+illumined <> b: illumine, f: dp, d: illumined
+illumines <> b: illumine, f: '3'
+illuming <> f: i, b: illume
+illumining <> f: i, b: illumine
+illusion <> s: illusions
+illusionism <> s: illusionisms
+illusionisms <> b: illusionism, f: s
+illusionist <> s: illusionists
+illusionists <> b: illusionist, f: s
+illusions <> b: illusion, f: s
+illustrate <> d: illustrated, '3': illustrates, i: illustrating, p: illustrated
+illustrated <> b: illustrate, f: dp, p: illustrated, d: illustrated
+illustrates <> b: illustrate, f: '3'
+illustrating <> b: illustrate, f: i, i: illustrating
+illustration <> s: illustrations
+illustrations <> b: illustration, f: s
+illustrator <> s: illustrators
+illustrators <> b: illustrator, f: s
+Illyrian <> s: illyrians
+ilmenite <> s: ilmenites
+ilmenites <> b: ilmenite, f: s
+ilp <> s: ilps
+ilps <> b: ilp, f: s
+ils <> b: il, f: s3
+Ilya <> s: ilyas
+IM <> '3': ims, p: immed
+image <> s: images, i: imaging, d: imaged, p: imaged, '3': images
+image-maker <> s: image-makers
+image-makers <> b: image-maker, f: s
+imaged <> b: image, f: dp, p: imaged
+imager <> s: imagers
+imageries <> b: imagery, f: s
+imagers <> b: imager, f: s
+imagery <> s: imageries
+images <> f: s3, b: image
+imagination <> s: imaginations
+imaginations <> b: imagination, f: s
+imagine <> d: imagined, p: imagined, i: imagining, '3': imagines
+imagined <> b: imagine, f: dp, d: imagined, p: imagined
+imagineer <> '3': imagineers, i: imagineering, s: imagineers
+imagineering <> b: imagineer, f: i
+imagineers <> b: imagineer, f: 3s
+imagines <> b: imagine, f: '3'
+imaging <> b: image, f: i, i: imaging, s: imagings
+imagining <> b: imagine, f: i, s: imaginings, i: imagining
+imaginings <> b: imagining, f: s
+imagist <> s: imagists
+imagists <> b: imagist, f: s
+imago <> s: imagos
+imagos <> b: imago, f: s
+imam <> s: imams
+imams <> b: imam, f: s
+imbalance <> s: imbalances, d: imbalanced, p: imbalanced, i: imbalancing
+imbalanced <> b: imbalance, f: dp, p: imbalanced
+imbalances <> b: imbalance, f: s
+imbalancing <> b: imbalance, f: i
+imbecile <> s: imbeciles
+imbeciles <> b: imbecile, f: s
+imbecilities <> b: imbecility, f: s
+imbecility <> s: imbecilities
+imbed <> d: imbedded, p: imbedded, i: imbedding, '3': imbeds
+imbedded <> b: imbed, f: dp
+imbedding <> b: imbed, f: i
+imbeds <> f: '3', b: imbed
+imbibe <> d: imbibed, i: imbibing, p: imbibed, '3': imbibes
+imbibed <> b: imbibe, f: dp
+imbiber <> s: imbibers
+imbibers <> b: imbiber, f: s
+imbibes <> b: imbibe, f: '3'
+imbibing <> b: imbibe, f: i, i: imbibing
+imbricate <> d: imbricated, i: imbricating, p: imbricated, '3': imbricates
+imbricated <> f: dp, b: imbricate
+imbricates <> f: '3', b: imbricate
+imbricating <> b: imbricate, f: i, i: imbricating
+imbrication <> s: imbrications
+imbrications <> b: imbrication, f: s
+imbrue <> i: imbruing, p: imbrued, '3': imbrues, d: imbrued
+imbrued <> f: pd, b: imbrue
+imbrues <> f: '3', b: imbrue
+imbruing <> f: i, b: imbrue
+imbue <> d: imbued, '3': imbues, i: imbuing, p: imbued
+imbued <> b: imbue, f: dp, d: imbued
+imbues <> b: imbue, f: '3'
+imbuing <> b: imbue, f: i
+imi <> s: imis
+imis <> b: imi, f: s
+imitate <> i: imitating, d: imitated, p: imitated, '3': imitates
+imitated <> b: imitate, f: dp
+imitates <> b: imitate, f: '3'
+imitating <> b: imitate, f: i
+imitation <> s: imitations
+imitations <> b: imitation, f: s
+imitator <> s: imitators
+imitators <> b: imitator, f: s
+immature <> s: immatures
+immatures <> b: immature, f: s
+immediacies <> b: immediacy, f: s
+immediacy <> s: immediacies
+immensities <> b: immensity, f: s
+immensity <> s: immensities
+immerse <> d: immersed, p: immersed, i: immersing, '3': immerses
+immersed <> b: immerse, f: dp
+immerses <> b: immerse, f: '3'
+immersing <> b: immerse, f: i
+immersion <> s: immersions
+immersions <> b: immersion, f: s
+immigrant <> s: immigrants
+immigrants <> b: immigrant, f: s
+immigrate <> p: immigrated, i: immigrating, '3': immigrates, d: immigrated
+immigrated <> f: pd, b: immigrate
+immigrates <> f: '3', b: immigrate
+immigrating <> f: i, b: immigrate
+imminent <> s: imminents
+imminents <> b: imminent, f: s
+immiserize <> i: immiserizing, p: immiserized
+immiserized <> b: immiserize, f: p
+immiserizing <> b: immiserize, f: i
+immobilise <> d: immobilised, i: immobilising, p: immobilised, '3': immobilises
+immobilised <> b: immobilise, f: dp, d: immobilised
+immobilises <> b: immobilise, f: '3'
+immobilising <> b: immobilise, f: i, i: immobilising
+immobilize <> d: immobilized, p: immobilized, '3': immobilizes, i: immobilizing
+immobilized <> b: immobilize, f: dp, p: immobilized
+immobilizes <> b: immobilize, f: '3'
+immobilizing <> f: i, b: immobilize
+immolate <> d: immolated, p: immolated, i: immolating, '3': immolates
+immolated <> b: immolate, f: dp
+immolates <> f: '3', b: immolate
+immolating <> f: i, b: immolate
+immoralist <> s: immoralists
+immoralists <> b: immoralist, f: s
+immoralities <> b: immorality, f: s
+immorality <> s: immoralities
+immortal <> s: immortals
+immortalise <> d: immortalised, p: immortalised, '3': immortalises, i: immortalising
+immortalised <> b: immortalise, f: dp
+immortalises <> b: immortalise, f: '3'
+immortalising <> b: immortalise, f: i
+immortalize <> d: immortalized, i: immortalizing, p: immortalized, '3': immortalizes
+immortalized <> b: immortalize, f: dp
+immortalizes <> f: '3', b: immortalize
+immortalizing <> b: immortalize, f: i
+immortals <> b: immortal, f: s
+immortelle <> s: immortelles
+immortelles <> b: immortelle, f: s
+immovable <> s: immovables
+immovables <> b: immovable, f: s
+immunisation <> s: immunisations
+immunisations <> b: immunisation, f: s
+immunise <> d: immunised, i: immunising, p: immunised
+immunised <> b: immunise, f: dp
+immunising <> b: immunise, f: i
+immunities <> b: immunity, f: s
+immunity <> s: immunities
+immunization <> s: immunizations
+immunizations <> b: immunization, f: s
+immunize <> p: immunized, d: immunized, i: immunizing, '3': immunizes
+immunized <> b: immunize, f: pd
+immunizes <> f: '3', b: immunize
+immunizing <> b: immunize, f: i
+immunoassay <> s: immunoassays
+immunoassays <> b: immunoassay, f: s
+immunoblot <> i: immunoblotting, s: immunoblots, d: immunoblotted
+immunoblotting <> b: immunoblot, f: i, i: immunoblotting
+immunocompromise <> d: immunocompromised
+immunocompromised <> b: immunocompromise, f: d
+immunodeficiencies <> b: immunodeficiency, f: s
+immunodeficiency <> s: immunodeficiencies
+immunoglobulin <> s: immunoglobulins
+immunoglobulins <> b: immunoglobulin, f: s
+immunologist <> s: immunologists
+immunologists <> b: immunologist, f: s
+immunoreactivities <> b: immunoreactivity, f: s
+immunoreactivity <> s: immunoreactivities
+immunosuppressant <> s: immunosuppressants
+immunosuppressants <> b: immunosuppressant, f: s
+immure <> d: immured, p: immured, i: immuring, '3': immures
+immured <> b: immure, f: dp
+immures <> f: '3', b: immure
+immuring <> f: i, b: immure
+immutable <> s: immutables
+immutables <> b: immutable, f: s
+imp <> s: imps
+impact <> s: impacts, p: impacted, d: impacted, i: impacting, '3': impacts
+impacted <> b: impact, f: pd, d: impacted, p: impacted
+impacting <> b: impact, f: i
+impactor <> s: impactors
+impactors <> b: impactor, f: s
+impacts <> f: s3, b: impact
+impair <> d: impaired, p: impaired, '3': impairs, i: impairing
+impaired <> b: impair, f: dp, d: impaired, p: impaired
+impairing <> b: impair, f: i
+impairment <> s: impairments
+impairments <> b: impairment, f: s
+impairs <> b: impair, f: '3'
+impale <> p: impaled, d: impaled, i: impaling, '3': impales
+impaled <> b: impale, f: pd, p: impaled, d: impaled
+impales <> b: impale, f: '3'
+impaling <> b: impale, f: i
+impanel <> i: impanelling, p: impanelled, '3': impanels, d: impanelled
+impanelled <> f: pd, b: impanel
+impanelling <> f: i, b: impanel
+impanels <> f: '3', b: impanel
+impark <> d: imparked
+imparked <> b: impark, f: d
+impart <> p: imparted, '3': imparts, i: imparting, d: imparted
+imparted <> b: impart, f: pd, p: imparted
+imparting <> b: impart, f: i
+imparts <> b: impart, f: '3'
+impeach <> d: impeached, i: impeaching, p: impeached, '3': impeaches
+impeached <> b: impeach, f: dp
+impeaches <> f: '3', b: impeach
+impeaching <> b: impeach, f: i
+impeachment <> s: impeachments
+impeachments <> b: impeachment, f: s
+impedance <> s: impedances
+impedances <> b: impedance, f: s
+impede <> d: impeded, i: impeding, '3': impedes, p: impeded
+impeded <> b: impede, f: dp
+impedes <> b: impede, f: '3'
+impediment <> s: impediments
+impedimenta <> s: impedimenta, b: impedimenta, f: s
+impediments <> b: impediment, f: s
+impeding <> b: impede, f: i
+impel <> p: impelled, d: impelled, '3': impels, i: impelling
+impelled <> b: impel, f: pd, p: impelled, d: impelled
+impelling <> b: impel, f: i
+impels <> b: impel, f: '3'
+impend <> i: impending, p: impended, '3': impends, d: impended
+impending <> f: i, b: impend
+imperative <> s: imperatives
+imperatives <> b: imperative, f: s
+imperfection <> s: imperfections
+imperfections <> b: imperfection, f: s
+imperialist <> s: imperialists
+imperialists <> b: imperialist, f: s
+imperil <> d: imperilled, i: imperilling, '3': imperils, p: imperiled
+imperiled <> f: pd, b: imperil
+imperilled <> b: imperil, f: d
+imperilling <> b: imperil, f: i
+imperils <> b: imperil, f: '3'
+impersonate <> i: impersonating, '3': impersonates, d: impersonated, p: impersonated
+impersonated <> b: impersonate, f: dp
+impersonates <> b: impersonate, f: '3'
+impersonating <> b: impersonate, f: i
+impersonation <> s: impersonations
+impersonations <> b: impersonation, f: s
+impersonator <> s: impersonators
+impersonators <> b: impersonator, f: s
+impertinence <> s: impertinences
+impertinences <> b: impertinence, f: s
+imping <> i: impinging
+impinge <> '3': impinges, d: impinged, p: impinged, i: impinging
+impinged <> b: impinge, f: dp
+impingement <> s: impingements
+impingements <> b: impingement, f: s
+impinges <> b: impinge, f: '3'
+impinging <> b: imping, f: i
+implant <> s: implants, d: implanted, p: implanted, i: implanting, '3': implants
+implantation <> s: implantations
+implantations <> b: implantation, f: s
+implanted <> b: implant, f: dp, p: implanted
+implanting <> b: implant, f: i
+implants <> b: implant, f: s3
+implausibilities <> b: implausibility, f: s
+implausibility <> s: implausibilities
+implement <> d: implemented, i: implementing, s: implements, '3': implements, p: implemented
+implementation <> s: implementations
+implementations <> b: implementation, f: s
+implemented <> b: implement, f: dp, d: implemented
+implementer <> s: implementers
+implementers <> b: implementer, f: s
+implementing <> b: implement, f: i, i: implementing
+implements <> b: implement, f: s3
+implicate <> d: implicated, p: implicated, i: implicating, '3': implicates, s: implicates
+implicated <> b: implicate, f: dp, p: implicated, d: implicated
+implicates <> b: implicate, f: 3s
+implicating <> b: implicate, f: i
+implication <> s: implications
+implications <> b: implication, f: s
+implicature <> s: implicatures
+implicatures <> b: implicature, f: s
+implied <> b: imply, f: dp, p: implied, d: implied
+implode <> p: imploded, d: imploded, '3': implodes, i: imploding, s: implodes
+imploded <> b: implode, f: pd
+implodes <> b: implode, f: 3s
+imploding <> b: implode, f: i, i: imploding
+implore <> p: implored, i: imploring, '3': implores, d: implored, s: implores
+implored <> b: implore, f: pd
+implores <> b: implore, f: 3s
+imploring <> b: implore, f: i, i: imploring, s: implorings
+imply <> '3': implies, d: implied, i: implying, p: implied
+imponderable <> s: imponderables
+imponderables <> b: imponderable, f: s
+import <> s: imports, d: imported, i: importing, p: imported, '3': imports
+importation <> s: importations
+importations <> b: importation, f: s
+imported <> b: import, f: dp, p: imported, d: imported
+importer <> s: importers
+importers <> b: importer, f: s
+importing <> b: import, f: i, i: importing
+imports <> b: import, f: s3
+importune <> i: importuning, d: importuned, p: importuned, '3': importunes
+importuned <> b: importune, f: dp
+importunes <> f: '3', b: importune
+importuning <> b: importune, f: i, i: importuning
+importunities <> b: importunity, f: s
+importunity <> s: importunities
+impose <> d: imposed, p: imposed, '3': imposes, i: imposing
+imposed <> b: impose, f: dp, p: imposed, d: imposed
+imposes <> b: impose, f: '3'
+imposing <> b: impose, f: i, i: imposing
+imposition <> s: impositions
+impositions <> b: imposition, f: s
+impossibilities <> b: impossibility, f: s
+impossibility <> s: impossibilities
+impost <> s: imposts
+imposter <> s: imposters
+imposters <> b: imposter, f: s
+impostor <> s: impostors
+impostors <> b: impostor, f: s
+imposts <> b: impost, f: s
+imposture <> s: impostures
+impostures <> b: imposture, f: s
+impound <> d: impounded, p: impounded, i: impounding, '3': impounds
+impounded <> b: impound, f: dp, p: impounded
+impounding <> b: impound, f: i
+impoundment <> s: impoundments
+impoundments <> b: impoundment, f: s
+impounds <> b: impound, f: '3'
+impoverish <> i: impoverishing, '3': impoverishes, p: impoverished, d: impoverished
+impoverished <> f: pd, b: impoverish
+impoverishes <> b: impoverish, f: '3'
+impoverishing <> b: impoverish, f: i
+impracticalities <> b: impracticality, f: s
+impracticality <> s: impracticalities
+imprecate <> i: imprecating, p: imprecated, '3': imprecates, d: imprecated
+imprecated <> f: pd, b: imprecate
+imprecates <> f: '3', b: imprecate
+imprecating <> f: i, b: imprecate
+imprecation <> s: imprecations
+imprecations <> b: imprecation, f: s
+imprecision <> s: imprecisions
+imprecisions <> b: imprecision, f: s
+impregnate <> d: impregnated, p: impregnated, i: impregnating, '3': impregnates
+impregnated <> b: impregnate, f: dp, p: impregnated, d: impregnated
+impregnates <> b: impregnate, f: '3'
+impregnating <> b: impregnate, f: i
+impresario <> s: impresarios
+impresarios <> b: impresario, f: s
+impress <> d: impressed, p: impressed, i: impressing, '3': impresses
+impressed <> d: impressed, b: impressed, f: dp, p: impressed
+impresses <> b: impress, f: '3'
+impressing <> b: impress, f: i
+impression <> s: impressions
+impressionism <> s: impressionisms
+impressionisms <> b: impressionism, f: s
+impressionist <> s: impressionists
+impressionists <> b: impressionist, f: s
+impressions <> b: impression, f: s
+imprint <> d: imprinted, s: imprints, i: imprinting, p: imprinted, '3': imprints
+imprinted <> b: imprint, f: dp, d: imprinted, p: imprinted
+imprinting <> b: imprint, f: i, i: imprinting
+imprints <> b: imprint, f: s3
+imprison <> d: imprisoned, i: imprisoning, p: imprisoned, '3': imprisons
+imprisoned <> b: imprison, f: dp, d: imprisoned
+imprisoning <> b: imprison, f: i
+imprisonment <> s: imprisonments
+imprisonments <> b: imprisonment, f: s
+imprisons <> b: imprison, f: '3'
+improbabilities <> b: improbability, f: s
+improbability <> s: improbabilities
+improbable <> s: improbables
+improbables <> b: improbable, f: s
+impromptu <> s: impromptus
+impromptus <> b: impromptu, f: s
+impropriation <> s: impropriations
+impropriations <> b: impropriation, f: s
+improprieties <> b: impropriety, f: s
+impropriety <> s: improprieties
+improve <> d: improved, i: improving, '3': improves, p: improved
+improved <> b: improve, f: dp, d: improved, p: improved
+improvement <> s: improvements
+improvements <> b: improvement, f: s
+improver <> s: improvers
+improvers <> b: improver, f: s
+improves <> b: improve, f: '3'
+improving <> b: improve, f: i, i: improving
+improvisation <> s: improvisations
+improvisations <> b: improvisation, f: s
+improvise <> i: improvising, d: improvised, p: improvised, '3': improvises, s: improvises
+improvised <> b: improvise, f: dp, p: improvised, d: improvised
+improviser <> s: improvisers
+improvisers <> b: improviser, f: s
+improvises <> b: improvise, f: 3s
+improvising <> b: improvise, f: i, i: improvising
+imps <> b: imp, f: s
+impugn <> d: impugned, i: impugning, p: impugned, '3': impugns
+impugned <> b: impugn, f: dp
+impugning <> b: impugn, f: i
+impugns <> b: impugn, f: '3'
+impulse <> s: impulses
+impulses <> b: impulse, f: s
+impulsion <> s: impulsions
+impulsions <> b: impulsion, f: s
+impurities <> b: impurity, f: s
+impurity <> s: impurities
+imputation <> s: imputations
+imputations <> b: imputation, f: s
+impute <> d: imputed, i: imputing, '3': imputes, p: imputed, s: imputes
+imputed <> b: impute, f: dp
+imputes <> b: impute, f: 3s
+imputing <> b: impute, f: i
+IMS <> b: im, f: '3'
+in-between <> s: in-betweens
+in-betweens <> b: in-between, f: s
+in-joke <> s: in-jokes
+in-jokes <> b: in-joke, f: s
+in-law <> s: in-laws
+in-laws <> b: in-law, f: s
+in-off <> s: in-offs
+in-offs <> b: in-off, f: s
+in-service <> s: in-services
+in-services <> b: in-service, f: s
+inabilities <> b: inability, f: s
+inability <> s: inabilities
+inaccuracies <> b: inaccuracy, f: s
+inaccuracy <> s: inaccuracies
+inaction <> s: inactions
+inactions <> b: inaction, f: s
+inactivate <> d: inactivated, i: inactivating, '3': inactivates, p: inactivated
+inactivated <> b: inactivate, f: dp, p: inactivated, d: inactivated
+inactivates <> b: inactivate, f: '3'
+inactivating <> b: inactivate, f: i
+inactivator <> s: inactivators
+inactivators <> b: inactivator, f: s
+inadequacies <> b: inadequacy, f: s
+inadequacy <> s: inadequacies
+inadequate <> s: inadequates
+inadequates <> b: inadequate, f: s
+inadvertencies <> b: inadvertency, f: s
+inadvertency <> s: inadvertencies
+inamorata <> s: inamoratas
+inamoratas <> b: inamorata, f: s
+inanimate <> s: inanimates
+inanimates <> b: inanimate, f: s
+inanities <> b: inanity, f: s
+inanity <> s: inanities
+inarch <> i: inarching
+inarching <> b: inarch, f: i
+inarticulate <> s: inarticulates, p: inarticulated
+inarticulated <> b: inarticulate, f: p
+inarticulates <> b: inarticulate, f: s
+inaugurate <> p: inaugurated, d: inaugurated, i: inaugurating, '3': inaugurates
+inaugurated <> b: inaugurate, f: pd, p: inaugurated
+inaugurates <> b: inaugurate, f: '3'
+inaugurating <> b: inaugurate, f: i
+inauguration <> s: inaugurations
+inaugurations <> b: inauguration, f: s
+inbreed <> i: inbreeding
+inbreeding <> s: inbreedings, b: inbreed, f: i
+inbreedings <> b: inbreeding, f: s
+inca <> s: incas
+incandesce <> i: incandescing, p: incandesced, '3': incandesces, d: incandesced
+incandesced <> f: pd, b: incandesce
+incandescent <> s: incandescents
+incandescents <> b: incandescent, f: s
+incandesces <> f: '3', b: incandesce
+incandescing <> b: incandesce, f: i
+incant <> p: incanted, i: incanting
+incantation <> s: incantations
+incantations <> b: incantation, f: s
+incanted <> b: incant, f: p
+incanting <> b: incant, f: i
+incapabilities <> b: incapability, f: s
+incapability <> s: incapabilities
+incapacitate <> d: incapacitated, '3': incapacitates, i: incapacitating, p: incapacitated
+incapacitated <> b: incapacitate, f: dp, d: incapacitated
+incapacitates <> b: incapacitate, f: '3'
+incapacitating <> b: incapacitate, f: i
+incapacities <> b: incapacity, f: s
+incapacity <> s: incapacities
+incarcerate <> d: incarcerated, p: incarcerated, i: incarcerating, '3': incarcerates
+incarcerated <> b: incarcerate, f: dp
+incarcerates <> f: '3', b: incarcerate
+incarcerating <> b: incarcerate, f: i
+incarceration <> s: incarcerations
+incarcerations <> b: incarceration, f: s
+incarnadine <> p: incarnadined, i: incarnadining, '3': incarnadines, d: incarnadined
+incarnadined <> f: pd, b: incarnadine
+incarnadines <> f: '3', b: incarnadine
+incarnadining <> f: i, b: incarnadine
+incarnate <> '3': incarnates, d: incarnated, p: incarnated, i: incarnating
+incarnated <> b: incarnate, f: dp
+incarnates <> b: incarnate, f: '3'
+incarnating <> b: incarnate, f: i
+incarnation <> s: incarnations
+incarnations <> b: incarnation, f: s
+incas <> b: inca, f: s
+incase <> s: incases, i: incasing, p: incased, '3': incases, d: incased
+incased <> f: pd, b: incase
+incases <> f: s3, b: incase
+incasing <> f: i, b: incase
+incendiaries <> b: incendiary, f: s
+incendiary <> s: incendiaries
+incense <> d: incensed, p: incensed, s: incenses, i: incensing, '3': incenses
+incensed <> b: incense, f: dp, d: incensed, p: incensed
+incenses <> f: s3, b: incense
+incensing <> f: i, b: incense
+incentive <> s: incentives
+incentives <> b: incentive, f: s
+incept <> d: incepted
+incepted <> b: incept, f: d
+inception <> s: inceptions
+inceptions <> b: inception, f: s
+inch <> s: inches, p: inched, '3': inches, i: inching, d: inched
+inched <> b: inch, f: pd
+inches <> b: inch, f: s3
+inching <> b: inch, f: i
+incidence <> s: incidences
+incidences <> b: incidence, f: s
+incident <> s: incidents
+incidental <> s: incidentals
+incidentals <> b: incidental, f: s
+incidents <> b: incident, f: s
+incinerate <> d: incinerated, p: incinerated, i: incinerating, '3': incinerates
+incinerated <> b: incinerate, f: dp
+incinerates <> b: incinerate, f: '3'
+incinerating <> b: incinerate, f: i
+incinerator <> s: incinerators
+incinerators <> b: incinerator, f: s
+incipit <> s: incipits
+incipits <> b: incipit, f: s
+incise <> d: incised, p: incised, i: incising, '3': incises
+incised <> b: incise, f: dp, d: incised, p: incised
+incises <> f: '3', b: incise
+incising <> b: incise, f: i
+incision <> s: incisions
+incisions <> b: incision, f: s
+incisor <> s: incisors
+incisors <> b: incisor, f: s
+incite <> i: inciting, '3': incites, p: incited, d: incited
+incited <> b: incit, f: dp
+incitement <> s: incitements
+incitements <> b: incitement, f: s
+inciter <> s: inciters
+inciters <> b: inciter, f: s
+incites <> b: incite, f: '3'
+inciting <> b: incite, f: i
+incivilities <> b: incivility, f: s
+incivility <> s: incivilities
+inclination <> s: inclinations
+inclinations <> b: inclination, f: s
+incline <> p: inclined, i: inclining, d: inclined, '3': inclines, s: inclines
+inclined <> d: inclined, b: inclined, f: dp, p: inclined
+inclines <> b: incline, f: 3s
+inclining <> b: incline, f: i
+inclose <> d: inclosed, i: inclosing, p: inclosed, '3': incloses
+inclosed <> b: inclose, f: dp
+incloses <> f: '3', b: inclose
+inclosing <> b: inclose, f: i
+inclosure <> s: inclosures
+inclosures <> b: inclosure, f: s
+include <> '3': includes, d: included, p: included, i: including
+included <> b: include, f: dp, d: included, p: included
+includes <> b: include, f: '3'
+including <> b: include, f: i
+inclusion <> s: inclusions
+inclusions <> b: inclusion, f: s
+incognito <> s: incognitos
+incognitos <> b: incognito, f: s
+incoherence <> s: incoherences
+incoherences <> b: incoherence, f: s
+incoherencies <> b: incoherency, f: s
+incoherency <> s: incoherencies
+incohesion <> s: incohesions
+incohesions <> b: incohesion, f: s
+income <> s: incomes
+incomer <> s: incomers
+incomers <> b: incomer, f: s
+incomes <> b: income, f: s
+incoming <> s: incomings
+incomings <> b: incoming, f: s
+incommode <> d: incommoded, i: incommoding, p: incommoded, '3': incommodes
+incommoded <> f: dp, b: incommode
+incommodes <> f: '3', b: incommode
+incommoding <> b: incommode, f: i
+incompatibilities <> b: incompatibility, f: s
+incompatibility <> s: incompatibilities
+incompatible <> s: incompatibles
+incompatibles <> b: incompatible, f: s
+incompetence <> s: incompetences
+incompetences <> b: incompetence, f: s
+incompetent <> s: incompetents
+incompetents <> b: incompetent, f: s
+inconclusive <> s: inconclusives
+inconclusives <> b: inconclusive, f: s
+incongruities <> b: incongruity, f: s
+incongruity <> s: incongruities
+inconsistencies <> b: inconsistency, f: s
+inconsistency <> s: inconsistencies
+inconvenience <> s: inconveniences, d: inconvenienced, p: inconvenienced, i: inconveniencing, '3': inconveniences
+inconvenienced <> b: inconvenience, f: dp, d: inconvenienced
+inconveniences <> b: inconvenience, f: s3
+inconveniencing <> b: inconvenience, f: i
+incorporate <> d: incorporated, i: incorporating, '3': incorporates, p: incorporated
+incorporated <> b: incorporate, f: dp, d: incorporated, p: incorporated
+incorporates <> b: incorporate, f: '3'
+incorporating <> b: incorporate, f: i
+incorporation <> s: incorporations
+incorporations <> b: incorporation, f: s
+incorrect <> '3': incorrects
+incorrects <> b: incorrect, f: '3'
+incorruptible <> s: incorruptibles
+incorruptibles <> b: incorruptible, f: s
+increase <> d: increased, i: increasing, s: increases, '3': increases, p: increased
+increased <> b: increase, f: dp, d: increased, p: increased
+increases <> b: increase, f: s3
+increasing <> b: increase, f: i, i: increasing
+increment <> s: increments, d: incremented, i: incrementing, '3': increments, p: incremented
+incremental <> s: incrementals
+incrementalism <> s: incrementalisms
+incrementalisms <> b: incrementalism, f: s
+incrementals <> b: incremental, f: s
+incremented <> b: increment, f: dp
+incrementing <> b: increment, f: i
+increments <> b: increment, f: s3
+incriminate <> d: incriminated, i: incriminating, '3': incriminates, p: incriminated
+incriminated <> b: incriminate, f: dp
+incriminates <> b: incriminate, f: '3'
+incriminating <> i: incriminating, b: incriminating, f: i
+incrimination <> s: incriminations
+incriminations <> b: incrimination, f: s
+incrust <> i: incrusting, p: incrusted, '3': incrusts, d: incrusted
+incrustation <> s: incrustations
+incrustations <> b: incrustation, f: s
+incrusted <> f: pd, b: incrust
+incrusting <> f: i, b: incrust
+incrusts <> f: '3', b: incrust
+incubate <> d: incubated, p: incubated, i: incubating, '3': incubates, s: incubates
+incubated <> b: incubate, f: dp
+incubates <> b: incubate, f: 3s
+incubating <> b: incubate, f: i, i: incubating
+incubation <> s: incubations
+incubations <> b: incubation, f: s
+incubator <> s: incubators
+incubators <> b: incubator, f: s
+inculcate <> p: inculcated, i: inculcating, d: inculcated, '3': inculcates
+inculcated <> b: inculcate, f: pd
+inculcates <> b: inculcate, f: '3'
+inculcating <> b: inculcate, f: i
+inculpate <> i: inculpating, p: inculpated, '3': inculpates, d: inculpated
+inculpated <> f: pd, b: inculpate
+inculpates <> f: '3', b: inculpate
+inculpating <> f: i, b: inculpate
+incumbencies <> b: incumbency, f: s
+incumbency <> s: incumbencies
+incumbent <> s: incumbents
+incumbents <> b: incumbent, f: s
+incunabula <> s: incunabula, b: incunabula, f: s
+incur <> d: incurred, i: incurring, p: incurred, '3': incurs
+incurable <> s: incurables
+incurables <> b: incurable, f: s
+incurred <> b: incur, f: dp
+incurring <> b: incur, f: i
+incurs <> b: incur, f: '3'
+incursion <> s: incursions
+incursions <> b: incursion, f: s
+incurvate <> i: incurvating, p: incurvated, '3': incurvates, d: incurvated
+incurvated <> f: pd, b: incurvate
+incurvates <> f: '3', b: incurvate
+incurvating <> f: i, b: incurvate
+incurve <> i: incurving, p: incurved
+incurved <> b: incurve, f: p
+incurving <> b: incurve, f: i
+ind <> i: inding, s: inds
+indecencies <> b: indecency, f: s
+indecency <> s: indecencies
+indecision <> s: indecisions
+indecisions <> b: indecision, f: s
+indefinable <> s: indefinables
+indefinables <> b: indefinable, f: s
+indemnified <> b: indemnify, f: dp
+indemnifier <> s: indemnifiers
+indemnifiers <> b: indemnifier, f: s
+indemnifies <> b: indemnify, f: '3'
+indemnify <> d: indemnified, '3': indemnifies, p: indemnified, i: indemnifying
+indemnifying <> b: indemnify, f: i
+indemnities <> b: indemnity, f: s
+indemnity <> s: indemnities
+indent <> p: indented, d: indented, '3': indents, i: indenting, s: indents
+indentation <> s: indentations
+indentations <> b: indentation, f: s
+indented <> b: indent, f: pd, p: indented, d: indented
+indenter <> s: indenters
+indenters <> b: indenter, f: s
+indenting <> b: indent, f: i, i: indenting
+indents <> b: indent, f: 3s
+indenture <> s: indentures, p: indentured, d: indentured, '3': indentures, i: indenturing
+indentured <> b: indenture, f: pd, p: indentured
+indentures <> b: indenture, f: s3
+indenturing <> f: i, b: indenture
+independent <> s: independents
+independents <> b: independent, f: s
+indeterminacies <> b: indeterminacy, f: s
+indeterminacy <> s: indeterminacies
+indeterminist <> s: indeterminists
+indeterminists <> b: indeterminist, f: s
+index <> s: indices, d: indexed, i: indexing, p: indexed, '3': indexes
+indexed <> b: index, f: dp, p: indexed, d: indexed
+indexer <> s: indexers
+indexers <> b: indexer, f: s
+indexes <> f: s3, b: index
+indexical <> s: indexicals, '3': indexicals
+indexicals <> b: indexical, f: s3
+indexing <> b: index, f: i, i: indexing
+Indiaman <> s: indiamen
+indiamen <> b: indiaman, f: s
+Indian <> s: indians
+indians <> b: indian, f: s
+indicate <> '3': indicates, d: indicated, p: indicated, i: indicating
+indicated <> b: indicate, f: dp, p: indicated, d: indicated
+indicates <> b: indicate, f: '3'
+indicating <> b: indicate, f: i
+indication <> s: indications
+indications <> b: indication, f: s
+indicator <> s: indicators
+indicators <> b: indicator, f: s
+indices <> b: index, f: s
+indict <> d: indicted, p: indicted, i: indicting, '3': indicts
+indicted <> b: indict, f: dp, d: indicted
+indicting <> b: indict, f: i
+indictment <> s: indictments
+indictments <> b: indictment, f: s
+indicts <> b: indict, f: '3'
+indies <> s: indies, b: indies, f: s
+indigene <> s: indigenes
+indigenes <> b: indigene, f: s
+indigenize <> d: indigenized
+indigenized <> b: indigenize, f: d
+indigent <> s: indigents
+indigents <> b: indigent, f: s
+indignities <> b: indignity, f: s
+indignity <> s: indignities
+indigo <> s: indigos
+indigos <> b: indigo, f: s
+inding <> b: ind, f: i, s: indings, i: inding
+indiscernible <> s: indiscernibles
+indiscernibles <> b: indiscernible, f: s
+indiscipline <> d: indisciplined, p: indisciplined
+indisciplined <> b: indiscipline, f: dp, p: indisciplined
+indiscretion <> s: indiscretions
+indiscretions <> b: indiscretion, f: s
+indiscriminate <> i: indiscriminating
+indiscriminating <> b: indiscriminate, f: i
+indispensable <> s: indispensables
+indispensables <> b: indispensable, f: s
+indispose <> i: indisposing, p: indisposed, '3': indisposes, d: indisposed
+indisposed <> f: pd, b: indispose
+indisposition <> s: indispositions
+indispositions <> b: indisposition, f: s
+indite <> i: inditing, p: indited, '3': indites, d: indited
+indited <> f: pd, b: indite
+indites <> f: '3', b: indite
+inditing <> b: indit, f: i
+individual <> s: individuals
+individualise <> i: individualising, d: individualised, p: individualised, '3': individualises, s: individualises
+individualised <> p: individualised, b: individualised, f: pd, d: individualised
+individualises <> b: individualise, f: 3s
+individualising <> b: individualise, f: i
+individualist <> s: individualists
+individualists <> b: individualist, f: s
+individualities <> b: individuality, f: s
+individuality <> s: individualities
+individualize <> p: individualized, d: individualized, i: individualizing, '3': individualizes
+individualized <> p: individualized, b: individualized, f: p
+individualizes <> f: '3', b: individualize
+individualizing <> b: individualize, f: i
+individuals <> b: individual, f: s
+individuate <> '3': individuates, d: individuated, i: individuating, p: individuated
+individuated <> b: individuate, f: dp, p: individuated
+individuates <> b: individuate, f: '3'
+individuating <> b: individuate, f: i
+indivisibilities <> b: indivisibility, f: s
+indivisibility <> s: indivisibilities
+indivisible <> s: indivisibles
+indivisibles <> b: indivisible, f: s
+indoctrinate <> d: indoctrinated, p: indoctrinated, i: indoctrinating, '3': indoctrinates
+indoctrinated <> b: indoctrinate, f: dp, p: indoctrinated
+indoctrinates <> b: indoctrinate, f: '3'
+indoctrinating <> b: indoctrinate, f: i
+Indonesian <> s: indonesians
+indorse <> p: indorsed, s: indorses, d: indorsed, i: indorsing, '3': indorses
+indorsed <> b: indorse, f: pd
+indorses <> f: s3, b: indorse
+indorsing <> f: i, b: indorse
+indrawn <> d: indrawn, b: indrawn, f: d
+indri <> s: indri, b: indri, f: s
+inds <> b: ind, f: s
+induce <> d: induced, p: induced, '3': induces, i: inducing
+induced <> b: induce, f: dp, p: induced, d: induced
+inducement <> s: inducements
+inducements <> b: inducement, f: s
+inducer <> s: inducers
+inducers <> b: inducer, f: s
+induces <> b: induce, f: '3'
+inducing <> b: induce, f: i, i: inducing
+induct <> d: inducted, p: inducted, i: inducting, '3': inducts
+inductance <> s: inductances
+inductances <> b: inductance, f: s
+inducted <> b: induct, f: dp
+inducting <> b: induct, f: i
+induction <> s: inductions
+inductions <> b: induction, f: s
+inductivist <> s: inductivists
+inductivists <> b: inductivist, f: s
+inductor <> s: inductors
+inductors <> b: inductor, f: s
+inducts <> f: '3', b: induct
+indue <> i: induing, p: indued, '3': indues, d: indued
+indued <> f: pd, b: indue
+indues <> f: '3', b: indue
+induing <> f: i, b: indue
+indulge <> i: indulging, d: indulged, p: indulged, '3': indulges
+indulged <> b: indulge, f: dp
+indulgence <> s: indulgences
+indulgences <> b: indulgence, f: s
+indulger <> s: indulgers
+indulgers <> b: indulger, f: s
+indulges <> b: indulge, f: '3'
+indulging <> b: indulge, f: i
+indult <> s: indults
+indults <> b: indult, f: s
+indurate <> p: indurated, i: indurating, '3': indurates, d: indurated
+indurated <> f: pd, b: indurate
+indurates <> f: '3', b: indurate
+indurating <> f: i, b: indurate
+industrialise <> i: industrialising, '3': industrialises, d: industrialised, p: industrialised
+industrialised <> d: industrialised, b: industrialised, f: dp, p: industrialised
+industrialises <> b: industrialise, f: '3'
+industrialising <> b: industrialise, f: i
+industrialist <> s: industrialists
+industrialists <> b: industrialist, f: s
+industrialize <> i: industrializing, d: industrialized, '3': industrializes, p: industrialized
+industrialized <> d: industrialized, b: industrialized, f: dp, p: industrialized
+industrializes <> b: industrialize, f: '3'
+industrializing <> b: industrialize, f: i, i: industrializing
+industries <> b: industry, f: s
+industry <> s: industries
+indwell <> '3': indwells, i: indwelling, p: indwelt, d: indwelt
+indwelling <> i: indwelling, b: indwelling, f: i
+indwells <> b: indwell, f: '3'
+indwelt <> f: pd, b: indwell
+inebriate <> s: inebriates, i: inebriating, p: inebriated, '3': inebriates, d: inebriated
+inebriated <> f: pd, b: inebriate
+ineducable <> s: ineducables
+ineducables <> b: ineducable, f: s
+inefficiencies <> b: inefficiency, f: s
+inefficiency <> s: inefficiencies
+ineligible <> s: ineligibles
+ineligibles <> b: ineligible, f: s
+ineptitude <> s: ineptitudes
+ineptitudes <> b: ineptitude, f: s
+inequalities <> b: inequality, f: s
+inequality <> s: inequalities
+inequities <> b: inequity, f: s
+inequity <> s: inequities
+inertia <> s: inertias
+inertial <> s: inertials
+inertials <> b: inertial, f: s
+inertias <> b: inertia, f: s
+inessential <> s: inessentials
+inessentials <> b: inessential, f: s
+inevitabilities <> b: inevitability, f: s
+inevitability <> s: inevitabilities
+inexactitude <> s: inexactitudes
+inexactitudes <> b: inexactitude, f: s
+inexperience <> d: inexperienced
+inexperienced <> b: inexperience, f: d
+inexplicabilities <> b: inexplicability, f: s
+inexplicability <> s: inexplicabilities
+infamies <> b: infamy, f: s
+infamy <> s: infamies
+infant <> s: infants
+infanta <> s: infantas
+infantas <> b: infanta, f: s
+infantilize <> i: infantilizing, p: infantilized
+infantilized <> b: infantilize, f: p
+infantilizing <> b: infantilize, f: i
+infantries <> b: infantry, f: s
+infantry <> s: infantries
+infantryman <> s: infantrymen
+infantrymen <> b: infantryman, f: s
+infants <> b: infant, f: s
+infarct <> s: infarcts
+infarction <> s: infarctions
+infarctions <> b: infarction, f: s
+infarcts <> b: infarct, f: s
+infatuate <> i: infatuating, p: infatuated, '3': infatuates, d: infatuated
+infatuated <> f: pd, b: infatuate
+infatuation <> s: infatuations
+infatuations <> b: infatuation, f: s
+infect <> d: infected, p: infected, '3': infects, i: infecting, s: infects
+infected <> b: infect, f: dp, d: infected, p: infected
+infecting <> b: infect, f: i
+infection <> s: infections
+infections <> b: infection, f: s
+infective <> s: infectives
+infectives <> b: infective, f: s
+infects <> b: infect, f: 3s
+infelicities <> b: infelicity, f: s
+infelicity <> s: infelicities
+infer <> d: inferred, i: inferring, '3': infers, p: inferred
+inference <> s: inferences, i: inferencing
+inferences <> b: inference, f: s
+inferencing <> b: inference, f: i, i: inferencing
+inferior <> s: inferiors
+inferiorities <> b: inferiority, f: s
+inferiority <> s: inferiorities
+inferiors <> b: inferior, f: s
+inferno <> s: infernos
+infernos <> b: inferno, f: s
+inferred <> b: infer, f: dp
+inferring <> b: infer, f: i
+infers <> b: infer, f: '3'
+infest <> d: infested, p: infested, i: infesting, '3': infests
+infestation <> s: infestations
+infestations <> b: infestation, f: s
+infested <> b: infest, f: dp, p: infested, d: infested
+infesting <> b: infest, f: i
+infests <> b: infest, f: '3'
+infidel <> s: infidels
+infidelities <> b: infidelity, f: s
+infidelity <> s: infidelities
+infidels <> b: infidel, f: s
+infield <> s: infields
+infields <> b: infield, f: s
+infill <> s: infills
+infilling <> i: infilling, b: infilling, f: i
+infills <> b: infill, f: s
+infiltrate <> d: infiltrated, i: infiltrating, p: infiltrated, '3': infiltrates
+infiltrated <> b: infiltrate, f: dp
+infiltrates <> b: infiltrate, f: '3'
+infiltrating <> b: infiltrate, f: i
+infiltration <> s: infiltrations
+infiltrations <> b: infiltration, f: s
+infiltrator <> s: infiltrators
+infiltrators <> b: infiltrator, f: s
+infinities <> b: infinity, f: s
+infinitive <> s: infinitives
+infinitives <> b: infinitive, f: s
+infinitude <> s: infinitudes
+infinitudes <> b: infinitude, f: s
+infinity <> s: infinities
+infirmaries <> b: infirmary, f: s
+infirmary <> s: infirmaries
+infirmities <> b: infirmity, f: s
+infirmity <> s: infirmities
+infix <> i: infixing, p: infixed, '3': infixes, d: infixed
+infixed <> f: pd, b: infix
+infixes <> f: '3', b: infix
+infixing <> f: i, b: infix
+inflame <> d: inflamed, p: inflamed, i: inflaming, '3': inflames, s: inflames
+inflamed <> d: inflamed, b: inflamed, f: dp, p: inflamed
+inflames <> b: inflame, f: 3s
+inflaming <> b: inflame, f: i
+inflammation <> s: inflammations
+inflammations <> b: inflammation, f: s
+inflatable <> s: inflatables
+inflatables <> b: inflatable, f: s
+inflate <> d: inflated, i: inflating, p: inflated, '3': inflates
+inflated <> b: inflate, f: dp, d: inflated, p: inflated
+inflates <> b: inflate, f: '3'
+inflating <> b: inflate, f: i
+inflation <> s: inflations
+inflations <> b: inflation, f: s
+inflect <> d: inflected, p: inflected, '3': inflects, s: inflects, i: inflecting
+inflected <> b: inflect, f: dp, p: inflected, d: inflected
+inflecting <> f: i, b: inflect
+inflection <> s: inflections
+inflections <> b: inflection, f: s
+inflects <> b: inflect, f: 3s
+inflexibilities <> b: inflexibility, f: s
+inflexibility <> s: inflexibilities
+inflexion <> s: inflexions
+inflexions <> b: inflexion, f: s
+inflict <> d: inflicted, i: inflicting, p: inflicted, '3': inflicts
+inflicted <> b: inflict, f: dp
+inflicting <> b: inflict, f: i
+infliction <> s: inflictions
+inflictions <> b: infliction, f: s
+inflicts <> b: inflict, f: '3'
+inflorescence <> s: inflorescences
+inflorescences <> b: inflorescence, f: s
+inflow <> s: inflows, i: inflowing
+inflowing <> b: inflow, f: i
+inflows <> b: inflow, f: s
+influence <> d: influenced, s: influences, i: influencing, '3': influences, p: influenced
+influenced <> b: influence, f: dp
+influencer <> s: influencers
+influencers <> b: influencer, f: s
+influences <> b: influence, f: s3
+influencing <> b: influence, f: i, i: influencing
+influx <> s: influxes
+influxes <> b: influx, f: s
+infold <> i: infolding
+infolded <> d: infolded, b: infolded, f: d
+infolding <> s: infoldings, b: infold, f: i
+infoldings <> b: infolding, f: s
+inform <> d: informed, p: informed, i: informing, '3': informs
+informal <> s: informals
+informals <> b: informal, f: s
+informant <> s: informants
+informants <> b: informant, f: s
+informatics <> b: informatic, f: s
+informed <> b: inform, f: dp, d: informed, p: informed
+informer <> s: informers
+informers <> b: informer, f: s
+informing <> b: inform, f: i, i: informing
+informs <> b: inform, f: '3'
+infraction <> s: infractions
+infractions <> b: infraction, f: s
+infractor <> s: infractors
+infractors <> b: infractor, f: s
+infrastructure <> s: infrastructures
+infrastructures <> b: infrastructure, f: s
+infringe <> d: infringed, i: infringing, p: infringed, '3': infringes, s: infringes, r: infringer
+infringed <> b: infringe, f: dp
+infringement <> s: infringements
+infringements <> b: infringement, f: s
+infringer <> b: infringe, f: r
+infringes <> b: infringe, f: 3s
+infringing <> b: infringe, f: i, i: infringing
+infuriate <> d: infuriated, p: infuriated, '3': infuriates, i: infuriating
+infuriated <> b: infuriate, f: dp, d: infuriated, p: infuriated
+infuriates <> b: infuriate, f: '3'
+infuriating <> b: infuriate, f: i, i: infuriating
+infuse <> d: infused, p: infused, i: infusing, '3': infuses
+infused <> b: infuse, f: dp
+infuses <> b: infuse, f: '3'
+infusing <> b: infuse, f: i
+infusion <> s: infusions
+infusions <> b: infusion, f: s
+ing <> t: ingest, i: ing, b: ing, f: i, s: ings
+ingather <> d: ingathered, p: ingathered
+ingathered <> b: ingather, f: dp
+ingeminate <> i: ingeminating, p: ingeminated, '3': ingeminates, d: ingeminated
+ingeminated <> f: pd, b: ingeminate
+ingeminates <> f: '3', b: ingeminate
+ingeminating <> f: i, b: ingeminate
+ingenue <> s: ingenues
+ingenues <> b: ingenue, f: s
+ingenuities <> b: ingenuity, f: s
+ingenuity <> s: ingenuities
+ingest <> b: ing, f: t, d: ingested, i: ingesting, p: ingested, '3': ingests, s: ingests
+ingested <> b: ingest, f: dp, d: ingested, p: ingested
+ingestion <> s: ingestions
+ingestions <> b: ingestion, f: s
+Ingham <> s: inghams
+ingle <> '3': ingles, s: ingles
+ingles <> b: ingle, f: 3s
+ingot <> s: ingots
+ingots <> b: ingot, f: s
+ingraft <> i: ingrafting, p: ingrafted, '3': ingrafts, d: ingrafted
+ingrafted <> f: pd, b: ingraft
+ingrafting <> f: i, b: ingraft
+ingrafts <> f: '3', b: ingraft
+ingrain <> d: ingrained, i: ingraining, p: ingrained, '3': ingrains
+ingrained <> d: ingrained, b: ingrained, f: d
+ingraining <> f: i, b: ingrain
+ingrains <> f: '3', b: ingrain
+ingrate <> s: ingrates
+ingrates <> b: ingrate, f: s
+ingratiate <> '3': ingratiates, d: ingratiated, p: ingratiated, i: ingratiating
+ingratiated <> b: ingratiate, f: dp
+ingratiates <> b: ingratiate, f: '3'
+ingratiating <> i: ingratiating, b: ingratiating, f: i
+ingratiation <> s: ingratiations
+ingratiations <> b: ingratiation, f: s
+ingratitude <> s: ingratitudes
+ingratitudes <> b: ingratitude, f: s
+ingredient <> s: ingredients
+ingredients <> b: ingredient, f: s
+ingression <> s: ingressions
+ingressions <> b: ingression, f: s
+ingrow <> i: ingrowing, d: ingrown
+ingrowing <> b: ingrow, f: i, i: ingrowing
+ingrown <> b: ingrow, f: d, d: ingrown
+ingrowth <> s: ingrowths
+ingrowths <> b: ingrowth, f: s
+ings <> b: ing, f: s
+ingurgitate <> i: ingurgitating, p: ingurgitated, '3': ingurgitates, d: ingurgitated
+ingurgitated <> f: pd, b: ingurgitate
+ingurgitates <> f: '3', b: ingurgitate
+ingurgitating <> f: i, b: ingurgitate
+inhabit <> d: inhabited, p: inhabited, '3': inhabits, i: inhabiting
+inhabitant <> s: inhabitants
+inhabitants <> b: inhabitant, f: s
+inhabited <> b: inhabit, f: dp, d: inhabited, p: inhabited
+inhabiting <> b: inhabit, f: i
+inhabits <> b: inhabit, f: '3'
+inhalant <> s: inhalants
+inhalants <> b: inhalant, f: s
+inhalation <> s: inhalations
+inhalations <> b: inhalation, f: s
+inhale <> p: inhaled, i: inhaling, d: inhaled, '3': inhales
+inhaled <> b: inhale, f: pd, p: inhaled
+inhaler <> s: inhalers
+inhalers <> b: inhaler, f: s
+inhales <> b: inhale, f: '3'
+inhaling <> b: inhale, f: i, s: inhalings, i: inhaling
+inhere <> s: inheres, i: inhering, p: inhered, '3': inheres, d: inhered
+inhered <> b: inher, f: p
+inheres <> f: s3, b: inhere
+inhering <> b: inher, f: i
+inherit <> d: inherited, p: inherited, i: inheriting, '3': inherits
+inheritance <> s: inheritances
+inheritances <> b: inheritance, f: s
+inherited <> b: inherit, f: dp, d: inherited, p: inherited
+inheriting <> b: inherit, f: i
+inheritor <> s: inheritors
+inheritors <> b: inheritor, f: s
+inherits <> b: inherit, f: '3'
+inhibit <> d: inhibited, '3': inhibits, i: inhibiting, p: inhibited, s: inhibits
+inhibited <> b: inhibit, f: dp, d: inhibited, p: inhibited
+inhibiting <> b: inhibit, f: i, i: inhibiting
+inhibition <> s: inhibitions
+inhibitions <> b: inhibition, f: s
+inhibitor <> s: inhibitors
+inhibitors <> b: inhibitor, f: s
+inhibits <> b: inhibit, f: 3s
+inhomogeneities <> b: inhomogeneity, f: s
+inhomogeneity <> s: inhomogeneities
+inhumation <> s: inhumations
+inhumations <> b: inhumation, f: s
+inhume <> i: inhuming, p: inhumed, '3': inhumes, d: inhumed
+inhumed <> f: pd, b: inhume
+inhumes <> f: '3', b: inhume
+inhuming <> f: i, b: inhume
+iniquities <> b: iniquity, f: s
+iniquity <> s: iniquities
+initial <> s: initials, p: initialled, d: initialled, i: initialling, '3': initials
+initialize <> d: initialized, i: initializing, p: initialized, '3': initializes
+initialized <> f: dp, b: initialize
+initializes <> f: '3', b: initialize
+initializing <> b: initialize, f: i
+initialled <> b: initial, f: pd
+initialling <> i: initialling, b: initialling, f: i
+initials <> f: s3, b: initial
+initiand <> s: initiands
+initiands <> b: initiand, f: s
+initiate <> d: initiated, i: initiating, p: initiated, '3': initiates, s: initiates
+initiated <> b: initiate, f: dp, p: initiated, d: initiated
+initiates <> b: initiate, f: 3s
+initiating <> b: initiate, f: i, i: initiating
+initiation <> s: initiations
+initiations <> b: initiation, f: s
+initiative <> s: initiatives
+initiatives <> b: initiative, f: s
+initiator <> s: initiators
+initiators <> b: initiator, f: s
+inject <> d: injected, i: injecting, p: injected, '3': injects
+injectable <> s: injectables
+injectables <> b: injectable, f: s
+injected <> b: inject, f: dp, p: injected, d: injected
+injecting <> b: inject, f: i, i: injecting
+injection <> s: injections
+injections <> b: injection, f: s
+injector <> s: injectors
+injectors <> b: injector, f: s
+injects <> b: inject, f: '3'
+Injun <> s: injuns
+injunct <> d: injuncted
+injuncted <> b: injunct, f: d
+injunction <> s: injunctions
+injunctions <> b: injunction, f: s
+injure <> d: injured, p: injured, i: injuring, '3': injures
+injured <> b: injure, f: dp, p: injured, d: injured
+injures <> b: injure, f: '3'
+injuries <> b: injury, f: s
+injuring <> b: injure, f: i
+injury <> s: injuries
+injustice <> s: injustices
+injustices <> b: injustice, f: s
+ink <> s: inks, d: inked, i: inking, p: inked, '3': inks
+inked <> b: ink, f: dp, p: inked
+inkies <> b: inky, f: s
+inking <> b: ink, f: i
+inkling <> s: inklings
+inklings <> b: inkling, f: s
+inkpot <> s: inkpots
+inkpots <> b: inkpot, f: s
+inks <> f: s3, b: ink
+inkwell <> s: inkwells
+inkwells <> b: inkwell, f: s
+inky <> s: inkies
+inlaid <> f: pd, b: inlay
+inlay <> s: inlays, '3': inlays, i: inlaying, p: inlaid, d: inlaid
+inlet <> s: inlets
+inlets <> b: inlet, f: s
+inlier <> s: inliers
+inliers <> b: inlier, f: s
+inmate <> s: inmates
+inmates <> b: inmate, f: s
+inmos <> b: inmo, f: s
+inn <> s: inns
+innards <> s: innards, b: innards, f: s
+innervate <> '3': innervates, d: innervated, p: innervated, i: innervating
+innervated <> b: innervate, f: dp, p: innervated
+innervates <> b: innervate, f: '3'
+innervating <> b: innervate, f: i
+innervation <> s: innervations
+innervations <> b: innervation, f: s
+innkeeper <> s: innkeepers
+innkeepers <> b: innkeeper, f: s
+innocent <> s: innocents
+innocents <> b: innocent, f: s
+innovate <> d: innovated, '3': innovates, i: innovating, p: innovated
+innovated <> b: innovate, f: dp
+innovates <> b: innovate, f: '3'
+innovating <> b: innovate, f: i, i: innovating
+innovation <> s: innovations
+innovations <> b: innovation, f: s
+innovator <> s: innovators
+innovators <> b: innovator, f: s
+inns <> b: inn, f: s
+innuendo <> s: innuendos
+innuendos <> b: innuendo, f: s
+inoculate <> d: inoculated, p: inoculated, i: inoculating, '3': inoculates
+inoculated <> b: inoculate, f: dp
+inoculates <> b: inoculate, f: '3'
+inoculating <> b: inoculate, f: i
+inoculation <> s: inoculations
+inoculations <> b: inoculation, f: s
+inoculator <> s: inoculators
+inoculators <> b: inoculator, f: s
+inorganic <> s: inorganics
+inorganics <> b: inorganic, f: s
+inosculate <> i: inosculating, p: inosculated, '3': inosculates, d: inosculated
+inosculated <> f: pd, b: inosculate
+inosculates <> f: '3', b: inosculate
+inosculating <> f: i, b: inosculate
+inpatient <> s: inpatients
+inpatients <> b: inpatient, f: s
+input <> s: inputs, d: input, b: input, f: d, i: inputting, p: input, '3': inputs
+input-output <> s: input-outputs
+input-outputs <> b: input-output, f: s
+inputs <> b: input, f: s
+inputting <> b: input, f: i, i: inputting
+inquest <> s: inquests
+inquests <> b: inquest, f: s
+inquiline <> s: inquilines
+inquilines <> b: inquiline, f: s
+inquire <> p: inquired, i: inquiring, d: inquired, '3': inquires
+inquired <> b: inquire, f: pd
+inquirer <> s: inquirers
+inquirers <> b: inquirer, f: s
+inquires <> b: inquire, f: '3'
+inquiries <> b: inquiry, f: s
+inquiring <> b: inquire, f: i, i: inquiring
+inquiry <> s: inquiries
+inquisition <> s: inquisitions
+inquisitions <> b: inquisition, f: s
+inquisitor <> s: inquisitors
+inquisitors <> b: inquisitor, f: s
+inroad <> s: inroads
+inroads <> b: inroad, f: s
+inrush <> s: inrushes
+inrushes <> b: inrush, f: s
+insanities <> b: insanity, f: s
+insanity <> s: insanities
+inscribe <> d: inscribed, p: inscribed, i: inscribing, '3': inscribes
+inscribed <> b: inscribe, f: dp, d: inscribed, p: inscribed
+inscribes <> b: inscribe, f: '3'
+inscribing <> b: inscribe, f: i
+inscription <> s: inscriptions
+inscriptions <> b: inscription, f: s
+insect <> s: insects
+insecticide <> s: insecticides, '3': insecticides
+insecticides <> b: insecticide, f: s3
+insectivore <> s: insectivores
+insectivores <> b: insectivore, f: s
+insects <> b: insect, f: s
+insecurities <> b: insecurity, f: s
+insecurity <> s: insecurities
+inseminate <> d: inseminated, p: inseminated, i: inseminating, '3': inseminates
+inseminated <> b: inseminate, f: dp
+inseminates <> f: '3', b: inseminate
+inseminating <> f: i, b: inseminate
+insemination <> s: inseminations
+inseminations <> b: insemination, f: s
+inseminator <> s: inseminators
+inseminators <> b: inseminator, f: s
+insensitivities <> b: insensitivity, f: s
+insensitivity <> s: insensitivities
+inseparable <> s: inseparables
+inseparables <> b: inseparable, f: s
+insert <> d: inserted, i: inserting, p: inserted, s: inserts, '3': inserts
+inserted <> b: insert, f: dp, p: inserted, d: inserted
+inserting <> b: insert, f: i
+insertion <> s: insertions
+insertions <> b: insertion, f: s
+inserts <> b: insert, f: s3
+inset <> d: inset, p: inset, i: insetting, '3': insets, f: dp, b: inset, s: insets
+insets <> f: s3, b: inset
+insetting <> b: inset, f: i, i: insetting
+inside <> s: insides
+insider <> s: insiders
+insiders <> b: insider, f: s
+insides <> b: inside, f: s
+insight <> s: insights
+insights <> b: insight, f: s
+insinuate <> i: insinuating, p: insinuated, d: insinuated, '3': insinuates
+insinuated <> b: insinuate, f: pd
+insinuates <> b: insinuate, f: '3'
+insinuating <> b: insinuate, f: i, i: insinuating
+insinuation <> s: insinuations
+insinuations <> b: insinuation, f: s
+insist <> p: insisted, '3': insists, i: insisting, d: insisted
+insisted <> b: insist, f: pd
+insistence <> s: insistences
+insistences <> b: insistence, f: s
+insisting <> b: insist, f: i
+insists <> b: insist, f: '3'
+insole <> s: insoles
+insoles <> b: insole, f: s
+insoluble <> s: insolubles
+insolubles <> b: insoluble, f: s
+insolvencies <> b: insolvency, f: s
+insolvency <> s: insolvencies
+insolvent <> s: insolvents
+insolvents <> b: insolvent, f: s
+insomniac <> s: insomniacs
+insomniacs <> b: insomniac, f: s
+Insp <> s: insps
+inspan <> i: inspanning, p: inspanned, '3': inspans, d: inspanned
+inspanned <> f: pd, b: inspan
+inspanning <> f: i, b: inspan
+inspans <> f: '3', b: inspan
+inspect <> d: inspected, i: inspecting, p: inspected, '3': inspects
+inspected <> b: inspect, f: dp
+inspecting <> b: inspect, f: i, i: inspecting
+inspection <> s: inspections
+inspections <> b: inspection, f: s
+inspector <> s: inspectors
+inspectorate <> s: inspectorates
+inspectorates <> b: inspectorate, f: s
+inspectors <> b: inspector, f: s
+inspects <> b: inspect, f: '3'
+inspiration <> s: inspirations
+inspirations <> b: inspiration, f: s
+inspire <> d: inspired, p: inspired, '3': inspires, i: inspiring
+inspired <> b: inspire, f: dp, d: inspired, p: inspired
+inspirer <> s: inspirers
+inspirers <> b: inspirer, f: s
+inspires <> b: inspire, f: '3'
+inspiring <> b: inspire, f: i, i: inspiring
+inspirit <> d: inspirited, i: inspiriting, p: inspirited, '3': inspirits
+inspirited <> f: dp, b: inspirit
+inspiriting <> b: inspirit, f: i
+inspirits <> f: '3', b: inspirit
+inspissate <> i: inspissating, p: inspissated, '3': inspissates, d: inspissated
+inspissated <> f: pd, b: inspissate
+inspissates <> f: '3', b: inspissate
+inspissating <> b: inspissate, f: i
+inst <> p: insted
+instabilities <> b: instability, f: s
+instability <> s: instabilities
+install <> d: installed, i: installing, p: installed, '3': installs
+installation <> s: installations
+installations <> b: installation, f: s
+installed <> b: install, f: dp, p: installed, d: installed
+installer <> s: installers
+installers <> b: installer, f: s
+installing <> b: install, f: i
+installment <> s: installments
+installments <> b: installment, f: s
+installs <> b: install, f: '3'
+instalment <> s: instalments
+instalments <> b: instalment, f: s
+instance <> s: instances, d: instanced, i: instancing, p: instanced, '3': instances
+instanced <> f: dp, b: instance
+instances <> f: s3, b: instance
+instancing <> f: i, b: instance
+instant <> s: instants
+instantiate <> d: instantiated, i: instantiating, p: instantiated, '3': instantiates
+instantiated <> b: instantiate, f: dp
+instantiates <> b: instantiate, f: '3'
+instantiating <> b: instantiate, f: i
+instantiation <> s: instantiations
+instantiations <> b: instantiation, f: s
+instants <> b: instant, f: s
+instar <> s: instars
+instars <> b: instar, f: s
+instate <> p: instated, d: instated, i: instating
+instated <> b: instate, f: pd
+instating <> b: instate, f: i
+insted <> b: inst, f: p
+instep <> s: insteps
+insteps <> b: instep, f: s
+instigate <> d: instigated, p: instigated, i: instigating, s: instigates, '3': instigates
+instigated <> b: instigate, f: dp, p: instigated
+instigates <> b: instigate, f: s3
+instigating <> b: instigate, f: i
+instigation <> s: instigations
+instigations <> b: instigation, f: s
+instigator <> s: instigators
+instigators <> b: instigator, f: s
+instil <> p: instilled, d: instilled, i: instilling, '3': instils, s: instils
+instill <> '3': instills, i: instilling, p: instilled, d: instilled
+instillation <> s: instillations
+instillations <> b: instillation, f: s
+instilled <> b: instil, f: pd, p: instilled
+instilling <> b: instil, f: i
+instills <> b: instill, f: '3'
+instils <> b: instil, f: 3s
+instinct <> s: instincts
+instincts <> b: instinct, f: s
+institute <> s: institutes, d: instituted, p: instituted, i: instituting, '3': institutes
+instituted <> b: institute, f: dp
+institutes <> f: s3, b: institute
+instituting <> b: institute, f: i, i: instituting
+institution <> s: institutions
+institutional <> s: institutionals
+institutionalise <> d: institutionalised, i: institutionalising, '3': institutionalises
+institutionalised <> d: institutionalised, b: institutionalised, f: d
+institutionalises <> b: institutionalise, f: '3'
+institutionalising <> b: institutionalise, f: i
+institutionalize <> d: institutionalized, p: institutionalized, i: institutionalizing, '3': institutionalizes
+institutionalized <> b: institutionalize, f: dp, p: institutionalized, d: institutionalized
+institutionalizes <> b: institutionalize, f: '3'
+institutionalizing <> b: institutionalize, f: i
+institutionals <> b: institutional, f: s
+institutions <> b: institution, f: s
+instruct <> d: instructed, p: instructed, i: instructing, '3': instructs
+instructed <> b: instruct, f: dp
+instructing <> b: instruct, f: i, i: instructing
+instruction <> s: instructions
+instructions <> b: instruction, f: s
+instructor <> s: instructors
+instructors <> b: instructor, f: s
+instructs <> b: instruct, f: '3'
+instrument <> s: instruments
+instrumental <> s: instrumentals
+instrumentalist <> s: instrumentalists
+instrumentalists <> b: instrumentalist, f: s
+instrumentalities <> b: instrumentality, f: s
+instrumentality <> s: instrumentalities
+instrumentals <> b: instrumental, f: s
+instrumentation <> s: instrumentations
+instrumentations <> b: instrumentation, f: s
+instruments <> b: instrument, f: s
+insubordinate <> s: insubordinates
+insubordinates <> b: insubordinate, f: s
+insufficiencies <> b: insufficiency, f: s
+insufficiency <> s: insufficiencies
+insufflate <> i: insufflating, p: insufflated, '3': insufflates, d: insufflated
+insufflated <> f: pd, b: insufflate
+insufflates <> f: '3', b: insufflate
+insufflating <> f: i, b: insufflate
+insufflation <> s: insufflations
+insufflations <> b: insufflation, f: s
+insulate <> d: insulated, p: insulated, i: insulating, '3': insulates, s: insulates
+insulated <> b: insulate, f: dp, d: insulated, p: insulated
+insulates <> b: insulate, f: 3s
+insulating <> b: insulate, f: i, i: insulating
+insulation <> s: insulations
+insulations <> b: insulation, f: s
+insulator <> s: insulators
+insulators <> b: insulator, f: s
+insulin <> s: insulins
+insulins <> b: insulin, f: s
+insult <> s: insults, d: insulted, i: insulting, p: insulted, '3': insults
+insulted <> b: insult, f: dp, d: insulted
+insulting <> b: insult, f: i, i: insulting
+insults <> b: insult, f: s3
+insurance <> s: insurances
+insurances <> b: insurance, f: s
+insure <> d: insured, p: insured, i: insuring, '3': insures, s: insures
+insured <> b: insure, f: dp, d: insured, p: insured, '3': insureds
+insurer <> s: insurers
+insurers <> b: insurer, f: s
+insures <> b: insure, f: 3s
+insurgencies <> b: insurgency, f: s
+insurgency <> s: insurgencies
+insurgent <> s: insurgents
+insurgents <> b: insurgent, f: s
+insuring <> b: insure, f: i
+insurrection <> s: insurrections
+insurrectionaries <> b: insurrectionary, f: s
+insurrectionary <> s: insurrectionaries
+insurrectionist <> s: insurrectionists
+insurrectionists <> b: insurrectionist, f: s
+insurrections <> b: insurrection, f: s
+inswing <> i: inswinging
+inswinger <> s: inswingers
+inswingers <> b: inswinger, f: s
+inswinging <> b: inswing, f: i
+intaglio <> s: intaglios
+intaglios <> b: intaglio, f: s
+intake <> s: intakes
+intakes <> b: intake, f: s
+intangible <> s: intangibles, '3': intangibles
+intangibles <> b: intangible, f: s3
+integer <> s: integers
+integers <> b: integer, f: s
+integral <> s: integrals
+integrals <> b: integral, f: s
+integrand <> s: integrands
+integrands <> b: integrand, f: s
+integrate <> d: integrated, i: integrating, '3': integrates, p: integrated
+integrated <> b: integrate, f: dp, d: integrated, p: integrated
+integrates <> b: integrate, f: '3'
+integrating <> b: integrate, f: i, i: integrating
+integration <> s: integrations
+integrationist <> s: integrationists
+integrationists <> b: integrationist, f: s
+integrations <> b: integration, f: s
+integrator <> s: integrators
+integrators <> b: integrator, f: s
+integrin <> s: integrins
+integrins <> b: integrin, f: s
+integument <> s: integuments
+integuments <> b: integument, f: s
+intellect <> s: intellects
+intellects <> b: intellect, f: s
+intellectual <> s: intellectuals
+intellectualize <> d: intellectualized, p: intellectualized
+intellectualized <> b: intellectualize, f: dp
+intellectuals <> b: intellectual, f: s
+intelligence <> s: intelligences
+intelligences <> b: intelligence, f: s
+intelligentsia <> s: intelligentsias
+intelligentsias <> b: intelligentsia, f: s
+intend <> d: intended, p: intended, '3': intends, i: intending
+intendant <> s: intendants
+intendants <> b: intendant, f: s
+intended <> b: intend, f: dp, p: intended, d: intended
+intending <> b: intend, f: i
+intends <> b: intend, f: '3'
+intensification <> s: intensifications
+intensifications <> b: intensification, f: s
+intensified <> b: intensify, f: dp, p: intensified, d: intensified
+intensifier <> s: intensifiers
+intensifiers <> b: intensifier, f: s
+intensify <> d: intensified, p: intensified, i: intensifying, '3': intensifies
+intensifying <> b: intensify, f: i, i: intensifying
+intension <> s: intensions
+intensions <> b: intension, f: s
+intensities <> b: intensity, f: s
+intensity <> s: intensities
+intent <> s: intents
+intention <> s: intentions
+intentions <> b: intention, f: s
+intents <> b: intent, f: s
+inter <> d: interred, i: interring, p: interred, '3': inters
+interact <> '3': interacts, i: interacting, p: interacted, d: interacted
+interactant <> s: interactants
+interactants <> b: interactant, f: s
+interacted <> b: interact, f: pd
+interacting <> b: interact, f: i, i: interacting
+interaction <> s: interactions
+interactionist <> s: interactionists
+interactionists <> b: interactionist, f: s
+interactions <> b: interaction, f: s
+interacts <> b: interact, f: '3'
+interbed <> d: interbedded, s: interbeds
+interbedded <> d: interbedded, b: interbedded, f: d
+interbeds <> b: interbed, f: s
+interbred <> b: interbr, f: pd
+interbreed <> i: interbreeding, '3': interbreeds, p: interbred, d: interbred
+interbreeding <> b: interbreed, f: i, i: interbreeding
+interbreeds <> b: interbreed, f: '3'
+intercalate <> p: intercalated, i: intercalating, d: intercalated, s: intercalates, '3': intercalates
+intercalated <> b: intercalate, f: pd
+intercalates <> f: s3, b: intercalate
+intercalating <> b: intercalate, f: i
+intercede <> p: interceded, i: interceding, '3': intercedes, d: interceded
+interceded <> b: intercede, f: pd
+intercedes <> b: intercede, f: '3'
+interceding <> b: intercede, f: i
+intercept <> d: intercepted, p: intercepted, i: intercepting, '3': intercepts, s: intercepts
+intercepted <> b: intercept, f: dp, p: intercepted, d: intercepted
+intercepting <> b: intercept, f: i
+interception <> s: interceptions
+interceptions <> b: interception, f: s
+interceptor <> s: interceptors
+interceptors <> b: interceptor, f: s
+intercepts <> b: intercept, f: 3s
+intercession <> s: intercessions
+intercessions <> b: intercession, f: s
+intercessor <> s: intercessors
+intercessors <> b: intercessor, f: s
+interchange <> s: interchanges, d: interchanged, p: interchanged, i: interchanging, '3': interchanges
+interchanged <> b: interchange, f: dp
+interchanges <> f: s3, b: interchange
+interchanging <> b: interchang, f: i, i: interchanging
+intercom <> s: intercoms
+intercommunicate <> i: intercommunicating, p: intercommunicated, '3': intercommunicates, d: intercommunicated
+intercommunicated <> f: pd, b: intercommunicate
+intercommunicates <> f: '3', b: intercommunicate
+intercommunicating <> f: i, b: intercommunicate
+intercommunication <> s: intercommunications
+intercommunications <> b: intercommunication, f: s
+intercoms <> b: intercom, f: s
+interconnect <> d: interconnected, p: interconnected, s: interconnects, i: interconnecting, '3': interconnects
+interconnected <> b: interconnect, f: dp, p: interconnected, d: interconnected
+interconnection <> s: interconnections
+interconnections <> b: interconnection, f: s
+interconnects <> b: interconnect, f: s
+interconversion <> s: interconversions
+interconversions <> b: interconversion, f: s
+interconvert <> d: interconverted, i: interconverting
+interconverted <> b: interconvert, f: d
+interconverting <> b: interconvert, f: i
+intercorrelation <> s: intercorrelations
+intercorrelations <> b: intercorrelation, f: s
+intercrop <> i: intercropping, d: intercropped
+intercropped <> b: intercrop, f: d
+intercropping <> i: intercropping, b: intercropping, f: i
+intercut <> '3': intercuts, i: intercutting
+intercuts <> b: intercut, f: '3'
+intercutting <> b: intercut, f: i
+interdependence <> s: interdependences
+interdependences <> b: interdependence, f: s
+interdependencies <> b: interdependency, f: s
+interdependency <> s: interdependencies
+interdict <> s: interdicts, d: interdicted, i: interdicting, p: interdicted, '3': interdicts
+interdicted <> b: interdict, f: dp
+interdicting <> b: interdict, f: i
+interdiction <> s: interdictions
+interdictions <> b: interdiction, f: s
+interdicts <> f: s3, b: interdict
+interdigitate <> i: interdigitating, s: interdigitates
+interdigitates <> b: interdigitate, f: s
+interdigitating <> b: interdigitate, f: i
+interest <> s: interests, '3': interests, p: interested, d: interested, i: interesting
+interested <> b: interest, f: pd, p: interested, d: interested
+interesting <> i: interesting, b: interesting, f: i
+interests <> b: interest, f: s3
+interface <> s: interfaces, d: interfaced, p: interfaced, '3': interfaces
+interfaced <> b: interface, f: dp
+interfaces <> b: interface, f: s3
+interfacing <> i: interfacing, b: interfacing, f: i
+interfere <> i: interfering, d: interfered, '3': interferes, p: interfered
+interfered <> b: interfere, f: dp
+interference <> s: interferences
+interferences <> b: interference, f: s
+interferer <> s: interferers
+interferers <> b: interferer, f: s
+interferes <> b: interfere, f: '3'
+interfering <> b: interfere, f: i, i: interfering
+interferometer <> s: interferometers, b: interferomete, f: r
+interferometers <> b: interferometer, f: s
+interferon <> s: interferons
+interferons <> b: interferon, f: s
+interfile <> d: interfiled
+interfiled <> b: interfile, f: d
+interfluve <> s: interfluves
+interfluves <> b: interfluve, f: s
+interfuse <> p: interfused, d: interfused
+interfused <> b: interfuse, f: pd
+interglacial <> s: interglacials
+interglacials <> b: interglacial, f: s
+intergroup <> s: intergroups
+intergroups <> b: intergroup, f: s
+intergrowth <> s: intergrowths
+intergrowths <> b: intergrowth, f: s
+interim <> s: interims
+interims <> b: interim, f: s
+interior <> s: interiors
+interiorize <> d: interiorized, i: interiorizing, p: interiorized, '3': interiorizes
+interiorized <> b: interiorize, f: dp
+interiorizes <> f: '3', b: interiorize
+interiorizing <> b: interiorize, f: i
+interiors <> b: interior, f: s
+interject <> p: interjected, '3': interjects, i: interjecting, d: interjected
+interjected <> b: interject, f: pd
+interjecting <> b: interject, f: i
+interjection <> s: interjections
+interjections <> b: interjection, f: s
+interjects <> b: interject, f: '3'
+interlace <> d: interlaced, i: interlacing, p: interlaced, '3': interlaces
+interlaced <> d: interlaced, b: interlaced, f: d
+interlacement <> s: interlacements
+interlacements <> b: interlacement, f: s
+interlaces <> f: '3', b: interlace
+interlacing <> b: interlace, f: i, s: interlacings
+interlard <> d: interlarded, i: interlarding, p: interlarded, s: interlards, '3': interlards
+interlarded <> b: interlard, f: dp
+interlarding <> b: interlard, f: i
+interlards <> f: s3, b: interlard
+interlayer <> s: interlayers
+interlayers <> b: interlayer, f: s
+interleave <> p: interleaved, d: interleaved, i: interleaving, '3': interleaves
+interleaved <> b: interleave, f: pd, p: interleaved
+interleaves <> f: '3', b: interleave
+interleaving <> b: interleave, f: i
+interleukin <> s: interleukins
+interleukins <> b: interleukin, f: s
+interline <> d: interlined, s: interlines
+interlined <> b: interline, f: d, d: interlined
+interlines <> b: interline, f: s
+interlink <> d: interlinked, i: interlinking, '3': interlinks, p: interlinked
+interlinkage <> s: interlinkages
+interlinkages <> b: interlinkage, f: s
+interlinked <> f: dp, b: interlink, d: interlinked
+interlinking <> b: interlink, f: i, i: interlinking
+interlinks <> b: interlink, f: '3'
+interlock <> d: interlocked, s: interlocks, i: interlocking, p: interlocked, '3': interlocks
+interlocked <> b: interlock, f: dp, d: interlocked
+interlocking <> i: interlocking, b: interlocking, f: i, s: interlockings
+interlocks <> f: s3, b: interlock
+interlocutor <> s: interlocutors
+interlocutors <> b: interlocutor, f: s
+interlope <> i: interloping, p: interloped, '3': interlopes, d: interloped
+interloped <> f: pd, b: interlope
+interloper <> s: interlopers
+interlopers <> b: interloper, f: s
+interlopes <> f: '3', b: interlope
+interloping <> b: interlope, f: i
+interlude <> s: interludes
+interludes <> b: interlude, f: s
+intermarriage <> s: intermarriages
+intermarriages <> b: intermarriage, f: s
+intermarried <> b: intermarry, f: pd
+intermarries <> f: '3', b: intermarry
+intermarry <> p: intermarried, d: intermarried, i: intermarrying, '3': intermarries
+intermarrying <> b: intermarry, f: i
+intermediaries <> b: intermediary, f: s
+intermediary <> s: intermediaries
+intermediate <> s: intermediates, p: intermediated
+intermediated <> b: intermediate, f: p
+intermediates <> b: intermediate, f: s
+interment <> s: interments
+interments <> b: interment, f: s
+intermesh <> p: intermeshed, d: intermeshed, i: intermeshing, s: intermeshes, '3': intermeshes
+intermeshed <> b: intermesh, f: pd
+intermeshes <> b: intermesh, f: s
+intermeshing <> b: intermesh, f: i
+intermezzo <> s: intermezzos
+intermezzos <> b: intermezzo, f: s
+intermingle <> p: intermingled, d: intermingled, i: intermingling, '3': intermingles
+intermingled <> b: intermingle, f: pd, d: intermingled, p: intermingled
+intermingles <> f: '3', b: intermingle
+intermingling <> b: intermingle, f: i, i: intermingling
+intermission <> s: intermissions
+intermissions <> b: intermission, f: s
+intermit <> i: intermitting, p: intermitted, '3': intermits, d: intermitted
+intermits <> f: '3', b: intermit
+intermitted <> f: pd, b: intermit
+intermitting <> f: i, b: intermit
+intermix <> p: intermixed, d: intermixed, i: intermixing, '3': intermixes
+intermixed <> b: intermix, f: pd, d: intermixed
+intermixes <> f: '3', b: intermix
+intermixing <> b: intermix, f: i
+intern <> d: interned, i: interning, p: interned, s: interns, '3': interns
+internal <> s: internals
+internalise <> d: internalised, i: internalising, '3': internalises, p: internalised
+internalised <> b: internalise, f: dp, d: internalised
+internalises <> b: internalise, f: '3'
+internalising <> b: internalise, f: i
+internalities <> b: internality, f: s
+internality <> s: internalities
+internalization <> s: internalizations
+internalizations <> b: internalization, f: s
+internalize <> d: internalized, i: internalizing, p: internalized, '3': internalizes
+internalized <> b: internalize, f: dp, d: internalized, p: internalized
+internalizes <> b: internalize, f: '3'
+internalizing <> b: internalize, f: i
+internals <> b: internal, f: s
+international <> s: internationals
+Internationale <> s: internationales
+internationalise <> i: internationalising, p: internationalised, d: internationalised
+internationalised <> b: internationalise, f: pd, d: internationalised
+internationalising <> b: internationalise, f: i
+internationalist <> s: internationalists
+internationalists <> b: internationalist, f: s
+internationalize <> d: internationalized, i: internationalizing, p: internationalized, '3': internationalizes
+internationalized <> b: internationalize, f: dp, d: internationalized
+internationalizes <> f: '3', b: internationalize
+internationalizing <> b: internationalize, f: i
+INTERNATIONALS <> b: international, f: s
+interned <> b: intern, f: dp, d: interned
+internee <> s: internees
+internees <> b: internee, f: s
+interneuron <> s: interneurons
+interneurons <> b: interneuron, f: s
+interning <> b: intern, f: i
+internment <> s: internments
+internments <> b: internment, f: s
+internode <> s: internodes
+internodes <> b: internode, f: s
+interns <> f: s3, b: intern
+internship <> s: internships
+internships <> b: internship, f: s
+interoperate <> s: interoperates, i: interoperating
+interoperates <> b: interoperate, f: s
+interoperating <> b: interoperate, f: i
+interpellate <> '3': interpellates, d: interpellated, p: interpellated, i: interpellating
+interpellated <> b: interpellate, f: dp, p: interpellated
+interpellates <> b: interpellate, f: '3'
+interpellating <> f: i, b: interpellate
+interpellation <> s: interpellations
+interpellations <> b: interpellation, f: s
+interpenetrate <> i: interpenetrating, '3': interpenetrates, d: interpenetrated, p: interpenetrated, s: interpenetrates
+interpenetrated <> b: interpenetrate, f: dp
+interpenetrates <> b: interpenetrate, f: 3s
+interpenetrating <> b: interpenetrate, f: i
+interpenetration <> s: interpenetrations
+interpenetrations <> b: interpenetration, f: s
+interplant <> d: interplanted, p: interplanted
+interplanted <> b: interplant, f: dp
+interplay <> s: interplays
+interplays <> b: interplay, f: s
+interpolate <> d: interpolated, i: interpolating, p: interpolated, '3': interpolates
+interpolated <> b: interpolate, f: dp, p: interpolated
+interpolates <> b: interpolate, f: '3'
+interpolating <> b: interpolate, f: i
+interpolation <> s: interpolations
+interpolations <> b: interpolation, f: s
+interpose <> p: interposed, i: interposing, d: interposed, '3': interposes
+interposed <> b: interpose, f: pd
+interposes <> b: interpose, f: '3'
+interposing <> b: interpose, f: i
+interpret <> d: interpreted, i: interpreting, p: interpreted, '3': interprets
+interpretation <> s: interpretations
+interpretations <> b: interpretation, f: s
+interpreted <> b: interpret, f: dp, d: interpreted, p: interpreted
+interpreter <> s: interpreters
+interpreters <> b: interpreter, f: s
+interpreting <> b: interpret, f: i, i: interpreting
+interprets <> b: interpret, f: '3'
+interred <> b: inter, f: dp
+interregnum <> s: interregnums
+interregnums <> b: interregnum, f: s
+interrelate <> d: interrelated, i: interrelating, '3': interrelates, p: interrelated
+interrelated <> d: interrelated, b: interrelated, f: dp, p: interrelated
+interrelates <> b: interrelate, f: '3'
+interrelating <> b: interrelate, f: i
+interrelation <> s: interrelations
+interrelations <> b: interrelation, f: s
+interrelationship <> s: interrelationships
+interrelationships <> b: interrelationship, f: s
+interring <> b: inter, f: i
+interrogate <> d: interrogated, i: interrogating, p: interrogated, '3': interrogates
+interrogated <> b: interrogate, f: dp
+interrogates <> b: interrogate, f: '3'
+interrogating <> b: interrogate, f: i
+interrogation <> s: interrogations
+interrogations <> b: interrogation, f: s
+interrogative <> s: interrogatives
+interrogatives <> b: interrogative, f: s
+interrogator <> s: interrogators
+interrogatories <> b: interrogatory, f: s
+interrogators <> b: interrogator, f: s
+interrogatory <> s: interrogatories
+interrupt <> p: interrupted, d: interrupted, i: interrupting, '3': interrupts, s: interrupts
+interrupted <> b: interrupt, f: pd, p: interrupted, d: interrupted
+interrupter <> s: interrupters
+interrupters <> b: interrupter, f: s
+interrupting <> b: interrupt, f: i, i: interrupting
+interruption <> s: interruptions
+interruptions <> b: interruption, f: s
+interrupts <> b: interrupt, f: 3s
+inters <> f: '3', b: inter
+intersect <> '3': intersects, p: intersected, i: intersecting, d: intersected
+intersected <> b: intersect, f: pd
+intersecting <> b: intersect, f: i, i: intersecting
+intersection <> s: intersections, i: intersectioning
+intersectioning <> b: intersection, f: i
+intersections <> b: intersection, f: s
+intersects <> b: intersect, f: '3'
+intersegmental <> s: intersegmentals
+intersegmentals <> b: intersegmental, f: s
+intersex <> i: intersexing, s: intersexes
+intersexes <> b: intersex, f: s
+intersexing <> b: intersex, f: i
+interspace <> d: interspaced, p: interspaced, s: interspaces
+interspaced <> b: interspace, f: dp
+interspaces <> b: interspace, f: s
+intersperse <> d: interspersed, i: interspersing, p: interspersed, '3': intersperses
+interspersed <> b: intersperse, f: dp, p: interspersed, d: interspersed
+intersperses <> b: intersperse, f: '3'
+interspersing <> b: intersperse, f: i
+interstate <> s: interstates
+interstates <> b: interstate, f: s
+interstice <> s: interstices
+interstices <> b: interstice, f: s
+intertext <> s: intertexts
+intertexts <> b: intertext, f: s
+intertwine <> d: intertwined, p: intertwined, i: intertwining, '3': intertwines
+intertwined <> b: intertwine, f: dp, d: intertwined
+intertwines <> f: '3', b: intertwine
+intertwining <> f: i, b: intertwine
+interval <> s: intervals
+intervals <> b: interval, f: s
+intervene <> p: intervened, d: intervened, '3': intervenes, i: intervening
+intervened <> b: intervene, f: pd
+intervener <> s: interveners
+interveners <> b: intervener, f: s
+intervenes <> b: intervene, f: '3'
+intervening <> b: intervene, f: i, i: intervening
+intervention <> s: interventions
+interventionist <> s: interventionists
+interventionists <> b: interventionist, f: s
+interventions <> b: intervention, f: s
+interview <> s: interviews, d: interviewed, p: interviewed, i: interviewing, '3': interviews
+interviewed <> b: interview, f: dp, p: interviewed
+interviewee <> s: interviewees
+interviewees <> b: interviewee, f: s
+interviewer <> s: interviewers
+interviewers <> b: interviewer, f: s
+interviewing <> b: interview, f: i, i: interviewing
+interviews <> f: s3, b: interview
+interwar <> i: interwarring
+interwarring <> b: interwar, f: i
+interweave <> i: interweaving, '3': interweaves, p: interwove, d: interwoven
+interweaves <> b: interweave, f: '3'
+interweaving <> s: interweavings, i: interweaving, b: interweaving, f: i
+interwove <> f: p, b: interweave
+interwoven <> d: interwoven, b: interwoven, f: d
+intestate <> s: intestates
+intestates <> b: intestate, f: s
+intestine <> s: intestines
+intestines <> b: intestine, f: s
+intimacies <> b: intimacy, f: s
+intimacy <> s: intimacies
+intimate <> d: intimated, p: intimated, '3': intimates, i: intimating
+intimated <> b: intimate, f: dp
+intimates <> b: intimate, f: '3'
+intimating <> b: intimate, f: i
+intimation <> s: intimations
+intimations <> b: intimation, f: s
+intimidate <> d: intimidated, p: intimidated, '3': intimidates, i: intimidating
+intimidated <> b: intimidate, f: dp, p: intimidated, d: intimidated
+intimidates <> b: intimidate, f: '3'
+intimidating <> b: intimidate, f: i, i: intimidating
+intimidation <> s: intimidations
+intimidations <> b: intimidation, f: s
+intolerance <> s: intolerances
+intolerances <> b: intolerance, f: s
+intonation <> s: intonations
+intonations <> b: intonation, f: s
+intone <> p: intoned, '3': intones, d: intoned, s: intones, i: intoning
+intoned <> b: intone, f: pd
+intones <> b: intone, f: 3s
+intoning <> b: inton, f: i, s: intonings
+intoxicant <> s: intoxicants
+intoxicants <> b: intoxicant, f: s
+intoxicate <> d: intoxicated, p: intoxicated, i: intoxicating, '3': intoxicates
+intoxicated <> b: intoxicate, f: dp, p: intoxicated, d: intoxicated
+intoxicates <> b: intoxicate, f: '3'
+intoxicating <> i: intoxicating, b: intoxicating, f: i
+intoximeter <> b: intoximete, f: r
+intransigent <> s: intransigents
+intransigents <> b: intransigent, f: s
+intrench <> p: intrenched, i: intrenching, '3': intrenches, d: intrenched
+intrenched <> d: intrenched, b: intrenched, f: d
+intrenches <> f: '3', b: intrench
+intrenching <> f: i, b: intrench
+intricacies <> b: intricacy, f: s
+intricacy <> s: intricacies
+intricate <> i: intricating
+intricating <> b: intricate, f: i
+intrigue <> s: intrigues, d: intrigued, p: intrigued, i: intriguing, '3': intrigues
+intrigued <> b: intrigue, f: dp, d: intrigued, p: intrigued
+intriguer <> s: intriguers
+intriguers <> b: intriguer, f: s
+intrigues <> f: s3, b: intrigue
+intriguing <> f: i, b: intrigue
+intrinsic <> s: intrinsics
+intrinsics <> b: intrinsic, f: s
+intro <> s: intros
+introduce <> d: introduced, i: introducing, p: introduced, '3': introduces
+introduced <> b: introduce, f: dp, d: introduced, p: introduced
+introducer <> s: introducers
+introducers <> b: introducer, f: s
+introduces <> b: introduce, f: '3'
+introducing <> b: introduce, f: i, i: introducing
+introduction <> s: introductions
+introductions <> b: introduction, f: s
+introject <> d: introjected, i: introjecting, '3': introjects, p: introjected
+introjected <> b: introject, f: dp
+introjecting <> b: introject, f: i
+introjects <> b: introject, f: '3'
+intron <> s: introns
+introns <> b: intron, f: s
+intros <> b: intro, f: s
+introspect <> '3': introspects, i: introspecting, p: introspected, d: introspected
+introspected <> f: pd, b: introspect
+introspecting <> b: introspect, f: i
+introspection <> s: introspections
+introspections <> b: introspection, f: s
+introspects <> b: introspect, f: '3'
+introvert <> p: introverted, s: introverts, d: introverted, i: introverting, '3': introverts
+introverted <> b: introvert, f: pd, p: introverted
+introverting <> f: i, b: introvert
+introverts <> f: s3, b: introvert
+intrude <> i: intruding, p: intruded, '3': intrudes, d: intruded
+intruded <> b: intrude, f: pd, d: intruded, p: intruded
+intruder <> s: intruders
+intruders <> b: intruder, f: s
+intrudes <> b: intrude, f: '3'
+intruding <> b: intrude, f: i, i: intruding
+intrusion <> s: intrusions
+intrusions <> b: intrusion, f: s
+intrusive <> s: intrusives
+intrusives <> b: intrusive, f: s
+intrust <> i: intrusting, p: intrusted, '3': intrusts, d: intrusted
+intrusted <> f: pd, b: intrust
+intrusting <> f: i, b: intrust
+intrusts <> f: '3', b: intrust
+intubate <> d: intubated, p: intubated, i: intubating, '3': intubates
+intubated <> b: intubate, f: dp
+intubates <> f: '3', b: intubate
+intubating <> f: i, b: intubate
+intubation <> s: intubations
+intubations <> b: intubation, f: s
+intuit <> p: intuited, d: intuited, i: intuiting, s: intuits, '3': intuits
+intuited <> b: intuit, f: pd
+intuiting <> b: intuit, f: i
+intuition <> s: intuitions
+intuitionist <> s: intuitionists
+intuitionists <> b: intuitionist, f: s
+intuitions <> b: intuition, f: s
+intuits <> f: s3, b: intuit
+intumesce <> i: intumescing, p: intumesced, '3': intumesces, d: intumesced
+intumesced <> f: pd, b: intumesce
+intumesces <> f: '3', b: intumesce
+intumescing <> f: i, b: intumesce
+inuit <> s: inuits
+inuits <> b: inuit, f: s
+inundate <> d: inundated, p: inundated, i: inundating, '3': inundates
+inundated <> b: inundate, f: dp
+inundates <> b: inundate, f: '3'
+inundating <> b: inundate, f: i
+inundation <> s: inundations
+inundations <> b: inundation, f: s
+inure <> d: inured, p: inured, i: inuring, '3': inures
+inured <> b: inure, f: dp
+inures <> f: '3', b: inure
+inuring <> f: i, b: inure
+inutile <> s: inutiles
+inutiles <> b: inutile, f: s
+invade <> p: invaded, d: invaded, i: invading, '3': invades
+invaded <> b: invade, f: pd, p: invaded, d: invaded
+invader <> s: invaders
+invaders <> b: invader, f: s
+invades <> b: invade, f: '3'
+invading <> b: invade, f: i, i: invading
+invaginate <> '3': invaginates, d: invaginated, i: invaginating, p: invaginated
+invaginated <> b: invaginate, f: dp
+invaginates <> b: invaginate, f: '3'
+invaginating <> b: invaginate, f: i
+invagination <> s: invaginations
+invaginations <> b: invagination, f: s
+invalid <> s: invalids, i: invaliding, p: invalided, '3': invalids, d: invalided
+invalidate <> d: invalidated, '3': invalidates, p: invalidated, i: invalidating
+invalidated <> b: invalidate, f: dp
+invalidates <> b: invalidate, f: '3'
+invalidating <> b: invalidate, f: i
+invalided <> b: invalide, f: dp, p: invalided
+invaliding <> f: i, b: invalid
+invalids <> f: s3, b: invalid
+invariant <> s: invariants
+invariants <> b: invariant, f: s
+invasion <> s: invasions
+invasions <> b: invasion, f: s
+invective <> s: invectives
+invectives <> b: invective, f: s
+inveigh <> p: inveighed, i: inveighing, d: inveighed, s: inveighs, '3': inveighs
+inveighed <> b: inveigh, f: pd
+inveighing <> b: inveigh, f: i
+inveighs <> b: inveigh, f: s3
+inveigle <> d: inveigled, p: inveigled, i: inveigling, '3': inveigles
+inveigled <> b: inveigle, f: dp
+inveigles <> f: '3', b: inveigle
+inveigling <> b: inveigle, f: i
+invent <> d: invented, p: invented, i: inventing, '3': invents
+invented <> b: invent, f: dp, p: invented, d: invented
+inventing <> b: invent, f: i
+invention <> s: inventions
+inventions <> b: invention, f: s
+inventor <> s: inventors
+inventoried <> b: inventory, f: pd, p: inventoried
+inventories <> f: s3, b: inventory
+inventors <> b: inventor, f: s
+inventory <> s: inventories, p: inventoried, d: inventoried, i: inventorying, '3': inventories
+inventorying <> f: i, b: inventory
+invents <> b: invent, f: '3'
+inverse <> s: inverses
+inverses <> b: inverse, f: s
+inversion <> s: inversions
+inversions <> b: inversion, f: s
+invert <> i: inverting, s: inverts, p: inverted, '3': inverts, d: inverted
+invertebrate <> s: invertebrates
+invertebrates <> b: invertebrate, f: s
+inverted <> d: inverted, b: inverted, f: dp, p: inverted
+inverter <> s: inverters
+inverters <> b: inverter, f: s
+inverting <> b: invert, f: i, i: inverting
+inverts <> b: invert, f: s3
+invest <> d: invested, i: investing, p: invested, '3': invests
+invested <> b: invest, f: dp, d: invested, p: invested
+investigate <> d: investigated, i: investigating, p: investigated, '3': investigates
+investigated <> b: investigate, f: dp, p: investigated
+investigates <> b: investigate, f: '3'
+investigating <> b: investigate, f: i, i: investigating
+investigation <> s: investigations
+investigations <> b: investigation, f: s
+investigator <> s: investigators
+investigators <> b: investigator, f: s
+investing <> b: invest, f: i, i: investing
+investiture <> s: investitures
+investitures <> b: investiture, f: s
+investment <> s: investments
+investments <> b: investment, f: s
+investor <> s: investors
+investors <> b: investor, f: s
+invests <> b: invest, f: '3'
+invigilate <> d: invigilated, p: invigilated, i: invigilating, '3': invigilates
+invigilated <> b: invigilate, f: dp
+invigilates <> f: '3', b: invigilate
+invigilating <> f: i, b: invigilate
+invigilator <> s: invigilators
+invigilators <> b: invigilator, f: s
+invigorate <> p: invigorated, d: invigorated, '3': invigorates, i: invigorating
+invigorated <> b: invigorate, f: pd, p: invigorated
+invigorates <> b: invigorate, f: '3'
+invigorating <> f: i, b: invigorate
+invisible <> s: invisibles
+invisibles <> b: invisible, f: s
+invitation <> s: invitations
+invitations <> b: invitation, f: s
+invite <> d: invited, p: invited, '3': invites, i: inviting
+invited <> b: invite, f: dp, p: invited, d: invited
+invitee <> s: invitees
+invitees <> b: invitee, f: s
+invites <> b: invite, f: '3'
+inviting <> b: invite, f: i, i: inviting
+invocation <> s: invocations
+invocations <> b: invocation, f: s
+invoice <> s: invoices, d: invoiced, p: invoiced, i: invoicing, '3': invoices
+invoiced <> b: invoice, f: dp
+invoices <> b: invoice, f: s3
+invoicing <> b: invoice, f: i
+invoke <> d: invoked, i: invoking, p: invoked, '3': invokes
+invoked <> b: invoke, f: dp
+invokes <> b: invoke, f: '3'
+invoking <> b: invoke, f: i, i: invoking
+involute <> d: involuted, p: involuted, s: involutes
+involuted <> b: involute, f: dp
+involutes <> b: involute, f: s
+involve <> d: involved, i: involving, '3': involves, p: involved
+involved <> b: involve, f: dp, d: involved, p: involved
+involvement <> s: involvements
+involvements <> b: involvement, f: s
+involves <> b: involve, f: '3'
+involving <> b: involve, f: i
+IO <> s: ios
+iodide <> s: iodides
+iodides <> b: iodide, f: s
+iodinate <> d: iodinated
+iodinated <> b: iodinate, f: d
+iodize <> i: iodizing, p: iodized, '3': iodizes, d: iodized
+iodized <> f: pd, b: iodize
+iodophor <> s: iodophors
+iodophors <> b: iodophor, f: s
+ion <> s: ions
+Ionian <> s: ionians
+ionise <> i: ionising, '3': ionises, p: ionised, d: ionised
+ionised <> b: ionise, f: pd, d: ionised
+ionises <> b: ionise, f: '3'
+ionising <> b: ionise, f: i
+ionization <> s: ionizations
+ionizations <> b: ionization, f: s
+ionize <> i: ionizing, d: ionized, p: ionized, '3': ionizes
+ionized <> b: ionize, f: dp, p: ionized
+ionizes <> b: ionize, f: '3'
+ionizing <> b: ionize, f: i, i: ionizing
+ionomer <> s: ionomers
+ionomers <> b: ionomer, f: s
+ionophore <> s: ionophores
+ionophores <> b: ionophore, f: s
+ions <> b: ion, f: s
+ios <> b: io, f: s
+iota <> s: iotas
+iotas <> b: iota, f: s
+IOU <> s: ious
+IP <> s: ips, '3': ips
+ippon <> s: ippons
+ippons <> b: ippon, f: s
+Iquitos <> b: iquito, f: s
+Iranian <> s: iranians
+Iraqi <> s: iraqis
+IRC <> s: ircs
+Irian <> s: irians
+iridologist <> s: iridologists
+iridologists <> b: iridologist, f: s
+iris <> s: irises
+irised <> b: irise, f: pd, p: irised
+irises <> b: iris, f: s
+Irishman <> s: irishmen
+irishmen <> b: irishman, f: s
+Irishwoman <> s: irishwomen
+irk <> p: irked, d: irked, '3': irks, i: irking
+irked <> b: irk, f: pd, p: irked
+irking <> f: i, b: irk
+irks <> b: irk, f: '3'
+iron <> s: irons, d: ironed, i: ironing, p: ironed, '3': irons
+ironclad <> s: ironclads
+ironclads <> b: ironclad, f: s
+ironed <> b: iron, f: dp, p: ironed
+ironer <> s: ironers
+ironers <> b: ironer, f: s
+ironies <> b: irony, f: s
+ironing <> b: iron, f: i, i: ironing
+ironist <> s: ironists
+ironists <> b: ironist, f: s
+ironmaster <> s: ironmasters
+ironmasters <> b: ironmaster, f: s
+ironmonger <> s: ironmongers
+ironmongers <> b: ironmonger, f: s
+irons <> f: s3, b: iron
+ironstone <> s: ironstones
+ironstones <> b: ironstone, f: s
+ironwork <> s: ironworks, i: ironworking
+ironworker <> s: ironworkers
+ironworkers <> b: ironworker, f: s
+ironworking <> b: ironwork, f: i
+ironworks <> b: ironwork, f: s
+irony <> s: ironies
+irradiate <> d: irradiated, i: irradiating, p: irradiated, '3': irradiates
+irradiated <> b: irradiate, f: dp, d: irradiated
+irradiates <> b: irradiate, f: '3'
+irradiating <> b: irradiate, f: i
+irradiation <> s: irradiations
+irradiations <> b: irradiation, f: s
+irrational <> s: irrationals
+irrationalities <> b: irrationality, f: s
+irrationality <> s: irrationalities
+irrationals <> b: irrational, f: s
+irreconcilable <> s: irreconcilables
+irreconcilables <> b: irreconcilable, f: s
+irredeemable <> s: irredeemables
+irredeemables <> b: irredeemable, f: s
+irreducibilities <> b: irreducibility, f: s
+irreducibility <> s: irreducibilities
+irreducible <> s: irreducibles, '3': irreducibles
+irreducibles <> b: irreducible, f: s3
+irregular <> s: irregulars
+irregularities <> b: irregularity, f: s
+irregularity <> s: irregularities
+irregulars <> b: irregular, f: s
+irrelevance <> s: irrelevances
+irrelevances <> b: irrelevance, f: s
+irrelevancies <> b: irrelevancy, f: s
+irrelevancy <> s: irrelevancies
+irresolution <> s: irresolutions
+irresolutions <> b: irresolution, f: s
+irreverent <> s: irreverents
+irreverents <> b: irreverent, f: s
+irrigate <> d: irrigated, i: irrigating, p: irrigated, '3': irrigates
+irrigated <> b: irrigate, f: dp, p: irrigated
+irrigates <> b: irrigate, f: '3'
+irrigating <> b: irrigate, f: i
+irrigation <> s: irrigations
+irrigations <> b: irrigation, f: s
+irritant <> s: irritants
+irritants <> b: irritant, f: s
+irritate <> d: irritated, p: irritated, '3': irritates, i: irritating
+irritated <> b: irritate, f: dp, d: irritated, p: irritated
+irritates <> b: irritate, f: '3'
+irritating <> b: irritate, f: i, i: irritating
+irritation <> s: irritations
+irritations <> b: irritation, f: s
+irrupt <> '3': irrupts, i: irrupting, p: irrupted, d: irrupted
+irrupted <> f: pd, b: irrupt
+irrupting <> b: irrupt, f: i
+irruption <> s: irruptions
+irruptions <> b: irruption, f: s
+irrupts <> b: irrupt, f: '3'
+is <> b: be, f: '3'
+ISDN <> s: isdns
+ish <> p: ished
+ished <> b: ish, f: p
+isla <> s: islas
+Islamist <> s: islamists
+Islamize <> i: Islamizing, p: Islamized, '3': Islamizes, d: Islamized
+island <> s: islands
+islander <> s: islanders
+islanders <> b: islander, f: s
+islands <> b: island, f: s
+islas <> b: isla, f: s
+isle <> s: isles
+isles <> b: isle, f: s
+islet <> s: islets
+islets <> b: islet, f: s
+ism <> s: isms
+isms <> b: ism, f: s
+ISO <> s: isos
+isobar <> s: isobars
+isobars <> b: isobar, f: s
+isochron <> s: isochrons
+isochrons <> b: isochron, f: s
+isoenzyme <> s: isoenzymes
+isoenzymes <> b: isoenzyme, f: s
+isoform <> s: isoforms, '3': isoforms
+isoforms <> b: isoform, f: s3
+isolate <> d: isolated, p: isolated, '3': isolates, i: isolating, s: isolates
+isolated <> b: isolate, f: dp, d: isolated, p: isolated
+isolates <> b: isolate, f: 3s
+isolating <> b: isolate, f: i, i: isolating
+isolation <> s: isolations
+isolationist <> s: isolationists
+isolationists <> b: isolationist, f: s
+isolations <> b: isolation, f: s
+isolator <> s: isolators
+isolators <> b: isolator, f: s
+Isolde <> s: isoldes
+isomer <> s: isomers, b: isome, f: r
+isomerism <> s: isomerisms
+isomerisms <> b: isomerism, f: s
+isomerize <> i: isomerizing, p: isomerized, '3': isomerizes, d: isomerized
+isomerized <> f: pd, b: isomerize
+isomerizes <> f: '3', b: isomerize
+isomerizing <> f: i, b: isomerize
+isomers <> b: isomer, f: s
+isometric <> s: isometrics
+isometrics <> b: isometric, f: s
+isometries <> b: isometry, f: s
+isometry <> s: isometries
+isopach <> s: isopachs
+isopachs <> b: isopach, f: s
+isopleth <> s: isopleths
+isopleths <> b: isopleth, f: s
+isopod <> s: isopods
+isopods <> b: isopod, f: s
+isosceles <> b: isoscele, f: s
+isotherm <> s: isotherms
+isotherms <> b: isotherm, f: s
+isotope <> s: isotopes
+isotopes <> b: isotope, f: s
+isozyme <> s: isozymes
+isozymes <> b: isozyme, f: s
+Israeli <> s: israelis
+israelis <> b: israeli, f: s
+israelite <> s: israelites
+israelites <> b: israelite, f: s
+ISS <> d: issed
+issuance <> s: issuances
+issuances <> b: issuance, f: s
+issue <> s: issues, d: issued, p: issued, i: issuing, '3': issues
+issued <> b: issue, f: dp, p: issued, d: issued
+issuer <> s: issuers
+issuers <> b: issuer, f: s
+issues <> b: issue, f: s3
+issuing <> b: issue, f: i, i: issuing
+ist <> p: isted, s: ists
+isted <> b: ist, f: p
+ists <> b: ist, f: s
+ISV <> s: isvs
+Italian <> s: italians
+italians <> b: italian, f: s
+italic <> s: italics
+italicise <> d: italicised, i: italicising, p: italicised
+italicised <> b: italicise, f: dp, p: italicised
+italicising <> b: italicise, f: i
+italicize <> d: italicized, p: italicized, i: italicizing, '3': italicizes
+italicized <> b: italicize, f: dp
+italicizes <> b: italicize, f: '3'
+italicizing <> b: italicize, f: i
+italics <> b: italic, f: s
+itch <> i: itching, p: itched, s: itches, '3': itches, d: itched
+itched <> f: pd, b: itch
+itches <> b: itch, f: s3
+itchiest <> b: itchy, f: t
+itching <> b: itch, f: i, i: itching
+itchy <> t: itchiest
+item <> s: items
+itemise <> i: itemising, p: itemised, d: itemised, '3': itemises
+itemised <> b: itemise, f: pd, d: itemised, p: itemised
+itemises <> b: itemise, f: '3'
+itemising <> b: itemise, f: i
+itemize <> d: itemized, p: itemized, i: itemizing, '3': itemizes
+itemized <> b: itemize, f: dp, p: itemized, d: itemized
+itemizes <> b: itemize, f: '3'
+itemizing <> b: itemize, f: i
+items <> b: item, f: s
+iterate <> i: iterating, d: iterated, '3': iterates, p: iterated
+iterated <> d: iterated, b: iterated, f: d
+iterates <> b: iterate, f: '3'
+iterating <> b: iterate, f: i
+iteration <> s: iterations
+iterations <> b: iteration, f: s
+iterative <> s: iteratives
+iteratives <> b: iterative, f: s
+itinerant <> s: itinerants
+itinerants <> b: itinerant, f: s
+itineraries <> b: itinerary, f: s
+itinerary <> s: itineraries
+itinerate <> p: itinerated, i: itinerating, '3': itinerates, d: itinerated
+itinerated <> f: pd, b: itinerate
+itinerates <> f: '3', b: itinerate
+itinerating <> b: itinerate, f: i
+IUD <> s: iuds
+ivies <> b: ivy, f: s
+ivories <> b: ivory, f: s
+ivory <> s: ivories
+ivy <> s: ivies
+Ixora <> s: ixoras

@@ -1,0 +1,27 @@
+xanthine <> s: xanthines
+xanthines <> b: xanthine, f: s
+xenobiotic <> s: xenobiotics
+xenobiotics <> b: xenobiotic, f: s
+xenograft <> s: xenografts, '3': xenografts
+xenografts <> b: xenograft, f: s3
+xenolith <> s: xenoliths
+xenoliths <> b: xenolith, f: s
+xenophobic <> s: xenophobics
+xenophobics <> b: xenophobic, f: s
+Xenophon <> s: xenophons
+xerophyte <> s: xerophytes
+xerophytes <> b: xerophyte, f: s
+xerox <> s: xeroxes, p: xeroxed
+xeroxed <> b: xerox, f: p, p: xeroxed
+xeroxes <> b: xerox, f: s
+XERXES <> b: xerx, f: s3
+xhosa <> s: xhosas
+xhosas <> b: xhosa, f: s
+xi <> s: xis
+xis <> b: xi, f: s
+xix <> s: xixs
+xixs <> b: xix, f: s
+xma <> s: xmas
+Xmas <> b: xma, f: s
+xylophone <> s: xylophones
+xylophones <> b: xylophone, f: s

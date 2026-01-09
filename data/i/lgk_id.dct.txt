@@ -1,0 +1,1458 @@
+i <> w: 93017, p: [37209, 35938]
+iamb <> w: 93043
+iambic <> w: 93044
+ibex <> w: 93063, p: [24188]
+ibis <> w: 93066, p: [24785]
+ibuprofen <> w: 93080
+icarus <> w: 93084
+ice <> w: 93087, p: [20874, 20111, 21653]
+ice age <> w: 93102
+ice cap <> w: 93107, p: [36876]
+ice chest <> p: [33831]
+ice climbing <> p: [37041]
+ice cream <> w: 93110, p: [27137]
+ice cube <> w: 93112, p: [20874]
+ice floe <> w: 93114
+ice hockey <> w: 93116, p: [39207]
+ice lolly <> w: 93118, p: [21314]
+ice milk <> p: [38130]
+ice over <> p: [53158]
+ice pack <> w: 93125, p: [25793]
+ice rink <> w: 93128
+ice skate <> w: 93131, p: [39089, 39127]
+ice skating <> p: [39127]
+ice up <> p: [52025]
+ice-cold <> w: 93089, p: [17321]
+ice-skate <> p: [39089, 39127]
+iceberg <> w: 93140, p: [31608]
+iceberg lettuce <> w: 93141, p: [26706]
+icebound <> w: 93143
+icebox <> w: 93144, p: [49185]
+iced coffee <> w: 93150
+iced tea <> w: 93151, p: [21839]
+icehouse <> w: 93153
+ichneumon fly <> w: 93168
+ichthyology <> w: 93174
+ichthyosis <> w: 93179
+icicle <> w: 93181, p: [21499]
+icily <> w: 93183
+iciness <> w: 93184
+icing <> w: 93185, p: [20111]
+icing sugar <> w: 93186, p: [35384]
+ick <> w: 225936, p: [52101]
+icky <> w: 93188
+icon <> w: 93189, p: [29928]
+iconic <> w: 93190, p: [45365]
+iconically <> w: 225481
+iconicity <> w: 223601
+iconoclasm <> w: 93191
+iconoclast <> w: 93192
+iconoclastic <> w: 93193
+icosahedron <> w: 93199, p: [35565]
+icterus <> w: 93209, p: [24938]
+icy <> w: 93225, p: [18473]
+id <> w: 93226, p: [21236]
+idea <> w: 93239
+ideal <> w: 93240, p: [51340]
+idealism <> w: 93246
+idealist <> w: 93247
+idealistic <> w: 93248
+idealize <> w: 93251
+ideally <> w: 93253
+ideate <> w: 93255, p: [27624]
+identical <> w: 93259, p: [49235, 38909]
+identical twin <> w: 93260, p: [38909]
+identically <> w: 93261, p: [49235]
+identifiable <> w: 93263
+identification <> w: 93265, p: [21236]
+identified <> w: 93267
+identifier <> w: 93268
+identify <> w: 93269, p: [28113]
+identity <> w: 93272, p: [21236]
+identity card <> w: 93273, p: [21236]
+ideogram <> w: 93281
+ideological <> w: 93287
+ideologically <> w: 93289
+ideology <> w: 93292
+idiolect <> w: 93300
+idiom <> w: 93301
+idiomatic <> w: 93303
+idiopathic <> w: 93307
+idiophone <> w: 220240
+idiosyncrasy <> w: 93313
+idiosyncratic <> w: 93314
+idiot <> w: 93315
+idiot box <> p: [48539]
+idiotic <> w: 93319, p: [17871]
+idle <> w: 93324, p: [48615, 50011]
+idly <> w: 93333, p: [49574]
+idol <> w: 93336, p: [31610]
+idolatrous <> w: 93341
+idolatry <> w: 93343
+idolize <> w: 93349, p: [47274]
+idyllic <> w: 93357, p: [23493]
+if <> w: 209561
+iffy <> w: 93364, p: [45822]
+igloo <> w: 93373, p: [28854]
+igneous <> w: 93380
+ignitable <> w: 93384
+ignite <> w: 93502, p: [61070]
+ignited <> w: 93503
+igniter <> w: 93504, p: [36956]
+ignition <> w: 93506
+ignoble <> w: 93515
+ignominious <> w: 93518
+ignominiously <> w: 93519
+ignominy <> w: 93521
+ignorable <> w: 224448, p: [45784]
+ignorance <> w: 93523
+ignorant <> w: 93524, p: [51947]
+ignore <> w: 93528, p: [52153]
+iguana <> w: 93536, p: [23721]
+ii <> w: 93548, p: [35970, 35970]
+iii <> w: 93559, p: [35944, 35944]
+ikebana <> w: 222696
+ileum <> w: 93584
+iliad <> w: 229452
+ilk <> w: 93605
+ill <> w: 93606, p: [39779, 48841]
+ill-defined <> w: 93615
+ill-fated <> w: 93619
+ill-mannered <> w: 93629, p: [17545]
+ill-natured <> w: 93630
+ill-omened <> w: 93631
+ill-starred <> w: 93637
+ill-tempered <> w: 93638, p: [26776]
+ill-timed <> w: 93639, p: [49546]
+ill-treat <> w: 93640, p: [19218]
+ill-treated <> w: 93641
+ill-treatment <> p: [19218]
+illegal <> w: 93663, p: [23515]
+illegally <> w: 93668, p: [50007]
+illegible <> w: 93670
+illegitimacy <> w: 93672
+illegitimate <> w: 93673
+illegitimately <> w: 93676
+illiberal <> w: 93677
+illiberality <> w: 93678
+illicit <> w: 93680
+illicitly <> w: 93681
+illimitable <> w: 93688
+illiteracy <> w: 93692
+illiterate <> w: 93693, p: [45397, 39121]
+illness <> w: 93695, p: [16224]
+illogical <> w: 93697, p: [17455]
+illogically <> w: 93699
+illume <> w: 93701
+illuminant <> w: 93703
+illuminate <> w: 93704, p: [47640]
+illuminated <> w: 93705
+illumination <> w: 93707
+illumine <> w: 93709
+illusion <> w: 93710, p: [19438]
+illusionist <> w: 93713, p: [61168, 23577]
+illusive <> w: 93714
+illusory <> w: 93715, p: [46267]
+illustrate <> w: 93716, p: [16402, 18764]
+illustrated <> w: 229540
+illustration <> w: 93717, p: [18758]
+illustrative <> w: 93718
+illustrator <> w: 93719, p: [47706]
+illustrious <> w: 93720, p: [28447]
+im <> w: 220939
+image <> w: 93735, p: [17815]
+imagery <> w: 93740
+imaginable <> w: 93741, p: [17453]
+imaginary <> w: 93742, p: [45605]
+imagination <> w: 93749, p: [27624]
+imaginative <> w: 93751, p: [17873]
+imaginatively <> w: 93753, p: [17873]
+imagine <> w: 93755, p: [27624, 60847]
+imbalance <> w: 93764, p: [31450]
+imbecile <> w: 93767, p: [17871, 17871]
+imbibe <> w: 93771, p: [48573]
+imbiber <> w: 93772, p: [18291]
+imbibing <> w: 93773, p: [48573]
+imbibition <> w: 93774, p: [48573]
+imbrication <> w: 93777
+imbroglio <> w: 93778
+imbrue <> w: 93779
+imbue <> w: 93780, p: [46848]
+imitate <> w: 93786, p: [47478]
+imitation <> w: 93787, p: [28662]
+imitative <> w: 93789
+imitator <> w: 93791
+immaculate <> w: 93792, p: [48619, 49526]
+immaculately <> w: 93795, p: [49067]
+immaterial <> w: 93801
+immature <> w: 93805, p: [60190]
+immaturely <> w: 93806
+immeasurable <> w: 93809, p: [49237]
+immeasurably <> w: 93810, p: [49237]
+immediate <> w: 93812, p: [45585]
+immediately <> w: 93818, p: [43408]
+immense <> w: 93821, p: [45866]
+immensely <> w: 93822, p: [49301]
+immerse <> w: 93826, p: [53682]
+immersion <> w: 93827
+immersive <> w: 224498
+immigrant <> w: 93830, p: [27313]
+immigrate <> w: 93832, p: [19849]
+immigration <> w: 93833, p: [19849]
+imminent <> w: 93837, p: [45587]
+imminently <> w: 93839, p: [45587]
+immiscible <> w: 93842
+immobile <> w: 93844, p: [45818]
+immobilize <> w: 93849
+immoderate <> w: 93851
+immoderately <> w: 93852
+immolate <> w: 94007
+immoral <> w: 94009, p: [60330]
+immortal <> w: 94012, p: [45166]
+immortalize <> w: 94015
+immortelle <> w: 94016
+immovable <> w: 94020
+immune <> w: 94025, p: [31570, 31570]
+immune system <> w: 94033
+immunity <> w: 94037, p: [31570]
+immunization <> w: 94038
+immunize <> w: 94039, p: [21404]
+immunochemistry <> w: 94045
+immunocompromised <> w: 94048
+immunodeficiency <> w: 94049
+immunological <> w: 94065
+immunologist <> w: 94068
+immunology <> w: 94069
+immunosuppression <> w: 94073
+immunotherapy <> w: 94078
+immure <> w: 94079, p: [51925]
+immutable <> w: 94082
+impact <> w: 94089, p: [60921]
+impactful <> w: 224449
+impaction <> w: 94094
+impair <> w: 94095, p: [47813]
+impaired <> w: 94096, p: [46101]
+impairment <> w: 94098, p: [31564]
+impala <> w: 94099, p: [34329]
+impale <> w: 94101, p: [58430]
+impalpable <> w: 94104
+impart <> w: 94108, p: [55070, 58990]
+impartial <> w: 94110
+impartiality <> w: 94111
+impartially <> w: 94112
+impassable <> w: 94114
+impasse <> w: 94115
+impassioned <> w: 94116
+impassive <> w: 94117
+impassively <> w: 94118
+impassivity <> w: 94120, p: [39875]
+impasto <> w: 94121
+impatience <> w: 94122
+impatient <> w: 94124, p: [22097]
+impatiently <> w: 94125, p: [22097]
+impeach <> w: 94126, p: [47793]
+impeachable <> w: 224425
+impeachment <> w: 94128
+impeccable <> w: 94130, p: [49526]
+impeccably <> w: 94131, p: [49526]
+impecunious <> w: 94133
+impede <> w: 94136, p: [46531]
+impediment <> w: 94138
+impel <> w: 94141, p: [58279]
+impend <> w: 94146
+impending <> w: 94150, p: [45587]
+impenetrable <> w: 94152
+impenitent <> w: 94156
+impenitently <> w: 94157
+imperative <> w: 94158, p: [45734]
+imperatively <> w: 94161
+imperceptible <> w: 94164, p: [49277]
+imperceptibly <> w: 94165, p: [49277]
+imperfect <> w: 94166, p: [45810]
+imperfection <> w: 94170
+imperial <> w: 94178
+imperial gallon <> p: [32824]
+imperialism <> w: 94187
+imperil <> w: 94191, p: [59424]
+imperious <> w: 94192
+imperishable <> w: 94196
+impermanent <> w: 94202, p: [28876]
+impermissible <> w: 94207
+impersonal <> w: 94209
+impersonate <> w: 94211, p: [47478, 59258]
+impersonation <> w: 94212
+impersonator <> w: 94213
+impertinent <> w: 94215
+imperturbable <> w: 94218
+impervious <> w: 94221
+impetigo <> w: 94224
+impetrate <> w: 225564
+impetuosity <> w: 94225
+impetuous <> w: 94226
+impetuously <> w: 94227
+impetus <> w: 94229
+impiety <> w: 94230
+impinge <> w: 94231
+impious <> w: 94235
+implacable <> w: 94241
+implant <> w: 94242, p: [21457, 21457]
+implausible <> w: 94246, p: [17455]
+implausibly <> w: 94248
+implement <> w: 94249
+implementation <> w: 94251
+implicate <> w: 94254, p: [60089, 58014]
+implication <> w: 94256
+implicative <> w: 94258
+implicature <> w: 223537
+implicit <> w: 94259
+implicitly <> w: 94261
+implode <> w: 94265
+implore <> w: 94266, p: [19659]
+imply <> w: 94271, p: [58014]
+impolite <> w: 94272, p: [17545]
+impolitely <> w: 94273
+impoliteness <> w: 94274
+impolitic <> w: 94275
+import <> w: 94277, p: [59944]
+importance <> w: 94281
+important <> w: 94282, p: [17729]
+importantly <> w: 94284
+importation <> w: 94285
+imported <> w: 94286
+importer <> w: 94288
+importunate <> w: 94290
+importune <> w: 94292, p: [48329]
+impose <> w: 94294, p: [59660]
+imposing <> w: 94296
+imposingly <> w: 94297
+imposition <> w: 94298
+impossible <> w: 94300, p: [17455]
+impossibly <> w: 94303, p: [49794]
+impost <> w: 94304
+impostor <> w: 94306
+imposture <> w: 94307
+impotent <> w: 94310
+impotently <> w: 94311
+impound <> w: 94312, p: [60538]
+impoverish <> w: 94315
+impoverished <> w: 94316, p: [47761]
+impoverishment <> w: 94317, p: [19334]
+impracticable <> w: 94319
+impractical <> w: 94322
+imprecation <> w: 94326
+imprecise <> w: 94327
+imprecisely <> w: 94328
+impregnate <> w: 94334, p: [32668]
+impresario <> w: 94336
+impress <> w: 94337, p: [47993]
+impressed <> w: 94502
+impressible <> w: 94503
+impression <> w: 94504
+impressionable <> w: 94505
+impressionism <> w: 94506, p: [25439]
+impressionist <> w: 94507
+impressive <> w: 94509, p: [46259]
+impressively <> w: 94511, p: [47993]
+imprimatura <> w: 222133
+imprint <> w: 94515, p: [47160]
+imprison <> w: 94517, p: [20682]
+imprisonment <> w: 94519, p: [20682]
+improbability <> w: 94520
+improbable <> w: 94521, p: [45760]
+improbably <> w: 94523
+impromptu <> w: 94524
+improper <> w: 94525, p: [34109, 49718]
+improper fraction <> w: 94526
+improperly <> w: 94527, p: [34109]
+improvable <> w: 94530
+improve <> w: 94531, p: [61278, 17629]
+improved <> w: 94532, p: [61278]
+improvement <> w: 94533, p: [61278]
+improver <> w: 94534
+improvident <> w: 94536
+improvise <> w: 94540, p: [59519]
+imprudence <> w: 94544
+imprudent <> w: 94545
+impudent <> w: 94548
+impugn <> w: 94550
+impuissance <> w: 94552
+impulse <> w: 94554
+impulsion <> w: 94558
+impulsive <> w: 94559, p: [45665]
+impulsively <> w: 94560, p: [49908]
+impunity <> w: 94562
+impure <> w: 94563, p: [28630]
+impute <> w: 94568
+in <> w: 94572, p: [20812, 48373, 18437]
+in a body <> p: [41654]
+in a fog <> p: [42146]
+in a spot <> p: [46543]
+in action <> p: [26100, 49864]
+in advance <> p: [49034]
+in cold blood <> p: [44542]
+in dribs and drabs <> p: [45212]
+in front <> p: [20944]
+in front of <> p: [20944]
+in full swing <> p: [41596]
+in hand <> p: [44232, 43206]
+in harness <> p: [26100, 22279]
+in hot water <> p: [42066]
+in kind <> p: [49279]
+in no uncertain terms <> p: [46764]
+in order <> p: [19422]
+in pocket <> p: [41968]
+in private <> p: [50090]
+in secret <> p: [50092]
+in seventh heaven <> p: [42522]
+in short <> p: [22235]
+in short order <> p: [22339]
+in small doses <> p: [44054]
+in the altogether <> p: [39775]
+in the ascendant <> p: [40441]
+in the bag <> p: [39979]
+in the balance <> p: [44408]
+in the black <> p: [40493]
+in the buff <> p: [39773]
+in the clear <> p: [43208]
+in the clouds <> p: [42092]
+in the dark <> p: [44834]
+in the grip of <> p: [46545]
+in the heat of the moment <> p: [42630]
+in the land of the living <> p: [39391]
+in the lap of luxury <> p: [40637]
+in the lap of the gods <> p: [44298]
+in the long run <> p: [44024]
+in the nick of time <> p: [40445]
+in the pink <> p: [39835]
+in the pipeline <> p: [43210]
+in the raw <> p: [39775]
+in the teeth of <> p: [42918]
+in the wrong <> p: [19432]
+in time <> p: [22451]
+in vain <> p: [48835]
+in vitro fertilization <> w: 228797
+in words of one syllable <> p: [44876]
+in your face <> p: [48113]
+in-between <> w: 94574, p: [28648]
+in-depth <> w: 228638
+in-flight <> w: 210218
+in-house <> w: 228772
+in-joke <> w: 94578
+in-law <> w: 94579
+in-your-face <> p: [48113]
+inability <> w: 94748
+inaccessible <> w: 94750, p: [46402]
+inaccurate <> w: 94753, p: [60614]
+inaccurately <> w: 94754, p: [49303]
+inactivate <> w: 94758
+inactive <> w: 94760, p: [17157]
+inadequate <> w: 94764, p: [48837]
+inadequately <> w: 94765, p: [48837]
+inadmissible <> w: 94768
+inadvertent <> w: 94771, p: [49676]
+inadvertently <> w: 94772, p: [49676]
+inadvisable <> w: 94774
+inalienable <> w: 94777
+inane <> w: 94782
+inanimate <> w: 94784
+inanity <> w: 94787
+inappreciable <> w: 94793
+inappropriate <> w: 94794, p: [34109]
+inappropriately <> w: 94795, p: [34109]
+inapt <> w: 94797
+inarguable <> w: 94800
+inarguably <> w: 94801
+inarticulate <> w: 94802
+inattentive <> w: 94806
+inaudible <> w: 94810
+inaugural <> w: 94813
+inaugurate <> w: 94816, p: [43142]
+inauguration <> w: 94817
+inauspicious <> w: 94819, p: [45888]
+inauthentic <> w: 94822
+inborn <> w: 94824
+inbound <> w: 94827, p: [48447]
+inbred <> w: 94828
+incandescence <> w: 94837
+incantation <> w: 94840
+incapable <> w: 94842
+incapacitate <> w: 94844, p: [40889]
+incapacitated <> w: 94845
+incapacitating <> w: 94846
+incapacity <> w: 94847
+incarcerate <> w: 94848, p: [20682]
+incarceration <> w: 95002
+incarnate <> w: 95004
+incautious <> w: 95010, p: [17535]
+incendiary <> w: 95014
+incense <> w: 95016, p: [48095]
+incensed <> w: 95020
+incentive <> w: 95021
+incentivize <> w: 225351, p: [44538]
+inception <> w: 95026, p: [49431]
+inceptive <> w: 95027
+incessant <> w: 95031, p: [49986]
+incessantly <> w: 95032, p: [42236]
+inch <> w: 95037, p: [20127, 53541]
+inchoate <> w: 95039
+inchoative <> w: 95040
+incidence <> w: 95044
+incident <> w: 95046
+incidental <> w: 95047
+incidentally <> w: 95050
+incinerate <> w: 95052, p: [47801]
+incinerator <> w: 95054
+incipient <> w: 95057
+incise <> w: 95058
+incision <> w: 95060
+incisive <> w: 95061, p: [45152]
+incisor <> w: 95064, p: [30491]
+incisure <> w: 95066, p: [30539]
+incite <> w: 95068, p: [59046]
+incitement <> w: 95069
+inclement <> w: 95074
+inclination <> w: 95076
+incline <> w: 95078, p: [43252, 48755]
+inclined <> w: 95080, p: [45503]
+include <> w: 95087, p: [43192]
+included <> w: 95088
+including <> w: 210166
+inclusion <> w: 95089
+inclusive <> w: 95093, p: [46187]
+incognito <> w: 95094
+incognizant <> w: 95097
+incoherent <> w: 95101, p: [49602]
+incoherently <> w: 95102, p: [49602]
+incombustible <> w: 95103
+income <> w: 95104, p: [17903]
+income tax <> w: 95107
+incoming <> w: 95110
+incommunicado <> w: 95116
+incomparable <> w: 95120
+incompatible <> w: 95123, p: [46006]
+incompetent <> w: 95127, p: [45168]
+incomplete <> w: 95131, p: [17539]
+incomprehensibility <> w: 95136
+incomprehensible <> w: 95137
+incompressible <> w: 95141
+inconceivable <> w: 95144, p: [49261]
+inconceivably <> w: 95146
+inconclusive <> w: 95147
+incongruity <> w: 95152
+incongruous <> w: 95153
+inconsequent <> w: 95157
+inconsequential <> w: 95158, p: [17731]
+inconsiderable <> w: 95161
+inconsiderate <> w: 95162, p: [30024]
+inconsiderately <> w: 95163
+inconsistency <> w: 95166
+inconsistent <> w: 95167, p: [49133, 46006]
+inconsistently <> w: 95168, p: [49133]
+inconsolable <> w: 95169
+inconspicuous <> w: 95170
+inconstant <> w: 95174
+incontestable <> w: 95175
+incontestably <> w: 209360
+incontinent <> w: 95179
+incontrovertible <> w: 95181
+incontrovertibly <> w: 95183
+inconvenience <> w: 95184
+inconvenient <> w: 95186
+inconveniently <> w: 95187
+incorporate <> w: 95191, p: [59541]
+incorporated <> w: 95192
+incorporation <> w: 95193
+incorporeal <> w: 95195
+incorrect <> w: 95197, p: [60614, 16513]
+incorrectly <> w: 95198
+incorrigible <> w: 95200
+increase <> w: 95208, p: [22945, 22463, 17905]
+increased <> w: 95209, p: [45449]
+increasing <> w: 95210
+increasingly <> w: 95212, p: [43536]
+incredible <> w: 95214, p: [48781]
+incredibly <> w: 95216, p: [48781, 45242]
+incredulity <> w: 95217
+incredulous <> w: 95218
+incredulously <> w: 95219
+increment <> w: 95220, p: [17905]
+incremental <> w: 95221, p: [50068]
+incrementally <> w: 211483, p: [50068]
+incriminate <> w: 95223, p: [47793]
+incrimination <> w: 95226, p: [27427]
+incubate <> w: 95230, p: [20541]
+incubation <> w: 95231
+incubator <> w: 95233, p: [25795]
+inculcate <> w: 95235, p: [58609]
+inculpation <> w: 95241, p: [27427]
+incumbent <> w: 95245
+incur <> w: 95248, p: [61054]
+incurable <> w: 95250
+incursion <> w: 95256
+incus <> w: 95262
+indecent <> w: 95269
+indecipherable <> w: 95272
+indecision <> w: 95273
+indecisive <> w: 95274, p: [45329]
+indecisively <> w: 95275
+indeed <> w: 95281
+indefatigable <> w: 95283
+indefatigably <> w: 95285
+indefensible <> w: 95287
+indefinable <> w: 95288
+indefinite <> w: 95289, p: [48445]
+indefinite article <> w: 95290
+indefinitely <> w: 95293, p: [48445]
+indelible <> w: 95297
+indelicate <> w: 95301
+indemnify <> w: 95303, p: [46818]
+indemnity <> w: 95304
+independence <> w: 95506, p: [38869]
+independent <> w: 95510, p: [45228, 51434]
+independent clause <> w: 95512
+independently <> w: 95516, p: [45228]
+indescribable <> w: 95518
+indestructible <> w: 95521
+indeterminate <> w: 95526
+index <> w: 95529, p: [29944, 59402]
+index finger <> w: 95531, p: [29944]
+indexer <> w: 95538
+indexing <> w: 95540
+indicant <> w: 95626
+indicate <> w: 95627, p: [36427]
+indication <> w: 95628, p: [18988]
+indicative <> w: 95629
+indicator <> w: 95631, p: [36427]
+indict <> w: 95635, p: [20694]
+indictment <> w: 95639
+indie <> w: 95640
+indifference <> w: 95641
+indifferent <> w: 95642, p: [60396]
+indifferently <> w: 95643
+indigence <> w: 95645, p: [19334]
+indigenous <> w: 95647, p: [29006]
+indigent <> w: 95651, p: [47761]
+indigestible <> w: 95653
+indigestion <> w: 95655, p: [17893]
+indignant <> w: 95658
+indignation <> w: 95660, p: [51198]
+indignity <> w: 95661
+indigo <> w: 95662, p: [38751]
+indirect <> w: 95678, p: [28363, 49972]
+indirect object <> w: 95687
+indirect speech <> w: 208731
+indirectly <> w: 95692
+indiscernible <> w: 95694
+indiscreet <> w: 95696
+indiscriminate <> w: 95701
+indiscriminately <> w: 95702, p: [50096]
+indispensable <> w: 95705, p: [45850]
+indisposed <> w: 95708, p: [17519]
+indisposition <> w: 95709
+indisputable <> w: 95711, p: [45742]
+indisputably <> w: 209361, p: [45742]
+indistinct <> w: 95713, p: [45611]
+indistinctly <> w: 95714, p: [49281]
+indistinguishable <> w: 95717, p: [16720]
+individual <> w: 95720, p: [47909, 43452, 47909, 47909]
+individualism <> w: 95725
+individualist <> w: 95726
+individualistic <> w: 95727
+individuality <> w: 95729
+individualized <> w: 95732
+individually <> w: 95733, p: [22255]
+indivisible <> w: 95736
+indoctrinate <> w: 95749
+indolence <> w: 95753
+indolent <> w: 95754, p: [17157]
+indomitable <> w: 95758
+indoor <> w: 95763, p: [51252, 33030]
+indoors <> w: 95765, p: [51252, 51252]
+indri <> w: 95771, p: [40017]
+indubitable <> w: 95777
+indubitably <> w: 95778
+induce <> w: 95779, p: [58741]
+inducement <> w: 95782
+induct <> w: 95786
+inductee <> w: 95789
+induction <> w: 95790
+inductor <> w: 95797
+indulge <> w: 95799, p: [47877]
+indulgent <> w: 95801, p: [60316]
+industrial <> w: 95815, p: [28291]
+industrial estate <> w: 228613
+industrial revolution <> w: 95829
+industrialist <> w: 96007
+industrialization <> w: 96008
+industrialize <> w: 96009
+industrialized <> w: 96010
+industrially <> w: 96011
+industrious <> w: 96012, p: [17155]
+industriously <> w: 96013
+industriousness <> w: 96014
+industry <> w: 96015, p: [23421]
+inebriate <> w: 96021
+inebriated <> w: 96022, p: [49223]
+inebriation <> w: 96023
+inedible <> w: 96025
+ineffable <> w: 96026
+ineffective <> w: 96028, p: [45740]
+ineffectual <> w: 96031
+inefficacious <> w: 96035
+inefficient <> w: 96040, p: [46255]
+inefficiently <> w: 96041, p: [46255]
+inelegant <> w: 96046
+inelegantly <> w: 96047
+ineligible <> w: 96049
+ineluctable <> w: 96052, p: [48849]
+ineluctably <> w: 96053, p: [48849]
+inept <> w: 96054, p: [45168, 39121]
+ineptly <> w: 96056, p: [50039]
+inequality <> w: 96058
+inequity <> w: 96061
+inerrant <> w: 96065
+inert <> w: 96066
+inertia <> w: 96068
+inescapable <> w: 96078, p: [48849]
+inescapably <> w: 96079, p: [48849]
+inessential <> w: 96080
+inestimable <> w: 96082
+inevitability <> w: 96083
+inevitable <> w: 96084, p: [43498]
+inevitably <> w: 96087, p: [48849]
+inexact <> w: 96088
+inexcusable <> w: 96092
+inexhaustible <> w: 96094
+inexhaustibly <> w: 96095
+inexorable <> w: 96097, p: [49401]
+inexorably <> w: 96099
+inexpedient <> w: 96102
+inexpensive <> w: 96104, p: [18710]
+inexpensively <> w: 96105, p: [50062]
+inexperience <> w: 96107
+inexperienced <> w: 96108, p: [45168]
+inexplicable <> w: 96114
+inexplicit <> w: 96116
+inexpressible <> w: 96118
+inextensible <> w: 96125
+inextricable <> w: 96129, p: [49924]
+inextricably <> w: 96130, p: [49924]
+infallibility <> w: 96131
+infallible <> w: 96132
+infamous <> w: 96133, p: [60378]
+infamously <> w: 225483
+infamy <> w: 96134
+infancy <> w: 96135, p: [19843]
+infant <> w: 96136, p: [18694]
+infant prodigy <> w: 96143, p: [35890]
+infantile <> w: 96146, p: [19516]
+infantry <> w: 96152
+infarction <> w: 96155
+infatuated <> w: 96157
+infatuation <> w: 96158
+infeasible <> w: 96160
+infect <> w: 96161, p: [28083]
+infected <> w: 96162
+infection <> w: 96163
+infectious <> w: 96164, p: [28083]
+infective <> w: 96171
+infer <> w: 96176, p: [46487]
+inference <> w: 96177
+inferential <> w: 96178
+inferior <> w: 96179
+inferiority complex <> w: 96201
+infernal <> w: 96202
+inferno <> w: 96206, p: [23175]
+infertile <> w: 96207
+infest <> w: 96209
+infestation <> w: 96210
+infidel <> w: 96211
+infidelity <> w: 96212, p: [27319]
+infield <> w: 96213
+infielder <> w: 96214
+infighting <> w: 209465
+infill <> w: 222880
+infiltrate <> w: 96215, p: [59351]
+infiltration <> w: 96216
+infinite <> w: 96218, p: [46495, 45247]
+infinitely <> w: 96219, p: [49305]
+infinitesimal <> w: 96221
+infinitesimal calculus <> p: [32620]
+infinitesimally <> w: 225419, p: [45784]
+infinitive <> w: 96224
+infinitude <> w: 96225
+infinity <> w: 96226
+infirm <> w: 96227
+infirmary <> w: 96228
+infirmity <> w: 96229
+infix <> w: 96230
+inflame <> w: 96232
+inflamed <> w: 96233
+inflammable <> w: 96236
+inflammation <> w: 96237
+inflammatory <> w: 96238
+inflatable <> w: 96241
+inflate <> w: 96243, p: [35802, 54746]
+inflated <> w: 96244
+inflation <> w: 96246
+inflection <> w: 96254
+inflexibility <> w: 96259
+inflexible <> w: 96260, p: [24015]
+inflexibly <> w: 96262
+inflict <> w: 96264, p: [59196]
+influence <> w: 96270, p: [28073]
+influencer <> w: 208666
+influential <> w: 96273
+influenza <> w: 96276, p: [17637]
+influx <> w: 96277
+infomercial <> w: 96280
+inform <> w: 96281, p: [44786]
+informal <> w: 96282, p: [17461]
+informality <> w: 96283, p: [17461]
+informally <> w: 96284
+informant <> w: 96285, p: [20842]
+information <> w: 96287, p: [15781]
+information technology <> w: 96298, p: [19392]
+informational <> w: 96301
+informative <> w: 96303, p: [46404]
+informed <> w: 96306, p: [27291]
+infotainment <> w: 96312, p: [22413]
+infra <> w: 96313
+infraction <> w: 96316
+infrared <> w: 96321
+infrastructure <> w: 96331
+infrequent <> w: 96333, p: [16861]
+infrequently <> w: 96334, p: [16861]
+infringe <> w: 96336, p: [59720]
+infringement <> w: 96337
+infuriate <> w: 96505, p: [48095]
+infuriated <> w: 96506, p: [52143]
+infuriating <> w: 96507
+infuse <> w: 96510, p: [46848, 32630]
+infusion <> w: 96511, p: [32630]
+ingeminate <> w: 96519, p: [61290]
+ingenious <> w: 96520, p: [17873]
+ingeniously <> w: 96521, p: [17873]
+ingenue <> w: 96523
+ingenuity <> w: 96524
+ingenuous <> w: 96525
+ingest <> w: 96530
+ingestion <> w: 96532
+inglenook <> w: 96533
+inglorious <> w: 96534
+ingloriously <> w: 96535
+ingraft <> w: 96539
+ingrain <> w: 96540, p: [58611]
+ingrained <> w: 96541
+ingrate <> w: 96543
+ingratiate <> w: 96544
+ingratiating <> w: 96545
+ingratitude <> w: 96549
+ingredient <> w: 96550, p: [20938, 20938]
+ingress <> w: 96552
+ingurgitate <> w: 96565, p: [32531]
+inhabit <> w: 96567
+inhabitant <> w: 96570
+inhabited <> w: 96572
+inhalation <> w: 96574, p: [20467]
+inhale <> w: 96582, p: [20467]
+inhaler <> w: 96583, p: [25797]
+inharmonious <> w: 96585
+inhere <> w: 96587
+inherent <> w: 96591
+inherently <> w: 96593
+inherit <> w: 96594, p: [31620]
+inheritance <> w: 96596, p: [31620]
+inherited <> w: 96598, p: [52849]
+inhibit <> w: 96606, p: [21278]
+inhibition <> w: 96608
+inhibitory <> w: 96610
+inhospitable <> w: 96613, p: [60272]
+inhuman <> w: 96617, p: [45230]
+inhumane <> w: 96619
+inhumation <> w: 96623, p: [35870]
+inhume <> w: 96624, p: [27884]
+inimical <> w: 96627
+inimitable <> w: 96628
+iniquitous <> w: 96631
+iniquity <> w: 96633
+initial <> w: 96634, p: [28451]
+initialism <> w: 96640
+initially <> w: 96643, p: [48995]
+initiate <> w: 96644, p: [43104]
+initiation <> w: 96645, p: [49431]
+initiative <> w: 96646
+inject <> w: 96649, p: [21404]
+injection <> w: 96652, p: [21404]
+injudiciously <> w: 96655
+injunction <> w: 96658
+injure <> w: 96659, p: [39339]
+injured <> w: 96660, p: [60596]
+injurious <> w: 96662
+injury <> w: 96665, p: [17647]
+injury time <> w: 226631
+injustice <> w: 96666
+ink <> w: 96667, p: [20747, 54370]
+inkiness <> w: 96678, p: [31671]
+inkling <> w: 96681
+inkstand <> w: 96684
+inkwell <> w: 96685
+inky <> w: 96686
+inland <> w: 96692, p: [49796, 49796]
+inlay <> w: 96697, p: [34574]
+inlet <> w: 96698
+inmate <> w: 96702
+inmost <> w: 96703
+inn <> w: 96704
+innards <> w: 96705, p: [50715]
+innate <> w: 96706
+innately <> w: 96709
+inner <> w: 96711
+inner city <> w: 96713, p: [19673]
+inner ear <> p: [30353]
+innermost <> w: 96721
+inning <> w: 96725
+innings <> w: 96726
+innit <> w: 367614
+innocence <> w: 96728
+innocent <> w: 96731, p: [60274, 45401]
+innocently <> w: 96736, p: [49984, 50162]
+innocuous <> w: 96738
+innominate bone <> p: [30287]
+innovate <> w: 96742, p: [59602]
+innovation <> w: 96743
+innovative <> w: 96745, p: [28738, 17873]
+innovator <> w: 96747
+innuendo <> w: 96750
+innumerable <> w: 96751, p: [45247]
+inoculate <> w: 96757, p: [21404]
+inoculation <> w: 96759, p: [21404]
+inoffensive <> w: 96763
+inoperative <> w: 96766
+inopportune <> w: 96767
+inopportunely <> w: 96768
+inordinate <> w: 96770, p: [49317]
+inordinately <> w: 96771, p: [45774]
+inorganic <> w: 96773
+inpatient <> w: 96782, p: [16244]
+input <> w: 96785, p: [17785, 20143]
+inquest <> w: 96792
+inquire <> w: 96794, p: [55232]
+inquirer <> w: 96795
+inquiring <> w: 96796
+inquiringly <> w: 96797
+inquiry <> w: 96798, p: [28802]
+inquisition <> w: 96800
+inquisitive <> w: 96801, p: [19266]
+inquisitively <> w: 96802
+inroad <> w: 96808
+insalubrious <> w: 96811, p: [17555]
+insane <> w: 96814, p: [42148, 18091]
+insanely <> w: 96816, p: [28636]
+insanity <> w: 96819
+insatiable <> w: 96821
+inscribe <> w: 96824, p: [51194]
+inscription <> w: 96826
+inscrutable <> w: 96830
+insect <> w: 96832, p: [50080]
+insecticide <> w: 96841
+insectivore <> w: 97003
+insectivorous <> w: 97004
+insecure <> w: 97005, p: [20215]
+insecurity <> w: 97008, p: [44936]
+inseminate <> w: 97009
+insensible <> w: 97014
+insensitive <> w: 97016, p: [60546]
+insentient <> w: 97021
+inseparable <> w: 97022
+inseparably <> w: 97023
+insert <> w: 97024, p: [47132]
+insertion <> w: 97025
+inset <> w: 97028, p: [47366]
+inside <> w: 97030, p: [14297, 31496, 31496, 14297]
+inside lane <> w: 228562
+insider <> w: 97040
+insidious <> w: 97043
+insight <> w: 97046
+insightful <> w: 97047, p: [45148]
+insignificance <> w: 97051
+insignificant <> w: 97052
+insincerely <> w: 97055
+insinuate <> w: 97057, p: [58295]
+insipid <> w: 97061, p: [32640]
+insist <> w: 97065
+insist on <> p: [45561]
+insistence <> w: 97066
+insistent <> w: 97068
+insofar as <> w: 97072
+insolence <> w: 97076
+insolent <> w: 97077
+insoluble <> w: 97080
+insolvency <> w: 97082
+insolvent <> w: 97083
+insomnia <> w: 97084
+insomniac <> w: 97085
+insouciance <> w: 97087
+insouciant <> w: 97088
+inspect <> w: 97090, p: [22638]
+inspector <> w: 97093
+inspiration <> w: 97098, p: [20782]
+inspirational <> w: 97099
+inspire <> w: 97102, p: [46390]
+inspired <> w: 97103
+inspiring <> w: 97105, p: [46390]
+inspirit <> w: 97106, p: [40165]
+inst <> w: 97110
+instability <> w: 97111
+instal <> w: 97112, p: [20141]
+install <> w: 97113, p: [47162, 20141]
+installation <> w: 97114
+installment <> w: 97117
+instance <> w: 97125
+instant <> w: 97127
+instant replay <> w: 97129
+instantaneous <> w: 97130
+instantaneously <> w: 97132, p: [43408]
+instantly <> w: 97136, p: [43408]
+instead <> w: 97139, p: [43410]
+instep <> w: 97140, p: [30507]
+instigate <> w: 97142
+instigation <> w: 97143
+instigator <> w: 97145
+instill <> w: 97147, p: [58796]
+instinct <> w: 97153
+instinctive <> w: 97154
+instinctively <> w: 97156, p: [46970]
+instinctually <> w: 225489
+institute <> w: 97157, p: [52323]
+institution <> w: 97158, p: [17911]
+institutional <> w: 97159
+institutionally <> w: 97164
+instruct <> w: 97166, p: [23993]
+instruction <> w: 97167
+instructional <> w: 97171
+instructions <> w: 97172
+instructive <> w: 97173
+instructor <> w: 97175, p: [22321, 50529]
+instrument <> w: 97178, p: [27441]
+instrument panel <> w: 97184
+instrumental <> w: 97185
+instrumentalist <> w: 97190, p: [50617]
+instrumentally <> w: 225485
+insubstantial <> w: 97196, p: [48465]
+insufferable <> w: 97199
+insufferably <> w: 97200
+insufficiency <> w: 97201
+insufficient <> w: 97202, p: [51390]
+insufficiently <> w: 97203, p: [49307]
+insulant <> w: 97206, p: [33535]
+insular <> w: 97207, p: [60176]
+insularity <> w: 97209
+insulate <> w: 97210, p: [47164]
+insulated <> w: 210285
+insulation <> w: 97212, p: [33535]
+insulator <> w: 97213, p: [31954]
+insulin <> w: 97214
+insult <> w: 97220, p: [55023]
+insulting <> w: 97221, p: [46195]
+insuperable <> w: 97223
+insurance <> w: 97229
+insure <> w: 97239, p: [60536]
+insurgence <> w: 97243
+insurgency <> w: 97244
+insurgent <> w: 97245
+insurmountable <> w: 97246
+insurrection <> w: 97247
+intact <> w: 97253
+intaglio <> w: 97255
+intake <> w: 97257
+intangible <> w: 97261, p: [45978]
+intarsia <> w: 222718
+integer <> w: 97264
+integral <> w: 97265
+integrate <> w: 97269, p: [52699]
+integrated <> w: 97270
+integration <> w: 97275
+integrative <> w: 97276
+integrity <> w: 97278
+intellect <> w: 97283
+intellectual <> w: 97285
+intellectually <> w: 97290
+intelligence <> w: 97291
+intelligence quotient <> w: 97511
+intelligent <> w: 97514, p: [17511]
+intelligently <> w: 97515, p: [42392]
+intelligible <> w: 97518, p: [43264]
+intelligibly <> w: 97519
+intemperance <> w: 97521
+intend <> w: 97525, p: [51777]
+intended <> w: 97526
+intense <> w: 97527, p: [33139, 20491]
+intensely <> w: 97528, p: [43466]
+intensifier <> w: 97531
+intensify <> w: 97532, p: [33057]
+intension <> w: 97534
+intensity <> w: 97536, p: [21386]
+intensive <> w: 97538
+intensive care <> w: 97539
+intensively <> w: 97541, p: [43038]
+intent <> w: 97543, p: [42942]
+intention <> w: 97544
+intentional <> w: 97545, p: [49678]
+intentionally <> w: 97547, p: [49678]
+intently <> w: 97548, p: [27941]
+inter <> w: 97550, p: [27884]
+interact <> w: 97556, p: [41468]
+interaction <> w: 97557
+interactive <> w: 97559
+interactively <> w: 226095
+interbreed <> w: 97567
+intercalary <> w: 97569
+intercede <> w: 97574
+intercept <> w: 97577, p: [59492]
+interception <> w: 97578
+intercession <> w: 97580
+intercessor <> w: 97581
+interchange <> w: 97582, p: [51496]
+interchangeable <> w: 97584, p: [50070]
+interchangeably <> w: 97586, p: [50070]
+intercom <> w: 97589, p: [32606]
+interconnect <> w: 97595, p: [58297]
+interconnected <> w: 97596
+intercourse <> w: 97605
+intercut <> w: 208865
+interdependent <> w: 97613
+interdict <> w: 97614, p: [58613]
+interdisciplinary <> w: 97617
+interest <> w: 97618, p: [47963, 18910]
+interest rate <> w: 97622
+interest-free <> w: 228733
+interested <> w: 97623, p: [17857]
+interesting <> w: 97625, p: [43364]
+interestingly <> w: 97626
+interface <> w: 97628
+interfere <> w: 97633
+interfere with <> p: [53208]
+interference <> w: 97634
+intergalactic <> w: 97639
+intergovernmental <> w: 217463
+interim <> w: 97641
+interior <> w: 97643, p: [31496, 31496]
+interior design <> p: [44952]
+interject <> w: 97657
+interjection <> w: 97658
+interlace <> w: 97659
+interlanguage <> w: 97663
+interleaf <> w: 97666
+interlock <> w: 97676, p: [46448]
+interlocutor <> w: 97678
+interloper <> w: 97682
+interlude <> w: 97683
+intermediary <> w: 97687
+intermediate <> w: 97688
+intermediator <> w: 97695
+interment <> w: 97696, p: [35870]
+intermezzo <> w: 97698
+interminable <> w: 97699
+intermission <> w: 97702
+intermit <> w: 97703
+intermittency <> w: 97705
+intermittent <> w: 97706, p: [45651]
+intermittently <> w: 97710, p: [50009]
+intern <> w: 97715, p: [59918, 20682]
+internal <> w: 97716, p: [28726, 19532]
+internal combustion engine <> w: 227828
+internal medicine <> w: 97732
+internalize <> w: 97746, p: [50003]
+internally <> w: 97747, p: [28726]
+international <> w: 97749, p: [28728]
+internationally <> w: 97796, p: [28728]
+internecine <> w: 97798
+internet <> w: 97800, p: [15787]
+interneuron <> w: 216760
+internist <> w: 97803, p: [33147]
+internship <> w: 97807
+interoperability <> w: 97813
+interpellate <> w: 97816
+interpersonal <> w: 97820
+interpersonally <> w: 225500
+interphase <> w: 227070
+interplanetary <> w: 97824
+interplay <> w: 97829
+interpolate <> w: 97831
+interpose <> w: 97833
+interposition <> w: 97834
+interpret <> w: 97835, p: [50665]
+interpretable <> w: 97836
+interpretation <> w: 97837
+interpreter <> w: 97842, p: [50665, 27524]
+interpretive <> w: 97844
+interregnum <> w: 98004
+interrogate <> w: 98010, p: [47787]
+interrogation <> w: 98011, p: [47787, 28802]
+interrogation point <> p: [27485]
+interrogative <> w: 98013
+interrogatory <> w: 98018, p: [47787]
+interrupt <> w: 98019, p: [23645]
+interrupted <> w: 98020
+interruption <> w: 98023
+intersect <> w: 98026
+intersecting <> w: 98028
+intersection <> w: 98029, p: [17279]
+intersectional <> w: 211201
+intersex <> w: 98031
+intersperse <> w: 98036, p: [52711]
+interstate <> w: 98038
+interstellar <> w: 98041
+interstice <> w: 98044
+intertextuality <> w: 223534
+intertidal <> w: 98052
+intertwine <> w: 98055, p: [47070]
+interval <> w: 98056
+intervene <> w: 98057
+intervention <> w: 98060
+interventionism <> w: 211197
+interview <> w: 98066, p: [19771, 42896, 42896, 19182, 42896]
+interviewee <> w: 98067
+interviewer <> w: 98068, p: [37205]
+interweave <> w: 98069
+intestacy <> w: 98071
+intestate <> w: 98072
+intestinal <> w: 98073, p: [50715]
+intestine <> w: 98081, p: [50715]
+intimacy <> w: 98086, p: [19376, 27321]
+intimate <> w: 98088, p: [23061, 58295]
+intimately <> w: 98090
+intimation <> w: 98091
+intimidate <> w: 98092, p: [27247]
+intimidating <> w: 98094, p: [45988]
+intimidation <> w: 98095, p: [27247]
+into <> w: 210056
+intolerable <> w: 98098, p: [49119]
+intolerably <> w: 98099
+intolerance <> w: 98100
+intolerant <> w: 98101, p: [60318, 32586]
+intonation <> w: 98104
+intonational <> w: 224418
+intoxicant <> w: 98108, p: [19050]
+intoxicate <> w: 98109
+intoxicated <> w: 98110, p: [18291]
+intoxicating <> w: 98111
+intracellular <> w: 98115
+intractable <> w: 98122
+intrados <> w: 98132
+intramural <> w: 98137
+intranet <> w: 98141
+intransigence <> w: 98142
+intransigent <> w: 98144, p: [49401]
+intransitive <> w: 98145
+intravenous <> w: 98163, p: [50755]
+intravenously <> w: 98170, p: [50755]
+intrepid <> w: 98174, p: [27285]
+intrepidly <> w: 98176
+intricacy <> w: 98177
+intricate <> w: 98178, p: [28614]
+intricately <> w: 98179, p: [50072]
+intrigue <> w: 98180, p: [46103]
+intrigued <> w: 210261
+intriguing <> w: 98182, p: [46103]
+intriguingly <> w: 225425, p: [17857]
+intrinsic <> w: 98183
+intrinsically <> w: 98187
+intro <> w: 98188
+introduce <> w: 98189, p: [49423, 59628]
+introducer <> w: 228736
+introduction <> w: 98190, p: [49423]
+introductory <> w: 98191, p: [28451]
+introspect <> w: 98201
+introspective <> w: 98203
+introvert <> w: 98208, p: [22255, 22255]
+introverted <> w: 98209, p: [60298]
+intrude <> w: 98212
+intruder <> w: 98214
+intrusion <> w: 98216
+intrusive <> w: 98217
+intuit <> w: 98222, p: [44850]
+intuition <> w: 98223
+intuitive <> w: 98226, p: [49680]
+intuitively <> w: 98228, p: [49680]
+inuit <> w: 98235, p: [36878]
+inundate <> w: 98241, p: [22612]
+inundated <> w: 98242
+inundation <> w: 98243, p: [36315]
+inure <> w: 98244
+inured <> w: 98245
+invade <> w: 98248, p: [48293]
+invader <> w: 98249
+invalid <> w: 98253
+invalidate <> w: 98254, p: [59910]
+invalidation <> w: 98257
+invaluable <> w: 98262
+invariable <> w: 98266
+invariably <> w: 98268, p: [49828]
+invariant <> w: 98270
+invasion <> w: 98271
+invasive <> w: 98274
+invective <> w: 98275
+inveigh <> w: 98276
+inveigle <> w: 98277, p: [44356]
+invent <> w: 98278, p: [61204]
+invention <> w: 98279
+inventive <> w: 98280, p: [17873]
+inventively <> w: 98281
+inventor <> w: 98283, p: [61188]
+inventory <> w: 98284
+inverness <> w: 220887
+inverse <> w: 98290
+inversely <> w: 98298
+inversion <> w: 98299
+invert <> w: 98300, p: [37142]
+invertebrate <> w: 98304, p: [30132, 30132]
+inverted <> w: 98306, p: [37142]
+inverted comma <> w: 98307, p: [27473]
+inverter <> w: 98310
+invest <> w: 98312, p: [27768]
+investigate <> w: 98313, p: [26365, 26365]
+investigation <> w: 98315, p: [26365]
+investigative <> w: 98316
+investigator <> w: 98317, p: [16318]
+investing <> w: 98503, p: [27768]
+investiture <> w: 98504, p: [30048]
+investment <> w: 98505, p: [27768]
+investor <> w: 98514
+inveterate <> w: 98516
+invidious <> w: 98518
+invigilate <> w: 98520
+invigilation <> w: 98521
+invigilator <> w: 98522
+invigorate <> w: 98523, p: [59018]
+invigorated <> w: 98524
+invigorating <> w: 98525
+invincible <> w: 98529, p: [45369]
+inviolable <> w: 98532
+inviolate <> w: 98533
+invisible <> w: 98536, p: [23099, 28642]
+invisibly <> w: 98539
+invitation <> w: 98540, p: [18736]
+invite <> w: 98543, p: [19480, 18736]
+invitee <> w: 98545, p: [20297]
+inviting <> w: 98546
+invocation <> w: 98548
+invoice <> w: 98549, p: [14206]
+invoke <> w: 98550, p: [47526]
+involuntarily <> w: 98553, p: [47300]
+involuntary <> w: 98555
+involution <> w: 98559
+involve <> w: 98561, p: [59541, 60819]
+involved <> w: 98562
+involvement <> w: 98563, p: [27321]
+invulnerable <> w: 98565
+inward <> w: 98566, p: [48447, 48447]
+inwardly <> w: 98569
+iodine <> w: 98585
+ion <> w: 98601
+ionic <> w: 98612
+ionosphere <> w: 98629
+iota <> w: 98635
+ipod <> w: 98647, p: [29226]
+irascibility <> w: 98694
+irascible <> w: 98695
+irate <> w: 98696
+ire <> w: 98698, p: [52143]
+ireful <> w: 98699
+iridescent <> w: 98716
+iridium <> w: 98718
+iridology <> w: 209947
+iris <> w: 98726, p: [30371, 29816, 38753]
+irk <> w: 98779, p: [46324]
+irksome <> w: 98780
+iron <> w: 98781, p: [61190, 50771, 33309]
+iron rations <> w: 220148
+ironed <> w: 98820, p: [33311]
+ironic <> w: 98821
+ironically <> w: 98823, p: [49644, 46392]
+ironing <> w: 98824, p: [33309]
+ironing board <> w: 98825, p: [33910]
+ironworker <> w: 98841
+irony <> w: 98843
+irradiate <> w: 98848, p: [45569]
+irradiation <> w: 98849
+irrational <> w: 98850, p: [45613]
+irrationally <> w: 98856, p: [45613]
+irreconcilable <> w: 98861
+irreducible <> w: 98867
+irrefutable <> w: 98868, p: [46670]
+irregular <> w: 99003, p: [43424]
+irregularly <> w: 99005, p: [45940]
+irrelevant <> w: 99008, p: [51186]
+irreligious <> w: 99012
+irreparable <> w: 99016, p: [49032]
+irreparably <> w: 99017, p: [49032]
+irreplaceable <> w: 99018
+irrepressible <> w: 99021
+irreproachable <> w: 99022
+irreproachably <> w: 99023
+irresistible <> w: 99027, p: [50074]
+irresistibly <> w: 99030, p: [50074]
+irresolute <> w: 99031
+irrespective <> w: 99035
+irresponsible <> w: 99037, p: [50011]
+irresponsibly <> w: 99039, p: [50011]
+irretrievably <> w: 99041
+irreverent <> w: 99043
+irreversible <> w: 99046, p: [49069]
+irreversibly <> w: 99048, p: [49069]
+irrevocable <> w: 99049
+irrevocably <> w: 99050
+irrigate <> w: 99055, p: [47923]
+irrigation <> w: 99056
+irritable <> w: 99059, p: [60412]
+irritably <> w: 99061
+irritant <> w: 99062
+irritate <> w: 99063, p: [20259]
+irritated <> w: 99064, p: [42600]
+irritating <> w: 99065, p: [46127, 49932]
+irritatingly <> w: 99066
+irritation <> w: 99067, p: [52131, 29426]
+island <> w: 99159, p: [49103]
+islander <> w: 99165
+isle <> w: 99168, p: [49103]
+islet <> w: 99175, p: [49103]
+ism <> w: 99177, p: [31530]
+isobar <> w: 99186
+isochronous <> w: 99194
+isolate <> w: 99216, p: [46910]
+isolated <> w: 99217
+isolating <> w: 99218
+isolation <> w: 99219
+isolationism <> w: 99220
+isomer <> w: 99226
+isomeric <> w: 99228
+isometric <> w: 99234
+isosceles <> w: 99259
+isosceles triangle <> w: 99260, p: [35501]
+isostasy <> w: 99265
+isothermal <> w: 99267
+isotonic <> w: 99270
+isotope <> w: 99273
+issue <> w: 99290, p: [48331, 59276, 35868, 60837]
+ist <> w: 228690
+isthmus <> w: 99298, p: [31938]
+it <> w: 99314, p: [37261, 37261]
+italic <> w: 99343
+itch <> w: 99349, p: [36291, 59946]
+itchy <> w: 99353, p: [29426]
+item <> w: 99355
+iterate <> w: 99361, p: [61290]
+iteratively <> w: 225407
+itinerant <> w: 99369
+itinerary <> w: 99370, p: [31763]
+itinerate <> w: 99502
+its <> w: 210158, p: [37301]
+itself <> w: 217419
+itsy-bitsy <> w: 99505
+iv <> w: 99508, p: [35946, 25705]
+ivory <> w: 99526, p: [28944, 38803]
+ivory tower <> p: [44784]
+ivy <> w: 99542, p: [51140]
+ix <> w: 99554, p: [35976, 35976]

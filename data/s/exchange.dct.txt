@@ -1,0 +1,5000 @@
+SA <> s: sas
+sab <> s: sabs, i: sabbing
+Sabah <> s: sabahs
+Sabatini <> s: sabatini, b: sabatini, f: s
+Sabbath <> s: sabbaths
+sabbatical <> s: sabbaticals
+sabbaticals <> b: sabbatical, f: s
+sabbing <> b: sab, f: i
+saber <> i: sabering, p: sabered, '3': sabers, d: sabered
+sabered <> f: pd, b: saber
+sabering <> f: i, b: saber
+sabers <> f: '3', b: saber
+sabine <> s: sabines
+sabines <> b: sabine, f: s
+sabkha <> s: sabkhas
+sabkhas <> b: sabkha, f: s
+sable <> s: sables
+sables <> b: sable, f: s
+sabotage <> d: sabotaged, i: sabotaging, p: sabotaged, '3': sabotages
+sabotaged <> b: sabotage, f: dp, p: sabotaged
+sabotages <> b: sabotage, f: '3'
+sabotaging <> b: sabotage, f: i
+saboteur <> s: saboteurs
+saboteurs <> b: saboteur, f: s
+sabre <> s: sabres
+sabres <> b: sabre, f: s
+sabs <> b: sab, f: s
+SAC <> s: sacs
+saccade <> s: saccades, '3': saccades
+saccades <> b: saccade, f: s3
+saccharine <> s: saccharines
+saccharines <> b: saccharine, f: s
+sacculation <> s: sacculations
+sacculations <> b: sacculation, f: s
+sachet <> s: sachets
+sachets <> b: sachet, f: s
+sack <> d: sacked, s: sacks, p: sacked, i: sacking, '3': sacks
+sackbut <> s: sackbuts
+sackbuts <> b: sackbut, f: s
+sacked <> b: sack, f: dp, d: sacked, p: sacked
+sackful <> s: sackfuls
+sackfuls <> b: sackful, f: s
+sacking <> b: sack, f: i, s: sackings, i: sacking
+sacks <> b: sack, f: s3
+sacrament <> s: sacraments
+sacramental <> s: sacramentals
+sacramentals <> b: sacramental, f: s
+sacraments <> b: sacrament, f: s
+sacrifice <> s: sacrifices, d: sacrificed, i: sacrificing, p: sacrificed, '3': sacrifices
+sacrificed <> b: sacrifice, f: dp, p: sacrificed
+sacrifices <> b: sacrifice, f: s3
+sacrificing <> b: sacrifice, f: i
+sacrist <> s: sacrists
+sacristan <> s: sacristans
+sacristans <> b: sacristan, f: s
+sacristies <> b: sacristy, f: s
+sacrists <> b: sacrist, f: s
+sacristy <> s: sacristies
+sacs <> b: sac, f: s
+sad <> t: saddest, r: sadder
+sadden <> d: saddened, '3': saddens, p: saddened, i: saddening
+saddened <> b: sadden, f: dp, d: saddened
+saddening <> b: sadden, f: i
+saddens <> b: sadden, f: '3'
+sadder <> b: sad, f: r
+saddest <> b: sad, f: t
+saddle <> d: saddled, s: saddles, p: saddled, i: saddling, '3': saddles
+saddlebag <> s: saddlebags
+saddlebags <> b: saddlebag, f: s
+saddlecloth <> s: saddlecloths
+saddlecloths <> b: saddlecloth, f: s
+saddled <> b: saddle, f: dp, p: saddled
+saddler <> s: saddlers
+saddlers <> b: saddler, f: s
+saddles <> b: saddle, f: s3
+saddling <> b: saddle, f: i
+Sadducee <> s: sadducees
+sadist <> s: sadists
+sadists <> b: sadist, f: s
+sadness <> s: sadnesses
+sadnesses <> b: sadness, f: s
+sae <> p: saed, s: saes
+saed <> b: sae, f: p
+saes <> b: sae, f: s
+safari <> s: safaris
+safaris <> b: safari, f: s
+safe <> r: safer, t: safest, s: safes
+safe-breaker <> s: safe-breakers
+safe-breakers <> b: safe-breaker, f: s
+safeguard <> s: safeguards, i: safeguarding, d: safeguarded, '3': safeguards, p: safeguarded
+safeguarded <> b: safeguard, f: dp
+safeguarding <> b: safeguard, f: i
+safeguards <> b: safeguard, f: s3
+safer <> b: safe, f: r
+safes <> b: safe, f: s
+safest <> b: safe, f: t, r: safest
+sag <> p: sagged, i: sagging, '3': sags, s: sags, d: sagged
+saga <> s: sagas, i: sagaing
+sagaing <> b: saga, f: i
+sagas <> b: saga, f: s
+sage <> s: sages, t: sagest, r: sager
+sager <> b: sage, f: r
+sages <> b: sage, f: s
+sagest <> b: sage, f: t
+saggar <> s: saggars
+saggars <> b: saggar, f: s
+sagged <> b: sag, f: pd
+sagging <> b: sag, f: i, i: sagging
+sags <> b: sag, f: 3s
+saguaro <> s: saguaros
+saguaros <> b: saguaro, f: s
+Sahelian <> s: sahelians
+sahib <> s: sahibs
+sahibs <> b: sahib, f: s
+sai <> s: sai, b: sai, f: s
+said <> b: say, f: pd, p: said, d: said, '3': saids
+saids <> b: said, f: '3'
+sail <> i: sailing, p: sailed, s: sails, d: sailed, '3': sails
+sailboard <> s: sailboards, i: sailboarding
+sailboarding <> b: sailboard, f: i
+sailboards <> b: sailboard, f: s
+sailboat <> s: sailboats
+sailboats <> b: sailboat, f: s
+sailed <> b: sail, f: pd
+sailer <> s: sailers
+sailers <> b: sailer, f: s
+sailing <> b: sail, f: i, i: sailing, s: sailings
+sailmaker <> s: sailmakers
+sailmakers <> b: sailmaker, f: s
+sailmaking <> b: sailmake, f: i
+sailor <> s: sailors
+sailors <> b: sailor, f: s
+sailplane <> s: sailplanes
+sailplanes <> b: sailplane, f: s
+sails <> b: sail, f: s3
+Saint <> s: saints, i: sainting, p: sainted, '3': saints, d: sainted
+sainted <> f: pd, b: saint
+sainting <> f: i, b: saint
+saintliest <> b: saintly, f: t
+saintly <> t: saintliest
+saints <> f: s3, b: saint
+Sak <> s: saks, '3': saks
+sake <> s: sakes
+saker <> s: sakers
+sakers <> b: saker, f: s
+sakes <> b: sake, f: s
+sala <> s: salas
+salaam <> s: salaams, i: salaaming, p: salaamed, '3': salaams, d: salaamed
+salaams <> b: salaam, f: s
+salad <> s: salads
+salads <> b: salad, f: s
+Salamanca <> s: salamancas
+salamander <> s: salamanders, '3': salamanders
+salamanders <> b: salamander, f: s3
+salami <> s: salamis
+salamis <> b: salami, f: s
+salaries <> b: salary, f: s
+salary <> s: salaries
+salaryman <> s: salarymen
+salarymen <> b: salaryman, f: s
+salas <> b: sala, f: s
+saleroom <> s: salerooms
+salerooms <> b: saleroom, f: s
+salesgirl <> s: salesgirls
+salesgirls <> b: salesgirl, f: s
+Salesian <> s: salesians
+salesman <> s: salesmen
+salesmen <> b: salesman, f: s
+salespeople <> s: salespeople, b: salespeople, f: s
+salesperson <> s: salespersons
+salespersons <> b: salesperson, f: s
+salesroom <> s: salesrooms
+salesrooms <> b: salesroom, f: s
+saleswoman <> s: saleswomen
+saleswomen <> b: saleswoman, f: s
+salicylate <> s: salicylates
+salicylates <> b: salicylate, f: s
+salient <> s: salients
+salients <> b: salient, f: s
+Salieri <> s: salieri, b: salieri, f: s
+salinities <> b: salinity, f: s
+salinity <> s: salinities
+salivate <> p: salivated, i: salivating, '3': salivates, d: salivated
+salivated <> b: salivate, f: pd
+salivates <> b: salivate, f: '3'
+salivating <> b: salivate, f: i
+sallet <> s: sallets
+sallets <> b: sallet, f: s
+sallied <> b: sally, f: p
+sallies <> b: sally, f: s3
+sallow <> s: sallows, i: sallowing, p: sallowed, '3': sallows, d: sallowed
+sallowed <> f: pd, b: sallow
+sallowing <> f: i, b: sallow
+sallows <> f: s3, b: sallow
+sally <> s: sallies, p: sallied, '3': sallies
+salmon <> s: salmons
+salmonberries <> b: salmonberry, f: s
+salmonberry <> s: salmonberries
+salmonella <> s: salmonellas
+salmonellas <> b: salmonella, f: s
+salmonid <> s: salmonids
+salmonids <> b: salmonid, f: s
+salmonoid <> s: salmonoids
+salmonoids <> b: salmonoid, f: s
+salmons <> b: salmon, f: s
+salomon <> s: salomons
+salomons <> b: salomon, f: s
+salon <> s: salons
+salons <> b: salon, f: s
+saloon <> s: saloons
+saloons <> b: saloon, f: s
+salopettes <> b: salopette, f: s
+Salopian <> s: salopians
+salp <> s: salps
+salps <> b: salp, f: s
+salt <> s: salts, d: salted, i: salting, p: salted, '3': salts
+saltation <> s: saltations
+saltations <> b: saltation, f: s
+salted <> f: dp, b: salt, d: salted
+salter <> s: salters
+salters <> b: salter, f: s
+saltier <> b: salty, f: r
+salting <> b: salt, f: i, s: saltings
+saltire <> s: saltires
+saltires <> b: saltire, f: s
+saltmarsh <> s: saltmarshes
+saltmarshes <> b: saltmarsh, f: s
+salts <> f: s3, b: salt
+saltwater <> b: saltwate, f: r
+salty <> r: saltier
+salut <> s: saluts
+salutation <> s: salutations
+salutations <> b: salutation, f: s
+salute <> p: saluted, '3': salutes, i: saluting, d: saluted, s: salutes
+saluted <> b: salute, f: pd, p: saluted
+salutes <> b: salute, f: 3s
+saluting <> b: salute, f: i, i: saluting
+saluts <> b: salut, f: s
+salvadorean <> s: salvadoreans
+salvadoreans <> b: salvadorean, f: s
+salvage <> d: salvaged, p: salvaged, i: salvaging, s: salvages, '3': salvages
+salvaged <> b: salvage, f: dp, d: salvaged, p: salvaged
+salvager <> s: salvagers
+salvagers <> b: salvager, f: s
+salvages <> b: salvage, f: s3
+salvaging <> b: salvage, f: i
+salvationist <> s: salvationists
+salvationists <> b: salvationist, f: s
+salve <> p: salved, '3': salves, d: salved, i: salving, s: salves
+salved <> b: salve, f: pd
+salver <> s: salvers
+salvers <> b: salver, f: s
+salves <> b: salve, f: 3s
+salvia <> s: salvias
+salvias <> b: salvia, f: s
+salving <> b: salve, f: i
+salvo <> s: salvos
+salvor <> s: salvors
+salvors <> b: salvor, f: s
+salvos <> b: salvo, f: s
+salwar <> s: salwars
+salwars <> b: salwar, f: s
+saman <> s: samen
+Samaritan <> s: samaritans
+samaritans <> b: samaritan, f: s
+samba <> i: sambaing, p: sambaed, '3': sambas, d: sambaed
+sambaed <> f: pd, b: samba
+sambaing <> f: i, b: samba
+sambal <> s: sambals
+sambals <> b: sambal, f: s
+sambar <> s: sambars
+sambars <> b: sambar, f: s
+sambas <> f: '3', b: samba
+samen <> b: saman, f: s
+samian <> s: samians
+samians <> b: samian, f: s
+Samnite <> s: samnites
+samo <> s: samos
+samoan <> s: samoans
+samoans <> b: samoan, f: s
+SAMOS <> b: samo, f: s
+samosa <> s: samosas
+samosas <> b: samosa, f: s
+samovar <> s: samovars
+samovars <> b: samovar, f: s
+sampan <> s: sampans
+sampans <> b: sampan, f: s
+sample <> s: samples, d: sampled, i: sampling, p: sampled, '3': samples
+sampled <> b: sample, f: dp, p: sampled, d: sampled
+sampler <> s: samplers
+samplers <> b: sampler, f: s
+samples <> b: sample, f: s3
+sampling <> b: sample, f: i, i: sampling, s: samplings
+samsung <> p: samsung, b: samsung, f: pd, d: samsung
+samways <> b: samway, f: s
+sanatorium <> s: sanatoriums
+sanatoriums <> b: sanatorium, f: s
+sanctified <> b: sanctify, f: pd, p: sanctified, d: sanctified
+sanctify <> p: sanctified, d: sanctified, i: sanctifying, '3': sanctifies
+sanction <> s: sanctions, d: sanctioned, i: sanctioning, p: sanctioned, '3': sanctions
+sanctioned <> b: sanction, f: dp, d: sanctioned, p: sanctioned
+sanctioning <> b: sanction, f: i, i: sanctioning
+sanctions <> b: sanction, f: s3
+sanctities <> b: sanctity, f: s
+sanctity <> s: sanctities
+sanctuaries <> b: sanctuary, f: s
+sanctuary <> s: sanctuaries
+sanctum <> s: sanctums
+sanctums <> b: sanctum, f: s
+sand <> s: sands, i: sanding, d: sanded, p: sanded, '3': sands
+sandal <> s: sandals
+sandalled <> p: sandalled, b: sandalled, f: p
+sandals <> b: sandal, f: s
+sandalwood <> s: sandalwoods
+sandalwoods <> b: sandalwood, f: s
+sandbag <> s: sandbags, d: sandbagged, i: sandbagging, p: sandbagged, '3': sandbags
+sandbagged <> b: sandbag, f: dp
+sandbagging <> b: sandbag, f: i
+sandbags <> f: s3, b: sandbag
+sandbank <> s: sandbanks
+sandbanks <> b: sandbank, f: s
+sandbar <> s: sandbars
+sandbars <> b: sandbar, f: s
+sandblast <> d: sandblasted, i: sandblasting, p: sandblasted, '3': sandblasts
+sandblasted <> b: sandblast, f: dp
+sandblasting <> b: sandblast, f: i, i: sandblasting
+sandbox <> s: sandboxes
+sandboxes <> b: sandbox, f: s
+sandcastle <> s: sandcastles
+sandcastles <> b: sandcastle, f: s
+sanded <> b: sand, f: dp, p: sanded
+sander <> s: sanders
+sanderling <> b: sanderl, f: i
+sanders <> b: sander, f: s
+sandflies <> b: sandfly, f: s
+sandfly <> s: sandflies
+sandhill <> s: sandhills
+sandhills <> b: sandhill, f: s
+sandhopper <> s: sandhoppers
+sandhoppers <> b: sandhopper, f: s
+sandier <> b: sandy, f: r
+sanding <> b: sand, f: i, i: sanding, s: sandings
+Sandinista <> s: sandinistas
+sandpaper <> p: sandpapered, i: sandpapering, d: sandpapered, '3': sandpapers
+sandpapered <> b: sandpaper, f: pd, d: sandpapered
+sandpapering <> b: sandpaper, f: i
+sandpapers <> f: '3', b: sandpaper
+sandpiper <> s: sandpipers
+sandpipers <> b: sandpiper, f: s
+sandpit <> s: sandpits
+sandpits <> b: sandpit, f: s
+sands <> f: s3, b: sand
+sandshoe <> s: sandshoes
+sandshoes <> b: sandshoe, f: s
+sandstone <> s: sandstones
+sandstones <> b: sandstone, f: s
+sandstorm <> s: sandstorms
+sandstorms <> b: sandstorm, f: s
+sandwich <> s: sandwiches, d: sandwiched, i: sandwiching, p: sandwiched, '3': sandwiches
+sandwiched <> f: dp, b: sandwich
+sandwiches <> f: s3, b: sandwich
+sandwiching <> b: sandwich, f: i
+sandy <> r: sandier
+sane <> r: saner, t: sanest
+saner <> b: sane, f: r
+sanest <> b: sane, f: t
+sang <> b: sing, f: p
+sangar <> s: sangars
+sangars <> b: sangar, f: s
+Sanger <> s: sangers
+sanitise <> p: sanitised, d: sanitised, '3': sanitises
+sanitised <> d: sanitised, b: sanitised, f: dp, p: sanitised
+sanitises <> b: sanitise, f: '3'
+sanitize <> p: sanitized, d: sanitized, i: sanitizing, '3': sanitizes
+sanitized <> p: sanitized, b: sanitized, f: p
+sanitizer <> s: sanitizers
+sanitizers <> b: sanitizer, f: s
+sanitizes <> f: '3', b: sanitize
+sanitizing <> f: i, b: sanitize
+sank <> b: sink, f: p
+Sankey <> s: sankeys
+santolina <> s: santolinas
+santolinas <> b: santolina, f: s
+Santorini <> s: santorini, b: santorini, f: s
+sap <> d: sapped, p: sapped, i: sapping, '3': saps, s: saps
+sapien <> s: sapiens
+sapiens <> b: sapien, f: s
+sapling <> s: saplings
+saplings <> b: sapling, f: s
+sapodilla <> s: sapodillas
+sapodillas <> b: sapodilla, f: s
+saponified <> f: pd, b: saponify
+saponifies <> f: '3', b: saponify
+saponify <> i: saponifying, p: saponified, '3': saponifies, d: saponified
+saponifying <> f: i, b: saponify
+saponin <> s: saponins
+saponins <> b: saponin, f: s
+sapped <> b: sap, f: dp
+sapper <> s: sappers
+sappers <> b: sapper, f: s
+sapphic <> s: sapphics
+sapphics <> b: sapphic, f: s
+sapphire <> s: sapphires, '3': sapphires
+sapphires <> b: sapphire, f: s3
+sapping <> b: sap, f: i, i: sapping
+saps <> b: sap, f: 3s
+saracen <> s: saracens
+saracens <> b: saracen, f: s
+Saratoga <> s: saratogas
+sarcasm <> s: sarcasms
+sarcasms <> b: sarcasm, f: s
+sarcoma <> s: sarcomas
+sarcomas <> b: sarcoma, f: s
+sarcomere <> s: sarcomeres
+sarcomeres <> b: sarcomere, f: s
+sarcophagi <> s: sarcophagi, b: sarcophagi, f: s
+sard <> s: sards
+sardine <> s: sardines, p: sardined
+sardined <> b: sardine, f: p
+sardines <> b: sardine, f: s
+Sardinian <> s: sardinians
+sardinians <> b: sardinian, f: s
+sards <> b: sard, f: s
+sari <> s: saris
+saris <> b: sari, f: s
+sark <> i: sarking
+sarking <> b: sark, f: i
+Sarmatian <> s: sarmatians
+sarong <> s: sarongs, i: saronging
+saronging <> b: sarong, f: i
+sarongs <> b: sarong, f: s
+SAS <> b: sa, f: s
+sash <> s: sashes
+sashay <> p: sashayed, i: sashaying, '3': sashays, s: sashays, d: sashayed
+sashayed <> b: sashay, f: p
+sashaying <> b: sashay, f: i
+sashays <> b: sashay, f: 3s
+sashes <> b: sash, f: s
+sasine <> s: sasines
+sasines <> b: sasine, f: s
+sass <> i: sassing, p: sassed, '3': sasses, d: sassed
+sassed <> f: pd, b: sass
+Sassenach <> s: sassenachs
+sasses <> f: '3', b: sass
+sassing <> f: i, b: sass
+sat <> b: sit, f: pd, s: sats, '3': sats
+satanist <> s: satanists
+satanists <> b: satanist, f: s
+satchel <> s: satchels
+satchels <> b: satchel, f: s
+sate <> d: sated, s: sates, i: sating, p: sated, '3': sates
+sated <> b: sate, f: dp
+satellite <> s: satellites
+satellites <> b: satellite, f: s
+sates <> f: s3, b: sate
+sati <> s: sati, b: sati, f: s
+satiate <> d: satiated, p: satiated, '3': satiates, i: satiating, s: satiates
+satiated <> b: satiate, f: dp, p: satiated
+satiates <> b: satiate, f: 3s
+satiating <> b: satiate, f: i
+satieties <> b: satiety, f: s
+satiety <> s: satieties
+satin <> s: satins
+sating <> b: sate, f: i
+satins <> b: satin, f: s
+satire <> s: satires
+satires <> b: satire, f: s
+satirise <> '3': satirises, d: satirised, i: satirising, p: satirised
+satirised <> b: satirise, f: dp
+satirises <> b: satirise, f: '3'
+satirising <> b: satirise, f: i
+satirist <> s: satirists
+satirists <> b: satirist, f: s
+satirize <> d: satirized, '3': satirizes, i: satirizing, p: satirized
+satirized <> b: satirize, f: dp
+satirizes <> b: satirize, f: '3'
+satirizing <> b: satirize, f: i
+satisfaction <> s: satisfactions
+satisfactions <> b: satisfaction, f: s
+satisfice <> i: satisficing
+satisficing <> b: satisfice, f: i, i: satisficing
+satisfied <> d: satisfied, b: satisfied, f: dp, p: satisfied
+satisfies <> b: satisfy, f: '3'
+satisfy <> '3': satisfies, d: satisfied, i: satisfying, p: satisfied
+satisfying <> b: satisfy, f: i, i: satisfying
+satori <> s: satori, b: satori, f: s
+satrap <> s: satraps
+satrapies <> b: satrapy, f: s
+satraps <> b: satrap, f: s
+satrapy <> s: satrapies
+sats <> b: sat, f: s3
+satsuma <> s: satsumas
+satsumas <> b: satsuma, f: s
+saturate <> d: saturated, i: saturating, '3': saturates, p: saturated, s: saturates
+saturated <> d: saturated, b: saturated, f: d
+saturates <> b: saturate, f: 3s
+saturating <> b: saturate, f: i
+saturation <> s: saturations
+saturations <> b: saturation, f: s
+Saturday <> s: saturdays
+Saturdays <> b: saturday, f: s
+Saturnalia <> s: saturnalias
+satyr <> s: satyrs
+satyrs <> b: satyr, f: s
+sauce <> s: sauces, d: sauced, i: saucing, p: sauced, '3': sauces
+sauced <> f: dp, b: sauce, p: sauced
+saucepan <> s: saucepans
+saucepans <> b: saucepan, f: s
+saucer <> s: saucers
+saucers <> b: saucer, f: s
+sauces <> f: s3, b: sauce
+saucier <> b: saucy, f: r
+sauciest <> b: saucy, f: t
+saucing <> f: i, b: sauce
+saucisson <> s: saucissons
+saucissons <> b: saucisson, f: s
+saucy <> t: sauciest, r: saucier
+saudade <> s: saudades
+saudades <> b: saudade, f: s
+saudi <> s: saudis
+sauna <> s: saunas
+saunas <> b: sauna, f: s
+saunter <> p: sauntered, i: sauntering, d: sauntered, '3': saunters, s: saunters
+sauntered <> b: saunter, f: pd
+saunterer <> s: saunterers
+saunterers <> b: saunterer, f: s
+sauntering <> b: saunter, f: i
+saunters <> b: saunter, f: 3s
+saurian <> s: saurians
+saurians <> b: saurian, f: s
+saurischian <> s: saurischians
+saurischians <> b: saurischian, f: s
+sauropod <> s: sauropods
+sauropods <> b: sauropod, f: s
+sausage <> s: sausages
+sausages <> b: sausage, f: s
+Sauvignon <> s: sauvignons
+savage <> s: savages, d: savaged, p: savaged, i: savaging, '3': savages
+savaged <> b: savage, f: dp, d: savaged, p: savaged
+savages <> f: s3, b: savage
+savaging <> b: savage, f: i, i: savaging
+savanna <> s: savannas
+savannah <> s: savannahs
+savannahs <> b: savannah, f: s
+savannas <> b: savanna, f: s
+savant <> s: savants
+savants <> b: savant, f: s
+save <> d: saved, p: saved, i: saving, '3': saves, s: saves
+saved <> b: save, f: dp, p: saved, d: saved
+saveloy <> s: saveloys
+saveloys <> b: saveloy, f: s
+saver <> s: savers
+savers <> b: saver, f: s
+saves <> b: save, f: 3s
+saving <> b: save, f: i, s: savings, i: saving
+saviour <> s: saviours
+saviours <> b: saviour, f: s
+savor <> i: savoring, p: savored, '3': savors, d: savored
+savories <> b: savory, f: s
+savory <> s: savories
+savour <> i: savouring, p: savoured, d: savoured, '3': savours
+savoured <> b: savour, f: pd, p: savoured
+savouries <> b: savoury, f: s
+savouring <> b: savour, f: i
+savours <> b: savour, f: '3'
+savoury <> s: savouries
+savoy <> s: savoys
+savoys <> b: savoy, f: s
+savvied <> f: pd, b: savvy
+savvies <> f: '3', b: savvy
+savviest <> b: savvy, f: t
+savvy <> t: savviest, i: savvying, p: savvied, '3': savvies, d: savvied
+savvying <> f: i, b: savvy
+saw <> b: see, f: p, i: sawing, s: saws, d: sawn, p: sawed, '3': saws
+sawbill <> s: sawbills
+sawbills <> b: sawbill, f: s
+sawed <> b: saw, f: pd
+sawflies <> b: sawfly, f: s
+sawfly <> s: sawflies
+sawing <> b: saw, f: i, i: sawing
+sawmill <> s: sawmills
+sawmills <> b: sawmill, f: s
+sawn <> b: saw, f: d, d: sawn
+saws <> b: saw, f: s3
+sawy <> r: sawyer
+sawyer <> s: sawyers, b: sawy, f: r
+sawyers <> b: sawyer, f: s
+sax <> s: saxes, '3': saxes
+saxes <> b: sax, f: s3
+saxifrage <> s: saxifrages, '3': saxifrages
+saxifrages <> b: saxifrage, f: s3
+Saxon <> s: saxons
+saxophone <> s: saxophones
+saxophones <> b: saxophone, f: s
+saxophonist <> s: saxophonists
+saxophonists <> b: saxophonist, f: s
+say <> p: said, '3': says, d: said, i: saying
+Saye <> s: sayes
+sayer <> s: sayers
+sayers <> b: sayer, f: s
+saying <> b: say, f: i, i: saying, s: sayings
+sayings <> b: saying, f: s
+sayle <> s: sayles
+sayles <> b: sayle, f: s
+scab <> s: scabs, d: scabbed, p: scabbed, i: scabbing, '3': scabs
+scabbard <> s: scabbards
+scabbards <> b: scabbard, f: s
+scabbed <> b: scab, f: dp
+scabbiest <> b: scabby, f: t
+scabbing <> f: i, b: scab
+scabby <> t: scabbiest
+scabies <> b: scaby, f: s
+scabland <> s: scablands
+scablands <> b: scabland, f: s
+scabs <> f: s3, b: scab
+scad <> s: scads
+scads <> b: scad, f: s
+scaffold <> d: scaffolded, i: scaffolding, s: scaffolds, p: scaffolded, '3': scaffolds
+scaffolded <> f: dp, b: scaffold
+scaffolder <> s: scaffolders
+scaffolders <> b: scaffolder, f: s
+scaffolding <> s: scaffoldings, i: scaffolding, b: scaffolding, f: i
+scaffolds <> f: s3, b: scaffold
+scalar <> s: scalars
+scalars <> b: scalar, f: s
+scald <> p: scalded, i: scalding, d: scalded, s: scalds, '3': scalds
+scalded <> b: scald, f: pd, p: scalded, d: scalded
+scalding <> b: scald, f: i, i: scalding
+scalds <> b: scald, f: s3
+scale <> s: scales, d: scaled, i: scaling, p: scaled, '3': scales
+scaled <> b: scale, f: dp, d: scaled, p: scaled
+scaler <> s: scalers
+scalers <> b: scaler, f: s
+scales <> f: s3, b: scale
+scaling <> b: scale, f: i, i: scaling, s: scalings
+scallies <> b: scally, f: s
+scallop <> s: scallops, i: scalloping, p: scalloped, '3': scallops, d: scalloped
+scalloped <> f: pd, b: scallop
+scalloping <> f: i, b: scallop
+scallops <> f: s3, b: scallop
+scally <> s: scallies
+scallywag <> s: scallywags
+scallywags <> b: scallywag, f: s
+scalp <> s: scalps, d: scalped, i: scalping, p: scalped, '3': scalps
+scalped <> b: scalp, f: dp, p: scalped
+scalpel <> s: scalpels, i: scalpelling
+scalpelling <> b: scalpel, f: i
+scalpels <> b: scalpel, f: s
+scalper <> s: scalpers
+scalpers <> b: scalper, f: s
+scalping <> b: scalp, f: i, i: scalping
+scalps <> b: scalp, f: s3
+scam <> s: scams, '3': scams, d: scammed, i: scamming, p: scammed
+scammed <> b: scam, f: d
+scamp <> s: scamps, i: scamping, p: scamped, '3': scamps, d: scamped
+scamped <> f: pd, b: scamp
+scamper <> p: scampered, i: scampering, d: scampered, '3': scampers
+scampered <> b: scamper, f: pd
+scampering <> b: scamper, f: i
+scampers <> b: scamper, f: '3'
+scamping <> f: i, b: scamp
+scamps <> f: s3, b: scamp
+scams <> b: scam, f: s3
+scan <> i: scanning, p: scanned, d: scanned, s: scans, '3': scans
+scandal <> s: scandals
+scandalise <> i: scandalising, p: scandalised, '3': scandalises, d: scandalised
+scandalised <> d: scandalised, b: scandalised, f: dp, p: scandalised
+scandalises <> b: scandalise, f: '3'
+scandalising <> b: scandalise, f: i
+scandalize <> d: scandalized, p: scandalized, i: scandalizing, '3': scandalizes
+scandalized <> b: scandalize, f: dp, d: scandalized, p: scandalized
+scandalizes <> b: scandalize, f: '3'
+scandalizing <> b: scandalize, f: i
+scandalmonger <> s: scandalmongers, '3': scandalmongers, i: scandalmongering
+scandalmongering <> b: scandalmonger, f: i
+scandalmongers <> b: scandalmonger, f: s3
+scandals <> b: scandal, f: s
+Scandinavian <> s: scandinavians
+scanned <> b: scan, f: pd, d: scanned, p: scanned
+scanner <> s: scanners
+scanners <> b: scanner, f: s
+scanning <> b: scan, f: i, i: scanning
+scans <> b: scan, f: s3
+scant <> d: scanted, t: scantest, i: scanting, p: scanted, '3': scants
+scanted <> f: dp, b: scant
+scantest <> b: scant, f: t
+scanties <> b: scanty, f: s
+scantiest <> b: scanty, f: t
+scanting <> f: i, b: scant
+scantling <> s: scantlings
+scantlings <> b: scantling, f: s
+scants <> f: '3', b: scant
+scanty <> s: scanties, t: scantiest
+scapa <> s: scapas
+scapas <> b: scapa, f: s
+scape <> d: scaped, s: scapes
+scaped <> b: scape, f: d
+scapegoat <> s: scapegoats, i: scapegoating, p: scapegoated, d: scapegoated
+scapegoated <> b: scapegoat, f: pd
+scapegoating <> b: scapegoat, f: i
+scapegoats <> b: scapegoat, f: s
+scapes <> b: scape, f: s
+scapular <> s: scapulars
+scapulars <> b: scapular, f: s
+scar <> s: scars, d: scarred, i: scarring, '3': scars, p: scarred
+scarab <> s: scarabs
+scarabs <> b: scarab, f: s
+scarce <> r: scarcer, t: scarcest
+scarcer <> b: scarce, f: r
+scarcest <> b: scarce, f: t
+scarcities <> b: scarcity, f: s
+scarcity <> s: scarcities
+scare <> p: scared, d: scared, '3': scares, i: scaring, s: scares
+scarecrow <> s: scarecrows
+scarecrows <> b: scarecrow, f: s
+scared <> p: scared, b: scared, f: pd, d: scared
+scaredy-cat <> s: scaredy-cats
+scaredy-cats <> b: scaredy-cat, f: s
+scaremonger <> i: scaremongering
+scaremongering <> b: scaremonger, f: i, i: scaremongering
+scarer <> s: scarers
+scarers <> b: scarer, f: s
+scares <> b: scare, f: 3s
+scarf <> s: scarves, d: scarfed, p: scarfed, i: scarfing, '3': scarfs
+scarfed <> b: scarf, f: dp
+scarfing <> f: i, b: scarf
+scarfs <> f: s3, b: scarf
+scarier <> b: scary, f: r
+scariest <> b: scary, f: t
+scarification <> s: scarifications
+scarifications <> b: scarification, f: s
+scarified <> b: scarify, f: pd
+scarifier <> s: scarifiers
+scarifiers <> b: scarifier, f: s
+scarifies <> f: '3', b: scarify
+scarify <> p: scarified, i: scarifying, d: scarified, '3': scarifies
+scarifying <> b: scarify, f: i
+scaring <> b: scare, f: i, i: scaring
+Scarlatti <> s: scarlatti, b: scarlatti, f: s
+scarlet <> s: scarlets
+scarlets <> b: scarlet, f: s
+scarp <> s: scarps, p: scarped
+scarped <> b: scarp, f: p
+scarper <> p: scarpered, d: scarpered, s: scarpers, i: scarpering, '3': scarpers
+scarpered <> b: scarper, f: pd
+scarpering <> f: i, b: scarper
+scarpers <> f: s3, b: scarper
+scarps <> b: scarp, f: s
+scarred <> b: scar, f: dp, d: scarred, p: scarred
+scarring <> b: scar, f: i, i: scarring
+scars <> b: scar, f: s3
+scarves <> b: scarf, f: s
+scary <> t: scariest, r: scarier
+scat <> s: scats, i: scatting, p: scatted, '3': scats, d: scatted
+scathe <> p: scathed
+scathed <> b: scathe, f: p
+scats <> f: s3, b: scat
+scatted <> f: pd, b: scat
+scatter <> d: scattered, i: scattering, p: scattered, '3': scatters
+scattered <> b: scatter, f: dp, d: scattered
+scatterer <> s: scatterers
+scatterers <> b: scatterer, f: s
+scattergram <> s: scattergrams
+scattergrams <> b: scattergram, f: s
+scattering <> b: scatter, f: i, i: scattering, s: scatterings
+scatters <> b: scatter, f: '3'
+scatting <> b: scat, f: i
+scaup <> s: scaups
+scaups <> b: scaup, f: s
+scavenge <> p: scavenged, d: scavenged, '3': scavenges, i: scavenging
+scavenged <> b: scavenge, f: pd
+scavenger <> s: scavengers
+scavengers <> b: scavenger, f: s
+scavenges <> b: scavenge, f: '3'
+scavenging <> b: scaveng, f: i, i: scavenging
+sce <> '3': sces
+scenario <> s: scenarios
+scenarios <> b: scenario, f: s
+scend <> i: scending, p: sended, '3': scends, d: sended
+scending <> f: i, b: scend
+scends <> f: '3', b: scend
+scene <> s: scenes
+scene-of-crime <> s: scene-of-crimes
+scene-of-crimes <> b: scene-of-crime, f: s
+scene-stealer <> s: scene-stealers
+scene-stealers <> b: scene-stealer, f: s
+sceneries <> b: scenery, f: s
+scenery <> s: sceneries
+scenes <> b: scene, f: s
+scent <> s: scents, d: scented, i: scenting, '3': scents, p: scented
+scented <> b: scent, f: dp, d: scented
+scenting <> b: scent, f: i
+scents <> b: scent, f: s3
+sceptic <> s: sceptics
+scepticism <> s: scepticisms
+scepticisms <> b: scepticism, f: s
+sceptics <> b: sceptic, f: s
+sceptre <> s: sceptres
+sceptres <> b: sceptre, f: s
+sces <> b: sce, f: '3'
+sch <> s: schs
+Schaffer <> s: schaffers
+sched <> s: scheds
+scheds <> b: sched, f: s
+schedule <> d: scheduled, s: schedules, i: scheduling, p: scheduled, '3': schedules
+scheduled <> b: schedule, f: dp, d: scheduled
+scheduler <> s: schedulers
+schedulers <> b: scheduler, f: s
+schedules <> f: s3, b: schedule
+scheduling <> b: schedule, f: i, i: scheduling
+schema <> s: schemata
+schemata <> b: schema, f: s
+schematic <> s: schematics
+schematics <> b: schematic, f: s
+schematize <> p: schematized, '3': schematizes, d: schematized, i: schematizing
+schematized <> b: schematize, f: pd
+schematizes <> b: schematize, f: '3'
+schematizing <> f: i, b: schematize
+scheme <> s: schemes, i: scheming, p: schemed, '3': schemes, d: schemed
+schemed <> f: pd, b: scheme
+schemer <> s: schemers
+schemers <> b: schemer, f: s
+schemes <> f: s3, b: scheme
+scheming <> b: scheme, f: i, i: scheming, s: schemings
+scherzo <> s: scherzos
+scherzos <> b: scherzo, f: s
+schilling <> s: schillings
+schillings <> b: schilling, f: s
+schism <> s: schisms
+schismatic <> s: schismatics
+schismatics <> b: schismatic, f: s
+schisms <> b: schism, f: s
+schist <> s: schists
+schistosome <> s: schistosomes
+schistosomes <> b: schistosome, f: s
+schists <> b: schist, f: s
+schizo <> s: schizos
+schizophrenia <> s: schizophrenias
+schizophrenias <> b: schizophrenia, f: s
+schizophrenic <> s: schizophrenics
+schizophrenics <> b: schizophrenic, f: s
+schizos <> b: schizo, f: s
+schlep <> i: schlepping, p: schlepped, '3': schleps, d: schlepped
+schlepped <> f: pd, b: schlep
+schlepping <> b: schlep, f: i
+schleps <> f: '3', b: schlep
+schmooze <> d: schmoozed, i: schmoozing, p: schmoozed, '3': schmoozes
+schmoozed <> b: schmooze, f: dp
+schmoozes <> f: '3', b: schmooze
+schmoozing <> b: schmooze, f: i
+schmuck <> s: schmucks
+schmucks <> b: schmuck, f: s
+schnauzer <> s: schnauzers
+schnauzers <> b: schnauzer, f: s
+schneid <> r: schneider
+Schneider <> b: schneid, f: r
+scholar <> s: scholars
+scholars <> b: scholar, f: s
+scholarship <> s: scholarships
+scholarships <> b: scholarship, f: s
+scholastic <> s: scholastics
+scholastics <> b: scholastic, f: s
+Scholl <> s: scholls
+school <> s: schools, i: schooling, d: schooled, p: schooled, '3': schools
+school-leaver <> s: school-leavers
+school-leavers <> b: school-leaver, f: s
+schoolbook <> s: schoolbooks
+schoolbooks <> b: schoolbook, f: s
+schoolboy <> s: schoolboys
+schoolboys <> b: schoolboy, f: s
+schoolchildren <> s: schoolchildren, b: schoolchildren, f: s
+schoolday <> s: schooldays
+schooldays <> b: schoolday, f: s
+schooled <> f: dp, b: school, d: schooled
+schoolfellow <> s: schoolfellows
+schoolfellows <> b: schoolfellow, f: s
+schoolfriend <> s: schoolfriends
+schoolfriends <> b: schoolfriend, f: s
+schoolgirl <> s: schoolgirls
+schoolgirls <> b: schoolgirl, f: s
+schoolhouse <> s: schoolhouses
+schoolhouses <> b: schoolhouse, f: s
+schooling <> b: school, f: i, i: schooling
+schoolkid <> s: schoolkids
+schoolkids <> b: schoolkid, f: s
+schoolman <> s: schoolmen
+schoolmarm <> s: schoolmarms
+schoolmarms <> b: schoolmarm, f: s
+schoolmaster <> s: schoolmasters, i: schoolmastering
+schoolmastering <> b: schoolmaster, f: i
+schoolmasters <> b: schoolmaster, f: s
+schoolmate <> s: schoolmates
+schoolmates <> b: schoolmate, f: s
+schoolmen <> b: schoolman, f: s
+schoolmistress <> s: schoolmistresses
+schoolmistresses <> b: schoolmistress, f: s
+schoolroom <> s: schoolrooms
+schoolrooms <> b: schoolroom, f: s
+schools <> f: s3, b: school
+schoolteacher <> s: schoolteachers
+schoolteachers <> b: schoolteacher, f: s
+schoolteaching <> b: schoolteach, f: i
+schoolyard <> s: schoolyards
+schoolyards <> b: schoolyard, f: s
+schooner <> s: schooners
+schooners <> b: schooner, f: s
+schs <> b: sch, f: s
+schuss <> i: schussing, p: schussed, '3': schusses, d: schussed
+schussed <> f: pd, b: schuss
+schusses <> f: '3', b: schuss
+schussing <> b: schuss, f: i
+science <> s: sciences
+sciences <> b: science, f: s
+scient <> r: scienter
+scienter <> b: scient, f: r
+scientist <> s: scientists
+scientists <> b: scientist, f: s
+scimitar <> s: scimitars
+scimitars <> b: scimitar, f: s
+scintigram <> s: scintigrams
+scintigrams <> b: scintigram, f: s
+scintilla <> s: scintillas
+scintillas <> b: scintilla, f: s
+scintillate <> s: scintillates, p: scintillated, i: scintillating, '3': scintillates, d: scintillated
+scintillating <> f: i, b: scintillate
+scintillation <> s: scintillations
+scintillations <> b: scintillation, f: s
+scintillator <> s: scintillators
+scintillators <> b: scintillator, f: s
+scion <> s: scions
+scions <> b: scion, f: s
+scissor <> i: scissoring, p: scissored, '3': scissors, d: scissored
+scissored <> b: scissore, f: pd
+scissoring <> b: scissore, f: i
+scissors <> s: scissors, b: scissors, f: s
+scissortail <> s: scissortails
+scissortails <> b: scissortail, f: s
+sclerite <> s: sclerites
+sclerites <> b: sclerite, f: s
+sclerose <> i: sclerosing, s: scleroses
+sclerosed <> d: sclerosed, b: sclerosed, f: d
+scleroses <> b: sclerose, f: s
+sclerosing <> b: sclerose, f: i, i: sclerosing
+sclerotized <> d: sclerotized, b: sclerotized, f: dp, p: sclerotized
+scoff <> p: scoffed, d: scoffed, i: scoffing, '3': scoffs, s: scoffs
+scoffed <> b: scoff, f: pd
+scoffer <> s: scoffers
+scoffers <> b: scoffer, f: s
+scoffing <> b: scoff, f: i
+scoffs <> b: scoff, f: 3s
+scold <> p: scolded, i: scolding, d: scolded, '3': scolds, s: scolds
+scolded <> b: scold, f: pd
+scolding <> b: scold, f: i, s: scoldings, i: scolding
+scolds <> b: scold, f: 3s
+scollop <> i: scolloping, p: scolloped, '3': scollops, d: scolloped
+scolloped <> f: pd, b: scollop
+scolloping <> f: i, b: scollop
+scollops <> f: '3', b: scollop
+sconce <> s: sconces
+sconces <> b: sconce, f: s
+scone <> s: scones
+scones <> b: scone, f: s
+scoop <> p: scooped, i: scooping, d: scooped, s: scoops, '3': scoops
+scooped <> b: scoop, f: pd, p: scooped, d: scooped
+scooper <> s: scoopers
+scoopers <> b: scooper, f: s
+scoopful <> s: scoopfuls
+scoopfuls <> b: scoopful, f: s
+scooping <> b: scoop, f: i, i: scooping
+scoops <> b: scoop, f: s3
+scoot <> p: scooted, i: scooting, '3': scoots, d: scooted
+scooted <> b: scoot, f: pd
+scooter <> s: scooters
+scooters <> b: scooter, f: s
+scooting <> b: scoot, f: i
+scoots <> b: scoot, f: '3'
+scope <> s: scopes
+scopes <> b: scope, f: s
+scorch <> i: scorching, d: scorched, p: scorched, '3': scorches
+scorched <> b: scorch, f: dp, d: scorched, p: scorched
+scorcher <> s: scorchers
+scorchers <> b: scorcher, f: s
+scorches <> b: scorch, f: '3'
+scorching <> b: scorch, f: i, i: scorching
+score <> p: scored, s: scores, d: scored, i: scoring, '3': scores
+scoreboard <> s: scoreboards
+scoreboards <> b: scoreboard, f: s
+scorecard <> s: scorecards
+scorecards <> b: scorecard, f: s
+scored <> b: score, f: pd
+scoreline <> s: scorelines
+scorelines <> b: scoreline, f: s
+scorer <> s: scorers
+scorers <> b: scorer, f: s
+scores <> b: score, f: s3
+scoresheet <> s: scoresheets
+scoresheets <> b: scoresheet, f: s
+scoring <> b: score, f: i, i: scoring
+scorn <> p: scorned, d: scorned, i: scorning, '3': scorns, s: scorns
+scorned <> b: scorn, f: pd, p: scorned, d: scorned
+scorning <> b: scorn, f: i
+scorns <> b: scorn, f: 3s
+scorpion <> s: scorpions
+scorpions <> b: scorpion, f: s
+scot <> s: scots, '3': scots
+Scotch <> d: scotched, s: scotches, p: scotched, i: scotching, '3': scotches
+scotched <> b: scotch, f: dp
+scotches <> b: scotch, f: s3
+scotching <> b: scotch, f: i
+Scotchman <> s: scotchmen
+scotchmen <> b: scotchman, f: s
+scoter <> s: scoters
+scoters <> b: scoter, f: s
+scotoma <> s: scotomas
+scotomas <> b: scotoma, f: s
+Scots <> b: scot, f: s3
+scotsman <> s: scotsmen
+Scotsmen <> b: scotsman, f: s
+scotties <> b: scotty, f: s
+Scottish <> s: scottish, b: scottish, f: s
+scotty <> s: scotties
+scoundrel <> s: scoundrels
+scoundrels <> b: scoundrel, f: s
+scour <> i: scouring, p: scoured, d: scoured, '3': scours
+scoured <> b: scour, f: pd
+scourer <> s: scourers
+scourers <> b: scourer, f: s
+scourge <> s: scourges, d: scourged, i: scourging, p: scourged, '3': scourges
+scourged <> b: scourge, f: dp
+scourges <> f: s3, b: scourge
+scourging <> b: scourge, f: i, i: scourging
+scouring <> b: scour, f: i, i: scouring, s: scourings
+scours <> b: scour, f: '3'
+scouser <> s: scousers
+scousers <> b: scouser, f: s
+scout <> s: scouts, i: scouting, p: scouted, '3': scouts, d: scouted
+scouted <> b: scout, f: pd
+scouter <> s: scouters
+scouters <> b: scouter, f: s
+scouting <> b: scout, f: i, i: scouting
+scoutmaster <> s: scoutmasters
+scoutmasters <> b: scoutmaster, f: s
+scouts <> b: scout, f: s3
+scowl <> p: scowled, i: scowling, s: scowls, '3': scowls, d: scowled
+scowled <> b: scowl, f: pd, d: scowled, p: scowled
+scowling <> b: scowl, f: i, i: scowling
+scowls <> b: scowl, f: s3
+scrabble <> p: scrabbled, i: scrabbling, d: scrabbled, s: scrabbles, '3': scrabbles
+scrabbled <> b: scrabble, f: pd
+scrabbles <> b: scrabble, f: s3
+scrabbling <> b: scrabble, f: i, i: scrabbling, s: scrabblings
+scrag <> d: scragged, i: scragging, '3': scrags, p: scragged
+scragged <> b: scrag, f: dp
+scragging <> b: scrag, f: i
+scrags <> b: scrag, f: '3'
+scram <> i: scramming, p: scrammed, '3': scrams, d: scrammed
+scramble <> p: scrambled, i: scrambling, d: scrambled, '3': scrambles, s: scrambles
+scrambled <> b: scramble, f: pd, d: scrambled, p: scrambled
+scrambler <> s: scramblers
+scramblers <> b: scrambler, f: s
+scrambles <> b: scramble, f: 3s
+scrambling <> b: scramble, f: i, i: scrambling, s: scramblings
+scrammed <> f: pd, b: scram
+scramming <> b: scram, f: i
+scrams <> f: '3', b: scram
+scrap <> s: scraps, d: scrapped, i: scrapping, p: scrapped, '3': scraps
+scrapbook <> s: scrapbooks
+scrapbooks <> b: scrapbook, f: s
+scrape <> p: scraped, i: scraping, d: scraped, s: scrapes, '3': scrapes
+scraped <> b: scrape, f: pd, p: scraped, d: scraped
+scraper <> s: scrapers
+scrapers <> b: scraper, f: s
+scrapes <> b: scrape, f: s3
+scraping <> b: scrape, f: i, i: scraping, s: scrapings
+scrapings <> b: scraping, f: s
+scrapped <> b: scrap, f: dp, d: scrapped
+scrapper <> s: scrappers
+scrappers <> b: scrapper, f: s
+scrappier <> b: scrappy, f: r
+scrappies <> b: scrappy, f: s
+scrappiest <> b: scrappy, f: t
+scrapping <> b: scrap, f: i, i: scrapping, s: scrappings
+scrappy <> r: scrappier, s: scrappies, t: scrappiest
+scraps <> b: scrap, f: s3
+scrapyard <> s: scrapyards
+scrapyards <> b: scrapyard, f: s
+scratch <> i: scratching, p: scratched, s: scratches, d: scratched, '3': scratches
+scratched <> b: scratch, f: pd, d: scratched, p: scratched
+scratcher <> s: scratchers
+scratchers <> b: scratcher, f: s
+scratches <> b: scratch, f: s3
+scratching <> b: scratch, f: i, i: scratching, s: scratchings
+scratchings <> b: scratching, f: s
+scrawl <> p: scrawled, d: scrawled, i: scrawling, s: scrawls, '3': scrawls
+scrawled <> b: scrawl, f: pd, d: scrawled, p: scrawled
+scrawling <> b: scrawl, f: i, i: scrawling
+scrawls <> b: scrawl, f: s3
+scrawnier <> b: scrawny, f: r
+scrawny <> r: scrawnier
+scream <> i: screaming, p: screamed, s: screams, d: screamed, '3': screams
+screamed <> b: scream, f: pd
+screamer <> s: screamers
+screamers <> b: screamer, f: s
+screaming <> b: scream, f: i, i: screaming
+screams <> b: scream, f: s3
+scree <> s: screes
+screech <> p: screeched, i: screeching, s: screeches, d: screeched, '3': screeches
+screeched <> b: screech, f: pd
+screeches <> b: screech, f: s3
+screeching <> b: screech, f: i, s: screechings, i: screeching
+screed <> s: screeds, i: screeding
+screeding <> b: screed, f: i
+screeds <> b: screed, f: s
+screen <> s: screens, d: screened, i: screening, p: screened, '3': screens
+screened <> b: screen, f: dp, p: screened
+screener <> s: screeners
+screeners <> b: screener, f: s
+screening <> b: screen, f: i, i: screening, s: screenings
+screenings <> b: screening, f: s
+screenplay <> s: screenplays, '3': screenplays
+screenplays <> b: screenplay, f: s3
+screens <> b: screen, f: s3
+screenshot <> s: screenshots
+screenshots <> b: screenshot, f: s
+screenwriter <> s: screenwriters
+screenwriters <> b: screenwriter, f: s
+screenwriting <> b: screenwrit, f: i
+screes <> b: scree, f: s
+screw <> s: screws, p: screwed, i: screwing, d: screwed, '3': screws
+screw-up <> s: screw-ups
+screw-ups <> b: screw-up, f: s
+screwdriver <> s: screwdrivers
+screwdrivers <> b: screwdriver, f: s
+screwed <> b: screw, f: pd, p: screwed
+screwing <> b: screw, f: i, i: screwing
+screws <> b: screw, f: s3
+screwworm <> s: screwworms
+screwworms <> b: screwworm, f: s
+scribble <> i: scribbling, p: scribbled, d: scribbled, s: scribbles, '3': scribbles
+scribbled <> b: scribble, f: pd, p: scribbled, d: scribbled
+scribbler <> s: scribblers
+scribblers <> b: scribbler, f: s
+scribbles <> b: scribble, f: s3
+scribbling <> b: scribble, f: i, s: scribblings, i: scribbling
+scribe <> s: scribes, i: scribing, d: scribed, p: scribed, '3': scribes
+scribed <> f: dp, b: scribe
+scriber <> s: scribers
+scribers <> b: scriber, f: s
+scribes <> f: s3, b: scribe
+scribing <> b: scribe, f: i
+scried <> f: pd, b: scry
+scries <> f: '3', b: scry
+scrimmage <> i: scrimmaging, p: scrimmaged, '3': scrimmages, d: scrimmaged
+scrimmaged <> f: pd, b: scrimmage
+scrimmages <> f: '3', b: scrimmage
+scrimmaging <> b: scrimmage, f: i
+scrimp <> p: scrimped, d: scrimped, i: scrimping, '3': scrimps
+scrimped <> b: scrimp, f: pd
+scrimping <> b: scrimp, f: i
+scrimps <> f: '3', b: scrimp
+scrimshander <> p: scrimshandered, i: scrimshandering
+scrimshandered <> b: scrimshander, f: p
+scrimshandering <> b: scrimshander, f: i
+scrimshank <> i: scrimshanking, p: scrimshanked, '3': scrimshanks, d: scrimshanked
+scrimshanked <> f: pd, b: scrimshank
+scrimshanking <> f: i, b: scrimshank
+scrimshanks <> f: '3', b: scrimshank
+scrimshaw <> s: scrimshaws
+scrimshaws <> b: scrimshaw, f: s
+scrip <> s: scrips
+scrips <> b: scrip, f: s
+script <> s: scripts, d: scripted, p: scripted, i: scripting, '3': scripts
+scripted <> b: script, f: dp, p: scripted, d: scripted
+scripting <> b: script, f: i, i: scripting
+scriptoria <> b: scriptorium, f: s
+scriptorium <> s: scriptoria
+scripts <> f: s3, b: script
+scripture <> s: scriptures
+scriptures <> b: scripture, f: s
+scriptwriter <> s: scriptwriters
+scriptwriters <> b: scriptwriter, f: s
+scrivener <> s: scriveners
+scriveners <> b: scrivener, f: s
+scrol <> d: scrolled, i: scrolling, p: scrolled
+scroll <> s: scrolls, '3': scrolls, i: scrolling, p: scrolled, d: scrolled
+scrolled <> p: scrolled, b: scrolled, f: p
+scroller <> s: scrollers
+scrollers <> b: scroller, f: s
+scrolling <> b: scrol, f: i, i: scrolling
+scrolls <> b: scroll, f: s3
+scrooge <> s: scrooges, p: scrooged
+scrooged <> b: scrooge, f: p
+scrooges <> b: scrooge, f: s
+scrotum <> s: scrotums
+scrotums <> b: scrotum, f: s
+scrounge <> p: scrounged, d: scrounged, '3': scrounges, s: scrounges, i: scrounging
+scrounged <> b: scrounge, f: pd
+scrounger <> s: scroungers
+scroungers <> b: scrounger, f: s
+scrounges <> b: scrounge, f: 3s
+scrounging <> b: scroung, f: i, i: scrounging
+scrub <> d: scrubbed, i: scrubbing, p: scrubbed, '3': scrubs, s: scrubs
+scrubbed <> b: scrub, f: dp, p: scrubbed, d: scrubbed
+scrubber <> s: scrubbers
+scrubbers <> b: scrubber, f: s
+scrubbier <> b: scrubby, f: r
+scrubbing <> b: scrub, f: i, i: scrubbing
+scrubby <> r: scrubbier
+scrubland <> s: scrublands
+scrublands <> b: scrubland, f: s
+scrubs <> b: scrub, f: 3s
+scruff <> s: scruffs, d: scruffed, i: scruffing, p: scruffed
+scruffed <> b: scruff, f: dp
+scruffier <> b: scruffy, f: r
+scruffies <> b: scruffy, f: s
+scruffiest <> b: scruffy, f: t
+scruffing <> b: scruff, f: i
+scruffs <> b: scruff, f: s
+scruffy <> r: scruffier, t: scruffiest, s: scruffies
+scrum <> s: scrums, p: scrummed
+scrumhalf <> s: scrumhalfs
+scrumhalfs <> b: scrumhalf, f: s
+scrummage <> i: scrummaging, s: scrummages, d: scrummaged
+scrummaged <> b: scrummage, f: d
+scrummager <> s: scrummagers
+scrummagers <> b: scrummager, f: s
+scrummages <> b: scrummage, f: s
+scrummaging <> b: scrummage, f: i, i: scrummaging
+scrummed <> b: scrum, f: p
+scrump <> i: scrumping
+scrumping <> b: scrump, f: i
+scrums <> b: scrum, f: s
+scrunch <> d: scrunched, i: scrunching, p: scrunched, '3': scrunches, s: scrunches
+scrunched <> b: scrunch, f: dp, d: scrunched, p: scrunched
+scrunches <> b: scrunch, f: 3s
+scrunchies <> b: scrunchy, f: s
+scrunching <> b: scrunch, f: i
+scrunchy <> s: scrunchies
+scruple <> s: scruples, '3': scruples, d: scrupled, i: scrupling, p: scrupled
+scrupled <> f: dp, b: scruple
+scruples <> b: scruple, f: s3
+scrupling <> f: i, b: scruple
+scrutineer <> s: scrutineers, '3': scrutineers, i: scrutineering
+scrutineering <> b: scrutineer, f: i
+scrutineers <> b: scrutineer, f: s3
+scrutinies <> b: scrutiny, f: s
+scrutinise <> d: scrutinised, p: scrutinised, i: scrutinising, '3': scrutinises, s: scrutinises
+scrutinised <> b: scrutinise, f: dp
+scrutinises <> b: scrutinise, f: 3s
+scrutinising <> b: scrutinise, f: i
+scrutinize <> d: scrutinized, i: scrutinizing, p: scrutinized, '3': scrutinizes
+scrutinized <> b: scrutinize, f: dp
+scrutinizes <> b: scrutinize, f: '3'
+scrutinizing <> b: scrutinize, f: i
+scrutiny <> s: scrutinies
+scry <> d: scryed, i: scrying, p: scried, '3': scries
+scrying <> i: scrying, b: scrying, f: i
+scud <> i: scudding, s: scuds, p: scudded, d: scudded, '3': scuds
+scudded <> b: scud, f: pd
+scudding <> b: scud, f: i, i: scudding
+scuds <> f: s3, b: scud
+scuff <> p: scuffed, i: scuffing, d: scuffed, s: scuffs, '3': scuffs
+scuffed <> b: scuff, f: pd, p: scuffed
+scuffing <> b: scuff, f: i, i: scuffing
+scuffle <> s: scuffles, i: scuffling, p: scuffled, '3': scuffles, d: scuffled
+scuffled <> b: scuffle, f: pd
+scuffles <> b: scuffle, f: s3
+scuffling <> b: scuffle, f: i, s: scufflings, i: scuffling
+scuffs <> f: s3, b: scuff
+scull <> '3': sculls, i: sculling, p: sculled, d: sculled
+sculled <> b: scull, f: pd
+sculler <> s: scullers
+sculleries <> b: scullery, f: s
+scullers <> b: sculler, f: s
+scullery <> s: sculleries
+sculling <> b: scull, f: i, i: sculling
+scullion <> s: scullions
+scullions <> b: scullion, f: s
+sculls <> b: scull, f: '3'
+sculpin <> s: sculpins
+sculpins <> b: sculpin, f: s
+sculpt <> d: sculpted, p: sculpted, i: sculpting, '3': sculpts
+sculpted <> b: sculpt, f: dp, d: sculpted, p: sculpted
+sculpting <> b: sculpt, f: i, i: sculpting
+sculptor <> s: sculptors
+sculptors <> b: sculptor, f: s
+sculpts <> b: sculpt, f: '3'
+sculpture <> s: sculptures, d: sculptured, i: sculpturing, p: sculptured, '3': sculptures
+sculptured <> f: dp, b: sculpture, d: sculptured
+sculptures <> f: s3, b: sculpture
+sculpturing <> i: sculpturing, b: sculpturing, f: i
+scum <> s: scums, d: scummed, i: scumming, p: scummed, '3': scums
+scumbag <> s: scumbags
+scumbags <> b: scumbag, f: s
+scumble <> p: scumbled, d: scumbled, i: scumbling
+scumbled <> b: scumble, f: pd
+scumbling <> b: scumble, f: i, i: scumbling
+scummed <> f: dp, b: scum
+scummiest <> b: scummy, f: t
+scumming <> f: i, b: scum
+scummy <> t: scummiest
+scums <> f: s3, b: scum
+scupper <> d: scuppered, p: scuppered, i: scuppering, '3': scuppers
+scuppered <> b: scupper, f: dp
+scuppering <> b: scupper, f: i
+scuppers <> b: scupper, f: '3'
+scurried <> b: scurry, f: pd
+scurries <> b: scurry, f: 3s
+scurry <> i: scurrying, p: scurried, '3': scurries, d: scurried, s: scurries
+scurrying <> b: scurry, f: i, s: scurryings
+scut <> s: scuts
+Scutari <> s: scutari, b: scutari, f: s
+scute <> s: scutes
+scutes <> b: scute, f: s
+scuts <> b: scut, f: s
+scutter <> p: scuttered, i: scuttering, d: scuttered, s: scutters
+scuttered <> b: scutter, f: pd
+scuttering <> b: scutter, f: i
+scutters <> b: scutter, f: s
+scuttle <> p: scuttled, i: scuttling, d: scuttled, '3': scuttles, s: scuttles
+scuttled <> b: scuttle, f: pd
+scuttles <> b: scuttle, f: 3s
+scuttling <> b: scuttle, f: i
+scutum <> s: scutums
+scutums <> b: scutum, f: s
+scuzzies <> b: scuzzy, f: s
+scuzziest <> b: scuzzy, f: t
+scuzzy <> s: scuzzies, t: scuzziest
+scyphozoan <> s: scyphozoans
+scyphozoans <> b: scyphozoan, f: s
+scythe <> s: scythes, p: scythed, d: scythed, '3': scythes, i: scything
+scythed <> b: scythe, f: pd, p: scythed
+scythes <> b: scythe, f: s3
+Scythian <> s: scythians
+scything <> b: scyth, f: i
+SE <> '3': ses, s: ses
+sea <> s: seas
+sea-horse <> s: sea-horses
+sea-horses <> b: sea-horse, f: s
+seabed <> s: seabeds
+seabeds <> b: seabed, f: s
+seabird <> s: seabirds
+seabirds <> b: seabird, f: s
+seaborne <> d: seaborne, b: seaborne, f: d
+seacock <> s: seacocks
+seacocks <> b: seacock, f: s
+seafarer <> s: seafarers
+seafarers <> b: seafarer, f: s
+seafood <> s: seafoods
+seafoods <> b: seafood, f: s
+seafront <> s: seafronts
+seafronts <> b: seafront, f: s
+seagull <> s: seagulls, '3': seagulls
+seagulls <> b: seagull, f: s3
+seahorse <> s: seahorses, '3': seahorses
+seahorses <> b: seahorse, f: s3
+seal <> s: seals, d: sealed, p: sealed, i: sealing, '3': seals
+sealant <> s: sealants
+sealants <> b: sealant, f: s
+sealed <> b: seal, f: dp, d: sealed, p: sealed
+sealer <> s: sealers
+sealers <> b: sealer, f: s
+sealing <> b: seal, f: i, i: sealing, s: sealings
+seals <> b: seal, f: s3
+sealskin <> s: sealskins
+sealskins <> b: sealskin, f: s
+seam <> s: seams, p: seamed, d: seamed, i: seaming, '3': seams
+seaman <> s: seamen
+seamed <> b: seam, f: pd, p: seamed, d: seamed
+seamen <> b: seaman, f: s
+seamer <> s: seamers
+seamers <> b: seamer, f: s
+seamier <> b: seamy, f: r
+seaming <> b: seam, f: i, i: seaming
+seamount <> s: seamounts
+seamounts <> b: seamount, f: s
+seams <> b: seam, f: s3
+seamstress <> s: seamstresses
+seamstresses <> b: seamstress, f: s
+seamy <> r: seamier
+seance <> s: seances
+seances <> b: seance, f: s
+seaplane <> s: seaplanes
+seaplanes <> b: seaplane, f: s
+seaport <> s: seaports
+seaports <> b: seaport, f: s
+sear <> p: seared, d: seared, i: searing, '3': sears, s: sears
+search <> i: searching, p: searched, s: searches, d: searched, '3': searches
+searched <> b: search, f: pd
+searcher <> s: searchers
+searchers <> b: searcher, f: s
+searches <> b: search, f: s3
+searching <> b: search, f: i, i: searching, s: searchings
+searchlight <> s: searchlights
+searchlights <> b: searchlight, f: s
+seared <> b: sear, f: pd, d: seared
+searing <> i: searing, b: searing, f: i
+sears <> b: sear, f: 3s
+seas <> b: sea, f: s
+seascape <> s: seascapes
+seascapes <> b: seascape, f: s
+seashell <> s: seashells
+seashells <> b: seashell, f: s
+seashore <> s: seashores
+seashores <> b: seashore, f: s
+seaside <> s: seasides
+seasides <> b: seaside, f: s
+season <> s: seasons, i: seasoning, p: seasoned, '3': seasons, d: seasoned
+seasonal <> s: seasonals
+seasonals <> b: seasonal, f: s
+seasoned <> d: seasoned, b: seasoned, f: d
+seasoning <> i: seasoning, b: seasoning, f: i, s: seasonings
+seasons <> f: s3, b: season
+seat <> s: seats, d: seated, p: seated, i: seating, '3': seats
+seatbelt <> s: seatbelts
+seatbelts <> b: seatbelt, f: s
+seated <> b: seat, f: dp, d: seated, p: seated
+seater <> s: seaters
+seaters <> b: seater, f: s
+seating <> b: seat, f: i, i: seating, s: seatings
+seats <> f: s3, b: seat
+seaway <> s: seaways
+seaways <> b: seaway, f: s
+seaweed <> s: seaweeds
+seaweeds <> b: seaweed, f: s
+SEC <> s: secs
+secant <> s: secants
+secants <> b: secant, f: s
+secateur <> s: secateurs
+secateurs <> b: secateur, f: s
+secede <> p: seceded, i: seceding, d: seceded, '3': secedes
+seceded <> b: secede, f: pd
+seceder <> s: seceders
+seceders <> b: seceder, f: s
+secedes <> b: secede, f: '3'
+seceding <> b: secede, f: i, i: seceding
+secession <> s: secessions
+secessionist <> s: secessionists
+secessionists <> b: secessionist, f: s
+secessions <> b: secession, f: s
+seclude <> d: secluded, i: secluding, p: secluded, '3': secludes
+secluded <> d: secluded, b: secluded, f: d
+secludes <> f: '3', b: seclude
+secluding <> b: seclude, f: i
+seclusion <> s: seclusions
+seclusions <> b: seclusion, f: s
+second <> s: seconds, d: seconded, p: seconded, i: seconding, '3': seconds
+second-guess <> s: second-guesses, i: second-guessing, p: second-guessed, '3': second-guesses, d: second-guessed
+second-guesses <> b: second-guess, f: s
+second-hand <> s: second-hands
+second-hands <> b: second-hand, f: s
+second-in-command <> s: second-in-commands
+second-in-commands <> b: second-in-command, f: s
+second-rater <> s: second-raters
+second-raters <> b: second-rater, f: s
+secondaries <> b: secondary, f: s
+secondary <> s: secondaries
+seconded <> b: second, f: dp
+secondee <> s: secondees
+secondees <> b: secondee, f: s
+seconder <> s: seconders
+seconders <> b: seconder, f: s
+seconding <> b: second, f: i
+secondment <> s: secondments
+secondments <> b: secondment, f: s
+seconds <> f: s3, b: second
+secrecies <> b: secrecy, f: s
+secrecy <> s: secrecies
+secret <> s: secrets
+secretagogue <> s: secretagogues
+secretagogues <> b: secretagogue, f: s
+secretaire <> s: secretaires
+secretaires <> b: secretaire, f: s
+secretariat <> s: secretariats
+secretariats <> b: secretariat, f: s
+secretaries <> b: secretary, f: s
+secretary <> s: secretaries
+secretaryship <> s: secretaryships
+secretaryships <> b: secretaryship, f: s
+secrete <> d: secreted, i: secreting, p: secreted, '3': secretes
+secreted <> b: secrete, f: dp, d: secreted, p: secreted
+secretes <> b: secrete, f: '3'
+secreting <> b: secrete, f: i, i: secreting
+secretion <> s: secretions
+secretions <> b: secretion, f: s
+secrets <> b: secret, f: s
+secs <> b: sec, f: s
+sect <> s: sects, '3': sects
+sectarian <> s: sectarians
+sectarians <> b: sectarian, f: s
+sectaries <> b: sectary, f: s
+sectary <> s: sectaries
+section <> s: sections, d: sectioned, i: sectioning, p: sectioned, '3': sections
+sectionalize <> i: sectionalizing, p: sectionalized, '3': sectionalizes, d: sectionalized
+sectionalized <> f: pd, b: sectionalize
+sectionalizes <> f: '3', b: sectionalize
+sectionalizing <> f: i, b: sectionalize
+sectioned <> f: dp, b: section, p: sectioned
+sectioning <> i: sectioning, b: sectioning, f: i
+sections <> f: s3, b: section
+sector <> s: sectors
+sectors <> b: sector, f: s
+sects <> b: sect, f: s3
+secular <> s: seculars
+secularised <> d: secularised, b: secularised, f: d
+secularist <> s: secularists
+secularists <> b: secularist, f: s
+secularize <> p: secularized, d: secularized, i: secularizing, '3': secularizes
+secularized <> p: secularized, b: secularized, f: p
+secularizes <> f: '3', b: secularize
+secularizing <> b: secularize, f: i
+seculars <> b: secular, f: s
+secure <> d: secured, i: securing, p: secured, '3': secures
+secured <> b: secure, f: dp, p: secured, d: secured
+secures <> b: secure, f: '3'
+securing <> b: secure, f: i
+securities <> b: security, f: s
+security <> s: securities
+sed <> p: sed, b: sed, f: p
+sedan <> s: sedans
+sedans <> b: sedan, f: s
+sedate <> d: sedated, p: sedated, '3': sedates, i: sedating
+sedated <> b: sedate, f: dp, p: sedated
+sedates <> b: sedate, f: '3'
+sedating <> b: sedate, f: i
+sedative <> s: sedatives
+sedatives <> b: sedative, f: s
+Seddon <> s: seddons
+sedge <> s: sedges, '3': sedges
+sedges <> b: sedge, f: s3
+sediment <> s: sediments
+sedimented <> d: sedimented, b: sedimented, f: d
+sediments <> b: sediment, f: s
+sedition <> s: seditions
+seditions <> b: sedition, f: s
+seduce <> d: seduced, i: seducing, p: seduced, '3': seduces
+seduced <> b: seduce, f: dp, p: seduced
+seducer <> s: seducers
+seducers <> b: seducer, f: s
+seduces <> b: seduce, f: '3'
+seducing <> b: seduce, f: i, i: seducing
+seduction <> s: seductions
+seductions <> b: seduction, f: s
+seductress <> s: seductresses
+seductresses <> b: seductress, f: s
+sedum <> s: sedums
+sedums <> b: sedum, f: s
+see <> d: seen, p: saw, i: seeing, '3': sees
+see-through <> s: see-throughs
+see-throughs <> b: see-through, f: s
+seed <> s: seeds, p: seeded, d: seeded, i: seeding, '3': seeds
+seedbed <> s: seedbeds
+seedbeds <> b: seedbed, f: s
+seeded <> b: seed, f: pd, p: seeded, d: seeded
+seedier <> b: seedy, f: r
+seediest <> b: seedy, f: t
+seeding <> b: seed, f: i, s: seedings, i: seeding
+seedling <> s: seedlings
+seedlings <> b: seedling, f: s
+seedpod <> s: seedpods
+seedpods <> b: seedpod, f: s
+seeds <> b: seed, f: s3
+seedsman <> s: seedsmen
+seedsmen <> b: seedsman, f: s
+seedy <> r: seedier, t: seediest
+seeing <> b: see, f: i, i: seeing, s: seeings
+seeings <> b: seeing, f: s
+seek <> i: seeking, d: sought, p: sought, '3': seeks
+seeker <> s: seekers
+seekers <> b: seeker, f: s
+seeking <> b: seek, f: i, i: seeking, s: seekings
+seeks <> b: seek, f: '3'
+seel <> i: seeling, p: seeled, '3': seels, d: seeled
+seeled <> f: pd, b: seel
+seeling <> b: seel, f: i
+seels <> f: '3', b: seel
+seem <> '3': seems, p: seemed, d: seemed, i: seeming
+seemed <> b: seem, f: pd
+seeming <> b: seem, f: i, i: seeming, s: seemings
+seems <> b: seem, f: '3'
+seen <> b: see, f: d
+seep <> i: seeping, p: seeped, d: seeped, '3': seeps, s: seeps
+seepage <> s: seepages
+seepages <> b: seepage, f: s
+seeped <> b: seep, f: pd
+seeping <> b: seep, f: i, i: seeping, s: seepings
+seeps <> b: seep, f: 3s
+seer <> s: seers
+seers <> b: seer, f: s
+seesaw <> s: seesaws, p: seesawed, i: seesawing, '3': seesaws, d: seesawed
+seesawed <> f: pd, b: seesaw
+seesawing <> f: i, b: seesaw
+seesaws <> f: s3, b: seesaw
+seethe <> p: seethed, '3': seethes, d: seethed, i: seething
+seethed <> b: seethe, f: pd
+seethes <> b: seethe, f: '3'
+seething <> b: sethe, f: i, i: seething
+segment <> s: segments, d: segmented, i: segmenting, p: segmented, '3': segments
+segmentation <> s: segmentations
+segmentations <> b: segmentation, f: s
+segmented <> f: dp, b: segment, d: segmented
+segmenting <> b: segment, f: i, i: segmenting, s: segmentings
+segments <> f: s3, b: segment
+segregate <> d: segregated, i: segregating, '3': segregates, p: segregated
+segregated <> b: segregate, f: dp, d: segregated
+segregates <> b: segregate, f: '3'
+segregating <> b: segregate, f: i
+segregation <> s: segregations
+segregations <> b: segregation, f: s
+segue <> p: segued, d: segued, i: segueing, s: segues, '3': segues
+segued <> b: segue, f: pd
+segueing <> b: segue, f: i
+segues <> b: segue, f: s
+seif <> s: seifs
+seifs <> b: seif, f: s
+seigneur <> s: seigneurs
+seigneurs <> b: seigneur, f: s
+seine <> s: seines, i: seining, p: seined, '3': seines, d: seined
+seined <> b: sein, f: p
+seiner <> s: seiners
+seiners <> b: seiner, f: s
+seines <> f: s3, b: seine
+seining <> f: i, b: seine
+seise <> d: seised, p: seised
+seised <> b: seise, f: dp
+seismograph <> s: seismographs, '3': seismographs
+seismographs <> b: seismograph, f: s3
+seismologist <> s: seismologists
+seismologists <> b: seismologist, f: s
+seize <> d: seized, p: seized, i: seizing, '3': seizes
+seized <> b: seize, f: dp, p: seized
+seizes <> b: seize, f: '3'
+seizing <> b: seize, f: i, i: seizing
+seizure <> s: seizures
+seizures <> b: seizure, f: s
+seker <> s: sekers
+sekers <> b: seker, f: s
+select <> d: selected, i: selecting, '3': selects, p: selected
+selected <> b: select, f: dp, d: selected, p: selected
+selectee <> s: selectees
+selectees <> b: selectee, f: s
+selecting <> b: select, f: i
+selection <> s: selections
+selections <> b: selection, f: s
+selective <> s: selectives
+selectives <> b: selective, f: s
+selectivities <> b: selectivity, f: s
+selectivity <> s: selectivities
+selector <> s: selectors
+selectors <> b: selector, f: s
+selects <> b: select, f: '3'
+Seleucid <> s: seleucids
+self <> s: selves
+self-absorbed <> p: self-absorbed, b: self-absorbed, f: p
+self-adhesive <> s: self-adhesives
+self-adhesives <> b: self-adhesive, f: s
+self-assessment <> s: self-assessments
+self-assessments <> b: self-assessment, f: s
+self-builder <> s: self-builders
+self-builders <> b: self-builder, f: s
+self-concept <> s: self-concepts
+self-concepts <> b: self-concept, f: s
+self-congratulation <> s: self-congratulations
+self-congratulations <> b: self-congratulation, f: s
+self-consciousness <> s: self-consciousnesses
+self-consciousnesses <> b: self-consciousness, f: s
+self-contradiction <> s: self-contradictions
+self-contradictions <> b: self-contradiction, f: s
+self-control <> s: self-controls
+self-controls <> b: self-control, f: s
+self-correction <> s: self-corrections
+self-corrections <> b: self-correction, f: s
+self-criticism <> s: self-criticisms
+self-criticisms <> b: self-criticism, f: s
+self-deception <> s: self-deceptions
+self-deceptions <> b: self-deception, f: s
+self-delusion <> s: self-delusions
+self-delusions <> b: self-delusion, f: s
+self-denial <> s: self-denials
+self-denials <> b: self-denial, f: s
+self-destruct <> i: self-destructing, p: self-destructed, '3': self-destructs, d: self-destructed
+self-doubt <> s: self-doubts
+self-doubts <> b: self-doubt, f: s
+self-evaluation <> s: self-evaluations
+self-evaluations <> b: self-evaluation, f: s
+self-examination <> s: self-examinations
+self-examinations <> b: self-examination, f: s
+self-image <> s: self-images
+self-images <> b: self-image, f: s
+self-immolation <> s: self-immolations
+self-immolations <> b: self-immolation, f: s
+self-improvement <> s: self-improvements
+self-improvements <> b: self-improvement, f: s
+self-inductance <> s: self-inductances
+self-inductances <> b: self-inductance, f: s
+self-indulgence <> s: self-indulgences
+self-indulgences <> b: self-indulgence, f: s
+self-interest <> s: self-interests
+self-interests <> b: self-interest, f: s
+self-justification <> s: self-justifications
+self-justifications <> b: self-justification, f: s
+self-mutilation <> s: self-mutilations
+self-mutilations <> b: self-mutilation, f: s
+self-portrait <> s: self-portraits
+self-portraits <> b: self-portrait, f: s
+self-promoter <> s: self-promoters
+self-promoters <> b: self-promoter, f: s
+self-rating <> s: self-ratings
+self-ratings <> b: self-rating, f: s
+self-reflection <> s: self-reflections
+self-reflections <> b: self-reflection, f: s
+self-report <> s: self-reports
+self-reports <> b: self-report, f: s
+self-reproach <> s: self-reproaches
+self-reproaches <> b: self-reproach, f: s
+self-restraint <> s: self-restraints
+self-restraints <> b: self-restraint, f: s
+self-revelation <> s: self-revelations
+self-revelations <> b: self-revelation, f: s
+self-seed <> s: self-seeds
+self-seeds <> b: self-seed, f: s
+self-seeker <> s: self-seekers
+self-seekers <> b: self-seeker, f: s
+self-serving <> s: self-servings
+self-servings <> b: self-serving, f: s
+self-sow <> s: self-sows
+self-sows <> b: self-sow, f: s
+self-starter <> s: self-starters
+self-starters <> b: self-starter, f: s
+self-support <> i: self-supporting
+self-supporting <> b: self-support, f: i
+selfishness <> s: selfishnesses
+selfishnesses <> b: selfishness, f: s
+Selfridge <> s: selfridges
+Seljuk <> s: seljuks
+sell <> d: sold, i: selling, p: sold, '3': sells
+sell-off <> s: sell-offs
+sell-offs <> b: sell-off, f: s
+sell-out <> s: sell-outs
+sell-outs <> b: sell-out, f: s
+seller <> s: sellers
+Sellers <> b: seller, f: s
+selling <> b: sell, f: i, i: selling
+sellotape <> p: sellotaped, d: sellotaped, i: sellotaping
+sells <> b: sell, f: '3'
+selvedge <> s: selvedges
+selvedges <> b: selvedge, f: s
+selves <> b: self, f: s
+sem <> s: sems, '3': sems
+semanticist <> s: semanticists
+semanticists <> b: semanticist, f: s
+semaphore <> s: semaphores, i: semaphoring, d: semaphored, p: semaphored, '3': semaphores
+semaphored <> b: semaphore, f: dp
+semaphores <> f: s3, b: semaphore
+semaphoring <> b: semaphore, f: i
+semblance <> s: semblances
+semblances <> b: semblance, f: s
+seme <> s: semes
+semes <> b: seme, f: s
+semester <> s: semesters
+semesters <> b: semester, f: s
+semi <> s: semis
+semi-automatic <> s: semi-automatics
+semi-automatics <> b: semi-automatic, f: s
+semi-final <> s: semi-finals
+semi-finalist <> s: semi-finalists
+semi-finalists <> b: semi-finalist, f: s
+semi-finals <> b: semi-final, f: s
+semi-finished <> b: semi-finish, f: pd, p: semi-finished
+semi-opaque <> s: semi-opaques
+semi-opaques <> b: semi-opaque, f: s
+semi-permanent <> s: semi-permanents
+semi-permanents <> b: semi-permanent, f: s
+semi-pro <> s: semi-pros
+semi-professional <> s: semi-professionals
+semi-professionals <> b: semi-professional, f: s
+semi-pros <> b: semi-pro, f: s
+semi-submersible <> s: semi-submersibles
+semi-submersibles <> b: semi-submersible, f: s
+semi-vowel <> s: semi-vowels
+semi-vowels <> b: semi-vowel, f: s
+semibreve <> s: semibreves
+semibreves <> b: semibreve, f: s
+semicircle <> s: semicircles
+semicircles <> b: semicircle, f: s
+semicolon <> s: semicolons
+semicolons <> b: semicolon, f: s
+semiconducting <> b: semiconduct, f: i
+semiconductor <> s: semiconductors
+semiconductors <> b: semiconductor, f: s
+semifinal <> s: semifinals
+semifinals <> b: semifinal, f: s
+seminar <> s: seminars
+seminarian <> s: seminarians
+seminarians <> b: seminarian, f: s
+seminaries <> b: seminary, f: s
+seminarist <> s: seminarists
+seminarists <> b: seminarist, f: s
+seminars <> b: seminar, f: s
+seminary <> s: seminaries
+semiochemical <> s: semiochemicals
+semiochemicals <> b: semiochemical, f: s
+semiologist <> s: semiologists
+semiologists <> b: semiologist, f: s
+semiotic <> s: semiotics
+semiotician <> s: semioticians
+semioticians <> b: semiotician, f: s
+semiotics <> b: semiotic, f: s
+semiquaver <> s: semiquavers
+semiquavers <> b: semiquaver, f: s
+semis <> b: semi, f: s
+semitone <> s: semitones
+semitones <> b: semitone, f: s
+sems <> b: sem, f: s3
+SEN <> s: sens
+senate <> s: senates
+senates <> b: senate, f: s
+senator <> s: senators
+senators <> b: senator, f: s
+send <> d: sent, p: sent, i: sending, '3': sends
+send-up <> s: send-ups
+send-ups <> b: send-up, f: s
+sended <> f: pd, b: scend
+sender <> s: senders
+senders <> b: sender, f: s
+sending <> b: send, f: i, i: sending, s: sendings
+sends <> b: send, f: '3'
+seneschal <> s: seneschals
+seneschals <> b: seneschal, f: s
+senior <> s: seniors
+seniors <> b: senior, f: s
+Senor <> s: senors
+sens <> b: sen, f: s
+sensation <> s: sensations
+sensationalize <> d: sensationalized
+sensationalized <> b: sensationalize, f: d, d: sensationalized
+sensations <> b: sensation, f: s
+sense <> s: senses, p: sensed, i: sensing, d: sensed, '3': senses
+sensed <> b: sense, f: pd
+sensei <> s: sensei, b: sensei, f: s
+senses <> b: sense, f: s3
+sensibilities <> b: sensibility, f: s
+sensibility <> s: sensibilities
+sensing <> b: sense, f: i, i: sensing
+sensitise <> i: sensitising, d: sensitised, '3': sensitises, p: sensitised
+sensitised <> b: sensitise, f: dp, d: sensitised, p: sensitised
+sensitises <> b: sensitise, f: '3'
+sensitising <> b: sensitise, f: i
+sensitive <> s: sensitives
+sensitives <> b: sensitive, f: s
+sensitivities <> b: sensitivity, f: s
+sensitivity <> s: sensitivities
+sensitize <> d: sensitized, p: sensitized, i: sensitizing, '3': sensitizes
+sensitized <> b: sensitize, f: dp, d: sensitized, p: sensitized
+sensitizes <> f: '3', b: sensitize
+sensitizing <> b: sensitize, f: i, i: sensitizing
+sensor <> s: sensors
+sensors <> b: sensor, f: s
+sensualities <> b: sensuality, f: s
+sensuality <> s: sensualities
+sensualize <> i: sensualizing, p: sensualized, '3': sensualizes, d: sensualized
+sent <> b: send, f: dp
+sentence <> s: sentences, d: sentenced, p: sentenced, i: sentencing, '3': sentences
+sentenced <> b: sentence, f: dp, d: sentenced, p: sentenced
+sentencer <> s: sentencers
+sentencers <> b: sentencer, f: s
+sentences <> f: s3, b: sentence
+sentencing <> b: sentence, f: i, i: sentencing
+sentiment <> s: sentiments
+sentimentalise <> p: sentimentalised, i: sentimentalising, d: sentimentalised
+sentimentalised <> b: sentimentalise, f: pd
+sentimentalising <> b: sentimentalise, f: i
+sentimentalist <> s: sentimentalists
+sentimentalists <> b: sentimentalist, f: s
+sentimentalize <> d: sentimentalized, p: sentimentalized, i: sentimentalizing, '3': sentimentalizes
+sentimentalized <> b: sentimentalize, f: dp, d: sentimentalized
+sentimentalizes <> f: '3', b: sentimentalize
+sentimentalizing <> f: i, b: sentimentalize
+sentiments <> b: sentiment, f: s
+sentinel <> s: sentinels, d: sentinelled
+sentinelled <> b: sentinel, f: d
+sentinels <> b: sentinel, f: s
+sentries <> b: sentry, f: s
+sentry <> s: sentries
+sepal <> s: sepals
+sepals <> b: sepal, f: s
+separate <> d: separated, i: separating, '3': separates, p: separated, s: separates
+separated <> b: separate, f: dp, d: separated, p: separated
+separateness <> s: separatenesses
+separatenesses <> b: separateness, f: s
+separates <> b: separate, f: 3s
+separating <> b: separate, f: i, i: separating
+separation <> s: separations
+separations <> b: separation, f: s
+separatism <> s: separatisms
+separatisms <> b: separatism, f: s
+separatist <> s: separatists
+separatists <> b: separatist, f: s
+separative <> s: separatives
+separatives <> b: separative, f: s
+separator <> s: separators
+separators <> b: separator, f: s
+sepia <> s: sepias
+sepias <> b: sepia, f: s
+sepoy <> s: sepoys
+sepoys <> b: sepoy, f: s
+sept <> s: septs
+septs <> b: sept, f: s
+septuagenarian <> s: septuagenarians
+septuagenarians <> b: septuagenarian, f: s
+sepulchre <> s: sepulchres
+sepulchres <> b: sepulchre, f: s
+sequel <> s: sequels
+sequels <> b: sequel, f: s
+sequence <> s: sequences, d: sequenced, i: sequencing, p: sequenced, '3': sequences
+sequenced <> b: sequence, f: d, d: sequenced
+sequencer <> s: sequencers
+sequencers <> b: sequencer, f: s
+sequences <> b: sequence, f: s
+sequencing <> b: sequence, f: i, i: sequencing
+sequester <> d: sequestered, p: sequestered, i: sequestering, '3': sequesters
+sequestered <> b: sequester, f: dp, p: sequestered, d: sequestered
+sequestering <> b: sequester, f: i
+sequesters <> f: '3', b: sequester
+sequestrate <> d: sequestrated, p: sequestrated, i: sequestrating, '3': sequestrates
+sequestrated <> b: sequestrate, f: dp, p: sequestrated
+sequestrates <> f: '3', b: sequestrate
+sequestrating <> b: sequestrate, f: i
+sequestration <> s: sequestrations
+sequestrations <> b: sequestration, f: s
+sequestrator <> s: sequestrators
+sequestrators <> b: sequestrator, f: s
+sequin <> s: sequins, p: sequinned, d: sequinned
+sequined <> b: sequine, f: p, p: sequined
+sequinned <> b: sequin, f: pd, p: sequinned
+sequins <> b: sequin, f: s
+sequoia <> s: sequoias
+sequoias <> b: sequoia, f: s
+serac <> s: seracs
+seracs <> b: serac, f: s
+seraglio <> s: seraglios
+seraglios <> b: seraglio, f: s
+seraph <> s: seraphim
+seraphim <> b: seraph, f: s
+Serb <> s: serbs
+serbian <> s: serbians
+serbians <> b: serbian, f: s
+Serbs <> b: serb, f: s
+serenade <> s: serenades, i: serenading, d: serenaded, p: serenaded, '3': serenades
+serenaded <> b: serenade, f: dp
+serenades <> f: s3, b: serenade
+serenading <> b: serenade, f: i
+serf <> s: serfs
+serfs <> b: serf, f: s
+serge <> s: serges
+sergeant <> s: sergeants
+sergeants <> b: sergeant, f: s
+Sergei <> s: sergei, b: sergei, f: s
+serges <> b: serge, f: s
+serial <> s: serials, p: serialled
+serialisation <> s: serialisations
+serialisations <> b: serialisation, f: s
+serialise <> d: serialised, p: serialised, i: serialising
+serialised <> b: serialise, f: dp, p: serialised
+serialising <> b: serialise, f: i
+serialist <> s: serialists
+serialists <> b: serialist, f: s
+serialize <> d: serialized, p: serialized, i: serializing, '3': serializes
+serialized <> b: serialize, f: dp
+serializes <> f: '3', b: serialize
+serializing <> f: i, b: serialize
+serialled <> b: serial, f: p
+serials <> b: serial, f: s
+serif <> s: serifs
+serifs <> b: serif, f: s
+serine <> s: serines
+serines <> b: serine, f: s
+serjeant <> s: serjeants
+serjeant-at-arms <> b: serjeant-at-arm, f: s
+serjeanties <> b: serjeanty, f: s
+serjeants <> b: serjeant, f: s
+serjeanty <> s: serjeanties
+sermon <> s: sermons
+sermonize <> i: sermonizing, d: sermonized, p: sermonized, '3': sermonizes
+sermonized <> f: dp, b: sermonize
+sermonizes <> f: '3', b: sermonize
+sermonizing <> b: sermonize, f: i, i: sermonizing
+sermons <> b: sermon, f: s
+seroconversion <> s: seroconversions
+seroconversions <> b: seroconversion, f: s
+seroconvert <> p: seroconverted, d: seroconverted
+seroconverted <> b: seroconvert, f: pd
+seroprevalence <> s: seroprevalences
+seroprevalences <> b: seroprevalence, f: s
+serotype <> s: serotypes
+serotypes <> b: serotype, f: s
+serp <> s: serps
+serpent <> s: serpents
+serpentine <> s: serpentines, i: serpentining
+serpentines <> b: serpentine, f: s
+serpentining <> b: serpentine, f: i
+serpentinite <> s: serpentinites
+serpentinites <> b: serpentinite, f: s
+serpents <> b: serpent, f: s
+SERPS <> b: serp, f: s
+serrate <> i: serrating, p: serrated, '3': serrates, d: serrated
+serrated <> f: pd, b: serrate
+serration <> s: serrations
+serrations <> b: serration, f: s
+serum <> s: serums
+serums <> b: serum, f: s
+servant <> s: servants
+servants <> b: servant, f: s
+serve <> d: served, i: serving, p: served, '3': serves, s: serves
+served <> b: serve, f: dp
+server <> s: servers
+serveries <> b: servery, f: s
+servers <> b: server, f: s
+servery <> s: serveries
+serves <> b: serve, f: 3s
+service <> s: services, d: serviced, i: servicing, p: serviced, '3': services
+serviced <> f: dp, b: service, d: serviced
+serviceman <> s: servicemen
+servicemen <> b: serviceman, f: s
+servicer <> s: servicers
+servicers <> b: servicer, f: s
+services <> f: s3, b: service
+servicewoman <> s: servicewomen
+servicewomen <> b: servicewoman, f: s
+servicing <> b: service, f: i, i: servicing, s: servicings
+serviette <> s: serviettes
+serviettes <> b: serviette, f: s
+servile <> s: serviles
+serviles <> b: servile, f: s
+serving <> b: serve, f: i, i: serving, s: servings
+servingman <> s: servingmen
+servingmen <> b: servingman, f: s
+servitor <> s: servitors
+servitors <> b: servitor, f: s
+servitude <> s: servitudes
+servitudes <> b: servitude, f: s
+servo <> s: servos
+servomechanism <> s: servomechanisms
+servomechanisms <> b: servomechanism, f: s
+servomotor <> s: servomotors
+servomotors <> b: servomotor, f: s
+servos <> b: servo, f: s
+ses <> b: se, f: 3s
+sesh <> d: seshed
+seshed <> b: sesh, f: d
+sesquicentenaries <> b: sesquicentenary, f: s
+sesquicentenary <> s: sesquicentenaries
+sesquioxide <> s: sesquioxides
+sesquioxides <> b: sesquioxide, f: s
+session <> s: sessions
+sessions <> b: session, f: s
+sesterce <> s: sesterces
+sesterces <> b: sesterce, f: s
+set <> d: set, b: set, f: dp, p: set, i: setting, s: sets, '3': sets
+set-net <> s: set-nets
+set-nets <> b: set-net, f: s
+set-up <> s: set-ups
+set-ups <> b: set-up, f: s
+setback <> s: setbacks
+setbacks <> b: setback, f: s
+sethe <> i: seething
+seton <> s: setons
+setons <> b: seton, f: s
+sets <> b: set, f: s3
+sett <> s: setts
+settee <> s: settees
+settees <> b: settee, f: s
+setter <> s: setters
+setters <> b: setter, f: s
+setting <> b: set, f: i, s: settings, i: setting
+settle <> d: settled, p: settled, i: settling, '3': settles
+settled <> b: settle, f: dp, d: settled, p: settled
+settlement <> s: settlements
+settlements <> b: settlement, f: s
+settler <> s: settlers
+settlers <> b: settler, f: s
+settles <> b: settle, f: '3'
+settling <> b: settle, f: i, i: settling, s: settlings
+settlor <> s: settlors
+settlors <> b: settlor, f: s
+setts <> b: sett, f: s
+setup <> s: setups
+setups <> b: setup, f: s
+sev <> s: sevs
+sever <> d: severed, i: severing, p: severed, '3': severs
+severance <> s: severances
+severances <> b: severance, f: s
+severe <> t: severest, r: severer
+severed <> b: sever, f: dp, p: severed, d: severed
+severer <> b: severe, f: r
+severest <> b: severe, f: t
+severing <> b: sever, f: i
+severities <> b: severity, f: s
+severity <> s: severities
+severs <> b: sever, f: '3'
+sevs <> b: sev, f: s
+sew <> d: sewn, i: sewing, p: sewed, '3': sews
+sewage <> s: sewages
+sewages <> b: sewage, f: s
+sewed <> b: sew, f: pd
+sewer <> s: sewers, d: sewered
+sewered <> b: sewer, f: d
+sewers <> b: sewer, f: s
+sewing <> b: sew, f: i, i: sewing, s: sewings
+sewn <> b: sew, f: d
+sews <> b: sew, f: '3'
+sex <> s: sexes, i: sexing, p: sexed, '3': sexes, d: sexed
+sexed <> p: sexed, b: sexed, f: p
+sexes <> f: s3, b: sex
+sexier <> b: sexy, f: r
+sexiest <> b: sexy, f: t
+sexing <> b: sex, f: i, i: sexing
+sexist <> s: sexists
+sexists <> b: sexist, f: s
+sexologist <> s: sexologists
+sexologists <> b: sexologist, f: s
+sextant <> s: sextants
+sextants <> b: sextant, f: s
+sextet <> s: sextets
+sextets <> b: sextet, f: s
+sexton <> s: sextons
+sextons <> b: sexton, f: s
+sextuplet <> s: sextuplets
+sextuplets <> b: sextuplet, f: s
+sexualities <> b: sexuality, f: s
+sexuality <> s: sexualities
+sexualize <> '3': sexualizes, d: sexualized, p: sexualized, i: sexualizing
+sexualized <> b: sexualize, f: dp
+sexualizes <> b: sexualize, f: '3'
+sexy <> t: sexiest, r: sexier
+sez <> s: sezs
+sezs <> b: sez, f: s
+SF <> s: sfs
+sfs <> b: sf, f: s
+shabbier <> b: shabby, f: r
+shabbiest <> b: shabby, f: t
+shabby <> r: shabbier, t: shabbiest
+shack <> s: shacks, d: shacked, p: shacked, i: shacking, '3': shacks
+shacked <> b: shack, f: dp
+shacking <> b: shack, f: i
+shackle <> s: shackles, d: shackled, '3': shackles, i: shackling, p: shackled
+shackled <> b: shackle, f: dp
+shackles <> b: shackle, f: s3
+shackling <> b: shackle, f: i
+shacks <> b: shack, f: s
+shad <> s: shads
+shade <> s: shades, i: shading, d: shaded, p: shaded, '3': shades
+shaded <> b: shade, f: dp, d: shaded, p: shaded
+shader <> s: shaders
+shaders <> b: shader, f: s
+shades <> b: shade, f: s3
+shadier <> b: shady, f: r
+shadiest <> b: shady, f: t
+shading <> b: shade, f: i, i: shading, s: shadings
+shadow <> d: shadowed, i: shadowing, p: shadowed, s: shadows, '3': shadows
+shadowed <> b: shadow, f: dp, d: shadowed, p: shadowed
+shadower <> s: shadowers
+shadowers <> b: shadower, f: s
+shadowgraph <> s: shadowgraphs
+shadowgraphs <> b: shadowgraph, f: s
+shadowier <> b: shadowy, f: r
+shadowing <> b: shadow, f: i, i: shadowing
+shadowland <> s: shadowlands
+shadowlands <> b: shadowland, f: s
+shadows <> b: shadow, f: s3, s: shadows
+shadowy <> r: shadowier
+shads <> b: shad, f: s
+shady <> r: shadier, t: shadiest
+shaft <> s: shafts, i: shafting, p: shafted, d: shafted, '3': shafts
+shafted <> b: shaft, f: pd, d: shafted
+shafting <> b: shaft, f: i, i: shafting
+shafts <> f: s3, b: shaft
+shag <> i: shagging, s: shags, p: shagged, d: shagged, '3': shags
+shagged <> b: shag, f: pd
+shagger <> s: shaggers
+shaggers <> b: shagger, f: s
+shagging <> b: shag, f: i
+shags <> f: s3, b: shag
+shah <> s: shahs
+Shaikh <> s: shaikhs
+shake <> p: shook, i: shaking, d: shaken, '3': shakes, s: shakes
+shake-out <> s: shake-outs
+shake-outs <> b: shake-out, f: s
+shake-up <> s: shake-ups
+shake-ups <> b: shake-up, f: s
+shakedown <> s: shakedowns
+shakedowns <> b: shakedown, f: s
+shaken <> b: shake, f: d, d: shaken
+shaker <> s: shakers
+shakers <> b: shaker, f: s
+shakes <> b: shake, f: 3s
+shakier <> b: shaky, f: r
+shakiest <> b: shaky, f: t
+shaking <> b: shake, f: i, i: shaking, s: shakings
+shako <> s: shakos
+shakos <> b: shako, f: s
+shakuhachi <> s: shakuhachi, b: shakuhachi, f: s
+shaky <> r: shakier, t: shakiest
+shale <> s: shales
+shales <> b: shale, f: s
+shallot <> s: shallots
+shallots <> b: shallot, f: s
+shallow <> s: shallows, r: shallower, t: shallowest, p: shallowed, i: shallowing, '3': shallows, d: shallowed
+shallowed <> f: pd, b: shallow
+shallower <> b: shallow, f: r
+shallowest <> b: shallow, f: t
+shallowing <> b: shallow, f: i
+shallows <> f: s3, b: shallow
+sham <> s: shams, i: shamming, p: shammed, '3': shams, d: shammed
+shama <> s: shamas
+shaman <> s: shamen
+shamanist <> s: shamanists
+shamanists <> b: shamanist, f: s
+shamas <> b: shama, f: s
+shamateur <> s: shamateurs
+shamateurs <> b: shamateur, f: s
+shamble <> p: shambled, i: shambling, '3': shambles, d: shambled
+shambled <> f: pd, b: shamble
+shambles <> b: shamble, f: '3'
+shambling <> b: shamble, f: i, i: shambling
+shame <> d: shamed, '3': shames, p: shamed, i: shaming, s: shames
+shamed <> b: shame, f: dp, d: shamed
+shamen <> b: shaman, f: s
+shames <> b: shame, f: 3s
+shaming <> b: shame, f: i, i: shaming
+shammed <> f: pd, b: sham
+shamming <> b: sham, f: i
+shampoo <> s: shampoos, i: shampooing, p: shampooed, '3': shampoos, d: shampooed
+shampooed <> b: shampooe, f: dp, d: shampooed
+shampooing <> b: shampoo, f: i
+shampoos <> f: s3, b: shampoo
+shamrock <> s: shamrocks
+shamrocks <> b: shamrock, f: s
+shams <> f: s3, b: sham
+shandies <> b: shandy, f: s
+shandy <> s: shandies
+Shanghai <> i: shanghaiing, p: shanghaied, '3': shanghais, d: shanghaied
+shanghaied <> f: pd, b: shanghai
+shanghaiing <> f: i, b: shanghai
+shanghais <> f: '3', b: shanghai
+shank <> s: shanks, d: shanked, p: shanked, i: shanking, '3': shanks
+shanked <> b: shank, f: dp
+shanking <> f: i, b: shank
+shanks <> f: s3, b: shank
+shannies <> b: shanny, f: s
+shanny <> s: shannies
+Shanti <> s: shanti, b: shanti, f: s
+shanties <> b: shanty, f: s
+Shantung <> p: shantung, b: shantung, f: p
+shanty <> s: shanties
+shantytown <> s: shantytowns
+shantytowns <> b: shantytown, f: s
+shape <> s: shapes, d: shaped, i: shaping, p: shaped, '3': shapes
+shaped <> b: shape, f: dp, d: shaped, p: shaped
+shapeliest <> b: shapely, f: t
+shapely <> t: shapeliest
+shaper <> s: shapers
+shapers <> b: shaper, f: s
+shapes <> b: shape, f: s3
+shaping <> b: shape, f: i, i: shaping, s: shapings
+shapka <> s: shapkas
+shapkas <> b: shapka, f: s
+shard <> s: shards
+shards <> b: shard, f: s
+share <> s: shares, d: shared, i: sharing, p: shared, '3': shares
+share-cropper <> s: share-croppers
+share-croppers <> b: share-cropper, f: s
+share-out <> s: share-outs
+share-outs <> b: share-out, f: s
+sharecrop <> i: sharecropping
+sharecropper <> s: sharecroppers
+sharecroppers <> b: sharecropper, f: s
+sharecropping <> b: sharecrop, f: i
+shared <> b: share, f: dp, d: shared, p: shared
+shareholder <> s: shareholders
+shareholders <> b: shareholder, f: s
+shareholding <> s: shareholdings
+shareholdings <> b: shareholding, f: s
+shareowner <> s: shareowners
+shareowners <> b: shareowner, f: s
+sharer <> s: sharers
+sharers <> b: sharer, f: s
+shares <> b: share, f: s3
+sharing <> b: share, f: i, i: sharing, s: sharings
+shark <> s: sharks, i: sharking, p: sharked, '3': sharks, d: sharked
+sharked <> f: pd, b: shark
+sharking <> b: shark, f: i
+sharks <> f: s3, b: shark
+sharp <> s: sharps
+Sharpe <> r: sharper, t: sharpest
+sharpen <> d: sharpened, i: sharpening, p: sharpened, '3': sharpens
+sharpened <> b: sharpen, f: dp, d: sharpened, p: sharpened
+sharpener <> s: sharpeners
+sharpeners <> b: sharpener, f: s
+sharpening <> b: sharpen, f: i, i: sharpening, s: sharpenings
+sharpens <> b: sharpen, f: '3'
+sharper <> b: sharpe, f: r, s: sharpers
+sharpest <> b: sharpe, f: t
+sharps <> b: sharp, f: s
+sharpshooter <> s: sharpshooters
+sharpshooters <> b: sharpshooter, f: s
+shat <> p: shat, b: shat, f: p
+shatter <> d: shattered, p: shattered, i: shattering, '3': shatters
+shattered <> b: shatter, f: dp, d: shattered, p: shattered
+shattering <> b: shatter, f: i, i: shattering
+shatters <> b: shatter, f: '3'
+shave <> d: shaved, i: shaving, p: shaved, '3': shaves, s: shaves
+shaved <> b: shave, f: dp, d: shaved, p: shaved
+shaven <> d: shaven, b: shaven, f: d
+shaver <> s: shavers
+shavers <> b: shaver, f: s
+shaves <> b: shave, f: 3s
+Shavian <> s: shavians
+shaving <> b: shave, f: i, s: shavings, i: shaving
+shavings <> b: shaving, f: s
+shaw <> s: shaws, '3': shaws
+shawl <> s: shawls, p: shawled
+shawled <> b: shawl, f: p
+shawls <> b: shawl, f: s
+shawm <> s: shawms
+shawms <> b: shawm, f: s
+shaws <> b: shaw, f: s3
+sheaf <> s: sheaves
+shear <> s: shears, d: shorn, i: shearing, p: sheared, '3': shears
+sheared <> b: shear, f: dp
+shearer <> s: shearers
+shearers <> b: shearer, f: s
+shearing <> b: shear, f: i, i: shearing, s: shearings
+shearling <> b: shearl, f: i, s: shearlings, i: shearling
+shearlings <> b: shearling, f: s
+Shearman <> s: shearmen
+shearmen <> b: shearman, f: s
+shears <> b: shear, f: s3
+shearwater <> s: shearwaters, b: shearwate, f: r
+shearwaters <> b: shearwater, f: s
+sheath <> s: sheaths
+sheathbill <> s: sheathbills, '3': sheathbills
+sheathbills <> b: sheathbill, f: s3
+sheathe <> d: sheathed, p: sheathed, '3': sheathes, i: sheathing
+sheathed <> b: sheathe, f: dp, d: sheathed
+sheathes <> b: sheathe, f: '3'
+sheathing <> b: shethe, f: i
+sheaths <> b: sheath, f: s
+sheave <> p: sheaved, s: sheaves, '3': sheaves
+sheaved <> b: sheave, f: p
+sheaves <> b: sheaf, f: s
+shebeen <> s: shebeens, i: shebeening
+shebeening <> b: shebeen, f: i
+shebeens <> b: shebeen, f: s
+shed <> s: sheds, d: shed, b: shed, f: dp, i: shedding, p: shed, '3': sheds
+shedded <> b: shed, f: d
+shedder <> s: shedders
+shedders <> b: shedder, f: s
+shedding <> b: shed, f: i, i: shedding, s: sheddings
+sheds <> b: shed, f: s3
+sheen <> p: sheened, d: sheened, s: sheens, i: sheening
+sheened <> b: sheen, f: pd
+sheening <> b: sheen, f: i
+sheens <> b: sheen, f: s
+sheep <> s: sheeps
+sheepdog <> s: sheepdogs, '3': sheepdogs
+sheepdogs <> b: sheepdog, f: s3
+sheepfold <> s: sheepfolds
+sheepfolds <> b: sheepfold, f: s
+sheeps <> b: sheep, f: s
+sheepskin <> s: sheepskins
+sheepskins <> b: sheepskin, f: s
+sheer <> s: sheers, p: sheered, i: sheering, '3': sheers, d: sheered
+sheered <> f: pd, b: sheer
+sheering <> f: i, b: sheer
+sheers <> f: s3, b: sheer
+sheet <> s: sheets, d: sheeted, p: sheeted, i: sheeting, '3': sheets
+sheeted <> b: sheet, f: dp, p: sheeted
+sheeting <> i: sheeting, b: sheeting, f: i
+sheets <> f: s3, b: sheet
+sheik <> s: sheiks
+sheikdom <> s: sheikdoms
+sheikdoms <> b: sheikdom, f: s
+sheikh <> s: sheikhs
+sheikhdom <> s: sheikhdoms
+sheikhdoms <> b: sheikhdom, f: s
+sheikhs <> b: sheikh, f: s
+sheiks <> b: sheik, f: s
+shekel <> s: shekels
+shekels <> b: shekel, f: s
+shelduck <> s: shelducks
+shelducks <> b: shelduck, f: s
+shelf <> s: shelves
+shell <> s: shells, i: shelling, d: shelled, p: shelled, '3': shells
+shell-like <> s: shell-likes
+shell-likes <> b: shell-like, f: s
+shellac <> i: shellacking, p: shellacked, '3': shellacs, d: shellacked
+shellacked <> f: pd, b: shellac
+shellacking <> f: i, b: shellac
+shellacs <> f: '3', b: shellac
+shellback <> s: shellbacks
+shellbacks <> b: shellback, f: s
+shelled <> b: shell, f: dp, p: shelled, d: shelled
+shelling <> b: shell, f: i, i: shelling
+shells <> f: s3, b: shell
+shelter <> s: shelters, i: sheltering, d: sheltered, p: sheltered, '3': shelters
+sheltered <> b: shelter, f: dp, d: sheltered, p: sheltered
+sheltering <> b: shelter, f: i, i: sheltering
+shelters <> b: shelter, f: s3
+shelve <> d: shelved, i: shelving, p: shelved, '3': shelves, s: shelves
+shelved <> b: shelve, f: dp, d: shelved, p: shelved
+shelves <> b: shelf, f: s
+shelving <> b: shelve, f: i, i: shelving
+shenanigan <> s: shenanigans
+shenanigans <> b: shenanigan, f: s
+shepherd <> s: shepherds, p: shepherded, d: shepherded, i: shepherding, '3': shepherds
+shepherded <> b: shepherd, f: pd
+shepherdess <> s: shepherdesses, d: shepherdessed
+shepherdessed <> b: shepherdess, f: d
+shepherdesses <> b: shepherdess, f: s
+shepherding <> b: shepherd, f: i, i: shepherding
+Shepherds <> b: shepherd, f: s3
+Sher <> s: shers
+sherbet <> s: sherbets
+sherbets <> b: sherbet, f: s
+sherd <> s: sherds
+sherds <> b: sherd, f: s
+sheriff <> s: sheriffs
+sheriffdom <> s: sheriffdoms
+sheriffdoms <> b: sheriffdom, f: s
+sheriffs <> b: sheriff, f: s
+sherpa <> s: sherpas
+sherpas <> b: sherpa, f: s
+sherries <> b: sherry, f: s
+sherry <> s: sherries
+shetlander <> s: shetlanders
+shetlanders <> b: shetlander, f: s
+shew <> d: shewn, i: shewing, p: shewed, '3': shews, s: shews
+shewed <> b: shew, f: p
+shewing <> b: shew, f: i
+shewn <> b: shew, f: d
+shews <> b: shew, f: 3s
+shi <> s: shi, b: shi, f: s
+shia <> s: shias
+shias <> b: shia, f: s
+shibboleth <> '3': shibboleth, b: shibboleth, f: '3', s: shibboleths
+shibboleths <> b: shibboleth, f: s
+shied <> b: shy, f: pd
+Shiel <> s: shiels
+shield <> s: shields, i: shielding, d: shielded, '3': shields, p: shielded
+shielded <> b: shield, f: dp, p: shielded, d: shielded
+shielding <> b: shield, f: i, i: shielding
+shields <> b: shield, f: s3
+shieling <> s: shielings
+shielings <> b: shieling, f: s
+shies <> b: shy, f: '3'
+shift <> s: shifts, d: shifted, p: shifted, i: shifting, '3': shifts
+shifted <> b: shift, f: dp, d: shifted, p: shifted
+shifter <> s: shifters
+shifters <> b: shifter, f: s
+shiftier <> b: shifty, f: r
+shifting <> b: shift, f: i, i: shifting, s: shiftings
+shifts <> b: shift, f: s3
+shiftwork <> i: shiftworking
+shiftworking <> b: shiftwork, f: i
+shifty <> r: shiftier
+shiite <> s: shiites
+shiites <> b: shiite, f: s
+shikari <> s: shikari, b: shikari, f: s
+shiksa <> s: shiksas
+shiksas <> b: shiksa, f: s
+shillelagh <> s: shillelaghs
+shillelaghs <> b: shillelagh, f: s
+shilling <> s: shillings
+shillings <> b: shilling, f: s
+shilly-shallied <> f: d, b: shillyshally
+shilly-shallies <> f: '3', b: shillyshally
+shilly-shally <> i: shilly-shallying
+shilly-shallying <> b: shilly-shally, f: i
+shillyshally <> i: shilly-shallying, p: shillyshallied, '3': shilly-shallies, d: shilly-shallied
+shim <> s: shims, d: shimmed, i: shimming, p: shimmed, '3': shims
+shimmed <> b: shim, f: dp
+shimmer <> p: shimmered, s: shimmers, '3': shimmers, i: shimmering, d: shimmered
+shimmered <> f: pd, b: shimmer, p: shimmered
+shimmering <> i: shimmering, b: shimmering, f: i
+shimmers <> b: shimmer, f: s3
+shimmied <> b: shimmy, f: pd
+shimmies <> f: s3, b: shimmy
+shimming <> b: shim, f: i
+shimmy <> i: shimmying, p: shimmied, d: shimmied, s: shimmies, '3': shimmies
+shimmying <> b: shimmy, f: i
+shims <> b: shim, f: s
+shin <> s: shins, i: shinning, p: shinned, '3': shins, d: shinned
+shindig <> s: shindigs
+shindigs <> b: shindig, f: s
+shine <> p: shone, i: shining, '3': shines, d: shone
+shined <> b: shine, f: dp
+shiner <> s: shiners
+shiners <> b: shiner, f: s
+shines <> b: shine, f: '3'
+shingle <> p: shingled, d: shingled, i: shingling, '3': shingles
+shingled <> b: shingle, f: pd, p: shingled
+shingles <> s: shingles, b: shingles, f: s
+shingling <> f: i, b: shingle
+shinier <> b: shiny, f: r
+shiniest <> b: shiny, f: t
+shining <> b: shine, f: i, i: shining
+shinned <> f: pd, b: shin
+shinning <> b: shin, f: i
+shinny <> i: shinnying, p: shinnied, '3': shinnies, d: shinnied
+shins <> f: s3, b: shin
+shiny <> r: shinier, t: shiniest
+ship <> s: ships, d: shipped, i: shipping, p: shipped, '3': ships
+shipbroker <> s: shipbrokers
+shipbrokers <> b: shipbroker, f: s
+shipbuilder <> s: shipbuilders, '3': shipbuilders
+shipbuilders <> b: shipbuilder, f: s3
+shipbuilding <> i: shipbuilding, b: shipbuilding, f: i
+shipload <> s: shiploads
+shiploads <> b: shipload, f: s
+shipman <> s: shipmen
+shipmaster <> s: shipmasters
+shipmasters <> b: shipmaster, f: s
+shipmate <> s: shipmates
+shipmates <> b: shipmate, f: s
+shipmen <> b: shipman, f: s
+shipment <> s: shipments
+shipments <> b: shipment, f: s
+shipowner <> s: shipowners
+shipowners <> b: shipowner, f: s
+shipped <> b: ship, f: dp, d: shipped
+shippen <> '3': shippens
+shippens <> b: shippen, f: '3'
+shipper <> s: shippers
+shippers <> b: shipper, f: s
+shipping <> b: ship, f: i, i: shipping, s: shippings
+ships <> b: ship, f: s3
+shipway <> s: shipways
+shipways <> b: shipway, f: s
+shipwreck <> s: shipwrecks, d: shipwrecked, p: shipwrecked, i: shipwrecking, '3': shipwrecks
+shipwrecked <> b: shipwreck, f: dp, p: shipwrecked
+shipwrecking <> f: i, b: shipwreck
+shipwrecks <> f: s3, b: shipwreck
+shipwright <> s: shipwrights
+shipwrights <> b: shipwright, f: s
+shipyard <> s: shipyards
+shipyards <> b: shipyard, f: s
+shire <> s: shires
+shires <> b: shire, f: s
+shirk <> i: shirking, d: shirked, p: shirked, '3': shirks
+shirked <> b: shirk, f: dp
+shirker <> s: shirkers
+shirkers <> b: shirker, f: s
+shirking <> b: shirk, f: i, i: shirking
+shirks <> b: shirk, f: '3'
+shirr <> i: shirring, p: shirred, '3': shirrs, d: shirred
+shirred <> b: shir, f: dp
+shirring <> b: shir, f: i
+shirrs <> f: '3', b: shirr
+shirt <> s: shirts
+shirtfront <> s: shirtfronts
+shirtfronts <> b: shirtfront, f: s
+shirts <> b: shirt, f: s
+shirtsleeve <> s: shirtsleeves, p: shirtsleeved
+shirtsleeved <> b: shirtsleeve, f: p
+shirtsleeves <> b: shirtsleeve, f: s
+shit <> d: shitted, p: shitted, i: shitting, s: shits, f: pd, b: shit, '3': shits
+shite <> s: shites
+shites <> b: shite, f: s
+shithead <> s: shitheads
+shitheads <> b: shithead, f: s
+shithouse <> s: shithouses
+shithouses <> b: shithouse, f: s
+shitload <> s: shitloads
+shits <> b: shit, f: s3
+shitted <> b: shit, f: pd
+shittiest <> b: shitty, f: t
+shitting <> b: shit, f: i, i: shitting
+shitty <> t: shittiest
+shiv <> s: shivs
+shiver <> p: shivered, i: shivering, s: shivers, '3': shivers, d: shivered
+shivered <> b: shiver, f: pd
+shivering <> b: shiver, f: i, i: shivering
+shivers <> b: shiver, f: s3
+shivs <> b: shiv, f: s
+sho <> s: shos
+shoal <> s: shoals, i: shoaling, p: shoaled, d: shoaled, '3': shoals
+shoaled <> b: shoal, f: pd
+shoaling <> b: shoal, f: i
+shoals <> f: s3, b: shoal
+shoat <> s: shoats
+shoats <> b: shoat, f: s
+shock <> p: shocked, s: shocks, d: shocked, '3': shocks, i: shocking
+shocked <> b: shock, f: pd, p: shocked, d: shocked
+shocker <> s: shockers
+shockers <> b: shocker, f: s
+shocking <> b: shock, f: i, i: shocking
+shocks <> b: shock, f: s3
+shockwave <> s: shockwaves
+shockwaves <> b: shockwave, f: s
+shod <> b: shoe, f: dp, i: shodding, d: shod, p: shod
+shoddier <> b: shoddy, f: r
+shoddiest <> b: shoddy, f: t
+shodding <> b: shod, f: i
+shoddy <> t: shoddiest, r: shoddier
+shoe <> s: shoes, d: shod, i: shoeing, p: shod, '3': shoes
+shoebox <> s: shoeboxes
+shoeboxes <> b: shoebox, f: s
+shoehorn <> d: shoehorned, p: shoehorned, i: shoehorning, '3': shoehorns, s: shoehorns
+shoehorned <> b: shoehorn, f: dp
+shoelace <> s: shoelaces, '3': shoelaces, p: shoelaced
+shoelaced <> b: shoelace, f: p
+shoelaces <> b: shoelace, f: s3
+shoemake <> i: shoemaking
+shoemaker <> s: shoemakers
+shoemakers <> b: shoemaker, f: s
+shoemaking <> b: shoemake, f: i
+shoeshine <> i: shoeshining, s: shoeshines
+shoeshines <> b: shoeshine, f: s
+shoeshining <> b: shoeshine, f: i
+shoestring <> s: shoestrings
+shoestrings <> b: shoestring, f: s
+shogun <> s: shoguns
+shoguns <> b: shogun, f: s
+shoji <> s: shoji, b: shoji, f: s
+shone <> b: shine, f: pd
+shoo <> i: shooing, s: shoos, p: shooed, '3': shoos, d: shooed
+shooed <> b: shooe, f: pd
+shooing <> b: shoo, f: i, i: shooing
+shook <> b: shake, f: p
+shoos <> f: s3, b: shoo
+shoot <> d: shot, p: shot, i: shooting, s: shoots, '3': shoots
+shoot-out <> s: shoot-outs
+shoot-outs <> b: shoot-out, f: s
+shooter <> s: shooters
+shooters <> b: shooter, f: s
+shooting <> b: shoot, f: i, i: shooting, s: shootings
+shootout <> s: shootouts
+shootouts <> b: shootout, f: s
+shoots <> b: shoot, f: s3
+shop <> s: shops, i: shopping, p: shopped, '3': shops, d: shopped
+shopaholic <> s: shopaholics
+shopaholics <> b: shopaholic, f: s
+shopfitting <> s: shopfittings, i: shopfitting, b: shopfitting, f: i
+shopfittings <> b: shopfitting, f: s
+shopfront <> s: shopfronts
+shopfronts <> b: shopfront, f: s
+shopgirl <> s: shopgirls
+shopgirls <> b: shopgirl, f: s
+shopkeeper <> s: shopkeepers
+shopkeepers <> b: shopkeeper, f: s
+shopkeeping <> b: shopkeep, f: i
+shoplift <> i: shoplifting, d: shoplifted, p: shoplifted, '3': shoplifts
+shoplifted <> b: shoplift, f: dp
+shoplifter <> s: shoplifters
+shoplifters <> b: shoplifter, f: s
+shoplifting <> i: shoplifting, b: shoplifting, f: i
+shopman <> s: shopmen
+shopmen <> b: shopman, f: s
+shopped <> f: pd, b: shop, d: shopped, p: shopped
+shopper <> s: shoppers
+shoppers <> b: shopper, f: s
+shopping <> b: shop, f: i, i: shopping
+shops <> f: s3, b: shop
+shopsoiled <> b: shopsoil, f: p
+shopworker <> s: shopworkers
+shopworkers <> b: shopworker, f: s
+shore <> s: shores, i: shoring, d: shored, p: shored, '3': shores
+shored <> b: shore, f: dp
+shoreline <> s: shorelines
+shorelines <> b: shoreline, f: s
+shores <> f: s3, b: shore
+shoring <> b: shore, f: i
+shorn <> b: shear, f: d, d: shorned
+short <> r: shorter, t: shortest, i: shorting, p: shorted, '3': shorts, d: shorted
+short-change <> d: short-changed, p: short-changed, i: short-changing, '3': short-changes
+short-changed <> b: short-change, f: dp
+short-circuit <> i: short-circuiting, s: short-circuits, p: short-circuited, '3': short-circuits, d: short-circuited
+short-circuiting <> b: short-circuit, f: i
+short-circuits <> b: short-circuit, f: s
+short-list <> i: short-listing, s: short-lists
+short-listing <> b: short-list, f: i
+short-lists <> b: short-list, f: s
+shortage <> s: shortages
+shortages <> b: shortage, f: s
+shortcoming <> s: shortcomings
+shortcomings <> b: shortcoming, f: s
+shortcut <> s: shortcuts
+shortcuts <> b: shortcut, f: s
+shorted <> f: pd, b: short
+shorten <> d: shortened, i: shortening, '3': shortens, p: shortened
+shortened <> b: shorten, f: dp, d: shortened, p: shortened
+shortening <> b: shorten, f: i, i: shortening, s: shortenings
+shortens <> b: shorten, f: '3'
+shorter <> b: short, f: r
+shortest <> b: short, f: t
+shortfall <> s: shortfalls
+shortfalls <> b: shortfall, f: s
+shorthand <> d: shorthanded
+shorthanded <> b: shorthand, f: d, p: shorthanded
+shorthorn <> s: shorthorns, '3': shorthorns
+shorthorns <> b: shorthorn, f: s3
+shorties <> b: shorty, f: s
+shorting <> f: i, b: short
+shortlist <> d: shortlisted, p: shortlisted, s: shortlists, i: shortlisting, '3': shortlists
+shortlisted <> b: shortlist, f: dp, p: shortlisted
+shortlisting <> b: shortlist, f: i, i: shortlisting
+shortlists <> b: shortlist, f: s
+shortlived <> b: shortlive, f: dp, p: shortlived
+shorts <> s: shorts, b: shorts, f: s
+shortwave <> s: shortwaves
+shortwaves <> b: shortwave, f: s
+shorty <> s: shorties
+shos <> b: sho, f: s
+shot <> b: shoot, f: dp, s: shots
+shotgun <> s: shotguns
+shotguns <> b: shotgun, f: s
+shoulder <> s: shoulders, p: shouldered, i: shouldering, d: shouldered, '3': shoulders
+shouldered <> b: shoulder, f: pd, p: shouldered
+shouldering <> b: shoulder, f: i
+shoulders <> f: s3, b: shoulder
+shout <> p: shouted, i: shouting, s: shouts, '3': shouts, d: shouted
+shouted <> b: shout, f: pd, d: shouted, p: shouted
+shouter <> s: shouters
+shouters <> b: shouter, f: s
+shouting <> b: shout, f: i, i: shouting
+shouts <> b: shout, f: s3
+shove <> p: shoved, i: shoving, d: shoved, '3': shoves, s: shoves
+shoved <> b: shove, f: pd
+shovel <> s: shovels, i: shovelling, p: shovelled, d: shovelled, '3': shovels
+shoveler <> s: shovelers
+shovelers <> b: shoveler, f: s
+shovelful <> s: shovelfuls
+shovelfuls <> b: shovelful, f: s
+shovelled <> b: shovel, f: pd, p: shovelled
+shovelling <> b: shovel, f: i, s: shovellings, i: shovelling
+shovels <> b: shovel, f: s3
+shoves <> b: shove, f: 3s
+shoving <> b: shove, f: i, i: shoving
+show <> d: shown, p: showed, '3': shows, i: showing, s: shows
+show off <> i: showing off, p: showed off, '3': shows off, d: shown off
+show-off <> s: show-offs
+show-offs <> b: show-off, f: s
+show-stopper <> s: show-stoppers
+show-stoppers <> b: show-stopper, f: s
+showcard <> s: showcards
+showcards <> b: showcard, f: s
+showcase <> s: showcases, i: showcasing, d: showcased, p: showcased
+showcased <> b: showcase, f: dp
+showcases <> b: showcase, f: s
+showcasing <> b: showcase, f: i
+showdown <> s: showdowns
+showdowns <> b: showdown, f: s
+showed <> b: show, f: pd
+shower <> s: showers, d: showered, p: showered, i: showering, '3': showers
+showered <> b: shower, f: dp
+showerhead <> s: showerheads
+showerheads <> b: showerhead, f: s
+showering <> b: shower, f: i, s: showerings, i: showering
+showers <> b: shower, f: s3
+showgirl <> s: showgirls
+showgirls <> b: showgirl, f: s
+showground <> s: showgrounds
+showgrounds <> b: showground, f: s
+showing <> b: show, f: i, i: showing, s: showings
+showjumping <> i: showjumping, b: showjumping, f: i
+showman <> s: showmen
+showmen <> b: showman, f: s
+shown <> b: show, f: d, '3': showns
+showpiece <> s: showpieces
+showpieces <> b: showpiece, f: s
+showroom <> s: showrooms
+showrooms <> b: showroom, f: s
+shows <> b: show, f: 3s
+shrank <> b: shrink, f: p
+shred <> s: shreds, i: shredding, d: shredded, p: shredded, '3': shreds
+shredded <> b: shred, f: dp, d: shredded, p: shredded
+shredder <> s: shredders
+shredders <> b: shredder, f: s
+shredding <> b: shred, f: i
+shreds <> b: shred, f: s3
+shrew <> s: shrews
+shrewd <> r: shrewder, t: shrewdest
+shrewder <> b: shrewd, f: r
+shrewdest <> b: shrewd, f: t
+shrews <> b: shrew, f: s
+shriek <> p: shrieked, i: shrieking, s: shrieks, '3': shrieks, d: shrieked
+shrieked <> b: shriek, f: pd
+shrieking <> b: shriek, f: i, i: shrieking, s: shriekings
+shrieks <> b: shriek, f: s3
+shrill <> r: shriller, '3': shrills, t: shrillest, i: shrilling, p: shrilled, d: shrilled
+shrilled <> b: shril, f: pd
+shriller <> b: shrill, f: r
+shrillest <> b: shrill, f: t
+shrilling <> b: shril, f: i
+shrills <> b: shrill, f: '3'
+shrimp <> s: shrimps, i: shrimping, p: shrimped, '3': shrimps, d: shrimped
+shrimped <> f: pd, b: shrimp
+shrimper <> s: shrimpers
+shrimpers <> b: shrimper, f: s
+shrimping <> b: shrimp, f: i
+shrimps <> f: s3, b: shrimp
+shrine <> s: shrines, i: shrining, p: shrined, '3': shrines, d: shrined
+shrined <> f: pd, b: shrine
+shrines <> f: s3, b: shrine
+shrining <> f: i, b: shrine
+shrink <> p: shrank, d: shrunk, i: shrinking, '3': shrinks, s: shrinks
+shrinkage <> s: shrinkages
+shrinkages <> b: shrinkage, f: s
+shrinking <> b: shrink, f: i, i: shrinking
+shrinks <> b: shrink, f: 3s
+shrive <> d: shrived, i: shriving, p: shrove, '3': shrives
+shrivel <> p: shrivelled, d: shrivelled, i: shrivelling, '3': shrivels, s: shrivels
+shrivelled <> b: shrivel, f: pd, p: shrivelled, d: shrivelled
+shrivelling <> b: shrivel, f: i, i: shrivelling
+shrivels <> b: shrivel, f: 3s
+shriven <> b: shrve, f: d
+shroud <> d: shrouded, s: shrouds, i: shrouding, p: shrouded, '3': shrouds
+shrouded <> b: shroud, f: dp, d: shrouded
+shrouding <> b: shroud, f: i
+shrouds <> b: shroud, f: s3
+shrove <> f: p, b: shrive
+shrub <> s: shrubs
+shrubberies <> b: shrubbery, f: s
+shrubbery <> s: shrubberies
+shrubs <> b: shrub, f: s
+shrug <> p: shrugged, i: shrugging, '3': shrugs, d: shrugged, s: shrugs
+shrugged <> b: shrug, f: pd
+shrugging <> b: shrug, f: i, s: shruggings, i: shrugging
+shrugs <> b: shrug, f: 3s
+shrunk <> f: dp, b: shrink
+shrunken <> f: d, b: shrink
+shubunkin <> s: shubunkins
+shubunkins <> b: shubunkin, f: s
+shuck <> d: shucked, i: shucking, p: shucked, '3': shucks
+shucked <> b: shuck, f: dp
+shucking <> b: shuck, f: i
+shucks <> f: '3', b: shuck
+shudder <> p: shuddered, i: shuddering, s: shudders, '3': shudders, d: shuddered
+shuddered <> b: shudder, f: pd
+shuddering <> b: shudder, f: i, s: shudderings, i: shuddering
+shudders <> b: shudder, f: s3
+shuffle <> p: shuffled, i: shuffling, d: shuffled, '3': shuffles, s: shuffles
+shuffled <> b: shuffle, f: pd, d: shuffled, p: shuffled
+shuffler <> s: shufflers
+shufflers <> b: shuffler, f: s
+shuffles <> b: shuffle, f: 3s
+shuffling <> b: shuffle, f: i, i: shuffling, s: shufflings
+shufti <> s: shufti, b: shufti, f: s
+shun <> d: shunned, p: shunned, i: shunning, '3': shuns
+shunned <> b: shun, f: dp, d: shunned, p: shunned
+shunning <> b: shun, f: i
+shuns <> b: shun, f: '3'
+shunt <> d: shunted, i: shunting, p: shunted, s: shunts, '3': shunts
+shunted <> b: shunt, f: dp
+shunter <> s: shunters
+shunters <> b: shunter, f: s
+shunting <> b: shunt, f: i, i: shunting, s: shuntings
+shunts <> b: shunt, f: s3
+shush <> p: shushed, i: shushing, d: shushed, s: shushes, '3': shushes
+shushed <> b: shush, f: pd
+shushes <> f: s3, b: shush
+shushing <> b: shush, f: i, i: shushing
+shut <> d: shut, b: shut, f: dp, p: shut, i: shutting, '3': shuts
+shut-in <> s: shut-ins
+shut-ins <> b: shut-in, f: s
+shut-out <> s: shut-outs
+shut-outs <> b: shut-out, f: s
+shutdown <> s: shutdowns
+shutdowns <> b: shutdown, f: s
+shute <> s: shutes
+shutes <> b: shute, f: s
+shuts <> b: shut, f: '3'
+shutter <> s: shutters, i: shuttering, p: shuttered, '3': shutters, d: shuttered
+shuttered <> f: pd, b: shutter
+shuttering <> b: shutter, f: i, i: shuttering
+shutters <> f: s3, b: shutter
+shutting <> b: shut, f: i, i: shutting
+shuttle <> s: shuttles, i: shuttling, p: shuttled, d: shuttled, '3': shuttles
+shuttlecock <> s: shuttlecocks, d: shuttlecocked, i: shuttlecocking, p: shuttlecocked, '3': shuttlecocks
+shuttlecocked <> b: shuttlecock, f: d
+shuttlecocks <> b: shuttlecock, f: s
+shuttled <> b: shuttle, f: pd
+shuttles <> f: s3, b: shuttle
+shuttling <> b: shuttle, f: i, i: shuttling
+shy <> p: shied, d: shied, i: shying, '3': shies, r: shyer, t: shyest
+shyer <> b: shy, f: r
+shyest <> b: shy, f: t
+shying <> b: shy, f: i
+shyster <> s: shysters
+shysters <> b: shyster, f: s
+siamang <> s: siamangs
+siamangs <> b: siamang, f: s
+Siamese <> p: siamesed
+sib <> s: sibs
+siberian <> s: siberians
+siberians <> b: siberian, f: s
+sibilant <> s: sibilants
+sibilants <> b: sibilant, f: s
+sibling <> s: siblings
+siblings <> b: sibling, f: s
+sibs <> b: sib, f: s
+sic <> i: sicking, p: sicked, '3': sics, d: sicked
+sicilian <> s: sicilians
+sicilians <> b: sicilian, f: s
+sick <> r: sicker, t: sickest, '3': sicks
+sickbed <> p: sickbed, b: sickbed, f: p
+sicked <> f: pd, b: sic
+sicken <> d: sickened, p: sickened, s: sickens, i: sickening, '3': sickens
+sickened <> b: sicken, f: dp, p: sickened
+sickening <> i: sickening, b: sickening, f: i
+sickens <> f: s3, b: sicken
+sicker <> b: sick, f: r
+sickest <> b: sick, f: t
+sicking <> f: i, b: sic
+sickle <> s: sickles, i: sickling
+sickles <> b: sickle, f: s
+sicklied <> b: sickly, f: d
+sicklier <> b: sickly, f: r
+sickliest <> b: sickly, f: t
+sickling <> b: sickle, f: i
+sickly <> d: sicklied, t: sickliest, r: sicklier
+sickness <> s: sicknesses
+sicknesses <> b: sickness, f: s
+sicko <> s: sickos
+sickos <> b: sicko, f: s
+sics <> f: '3', b: sic
+siddhi <> s: siddhi, b: siddhi, f: s
+Siddons <> b: siddon, f: s
+side <> s: sides, p: sided, d: sided, i: siding, '3': sides
+side-foot <> p: side-footed, d: side-footed
+side-footed <> b: side-foot, f: pd
+side-slip <> s: side-slips
+side-slips <> b: side-slip, f: s
+sidearm <> s: sidearms
+sidearms <> b: sidearm, f: s
+sideband <> s: sidebands
+sidebands <> b: sideband, f: s
+sidebar <> s: sidebars
+sidebars <> b: sidebar, f: s
+sideboard <> s: sideboards
+sideboards <> b: sideboard, f: s
+sideburn <> s: sideburns
+sideburns <> b: sideburn, f: s
+sidecar <> s: sidecars
+sidecars <> b: sidecar, f: s
+sided <> b: side, f: pd
+sidekick <> s: sidekicks
+sidekicks <> b: sidekick, f: s
+sidelight <> s: sidelights
+sidelights <> b: sidelight, f: s
+sideline <> s: sidelines, d: sidelined, p: sidelined, i: sidelining, '3': sidelines
+sidelined <> b: sideline, f: dp
+sidelines <> f: s3, b: sideline
+sidelining <> b: sideline, f: i, i: sidelining
+sidelock <> s: sidelocks
+sidelocks <> b: sidelock, f: s
+sideman <> s: sidemen
+sidemen <> b: sideman, f: s
+siderite <> s: siderites
+siderites <> b: siderite, f: s
+sides <> f: s3, b: side
+sideshow <> s: sideshows
+sideshows <> b: sideshow, f: s
+sideslip <> i: sideslipping, p: sideslipped
+sideslipped <> b: sideslip, f: p
+sideslipping <> b: sideslip, f: i, i: sideslipping
+sidesman <> s: sidesmen
+sidesmen <> b: sidesman, f: s
+sidestep <> p: sidestepped, i: sidestepping, '3': sidesteps, d: sidestepped, s: sidesteps
+sidestepped <> b: sidestep, f: pd
+sidestepping <> b: sidestep, f: i
+sidesteps <> b: sidestep, f: 3s
+sideswipe <> i: sideswiping, p: sideswiped, '3': sideswipes, d: sideswiped
+sideswiped <> f: pd, b: sideswipe
+sideswipes <> f: '3', b: sideswipe
+sideswiping <> b: sideswipe, f: i
+sidetrack <> d: sidetracked, p: sidetracked, i: sidetracking, s: sidetracks, '3': sidetracks
+sidetracked <> b: sidetrack, f: dp, p: sidetracked
+sidetracking <> b: sidetrack, f: i
+sidetracks <> f: s3, b: sidetrack
+sidewalk <> s: sidewalks
+sidewalks <> b: sidewalk, f: s
+sidewall <> s: sidewalls, '3': sidewalls
+sidewalls <> b: sidewall, f: s3
+siding <> s: sidings, i: siding, b: siding, f: i
+sidle <> p: sidled, i: sidling, '3': sidles, s: sidles, d: sidled
+sidled <> b: sidle, f: pd
+sidles <> b: sidle, f: 3s
+sidling <> b: sidle, f: i, i: sidling
+siege <> s: sieges
+sieges <> b: siege, f: s
+siemens <> b: siemen, f: s
+sienna <> s: siennas
+siennas <> b: sienna, f: s
+sierra <> s: sierras
+sierras <> b: sierra, f: s
+siesta <> s: siestas
+siestas <> b: siesta, f: s
+sieve <> s: sieves, d: sieved, i: sieving, p: sieved, '3': sieves
+sieved <> b: sieve, f: dp, d: sieved
+sieves <> f: s3, b: sieve
+sieving <> b: sieve, f: i, i: sieving
+sift <> i: sifting, d: sifted, p: sifted, '3': sifts, s: sifts
+sifted <> b: sift, f: dp, p: sifted
+sifter <> s: sifters
+sifters <> b: sifter, f: s
+sifting <> b: sift, f: i, i: sifting, s: siftings
+sifts <> b: sift, f: 3s
+sigh <> p: sighed, '3': sighs, i: sighing, s: sighs, d: sighed
+sighed <> b: sigh, f: pd
+sighing <> b: sigh, f: i, s: sighings, i: sighing
+sighs <> b: sigh, f: 3s
+sight <> s: sights, d: sighted, p: sighted, i: sighting, '3': sights
+sight-read <> i: sight-reading, p: sight-read, '3': sight-reads, d: sight-read
+sighted <> b: sight, f: dp, d: sighted, p: sighted
+sighter <> s: sighters
+sighters <> b: sighter, f: s
+sighting <> b: sight, f: i, s: sightings, i: sighting
+sightline <> s: sightlines
+sightlines <> b: sightline, f: s
+sights <> f: s3, b: sight
+sightsaw <> f: p, b: sightsee
+sightsee <> i: sightseeing, p: sightsaw, '3': sightsees, d: sightseen
+sightseeing <> i: sightseeing, b: sightseeing, f: i
+sightseen <> f: d, b: sightsee
+sightseer <> s: sightseers, '3': sightseers
+sightseers <> b: sightseer, f: s3
+sightsees <> f: '3', b: sightsee
+sigil <> s: sigils
+sigils <> b: sigil, f: s
+sigma <> s: sigmas
+sigmas <> b: sigma, f: s
+sigmoid <> s: sigmoids
+sigmoids <> b: sigmoid, f: s
+sign <> s: signs, d: signed, p: signed, i: signing, '3': signs
+signal <> s: signals, p: signalled, d: signalled, i: signalling, '3': signals
+signaling <> b: signale, f: i
+signalize <> i: signalizing, p: signalized, '3': signalizes, d: signalized
+signalized <> p: signalized, b: signalized, f: p
+signalizes <> f: '3', b: signalize
+signalizing <> f: i, b: signalize
+signalled <> b: signal, f: pd
+signaller <> s: signallers
+signallers <> b: signaller, f: s
+signalling <> b: signal, f: i, i: signalling
+signalman <> s: signalmen
+signalmen <> b: signalman, f: s
+signals <> b: signal, f: s3
+signatories <> b: signatory, f: s
+signatory <> s: signatories
+signature <> s: signatures
+signatures <> b: signature, f: s
+signboard <> s: signboards
+signboards <> b: signboard, f: s
+signe <> s: signes
+signed <> b: sign, f: dp, d: signed, p: signed
+signer <> s: signers
+signers <> b: signer, f: s
+signes <> b: signe, f: s
+significance <> s: significances
+significances <> b: significance, f: s
+signification <> s: significations
+significations <> b: signification, f: s
+signified <> b: signify, f: pd, s: signifieds, p: signified, '3': signifieds, d: signified
+signifieds <> b: signified, f: s3
+signifier <> s: signifiers
+signifiers <> b: signifier, f: s
+signifies <> b: signify, f: '3'
+signify <> '3': signifies, p: signified, i: signifying, d: signified
+signing <> b: sign, f: i, i: signing, s: signings
+signpost <> s: signposts, d: signposted, p: signposted, i: signposting, '3': signposts
+signposted <> b: signpost, f: dp, d: signposted, p: signposted
+signposting <> b: signpost, f: i, i: signposting
+signposts <> b: signpost, f: s3
+signs <> b: sign, f: s3
+signwriter <> s: signwriters
+signwriters <> b: signwriter, f: s
+sike <> s: sikes, '3': sikes
+sikes <> b: sike, f: s3
+sikh <> s: sikhs
+sikhs <> b: sikh, f: s
+silage <> i: silaging, s: silages
+silages <> b: silage, f: s
+silaging <> b: silage, f: i
+silence <> d: silenced, p: silenced, i: silencing, s: silences, '3': silences
+silenced <> b: silence, f: dp
+silencer <> s: silencers
+silencers <> b: silencer, f: s
+silences <> b: silence, f: s3
+silencing <> b: silence, f: i, i: silencing
+Silesian <> s: silesians
+silhouette <> s: silhouettes, p: silhouetted, d: silhouetted, '3': silhouettes, i: silhouetting
+silhouetted <> b: silhouette, f: pd
+silhouettes <> b: silhouette, f: s3
+silhouetting <> b: silhouet, f: i
+silica <> s: silicas
+silicas <> b: silica, f: s
+silicate <> s: silicates, '3': silicates
+silicates <> b: silicate, f: s3
+silicon <> d: siliconed, p: siliconed, i: siliconing
+silicone <> s: silicones
+siliconed <> b: silicon, f: dp
+silicones <> b: silicone, f: s
+siliconing <> b: silicon, f: i
+silk <> s: silks
+silkier <> b: silky, f: r
+silkiest <> b: silky, f: t
+silks <> b: silk, f: s
+silkworm <> s: silkworms
+silkworms <> b: silkworm, f: s
+silky <> t: silkiest, r: silkier
+sill <> s: sills
+sillabub <> s: sillabubs
+sillabubs <> b: sillabub, f: s
+sillier <> b: silly, f: r
+silliest <> b: silly, f: t
+silliness <> s: sillinesses
+sillinesses <> b: silliness, f: s
+sills <> b: sill, f: s
+silly <> t: silliest, r: sillier
+silo <> s: silos
+silos <> b: silo, f: s
+silt <> s: silts, p: silted, d: silted, i: silting, '3': silts
+silted <> b: silt, f: pd, p: silted
+siltier <> b: silty, f: r
+silting <> b: silt, f: i, i: silting
+silts <> b: silt, f: s3
+siltstone <> s: siltstones
+siltstones <> b: siltstone, f: s
+silty <> r: siltier
+silver <> i: silvering, p: silvered, s: silvers, d: silvered, '3': silvers
+silvered <> b: silver, f: pd, p: silvered
+silvering <> b: silver, f: i, i: silvering
+silverpoint <> s: silverpoints
+silverpoints <> b: silverpoint, f: s
+silvers <> f: s3, b: silver
+silversmith <> s: silversmiths
+silversmithing <> b: silversmthe, f: i, i: silversmithing
+silversmiths <> b: silversmith, f: s
+sim <> '3': sims, s: sims
+SIME <> s: simes
+simian <> s: simians
+simians <> b: simian, f: s
+similarities <> b: similarity, f: s
+similarity <> s: similarities
+simile <> s: similes
+similes <> b: simile, f: s
+simmer <> p: simmered, d: simmered, '3': simmers, i: simmering
+simmered <> b: simmer, f: pd
+simmering <> b: simmer, f: i, i: simmering
+simmers <> b: simmer, f: '3'
+simper <> p: simpered, i: simpering, '3': simpers, s: simpers, d: simpered
+simpered <> f: pd, b: simper
+simpering <> b: simper, f: i, i: simpering
+simpers <> b: simper, f: 3s
+simple <> t: simplest, r: simpler
+simpler <> b: simple, f: r
+simplest <> b: simple, f: t
+simpleton <> s: simpletons
+simpletons <> b: simpleton, f: s
+simplicities <> b: simplicity, f: s
+simplicity <> s: simplicities
+simplification <> s: simplifications
+simplifications <> b: simplification, f: s
+simplified <> b: simplify, f: dp, d: simplified, p: simplified
+simplify <> d: simplified, '3': simplifies, i: simplifying, p: simplified
+simplifying <> b: simplify, f: i, i: simplifying
+simpson <> s: simpsons
+simpsons <> b: simpson, f: s
+sims <> b: sim, f: 3s
+simulate <> i: simulating, d: simulated, '3': simulates, p: simulated
+simulated <> b: simulate, f: dp, p: simulated, d: simulated
+simulates <> b: simulate, f: '3'
+simulating <> b: simulate, f: i
+simulation <> s: simulations
+simulations <> b: simulation, f: s
+simulator <> s: simulators
+simulators <> b: simulator, f: s
+simulcast <> i: simulcasting
+simulcasting <> b: simulcast, f: i
+simultaneities <> b: simultaneity, f: s
+simultaneity <> s: simultaneities
+sin <> s: sins, d: sinned, i: sinning, p: sinned, '3': sins
+sincere <> t: sincerest, r: sincerer
+sincerer <> b: sincere, f: r
+sincerest <> b: sincere, f: t
+sincerities <> b: sincerity, f: s
+sincerity <> s: sincerities
+sine <> s: sines
+sinecure <> s: sinecures, '3': sinecures
+sinecures <> b: sinecure, f: s3
+sines <> b: sine, f: s
+sinew <> s: sinews, p: sinewed
+sinewed <> b: sinew, f: p
+sinews <> b: sinew, f: s
+Sinfonietta <> s: sinfoniettas
+sing <> i: singing, p: sang, d: sung, '3': sings
+sing-song <> s: sing-songs
+sing-songs <> b: sing-song, f: s
+singalong <> s: singalongs
+singalongs <> b: singalong, f: s
+singaporean <> s: singaporeans
+singe <> p: singed, d: singed, i: singeing, '3': singes
+singed <> b: singe, f: pd, p: singed, d: singed
+singeing <> b: singe, f: i
+singer <> s: singers
+singer-songwriter <> s: singer-songwriters
+singer-songwriters <> b: singer-songwriter, f: s
+singers <> b: singer, f: s
+singes <> b: singe, f: '3'
+Singh <> i: singhing
+singing <> b: sing, f: i, i: singing
+single <> s: singles, d: singled, p: singled, i: singling, '3': singles
+single-decker <> s: single-deckers
+single-deckers <> b: single-decker, f: s
+single-handed <> b: single-hand, f: p
+single-hander <> s: single-handers
+single-handers <> b: single-hander, f: s
+singled <> b: single, f: dp
+singles <> b: single, f: s3
+singlet <> s: singlets
+singleton <> s: singletons
+singletons <> b: singleton, f: s
+singlets <> b: singlet, f: s
+singling <> b: single, f: i, i: singling
+sings <> b: sing, f: '3'
+singsong <> s: singsongs
+singsongs <> b: singsong, f: s
+singular <> s: singulars
+singularities <> b: singularity, f: s
+singularity <> s: singularities
+singularize <> i: singularizing, p: singularized, '3': singularizes, d: singularized
+singularized <> f: pd, b: singularize
+singularizes <> f: '3', b: singularize
+singularizing <> f: i, b: singularize
+singulars <> b: singular, f: s
+sinister <> s: sinisters
+sinisters <> b: sinister, f: s
+sinistral <> s: sinistrals
+sinistrals <> b: sinistral, f: s
+sink <> p: sank, d: sunk, i: sinking, s: sinks, '3': sinks
+sinker <> s: sinkers
+sinkers <> b: sinker, f: s
+sinking <> b: sink, f: i, i: sinking, s: sinkings
+sinks <> b: sink, f: s3
+sinned <> b: sin, f: dp
+sinner <> s: sinners
+sinners <> b: sinner, f: s
+sinning <> b: sin, f: i, i: sinning
+sins <> f: s3, b: sin
+sinter <> p: sintered, d: sintered, i: sintering, s: sinters, '3': sinters
+sintered <> b: sinter, f: pd, p: sintered
+sintering <> b: sinter, f: i, i: sintering
+sinters <> f: s3, b: sinter
+sinusoid <> s: sinusoids
+sinusoids <> b: sinusoid, f: s
+sion <> s: sions
+sions <> b: sion, f: s
+sip <> p: sipped, i: sipping, s: sips, '3': sips, d: sipped
+siphon <> d: siphoned, i: siphoning, s: siphons, p: siphoned, '3': siphons
+siphoned <> b: siphon, f: dp
+siphoning <> b: siphon, f: i
+siphons <> b: siphon, f: s3
+sipped <> b: sip, f: pd
+sipper <> s: sippers
+sippers <> b: sipper, f: s
+sipping <> b: sip, f: i
+sips <> b: sip, f: s3
+sir <> s: sirs
+sirdar <> s: sirdars
+sirdars <> b: sirdar, f: s
+sire <> d: sired, s: sires, p: sired, i: siring, '3': sires
+sired <> b: sire, f: dp
+siren <> s: sirens
+sirens <> b: siren, f: s
+sires <> b: sire, f: s3
+siring <> b: sire, f: i
+sirloin <> s: sirloins
+sirloins <> b: sirloin, f: s
+sirs <> b: sir, f: s
+siskin <> s: siskins
+siskins <> b: siskin, f: s
+Sisson <> s: sissons
+sister <> s: sisters
+sister-in-law <> s: sister-in-laws
+sister-in-laws <> b: sister-in-law, f: s
+sisters <> b: sister, f: s
+sit <> p: sat, i: sitting, '3': sits, d: sat
+sit-down <> s: sit-downs
+sit-downs <> b: sit-down, f: s
+sit-in <> s: sit-ins
+sit-ins <> b: sit-in, f: s
+sit-up <> s: sit-ups
+sit-ups <> b: sit-up, f: s
+sitar <> s: sitars
+sitars <> b: sitar, f: s
+sitcom <> s: sitcoms
+sitcoms <> b: sitcom, f: s
+site <> s: sites, d: sited, i: siting, p: sited, '3': sites
+sited <> f: dp, b: site
+sites <> f: s3, b: site
+siting <> b: site, f: i, i: siting, s: sitings
+Sitka <> s: sitkas
+sitrep <> s: sitreps, '3': sitreps
+sitreps <> b: sitrep, f: s3
+sitter <> s: sitters
+sitters <> b: sitter, f: s
+sitting <> b: sit, f: i, s: sittings, i: sitting
+sittings <> b: sitting, f: s
+situate <> d: situated, '3': situates, i: situating, p: situated
+situated <> f: dp, b: situate, d: situated
+situates <> b: situate, f: '3'
+situating <> b: situate, f: i
+situation <> s: situations
+situationist <> s: situationists
+situationists <> b: situationist, f: s
+situations <> b: situation, f: s
+six-footer <> s: six-footers
+six-footers <> b: six-footer, f: s
+six-gun <> s: six-guns
+six-guns <> b: six-gun, f: s
+six-pack <> s: six-packs
+six-packs <> b: six-pack, f: s
+six-shooter <> s: six-shooters
+six-shooters <> b: six-shooter, f: s
+sixer <> s: sixers
+sixers <> b: sixer, f: s
+sixpence <> s: sixpences
+sixpences <> b: sixpence, f: s
+size <> s: sizes, d: sized, i: sizing, p: sized, '3': sizes
+sized <> f: dp, b: size, d: sized, p: sized
+sizes <> f: s3, b: size
+sizing <> b: size, f: i, i: sizing
+sizzle <> p: sizzled, i: sizzling, s: sizzles, d: sizzled, '3': sizzles
+sizzled <> b: sizzle, f: pd
+sizzler <> s: sizzlers
+sizzlers <> b: sizzler, f: s
+sizzles <> f: s3, b: sizzle
+sizzling <> b: sizzle, f: i, i: sizzling
+sjambok <> s: sjamboks
+sjamboks <> b: sjambok, f: s
+SK <> p: sked, r: sker
+skald <> s: skalds, p: skalded
+skalded <> b: skald, f: p
+skalds <> b: skald, f: s
+skank <> i: skanking, p: skanked
+skanked <> b: skank, f: p
+skanking <> b: skank, f: i
+skate <> i: skating, s: skates, p: skated, '3': skates, d: skated
+skateboard <> s: skateboards, i: skateboarding, '3': skateboards
+skateboarder <> s: skateboarders
+skateboarders <> b: skateboarder, f: s
+skateboarding <> b: skateboard, f: i, i: skateboarding
+skateboards <> b: skateboard, f: s3
+skated <> b: skate, f: pd
+skater <> s: skaters
+skaters <> b: skater, f: s
+skates <> b: skate, f: s3
+skating <> b: skate, f: i, i: skating
+sked <> b: sk, f: p
+skedaddle <> d: skedaddled, p: skedaddled, i: skedaddling, '3': skedaddles
+skedaddled <> b: skedaddle, f: dp
+skedaddles <> f: '3', b: skedaddle
+skedaddling <> f: i, b: skedaddle
+skeeter <> p: skeetered
+skeetered <> b: skeeter, f: p
+skeg <> s: skegs
+skegs <> b: skeg, f: s
+skein <> s: skeins
+skeins <> b: skein, f: s
+skeleton <> s: skeletons
+skeletons <> b: skeleton, f: s
+skep <> s: skeps
+skeps <> b: skep, f: s
+skepticism <> s: skepticisms
+skepticisms <> b: skepticism, f: s
+skerries <> b: skerry, f: s
+skerry <> s: skerries
+sketch <> s: sketches, p: sketched, d: sketched, i: sketching, '3': sketches
+sketchbook <> s: sketchbooks
+sketchbooks <> b: sketchbook, f: s
+sketched <> b: sketch, f: pd, d: sketched, p: sketched
+sketcher <> s: sketchers
+sketchers <> b: sketcher, f: s
+sketches <> b: sketch, f: s3
+sketchier <> b: sketchy, f: r
+sketchiest <> b: sketchy, f: t
+sketching <> b: sketch, f: i, i: sketching
+sketchpad <> s: sketchpads
+sketchpads <> b: sketchpad, f: s
+sketchy <> t: sketchiest, r: sketchier
+skeuomorph <> s: skeuomorphs
+skeuomorphs <> b: skeuomorph, f: s
+skew <> d: skewed, p: skewed, i: skewing, '3': skews, s: skews
+skewbald <> s: skewbalds
+skewbalds <> b: skewbald, f: s
+skewed <> b: skew, f: dp, d: skewed, p: skewed
+skewer <> s: skewers, p: skewered, d: skewered, i: skewering, '3': skews
+skewered <> b: skewer, f: pd
+skewering <> b: skewer, f: i
+skewers <> b: skewer, f: s
+skewing <> b: skew, f: i, i: skewing
+skews <> b: skew, f: 3s
+ski <> s: skis, i: skiing, '3': skis, p: skied, d: ski'd
+ski jump <> s: ski jumps
+skid <> p: skidded, i: skidding, s: skids, d: skidded, '3': skids
+skidded <> b: skid, f: pd
+skidding <> b: skid, f: i, i: skidding
+skidoo <> '3': skidoos
+skidoos <> b: skidoo, f: '3'
+skids <> b: skid, f: s3
+skied <> b: sky, f: pd
+skier <> s: skiers
+skiers <> b: skier, f: s
+skies <> f: s3, b: sky
+skiff <> s: skiffs
+skiffs <> b: skiff, f: s
+skiing <> b: ski, f: i, i: skiing
+skill <> s: skills
+skillet <> s: skillets
+skillets <> b: skillet, f: s
+skills <> b: skill, f: s
+skim <> i: skimming, p: skimmed, d: skimmed, '3': skims, s: skims
+skimmed <> b: skim, f: pd, d: skimmed, p: skimmed
+skimmer <> s: skimmers
+skimmers <> b: skimmer, f: s
+skimming <> b: skim, f: i, i: skimming
+skimp <> i: skimping, d: skimped, p: skimped, '3': skimps
+skimped <> b: skimp, f: dp, p: skimped
+skimpiest <> b: skimpy, f: t
+skimping <> b: skimp, f: i, i: skimping
+skimps <> b: skimp, f: '3'
+skimpy <> t: skimpiest
+skims <> b: skim, f: 3s
+skin <> s: skins, p: skinned, i: skinning, d: skinned, '3': skins
+skin-diver <> s: skin-divers
+skin-divers <> b: skin-diver, f: s
+skinhead <> s: skinheads
+skinheads <> b: skinhead, f: s
+skink <> s: skinks
+skinks <> b: skink, f: s
+skinned <> b: skin, f: pd, p: skinned
+skinner <> s: skinners
+skinners <> b: skinner, f: s
+skinnier <> b: skinny, f: r
+skinniest <> b: skinny, f: t
+skinning <> b: skin, f: i, i: skinning
+skinny <> r: skinnier, s: skinnys, t: skinniest
+skinny-dip <> i: skinny-dipping, p: skinny-dipped, '3': skinny-dips, d: skinny-dipped
+skinnys <> b: skinny, f: s
+skins <> f: s3, b: skin
+skip <> p: skipped, i: skipping, s: skips, d: skipped, '3': skips
+skipjack <> s: skipjacks
+skipjacks <> b: skipjack, f: s
+skipped <> b: skip, f: pd
+skipper <> s: skippers, p: skippered, d: skippered, i: skippering, '3': skippers
+skippered <> b: skipper, f: pd, p: skippered
+skippering <> b: skipper, f: i
+skippers <> b: skipper, f: s3
+skipping <> b: skip, f: i, i: skipping
+skips <> b: skip, f: s3
+skirl <> p: skirled, i: skirling, s: skirls, '3': skirls, d: skirled
+skirled <> f: pd, b: skirl
+skirling <> b: skirl, f: i
+skirls <> f: s3, b: skirl
+skirmish <> s: skirmishes, i: skirmishing, p: skirmished, '3': skirmishes, d: skirmished
+skirmished <> f: pd, b: skirmish
+skirmisher <> s: skirmishers
+skirmishers <> b: skirmisher, f: s
+skirmishes <> f: s3, b: skirmish
+skirmishing <> b: skirmish, f: i, i: skirmishing
+skirt <> s: skirts, p: skirted, i: skirting, '3': skirts, d: skirted
+skirted <> b: skirt, f: pd, p: skirted
+skirting <> b: skirt, f: i, s: skirtings, i: skirting
+skirts <> b: skirt, f: s3
+skis <> b: ski, f: s3
+skit <> s: skits
+skits <> b: skit, f: s
+skitter <> p: skittered, i: skittering, s: skitters, d: skittered, '3': skitters
+skittered <> b: skitter, f: pd
+skittering <> b: skitter, f: i
+skitters <> f: s3, b: skitter
+skittle <> s: skittles, d: skittled, p: skittled, i: skittling
+skittled <> b: skittle, f: dp
+skittles <> b: skittle, f: s
+skittling <> b: skittle, f: i
+skive <> i: skiving, p: skived, d: skived, '3': skives
+skived <> b: skive, f: pd
+skiver <> s: skivers
+skivers <> b: skiver, f: s
+skives <> f: '3', b: skive
+skiving <> b: skive, f: i
+skivvies <> b: skivvy, f: s
+skivvy <> s: skivvies, i: skivvying
+skivvying <> b: skivvy, f: i
+skua <> s: skuas
+skuas <> b: skua, f: s
+skulk <> i: skulking, p: skulked, '3': skulks, s: skulks, d: skulked
+skulked <> f: pd, b: skulk
+skulker <> s: skulkers
+skulkers <> b: skulker, f: s
+skulking <> b: skulk, f: i
+skulks <> b: skulk, f: 3s
+skull <> s: skulls
+skullcap <> s: skullcaps, '3': skullcaps
+skullcaps <> b: skullcap, f: s3
+skulls <> b: skull, f: s
+skunk <> s: skunks, d: skunked, i: skulling, p: skulled, '3': skunks
+skunked <> b: skunk, f: d
+skunks <> b: skunk, f: s
+sky <> s: skies, p: skied, d: skied, i: skying, '3': skies
+skydive <> i: skydiving, p: skydived, '3': skydives, d: skydived
+skydived <> f: pd, b: skydive
+skydiver <> s: skydivers
+skydivers <> b: skydiver, f: s
+skydives <> f: '3', b: skydive
+skydiving <> b: skydive, f: i
+skyhook <> '3': skyhooks
+skyhooks <> b: skyhook, f: '3'
+skying <> f: i, b: sky
+skyjack <> i: skyjacking, p: skyjacked, '3': skyjacks, d: skyjacked
+skyjacked <> f: pd, b: skyjack
+skyjacking <> f: i, b: skyjack
+skyjacks <> f: '3', b: skyjack
+skylark <> s: skylarks, i: skylarking, '3': skylarks, p: skylarked, d: skylarked
+skylarked <> f: pd, b: skylark
+skylarking <> b: skylark, f: i
+skylarks <> b: skylark, f: s3
+skylight <> s: skylights
+skylights <> b: skylight, f: s
+skyline <> s: skylines, d: skylined
+skylined <> b: skyline, f: d
+skylines <> b: skyline, f: s
+skyrocket <> i: skyrocketing, p: skyrocketed, '3': skyrockets, d: skyrocketed
+skyrocketed <> b: skyrockete, f: dp
+skyrocketing <> b: skyrockete, f: i
+skyrockets <> f: '3', b: skyrocket
+skyscape <> s: skyscapes
+skyscapes <> b: skyscape, f: s
+skyscraper <> s: skyscrapers
+skyscrapers <> b: skyscraper, f: s
+skyway <> s: skyways
+skyways <> b: skyway, f: s
+slab <> s: slabs, p: slabbed
+slabbed <> b: slab, f: p, p: slabbed
+slabs <> b: slab, f: s
+slack <> s: slacks, r: slacker, i: slacking, t: slackest, p: slacked, '3': slacks, d: slacked
+slacked <> f: pd, b: slack
+slacken <> p: slackened, i: slackening, d: slackened, '3': slackens
+slackened <> b: slacken, f: pd, p: slackened
+slackening <> b: slacken, f: i, i: slackening
+slackens <> b: slacken, f: '3'
+slacker <> b: slack, f: r, s: slackers
+slackest <> b: slack, f: t
+slacking <> b: slack, f: i
+slacks <> f: s3, b: slack
+slag <> i: slagging, s: slags, p: slagged, '3': slags, d: slagged
+slagged <> b: slag, f: pd
+slagging <> b: slag, f: i
+slags <> b: slag, f: s3
+slain <> b: slay, f: d, s: slains, d: slain
+slains <> b: slain, f: s
+slake <> i: slaking, d: slaked, p: slaked, '3': slakes
+slaked <> b: slake, f: dp
+slakes <> f: '3', b: slake
+slaking <> b: slake, f: i
+slalom <> s: slaloms, '3': slaloms, i: slaloming, p: slalomed, d: slalomed
+slalomed <> f: pd, b: slalom
+slaloming <> f: i, b: slalom
+slaloms <> b: slalom, f: s3
+slam <> p: slammed, i: slamming, d: slammed, '3': slams
+slammed <> b: slam, f: pd, p: slammed
+slammer <> s: slammers
+slammers <> b: slammer, f: s
+slamming <> b: slam, f: i, i: slamming
+slams <> b: slam, f: '3'
+slander <> s: slanders, i: slandering, d: slandered, p: slandered, '3': slanders
+slandered <> b: slander, f: dp
+slanderer <> s: slanderers
+slanderers <> b: slanderer, f: s
+slandering <> b: slander, f: i
+slanders <> b: slander, f: s3
+slang <> i: slanging, s: slangs, p: slanged, '3': slangs, d: slanged
+slanged <> b: slange, f: p
+slanging <> b: slang, f: i
+slangs <> f: s3, b: slang
+slant <> i: slanting, p: slanted, d: slanted, s: slants, '3': slants
+slanted <> b: slant, f: pd, d: slanted, p: slanted
+slanting <> b: slant, f: i, i: slanting
+slants <> b: slant, f: s3
+slap <> p: slapped, i: slapping, d: slapped, '3': slaps, s: slaps
+slaphead <> s: slapheads
+slapheads <> b: slaphead, f: s
+slapped <> b: slap, f: pd
+slapping <> b: slap, f: i, i: slapping
+slaps <> b: slap, f: 3s
+slash <> d: slashed, i: slashing, p: slashed, '3': slashes, s: slashes
+slashed <> b: slash, f: dp, d: slashed, p: slashed
+slasher <> s: slashers
+slashers <> b: slasher, f: s
+slashes <> b: slash, f: 3s
+slashing <> b: slash, f: i, s: slashings, i: slashing
+slat <> s: slats, i: slatting, p: slatted, '3': slats, d: slatted
+slate <> s: slates, d: slated, p: slated, '3': slates, i: slating
+slated <> b: slate, f: dp, p: slated, d: slated
+slater <> s: slaters
+slaters <> b: slater, f: s
+slates <> b: slate, f: s3
+slather <> p: slathered, d: slathered, i: slathering, '3': slathers
+slathered <> b: slather, f: pd
+slating <> b: slate, f: i, i: slating
+slats <> f: s3, b: slat
+slatted <> f: pd, b: slat
+slattern <> s: slatterns
+slatterns <> b: slattern, f: s
+slatting <> i: slatting, b: slatting, f: i
+slaughter <> d: slaughtered, i: slaughtering, p: slaughtered, '3': slaughters, s: slaughters
+slaughtered <> b: slaughter, f: dp
+slaughterer <> s: slaughterers
+slaughterers <> b: slaughterer, f: s
+slaughterhouse <> s: slaughterhouses
+slaughterhouses <> b: slaughterhouse, f: s
+slaughtering <> b: slaughter, f: i, s: slaughterings, i: slaughtering
+slaughters <> b: slaughter, f: 3s
+slav <> s: slavs
+slave <> s: slaves, i: slaving, d: slaved, p: slaved, '3': slaves
+slave-driver <> s: slave-drivers
+slave-drivers <> b: slave-driver, f: s
+slaved <> b: slave, f: dp
+slaveholder <> s: slaveholders
+slaveholders <> b: slaveholder, f: s
+slaver <> i: slavering, s: slavers, p: slavered, '3': slavers, d: slavered
+slavered <> f: pd, b: slaver
+slavering <> b: slaver, f: i, i: slavering, s: slaverings
+slavers <> f: s3, b: slaver
+slaves <> b: slave, f: s3
+slaving <> b: slave, f: i, i: slaving
+Slavophile <> s: slavophiles
+slavs <> b: slav, f: s
+slay <> d: slain, i: slaying, '3': slays, s: slays, p: slew
+slayer <> s: slayers
+slayers <> b: slayer, f: s
+slaying <> b: slay, f: i, s: slayings
+slayings <> b: slaying, f: s
+sle <> p: sled
+sleazeball <> s: sleazeballs
+sleazeballs <> b: sleazeball, f: s
+sleazier <> b: sleazy, f: r
+sleaziest <> b: sleazy, f: t
+sleazy <> t: sleaziest, r: sleazier
+sled <> s: sleds, i: sledding, b: sle, f: p, p: sledded, '3': sleds, d: sledded
+sledding <> b: sled, f: i
+sledge <> s: sledges, i: sledging, d: sledged, p: sledged, '3': sleds
+sledged <> b: sledge, f: dp
+sledgehammer <> s: sledgehammers, '3': sledgehammers, i: sledgehammering, p: sledgehammered, d: sledgehammered
+sledgehammered <> f: pd, b: sledgehammer
+sledgehammering <> b: sledgehammer, f: i
+sledgehammers <> b: sledgehammer, f: s3
+sledges <> b: sledge, f: s
+sledging <> b: sledge, f: i, i: sledging
+sleds <> b: sled, f: s
+sleek <> r: sleeker, t: sleekest, i: sleeking, '3': sleeks, p: sleeked, d: sleeked
+sleeked <> f: pd, b: sleek
+sleeker <> b: sleek, f: r
+sleekest <> b: sleek, f: t
+sleeking <> b: sleek, f: i
+sleeks <> b: sleek, f: '3'
+sleep <> p: slept, i: sleeping, d: slept, '3': sleeps
+sleeper <> s: sleepers, p: sleepered
+sleepered <> b: sleeper, f: p
+sleepers <> b: sleeper, f: s
+sleepier <> b: sleepy, f: r
+sleepies <> b: sleepy, f: s
+sleeping <> b: sleep, f: i, i: sleeping
+sleeps <> b: sleep, f: '3'
+sleepwalk <> i: sleepwalking, d: sleepwalked, s: sleepwalks, p: sleepwalked, '3': sleepwalks
+sleepwalked <> f: dp, b: sleepwalk
+sleepwalker <> s: sleepwalkers
+sleepwalkers <> b: sleepwalker, f: s
+sleepwalking <> b: sleepwalk, f: i, i: sleepwalking
+sleepwalks <> f: s3, b: sleepwalk
+sleepy <> r: sleepier, s: sleepies
+sleet <> i: sleeting, p: sleeted, '3': sleets, d: sleeted
+sleeted <> f: pd, b: sleet
+sleeting <> b: sleet, f: i, i: sleeting
+sleets <> f: '3', b: sleet
+sleeve <> s: sleeves, p: sleeved, i: sleeving, d: sleeved
+sleeved <> b: sleeve, f: pd, p: sleeved
+sleeves <> b: sleeve, f: s
+sleeving <> b: sleeve, f: i, i: sleeving
+sleigh <> i: sleighing, s: sleighs, p: sleighed, '3': sleighs, d: sleighed
+sleighed <> f: pd, b: sleigh
+sleighing <> b: sleigh, f: i
+sleighs <> f: s3, b: sleigh
+sleight <> s: sleights
+sleights <> b: sleight, f: s
+slender <> i: slendering
+slenderer <> b: slendere, f: r
+slenderest <> b: slendere, f: t
+slendering <> b: slender, f: i
+slenderize <> i: slenderizing, p: slenderized, '3': slenderizes, d: slenderized
+slenderized <> f: pd, b: slenderize
+slenderizes <> f: '3', b: slenderize
+slenderizing <> f: i, b: slenderize
+slept <> b: sleep, f: pd
+sleuth <> s: sleuths, i: sleuthing, p: sleuthed, '3': sleuths, d: sleuthed
+sleuthed <> f: pd, b: sleuth
+sleuthing <> i: sleuthing, b: sleuthing, f: i
+sleuths <> f: s3, b: sleuth
+slew <> d: slewed, b: slay, i: slewing, s: slews, f: p, p: slewed, '3': slews
+slewed <> b: slew, f: pd
+slewing <> b: slew, f: i
+slews <> b: slew, f: 3s
+slice <> s: slices, i: slicing, p: sliced, d: sliced, '3': slices
+sliced <> b: slice, f: pd, d: sliced, p: sliced
+slicer <> s: slicers
+slicers <> b: slicer, f: s
+slices <> b: slice, f: s3
+slicing <> b: slice, f: i, i: slicing
+slick <> s: slicks, p: slicked, d: slicked, r: slicker, i: slicking, t: slickest, '3': slicks
+slicked <> b: slick, f: pd, d: slicked, p: slicked
+slicker <> b: slick, f: r, s: slickers
+slickest <> b: slick, f: t
+slicking <> b: slick, f: i
+slicks <> f: s3, b: slick
+slid <> b: slide, f: pd
+slide <> p: slid, s: slides, i: sliding, '3': slides, d: slid
+slider <> s: sliders
+sliders <> b: slider, f: s
+slides <> b: slide, f: s3
+slideshow <> s: slideshows
+slideshows <> b: slideshow, f: s
+sliding <> b: slide, f: i, i: sliding
+slight <> t: slightest, r: slighter, s: slights, d: slighted, p: slighted, i: slighting, '3': slights
+slighted <> b: slight, f: dp, p: slighted
+slighter <> b: slight, f: r
+slightest <> b: slight, f: t
+slighting <> f: i, b: slight
+slights <> f: s3, b: slight
+Sligo <> s: sligos
+slim <> r: slimmer, i: slimming, d: slimmed, p: slimmed, '3': slims, t: slimmest
+slime <> s: slimes, d: slimed, i: sliming, '3': slimes, p: slimed
+slimeball <> s: slimeballs
+slimeballs <> b: slimeball, f: s
+slimed <> b: slime, f: dp
+slimes <> b: slime, f: s3
+slimier <> b: slimy, f: r
+slimiest <> b: slimy, f: t
+sliming <> b: slime, f: i
+slimline <> s: slimlines
+slimlines <> b: slimline, f: s
+slimmed <> b: slim, f: dp
+slimmer <> b: slim, f: r, s: slimmers
+slimmest <> b: slim, f: t
+slimming <> b: slim, f: i, i: slimming
+slims <> b: slim, f: '3'
+slimy <> r: slimier, t: slimiest
+sling <> p: slung, s: slings, d: slung, i: slinging, '3': slings
+slingback <> s: slingbacks
+slingbacks <> b: slingback, f: s
+slinger <> s: slingers
+slingers <> b: slinger, f: s
+slinging <> b: sling, f: i
+slings <> b: sling, f: s3
+slink <> i: slinking, '3': slinks, p: slinked, s: slinks, d: slunk
+slinked <> b: slink, f: p
+slinkier <> b: slinky, f: r
+slinkiest <> b: slinky, f: t
+slinking <> b: slink, f: i, i: slinking
+slinks <> b: slink, f: 3s
+slinky <> r: slinkier, t: slinkiest
+slip <> p: slipped, i: slipping, d: slipped, s: slips, '3': slips
+slip-on <> s: slip-ons
+slip-ons <> b: slip-on, f: s
+slip-up <> s: slip-ups
+slip-ups <> b: slip-up, f: s
+slipcover <> s: slipcovers
+slipcovers <> b: slipcover, f: s
+slipover <> s: slipovers
+slipovers <> b: slipover, f: s
+slippage <> s: slippages
+slippages <> b: slippage, f: s
+slipped <> b: slip, f: pd, p: slipped, d: slipped
+slipper <> s: slippers, d: slippered, p: slippered, i: slippering
+slippered <> b: slipper, f: dp
+slippering <> b: slipper, f: i
+slippers <> b: slipper, f: s
+slippier <> b: slippy, f: r
+slipping <> b: slip, f: i, i: slipping
+slippy <> r: slippier
+slips <> b: slip, f: s3
+slipstream <> p: slipstreamed, i: slipstreaming
+slipstreamed <> b: slipstream, f: p
+slipstreaming <> b: slipstream, f: i
+slipway <> s: slipways
+slipways <> b: slipway, f: s
+slit <> s: slits, d: slit, b: slit, f: dp, p: slit, i: slitting, '3': slits
+slither <> p: slithered, i: slithering, '3': slithers, d: slithered, s: slithers
+slithered <> b: slither, f: pd
+slithering <> b: slither, f: i, i: slithering, s: slitherings
+slithers <> b: slither, f: 3s
+slits <> b: slit, f: s3
+slitted <> b: slit, f: pd, p: slitted
+slittier <> b: slitty, f: r
+slitting <> b: slit, f: i, i: slitting
+slitty <> r: slittier
+sliver <> s: slivers, i: slivering, p: slivered, '3': slivers, d: slivered
+slivered <> f: pd, b: sliver
+slivering <> f: i, b: sliver
+slivers <> f: s3, b: sliver
+slob <> s: slobs, d: slobbed, i: slobbing
+slobbed <> b: slob, f: d
+slobber <> i: slobbering, p: slobbered, d: slobbered, s: slobbers, '3': slobbers
+slobbered <> b: slobber, f: pd
+slobbering <> b: slobber, f: i, i: slobbering
+slobbers <> f: s3, b: slobber
+slobbing <> b: slob, f: i
+slobs <> b: slob, f: s
+sloe <> s: sloes
+sloes <> b: sloe, f: s
+slog <> i: slogging, p: slogged, s: slogs, d: slogged, '3': slogs
+slogan <> s: slogans, p: sloganned
+sloganeer <> i: sloganeering, p: sloganeered, '3': sloganeers, d: sloganeered
+sloganeered <> f: pd, b: sloganeer
+sloganeering <> b: sloganeer, f: i
+sloganeers <> f: '3', b: sloganeer
+sloganned <> b: slogan, f: p
+slogans <> b: slogan, f: s
+slogged <> b: slog, f: pd
+slogger <> s: sloggers
+sloggers <> b: slogger, f: s
+slogging <> b: slog, f: i, i: slogging
+slogs <> f: s3, b: slog
+sloop <> s: sloops
+sloops <> b: sloop, f: s
+slop <> i: slopping, p: slopped, s: slops, d: slopped, '3': slops
+slope <> s: slopes, p: sloped, i: sloping, '3': slopes, d: sloped
+sloped <> b: slope, f: pd, p: sloped
+slopes <> b: slope, f: s3
+sloping <> b: slope, f: i, i: sloping
+slopped <> b: slop, f: pd
+sloppier <> b: sloppy, f: r
+sloppiest <> b: sloppy, f: t
+slopping <> b: slop, f: i, i: slopping
+sloppy <> t: sloppiest, r: sloppier
+slops <> b: slop, f: s3
+slosh <> i: sloshing, p: sloshed, '3': sloshes, d: sloshed, s: sloshes
+sloshed <> b: slosh, f: pd, d: sloshed, p: sloshed
+sloshes <> b: slosh, f: 3s
+sloshing <> b: slosh, f: i
+slot <> s: slots, d: slotted, p: slotted, '3': slots, i: slotting
+sloth <> s: sloths
+sloths <> b: sloth, f: s
+slots <> b: slot, f: s3
+slotted <> b: slot, f: dp
+slotting <> b: slot, f: i
+slouch <> p: slouched, i: slouching, d: slouched, s: slouches, '3': slouches
+slouched <> b: slouch, f: pd, p: slouched
+slouches <> b: slouch, f: s3
+slouching <> b: slouch, f: i
+slough <> p: sloughed, i: sloughing, d: sloughed, s: sloughs, '3': sloughs
+sloughed <> b: slough, f: pd
+sloughing <> b: slough, f: i, i: sloughing
+sloughs <> b: slough, f: s3
+Slovak <> s: slovaks
+Slovakian <> s: slovakians
+slovene <> s: slovenes
+slovenes <> b: slovene, f: s
+Slovenian <> s: slovenians
+slow <> r: slower, i: slowing, p: slowed, d: slowed, '3': slows, t: slowest
+slow-worm <> s: slow-worms
+slow-worms <> b: slow-worm, f: s
+slowcoach <> s: slowcoaches
+slowcoaches <> b: slowcoach, f: s
+slowdown <> s: slowdowns
+slowdowns <> b: slowdown, f: s
+slowed <> b: slow, f: pd
+slower <> b: slow, f: r
+slowest <> b: slow, f: t
+slowing <> b: slow, f: i, i: slowing, s: slowings
+slows <> b: slow, f: '3'
+slub <> s: slubs
+slubs <> b: slub, f: s
+sludge <> s: sludges, '3': sludges, i: sludging, p: sludged
+sludged <> b: sludge, f: p
+sludges <> b: sludge, f: s3
+sludging <> b: sludge, f: i
+slue <> i: sluing, p: slued, '3': slues, d: slued
+slued <> f: pd, b: slue
+slues <> f: '3', b: slue
+slug <> s: slugs, i: slugging, p: slugged, d: slugged, '3': slugs
+slugfest <> b: slugf, f: t
+sluggard <> s: sluggards
+sluggards <> b: sluggard, f: s
+slugged <> b: slug, f: pd
+slugger <> s: sluggers
+sluggers <> b: slugger, f: s
+slugging <> b: slug, f: i
+slugs <> f: s3, b: slug
+sluice <> s: sluices, p: sluiced, i: sluicing, d: sluiced, '3': sluices
+sluiced <> b: sluice, f: pd
+sluices <> b: sluice, f: s3
+sluicing <> b: sluice, f: i
+sluing <> f: i, b: slue
+slum <> s: slums, i: slumming, p: slummed, '3': slums, d: slummed
+slumber <> s: slumbers, i: slumbering, p: slumbered, '3': slumbers, d: slumbered
+slumbered <> b: slumber, f: pd
+slumbering <> b: slumber, f: i, i: slumbering
+slumbers <> b: slumber, f: s3
+slummed <> f: pd, b: slum
+slumming <> b: slum, f: i, s: slummings, i: slumming
+slump <> p: slumped, d: slumped, i: slumping, s: slumps, '3': slumps
+slumped <> b: slump, f: pd
+slumping <> b: slump, f: i
+slumps <> b: slump, f: s3
+slums <> f: s3, b: slum
+slung <> b: sling, f: pd
+slunk <> p: slunk, b: slunk, f: pd, d: slunk
+slur <> p: slurred, s: slurs, i: slurring, d: slurred, '3': slurs
+slurp <> p: slurped, i: slurping, d: slurped, s: slurps, '3': slurps
+slurped <> b: slurp, f: pd
+slurping <> b: slurp, f: i, i: slurping, s: slurpings
+slurps <> b: slurp, f: s3
+slurred <> b: slur, f: pd, p: slurred, d: slurred
+slurried <> b: slurry, f: d
+slurries <> b: slurry, f: s
+slurring <> b: slur, f: i, i: slurring
+slurry <> s: slurries, d: slurried, i: slurrying
+slurrying <> b: slurry, f: i
+slurs <> b: slur, f: s3
+slush <> d: slushed, i: slushing, p: slushed, '3': slushes
+slushed <> b: slush, f: dp
+slushes <> f: '3', b: slush
+slushier <> b: slushy, f: r
+slushing <> b: slush, f: i, i: slushing
+slushy <> r: slushier
+slut <> s: sluts
+sluts <> b: slut, f: s
+smack <> p: smacked, i: smacking, d: smacked, '3': smacks, s: smacks
+smacked <> b: smack, f: pd, p: smacked
+smacker <> s: smackers
+smackers <> b: smacker, f: s
+smacking <> b: smack, f: i, s: smackings, i: smacking
+smacks <> b: smack, f: 3s
+small <> r: smaller, t: smallest
+small-scale <> s: small-scales
+small-scales <> b: small-scale, f: s
+smaller <> b: small, f: r
+smallest <> b: small, f: t
+smallholder <> s: smallholders
+smallholders <> b: smallholder, f: s
+smallholding <> s: smallholdings, i: smallholding, b: smallholding, f: i
+smallholdings <> b: smallholding, f: s
+smarm <> d: smarmed, p: smarmed, s: smarms
+smarmed <> b: smarm, f: dp
+smarms <> b: smarm, f: s
+smart <> r: smarter, i: smarting, t: smartest, p: smarted, '3': smarts, d: smarted
+smarted <> b: smart, f: pd
+smarten <> i: smartening, d: smartened, p: smartened, '3': smartens
+smartened <> b: smarten, f: dp
+smartening <> b: smarten, f: i
+smartens <> b: smarten, f: '3'
+smarter <> b: smart, f: r
+smartest <> b: smart, f: t
+smarties <> b: smarty, f: s
+smarting <> b: smart, f: i, i: smarting
+smarts <> b: smart, f: '3'
+smarty <> s: smarties
+smash <> p: smashed, d: smashed, i: smashing, '3': smashes, s: smashes
+smashed <> b: smash, f: pd, p: smashed, d: smashed
+smasher <> s: smashers
+smashers <> b: smasher, f: s
+smashes <> b: smash, f: 3s
+smashing <> b: smash, f: i, i: smashing
+smatter <> p: smattered, i: smattering, '3': smatters, d: smattered
+smattering <> f: i, b: smatter, s: smatterings
+smatterings <> b: smattering, f: s
+smear <> s: smears, d: smeared, p: smeared, i: smearing, '3': smears
+smeared <> b: smear, f: dp, p: smeared, d: smeared
+smearing <> b: smear, f: i, s: smearings
+smears <> b: smear, f: s3
+Smedley <> s: smedleys
+smell <> s: smells, p: smelled, '3': smells, i: smelling, d: smelt
+smelled <> b: smell, f: pd
+smellier <> b: smelly, f: r
+smellies <> b: smelly, f: s
+smelliest <> b: smelly, f: t
+smelling <> b: smell, f: i, i: smelling
+smells <> b: smell, f: s3
+smelly <> s: smellies, t: smelliest, r: smellier
+smelt <> b: smell, f: pd, i: smelting, d: smelted, p: smelted, s: smelts, '3': smelts
+smelter <> s: smelters
+smelters <> b: smelter, f: s
+smelting <> b: smelt, f: i, i: smelting
+smile <> p: smiled, i: smiling, s: smiles, '3': smiles, d: smiled
+smiled <> b: smile, f: pd
+smiler <> s: smilers
+smilers <> b: smiler, f: s
+smiles <> b: smile, f: s3
+smiley <> s: smileys
+smileys <> b: smiley, f: s
+smiling <> b: smile, f: i, i: smiling
+smirch <> p: smirched, i: smirching, '3': smirches, d: smirched
+smirched <> f: pd, b: smirch
+smirches <> f: '3', b: smirch
+smirching <> f: i, b: smirch
+smirk <> p: smirked, i: smirking, s: smirks, '3': smirks, d: smirked
+smirked <> b: smirk, f: pd
+smirking <> b: smirk, f: i, i: smirking
+smirks <> b: smirk, f: s3
+smit <> d: smitted, p: smitted
+smite <> d: smitten, p: smote, i: smiting, '3': smites
+smites <> b: smite, f: '3'
+smith <> s: smiths
+smither <> s: smithers
+smithereen <> s: smithereens
+smithereens <> b: smithereen, f: s
+Smithers <> b: smither, f: s
+smithies <> b: smithy, f: s
+smiths <> b: smith, f: s
+smithy <> s: smithies
+smiting <> b: smite, f: i
+smitted <> b: smit, f: dp
+smitten <> b: smite, f: d
+smock <> s: smocks, p: smocked, i: smocking, '3': smocks, d: smocked
+smocked <> f: pd, b: smock
+smocking <> b: smock, f: i, i: smocking
+smocks <> f: s3, b: smock
+smog <> s: smogs, '3': smogs
+smoggiest <> b: smoggy, f: t
+smoggy <> t: smoggiest
+smogs <> b: smog, f: s3
+smoke <> i: smoking, p: smoked, d: smoked, '3': smokes, s: smokes
+smoked <> b: smoke, f: pd, p: smoked, d: smoked
+smokehouse <> s: smokehouses
+smokehouses <> b: smokehouse, f: s
+smoker <> s: smokers
+smokers <> b: smoker, f: s
+smokes <> b: smoke, f: 3s
+smokescreen <> s: smokescreens
+smokescreens <> b: smokescreen, f: s
+smokestack <> s: smokestacks
+smokestacks <> b: smokestack, f: s
+smokier <> b: smoky, f: r
+smokies <> b: smoky, f: s
+smoking <> b: smoke, f: i, i: smoking
+smoky <> s: smokies, r: smokier
+smolder <> i: smoldering, p: smoldered, '3': smolders, d: smoldered, s: smolders
+smolt <> s: smolts
+smolts <> b: smolt, f: s
+smooch <> i: smooching, p: smooched, '3': smooches, d: smooched
+smooched <> f: pd, b: smooch
+smooches <> f: '3', b: smooch
+smoochier <> b: smoochy, f: r
+smoochiest <> b: smoochy, f: t
+smooching <> b: smooch, f: i, i: smooching
+smoochy <> r: smoochier, t: smoochiest
+smooth <> i: smoothing, r: smoother, d: smoothed, p: smoothed, '3': smooths, t: smoothest
+smoothed <> b: smooth, f: dp, d: smoothed
+smoother <> b: smooth, f: r
+smoothest <> b: smooth, f: t
+smoothies <> b: smoothy, f: s
+smoothing <> b: smooth, f: i, i: smoothing
+smooths <> b: smooth, f: '3'
+smoothy <> s: smoothies
+smote <> b: smite, f: p
+smother <> d: smothered, p: smothered, i: smothering, '3': smothers
+smothered <> b: smother, f: dp, d: smothered
+smothering <> b: smother, f: i, i: smothering
+smothers <> b: smother, f: '3'
+smoulder <> i: smouldering, p: smouldered, d: smouldered, s: smoulders, '3': smoulders
+smouldered <> b: smoulder, f: pd
+smouldering <> b: smoulder, f: i, i: smouldering, s: smoulderings
+smoulders <> b: smoulder, f: s3
+smudge <> d: smudged, s: smudges, p: smudged, i: smudging, '3': smudges
+smudged <> b: smudge, f: dp, p: smudged, d: smudged
+smudges <> b: smudge, f: s3
+smudging <> b: smudge, f: i, i: smudging
+smug <> t: smuggest, r: smugger
+smugger <> b: smug, f: r
+smuggest <> b: smug, f: t
+smuggle <> d: smuggled, p: smuggled, i: smuggling, '3': smuggles
+smuggled <> b: smuggle, f: dp, p: smuggled
+smuggler <> s: smugglers
+smugglers <> b: smuggler, f: s
+smuggles <> b: smuggle, f: '3'
+smuggling <> b: smuggle, f: i, i: smuggling
+smut <> s: smuts, i: smutting, p: smutted, '3': smuts, d: smutted
+smuts <> f: s3, b: smut
+smutted <> f: pd, b: smut
+smuttier <> b: smutty, f: r
+smutting <> b: smut, f: i
+smutty <> r: smuttier
+SN <> s: sns
+SNA <> s: snas
+snack <> s: snacks, i: snacking, '3': snacks, d: snacked, p: snacked
+snacked <> b: snack, f: dp
+snacking <> b: snack, f: i, i: snacking
+snacks <> b: snack, f: s3
+snaffle <> d: snaffled, p: snaffled, '3': snaffles, s: snaffles, i: snaffling
+snaffled <> b: snaffle, f: dp
+snaffles <> b: snaffle, f: 3s
+snaffling <> f: i, b: snaffle
+snafu <> i: snafuing, p: snafued, '3': snafues, d: snafued
+snafued <> f: pd, b: snafu
+snafues <> f: '3', b: snafu
+snafuing <> f: i, b: snafu
+snag <> s: snags, p: snagged, i: snagging, d: snagged, '3': snags
+snagged <> b: snag, f: pd, p: snagged
+snagging <> b: snag, f: i, i: snagging
+snaggle <> p: snaggled
+snaggled <> b: snaggle, f: p
+snags <> b: snag, f: s3
+snail <> s: snails
+snails <> b: snail, f: s
+snake <> s: snakes, p: snaked, i: snaking, '3': snakes, d: snaked
+snaked <> b: snake, f: pd
+snakehead <> s: snakeheads
+snakeheads <> b: snakehead, f: s
+snakes <> b: snake, f: s3
+snaking <> b: snake, f: i, i: snaking
+snap <> p: snapped, d: snapped, i: snapping, '3': snaps, s: snaps
+snapdragon <> s: snapdragons
+snapdragons <> b: snapdragon, f: s
+snapped <> b: snap, f: pd
+snapper <> s: snappers
+snappers <> b: snapper, f: s
+snappier <> b: snappy, f: r
+snappiest <> b: snappy, f: t
+snapping <> b: snap, f: i, i: snapping
+snappy <> r: snappier, t: snappiest
+snaps <> b: snap, f: 3s
+snapshot <> s: snapshots
+snapshots <> b: snapshot, f: s
+snare <> s: snares, p: snared, d: snared, '3': snares, i: snaring
+snared <> b: snare, f: pd
+snares <> b: snare, f: s3
+snaring <> b: snare, f: i
+snarl <> p: snarled, i: snarling, s: snarls, '3': snarls, d: snarled
+snarl-up <> s: snarl-ups
+snarl-ups <> b: snarl-up, f: s
+snarled <> b: snarl, f: pd, p: snarled
+snarling <> b: snarl, f: i, i: snarling, s: snarlings
+snarls <> b: snarl, f: s3
+snatch <> p: snatched, i: snatching, d: snatched, s: snatches, '3': snatches
+snatched <> b: snatch, f: pd, p: snatched, d: snatched
+snatcher <> s: snatchers
+snatchers <> b: snatcher, f: s
+snatches <> b: snatch, f: s3
+snatching <> b: snatch, f: i, i: snatching, s: snatchings
+snazzier <> b: snazzy, f: r
+snazziest <> b: snazzy, f: t
+snazzy <> t: snazziest, r: snazzier
+sneak <> p: sneaked, i: sneaking, d: sneaked, '3': sneaks, s: sneaks
+sneaked <> b: sneak, f: pd
+sneaker <> s: sneakers
+sneakers <> b: sneaker, f: s
+sneakier <> b: sneaky, f: r
+sneaking <> b: sneak, f: i, s: sneakings
+sneaks <> b: sneak, f: 3s
+sneaky <> r: sneakier
+sneer <> p: sneered, i: sneering, d: sneered, s: sneers, '3': sneers
+sneered <> b: sneer, f: pd
+sneerer <> s: sneerers
+sneerers <> b: sneerer, f: s
+sneering <> b: sneer, f: i, i: sneering
+sneers <> b: sneer, f: s3
+sneeze <> i: sneezing, p: sneezed, '3': sneezes, s: sneezes, d: sneezed
+sneezed <> b: sneeze, f: pd
+sneezes <> b: sneeze, f: 3s
+sneezing <> b: sneeze, f: i, i: sneezing
+snick <> p: snicked, i: snicking, d: snicked, s: snicks, '3': snicks
+snicked <> b: snick, f: pd
+snicker <> p: snickered, i: snickering, s: snickers, '3': snickers, d: snickered
+snickered <> f: pd, b: snicker
+snickering <> b: snicker, f: i, i: snickering
+snickers <> f: s3, b: snicker
+snicking <> b: snick, f: i
+snicks <> f: s3, b: snick
+snide <> r: snider
+snider <> b: snide, f: r
+sniff <> p: sniffed, i: sniffing, d: sniffed, '3': sniffs, s: sniffs
+sniffed <> b: sniff, f: pd
+sniffer <> s: sniffers
+sniffers <> b: sniffer, f: s
+sniffing <> b: sniff, f: i, i: sniffing
+sniffle <> i: sniffling, p: sniffled, s: sniffles, '3': sniffles, d: sniffled
+sniffled <> b: sniffle, f: pd
+sniffles <> b: sniffle, f: s3
+sniffling <> b: sniffle, f: i
+sniffs <> b: sniff, f: 3s
+snifter <> s: snifters
+snifters <> b: snifter, f: s
+snigger <> p: sniggered, i: sniggering, s: sniggers, '3': sniggers, d: sniggered
+sniggered <> b: snigger, f: pd
+sniggering <> b: snigger, f: i, s: sniggerings, i: sniggering
+sniggers <> b: snigger, f: s3
+snip <> i: snipping, p: snipped, s: snips, d: snipped, '3': snips
+snipe <> i: sniping, p: sniped, d: sniped, s: snipes, '3': snipes
+sniped <> b: snipe, f: pd
+sniper <> s: snipers
+snipers <> b: sniper, f: s
+snipes <> b: snipe, f: s3
+sniping <> b: snipe, f: i, s: snipings
+snipped <> b: snip, f: pd, p: snipped
+snippet <> s: snippets, '3': snippets
+snippets <> b: snippet, f: s3
+snipping <> b: snip, f: i
+snips <> b: snip, f: s3
+snitch <> i: snitching, p: snitched, '3': snitches, d: snitched
+snitched <> f: pd, b: snitch
+snitches <> f: '3', b: snitch
+snitching <> b: snitch, f: i
+snivel <> i: snivelling, p: snivelled, s: snivels, '3': snivels, d: snivelled
+snivelled <> f: pd, b: snivel
+snivelling <> b: snivel, f: i, i: snivelling
+snivels <> f: s3, b: snivel
+snob <> s: snobs, '3': snobs
+snobberies <> b: snobbery, f: s
+snobbery <> s: snobberies
+snobs <> b: snob, f: s3
+snog <> i: snogging, d: snogged, p: snogged, s: snogs, '3': snogs
+snogged <> b: snog, f: dp
+snogging <> b: snog, f: i
+snogs <> f: s3, b: snog
+snood <> s: snoods
+snoods <> b: snood, f: s
+snook <> p: snook, b: snook, f: p
+snooker <> p: snookered, '3': snookers, d: snookered, s: snookers, i: snookering
+snookered <> b: snooker, f: pd
+snookering <> f: i, b: snooker
+snookers <> b: snooker, f: 3s
+snoop <> i: snooping, p: snooped, '3': snoops, d: snooped, s: snoops
+snooped <> b: snoop, f: pd
+snooper <> s: snoopers
+snoopers <> b: snooper, f: s
+snooping <> b: snoop, f: i, i: snooping
+snoops <> b: snoop, f: 3s
+snooze <> i: snoozing, p: snoozed, '3': snoozes, s: snoozes, d: snoozed
+snoozed <> f: pd, b: snooze
+snoozes <> b: snooze, f: 3s
+snoozing <> b: snooze, f: i, i: snoozing
+snore <> i: snoring, p: snored, s: snores, '3': snores, d: snored
+snored <> b: snore, f: pd
+snorer <> s: snorers
+snorers <> b: snorer, f: s
+snores <> b: snore, f: s3
+snoring <> b: snore, f: i, i: snoring
+snorkel <> i: snorkelling, s: snorkels, p: snorkeled, '3': snorkels, d: snorkeled
+snorkeled <> f: pd, b: snorkel
+snorkeling <> f: i, b: snorkel
+snorkeller <> s: snorkellers
+snorkellers <> b: snorkeller, f: s
+snorkelling <> b: snorkel, f: i, i: snorkelling
+snorkels <> f: s3, b: snorkel
+snort <> p: snorted, i: snorting, s: snorts, '3': snorts, d: snorted
+snorted <> b: snort, f: pd
+snorting <> b: snort, f: i, i: snorting, s: snortings
+snorts <> b: snort, f: s3
+snot <> s: snots
+snots <> b: snot, f: s
+snotter <> s: snotters
+snotters <> b: snotter, f: s
+snotties <> b: snotty, f: s
+snotty <> s: snotties
+snout <> s: snouts, i: snouting
+snouting <> b: snout, f: i
+snouts <> b: snout, f: s
+snow <> i: snowing, s: snows, p: snowed, d: snowed, '3': snows
+snow-blower <> s: snow-blowers
+snow-blowers <> b: snow-blower, f: s
+snowball <> s: snowballs, '3': snowballs, i: snowballing, p: snowballed, d: snowballed
+snowballed <> b: snowbal, f: pd
+snowballing <> b: snowbal, f: i
+snowballs <> b: snowball, f: s3
+snowboard <> s: snowboards, i: snowboarding, p: snowboarded, '3': snowboards, d: snowboarded
+snowboarder <> s: snowboarders
+snowboarders <> b: snowboarder, f: s
+snowboarding <> b: snowboard, f: i
+snowboards <> b: snowboard, f: s
+snowdrift <> s: snowdrifts
+snowdrifts <> b: snowdrift, f: s
+snowdrop <> s: snowdrops
+snowdrops <> b: snowdrop, f: s
+snowed <> b: snow, f: pd
+snowfall <> s: snowfalls
+snowfalls <> b: snowfall, f: s
+snowfield <> s: snowfields
+snowfields <> b: snowfield, f: s
+snowflake <> s: snowflakes
+snowflakes <> b: snowflake, f: s
+snowiest <> b: snowy, f: t
+snowing <> b: snow, f: i
+snowman <> s: snowmen
+snowmen <> b: snowman, f: s
+snowmobile <> s: snowmobiles, i: snowmobiling, p: snowmobiled, '3': snowmobiles, d: snowmobiled
+snowmobiles <> b: snowmobile, f: s
+snowmobiling <> b: snowmobile, f: i
+snowplough <> s: snowploughs
+snowploughs <> b: snowplough, f: s
+snows <> b: snow, f: s3
+snowscape <> s: snowscapes
+snowscapes <> b: snowscape, f: s
+snowshoe <> i: snowshoeing, p: snowshoed, '3': snowshoes, d: snowshoed
+snowshoed <> f: pd, b: snowshoe
+snowshoeing <> f: i, b: snowshoe
+snowshoes <> f: '3', b: snowshoe
+snowstorm <> s: snowstorms, '3': snowstorms
+snowstorms <> b: snowstorm, f: s3
+snowy <> s: snowys, t: snowiest
+snowys <> b: snowy, f: s
+sns <> b: sn, f: s
+snub <> d: snubbed, p: snubbed, i: snubbing, '3': snubs, s: snubs
+snubbed <> b: snub, f: dp
+snubbing <> b: snub, f: i
+snubs <> b: snub, f: 3s
+snuck <> d: snuck, b: snuck, f: dp, p: snuck
+snuff <> p: snuffed, d: snuffed, i: snuffing, '3': snuffs, s: snuffs
+snuffbox <> s: snuffboxes
+snuffboxes <> b: snuffbox, f: s
+snuffed <> b: snuff, f: pd
+snuffer <> s: snuffers
+snuffers <> b: snuffer, f: s
+snuffing <> b: snuff, f: i
+snuffle <> i: snuffling, p: snuffled, s: snuffles, '3': snuffles, d: snuffled
+snuffled <> f: pd, b: snuffle
+snuffles <> f: s3, b: snuffle
+snuffling <> b: snuffle, f: i, s: snufflings
+snuffs <> b: snuff, f: 3s
+snug <> p: snugged, s: snugs, t: snuggest, r: snugger
+snugged <> b: snug, f: p
+snugger <> b: snug, f: r
+snuggest <> b: snug, f: t
+snuggle <> p: snuggled, i: snuggling, '3': snuggles, d: snuggled, s: snuggles
+snuggled <> b: snuggle, f: pd
+snuggles <> b: snuggle, f: 3s
+snuggling <> b: snuggle, f: i
+snugs <> b: snug, f: s
+so-and-so <> s: so-and-sos
+so-and-sos <> b: so-and-so, f: s
+soak <> i: soaking, d: soaked, p: soaked, '3': soaks, s: soaks
+soakaway <> s: soakaways
+soakaways <> b: soakaway, f: s
+soaked <> b: soak, f: dp, d: soaked, p: soaked
+soaker <> s: soakers
+soakers <> b: soaker, f: s
+soaking <> b: soak, f: i, i: soaking
+soaks <> b: soak, f: 3s
+soap <> s: soaps, i: soaping, p: soaped, '3': soaps, d: soaped
+soapbox <> s: soapboxes
+soapboxes <> b: soapbox, f: s
+soaped <> f: pd, b: soap
+soaping <> b: soap, f: i
+soaps <> b: soap, f: s3
+soapsuds <> b: soapsud, f: s
+soar <> p: soared, i: soaring, d: soared, '3': soars
+soared <> b: soar, f: pd
+soaring <> b: soar, f: i, i: soaring
+soars <> b: soar, f: '3'
+sob <> i: sobbing, p: sobbed, s: sobs, d: sobbed, '3': sobs
+sobbed <> b: sob, f: pd
+sobbing <> b: sob, f: i, i: sobbing, s: sobbings
+sober <> p: sobered, '3': sobers, d: sobered, i: sobering
+sobered <> b: sober, f: pd
+soberer <> b: sobere, f: r
+soberest <> b: sobere, f: t
+sobering <> b: sober, f: i, i: sobering
+sobers <> b: sober, f: '3'
+sobriquet <> s: sobriquets
+sobriquets <> b: sobriquet, f: s
+sobs <> b: sob, f: s3
+SOC <> s: socs
+sociabilities <> b: sociability, f: s
+sociability <> s: sociabilities
+socialise <> i: socialising, d: socialised, p: socialised, s: socialises, '3': socialises
+socialised <> b: socialise, f: dp, d: socialised, p: socialised
+socialises <> b: socialise, f: s
+socialising <> b: socialise, f: i, i: socialising
+socialism <> s: socialisms
+socialisms <> b: socialism, f: s
+socialist <> s: socialists
+socialists <> b: socialist, f: s
+socialite <> s: socialites
+socialites <> b: socialite, f: s
+socialize <> d: socialized, i: socializing, p: socialized, '3': socializes
+socialized <> b: socialize, f: dp, p: socialized
+socializes <> b: socialize, f: '3'
+socializing <> b: socialize, f: i, i: socializing
+societies <> b: society, f: s
+society <> s: societies
+sociobiologist <> s: sociobiologists
+sociobiologists <> b: sociobiologist, f: s
+socioeconomic <> s: socioeconomics
+socioeconomics <> b: socioeconomic, f: s
+sociolinguist <> s: sociolinguists
+sociolinguistic <> s: sociolinguistics
+sociolinguistics <> b: sociolinguistic, f: s
+sociolinguists <> b: sociolinguist, f: s
+sociologies <> b: sociology, f: s
+sociologist <> s: sociologists
+sociologists <> b: sociologist, f: s
+sociology <> s: sociologies
+sociopath <> s: sociopaths
+sociopaths <> b: sociopath, f: s
+sock <> s: socks, d: socked, i: socking, p: socked, '3': socks
+socked <> f: dp, b: sock
+socket <> s: sockets
+sockets <> b: socket, f: s
+socking <> b: sock, f: i
+socks <> f: s3, b: sock
+sod <> s: sods, i: sodding, '3': sods, d: sodded, p: sodded
+soda <> s: sodas
+sodalities <> b: sodality, f: s
+sodality <> s: sodalities
+sodas <> b: soda, f: s
+sodded <> b: sod, f: d
+sodding <> b: sod, f: i, i: sodding
+sodomies <> b: sodomy, f: s
+sodomite <> s: sodomites
+sodomites <> b: sodomite, f: s
+sodomy <> s: sodomies
+sods <> b: sod, f: s3
+sofa <> s: sofas
+sofas <> b: sofa, f: s
+soffit <> s: soffits
+soffits <> b: soffit, f: s
+soft <> r: softer, t: softest
+soft-soap <> i: soft-soaping, p: soft-soaped, '3': soft-soaps, d: soft-soaped
+soft-top <> s: soft-tops
+soft-tops <> b: soft-top, f: s
+softback <> s: softbacks
+softbacks <> b: softback, f: s
+soften <> d: softened, i: softening, '3': softens, p: softened
+softened <> b: soften, f: dp, d: softened, p: softened
+softener <> s: softeners
+softeners <> b: softener, f: s
+softening <> b: soften, f: i, i: softening, s: softenings
+softens <> b: soften, f: '3'
+softer <> b: soft, f: r
+softest <> b: soft, f: t
+softhearted <> b: softheart, f: p
+softies <> b: softy, f: s
+softness <> s: softnesses
+softnesses <> b: softness, f: s
+softwood <> s: softwoods
+softwoods <> b: softwood, f: s
+softy <> s: softies
+soggiest <> b: soggy, f: t
+soggy <> t: soggiest
+soil <> s: soils, d: soiled, p: soiled, i: soiling, '3': soils
+soiled <> b: soil, f: dp, p: soiled, d: soiled
+soiling <> b: soil, f: i, i: soiling, s: soilings
+soils <> b: soil, f: s3
+soiree <> s: soirees
+soirees <> b: soiree, f: s
+Soisson <> s: soissons
+sojourn <> s: sojourns, d: sojourned, i: sojourning, p: sojourned, '3': sojourns
+sojourned <> b: sojourn, f: dp
+sojourner <> s: sojourners
+sojourners <> b: sojourner, f: s
+sojourning <> b: sojourn, f: i
+sojourns <> f: s3, b: sojourn
+Sol <> s: sols
+solace <> p: solaced, d: solaced, i: solacing, '3': solaces
+solaced <> b: solace, f: pd
+solaces <> f: '3', b: solace
+solacing <> f: i, b: solace
+solanum <> s: solanums
+solanums <> b: solanum, f: s
+solarium <> s: solariums
+solariums <> b: solarium, f: s
+solarize <> i: solarizing, p: solarized, '3': solarizes, d: solarized
+solarized <> f: pd, b: solarize
+solarizes <> f: '3', b: solarize
+solarizing <> f: i, b: solarize
+sold <> b: sell, f: dp, d: sold, p: sold
+solder <> d: soldered, i: soldering, s: solders, '3': solders, p: soldered
+soldered <> b: solder, f: dp, d: soldered
+soldering <> b: solder, f: i, i: soldering
+solders <> b: solder, f: s3
+soldier <> s: soldiers, p: soldiered, i: soldiering, '3': soldiers, d: soldiered
+soldiered <> f: pd, b: soldier
+soldiering <> b: soldier, f: i, i: soldiering
+soldiers <> f: s3, b: soldier
+sole <> s: soles, d: soled, i: soling, p: soled, '3': soles
+solebar <> s: solebars
+solebars <> b: solebar, f: s
+solecism <> s: solecisms
+solecisms <> b: solecism, f: s
+soled <> f: dp, b: sole, p: soled
+solemnities <> b: solemnity, f: s
+solemnity <> s: solemnities
+solemnize <> d: solemnized, p: solemnized, i: solemnizing, '3': solemnizes
+solemnized <> b: solemnize, f: dp
+solemnizes <> f: '3', b: solemnize
+solemnizing <> f: i, b: solemnize
+solenoid <> s: solenoids
+solenoids <> b: solenoid, f: s
+solera <> s: soleras
+soleras <> b: solera, f: s
+soles <> f: s3, b: sole
+solfatara <> s: solfataras
+solfataras <> b: solfatara, f: s
+soli <> s: soli, b: soli, f: s
+solicit <> i: soliciting, d: solicited, p: solicited, '3': solicits
+solicitation <> s: solicitations
+solicitations <> b: solicitation, f: s
+solicited <> b: solicit, f: dp, d: solicited
+soliciting <> b: solicit, f: i, i: soliciting
+solicitor <> s: solicitors
+solicitors <> b: solicitor, f: s
+solicits <> b: solicit, f: '3'
+solid <> s: solids
+solidarities <> b: solidarity, f: s
+solidarity <> s: solidarities
+solider <> s: soliders
+soliders <> b: solider, f: s
+solidest <> b: solide, f: t
+solidified <> b: solidify, f: pd, p: solidified, d: solidified
+solidifies <> b: solidify, f: '3'
+solidify <> i: solidifying, '3': solidifies, p: solidified, d: solidified
+solidities <> b: solidity, f: s
+solidity <> s: solidities
+solids <> b: solid, f: s
+soliloquies <> b: soliloquy, f: s
+soliloquize <> '3': soliloquizes, p: soliloquized, i: soliloquizing, d: soliloquized
+soliloquized <> f: pd, b: soliloquize
+soliloquizes <> b: soliloquize, f: '3'
+soliloquizing <> f: i, b: soliloquize
+soliloquy <> s: soliloquies
+soling <> s: solings, i: soling, b: soling, f: i
+solitaries <> b: solitary, f: s
+solitary <> s: solitaries
+soliton <> s: solitons
+solitons <> b: soliton, f: s
+solitude <> s: solitudes
+solitudes <> b: solitude, f: s
+solo <> s: solos, i: soloing, p: soloed, '3': solos, d: soloed
+soloed <> f: pd, b: solo
+soloing <> b: solo, f: i, i: soloing
+soloist <> s: soloists
+soloists <> b: soloist, f: s
+solos <> f: s3, b: solo
+solstice <> s: solstices
+solstices <> b: solstice, f: s
+solubilities <> b: solubility, f: s
+solubility <> s: solubilities
+solubilize <> d: solubilized, p: solubilized
+solubilized <> b: solubilize, f: dp
+soluble <> s: solubles
+solubles <> b: soluble, f: s
+solute <> s: solutes
+solutes <> b: solute, f: s
+solution <> s: solutions
+solutions <> b: solution, f: s
+solvate <> '3': solvates, d: solvated, i: solvating, p: solvated
+solvated <> f: dp, b: solvate
+solvates <> b: solvate, f: '3'
+solvating <> f: i, b: solvate
+solve <> d: solved, i: solving, '3': solves, p: solved
+solved <> b: solve, f: dp, d: solved, p: solved
+solvencies <> b: solvency, f: s
+solvency <> s: solvencies
+solvent <> s: solvents
+solvents <> b: solvent, f: s
+solver <> s: solvers
+solvers <> b: solver, f: s
+solves <> b: solve, f: '3'
+solving <> b: solve, f: i, i: solving
+Somali <> s: somalis
+Somalian <> s: somalians
+somalis <> b: somali, f: s
+sombrero <> s: sombreros
+sombreros <> b: sombrero, f: s
+someday <> s: somedays
+somedays <> b: someday, f: s
+somersault <> p: somersaulted, s: somersaults, i: somersaulting, '3': somersaults, d: somersaulted
+somersaulted <> b: somersault, f: pd
+somersaulting <> b: somersault, f: i
+somersaults <> b: somersault, f: s3
+somite <> s: somites
+somites <> b: somite, f: s
+Somme <> s: sommes
+sommelier <> s: sommeliers
+sommeliers <> b: sommelier, f: s
+somnambulist <> s: somnambulists
+somnambulists <> b: somnambulist, f: s
+son <> s: sons
+son-in-law <> s: son-in-laws
+son-in-laws <> b: son-in-law, f: s
+sonar <> s: sonars
+sonars <> b: sonar, f: s
+sonata <> s: sonatas
+sonatas <> b: sonata, f: s
+sonatina <> s: sonatinas
+sonatinas <> b: sonatina, f: s
+sone <> s: sones
+sones <> b: sone, f: s
+song <> s: songs
+songbird <> s: songbirds
+songbirds <> b: songbird, f: s
+songbook <> s: songbooks
+songbooks <> b: songbook, f: s
+songs <> b: song, f: s
+songster <> s: songsters
+songsters <> b: songster, f: s
+songstress <> s: songstresses
+songstresses <> b: songstress, f: s
+songwriter <> s: songwriters
+songwriters <> b: songwriter, f: s
+songwriting <> i: songwriting, b: songwriting, f: i
+sonic <> s: sonics
+sonicate <> d: sonicated, p: sonicated, i: sonicating
+sonicated <> b: sonicate, f: dp
+sonicating <> b: sonicate, f: i
+sonics <> b: sonic, f: s
+sonnet <> s: sonnets, i: sonneting, p: sonneted, '3': sonnets, d: sonneted
+sonneted <> f: pd, b: sonnet
+sonneteer <> s: sonneteers
+sonneteers <> b: sonneteer, f: s
+sonneting <> f: i, b: sonnet
+sonnets <> f: s3, b: sonnet
+sonogram <> s: sonograms
+sonograms <> b: sonogram, f: s
+sonorant <> s: sonorants
+sonorants <> b: sonorant, f: s
+sonorities <> b: sonority, f: s
+sonority <> s: sonorities
+sons <> b: son, f: s
+soo <> p: soo, b: soo, f: p
+sook <> s: sooks
+sooks <> b: sook, f: s
+soot <> d: sooted, i: sooting, p: sooted, '3': soots
+sooted <> f: dp, b: soot
+soothe <> p: soothed, d: soothed, '3': soothes, s: soothes, i: soothing
+soothed <> b: soothe, f: pd, d: soothed
+soother <> s: soothers
+soothers <> b: soother, f: s
+soothes <> b: soothe, f: 3s
+soothing <> i: soothing, b: soothing, f: i
+soothsayer <> s: soothsayers
+soothsayers <> b: soothsayer, f: s
+soothsaying <> i: soothsaying, b: soothsaying, f: i
+sooties <> b: sooty, f: s
+sooting <> b: soot, f: i
+soots <> f: '3', b: soot
+sooty <> s: sooties
+sop <> s: sops, p: sopped, d: sopped, i: sopping, '3': sops
+sophism <> s: sophisms
+sophisms <> b: sophism, f: s
+sophisticate <> s: sophisticates, d: sophisticated, i: sophisticating, p: sophisticated, '3': sophisticates
+sophisticated <> f: dp, b: sophisticate
+sophisticates <> f: s3, b: sophisticate
+sophisticating <> f: i, b: sophisticate
+sophistication <> s: sophistications
+sophistications <> b: sophistication, f: s
+sophistries <> b: sophistry, f: s
+sophistry <> s: sophistries
+sopped <> b: sop, f: pd
+soppier <> b: soppy, f: r
+sopping <> b: sop, f: i, i: sopping
+soppy <> r: soppier
+soprano <> s: sopranos
+sopranos <> b: soprano, f: s
+sops <> f: s3, b: sop
+sorbet <> s: sorbets
+sorbets <> b: sorbet, f: s
+sorcerer <> s: sorcerers, b: sorcere, f: r
+sorcerers <> b: sorcerer, f: s
+sorceress <> s: sorceresses
+sorceresses <> b: sorceress, f: s
+sorceries <> b: sorcery, f: s
+sorcery <> s: sorceries
+sore <> s: sores, r: sorer
+sorer <> b: sore, f: r
+sores <> b: sore, f: s
+sorghum <> s: sorghums
+sorghums <> b: sorghum, f: s
+sori <> s: sori, b: sori, f: s
+sororities <> b: sorority, f: s
+sorority <> s: sororities
+sorrel <> s: sorrels
+sorrels <> b: sorrel, f: s
+sorrier <> b: sorry, f: r
+sorrow <> s: sorrows, p: sorrowed, d: sorrowed, i: sorrowing, '3': sorrows
+sorrowed <> b: sorrow, f: pd
+sorrowing <> i: sorrowing, b: sorrowing, f: i
+sorrows <> f: s3, b: sorrow
+sorry <> r: sorrier
+sort <> s: sorts, d: sorted, i: sorting, p: sorted, '3': sorts
+sorte <> s: sortes
+sorted <> b: sort, f: dp, d: sorted, p: sorted
+sorter <> s: sorters
+sorters <> b: sorter, f: s
+sortes <> b: sorte, f: s
+sortie <> s: sorties
+sorties <> b: sortie, f: s
+sorting <> b: sort, f: i, i: sorting
+sorts <> f: s3, b: sort
+sot <> s: sots
+Sotho <> s: sothos
+sots <> b: sot, f: s
+soubriquet <> s: soubriquets
+soubriquets <> b: soubriquet, f: s
+souffle <> s: souffles
+souffles <> b: souffle, f: s
+sough <> i: soughing, p: soughed, s: soughs, '3': soughs, d: soughed
+soughed <> f: pd, b: sough
+soughing <> b: sough, f: i
+soughs <> f: s3, b: sough
+sought <> b: seek, f: dp, p: sought, d: sought
+souk <> s: souks
+souks <> b: souk, f: s
+soul <> s: souls
+soulmate <> s: soulmates
+soulmates <> b: soulmate, f: s
+souls <> b: soul, f: s
+soulster <> s: soulsters
+soulsters <> b: soulster, f: s
+sound <> '3': sounds, s: sounds, p: sounded, i: sounding, d: sounded, r: sounder
+soundalike <> s: soundalikes, '3': soundalikes
+soundalikes <> b: soundalike, f: s3
+soundbite <> s: soundbites
+soundbites <> b: soundbite, f: s
+soundboard <> s: soundboards
+soundboards <> b: soundboard, f: s
+soundcheck <> i: soundchecking, s: soundchecks
+soundchecking <> b: soundcheck, f: i
+soundchecks <> b: soundcheck, f: s
+sounded <> b: sound, f: pd
+sounder <> b: sound, f: r, s: sounders
+sounding <> b: sound, f: i, s: soundings, i: sounding
+soundings <> b: sounding, f: s
+soundproof <> i: soundproofing, d: soundproofed, p: soundproofed, '3': soundproofs
+soundproofed <> b: soundproof, f: dp, p: soundproofed
+soundproofing <> b: soundproof, f: i
+soundproofs <> f: '3', b: soundproof
+sounds <> b: sound, f: 3s
+soundscape <> s: soundscapes
+soundscapes <> b: soundscape, f: s
+soundtrack <> s: soundtracks, i: soundtracking
+soundtracking <> b: soundtrack, f: i
+soundtracks <> b: soundtrack, f: s
+soup <> s: soups, p: souped, i: souping, '3': soups, d: souped
+souped <> b: soup, f: p
+soups <> b: soup, f: s
+sour <> d: soured, p: soured, '3': sours, i: souring, r: sourer, t: sourest
+source <> s: sources, d: sourced, i: sourcing, p: sourced, '3': sources
+sourcebook <> s: sourcebooks
+sourcebooks <> b: sourcebook, f: s
+sourced <> b: source, f: dp
+sources <> b: source, f: s
+sourcing <> b: source, f: i, i: sourcing
+soured <> b: sour, f: dp, p: soured
+sourer <> b: sour, f: r
+sourest <> b: sour, f: t
+souring <> b: sour, f: i
+sourpuss <> s: sourpusses
+sourpusses <> b: sourpuss, f: s
+sours <> b: sour, f: '3'
+souse <> p: soused, i: sousing, d: soused, '3': souses
+soused <> d: soused, b: soused, f: dp, p: soused
+souses <> f: '3', b: souse
+sousing <> b: souse, f: i
+souslik <> s: sousliks
+sousliks <> b: souslik, f: s
+soutane <> s: soutanes
+soutanes <> b: soutane, f: s
+souterrain <> s: souterrains
+souterrains <> b: souterrain, f: s
+south-easterlies <> b: south-easterly, f: s
+south-easterly <> s: south-easterlies
+south-westerlies <> b: south-westerly, f: s
+south-westerly <> s: south-westerlies
+Southdown <> s: southdowns
+southerner <> s: southerners
+southerners <> b: southerner, f: s
+southland <> s: southlands
+southlands <> b: southland, f: s
+southpaw <> s: southpaws
+southpaws <> b: southpaw, f: s
+souvenir <> s: souvenirs
+souvenirs <> b: souvenir, f: s
+sov <> s: sovs, '3': sovs
+sovereign <> s: sovereigns
+sovereigns <> b: sovereign, f: s
+sovereignties <> b: sovereignty, f: s
+sovereignty <> s: sovereignties
+Soviet <> s: soviets
+Sovietologist <> s: sovietologists
+sovs <> b: sov, f: s3
+sow <> d: sown, s: sows, i: sowing, p: sowed, '3': sows
+sowed <> b: sow, f: pd
+sower <> s: sowers
+sowers <> b: sower, f: s
+sowing <> b: sow, f: i, i: sowing, s: sowings
+sown <> b: sow, f: d, d: sown
+sows <> b: sow, f: s3
+sox <> s: sox, b: sox, f: s, p: soxed
+soxed <> b: sox, f: p
+soybean <> s: soybeans
+soybeans <> b: soybean, f: s
+sozzle <> d: sozzled, p: sozzled
+sozzled <> b: sozzle, f: dp, p: sozzled
+SP <> s: sps
+spa <> s: spas
+space <> s: spaces, d: spaced, i: spacing, p: spaced, '3': spaces
+space-time <> s: space-times
+space-times <> b: space-time, f: s
+spacecraft <> s: spacecrafts
+spacecrafts <> b: spacecraft, f: s
+spaced <> f: dp, b: space, d: spaced
+spaceflight <> s: spaceflights
+spaceflights <> b: spaceflight, f: s
+spaceman <> s: spacemen
+spacemen <> b: spaceman, f: s
+spaceport <> s: spaceports
+spaceports <> b: spaceport, f: s
+spacer <> s: spacers
+spacers <> b: spacer, f: s
+spaces <> f: s3, b: space
+spaceship <> s: spaceships
+spaceships <> b: spaceship, f: s
+spacesuit <> s: spacesuits
+spacesuits <> b: spacesuit, f: s
+spacewalk <> s: spacewalks, i: spacewalking, p: spacewalked, '3': spacewalks, d: spacewalked
+spacewalked <> f: pd, b: spacewalk
+spacewalking <> f: i, b: spacewalk
+spacewalks <> f: s3, b: spacewalk
+spacing <> b: space, f: i, i: spacing, s: spacings
+spade <> s: spades, i: spading, p: spaded, '3': spades, d: spaded
+spaded <> f: pd, b: spade
+spadefoot <> s: spadefoots
+spadefoots <> b: spadefoot, f: s
+spades <> f: s3, b: spade
+spading <> b: spade, f: i
+spaghettini <> s: spaghettini, b: spaghettini, f: s
+spaid <> b: spay, f: p
+spake <> p: spake, b: spake, f: p
+spall <> i: spalling, p: spalled
+spalled <> b: spall, f: p
+spalling <> b: spall, f: i
+spam <> d: spammed, i: spamming, p: spammed, '3': spams, s: spams
+spammed <> b: spam, f: d
+span <> i: spanning, p: spanned, '3': spans, s: spans, d: spanned, b: span, f: dp
+spandau <> s: spandaus
+spandaus <> b: spandau, f: s
+spandrel <> s: spandrels
+spandrels <> b: spandrel, f: s
+spangle <> s: spangles, p: spangled, d: spangled, i: spangling, '3': spangles
+spangled <> b: spangle, f: pd
+spangles <> f: s3, b: spangle
+spangling <> b: spangle, f: i
+Spaniard <> s: spaniards
+spaniards <> b: spaniard, f: s
+spaniel <> s: spaniels
+spaniels <> b: spaniel, f: s
+spank <> i: spanking, d: spanked, p: spanked, '3': spanks, s: spanks
+spanked <> b: spank, f: dp
+spanker <> s: spankers
+spankers <> b: spanker, f: s
+spanking <> b: spank, f: i, s: spankings, i: spanking
+spanks <> b: spank, f: 3s
+spanned <> b: span, f: pd
+spanner <> s: spanners
+spanners <> b: spanner, f: s
+spanning <> b: span, f: i
+spans <> b: span, f: 3s
+spar <> s: spars, i: sparring, p: sparred, d: sparred, '3': spars
+spare <> d: spared, s: spares, p: spared, i: sparing, '3': spares
+spared <> b: spare, f: dp
+spares <> b: spare, f: s3
+sparge <> i: sparging, p: sparged, '3': sparges, d: sparged
+sparged <> f: pd, b: sparge
+sparges <> f: '3', b: sparge
+sparging <> f: i, b: sparge
+sparing <> b: spare, f: i, i: sparing
+spark <> s: sparks, p: sparked, d: sparked, i: sparking, '3': sparks
+sparked <> b: spark, f: pd
+sparker <> s: sparkers
+sparkers <> b: sparker, f: s
+sparkier <> b: sparky, f: r
+sparking <> b: spark, f: i, i: sparking
+sparkle <> p: sparkled, i: sparkling, '3': sparkles, s: sparkles, d: sparkled
+sparkled <> b: sparkle, f: pd
+sparkler <> s: sparklers
+sparklers <> b: sparkler, f: s
+sparkles <> b: sparkle, f: 3s
+sparkling <> b: sparkle, f: i, i: sparkling
+sparks <> b: spark, f: s3
+sparky <> r: sparkier
+sparred <> b: spar, f: pd
+sparring <> b: spar, f: i, i: sparring
+sparrow <> s: sparrows
+sparrowhawk <> s: sparrowhawks
+sparrowhawks <> b: sparrowhawk, f: s
+sparrows <> b: sparrow, f: s
+spars <> b: spar, f: s3
+sparse <> r: sparser, t: sparsest
+sparser <> b: sparse, f: r
+sparsest <> b: sparse, f: t
+Spartan <> s: spartans
+spartans <> b: spartan, f: s
+spas <> b: spa, f: s
+spasm <> s: spasms, p: spasmed, i: spasming
+spasmed <> b: spasm, f: p
+spasming <> b: spasm, f: i
+spasmolytic <> s: spasmolytics
+spasmolytics <> b: spasmolytic, f: s
+spasms <> b: spasm, f: s
+spastic <> s: spastics
+spastics <> b: spastic, f: s
+spat <> b: spit, f: pd, s: spats, d: spatted, p: spatted, i: spatting, '3': spats
+spatchcock <> d: spatchcocked, p: spatchcocked, i: spatchcocking, '3': spatchcocks, s: spatchcocks
+spatchcocked <> b: spatchcock, f: dp
+spate <> s: spates
+spates <> b: spate, f: s
+spathe <> s: spathes
+spathes <> b: spathe, f: s
+spatialize <> '3': spatializes, p: spatialized
+spatialized <> p: spatialized, b: spatialized, f: p
+spatializes <> b: spatialize, f: '3'
+spats <> b: spat, f: s
+spatted <> b: spat, f: dp
+spatter <> d: spattered, p: spattered, i: spattering, s: spatters, '3': spatters
+spattered <> b: spatter, f: dp
+spattering <> b: spatter, f: i
+spatters <> f: s3, b: spatter
+spatula <> s: spatulas
+spatulas <> b: spatula, f: s
+spavin <> s: spavins
+spavins <> b: spavin, f: s
+spawn <> d: spawned, p: spawned, i: spawning, '3': spawns, s: spawns
+spawned <> b: spawn, f: dp
+spawner <> s: spawners
+spawners <> b: spawner, f: s
+spawning <> b: spawn, f: i, i: spawning, s: spawnings
+spawns <> b: spawn, f: 3s
+spay <> d: spayed, i: spaying, p: spaid, '3': spays
+spayed <> b: spay, f: dp, p: spayed
+spaying <> b: spay, f: i
+spays <> f: '3', b: spay
+speak <> p: spoke, i: speaking, d: spoken, '3': speaks
+speakeasies <> b: speakeasy, f: s
+speakeasy <> s: speakeasies
+speaker <> s: speakers
+speakers <> b: speaker, f: s
+speaking <> b: speak, f: i, i: speaking, s: speakings
+speaks <> b: speak, f: '3'
+spear <> s: spears, p: speared, d: speared, i: spearing, '3': spears
+spear-carrier <> s: spear-carriers
+spear-carriers <> b: spear-carrier, f: s
+speared <> b: spear, f: pd
+spearhead <> d: spearheaded, i: spearheading, p: spearheaded, '3': spearheads
+spearheaded <> b: spearhead, f: dp
+spearheading <> b: spearhead, f: i
+spearheads <> b: spearhead, f: '3'
+spearing <> b: spear, f: i
+spearman <> s: spearmen
+spearmen <> b: spearman, f: s
+spec <> s: specs
+special <> s: specials
+specialisation <> s: specialisations
+specialisations <> b: specialisation, f: s
+specialise <> i: specialising, '3': specialises, d: specialised, p: specialised
+specialised <> b: specialise, f: dp, d: specialised, p: specialised
+specialises <> b: specialise, f: '3'
+specialising <> b: specialise, f: i
+specialism <> s: specialisms
+specialisms <> b: specialism, f: s
+specialist <> s: specialists
+specialists <> b: specialist, f: s
+specialities <> b: speciality, f: s
+speciality <> s: specialities
+specialization <> s: specializations
+specializations <> b: specialization, f: s
+specialize <> i: specializing, p: specialized, d: specialized, '3': specializes
+specialized <> d: specialized, b: specialized, f: dp, p: specialized
+specializes <> b: specialize, f: '3'
+specializing <> b: specialize, f: i
+specials <> b: special, f: s
+specialties <> b: specialty, f: s
+specialty <> s: specialties
+speciate <> d: speciated, i: speciating, p: speciated
+speciated <> b: speciate, f: dp
+speciating <> b: speciate, f: i
+specific <> s: specifics
+specification <> s: specifications
+specifications <> b: specification, f: s
+specificities <> b: specificity, f: s
+specificity <> s: specificities
+specifics <> b: specific, f: s
+specified <> b: specify, f: dp, p: specified, d: specified
+specifier <> s: specifiers
+specifiers <> b: specifier, f: s
+specify <> d: specified, i: specifying, p: specified, '3': specifies
+specimen <> s: specimens
+specimens <> b: specimen, f: s
+speck <> s: specks, i: specking, p: specked

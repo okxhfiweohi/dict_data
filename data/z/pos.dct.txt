@@ -1,0 +1,77 @@
+zag <> V: {rk: 38526, frq: 72}, N: {rk: 39497, frq: 91}
+zaibatsu <> N: {rk: 52112, frq: 44}
+zakat <> N: {rk: 49191, frq: 39}
+zaniness <> N: {rk: 57234, frq: 23}
+zany <> J: {rk: 22963, frq: 324}
+zap <> V: {rk: 15100, frq: 793}, N: {rk: 30764, frq: 157}
+zarzuela <> N: {rk: 59174, frq: 33}
+zeal <> N: {rk: 10426, frq: 1495}
+zealot <> N: {rk: 15523, frq: 710}
+zealotry <> N: {rk: 35976, frq: 93}
+zealous <> J: {rk: 16614, frq: 628}
+zealously <> R: {rk: 26394, frq: 213}
+zealousness <> N: {rk: 48444, frq: 34}
+zeaxanthin <> N: {rk: 42904, frq: 77}
+zebra <> N: {rk: 14397, frq: 1148}
+zebu <> N: {rk: 52565, frq: 32}
+zeitgeist <> N: {rk: 23589, frq: 311}
+zenith <> N: {rk: 16503, frq: 857}
+zenithal <> J: {rk: 57297, frq: 29}
+zeolite <> N: {rk: 57944, frq: 23}
+zero <> M: {rk: 4934, frq: 5523}, N: {rk: 5442, frq: 4891}, V: {rk: 9011, frq: 1978}
+zero-based <> J: {rk: 54593, frq: 25}
+zero-emission <> J: {rk: 46604, frq: 47}
+zero-point <> J: {rk: 43864, frq: 84}
+zero-sum <> J: {rk: 21663, frq: 387}
+zest <> N: {rk: 10313, frq: 2000}
+zester <> N: {rk: 55622, frq: 27}
+zestful <> J: {rk: 56120, frq: 21}
+zesty <> J: {rk: 28061, frq: 211}
+zidovudine <> N: {rk: 54311, frq: 49}
+zig <> N: {rk: 39330, frq: 92}, V: {rk: 40190, frq: 65}
+ziggurat <> N: {rk: 41563, frq: 75}
+zigzag <> V: {rk: 18440, frq: 514}, N: {rk: 19469, frq: 481}
+zilch <> N: {rk: 39806, frq: 75}
+zillion <> N: {rk: 20974, frq: 173}
+zillionaire <> N: {rk: 53245, frq: 26}
+zinc <> N: {rk: 10698, frq: 1651}
+zing <> N: {rk: 32897, frq: 165}
+zinger <> N: {rk: 32021, frq: 158}
+zingy <> J: {rk: 46154, frq: 47}
+zinnia <> N: {rk: 28048, frq: 235}
+zip <> V: {rk: 9077, frq: 2261}, N: {rk: 14511, frq: 1613}
+zipped <> J: {rk: 55691, frq: 26}
+zipper <> N: {rk: 10687, frq: 1729}, V: {rk: 41010, frq: 65}
+zippered <> J: {rk: 29483, frq: 178}
+zippy <> J: {rk: 30524, frq: 165}
+zircon <> N: {rk: 45100, frq: 104}
+zirconia <> N: {rk: 54064, frq: 33}
+zirconium <> N: {rk: 37816, frq: 103}
+zit <> N: {rk: 32049, frq: 146}
+zither <> N: {rk: 41379, frq: 66}
+ziti <> N: {rk: 37693, frq: 94}
+zodiacal <> J: {rk: 31079, frq: 177}
+zoetrope <> N: {rk: 55627, frq: 42}
+zombie <> N: {rk: 13470, frq: 1357}
+zonal <> J: {rk: 41500, frq: 66}
+zone <> N: {rk: 1773, frq: 22334}
+zoning <> N: {rk: 8705, frq: 2316}
+zonk <> V: {rk: 49039, frq: 33}
+zoo <> N: {rk: 6371, frq: 4990}
+zookeeper <> N: {rk: 31745, frq: 174}
+zoological <> J: {rk: 22423, frq: 333}
+zoologist <> N: {rk: 25062, frq: 265}
+zoology <> N: {rk: 23271, frq: 354}
+zoom <> V: {rk: 8770, frq: 2130}, N: {rk: 15588, frq: 911}
+zoomorphic <> J: {rk: 45416, frq: 50}
+zoonotic <> J: {rk: 48902, frq: 67}
+zooplankton <> N: {rk: 30822, frq: 203}
+zoster <> N: {rk: 50678, frq: 38}
+zoysia <> N: {rk: 51818, frq: 45}
+zucchini <> N: {rk: 10667, frq: 1666}
+zulu <> J: {rk: 17233, frq: 710}, N: {rk: 17889, frq: 578}
+zydeco <> N: {rk: 33383, frq: 186}
+zygomatic <> J: {rk: 53543, frq: 29}
+zygote <> N: {rk: 35594, frq: 126}
+zz <> U: {rk: 36096, frq: 99}
+zzz <> U: {rk: 48970, frq: 40}

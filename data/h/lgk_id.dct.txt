@@ -1,0 +1,1346 @@
+ha <> w: 85098, p: [42566]
+ha ha <> p: [61298]
+habanera <> w: 85107
+haberdashery <> w: 85129, p: [29950]
+habilitate <> w: 85134, p: [19318]
+habit <> w: 85135
+habit-forming <> w: 85136
+habitability <> w: 85137
+habitable <> w: 85138
+habitant <> w: 85140
+habitat <> w: 85141, p: [20428]
+habitation <> w: 85142, p: [22179, 20428]
+habitual <> w: 85144, p: [20487]
+habitually <> w: 85147, p: [42418]
+habituation <> w: 85149, p: [46483]
+habitude <> w: 85150
+habitus <> w: 85152, p: [60746]
+hack <> w: 85159, p: [30167, 46694, 51082, 51280]
+hackberry <> w: 85166, p: [35170]
+hacker <> w: 85170, p: [30167]
+hackle <> w: 85171, p: [30778]
+hackney <> w: 85174
+hackneyed <> w: 85177
+hacksaw <> w: 85178, p: [41522]
+haddock <> w: 85183, p: [24649]
+hadron <> w: 85194
+hag <> w: 85293
+haggard <> w: 85306
+haggis <> w: 85308, p: [31113]
+haggle <> w: 85309, p: [55148]
+hagiographer <> w: 85315
+hagiographic <> w: 210463
+haik <> w: 85327, p: [39789]
+haiku <> w: 85328
+hail <> w: 85329, p: [17273, 18467]
+hailstorm <> w: 85335, p: [18467]
+hair <> w: 85337, p: [60762]
+hair shirt <> w: 85360, p: [43638]
+hair slide <> w: 85361, p: [25381]
+hair's breadth <> w: 218988, p: [45287]
+hair-raising <> w: 85340
+hair-splitting <> w: 209650
+hairband <> w: 208567, p: [25379]
+hairbrush <> w: 85369, p: [17385]
+haircare <> w: 85370
+haircut <> w: 85372, p: [51937, 26172]
+hairdo <> w: 85373, p: [51937]
+hairdresser <> w: 85374, p: [50505]
+hairdressing <> w: 85375
+haired <> w: 85376, p: [19789]
+hairless <> w: 85379, p: [39717]
+hairline <> w: 85382, p: [30397]
+hairnet <> w: 85384, p: [25393]
+hairpiece <> w: 85385, p: [26146]
+hairpin <> w: 85386, p: [25383]
+hairspray <> w: 85363, p: [22848]
+hairstyle <> w: 85394, p: [51937]
+hairstyling <> w: 208454, p: [26148]
+hairstylist <> w: 85395, p: [50505]
+hairy <> w: 85398, p: [19789]
+haka <> w: 220480
+hake <> w: 85509, p: [25683, 46958]
+halal <> w: 85524
+halcyon <> w: 85529
+hale <> w: 85534, p: [22927, 27692, 45337]
+half <> w: 85544, p: [48153, 49231, 20065]
+half board <> w: 218423
+half brother <> w: 85596, p: [36435]
+half note <> w: 85610, p: [30680]
+half step <> w: 85617, p: [39547]
+half the battle <> p: [40395]
+half volley <> w: 85620
+half-and-half <> w: 85545, p: [34664]
+half-baked <> w: 85547, p: [37105]
+half-brother <> p: [36435]
+half-dozen <> p: [35950]
+half-heartedly <> p: [49600]
+half-life <> w: 85606
+half-moon <> p: [29787, 29787]
+half-price <> p: [29763]
+half-sister <> w: 85578, p: [36439]
+half-term <> w: 85582
+half-time <> p: [17907, 31723]
+halfback <> w: 85621
+halftime <> w: 85626
+halftone <> w: 85627
+halfway <> w: 85629, p: [48901]
+halfway house <> w: 213206, p: [40353, 45998]
+halibut <> w: 85635, p: [25593]
+hall <> w: 85653, p: [50825, 18161, 32802, 21080]
+hall of residence <> w: 85656
+hall porter <> p: [19052]
+hallelujah <> w: 85663, p: [48739]
+hallow <> w: 85668
+hallowed <> w: 85670
+hallstand <> w: 85674
+hallucinate <> w: 85675, p: [43446]
+hallucination <> w: 85677
+hallucinatory <> w: 85678
+hallucinogenic <> w: 85680
+hallux <> w: 85683, p: [20717]
+hallway <> w: 85684, p: [50825, 18101]
+halogen <> w: 85698
+halt <> w: 85711, p: [21278, 21278]
+halter <> w: 85712, p: [25497]
+halting <> w: 85714
+haltingly <> w: 85715
+halva <> w: 217574, p: [38196]
+halve <> w: 85716, p: [20065]
+ham <> w: 85718, p: [31646]
+hamartia <> w: 85738
+hamburger <> w: 85745, p: [50333, 31193]
+hames <> w: 367695
+hammer <> w: 85762, p: [22534, 30197]
+hammer drill <> p: [22530]
+hammered <> w: 85769
+hammerhead <> w: 85770, p: [50293]
+hammock <> w: 85778, p: [28319]
+hamper <> w: 85783, p: [52491, 32886]
+hampshire <> w: 85784
+hamster <> w: 85788, p: [50172]
+hamstring <> w: 85789, p: [30347]
+hand <> w: 85796, p: [50683, 51286, 26806, 53085]
+hand cream <> p: [29860]
+hand grenade <> w: 85828, p: [29836]
+hand in glove <> p: [41648]
+hand luggage <> w: 85834, p: [34588]
+hand over <> p: [41554]
+hand towel <> w: 85849, p: [48685]
+hand-pick <> p: [27634]
+handbag <> w: 85852, p: [48575]
+handball <> w: 85853, p: [51053]
+handbasin <> w: 85856
+handbasket <> w: 85857, p: [19550]
+handbill <> w: 85859, p: [33479]
+handbook <> w: 85860
+handbrake <> w: 85819, p: [21340]
+handcar <> w: 85864
+handcart <> w: 85865, p: [22309]
+handclasp <> w: 85867, p: [20794]
+handcraft <> w: 85870, p: [31371]
+handcrafted <> w: 85798
+handcuff <> w: 85871, p: [29442, 47694]
+handedness <> w: 86004
+handful <> w: 86007
+handgrip <> w: 86008, p: [36952]
+handgun <> w: 86009, p: [18838]
+handheld <> w: 86010
+handhold <> w: 86012
+handicap <> w: 86013, p: [31564]
+handicapped <> w: 86014, p: [31564]
+handicraft <> w: 86017, p: [31371, 31371]
+handily <> w: 86019, p: [46647]
+handiwork <> w: 86022, p: [31371]
+handkerchief <> w: 86023
+handle <> w: 86024, p: [43614, 36952, 29416]
+handlebar <> w: 86027, p: [51290]
+handler <> w: 86030, p: [50497]
+handling <> w: 86033
+handmade <> w: 86038, p: [31371]
+handoff <> w: 86041
+handout <> w: 86042, p: [18750]
+handprint <> w: 365410
+handrail <> w: 86044, p: [45297]
+hands down <> p: [41478, 46740]
+hands off <> w: 225979, p: [48709]
+hands up <> w: 225980, p: [49159]
+hands-off <> p: [48709]
+hands-on <> w: 86049
+handsaw <> w: 86051, p: [41031]
+handset <> w: 86054
+handshake <> w: 86056, p: [20794]
+handshaking <> w: 86057, p: [20794]
+handsome <> w: 86058, p: [49083]
+handsomely <> w: 86059, p: [27564, 49109]
+handstand <> w: 86064
+handwork <> w: 86069, p: [31371]
+handwriting <> w: 86072
+handwritten <> w: 86074
+handy <> w: 86075
+handyman <> w: 86076
+hang <> w: 86077, p: [28031, 37952]
+hang back <> p: [53388]
+hang glider <> w: 86084, p: [36828]
+hang gliding <> w: 86085, p: [36828]
+hang on <> p: [61300, 41017]
+hang on to <> p: [52817]
+hang out <> p: [23477]
+hang together <> p: [51737]
+hang up <> p: [32527, 33303, 28031]
+hang-glider <> p: [36828]
+hang-gliding <> p: [36828]
+hang-out <> p: [23477]
+hang-up <> p: [32527, 33303, 28031]
+hangar <> w: 86091
+hanger <> w: 86096, p: [33305]
+hanging <> w: 86098
+hanging basket <> p: [41848]
+hangman <> w: 86104
+hangover <> w: 86109
+hanker <> w: 86117, p: [42606]
+hap <> w: 86156
+haphazard <> w: 86158
+haphazardly <> w: 86159, p: [36038]
+hapless <> w: 86163
+haploid <> w: 86164
+haplology <> w: 223356
+happen <> w: 86175, p: [30050]
+happen on <> p: [52887]
+happening <> w: 86177
+happenstance <> w: 86178
+happily <> w: 86179, p: [42562]
+happiness <> w: 86180, p: [51927]
+happy <> w: 86181, p: [60634]
+happy hour <> w: 86185
+happy medium <> p: [37033]
+haptic <> w: 86187
+haram <> w: 222947
+harangue <> w: 86195
+harass <> w: 86198, p: [47642]
+harassment <> w: 86202
+harbinger <> w: 86203
+harbor <> w: 86204, p: [19542, 58851]
+hard <> w: 86211, p: [17885, 24015, 43334]
+hard as nails <> p: [23055]
+hard candy <> w: 86232, p: [50339]
+hard cheese <> p: [39875]
+hard court <> w: 226638
+hard drive <> p: [37065]
+hard hat <> w: 86247, p: [25192, 33531]
+hard liquor <> w: 86251, p: [19050]
+hard nut <> w: 212054, p: [45623]
+hard of hearing <> w: 209936, p: [28624]
+hard palate <> w: 86253
+hard rock <> w: 208974, p: [28209]
+hard sauce <> p: [35382]
+hard shoulder <> w: 86262, p: [37377]
+hard up <> w: 86270, p: [47761]
+hard wheat <> p: [31331]
+hard-and-fast <> w: 86212
+hard-boiled <> w: 86215
+hard-hitting <> w: 86220
+hard-nosed <> w: 86222
+hard-pressed <> w: 86225
+hard-wearing <> w: 220303
+hardback <> w: 86274, p: [16041]
+hardboard <> w: 86278
+hardcore <> w: 86280
+hardcover <> w: 86281
+harden <> w: 86282, p: [54292]
+hardihood <> w: 86293
+hardly <> w: 86300, p: [49524]
+hardly ever <> p: [37291]
+hardness <> w: 86302
+hardship <> w: 86305
+hardtack <> w: 86308
+hardtop <> w: 86309
+hardware <> w: 86310, p: [20135]
+hardworking <> w: 86315, p: [43034]
+hardy <> w: 86316, p: [27285]
+hare <> w: 86317, p: [24174, 27111, 46984]
+harebrained <> w: 86324, p: [28636]
+harem <> w: 86329
+harem pants <> w: 365545
+hark <> w: 86506, p: [29110]
+hark back <> p: [44972]
+harken <> w: 86512
+harlequin <> w: 86521, p: [39283]
+harlequinade <> w: 86524
+harm <> w: 86531, p: [17647, 47332]
+harmful <> w: 86533, p: [23093]
+harmless <> w: 86536, p: [45938]
+harmlessly <> w: 86537, p: [49327]
+harmonic <> w: 86538
+harmonica <> w: 86544, p: [27644]
+harmonically <> w: 86546
+harmonious <> w: 86548
+harmoniously <> w: 86549
+harmonium <> w: 86555, p: [27646]
+harmonization <> w: 86557
+harmony <> w: 86561
+harness <> w: 86563, p: [22764, 42776]
+harp <> w: 86582, p: [27648, 27644]
+harpist <> w: 86590, p: [30319]
+harpsichord <> w: 86598, p: [27650]
+harpsichordist <> w: 86599, p: [30676]
+harpy eagle <> p: [39889]
+harrier <> w: 86610, p: [25577]
+harrowing <> w: 86624, p: [45972]
+harrumph <> w: 209455
+harry <> w: 86625, p: [48329]
+harsh <> w: 86637, p: [17861, 49534]
+harshly <> w: 86641, p: [49534]
+hart <> w: 86643, p: [40225]
+hartebeest <> w: 86648, p: [34264]
+harvest <> w: 86656, p: [19598, 20293, 19598]
+harvest mite <> p: [25229]
+harvesting <> w: 86666, p: [19598]
+harvestman <> w: 86667, p: [30642]
+has-been <> w: 86671
+hash <> w: 86675, p: [31185]
+hash browns <> w: 209247, p: [31115]
+hashish <> w: 86684
+hashtag <> w: 208664, p: [37099]
+hassle <> w: 86699, p: [48329]
+hassock <> w: 86700, p: [42108]
+haste <> w: 86703
+hasten <> w: 86704, p: [21438]
+hastily <> w: 86705, p: [42926]
+hasty <> w: 86709
+hat <> w: 86713, p: [50910]
+hat stand <> w: 221536
+hat-trick <> p: [40355, 40355]
+hatband <> w: 86716, p: [25253]
+hatch <> w: 86718, p: [50257, 20541, 32558]
+hatchback <> w: 86719, p: [44982]
+hatchet <> w: 86725, p: [41524]
+hatchet-faced <> w: 216773
+hatching <> w: 86728, p: [47622]
+hatchling <> w: 86729, p: [50257]
+hate <> w: 86731, p: [19380, 19380]
+hateful <> w: 86734, p: [60449]
+hatefully <> w: 86735
+hater <> w: 86738
+hatpin <> w: 86746, p: [25635]
+hatred <> w: 86748, p: [52101]
+hauberk <> w: 86753
+haughtily <> w: 86754
+haughtiness <> w: 86755
+haughty <> w: 86756
+haul <> w: 86757, p: [22927, 18599]
+haul ass <> p: [44230]
+haulage <> w: 86761
+hauler <> w: 86762
+haunch <> w: 86766
+haunt <> w: 86767, p: [47532]
+haunted <> w: 86768
+haunting <> w: 86769
+hauntingly <> w: 225427
+hautboy <> w: 86776, p: [27967]
+haute couture <> w: 86778, p: [34035]
+haute cuisine <> w: 86779
+hauteur <> w: 86780
+have <> w: 86783, p: [48601, 26872, 19827, 60802, 61162]
+have a bun in the oven <> p: [21997]
+have a cow <> p: [42528]
+have a heart <> p: [44594]
+have a screw loose <> p: [41980]
+have a soft spot for <> p: [40153]
+have a way with <> p: [42426]
+have designs on <> p: [40155]
+have kittens <> p: [42528]
+have nothing to lose <> p: [40491]
+have seen better days <> p: [26304]
+have the hots for <> p: [40123]
+have two left feet <> p: [42466]
+haveli <> w: 222465
+haven <> w: 86809, p: [19542]
+haversack <> w: 86811, p: [34570]
+havoc <> w: 86813
+haw <> w: 86814
+hawfinch <> w: 86830
+hawk <> w: 86831, p: [25579]
+hawker <> w: 87010, p: [37107]
+hawkmoth <> w: 87016
+hawksbill <> w: 87017
+hawthorn <> w: 87028
+hay <> w: 87030, p: [22660]
+hay fever <> w: 87036
+haywire <> w: 87058
+hazard <> w: 87061, p: [59244]
+hazardous <> w: 87065, p: [45962]
+hazardously <> w: 87066, p: [49217]
+haze <> w: 87068
+hazel <> w: 87070, p: [29094]
+hazelnut <> w: 87075, p: [14645]
+hazy <> w: 87082, p: [17236]
+hdtv <> w: 87088
+he <> w: 87089, p: [37255]
+head <> w: 87093, p: [48419, 40741, 30199, 30824, 31968, 47086]
+head for <> p: [39607]
+head of state <> p: [51436]
+head over heels <> p: [19368]
+head start <> w: 87129
+head teacher <> w: 87130
+head up <> p: [60827]
+head-on <> w: 87095
+headache <> w: 87136, p: [39843]
+headband <> w: 87138, p: [25379]
+headboard <> w: 87139, p: [32928]
+headdress <> w: 87144, p: [25637]
+headfirst <> w: 87148, p: [48367, 48367]
+headgear <> w: 87151, p: [25637]
+headhunter <> w: 87152
+heading <> w: 87153
+headlamp <> w: 87154, p: [35848]
+headland <> w: 87155, p: [31968]
+headless <> w: 87156
+headlight <> w: 87157, p: [35848]
+headline <> w: 87159, p: [30709]
+headliner <> w: 87160
+headlong <> w: 87163, p: [48367, 48367]
+headmaster <> w: 87165
+headmistress <> w: 87167
+headphones <> w: 87169, p: [29406]
+headquarter <> w: 87172
+headquarters <> w: 87173, p: [21086]
+headrest <> w: 87176
+headroom <> w: 87177
+heads will roll <> p: [28071]
+heads-up <> p: [44830]
+headscarf <> w: 87180, p: [24922]
+headset <> w: 87181, p: [35726]
+headshot <> w: 87185
+headstock <> w: 87191, p: [38002]
+headstone <> w: 87192, p: [35728]
+headstrong <> w: 87194
+headwaiter <> w: 87195, p: [31546]
+headway <> w: 87197
+heal <> w: 87201, p: [47857, 18992]
+healed <> w: 87203, p: [17629]
+healer <> w: 87204
+healing <> w: 87205, p: [18992]
+health <> w: 87207, p: [60632]
+health club <> w: 87213, p: [20481]
+health food <> w: 87216, p: [17543]
+healthcare <> w: 87224, p: [51606]
+healthful <> w: 87227, p: [17543]
+healthfully <> w: 225480, p: [48985]
+healthfulness <> w: 87228, p: [60632]
+healthily <> w: 87230
+healthy <> w: 87232, p: [60588, 17543]
+heap <> w: 87233, p: [20085]
+heaps <> w: 367717
+hear <> w: 87236, p: [29110, 21226]
+hear a pin drop <> p: [46304]
+hear from <> p: [44798]
+hearable <> w: 87238, p: [49297]
+heard <> w: 87239, p: [35694]
+hearer <> w: 87240, p: [51562]
+hearing <> w: 87241, p: [18521]
+hearing aid <> w: 87243, p: [33336]
+hearing dog <> p: [25918]
+hearing-impaired <> p: [28624]
+hearsay <> w: 87251
+hearse <> w: 87254
+heart <> w: 87256, p: [50713, 22213, 22818, 22818, 61302]
+heart attack <> w: 87265, p: [36995]
+heart disease <> w: 87268
+heart failure <> w: 87269
+heart of stone <> p: [44690]
+heart-to-heart <> w: 87262
+heartache <> w: 87285
+heartbeat <> w: 87286
+heartbreak <> w: 87287, p: [44890]
+heartbreaking <> w: 87289, p: [52047]
+heartbroken <> w: 87290, p: [42592]
+heartburn <> w: 87291
+hearten <> w: 87293, p: [52867]
+heartening <> w: 87294
+heartfelt <> w: 87295
+hearth <> w: 87296, p: [18029]
+hearthrug <> w: 87298
+heartily <> w: 87300, p: [49562]
+heartland <> w: 87302
+heartrending <> w: 87309
+hearts <> w: 87311
+heartsick <> w: 87314
+heartthrob <> w: 87317, p: [49083]
+heartwarming <> w: 87318
+hearty <> w: 87503, p: [49706]
+heat <> w: 87504, p: [22353, 51400, 20964]
+heat up <> p: [20964]
+heat wave <> w: 87537, p: [18469, 39359]
+heated <> w: 87539
+heatedly <> w: 87541
+heater <> w: 87542, p: [49834]
+heathen <> w: 87549
+heathenish <> w: 87550
+heather <> w: 87552
+heating <> w: 87558, p: [22353]
+heatstroke <> w: 87565, p: [22616]
+heave <> w: 87567, p: [43004]
+heaven <> w: 87569, p: [23173]
+heavenly <> w: 87571
+heavens <> w: 87575
+heavenward <> w: 87576, p: [48389]
+heaves <> w: 87580
+heavily <> w: 87583
+heavy <> w: 87589, p: [48443, 22552, 60630, 17555, 21997]
+heavy cream <> w: 87597
+heavy going <> p: [43018]
+heavy industry <> w: 224975
+heavy metal <> w: 87601, p: [21370]
+heavy-duty <> w: 87592
+heavyset <> w: 87611
+heavyweight <> w: 87612
+hebdomadal <> w: 87615
+hebridean <> w: 87637
+heck <> w: 225928, p: [48171]
+heckle <> w: 87645
+heckler <> w: 87646
+hectare <> w: 87648
+hectic <> w: 87649
+hector <> w: 87657
+hedge <> w: 87666, p: [32626, 47740]
+hedge sparrow <> w: 87675, p: [24625]
+hedge-trimmer <> p: [42340]
+hedgehog <> w: 87681, p: [24178, 17993]
+hedgerow <> w: 87686, p: [32626]
+hedonism <> w: 87691
+hedonist <> w: 87692
+hedonistic <> w: 87693
+heebie-jeebies <> w: 87698
+heed <> w: 87699, p: [59361]
+heedful <> w: 87700, p: [51270]
+heedfully <> w: 87701
+heedless <> w: 87703, p: [17535]
+heedlessly <> w: 87704, p: [51272]
+heel <> w: 87706, p: [25615, 17751]
+heels <> w: 211930, p: [25605]
+hefty <> w: 87714, p: [48443, 16284]
+hegemony <> w: 87719
+heifer <> w: 87723, p: [22756]
+height <> w: 87724, p: [29735]
+heighten <> w: 87725, p: [53049, 53680]
+heinie <> w: 228358
+heinous <> w: 87736, p: [60410]
+heir <> w: 87748
+heirloom <> w: 87753
+heist <> w: 87755, p: [20784, 20675]
+helianthus <> w: 87787, p: [38955]
+helical <> w: 87795, p: [31502]
+helichrysum <> w: 87796
+helicoid <> w: 225097
+helicopter <> w: 87801, p: [49486]
+heliograph <> w: 87809
+heliosphere <> w: 87817
+heliotrope <> w: 87822
+helium <> w: 87830
+helix <> w: 87832, p: [26002, 30537]
+hell <> w: 87837, p: [23175, 48171]
+hell for leather <> p: [43998]
+hella <> w: 366503
+hellbender <> w: 88011
+hellish <> w: 88035
+hello <> w: 88038, p: [35651]
+helm <> w: 88039, p: [48757]
+helmet <> w: 88040, p: [20533]
+helmsman <> w: 88052
+help <> w: 88064, p: [49457, 27305, 21619, 27305, 49457, 48319]
+helper <> w: 88069
+helpful <> w: 88072, p: [17875, 27305]
+helpfully <> w: 88073, p: [43168]
+helpfulness <> w: 88074, p: [17875]
+helping <> w: 88075, p: [21326]
+helpless <> w: 88077, p: [60470]
+helplessly <> w: 88078, p: [49962]
+helpline <> w: 208608
+helter-skelter <> w: 88084
+hem <> w: 88097, p: [25499]
+hem and haw <> p: [44446]
+hematocrit <> w: 88120
+hematologist <> w: 88130
+hematology <> w: 88131
+hemicycle <> w: 88154, p: [25978]
+hemisphere <> w: 88186, p: [25948, 30499, 25948]
+hemistich <> w: 221982
+hemline <> w: 88193
+hemlock <> w: 88194
+hemodialysis <> w: 88200
+hemoglobin <> w: 88206
+hemophilia <> w: 88215
+hemorrhage <> w: 88224, p: [18990, 18990]
+hemorrhoid <> w: 88230
+hemorrhoids <> w: 209910
+hemp <> w: 88240, p: [21963]
+hen <> w: 88249, p: [48607, 48607]
+hen party <> w: 88255, p: [21979]
+hence <> w: 88259
+henceforth <> w: 88260
+henchman <> w: 88262
+hendecagon <> w: 208511, p: [30022]
+henge <> w: 365471
+henhouse <> w: 88270, p: [30299]
+henna <> w: 88271, p: [26204]
+hepatitis <> w: 88365
+heptad <> w: 88383, p: [35952]
+heptagon <> w: 88385, p: [26076]
+heptahedron <> w: 217903, p: [35561]
+heptathlon <> w: 226880
+her <> w: 210156, p: [37257, 37267]
+herald <> w: 88394
+herb <> w: 88401, p: [21414]
+herb tea <> p: [21881]
+herbaceous <> w: 88414
+herbal <> w: 88417, p: [21881]
+herbalism <> w: 209945
+herbalist <> w: 88421
+herbarium <> w: 88422
+herbicide <> w: 88513
+herbivore <> w: 88514, p: [30780]
+herbivorous <> w: 88515, p: [30780]
+herculean <> w: 88519
+hercules <> w: 88520
+herd <> w: 88525, p: [31373]
+here <> w: 88529, p: [49840]
+hereabouts <> w: 88533, p: [48369]
+hereafter <> w: 88534, p: [17360]
+hereby <> w: 88535
+hereditament <> w: 88537
+hereditary <> w: 88539, p: [40247]
+heredity <> w: 88545
+herein <> w: 88547
+heresy <> w: 88553
+heretic <> w: 88554
+heretical <> w: 88555
+heretofore <> w: 88557, p: [48927]
+heritage <> w: 88562
+hermaphrodite <> w: 88588
+hermes <> w: 88595
+hermetic <> w: 88596
+hermit <> w: 88600
+hermit crab <> w: 88601, p: [25723]
+hermitage <> w: 88603
+hernia <> w: 88613
+hero <> w: 88616, p: [29661, 22435, 31117]
+heroic <> w: 88626, p: [29661]
+heroic couplet <> w: 88627
+heroically <> w: 88636, p: [44372]
+heroin <> w: 88638
+heroine <> w: 88641, p: [22437]
+heroism <> w: 88642
+heron <> w: 88643, p: [24739]
+herpes <> w: 88647
+herpetologist <> w: 88664
+herpetology <> w: 88665
+herring <> w: 88671, p: [24653]
+herring gull <> w: 88672, p: [24743]
+hers <> w: 219331, p: [37257]
+herself <> w: 217411
+hertz <> w: 88683
+hesitancy <> w: 88690
+hesitant <> w: 88691, p: [60451]
+hesitantly <> w: 88692, p: [49604]
+hesitate <> w: 88693
+hesitating <> w: 88695, p: [49604]
+hesitatingly <> w: 88696
+hesitation <> w: 88697
+heterodox <> w: 88728
+heterodoxy <> w: 88729
+heterogeneity <> w: 88734
+heterogeneous <> w: 88735, p: [46249]
+heterosexual <> w: 88765, p: [45299]
+heterotroph <> w: 88780
+heterozygote <> w: 88783
+hew <> w: 88797, p: [46577]
+hex <> w: 88801
+hexad <> w: 88805, p: [35950]
+hexadecimal <> w: 88807
+hexagon <> w: 88813, p: [25954]
+hexagonal <> w: 88814, p: [25954]
+hexagram <> w: 88815, p: [26078]
+hexahedron <> w: 88819, p: [25990]
+hexameter <> w: 88823
+hexapod <> w: 88832
+hey <> w: 210174, p: [35653]
+hey presto <> w: 226058, p: [48797]
+heyday <> w: 88838
+hi <> w: 88849
+hi-tech <> w: 88851
+hiatus <> w: 88853
+hibachi <> w: 88857, p: [37437, 37437]
+hibernate <> w: 88861, p: [32628]
+hibernating <> w: 88862, p: [32628]
+hibernation <> w: 88863, p: [32628]
+hibiscus <> w: 88865, p: [31875]
+hiccup <> w: 88881, p: [59052]
+hickey <> w: 88884, p: [29677]
+hickory <> w: 88886, p: [35547]
+hidden <> w: 88891, p: [18121]
+hide <> w: 88896, p: [18093, 18121, 30826]
+hide-and-seek <> w: 88897, p: [51731]
+hide-out <> p: [18121]
+hideaway <> w: 89003
+hidebound <> w: 89004
+hideous <> w: 89006, p: [45814]
+hideously <> w: 89007, p: [45816]
+hie <> w: 89015, p: [21438]
+hierarchal <> w: 89023, p: [50037]
+hierarchic <> w: 89024, p: [50037]
+hierarchical <> w: 89025, p: [50037]
+hierarchically <> w: 89030, p: [50037]
+hierarchy <> w: 89031, p: [50037]
+hieroglyph <> w: 89036
+hieroglyphic <> w: 89037
+higgledy-piggledy <> w: 89046
+high <> w: 89047, p: [51284, 60770, 46285, 49810, 28774]
+high and dry <> p: [40795]
+high beam <> w: 89127
+high chair <> p: [28321]
+high fashion <> p: [34035]
+high fidelity <> w: 89143
+high heels <> w: 208541, p: [25605]
+high jump <> w: 89156
+high noon <> p: [51540]
+high profile <> w: 89165
+high relief <> w: 89167
+high roller <> w: 89169, p: [41550]
+high school <> w: 89170, p: [28774]
+high season <> w: 89172, p: [31568]
+high street <> w: 89180
+high tea <> w: 89183, p: [51220]
+high technology <> w: 89185
+high tide <> w: 89187
+high-class <> w: 89055
+high-flown <> w: 89063
+high-heeled <> p: [25176]
+high-level <> w: 89071
+high-minded <> w: 89077
+high-pitched <> w: 89085
+high-powered <> w: 89088
+high-pressure <> w: 89089
+high-ranking <> w: 89093
+high-rise <> w: 89095, p: [21086, 21086]
+high-risk <> w: 89096
+high-sounding <> w: 89097
+high-speed <> w: 89098, p: [48413]
+high-spirited <> w: 89100
+high-strung <> w: 89105
+high-tech <> w: 89108, p: [32010]
+high-top <> p: [25617]
+high-tops <> p: [25617]
+highball <> w: 89194
+highbrow <> w: 89200
+higher <> w: 89204
+higher education <> w: 89209, p: [31592]
+higher-up <> w: 89206
+highland <> w: 89224, p: [18896, 18896]
+highlands <> w: 89228
+highlight <> w: 89231, p: [26156, 52835, 26156]
+highlighter <> w: 89232, p: [51530, 51906]
+highly <> w: 89234
+highway <> w: 89247, p: [17192]
+hijab <> w: 89254, p: [24924]
+hijack <> w: 89255, p: [37039, 37039]
+hijacker <> w: 89256, p: [37039]
+hijacking <> w: 89257, p: [37039]
+hike <> w: 89260, p: [49459, 49459]
+hiker <> w: 89262, p: [49459]
+hiking <> w: 89263, p: [49459]
+hilarious <> w: 89267, p: [45906]
+hilariously <> w: 89268, p: [44772]
+hill <> w: 89275, p: [49389]
+hillbilly <> w: 89278
+hillock <> w: 89282
+hillside <> w: 89283
+hilly <> w: 89285, p: [49389]
+hilum <> w: 89288
+him <> w: 216623, p: [37255]
+himself <> w: 217410
+hind <> w: 89314
+hinder <> w: 89321, p: [52491]
+hindmost <> w: 89330
+hindquarters <> w: 89336, p: [30888, 33467]
+hindrance <> w: 89337
+hindsight <> w: 89339
+hinge <> w: 89351
+hinge on <> p: [52847]
+hinny <> w: 89356
+hint <> w: 89357, p: [58163, 21050]
+hip <> w: 89359, p: [18523, 37427, 18982]
+hip bath <> p: [34979]
+hipbone <> w: 89371, p: [30287]
+hippie <> w: 89382
+hippocampus <> w: 89504
+hippopotamus <> w: 89521, p: [24180]
+hire <> w: 89536, p: [16397, 18263]
+hirsute <> w: 89554, p: [19789]
+hirsuteness <> w: 89555, p: [19789]
+hirsutism <> w: 89556, p: [19789]
+his <> w: 210157, p: [37259]
+hiss <> w: 89573, p: [47604]
+hissing <> w: 89575
+hissy fit <> p: [52143]
+histamine <> w: 89577
+histogram <> w: 89587
+histology <> w: 89593
+histone <> w: 89594
+historian <> w: 89595
+historic <> w: 89596, p: [51404]
+historical <> w: 89598, p: [51404, 26415]
+historically <> w: 89605
+historiography <> w: 89610
+history <> w: 89611, p: [49195, 49195]
+histrionic <> w: 89615
+histrionics <> w: 89616
+hit <> w: 89617, p: [21230, 20786, 43476, 51592, 17216, 61262]
+hit home <> p: [45022]
+hit out <> p: [21230]
+hit the bottle <> p: [18307]
+hit the hay <> p: [21212]
+hit the roof <> p: [60628]
+hit the sack <> p: [21212]
+hit-and-miss <> w: 211535
+hit-out <> p: [21230]
+hitch <> w: 89635, p: [46459]
+hitchhike <> w: 89638, p: [46938]
+hitchhiker <> w: 89639
+hitchhiking <> w: 210223
+hither <> w: 89645
+hitherto <> w: 89647, p: [48927]
+hitter <> w: 89652, p: [51474]
+hitting <> w: 89653
+hiv <> w: 89656
+hive <> w: 89657, p: [30828]
+hives <> w: 89661
+hiya <> w: 211826, p: [35653]
+hmm <> w: 226063, p: [48789]
+ho-hum <> w: 89675, p: [17851]
+hoagie <> w: 89679, p: [31117]
+hoar <> w: 89684, p: [31675, 19783]
+hoard <> w: 89685, p: [48261]
+hoarding <> w: 89688
+hoarfrost <> w: 89689, p: [31675]
+hoarse <> w: 89691
+hoary <> w: 89694, p: [20277, 19973]
+hoax <> w: 89704, p: [49640]
+hob <> w: 89706, p: [26672]
+hobbit <> w: 89709
+hobble <> w: 89710
+hobble skirt <> p: [42936]
+hobby <> w: 89715, p: [49169, 32042]
+hobbyhorse <> w: 89716, p: [32042]
+hobbyist <> w: 89718
+hobnob <> w: 89722, p: [47232]
+hobo <> w: 89723, p: [20229]
+hock <> w: 89726, p: [30750]
+hockey <> w: 89728, p: [39207, 39171]
+hocus-pocus <> w: 89739, p: [23577]
+hod <> w: 89740
+hodgepodge <> w: 89744, p: [39039]
+hoe <> w: 89752, p: [41232]
+hoecake <> w: 89754
+hoedown <> w: 220920
+hog <> w: 89761, p: [50170]
+hoggish <> w: 89783
+hognose snake <> p: [23719]
+hogwash <> w: 89790
+hoist <> w: 89800, p: [46846, 40841]
+hoity-toity <> w: 89802
+hokum <> w: 89808
+hold <> w: 89821, p: [60821, 36995, 19366, 28109, 44430, 61162, 47472, 36952]
+hold back <> p: [44148]
+hold forth <> p: [42268]
+hold off <> p: [47292, 59626]
+hold on <> p: [52797, 42966]
+hold on to <> p: [60821]
+hold out <> p: [52161, 42968]
+hold the fort <> p: [41636]
+hold up <> p: [51858]
+hold water <> p: [44766]
+hold-up <> w: 227773
+holdall <> w: 90019, p: [22305]
+holder <> w: 90020
+holding <> w: 90022
+holdup <> w: 90032, p: [20784, 23123]
+hole <> w: 90034, p: [26459]
+hole saw <> p: [41226]
+hole up <> p: [46352, 32628]
+hole-and-corner <> p: [49896]
+hole-in-the-wall <> w: 90037
+holiday <> w: 90043, p: [17767, 28922, 17767]
+holidaymaker <> w: 90046, p: [15855]
+holism <> w: 90049
+holistic <> w: 90050
+hollandaise sauce <> p: [30992]
+holler <> w: 90059, p: [17119, 61152]
+hollow <> w: 90066, p: [22893, 46788]
+holocaust <> w: 90091
+hologram <> w: 90103
+holographic <> w: 90105
+holography <> w: 90107
+holophrasis <> w: 208755
+holstein <> w: 90124, p: [51358]
+holt <> w: 220448
+holy <> w: 90127, p: [23533]
+holy terror <> p: [37045]
+homage <> w: 90167
+homburg <> w: 90174, p: [25609]
+home <> w: 90175, p: [48505, 30094, 19532, 43388]
+home base <> w: 90188
+home brew <> w: 90189
+home economics <> w: 90195
+home page <> w: 90213, p: [17797]
+home plate <> w: 90214
+home run <> w: 90220
+home straight <> p: [43204]
+home stretch <> w: 219796, p: [43204]
+homebound <> w: 90229
+homeboy <> w: 90230
+homecoming <> w: 90233, p: [22692]
+homegirl <> w: 90236
+homegrown <> w: 90237
+homeland <> w: 90239
+homeless <> w: 90241, p: [20229]
+homelessness <> w: 90243, p: [20231]
+homely <> w: 90246, p: [28830]
+homemade <> w: 90247, p: [45583]
+homemaker <> w: 90248, p: [51422]
+homeopath <> w: 90252
+homeopathic <> w: 90253
+homeopathy <> w: 90254
+homeostasis <> w: 90255
+homeowner <> w: 90261
+homepage <> w: 90262, p: [20309]
+homer <> w: 90263
+homesick <> w: 90269
+homesickness <> w: 90270
+homestead <> w: 90272, p: [19592]
+hometown <> w: 90276
+homework <> w: 90280, p: [49183]
+homey <> w: 90282
+homicide <> w: 90284
+homily <> w: 90288
+homing pigeon <> w: 90292, p: [18023]
+hominid <> w: 90295
+homocentric <> w: 90313, p: [31458]
+homogeneity <> w: 90324
+homogeneous <> w: 90325, p: [46253]
+homogenize <> w: 90333
+homogenous <> w: 90336, p: [46253]
+homograph <> w: 90340
+homologous <> w: 90349
+homonym <> w: 90356
+homonymy <> w: 90502
+homophobia <> w: 90505
+homophone <> w: 90507
+homophony <> w: 90510
+homosexual <> w: 90514, p: [45301]
+homozygote <> w: 90525
+homy <> w: 90528
+hone <> w: 90538, p: [51900, 46882]
+honest <> w: 90540, p: [19270]
+honestly <> w: 90544, p: [19270, 19270]
+honesty <> w: 90546
+honey <> w: 90547, p: [39049, 39049]
+honey badger <> p: [34439]
+honeybee <> w: 90569, p: [39257]
+honeycomb <> w: 90571, p: [22758]
+honeydew <> w: 90575, p: [50463, 38603]
+honeydew melon <> w: 90576, p: [50463]
+honeyed <> w: 90577
+honeymoon <> w: 90581, p: [29924]
+honeymooner <> w: 90583, p: [29924]
+honeysucker <> w: 90585
+honeysuckle <> w: 90586, p: [29900]
+honk <> w: 90592, p: [35850, 26300]
+honker <> w: 90593
+honking <> w: 229156
+honor <> w: 90600, p: [58607]
+honorable <> w: 90604, p: [45255]
+honorably <> w: 90608, p: [45255]
+honorarium <> w: 90609
+honored <> w: 90617, p: [45375]
+honors <> w: 226505
+hooch <> w: 90632
+hood <> w: 90633, p: [21342, 20513, 18802, 54513]
+hooded <> w: 216770
+hoodie <> w: 208521, p: [50960]
+hoodwink <> w: 90649, p: [44694]
+hoof <> w: 90651, p: [29737]
+hook <> w: 90662, p: [58293]
+hook and eye <> w: 90665, p: [33453]
+hook up <> p: [32002, 51844, 51824]
+hook-up <> p: [32002, 51844, 51824]
+hooked <> w: 90677, p: [45499]
+hooker <> w: 90678
+hookworm <> w: 90687, p: [30782]
+hooliganism <> w: 90692, p: [20802]
+hoop <> w: 90693, p: [51450, 25323]
+hooped <> w: 367580
+hoopoe <> w: 90698, p: [24741]
+hoops <> w: 90700, p: [28756]
+hooray <> w: 90702, p: [42566]
+hoot <> w: 90708
+hooter <> w: 90711, p: [50655, 50221, 35730]
+hoover <> w: 90713, p: [50763, 21116]
+hop <> w: 90715, p: [21901, 34353]
+hope <> w: 90728, p: [59600, 49205, 43228]
+hopeful <> w: 90731, p: [19616]
+hopefully <> w: 90732
+hopefulness <> w: 90733
+hopeless <> w: 90736, p: [49233]
+hopelessly <> w: 90737, p: [49233]
+hopelessness <> w: 90738
+hopping mad <> p: [42582]
+hopscotch <> w: 90749, p: [51735]
+hora <> w: 220600
+horde <> w: 90761
+horizon <> w: 90769, p: [31713]
+horizontal <> w: 90770, p: [22895]
+horizontally <> w: 90781, p: [48441]
+hormonal <> w: 90782
+hormone <> w: 90783
+horn <> w: 90786, p: [29739, 35730, 51763, 27556]
+hornbeam <> w: 90795
+hornbill <> w: 90796, p: [24745]
+horned <> w: 90800
+horned owl <> p: [25833]
+hornet <> w: 90818, p: [25289]
+hornpipe <> w: 90827
+horny <> w: 91006
+horology <> w: 91013, p: [32604]
+horoscope <> w: 91014
+horrendous <> w: 91017, p: [28301]
+horrendously <> w: 225424, p: [49227]
+horrible <> w: 91018, p: [27295, 19414]
+horribly <> w: 91019, p: [49227]
+horrid <> w: 91020
+horridly <> w: 91021
+horrific <> w: 91023, p: [28301]
+horrifically <> w: 225434, p: [45816]
+horrified <> w: 91024
+horrify <> w: 91025, p: [42780]
+horrifying <> w: 91026, p: [28301]
+horrifyingly <> w: 91027, p: [45816]
+horror <> w: 91030, p: [52103, 22407]
+horror film <> w: 216921, p: [22407]
+horror story <> w: 208934, p: [22407]
+horror-struck <> w: 91032
+hors d'oeuvre <> w: 91033, p: [29601]
+horse <> w: 91034, p: [50136, 29998]
+horse mackerel <> p: [24699, 24699]
+horse opera <> p: [19092]
+horse racing <> w: 91075, p: [40023]
+horse sense <> p: [23051]
+horseback <> w: 91084, p: [51580]
+horsebean <> w: 91087, p: [26572]
+horseflesh <> w: 91092, p: [36232]
+horsefly <> w: 91093, p: [34720]
+horsemanship <> w: 91104, p: [51580]
+horsemeat <> w: 91105, p: [36232]
+horsepower <> w: 91109
+horseradish <> w: 91111, p: [26824]
+horseshit <> w: 91115
+horseshoe <> w: 91116
+horseshoes <> w: 91124
+horsey <> w: 229068
+horticulture <> w: 91143
+hose <> w: 91147, p: [32120, 34869, 34235]
+hosepipe <> w: 91150, p: [32120]
+hosiery <> w: 91152, p: [34875]
+hospice <> w: 91154
+hospitable <> w: 91155, p: [19312]
+hospital <> w: 91158, p: [51546]
+hospitalisation <> w: 91168, p: [26868]
+hospitalization <> w: 91171, p: [26868]
+hospitalize <> w: 91173, p: [26868]
+host <> w: 91174, p: [21619, 19773, 19500, 21619]
+hostage <> w: 91177, p: [37019]
+hostel <> w: 91178, p: [19020]
+hostelry <> w: 91180
+hostess <> w: 91181, p: [47522]
+hostile <> w: 91182, p: [27283]
+hostility <> w: 91189
+hot <> w: 91191, p: [48658, 15841]
+hot cake <> w: 91209, p: [19132]
+hot cross bun <> p: [31129]
+hot dog <> w: 91213, p: [27952, 27175, 42564]
+hot pants <> w: 91220, p: [33946]
+hot rod <> w: 91225
+hot spring <> w: 91230
+hot stuff <> p: [16274]
+hot to trot <> p: [42864]
+hot tub <> w: 91237, p: [28608]
+hot under the collar <> p: [52145]
+hot-air balloon <> w: 91192, p: [23115]
+hot-blooded <> w: 91193
+hot-cross bun <> p: [31129]
+hot-tempered <> w: 91199, p: [29669]
+hot-water bottle <> p: [33342]
+hotel <> w: 91252, p: [49173]
+hotfoot <> w: 91265, p: [21438, 22339]
+hothead <> w: 91267
+hotheaded <> w: 91268
+hothouse <> w: 91269
+hotline <> w: 209695
+hotly <> w: 91271, p: [44660]
+hotness <> w: 91272, p: [51400]
+hotplate <> w: 91273, p: [30764]
+hotshot <> w: 91275
+hotspot <> w: 91276, p: [20145]
+hottie <> w: 208441, p: [49153]
+hound <> w: 91294, p: [24136, 48329]
+hour <> w: 91299, p: [51536]
+hourglass <> w: 91303
+hourly <> w: 91307, p: [51190, 51190]
+hours <> w: 91308
+house <> w: 91311, p: [22179, 60845, 44966, 22363]
+house agent <> w: 91318, p: [31761]
+house arrest <> w: 91319
+house guest <> w: 91327, p: [20297]
+house martin <> w: 91329, p: [24747]
+house mouse <> p: [50182]
+house music <> p: [28215]
+house of cards <> w: 91332
+house sparrow <> p: [24749]
+house-trained <> w: 91317
+house-warming <> w: 91541
+houseboat <> w: 91504, p: [20980]
+housebroken <> w: 91509
+housebuilder <> w: 91510, p: [51418]
+housecoat <> w: 91513
+housefly <> w: 91517
+houseguest <> w: 91519, p: [20297]
+household <> w: 91520, p: [60845]
+household name <> p: [28447]
+housekeeper <> w: 91527, p: [19314]
+housekeeping <> w: 91528, p: [21108]
+houselights <> w: 91529
+housemaid <> w: 91530, p: [19314]
+housemate <> w: 91534, p: [35884]
+houseplant <> w: 91537, p: [32770]
+housewife <> w: 91542, p: [51422]
+housework <> w: 91545, p: [21108]
+housing <> w: 91547, p: [19208]
+housing estate <> w: 91551, p: [21078]
+hovel <> w: 91561
+hover <> w: 91562, p: [34355]
+hovercraft <> w: 91563, p: [29551]
+how <> w: 208341, p: [49726]
+how dare you <> p: [48467]
+how-do-you-do <> p: [35651]
+howdy <> w: 91574, p: [35651, 35651]
+however <> w: 91577
+howitzer <> w: 91578, p: [36846]
+howl <> w: 91579, p: [29643, 29643]
+howler <> w: 91580, p: [34183]
+howling <> w: 91582, p: [49588]
+hr <> w: 91592, p: [51536]
+hub <> w: 91621
+hubby <> w: 91637, p: [60863]
+hubcap <> w: 91638
+hubris <> w: 91640
+huckleberry <> w: 91644, p: [50429]
+huckster <> w: 91647
+huddle <> w: 91650, p: [51737]
+hue <> w: 91667
+hue and cry <> w: 91668
+huff <> w: 91670
+huffy <> w: 91676
+hug <> w: 91677, p: [19366, 19366]
+huge <> w: 91680, p: [23559]
+hugely <> w: 91681, p: [45774]
+hugger-mugger <> p: [49896]
+huh <> w: 225909
+hula <> w: 91706
+hula hoop <> w: 210154
+hulking <> w: 91711
+hull <> w: 91713, p: [37822, 37822]
+hullo <> w: 91715, p: [35653]
+hum <> w: 91719, p: [47606, 58794]
+human <> w: 91721, p: [26720]
+human being <> p: [26720]
+human nature <> w: 91746
+human race <> w: 91751, p: [27311]
+human resources <> w: 210242, p: [39255]
+humane <> w: 91758, p: [17879]
+humanism <> w: 91763
+humanist <> w: 91764
+humanistic <> w: 91765
+humanitarian <> w: 91767
+humanities <> w: 91769
+humanity <> w: 91770, p: [27311]
+humanize <> w: 91772
+humankind <> w: 91773, p: [27311]
+humanoid <> w: 91777
+humans <> w: 91778, p: [27311]
+humble <> w: 91782, p: [29663, 49964, 46388]
+humbleness <> w: 91786
+humbly <> w: 91788, p: [50152]
+humbug <> w: 91791
+humdrum <> w: 91793
+humectant <> w: 91797
+humerus <> w: 91799
+humid <> w: 91804, p: [18471]
+humidifier <> w: 91805, p: [33344]
+humidity <> w: 91807, p: [22618]
+humiliate <> w: 91812, p: [46388]
+humiliated <> w: 91813, p: [19596]
+humiliating <> w: 91814, p: [46388]
+humiliation <> w: 91816, p: [52157]
+humility <> w: 91817
+humming <> w: 91820
+hummingbird <> w: 91823, p: [50219]
+hummock <> w: 91825
+hummus <> w: 91826, p: [31119]
+humongous <> w: 91827, p: [23559]
+humor <> w: 91828
+humorist <> w: 91832
+humorous <> w: 91835
+humorously <> w: 91836, p: [17855]
+hump <> w: 91844, p: [29741]
+humpback whale <> w: 91846, p: [24182]
+humph <> w: 225917, p: [19380]
+humus <> w: 91860, p: [31119]
+hunch <> w: 91865, p: [22931]
+hundred <> w: 92005, p: [36208]
+hundredth <> w: 92030
+hunger <> w: 92043, p: [59642, 17651]
+hungrily <> w: 92047
+hungry <> w: 92049, p: [29338]
+hunk <> w: 92050, p: [21899]
+hunker <> w: 92051, p: [22963]
+hunky <> w: 208442, p: [21899]
+hunky-dory <> w: 92054
+hunt <> w: 92057, p: [39619, 61148, 18868, 39619]
+hunter <> w: 92062, p: [18868]
+hunting <> w: 92066, p: [18868, 39619]
+hunting dog <> p: [24056]
+huntsman <> w: 92088, p: [18868]
+hurdle <> w: 92096
+hurdler <> w: 92098
+hurdles <> w: 92099
+hurdling <> w: 92100
+hurdy-gurdy <> w: 92101, p: [27652]
+hurl <> w: 92103, p: [17579, 26300]
+hurling <> w: 92107
+hurricane <> w: 92112, p: [39621]
+hurried <> w: 92118
+hurriedly <> w: 92119, p: [22339]
+hurry <> w: 92121, p: [21438, 22339]
+hurry up <> p: [22339]
+hurry-up <> p: [22339]
+hurt <> w: 92123, p: [39339, 51600, 54432, 27929]
+hurtful <> w: 92124, p: [19414]
+hurtle <> w: 92126, p: [44230]
+husband <> w: 92130, p: [60863]
+husbandry <> w: 92134, p: [19058]
+hush <> w: 92135, p: [23101]
+hush money <> w: 92137, p: [43933]
+hush puppy <> w: 92138, p: [37594]
+hush-hush <> w: 92136, p: [49896]
+hushed <> w: 92140, p: [46273]
+husk <> w: 92144
+husky <> w: 92150, p: [24144]
+hustle <> w: 92159, p: [44008]
+hut <> w: 92162, p: [18253]
+hutch <> w: 92163, p: [34500]
+hutia <> w: 220384, p: [40045]
+hyaena <> w: 92185, p: [24184]
+hybrid <> w: 92207, p: [33633]
+hybridize <> w: 92214
+hydra <> w: 92233
+hydrant <> w: 92244, p: [19030]
+hydrate <> w: 92249, p: [48573]
+hydrated <> w: 92250
+hydration <> w: 92255
+hydraulic <> w: 92256
+hydraulics <> w: 92270
+hydro <> w: 366835
+hydrocarbon <> w: 92286
+hydrocele <> w: 92287
+hydrodynamics <> w: 92311
+hydroelectric <> w: 92312, p: [21159]
+hydroelectricity <> w: 92314, p: [21159]
+hydrofoil <> w: 92319
+hydrogen <> w: 92321
+hydrogen peroxide <> w: 92335, p: [26154]
+hydroid <> w: 92342
+hydrologist <> w: 92349
+hydrology <> w: 92350
+hydrometer <> w: 92362
+hydrometry <> w: 92364
+hydrophilic <> w: 92373
+hydrophobic <> w: 92375
+hydroponics <> w: 92508
+hydropower <> w: 209063
+hydrosphere <> w: 92510
+hydrostatics <> w: 92513
+hydrotherapy <> w: 92514
+hydrothermal <> w: 365418
+hydrous <> w: 92516
+hyena <> w: 92540, p: [24184]
+hygiene <> w: 92543
+hygienist <> w: 92549
+hyla <> w: 92574
+hymen <> w: 92594
+hymn <> w: 92615
+hymnbook <> w: 92618
+hype <> w: 92633, p: [59036]
+hyped <> w: 366758
+hyperactivity <> w: 92640
+hyperbola <> w: 92653
+hyperbole <> w: 92654
+hyperbolic <> w: 92655
+hyperboloid <> w: 92660, p: [35563]
+hypercorrection <> w: 223571
+hypercritical <> w: 92676
+hyperglycaemia <> w: 92686
+hypermarket <> w: 92719, p: [27045]
+hypernym <> w: 92730
+hyperrealism <> w: 208809, p: [25437]
+hypersensitive <> w: 92752, p: [31552]
+hyperspace <> w: 211243
+hypertension <> w: 92760
+hypertext <> w: 92762
+hyperventilate <> w: 92780
+hypha <> w: 92787
+hyphen <> w: 92791, p: [27467]
+hyphenate <> w: 92792
+hyphenation <> w: 92793
+hypnosis <> w: 92803
+hypnotherapist <> w: 209946
+hypnotherapy <> w: 92804
+hypnotic <> w: 92805
+hypnotism <> w: 92811
+hypnotist <> w: 92812
+hypnotize <> w: 92813
+hypochondria <> w: 92833
+hypochondriac <> w: 92834
+hypocorism <> w: 92840
+hypocrisy <> w: 92843
+hypocrite <> w: 92844
+hypocritical <> w: 92845, p: [60364]
+hypodermic <> w: 92851, p: [25791]
+hypogeum <> w: 222205
+hypoglycaemia <> w: 92862
+hyponym <> w: 92874
+hyponymy <> w: 92875
+hypostyle <> w: 222207
+hypotenuse <> w: 92908
+hypothalamus <> w: 92913, p: [30423]
+hypothermia <> w: 92915
+hypothesis <> w: 92917
+hypothesize <> w: 92919, p: [59496]
+hypothetical <> w: 92921, p: [45830]
+hypothetically <> w: 92924
+hyrax <> w: 92953, p: [24186]
+hyssop <> w: 92955, p: [35336]
+hysterectomy <> w: 92960
+hysteria <> w: 93002
+hysteric <> w: 93003, p: [49768]
+hysterical <> w: 93004, p: [49768, 60482]
+hysterically <> w: 93006, p: [49768]

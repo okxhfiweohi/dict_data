@@ -1,0 +1,355 @@
+Q <> i: qing
+qa <> i: qaing
+qaing <> b: qa, f: i
+QC <> s: qcs
+qi <> s: qi, b: qi, f: s
+qing <> b: q, f: i
+quack <> s: quacks, p: quacked, i: quacking, '3': quacks, d: quacked
+quacked <> f: pd, b: quack
+quacking <> b: quack, f: i, s: quackings
+quacks <> b: quack, f: s3
+quad <> s: quads
+quadrangle <> s: quadrangles
+quadrangles <> b: quadrangle, f: s
+quadrant <> s: quadrants
+quadrants <> b: quadrant, f: s
+quadraphonic <> s: quadraphonics
+quadraphonics <> b: quadraphonic, f: s
+quadrat <> s: quadrats
+quadratic <> s: quadratics
+quadratics <> b: quadratic, f: s
+quadrats <> b: quadrat, f: s
+quadricep <> s: quadriceps
+quadriceps <> b: quadricep, f: s
+quadrilateral <> s: quadrilaterals
+quadrilaterals <> b: quadrilateral, f: s
+quadrille <> s: quadrilles
+quadrilles <> b: quadrille, f: s
+quadriplegic <> s: quadriplegics
+quadriplegics <> b: quadriplegic, f: s
+quadrivalent <> s: quadrivalents
+quadrivalents <> b: quadrivalent, f: s
+quadrophonic <> s: quadrophonics
+quadrophonics <> b: quadrophonic, f: s
+quadruped <> s: quadrupeds, p: quadruped, b: quadruped, f: p
+quadrupeds <> b: quadruped, f: s
+quadruple <> d: quadrupled, p: quadrupled, i: quadrupling, '3': quadruples
+quadrupled <> b: quadruple, f: dp
+quadruples <> b: quadruple, f: '3'
+quadruplet <> s: quadruplets
+quadruplets <> b: quadruplet, f: s
+quadruplicate <> d: quadruplicated, i: quadruplicating, p: quadruplicated, '3': quadruplicates
+quadruplicated <> f: dp, b: quadruplicate
+quadruplicates <> f: '3', b: quadruplicate
+quadruplicating <> f: i, b: quadruplicate
+quadrupling <> b: quadruple, f: i, i: quadrupling
+quadrupole <> s: quadrupoles
+quadrupoles <> b: quadrupole, f: s
+quads <> b: quad, f: s
+quaff <> p: quaffed, i: quaffing, '3': quaffs, d: quaffed
+quaffed <> b: quaff, f: pd
+quaffing <> b: quaff, f: i
+quaffs <> b: quaff, f: '3'
+quagmire <> s: quagmires
+quagmires <> b: quagmire, f: s
+Quai <> s: quai, b: quai, f: s
+quail <> s: quails, p: quailed, '3': quails, d: quailed, i: quailing
+quailed <> b: quail, f: pd
+quailing <> b: quail, f: i
+quails <> b: quail, f: s3
+quaint <> r: quainter
+quainter <> b: quaint, f: r
+quake <> i: quaking, s: quakes, p: quaked, '3': quakes, d: quaked
+quaked <> f: pd, b: quake
+quaker <> s: quakers
+quakes <> f: s3, b: quake
+quaking <> b: quake, f: i, i: quaking
+qualification <> s: qualifications
+qualifications <> b: qualification, f: s
+qualified <> b: qualify, f: dp, d: qualified, p: qualified
+qualifier <> s: qualifiers
+qualifiers <> b: qualifier, f: s
+qualifies <> b: qualify, f: '3'
+qualify <> d: qualified, p: qualified, '3': qualifies, i: qualifying
+qualifying <> b: qualify, f: i, i: qualifying
+qualities <> b: quality, f: s
+quality <> s: qualities
+qualm <> s: qualms
+qualms <> b: qualm, f: s
+quandaries <> b: quandary, f: s
+quandary <> s: quandaries
+quango <> s: quangos
+quangos <> b: quango, f: s
+quanta <> s: quantas
+quantas <> b: quanta, f: s
+quantification <> s: quantifications
+quantifications <> b: quantification, f: s
+quantified <> b: quantify, f: dp, d: quantified
+quantifier <> s: quantifiers
+quantifiers <> b: quantifier, f: s
+quantify <> d: quantified, i: quantifying, '3': quantifies, p: quantified
+quantile <> s: quantiles
+quantiles <> b: quantile, f: s
+quantitate <> d: quantitated, p: quantitated, i: quantitating
+quantitated <> b: quantitate, f: dp
+quantitating <> b: quantitate, f: i
+quantities <> b: quantity, f: s
+quantity <> s: quantities
+quantize <> d: quantized, i: quantizing, p: quantized, '3': quantizes
+quantized <> f: dp, b: quantize, p: quantized
+quantizes <> f: '3', b: quantize
+quantizing <> b: quantize, f: i
+quarantine <> d: quarantined, s: quarantines, p: quarantined, i: quarantining, '3': quarantines
+quarantined <> b: quarantine, f: dp
+quarantines <> f: s3, b: quarantine
+quarantining <> f: i, b: quarantine
+quark <> s: quarks, '3': quarks
+quarks <> b: quark, f: s3
+quarrel <> s: quarrels, p: quarrelled, i: quarrelling, d: quarrelled, '3': quarrels
+quarrelled <> b: quarrel, f: pd
+quarrelling <> b: quarrel, f: i, i: quarrelling
+quarrels <> f: s3, b: quarrel
+quarried <> b: quarry, f: dp, p: quarried
+quarry <> s: quarries, i: quarrying, d: quarried, p: quarried, '3': quarries
+quarrying <> b: quarry, f: i, i: quarrying
+quarryman <> s: quarrymen
+quarrymen <> b: quarryman, f: s
+quart <> s: quarts
+quartan <> s: quartans
+quartans <> b: quartan, f: s
+quarter <> s: quarters, d: quartered, i: quartering, p: quartered, '3': quarters
+quarter-final <> s: quarter-finals
+quarter-finalist <> s: quarter-finalists
+quarter-finalists <> b: quarter-finalist, f: s
+quarter-finals <> b: quarter-final, f: s
+quarter-light <> s: quarter-lights
+quarter-lights <> b: quarter-light, f: s
+quarterback <> s: quarterbacks
+quarterbacks <> b: quarterback, f: s
+quarterdeck <> s: quarterdecks
+quarterdecks <> b: quarterdeck, f: s
+quartered <> f: dp, b: quarter
+quarterfinal <> s: quarterfinals
+quarterfinals <> b: quarterfinal, f: s
+quartering <> b: quarter, f: i, s: quarterings
+quarterings <> b: quartering, f: s
+quarterlies <> b: quarterly, f: s
+quarterly <> s: quarterlies
+quartermaster <> s: quartermasters
+quartermasters <> b: quartermaster, f: s
+quarters <> f: s3, b: quarter
+quartet <> s: quartets
+quartets <> b: quartet, f: s
+quartier <> s: quartiers
+quartiers <> b: quartier, f: s
+quartile <> s: quartiles
+quartiles <> b: quartile, f: s
+quarto <> s: quartos
+quartos <> b: quarto, f: s
+quarts <> b: quart, f: s
+quartzite <> s: quartzites
+quartzites <> b: quartzite, f: s
+quasar <> s: quasars
+quasars <> b: quasar, f: s
+quash <> d: quashed, p: quashed, i: quashing, '3': quashes, s: quashes
+quashed <> b: quash, f: dp
+quashes <> b: quash, f: 3s
+quashing <> b: quash, f: i, i: quashing
+quasi-contract <> s: quasi-contracts
+quasi-contracts <> b: quasi-contract, f: s
+quasiparticle <> s: quasiparticles
+quasiparticles <> b: quasiparticle, f: s
+quaternion <> s: quaternions
+quaternions <> b: quaternion, f: s
+quatrain <> s: quatrains
+quatrains <> b: quatrain, f: s
+quatrefoil <> s: quatrefoils
+quatrefoils <> b: quatrefoil, f: s
+quaver <> s: quavers, p: quavered, i: quavering, '3': quavers, d: quavered
+quavered <> f: pd, b: quaver
+quavering <> b: quaver, f: i, i: quavering
+quavers <> b: quaver, f: s3
+quay <> s: quays
+quays <> b: quay, f: s
+quayside <> s: quaysides
+quaysides <> b: quayside, f: s
+que <> i: quing, s: ques
+queasier <> b: queasy, f: r
+queasy <> r: queasier
+Quebecker <> s: quebeckers
+queen <> s: queens, i: queening, p: queened, '3': queens, d: queened
+queened <> f: pd, b: queen
+queening <> f: i, b: queen
+queens <> f: s3, b: queen
+queer <> s: queers, t: queerest, i: queering, r: queerer, '3': queers, d: queered, p: queered
+queered <> f: dp, b: queer
+queerer <> b: queer, f: r
+queerest <> b: queer, f: t
+queering <> b: queer, f: i
+queers <> b: queer, f: s3
+quell <> d: quelled, i: quelling, p: quelled, '3': quells
+quelled <> b: quell, f: dp
+quelling <> b: quell, f: i, i: quelling
+quells <> b: quell, f: '3'
+quench <> i: quenching, d: quenched, p: quenched, '3': quenches
+quenched <> b: quench, f: dp
+quencher <> s: quenchers
+quenchers <> b: quencher, f: s
+quenches <> b: quench, f: '3'
+quenching <> b: quench, f: i, i: quenching
+quenelle <> s: quenelles
+quenelles <> b: quenelle, f: s
+queried <> b: query, f: pd, p: queried
+queries <> b: query, f: s3
+quern <> s: querns
+querns <> b: quern, f: s
+query <> s: queries, p: queried, d: queried, i: querying, '3': queries
+querying <> b: query, f: i
+ques <> b: que, f: s
+quest <> s: quests, i: questing, p: quested, d: quested, '3': quests
+quested <> b: quest, f: pd
+quester <> s: questers
+questers <> b: quester, f: s
+questing <> b: quest, f: i, i: questing
+question <> s: questions, d: questioned, p: questioned, i: questioning, '3': questions
+questioned <> b: question, f: dp, d: questioned, p: questioned
+questioner <> s: questioners
+questioners <> b: questioner, f: s
+questioning <> b: question, f: i, i: questioning, s: questionings
+questionnaire <> s: questionnaires
+questionnaires <> b: questionnaire, f: s
+questions <> b: question, f: s3
+questor <> s: questors
+questors <> b: questor, f: s
+quests <> f: s3, b: quest
+quetzal <> s: quetzals
+quetzals <> b: quetzal, f: s
+queue <> s: queues, i: queuing, p: queued, d: queued, '3': queues
+queued <> b: queue, f: pd
+queues <> f: s3, b: queue
+queuing <> b: queue, f: i, i: queuing
+quibble <> s: quibbles, i: quibbling, p: quibbled, '3': quibbles, d: quibbled
+quibbled <> f: pd, b: quibble
+quibbles <> f: s3, b: quibble
+quibbling <> b: quibble, f: i, i: quibbling
+quich <> s: quiches
+quiches <> b: quich, f: s
+quick <> r: quicker, t: quickest
+quick-freeze <> i: quick-freezing, p: quick-froze, '3': quick-freezes, d: quick-frozen
+quicken <> p: quickened, '3': quickens, d: quickened, i: quickening
+quickened <> b: quicken, f: pd, d: quickened
+quickening <> b: quicken, f: i, i: quickening, s: quickenings
+quickens <> b: quicken, f: '3'
+quicker <> b: quick, f: r
+quickest <> b: quick, f: t
+quicksand <> s: quicksands
+quicksands <> b: quicksand, f: s
+quickstep <> p: quickstepped, i: quickstepping, s: quicksteps, '3': quicksteps, d: quickstepped
+quickstepped <> f: pd, b: quickstep
+quickstepping <> b: quickstep, f: i
+quicksteps <> f: s3, b: quickstep
+quid <> s: quids
+quiddities <> b: quiddity, f: s
+quiddity <> s: quiddities
+quids <> b: quid, f: s
+quiet <> r: quieter, t: quietest, p: quieted, i: quieting, '3': quiets, d: quieted
+quieted <> f: pd, b: quiet
+quieten <> d: quietened, p: quietened, i: quietening, '3': quietens
+quietened <> b: quieten, f: dp
+quietening <> b: quieten, f: i
+quietens <> b: quieten, f: '3'
+quieter <> b: quiet, f: r
+quietest <> b: quiet, f: t
+quieting <> f: i, b: quiet
+quietist <> s: quietists
+quietists <> b: quietist, f: s
+quiets <> f: '3', b: quiet
+quiff <> s: quiffs, p: quiffed
+quiffed <> b: quiff, f: p
+quiffs <> b: quiff, f: s
+quill <> s: quills, i: quilling
+quilling <> b: quill, f: i
+quills <> b: quill, f: s
+quilt <> s: quilts, i: quilting, d: quilted, p: quilted, '3': quilts
+quilted <> f: dp, b: quilt, d: quilted
+quilter <> s: quilters
+quilters <> b: quilter, f: s
+quilting <> b: quilt, f: i, i: quilting
+quilts <> f: s3, b: quilt
+quin <> s: quins
+quince <> s: quinces
+quinces <> b: quince, f: s
+quine <> s: quines
+quines <> b: quine, f: s
+quing <> b: que, f: i
+quinolone <> s: quinolones, '3': quinolones
+quinolones <> b: quinolone, f: s3
+quinone <> s: quinones
+quinones <> b: quinone, f: s
+quins <> b: quin, f: s
+Quinta <> s: quintas
+quintain <> s: quintains
+quintains <> b: quintain, f: s
+quintal <> s: quintals
+quintals <> b: quintal, f: s
+quintet <> s: quintets
+quintets <> b: quintet, f: s
+quintile <> s: quintiles
+quintiles <> b: quintile, f: s
+quintuple <> p: quintupled, d: quintupled, i: quintupling, '3': quintuples
+quintupled <> b: quintuple, f: pd
+quintuples <> f: '3', b: quintuple
+quintuplet <> s: quintuplets
+quintuplets <> b: quintuplet, f: s
+quintupling <> b: quintuple, f: i
+quip <> p: quipped, s: quips, '3': quips, i: quipping, d: quipped
+quipped <> b: quip, f: pd
+quipping <> b: quip, f: i
+quips <> b: quip, f: s3
+quire <> '3': quires, i: quiring, s: quires
+quires <> b: quire, f: 3s
+quiring <> b: quire, f: i
+quirk <> s: quirks, p: quirked, i: quirking
+quirked <> b: quirk, f: p, p: quirked
+quirkier <> b: quirky, f: r
+quirkiest <> b: quirky, f: t
+quirking <> b: quirk, f: i
+quirks <> b: quirk, f: s
+quirky <> t: quirkiest, r: quirkier
+quisle <> i: quisling
+quisling <> s: quislings, b: quisle, f: i
+quislings <> b: quisling, f: s
+quit <> p: quit, b: quit, f: pd, i: quitting, d: quit, '3': quits
+quits <> b: quit, f: '3'
+quitter <> s: quitters
+quitters <> b: quitter, f: s
+quitting <> b: quit, f: i
+quiver <> p: quivered, i: quivering, '3': quivers, s: quivers, d: quivered
+quivered <> b: quiver, f: pd
+quivering <> b: quiver, f: i, i: quivering, s: quiverings
+quivers <> b: quiver, f: 3s
+Quixote <> s: quixotes
+quiz <> d: quizzed, p: quizzed, i: quizzing, '3': quizzes
+quizmaster <> s: quizmasters
+quizmasters <> b: quizmaster, f: s
+quizzed <> b: quiz, f: dp
+quizzes <> b: quizze, f: s
+quizzing <> b: quiz, f: i, i: quizzing
+quo <> s: quos
+quoin <> s: quoins
+quoins <> b: quoin, f: s
+quoit <> s: quoits, '3': quoits
+quoits <> b: quoit, f: s3
+Quorn <> s: quorns
+quos <> b: quo, f: s
+quota <> s: quotas
+quotas <> b: quota, f: s
+quotation <> s: quotations
+quotations <> b: quotation, f: s
+quote <> d: quoted, p: quoted, i: quoting, '3': quotes, s: quotes
+quoted <> b: quote, f: dp, d: quoted, p: quoted
+quotes <> b: quote, f: 3s
+quoth <> f: p, b: quote
+quotient <> s: quotients
+quotients <> b: quotient, f: s
+quoting <> b: quote, f: i, i: quoting

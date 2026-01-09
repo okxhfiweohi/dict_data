@@ -1,0 +1,1166 @@
+U-boat <> s: u-boats
+U-turn <> s: u-turns
+ubiquinone <> s: ubiquinones
+ubiquinones <> b: ubiquinone, f: s
+UC <> s: ucs
+UDC <> s: udcs
+UDCS <> b: udc, f: s
+udder <> s: udders
+udders <> b: udder, f: s
+UFO <> s: ufos
+ufologist <> s: ufologists
+ufologists <> b: ufologist, f: s
+Ugandan <> s: ugandans
+ugh <> s: ughs
+ughs <> b: ugh, f: s
+uglier <> b: ugly, f: r
+uglies <> b: ugly, f: s
+ugliest <> b: ugly, f: t
+uglified <> f: dp, b: uglify
+uglifies <> f: '3', b: uglify
+uglify <> d: uglified, i: uglifying, p: uglified, '3': uglifies
+uglifying <> f: i, b: uglify
+ugliness <> s: uglinesses
+uglinesses <> b: ugliness, f: s
+ugly <> t: ugliest, r: uglier, s: uglies
+uh-huh <> s: uh-huhs
+uh-huhs <> b: uh-huh, f: s
+uhlan <> s: uhlans
+uhlans <> b: uhlan, f: s
+Uighur <> s: uighurs
+ukelele <> s: ukeleles
+ukeleles <> b: ukelele, f: s
+ukrainian <> s: ukrainians
+ukrainians <> b: ukrainian, f: s
+ukulele <> s: ukuleles
+ukuleles <> b: ukulele, f: s
+ulcer <> s: ulcers
+ulcerate <> i: ulcerating, '3': ulcerates, p: ulcerated, d: ulcerated
+ulcerated <> f: pd, b: ulcerate
+ulceration <> s: ulcerations
+ulcerations <> b: ulceration, f: s
+ulcers <> b: ulcer, f: s
+Uli <> s: uli, b: uli, f: s
+Ullswater <> b: ullswate, f: r
+ulsterman <> s: ulstermen
+ulstermen <> b: ulsterman, f: s
+ultimacies <> b: ultimacy, f: s
+ultimacy <> s: ultimacies
+ultimate <> s: ultimates
+ultimates <> b: ultimate, f: s
+ultimatum <> s: ultimatums
+ultimatums <> b: ultimatum, f: s
+ultra <> s: ultras
+ultracentrifuge <> d: ultracentrifuged, i: ultracentrifuging, p: ultracentrifuged, '3': ultracentrifuges, s: ultracentrifuges
+ultracentrifuged <> b: ultracentrifuge, f: d
+ultraconservative <> s: ultraconservatives
+ultraconservatives <> b: ultraconservative, f: s
+ultramarine <> s: ultramarines
+ultramarines <> b: ultramarine, f: s
+ultramontane <> s: ultramontanes
+ultramontanes <> b: ultramontane, f: s
+ultras <> b: ultra, f: s
+ultrasound <> s: ultrasounds
+ultrasounds <> b: ultrasound, f: s
+ululate <> s: ululates, i: ululating, p: ululated, '3': ululates, d: ululated
+ululated <> f: pd, b: ululate
+ululates <> f: s3, b: ululate
+ululating <> b: ululate, f: i
+ululation <> s: ululations
+ululations <> b: ululation, f: s
+um <> s: ums, p: ummed, i: umming
+umbel <> s: umbels
+umbellifer <> s: umbellifers, '3': umbellifers
+umbellifers <> b: umbellifer, f: s3
+umbels <> b: umbel, f: s
+umber <> s: umbers
+umbers <> b: umber, f: s
+umbilical <> s: umbilicals
+umbilicals <> b: umbilical, f: s
+umbrella <> s: umbrellas
+umbrellas <> b: umbrella, f: s
+umm <> s: umms
+ummed <> b: um, f: p
+umming <> b: um, f: i
+umms <> b: umm, f: s
+ump <> i: umping
+umping <> b: ump, f: i
+umpire <> s: umpires, i: umpiring, d: umpired, p: umpired, '3': umpires
+umpired <> b: umpire, f: dp
+umpires <> f: s3, b: umpire
+umpiring <> b: umpire, f: i, i: umpiring
+ums <> b: um, f: s
+un-American <> s: un-americans
+un-americans <> b: un-american, f: s
+unacceptability <> s: unacceptabilities
+unafraid <> b: unafray, f: dp, d: unafraid
+unappealing <> b: unappeal, f: i, i: unappealing
+unappetizing <> b: unappetize, f: i
+unarm <> i: unarming, p: unarmed, '3': unarms, d: unarmed
+unarmed <> f: pd, b: unarm
+unavailabilities <> b: unavailability, f: s
+unavailability <> s: unavailabilities
+unavailable <> s: unavailables
+unavailables <> b: unavailable, f: s
+unbalance <> d: unbalanced, i: unbalancing, '3': unbalances, p: unbalanced
+unbalanced <> d: unbalanced, b: unbalanced, f: dp, p: unbalanced
+unbalances <> b: unbalance, f: '3'
+unbalancing <> b: unbalance, f: i
+unban <> i: unbanning
+unbanning <> i: unbanning, b: unbanning, f: i
+unbar <> i: unbarring, p: unbarred, '3': unbars, d: unbarred
+unbarred <> f: pd, b: unbar
+unbarring <> b: unbar, f: i
+unbars <> f: '3', b: unbar
+unbeliever <> '3': unbelievers
+unbelievers <> b: unbeliever, f: '3'
+unbelt <> i: unbelting, p: unbelted, '3': unbelts, d: unbelted
+unbelted <> f: pd, b: unbelt
+unbelting <> f: i, b: unbelt
+unbelts <> f: '3', b: unbelt
+unbend <> i: unbending, p: unbent, d: unbent, '3': unbends
+unbending <> b: unbend, f: i, i: unbending
+unbends <> f: '3', b: unbend
+unbent <> b: unbend, f: pd
+unbind <> d: unbound, i: unbinding, p: unbound, '3': unbinds
+unbinding <> b: unbind, f: i
+unbinds <> f: '3', b: unbind
+unblemished <> b: unblemish, f: d
+unblind <> i: unblinding
+unblinding <> b: unblind, f: i
+unblinking <> b: unblink, f: i, i: unblinking
+unblock <> i: unblocking, s: unblocks
+unblocking <> b: unblock, f: i
+unblocks <> b: unblock, f: s
+unbolt <> i: unbolting, s: unbolts, p: unbolted, '3': unbolts, d: unbolted
+unbolted <> f: pd, b: unbolt
+unbosom <> i: unbosoming, p: unbosomed, '3': unbosoms, d: unbosomed
+unbosomed <> f: pd, b: unbosom
+unbosoming <> f: i, b: unbosom
+unbosoms <> f: '3', b: unbosom
+unbound <> d: unbound, b: unbound, f: d
+unbrace <> i: unbracing, p: unbraced, '3': unbraces, d: unbraced
+unbraced <> f: pd, b: unbrace
+unbraces <> f: '3', b: unbrace
+unbracing <> f: i, b: unbrace
+unbraid <> i: unbraiding, p: unbraided, '3': unbraids, d: unbraided
+unbridle <> i: unbridling, p: unbridled, '3': unbridles, d: unbridled
+unbridled <> f: pd, b: unbridle
+unbuckle <> i: unbuckling, '3': unbuckles, p: unbuckled, s: unbuckles, d: unbuckled
+unbuckled <> f: pd, b: unbuckle
+unbuckles <> b: unbuckle, f: 3s
+unbuckling <> b: unbuckle, f: i
+unbundle <> i: unbundling
+unbundler <> s: unbundlers
+unbundlers <> b: unbundler, f: s
+unbundling <> i: unbundling, b: unbundling, f: i
+unburden <> d: unburdened, i: unburdening, s: unburdens, p: unburdened, '3': unburdens
+unburdened <> b: unburden, f: dp
+unburdening <> b: unburden, f: i
+unburdens <> f: s3, b: unburden
+unburies <> b: unbury, f: '3'
+unbury <> '3': unburies, i: unburying
+unburying <> b: unbury, f: i
+unbutton <> p: unbuttoned, i: unbuttoning, d: unbuttoned, s: unbuttons, '3': unbuttons
+unbuttoned <> b: unbutton, f: pd, d: unbuttoned
+unbuttoning <> b: unbutton, f: i
+unbuttons <> f: s3, b: unbutton
+uncal <> p: uncalled, d: uncalled
+uncalled <> b: uncal, f: pd
+uncanniest <> b: uncanny, f: t
+uncanny <> t: uncanniest
+uncap <> i: uncapping
+uncapping <> b: uncap, f: i
+uncertainties <> b: uncertainty, f: s
+uncertainty <> s: uncertainties
+unchain <> i: unchaining, p: unchained, '3': unchains, d: unchained
+unchained <> f: pd, b: unchain
+unchurch <> i: unchurching, p: unchurched, '3': unchurches, d: unchurched
+unchurched <> f: pd, b: unchurch
+unchurches <> f: '3', b: unchurch
+unchurching <> f: i, b: unchurch
+uncial <> s: uncials
+uncials <> b: uncial, f: s
+unclasp <> i: unclasping, p: unclasped, '3': unclasps, d: unclasped
+unclasped <> f: pd, b: unclasp
+unclassifiable <> s: unclassifiables
+unclassifiables <> b: unclassifiable, f: s
+uncle <> s: uncles
+uncleanness <> s: uncleannesses
+uncleannesses <> b: uncleanness, f: s
+unclench <> p: unclenched, i: unclenching, '3': unclenches
+unclenched <> b: unclench, f: p
+unclenches <> b: unclench, f: '3'
+unclenching <> b: unclench, f: i
+uncles <> b: uncle, f: s
+unclip <> i: unclipping, '3': unclips
+uncloak <> i: uncloaking, p: uncloaked, '3': uncloaks, d: uncloaked
+unclog <> i: unclogging, p: unclogged, '3': unclogs, d: unclogged
+unclogged <> f: pd, b: unclog
+unclogging <> f: i, b: unclog
+unclogs <> f: '3', b: unclog
+unclothe <> i: unclothing, p: unclothed, '3': unclothes, d: unclothed
+unclothed <> f: pd, b: unclothe
+uncoil <> i: uncoiling, s: uncoils, '3': uncoils, p: uncoiled, d: uncoiled
+uncoiled <> f: pd, b: uncoil
+uncoiling <> b: uncoil, f: i, i: uncoiling
+uncoils <> b: uncoil, f: s3
+uncomplaining <> b: uncomplain, f: i
+unconformities <> b: unconformity, f: s
+unconformity <> s: unconformities
+uncool <> t: uncoolest
+uncoolest <> b: uncool, f: t
+uncork <> p: uncorked, i: uncorking, d: uncorked, '3': uncorks
+uncorked <> b: uncork, f: pd
+uncorking <> b: uncork, f: i
+uncorks <> f: '3', b: uncork
+uncouple <> i: uncoupling, '3': uncouples, p: uncoupled, d: uncoupled
+uncoupled <> f: pd, b: uncouple
+uncouples <> b: uncouple, f: '3'
+uncoupling <> b: uncouple, f: i
+uncouthness <> s: uncouthnesses
+uncouthnesses <> b: uncouthness, f: s
+uncover <> d: uncovered, p: uncovered, i: uncovering, '3': uncovers
+uncovered <> b: uncover, f: dp, p: uncovered, d: uncovered
+uncovering <> b: uncover, f: i, i: uncovering
+uncovers <> b: uncover, f: '3'
+uncross <> i: uncrossing, p: uncrossed, '3': uncrosses, d: uncrossed
+unction <> s: unctions
+unctions <> b: unction, f: s
+uncurl <> p: uncurled, i: uncurling, '3': uncurls, d: uncurled, s: uncurls
+uncurled <> b: uncurl, f: pd
+uncurling <> b: uncurl, f: i
+uncurls <> b: uncurl, f: 3s
+undeceive <> i: undeceiving, p: undeceived, '3': undeceives, d: undeceived
+undeceived <> f: pd, b: undeceive
+undeceives <> f: '3', b: undeceive
+undeceiving <> f: i, b: undeceive
+undecidable <> '3': undecidables, s: undecidables
+undecidables <> b: undecidable, f: 3s
+undecided <> s: undecideds
+undecideds <> b: undecided, f: s
+under-report <> i: under-reporting, '3': under-reports, s: under-reports
+under-reporting <> i: under-reporting, b: under-reporting, f: i
+under-reports <> b: under-report, f: 3s
+under-represent <> i: under-representing
+under-representing <> b: under-represent, f: i
+under-resourced <> b: under-resource, f: dp, p: under-resourced
+underachieve <> i: underachieving, s: underachieves, p: underachieved, '3': underachieves, d: underachieved
+underachieved <> f: pd, b: underachieve
+underachiever <> '3': underachievers
+underachievers <> b: underachiever, f: '3'
+underachieves <> f: s3, b: underachieve
+underachieving <> b: underachieve, f: i
+underact <> i: underacting, p: underacted, '3': underacts, d: underacted
+underacted <> f: pd, b: underact
+underacting <> f: i, b: underact
+underacts <> f: '3', b: underact
+underarm <> s: underarms
+underarms <> b: underarm, f: s
+underbid <> d: underbid, b: underbid, f: dp, i: underbidding, p: underbid, '3': underbids
+underbidder <> s: underbidders
+underbidders <> b: underbidder, f: s
+underbidding <> b: underbid, f: i
+underbids <> f: '3', b: underbid
+undercarriage <> s: undercarriages
+undercarriages <> b: undercarriage, f: s
+undercharge <> i: undercharging, p: undercharged, '3': undercharges, d: undercharged
+undercharged <> f: pd, b: undercharge
+undercharges <> f: '3', b: undercharge
+undercharging <> b: undercharge, f: i
+underclass <> s: underclasses
+underclasses <> b: underclass, f: s
+underclothe <> s: underclothes
+underclothes <> b: underclothe, f: s
+undercoat <> s: undercoats, i: undercoating, p: undercoated, '3': undercoats, d: undercoated
+undercoated <> f: pd, b: undercoat
+undercoating <> b: undercoat, f: i
+undercoats <> f: s3, b: undercoat
+undercount <> i: undercounting
+undercounting <> b: undercount, f: i
+undercurrent <> s: undercurrents
+undercurrents <> b: undercurrent, f: s
+undercut <> d: undercut, b: undercut, f: dp, i: undercutting, p: undercut, '3': undercuts
+undercuts <> b: undercut, f: '3'
+undercutting <> b: undercut, f: i, i: undercutting
+underdevelop <> i: underdeveloping, p: underdeveloped, '3': underdevelops, d: underdeveloped
+underdeveloped <> f: pd, b: underdevelop
+underdog <> s: underdogs
+underdogs <> b: underdog, f: s
+underdrawing <> s: underdrawings, i: underdrawing, b: underdrawing, f: i
+underdrawings <> b: underdrawing, f: s
+underdress <> i: underdressing, p: underdressed, '3': underdresses, d: underdressed, s: underdresses
+underestimate <> d: underestimated, i: underestimating, p: underestimated, '3': underestimates, s: underestimates
+underestimated <> b: underestimate, f: dp, d: underestimated
+underestimates <> b: underestimate, f: 3s
+underestimating <> b: underestimate, f: i
+underexpose <> i: underexposing, p: underexposed, '3': underexposes, d: underexposed
+underexposed <> f: pd, b: underexpose
+underexposes <> f: '3', b: underexpose
+underexposing <> b: underexpose, f: i
+underfelt <> i: underfelting
+underfelting <> b: underfelt, f: i
+underframe <> s: underframes, '3': underframes
+underframes <> b: underframe, f: s3
+underfund <> i: underfunding
+underfunding <> i: underfunding, b: underfunding, f: i
+undergarment <> s: undergarments
+undergarments <> b: undergarment, f: s
+undergird <> i: undergirding, s: undergirds, p: undergirded, '3': undergirds, d: undergirded
+undergirded <> f: pd, b: undergird
+undergirding <> b: undergird, f: i, i: undergirding
+undergirds <> f: s3, b: undergird
+undergo <> i: undergoing, d: undergone, p: underwent, '3': undergoes
+undergoes <> b: undergo, f: '3'
+undergoing <> b: undergo, f: i
+undergone <> b: undergo, f: d
+undergrad <> s: undergrads
+undergrads <> b: undergrad, f: s
+undergraduate <> s: undergraduates
+undergraduates <> b: undergraduate, f: s
+underground <> i: undergrounding
+undergrounding <> b: underground, f: i, i: undergrounding
+undergrowth <> s: undergrowths
+undergrowths <> b: undergrowth, f: s
+underlaid <> f: dp, b: underlay
+underlain <> d: underlain, b: underlain, f: d
+underlay <> b: underlie, f: pd, d: underlaid, s: underlays, i: underlaying, p: underlaid, '3': underlays
+underlayer <> s: underlayers
+underlayers <> b: underlayer, f: s
+underlaying <> b: underlay, f: i
+underlays <> f: s3, b: underlay
+underlet <> i: underletting, d: underlet, b: underlet, f: d
+underletting <> b: underlet, f: i
+underlie <> i: underlying, p: underlay, d: underlay, '3': underlies
+underline <> d: underlined, '3': underlines, p: underlined, i: underlining
+underlined <> b: underline, f: dp, p: underlined, d: underlined
+underlines <> b: underline, f: '3'
+underling <> s: underlings
+underlings <> b: underling, f: s
+underlining <> b: underline, f: i, i: underlining, s: underlinings
+underlying <> i: underlying, b: underlying, f: i
+underman <> i: undermanning
+undermanning <> b: underman, f: i
+undermine <> d: undermined, i: undermining, '3': undermines, p: undermined
+undermined <> b: undermine, f: dp, p: undermined
+underminer <> s: underminers
+underminers <> b: underminer, f: s
+undermines <> b: undermine, f: '3'
+undermining <> b: undermine, f: i, i: undermining, s: underminings
+undernourish <> i: undernourishing, p: undernourished, '3': undernourishes, d: undernourished
+undernourished <> f: pd, b: undernourish
+underpaid <> b: underpay, f: dp, p: underpaid, d: underpaid
+underpaint <> i: underpainting, p: underpainted
+underpainting <> b: underpaint, f: i
+underpants <> s: underpants, b: underpants, f: s
+underpart <> s: underparts, '3': underparts
+underparts <> b: underpart, f: s3
+underpass <> s: underpasses
+underpasses <> b: underpass, f: s
+underpay <> d: underpaid, p: underpaid, i: underpaying, '3': underpays
+underpayment <> s: underpayments
+underpayments <> b: underpayment, f: s
+underperform <> i: underperforming, p: underperformed, '3': underperforms, d: underperformed
+underperformed <> f: pd, b: underperform
+underperforming <> b: underperform, f: i
+underperforms <> f: '3', b: underperform
+underpin <> d: underpinned, i: underpinning, '3': underpins, p: underpinned
+underpinned <> b: underpin, f: dp
+underpinning <> b: underpin, f: i, s: underpinnings, i: underpinning
+underpins <> b: underpin, f: '3'
+underplay <> '3': underplays, d: underplayed, i: underplaying, p: underplayed
+underplayed <> b: underplay, f: dp
+underplaying <> b: underplay, f: i
+underplays <> b: underplay, f: '3'
+underprice <> i: underpricing, s: underprices, '3': underprices, p: underpriced, d: underpriced
+underpriced <> f: pd, b: underprice
+underproduce <> i: underproducing, p: underproduced, '3': underproduces, d: underproduced
+underrate <> d: underrated, '3': underrates, p: underrated, s: underrates, i: underrating
+underrated <> b: underrate, f: dp, d: underrated
+underrates <> b: underrate, f: 3s
+underrating <> b: underrate, f: i
+underreporting <> i: underreporting, b: underreporting, f: i
+underscore <> d: underscored, '3': underscores, i: underscoring, p: underscored, s: underscores
+underscored <> b: underscore, f: dp
+underscores <> b: underscore, f: 3s
+underscoring <> b: underscore, f: i
+undersea <> s: underseas
+underseas <> b: undersea, f: s
+undersecretaries <> b: undersecretary, f: s
+undersecretary <> s: undersecretaries
+undersell <> s: undersells, i: underselling, p: undersold, '3': undersells, d: undersold
+underselling <> b: undersel, f: i
+undersells <> f: s3, b: undersell
+undershoot <> i: undershooting, s: undershoots, '3': undershoots
+undershooting <> b: undershoot, f: i
+undershoots <> b: undershoot, f: s
+undershorts <> b: undershort, f: s
+underside <> s: undersides
+undersides <> b: underside, f: s
+undersign <> i: undersigning, p: undersigned, '3': undersigns, d: undersigned
+undersigned <> f: pd, b: undersign
+undersize <> i: undersizing
+undersizing <> b: undersize, f: i
+underskirt <> s: underskirts
+underskirts <> b: underskirt, f: s
+undersold <> f: pd, b: undersell
+undersow <> d: undersown
+undersown <> b: undersow, f: d
+underspend <> i: underspending, '3': underspends, p: underspent, d: underspent
+underspending <> b: underspend, f: i, s: underspendings, i: underspending
+underspends <> b: underspend, f: '3'
+understaffing <> b: understaff, f: i, i: understaffing
+understand <> d: understood, p: understood, i: understanding, '3': understands
+understanding <> b: understand, f: i, i: understanding, s: understandings
+understands <> b: understand, f: '3'
+understate <> d: understated, p: understated, '3': understates, i: understating, s: understates
+understated <> b: understate, f: dp, d: understated, p: understated
+understatement <> s: understatements
+understatements <> b: understatement, f: s
+understates <> b: understate, f: 3s
+understating <> b: understate, f: i
+understeer <> '3': understeers
+understeers <> b: understeer, f: '3'
+understood <> b: understand, f: dp, d: understood, p: understood
+understudied <> f: pd, b: understudy
+understudies <> f: s3, b: understudy
+understudy <> s: understudies, i: understudying, p: understudied, '3': understudies, d: understudied
+understudying <> b: understudy, f: i
+undersurface <> s: undersurfaces
+undersurfaces <> b: undersurface, f: s
+undertake <> d: undertaken, p: undertook, i: undertaking, '3': undertakes
+undertaken <> b: undertake, f: d
+undertaker <> s: undertakers
+undertakers <> b: undertaker, f: s
+undertakes <> b: undertake, f: '3'
+undertaking <> b: undertake, f: i, s: undertakings, i: undertaking
+undertenant <> s: undertenants
+undertenants <> b: undertenant, f: s
+underthings <> b: underthing, f: s
+underthrust <> i: underthrusting, s: underthrusts
+underthrusting <> i: underthrusting, b: underthrusting, f: i
+underthrusts <> b: underthrust, f: s
+undertone <> s: undertones, '3': undertones
+undertones <> b: undertone, f: s3
+undertook <> b: undertake, f: p
+undertow <> s: undertows
+undertows <> b: undertow, f: s
+undertrial <> s: undertrials
+undertrials <> b: undertrial, f: s
+undervalue <> d: undervalued, '3': undervalues, p: undervalued, i: undervaluing, s: undervalues
+undervalued <> b: undervalue, f: dp, d: undervalued, p: undervalued
+undervalues <> b: undervalue, f: 3s
+undervaluing <> b: undervalue, f: i
+undervest <> b: underve, f: t
+underwent <> b: undergo, f: p
+underwhelm <> i: underwhelming
+underwhelming <> b: underwhelm, f: i
+underwing <> s: underwings
+underwings <> b: underwing, f: s
+underworld <> s: underworlds
+underworlds <> b: underworld, f: s
+underwrite <> '3': underwrites, i: underwriting, p: underwrote, d: underwritten
+underwriter <> s: underwriters
+underwriters <> b: underwriter, f: s
+underwrites <> b: underwrite, f: '3'
+underwriting <> i: underwriting, b: underwriting, f: i
+underwritten <> d: underwritten, b: underwritten, f: d
+underwrote <> p: underwrote, b: underwrote, f: p
+undeserving <> i: undeserving, b: undeserving, f: i
+undesirable <> s: undesirables
+undesirables <> b: undesirable, f: s
+undid <> b: undo, f: p
+undies <> b: undy, f: s
+undine <> s: undines
+undines <> b: undine, f: s
+undo <> d: undone, p: undid, i: undoing, '3': undoes
+undock <> i: undocking, p: undocked, '3': undocks, d: undocked
+undocked <> f: pd, b: undock
+undocking <> f: i, b: undock
+undocks <> f: '3', b: undock
+undoes <> b: undoe, f: '3'
+undoing <> b: undo, f: i, i: undoing
+undone <> b: undo, f: d, d: undone
+undrawn <> d: undrawn, b: undrawn, f: d
+undress <> p: undressed, i: undressing, d: undressed, '3': undresses
+undressed <> b: undress, f: pd, p: undressed, d: undressed
+undresses <> b: undress, f: '3'
+undressing <> b: undress, f: i
+undulant <> s: undulants
+undulants <> b: undulant, f: s
+undulate <> p: undulated, s: undulates, '3': undulates, d: undulated, i: undulating
+undulated <> b: undulate, f: pd, p: undulated
+undulates <> b: undulate, f: s3
+undulating <> f: i, b: undulate
+undulation <> s: undulations
+undulations <> b: undulation, f: s
+unearth <> d: unearthed, p: unearthed, i: unearthing, '3': unearths
+unearthed <> b: unearth, f: dp
+unearthing <> b: unearth, f: i
+unearths <> b: unearth, f: '3'
+unedifying <> i: unedifying, b: unedifying, f: i
+unemployable <> s: unemployables
+unemployables <> b: unemployable, f: s
+unenterprising <> i: unenterprising, b: unenterprising, f: i
+unequal <> s: unequals
+unequals <> b: unequal, f: s
+unessential <> s: unessentials
+unessentials <> b: unessential, f: s
+unevenness <> s: unevennesses
+unevennesses <> b: unevenness, f: s
+unexpected <> b: unexpect, f: d
+unexpectedness <> s: unexpectednesses
+unexpectednesses <> b: unexpectedness, f: s
+unfading <> b: unfade, f: i
+unfair <> t: unfairest
+unfairest <> b: unfair, f: t
+unfairness <> s: unfairnesses
+unfairnesses <> b: unfairness, f: s
+unfasten <> p: unfastened, i: unfastening, d: unfastened, '3': unfastens
+unfastened <> b: unfasten, f: pd, d: unfastened
+unfastening <> b: unfasten, f: i
+unfastens <> b: unfasten, f: '3'
+unfetter <> d: unfettered
+unfettered <> d: unfettered, b: unfettered, f: d
+unfit <> '3': unfits, i: unfitting, p: unfitted, d: unfitted
+unfits <> b: unfit, f: '3'
+unfitted <> f: pd, b: unfit
+unfitting <> f: i, b: unfit
+unfix <> i: unfixing
+unfixing <> b: unfix, f: i
+unflagging <> i: unflagging, b: unflagging, f: i
+unfold <> '3': unfolds, p: unfolded, i: unfolding, d: unfolded
+unfolded <> b: unfold, f: pd
+unfolding <> b: unfold, f: i, i: unfolding
+unfolds <> b: unfold, f: '3'
+unforgiving <> i: unforgiving, b: unforgiving, f: i
+unforthcoming <> b: unforthcome, f: i, i: unforthcoming
+unfortunate <> s: unfortunates
+unfortunates <> b: unfortunate, f: s
+unfreeze <> i: unfreezing, '3': unfreezes, p: unfroze, d: unfrozen
+unfreezes <> b: unfreeze, f: '3'
+unfreezing <> b: unfreeze, f: i
+unfrock <> i: unfrocking, p: unfrocked, '3': unfrocks, d: unfrocked
+unfrocked <> f: pd, b: unfrock
+unfrocking <> f: i, b: unfrock
+unfrocks <> f: '3', b: unfrock
+unfroze <> p: unfroze, b: unfroze, f: p
+unfrozen <> d: unfrozen, b: unfrozen, f: d
+unfulfilling <> b: unfulfil, f: i, i: unfulfilling
+unfunniest <> b: unfunny, f: t
+unfunny <> t: unfunniest
+unfurl <> d: unfurled, p: unfurled, i: unfurling, '3': unfurls, s: unfurls
+unfurled <> b: unfurl, f: dp
+unfurling <> b: unfurl, f: i
+unfurls <> b: unfurl, f: 3s
+ungainliest <> b: ungainly, f: t
+ungainly <> t: ungainliest
+ungrudging <> b: ungrudge, f: i
+unguent <> s: unguents
+unguents <> b: unguent, f: s
+ungulate <> s: ungulates, '3': ungulates
+ungulates <> b: ungulate, f: s3
+unhallow <> i: unhallowing, p: unhallowed, '3': unhallows, d: unhallowed
+unhallowed <> f: pd, b: unhallow
+unhand <> '3': unhands, i: unhanding, p: unhanded, d: unhanded
+unhanded <> f: pd, b: unhand
+unhanding <> f: i, b: unhand
+unhands <> b: unhand, f: '3'
+unhappen <> i: unhappening
+unhappening <> b: unhappen, f: i
+unhappier <> b: unhappy, f: r
+unhappiest <> b: unhappy, f: t
+unhappy <> t: unhappiest, r: unhappier
+unharness <> i: unharnessing, p: unharnessed, '3': unharnesses, d: unharnessed
+unharnessed <> f: pd, b: unharness
+unharnesses <> f: '3', b: unharness
+unharnessing <> f: i, b: unharness
+unheeding <> b: unheed, f: i
+unhinge <> d: unhinged, p: unhinged, '3': unhinges, i: unhinging
+unhinged <> b: unhinge, f: dp, d: unhinged
+unhinges <> b: unhinge, f: '3'
+unhinging <> f: i, b: unhinge
+unhitch <> p: unhitched, d: unhitched, i: unhitching, '3': unhitches
+unhitched <> b: unhitch, f: pd
+unhitching <> b: unhitch, f: i
+unhook <> p: unhooked, d: unhooked, i: unhooking, '3': unhooks
+unhooked <> b: unhook, f: pd
+unhooking <> b: unhook, f: i
+unhooks <> b: unhook, f: '3'
+unhorse <> i: unhorsing, p: unhorsed, '3': unhorses, d: unhorsed
+unhorsed <> f: pd, b: unhorse
+unhorses <> f: '3', b: unhorse
+unhorsing <> f: i, b: unhorse
+uni <> s: uni, b: uni, f: s
+unicorn <> s: unicorns
+unicorns <> b: unicorn, f: s
+unicum <> s: unicums
+unicums <> b: unicum, f: s
+unicycle <> i: unicycling
+unicycling <> b: unicycle, f: i
+unicyclist <> s: unicyclists
+unicyclists <> b: unicyclist, f: s
+unified <> p: unified, b: unified, f: pd, d: unified
+unifier <> s: unifiers
+unifiers <> b: unifier, f: s
+unifies <> b: unify, f: '3'
+uniform <> s: uniforms, i: uniforming, p: uniformed, '3': uniforms, d: uniformed
+uniformed <> f: pd, b: uniform
+uniforming <> f: i, b: uniform
+uniformitarian <> s: uniformitarians
+uniformitarians <> b: uniformitarian, f: s
+uniformities <> b: uniformity, f: s
+uniformity <> s: uniformities
+uniforms <> f: s3, b: uniform
+unify <> d: unified, i: unifying, p: unified, '3': unifies
+unifying <> b: unify, f: i, i: unifying
+unilateralist <> s: unilateralists
+unilateralists <> b: unilateralist, f: s
+union <> s: unions
+unionist <> s: unionists
+unionists <> b: unionist, f: s
+unionize <> i: unionizing, p: unionized, '3': unionizes, d: unionized
+unionized <> f: pd, b: unionize
+unions <> b: union, f: s
+uniprocessor <> s: uniprocessors
+uniprocessors <> b: uniprocessor, f: s
+unison <> s: unisons
+unisons <> b: unison, f: s
+unit <> s: units
+Unitarian <> s: unitarians
+unite <> d: united, p: united, '3': unites, i: uniting
+united <> d: united, b: united, f: dp, p: united
+unites <> b: unite, f: '3'
+unitholder <> s: unitholders
+unitholders <> b: unitholder, f: s
+unities <> b: unity, f: s
+uniting <> b: unite, f: i, i: uniting
+unitize <> i: unitizing, p: unitized, '3': unitizes, d: unitized
+units <> b: unit, f: s
+unity <> s: unities
+universal <> s: universals
+universalist <> s: universalists
+universalists <> b: universalist, f: s
+universalities <> b: universality, f: s
+universality <> s: universalities
+universalize <> i: universalizing, p: universalized, '3': universalizes, d: universalized
+universalized <> f: pd, b: universalize
+universalizes <> f: '3', b: universalize
+universalizing <> b: universalize, f: i
+universals <> b: universal, f: s
+universe <> s: universes
+universes <> b: universe, f: s
+universities <> b: university, f: s
+university <> s: universities
+UNIX <> s: unixes
+unkind <> t: unkindest
+unkindest <> b: unkind, f: t
+unknot <> i: unknotting, '3': unknots, s: unknots
+unknots <> b: unknot, f: 3s
+unknotting <> b: unknot, f: i
+unknown <> s: unknowns
+unknowns <> b: unknown, f: s
+unlace <> i: unlacing, p: unlaced, d: unlaced, '3': unlaces
+unlaced <> b: unlace, f: pd
+unlaces <> f: '3', b: unlace
+unlacing <> b: unlace, f: i
+unlade <> i: unlading, p: unladed, '3': unlades, d: unladed
+unladed <> f: pd, b: unlade
+unlades <> f: '3', b: unlade
+unlading <> f: i, b: unlade
+unlaid <> b: unlay, f: dp
+unlash <> p: unlashed, i: unlashing, '3': unlashes, d: unlashed
+unlashed <> f: pd, b: unlash
+unlashes <> f: '3', b: unlash
+unlashing <> b: unlash, f: i
+unlatch <> p: unlatched, i: unlatching
+unlatched <> b: unlatch, f: p
+unlatching <> b: unlatch, f: i
+unlay <> d: unlaid, p: unlaid
+unlearn <> i: unlearning, '3': unlearns, p: unlearnt, d: unlearnt
+unlearning <> b: unlearn, f: i
+unlearns <> b: unlearn, f: '3'
+unlearnt <> f: pd, b: unlearn
+unleash <> d: unleashed, p: unleashed, i: unleashing, '3': unleashes, s: unleashes
+unleashed <> b: unleash, f: dp, p: unleashed
+unleashes <> b: unleash, f: 3s
+unleashing <> b: unleash, f: i
+unlikeliest <> b: unlikely, f: t
+unlikely <> t: unlikeliest
+unlink <> d: unlinked
+unlinked <> p: unlinked, b: unlinked, f: p
+unlive <> i: unliving, p: unlived, '3': unlives, d: unlived
+unlived <> f: pd, b: unlive
+unliving <> f: i, b: unlive
+unload <> d: unloaded, i: unloading, p: unloaded, '3': unloads
+unloaded <> b: unload, f: dp, d: unloaded, p: unloaded
+unloader <> s: unloaders
+unloaders <> b: unloader, f: s
+unloading <> b: unload, f: i, i: unloading
+unloads <> b: unload, f: '3'
+unlock <> p: unlocked, d: unlocked, i: unlocking, '3': unlocks
+unlocked <> b: unlock, f: pd, p: unlocked
+unlocking <> b: unlock, f: i
+unlocks <> b: unlock, f: '3'
+unloose <> '3': unlooses, i: unloosing, p: unloosed, d: unloosed
+unloosen <> i: unloosening, p: unloosened, '3': unlooses, d: unloosened
+unloosened <> f: pd, b: unloosen
+unloosening <> b: unloosen, f: i
+unlooses <> b: unloose, f: '3'
+unloosing <> b: unloose, f: i
+unlove <> i: unloving
+unloving <> b: unlove, f: i, i: unloving
+unluckier <> b: unlucky, f: r
+unluckiest <> b: unlucky, f: t
+unlucky <> t: unluckiest, r: unluckier
+unmade <> d: unmade, b: unmade, f: d
+unmake <> i: unmaking, '3': unmakes, p: unmade, d: unmade
+unmakes <> b: unmake, f: '3'
+unmaking <> b: unmake, f: i, i: unmaking
+unman <> i: unmanning, p: unmanned, '3': unmans, d: unmanned
+unmanned <> f: pd, b: unman
+unmask <> d: unmasked, p: unmasked, i: unmasking, '3': unmasks
+unmasked <> b: unmask, f: dp, p: unmasked
+unmasking <> b: unmask, f: i
+unmasks <> b: unmask, f: '3'
+unmentionable <> s: unmentionables
+unmentionables <> b: unmentionable, f: s
+unmoor <> d: unmoored
+unmoored <> b: unmoor, f: d
+unmuzzle <> i: unmuzzling, p: unmuzzled, '3': unmuzzles, d: unmuzzled
+unmuzzled <> f: pd, b: unmuzzle
+unmuzzles <> f: '3', b: unmuzzle
+unmuzzling <> f: i, b: unmuzzle
+unnerve <> d: unnerved, i: unnerving, p: unnerved, '3': unnerves
+unnerved <> b: unnerve, f: dp
+unnerves <> b: unnerve, f: '3'
+unnerving <> b: unnerve, f: i, i: unnerving
+unnoticed <> b: unnotice, f: d
+unobliging <> b: unoblige, f: i
+unobservable <> s: unobservables
+unobservables <> b: unobservable, f: s
+unopened <> d: unopened, b: unopened, f: dp, p: unopened
+unorthodoxies <> b: unorthodoxy, f: s
+unorthodoxy <> s: unorthodoxies
+unpack <> i: unpacking, p: unpacked, d: unpacked, '3': unpacks
+unpacked <> b: unpack, f: pd
+unpacking <> b: unpack, f: i, i: unpacking, s: unpackings
+unpacks <> b: unpack, f: '3'
+unperson <> s: unpersons
+unpersons <> b: unperson, f: s
+unpick <> i: unpicking, d: unpicked, '3': unpicks, p: unpicked
+unpicked <> b: unpick, f: dp
+unpicking <> b: unpick, f: i, i: unpicking
+unpicks <> b: unpick, f: '3'
+unpin <> i: unpinning, p: unpinned, '3': unpins, d: unpinned
+unpinned <> f: pd, b: unpin
+unpinning <> b: unpin, f: i
+unpins <> f: '3', b: unpin
+unpitying <> b: unpity, f: i
+unpleasantness <> s: unpleasantnesses
+unpleasantnesses <> b: unpleasantness, f: s
+unpleasantries <> b: unpleasantry, f: s
+unpleasantry <> s: unpleasantries
+unplug <> i: unplugging, '3': unplugs, p: unplugged, d: unplugged
+unplugged <> b: unplug, f: pd
+unplugging <> b: unplug, f: i
+unplugs <> b: unplug, f: '3'
+unpredictabilities <> b: unpredictability, f: s
+unpredictability <> s: unpredictabilities
+unproven <> d: unproven, b: unproven, f: d
+unquote <> '3': unquotes
+unquotes <> b: unquote, f: '3'
+unravel <> i: unravelling, d: unravelled, '3': unravels, p: unravelled
+unravelled <> b: unravel, f: dp
+unravelling <> b: unravel, f: i, s: unravellings
+unravels <> b: unravel, f: '3'
+unrealities <> b: unreality, f: s
+unreality <> s: unrealities
+unreel <> i: unreeling, '3': unreels, p: unreeled, d: unreeled
+unreeling <> b: unreel, f: i
+unreels <> b: unreel, f: '3'
+unreflecting <> i: unreflecting, b: unreflecting, f: i
+unreliable <> s: unreliables
+unreliables <> b: unreliable, f: s
+unresisting <> b: unresist, f: i
+unrest <> s: unrests
+unrests <> b: unrest, f: s
+unroll <> '3': unrolls, s: unrolls, i: unrolling, p: unrolled, d: unrolled
+unrolled <> b: unrol, f: pd, p: unrolled
+unrolling <> b: unrol, f: i, i: unrolling
+unrolls <> b: unroll, f: 3s
+unrulier <> b: unruly, f: r
+unruly <> r: unrulier
+unsaddle <> i: unsaddling, p: unsaddled, '3': unsaddles, d: unsaddled
+unsaddled <> f: pd, b: unsaddle
+unsaddles <> f: '3', b: unsaddle
+unsaddling <> b: unsaddle, f: i
+unsaid <> b: unsay, f: pd, d: unsaid
+unsatisfy <> i: unsatisfying
+unsatisfying <> b: unsatisfy, f: i, i: unsatisfying
+unsay <> p: unsaid, d: unsaid, i: unsaying, '3': unsays
+unsaying <> f: i, b: unsay
+unsays <> f: '3', b: unsay
+unscramble <> i: unscrambling, p: unscrambled, '3': unscrambles, d: unscrambled
+unscrambled <> f: pd, b: unscramble
+unscrambles <> f: '3', b: unscramble
+unscrambling <> b: unscramble, f: i
+unscrew <> p: unscrewed, i: unscrewing, d: unscrewed, '3': unscrews, s: unscrews
+unscrewed <> b: unscrew, f: pd
+unscrewing <> b: unscrew, f: i
+unscrews <> b: unscrew, f: 3s
+unseal <> d: unsealed, p: unsealed, i: unsealing, '3': unseals
+unsealed <> b: unseal, f: dp
+unsealing <> b: unseal, f: i
+unseals <> f: '3', b: unseal
+unseat <> d: unseated, p: unseated, i: unseating, '3': unseats
+unseated <> b: unseat, f: dp, d: unseated, p: unseated
+unseating <> b: unseat, f: i
+unseats <> b: unseat, f: '3'
+unserviceabilities <> b: unserviceability, f: s
+unserviceability <> s: unserviceabilities
+unsettle <> i: unsettling, d: unsettled, p: unsettled, '3': unsettles
+unsettled <> b: unsettle, f: dp, d: unsettled, p: unsettled
+unsettles <> b: unsettle, f: '3'
+unsettling <> b: unsettle, f: i, i: unsettling
+unsex <> i: unsexing, p: unsexed, '3': unsexes, d: unsexed
+unsexed <> f: pd, b: unsex
+unsexes <> f: '3', b: unsex
+unsexing <> f: i, b: unsex
+unsexy <> t: unsexiest
+unsheathe <> i: unsheathing, p: unsheathed, '3': unsheathes, d: unsheathed
+unsheathed <> f: pd, b: unsheathe
+unsling <> i: unslinging
+unslinging <> b: unsling, f: i
+unsnap <> i: unsnapping
+unsnapping <> b: unsnap, f: i
+unsnarl <> i: unsnarling, p: unsnarled, '3': unsnarls, d: unsnarled
+unsnarled <> f: pd, b: unsnarl
+unsnarling <> f: i, b: unsnarl
+unsnarls <> f: '3', b: unsnarl
+unsold <> r: unsolder
+unsolder <> b: unsold, f: r
+unsolved <> s: unsolveds
+unsolveds <> b: unsolved, f: s
+unsparing <> b: unspare, f: i
+unspeak <> i: unspeaking
+unspeakable <> s: unspeakables
+unspeakables <> b: unspeakable, f: s
+unspeaking <> b: unspeak, f: i, i: unspeaking
+unspool <> i: unspooling
+unspooling <> b: unspool, f: i
+unsporting <> b: unsport, f: i, i: unsporting
+unsprung <> p: unsprung, b: unsprung, f: p
+unstick <> i: unsticking
+unsticking <> b: unstick, f: i
+unstinting <> b: unstint, f: i
+unstrap <> '3': unstraps, i: unstrapping, p: unstrapped, d: unstrapped
+unstraps <> b: unstrap, f: '3'
+unstring <> i: unstringing, p: unstrung, '3': unstrings, d: unstrung
+unstringing <> f: i, b: unstring
+unstrings <> f: '3', b: unstring
+unstrung <> p: unstrung, b: unstrung, f: pd, d: unstrung
+unstuck <> d: unstuck, b: unstuck, f: dp, p: unstuck
+unsurprising <> b: unsurprise, f: i, i: unsurprising
+untangle <> i: untangling, '3': untangles, p: untangled, d: untangled
+untangled <> f: pd, b: untangle
+untangles <> b: untangle, f: '3'
+untangling <> b: untangle, f: i
+untapped <> d: untapped, b: untapped, f: dp, p: untapped
+untaught <> f: pd, b: unteach
+unteach <> i: unteaching, p: untaught, '3': unteaches, d: untaught
+unthought <> d: unthought, b: unthought, f: dp, p: unthought
+unthread <> i: unthreading
+unthreading <> b: unthread, f: i
+unthreatening <> b: unthreaten, f: i
+untidier <> b: untidy, f: r
+untidiest <> b: untidy, f: t
+untidy <> t: untidiest, r: untidier
+untie <> i: untying, p: untied, '3': unties, d: untied
+untied <> b: unty, f: pd
+unties <> b: unty, f: s
+untouchable <> s: untouchables
+UNTOUCHABLES <> b: untouchable, f: s
+untrusting <> b: untrust, f: i
+untrustworthies <> b: untrustworthy, f: s
+untrustworthy <> s: untrustworthies
+untruth <> s: untruths
+untruths <> b: untruth, f: s
+untwine <> i: untwining, p: untwined, '3': untwines, d: untwined
+untwist <> i: untwisting, p: untwisted, '3': untwists, d: untwisted
+untwisting <> b: untwist, f: i
+untying <> b: unty, f: i
+unveil <> p: unveiled, d: unveiled, i: unveiling, '3': unveils
+unveiled <> b: unveil, f: pd, p: unveiled
+unveiling <> b: unveil, f: i, s: unveilings
+unveils <> b: unveil, f: '3'
+unweight <> i: unweighting
+unweighting <> b: unweight, f: i
+unwelcome <> i: unwelcoming
+unwelcoming <> b: unwelcome, f: i
+unwind <> i: unwinding, '3': unwinds, p: unwound, d: unwound
+unwinding <> b: unwind, f: i, i: unwinding
+unwinds <> b: unwind, f: '3'
+unwound <> p: unwound, b: unwound, f: pd, d: unwound
+unwrap <> i: unwrapping, '3': unwraps, p: unwrapped, d: unwrapped
+unwrapped <> f: pd, b: unwrap
+unwrapping <> b: unwrap, f: i
+unwraps <> b: unwrap, f: '3'
+unyoke <> i: unyoking, p: unyoked, '3': unyokes, d: unyoked
+unyoked <> f: pd, b: unyoke
+unyokes <> f: '3', b: unyoke
+unyoking <> b: unyoke, f: i
+unzip <> p: unzipped, i: unzipping, '3': unzips, d: unzipped
+unzipped <> b: unzip, f: pd
+unzipping <> b: unzip, f: i
+unzips <> b: unzip, f: '3'
+uo <> s: uos
+uos <> b: uo, f: s
+up <> d: upped, b: up, i: upping, '3': up, f: '3', p: upped, s: ups
+up-and-coming <> s: up-and-comings
+up-and-comings <> b: up-and-coming, f: s
+up-and-under <> s: up-and-unders
+up-and-unders <> b: up-and-under, f: s
+upa <> s: upas
+upas <> b: upa, f: s
+upbeat <> s: upbeats
+upbeats <> b: upbeat, f: s
+upbraid <> d: upbraided, p: upbraided, i: upbraiding, '3': upbraids, b: upbray, f: p
+upbraided <> b: upbraid, f: dp
+upbraiding <> b: upbraid, f: i, i: upbraiding
+upbraids <> b: upbraid, f: '3'
+upbringing <> s: upbringings
+upbringings <> b: upbringing, f: s
+upbuild <> i: upbuilding, '3': upbuilds
+upbuilding <> b: upbuild, f: i
+upbuilds <> b: upbuild, f: '3'
+upchuck <> i: upchucking, p: upchucked, '3': upchucks, d: upchucked
+update <> d: updated, i: updating, s: updates, p: updated, '3': updates
+updated <> b: update, f: dp, d: updated, p: updated
+updates <> b: update, f: s3
+updating <> b: update, f: i, i: updating, s: updatings
+updraft <> s: updrafts
+updrafts <> b: updraft, f: s
+updraught <> s: updraughts
+updraughts <> b: updraught, f: s
+upend <> p: upended, d: upended, i: upending, '3': upends
+upended <> b: upend, f: pd, p: upended
+upending <> b: upend, f: i
+upends <> f: '3', b: upend
+upgrade <> d: upgraded, i: upgrading, s: upgrades, p: upgraded, '3': upgrades
+upgraded <> b: upgrade, f: dp, d: upgraded, p: upgraded
+upgrades <> b: upgrade, f: s3
+upgrading <> b: upgrade, f: i, i: upgrading, s: upgradings
+upheaval <> s: upheavals
+upheavals <> b: upheaval, f: s
+upheave <> i: upheaving, p: upheaved, '3': upheaves, d: upheaved
+upheaved <> f: pd, b: upheave
+upheaves <> f: '3', b: upheave
+upheaving <> f: i, b: upheave
+upheld <> d: upheld, b: upheld, f: dp, p: upheld
+uphold <> i: upholding, '3': upholds, p: upheld, d: upheld
+upholder <> s: upholders
+upholders <> b: upholder, f: s
+upholding <> b: uphold, f: i
+upholds <> b: uphold, f: '3'
+upholster <> p: upholstered, d: upholstered, i: upholstering, s: upholsters, '3': upholsters
+upholstered <> b: upholster, f: pd, p: upholstered, d: upholstered
+upholsterer <> s: upholsterers
+upholsterers <> b: upholsterer, f: s
+upholstering <> b: upholster, f: i, s: upholsterings
+upholsters <> f: s3, b: upholster
+upland <> s: uplands
+uplands <> b: upland, f: s
+uplift <> s: uplifts, p: uplifted, d: uplifted, '3': uplifts, i: uplifting
+uplifted <> b: uplift, f: pd, p: uplifted
+uplifting <> b: uplift, f: i
+uplifts <> b: uplift, f: s3
+uplighter <> s: uplighters
+uplighters <> b: uplighter, f: s
+upload <> i: uploading, p: uploaded, '3': uploads, d: uploaded
+uploaded <> b: upload, f: p
+uploading <> b: upload, f: i
+upped <> f: pd, b: up
+upper <> s: uppers
+uppercut <> s: uppercuts
+uppercuts <> b: uppercut, f: s
+uppers <> b: upper, f: s
+upping <> f: i, b: up
+upraise <> p: upraised, d: upraised, i: upraising, '3': upraises
+upraised <> b: upraise, f: pd
+upraises <> f: '3', b: upraise
+upraising <> f: i, b: upraise
+uprate <> d: uprated, i: uprating, p: uprated
+uprated <> b: uprate, f: dp, p: uprated, d: uprated
+uprating <> b: uprate, f: i, i: uprating, s: upratings
+upright <> s: uprights, d: uprighted
+uprighted <> b: upright, f: d
+uprights <> b: upright, f: s
+uprise <> i: uprising, p: uprose, '3': uprises, d: uprisen
+uprising <> f: i, b: uprise, s: uprisings
+uprisings <> b: uprising, f: s
+uproar <> s: uproars
+uproars <> b: uproar, f: s
+uproot <> d: uprooted, i: uprooting, p: uprooted, '3': uproots
+uprooted <> b: uproot, f: dp, d: uprooted
+uprooting <> b: uproot, f: i, i: uprooting
+uproots <> b: uproot, f: '3'
+uprose <> f: p, b: uprise
+UPS <> b: up, f: s
+upset <> d: upset, b: upset, f: dp, i: upsetting, '3': upsets, s: upsets, p: upset
+upsets <> b: upset, f: 3s
+upsetter <> s: upsetters
+upsetters <> b: upsetter, f: s
+upsetting <> b: upset, f: i, i: upsetting
+upshift <> s: upshifts
+upshifts <> b: upshift, f: s
+upshot <> s: upshots
+upshots <> b: upshot, f: s
+upside <> s: upsides
+upsides <> b: upside, f: s
+upsilon <> s: upsilons
+upsilons <> b: upsilon, f: s
+upsize <> i: upsizing
+upsizing <> b: upsize, f: i
+upslope <> s: upslopes
+upslopes <> b: upslope, f: s
+upstage <> d: upstaged, p: upstaged, i: upstaging, '3': upstages
+upstaged <> b: upstage, f: dp
+upstages <> b: upstage, f: '3'
+upstaging <> b: upstage, f: i
+upstand <> '3': upstands
+upstands <> b: upstand, f: '3'
+upstart <> s: upstarts
+upstarts <> b: upstart, f: s
+upstroke <> s: upstrokes
+upstrokes <> b: upstroke, f: s
+upsurge <> s: upsurges
+upsurges <> b: upsurge, f: s
+upswing <> s: upswings, i: upswinging
+upswinging <> b: upswing, f: i
+upswings <> b: upswing, f: s
+uptake <> s: uptakes
+uptakes <> b: uptake, f: s
+upthrust <> i: upthrusting, s: upthrusts
+upthrusting <> b: upthrust, f: i
+upthrusts <> b: upthrust, f: s
+uptown <> r: uptowner
+uptowner <> b: uptown, f: r
+upturn <> s: upturns, d: upturned, i: upturning, p: upturned
+upturned <> b: upturn, f: dp, d: upturned
+upturning <> b: upturn, f: i
+upturns <> b: upturn, f: s
+upwarp <> s: upwarps, d: upwarped
+upwarped <> b: upwarp, f: d
+upwarps <> b: upwarp, f: s
+upwelling <> i: upwelling, b: upwelling, f: i, s: upwellings
+upwellings <> b: upwelling, f: s
+UR <> i: uring
+urb <> s: urbs
+urbanise <> p: urbanised, d: urbanised, i: urbanising
+urbanised <> d: urbanised, b: urbanised, f: dp, p: urbanised
+urbanising <> b: urbanise, f: i
+urbanite <> s: urbanites
+urbanites <> b: urbanite, f: s
+urbanities <> b: urbanity, f: s
+urbanity <> s: urbanities
+urbanize <> d: urbanized, i: urbanizing, p: urbanized, '3': urbanizes
+urbanized <> d: urbanized, b: urbanized, f: d
+urbanizes <> f: '3', b: urbanize
+urbanizing <> b: urbanize, f: i
+urbs <> b: urb, f: s
+urchin <> s: urchins
+urchins <> b: urchin, f: s
+Ure <> s: ures
+ureter <> s: ureters
+ureters <> b: ureter, f: s
+urethane <> s: urethanes
+urethanes <> b: urethane, f: s
+urethra <> s: urethras
+urethras <> b: urethra, f: s
+urge <> p: urged, i: urging, d: urged, '3': urges, s: urges
+urged <> b: urge, f: pd
+urgencies <> b: urgency, f: s
+urgency <> s: urgencies
+urges <> b: urge, f: 3s
+urging <> b: urge, f: i, s: urgings, i: urging
+urgings <> b: urging, f: s
+uri <> s: uri, b: uri, f: s
+urinal <> s: urinals
+urinals <> b: urinal, f: s
+urinate <> i: urinating, p: urinated, '3': urinates, s: urinates, d: urinated
+urinated <> b: urinate, f: pd
+urinates <> b: urinate, f: 3s
+urinating <> b: urinate, f: i
+urination <> s: urinations
+urinations <> b: urination, f: s
+urn <> s: urns
+urns <> b: urn, f: s
+urodele <> s: urodeles
+urodeles <> b: urodele, f: s
+urologist <> s: urologists
+urologists <> b: urologist, f: s
+urticate <> i: urticating, p: urticated, '3': urticates, d: urticated
+urticated <> f: pd, b: urticate
+urticates <> f: '3', b: urticate
+urticating <> f: i, b: urticate
+Uruguayan <> s: uruguayans
+usage <> s: usages
+usages <> b: usage, f: s
+use <> d: used, i: using, p: used, '3': uses, s: uses
+used <> b: use, f: dp, d: used, p: used
+user <> s: users
+users <> b: user, f: s
+uses <> b: use, f: 3s
+usher <> p: ushered, d: ushered, i: ushering, '3': ushers, s: ushers
+ushered <> b: usher, f: pd
+usherette <> s: usherettes
+usherettes <> b: usherette, f: s
+ushering <> b: usher, f: i
+ushers <> b: usher, f: 3s
+using <> b: use, f: i
+USP <> s: usps
+usps <> b: usp, f: s
+USS <> d: ussed, i: ussing
+usurer <> s: usurers
+usurers <> b: usurer, f: s
+usurp <> d: usurped, i: usurping, p: usurped, '3': usurps
+usurpation <> s: usurpations
+usurpations <> b: usurpation, f: s
+usurped <> b: usurp, f: dp, p: usurped
+usurper <> s: usurpers
+usurpers <> b: usurper, f: s
+usurping <> b: usurp, f: i
+usurps <> b: usurp, f: '3'
+UT <> s: uts, '3': uts
+ute <> s: utes
+utensil <> s: utensils
+utensils <> b: utensil, f: s
+uteri <> s: uteri, b: uteri, f: s
+utes <> b: ute, f: s
+utilisation <> s: utilisations
+utilisations <> b: utilisation, f: s
+utilise <> d: utilised, i: utilising, '3': utilises, p: utilised
+utilised <> b: utilise, f: dp, p: utilised
+utilises <> b: utilise, f: '3'
+utilising <> b: utilise, f: i
+utilitarian <> s: utilitarians
+utilitarians <> b: utilitarian, f: s
+utilities <> b: utility, f: s
+utility <> s: utilities
+utilize <> d: utilized, i: utilizing, p: utilized, '3': utilizes
+utilized <> b: utilize, f: dp
+utilizes <> b: utilize, f: '3'
+utilizing <> b: utilize, f: i
+Utopia <> s: utopias
+Utopian <> s: utopians
+utopians <> b: utopian, f: s
+utopias <> b: utopia, f: s
+utter <> p: uttered, d: uttered, i: uttering, '3': utters
+utterance <> s: utterances
+utterances <> b: utterance, f: s
+uttered <> b: utter, f: pd
+uttering <> b: utter, f: i, s: utterings
+utters <> b: utter, f: '3'
+Uzbek <> s: uzbeks
+uzbeks <> b: uzbek, f: s

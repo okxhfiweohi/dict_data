@@ -1,0 +1,3326 @@
+cab <> w: 26125, p: [49512, 51244]
+cabal <> w: 26127
+cabana <> w: 26132, p: [31891]
+cabaret <> w: 26133, p: [51757]
+cabbage <> w: 26137, p: [50513, 60778]
+cabby <> w: 26147, p: [20958]
+cabdriver <> w: 26148, p: [20958]
+cabin <> w: 26155, p: [18253, 23625]
+cabin class <> w: 26158, p: [18653]
+cabin crew <> p: [20315]
+cabinet <> w: 26161, p: [48537]
+cabinet pudding <> p: [31042]
+cable <> w: 26168, p: [20495, 48689]
+cable car <> w: 26170, p: [37361]
+cable stitch <> w: 222642
+cable television <> w: 26174
+cabman <> w: 26178, p: [20958]
+caboose <> w: 26184
+cabriole <> w: 220722
+cabriolet <> w: 26187
+cabstand <> w: 26188, p: [14274]
+caca <> w: 229071
+cachalot <> w: 26199, p: [34612]
+cache <> w: 26200, p: [48269]
+cachucha <> w: 220914
+cacique <> w: 26210
+cack <> w: 367709
+cackle <> w: 26212, p: [61298]
+cacophonous <> w: 26231
+cacophony <> w: 26232
+cactus <> w: 26234, p: [51080]
+cadaver <> w: 26244
+cadaverous <> w: 26247, p: [19795]
+caddie <> w: 26250
+cadence <> w: 26259
+cadenza <> w: 26263
+cadet <> w: 26264
+cadge <> w: 26266
+caduceus <> w: 26282
+caesura <> w: 26320, p: [39499]
+cafe <> w: 26322, p: [21613]
+cafe curtain <> p: [41860]
+cafe noir <> p: [34825]
+cafeteria <> w: 26326, p: [22223]
+cafetiere <> w: 219717, p: [37962]
+caffeinated <> w: 218256
+caffeine <> w: 26334
+caftan <> w: 26342, p: [34115]
+cage <> w: 26343, p: [20619, 47466]
+caiman <> w: 26354, p: [26940]
+caisson <> w: 26369
+caitiff <> w: 26371
+cajole <> w: 26376, p: [58587]
+cake <> w: 26381, p: [27133, 51462, 36399]
+cake flour <> p: [35419]
+cake pan <> w: 219697, p: [38116]
+cakewalk <> w: 26504
+calabash <> w: 26510, p: [34901]
+calabrese <> w: 209173, p: [50475]
+calamari <> w: 26525, p: [36226]
+calamine lotion <> w: 26528
+calamitous <> w: 26535
+calamity <> w: 26536
+calcification <> w: 26570
+calcium <> w: 26580
+calculable <> w: 26602
+calculate <> w: 26603, p: [41728]
+calculated <> w: 26604
+calculating <> w: 26605
+calculation <> w: 26608, p: [41728]
+calculator <> w: 26610, p: [41728]
+calculus <> w: 26612, p: [32620]
+caldera <> w: 26617
+calendar <> w: 26630, p: [48909, 48909]
+calendar month <> w: 26634, p: [48039]
+calf <> w: 26644, p: [22756, 20721]
+caliber <> w: 26656, p: [51338]
+calibrate <> w: 26657
+caliper <> w: 26724
+calk <> w: 26733
+call <> w: 26735, p: [48703, 60756, 49141, 34365, 49129, 34365]
+call for <> p: [53405, 19480, 35864]
+call it quits <> p: [21278]
+call on <> p: [52841, 23471]
+call-in <> w: 26738
+call-out <> p: [52443, 57907]
+call-up <> p: [48703, 33002, 60091]
+callback <> w: 26776
+caller <> w: 26777, p: [49129]
+calligraphy <> w: 26788, p: [26900]
+calling card <> w: 26794, p: [36064]
+callosity <> w: 26836, p: [29934]
+callous <> w: 26838, p: [60184]
+calloused <> w: 26839
+callow <> w: 26842
+callus <> w: 26846, p: [29934]
+calm <> w: 26847, p: [46344, 19554]
+calm down <> p: [44254, 47967]
+calming <> w: 26850, p: [45946]
+calmly <> w: 27002, p: [42430]
+calmness <> w: 27003, p: [46344]
+calorie <> w: 27032, p: [31207]
+calorific <> w: 27036, p: [17555]
+calorimeter <> w: 27037
+calorimetry <> w: 27039
+calotype <> w: 223044
+calque <> w: 27050
+calumniate <> w: 27056
+calumny <> w: 27061
+calvados <> w: 27062, p: [18293]
+calve <> w: 27069
+calypso <> w: 27102, p: [38176]
+calzone <> w: 217801
+camaraderie <> w: 27117
+camas <> w: 27119
+camber <> w: 27127
+cambium <> w: 27131
+camcorder <> w: 27144, p: [33709]
+camel <> w: 27146, p: [29216, 38573]
+camellia <> w: 27155, p: [51150]
+camelopard <> w: 27159, p: [50168]
+camembert <> w: 27165, p: [26884]
+cameo <> w: 27166, p: [25311]
+camera <> w: 27167, p: [17409, 22413]
+cameraman <> w: 27175
+camerawork <> w: 208858
+camisole <> w: 27183, p: [34313]
+camouflage <> w: 27191, p: [28960]
+camouflaged <> w: 27192
+camp <> w: 27193, p: [28840, 23573, 28838]
+camp bed <> w: 27195, p: [37449]
+campaign <> w: 27203, p: [18940, 59930]
+campaigner <> w: 27206, p: [20936]
+campaigning <> w: 27207
+campari <> w: 229468
+camper <> w: 27234, p: [51626, 23455]
+campfire <> w: 27237, p: [29721]
+campground <> w: 27239, p: [23455]
+camping <> w: 27253, p: [28838]
+campsite <> w: 27263, p: [23455]
+campus <> w: 27267, p: [20019]
+can <> w: 27277, p: [17869, 16395, 20051, 48355, 27203, 33467]
+can opener <> w: 27281, p: [38883]
+canal <> w: 27324, p: [19464]
+canape <> w: 27342, p: [28063, 42276]
+canard <> w: 27344
+canary <> w: 27347, p: [50239, 38825, 38825]
+canasta <> w: 27360
+cancan <> w: 27366
+cancel <> w: 27367, p: [17845, 59428]
+canceled <> w: 220173, p: [17845]
+cancellation <> w: 220061
+cancer <> w: 27374, p: [31558]
+cancerous <> w: 27386
+candid <> w: 27398, p: [42986]
+candidacy <> w: 27402, p: [20936]
+candidate <> w: 27403, p: [20936]
+candidly <> w: 27504, p: [42986]
+candied <> w: 27506, p: [37940]
+candle <> w: 27510, p: [19608]
+candlestick <> w: 27525, p: [32752]
+candor <> w: 27529
+candy <> w: 27531, p: [37283, 37804]
+candy cane <> w: 27536, p: [27710]
+candyfloss <> w: 27543, p: [27712]
+cane <> w: 27547, p: [33332]
+canine <> w: 27573, p: [50082, 30489, 50082]
+canister <> w: 27591, p: [20051]
+canker <> w: 27593
+cannabis <> w: 27606, p: [21963]
+canned <> w: 27612, p: [51572]
+cannelloni <> w: 27619, p: [30060]
+cannister <> w: 27631, p: [20051]
+cannoli <> w: 218217, p: [37834]
+cannon <> w: 27632, p: [29828]
+cannula <> w: 27642, p: [25705]
+cannulate <> w: 27644, p: [25705]
+cannulation <> w: 27645, p: [25705]
+canny <> w: 27650
+canoe <> w: 27651, p: [29545, 29545]
+canoeing <> w: 226984
+canoeist <> w: 27654, p: [29545]
+canon <> w: 27657, p: [51120]
+canonical <> w: 27660
+canonize <> w: 27668
+canoodle <> w: 27670, p: [40319]
+canopy <> w: 27675, p: [41840, 32734]
+cant <> w: 27677, p: [53558]
+cantaloup <> w: 27685, p: [50441]
+cantaloupe <> w: 27687, p: [50441]
+cantankerous <> w: 27689
+cantata <> w: 27691
+canteen <> w: 27693, p: [33936]
+canter <> w: 27694, p: [24272, 24272]
+cantilever <> w: 27710
+cantina <> w: 229091
+canto <> w: 27715
+cantonment <> w: 27724
+canvas <> w: 27735, p: [47238, 20739]
+canvass <> w: 27739
+canyon <> w: 27742, p: [51120]
+cap <> w: 27750, p: [28385, 47150]
+capability <> w: 27755
+capable <> w: 27756, p: [23691, 50001]
+capably <> w: 27758, p: [46619]
+capacious <> w: 27759
+capacitance <> w: 27761, p: [31781]
+capacitor <> w: 27765, p: [31781]
+capacity <> w: 27768, p: [51214]
+cape <> w: 27773, p: [25016]
+capellini <> w: 217350, p: [27598]
+caper <> w: 27825, p: [35270, 48731]
+capercaillie <> w: 27830, p: [24404]
+capillary <> w: 27839, p: [30481]
+capital <> w: 27848
+capital gains tax <> w: 28006
+capital punishment <> w: 28202
+capitalism <> w: 28207
+capitalist <> w: 28208
+capitalistic <> w: 28210
+capitalization <> w: 28211
+capitalize <> w: 28212, p: [53365]
+capitalize on <> p: [45315]
+capitulate <> w: 28223, p: [36295]
+capitulation <> w: 28224
+capoeira <> w: 226913
+cappelletti <> w: 28247, p: [30924]
+cappuccino <> w: 28248, p: [21879]
+capri pants <> p: [24871]
+caprice <> w: 28261
+capricious <> w: 28262
+capsicum <> w: 28291, p: [34999]
+capsid <> w: 28300
+capsize <> w: 28302
+capstan <> w: 28304
+capstone <> w: 28305
+capsule <> w: 28310, p: [18978]
+captain <> w: 28313, p: [50591, 29372, 31546, 29372]
+caption <> w: 28325, p: [47038, 37297]
+captious <> w: 28326
+captivate <> w: 28328, p: [47955]
+captivated <> w: 28329
+captivating <> w: 28330, p: [26646]
+captivatingly <> w: 28331
+captive <> w: 28333, p: [45319]
+captivity <> w: 28335
+capture <> w: 28338, p: [20686]
+capuchin <> w: 28340, p: [34179]
+capybara <> w: 28344, p: [24072]
+car <> w: 28345, p: [49365, 37115, 37361]
+car crash <> p: [30050]
+car park <> w: 28363, p: [19224]
+car phone <> p: [36929]
+car wash <> w: 227954
+carabiner <> w: 28382
+caracara <> w: 28385
+carafe <> w: 28392, p: [42758]
+carambola <> w: 28397, p: [26920]
+caramel <> w: 28399, p: [27714, 35216]
+caramelize <> w: 28506, p: [59810]
+carapace <> w: 28519, p: [30664]
+carat <> w: 28525, p: [26230]
+caravan <> w: 28527, p: [40221, 23109]
+caravan site <> p: [23455]
+caravanning <> w: 28529, p: [23203]
+caravel <> w: 229466
+carbohydrate <> w: 28543, p: [21408]
+carbon <> w: 28549, p: [22698, 29525]
+carbon copy <> w: 30317
+carbon dating <> w: 28558
+carbon dioxide <> w: 28560
+carbon monoxide <> w: 28563
+carbon paper <> w: 28567, p: [29525]
+carbonara <> w: 28575, p: [30970, 30970]
+carbonate <> w: 28576, p: [54906]
+carbonated <> w: 28577, p: [19558]
+carbuncle <> w: 28603
+carburetor <> w: 28607
+carcajou <> w: 28611, p: [24378]
+carcass <> w: 28613
+carcinogen <> w: 28626
+carcinogenic <> w: 28627
+carcinoma <> w: 28629
+card <> w: 28634, p: [16147, 21236, 29224, 28626, 35603, 18736, 51582, 26455]
+card catalog <> w: 28637, p: [29575]
+card index <> w: 28640, p: [29575]
+card table <> w: 28645, p: [42068]
+cardamom <> w: 28654, p: [27265]
+cardboard <> w: 28657, p: [20031]
+cardiac <> w: 28663
+cardigan <> w: 28683, p: [20509]
+cardinal <> w: 28686, p: [24406, 61080]
+cardinal number <> w: 28692
+cardiogram <> w: 28703, p: [35627]
+cardiologist <> w: 28711, p: [33145]
+cardiology <> w: 28712
+cardiomyopathy <> w: 28714
+cardiovascular <> w: 28725
+cardiovascular system <> p: [18517]
+cardoon <> w: 28732, p: [35015]
+cards <> w: 28734, p: [51664]
+care <> w: 28750, p: [61302, 42372, 42902, 27421, 17533]
+care for <> p: [31719]
+careen <> w: 28756
+career <> w: 28757, p: [61228]
+carefree <> w: 28763
+careful <> w: 28765, p: [17533, 51270]
+carefully <> w: 28766, p: [51270]
+carefulness <> w: 28767, p: [17533]
+caregiver <> w: 28768
+careless <> w: 28769, p: [17535]
+carelessly <> w: 28770, p: [51272]
+carelessness <> w: 28771, p: [17535, 51272]
+careline <> w: 208598
+carer <> w: 226100
+caress <> w: 28773, p: [30557, 30557]
+caretaker <> w: 28776, p: [16336]
+careworn <> w: 28780
+carfare <> w: 28784, p: [33024]
+cargo <> w: 28786
+cargo pants <> p: [24873]
+carhop <> w: 28799
+caribou <> w: 28812, p: [20551]
+caricature <> w: 28816, p: [47246, 47246]
+caricaturist <> w: 28818, p: [47660]
+caries <> w: 28819, p: [30595]
+carillon <> w: 28820
+caring <> w: 28829, p: [27305]
+carioca <> w: 28830
+carjack <> w: 28837
+carjacking <> w: 28838
+carmaker <> w: 28875, p: [35992]
+carman <> w: 228125
+carmine <> w: 28880
+carnage <> w: 28881
+carnal <> w: 28882
+carnation <> w: 28892, p: [31950]
+carnelian <> w: 29010
+carnival <> w: 29013, p: [33677]
+carnivore <> w: 29015, p: [30766]
+carnivorous <> w: 29016, p: [30766]
+carob <> w: 29025, p: [26343]
+carol <> w: 29032, p: [18716, 18716]
+carom <> w: 29057
+carotenoid <> w: 29060
+carousal <> w: 29067
+carouse <> w: 29068
+carousel <> w: 29069, p: [32076]
+carp <> w: 29072, p: [50309, 55008]
+carpaccio <> w: 218213
+carpal <> w: 29073
+carpenter <> w: 29083, p: [20960, 20960]
+carpenter ant <> p: [34646]
+carpenter bee <> p: [34648]
+carpentry <> w: 29096
+carpet <> w: 29098, p: [50703, 50769, 50703]
+carpet beetle <> p: [36371]
+carpet bomb <> w: 29101
+carpeting <> w: 29118, p: [50703]
+carping <> w: 29124
+carpool <> w: 28365, p: [33693]
+carpus <> w: 29141, p: [50661]
+carrageen <> w: 29143
+carriage <> w: 29151, p: [30058, 51250]
+carriage dog <> p: [39807]
+carriageway <> w: 29158
+carrier <> w: 29161, p: [28083, 49203, 29711]
+carrier pigeon <> w: 29164, p: [24410]
+carrion <> w: 29166
+carrion crow <> p: [24412]
+carrot <> w: 29173, p: [28325]
+carroty <> w: 29179
+carrousel <> w: 29180, p: [32076]
+carry <> w: 29181, p: [61260, 19174]
+carry on <> p: [43014, 44802]
+carry over <> p: [22680, 53278]
+carry weight <> p: [40695]
+carry-on <> w: 210222, p: [34588]
+carry-out <> w: 209321, p: [26421]
+carry-over <> p: [22680, 53278]
+carryall <> w: 29197, p: [22305]
+carsick <> w: 29203, p: [31209]
+cart <> w: 29208, p: [22309, 47126]
+cart-track <> p: [15927]
+carte <> w: 29217, p: [51582]
+carte blanche <> w: 29218
+cartel <> w: 29220
+carthorse <> w: 29232, p: [24386]
+cartilage <> w: 29236, p: [30511]
+cartographer <> w: 29245
+cartography <> w: 29248, p: [32552]
+carton <> w: 29249, p: [20081, 48643]
+cartoon <> w: 29251, p: [37328, 22399, 18762, 37328]
+cartoonist <> w: 29253, p: [47662]
+cartouche <> w: 29255
+cartridge <> w: 29256, p: [38022]
+cartwheel <> w: 29268
+carve <> w: 29279, p: [51668, 26467, 26353]
+carve-up <> p: [27764]
+carver <> w: 29287, p: [47678]
+carvery <> w: 209322, p: [26467]
+carving <> w: 29288, p: [31301, 51668]
+carving fork <> w: 29289, p: [38341]
+carving knife <> w: 29290, p: [30740]
+caryatid <> w: 29303
+caryopsis <> w: 29314, p: [37375]
+cascade <> w: 29326, p: [51156, 51156]
+case <> w: 29342, p: [20848, 20848, 32958, 36966, 39157]
+case law <> w: 29509
+case study <> w: 29513
+casebook <> w: 29515
+casement <> w: 29522
+caseworker <> w: 29527, p: [27289]
+cash <> w: 29531, p: [60778, 53870]
+cash and carry <> w: 225064
+cash cow <> w: 29538
+cash dispenser <> w: 29540, p: [29717]
+cash flow <> w: 29542
+cash machine <> w: 29547, p: [29717]
+cash register <> w: 29551, p: [29585]
+cash-strapped <> w: 228860
+cashew <> w: 29557, p: [17013]
+cashier <> w: 29560, p: [20970]
+cashmere <> w: 29563, p: [29848]
+cashpoint <> w: 220398
+casino <> w: 29567, p: [23065]
+cassava <> w: 29587, p: [26704, 31335]
+casserole <> w: 29590, p: [32766, 31199]
+cassoulet <> w: 209237, p: [30928]
+cassowary <> w: 29628, p: [24414]
+cast <> w: 29629, p: [38160, 21392, 26300]
+cast-iron <> w: 29630
+castanets <> w: 29652, p: [27572]
+caste <> w: 29657
+caster sugar <> w: 29662, p: [27740]
+castigate <> w: 29663, p: [46388]
+castigation <> w: 29664
+casting <> w: 29676
+castle <> w: 29679, p: [27209, 29990]
+castling <> w: 29683
+castor sugar <> w: 29691, p: [27740]
+castrato <> w: 29698
+casual <> w: 29702, p: [16280]
+casually <> w: 29703, p: [49572]
+casualty <> w: 29705
+casuistry <> w: 29717
+cat <> w: 29719, p: [50132, 24154, 26300]
+cat door <> p: [28435]
+cat flap <> p: [28435]
+cat's eye <> w: 29725
+catachresis <> w: 29756
+cataclysm <> w: 29760, p: [17603]
+cataclysmic <> w: 29762
+catacomb <> w: 29763
+catalog <> w: 29777, p: [48295]
+cataloging <> w: 221427
+catalysis <> w: 29789
+catalyst <> w: 29790
+catalytic <> w: 29791
+catalytic converter <> w: 29792
+catalyze <> w: 29795
+catamaran <> w: 29796
+catamount <> w: 29800, p: [24268, 24230]
+cataphora <> w: 208764
+catapult <> w: 29815, p: [46842]
+cataract <> w: 29818
+catarrh <> w: 29821
+catastrophe <> w: 29828, p: [17603]
+catastrophic <> w: 29829, p: [45966]
+catastrophically <> w: 29831, p: [49750]
+catatonia <> w: 29832
+catbird <> w: 29837, p: [24416, 24416]
+catcall <> w: 229350
+catch <> w: 29841, p: [17565, 20686, 18585, 28083, 48689, 17565]
+catch fire <> p: [61052]
+catch on <> p: [23641]
+catch up <> p: [44832, 23623]
+catch up with <> p: [52087]
+catch-up <> p: [44832, 23623]
+catching <> w: 30020, p: [28083]
+catchment area <> w: 30022
+catchy <> w: 30028
+catechism <> w: 30036
+catechize <> w: 30040, p: [47787]
+categorical <> w: 30049
+categorically <> w: 30051, p: [48763]
+categorize <> w: 30056, p: [23487]
+category <> w: 30058
+catena <> w: 30059
+cater <> w: 30063, p: [47971]
+cater for <> p: [53407]
+cater to <> p: [51562]
+caterer <> w: 30066
+catering <> w: 30067
+caterpillar <> w: 30068, p: [50241]
+caterwaul <> w: 30072
+catfish <> w: 30073, p: [50311]
+catgut <> w: 30074, p: [30151]
+catharsis <> w: 30084
+cathartic <> w: 30087
+cathedral <> w: 30095, p: [18748]
+catheter <> w: 30106
+catheterize <> w: 30110
+cathode <> w: 30112
+catholic <> w: 30117
+catnap <> w: 30137, p: [47184]
+catsuit <> w: 216582, p: [34061]
+cattle <> w: 30160, p: [27333]
+cattleman <> w: 30175, p: [29918]
+catty <> w: 30180
+catwalk <> w: 30184, p: [16320]
+caucus <> w: 30193
+caught <> w: 224438, p: [46380]
+cauldron <> w: 30211, p: [38122]
+cauliflower <> w: 30213, p: [26680]
+caulk <> w: 30216
+causal <> w: 30223
+causality <> w: 30228
+causation <> w: 30230
+causative <> w: 30231
+cause <> w: 30232, p: [61054]
+causerie <> w: 30239, p: [36880]
+causeway <> w: 30240
+caustic <> w: 30242
+cauterize <> w: 30252
+caution <> w: 30254, p: [55168, 17533]
+cautionary <> w: 30255
+cautious <> w: 30256, p: [60314]
+cautiously <> w: 30258, p: [49319]
+cavalcade <> w: 30260
+cavalier <> w: 30261
+cavalry <> w: 30265
+cave <> w: 30269, p: [51124]
+cave painting <> p: [31303]
+cave-in <> p: [53087, 28029]
+caveat <> w: 30275
+cavern <> w: 30280, p: [51124]
+cavernous <> w: 30282
+caviar <> w: 30288, p: [29607]
+cavil <> w: 30291, p: [55020]
+cavity <> w: 30295, p: [30595]
+cavort <> w: 30299
+cavy <> w: 30301
+caw <> w: 30302
+cayenne pepper <> w: 30307, p: [35001, 35704]
+cayman <> w: 30308, p: [26940]
+cayuse <> w: 30313
+cease <> w: 30337, p: [21278]
+ceasefire <> w: 211207
+ceaseless <> w: 30340, p: [49986]
+ceaselessly <> w: 30341, p: [42270]
+cecum <> w: 30368
+cedar <> w: 30369, p: [21841]
+cede <> w: 30512, p: [59878]
+cedilla <> w: 30514
+ceiling <> w: 30537, p: [60744]
+celadon <> w: 217551, p: [38599]
+celebrate <> w: 30548, p: [18742, 19528]
+celebrated <> w: 30549, p: [28447]
+celebration <> w: 30551, p: [19474, 18728]
+celebratory <> w: 30553
+celebrity <> w: 30555, p: [22311]
+celeriac <> w: 30557, p: [26682]
+celerity <> w: 30558
+celery <> w: 30559, p: [35258]
+celesta <> w: 30570, p: [27574]
+celeste <> w: 217393, p: [38427]
+celestial <> w: 30571
+celiac <> w: 30588
+celibate <> w: 30593
+cell <> w: 30597
+cella <> w: 222134
+cellar <> w: 30611, p: [51045]
+cellaret <> w: 30613, p: [19022]
+cellist <> w: 30616, p: [18441]
+cello <> w: 30617, p: [18441]
+cellophane <> w: 30618, p: [26517]
+cellphone <> w: 30619
+cellular <> w: 30620
+cellular phone <> w: 30623, p: [49293]
+cellulite <> w: 30628
+cellulitis <> w: 30629
+celluloid <> w: 30630
+cellulose <> w: 30631
+celsius <> w: 30646, p: [20920, 20920]
+cembalo <> w: 30658, p: [27650]
+cement <> w: 30661, p: [29475, 46442]
+cemetery <> w: 30666, p: [29834]
+cenotaph <> w: 30675
+censor <> w: 30680, p: [46816]
+censored <> w: 30681
+censoring <> w: 30683
+censorious <> w: 30684
+censorship <> w: 30685
+censurable <> w: 30686
+censure <> w: 30687
+census <> w: 30688
+cent <> w: 30691, p: [17505, 17505]
+centaur <> w: 30695
+centenarian <> w: 30714, p: [30201]
+centenary <> w: 30715
+centennial <> w: 30716
+center <> w: 30719, p: [22213, 51684, 51632, 27690, 37033]
+centerline <> w: 30742
+centigrade <> w: 30747, p: [20918]
+centime <> w: 30753, p: [17505]
+centimeter <> w: 30754, p: [29723]
+centipede <> w: 30757, p: [30134]
+central <> w: 30759, p: [43368]
+central heating <> w: 30775, p: [51047]
+central nervous system <> w: 30778
+central processing unit <> w: 30782
+central reservation <> w: 218681
+centralism <> w: 30797
+centralized <> w: 30803
+centrally <> w: 30805
+centrifugal <> w: 30828
+centrifuge <> w: 30833
+centriole <> w: 30834
+centripetal <> w: 30835
+centripetal force <> w: 30837
+centrist <> w: 30840
+centromere <> w: 30847
+centurion <> w: 30865
+century <> w: 30866, p: [17356, 36208]
+ceramic <> w: 31023, p: [29489, 36415]
+ceramicist <> w: 31025
+ceramics <> w: 31026, p: [51672]
+cereal <> w: 31088, p: [50341, 19446]
+cerebellum <> w: 31097, p: [30413]
+cerebral <> w: 31098
+cerebral aqueduct <> p: [30409]
+cerebral palsy <> w: 31108
+cerebrate <> w: 31113, p: [45481]
+cerebration <> w: 31114
+cerebrum <> w: 31122
+ceremonial <> w: 31125, p: [27435]
+ceremonially <> w: 31128
+ceremonious <> w: 31129
+ceremony <> w: 31132, p: [27435, 23845]
+cerise <> w: 31138, p: [38719]
+cert <> w: 31148
+certain <> w: 31149, p: [47765]
+certainly <> w: 31150, p: [43400]
+certainty <> w: 31151
+certificate <> w: 31157, p: [29412]
+certification <> w: 31162
+certified <> w: 31164
+certified public accountant <> w: 31168
+certify <> w: 31169, p: [59355]
+certitude <> w: 31171
+cerulean <> w: 31172, p: [34829, 34829]
+cervix <> w: 31198, p: [60766]
+cessation <> w: 31221, p: [21278]
+cession <> w: 31222
+cesspit <> w: 31223
+cetacean <> w: 31235, p: [40285]
+ceviche <> w: 217705
+chablis <> w: 31281
+chaconne <> w: 209055
+chador <> w: 31294, p: [25090]
+chafe <> w: 31312, p: [20259]
+chaff <> w: 31315
+chaffer <> w: 31316, p: [36880, 46426]
+chaffinch <> w: 31317, p: [24418]
+chafing dish <> w: 31322, p: [38124]
+chagrin <> w: 31328, p: [52157]
+chagrined <> w: 31329, p: [19596]
+chai <> w: 218307
+chain <> w: 31334, p: [28387, 18902, 20922]
+chain armour <> p: [34227]
+chain mail <> w: 31343, p: [34227]
+chain reaction <> w: 31348
+chain saw <> w: 31350, p: [22526]
+chain stitch <> w: 31351
+chain store <> w: 31352, p: [27045]
+chainsaw <> w: 31360, p: [22526]
+chair <> w: 31361, p: [17377, 40741, 40741]
+chairman <> w: 31366, p: [40741, 40741]
+chairperson <> w: 31369, p: [40741]
+chairwoman <> w: 31370
+chaise <> w: 31371
+chaise longue <> w: 31372, p: [42278]
+chalet <> w: 31397, p: [18253]
+chalice <> w: 31398, p: [38369]
+chalk <> w: 31400, p: [25525, 54311]
+chalkboard <> w: 31508
+chalky <> w: 31511
+challah <> w: 31512, p: [26351]
+challenge <> w: 31513, p: [59684]
+challenged <> w: 224476, p: [31564]
+challenger <> w: 31515, p: [18231]
+challenging <> w: 31516
+chalupa <> w: 217924
+chamber <> w: 31542, p: [50791]
+chamber music <> w: 31543, p: [38305]
+chamber orchestra <> w: 31545, p: [39459]
+chameleon <> w: 31553, p: [23759]
+chamois <> w: 31561, p: [24074]
+chamomile <> w: 31565, p: [37393]
+champ <> w: 31567
+champagne <> w: 31568, p: [18345, 38657]
+champaign <> w: 31572, p: [27163]
+champion <> w: 31574, p: [14083, 59066]
+championship <> w: 31576, p: [35641]
+chance <> w: 31583, p: [27361]
+chancel <> w: 31591
+chancellor <> w: 31593
+chancery <> w: 31597
+chandelier <> w: 31603, p: [37061]
+change <> w: 31614, p: [61272, 22676, 53576, 14558, 19318, 17849, 22676, 18405]
+change down <> p: [53359]
+change over <> p: [53226, 40411]
+changeability <> w: 31643
+changeable <> w: 31644, p: [22941]
+changed <> w: 31646
+changeful <> w: 31647
+changeless <> w: 31649
+changing <> w: 31654
+changing room <> w: 217140, p: [21895]
+channel <> w: 31657, p: [26186, 19464]
+chant <> w: 31676, p: [58099]
+chanterelle <> w: 31680, p: [36269]
+chanty <> w: 31685
+chaos <> w: 31689
+chaotic <> w: 31690
+chap <> w: 31693, p: [60862]
+chaparral <> w: 31694
+chapati <> w: 31700, p: [27600]
+chapbook <> w: 221512
+chapeau <> w: 31702, p: [50910]
+chapel <> w: 31703
+chaperon <> w: 31707
+chaplain <> w: 31711
+chaps <> w: 221188, p: [39685]
+chapter <> w: 31719
+char <> w: 31722, p: [19314, 59838]
+charabanc <> w: 31724, p: [49484]
+character <> w: 31731, p: [19086]
+characteristic <> w: 31742
+characteristically <> w: 31745
+characterization <> w: 31746
+characterize <> w: 31747, p: [55060]
+charades <> w: 31750, p: [22810]
+charbroil <> w: 218551
+charcoal <> w: 31759, p: [20422, 25527]
+charcuterie <> w: 31767
+chard <> w: 31768, p: [26684]
+chardonnay <> w: 31770, p: [35068, 31849]
+charge <> w: 31772, p: [20762, 20762, 19522, 20694, 29430]
+charge card <> w: 31776, p: [17497]
+charged <> w: 31785
+charger <> w: 31787, p: [20497]
+charging <> w: 226812
+chargrill <> w: 209275, p: [20954]
+chariot <> w: 31795, p: [30090]
+charisma <> w: 32003
+charismatic <> w: 32004, p: [60210]
+charitable <> w: 32005, p: [20253]
+charitably <> w: 32008, p: [20253]
+charity <> w: 32009, p: [18667, 18750]
+charlatan <> w: 32015
+charlotte <> w: 32109, p: [26976]
+charm <> w: 32115, p: [25313, 47957]
+charmed <> w: 32118
+charming <> w: 32120, p: [48127]
+charmingly <> w: 32121, p: [49520]
+charolais <> w: 32124, p: [39805]
+chart <> w: 32131
+charter <> w: 32133, p: [18263]
+charter flight <> w: 210289
+chartered <> w: 32136
+chartreuse <> w: 32144, p: [31847, 38601]
+charwoman <> w: 32145, p: [19314]
+chary <> w: 32146
+chase <> w: 32148, p: [20692]
+chaser <> w: 32152
+chasing <> w: 222730
+chasm <> w: 32157
+chasse <> w: 32158
+chasseur <> w: 220668
+chassis <> w: 32163, p: [60746]
+chaste <> w: 32164
+chasten <> w: 32166
+chastise <> w: 32169, p: [46388]
+chastisement <> w: 32170
+chastity <> w: 32171
+chat <> w: 32173, p: [17783, 60730, 17783, 51502]
+chat room <> p: [19488]
+chat show <> w: 32175, p: [19771]
+chat-up <> p: [19600]
+chateau <> w: 32177, p: [50235]
+chatter <> w: 32190, p: [44932]
+chatty <> w: 32196, p: [17835]
+chauffeur <> w: 32198, p: [29701]
+chausses <> w: 220835, p: [39863]
+chauvinism <> w: 32206
+chauvinist <> w: 32207
+chauvinistic <> w: 32208
+che <> w: 217638, p: [38637]
+cheap <> w: 32213, p: [28327]
+cheap and cheerful <> p: [18710]
+cheapen <> w: 32217
+cheaply <> w: 32219, p: [50062]
+cheapskate <> w: 32221, p: [31265]
+cheat <> w: 32222, p: [44356, 19775, 20117, 19358]
+cheater <> w: 32224, p: [19775]
+cheating <> w: 32226, p: [19358]
+check <> w: 32232, p: [21278, 22638, 17495, 18623, 29850, 14206, 22638, 35694]
+check into <> p: [22638]
+check out <> p: [16159, 22638, 17495]
+check up on <> p: [22638]
+check-in <> w: 32233, p: [16161]
+checkbook <> w: 32248
+checked <> w: 32249, p: [28850]
+checkerboard <> w: 32254
+checkered <> w: 32255, p: [28850]
+checkers <> w: 32260, p: [31305]
+checklist <> w: 32263, p: [37122]
+checkmate <> w: 32264, p: [18623, 18623]
+checkout <> w: 32265, p: [18712, 22638, 16159]
+checkpoint <> w: 32269
+checkup <> w: 32274, p: [17635]
+cheddar <> w: 32275, p: [18311]
+cheek <> w: 32278, p: [50671]
+cheek by jowl <> p: [45086]
+cheekbone <> w: 32282, p: [29463]
+cheekily <> w: 32283
+cheeky <> w: 32286, p: [37045]
+cheer <> w: 32288, p: [17523, 23633]
+cheerful <> w: 32291, p: [60634]
+cheerfully <> w: 32292, p: [42526]
+cheerfulness <> w: 32293, p: [44882]
+cheerio <> w: 32296, p: [48881]
+cheerleader <> w: 32298, p: [20113]
+cheerleading <> w: 210071, p: [18850]
+cheerless <> w: 32299
+cheers <> w: 218084, p: [35655, 35700, 21999]
+cheery <> w: 32302, p: [60634]
+cheese <> w: 32303, p: [27020, 48313]
+cheese straw <> p: [27602]
+cheeseboard <> w: 32314, p: [31249]
+cheeseburger <> w: 32315, p: [19104]
+cheesecake <> w: 32316, p: [50361]
+cheesecloth <> w: 32502, p: [37550]
+cheesed off <> w: 32503, p: [42586]
+cheesing <> w: 224116
+cheesy <> w: 32508, p: [51396]
+cheetah <> w: 32509, p: [20535]
+chef <> w: 32512, p: [39963]
+chela <> w: 32529, p: [30624]
+chemical <> w: 32562, p: [23297, 28900]
+chemical bond <> p: [29597]
+chemical compound <> p: [23285]
+chemical reaction <> w: 32593
+chemical warfare <> w: 32598
+chemical weapon <> w: 32599
+chemically <> w: 32601, p: [28900]
+chemise <> w: 32605, p: [25417]
+chemist <> w: 32609, p: [50605, 50589]
+chemist's <> w: 32610, p: [51544]
+chemistry <> w: 32612, p: [28898]
+chemotherapy <> w: 32629
+cheongsam <> w: 220902, p: [39785]
+cheque <> w: 32654, p: [17495]
+cher <> w: 367515
+cherimoya <> w: 32664, p: [34905]
+cherish <> w: 32666, p: [48059]
+cherished <> w: 32667
+cherry <> w: 32674, p: [38591]
+cherry picker <> p: [33533]
+cherry tomato <> w: 32687, p: [35003]
+cherubic <> w: 32694
+chervil <> w: 32696, p: [27267]
+chess <> w: 32701, p: [18629]
+chessboard <> w: 32712
+chessman <> w: 32713, p: [30004]
+chest <> w: 32714, p: [50641, 28305, 22113]
+chest of drawers <> w: 32716, p: [22113]
+chesterfield <> w: 32727, p: [42240]
+chestnut <> w: 32729, p: [18179, 29088, 24426, 29088]
+chesty <> w: 32738, p: [49892]
+cheval glass <> p: [32952]
+chevre <> w: 32750, p: [21412]
+chevrotain <> w: 32752
+chew <> w: 32755, p: [27762, 27762]
+chew the cud <> p: [44412]
+chewing <> w: 32763, p: [27762]
+chewing gum <> w: 32764, p: [21304]
+chewy <> w: 32767, p: [32680]
+chianti <> w: 32776
+chiaroscuro <> w: 32777, p: [47494]
+chiasmus <> w: 32784
+chic <> w: 32785, p: [33995, 33995]
+chicane <> w: 32787, p: [19775]
+chicanery <> w: 32788
+chichi <> w: 32792, p: [33995]
+chick <> w: 32794, p: [50257]
+chick flick <> p: [26485]
+chickadee <> w: 32795, p: [24420]
+chicken <> w: 32799, p: [48607, 27153, 52147]
+chicken feed <> p: [41806]
+chicken wire <> w: 32839
+chicken-fried steak <> p: [27806]
+chickenpox <> w: 32844
+chickenshit <> w: 32845
+chickpea <> w: 32847, p: [26686, 26686]
+chicory <> w: 32855, p: [26688]
+chide <> w: 32860, p: [44678]
+chief <> w: 32862, p: [43368]
+chief executive officer <> w: 32866, p: [40741]
+chiefdom <> w: 227185
+chiefly <> w: 32875, p: [49377]
+chieftain <> w: 32876, p: [29372]
+chiffchaff <> w: 220565
+chiffon <> w: 32879, p: [29852]
+chiffonade <> w: 218547, p: [37896]
+chiffonier <> w: 32881, p: [39065]
+chigger <> w: 32883, p: [25229]
+chignon <> w: 32886, p: [29938]
+chihuahua <> w: 32889, p: [24088]
+child <> w: 32895, p: [28826, 60837]
+child prodigy <> w: 32907, p: [35890]
+childbearing <> w: 33004
+childbirth <> w: 33007, p: [18694]
+childcare <> w: 33009, p: [20015]
+childhood <> w: 33011, p: [28826, 19819]
+childish <> w: 33012, p: [19516]
+childishness <> w: 33014
+childlike <> w: 33017, p: [42570]
+childminder <> w: 228592, p: [51610]
+chili <> w: 33038, p: [50407, 30940]
+chili dog <> p: [27808]
+chiliastic <> w: 33048
+chill <> w: 33049, p: [17321, 33469, 48251]
+chill pill <> p: [42618]
+chillax <> w: 366315
+chiller <> w: 33051
+chilli <> w: 33052, p: [50407]
+chilling <> w: 33055, p: [28301]
+chillingly <> w: 225432, p: [28301]
+chilly <> w: 33057, p: [17321]
+chime <> w: 33076, p: [47558]
+chime in <> p: [23651]
+chimera <> w: 33078
+chimerical <> w: 33081
+chimney <> w: 33082, p: [18107]
+chimney pot <> w: 211339
+chimneypiece <> w: 33089, p: [32852]
+chimpanzee <> w: 33097, p: [17975]
+chin <> w: 33099, p: [50643]
+chin-up <> p: [21845]
+chinchilla <> w: 33129, p: [24428]
+chino <> w: 33200
+chinos <> w: 33208, p: [39687]
+chintz <> w: 33211, p: [28285]
+chintzy <> w: 33213
+chinwag <> w: 33107, p: [36880]
+chip <> w: 33220, p: [46599, 30171, 15681]
+chip pan <> w: 219698, p: [38126]
+chipmunk <> w: 33229, p: [24096]
+chipolata <> w: 33230, p: [37582]
+chipotle <> w: 33231
+chipper <> w: 33233
+chippy <> w: 228322
+chips <> w: 33239, p: [50359]
+chipset <> w: 225125
+chirography <> w: 33246, p: [26900]
+chiromancy <> w: 33250, p: [29820]
+chiropractic <> w: 33257, p: [32566]
+chiropractor <> w: 33258, p: [32566]
+chiropteran <> w: 33260, p: [18013]
+chirp <> w: 33261, p: [47600]
+chiru <> w: 217827, p: [34379]
+chisel <> w: 33267, p: [22528, 46862]
+chiseled <> w: 33271, p: [60620]
+chit <> w: 33278, p: [14206]
+chit-chat <> w: 33279, p: [36880, 36880]
+chitlins <> w: 33285, p: [36230]
+chiton <> w: 33286, p: [39865]
+chitterlings <> w: 33292, p: [36230]
+chivalrous <> w: 33295
+chivalry <> w: 33297
+chives <> w: 33300, p: [31409]
+chlamydia <> w: 33307
+chlorine <> w: 33342
+chlorophyll <> w: 33365
+chlorophyte <> w: 33375, p: [36275]
+chloroplast <> w: 33377
+chock-a-block <> w: 33502
+chocoholic <> w: 365722
+chocolate <> w: 33507, p: [50343, 27103, 50343, 13965]
+chocolaty <> w: 365907
+choice <> w: 33533, p: [27634]
+choir <> w: 33537, p: [18497, 18497]
+choir loft <> w: 33538
+choke <> w: 33542, p: [35892, 17775]
+choker <> w: 33556, p: [34566, 34239]
+cholelithiasis <> w: 33567
+choler <> w: 33569, p: [52143]
+cholera <> w: 33570
+choleric <> w: 33574
+cholesterol <> w: 33577, p: [31431]
+chomp <> w: 33587, p: [58893]
+chomp at the bit <> p: [22031]
+choo-choo <> w: 33605
+choose <> w: 33606, p: [60720]
+chop <> w: 33611, p: [20950, 36331]
+chop suey <> w: 33619, p: [30942]
+chop-chop <> w: 33612, p: [22339, 48097]
+chophouse <> w: 33622, p: [31550]
+chopped <> w: 33625, p: [20950]
+chopper <> w: 33627, p: [37554, 49486, 48525]
+chopping block <> p: [37483]
+chopping board <> p: [26546]
+choppy <> w: 33631
+chopstick <> w: 33633, p: [19054]
+choral <> w: 33636
+chorale <> w: 33638
+chord <> w: 33641, p: [30636]
+chore <> w: 33653, p: [21108]
+choreograph <> w: 33656, p: [47580]
+choreographer <> w: 33657
+choreographic <> w: 33658
+choreography <> w: 33659
+chorizo <> w: 33677, p: [27812]
+choroid <> w: 33678
+chortle <> w: 33684, p: [23003, 23003]
+chorus <> w: 33685, p: [18567, 49566, 18567]
+chorus girl <> w: 33687
+chosen <> w: 33689
+chou <> w: 33691, p: [50513]
+chough <> w: 33694, p: [24422]
+chow <> w: 33696
+chow mein <> w: 33700, p: [30944]
+chowder <> w: 33702
+christen <> w: 33716, p: [47578]
+christening <> w: 33718
+chromatic <> w: 33792
+chromatography <> w: 33809
+chromium <> w: 33821
+chromosome <> w: 33833, p: [31783]
+chronic <> w: 33837, p: [50104]
+chronically <> w: 33851, p: [50104]
+chronicle <> w: 33852, p: [47468]
+chronicler <> w: 33853
+chronograph <> w: 33854
+chronological <> w: 33855, p: [48923]
+chronologically <> w: 33860, p: [48923]
+chronology <> w: 33863
+chronometer <> w: 33864
+chrysalis <> w: 33869, p: [30654]
+chub <> w: 34045, p: [24603]
+chubbiness <> w: 34047, p: [51230]
+chubby <> w: 34048
+chuck <> w: 34049, p: [31379, 53653]
+chuckle <> w: 34059, p: [23003, 23003]
+chuckwalla <> w: 34060
+chuddy <> w: 367638
+chuffed <> w: 34064, p: [49842]
+chug <> w: 34065, p: [47260]
+chukka <> w: 34071, p: [34415]
+chum <> w: 34076
+chumming <> w: 227313
+chunk <> w: 34086, p: [58390]
+chunking <> w: 34087
+chunky <> w: 34088, p: [30928, 26780]
+church <> w: 34090, p: [51520, 31727, 49766]
+churidars <> w: 34129, p: [34138]
+churlish <> w: 34131
+churn <> w: 34133, p: [48021, 38128]
+churro <> w: 217499, p: [38046]
+chute <> w: 34141, p: [32614, 18916, 18916]
+chutes and ladders <> p: [29992]
+chutney <> w: 34143, p: [35158]
+chutzpah <> w: 34145
+ci <> w: 34162, p: [37109]
+ciabatta <> w: 209178, p: [26371]
+cicada <> w: 34169, p: [25231]
+cicatrice <> w: 34174, p: [29428]
+cicatrix <> w: 34176, p: [29428]
+cider <> w: 34199, p: [18293]
+cigaret <> w: 34213, p: [51208]
+cigarette <> w: 34214, p: [51208]
+cilantro <> w: 34224, p: [27273]
+ciliated <> w: 34232
+cilium <> w: 34237, p: [50675]
+cimbalom <> w: 209003, p: [27576]
+cinch <> w: 34251
+cinchona <> w: 229479
+cinema <> w: 34278, p: [60680]
+cinematic <> w: 34280
+cinematographer <> w: 34283
+cinematography <> w: 34284
+cinephile <> w: 210139
+cinereous <> w: 217514, p: [38575]
+cingulum <> w: 34290
+cinnabar <> w: 34291
+cinnamon <> w: 34300, p: [27269, 27279]
+cinnamon bear <> p: [39901]
+cinque <> w: 34317, p: [35948]
+cinquefoil <> w: 34318
+cipher <> w: 34320
+circa <> w: 210280
+circadian <> w: 34324
+circle <> w: 34336, p: [14578, 19406, 52079, 23775]
+circuit <> w: 34342, p: [23283, 15853]
+circuit board <> p: [28626]
+circuit breaker <> w: 34344
+circuitous <> w: 34347
+circular <> w: 34349, p: [48759, 33479]
+circular saw <> w: 34355, p: [41001]
+circularity <> w: 34358
+circularly <> w: 34361, p: [47092]
+circulate <> w: 34362, p: [52273]
+circulation <> w: 34366, p: [18517, 27971]
+circulatory <> w: 34368
+circulatory system <> p: [18517]
+circumcise <> w: 34373
+circumcision <> w: 34374
+circumference <> w: 34376, p: [38429, 31478]
+circumflex <> w: 34379
+circumlocution <> w: 34389
+circumlocutory <> w: 34503
+circumnavigate <> w: 34504, p: [53579]
+circumnavigation <> w: 34505
+circumpolar <> w: 34506
+circumscribe <> w: 34507, p: [27800]
+circumspect <> w: 34510
+circumstance <> w: 34513
+circumvent <> w: 34520, p: [53101]
+circumvention <> w: 34521
+circus <> w: 34525, p: [37231]
+cirrhosis <> w: 34533
+cirrus <> w: 34543, p: [31926]
+cistern <> w: 34564
+cistron <> w: 34569, p: [23419]
+citadel <> w: 34574
+citation <> w: 34575
+cite <> w: 34577, p: [58113]
+citizen <> w: 34591
+citizenry <> w: 34593
+citizenship <> w: 34595
+citole <> w: 34598, p: [27989]
+citric <> w: 34602
+citric acid <> w: 34603
+citrine <> w: 34606, p: [34568, 38827]
+citron <> w: 34607, p: [35132, 38829]
+citrus <> w: 34619, p: [18181]
+citrus fruit <> w: 34624, p: [18181]
+cittern <> w: 34640, p: [27989]
+city <> w: 34641, p: [60670]
+city center <> w: 34648, p: [31600]
+city desk <> w: 34651
+city hall <> w: 34655, p: [17244]
+cityscape <> w: 34674
+civet <> w: 34682, p: [24098]
+civic <> w: 34685
+civically <> w: 225495
+civics <> w: 34692
+civil <> w: 34694, p: [49912]
+civil disobedience <> w: 34703
+civil engineer <> p: [50527]
+civil engineering <> w: 34705, p: [23587]
+civil servant <> w: 34719
+civil service <> w: 34720
+civil war <> w: 34724
+civilian <> w: 34727, p: [45359]
+civilization <> w: 34735
+civilized <> w: 34737, p: [17551]
+civilly <> w: 34738, p: [49912]
+clabber <> w: 34742, p: [26888]
+clad <> w: 34745
+cladding <> w: 34746
+cladistics <> w: 34749
+claim <> w: 34764, p: [55162]
+claimant <> w: 34768
+clairvoyant <> w: 34773
+clam <> w: 34774, p: [25667, 36281]
+clam up <> p: [26317]
+clamant <> w: 34778, p: [49636]
+clamber <> w: 34782, p: [42898]
+clammy <> w: 34785
+clamor <> w: 34789
+clamorous <> w: 34791, p: [49636]
+clamorously <> w: 34792
+clamp <> w: 34795, p: [58375, 41734]
+clams <> w: 34798, p: [60778]
+clamshell <> w: 34799
+clan <> w: 34800
+clandestine <> w: 34802, p: [58786]
+clandestinely <> w: 225468, p: [49896]
+clang <> w: 34804
+clanging <> w: 34806
+clangor <> w: 34807
+clangorous <> w: 34809
+clangour <> w: 34810
+clap <> w: 34820, p: [22925, 27325]
+clapboard <> w: 34824
+clapped <> w: 366429
+clapper <> w: 34826, p: [50659, 37880]
+clapperboard <> w: 34828
+clappers <> w: 34830, p: [27572]
+clapping <> w: 34831, p: [22925]
+claque <> w: 34833
+claret <> w: 34842, p: [18365, 29086]
+clarify <> w: 34846, p: [44876, 37680]
+clarinet <> w: 34848, p: [18443]
+clarinetist <> w: 34850, p: [30317]
+clarinettist <> w: 34851, p: [30317]
+clarion <> w: 34852
+clarion call <> w: 212737
+clarity <> w: 34853
+clash <> w: 34863, p: [48143]
+clasp <> w: 35003, p: [60821, 25315]
+class <> w: 35005, p: [31456, 23487]
+class action <> w: 35011
+class struggle <> w: 35124
+class-conscious <> w: 35007
+classic <> w: 35138, p: [45637]
+classical <> w: 35140, p: [17059, 17059]
+classical music <> w: 35149, p: [42408]
+classically <> w: 35154
+classicism <> w: 35156, p: [25361]
+classics <> w: 35160
+classification <> w: 35162
+classified <> w: 35165
+classify <> w: 35170, p: [23487]
+classist <> w: 227187
+classmate <> w: 35173, p: [17161]
+classroom <> w: 35174, p: [61312]
+classwork <> w: 35176, p: [20225]
+classy <> w: 35177, p: [33995]
+clatter <> w: 35185
+clattering <> w: 365494
+clause <> w: 35201
+claustrophobia <> w: 35204
+claustrophobic <> w: 35205
+clavichord <> w: 35211, p: [27532]
+clavicle <> w: 35213, p: [20725]
+claw <> w: 35216, p: [30624, 29890, 47040]
+claw hammer <> p: [41572]
+clay <> w: 35226, p: [31307, 19002]
+clay pigeon shooting <> w: 365434
+clean <> w: 35239, p: [48619, 60800]
+clean bill of health <> p: [39939, 47440]
+clean up <> p: [44246]
+clean-cut <> w: 35241
+clean-shaven <> w: 35245, p: [30070]
+clean-up <> p: [44246]
+cleaner <> w: 35255, p: [16336]
+cleaning <> w: 35257, p: [27931]
+cleaning lady <> w: 35261, p: [19314]
+cleanliness <> w: 35264
+cleanly <> w: 35265, p: [46615]
+cleanse <> w: 35267, p: [51376]
+cleanser <> w: 35268, p: [29880]
+cleansing <> w: 35269, p: [27931]
+cleanup <> w: 35272, p: [27931]
+clear <> w: 35275, p: [43264, 20457, 47805, 27628, 52117, 51260]
+clear away <> p: [43158]
+clear off <> p: [60800]
+clear out <> p: [21438, 53429]
+clear the air <> p: [40011]
+clear the decks <> p: [43158]
+clear up <> p: [44876]
+clear-cut <> w: 35277
+clear-out <> p: [21438, 53429]
+clear-up <> p: [44876]
+clearance <> w: 35290
+clearing <> w: 35295
+clearing house <> w: 35296
+clearly <> w: 35297
+cleat <> w: 35302, p: [25022]
+cleats <> w: 35303, p: [25024]
+cleavage <> w: 35305
+cleave <> w: 35307, p: [46577]
+cleaver <> w: 35308, p: [37554]
+clef <> w: 35310, p: [30640]
+cleft <> w: 35311
+cleft palate <> w: 35502
+clemency <> w: 35527
+clement <> w: 35529
+clench <> w: 35539, p: [47054]
+clerestory <> w: 35548
+clergy <> w: 35549, p: [27437]
+clergyman <> w: 35550, p: [51616]
+cleric <> w: 35551
+clerical <> w: 35552
+clerihew <> w: 35559
+clerk <> w: 35561, p: [20091, 26760, 20091]
+clerking <> w: 35562, p: [19162]
+clever <> w: 35569, p: [49854]
+cleverly <> w: 35572
+cliche <> w: 35582
+cliched <> w: 35583
+click <> w: 35586, p: [15771, 15771]
+click beetle <> p: [35768]
+clickable <> w: 224431
+clicker <> w: 221878
+clickstream <> w: 208620
+client <> w: 35593, p: [26238]
+clientele <> w: 35597
+cliff <> w: 35598, p: [51110]
+cliffhanger <> w: 35608
+cliffhanging <> w: 209719
+climate <> w: 35615, p: [21497]
+climate change <> p: [39201]
+climatic <> w: 35617
+climatology <> w: 35622
+climax <> w: 35623
+climb <> w: 35624, p: [42898, 17905, 17905]
+climb down <> p: [42898]
+climber <> w: 35630, p: [42898]
+climbing <> w: 35631, p: [42898]
+climbing frame <> w: 35637, p: [32072]
+climbing wall <> p: [37013]
+clime <> w: 35650, p: [21497]
+clinch <> w: 35651, p: [19366, 55228]
+clincher <> w: 35654
+cling <> w: 35657, p: [46778]
+cling film <> p: [26517]
+clinging <> w: 208547, p: [50962]
+clingy <> w: 228802, p: [34101]
+clinic <> w: 35663, p: [51546]
+clinical <> w: 35664
+clinical psychologist <> p: [21400]
+clinically <> w: 35673
+clinician <> w: 35674, p: [50501]
+clinometer <> w: 35687
+clip <> w: 35702, p: [32990, 26172, 46444]
+clip-clop <> w: 35703
+clip-on <> w: 35704
+clipboard <> w: 35709, p: [29527]
+clipper <> w: 35711
+clipping <> w: 35714
+clique <> w: 35715
+cliquey <> w: 228816
+clitic <> w: 223279
+clitoris <> w: 35735
+cloak <> w: 35742, p: [50954, 59028, 19436]
+cloak-and-dagger <> w: 35743, p: [49896]
+cloakroom <> w: 35746
+clobber <> w: 35747, p: [47881]
+clochard <> w: 35748, p: [20229]
+cloche <> w: 35749, p: [25158]
+clock <> w: 35750, p: [47903, 59208]
+clock radio <> w: 35760, p: [33471]
+clockwise <> w: 35769, p: [51180, 51180]
+clodhopper <> w: 35775, p: [25603]
+clog <> w: 35777, p: [46774, 25026]
+clogged <> w: 35782
+clogging <> w: 35783
+cloisonne <> w: 35785
+cloister <> w: 35786
+cloistered <> w: 35787
+clone <> w: 35796, p: [59256]
+cloning <> w: 35799
+close <> w: 35805, p: [48289, 27417, 49421, 21615, 20770, 29414, 48289]
+close call <> p: [40489]
+close down <> p: [53091]
+close in <> p: [52759]
+close the books <> p: [48955]
+close to home <> p: [42658]
+close to the bone <> p: [42628]
+close up <> p: [48363, 49421, 26317]
+close-cropped <> w: 208461, p: [30122]
+close-down <> p: [53091]
+close-fisted <> w: 36039
+close-fitting <> w: 35806, p: [39189]
+close-in <> p: [52759]
+close-knit <> w: 35809, p: [27417]
+close-set <> w: 35814
+close-up <> p: [48363, 49421, 26317]
+closed <> w: 36009, p: [48431, 22417]
+closed book <> p: [28271]
+closed-circuit television <> p: [28852]
+closely <> w: 36041, p: [48325]
+closeness <> w: 36046
+closer <> w: 36048
+closet <> w: 36050, p: [24019, 27203]
+closeted <> w: 224707
+closeup <> w: 36054
+closing <> w: 36056, p: [27886]
+closing time <> w: 36060
+closure <> w: 36067
+clot <> w: 36069
+cloth <> w: 36072, p: [18373, 32868]
+cloth cap <> w: 36073, p: [34472]
+clothe <> w: 36075, p: [19318]
+clothes <> w: 36077, p: [48557]
+clothes basket <> w: 36078, p: [23823]
+clothes hanger <> w: 36084, p: [33305]
+clothes hoist <> p: [33908]
+clothes horse <> p: [32112]
+clothes peg <> w: 36086, p: [33404]
+clothesline <> w: 36092, p: [32112]
+clothespin <> w: 36093, p: [33404]
+clothier <> w: 36095
+clothing <> w: 36096, p: [48557]
+clotted cream <> w: 36100, p: [27373]
+cloud <> w: 36105, p: [48911, 40229, 28768]
+cloud cuckoo land <> p: [42610]
+cloudburst <> w: 36117, p: [18479]
+clouded <> w: 36118, p: [28768]
+cloudiness <> w: 36119
+cloudless <> w: 36122, p: [48683]
+cloudy <> w: 36125, p: [28768]
+clout <> w: 36126, p: [43674]
+clout nail <> p: [41712]
+clove <> w: 36128, p: [27271, 38288]
+clove pink <> p: [31950]
+cloven hoof <> w: 36138, p: [30547]
+clover <> w: 36139, p: [31771]
+clown <> w: 36149, p: [19078]
+cloy <> w: 36155
+cloying <> w: 36156
+club <> w: 36163, p: [28628, 22812, 22812, 51757]
+club sandwich <> p: [32708]
+club soda <> w: 36174
+club together <> p: [52055]
+clubbing <> w: 36178, p: [51670]
+clubhouse <> w: 36184, p: [28628]
+cluck <> w: 36188
+clue <> w: 36190
+clueless <> w: 36192, p: [49594]
+clump <> w: 36195, p: [51464]
+clumsily <> w: 36197, p: [26407]
+clumsy <> w: 36199, p: [26407]
+clunker <> w: 227948
+clunky <> w: 36204, p: [26407]
+cluster <> w: 36219, p: [51464, 59501]
+clustering <> w: 36230, p: [51464]
+clutch <> w: 36231, p: [47054, 35619, 33105]
+clutch bag <> w: 36232, p: [33105]
+clutter <> w: 36235
+cluttered <> w: 36237, p: [45846]
+clydesdale <> w: 36247
+co-parent <> p: [19827]
+co-star <> w: 36300
+coach <> w: 36304, p: [50497, 30058, 49484, 50497]
+coach station <> w: 36309
+coaching <> w: 36311
+coachman <> w: 36313
+coagulate <> w: 36322, p: [29511, 29511]
+coagulated <> w: 36323, p: [29511]
+coagulum <> w: 36327, p: [29511]
+coal <> w: 36329, p: [20422]
+coal-black <> p: [20422]
+coalesce <> w: 36505, p: [54527]
+coalescence <> w: 36507
+coalition <> w: 36515
+coarse <> w: 36522, p: [45541]
+coarsely <> w: 36527
+coarsen <> w: 36528
+coarticulation <> w: 223328
+coast <> w: 36531, p: [51128]
+coastal <> w: 36542
+coaster <> w: 36546, p: [38371]
+coastguard <> w: 36549
+coastline <> w: 36552, p: [18936]
+coat <> w: 36555, p: [50956, 30896, 46780]
+coat hanger <> w: 36559, p: [33305]
+coat of arms <> w: 36560, p: [30046]
+coat rack <> w: 36563
+coatee <> w: 36568, p: [39631]
+coati <> w: 36569, p: [24100]
+coating <> w: 36572, p: [47939]
+coax <> w: 36579, p: [51688]
+coaxial <> w: 36583
+coaxing <> w: 36585
+cob <> w: 36587, p: [40223, 34460, 14645]
+cobalt <> w: 36589
+cobalt blue <> p: [34831]
+cobbler <> w: 36599, p: [37920]
+cobblers <> w: 36601
+cobblestone <> w: 36602
+cobra <> w: 36608, p: [17977]
+cobweb <> w: 36609, p: [28786]
+cobwebby <> w: 36610, p: [29876]
+cocaine <> w: 36615
+cochlea <> w: 36653, p: [30349]
+cock <> w: 36661, p: [17999, 53558]
+cock-a-doodle-doo <> w: 36663
+cock-a-leekie <> w: 36665, p: [39035]
+cock-up <> p: [52003]
+cockade <> w: 36670, p: [34140]
+cockatiel <> w: 36675, p: [24424]
+cockatoo <> w: 36676, p: [24442]
+cocker <> w: 36687, p: [24090]
+cockerel <> w: 36689, p: [24444]
+cockeyed <> w: 36690
+cockle <> w: 36695, p: [25691]
+cockpit <> w: 36703, p: [37035]
+cockroach <> w: 36704, p: [35828]
+cockscomb <> w: 36705, p: [34496]
+cocktail <> w: 36713, p: [18349]
+cocktail dress <> w: 36714, p: [33107]
+cocktail stick <> w: 209289, p: [30161]
+cocky <> w: 36721, p: [42486]
+cocoa <> w: 36728, p: [34305]
+cocoanut <> w: 36734, p: [50433]
+coconut <> w: 36738, p: [50433]
+coconut milk <> w: 36743, p: [34658]
+coconut shy <> w: 224171
+cocoon <> w: 36748, p: [30626]
+cocoyam <> w: 36756, p: [26375]
+cod <> w: 36762, p: [24605]
+coda <> w: 36766
+coddle <> w: 36769
+code <> w: 36772, p: [20139, 20139]
+codec <> w: 211216
+codeine <> w: 36777
+codenames <> w: 223682
+coder <> w: 36778, p: [51444]
+codex <> w: 36780
+codfish <> w: 36781, p: [24605]
+codicil <> w: 36787
+codify <> w: 36790, p: [59537]
+coding <> w: 36791
+codling <> w: 36795
+codon <> w: 36798
+codpiece <> w: 36799
+coefficient <> w: 36805
+coelacanth <> w: 36817, p: [24611]
+coerce <> w: 36839, p: [27692]
+coercion <> w: 36840
+coercive <> w: 36841
+coeval <> w: 36847
+coexist <> w: 36849
+coexistence <> w: 36850
+coffee <> w: 36861, p: [50369, 31867, 16867]
+coffee bar <> w: 36863, p: [21613]
+coffee bean <> w: 36864, p: [31867]
+coffee cake <> p: [37732]
+coffee cup <> p: [38375]
+coffee shop <> w: 36887, p: [21613]
+coffee table <> w: 37003, p: [28307]
+coffeecake <> w: 37007, p: [37732]
+coffeehouse <> w: 37008, p: [21613]
+coffeepot <> w: 37009
+coffer <> w: 37010
+coffin <> w: 37013
+coffin nail <> p: [51208]
+cog <> w: 37016, p: [28656]
+cogent <> w: 37019
+cogently <> w: 225439, p: [43142]
+cogitate <> w: 37024, p: [60847]
+cogito <> w: 225080
+cognac <> w: 37027, p: [50411]
+cognate <> w: 37028
+cognition <> w: 37035
+cognitive <> w: 37036
+cognitively <> w: 37048
+cognizance <> w: 37050
+cognizant <> w: 37051, p: [43454]
+cognize <> w: 37052, p: [48661]
+cohabit <> w: 37059
+cohabitation <> w: 37060
+cohere <> w: 37062
+coherence <> w: 37063
+coherent <> w: 37065, p: [49590]
+coherently <> w: 37066, p: [49590]
+cohesion <> w: 37067
+cohesive <> w: 37068
+cohort <> w: 37074
+coiffure <> w: 37086, p: [26148, 26148]
+coil <> w: 37090, p: [46864]
+coiled <> w: 37092
+coiling <> w: 37093, p: [31502]
+coin <> w: 37094, p: [18407, 59842]
+coinage <> w: 37105
+coincide <> w: 37106, p: [52737]
+coincidence <> w: 37107
+coincident <> w: 37108
+coincidental <> w: 37109
+coincidentally <> w: 37110, p: [49914]
+coincidently <> w: 37111
+coinciding <> w: 37112
+coke <> w: 37121, p: [18273]
+cola <> w: 37123
+cola nut <> p: [35429]
+colander <> w: 37127, p: [26616]
+cold <> w: 37139, p: [60758, 49692, 60758, 39061]
+cold chisel <> p: [41003]
+cold comfort <> p: [44546]
+cold cream <> p: [22965]
+cold cuts <> w: 37153, p: [27814]
+cold feet <> p: [42052]
+cold sore <> w: 37167
+cold sweat <> w: 37171, p: [42804]
+cold turkey <> w: 37172, p: [44160]
+cold war <> w: 37173
+cold-blooded <> w: 37140, p: [28882]
+coldly <> w: 37182, p: [49692]
+coldness <> w: 37183, p: [51398, 51398]
+cole <> w: 37185, p: [26712, 26712]
+coleslaw <> w: 37194, p: [32858]
+colewort <> w: 37200, p: [26712]
+colic <> w: 37201
+coliseum <> w: 37213, p: [27211]
+collaborate <> w: 37215, p: [16397]
+collaboration <> w: 37216, p: [20766]
+collaborative <> w: 37219
+collaboratively <> w: 226094
+collaborator <> w: 37220
+collage <> w: 37221, p: [51929]
+collapse <> w: 37228, p: [28029, 21459, 22943, 21459, 28029]
+collapsible <> w: 37229
+collar <> w: 37231, p: [18375, 34566, 42760]
+collarbone <> w: 37234, p: [20725]
+collate <> w: 37242, p: [48139]
+collateral <> w: 37243, p: [45756]
+collation <> w: 37247, p: [14031]
+colleague <> w: 37248, p: [44588]
+collect <> w: 37249, p: [61056, 54541, 51765]
+collectable <> w: 37251
+collected <> w: 37252
+collectible <> w: 37254
+collecting <> w: 37255, p: [51765]
+collection <> w: 37256, p: [51765, 31149]
+collective <> w: 37258
+collective noun <> w: 37262
+collectively <> w: 37264, p: [22279]
+collector <> w: 37274, p: [20743]
+college <> w: 37278, p: [48963, 60810]
+collegian <> w: 37286
+collegiate <> w: 37287
+collide <> w: 37293, p: [30050]
+collider <> w: 37295
+collie <> w: 37296, p: [24092]
+collier <> w: 37297
+collinear <> w: 37304
+collision <> w: 37314
+collocation <> w: 37320
+colloid <> w: 37323
+colloquial <> w: 37329, p: [49622]
+colloquialism <> w: 37330
+colloquially <> w: 37331, p: [49622]
+colloquium <> w: 37332
+colloquy <> w: 37333
+collotype <> w: 37502
+collude <> w: 37504
+collusion <> w: 37505
+collusive <> w: 37506
+colon <> w: 37523, p: [50715, 27465]
+colonel <> w: 37525
+colonial <> w: 37527
+colonialism <> w: 37528
+colonization <> w: 37537
+colonize <> w: 37538, p: [59846]
+colonnade <> w: 37541
+colonoscopy <> w: 37544
+colony <> w: 37545
+colophon <> w: 37546
+color <> w: 37548, p: [47841, 22217]
+colorant <> w: 208451, p: [22834]
+coloratura <> w: 37593
+colored <> w: 37597, p: [22259]
+colorful <> w: 37601, p: [14532]
+colorfully <> w: 225436, p: [49592]
+coloring <> w: 37607, p: [22217, 47841]
+colorist <> w: 37611, p: [47668, 47700]
+colorize <> w: 37612
+colossal <> w: 37617, p: [28744]
+colosseum <> w: 37618
+colossus <> w: 37621
+colostomy <> w: 37623
+colourfast <> w: 226168
+colposcopy <> w: 218626
+colt <> w: 37659, p: [24430]
+columbarium <> w: 37677
+column <> w: 37696, p: [50904]
+columnist <> w: 37706
+coma <> w: 37713
+comal <> w: 37715, p: [38154]
+comatose <> w: 37720, p: [25799]
+comb <> w: 37725, p: [21204, 34496, 17581, 47582]
+combat <> w: 37732, p: [18810, 59414]
+combatant <> w: 37747, p: [39259]
+combative <> w: 37748
+comber <> w: 37752
+combination <> w: 37754
+combine <> w: 37763, p: [50811]
+combined <> w: 37764
+combing <> w: 37767
+combust <> w: 37781, p: [47566, 61052]
+combustible <> w: 37783
+combustion <> w: 37786
+come <> w: 37788, p: [49439]
+come a cropper <> p: [39611]
+come about <> p: [51858]
+come across <> p: [46097]
+come along <> p: [43160, 17847]
+come and go <> p: [44050]
+come around <> p: [45024, 47853, 23471]
+come at <> p: [53172]
+come away <> p: [44850]
+come back <> p: [53190, 22692]
+come before <> p: [53511]
+come between <> p: [46422]
+come by <> p: [52767, 53885]
+come clean <> p: [55220]
+come down <> p: [27794, 22335]
+come down on <> p: [42630]
+come down with <> p: [18988]
+come for <> p: [42668]
+come from <> p: [29408]
+come hell or high water <> p: [42958]
+come in <> p: [40389, 22684]
+come in for <> p: [44012]
+come into <> p: [46676]
+come off <> p: [52505]
+come off it <> p: [42298]
+come on <> p: [48277, 43152, 59576]
+come out <> p: [52303, 50257, 50257]
+come out in the wash <> p: [46643]
+come out of the woodwork <> p: [45208]
+come out with <> p: [42266]
+come over <> p: [20297]
+come through <> p: [53242, 26353]
+come to <> p: [47853]
+come to grief <> p: [40833]
+come to nothing <> p: [41194]
+come to terms with <> p: [46668]
+come under <> p: [48295]
+come up <> p: [49439, 61142, 58667]
+come up roses <> p: [17891]
+come up with <> p: [23641]
+come upon <> p: [52893]
+come what may <> p: [42960]
+come-along <> p: [40805]
+come-on <> p: [48277, 43152, 59576]
+comeback <> w: 38028
+comedian <> w: 38029, p: [20972]
+comedo <> w: 38031, p: [30110]
+comedy <> w: 38033, p: [49295]
+comedy of manners <> w: 208891
+comeliness <> w: 38035, p: [26648]
+comely <> w: 38036, p: [60610]
+comestible <> w: 38040, p: [22778]
+comet <> w: 38041, p: [29779]
+cometary <> w: 38043
+comfit <> w: 38047, p: [27716]
+comfort <> w: 38048, p: [52067, 32962, 44456]
+comfort food <> p: [51564]
+comfort station <> p: [37251]
+comfortable <> w: 38053, p: [20607]
+comfortably <> w: 38055, p: [48615]
+comforted <> w: 38056
+comforter <> w: 38057, p: [32962]
+comforting <> w: 38058, p: [45946]
+comfy <> w: 38063, p: [20607]
+comic <> w: 38064, p: [20972, 47248]
+comic strip <> w: 38067
+comical <> w: 38068, p: [49776]
+comically <> w: 38070, p: [44742]
+coming <> w: 38071
+comity <> w: 38078
+comma <> w: 38080, p: [27491]
+command <> w: 38083, p: [19514, 19514, 19514, 61060]
+commandant <> w: 38096, p: [18814]
+commandeer <> w: 38097
+commander <> w: 38098, p: [18814]
+commanding <> w: 38103, p: [45373]
+commandment <> w: 38105
+commemorate <> w: 38113, p: [58735]
+commemoration <> w: 38115
+commemorative <> w: 38116
+commence <> w: 38117, p: [49431]
+commencement <> w: 38118
+commend <> w: 38122, p: [19374, 61090]
+commendable <> w: 38123
+commensal <> w: 38125
+commensurate <> w: 38129
+comment <> w: 38131, p: [17785, 17785]
+commentary <> w: 38132, p: [28748, 50573]
+commentate <> w: 38133
+commentator <> w: 38134, p: [19084]
+commenter <> w: 223773
+commerce <> w: 38135
+commercial <> w: 38138
+commercialization <> w: 38164
+commercialize <> w: 38165
+commercialized <> w: 38166
+commercially <> w: 38167
+commingle <> w: 38172, p: [54570]
+commis <> w: 225575
+commiserate <> w: 38178, p: [44620]
+commiseration <> w: 38179, p: [23509]
+commissary <> w: 38184
+commission <> w: 38185, p: [60029]
+commissioner <> w: 38195
+commissioning <> w: 38196
+commit <> w: 38198, p: [27768]
+commitment <> w: 38200
+committal <> w: 38201
+committed <> w: 38205, p: [60290, 23059]
+committee <> w: 38207
+commix <> w: 38213, p: [54527]
+commode <> w: 38215, p: [27203, 39065]
+commodious <> w: 38216
+commodity <> w: 38220
+common <> w: 38227, p: [18982, 28351, 18657]
+common cold <> w: 38271, p: [39061]
+common denominator <> w: 38278
+common noun <> w: 38528
+common room <> w: 38549
+common salt <> p: [27117]
+common seal <> p: [40111]
+common sense <> w: 38560
+commoner <> w: 38610
+commonly <> w: 38611, p: [49870]
+commonplace <> w: 38613
+commons <> w: 38616, p: [18657]
+commonwealth <> w: 38621
+commotion <> w: 38630
+communal <> w: 38632
+communally <> w: 38636, p: [22279]
+commune <> w: 38637
+communicable <> w: 38638, p: [28083]
+communicate <> w: 38641, p: [19965]
+communication <> w: 38644, p: [60730, 17789, 19965]
+communications <> w: 38651
+communicative <> w: 38657, p: [60125]
+communism <> w: 38666
+communist <> w: 38668
+community <> w: 38675, p: [47911]
+community college <> w: 38678, p: [60810]
+community hospital <> p: [51546]
+community service <> p: [31829]
+commute <> w: 38693, p: [20471]
+commuter <> w: 38694, p: [19198]
+comp <> w: 38701
+compact <> w: 38702
+compact car <> p: [51292]
+compact disc <> w: 38705, p: [30265]
+compaction <> w: 38710
+compactly <> w: 38711, p: [49321]
+compactness <> w: 38712
+companion <> w: 38713, p: [51240, 51240]
+companionship <> w: 38718, p: [27419]
+company <> w: 38720, p: [17911, 27419, 51240]
+comparable <> w: 38726, p: [37354]
+comparably <> w: 38729, p: [45956]
+comparative <> w: 38730, p: [45956]
+comparatively <> w: 38737, p: [45956]
+compare <> w: 38738, p: [61274]
+comparison <> w: 38740
+compartment <> w: 38743, p: [23111]
+compass <> w: 38753, p: [29374]
+compass saw <> p: [41005]
+compassion <> w: 38761, p: [19661]
+compassionate <> w: 38762, p: [20261]
+compassionately <> w: 38764, p: [61308]
+compatibility <> w: 38766
+compatible <> w: 38767
+compatriot <> w: 38770
+compel <> w: 38772, p: [27692]
+compelling <> w: 38773, p: [49554]
+compellingly <> w: 225428, p: [49554]
+compendious <> w: 38774, p: [49712]
+compendium <> w: 38775
+compensate <> w: 38777, p: [46818]
+compensation <> w: 38780
+compere <> w: 38784, p: [19773]
+compete <> w: 38785, p: [61264]
+competence <> w: 38786
+competent <> w: 38789, p: [50001]
+competently <> w: 38790, p: [50001]
+competition <> w: 38791, p: [17567]
+competitive <> w: 38792, p: [28293, 50106]
+competitively <> w: 38793, p: [50106]
+competitiveness <> w: 38794
+competitor <> w: 38795, p: [51063]
+compilation <> w: 38797
+compile <> w: 38798, p: [48259]
+compiler <> w: 38799
+complacency <> w: 38803
+complacent <> w: 38804, p: [42484]
+complacently <> w: 38805
+complain <> w: 38806, p: [28065]
+complaint <> w: 38811
+complaisance <> w: 38813
+complaisant <> w: 38814
+complement <> w: 38816, p: [59014]
+complemental <> w: 38819
+complementary <> w: 38821, p: [45766]
+complementizer <> w: 223517
+complete <> w: 38828, p: [27886, 22331, 19578, 17537]
+completely <> w: 39003, p: [45730]
+completing <> w: 39005
+completion <> w: 39006, p: [27886]
+complex <> w: 39007, p: [28614, 48609, 21076]
+complexion <> w: 39020, p: [30072]
+complexity <> w: 39021
+compliance <> w: 39024
+compliant <> w: 39026, p: [45263]
+complicate <> w: 39027, p: [45345]
+complicated <> w: 39028, p: [48609]
+complication <> w: 39030
+complicit <> w: 224426
+complicity <> w: 39031
+compliment <> w: 39032, p: [59064, 59064]
+complimentary <> w: 39033, p: [22323]
+comply <> w: 39038, p: [19520]
+component <> w: 39039, p: [20023]
+comport <> w: 39041
+compose <> w: 39044, p: [51486, 39197]
+composed <> w: 39045, p: [46344]
+composer <> w: 39047, p: [51484]
+composing <> w: 39048, p: [23285]
+composite <> w: 39050
+composition <> w: 39057, p: [23285, 51486, 25363]
+compositor <> w: 39060
+compost <> w: 39062, p: [33695, 33695]
+composure <> w: 39065, p: [46344]
+compote <> w: 39066, p: [31327]
+compound <> w: 39067, p: [54570, 23285]
+compound fracture <> w: 39070
+compounding <> w: 39083
+comprehend <> w: 39084, p: [61086]
+comprehensible <> w: 39088
+comprehension <> w: 39089
+comprehensive <> w: 39090, p: [46187]
+comprehensive school <> w: 39092
+comprehensively <> w: 39093, p: [49916]
+compress <> w: 39095, p: [47042]
+compressed <> w: 39096
+compressible <> w: 39100
+compression <> w: 39102
+comprise <> w: 39106, p: [59327]
+compromise <> w: 39107, p: [55144, 59424]
+comptroller <> w: 39116, p: [50607]
+compulsion <> w: 39120
+compulsive <> w: 39121, p: [45657]
+compulsively <> w: 39122, p: [45657]
+compulsory <> w: 39126, p: [45732]
+compunction <> w: 39128
+computation <> w: 39130
+computational <> w: 39131
+compute <> w: 39135, p: [59398]
+computer <> w: 39138, p: [51558]
+computer game <> w: 39156, p: [35780]
+computer graphics <> w: 39158
+computer program <> w: 39173
+computer science <> w: 39179, p: [19392]
+computer virus <> w: 39189
+computerize <> w: 39192, p: [51816]
+computing <> w: 39196, p: [19392]
+comrade <> w: 39200, p: [51240]
+con <> w: 39216, p: [44356]
+concatenate <> w: 39224
+concatenation <> w: 39225
+concave <> w: 39226, p: [31480]
+concavity <> w: 39233, p: [25924]
+conceal <> w: 39236, p: [18093]
+concealed <> w: 39237
+concealer <> w: 208476, p: [51848]
+concealment <> w: 39239, p: [61062]
+concede <> w: 39240, p: [58913]
+conceit <> w: 39242
+conceited <> w: 39243, p: [22025]
+conceitedly <> w: 39244
+conceivable <> w: 39247
+conceivably <> w: 39249
+conceive <> w: 39250, p: [23641, 58847]
+concentrate <> w: 39254, p: [27941]
+concentrated <> w: 39256, p: [19276]
+concentration <> w: 39258, p: [27941]
+concentric <> w: 39262, p: [31458]
+concentricity <> w: 39264, p: [31458]
+concept <> w: 39266
+conception <> w: 39268
+conceptual <> w: 39271
+conceptual art <> w: 208805, p: [25365]
+conceptualism <> w: 39275, p: [25365]
+conceptualize <> w: 39279, p: [42368]
+conceptus <> w: 39281, p: [29659]
+concern <> w: 39282, p: [20420, 61310, 61310]
+concerned <> w: 39283, p: [23693]
+concerning <> w: 225601
+concert <> w: 39285, p: [52875]
+concert hall <> w: 39290, p: [36357]
+concerted <> w: 39293
+concertina <> w: 39295, p: [27534]
+concertmaster <> w: 220065
+concerto <> w: 39299
+concession <> w: 39301
+concessionary <> w: 225543
+conch <> w: 39305, p: [34600]
+concha <> w: 39306, p: [30529]
+concierge <> w: 39310
+conciliate <> w: 39312, p: [47967]
+conciliatory <> w: 39316
+concise <> w: 39317, p: [22235]
+concisely <> w: 39318, p: [49712]
+conclave <> w: 39321
+conclude <> w: 39322, p: [59876]
+concluded <> w: 39323
+concluding <> w: 39324, p: [28449]
+conclusion <> w: 39325, p: [27634]
+conclusive <> w: 39503, p: [45742]
+conclusively <> w: 39504, p: [45742]
+concoct <> w: 39506, p: [44770]
+concoction <> w: 39507
+concomitant <> w: 39509, p: [49918]
+concomitantly <> w: 225459, p: [49918]
+concord <> w: 39510, p: [19418]
+concordance <> w: 39512
+concordant <> w: 39513
+concordat <> w: 39514
+concourse <> w: 39515
+concrete <> w: 39516, p: [45685, 23031]
+concretely <> w: 39520
+concretion <> w: 39522
+concur <> w: 39531, p: [49766]
+concurrence <> w: 39532
+concurrent <> w: 39534
+concurrently <> w: 39538, p: [43464]
+concuss <> w: 39541, p: [43476]
+concussed <> w: 209899
+concussion <> w: 39542
+condemn <> w: 39543, p: [55025, 20694]
+condemnatory <> w: 39546, p: [29667]
+condemned <> w: 365670
+condemning <> w: 39547, p: [29667]
+condensation <> w: 39549
+condense <> w: 39552, p: [47042]
+condensed milk <> w: 39553, p: [26886]
+condenser <> w: 39554, p: [31781]
+condescend <> w: 39558
+condescending <> w: 39559, p: [42492]
+condescension <> w: 39562
+condign <> w: 39563
+condiment <> w: 39564, p: [37363]
+condition <> w: 39565, p: [16224, 26114]
+conditional <> w: 39566
+conditionally <> w: 39575
+conditioner <> w: 39585, p: [51802]
+conditioning <> w: 39586
+conditions <> w: 39587, p: [60784]
+condole <> w: 39589, p: [58855]
+condolence <> w: 39591
+condom <> w: 39593
+condominium <> w: 39594, p: [21076, 21607]
+condone <> w: 39596, p: [59714]
+condor <> w: 39597, p: [24446]
+conduce <> w: 39599
+conducive <> w: 39600
+conduct <> w: 39601, p: [59882, 18573, 60827]
+conductor <> w: 39614, p: [18573, 31952]
+conduit <> w: 39616
+cone <> w: 39625, p: [25926]
+coney <> w: 39643, p: [50144, 40087]
+confab <> w: 39645, p: [36880, 36880]
+confabulate <> w: 39646, p: [36880]
+confabulation <> w: 39647, p: [36880]
+confect <> w: 39648, p: [51410]
+confection <> w: 39649, p: [51410]
+confectionary <> w: 39650, p: [29609]
+confectionery <> w: 39652, p: [29609, 21420]
+confederacy <> w: 39653
+confederate <> w: 39654, p: [19418]
+confederation <> w: 39663
+confer <> w: 39665, p: [58986]
+conferee <> w: 39667
+conference <> w: 39668, p: [16421]
+conference call <> w: 39669
+confess <> w: 39679, p: [51864]
+confession <> w: 39681
+confessor <> w: 39685
+confetti <> w: 39686, p: [22063]
+confidant <> w: 39687
+confidante <> w: 39688
+confide <> w: 39689, p: [52725]
+confide in <> p: [52725]
+confidence <> w: 39690, p: [44944, 52113]
+confident <> w: 39694, p: [17869]
+confidential <> w: 39695, p: [49898]
+confidentiality <> w: 39698
+confidentially <> w: 39699, p: [49898]
+confidently <> w: 39700, p: [45842]
+configuration <> w: 39703, p: [25980]
+configure <> w: 39706, p: [48253]
+confine <> w: 39708, p: [27800, 52091]
+confined <> w: 39710
+confinement <> w: 39711, p: [20682]
+confirm <> w: 39714, p: [55345]
+confirmation <> w: 39716
+confirmative <> w: 39718
+confirmatory <> w: 39719
+confirmed <> w: 39720
+confirming <> w: 39721, p: [32998]
+confiscate <> w: 39722, p: [48769]
+confit <> w: 39724, p: [27816, 27816]
+conflagration <> w: 39727
+conflate <> w: 39728
+conflict <> w: 39729, p: [23497, 19524, 23497, 23497, 23497, 48143]
+conflicted <> w: 224439
+conflicting <> w: 39731, p: [45687]
+confluence <> w: 39732
+confluent <> w: 39733
+conform <> w: 39735, p: [59716, 48157]
+conformability <> w: 209409
+conformable <> w: 39737
+conformance <> w: 39740
+conformation <> w: 39741, p: [25980]
+conformist <> w: 39745
+conformity <> w: 39746
+confound <> w: 39747, p: [48091, 59592]
+confounded <> w: 39748, p: [61270]
+confounding <> w: 39750
+confront <> w: 39752, p: [27493, 43614]
+confrontation <> w: 39753
+confrontational <> w: 39754
+confuse <> w: 39760, p: [48091]
+confused <> w: 39761, p: [61270]
+confusing <> w: 39764, p: [45645]
+confusingly <> w: 39765, p: [49594]
+confusion <> w: 39766, p: [61270]
+confute <> w: 39770, p: [59910]
+conga <> w: 39772
+congeal <> w: 40004
+congee <> w: 40007, p: [40287]
+congelation <> w: 40008
+congenial <> w: 40014
+congenital <> w: 40018
+conger <> w: 40028, p: [24609]
+conger eel <> w: 40029, p: [24609]
+congest <> w: 40031
+congested <> w: 40032
+congestion <> w: 40033, p: [17833]
+congius <> w: 40036, p: [32824]
+conglomerate <> w: 40040
+conglomeration <> w: 40041
+congratulate <> w: 40057, p: [27325]
+congratulation <> w: 40058
+congratulations <> w: 40059, p: [19374, 48883]
+congregate <> w: 40062, p: [59078]
+congregation <> w: 40064
+congress <> w: 40071, p: [32533, 28121]
+congressional <> w: 40077
+congressman <> w: 40081, p: [16375]
+congruence <> w: 40085
+congruent <> w: 40086
+congruity <> w: 40087
+congruous <> w: 40088
+conic <> w: 40090, p: [25928, 25926]
+conic section <> w: 40093, p: [25928]
+conical <> w: 40096, p: [25926]
+conifer <> w: 40103
+coniferous <> w: 40108, p: [21925]
+conjectural <> w: 40116
+conjecture <> w: 40118, p: [59527]
+conjoin <> w: 40119
+conjointly <> w: 40123
+conjugal <> w: 40124
+conjugate <> w: 40130
+conjugation <> w: 40134
+conjunction <> w: 40136
+conjunctiva <> w: 40137
+conjuration <> w: 40146, p: [19438]
+conjure <> w: 40147, p: [47526]
+conjurer <> w: 40150, p: [23577]
+conk <> w: 40155, p: [50655, 21459, 17775]
+conkers <> w: 211407, p: [31857]
+connect <> w: 40165, p: [61072, 20161, 32002]
+connected <> w: 40166, p: [28353]
+connection <> w: 40175, p: [26182, 20161, 61072, 17849]
+connective <> w: 40176
+connectivity <> w: 40178
+connector <> w: 40179
+connivance <> w: 40184
+connive <> w: 40185
+conniving <> w: 40187
+connoisseur <> w: 40189, p: [47406]
+connotation <> w: 40193
+connote <> w: 40197, p: [58091]
+connubial <> w: 40198
+conoid <> w: 40206, p: [25926]
+conquer <> w: 40211, p: [59654, 43038]
+conqueror <> w: 40214
+conquest <> w: 40215, p: [18828]
+consanguine <> w: 40222
+consanguineous <> w: 40224
+consanguinity <> w: 40225
+conscience <> w: 40226
+conscience-stricken <> w: 211139, p: [52157]
+conscientious <> w: 40230, p: [17155]
+conscientiously <> w: 40232
+conscious <> w: 40235, p: [43454]
+consciously <> w: 40236
+consciousness <> w: 40237
+conscript <> w: 40239
+consecrate <> w: 40241, p: [60053]
+consecration <> w: 40243
+consecutive <> w: 40244, p: [45653]
+consecutively <> w: 40246, p: [45379]
+consensual <> w: 40247
+consensually <> w: 225440, p: [49966]
+consensus <> w: 40248, p: [19418]
+consent <> w: 40249, p: [35694, 22269]
+consequence <> w: 40254
+consequent <> w: 40255
+consequential <> w: 40256
+consequentially <> w: 40257
+consequently <> w: 40258
+conservation <> w: 40260
+conservation area <> w: 228480
+conservationist <> w: 40268, p: [21044]
+conservatism <> w: 40269
+conservatoire <> w: 40277
+conservator <> w: 40278, p: [32104]
+conservatory <> w: 40280, p: [19068]
+conserve <> w: 40281, p: [44458]
+consider <> w: 40284, p: [61058, 22568]
+considerable <> w: 40285, p: [45866]
+considerably <> w: 40286, p: [43462]
+considerate <> w: 40287, p: [60214]
+considerately <> w: 40288
+consideration <> w: 40290
+considering <> w: 225611
+consign <> w: 40292, p: [53085]
+consignee <> w: 40293
+consignor <> w: 40296
+consist <> w: 40297, p: [26361]
+consist in <> p: [52669]
+consist of <> p: [26361]
+consistency <> w: 40299
+consistent <> w: 40300, p: [49131]
+consistently <> w: 40301, p: [49131]
+consolation <> w: 40305
+console <> w: 40503, p: [44620]
+console table <> p: [42070]
+consolidate <> w: 40507, p: [54557, 59110]
+consoling <> w: 40511
+consomme <> w: 40513, p: [37367]
+consonance <> w: 40514
+consonant <> w: 40515
+consort <> w: 40521
+conspicuous <> w: 40525, p: [49285]
+conspicuously <> w: 40527, p: [49285]
+conspiracy <> w: 40529
+conspirator <> w: 40532
+conspire <> w: 40534, p: [47791]
+constable <> w: 40535
+constabulary <> w: 40536, p: [60780]
+constancy <> w: 40538
+constant <> w: 40539, p: [49986, 23695]
+constantly <> w: 40552, p: [49986]
+constellation <> w: 40555, p: [31560]
+consternation <> w: 40557, p: [52103]
+constipation <> w: 40560
+constituency <> w: 40561
+constituent <> w: 40562, p: [20023]
+constitute <> w: 40563, p: [27588]
+constitution <> w: 40565
+constitutional <> w: 40568
+constitutionalism <> w: 40572
+constitutionally <> w: 40575
+constrain <> w: 40577, p: [44422]
+constrained <> w: 40578
+constraint <> w: 40581
+constrict <> w: 40582, p: [54806]
+constricted <> w: 40583
+construct <> w: 40591, p: [49453]
+construction <> w: 40592, p: [33513]
+construction paper <> p: [33781]
+constructionism <> w: 223122
+constructive <> w: 40596, p: [48973]
+constructively <> w: 40604, p: [48973]
+constructivism <> w: 40606, p: [25367]
+constructivist <> w: 40607
+construe <> w: 40609, p: [23641]
+consul <> w: 40617
+consular <> w: 40618
+consulate <> w: 40619
+consult <> w: 40621, p: [51430, 22341, 58737]
+consultancy <> w: 40622
+consultant <> w: 40623, p: [51430]
+consultation <> w: 40624
+consume <> w: 40632, p: [27790, 26628]
+consumer <> w: 40633, p: [18419]
+consumerism <> w: 40641
+consuming <> w: 40642
+consummate <> w: 40643, p: [49948]
+consummately <> w: 225444, p: [49948]
+consumption <> w: 40646, p: [27790]
+consumptive <> w: 40648
+contact <> w: 40649, p: [19965]
+contact lens <> w: 40653, p: [33243]
+contactless <> w: 217603
+contagion <> w: 40659
+contagious <> w: 40660, p: [28083]
+contain <> w: 40664, p: [27606]
+container <> w: 40666, p: [20033]
+contaminant <> w: 40674
+contaminate <> w: 40675, p: [17228]
+contaminated <> w: 40676, p: [17228]
+contamination <> w: 40678, p: [17228]
+conte <> w: 222030, p: [47895]
+contemplate <> w: 40683, p: [60847, 22568]
+contemplative <> w: 40685
+contemporaneous <> w: 40688
+contemporary <> w: 40692, p: [28738]
+contempt <> w: 40696, p: [19380]
+contemptible <> w: 40700
+contemptuous <> w: 40702
+contend <> w: 40705, p: [61264, 59686]
+contender <> w: 40706, p: [18231]
+content <> w: 40707, p: [60358]
+contented <> w: 40709, p: [60634]
+contentedly <> w: 40710
+contentedness <> w: 40711
+contention <> w: 40712
+contentious <> w: 40713
+contentment <> w: 40715, p: [60634]
+contents <> w: 40716
+conterminous <> w: 40717
+contest <> w: 40718, p: [18227, 61264]
+contestant <> w: 40720, p: [18231]
+contested <> w: 40722
+context <> w: 40725
+contextual <> w: 40727
+contextualize <> w: 210469
+contextually <> w: 40730
+contiguity <> w: 40731
+contiguous <> w: 40732
+continence <> w: 40734
+continent <> w: 40736, p: [29204]
+continental <> w: 40738
+continental breakfast <> w: 40740
+continental drift <> w: 40743
+continental quilt <> p: [32962]
+contingency <> w: 40750
+contingent <> w: 40753
+continual <> w: 40757, p: [22680]
+continually <> w: 40758, p: [49986]
+continuance <> w: 40759
+continuant <> w: 40760
+continuation <> w: 40762, p: [22680, 32496]
+continue <> w: 40764, p: [22680]
+continued <> w: 40765
+continuing <> w: 40767
+continuing education <> w: 40768
+continuity <> w: 40770
+continuo <> w: 40773
+continuous <> w: 40774, p: [22680]
+continuously <> w: 40778, p: [49986]
+continuum <> w: 40780
+contort <> w: 40785, p: [54284]
+contortion <> w: 41002
+contortionist <> w: 41003
+contour <> w: 41004, p: [25980, 51668]
+contraband <> w: 41012
+contrabass <> w: 41014, p: [27991]
+contrabassoon <> w: 41015, p: [38309]
+contraception <> w: 41016
+contraceptive <> w: 41017
+contract <> w: 41023, p: [20770, 20770, 26872, 54908]
+contractable <> w: 41033, p: [28083]
+contracted <> w: 41034, p: [45435]
+contracting <> w: 41038
+contraction <> w: 41039
+contractor <> w: 41040
+contractual <> w: 41041
+contractually <> w: 41042
+contradict <> w: 41045, p: [45687]
+contradiction <> w: 41046
+contradictory <> w: 41050, p: [45687]
+contraindication <> w: 41056
+contralto <> w: 41058
+contraption <> w: 41059, p: [32006]
+contrarian <> w: 41062
+contrarily <> w: 41064
+contrary <> w: 41068
+contrast <> w: 41071, p: [31673, 61274]
+contrasting <> w: 41074, p: [28650]
+contravene <> w: 41078
+contravention <> w: 41079
+contredanse <> w: 41080
+contretemps <> w: 41081
+contribute <> w: 41082, p: [18667]
+contribution <> w: 41084, p: [20263]
+contributor <> w: 41086
+contributory <> w: 41087
+contrite <> w: 41089
+contrition <> w: 41092
+contrivance <> w: 41093, p: [32006]
+contrive <> w: 41094, p: [61204]
+contrived <> w: 41095
+control <> w: 41097, p: [61060]
+control tower <> w: 41117
+controllable <> w: 41118
+controlled <> w: 41119
+controlled experiment <> w: 210277
+controller <> w: 41121, p: [50607, 20265]
+controlling <> w: 41123
+controversial <> w: 41125, p: [49748]
+controversially <> w: 41127, p: [49748]
+controversy <> w: 41128
+controvert <> w: 41129
+contumacious <> w: 41130
+contumaciously <> w: 41131
+contumacy <> w: 41132
+contumelious <> w: 41133
+contumely <> w: 41135
+contuse <> w: 41136, p: [47330]
+contusion <> w: 41137, p: [31556]
+conundrum <> w: 41138
+convalesce <> w: 41142, p: [18986]
+convalescence <> w: 41143, p: [18986]
+convalescent <> w: 41144
+convection oven <> w: 209290, p: [26540]
+convene <> w: 41151, p: [49904]
+convenience <> w: 41153, p: [32006, 37251]
+convenience food <> w: 41154, p: [31201]
+convenience store <> w: 41155, p: [49177]
+convenient <> w: 41157, p: [49656]
+conveniently <> w: 41158, p: [49656]
+convent <> w: 41160, p: [18748]
+convention <> w: 41162, p: [20770]
+conventional <> w: 41163, p: [46177, 16511]
+conventionality <> w: 41168
+conventionally <> w: 41172, p: [46177]
+converge <> w: 41175, p: [48751]
+convergence <> w: 41176
+convergent <> w: 41178
+conversant <> w: 41186
+conversation <> w: 41187, p: [51502]
+conversational <> w: 41190, p: [49622]
+conversationally <> w: 41193, p: [49622]
+converse <> w: 41195, p: [60730]
+conversely <> w: 41196
+conversion <> w: 41197
+convert <> w: 41203, p: [54613, 23619, 23619]
+converter <> w: 41204
+convertible <> w: 41206, p: [33422, 19036]
+convex <> w: 41210, p: [31482]
+convey <> w: 41220, p: [44786, 18599]
+conveyance <> w: 41222, p: [18599, 18659]
+conveyer <> w: 41226, p: [31905]
+conveyor <> w: 41229, p: [31905]
+conveyor belt <> w: 41230, p: [31905]
+convict <> w: 41231, p: [31737]
+conviction <> w: 41234
+convince <> w: 41235, p: [50084]
+convinced <> w: 41236
+convincing <> w: 41238, p: [49596]
+convincingly <> w: 41239, p: [49596]
+convivial <> w: 41241
+conviviality <> w: 41242, p: [18728]
+convocation <> w: 41244
+convoke <> w: 41245
+convoluted <> w: 41247
+convolution <> w: 41248
+convolve <> w: 41250
+convoy <> w: 41256
+convulse <> w: 41257
+convulsion <> w: 41258
+convulsive <> w: 41259
+cony <> w: 41261, p: [50144, 40087]
+coo <> w: 41264
+cook <> w: 41268, p: [27059, 39963]
+cookbook <> w: 41272, p: [17025]
+cooked <> w: 41274, p: [37964]
+cooker <> w: 41275, p: [48529]
+cookery <> w: 41276, p: [51638]
+cookery book <> w: 41277, p: [17025]
+cookie <> w: 41280, p: [27107]
+cookie jar <> p: [38212]
+cookie sheet <> w: 41286, p: [26542]
+cooking <> w: 41287, p: [51638]
+cooking apple <> w: 41288, p: [48867]
+cooking oil <> w: 41502, p: [34967]
+cookout <> w: 41506, p: [36323]
+cookware <> w: 41508, p: [26535]
+cooky <> w: 41509, p: [27107]
+cool <> w: 41511, p: [17311, 59874, 45389, 17311, 35694]
+cooler <> w: 41521, p: [33831]
+cooling <> w: 41527
+cooling tower <> w: 41529
+cooling-off period <> w: 209519
+coolly <> w: 41530, p: [19276]
+coolness <> w: 41531
+coop <> w: 41542, p: [30299, 28279]
+cooperate <> w: 41549, p: [16421]
+cooperation <> w: 41550, p: [20766]
+cooperative <> w: 41551, p: [16421, 60186]
+cooperatively <> w: 41552, p: [48271]
+coordinate <> w: 41556, p: [59539, 34079, 34079]
+coordinated <> w: 41562
+coordinates <> w: 221730, p: [34079]
+coordination <> w: 41567
+coordinator <> w: 41570
+coot <> w: 41573, p: [24448]
+cop <> w: 41576, p: [50625]
+copacetic <> w: 41578
+cope <> w: 41587, p: [46668, 43002]
+copier <> w: 41605
+copilot <> w: 41606
+coping <> w: 41607
+coping saw <> p: [41015]
+copious <> w: 41610, p: [23235]
+copiously <> w: 41611
+copper <> w: 41620, p: [29529, 50625, 18407, 38511]
+copperhead <> w: 41636, p: [23761, 23761]
+coppiced <> w: 365408
+copy <> w: 41669, p: [17819, 59914]
+copy editor <> w: 41671
+copycat <> w: 41674
+copyright <> w: 41682
+copywriter <> w: 41685
+copywriting <> w: 221431
+coq au vin <> p: [30946]
+coquelicot <> w: 217812, p: [39423]
+coquetry <> w: 41688, p: [19600]
+coquette <> w: 41689, p: [19600]
+coquettish <> w: 41690
+cor anglais <> w: 41695, p: [27580]
+coral <> w: 41708, p: [50291, 25563, 25563]
+coral reef <> w: 41721, p: [31837]
+coral snake <> p: [23763]
+corbel <> w: 41736
+cord <> w: 41746
+cordial <> w: 41763, p: [17653]
+cordiality <> w: 41765
+cordially <> w: 41766, p: [49746]
+cordless <> w: 41771, p: [20171]
+cordon <> w: 41773
+cordon bleu <> w: 41774
+cordovan <> w: 41777, p: [38775]
+cords <> w: 41778, p: [24910]
+corduroy <> w: 41779, p: [24910]
+corduroys <> w: 41780, p: [24910]
+coreference <> w: 41794
+corgi <> w: 41813, p: [24094]
+coriaceous <> w: 41814
+coriander <> w: 41815, p: [27273]
+corinthian <> w: 41822
+cork <> w: 41829
+corkage <> w: 41834
+corked <> w: 41836
+corkscrew <> w: 41839, p: [30744]
+cormorant <> w: 41846, p: [24450]
+corn <> w: 41850, p: [28706, 35541]
+corn cob <> p: [36036]
+corn dog <> p: [27818]
+corn oil <> p: [34795]
+corn salad <> p: [30846]
+corn syrup <> w: 42034, p: [35378]
+cornball <> w: 229273
+cornbread <> w: 42039, p: [31157]
+corncob <> w: 42040, p: [36036]
+corncrake <> w: 42041, p: [24452]
+cornea <> w: 42043, p: [30369]
+corned beef <> w: 42048
+cornel <> w: 42051, p: [29898]
+corner <> w: 42061, p: [20872, 47470]
+cornerback <> w: 42066
+cornerstone <> w: 42068
+cornet <> w: 42069, p: [18449]
+cornetist <> w: 42071, p: [30585]
+cornetto <> w: 209005, p: [27536]
+cornfield <> w: 42073, p: [22656]
+cornflakes <> w: 209179, p: [50341]
+cornflour <> w: 42074, p: [27742]
+cornice <> w: 42081, p: [28287, 41904]
+corniche <> w: 227964
+cornmeal <> w: 42088
+cornrows <> w: 208462, p: [30118]
+cornsilk <> w: 42091
+cornstarch <> w: 42094, p: [27742]
+cornucopia <> w: 42096
+cornwall <> w: 42105
+corny <> w: 42107
+corollary <> w: 42110
+corona <> w: 42111
+coronary <> w: 42117
+coronation <> w: 42132, p: [30048]
+coronation chicken <> p: [30948]
+coroner <> w: 42133
+coronet <> w: 42134
+corporal <> w: 42146
+corporal punishment <> w: 42147
+corporate <> w: 42149
+corporation <> w: 42155, p: [17911]
+corporeal <> w: 42159
+corps <> w: 42162
+corpse <> w: 42165
+corpulence <> w: 42166, p: [19252]
+corpulent <> w: 42168, p: [19252]
+corpus <> w: 42169
+corpus callosum <> p: [30417]
+corpuscle <> w: 42180
+corral <> w: 42187, p: [59080]
+correct <> w: 42189, p: [60612, 16511, 21250, 54670]
+correction fluid <> w: 226309
+corrective <> w: 42198
+correctly <> w: 42199, p: [43530]
+correlate <> w: 42203
+correlation <> w: 42205
+correlative <> w: 42212
+correspond <> w: 42214, p: [61224]
+correspondence <> w: 42215, p: [31472]
+correspondent <> w: 42218, p: [50573]
+corresponding <> w: 42219, p: [37354]
+correspondingly <> w: 42220
+corrida <> w: 42221, p: [29697]
+corridor <> w: 42222, p: [18049]
+corrigible <> w: 42226
+corroborate <> w: 42228, p: [55345]
+corroboration <> w: 42230
+corrode <> w: 42233
+corroding <> w: 42236, p: [31895]
+corrosion <> w: 42237, p: [31895]
+corrosive <> w: 42239
+corrugate <> w: 42241
+corrugated <> w: 42242
+corrupt <> w: 42248, p: [60348, 19226, 59844]
+corrupted <> w: 42249
+corruptible <> w: 42252
+corruption <> w: 42254, p: [19226]
+corsac fox <> p: [34023]
+corsage <> w: 42258, p: [21991]
+corset <> w: 42262, p: [25599]
+cortex <> w: 42273, p: [30593]
+corticosteroid <> w: 42293
+cortisol <> w: 42308
+coruscant <> w: 42314
+cos <> w: 42358, p: [50517]
+cosine <> w: 42506
+cosmetic <> w: 223094, p: [22854]
+cosmetic surgery <> w: 42512
+cosmetically <> w: 42513
+cosmetics <> w: 42509, p: [22961]
+cosmetologist <> w: 42515
+cosmic <> w: 42517
+cosmogonic <> w: 42531
+cosmogony <> w: 42533
+cosmography <> w: 42536
+cosmological <> w: 42539
+cosmology <> w: 42542
+cosmonaut <> w: 42543, p: [50639]
+cosmopolitan <> w: 42544
+cosmos <> w: 42546
+cosplay <> w: 210273, p: [20601]
+cosset <> w: 42551
+cost <> w: 42552, p: [17487, 27668]
+costa <> w: 42571, p: [50735]
+costate <> w: 42581, p: [34887]
+costive <> w: 42587
+costless <> w: 42588
+costly <> w: 42590, p: [28329]
+costmary <> w: 42591, p: [35276]
+costume <> w: 42595, p: [31241, 31241, 20601]
+costume drama <> w: 208880, p: [26415]
+costumier <> w: 42599
+cot <> w: 42603, p: [37449, 32950]
+cotangent <> w: 42607
+cote <> w: 42608, p: [40271]
+coterie <> w: 42613
+coterminous <> w: 42614
+cotillion <> w: 42619
+cottage <> w: 42634, p: [18253]
+cottage cheese <> w: 42635, p: [26888]
+cottage industry <> w: 42637
+cottage pie <> p: [37924]
+cotton <> w: 42648, p: [18377]
+cotton bud <> p: [22967]
+cotton candy <> w: 42653, p: [27736]
+cotton on <> p: [44976]
+cotton rat <> p: [39705]
+cotton swab <> p: [22967]
+cotton wool <> w: 42669, p: [18377]
+cottonmouth <> w: 42670, p: [23765]
+cottontail <> w: 42675
+coucal <> w: 42694
+couch <> w: 42695, p: [19028]
+couch potato <> w: 42697, p: [17157]
+couchette <> w: 42699
+couching <> w: 222620
+cougar <> w: 42703, p: [24102]
+cough <> w: 42704, p: [39063, 39063, 39063]
+cough drop <> w: 42705, p: [27778]
+coughing <> w: 42708, p: [39063]
+could <> w: 208364
+coulibiac <> w: 218237
+coulis <> w: 217264, p: [35304]
+coulomb <> w: 42711
+council <> w: 42721, p: [28121]
+councillor <> w: 42736
+counsel <> w: 42741, p: [51430]
+counseling <> w: 42743, p: [60752]
+counselor <> w: 42747, p: [21400]
+count <> w: 42750, p: [22732, 61080, 22732]
+count down <> p: [53071]
+count noun <> w: 42759
+count towards <> p: [45112]
+countable <> w: 42766
+countdown <> w: 42767
+countenance <> w: 42768, p: [60750]
+counter <> w: 42769, p: [50773, 31319, 50773, 43674]
+counteract <> w: 42777, p: [59359]
+counterargument <> w: 42781
+counterattack <> w: 42782
+counterbalance <> w: 42784
+countercharge <> w: 42793
+counterclaim <> w: 42795
+counterclockwise <> w: 42796, p: [51182, 51182]
+counterculture <> w: 42799
+counterfeit <> w: 42807, p: [28662]
+counterintuitive <> w: 42815, p: [49950]
+counterintuitively <> w: 42816, p: [49950]
+countermand <> w: 42819
+counterpane <> w: 42827, p: [27034]
+counterpart <> w: 42828
+counterpoint <> w: 42834
+counterproductive <> w: 42840
+counterpunch <> w: 42842
+counterpuncher <> w: 227491
+countersign <> w: 42848
+countertenor <> w: 42857
+countertop <> w: 42862, p: [50773]
+countervail <> w: 42864
+counterweight <> w: 42866
+countess <> w: 42868
+counting <> w: 42869, p: [22732]
+countless <> w: 42871, p: [45247]
+country <> w: 42874, p: [48287, 17149]
+country and western <> w: 43005, p: [21368]
+country house <> w: 43010, p: [18259]
+country music <> w: 43011, p: [21368]
+country rock <> p: [38495]
+countryman <> w: 43017, p: [50613]
+countryside <> w: 43019, p: [17149]
+county <> w: 43023, p: [19671]
+coup <> w: 43032
+coupe <> w: 43038, p: [33416]
+couple <> w: 43040, p: [37306, 37451, 54568]
+couple up <> p: [21274]
+couplet <> w: 43045, p: [37451]
+coupling <> w: 43046
+coupon <> w: 43047, p: [37146]
+courage <> w: 43049, p: [27287]
+courageous <> w: 43050, p: [49347]
+courageously <> w: 43051, p: [49347]
+courageousness <> w: 43052, p: [27287]
+courante <> w: 43053
+courgette <> w: 43058, p: [21300]
+courier <> w: 43059, p: [16055]
+course <> w: 43061, p: [31586, 33014, 31061, 27939]
+coursebook <> w: 226275
+courser <> w: 43070
+courseware <> w: 225124
+coursework <> w: 43071
+court <> w: 43073, p: [20339, 20339, 37356, 52811]
+court of law <> w: 43086, p: [20339]
+court order <> w: 43088, p: [20694]
+courteous <> w: 43092, p: [17551]
+courteously <> w: 43093, p: [27979]
+courtesy <> w: 43095
+courthouse <> w: 43096, p: [44978]
+courtier <> w: 43097
+courting <> w: 43098, p: [35804]
+courtroom <> w: 43102, p: [20339]
+courtship <> w: 43103, p: [35804]
+courtyard <> w: 43104
+couscous <> w: 43105, p: [30950]
+cousin <> w: 43106, p: [60839]
+couture <> w: 43113, p: [34035]
+couturier <> w: 43114, p: [34055]
+cove <> w: 43124
+covenant <> w: 43126
+cover <> w: 43128, p: [61062, 27061, 20541, 61062, 27034]
+cover charge <> w: 43130
+cover for <> p: [44532, 41508]
+cover girl <> w: 43133
+cover letter <> w: 43135
+cover-up <> w: 43129, p: [33161]
+coverage <> w: 43141
+coveralls <> w: 43142, p: [24912]
+covered <> w: 43143
+covering <> w: 43151
+covert <> w: 43156, p: [50124, 61062]
+covertly <> w: 43158, p: [50124]
+covet <> w: 43160, p: [59486]
+coveted <> w: 43161
+covetous <> w: 43162, p: [22033, 17877]
+covetously <> w: 43163
+covetousness <> w: 43164, p: [23171]
+covey <> w: 43165
+coving <> w: 222274
+cow <> w: 43167, p: [50134]
+cowabunga <> w: 229201
+coward <> w: 43188, p: [42052]
+cowardice <> w: 43189
+cowardly <> w: 43191, p: [45224]
+cowberry <> w: 43194, p: [50443]
+cowbird <> w: 43195
+cowboy <> w: 43196
+cowboy boot <> p: [25028]
+cowboy hat <> w: 43198, p: [25168]
+cowcatcher <> w: 43199
+cower <> w: 43200
+cowhand <> w: 43203, p: [29918]
+cowherd <> w: 43205, p: [29918]
+cowl <> w: 43208, p: [21342]
+cowl neck <> w: 365532
+cowlick <> w: 43212, p: [30227]
+cowling <> w: 43213, p: [21342]
+cowman <> w: 43214, p: [29918]
+coworker <> w: 36302, p: [44588]
+cowpea <> w: 43216, p: [35539]
+cowpoke <> w: 43223, p: [29918]
+cowpox <> w: 43224
+cowpuncher <> w: 43225, p: [29918]
+cowrie <> w: 43226, p: [34602]
+cowry <> w: 43227, p: [34602]
+cows <> w: 43228, p: [27333]
+cox <> w: 43234
+coxcomb <> w: 43240, p: [34496]
+coy <> w: 43244
+coyote <> w: 43250, p: [24104]
+coypu <> w: 43254, p: [24042]
+cozen <> w: 43255
+cozily <> w: 43257
+cozy <> w: 43259, p: [22283]
+crab <> w: 43268, p: [25671, 18279]
+crab apple <> w: 43275, p: [30120]
+crabapple <> w: 43283, p: [30120]
+crabbed <> w: 43285, p: [26776]
+crabby <> w: 43288, p: [26776]
+crabmeat <> w: 43292, p: [18279]
+crack <> w: 43296, p: [46601, 27975]
+crack down on <> p: [53049]
+crack on <> p: [42996]
+crack up <> p: [61298]
+crack-up <> p: [61298]
+crackdown <> w: 43306
+cracked <> w: 43307
+cracked wheat <> p: [31329]
+cracker <> w: 43504, p: [22133]
+crackers <> w: 43510
+cracking <> w: 43511, p: [27975]
+crackle <> w: 43512
+crackling <> w: 43515
+cracknel <> w: 209180, p: [26968]
+crackpot <> w: 43517, p: [17871]
+cradle <> w: 43522, p: [32948, 47290]
+craft <> w: 43525, p: [51674, 31972]
+craft beer <> p: [18339]
+craftily <> w: 43529
+crafting <> w: 224117
+craftsman <> w: 43531, p: [31972]
+craftsmanship <> w: 43532, p: [31972]
+crafty <> w: 43533, p: [45162]
+cragsman <> w: 43538, p: [37011]
+crake <> w: 43541
+cram <> w: 43542, p: [47044]
+crammed <> w: 225383
+crammer <> w: 43546
+cramp <> w: 43547, p: [46531]
+cramped <> w: 43550
+crampon <> w: 43552
+cramps <> w: 226929
+cranberry <> w: 43555, p: [50443]
+crane <> w: 43563, p: [24454, 28806]
+crane fly <> w: 43565, p: [25235]
+cranial <> w: 43569
+craniate <> w: 43575, p: [40233]
+cranium <> w: 43584, p: [17693]
+crank <> w: 43585, p: [31785, 17871]
+crankshaft <> w: 43593
+cranky <> w: 43594, p: [27309, 29657]
+crap <> w: 43597, p: [46191]
+crape <> w: 43603, p: [30014, 27672]
+crapper <> w: 43608, p: [27203]
+crappy <> w: 43610, p: [46257]
+craps <> w: 43611
+crapulence <> w: 43614, p: [18291]
+crash <> w: 43617, p: [49383, 30050, 30050]
+crash course <> w: 43620
+crash diet <> w: 220204
+crash helmet <> w: 43622, p: [20533]
+crasis <> w: 223273
+crass <> w: 43630
+crater <> w: 43654
+cravat <> w: 43659, p: [25333]
+crave <> w: 43660, p: [42606]
+craven <> w: 43662
+craving <> w: 43664
+crawfish <> w: 43668, p: [25693]
+crawl <> w: 43671, p: [22953, 29493]
+crawling <> w: 43675, p: [22953]
+crayfish <> w: 43678, p: [25695, 25695]
+crayon <> w: 43679, p: [25529, 25529]
+craze <> w: 43680
+crazed <> w: 43681
+crazily <> w: 43682, p: [49353]
+crazy <> w: 43684, p: [28636, 18091]
+creak <> w: 43692
+creaking <> w: 43694
+cream <> w: 43697, p: [48697, 29860, 14534, 29860, 20940, 37680, 61046, 14534]
+cream cheese <> w: 43701, p: [18195]
+cream cracker <> w: 209181
+cream of tartar <> p: [37898]
+cream tea <> p: [30868]
+creamer <> w: 43710, p: [32754]
+creamery <> w: 43711
+creamy <> w: 43713, p: [29090, 26728]
+crease <> w: 43717, p: [46926]
+create <> w: 43722, p: [21266]
+creation <> w: 43735
+creationism <> w: 43737
+creative <> w: 43738, p: [17873, 17873]
+creative accounting <> w: 219103, p: [43929]
+creatively <> w: 43743, p: [17873]
+creativity <> w: 43745
+creature <> w: 43747, p: [60736]
+creature comforts <> w: 43748, p: [41746]
+credence <> w: 43753
+credibility <> w: 43759
+credible <> w: 43760
+credit <> w: 43763, p: [58788, 18661]
+credit card <> w: 43768, p: [17497]
+credit rating <> w: 43774
+creditable <> w: 43778
+creditor <> w: 43781
+credits <> w: 43782
+credo <> w: 43785
+credulity <> w: 43786
+credulous <> w: 43787
+creed <> w: 43791
+creek <> w: 43793
+creep <> w: 43797, p: [29493, 29493]
+creep up <> p: [51733]
+creepily <> w: 225502, p: [49036]
+creepy <> w: 44020, p: [45894]
+cremate <> w: 44025
+crematorium <> w: 44028
+crenel <> w: 44042
+creolization <> w: 223296
+crepe <> w: 44057, p: [30014, 27672]
+crepe paper <> w: 44065, p: [47106]
+crepuscular <> w: 44073, p: [31928]
+crescendo <> w: 44075
+cress <> w: 44085, p: [30062]
+cresset <> w: 222105
+crest <> w: 44089, p: [30311, 20283]
+crestfallen <> w: 44099, p: [20213]
+cresting <> w: 222112
+cretaceous <> w: 44101
+crevasse <> w: 44113
+crevice <> w: 44114
+crew <> w: 44115, p: [20315, 19094, 19406]
+crew cut <> w: 44116, p: [30124]
+crew neck <> w: 44118, p: [25489]
+crewman <> w: 44122, p: [51424]
+crib <> w: 44125
+cribbage <> w: 44127
+crick <> w: 44133
+cricket <> w: 44134, p: [18015, 39155, 39155]
+cricketer <> w: 44141, p: [39155]
+crime <> w: 44143, p: [20796]
+criminal <> w: 44150, p: [23969]
+criminal conversation <> p: [27403]
+criminal record <> w: 44164
+criminally <> w: 44172, p: [42016]
+crimp <> w: 44180, p: [26118, 54313]
+crimped <> w: 228331
+crimper <> w: 44181, p: [26106, 41134]
+crimson <> w: 44182, p: [38777, 38777, 42848]
+cringe <> w: 44187, p: [28732]
+crinkly <> w: 44196, p: [26150]
+crinoline <> w: 44199, p: [34229]
+cripple <> w: 44201, p: [59248]
+crippled <> w: 44202, p: [32054]
+crippling <> w: 44203
+crisis <> w: 44204
+crisp <> w: 44206, p: [17311, 49712, 15681, 15681, 31411, 21000]
+crispbread <> w: 209182, p: [22133]
+crispy <> w: 44214, p: [15681]
+crisscross <> w: 44215, p: [51242]
+criteria <> w: 228365
+criterion <> w: 44224
+critic <> w: 44228, p: [19084]
+critical <> w: 44229, p: [45734, 49299]
+critically <> w: 44237, p: [49299]
+criticism <> w: 44240
+criticize <> w: 44241, p: [55010]
+critique <> w: 44242, p: [58555]
+critter <> w: 44243
+croak <> w: 44250, p: [17775]
+crochet <> w: 44260, p: [32554, 46866]
+crocheting <> w: 44264, p: [32554]
+crock <> w: 44265
+crockery <> w: 44269, p: [26544]
+crocket <> w: 44270
+crocodile <> w: 44273, p: [50174]
+crocus <> w: 44287, p: [33599]
+croft <> w: 44292
+croissant <> w: 44296, p: [50371]
+crony <> w: 44307
+crook <> w: 44311, p: [23969, 21426]
+crooked <> w: 44314
+croon <> w: 44323
+crop <> w: 44326, p: [20293, 19064, 30122, 26116, 19697, 19598, 46686]
+crop out <> p: [52139]
+crop up <> p: [49832]
+cropland <> w: 365571
+cropped <> w: 44331
+croquet <> w: 44333, p: [31916, 31916]
+croquette <> w: 44337, p: [30956]
+cross <> w: 44341, p: [27700, 23163, 51242, 43612]
+cross-country <> w: 44505
+cross-cultural <> w: 44509
+cross-eyed <> w: 44516, p: [22957]
+cross-pollinate <> p: [51278]
+cross-section <> w: 44541
+cross-stitch <> w: 44545
+crossbill <> w: 44570
+crossbreed <> w: 44574
+crossing <> w: 44590, p: [17279, 28762]
+crossly <> w: 44594
+crossover <> w: 44598
+crossroad <> w: 44602, p: [17279]
+crosswalk <> w: 44608, p: [28762]
+crossways <> w: 44610
+crosswise <> w: 44612
+crossword <> w: 44613, p: [18619]
+crotch <> w: 44633
+crotchet <> w: 44635, p: [30644]
+crotchety <> w: 44637
+crouch <> w: 44647, p: [22963, 22923]
+croup <> w: 44648, p: [30888]
+croupier <> w: 44650
+crouton <> w: 44654
+crow <> w: 44655, p: [18017, 42484]
+crow's feet <> w: 44656, p: [29942]
+crowbar <> w: 44667, p: [22746]
+crowd <> w: 44670, p: [47911, 19406, 37842]
+crowded <> w: 44674, p: [47911]
+crowdie <> w: 209165, p: [27369]
+crown <> w: 44680, p: [30048, 26220, 25633, 30513, 30401, 20283]
+crowning glory <> p: [22359, 17591]
+crucial <> w: 44712, p: [45734]
+crucially <> w: 44714
+cruciate <> w: 44716, p: [31486]
+crucible <> w: 44717
+crucifix <> w: 44724
+cruciform <> w: 44727, p: [31486]
+crucify <> w: 44728
+crud <> w: 44729
+crude <> w: 44731, p: [49922, 20430]
+crudely <> w: 44733, p: [49922]
+crudites <> w: 44735
+cruel <> w: 44737, p: [60254]
+cruelly <> w: 44740, p: [45230]
+cruelty <> w: 44742
+cruet <> w: 44743, p: [38214]
+cruise <> w: 44745, p: [51516, 51516]
+cruiser <> w: 44750, p: [23581]
+cruiserweight <> w: 44751
+cruller <> w: 44752, p: [38050]
+crumb <> w: 44753, p: [31159]
+crumble <> w: 44755, p: [28029, 23639, 31411]
+crumbly <> w: 44757
+crumhorn <> w: 44758, p: [27660]
+crummy <> w: 44759
+crumpet <> w: 44761, p: [27674]
+crumple <> w: 44762, p: [28029, 54215]
+crunch <> w: 44764, p: [32018, 21851]
+crunchy <> w: 209296, p: [15681]
+crusade <> w: 44768, p: [47292]
+crush <> w: 44771, p: [28041, 54215]
+crushed <> w: 44773, p: [45495]
+crust <> w: 44779
+crustacean <> w: 44781, p: [50305, 50305]
+crustaceous <> w: 44782
+crusty <> w: 44790, p: [31333]
+crutch <> w: 44791, p: [25707]
+crux <> w: 44792
+cry <> w: 44795, p: [47424, 47424]
+cry for the moon <> p: [47274]
+cry foul <> p: [43548]
+cry off <> p: [52487]
+cry out for <> p: [48669]
+cry stinking fish <> p: [42216]
+crybaby <> w: 44801
+crying <> w: 44804, p: [28732]
+cryosurgery <> w: 45013
+crypt <> w: 45014
+cryptic <> w: 45021, p: [23095, 45639]
+cryptobiosis <> w: 45025
+cryptogam <> w: 45034
+cryptographer <> w: 45044
+cryptography <> w: 45048
+cryptorchidism <> w: 45061
+crystal <> w: 45068, p: [25429, 25317]
+crystal clear <> w: 45070
+crystalline <> w: 45087
+crystallize <> w: 45094, p: [54315]
+crystallized <> w: 45095, p: [37940]
+crystallographer <> w: 45099
+cub <> w: 45124, p: [30630, 60893, 30553]
+cubby <> w: 45141, p: [22283]
+cubbyhole <> w: 45142, p: [22283]
+cube <> w: 45143, p: [22887, 59894, 20950]
+cubic <> w: 45150, p: [22887]
+cubicle <> w: 45168
+cubism <> w: 45170, p: [25357]
+cuboid <> w: 45179, p: [35489]
+cuckold <> w: 45185
+cuckoo <> w: 45188, p: [24456, 17871]
+cucumber <> w: 45201, p: [38409]
+cuddle <> w: 45225, p: [35806, 35806]
+cuddy <> w: 45229
+cudgel <> w: 45230
+cue <> w: 45232
+cue ball <> w: 45233
+cueist <> w: 227474
+cuff <> w: 45235, p: [25491, 29442, 47694]
+cuffed <> w: 366279
+cufflink <> w: 45236, p: [25565]
+cuisine <> w: 45239, p: [21410, 48653]
+cuke <> w: 45241, p: [38409]
+cul-de-sac <> w: 45243, p: [37369]
+culinary <> w: 45256, p: [51228]
+cull <> w: 45258
+cullender <> w: 45260, p: [26616]
+cullet <> w: 222577
+culminate <> w: 45263, p: [27886]
+culmination <> w: 45264, p: [27886]
+culottes <> w: 45265, p: [33967]
+culpable <> w: 45267, p: [23505]
+culprit <> w: 45271, p: [31757]
+cult <> w: 45272
+cultivate <> w: 45279, p: [52065, 20301]
+cultivated <> w: 45280
+cultivation <> w: 45290, p: [19058]
+cultivator <> w: 45291, p: [20301]
+cultural <> w: 45292, p: [27415]
+culturally <> w: 45298
+culture <> w: 45300, p: [27415]
+cultured <> w: 45303, p: [45200]
+culvert <> w: 45310
+cum laude <> w: 45312
+cumbersome <> w: 45321
+cumbrous <> w: 45324
+cumin <> w: 45326, p: [27275]
+cummerbund <> w: 45330
+cumulation <> w: 45334, p: [20085]
+cumulative <> w: 45335, p: [50003]
+cumulatively <> w: 45339, p: [50003]
+cumulus <> w: 45344, p: [20085]
+cuneiform <> w: 45352
+cunning <> w: 45360, p: [45162]
+cunningly <> w: 45362
+cup <> w: 45368, p: [27105, 21106, 17569, 32848, 54286, 26992]
+cupboard <> w: 45509, p: [24019]
+cupboard love <> p: [40297]
+cupcake <> w: 45511, p: [50373]
+cupful <> w: 45514, p: [21106]
+cupidity <> w: 45520
+cupola <> w: 45522
+cur <> w: 45551, p: [24114]
+curable <> w: 45553
+curassow <> w: 45561
+curative <> w: 45563
+curator <> w: 45564, p: [32104]
+curb <> w: 45567, p: [29832, 21278]
+curbing <> w: 45572, p: [29832]
+curbside <> w: 45573
+curd cheese <> p: [27369]
+curdle <> w: 45580
+curdled <> w: 45581, p: [29511]
+curdling <> w: 45582
+cure <> w: 45583, p: [51606, 51606, 37790]
+cure-all <> w: 45584
+cured <> w: 45585, p: [17629]
+curettage <> w: 45587
+curfew <> w: 45590
+curio <> w: 45597
+curiosity <> w: 45599, p: [52099]
+curious <> w: 45600, p: [19266, 29657]
+curiously <> w: 45601, p: [49137, 26365]
+curl <> w: 45605, p: [30229, 25932, 31502, 26118]
+curl up <> p: [46966]
+curler <> w: 45609, p: [26122]
+curlew <> w: 45610, p: [24474]
+curling <> w: 45614
+curly <> w: 45616, p: [17585]
+curly endive <> p: [26688]
+curmudgeon <> w: 45630
+curmudgeonly <> w: 45631
+currant <> w: 45633, p: [37477, 28864]
+currency <> w: 45636, p: [60778]
+current <> w: 45637, p: [17449, 23283]
+current account <> w: 45638
+current affairs <> w: 208513, p: [19552]
+currently <> w: 45644, p: [43344]
+curricular <> w: 45647
+curriculum <> w: 45648
+curriculum vitae <> w: 45649, p: [17230]
+curry <> w: 45653, p: [41266, 21422]
+curry leaf <> p: [31275]
+curry powder <> w: 45656, p: [31277]
+curse <> w: 45659, p: [54988]
+cursed <> w: 45661
+cursive <> w: 45665
+cursor <> w: 45668, p: [29483]
+cursory <> w: 45673
+curt <> w: 45675, p: [49712]
+curtail <> w: 45676, p: [55012]
+curtailment <> w: 45677
+curtain <> w: 45678, p: [50747]
+curtain call <> w: 45679
+curtain lecture <> p: [40215]
+curtly <> w: 45693
+curtsy <> w: 45696
+curvaceous <> w: 45697, p: [31437]
+curvature <> w: 45700
+curve <> w: 45701, p: [22889, 21426, 27760]
+curved <> w: 45703, p: [22891]
+curvilinear <> w: 45708
+curving <> w: 45711, p: [22891]
+curvy <> w: 45712, p: [29208]
+cuscus <> w: 45714
+cushion <> w: 45723, p: [16517]
+cushy <> w: 45730, p: [48611]
+cusp <> w: 45733
+cuspid <> w: 45737, p: [30489]
+cuss <> w: 45743, p: [60862, 54990]
+cussedly <> w: 45745
+custard <> w: 45747, p: [30972]
+custard apple <> p: [26347]
+custard pie <> w: 45752, p: [37928]
+custodial <> w: 45755, p: [20436]
+custodian <> w: 45757, p: [16336]
+custody <> w: 45759, p: [20682]
+custom <> w: 45762
+custom-made <> w: 45764
+customarily <> w: 45766, p: [46177]
+customary <> w: 45767, p: [20487]
+customer <> w: 45768, p: [18419]
+customizable <> w: 224429
+customize <> w: 45774, p: [40411]
+customs <> w: 45775, p: [17801]
+cut <> w: 45781, p: [21218, 22461, 17649, 19080, 51612, 26435, 43568, 17725, 33999, 51937, 19610, 49341]
+cut a dash <> p: [39653]
+cut across <> p: [27700]
+cut and dried <> w: 45782, p: [44436]
+cut and thrust <> p: [41369]
+cut in <> p: [23651, 43444]
+cut it fine <> p: [44220]
+cut it out <> p: [44828]
+cut loose <> p: [44294]
+cut out <> p: [26307, 26307]
+cut the crap <> p: [42266]
+cut the mustard <> p: [43478]
+cut up <> p: [37906]
+cut-down <> p: [26252, 19034, 22943]
+cut-in <> p: [23651, 43444]
+cut-off <> p: [48711, 32044]
+cut-price <> w: 45786
+cut-up <> p: [37906]
+cutaway <> w: 46021
+cutback <> w: 46024
+cute <> w: 46026, p: [60578]
+cuticle <> w: 46031, p: [30467, 30664]
+cutie <> w: 208438, p: [16274]
+cutis <> w: 46036, p: [50741]
+cutlery <> w: 46042, p: [19006]
+cutlet <> w: 46043, p: [27820]
+cutoff <> w: 46044
+cutoffs <> w: 221079, p: [39691]
+cutpurse <> w: 46047, p: [20850]
+cutter <> w: 46049
+cutthroat <> w: 46050
+cutting <> w: 46051, p: [51668]
+cutting board <> w: 46054, p: [26546]
+cutting-edge <> p: [32010]
+cuttle <> w: 46062, p: [25721]
+cuttlefish <> w: 46063, p: [25721]
+cyan <> w: 46088, p: [38465]
+cyber <> w: 228627
+cybercafe <> w: 46123, p: [30052]
+cybernaut <> w: 46128, p: [27439]
+cybernetic <> w: 46129
+cybernetics <> w: 46130
+cyberpunk <> w: 46132
+cyberspace <> w: 46134
+cycad <> w: 46137
+cycle <> w: 46156, p: [23435, 51065]
+cycle lane <> p: [33759]
+cyclic <> w: 46162, p: [49003]
+cyclical <> w: 46166, p: [45625]
+cyclically <> w: 225408, p: [49003]
+cycling <> w: 46168, p: [51065]
+cyclist <> w: 46170, p: [51065]
+cycloid <> w: 46175
+cyclone <> w: 46180, p: [51344]
+cyclopean <> w: 46188
+cyclops <> w: 46197
+cygnet <> w: 46220, p: [24476]
+cylinder <> w: 46229, p: [25934]
+cylindrical <> w: 46235, p: [25934]
+cymbal <> w: 46246, p: [27546]
+cymru <> w: 46256, p: [18966]
+cynic <> w: 46264
+cynical <> w: 46265, p: [45226]
+cynically <> w: 46266
+cynicism <> w: 46267
+cynosure <> w: 46295
+cypress <> w: 46314, p: [32622]
+cyst <> w: 46370
+cystic <> w: 46372
+cystoscopy <> w: 218644
+cytogenetics <> w: 46512
+cytokine <> w: 46514
+cytology <> w: 46524
+cytomegalovirus <> w: 46529
+cytoplasm <> w: 46537
+cytoskeleton <> w: 46544

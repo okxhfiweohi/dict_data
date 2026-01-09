@@ -1,0 +1,4889 @@
+dab <> p: dabbed, s: dabs, i: dabbing, d: dabbed, '3': dabs
+dabbed <> b: dab, f: pd
+dabbing <> b: dab, f: i, s: dabbings, i: dabbing
+dabble <> i: dabbling, p: dabbled, d: dabbled, '3': dabbles
+dabbled <> b: dabble, f: pd
+dabbler <> s: dabblers
+dabblers <> b: dabbler, f: s
+dabbles <> b: dabble, f: '3'
+dabbling <> b: dabble, f: i, s: dabblings, i: dabbling
+dabchick <> s: dabchicks
+dabchicks <> b: dabchick, f: s
+dabs <> f: s3, b: dab
+dacha <> s: dachas
+dachas <> b: dacha, f: s
+dachshund <> s: dachshunds
+dachshunds <> b: dachshund, f: s
+dacite <> s: dacites
+dacites <> b: dacite, f: s
+dacoit <> s: dacoits
+dacoits <> b: dacoit, f: s
+dactyl <> s: dactyls
+dactyls <> b: dactyl, f: s
+dad <> s: dads
+dada <> s: dadas
+Dadaist <> s: dadaists
+dadas <> b: dada, f: s
+daddies <> b: daddy, f: s
+daddy <> s: daddies
+daddy-long-legs <> b: daddy-long-leg, f: s
+dado <> s: dados, i: dadoing, p: dadoed, '3': dados, d: dadoed
+dadoed <> f: pd, b: dado
+dadoing <> f: i, b: dado
+dados <> f: s3, b: dado
+dads <> b: dad, f: s
+DAE <> i: daeing
+daemon <> s: daemons
+daemons <> b: daemon, f: s
+daff <> s: daffs
+daffies <> b: daffy, f: s
+daffodil <> s: daffodils
+daffodils <> b: daffodil, f: s
+daffs <> b: daff, f: s
+daffy <> s: daffies
+daft <> r: dafter, t: daftest, s: dafts
+dafter <> b: daft, f: r
+daftest <> b: daft, f: t
+dafts <> b: daft, f: s
+dag <> i: dagging, s: dags
+dagger <> s: daggers, d: daggered, p: daggered
+daggerboard <> s: daggerboards
+daggerboards <> b: daggerboard, f: s
+daggered <> b: dagger, f: dp
+daggers <> b: dagger, f: s
+dagging <> b: dag, f: i
+dago <> s: dagos
+dagos <> b: dago, f: s
+dags <> b: dag, f: s
+daguerreotype <> s: daguerreotypes
+daguerreotypes <> b: daguerreotype, f: s
+dah <> s: dahs
+dahabeeyah <> s: dahabeeyahs
+dahabeeyahs <> b: dahabeeyah, f: s
+dahlia <> s: dahlias
+dahlias <> b: dahlia, f: s
+dahs <> b: dah, f: s
+dai <> s: dai, b: dai, f: s
+dailies <> b: daily, f: s
+daily <> s: dailies
+daintier <> b: dainty, f: r
+dainties <> b: dainty, f: s
+daintiest <> b: dainty, f: t
+dainty <> s: dainties, t: daintiest, r: daintier
+daiquiri <> s: daiquiri, b: daiquiri, f: s
+dairies <> b: dairy, f: s
+dairy <> s: dairies, i: dairying
+dairying <> b: dairy, f: i, i: dairying
+dairymaid <> s: dairymaids
+dairymaids <> b: dairymaid, f: s
+dairyman <> s: dairymen
+dairymen <> b: dairyman, f: s
+daisies <> b: daisy, f: s
+daisy <> s: daisies
+dale <> s: dales
+Dalek <> s: daleks
+dales <> b: dale, f: s
+DALEY <> s: daleys
+Dali <> s: dali, b: dali, f: s
+dalliance <> s: dalliances
+dalliances <> b: dalliance, f: s
+dallied <> b: dally, f: pd
+dallies <> b: dally, f: '3'
+dally <> p: dallied, i: dallying, d: dallied, '3': dallies
+dallying <> b: dally, f: i
+dalmatian <> s: dalmatians
+dalton <> s: daltons
+daltons <> b: dalton, f: s
+dam <> s: dams, d: dammed, i: damming, p: dammed, '3': dams
+damage <> s: damages, d: damaged, i: damaging, p: damaged, '3': damages
+damaged <> b: damage, f: dp, d: damaged, p: damaged
+damages <> b: damage, f: s3
+damaging <> b: damage, f: i, i: damaging
+damascene <> s: damascenes, i: damascening, p: damascened, '3': damascenes, d: damascened
+damascened <> f: pd, b: damascene
+damask <> s: damasks
+damasks <> b: damask, f: s
+dame <> s: dames, p: damed
+damed <> b: dame, f: p
+dames <> b: dame, f: s
+dammar <> s: dammars
+dammars <> b: dammar, f: s
+Damme <> s: dammes
+dammed <> b: dam, f: dp
+damming <> b: dam, f: i, i: damming
+damn <> d: damned, p: damned, i: damning, '3': damns
+damnation <> s: damnations
+damnations <> b: damnation, f: s
+damndest <> b: damnd, f: t
+damned <> b: damn, f: dp, d: damned, p: damned
+damnedest <> b: damnede, f: t
+damnified <> b: damnify, f: dp
+damnify <> d: damnified, p: damnified
+damning <> b: damn, f: i, i: damning
+damns <> b: damn, f: '3'
+damp <> r: damper, d: damped, i: damping, p: damped, s: damps, t: dampest, '3': damps
+damped <> b: damp, f: dp, p: damped, d: damped
+dampen <> d: dampened, p: dampened, i: dampening, '3': dampens
+dampened <> b: dampen, f: dp, d: dampened
+dampening <> b: dampen, f: i, i: dampening
+dampens <> b: dampen, f: '3'
+damper <> b: damp, f: r, s: dampers
+dampest <> b: damp, f: t
+damping <> b: damp, f: i, i: damping
+damps <> f: s3, b: damp
+dams <> f: s3, b: dam
+damsel <> s: damsels
+damselflies <> b: damselfly, f: s
+damselfly <> s: damselflies
+damsels <> b: damsel, f: s
+damson <> s: damsons
+damsons <> b: damson, f: s
+danaid <> '3': danaids
+danaids <> b: danaid, f: '3'
+Danby <> s: danbys
+dance <> i: dancing, p: danced, s: dances, d: danced, '3': dances
+danced <> b: dance, f: pd
+dancer <> s: dancers
+dancers <> b: dancer, f: s
+dances <> b: dance, f: s3
+dancing <> b: dance, f: i, i: dancing
+dandelion <> s: dandelions
+dandelions <> b: dandelion, f: s
+dander <> s: danders
+danders <> b: dander, f: s
+dandies <> b: dandy, f: s
+dandiest <> b: dandy, f: t
+dandified <> p: dandified, b: dandified, f: p
+dandle <> p: dandled, i: dandling, s: dandles, d: dandled, '3': dandles
+dandled <> b: dandle, f: pd
+dandles <> f: s3, b: dandle
+dandling <> b: dandle, f: i
+dandy <> s: dandies, i: dandying, t: dandiest
+dandying <> b: dandy, f: i
+Dane <> s: danes
+Danegeld <> s: danegelds
+danger <> s: dangers
+dangers <> b: danger, f: s
+dangle <> i: dangling, p: dangled, d: dangled, '3': dangles
+dangled <> b: dangle, f: pd
+dangler <> s: danglers
+danglers <> b: dangler, f: s
+dangles <> b: dangle, f: '3'
+dangling <> b: dangle, f: i, i: dangling
+danio <> s: danios
+danios <> b: danio, f: s
+dank <> r: danker
+danker <> b: dank, f: r
+danseur <> s: danseurs
+danseurs <> b: danseur, f: s
+danseuse <> s: danseuses, '3': danseuses
+danseuses <> b: danseuse, f: s3
+dap <> s: daps, d: dapped, i: dapping
+daphne <> s: daphnes
+daphnes <> b: daphne, f: s
+dapped <> b: dap, f: d
+dapper <> s: dappers
+dappers <> b: dapper, f: s
+dapping <> b: dap, f: i
+dapple <> d: dappled, i: dappling, '3': dapples, s: dapples, p: dappled
+dappled <> d: dappled, b: dappled, f: d
+dapples <> b: dapple, f: 3s
+dappling <> b: dapple, f: i, s: dapplings, i: dappling
+daps <> b: dap, f: s
+Darcy <> s: darcies
+Dardanelle <> s: dardanelles
+Dardanelles <> b: dardanelle, f: s
+dare <> p: dared, d: dared, i: daring, '3': dares
+dared <> b: dare, f: pd
+daredevil <> s: daredevils
+daredevils <> b: daredevil, f: s
+dares <> b: dare, f: '3'
+daring <> b: dare, f: i, i: daring
+dark <> r: darker, t: darkest
+darken <> i: darkening, p: darkened, d: darkened, '3': darkens
+darkened <> b: darken, f: pd, d: darkened, p: darkened
+darkening <> b: darken, f: i, i: darkening
+darkens <> b: darken, f: '3'
+darker <> b: dark, f: r
+darkest <> b: dark, f: t
+darkies <> b: darky, f: s
+darkle <> i: darkling
+darkling <> b: darkle, f: i
+darkroom <> s: darkrooms
+darkrooms <> b: darkroom, f: s
+darky <> s: darkies
+darling <> s: darlings
+darlings <> b: darling, f: s
+darn <> i: darning, p: darned, d: darned, '3': darns
+darne <> r: darner
+darned <> b: darn, f: pd, d: darned, p: darned
+darnedest <> b: darnede, f: t
+darner <> b: darne, f: r
+darning <> b: darn, f: i, i: darning
+darns <> b: darn, f: '3'
+dart <> p: darted, s: darts, i: darting, '3': darts, d: darted
+dartboard <> s: dartboards
+dartboards <> b: dartboard, f: s
+darted <> b: dart, f: pd
+darter <> s: darters
+darters <> b: darter, f: s
+darting <> b: dart, f: i, i: darting
+darts <> b: dart, f: s3
+Darwinian <> s: darwinians
+Darwinist <> s: darwinists
+dash <> p: dashed, d: dashed, i: dashing, s: dashes, '3': dashes
+dashboard <> s: dashboards
+dashboards <> b: dashboard, f: s
+dashed <> b: dash, f: pd, d: dashed, p: dashed
+dasher <> s: dashers
+dashers <> b: dasher, f: s
+dashes <> b: dash, f: s3
+dashing <> b: dash, f: i, i: dashing
+dashpot <> s: dashpots
+dashpots <> b: dashpot, f: s
+databank <> s: databanks, '3': databanks
+databanks <> b: databank, f: s3
+database <> s: databases
+databases <> b: database, f: s
+dataset <> s: datasets
+datasets <> b: dataset, f: s
+date <> s: dates, d: dated, i: dating, '3': dates, p: dated
+datebook <> s: datebooks
+datebooks <> b: datebook, f: s
+dated <> b: date, f: dp, d: dated, p: dated
+dateline <> i: datelining, p: datelined, '3': datelines, d: datelined
+datelined <> f: pd, b: dateline
+datelines <> f: '3', b: dateline
+datelining <> f: i, b: dateline
+dates <> b: date, f: s3
+dating <> b: date, f: i, i: dating, s: datings
+datum <> s: datums
+datums <> b: datum, f: s
+datura <> s: daturas
+daturas <> b: datura, f: s
+daub <> p: daubed, d: daubed, i: daubing, s: daubs, '3': daubs
+daube <> s: daubes
+daubed <> b: daub, f: pd, p: daubed
+dauber <> s: daubers
+daubers <> b: dauber, f: s
+daubes <> b: daube, f: s
+daubing <> b: daub, f: i, s: daubings
+daubs <> f: s3, b: daub
+daughter <> s: daughters
+daughter-in-law <> s: daughters-in-law
+daughters <> b: daughter, f: s
+daughters-in-law <> b: daughter-in-law, f: s
+daunt <> d: daunted, p: daunted, '3': daunts, i: daunting
+daunted <> b: daunt, f: dp, p: daunted
+daunting <> f: i, b: daunt
+daunts <> b: daunt, f: '3'
+dauphine <> s: dauphines
+dauphines <> b: dauphine, f: s
+davenport <> s: davenports
+davenports <> b: davenport, f: s
+daver <> '3': davers, s: davers
+davers <> b: daver, f: 3s
+Davies <> b: davy, f: s
+davit <> s: davits
+davits <> b: davit, f: s
+davo <> s: davos
+DAVOS <> b: davo, f: s
+davy <> s: davies
+daw <> s: daws
+dawdle <> i: dawdling, p: dawdled, '3': dawdles, d: dawdled, s: dawdles
+dawdled <> b: dawdle, f: pd
+dawdles <> b: dawdle, f: 3s
+dawdling <> b: dawdle, f: i, i: dawdling
+dawkin <> s: dawkins, '3': dawkins
+Dawkins <> b: dawkin, f: s3
+dawn <> p: dawned, '3': dawns, d: dawned, i: dawning, s: dawns
+dawned <> b: dawn, f: pd, p: dawned, d: dawned
+dawning <> b: dawn, f: i, i: dawning, s: dawnings
+dawns <> b: dawn, f: 3s
+daws <> b: daw, f: s
+day <> s: days
+day-tripper <> s: day-trippers
+day-trippers <> b: day-tripper, f: s
+daybed <> s: daybeds
+daybeds <> b: daybed, f: s
+daydream <> s: daydreams, i: daydreaming, p: daydreamed, '3': daydreams', d: day-dreamed
+daydreamed <> b: daydream, f: p
+daydreaming <> b: daydream, f: i, i: daydreaming
+daydreams <> b: daydream, f: s
+daylight <> s: daylights, i: daylighting
+daylighting <> b: daylight, f: i, i: daylighting
+daylights <> b: daylight, f: s
+dayroom <> s: dayrooms
+dayrooms <> b: dayroom, f: s
+days <> b: day, f: s
+daytime <> s: daytimes
+daytimes <> b: daytime, f: s
+daywork <> s: dayworks
+dayworker <> s: dayworkers
+dayworkers <> b: dayworker, f: s
+dayworks <> b: daywork, f: s
+daze <> d: dazed, p: dazed, i: dazing, '3': dazes
+dazed <> b: daze, f: dp, d: dazed, p: dazed
+dazes <> f: '3', b: daze
+dazing <> b: daze, f: i
+dazzle <> d: dazzled, p: dazzled, i: dazzling, '3': dazzles, s: dazzles
+dazzled <> b: dazzle, f: dp, d: dazzled
+dazzler <> s: dazzlers
+dazzlers <> b: dazzler, f: s
+dazzles <> b: dazzle, f: 3s
+dazzling <> i: dazzling, b: dazzling, f: i
+DC <> s: dcs
+DCS <> b: dc, f: s
+de-emphasize <> i: de-emphasizing, '3': de-emphasizes, d: de-emphasized, p: de-emphasized
+de-emphasized <> b: de-emphasize, f: dp
+de-emphasizes <> b: de-emphasize, f: '3'
+de-emphasizing <> b: de-emphasize, f: i
+de-ice <> i: de-icing
+de-icer <> s: de-icers
+de-icers <> b: de-icer, f: s
+de-icing <> i: de-icing, b: de-icing, f: i
+de-stress <> i: de-stressing
+de-stressing <> b: de-stress, f: i
+deaccession <> d: deaccessioned, i: deaccessioning, s: deaccessions
+deaccessioned <> b: deaccession, f: d
+deaccessioning <> b: deaccession, f: i, i: deaccessioning
+deaccessions <> b: deaccession, f: s
+deacon <> s: deacons
+deaconess <> s: deaconesses
+deaconesses <> b: deaconess, f: s
+deacons <> b: deacon, f: s
+deactivate <> d: deactivated, '3': deactivates, p: deactivated, i: deactivating
+deactivated <> b: deactivate, f: dp
+deactivates <> b: deactivate, f: '3'
+deactivating <> b: deactivate, f: i
+deadbeat <> s: deadbeats
+deadbeats <> b: deadbeat, f: s
+deaden <> i: deadening, d: deadened, '3': deadens, p: deadened
+deadened <> b: deaden, f: dp, p: deadened
+deadening <> b: deaden, f: i
+deadens <> b: deaden, f: '3'
+deadhead <> s: deadheads, i: deadheading
+deadheading <> b: deadhead, f: i
+deadheads <> b: deadhead, f: s
+deadlier <> b: deadly, f: r
+deadliest <> b: deadly, f: t
+deadline <> s: deadlines
+deadlines <> b: deadline, f: s
+deadlock <> p: deadlocked, d: deadlocked, s: deadlocks, i: deadlocking
+deadlocked <> b: deadlock, f: pd, p: deadlocked, d: deadlocked
+deadlocking <> b: deadlock, f: i, i: deadlocking
+deadlocks <> b: deadlock, f: s
+deadly <> t: deadliest, r: deadlier
+deadman <> s: deadmen
+deadmen <> b: deadman, f: s
+deadpan <> s: deadpans, i: deadpanning
+deadpanning <> b: deadpan, f: i
+deadpans <> b: deadpan, f: s
+deadweight <> s: deadweights
+deadweights <> b: deadweight, f: s
+deaf <> r: deafer, t: deafest
+deaf-aid <> s: deaf-aids
+deaf-aids <> b: deaf-aid, f: s
+deaf-mute <> s: deaf-mutes
+deaf-mutes <> b: deaf-mute, f: s
+deafen <> d: deafened, p: deafened, '3': deafens, i: deafening
+deafened <> b: deafen, f: dp, p: deafened, d: deafened
+deafening <> i: deafening, b: deafening, f: i
+deafens <> b: deafen, f: '3'
+deafer <> b: deaf, f: r
+deal <> i: dealing, d: dealt, s: deals, '3': deals, p: dealt
+dealer <> s: dealers
+dealers <> b: dealer, f: s
+dealership <> s: dealerships
+dealerships <> b: dealership, f: s
+dealing <> b: deal, f: i, s: dealings, i: dealing
+dealings <> b: dealing, f: s
+deals <> b: deal, f: s3
+dealt <> b: deal, f: dp
+dean <> s: deans
+deaneries <> b: deanery, f: s
+deanery <> s: deaneries
+deans <> b: dean, f: s
+dear <> t: dearest, r: dearer, s: dears
+dearer <> b: dear, f: r
+dearest <> b: dear, f: t
+dearies <> b: deary, f: s
+dears <> b: dear, f: s
+deary <> s: dearies
+death <> s: deaths
+deathbed <> s: deathbeds
+deathbeds <> b: deathbed, f: s
+deathblow <> s: deathblows
+deathblows <> b: deathblow, f: s
+deaths <> b: death, f: s
+deathtrap <> s: deathtraps
+deathtraps <> b: deathtrap, f: s
+deb <> s: debs
+debacle <> s: debacles
+debacles <> b: debacle, f: s
+debag <> p: debagged
+debagged <> b: debag, f: p
+debar <> d: debarred, p: debarred, i: debarring, s: debars, '3': debars
+debark <> i: debarking, p: debarked, '3': debarks, d: debarked
+debarked <> f: pd, b: debark
+debarking <> b: debark, f: i
+debarks <> f: '3', b: debark
+debarred <> b: debar, f: dp
+debarring <> b: debar, f: i
+debars <> b: debar, f: s3
+debase <> d: debased, i: debasing, p: debased, '3': debases
+debased <> b: debase, f: dp, d: debased, p: debased
+debasement <> s: debasements
+debasements <> b: debasement, f: s
+debases <> b: debase, f: '3'
+debasing <> b: debase, f: i
+debate <> s: debates, d: debated, i: debating, p: debated, '3': debates
+debated <> b: debate, f: dp
+debater <> s: debaters
+debaters <> b: debater, f: s
+debates <> f: s3, b: debate
+debating <> b: debate, f: i, i: debating
+debauch <> p: debauched, s: debauches, d: debauched, i: debauching, '3': debauches
+debauched <> p: debauched, b: debauched, f: p
+debauchee <> s: debauchees
+debauchees <> b: debauchee, f: s
+debauches <> f: s3, b: debauch
+debauching <> b: debauch, f: i
+debeak <> d: debeaked, i: debeaking
+debeaked <> b: debeak, f: d
+debeaking <> b: debeak, f: i
+debenture <> s: debentures
+debentures <> b: debenture, f: s
+debilitate <> p: debilitated, d: debilitated, i: debilitating, '3': debilitates
+debilitated <> b: debilitate, f: pd, p: debilitated
+debilitates <> f: '3', b: debilitate
+debilitating <> i: debilitating, b: debilitating, f: i
+debilities <> b: debility, f: s
+debility <> s: debilities
+debit <> s: debits, d: debited, p: debited, i: debiting, '3': debits
+debited <> b: debit, f: dp
+debiting <> b: debit, f: i
+debits <> b: debit, f: s3
+debouch <> p: debouched, '3': debouches, i: debouching, d: debouched
+debouched <> f: pd, b: debouch
+debouches <> b: debouch, f: '3'
+debouching <> b: debouch, f: i
+debrief <> i: debriefing, d: debriefed, p: debriefed, '3': debriefs
+debriefed <> b: debrief, f: dp
+debriefing <> b: debrief, f: i, i: debriefing, s: debriefings
+debriefs <> f: '3', b: debrief
+debt <> s: debts
+debtor <> s: debtors
+debtors <> b: debtor, f: s
+debts <> b: debt, f: s
+debug <> i: debugging, d: debugged, p: debugged, '3': debugs
+debugged <> b: debug, f: dp
+debugger <> s: debuggers
+debuggers <> b: debugger, f: s
+debugging <> b: debug, f: i, i: debugging
+debugs <> f: '3', b: debug
+debunk <> i: debunking, '3': debunks, d: debunked, p: debunked
+debunked <> b: debunk, f: dp
+debunking <> b: debunk, f: i
+debunks <> b: debunk, f: '3'
+debut <> s: debuts, i: debuting, p: debuted, '3': debuts, d: debuted
+debutant <> s: debutants
+debutante <> s: debutantes
+debutantes <> b: debutante, f: s
+debutants <> b: debutant, f: s
+debuted <> b: debute, f: pd
+debuting <> b: debute, f: i
+debuts <> f: s3, b: debut
+decade <> s: decades
+decadent <> s: decadents
+decadents <> b: decadent, f: s
+decades <> b: decade, f: s
+decaffeinate <> p: decaffeinated, d: decaffeinated, i: decaffeinating, '3': decaffeinates
+decaffeinated <> p: decaffeinated, b: decaffeinated, f: pd, d: decaffeinated
+decaffeinates <> f: '3', b: decaffeinate
+decaffeinating <> f: i, b: decaffeinate
+decal <> s: decals
+decalcified <> f: pd, b: decalcify
+decalcify <> i: decalcifying, p: decalcified, '3': decalcifies, d: decalcified
+decalogue <> s: decalogues
+decalogues <> b: decalogue, f: s
+decals <> b: decal, f: s
+decamp <> p: decamped, d: decamped, i: decamping, '3': decamps
+decamped <> b: decamp, f: pd
+decamping <> b: decamp, f: i
+decamps <> b: decamp, f: '3'
+decan <> s: decans
+decans <> b: decan, f: s
+decant <> d: decanted, i: decanting, p: decanted, '3': decants
+decanted <> b: decant, f: dp
+decanter <> s: decanters
+decanters <> b: decanter, f: s
+decanting <> b: decant, f: i
+decants <> b: decant, f: '3'
+decapitate <> d: decapitated, p: decapitated, i: decapitating, '3': decapitates
+decapitated <> b: decapitate, f: dp, p: decapitated, d: decapitated
+decapitates <> b: decapitate, f: '3'
+decapitating <> b: decapitate, f: i
+decarbonize <> i: decarbonizing, p: decarbonized, '3': decarbonizes, d: decarbonized
+decarbonized <> f: pd, b: decarbonize
+decarbonizes <> f: '3', b: decarbonize
+decarbonizing <> f: i, b: decarbonize
+decarburize <> i: decarburizing, p: decarburized, '3': decarburizes, d: decarburized
+decarburized <> f: pd, b: decarburize
+decarburizes <> f: '3', b: decarburize
+decarburizing <> f: i, b: decarburize
+decathlete <> s: decathletes
+decathletes <> b: decathlete, f: s
+decay <> i: decaying, d: decayed, '3': decays, s: decays, p: decayed
+decayed <> b: decay, f: dp, d: decayed, p: decayed
+decaying <> b: decay, f: i, i: decaying
+decays <> b: decay, f: 3s
+decease <> d: deceased, s: deceases, i: deceasing, p: deceased, '3': deceases
+deceased <> f: dp, b: decease, s: deceaseds
+deceases <> f: s3, b: decease
+deceasing <> f: i, b: decease
+deceit <> s: deceits
+deceits <> b: deceit, f: s
+deceive <> d: deceived, i: deceiving, p: deceived, '3': deceives
+deceived <> b: deceive, f: dp, d: deceived, p: deceived
+deceiver <> s: deceivers
+deceivers <> b: deceiver, f: s
+deceives <> b: deceive, f: '3'
+deceiving <> b: deceive, f: i
+decelerate <> i: decelerating, d: decelerated, s: decelerates, p: decelerated, '3': decelerates
+decelerated <> b: decelerate, f: dp
+decelerates <> f: s3, b: decelerate
+decelerating <> b: decelerate, f: i
+deceleration <> s: decelerations
+decelerations <> b: deceleration, f: s
+Decembrist <> s: decembrists
+decencies <> b: decency, f: s
+decency <> s: decencies
+decentralise <> d: decentralised, p: decentralised, i: decentralising
+decentralised <> d: decentralised, b: decentralised, f: dp, p: decentralised
+decentralising <> b: decentralise, f: i, i: decentralising
+decentralize <> d: decentralized, i: decentralizing, p: decentralized, '3': decentralizes
+decentralized <> d: decentralized, b: decentralized, f: dp, p: decentralized
+decentralizes <> f: '3', b: decentralize
+decentralizing <> b: decentralize, f: i, i: decentralizing
+deception <> s: deceptions
+deceptions <> b: deception, f: s
+decerebrate <> d: decerebrated, i: decerebrating, p: decerebrated, '3': decerebrates
+decerebrated <> f: dp, b: decerebrate
+decerebrates <> f: '3', b: decerebrate
+decerebrating <> f: i, b: decerebrate
+decertified <> f: pd, b: decertify
+decertifies <> f: '3', b: decertify
+decertify <> i: decertifying, p: decertified, '3': decertifies, d: decertified
+decertifying <> f: i, b: decertify
+decibel <> s: decibels
+decibels <> b: decibel, f: s
+decide <> p: decided, d: decided, i: deciding, '3': decides
+decided <> b: decide, f: pd, p: decided, d: decided
+decider <> s: deciders
+deciders <> b: decider, f: s
+decides <> b: decide, f: '3'
+deciding <> b: decide, f: i, i: deciding
+decile <> s: deciles
+deciles <> b: decile, f: s
+decilitre <> s: decilitres
+decilitres <> b: decilitre, f: s
+decimal <> s: decimals
+decimalize <> i: decimalizing, p: decimalized, '3': decimalizes, d: decimalized
+decimalized <> f: pd, b: decimalize
+decimalizes <> f: '3', b: decimalize
+decimalizing <> f: i, b: decimalize
+decimals <> b: decimal, f: s
+decimate <> d: decimated, p: decimated, i: decimating, '3': decimates, s: decimates
+decimated <> b: decimate, f: dp, p: decimated, d: decimated
+decimates <> b: decimate, f: 3s
+decimating <> b: decimate, f: i
+decimation <> s: decimations
+decimations <> b: decimation, f: s
+decimetre <> s: decimetres
+decimetres <> b: decimetre, f: s
+decipher <> i: deciphering, p: deciphered, d: deciphered, '3': deciphers
+deciphered <> b: decipher, f: pd
+deciphering <> b: decipher, f: i
+deciphers <> f: '3', b: decipher
+decision <> s: decisions
+decision-maker <> s: decision-makers
+decision-makers <> b: decision-maker, f: s
+decision-making <> i: decision-making, b: decision-making, f: i
+decisions <> b: decision, f: s
+deck <> s: decks, p: decked, d: decked, i: decking, '3': decks
+deckchair <> s: deckchairs
+deckchairs <> b: deckchair, f: s
+decked <> b: deck, f: pd
+decker <> s: deckers
+deckers <> b: decker, f: s
+deckhand <> s: deckhands
+deckhands <> b: deckhand, f: s
+decking <> b: deck, f: i, i: decking
+deckle <> p: deckled
+deckled <> b: deckle, f: p
+decks <> f: s3, b: deck
+declaim <> i: declaiming, p: declaimed, d: declaimed, '3': declaims
+declaimed <> b: declaim, f: pd
+declaiming <> b: declaim, f: i
+declaims <> b: declaim, f: '3'
+declamation <> s: declamations
+declamations <> b: declamation, f: s
+declaration <> s: declarations
+declarations <> b: declaration, f: s
+declarative <> s: declaratives
+declaratives <> b: declarative, f: s
+declare <> p: declared, d: declared, i: declaring, '3': declares
+declared <> b: declare, f: pd, p: declared, d: declared
+declarer <> s: declarers
+declarers <> b: declarer, f: s
+declares <> b: declare, f: '3'
+declaring <> b: declare, f: i
+declass <> d: declassed, p: declassed
+declassed <> b: declass, f: dp
+declassified <> d: declassified, b: declassified, f: d
+declassifies <> f: '3', b: declassify
+declassify <> d: declassified, i: declassifying, p: declassified, '3': declassifies
+declassifying <> f: i, b: declassify
+declension <> s: declensions
+declensions <> b: declension, f: s
+decline <> d: declined, p: declined, i: declining, '3': declines, s: declines
+declined <> b: decline, f: dp
+declines <> b: decline, f: 3s
+declining <> b: decline, f: i, i: declining
+declivities <> b: declivity, f: s
+declivity <> s: declivities
+declutch <> i: declutching, p: declutched, '3': declutches, d: declutched
+declutched <> f: pd, b: declutch
+declutches <> f: '3', b: declutch
+declutching <> f: i, b: declutch
+decoct <> i: decocting, p: decocted, '3': decocts, d: decocted
+decocted <> f: pd, b: decoct
+decocting <> f: i, b: decoct
+decoction <> s: decoctions
+decoctions <> b: decoction, f: s
+decocts <> f: '3', b: decoct
+decode <> d: decoded, i: decoding, '3': decodes, p: decoded, s: decodes
+decoded <> b: decode, f: dp
+decoder <> s: decoders, '3': decoders
+decoders <> b: decoder, f: s3
+decodes <> b: decode, f: 3s
+decoding <> b: decode, f: i, i: decoding, s: decodings
+decoke <> i: decoking, p: decoked, '3': decokes, d: decoked
+decoked <> f: pd, b: decoke
+decokes <> f: '3', b: decoke
+decoking <> f: i, b: decoke
+decollate <> i: decollating, p: decollated, '3': decollates, d: decollated
+decollated <> f: pd, b: decollate
+decollates <> f: '3', b: decollate
+decollating <> f: i, b: decollate
+decolonize <> i: decolonizing, p: decolonized, '3': decolonizes, d: decolonized
+decolonized <> f: pd, b: decolonize
+decolonizes <> f: '3', b: decolonize
+decolonizing <> b: decolonize, f: i
+decommission <> d: decommissioned, i: decommissioning, p: decommissioned, '3': decommissions
+decommissioned <> b: decommission, f: dp
+decommissioning <> i: decommissioning, b: decommissioning, f: i
+decompile <> i: decompiling
+decompiling <> b: decompile, f: i
+decompose <> d: decomposed, '3': decomposes, i: decomposing, p: decomposed
+decomposed <> b: decompose, f: dp, d: decomposed
+decomposer <> s: decomposers
+decomposers <> b: decomposer, f: s
+decomposes <> b: decompose, f: '3'
+decomposing <> b: decompose, f: i, i: decomposing
+decomposition <> s: decompositions
+decompositions <> b: decomposition, f: s
+decompress <> d: decompressed, p: decompressed, '3': decompresses, i: decompressing
+decompressed <> b: decompress, f: dp
+decompresses <> b: decompress, f: '3'
+decompressing <> b: decompress, f: i
+decongestant <> s: decongestants
+decongestants <> b: decongestant, f: s
+deconsecrate <> d: deconsecrated, p: deconsecrated, i: deconsecrating, '3': deconsecrates
+deconsecrated <> b: deconsecrate, f: dp
+deconsecrates <> f: '3', b: deconsecrate
+deconsecrating <> f: i, b: deconsecrate
+deconstruct <> p: deconstructed, i: deconstructing, d: deconstructed, '3': deconstructs, s: deconstructs
+deconstructed <> b: deconstruct, f: pd, p: deconstructed
+deconstructing <> b: deconstruct, f: i
+deconstruction <> s: deconstructions
+deconstructionist <> s: deconstructionists
+deconstructionists <> b: deconstructionist, f: s
+deconstructions <> b: deconstruction, f: s
+deconstructs <> b: deconstruct, f: 3s
+decontaminate <> i: decontaminating, p: decontaminated, '3': decontaminates, d: decontaminated
+decontaminated <> b: decontaminate, f: pd
+decontaminates <> b: decontaminate, f: '3'
+decontaminating <> b: decontaminate, f: i
+decontextualize <> d: decontextualized, p: decontextualized
+decontextualized <> b: decontextualize, f: dp
+decontrol <> d: decontrolled, i: decontrolling, p: decontrolled, '3': decontrols
+decontrolled <> b: decontrol, f: dp
+decontrolling <> b: decontrol, f: i
+decontrols <> f: '3', b: decontrol
+decor <> s: decors
+decorate <> d: decorated, p: decorated, i: decorating, '3': decorates
+decorated <> b: decorate, f: dp, d: decorated, p: decorated
+decorates <> b: decorate, f: '3'
+decorating <> b: decorate, f: i, i: decorating
+decoration <> s: decorations
+decorations <> b: decoration, f: s
+decorator <> s: decorators
+decorators <> b: decorator, f: s
+decors <> b: decor, f: s
+decorticate <> i: decorticating, p: decorticated, '3': decorticates, d: decorticated
+decorticated <> f: pd, b: decorticate
+decorticates <> f: '3', b: decorticate
+decorticating <> f: i, b: decorticate
+decorum <> s: decorums
+decorums <> b: decorum, f: s
+decouple <> d: decoupled, i: decoupling, p: decoupled, '3': decouples
+decoupled <> b: decouple, f: dp, p: decoupled, d: decoupled
+decoupling <> b: decouple, f: i
+decoy <> s: decoys, d: decoyed, i: decoying, p: decoyed, '3': decoys
+decoyed <> f: dp, b: decoy
+decoying <> b: decoy, f: i
+decoys <> f: s3, b: decoy
+decrease <> d: decreased, '3': decreases, p: decreased, i: decreasing, s: decreases
+decreased <> b: decrease, f: dp, p: decreased, d: decreased
+decreases <> b: decrease, f: 3s
+decreasing <> b: decrease, f: i, i: decreasing, s: decreasings
+decree <> s: decrees, p: decreed, d: decreed, '3': decrees, i: decreeing
+decreed <> b: decree, f: pd
+decreeing <> b: decree, f: i
+decrees <> b: decree, f: s3
+decrement <> s: decrements, d: decremented, i: decrementing, p: decremented
+decremented <> b: decrement, f: dp
+decrementing <> b: decrement, f: i
+decrements <> b: decrement, f: s
+decrepitate <> i: decrepitating, p: decrepitated, '3': decrepitates, d: decrepitated
+decrepitated <> f: pd, b: decrepitate
+decrepitates <> f: '3', b: decrepitate
+decrepitating <> f: i, b: decrepitate
+decrescendo <> s: decrescendos
+decrescendos <> b: decrescendo, f: s
+decretal <> s: decretals
+decretals <> b: decretal, f: s
+decried <> b: decry, f: pd
+decries <> b: decry, f: '3'
+decriminalize <> d: decriminalized, i: decriminalizing, p: decriminalized, '3': decriminalizes
+decriminalized <> b: decriminalize, f: dp
+decriminalizing <> b: decriminalize, f: i
+decry <> p: decried, d: decried, i: decrying, '3': decries
+decrying <> b: decry, f: i
+decrypt <> p: decrypted, s: decrypts, i: decrypting, '3': decrypts, d: decrypted
+decrypted <> f: pd, b: decrypt
+decrypting <> f: i, b: decrypt
+decrypts <> f: s3, b: decrypt
+decurve <> p: decurved
+decurved <> b: decurve, f: p
+decussate <> p: decussated, i: decussating, '3': decussates, d: decussated
+decussated <> f: pd, b: decussate
+decussates <> f: '3', b: decussate
+decussating <> f: i, b: decussate
+dedicate <> d: dedicated, p: dedicated, i: dedicating, '3': dedicates
+dedicated <> b: dedicate, f: dp, d: dedicated, p: dedicated
+dedicatee <> s: dedicatees
+dedicatees <> b: dedicatee, f: s
+dedicates <> b: dedicate, f: '3'
+dedicating <> b: dedicate, f: i
+dedication <> s: dedications
+dedications <> b: dedication, f: s
+deduce <> d: deduced, p: deduced, i: deducing, '3': deduces
+deduced <> b: deduce, f: dp
+deduces <> b: deduce, f: '3'
+deducing <> b: deduce, f: i
+deduct <> d: deducted, i: deducting, p: deducted, '3': deducts
+deducted <> b: deduct, f: dp
+deductible <> s: deductibles
+deductibles <> b: deductible, f: s
+deducting <> b: deduct, f: i
+deduction <> s: deductions
+deductions <> b: deduction, f: s
+deducts <> b: deduct, f: '3'
+deed <> s: deeds
+deeds <> b: deed, f: s
+deejay <> i: deejaying, s: deejays, p: deejayed, '3': deejays, d: deejayed
+deejayed <> b: deejay, f: p
+deejaying <> b: deejay, f: i
+deejays <> b: deejay, f: s
+deem <> d: deemed, '3': deems, p: deemed, i: deeming
+deemed <> b: deem, f: dp
+deeming <> b: deem, f: i
+deems <> b: deem, f: '3'
+deep <> r: deeper, t: deepest, s: deeps
+deep freeze <> s: deep freezes
+deep-fry <> i: deep-frying, p: deep-fried, '3': deep-fries, d: deep-fried
+deep-six <> i: deep-sixing, p: deep-sixed, '3': deep-sixes
+deepen <> p: deepened, d: deepened, '3': deepens, i: deepening
+deepened <> b: deepen, f: pd
+deepening <> b: deepen, f: i, i: deepening
+deepens <> b: deepen, f: '3'
+deeper <> b: deep, f: r
+deepest <> b: deep, f: t
+deeps <> b: deep, f: s
+deer <> i: deering
+deerhound <> s: deerhounds
+deerhounds <> b: deerhound, f: s
+deering <> b: deer, f: i
+deerstalker <> s: deerstalkers
+deerstalkers <> b: deerstalker, f: s
+DEF <> s: defs
+deface <> d: defaced, i: defacing, p: defaced, '3': defaces
+defaced <> b: deface, f: dp
+defaces <> f: '3', b: deface
+defacing <> b: deface, f: i
+defaecate <> i: defaecating, d: defaecated
+defaecated <> b: defaecate, f: d
+defaecating <> b: defaecate, f: i
+defalcate <> i: defalcating, p: defalcated, '3': defalcates, d: defalcated
+defalcated <> f: pd, b: defalcate
+defalcates <> f: '3', b: defalcate
+defalcating <> f: i, b: defalcate
+defamation <> s: defamations
+defamations <> b: defamation, f: s
+defame <> p: defamed, d: defamed, i: defaming, '3': defames
+defamed <> b: defame, f: pd
+defamer <> s: defamers
+defamers <> b: defamer, f: s
+defames <> b: defame, f: '3'
+defaming <> b: defame, f: i
+default <> s: defaults, p: defaulted, d: defaulted, i: defaulting, '3': defaults
+defaulted <> b: default, f: pd
+defaulter <> s: defaulters
+defaulters <> b: defaulter, f: s
+defaulting <> b: default, f: i, i: defaulting
+defaults <> b: default, f: s3
+defeat <> d: defeated, p: defeated, s: defeats, i: defeating, '3': defeats
+defeated <> b: defeat, f: dp, d: defeated, p: defeated
+defeating <> b: defeat, f: i, i: defeating
+defeatist <> s: defeatists
+defeatists <> b: defeatist, f: s
+defeats <> b: defeat, f: s3
+defecate <> p: defecated, i: defecating, d: defecated, '3': defecates
+defecated <> b: defecate, f: pd
+defecates <> f: '3', b: defecate
+defecating <> b: defecate, f: i
+defecation <> s: defecations
+defecations <> b: defecation, f: s
+defect <> s: defects, p: defected, d: defected, i: defecting, '3': defects
+defected <> b: defect, f: pd
+defecting <> b: defect, f: i, i: defecting
+defection <> s: defections
+defections <> b: defection, f: s
+defective <> s: defectives
+defectives <> b: defective, f: s
+defector <> s: defectors
+defectors <> b: defector, f: s
+defects <> b: defect, f: s3
+defence <> s: defences
+defences <> b: defence, f: s
+defend <> i: defending, d: defended, p: defended, '3': defends
+defendant <> s: defendants
+defendants <> b: defendant, f: s
+defended <> b: defend, f: dp
+defender <> s: defenders
+defenders <> b: defender, f: s
+defending <> b: defend, f: i, i: defending
+defends <> b: defend, f: '3'
+defenestration <> s: defenestrations
+defenestrations <> b: defenestration, f: s
+defense <> s: defenses
+defenses <> b: defense, f: s
+defer <> d: deferred, i: deferring, p: deferred, '3': defers
+deference <> s: deferences
+deferences <> b: deference, f: s
+deferment <> s: deferments
+deferments <> b: deferment, f: s
+deferral <> s: deferrals
+deferrals <> b: deferral, f: s
+deferred <> b: defer, f: dp, d: deferred, p: deferred, s: deferreds
+deferring <> b: defer, f: i
+defers <> b: defer, f: '3'
+defiant <> s: defiants
+defiants <> b: defiant, f: s
+defibrillation <> s: defibrillations
+defibrillations <> b: defibrillation, f: s
+defibrillator <> s: defibrillators
+defibrillators <> b: defibrillator, f: s
+deficiencies <> b: deficiency, f: s
+deficiency <> s: deficiencies
+deficit <> s: deficits
+deficits <> b: deficit, f: s
+defied <> b: defy, f: pd
+defies <> b: defy, f: '3'
+defile <> d: defiled, p: defiled, i: defiling, '3': defiles, s: defiles
+defiled <> b: defile, f: dp, p: defiled
+defilement <> s: defilements
+defilements <> b: defilement, f: s
+defiler <> s: defilers
+defilers <> b: defiler, f: s
+defiles <> b: defile, f: 3s
+defiling <> b: defile, f: i, i: defiling
+define <> d: defined, i: defining, p: defined, '3': defines
+defined <> b: define, f: dp, p: defined, d: defined
+definer <> s: definers
+definers <> b: definer, f: s
+defines <> b: define, f: '3'
+definien <> s: definiens
+definiens <> b: definien, f: s
+defining <> b: define, f: i, i: defining
+definite <> s: definites
+definites <> b: definite, f: s
+definition <> s: definitions
+definitions <> b: definition, f: s
+definitive <> s: definitives, '3': definitives
+definitives <> b: definitive, f: s3
+deflagrate <> i: deflagrating, p: deflagrated, '3': deflagrates, d: deflagrated
+deflagrated <> f: pd, b: deflagrate
+deflagrates <> f: '3', b: deflagrate
+deflagrating <> f: i, b: deflagrate
+deflate <> p: deflated, d: deflated, i: deflating, '3': deflates
+deflated <> b: deflate, f: pd, p: deflated
+deflates <> b: deflate, f: '3'
+deflating <> b: deflate, f: i, i: deflating
+deflation <> s: deflations
+deflations <> b: deflation, f: s
+deflect <> d: deflected, p: deflected, i: deflecting, '3': deflects
+deflected <> b: deflect, f: dp, p: deflected, d: deflected
+deflecting <> b: deflect, f: i
+deflection <> s: deflections
+deflections <> b: deflection, f: s
+deflector <> s: deflectors
+deflectors <> b: deflector, f: s
+deflects <> b: deflect, f: '3'
+deflower <> d: deflowered, i: deflowering, p: deflowered, '3': deflowers
+deflowered <> b: deflower, f: dp
+deflowering <> b: deflower, f: i
+deflowers <> f: '3', b: deflower
+defocused <> b: defocuse, f: d
+defoe <> s: defoes
+defoes <> b: defoe, f: s
+defoliant <> s: defoliants
+defoliants <> b: defoliant, f: s
+defoliate <> i: defoliating, d: defoliated, p: defoliated, '3': defoliates
+defoliated <> b: defoliate, f: dp, d: defoliated
+defoliates <> f: '3', b: defoliate
+defoliating <> b: defoliate, f: i
+deforest <> b: defore, f: t, i: deforesting, p: deforested, '3': deforests, d: deforested
+deforested <> f: pd, b: deforest
+deforesting <> f: i, b: deforest
+deforests <> f: '3', b: deforest
+deform <> i: deforming, '3': deforms, d: deformed, s: deforms, p: deformed
+deformation <> s: deformations
+deformations <> b: deformation, f: s
+deformed <> d: deformed, b: deformed, f: d
+deforming <> b: deform, f: i
+deformities <> b: deformity, f: s
+deformity <> s: deformities
+deforms <> b: deform, f: 3s
+defraud <> i: defrauding, d: defrauded, p: defrauded, '3': defrauds
+defrauded <> b: defraud, f: dp
+defrauding <> b: defraud, f: i
+defrauds <> f: '3', b: defraud
+defray <> d: defrayed, i: defraying, '3': defrays, p: defrayed
+defrayed <> f: dp, b: defray
+defraying <> b: defray, f: i
+defrays <> b: defray, f: '3'
+defries <> b: defry, f: s
+defrock <> d: defrocked, i: defrocking, p: defrocked, '3': defrocks
+defrocked <> f: dp, b: defrock
+defrocking <> b: defrock, f: i
+defrocks <> f: '3', b: defrock
+defrost <> i: defrosting, d: defrosted, '3': defrosts, p: defrosted
+defrosted <> b: defrost, f: dp, p: defrosted, d: defrosted
+defrosting <> b: defrost, f: i
+defrosts <> b: defrost, f: '3'
+deft <> t: deftest, r: defter
+defter <> b: deft, f: r
+deftest <> b: deft, f: t
+defuse <> i: defusing, d: defused, p: defused, '3': defuses
+defused <> b: defuse, f: dp, d: defused, p: defused
+defuses <> b: defuse, f: '3'
+defusing <> b: defuse, f: i
+defy <> p: defied, i: defying, '3': defies, d: defied
+defying <> b: defy, f: i
+deg <> p: degged
+degas <> i: degassing, p: degassed, '3': degasses, d: degassed
+degassed <> b: degass, f: p
+degasses <> f: '3', b: degas
+degassing <> i: degassing, b: degassing, f: i
+degauss <> i: degaussing, p: degaussed, '3': degausses, d: degaussed
+degaussed <> f: pd, b: degauss
+degausses <> f: '3', b: degauss
+degaussing <> f: i, b: degauss
+degeneracies <> b: degeneracy, f: s
+degeneracy <> s: degeneracies
+degenerate <> d: degenerated, p: degenerated, i: degenerating, '3': degenerates, s: degenerates
+degenerated <> b: degenerate, f: dp
+degenerates <> b: degenerate, f: 3s
+degenerating <> b: degenerate, f: i, i: degenerating
+degged <> b: deg, f: p
+deglaciation <> s: deglaciations
+deglaciations <> b: deglaciation, f: s
+deglaze <> i: deglazing
+deglazing <> b: deglaze, f: i
+deglutition <> s: deglutitions
+deglutitions <> b: deglutition, f: s
+degradation <> s: degradations
+degradations <> b: degradation, f: s
+degrade <> i: degrading, d: degraded, '3': degrades, p: degraded, s: degrades
+degraded <> b: degrade, f: dp, d: degraded, p: degraded
+degrades <> b: degrade, f: 3s
+degrading <> b: degrade, f: i, i: degrading
+degreasant <> s: degreasants
+degreasants <> b: degreasant, f: s
+degrease <> i: degreasing, p: degreased, '3': degreases, d: degreased
+degreased <> f: pd, b: degrease
+degreaser <> s: degreasers
+degreasers <> b: degreaser, f: s
+degreases <> f: '3', b: degrease
+degreasing <> b: degrease, f: i
+degree <> s: degrees
+degrees <> b: degree, f: s
+dehisce <> d: dehisced, i: dehiscing, p: dehisced, '3': dehisces
+dehisced <> f: dp, b: dehisce
+dehisces <> f: '3', b: dehisce
+dehiscing <> b: dehisce, f: i
+dehorn <> d: dehorned, i: dehorning, p: dehorned, '3': dehorns
+dehorned <> b: dehorn, f: dp
+dehorning <> b: dehorn, f: i
+dehorns <> f: '3', b: dehorn
+dehumanise <> d: dehumanised, i: dehumanising, '3': dehumanises, p: dehumanised
+dehumanised <> b: dehumanise, f: dp, d: dehumanised
+dehumanises <> b: dehumanise, f: '3'
+dehumanising <> b: dehumanise, f: i
+dehumanize <> i: dehumanizing, p: dehumanized, '3': dehumanizes, d: dehumanized
+dehumanized <> f: pd, b: dehumanize, p: dehumanized
+dehumanizes <> b: dehumanize, f: '3'
+dehumanizing <> b: dehumanize, f: i
+dehumidified <> f: pd, b: dehumidify
+dehumidifier <> s: dehumidifiers
+dehumidifiers <> b: dehumidifier, f: s
+dehumidifies <> f: '3', b: dehumidify
+dehumidify <> i: dehumidifying, p: dehumidified, '3': dehumidifies, d: dehumidified
+dehumidifying <> f: i, b: dehumidify
+dehydrate <> p: dehydrated, d: dehydrated, '3': dehydrates, i: dehydrating
+dehydrated <> b: dehydrate, f: pd, p: dehydrated, d: dehydrated
+dehydrates <> b: dehydrate, f: '3'
+dehydrating <> b: dehydrate, f: i
+dehydrator <> s: dehydrators
+dehydrators <> b: dehydrator, f: s
+dehydrogenase <> s: dehydrogenases
+dehydrogenases <> b: dehydrogenase, f: s
+dehydrogenation <> s: dehydrogenations
+dehydrogenations <> b: dehydrogenation, f: s
+dei <> s: dei, b: dei, f: s
+deictic <> s: deictics
+deictics <> b: deictic, f: s
+deified <> b: deify, f: dp
+deifies <> f: '3', b: deify
+deify <> d: deified, p: deified, i: deifying, '3': deifies
+deifying <> b: deify, f: i
+deign <> p: deigned, d: deigned, '3': deigns, i: deigning, s: deigns
+deigned <> b: deign, f: pd
+deigning <> b: deign, f: i
+deigns <> b: deign, f: 3s
+deist <> s: deists
+deists <> b: deist, f: s
+deities <> b: deity, f: s
+deity <> s: deities
+deject <> i: dejecting, p: dejected, '3': dejects, d: dejected
+dejected <> f: pd, b: deject
+delaminate <> d: delaminated, i: delaminating
+delaminated <> b: delaminate, f: d
+delaminating <> b: delaminate, f: i
+delamination <> s: delaminations
+delaminations <> b: delamination, f: s
+delate <> d: delated
+delated <> b: delate, f: d
+delay <> d: delayed, s: delays, p: delayed, i: delaying, '3': delays
+delayed <> b: delay, f: dp, d: delayed, p: delayed
+delaying <> b: delay, f: i, i: delaying
+delays <> b: delay, f: s3
+delegate <> s: delegates, d: delegated, i: delegating, '3': delegates, p: delegated
+delegated <> b: delegate, f: dp, d: delegated
+delegates <> b: delegate, f: s3
+delegating <> b: delegate, f: i, i: delegating
+delegation <> s: delegations
+delegations <> b: delegation, f: s
+delegitimate <> i: delegitimating
+delegitimating <> b: delegitimate, f: i
+delete <> d: deleted, i: deleting, '3': deletes, p: deleted
+deleted <> b: delete, f: dp, d: deleted, p: deleted
+deletes <> b: delete, f: '3'
+deleting <> b: delete, f: i
+deletion <> s: deletions
+deletions <> b: deletion, f: s
+delhi <> s: delhi, b: delhi, f: s
+deli <> s: delis
+deliberate <> i: deliberating, p: deliberated, d: deliberated, '3': deliberates
+deliberated <> b: deliberate, f: pd
+deliberates <> b: deliberate, f: '3'
+deliberating <> b: deliberate, f: i
+deliberation <> s: deliberations
+deliberations <> b: deliberation, f: s
+Delibes <> b: delibe, f: s
+delicacies <> b: delicacy, f: s
+delicacy <> s: delicacies
+delicatessen <> s: delicatessens
+delicatessens <> b: delicatessen, f: s
+deliciousness <> s: deliciousnesses
+deliciousnesses <> b: deliciousness, f: s
+delict <> s: delicts
+delicts <> b: delict, f: s
+delight <> s: delights, p: delighted, i: delighting, d: delighted, '3': delights
+delighted <> b: delight, f: pd, p: delighted, d: delighted
+delighting <> b: delight, f: i
+delights <> b: delight, f: s3
+delimit <> d: delimited, i: delimiting, p: delimited, '3': delimits
+delimitation <> s: delimitations
+delimitations <> b: delimitation, f: s
+delimited <> b: delimit, f: dp, p: delimited
+delimiter <> s: delimiters
+delimiters <> b: delimiter, f: s
+delimiting <> b: delimit, f: i
+delimits <> b: delimit, f: '3'
+delineate <> d: delineated, p: delineated, '3': delineates, i: delineating
+delineated <> b: delineate, f: dp, p: delineated
+delineates <> b: delineate, f: '3'
+delineating <> b: delineat, f: i
+delineation <> s: delineations
+delineations <> b: delineation, f: s
+delink <> i: delinking, p: delinked
+delinked <> b: delink, f: p
+delinking <> b: delink, f: i
+delinquencies <> b: delinquency, f: s
+delinquency <> s: delinquencies
+delinquent <> s: delinquents
+delinquents <> b: delinquent, f: s
+deliquesce <> i: deliquescing, p: deliquesced, '3': deliquesces, d: deliquesced
+deliquesced <> f: pd, b: deliquesce
+deliquesces <> f: '3', b: deliquesce
+deliquescing <> b: deliquesce, f: i
+delirium <> s: deliriums
+deliriums <> b: delirium, f: s
+delis <> b: deli, f: s
+delist <> i: delisting, d: delisted, p: delisted, '3': delists
+delisted <> b: delist, f: d
+delisting <> b: delist, f: i
+deliver <> d: delivered, i: delivering, p: delivered, '3': delivers
+deliverable <> s: deliverables
+deliverables <> b: deliverable, f: s
+deliverance <> s: deliverances
+deliverances <> b: deliverance, f: s
+delivered <> b: deliver, f: dp
+deliverer <> s: deliverers
+deliverers <> b: deliverer, f: s
+deliveries <> b: delivery, f: s
+delivering <> b: deliver, f: i
+delivers <> b: deliver, f: '3'
+delivery <> s: deliveries
+dell <> s: dells
+della <> s: dellas
+dellas <> b: della, f: s
+dells <> b: dell, f: s
+Delo <> s: delos
+delocalize <> i: delocalizing, p: delocalized, '3': delocalizes, d: delocalized
+delocalized <> f: pd, b: delocalize
+delocalizes <> f: '3', b: delocalize
+delocalizing <> i: delocalizing, b: delocalizing, f: i
+Delos <> b: delo, f: s
+delouse <> d: deloused, p: deloused, i: delousing, '3': delouses
+deloused <> b: delouse, f: dp
+delouses <> f: '3', b: delouse
+delousing <> f: i, b: delouse
+delphinium <> s: delphiniums
+delphiniums <> b: delphinium, f: s
+delta <> s: deltas
+deltas <> b: delta, f: s
+deltoid <> s: deltoids
+deltoids <> b: deltoid, f: s
+delude <> d: deluded, i: deluding, p: deluded, '3': deludes
+deluded <> b: delude, f: dp, p: deluded
+deludes <> b: delude, f: '3'
+deluding <> b: delude, f: i
+deluge <> d: deluged, p: deluged, i: deluging, s: deluges, '3': deluges
+deluged <> b: deluge, f: dp, d: deluged
+deluges <> f: s3, b: deluge
+deluging <> b: deluge, f: i
+delusion <> s: delusions
+delusions <> b: delusion, f: s
+delve <> i: delving, '3': delves, p: delved, d: delved
+delved <> b: delve, f: pd
+delver <> s: delvers
+delvers <> b: delver, f: s
+delves <> b: delve, f: '3'
+delving <> b: delve, f: i, s: delvings
+DEM <> s: dems, '3': dems
+demagnetize <> i: demagnetizing, p: demagnetized, '3': demagnetizes, d: demagnetized
+demagnetized <> f: pd, b: demagnetize
+demagnetizes <> f: '3', b: demagnetize
+demagnetizing <> f: i, b: demagnetize
+demagogue <> s: demagogues
+demagogues <> b: demagogue, f: s
+demand <> s: demands, p: demanded, i: demanding, d: demanded, '3': demands
+demanded <> b: demand, f: pd, p: demanded, d: demanded
+demander <> s: demanders
+demanders <> b: demander, f: s
+demanding <> b: demand, f: i, i: demanding
+demands <> b: demand, f: s3
+demarcate <> d: demarcated, p: demarcated, i: demarcating, '3': demarcates
+demarcated <> b: demarcate, f: dp
+demarcates <> b: demarcate, f: '3'
+demarcating <> b: demarcate, f: i
+demarcation <> s: demarcations
+demarcations <> b: demarcation, f: s
+demarcator <> s: demarcators
+demarcators <> b: demarcator, f: s
+dematerialize <> d: dematerialized, i: dematerializing, p: dematerialized, '3': dematerializes
+dematerialized <> f: dp, b: dematerialize
+dematerializes <> f: '3', b: dematerialize
+dematerializing <> f: i, b: dematerialize
+deme <> s: demes, d: demed
+demean <> i: demeaning, p: demeaned, '3': demeans, d: demeaned
+demeaned <> b: demean, f: pd
+demeaning <> i: demeaning, b: demeaning, f: i
+demeanour <> s: demeanours
+demeanours <> b: demeanour, f: s
+demeans <> b: demean, f: '3'
+demed <> b: deme, f: d
+dement <> i: dementing, s: dements
+dementia <> s: dementias
+dementias <> b: dementia, f: s
+dementing <> b: dement, f: i, i: dementing
+dements <> b: dement, f: s
+demerge <> p: demerged, d: demerged, i: demerging
+demerged <> b: demerge, f: pd
+demerger <> s: demergers
+demergers <> b: demerger, f: s
+demerging <> b: demerge, f: i
+demerit <> s: demerits
+demerits <> b: demerit, f: s
+demes <> b: deme, f: s
+demesne <> s: demesnes
+demesnes <> b: demesne, f: s
+Demi <> s: demi, b: demi, f: s
+demi-monde <> s: demi-mondes
+demi-mondes <> b: demi-monde, f: s
+demigod <> s: demigods
+demigods <> b: demigod, f: s
+demijohn <> s: demijohns
+demijohns <> b: demijohn, f: s
+demilitarise <> d: demilitarised
+demilitarised <> b: demilitarise, f: d
+demilitarize <> i: demilitarizing, p: demilitarized, '3': demilitarizes, d: demilitarized
+demilitarized <> f: pd, b: demilitarize
+demilitarizes <> f: '3', b: demilitarize
+demilitarizing <> f: i, b: demilitarize
+demineralize <> i: demineralizing, p: demineralized, '3': demineralizes, d: demineralized
+demineralized <> f: pd, b: demineralize
+demineralizes <> f: '3', b: demineralize
+demineralizing <> f: i, b: demineralize
+demise <> d: demised, s: demises, p: demised
+demised <> b: demise, f: dp, p: demised
+demisemiquaver <> s: demisemiquavers
+demisemiquavers <> b: demisemiquaver, f: s
+demises <> b: demise, f: s
+demist <> i: demisting, p: demisted, '3': demists, d: demisted
+demisted <> f: pd, b: demist
+demister <> s: demisters
+demisters <> b: demister, f: s
+demisting <> b: demist, f: i
+demists <> f: '3', b: demist
+demit <> i: demitting, p: demitted, '3': demits
+demits <> b: demit, f: '3'
+demitted <> b: demit, f: p
+demitting <> b: demit, f: i
+Demo <> s: demos, i: demoing
+demob <> d: demobbed, p: demobbed, '3': demobs, i: demobbing
+demobbed <> b: demob, f: dp
+demobbing <> f: i, b: demob
+demobilise <> d: demobilised, i: demobilising, p: demobilised
+demobilised <> b: demobilise, f: dp
+demobilising <> b: demobilise, f: i
+demobilization <> s: demobilizations
+demobilizations <> b: demobilization, f: s
+demobilize <> d: demobilized, p: demobilized, i: demobilizing, '3': demobilizes
+demobilized <> b: demobilize, f: dp, p: demobilized
+demobilizes <> f: '3', b: demobilize
+demobilizing <> b: demobilize, f: i
+demobs <> b: demob, f: '3'
+democracies <> b: democracy, f: s
+democracy <> s: democracies
+democrat <> s: democrats
+democratise <> i: democratising, d: democratised, p: democratised
+democratised <> b: democratise, f: dp
+democratising <> b: democratise, f: i
+democratize <> d: democratized, i: democratizing, p: democratized, '3': democratizes
+democratized <> b: democratize, f: dp
+democratizes <> b: democratize, f: '3'
+democratizing <> b: democratize, f: i, i: democratizing
+democrats <> b: democrat, f: s
+demodulate <> i: demodulating, p: demodulated, '3': demodulates, d: demodulated
+demodulated <> f: pd, b: demodulate
+demodulates <> f: '3', b: demodulate
+demodulating <> f: i, b: demodulate
+demographer <> s: demographers
+demographers <> b: demographer, f: s
+demographic <> s: demographics
+demographics <> b: demographic, f: s
+demoiselle <> s: demoiselles
+demoiselles <> b: demoiselle, f: s
+demolish <> d: demolished, i: demolishing, p: demolished, '3': demolishes
+demolished <> b: demolish, f: dp, d: demolished
+demolisher <> s: demolishers
+demolishers <> b: demolisher, f: s
+demolishes <> b: demolish, f: '3'
+demolishing <> b: demolish, f: i
+demolition <> s: demolitions
+demolitions <> b: demolition, f: s
+demon <> s: demons
+demonetize <> i: demonetizing, p: demonetized, '3': demonetizes, d: demonetized
+demonetized <> f: pd, b: demonetize
+demonetizes <> f: '3', b: demonetize
+demonetizing <> f: i, b: demonetize
+demoniac <> s: demoniacs
+demoniacs <> b: demoniac, f: s
+demonize <> d: demonized, i: demonizing, p: demonized, '3': demonizes
+demonized <> b: demonize, f: dp
+demonizes <> f: '3', b: demonize
+demonizing <> i: demonizing, b: demonizing, f: i
+demonologies <> b: demonology, f: s
+demonology <> s: demonologies
+demons <> b: demon, f: s
+demonstrate <> d: demonstrated, '3': demonstrates, p: demonstrated, i: demonstrating
+demonstrated <> b: demonstrate, f: dp, p: demonstrated, d: demonstrated
+demonstrates <> b: demonstrate, f: '3'
+demonstrating <> b: demonstrate, f: i, i: demonstrating
+demonstration <> s: demonstrations
+demonstrations <> b: demonstration, f: s
+demonstrative <> s: demonstratives
+demonstratives <> b: demonstrative, f: s
+demonstrator <> s: demonstrators
+demonstrators <> b: demonstrator, f: s
+demoralise <> i: demoralising, d: demoralised, p: demoralised
+demoralised <> d: demoralised, b: demoralised, f: dp, p: demoralised
+demoralising <> b: demoralise, f: i, i: demoralising
+demoralize <> p: demoralized, i: demoralizing, d: demoralized, '3': demoralizes
+demoralized <> b: demoralize, f: pd, p: demoralized
+demoralizes <> b: demoralize, f: '3'
+demoralizing <> b: demoralize, f: i, i: demoralizing
+demos <> b: demo, f: s
+Demosthenes <> b: demosthene, f: s
+demote <> d: demoted, p: demoted, i: demoting, '3': demotes
+demoted <> b: demote, f: dp, p: demoted, d: demoted
+demotes <> b: demote, f: '3'
+demoting <> b: demote, f: i
+demotion <> s: demotions
+demotions <> b: demotion, f: s
+demotivate <> d: demotivated, i: demotivating, p: demotivated, '3': demotivates
+demotivated <> b: demotivate, f: dp
+demotivates <> b: demotivate, f: '3'
+demotivating <> b: demotivate, f: i, i: demotivating
+demur <> p: demurred, d: demurred, s: demurs, '3': demurs, i: demurring
+demurred <> b: demur, f: pd
+demurring <> b: demur, f: i, i: demurring
+demurs <> b: demur, f: s3
+demystified <> b: demystify, f: dp, p: demystified
+demystifies <> b: demystify, f: '3'
+demystify <> i: demystifying, d: demystified, '3': demystifies, p: demystified
+demystifying <> b: demystify, f: i
+demythologize <> i: demythologizing, p: demythologized, '3': demythologizes, d: demythologized
+demythologized <> f: pd, b: demythologize
+demythologizes <> f: '3', b: demythologize
+demythologizing <> b: demythologize, f: i, i: demythologizing
+den <> s: dens
+denationalize <> i: denationalizing, p: denationalized, d: denationalized, '3': denationalizes
+denationalized <> b: denationalize, f: pd
+denationalizes <> f: '3', b: denationalize
+denationalizing <> b: denationalize, f: i
+denaturalize <> i: denaturalizing, p: denaturalized, '3': denaturalizes, d: denaturalized
+denaturalized <> f: pd, b: denaturalize
+denaturalizes <> f: '3', b: denaturalize
+denaturalizing <> b: denaturalize, f: i
+denature <> i: denaturing, p: denatured, d: denatured, '3': denatures
+denatured <> b: denature, f: pd, p: denatured
+denatures <> b: denature, f: '3'
+denaturing <> b: denature, f: i, i: denaturing
+denazified <> f: pd, b: denazify
+denazifies <> f: '3', b: denazify
+denazify <> i: denazifying, p: denazified, '3': denazifies, d: denazified
+denazifying <> f: i, b: denazify
+dendrite <> s: dendrites
+dendrites <> b: dendrite, f: s
+dendrogram <> s: dendrograms
+dendrograms <> b: dendrogram, f: s
+dendroid <> s: dendroids
+dendroids <> b: dendroid, f: s
+dendrologist <> s: dendrologists
+dendrologists <> b: dendrologist, f: s
+dene <> s: denes
+denes <> b: dene, f: s
+denial <> s: denials
+denials <> b: denial, f: s
+denied <> b: deny, f: dp, p: denied, d: denied
+denier <> s: deniers
+deniers <> b: denier, f: s
+denigrate <> i: denigrating, d: denigrated, p: denigrated, '3': denigrates
+denigrated <> b: denigrate, f: dp, p: denigrated, d: denigrated
+denigrates <> b: denigrate, f: '3'
+denigrating <> b: denigrate, f: i, i: denigrating
+denim <> s: denims
+denims <> b: denim, f: s
+denitrified <> f: dp, b: denitrify
+denitrifies <> f: '3', b: denitrify
+denitrify <> d: denitrified, i: denitrifying, p: denitrified, '3': denitrifies
+denitrifying <> f: i, b: denitrify
+denizen <> s: denizens
+denizens <> b: denizen, f: s
+denominate <> p: denominated, d: denominated, i: denominating, '3': denominates
+denominated <> b: denominate, f: pd, d: denominated, p: denominated
+denominates <> f: '3', b: denominate
+denominating <> b: denominate, f: i
+denomination <> s: denominations
+denominations <> b: denomination, f: s
+denominator <> s: denominators
+denominators <> b: denominator, f: s
+denotation <> s: denotations
+denotations <> b: denotation, f: s
+denote <> '3': denotes, d: denoted, i: denoting, p: denoted
+denoted <> b: denote, f: dp, p: denoted
+denotes <> b: denote, f: '3'
+denoting <> b: denote, f: i
+denouement <> s: denouements
+denouements <> b: denouement, f: s
+denounce <> p: denounced, d: denounced, i: denouncing, '3': denounces
+denounced <> b: denounce, f: pd, p: denounced, d: denounced
+denouncer <> s: denouncers
+denouncers <> b: denouncer, f: s
+denounces <> b: denounce, f: '3'
+denouncing <> b: denounce, f: i
+dens <> b: den, f: s, r: denser, t: densest
+densities <> b: density, f: s
+densitometer <> b: densitomete, f: r
+density <> s: densities
+dent <> d: dented, s: dents, p: dented, i: denting, '3': dents
+dental <> s: dentals
+dentals <> b: dental, f: s
+dented <> b: dent, f: dp, d: dented, p: dented
+dentelle <> s: dentelles
+dentelles <> b: dentelle, f: s
+dentil <> s: dentils
+dentils <> b: dentil, f: s
+denting <> b: dent, f: i
+dentist <> s: dentists
+dentists <> b: dentist, f: s
+dentition <> s: dentitions
+dentitions <> b: dentition, f: s
+dents <> b: dent, f: s3
+denture <> s: dentures, '3': dentures
+dentures <> b: denture, f: s3
+denude <> p: denuded, d: denuded, i: denuding, '3': denudes
+denuded <> b: denude, f: pd, p: denuded
+denudes <> f: '3', b: denude
+denuding <> b: denude, f: i
+denunciation <> s: denunciations
+denunciations <> b: denunciation, f: s
+deny <> d: denied, p: denied, i: denying, '3': denies
+denying <> b: deny, f: i, i: denying
+deodorant <> s: deodorants
+deodorants <> b: deodorant, f: s
+deodorize <> i: deodorizing, p: deodorized, '3': deodorizes, d: deodorized
+deodorized <> f: pd, b: deodorize
+deodorizes <> f: '3', b: deodorize
+deodorizing <> b: deodorize, f: i
+deoxidize <> i: deoxidizing, p: deoxidized, '3': deoxidizes, d: deoxidized
+deoxidized <> f: pd, b: deoxidize
+deoxidizes <> f: '3', b: deoxidize
+deoxidizing <> f: i, b: deoxidize
+deoxygenate <> i: deoxygenating, p: deoxygenated
+deoxygenated <> b: deoxygenate, f: p
+deoxygenating <> b: deoxygenate, f: i
+deoxyribose <> '3': deoxyriboses, s: deoxyriboses
+deoxyriboses <> b: deoxyribose, f: 3s
+dep <> s: deps
+depart <> i: departing, d: departed, p: departed, '3': departs
+departed <> b: depart, f: dp, p: departed, d: departed
+departing <> b: depart, f: i, i: departing
+department <> s: departments
+departmentalize <> d: departmentalized
+departmentalized <> b: departmentalize, f: d
+departments <> b: department, f: s
+departs <> b: depart, f: '3'
+departure <> s: departures
+departures <> b: departure, f: s
+depend <> '3': depends, i: depending, p: depended, d: depended
+dependable <> s: dependables
+dependables <> b: dependable, f: s
+dependant <> s: dependants
+dependants <> b: dependant, f: s
+depended <> b: depend, f: pd
+dependence <> s: dependences
+dependences <> b: dependence, f: s
+dependencies <> b: dependency, f: s
+dependency <> s: dependencies
+dependent <> s: dependents
+dependents <> b: dependent, f: s
+depending <> b: depend, f: i, i: depending
+depends <> b: depend, f: '3'
+depersonalize <> d: depersonalized, i: depersonalizing, p: depersonalized, '3': depersonalizes
+depersonalized <> b: depersonalize, f: dp, p: depersonalized
+depersonalizes <> f: '3', b: depersonalize
+depersonalizing <> b: depersonalize, f: i
+depict <> i: depicting, d: depicted, '3': depicts, p: depicted
+depicted <> b: depict, f: dp, d: depicted, p: depicted
+depicting <> b: depict, f: i
+depiction <> s: depictions
+depictions <> b: depiction, f: s
+depicts <> b: depict, f: '3'
+depilate <> i: depilating, p: depilated, '3': depilates, d: depilated
+depilated <> f: pd, b: depilate
+depilates <> f: '3', b: depilate
+depilating <> f: i, b: depilate
+depilatories <> b: depilatory, f: s
+depilatory <> s: depilatories
+deplane <> i: deplaning, p: deplaned, '3': deplanes, d: deplaned
+deplaned <> f: pd, b: deplane
+deplanes <> f: '3', b: deplane
+deplaning <> f: i, b: deplane
+deplete <> d: depleted, i: depleting, '3': depletes, p: depleted
+depleted <> b: deplete, f: dp, d: depleted
+depletes <> b: deplete, f: '3'
+depleting <> b: deplete, f: i
+depletion <> s: depletions
+depletions <> b: depletion, f: s
+deplore <> p: deplored, d: deplored, i: deploring, '3': deplores
+deplored <> b: deplore, f: pd
+deplores <> b: deplore, f: '3'
+deploring <> b: deplore, f: i
+deploy <> d: deployed, i: deploying, p: deployed, '3': deploys
+deployed <> b: deploy, f: dp, d: deployed
+deploying <> b: deploy, f: i
+deployment <> s: deployments
+deployments <> b: deployment, f: s
+deploys <> b: deploy, f: '3'
+deplume <> i: depluming, p: deplumed, '3': deplumes, d: deplumed
+deplumed <> f: pd, b: deplume
+deplumes <> f: '3', b: deplume
+depluming <> f: i, b: deplume
+depolarize <> p: depolarized, d: depolarized, i: depolarizing, '3': depolarizes
+depolarized <> b: depolarize, f: pd, p: depolarized
+depolarizes <> f: '3', b: depolarize
+depolarizing <> b: depolarize, f: i
+depoliticize <> d: depoliticized, p: depoliticized
+depoliticized <> b: depoliticize, f: dp
+deponent <> s: deponents
+deponents <> b: deponent, f: s
+depopulate <> d: depopulated, i: depopulating, p: depopulated, '3': depopulates
+depopulated <> b: depopulate, f: dp, p: depopulated
+depopulates <> f: '3', b: depopulate
+depopulating <> b: depopulate, f: i
+deport <> d: deported, i: deporting, p: deported, '3': deports
+deportation <> s: deportations
+deportations <> b: deportation, f: s
+deported <> b: deport, f: dp, d: deported, p: deported
+deportee <> s: deportees
+deportees <> b: deportee, f: s
+deporting <> b: deport, f: i
+deports <> b: deport, f: '3'
+depose <> d: deposed, p: deposed, i: deposing, '3': deposes
+deposed <> b: depose, f: dp, p: deposed, d: deposed
+deposes <> b: depose, f: '3'
+deposing <> b: depose, f: i
+deposit <> s: deposits, d: deposited, p: deposited, i: depositing, '3': deposits
+depositaries <> b: depositary, f: s
+depositary <> s: depositaries
+deposited <> b: deposit, f: dp
+depositing <> b: deposit, f: i
+deposition <> s: depositions
+depositions <> b: deposition, f: s
+depositor <> s: depositors
+depositories <> b: depository, f: s
+depositors <> b: depositor, f: s
+depository <> s: depositories
+deposits <> b: deposit, f: s3
+depot <> s: depots
+depots <> b: depot, f: s
+deprave <> p: depraved, d: depraved, i: depraving, s: depraves, '3': depraves
+depraved <> b: deprave, f: pd, p: depraved, d: depraved
+depraves <> f: s3, b: deprave
+depraving <> b: deprave, f: i
+depravities <> b: depravity, f: s
+depravity <> s: depravities
+deprecate <> i: deprecating, d: deprecated, p: deprecated, '3': deprecates
+deprecated <> b: deprecate, f: dp
+deprecates <> b: deprecate, f: '3'
+deprecating <> b: deprecate, f: i
+depreciate <> d: depreciated, i: depreciating, p: depreciated, '3': depreciates, s: depreciates
+depreciated <> b: depreciate, f: dp, p: depreciated
+depreciates <> b: depreciate, f: 3s
+depreciating <> b: depreciate, f: i
+depreciation <> s: depreciations
+depreciations <> b: depreciation, f: s
+depredation <> s: depredations
+depredations <> b: depredation, f: s
+depredator <> s: depredators
+depredators <> b: depredator, f: s
+depress <> p: depressed, '3': depresses, d: depressed, i: depressing
+depressant <> s: depressants
+depressants <> b: depressant, f: s
+depressed <> d: depressed, b: depressed, f: dp, p: depressed
+depresses <> b: depress, f: '3'
+depressing <> i: depressing, b: depressing, f: i
+depression <> s: depressions
+depressions <> b: depression, f: s
+depressive <> s: depressives
+depressives <> b: depressive, f: s
+depressor <> s: depressors
+depressors <> b: depressor, f: s
+depressurize <> i: depressurizing, p: depressurized, '3': depressurizes, d: depressurized
+depressurized <> f: pd, b: depressurize
+depressurizes <> f: '3', b: depressurize
+depressurizing <> f: i, b: depressurize
+deprivation <> s: deprivations
+deprivations <> b: deprivation, f: s
+deprive <> d: deprived, i: depriving, p: deprived, '3': deprives
+deprived <> b: deprive, f: dp, d: deprived, p: deprived
+deprives <> b: deprive, f: '3'
+depriving <> b: deprive, f: i
+deps <> b: dep, f: s
+dept <> s: depts
+depth <> s: depths
+depths <> b: depth, f: s
+depts <> b: dept, f: s
+deputation <> s: deputations
+deputations <> b: deputation, f: s
+depute <> p: deputed, d: deputed, i: deputing, s: deputes, '3': deputes
+deputed <> b: depute, f: pd
+deputes <> b: depute, f: s3
+deputies <> b: deputy, f: s
+deputing <> b: depute, f: i
+deputise <> i: deputising, '3': deputises, p: deputised, d: deputised
+deputised <> b: deputise, f: pd
+deputises <> b: deputise, f: '3'
+deputising <> b: deputise, f: i, i: deputising
+deputize <> i: deputizing, p: deputized, '3': deputizes, d: deputized
+deputized <> b: deputize, f: pd
+deputizes <> b: deputize, f: '3'
+deputizing <> b: deputize, f: i
+deputy <> s: deputies
+deracinate <> i: deracinating, p: deracinated, '3': deracinates, d: deracinated
+deracinated <> f: pd, b: deracinate
+deracinates <> f: '3', b: deracinate
+deracinating <> f: i, b: deracinate
+derail <> d: derailed, p: derailed, i: derailing, s: derails, '3': derails
+derailed <> b: derail, f: dp
+derailing <> b: derail, f: i
+derailment <> s: derailments
+derailments <> b: derailment, f: s
+derails <> b: derail, f: s3
+derange <> p: deranged, d: deranged, '3': deranges, i: deranging
+deranged <> b: derange, f: pd, p: deranged, d: deranged
+derangement <> s: derangements
+derangements <> b: derangement, f: s
+deranges <> b: derange, f: '3'
+deranging <> b: derang, f: i
+derate <> d: derated, i: derating, p: derated, '3': derates
+derated <> f: dp, b: derate
+derates <> f: '3', b: derate
+derating <> i: derating, b: derating, f: i
+derbies <> b: derby, f: s
+derby <> s: derbies
+deregister <> d: deregistered, i: deregistering, p: deregistered
+deregistered <> b: deregister, f: dp
+deregistering <> b: deregister, f: i
+deregistration <> s: deregistrations
+deregistrations <> b: deregistration, f: s
+deregulate <> d: deregulated, i: deregulating, p: deregulated, '3': deregulates
+deregulated <> b: deregulate, f: dp, p: deregulated
+deregulating <> b: deregulate, f: i
+derelict <> s: derelicts
+dereliction <> s: derelictions
+derelictions <> b: dereliction, f: s
+derelicts <> b: derelict, f: s
+derequisition <> i: derequisitioning, p: derequisitioned, '3': derequisitions, d: derequisitioned
+derequisitioned <> f: pd, b: derequisition
+derequisitioning <> f: i, b: derequisition
+derequisitions <> f: '3', b: derequisition
+derestrict <> i: derestricting, p: derestricted, '3': derestricts, d: derestricted
+derestricted <> f: pd, b: derestrict
+derestricting <> f: i, b: derestrict
+derestricts <> f: '3', b: derestrict
+deride <> d: derided, p: derided, i: deriding, '3': derides, s: derides
+derided <> b: deride, f: dp, p: derided
+derides <> b: deride, f: 3s
+deriding <> b: deride, f: i
+derivation <> s: derivations
+derivations <> b: derivation, f: s
+derivative <> s: derivatives
+derivatives <> b: derivative, f: s
+derive <> d: derived, '3': derives, i: deriving, p: derived
+derived <> b: derive, f: dp, p: derived, d: derived
+derives <> b: derive, f: '3'
+deriving <> b: derive, f: i
+dermatologist <> s: dermatologists
+dermatologists <> b: dermatologist, f: s
+derogate <> d: derogated, p: derogated, '3': derogates, i: derogating
+derogated <> b: derogate, f: dp
+derogates <> b: derogate, f: '3'
+derogating <> b: derogate, f: i
+derogation <> s: derogations
+derogations <> b: derogation, f: s
+derrick <> s: derricks
+derricks <> b: derrick, f: s
+derriere <> s: derrieres
+derrieres <> b: derriere, f: s
+dervish <> s: dervishes
+dervishes <> b: dervish, f: s
+Derwentwater <> s: derwentwaters, b: derwentwate, f: r
+desalinize <> i: desalinizing, p: desalinized, '3': desalinizes, d: desalinized
+desalinized <> f: pd, b: desalinize
+desalinizes <> f: '3', b: desalinize
+desalinizing <> f: i, b: desalinize
+desalt <> i: desalting, p: desalted, '3': desalts, d: desalted
+desalted <> f: pd, b: desalt
+desalting <> f: i, b: desalt
+desalts <> f: '3', b: desalt
+desaturation <> s: desaturations
+desaturations <> b: desaturation, f: s
+descale <> i: descaling, p: descaled, '3': descales, d: descaled
+descaled <> f: pd, b: descale
+descaler <> s: descalers
+descalers <> b: descaler, f: s
+descales <> f: '3', b: descale
+descaling <> b: descale, f: i
+descant <> s: descants, d: descanted, i: descanting, p: descanted, '3': descants
+descanted <> f: dp, b: descant
+descanting <> f: i, b: descant
+descants <> f: s3, b: descant
+Descartes <> b: descarte, f: s
+descend <> d: descended, p: descended, i: descending, '3': descends
+descendant <> s: descendants
+descendants <> b: descendant, f: s
+descended <> b: descend, f: dp
+descendent <> s: descendents
+descendents <> b: descendent, f: s
+descender <> s: descenders
+descenders <> b: descender, f: s
+descending <> b: descend, f: i, i: descending
+descends <> b: descend, f: '3'
+descent <> s: descents
+descents <> b: descent, f: s
+describe <> d: described, p: described, '3': describes, i: describing
+described <> b: describe, f: dp, d: described, p: described
+describer <> s: describers
+describers <> b: describer, f: s
+describes <> b: describe, f: '3'
+describing <> b: describe, f: i
+descried <> b: descry, f: pd
+descries <> f: s3, b: descry
+description <> s: descriptions
+descriptions <> b: description, f: s
+descriptor <> s: descriptors
+descriptors <> b: descriptor, f: s
+descry <> p: descried, d: descried, s: descries, i: descrying, '3': descries
+descrying <> f: i, b: descry
+desecrate <> d: desecrated, p: desecrated, i: desecrating, '3': desecrates
+desecrated <> b: desecrate, f: dp
+desecrates <> f: '3', b: desecrate
+desecrating <> b: desecrate, f: i
+desecration <> s: desecrations
+desecrations <> b: desecration, f: s
+deseed <> p: deseeded
+deseeded <> b: deseed, f: p
+desegregate <> i: desegregating, p: desegregated, '3': desegregates, d: desegregated
+desegregated <> f: pd, b: desegregate
+desegregates <> f: '3', b: desegregate
+desegregating <> f: i, b: desegregate
+deselect <> d: deselected, '3': deselects, i: deselecting, p: deselected
+deselected <> b: deselect, f: dp
+deselecting <> b: deselect, f: i
+deselects <> b: deselect, f: '3'
+desensitize <> d: desensitized, i: desensitizing, p: desensitized, '3': desensitizes
+desensitized <> b: desensitize, f: dp
+desensitizes <> f: '3', b: desensitize
+desensitizing <> b: desensitize, f: i
+desert <> d: deserted, s: deserts, p: deserted, i: deserting, '3': deserts
+deserted <> b: desert, f: dp, d: deserted, p: deserted
+deserter <> s: deserters
+deserters <> b: deserter, f: s
+deserting <> b: desert, f: i, i: deserting
+desertion <> s: desertions
+desertions <> b: desertion, f: s
+deserts <> b: desert, f: s3
+deserve <> '3': deserves, p: deserved, d: deserved, i: deserving
+deserved <> b: deserve, f: pd, p: deserved, d: deserved
+deserves <> b: deserve, f: '3'
+deserving <> b: deserve, f: i, i: deserving
+desexualize <> '3': desexualizes, p: desexualized, i: desexualizing, d: desexualized
+desexualized <> f: pd, b: desexualize
+desexualizes <> b: desexualize, f: '3'
+desexualizing <> f: i, b: desexualize
+desiccate <> d: desiccated, i: desiccating, p: desiccated, '3': desiccates
+desiccated <> d: desiccated, b: desiccated, f: d
+desiccates <> f: '3', b: desiccate
+desiccating <> f: i, b: desiccate
+desiderate <> '3': desiderates, p: desiderated
+desiderated <> b: desiderate, f: p
+desiderates <> b: desiderate, f: '3'
+design <> d: designed, s: designs, p: designed, i: designing, '3': designs
+designate <> d: designated, p: designated, i: designating, '3': designates
+designated <> b: designate, f: dp, d: designated, p: designated
+designates <> b: designate, f: '3'
+designating <> b: designate, f: i
+designation <> s: designations
+designations <> b: designation, f: s
+designator <> s: designators
+designators <> b: designator, f: s
+designed <> b: design, f: dp, d: designed, p: designed
+designer <> s: designers
+designers <> b: designer, f: s
+designing <> b: design, f: i, i: designing
+designs <> f: s3, b: design
+desirabilities <> b: desirability, f: s
+desirability <> s: desirabilities
+desire <> s: desires, d: desired, p: desired, '3': desires, i: desiring
+desired <> b: desire, f: dp, p: desired, d: desired
+desires <> b: desire, f: s3
+desiring <> b: desire, f: i
+desist <> p: desisted, '3': desists, i: desisting, d: desisted
+desisted <> b: desist, f: pd
+desisting <> b: desist, f: i
+desists <> b: desist, f: '3'
+desk <> s: desks
+desks <> b: desk, f: s
+desktop <> s: desktops
+desktops <> b: desktop, f: s
+desmid <> s: desmids
+desmids <> b: desmid, f: s
+desmond <> s: desmonds
+desmonds <> b: desmond, f: s
+desmosome <> s: desmosomes
+desmosomes <> b: desmosome, f: s
+desolate <> i: desolating, p: desolated, '3': desolates, d: desolated
+desolated <> f: pd, b: desolate
+desolates <> f: '3', b: desolate
+desolating <> f: i, b: desolate
+desolation <> s: desolations
+desolations <> b: desolation, f: s
+desorb <> i: desorbing, p: desorbed, '3': desorbs, d: desorbed
+desorbed <> f: pd, b: desorb
+desorbing <> f: i, b: desorb
+desorbs <> f: '3', b: desorb
+despair <> p: despaired, d: despaired, s: despairs, i: despairing, '3': despairs
+despaired <> b: despair, f: pd
+despairing <> b: despair, f: i, i: despairing
+despairs <> f: s3, b: despair
+despatch <> d: despatched, s: despatches, p: despatched, i: despatching, '3': despatches
+despatched <> b: despatch, f: dp
+despatcher <> s: despatchers
+despatchers <> b: despatcher, f: s
+despatches <> f: s3, b: despatch
+despatching <> b: despatch, f: i
+desperado <> s: desperadoes
+desperadoes <> b: desperado, f: s
+desperation <> s: desperations
+desperations <> b: desperation, f: s
+despise <> p: despised, d: despised, '3': despises, i: despising
+despised <> b: despise, f: pd, d: despised, p: despised
+despiser <> s: despisers
+despisers <> b: despiser, f: s
+despises <> b: despise, f: '3'
+despising <> b: despise, f: i, i: despising
+despoil <> d: despoiled, i: despoiling, p: despoiled, '3': despoils
+despoiled <> b: despoil, f: dp
+despoiler <> s: despoilers
+despoilers <> b: despoiler, f: s
+despoiling <> b: despoil, f: i
+despoils <> f: '3', b: despoil
+despoliation <> s: despoliations
+despoliations <> b: despoliation, f: s
+despond <> i: desponding, p: desponded, '3': desponds, d: desponded
+desponded <> f: pd, b: despond
+desponding <> f: i, b: despond
+desponds <> f: '3', b: despond
+despot <> s: despots, '3': despots
+despots <> b: despot, f: s3
+desquamate <> i: desquamating, p: desquamated, '3': desquamates, d: desquamated
+desquamated <> f: pd, b: desquamate
+desquamates <> f: '3', b: desquamate
+desquamating <> f: i, b: desquamate
+dessert <> s: desserts
+desserts <> b: dessert, f: s
+destabilise <> i: destabilising, '3': destabilises, d: destabilised, p: destabilised
+destabilised <> b: destabilise, f: dp
+destabilises <> b: destabilise, f: '3'
+destabilising <> b: destabilise, f: i, i: destabilising
+destabilization <> s: destabilizations
+destabilizations <> b: destabilization, f: s
+destabilize <> i: destabilizing, '3': destabilizes, d: destabilized, p: destabilized
+destabilized <> b: destabilize, f: dp
+destabilizes <> b: destabilize, f: '3'
+destabilizing <> b: destabilize, f: i, i: destabilizing
+destination <> s: destinations
+destinations <> b: destination, f: s
+destine <> d: destined, p: destined, i: destining, '3': destines
+destined <> b: destine, f: dp, d: destined
+destines <> f: '3', b: destine
+destinies <> b: destiny, f: s
+destining <> f: i, b: destine
+destiny <> s: destinies
+destitute <> s: destitutes
+destitutes <> b: destitute, f: s
+destock <> i: destocking
+destocking <> b: destock, f: i, i: destocking
+destrier <> s: destriers
+destriers <> b: destrier, f: s
+destroy <> d: destroyed, i: destroying, p: destroyed, '3': destroys
+destroyed <> b: destroy, f: dp, p: destroyed, d: destroyed
+destroyer <> s: destroyers
+destroyers <> b: destroyer, f: s
+destroying <> b: destroy, f: i, i: destroying
+destroys <> b: destroy, f: '3'
+destruct <> p: destructed, d: destructed, i: destructing, '3': destructs
+destructed <> b: destruct, f: pd
+destructing <> f: i, b: destruct
+destruction <> s: destructions
+destructions <> b: destruction, f: s
+destructs <> f: '3', b: destruct
+desulphurize <> i: desulphurizing, p: desulphurized, '3': desulphurizes, d: desulphurized
+desulphurized <> f: pd, b: desulphurize
+desulphurizes <> f: '3', b: desulphurize
+desulphurizing <> b: desulphurize, f: i
+detach <> d: detached, p: detached, i: detaching, '3': detaches
+detached <> b: detach, f: dp, d: detached, p: detached
+detaches <> b: detach, f: '3'
+detaching <> b: detach, f: i
+detachment <> s: detachments
+detachments <> b: detachment, f: s
+detail <> s: details, i: detailing, d: detailed, p: detailed, '3': details
+detailed <> b: detail, f: dp, d: detailed, p: detailed
+detailing <> b: detail, f: i, i: detailing
+details <> b: detail, f: s3
+detain <> d: detained, i: detaining, p: detained, '3': detains
+detained <> b: detain, f: dp, d: detained
+detainee <> s: detainees
+detainees <> b: detainee, f: s
+detaining <> b: detain, f: i
+detains <> b: detain, f: '3'
+detangle <> '3': detangles
+detangles <> b: detangle, f: '3'
+detect <> d: detected, i: detecting, p: detected, '3': detects
+detected <> b: detect, f: dp, p: detected, d: detected
+detecting <> b: detect, f: i, i: detecting
+detection <> s: detections
+detections <> b: detection, f: s
+detective <> s: detectives
+detectives <> b: detective, f: s
+detector <> s: detectors
+detectorist <> s: detectorists
+detectorists <> b: detectorist, f: s
+detectors <> b: detector, f: s
+detects <> b: detect, f: '3'
+detent <> s: detents
+detention <> s: detentions
+detentions <> b: detention, f: s
+detents <> b: detent, f: s
+deter <> d: deterred, i: deterring, '3': deters, p: deterred
+deterge <> i: deterging, p: deterged, '3': deterges, d: deterged
+deterged <> f: pd, b: deterge
+detergent <> s: detergents
+detergents <> b: detergent, f: s
+deterges <> f: '3', b: deterge
+deterging <> f: i, b: deterge
+deteriorate <> p: deteriorated, d: deteriorated, '3': deteriorates, i: deteriorating
+deteriorated <> b: deteriorate, f: pd, p: deteriorated
+deteriorates <> b: deteriorate, f: '3'
+deteriorating <> b: deteriorate, f: i, i: deteriorating
+deterioration <> s: deteriorations
+deteriorations <> b: deterioration, f: s
+determinant <> s: determinants
+determinants <> b: determinant, f: s
+determination <> s: determinations
+determinations <> b: determination, f: s
+determine <> d: determined, i: determining, '3': determines, p: determined
+determined <> b: determine, f: dp, d: determined, p: determined
+determiner <> s: determiners
+determiners <> b: determiner, f: s
+determines <> b: determine, f: '3'
+determining <> b: determine, f: i, i: determining
+determinism <> s: determinisms
+determinisms <> b: determinism, f: s
+determinist <> s: determinists
+determinists <> b: determinist, f: s
+deterred <> b: deter, f: dp, d: deterred, p: deterred
+deterrent <> s: deterrents
+deterrents <> b: deterrent, f: s
+deterring <> b: deter, f: i
+deters <> b: deter, f: '3'
+detest <> p: detested, d: detested, '3': detests, i: detesting
+detested <> b: detest, f: pd, d: detested, p: detested
+detesting <> b: detest, f: i
+detests <> b: detest, f: '3'
+dethrone <> i: dethroning, p: dethroned, '3': dethrones, d: dethroned
+dethroned <> b: dethron, f: dp
+dethrones <> f: '3', b: dethrone
+dethroning <> b: dethron, f: i
+detonate <> d: detonated, p: detonated, i: detonating, '3': detonates
+detonated <> b: detonate, f: dp
+detonates <> b: detonate, f: '3'
+detonating <> b: detonate, f: i
+detonation <> s: detonations
+detonations <> b: detonation, f: s
+detonator <> s: detonators
+detonators <> b: detonator, f: s
+detour <> s: detours, d: detoured, i: detouring, p: detoured, '3': detours
+detoured <> b: detour, f: dp
+detouring <> b: detour, f: i
+detours <> f: s3, b: detour
+detox <> d: detoxed, i: detoxing, p: detoxed, s: detoxes, '3': detoxes
+detoxed <> b: detox, f: dp
+detoxes <> b: detox, f: s
+detoxicate <> i: detoxicating, p: detoxicated, '3': detoxicates, d: detoxicated
+detoxicated <> f: pd, b: detoxicate
+detoxicates <> f: '3', b: detoxicate
+detoxicating <> f: i, b: detoxicate
+detoxified <> b: detoxify, f: dp
+detoxifier <> s: detoxifiers
+detoxifiers <> b: detoxifier, f: s
+detoxifies <> b: detoxify, f: '3'
+detoxify <> i: detoxifying, d: detoxified, p: detoxified, '3': detoxifies
+detoxifying <> b: detoxify, f: i
+detoxing <> b: detox, f: i
+detract <> '3': detracts, i: detracting, p: detracted, d: detracted
+detracted <> b: detract, f: pd
+detracting <> b: detract, f: i
+detractor <> s: detractors
+detractors <> b: detractor, f: s
+detracts <> b: detract, f: '3'
+detrain <> p: detrained, d: detrained, i: detraining, '3': detrains
+detrained <> b: detrain, f: pd
+detraining <> b: detrain, f: i
+detrains <> f: '3', b: detrain
+detribalize <> i: detribalizing, p: detribalized, '3': detribalizes, d: detribalized
+detribalized <> f: pd, b: detribalize
+detribalizes <> f: '3', b: detribalize
+detribalizing <> f: i, b: detribalize
+detriment <> s: detriments
+detriments <> b: detriment, f: s
+detune <> p: detuned, d: detuned, s: detunes
+detuned <> b: detune, f: pd
+detunes <> b: detune, f: s
+deuce <> s: deuces
+deuced <> p: deuced, b: deuced, f: p
+deuces <> b: deuce, f: s
+deuteron <> s: deuterons
+deuterons <> b: deuteron, f: s
+deutschmark <> s: deutschmarks
+deutschmarks <> b: deutschmark, f: s
+deva <> s: devas
+devaluation <> s: devaluations
+devaluations <> b: devaluation, f: s
+devalue <> d: devalued, i: devaluing, p: devalued, '3': devalues
+devalued <> b: devalue, f: dp, d: devalued
+devalues <> b: devalue, f: '3'
+devaluing <> b: devalue, f: i, s: devaluings, i: devaluing
+devas <> b: deva, f: s
+devastate <> d: devastated, p: devastated, i: devastating, '3': devastates, s: devastates
+devastated <> b: devastate, f: dp, d: devastated, p: devastated
+devastates <> b: devastate, f: 3s
+devastating <> i: devastating, b: devastating, f: i
+devastation <> s: devastations
+devastations <> b: devastation, f: s
+develop <> d: developed, i: developing, p: developed, '3': develops
+developed <> b: develop, f: dp, d: developed, p: developed
+developer <> s: developers
+developers <> b: developer, f: s
+developing <> b: develop, f: i, i: developing
+development <> s: developments
+developments <> b: development, f: s
+develops <> b: develop, f: '3'
+deviance <> s: deviances
+deviances <> b: deviance, f: s
+deviancies <> b: deviancy, f: s
+deviancy <> s: deviancies
+deviant <> s: deviants
+deviants <> b: deviant, f: s
+deviate <> p: deviated, i: deviating, '3': deviates, d: deviated, s: deviates
+deviated <> b: deviate, f: pd
+deviates <> b: deviate, f: 3s
+deviating <> b: deviate, f: i
+deviation <> s: deviations
+deviationist <> s: deviationists
+deviationists <> b: deviationist, f: s
+deviations <> b: deviation, f: s
+device <> s: devices
+devices <> b: device, f: s
+devil <> s: devils, p: devilled, d: devilled, i: devilling, '3': devils
+deviled <> f: pd, b: devil
+devilled <> b: devil, f: pd
+devilling <> b: devil, f: i
+devils <> f: s3, b: devil
+devise <> d: devised, i: devising, p: devised, '3': devises
+devised <> b: devise, f: dp, p: devised
+deviser <> s: devisers
+devisers <> b: deviser, f: s
+devises <> b: devise, f: '3'
+devising <> b: devise, f: i, s: devisings
+devitalize <> d: devitalized, p: devitalized, i: devitalizing, '3': devitalizes
+devitalized <> b: devitalize, f: dp
+devitalizes <> f: '3', b: devitalize
+devitalizing <> f: i, b: devitalize
+devitrified <> f: pd, b: devitrify
+devitrifies <> f: '3', b: devitrify
+devitrify <> i: devitrifying, p: devitrified, '3': devitrifies, d: devitrified
+devitrifying <> f: i, b: devitrify
+devoice <> d: devoiced, i: devoicing, p: devoiced, '3': devoices
+devoiced <> b: devoice, f: dp
+devoices <> f: '3', b: devoice
+devoicing <> b: devoice, f: i
+devolutionist <> s: devolutionists
+devolutionists <> b: devolutionist, f: s
+devolve <> d: devolved, i: devolving, p: devolved, '3': devolves, s: devolves
+devolved <> b: devolve, f: dp, d: devolved, p: devolved
+devolves <> b: devolve, f: 3s
+devolving <> b: devolve, f: i, i: devolving
+devote <> p: devoted, d: devoted, i: devoting, '3': devotes
+devoted <> b: devote, f: pd, d: devoted, p: devoted
+devotee <> s: devotees
+devotees <> b: devotee, f: s
+devotes <> b: devote, f: '3'
+devoting <> b: devote, f: i
+devotion <> s: devotions
+devotions <> b: devotion, f: s
+devour <> i: devouring, d: devoured, p: devoured, '3': devours
+devoured <> b: devour, f: dp
+devourer <> s: devourers
+devourers <> b: devourer, f: s
+devouring <> b: devour, f: i, i: devouring
+devours <> b: devour, f: '3'
+dew <> s: dews, p: dewed, d: dewed
+dewater <> d: dewatered, i: dewatering
+dewatered <> b: dewater, f: d
+dewatering <> b: dewater, f: i
+dewax <> d: dewaxed, i: dewaxing
+dewaxed <> b: dewax, f: d, p: dewaxed
+dewaxing <> b: dewax, f: i
+dewberries <> b: dewberry, f: s
+dewberry <> s: dewberries
+dewclaw <> s: dewclaws
+dewclaws <> b: dewclaw, f: s
+dewdrop <> s: dewdrops
+dewdrops <> b: dewdrop, f: s
+dewed <> b: dew, f: pd
+Dewi <> s: dewi, b: dewi, f: s
+dewlap <> s: dewlaps
+dewlaps <> b: dewlap, f: s
+deworm <> i: deworming
+deworming <> b: deworm, f: i
+dews <> b: dew, f: s
+dexies <> b: dexy, f: s
+dextral <> s: dextrals
+dextrals <> b: dextral, f: s
+dexy <> s: dexies
+DF <> s: dfs
+dfc <> s: dfcs
+dfcs <> b: dfc, f: s
+dfs <> b: df, f: s
+DHA <> s: dhas
+dhal <> s: dhals
+dhals <> b: dhal, f: s
+dhobi <> s: dhobi, b: dhobi, f: s
+dhoti <> s: dhoti, b: dhoti, f: s
+dhow <> s: dhows
+dhows <> b: dhow, f: s
+DI <> s: dis
+diabetic <> s: diabetics
+diabetics <> b: diabetic, f: s
+diabolize <> i: diabolizing, p: diabolized, '3': diabolizes, d: diabolized
+diabolized <> f: pd, b: diabolize
+diabolizes <> f: '3', b: diabolize
+diabolizing <> f: i, b: diabolize
+diabolo <> s: diabolos
+diabolos <> b: diabolo, f: s
+diacritic <> s: diacritics
+diacritics <> b: diacritic, f: s
+diadem <> '3': diadems, s: diadems
+diadems <> b: diadem, f: 3s
+diagnose <> d: diagnosed, p: diagnosed, i: diagnosing, '3': diagnoses, s: diagnoses
+diagnosed <> b: diagnose, f: dp
+diagnoses <> b: diagnosis, f: s
+diagnosing <> b: diagnose, f: i
+diagnosis <> s: diagnoses
+diagnostician <> s: diagnosticians
+diagnosticians <> b: diagnostician, f: s
+diagonal <> s: diagonals
+diagonals <> b: diagonal, f: s
+diagram <> s: diagrams, d: diagrammed, i: diagramming, p: diagrammed, '3': diagrams
+diagrammed <> f: dp, b: diagram
+diagramming <> f: i, b: diagram
+diagrams <> f: s3, b: diagram
+dial <> p: dialled, s: dials, d: dialled, '3': dials, i: dialing
+dialect <> s: dialects
+dialectic <> s: dialectics
+dialectics <> b: dialectic, f: s
+dialectologist <> s: dialectologists
+dialectologists <> b: dialectologist, f: s
+dialects <> b: dialect, f: s
+dialing <> b: dial, f: i
+dialled <> b: dial, f: pd, p: dialled
+dialling <> b: diall, f: i, i: dialling
+dialogue <> s: dialogues
+dialogues <> b: dialogue, f: s
+dials <> b: dial, f: s3
+dialysate <> s: dialysates
+dialysates <> b: dialysate, f: s
+dialyse <> d: dialysed, p: dialysed
+dialysed <> b: dialyse, f: dp
+diamagnet <> s: diamagnets
+diamagnets <> b: diamagnet, f: s
+diamante <> s: diamantes
+diamantes <> b: diamante, f: s
+diameter <> s: diameters
+diameters <> b: diameter, f: s
+diamond <> s: diamonds
+diamondback <> s: diamondbacks
+diamondbacks <> b: diamondback, f: s
+diamonds <> b: diamond, f: s
+diaper <> s: diapers, p: diapered
+diapered <> b: diaper, f: p
+diapers <> b: diaper, f: s
+diaphragm <> s: diaphragms
+diaphragms <> b: diaphragm, f: s
+diapir <> s: diapirs
+diapirs <> b: diapir, f: s
+diaries <> b: diary, f: s
+diarist <> s: diarists
+diarists <> b: diarist, f: s
+diarrhoea <> s: diarrhoeas
+diarrhoeas <> b: diarrhoea, f: s
+diary <> s: diaries
+Diaspora <> s: diasporas
+diatom <> s: diatoms
+diatomite <> s: diatomites
+diatomites <> b: diatomite, f: s
+diatoms <> b: diatom, f: s
+diatribe <> s: diatribes
+diatribes <> b: diatribe, f: s
+dib <> s: dibs
+dibber <> s: dibbers
+dibbers <> b: dibber, f: s
+dibble <> p: dibbled, i: dibbling, '3': dibbles, d: dibbled
+dibbled <> f: pd, b: dibble
+dibbles <> f: '3', b: dibble
+dibbling <> f: i, b: dibble
+dibs <> b: dib, f: s
+dice <> p: diced, i: dicing, d: diced, s: dices, '3': dices
+diced <> b: dice, f: pd, p: diced
+dicentra <> s: dicentras
+dicentras <> b: dicentra, f: s
+dicer <> s: dicers
+dicers <> b: dicer, f: s
+dices <> f: s3, b: dice
+dichlorvos <> b: dichlorvo, f: s
+dichotomies <> b: dichotomy, f: s
+dichotomize <> d: dichotomized, p: dichotomized, i: dichotomizing, '3': dichotomizes
+dichotomized <> b: dichotomize, f: dp
+dichotomizes <> f: '3', b: dichotomize
+dichotomizing <> f: i, b: dichotomize
+dichotomy <> s: dichotomies
+diciest <> b: dicy, f: t
+dicing <> b: dice, f: i
+dick <> s: dicks
+dicken <> s: dickens
+dickens <> b: dicken, f: s
+dicker <> i: dickering, s: dickers, d: dickered, p: dickered, '3': dickers
+dickered <> f: dp, b: dicker
+dickering <> b: dicker, f: i
+dickers <> f: s3, b: dicker
+dickey <> s: dickeys
+dickeys <> b: dickey, f: s
+dickhead <> s: dickheads
+dickheads <> b: dickhead, f: s
+dickies <> b: dicky, f: s
+dicks <> b: dick, f: s
+dicky <> s: dickies
+dicot <> s: dicots
+dicots <> b: dicot, f: s
+dicotyledon <> s: dicotyledons
+dicotyledons <> b: dicotyledon, f: s
+dicta <> b: dictum, f: s
+dictaphone <> s: dictaphones
+dictaphones <> b: dictaphone, f: s
+dictate <> d: dictated, '3': dictates, p: dictated, s: dictates, i: dictating
+dictated <> b: dictate, f: dp, d: dictated
+dictates <> b: dictate, f: 3s
+dictating <> b: dictate, f: i
+dictation <> s: dictations
+dictations <> b: dictation, f: s
+dictator <> s: dictators
+dictators <> b: dictator, f: s
+dictatorship <> s: dictatorships
+dictatorships <> b: dictatorship, f: s
+dictionaries <> b: dictionary, f: s
+dictionary <> s: dictionaries
+dictum <> s: dicta
+dicynodont <> s: dicynodonts
+dicynodonts <> b: dicynodont, f: s
+did <> f: p, b: do, s: dids
+diddle <> d: diddled, i: diddling, p: diddled, '3': diddles
+diddled <> b: diddle, f: dp
+diddles <> b: diddle, f: '3'
+diddling <> b: diddle, f: i
+didgeridoo <> s: didgeridoos
+didgeridoos <> b: didgeridoo, f: s
+Didier <> b: didy, f: r
+didy <> r: didier
+die <> p: died, d: died, i: dying, '3': dies, s: dies
+died <> b: die, f: pd
+diehard <> s: diehards
+diehards <> b: diehard, f: s
+dielectric <> s: dielectrics
+dielectrics <> b: dielectric, f: s
+diem <> s: diems
+diems <> b: diem, f: s
+dies <> b: die, f: 3s
+diesel <> s: diesels
+diesels <> b: diesel, f: s
+diet <> s: diets, i: dieting, d: dieted, p: dieted, '3': diets
+dietaries <> b: dietary, f: s
+dietary <> s: dietaries
+dieted <> f: dp, b: diet
+dieter <> s: dieters
+dieters <> b: dieter, f: s
+dietetic <> s: dietetics
+dietetics <> b: dietetic, f: s
+dietician <> s: dieticians
+dieticians <> b: dietician, f: s
+dieting <> b: diet, f: i, i: dieting
+dietitian <> s: dietitians
+dietitians <> b: dietitian, f: s
+diets <> f: s3, b: diet
+diff <> s: diffs, '3': diffs
+differ <> '3': differs, p: differed, i: differing, d: differed
+differed <> b: differ, f: pd
+difference <> s: differences
+differences <> b: difference, f: s
+differential <> s: differentials
+differentials <> b: differential, f: s
+differentiate <> d: differentiated, p: differentiated, '3': differentiates, i: differentiating, s: differentiates
+differentiated <> b: differentiate, f: dp, d: differentiated, p: differentiated
+differentiates <> b: differentiate, f: 3s
+differentiating <> b: differentiate, f: i, i: differentiating
+differentiation <> s: differentiations
+differentiations <> b: differentiation, f: s
+differentiator <> s: differentiators
+differentiators <> b: differentiator, f: s
+differing <> b: differ, f: i, i: differing
+differs <> b: differ, f: '3'
+difficulties <> b: difficulty, f: s
+difficulty <> s: difficulties
+diffract <> d: diffracted, i: diffracting, p: diffracted, '3': diffracts
+diffracted <> b: diffract, f: dp, p: diffracted
+diffracting <> b: diffract, f: i
+diffractometer <> s: diffractometers
+diffractometers <> b: diffractometer, f: s
+diffracts <> f: '3', b: diffract
+diffs <> b: diff, f: s3
+diffuse <> d: diffused, '3': diffuses, i: diffusing, p: diffused
+diffused <> b: diffuse, f: dp, d: diffused, p: diffused
+diffuser <> s: diffusers
+diffusers <> b: diffuser, f: s
+diffuses <> b: diffuse, f: '3'
+diffusing <> b: diffuse, f: i, i: diffusing
+diffusion <> s: diffusions
+diffusionist <> s: diffusionists
+diffusionists <> b: diffusionist, f: s
+diffusions <> b: diffusion, f: s
+diffusivities <> b: diffusivity, f: s
+diffusivity <> s: diffusivities
+dig <> p: dug, i: digging, d: dug, '3': digs, s: digs
+digest <> d: digested, i: digesting, p: digested, '3': digests
+digested <> b: digest, f: dp, p: digested, d: digested
+digester <> s: digesters
+digesters <> b: digester, f: s
+digestif <> s: digestifs
+digestifs <> b: digestif, f: s
+digesting <> b: digest, f: i
+digestion <> s: digestions
+digestions <> b: digestion, f: s
+digestive <> s: digestives
+digestives <> b: digestive, f: s
+digests <> b: digest, f: '3'
+digger <> s: diggers
+diggers <> b: digger, f: s
+digging <> b: dig, f: i, i: digging, s: diggings
+diggings <> b: digging, f: s
+Diggory <> s: diggorys
+digit <> s: digits
+digitalize <> i: digitalizing, p: digitalized, '3': digitalizes, d: digitalized
+digitalized <> f: pd, b: digitalize
+digitalizes <> f: '3', b: digitalize
+digitalizing <> f: i, b: digitalize
+digitise <> i: digitising, d: digitised, s: digitises, '3': digitises
+digitised <> d: digitised, b: digitised, f: dp, p: digitised
+digitises <> b: digitise, f: s3
+digitising <> b: digitise, f: i, i: digitising
+digitize <> d: digitized, i: digitizing, p: digitized, '3': digitizes
+digitized <> b: digitize, f: dp, p: digitized
+digitizer <> s: digitizers
+digitizers <> b: digitizer, f: s
+digitizes <> f: '3', b: digitize
+digitizing <> b: digitize, f: i, i: digitizing
+digits <> b: digit, f: s
+dignified <> f: pd, b: dignify
+dignify <> i: dignifying, '3': dignifies, p: dignified, d: dignified
+dignitaries <> b: dignitary, f: s
+dignitary <> s: dignitaries
+dignities <> b: dignity, f: s
+dignity <> s: dignities
+digraph <> s: digraphs
+digraphs <> b: digraph, f: s
+digress <> i: digressing, d: digressed, p: digressed, '3': digresses
+digressed <> b: digress, f: dp
+digresses <> b: digress, f: '3'
+digressing <> b: digress, f: i
+digression <> s: digressions
+digressions <> b: digression, f: s
+digs <> b: dig, f: 3s
+dihedral <> s: dihedrals
+dihedrals <> b: dihedral, f: s
+dike <> s: dikes, '3': dikes, p: diked, i: diking, d: diked
+diked <> f: pd, b: dike
+dikes <> b: dike, f: s3
+diking <> f: i, b: dike
+diktat <> s: diktats
+diktats <> b: diktat, f: s
+dilapidate <> i: dilapidating, p: dilapidated, '3': dilapidates, d: dilapidated
+dilapidated <> f: pd, b: dilapidate
+dilapidation <> s: dilapidations
+dilapidations <> b: dilapidation, f: s
+dilatation <> s: dilatations
+dilatations <> b: dilatation, f: s
+dilate <> p: dilated, d: dilated, i: dilating, '3': dilates, s: dilates
+dilated <> b: dilate, f: pd, p: dilated
+dilates <> b: dilate, f: 3s
+dilating <> b: dilate, f: i
+dilation <> s: dilations
+dilations <> b: dilation, f: s
+dilator <> s: dilators
+dilators <> b: dilator, f: s
+dildo <> s: dildos
+dildos <> b: dildo, f: s
+dilemma <> s: dilemmas
+dilemmas <> b: dilemma, f: s
+dilettante <> s: dilettanti
+dilettanti <> b: dilettante, f: s
+dill <> p: dilled
+dilled <> b: dill, f: p
+dillied <> b: dilly, f: p
+dilly <> p: dillied, i: dillying, s: dillys
+dillying <> b: dilly, f: i
+dillys <> b: dilly, f: s
+dilute <> d: diluted, p: diluted, i: diluting, '3': dilutes
+diluted <> b: dilute, f: dp, d: diluted, p: diluted
+dilutes <> b: dilute, f: '3'
+diluting <> b: dilute, f: i
+dilution <> s: dilutions
+dilutions <> b: dilution, f: s
+dim <> d: dimmed, r: dimmer, p: dimmed, i: dimming, t: dimmest, '3': dims
+Dimbleby <> s: dimblebys
+dime <> s: dimes
+dimension <> s: dimensions, d: dimensioned, i: dimensioning, p: dimensioned, '3': dimensions
+dimensioned <> f: dp, b: dimension
+dimensioning <> f: i, b: dimension
+dimensions <> f: s3, b: dimension
+dimer <> s: dimers
+dimerize <> i: dimerizing
+dimerizing <> b: dimerize, f: i
+dimers <> b: dimer, f: s
+dimes <> b: dime, f: s
+diminish <> d: diminished, '3': diminishes, i: diminishing, p: diminished
+diminished <> b: diminish, f: dp, p: diminished, d: diminished
+diminishes <> b: diminish, f: '3'
+diminishing <> b: diminish, f: i, i: diminishing
+diminuendo <> s: diminuendos
+diminuendos <> b: diminuendo, f: s
+diminution <> s: diminutions
+diminutions <> b: diminution, f: s
+diminutive <> s: diminutives
+diminutives <> b: diminutive, f: s
+Dimitri <> s: dimitri, b: dimitri, f: s
+dimmed <> b: dim, f: dp, p: dimmed
+dimmer <> b: dim, f: r, s: dimmers
+dimmers <> b: dimmer, f: s
+dimmest <> b: dim, f: t
+dimming <> b: dim, f: i
+dimorphism <> s: dimorphisms
+dimorphisms <> b: dimorphism, f: s
+dimple <> s: dimples, i: dimpling, p: dimpled, d: dimpled, '3': dimples
+dimpled <> b: dimple, f: pd, d: dimpled, p: dimpled
+dimples <> b: dimple, f: s3
+dimpling <> b: dimple, f: i, i: dimpling
+dims <> b: dim, f: '3'
+dimwit <> s: dimwits, p: dimwitted
+dimwits <> b: dimwit, f: s
+dimwitted <> b: dimwit, f: p, p: dimwitted
+din <> d: dinned, p: dinned, s: dins, i: dinning, '3': dins
+dina <> s: dinas
+dinar <> s: dinars
+dinars <> b: dinar, f: s
+dinas <> b: dina, f: s
+dine <> p: dined, i: dining, d: dined, '3': dines
+dined <> b: dine, f: pd
+diner <> s: diners
+diners <> b: diner, f: s
+dines <> b: dine, f: '3'
+ding <> i: dinging, s: dings, p: dinged, '3': dings, d: dinged
+dingbat <> s: dingbats
+dingbats <> b: dingbat, f: s
+dinged <> b: dinge, f: d
+dinghies <> b: dinghy, f: s
+dinghy <> s: dinghies
+dingier <> b: dingy, f: r
+dingies <> b: dingy, f: s
+dingiest <> b: dingy, f: t
+dinging <> b: ding, f: i
+dingle <> s: dingles
+dingles <> b: dingle, f: s
+dings <> f: s3, b: ding
+dingy <> s: dingies, t: dingiest, r: dingier
+dining <> i: dining, b: dining, f: i
+dink <> p: dinked, s: dinks
+dinked <> b: dink, f: p
+dinkies <> b: dinky, f: s
+dinkin <> s: dinkins
+Dinkins <> b: dinkin, f: s
+dinks <> b: dink, f: s
+dinky <> s: dinkies
+dinned <> b: din, f: dp
+dinner <> s: dinners
+dinners <> b: dinner, f: s
+dinnertime <> s: dinnertimes
+dinnertimes <> b: dinnertime, f: s
+dinning <> b: din, f: i
+dino <> s: dinos
+dinoflagellate <> s: dinoflagellates
+dinoflagellates <> b: dinoflagellate, f: s
+dinos <> b: dino, f: s
+dinosaur <> s: dinosaurs
+dinosaurs <> b: dinosaur, f: s
+dins <> b: din, f: s3
+dint <> p: dinted, d: dinted, i: dinting, s: dints, '3': dints
+dinted <> b: dint, f: pd
+dinting <> b: dint, f: i
+dints <> b: dint, f: s
+diocesan <> s: diocesans
+diocesans <> b: diocesan, f: s
+diocese <> s: dioceses
+dioceses <> b: diocese, f: s
+diode <> s: diodes
+diodes <> b: diode, f: s
+diogene <> s: diogenes
+Diogenes <> b: diogene, f: s
+diopside <> s: diopsides
+diopsides <> b: diopside, f: s
+dioptre <> s: dioptres
+dioptres <> b: dioptre, f: s
+diorama <> s: dioramas
+dioramas <> b: diorama, f: s
+diorite <> s: diorites
+diorites <> b: diorite, f: s
+dioxide <> s: dioxides
+dioxides <> b: dioxide, f: s
+dioxin <> s: dioxins
+dioxins <> b: dioxin, f: s
+dip <> p: dipped, i: dipping, d: dipped, s: dips, '3': dips
+diphthong <> s: diphthongs, '3': diphthongs
+diphthongize <> p: diphthongized, i: diphthongizing, '3': diphthongizes, d: diphthongized
+diphthongized <> p: diphthongized, b: diphthongized, f: p
+diphthongizes <> f: '3', b: diphthongize
+diphthongizing <> f: i, b: diphthongize
+diphthongs <> b: diphthong, f: s3
+diploid <> s: diploids
+diploids <> b: diploid, f: s
+diploma <> s: diplomas
+diplomas <> b: diploma, f: s
+diplomat <> s: diplomats
+diplomate <> s: diplomates, '3': diplomates
+diplomates <> b: diplomate, f: s3
+diplomatist <> s: diplomatists
+diplomatists <> b: diplomatist, f: s
+diplomats <> b: diplomat, f: s
+dipole <> s: dipoles
+dipoles <> b: dipole, f: s
+dipped <> b: dip, f: pd
+dipper <> s: dippers
+dippers <> b: dipper, f: s
+dipping <> b: dip, f: i, i: dipping
+dips <> b: dip, f: s3
+dipsomaniac <> s: dipsomaniacs
+dipsomaniacs <> b: dipsomaniac, f: s
+dipstick <> s: dipsticks
+dipsticks <> b: dipstick, f: s
+dipterocarp <> s: dipterocarps
+dipterocarps <> b: dipterocarp, f: s
+diptych <> s: diptychs
+diptychs <> b: diptych, f: s
+diram <> s: dirams
+dirams <> b: diram, f: s
+dire <> t: direst, r: direr
+direct <> d: directed, i: directing, p: directed, '3': directs
+directed <> b: direct, f: dp, p: directed, d: directed
+directing <> b: direct, f: i, i: directing
+direction <> s: directions
+direction-finder <> s: direction-finders
+direction-finders <> b: direction-finder, f: s
+directions <> b: direction, f: s
+directive <> s: directives
+directives <> b: directive, f: s
+director <> s: directors
+director-general <> s: director-generals
+director-generals <> b: director-general, f: s
+directorate <> s: directorates
+directorates <> b: directorate, f: s
+directories <> b: directory, f: s
+directors <> b: director, f: s
+directorship <> s: directorships
+directorships <> b: directorship, f: s
+directory <> s: directories
+directs <> b: direct, f: '3'
+direr <> b: dire, f: r
+direst <> b: dire, f: t
+dirge <> s: dirges
+dirges <> b: dirge, f: s
+dirham <> s: dirhams
+dirhams <> b: dirham, f: s
+dirigible <> s: dirigibles
+dirigibles <> b: dirigible, f: s
+dirigiste <> s: dirigistes
+dirigistes <> b: dirigiste, f: s
+dirk <> s: dirks
+dirks <> b: dirk, f: s
+dirtied <> b: dirty, f: pd
+dirtier <> b: dirty, f: r
+dirties <> b: dirty, f: '3'
+dirtiest <> b: dirty, f: t
+dirty <> t: dirtiest, r: dirtier, i: dirtying, p: dirtied, d: dirtied, '3': dirties
+dirtying <> b: dirty, f: i
+Dis <> b: di, f: s
+disabilities <> b: disability, f: s
+disability <> s: disabilities
+disable <> d: disabled, p: disabled, i: disabling, '3': disables
+disabled <> d: disabled, b: disabled, f: dp, p: disabled
+disablement <> s: disablements
+disablements <> b: disablement, f: s
+disables <> b: disable, f: '3'
+disabling <> b: disable, f: i, i: disabling
+disabuse <> d: disabused, p: disabused, i: disabusing, '3': disabuses
+disabused <> b: disabuse, f: dp
+disabuses <> f: '3', b: disabuse
+disabusing <> b: disabuse, f: i
+disaccharide <> s: disaccharides
+disaccharides <> b: disaccharide, f: s
+disaccord <> i: disaccording, p: disaccorded, '3': disaccords, d: disaccorded
+disaccorded <> f: pd, b: disaccord
+disaccording <> f: i, b: disaccord
+disaccords <> f: '3', b: disaccord
+disadvantage <> s: disadvantages, d: disadvantaged, i: disadvantaging, p: disadvantaged, '3': disadvantages
+disadvantaged <> f: dp, b: disadvantage, d: disadvantaged
+disadvantages <> f: s3, b: disadvantage
+disadvantaging <> b: disadvantage, f: i
+disaffect <> i: disaffecting, p: disaffected, '3': disaffects, d: disaffected
+disaffected <> f: pd, b: disaffect
+disaffection <> s: disaffections
+disaffections <> b: disaffection, f: s
+disaffiliate <> d: disaffiliated, p: disaffiliated, i: disaffiliating
+disaffiliated <> b: disaffiliate, f: dp
+disaffiliating <> b: disaffiliate, f: i
+disafforest <> d: disafforested, p: disafforested, i: disafforesting, b: disaffore, f: t, '3': disafforests
+disafforested <> b: disafforest, f: dp, p: disafforested
+disafforesting <> b: disafforest, f: i
+disafforestment <> s: disafforestments
+disafforestments <> b: disafforestment, f: s
+disafforests <> f: '3', b: disafforest
+disaggregate <> d: disaggregated, p: disaggregated, i: disaggregating, '3': disaggregates
+disaggregated <> b: disaggregate, f: dp, p: disaggregated
+disaggregates <> b: disaggregate, f: '3'
+disaggregating <> b: disaggregate, f: i
+disagree <> p: disagreed, '3': disagrees, i: disagreeing, d: disagreed
+disagreed <> b: disagree, f: pd
+disagreeing <> b: disagree, f: i, i: disagreeing
+disagreement <> s: disagreements
+disagreements <> b: disagreement, f: s
+disagrees <> b: disagree, f: '3'
+disallow <> d: disallowed, p: disallowed, i: disallowing, '3': disallows, s: disallows
+disallowance <> s: disallowances
+disallowances <> b: disallowance, f: s
+disallowed <> b: disallow, f: dp
+disallowing <> b: disallow, f: i
+disallows <> b: disallow, f: 3s
+disambiguate <> d: disambiguated, i: disambiguating, s: disambiguates, p: disambiguated, '3': disambiguates
+disambiguated <> f: dp, b: disambiguate
+disambiguates <> f: s3, b: disambiguate
+disambiguating <> b: disambiguate, f: i
+disappear <> p: disappeared, d: disappeared, '3': disappears, i: disappearing
+disappearance <> s: disappearances
+disappearances <> b: disappearance, f: s
+disappeared <> b: disappear, f: pd, d: disappeared, p: disappeared, s: disappeareds
+disappearing <> b: disappear, f: i, i: disappearing
+disappears <> b: disappear, f: '3'
+disappoint <> p: disappointed, d: disappointed, '3': disappoints, i: disappointing
+disappointed <> p: disappointed, b: disappointed, f: pd, d: disappointed
+disappointing <> i: disappointing, b: disappointing, f: i
+disappointment <> s: disappointments
+disappointments <> b: disappointment, f: s
+disappoints <> b: disappoint, f: '3'
+disapproval <> s: disapprovals
+disapprovals <> b: disapproval, f: s
+disapprove <> p: disapproved, d: disapproved, '3': disapproves, i: disapproving
+disapproved <> b: disapprove, f: pd
+disapprover <> s: disapprovers
+disapprovers <> b: disapprover, f: s
+disapproves <> b: disapprove, f: '3'
+disapproving <> b: disapprove, f: i, i: disapproving
+disarm <> d: disarmed, i: disarming, p: disarmed, '3': disarms
+disarmed <> b: disarm, f: dp
+disarmer <> s: disarmers
+disarmers <> b: disarmer, f: s
+disarming <> b: disarm, f: i, i: disarming
+disarms <> b: disarm, f: '3'
+disarrange <> d: disarranged, p: disarranged, i: disarranging, '3': disarranges
+disarranged <> b: disarrange, f: dp, d: disarranged
+disarranges <> f: '3', b: disarrange
+disarranging <> f: i, b: disarrange
+disarray <> i: disarraying, p: disarrayed, '3': disarrays, d: disarrayed
+disarrayed <> f: pd, b: disarray
+disarraying <> f: i, b: disarray
+disarrays <> f: '3', b: disarray
+disarticulate <> d: disarticulated, '3': disarticulates, i: disarticulating, p: disarticulated
+disarticulated <> f: dp, b: disarticulate
+disarticulates <> b: disarticulate, f: '3'
+disarticulating <> f: i, b: disarticulate
+disassemble <> d: disassembled, i: disassembling, '3': disassembles, p: disassembled
+disassembled <> b: disassemble, f: dp, p: disassembled
+disassembles <> b: disassemble, f: '3'
+disassembling <> b: disassemble, f: i
+disassociate <> p: disassociated, d: disassociated, '3': disassociates, i: disassociating
+disassociated <> b: disassociate, f: pd
+disassociates <> b: disassociate, f: '3'
+disassociating <> b: disassociate, f: i
+disaster <> s: disasters
+disasters <> b: disaster, f: s
+disavow <> d: disavowed, p: disavowed, i: disavowing, '3': disavows, s: disavows
+disavowal <> s: disavowals
+disavowals <> b: disavowal, f: s
+disavowed <> b: disavow, f: dp, p: disavowed
+disavowing <> b: disavow, f: i
+disavows <> b: disavow, f: 3s
+disband <> d: disbanded, p: disbanded, i: disbanding, '3': disbands
+disbanded <> b: disband, f: dp, d: disbanded
+disbanding <> b: disband, f: i, i: disbanding
+disbandment <> s: disbandments
+disbandments <> b: disbandment, f: s
+disbands <> b: disband, f: '3'
+disbar <> d: disbarred, p: disbarred, i: disbarring, '3': disbars
+disbarment <> s: disbarments
+disbarments <> b: disbarment, f: s
+disbarred <> b: disbar, f: dp
+disbarring <> b: disbar, f: i
+disbars <> f: '3', b: disbar
+disbelief <> s: disbeliefs
+disbeliefs <> b: disbelief, f: s
+disbelieve <> i: disbelieving, d: disbelieved, p: disbelieved, '3': disbelieves
+disbelieved <> b: disbelieve, f: dp
+disbeliever <> '3': disbelievers
+disbelievers <> b: disbeliever, f: '3'
+disbelieves <> b: disbelieve, f: '3'
+disbelieving <> b: disbelieve, f: i, i: disbelieving
+disbenefit <> s: disbenefits
+disbenefits <> b: disbenefit, f: s
+disbud <> i: disbudding, p: disbudded, '3': disbuds, d: disbudded
+disbudded <> f: pd, b: disbud
+disbudding <> b: disbud, f: i
+disbuds <> f: '3', b: disbud
+disburden <> i: disburdening, p: disburdened, '3': disburdens, d: disburdened
+disburdened <> f: pd, b: disburden
+disburdening <> f: i, b: disburden
+disburdens <> f: '3', b: disburden
+disburse <> d: disbursed, p: disbursed, i: disbursing, '3': disburses
+disbursed <> b: disburse, f: dp, d: disbursed
+disbursement <> s: disbursements
+disbursements <> b: disbursement, f: s
+disburses <> f: '3', b: disburse
+disbursing <> b: disburse, f: i
+disc <> s: discs
+discard <> d: discarded, p: discarded, i: discarding, '3': discards, s: discards
+discarded <> b: discard, f: dp, d: discarded, p: discarded
+discarding <> b: discard, f: i, i: discarding
+discards <> b: discard, f: 3s
+discern <> d: discerned, p: discerned, '3': discerns, i: discerning
+discerned <> b: discern, f: dp
+discerning <> b: discern, f: i, i: discerning
+discerns <> b: discern, f: '3'
+discharge <> d: discharged, s: discharges, i: discharging, '3': discharges, p: discharged
+discharged <> b: discharge, f: dp, d: discharged
+discharger <> s: dischargers
+dischargers <> b: discharger, f: s
+discharges <> b: discharge, f: s3
+discharging <> b: discharge, f: i, i: discharging
+disciple <> s: disciples, i: discipling, d: discipled
+discipled <> b: disciple, f: d
+disciples <> b: disciple, f: s
+disciplinarian <> s: disciplinarians
+disciplinarians <> b: disciplinarian, f: s
+discipline <> s: disciplines, d: disciplined, i: disciplining, '3': disciplines, p: disciplined
+disciplined <> f: dp, b: discipline, d: disciplined
+disciplines <> b: discipline, f: s3
+discipling <> b: disciple, f: i
+disciplining <> b: discipline, f: i, i: disciplining
+disclaim <> d: disclaimed, i: disclaiming, p: disclaimed, '3': disclaims
+disclaimed <> b: disclaim, f: dp, p: disclaimed
+disclaimer <> s: disclaimers
+disclaimers <> b: disclaimer, f: s
+disclaiming <> b: disclaim, f: i
+disclaims <> b: disclaim, f: '3'
+disclose <> d: disclosed, i: disclosing, p: disclosed, '3': discloses
+disclosed <> b: disclose, f: dp, d: disclosed, p: disclosed
+discloses <> b: disclose, f: '3'
+disclosing <> b: disclose, f: i
+disclosure <> s: disclosures
+disclosures <> b: disclosure, f: s
+disco <> s: discos, i: discoing
+discoing <> b: disco, f: i
+discolour <> i: discolouring, d: discoloured, '3': discolours, p: discoloured, s: discolours
+discoloured <> d: discoloured, b: discoloured, f: dp, p: discoloured
+discolouring <> b: discolour, f: i, s: discolourings, i: discolouring
+discolours <> b: discolour, f: 3s
+discombobulate <> i: discombobulating, p: discombobulated, '3': discombobulates, d: discombobulated
+discombobulated <> f: pd, b: discombobulate
+discombobulates <> f: '3', b: discombobulate
+discombobulating <> f: i, b: discombobulate
+discomfit <> d: discomfited, p: discomfited, i: discomfiting, '3': discomfits
+discomfited <> b: discomfit, f: dp, p: discomfited
+discomfiting <> b: discomfit, f: i, i: discomfiting
+discomfits <> b: discomfit, f: '3'
+discomfiture <> s: discomfitures
+discomfitures <> b: discomfiture, f: s
+discomfort <> s: discomforts, d: discomforted, i: discomforting, p: discomforted
+discomforted <> b: discomfort, f: dp
+discomforting <> b: discomfort, f: i
+discomforts <> b: discomfort, f: s
+discommode <> d: discommoded, p: discommoded, i: discommoding, '3': discommodes
+discommoded <> b: discommode, f: dp
+discommodes <> f: '3', b: discommode
+discommoding <> f: i, b: discommode
+discompose <> d: discomposed, p: discomposed, i: discomposing, '3': discomposes
+discomposed <> b: discompose, f: dp, d: discomposed
+discomposes <> f: '3', b: discompose
+discomposing <> f: i, b: discompose
+disconcert <> p: disconcerted, d: disconcerted, i: disconcerting, '3': disconcerts
+disconcerted <> b: disconcert, f: pd, p: disconcerted, d: disconcerted
+disconcerting <> i: disconcerting, b: disconcerting, f: i
+disconcerts <> b: disconcert, f: '3'
+disconfirm <> d: disconfirmed, p: disconfirmed, '3': disconfirms, i: disconfirming
+disconfirmed <> b: disconfirm, f: dp
+disconfirming <> b: disconfirm, f: i
+disconfirms <> b: disconfirm, f: '3'
+disconnect <> d: disconnected, p: disconnected, '3': disconnects, i: disconnecting
+disconnected <> b: disconnect, f: dp, p: disconnected, d: disconnected
+disconnecting <> b: disconnect, f: i
+disconnection <> s: disconnections
+disconnections <> b: disconnection, f: s
+disconnects <> b: disconnect, f: '3'
+discontent <> s: discontents, i: discontenting, p: discontented, '3': discontents, d: discontented
+discontented <> f: pd, b: discontent
+discontenting <> f: i, b: discontent
+discontents <> f: s3, b: discontent
+discontinue <> d: discontinued, p: discontinued, i: discontinuing, '3': discontinues
+discontinued <> b: discontinue, f: dp, p: discontinued, d: discontinued
+discontinues <> b: discontinue, f: '3'
+discontinuing <> b: discontinue, f: i, i: discontinuing
+discontinuities <> b: discontinuity, f: s
+discontinuity <> s: discontinuities
+discord <> s: discords, i: discording, p: discorded, '3': discords, d: discorded
+discordance <> s: discordances
+discordances <> b: discordance, f: s
+discorded <> f: pd, b: discord
+discording <> f: i, b: discord
+discords <> f: s3, b: discord
+discos <> b: disco, f: s
+discotheque <> s: discotheques
+discotheques <> b: discotheque, f: s
+discount <> s: discounts, d: discounted, i: discounting, p: discounted, '3': discounts
+discounted <> b: discount, f: dp, p: discounted, d: discounted
+discountenance <> d: discountenanced, s: discountenances, i: discountenancing, p: discountenanced, '3': discountenances
+discountenanced <> f: dp, b: discountenance
+discountenances <> f: s3, b: discountenance
+discountenancing <> f: i, b: discountenance
+discounter <> s: discounters
+discounters <> b: discounter, f: s
+discounting <> b: discount, f: i, i: discounting
+discounts <> b: discount, f: s3
+discourage <> d: discouraged, p: discouraged, i: discouraging, '3': discourages
+discouraged <> b: discourage, f: dp, d: discouraged
+discouragement <> s: discouragements
+discouragements <> b: discouragement, f: s
+discourages <> b: discourage, f: '3'
+discouraging <> b: discourage, f: i, i: discouraging
+discourse <> s: discourses, i: discoursing, p: discoursed, '3': discourses, d: discoursed
+discoursed <> f: pd, b: discourse
+discourses <> f: s3, b: discourse
+discoursing <> b: discourse, f: i
+discourtesies <> b: discourtesy, f: s
+discourtesy <> s: discourtesies
+discover <> p: discovered, d: discovered, i: discovering, '3': discovers
+discovered <> b: discover, f: pd, p: discovered
+discoverer <> s: discoverers
+discoverers <> b: discoverer, f: s
+discoveries <> b: discovery, f: s
+discovering <> b: discover, f: i
+discovers <> b: discover, f: '3'
+discovery <> s: discoveries
+discredit <> d: discredited, i: discrediting, p: discredited, '3': discredits
+discredited <> b: discredit, f: dp, d: discredited, p: discredited
+discrediting <> b: discredit, f: i
+discredits <> b: discredit, f: '3'
+discreet <> t: discreetest
+discreetest <> b: discreet, f: t
+discrepancies <> b: discrepancy, f: s
+discrepancy <> s: discrepancies
+discrete <> s: discretes
+discretes <> b: discrete, f: s
+discretion <> s: discretions
+discretions <> b: discretion, f: s
+discriminant <> s: discriminants
+discriminants <> b: discriminant, f: s
+discriminate <> d: discriminated, i: discriminating, '3': discriminates, p: discriminated
+discriminated <> b: discriminate, f: dp
+discriminates <> b: discriminate, f: '3'
+discriminating <> b: discriminate, f: i, i: discriminating
+discrimination <> s: discriminations
+discriminations <> b: discrimination, f: s
+discriminator <> s: discriminators
+discriminators <> b: discriminator, f: s
+discs <> b: disc, f: s
+discuss <> d: discussed, i: discussing, p: discussed, '3': discusses
+discussant <> s: discussants
+discussants <> b: discussant, f: s
+discussed <> b: discuss, f: dp, d: discussed, p: discussed
+discusses <> b: discuss, f: '3'
+discussing <> b: discuss, f: i
+discussion <> s: discussions
+discussions <> b: discussion, f: s
+disdain <> i: disdaining, p: disdained, d: disdained, '3': disdains, s: disdains
+disdained <> b: disdain, f: pd
+disdaining <> b: disdain, f: i
+disdains <> b: disdain, f: 3s
+disease <> s: diseases
+diseases <> b: disease, f: s
+diseconomies <> b: diseconomy, f: s
+diseconomy <> s: diseconomies
+disembark <> p: disembarked, i: disembarking, d: disembarked, '3': disembarks
+disembarked <> b: disembark, f: pd
+disembarking <> b: disembark, f: i, i: disembarking
+disembarks <> b: disembark, f: '3'
+disembarrass <> i: disembarrassing, p: disembarrassed, '3': disembarrasses, d: disembarrassed
+disembarrassed <> f: pd, b: disembarrass
+disembarrasses <> f: '3', b: disembarrass
+disembarrassing <> f: i, b: disembarrass
+disembodied <> p: disembodied, b: disembodied, f: p
+disembodies <> f: s3, b: disembody
+disembody <> p: disembodied, d: disembodied, s: disembodies, i: disembodying, '3': disembodies
+disembodying <> f: i, b: disembody
+disembowel <> p: disembowelled, d: disembowelled, i: disembowelling, '3': disembowels
+disembowelled <> b: disembowel, f: pd
+disembowelling <> b: disembowel, f: i
+disembowels <> f: '3', b: disembowel
+disembroil <> i: disembroiling, p: disembroiled, '3': disembroils, d: disembroiled
+disembroiled <> f: pd, b: disembroil
+disembroiling <> f: i, b: disembroil
+disembroils <> f: '3', b: disembroil
+disempower <> '3': disempowers, i: disempowering, p: disempowered
+disempowered <> b: disempower, f: p
+disempowering <> b: disempower, f: i
+disempowers <> b: disempower, f: '3'
+disenchant <> i: disenchanting, p: disenchanted, '3': disenchants, d: disenchanted
+disenchanted <> f: pd, b: disenchant
+disencumber <> i: disencumbering, p: disencumbered, '3': disencumbers, d: disencumbered
+disencumbered <> f: pd, b: disencumber
+disencumbering <> f: i, b: disencumber
+disencumbers <> f: '3', b: disencumber
+disenfranchise <> d: disenfranchised, p: disenfranchised, '3': disenfranchises, i: disenfranchising
+disenfranchised <> b: disenfranchise, f: dp, d: disenfranchised, p: disenfranchised
+disenfranchises <> b: disenfranchise, f: '3'
+disenfranchising <> b: disenfranchise, f: i
+disengage <> p: disengaged, i: disengaging, d: disengaged, '3': disengages
+disengaged <> b: disengage, f: pd
+disengages <> b: disengage, f: '3'
+disengaging <> b: disengage, f: i
+disentangle <> i: disentangling, p: disentangled, d: disentangled, '3': disentangles
+disentangled <> b: disentangle, f: pd
+disentangles <> b: disentangle, f: '3'
+disentangling <> b: disentangle, f: i, i: disentangling
+disentitle <> d: disentitled, i: disentitling, p: disentitled
+disentitled <> b: disentitle, f: dp
+disentitling <> b: disentitle, f: i
+disestablish <> d: disestablished, p: disestablished, i: disestablishing, '3': disestablishes
+disestablished <> b: disestablish, f: dp
+disestablishes <> f: '3', b: disestablish
+disestablishing <> f: i, b: disestablish
+disesteem <> i: disesteeming, p: disesteemed, '3': disesteems, d: disesteemed
+disesteemed <> f: pd, b: disesteem
+disesteeming <> f: i, b: disesteem
+disesteems <> f: '3', b: disesteem
+disfavour <> d: disfavoured, i: disfavouring, s: disfavours, p: disfavoured, '3': disfavours
+disfavoured <> b: disfavour, f: dp
+disfavouring <> b: disfavour, f: i
+disfavours <> f: s3, b: disfavour
+disfigure <> d: disfigured, i: disfiguring, '3': disfigures, p: disfigured
+disfigured <> b: disfigure, f: dp, d: disfigured, p: disfigured
+disfigurement <> s: disfigurements
+disfigurements <> b: disfigurement, f: s
+disfigures <> b: disfigure, f: '3'
+disfiguring <> b: disfigure, f: i
+disforest <> i: disforesting, p: disforested, '3': disforests, d: disforested
+disforested <> f: pd, b: disforest
+disforesting <> f: i, b: disforest
+disforests <> f: '3', b: disforest
+disfranchise <> d: disfranchised, p: disfranchised, i: disfranchising, '3': disfranchises
+disfranchised <> b: disfranchise, f: dp
+disfranchises <> f: '3', b: disfranchise
+disfranchising <> f: i, b: disfranchise
+disgorge <> p: disgorged, i: disgorging, d: disgorged, '3': disgorges
+disgorged <> b: disgorge, f: pd, d: disgorged, p: disgorged
+disgorger <> s: disgorgers
+disgorgers <> b: disgorger, f: s
+disgorges <> b: disgorge, f: '3'
+disgorging <> b: disgorge, f: i
+disgrace <> p: disgraced, d: disgraced, i: disgracing, '3': disgraces, s: disgraces
+disgraced <> b: disgrace, f: pd, d: disgraced
+disgraces <> b: disgrace, f: 3s
+disgracing <> b: disgrace, f: i
+disgruntle <> i: disgruntling, p: disgruntled, '3': disgruntles, d: disgruntled
+disgruntled <> f: pd, b: disgruntle
+disguise <> d: disguised, i: disguising, p: disguised, '3': disguises, s: disguises
+disguised <> b: disguise, f: dp, d: disguised, p: disguised
+disguises <> b: disguise, f: 3s
+disguising <> b: disguise, f: i, i: disguising
+disgust <> d: disgusted, p: disgusted, '3': disgusts, i: disgusting
+disgusted <> b: disgust, f: dp, d: disgusted, p: disgusted, s: disgusteds
+disgusting <> f: i, b: disgust
+disgusts <> b: disgust, f: '3'
+dish <> s: dishes, i: dishing, d: dished, p: dished, '3': dishes
+disharmonies <> b: disharmony, f: s
+disharmony <> s: disharmonies
+dishcloth <> s: dishcloths
+dishcloths <> b: dishcloth, f: s
+dishearten <> d: disheartened, p: disheartened, i: disheartening, '3': disheartens
+disheartened <> b: dishearten, f: dp, p: disheartened, d: disheartened
+disheartening <> f: i, b: dishearten
+disheartens <> f: '3', b: dishearten
+dished <> b: dish, f: dp
+dishes <> f: s3, b: dish
+dishevel <> i: dishevelling, p: dishevelled, '3': dishevels, d: dishevelled
+dishevelled <> f: pd, b: dishevel
+dishful <> s: dishfuls
+dishfuls <> b: dishful, f: s
+dishiest <> b: dishy, f: t
+dishing <> b: dish, f: i
+dishonesties <> b: dishonesty, f: s
+dishonesty <> s: dishonesties
+dishonour <> d: dishonoured, '3': dishonours, p: dishonoured, i: dishonouring, s: dishonours
+dishonoured <> b: dishonour, f: dp, d: dishonoured, p: dishonoured
+dishonouring <> b: dishonour, f: i
+dishonours <> b: dishonour, f: 3s
+dishtowel <> s: dishtowels
+dishtowels <> b: dishtowel, f: s
+dishwash <> i: dishwashing
+dishwasher <> s: dishwashers
+dishwashers <> b: dishwasher, f: s
+dishwashing <> b: dishwash, f: i, i: dishwashing
+dishwater <> b: dishwate, f: r
+dishy <> t: dishiest
+disillusion <> d: disillusioned, i: disillusioning, p: disillusioned, '3': disillusions, s: disillusions
+disillusioned <> b: disillusion, f: dp, d: disillusioned, p: disillusioned
+disillusioning <> b: disillusion, f: i, i: disillusioning
+disillusionment <> s: disillusionments
+disillusionments <> b: disillusionment, f: s
+disillusions <> b: disillusion, f: 3s
+disincentive <> s: disincentives
+disincentives <> b: disincentive, f: s
+disincline <> i: disinclining, p: disinclined, '3': disinclines, d: disinclined
+disinclined <> f: pd, b: disincline
+disinfect <> p: disinfected, d: disinfected, i: disinfecting, '3': disinfects
+disinfectant <> s: disinfectants
+disinfectants <> b: disinfectant, f: s
+disinfected <> b: disinfect, f: pd, p: disinfected
+disinfecting <> b: disinfect, f: i
+disinfects <> b: disinfect, f: '3'
+disinfest <> i: disinfesting, p: disinfested, '3': disinfests, d: disinfested
+disinfested <> f: pd, b: disinfest
+disinfesting <> f: i, b: disinfest
+disinfests <> f: '3', b: disinfest
+disinherit <> d: disinherited, p: disinherited, i: disinheriting, '3': disinherits
+disinherited <> b: disinherit, f: dp, p: disinherited
+disinheriting <> b: disinherit, f: i
+disinherits <> b: disinherit, f: '3'
+disinhibit <> i: disinhibiting, d: disinhibited
+disinhibited <> b: disinhibit, f: d
+disinhibiting <> b: disinhibit, f: i
+disintegrate <> d: disintegrated, i: disintegrating, p: disintegrated, '3': disintegrates
+disintegrated <> b: disintegrate, f: dp
+disintegrates <> b: disintegrate, f: '3'
+disintegrating <> b: disintegrate, f: i, i: disintegrating
+disintegration <> s: disintegrations
+disintegrations <> b: disintegration, f: s
+disinter <> d: disinterred, p: disinterred, i: disinterring, '3': disinters
+disinterred <> b: disinter, f: dp
+disinterring <> b: disinter, f: i
+disinters <> f: '3', b: disinter
+disinvest <> b: disinv, f: t, s: disinvests, i: disinvesting
+disinvesting <> b: disinvest, f: i
+disinvests <> b: disinvest, f: s
+disjoin <> d: disjoined, '3': disjoins, i: disjoining, p: disjoined
+disjoined <> f: dp, b: disjoin
+disjoining <> f: i, b: disjoin
+disjoins <> b: disjoin, f: '3'
+disjoint <> s: disjoints, i: disjointing, p: disjointed, '3': disjoints, d: disjointed
+disjointed <> f: pd, b: disjoint
+disjunct <> s: disjuncts, '3': disjuncts
+disjunction <> s: disjunctions
+disjunctions <> b: disjunction, f: s
+disjuncts <> b: disjunct, f: s3
+disjuncture <> s: disjunctures
+disjunctures <> b: disjuncture, f: s
+disk <> s: disks
+diskette <> s: diskettes
+diskettes <> b: diskette, f: s
+disks <> b: disk, f: s
+dislike <> p: disliked, d: disliked, '3': dislikes, i: disliking, s: dislikes
+disliked <> b: dislike, f: pd, d: disliked, p: disliked
+dislikes <> b: dislike, f: 3s
+disliking <> b: dislike, f: i
+dislocate <> p: dislocated, d: dislocated, i: dislocating, '3': dislocates
+dislocated <> b: dislocate, f: pd, p: dislocated, d: dislocated
+dislocates <> b: dislocate, f: '3'
+dislocating <> b: dislocate, f: i
+dislocation <> s: dislocations
+dislocations <> b: dislocation, f: s
+dislodge <> d: dislodged, i: dislodging, p: dislodged, '3': dislodges
+dislodged <> b: dislodge, f: dp, d: dislodged
+dislodges <> b: dislodge, f: '3'
+dislodging <> b: dislodge, f: i
+dismantle <> d: dismantled, i: dismantling, p: dismantled, '3': dismantles
+dismantled <> b: dismantle, f: dp, p: dismantled, d: dismantled
+dismantler <> s: dismantlers
+dismantlers <> b: dismantler, f: s
+dismantles <> b: dismantle, f: '3'
+dismantling <> b: dismantle, f: i, i: dismantling, s: dismantlings
+dismast <> d: dismasted, i: dismasting
+dismasted <> b: dismast, f: d
+dismasting <> b: dismast, f: i
+dismay <> p: dismayed, d: dismayed, i: dismaying, s: dismays, '3': dismays
+dismayed <> b: dismay, f: pd, p: dismayed, d: dismayed
+dismaying <> b: dismay, f: i
+dismays <> f: s3, b: dismay
+dismember <> i: dismembering, d: dismembered, p: dismembered, '3': dismembers
+dismembered <> b: dismember, f: dp, p: dismembered, d: dismembered
+dismembering <> b: dismember, f: i
+dismembers <> f: '3', b: dismember
+dismiss <> d: dismissed, p: dismissed, i: dismissing, '3': dismisses
+dismissal <> s: dismissals
+dismissals <> b: dismissal, f: s
+dismissed <> b: dismiss, f: dp, p: dismissed, d: dismissed
+dismisses <> b: dismiss, f: '3'
+dismissing <> b: dismiss, f: i, i: dismissing
+dismount <> p: dismounted, i: dismounting, d: dismounted, '3': dismounts
+dismounted <> b: dismount, f: pd
+dismounting <> b: dismount, f: i, i: dismounting
+dismounts <> b: dismount, f: '3'
+disobey <> i: disobeying, p: disobeyed, d: disobeyed, '3': disobeys
+disobeyed <> b: disobey, f: pd
+disobeying <> b: disobey, f: i
+disobeys <> b: disobey, f: '3'
+disoblige <> i: disobliging, p: disobliged, '3': disobliges, d: disobliged
+disobliged <> f: pd, b: disoblige
+disobliges <> f: '3', b: disoblige
+disobliging <> f: i, b: disoblige
+disorder <> s: disorders, d: disordered, i: disordering, p: disordered, '3': disorders
+disordered <> f: dp, b: disorder, d: disordered
+disordering <> i: disordering, b: disordering, f: i
+disorderlies <> b: disorderly, f: s
+disorderly <> s: disorderlies
+disorders <> f: s3, b: disorder
+disorganise <> p: disorganised, d: disorganised
+disorganised <> d: disorganised, b: disorganised, f: dp, p: disorganised
+disorganize <> p: disorganized, d: disorganized, i: disorganizing, '3': disorganizes
+disorganized <> p: disorganized, b: disorganized, f: p
+disorganizes <> f: '3', b: disorganize
+disorganizing <> b: disorganize, f: i
+disorient <> i: disorienting, p: disoriented, d: disoriented, s: disorients, '3': disorients
+disorientate <> i: disorientating, d: disorientated, '3': disorientates, p: disoriented
+disorientated <> d: disorientated, b: disorientated, f: dp, p: disorientated
+disorientates <> b: disorientate, f: '3'
+disorientating <> b: disorientate, f: i, i: disorientating
+disorientation <> s: disorientations
+disorientations <> b: disorientation, f: s
+disoriented <> d: disoriented, b: disoriented, f: d
+disorienting <> b: disorient, f: i
+disorients <> b: disorient, f: s
+disown <> d: disowned, p: disowned, i: disowning, '3': disowns, s: disowns
+disowned <> b: disown, f: dp, p: disowned
+disowning <> b: disown, f: i
+disowns <> b: disown, f: 3s
+disparage <> d: disparaged, p: disparaged, '3': disparages, i: disparaging
+disparaged <> b: disparage, f: dp, p: disparaged
+disparagement <> s: disparagements
+disparagements <> b: disparagement, f: s
+disparages <> b: disparage, f: '3'
+disparaging <> f: i, b: disparage
+disparities <> b: disparity, f: s
+disparity <> s: disparities
+dispatch <> d: dispatched, p: dispatched, s: dispatches, i: dispatching, '3': dispatches
+dispatched <> b: dispatch, f: dp
+dispatcher <> s: dispatchers
+dispatchers <> b: dispatcher, f: s
+dispatches <> b: dispatch, f: s3
+dispatching <> b: dispatch, f: i
+dispel <> d: dispelled, i: dispelling, p: dispelled, '3': dispels
+dispelled <> b: dispel, f: dp
+dispelling <> b: dispel, f: i
+dispels <> b: dispel, f: '3'
+dispensaries <> b: dispensary, f: s
+dispensary <> s: dispensaries
+dispensation <> s: dispensations
+dispensations <> b: dispensation, f: s
+dispense <> d: dispensed, i: dispensing, p: dispensed, '3': dispenses
+dispensed <> b: dispense, f: dp
+dispenser <> s: dispensers
+dispensers <> b: dispenser, f: s
+dispenses <> b: dispense, f: '3'
+dispensing <> b: dispense, f: i, i: dispensing
+dispersal <> s: dispersals
+dispersals <> b: dispersal, f: s
+dispersant <> s: dispersants
+dispersants <> b: dispersant, f: s
+disperse <> d: dispersed, i: dispersing, '3': disperses, p: dispersed
+dispersed <> b: disperse, f: dp, d: dispersed, p: dispersed
+disperser <> s: dispersers
+dispersers <> b: disperser, f: s
+disperses <> b: disperse, f: '3'
+dispersing <> b: disperse, f: i, i: dispersing
+dispersion <> s: dispersions
+dispersions <> b: dispersion, f: s
+dispirit <> p: dispirited, d: dispirited, i: dispiriting, '3': dispirits
+dispirited <> b: dispirit, f: pd, p: dispirited, d: dispirited
+dispiriting <> f: i, b: dispirit
+dispirits <> f: '3', b: dispirit
+displace <> d: displaced, i: displacing, p: displaced, '3': displaces, s: displaces
+displaced <> b: displace, f: dp, d: displaced, p: displaced
+displacement <> s: displacements
+displacements <> b: displacement, f: s
+displaces <> b: displace, f: 3s
+displacing <> b: displace, f: i, i: displacing
+display <> d: displayed, s: displays, i: displaying, '3': displays, p: displayed
+displayed <> b: display, f: dp, p: displayed, d: displayed
+displaying <> b: display, f: i
+displays <> b: display, f: s3
+displease <> i: displeasing, p: displeased, d: displeased, '3': displeases
+displeased <> d: displeased, b: displeased, f: dp, p: displeased
+displeases <> b: displease, f: '3'
+displeasing <> b: displease, f: i, i: displeasing
+displeasure <> s: displeasures
+displeasures <> b: displeasure, f: s
+disport <> i: disporting, p: disported, '3': disports, d: disported
+disported <> f: pd, b: disport
+disporting <> b: disport, f: i
+disports <> f: '3', b: disport
+disposable <> s: disposables, '3': disposables
+disposables <> b: disposable, f: s3
+disposal <> s: disposals
+disposals <> b: disposal, f: s
+dispose <> i: disposing, d: disposed, p: disposed, '3': disposes
+disposed <> b: dispose, f: dp, p: disposed, d: disposed
+disposer <> s: disposers
+disposers <> b: disposer, f: s
+disposes <> b: dispose, f: '3'
+disposing <> b: dispose, f: i
+disposition <> s: dispositions
+dispositions <> b: disposition, f: s
+dispossess <> d: dispossessed, p: dispossessed, i: dispossessing, '3': dispossesses
+dispossessed <> b: dispossess, f: dp, d: dispossessed, p: dispossessed
+dispossesses <> f: '3', b: dispossess
+dispossessing <> b: dispossess, f: i
+dispossession <> s: dispossessions
+dispossessions <> b: dispossession, f: s
+disproof <> '3': disproofs
+disproofs <> b: disproof, f: '3'
+disproportion <> s: disproportions
+disproportionalities <> b: disproportionality, f: s
+disproportionality <> s: disproportionalities
+disproportionate <> i: disproportionating
+disproportionating <> b: disproportionate, f: i
+disproportions <> b: disproportion, f: s
+disprove <> d: disproved, i: disproving, p: disproved, '3': disproves
+disproved <> b: disprove, f: dp
+disproves <> b: disprove, f: '3'
+disproving <> b: disprove, f: i
+disputant <> s: disputants
+disputants <> b: disputant, f: s
+disputation <> s: disputations
+disputations <> b: disputation, f: s
+dispute <> s: disputes, d: disputed, '3': disputes, p: disputed, i: disputing
+disputed <> b: dispute, f: dp, d: disputed, p: disputed
+disputes <> b: dispute, f: s3
+disputing <> b: dispute, f: i, i: disputing
+disqualification <> s: disqualifications
+disqualifications <> b: disqualification, f: s
+disqualified <> b: disqualify, f: dp, d: disqualified, p: disqualified
+disqualifies <> b: disqualify, f: '3'
+disqualify <> d: disqualified, p: disqualified, '3': disqualifies, i: disqualifying
+disqualifying <> b: disqualify, f: i
+disquiet <> p: disquieted, d: disquieted, '3': disquiets, s: disquiets, i: disquieting
+disquieted <> b: disquiet, f: pd
+disquieting <> f: i, b: disquiet
+disquiets <> b: disquiet, f: 3s
+disquisition <> s: disquisitions
+disquisitions <> b: disquisition, f: s
+disregard <> d: disregarded, i: disregarding, p: disregarded, '3': disregards, s: disregards
+disregarded <> b: disregard, f: dp
+disregarding <> b: disregard, f: i
+disregards <> b: disregard, f: 3s
+disrespect <> d: disrespected, p: disrespected, i: disrespecting, '3': disrespects
+disrespected <> b: disrespect, f: dp
+disrespecting <> f: i, b: disrespect
+disrespects <> f: '3', b: disrespect
+disrobe <> i: disrobing, p: disrobed, d: disrobed, '3': disrobes
+disrobed <> b: disrobe, f: pd
+disrobes <> f: '3', b: disrobe
+disrobing <> b: disrobe, f: i
+disrupt <> d: disrupted, i: disrupting, '3': disrupts, p: disrupted
+disrupted <> b: disrupt, f: dp, p: disrupted, d: disrupted
+disrupter <> s: disrupters
+disrupters <> b: disrupter, f: s
+disrupting <> b: disrupt, f: i, i: disrupting
+disruption <> s: disruptions
+disruptions <> b: disruption, f: s
+disruptor <> s: disruptors
+disruptors <> b: disruptor, f: s
+disrupts <> b: disrupt, f: '3'
+Diss <> i: dissing, p: dissed, '3': disses, d: dissed
+dissatisfaction <> s: dissatisfactions
+dissatisfactions <> b: dissatisfaction, f: s
+dissatisfied <> f: pd, b: dissatisfy
+dissatisfies <> f: s3, b: dissatisfy
+dissatisfy <> i: dissatisfying, s: dissatisfies, r: dissatisfier, p: dissatisfied, '3': dissatisfies, d: dissatisfied
+dissect <> d: dissected, i: dissecting, p: dissected, '3': dissects, s: dissects
+dissected <> b: dissect, f: dp, d: dissected, p: dissected
+dissecting <> b: dissect, f: i, i: dissecting
+dissection <> s: dissections
+dissections <> b: dissection, f: s
+dissects <> b: dissect, f: 3s
+dissemble <> i: dissembling, d: dissembled, s: dissembles, '3': dissembles, p: dissembled
+dissembled <> f: dp, b: dissemble
+dissembler <> s: dissemblers
+dissemblers <> b: dissembler, f: s
+dissembles <> b: dissemble, f: s3
+dissembling <> b: dissemble, f: i, i: dissembling
+disseminate <> d: disseminated, i: disseminating, p: disseminated, '3': disseminates
+disseminated <> b: disseminate, f: dp, p: disseminated, d: disseminated
+disseminates <> b: disseminate, f: '3'
+disseminating <> b: disseminate, f: i
+disseminator <> s: disseminators
+disseminators <> b: disseminator, f: s
+dissension <> s: dissensions
+dissensions <> b: dissension, f: s
+dissent <> i: dissenting, p: dissented, '3': dissents, s: dissents, d: dissented
+dissented <> b: dissent, f: pd
+dissenter <> s: dissenters
+dissenters <> b: dissenter, f: s
+dissentient <> s: dissentients
+dissentients <> b: dissentient, f: s
+dissenting <> b: dissent, f: i, i: dissenting
+dissention <> s: dissentions
+dissentions <> b: dissention, f: s
+dissents <> b: dissent, f: 3s
+dissertation <> s: dissertations
+dissertations <> b: dissertation, f: s
+disservice <> s: disservices
+disservices <> b: disservice, f: s
+dissever <> i: dissevering, p: dissevered, '3': dissevers, d: dissevered
+dissevered <> f: pd, b: dissever
+dissevering <> f: i, b: dissever
+dissevers <> f: '3', b: dissever
+dissident <> s: dissidents
+dissidents <> b: dissident, f: s
+dissimilarities <> b: dissimilarity, f: s
+dissimilarity <> s: dissimilarities
+dissimilate <> i: dissimilating, p: dissimilated, '3': dissimilates, d: dissimilated
+dissimilated <> f: pd, b: dissimilate
+dissimilates <> f: '3', b: dissimilate
+dissimilating <> f: i, b: dissimilate
+dissimulate <> i: dissimulating, '3': dissimulates, p: dissimulated, d: dissimulated
+dissimulated <> f: pd, b: dissimulate
+dissimulates <> b: dissimulate, f: '3'
+dissimulating <> b: dissimulate, f: i
+dissing <> b: diss, f: i
+dissipate <> d: dissipated, p: dissipated, '3': dissipates, i: dissipating
+dissipated <> b: dissipate, f: dp, p: dissipated, d: dissipated
+dissipates <> b: dissipate, f: '3'
+dissipating <> b: dissipate, f: i
+dissipation <> s: dissipations
+dissipations <> b: dissipation, f: s
+dissociate <> p: dissociated, d: dissociated, i: dissociating, s: dissociates, '3': dissociates
+dissociated <> b: dissociate, f: pd, p: dissociated
+dissociates <> b: dissociate, f: s3
+dissociating <> b: dissociate, f: i
+dissociation <> s: dissociations
+dissociations <> b: dissociation, f: s
+dissolute <> s: dissolutes
+dissolutes <> b: dissolute, f: s
+dissolution <> s: dissolutions
+dissolutions <> b: dissolution, f: s
+dissolve <> d: dissolved, '3': dissolves, p: dissolved, i: dissolving
+dissolved <> b: dissolve, f: dp, p: dissolved, d: dissolved
+dissolves <> b: dissolve, f: '3'
+dissolving <> b: dissolve, f: i, i: dissolving
+dissonance <> s: dissonances
+dissonances <> b: dissonance, f: s
+dissuade <> d: dissuaded, p: dissuaded, i: dissuading, '3': dissuades
+dissuaded <> b: dissuade, f: dp
+dissuades <> b: dissuade, f: '3'
+dissuading <> b: dissuade, f: i
+distaff <> s: distaffs
+distaffs <> b: distaff, f: s
+distance <> s: distances, i: distancing, d: distanced, p: distanced, '3': distances
+distanced <> b: distance, f: dp, d: distanced
+distances <> b: distance, f: s3
+distancing <> b: distance, f: i, i: distancing
+distaste <> s: distastes
+distastes <> b: distaste, f: s
+distemper <> s: distempers, p: distempered, d: distempered, i: distempering, '3': distempers
+distempered <> b: distemper, f: pd, p: distempered
+distempering <> b: distemper, f: i
+distempers <> f: s3, b: distemper
+distend <> p: distended, d: distended, i: distending, '3': distends
+distended <> b: distend, f: pd, p: distended, d: distended
+distending <> b: distend, f: i
+distends <> f: '3', b: distend
+distension <> s: distensions
+distensions <> b: distension, f: s
+distil <> d: distilled, i: distilling, p: distilled, '3': distils
+distill <> '3': distills, i: distilling, p: distilled, d: distilled
+distillate <> d: distillated, s: distillates
+distillated <> b: distillate, f: d
+distillates <> b: distillate, f: s
+distillation <> s: distillations
+distillations <> b: distillation, f: s
+distilled <> b: distil, f: dp, d: distilled
+distiller <> s: distillers
+distilleries <> b: distillery, f: s
+distillers <> b: distiller, f: s
+distillery <> s: distilleries
+distilling <> b: distil, f: i, i: distilling
+distills <> b: distill, f: '3'
+distils <> b: distil, f: '3'
+distinction <> s: distinctions
+distinctions <> b: distinction, f: s
+distinguish <> d: distinguished, '3': distinguishes, i: distinguishing, p: distinguished
+distinguished <> b: distinguish, f: dp, d: distinguished, p: distinguished
+distinguishes <> b: distinguish, f: '3'
+distinguishing <> b: distinguish, f: i, i: distinguishing
+distort <> d: distorted, '3': distorts, i: distorting, p: distorted
+distorted <> b: distort, f: dp, d: distorted, p: distorted
+distorting <> b: distort, f: i, i: distorting
+distortion <> s: distortions
+distortions <> b: distortion, f: s
+distorts <> b: distort, f: '3'
+distract <> d: distracted, i: distracting, p: distracted, '3': distracts
+distracted <> b: distract, f: dp, d: distracted, p: distracted
+distracting <> b: distract, f: i, i: distracting
+distraction <> s: distractions
+distractions <> b: distraction, f: s
+distractor <> s: distractors
+distractors <> b: distractor, f: s
+distracts <> b: distract, f: '3'
+distrain <> p: distrained, d: distrained, i: distraining, '3': distrains
+distrained <> b: distrain, f: pd
+distraining <> b: distrain, f: i
+distrains <> f: '3', b: distrain
+distraint <> s: distraints
+distraints <> b: distraint, f: s
+distress <> d: distressed, p: distressed, s: distresses, i: distressing, '3': distresses
+distressed <> b: distress, f: dp, d: distressed, p: distressed
+distresses <> f: s3, b: distress
+distressing <> f: i, b: distress
+distributaries <> b: distributary, f: s
+distributary <> s: distributaries
+distribute <> d: distributed, i: distributing, '3': distributes, p: distributed
+distributed <> b: distribute, f: dp, d: distributed, p: distributed
+distributes <> b: distribute, f: '3'
+distributing <> b: distribute, f: i, i: distributing
+distribution <> s: distributions
+distributions <> b: distribution, f: s
+distributor <> s: distributors
+distributors <> b: distributor, f: s
+district <> s: districts, i: districting, p: districted, '3': districts, d: districted
+districted <> f: pd, b: district
+districting <> f: i, b: district
+districts <> f: s3, b: district
+distrust <> p: distrusted, d: distrusted, '3': distrusts, i: distrusting
+distrusted <> b: distrust, f: pd, p: distrusted
+distrusting <> b: distrust, f: i
+distrusts <> b: distrust, f: '3'
+disturb <> d: disturbed, i: disturbing, p: disturbed, '3': disturbs
+disturbance <> s: disturbances
+disturbances <> b: disturbance, f: s
+disturbed <> b: disturb, f: dp, d: disturbed, p: disturbed
+disturber <> s: disturbers
+disturbers <> b: disturber, f: s
+disturbing <> b: disturb, f: i, i: disturbing
+disturbs <> b: disturb, f: '3'
+disulphate <> d: disulphated
+disulphated <> b: disulphate, f: d
+disulphide <> s: disulphides
+disulphides <> b: disulphide, f: s
+disunite <> i: disuniting, p: disunited, '3': disunites, d: disunited
+disunited <> p: disunited, b: disunited, f: p
+disunites <> f: '3', b: disunite
+disunities <> b: disunity, f: s
+disuniting <> f: i, b: disunite
+disunity <> s: disunities
+disyllable <> s: disyllables
+disyllables <> b: disyllable, f: s
+dit <> s: dits
+ditch <> s: ditches, d: ditched, i: ditching, p: ditched, '3': ditches
+ditched <> b: ditch, f: dp, p: ditched, d: ditched
+ditcher <> s: ditchers
+ditchers <> b: ditcher, f: s
+ditches <> b: ditch, f: s3
+ditching <> b: ditch, f: i, i: ditching, s: ditchings
+dither <> p: dithered, i: dithering, d: dithered, s: dithers, '3': dithers
+dithered <> b: dither, f: pd
+ditherer <> s: ditherers
+ditherers <> b: ditherer, f: s
+dithering <> b: dither, f: i, i: dithering
+dithers <> b: dither, f: s3
+dits <> b: dit, f: s
+ditties <> b: ditty, f: s
+ditto <> i: dittoing, p: dittoed, '3': dittos, d: dittoed
+dittoed <> b: dittoe, f: d
+dittoing <> f: i, b: ditto
+dittos <> f: '3', b: ditto
+ditty <> s: ditties
+diuretic <> s: diuretics
+diuretics <> b: diuretic, f: s
+div <> s: divs
+diva <> s: divas
+divagate <> i: divagating, p: divagated, '3': divagates, d: divagated
+divagated <> f: pd, b: divagate
+divagates <> f: '3', b: divagate
+divagating <> f: i, b: divagate
+divagation <> s: divagations
+divagations <> b: divagation, f: s
+divan <> s: divans
+divans <> b: divan, f: s
+divaricate <> i: divaricating, p: divaricated, '3': divaricates, d: divaricated
+divaricated <> f: pd, b: divaricate
+divaricates <> f: '3', b: divaricate
+divaricating <> f: i, b: divaricate
+divas <> b: diva, f: s
+dive <> p: dived, i: diving, '3': dives, s: dives, d: dived
+dive-bomb <> p: dive-bombed, d: dive-bombed, s: dive-bombs, i: dive-bombing, '3': dive-bombs
+dive-bombed <> b: dive-bomb, f: pd
+dive-bomber <> s: dive-bombers
+dive-bombers <> b: dive-bomber, f: s
+dive-bombs <> b: dive-bomb, f: s
+dived <> b: dive, f: pd
+diver <> s: divers
+diverge <> p: diverged, '3': diverges, d: diverged, i: diverging
+diverged <> b: diverge, f: pd
+divergence <> s: divergences
+divergences <> b: divergence, f: s
+divergencies <> b: divergency, f: s
+divergency <> s: divergencies
+divergent <> s: divergents
+divergents <> b: divergent, f: s
+diverges <> b: diverge, f: '3'
+diverging <> b: diverge, f: i, i: diverging
+divers <> b: diver, f: s
+diversification <> s: diversifications
+diversifications <> b: diversification, f: s
+diversified <> b: diversify, f: dp, p: diversified, d: diversified
+diversifies <> b: diversify, f: '3'
+diversify <> d: diversified, i: diversifying, p: diversified, '3': diversifies
+diversion <> s: diversions
+diversions <> b: diversion, f: s
+diversities <> b: diversity, f: s
+diversity <> s: diversities
+divert <> d: diverted, i: diverting, p: diverted, '3': diverts
+diverted <> b: divert, f: dp, p: diverted, d: diverted
+divertimento <> s: divertimentos
+divertimentos <> b: divertimento, f: s
+diverting <> b: divert, f: i, i: diverting
+divertissement <> s: divertissements
+divertissements <> b: divertissement, f: s
+diverts <> b: divert, f: '3'
+Dives <> b: dive, f: 3s
+divest <> d: divested, i: divesting, p: divested, '3': divests
+divested <> b: divest, f: dp, d: divested, p: divested
+divesting <> b: divest, f: i, i: divesting
+divestment <> s: divestments
+divestments <> b: divestment, f: s
+divests <> b: divest, f: '3'
+divi <> s: divis
+divide <> d: divided, i: dividing, p: divided, '3': divides, s: divides
+divided <> b: divide, f: dp, d: divided, p: divided
+dividend <> s: dividends
+dividends <> b: dividend, f: s
+divider <> s: dividers
+dividers <> b: divider, f: s
+divides <> b: divide, f: 3s
+dividing <> b: divide, f: i, i: dividing
+divination <> s: divinations
+divinations <> b: divination, f: s
+divine <> d: divined, s: divines, p: divined, i: divining, '3': divines, r: diviner
+divined <> b: divine, f: dp
+diviner <> b: divine, f: r, s: diviners
+divines <> b: divine, f: s3
+diving <> b: dive, f: i, i: diving
+divining <> b: divine, f: i
+divinities <> b: divinity, f: s
+divinity <> s: divinities
+divis <> b: divi, f: s
+division <> s: divisions
+divisional <> s: divisionals
+divisionalize <> d: divisionalized, p: divisionalized
+divisionalized <> b: divisionalize, f: dp, p: divisionalized
+divisionals <> b: divisional, f: s
+divisions <> b: division, f: s
+divisor <> s: divisors
+divisors <> b: divisor, f: s
+divorce <> d: divorced, p: divorced, s: divorces, i: divorcing, '3': divorces
+divorced <> b: divorce, f: dp, d: divorced, p: divorced
+divorcee <> s: divorcees
+divorcees <> b: divorcee, f: s
+divorces <> b: divorce, f: s3
+divorcing <> b: divorce, f: i, i: divorcing
+divot <> s: divots
+divots <> b: divot, f: s
+divs <> b: div, f: s
+divulge <> d: divulged, i: divulging, p: divulged, '3': divulges, s: divulges
+divulged <> b: divulge, f: dp
+divulges <> b: divulge, f: 3s
+divulging <> b: divulge, f: i, i: divulging
+divvied <> b: divvy, f: pd
+divvy <> p: divvied, d: divvied
+dizzied <> b: dizzy, f: pd
+dizzier <> b: dizzy, f: r
+dizzies <> f: '3', b: dizzy
+dizzy <> p: dizzied, r: dizzier, d: dizzied, i: dizzying, '3': dizzies
+dizzying <> f: i, b: dizzy
+DJ <> s: djs, i: djing, p: djed, f: DJs
+djebel <> '3': djebels
+djebels <> b: djebel, f: '3'
+djinn <> s: djinns
+djinns <> b: djinn, f: s
+djs <> b: dj, f: s
+DM <> s: dms
+Dmitri <> s: dmitri, b: dmitri, f: s
+dn <> s: dns
+DNA <> s: dnas
+DNS <> b: dn, f: s
+do <> i: doing, p: did, '3': does, d: done
+do-gooder <> s: do-gooders
+do-gooders <> b: do-gooder, f: s
+do-it-yourselfer <> s: do-it-yourselfers
+do-it-yourselfers <> b: do-it-yourselfer, f: s
+do-nothing <> s: do-nothings
+do-nothings <> b: do-nothing, f: s
+doberman <> s: dobermans
+dobermans <> b: doberman, f: s
+dobra <> s: dobras
+dobras <> b: dobra, f: s
+DOC <> s: docs
+dock <> s: docks, d: docked, p: docked, i: docking, '3': docks
+docked <> b: dock, f: dp, p: docked, d: docked
+docker <> s: dockers
+dockers <> b: docker, f: s
+docket <> s: dockets, i: docketing, p: docketed, '3': dockets, d: docketed
+docketed <> b: dockete, f: p
+docketing <> f: i, b: docket
+dockets <> f: s3, b: docket
+docking <> b: dock, f: i, i: docking, s: dockings
+dockland <> s: docklands
+Docklands <> b: dockland, f: s
+docks <> f: s3, b: dock
+dockside <> s: docksides
+docksides <> b: dockside, f: s
+dockworker <> s: dockworkers
+dockworkers <> b: dockworker, f: s
+dockyard <> s: dockyards
+dockyards <> b: dockyard, f: s
+docs <> b: doc, f: s
+doctor <> s: doctors, i: doctoring, p: doctored, '3': doctors, d: doctored
+doctorate <> s: doctorates
+doctorates <> b: doctorate, f: s
+doctored <> b: doctore, f: dp, d: doctored, p: doctored
+doctoring <> b: doctore, f: i, i: doctoring
+doctors <> f: s3, b: doctor
+doctrinaire <> s: doctrinaires
+doctrinaires <> b: doctrinaire, f: s
+doctrine <> s: doctrines
+doctrines <> b: doctrine, f: s
+document <> s: documents, d: documented, i: documenting, p: documented, '3': documents
+documentalist <> s: documentalists
+documentalists <> b: documentalist, f: s
+documentaries <> b: documentary, f: s
+documentarist <> s: documentarists
+documentarists <> b: documentarist, f: s
+documentary <> s: documentaries
+documentation <> s: documentations
+documentations <> b: documentation, f: s
+documented <> b: document, f: dp, p: documented, d: documented
+documenting <> b: document, f: i
+documents <> b: document, f: s3
+dodder <> s: dodders, i: doddering, p: doddered, '3': dodders, d: doddered
+doddered <> f: pd, b: dodder
+doddering <> b: dodder, f: i
+dodders <> b: dodder, f: s3
+dodge <> i: dodging, p: dodged, '3': dodges, d: dodged, s: dodges
+dodged <> b: dodge, f: pd, p: dodged
+dodgem <> s: dodgems
+dodgems <> b: dodgem, f: s
+dodger <> s: dodgers
+dodgers <> b: dodger, f: s
+dodges <> b: dodge, f: 3s
+dodgier <> b: dodgy, f: r
+dodgiest <> b: dodgy, f: t
+dodging <> b: dodge, f: i, i: dodging
+dodgy <> r: dodgier, t: dodgiest
+dodo <> s: dodos
+dodos <> b: dodo, f: s
+doe <> s: does
+doer <> s: doers
+doers <> b: doer, f: s
+does <> b: doe, f: s
+doeskin <> s: doeskins
+doeskins <> b: doeskin, f: s
+doeth <> '3': doeth, b: doeth, f: '3'
+doff <> p: doffed, i: doffing, '3': doffs, d: doffed
+doffed <> f: pd, b: doff
+doffing <> b: doff, f: i
+doffs <> b: doff, f: '3'
+dog <> s: dogs, d: dogged, p: dogged, i: dogging, '3': dogs
+dog-end <> s: dog-ends
+dog-ends <> b: dog-end, f: s
+dog-leg <> s: dog-legs
+dog-legs <> b: dog-leg, f: s
+dog-paddle <> s: dog-paddles
+dog-paddles <> b: dog-paddle, f: s
+dogcart <> s: dogcarts
+dogcarts <> b: dogcart, f: s
+doge <> s: doges
+doges <> b: doge, f: s
+dogfight <> s: dogfights, i: dogfighting
+dogfighting <> b: dogfight, f: i
+dogfights <> b: dogfight, f: s
+dogged <> b: dog, f: dp, d: dogged, p: dogged
+doggies <> b: doggy, f: s
+dogging <> b: dog, f: i
+doggy <> s: doggies
+dogleg <> '3': doglegs, s: doglegs
+doglegs <> b: dogleg, f: 3s
+dogma <> s: dogmas
+dogmas <> b: dogma, f: s
+dogmatic <> s: dogmatics
+dogmatics <> b: dogmatic, f: s
+dogmatist <> s: dogmatists
+dogmatists <> b: dogmatist, f: s
+dogmatize <> i: dogmatizing, p: dogmatized, '3': dogmatizes, d: dogmatized
+dogmatized <> f: pd, b: dogmatize
+dogmatizes <> f: '3', b: dogmatize
+dogmatizing <> f: i, b: dogmatize
+dogs <> f: s3, b: dog
+dogsbodies <> b: dogsbody, f: s
+dogsbody <> s: dogsbodies, i: dogsbodying
+dogsbodying <> b: dogsbody, f: i
+dogwood <> s: dogwoods
+dogwoods <> b: dogwood, f: s
+doi <> s: doi, b: doi, f: s
+doilies <> b: doily, f: s3
+doily <> s: doilies, '3': doilies
+doing <> f: i, b: do, s: doings
+doings <> b: doing, f: s
+dojo <> s: dojos
+dojos <> b: dojo, f: s
+doldrum <> s: doldrums
+doldrums <> b: doldrum, f: s
+dole <> p: doled, s: doles, d: doled, i: doling, '3': doles
+doled <> b: dole, f: pd
+dolerite <> s: dolerites
+dolerites <> b: dolerite, f: s
+doles <> b: dole, f: s3
+doling <> b: dole, f: i
+doll <> s: dolls, p: dolled, d: dolled, i: dolling
+dollar <> s: dollars
+dollars <> b: dollar, f: s
+dolled <> b: doll, f: pd
+dollies <> b: dolly, f: s
+dolling <> b: doll, f: i
+dollop <> s: dollops
+dollops <> b: dollop, f: s
+dolls <> b: doll, f: s
+dolly <> s: dollies
+dolly-bird <> s: dolly-birds
+dolly-birds <> b: dolly-bird, f: s
+dolman <> s: dolmans
+dolmans <> b: dolman, f: s
+dolmen <> s: dolmens
+dolmens <> b: dolmen, f: s
+dolomite <> s: dolomites
+dolomites <> b: dolomite, f: s
+dolores <> b: dolore, f: s3
+dolour <> s: dolours
+dolours <> b: dolour, f: s
+dolphin <> s: dolphins
+dolphinarium <> s: dolphinariums
+dolphinariums <> b: dolphinarium, f: s
+dolphins <> b: dolphin, f: s
+dolt <> s: dolts
+dolts <> b: dolt, f: s
+domain <> s: domains
+domains <> b: domain, f: s
+dome <> s: domes, p: domed, d: domed
+domed <> b: dome, f: pd, p: domed, d: domed
+domes <> b: dome, f: s
+domestic <> s: domestics
+domesticate <> d: domesticated, i: domesticating, p: domesticated, '3': domesticates
+domesticated <> d: domesticated, b: domesticated, f: dp, p: domesticated
+domesticates <> b: domesticate, f: '3'
+domesticating <> b: domesticate, f: i
+domestication <> s: domestications
+domestications <> b: domestication, f: s
+domesticities <> b: domesticity, f: s
+domesticity <> s: domesticities
+domestics <> b: domestic, f: s
+domicile <> d: domiciled, p: domiciled, s: domiciles, i: domiciling, '3': domicils
+domiciled <> b: domicile, f: dp
+domiciles <> b: domicile, f: s
+domiciling <> f: i, b: domicile
+domicils <> f: '3', b: domicile
+dominant <> s: dominants
+dominants <> b: dominant, f: s
+dominate <> d: dominated, p: dominated, '3': dominates, i: dominating
+dominated <> b: dominate, f: dp, p: dominated, d: dominated
+dominates <> b: dominate, f: '3'
+dominating <> b: dominate, f: i, i: dominating
+domination <> s: dominations
+dominations <> b: domination, f: s
+dominator <> s: dominators
+dominators <> b: dominator, f: s
+dominatrix <> s: dominatrixes
+dominatrixes <> b: dominatrix, f: s
+domineer <> i: domineering, p: domineered, '3': domineers, d: domineered
+domineered <> f: pd, b: domineer
+domineering <> i: domineering, b: domineering, f: i
+domineers <> f: '3', b: domineer
+dominican <> s: dominicans
+dominicans <> b: dominican, f: s
+dominion <> s: dominions
+dominions <> b: dominion, f: s
+Dominique <> s: dominiques
+domino <> s: dominoes
+dominoes <> b: domino, f: s
+don <> s: dons, p: donned, i: donning, d: donned, '3': dons
+donate <> d: donated, p: donated, i: donating, '3': donates
+donated <> b: donate, f: dp, d: donated, p: donated
+donates <> b: donate, f: '3'
+donating <> b: donate, f: i
+donation <> s: donations
+donations <> b: donation, f: s
+Donatist <> s: donatists
+done <> f: d, b: do
+donee <> s: donees
+donees <> b: donee, f: s
+dong <> s: dongs, i: donging, p: donged, '3': dongs, d: donged
+donged <> f: pd, b: dong
+donging <> f: i, b: dong
+dongs <> f: s3, b: dong
+donjon <> s: donjons
+donjons <> b: donjon, f: s
+donkey <> s: donkeys
+donkeyman <> s: donkeymen
+donkeymen <> b: donkeyman, f: s
+donkeys <> b: donkey, f: s
+donned <> b: don, f: pd
+donning <> b: don, f: i, i: donning
+donor <> s: donors
+donors <> b: donor, f: s
+dons <> b: don, f: s3
+donut <> s: donuts
+donuts <> b: donut, f: s
+doo <> s: doos
+doodah <> s: doodahs
+doodahs <> b: doodah, f: s
+doodle <> s: doodles, i: doodling, p: doodled, '3': doodles, d: doodled
+doodlebug <> s: doodlebugs
+doodlebugs <> b: doodlebug, f: s
+doodled <> b: doodle, f: pd
+doodles <> b: doodle, f: s3
+doodling <> b: doodle, f: i, s: doodlings, i: doodling
+doohickey <> s: doohickeys
+doohickeys <> b: doohickey, f: s
+doom <> d: doomed, i: dooming, s: dooms, p: doomed, '3': dooms
+doomed <> f: dp, b: doom, d: doomed
+dooming <> b: doom, f: i
+dooms <> f: s3, b: doom
+doomsayer <> s: doomsayers
+doomsayers <> b: doomsayer, f: s
+doomster <> s: doomsters
+doomsters <> b: doomster, f: s
+door <> s: doors
+doorbell <> s: doorbells
+doorbells <> b: doorbell, f: s
+doorjamb <> s: doorjambs
+doorjambs <> b: doorjamb, f: s
+doorkeeper <> s: doorkeepers
+doorkeepers <> b: doorkeeper, f: s
+doorknob <> s: doorknobs
+doorknobs <> b: doorknob, f: s
+doorknocker <> s: doorknockers
+doorknockers <> b: doorknocker, f: s
+doorman <> s: doormen
+doormat <> s: doormats
+doormats <> b: doormat, f: s
+doormen <> b: doorman, f: s
+doornail <> s: doornails
+doornails <> b: doornail, f: s
+doorpost <> s: doorposts
+doorposts <> b: doorpost, f: s
+doors <> b: door, f: s
+doorstep <> s: doorsteps, i: doorstepping
+doorstepping <> b: doorstep, f: i, i: doorstepping
+doorsteps <> b: doorstep, f: s
+doorstop <> s: doorstops
+doorstops <> b: doorstop, f: s
+doorway <> s: doorways
+doorways <> b: doorway, f: s
+doos <> b: doo, f: s
+dopant <> s: dopants
+dopants <> b: dopant, f: s
+dope <> d: doped, s: dopes, p: doped, i: doping, '3': dopes
+doped <> b: dope, f: dp, p: doped
+doper <> s: dopers
+dopers <> b: doper, f: s
+dopes <> b: dope, f: s3
+dopiest <> b: dopy, f: t
+doping <> b: dope, f: i, i: doping, s: dopings
+doppelganger <> s: doppelgangers, '3': doppelgangers
+doppelgangers <> b: doppelganger, f: s3
+dopy <> t: dopiest
+dories <> b: dory, f: s
+dork <> s: dorks
+dorks <> b: dork, f: s
+dorm <> s: dorms
+dormer <> s: dormers, p: dormered
+dormered <> b: dormer, f: p
+dormers <> b: dormer, f: s
+dormice <> s: dormice, b: dormice, f: s
+dormitories <> b: dormitory, f: s
+dormitory <> s: dormitories
+dorms <> b: dorm, f: s
+Dorn <> i: dorning
+dorp <> d: dorpped, s: dorps
+dorpped <> b: dorp, f: d
+dorps <> b: dorp, f: s
+dorrit <> s: dorrits
+dorrits <> b: dorrit, f: s
+dorsal <> s: dorsals
+dorsals <> b: dorsal, f: s
+dory <> s: dories
+dosage <> s: dosages
+dosages <> b: dosage, f: s
+dose <> s: doses, d: dosed, i: dosing, p: dosed, '3': doses
+dosed <> b: dose, f: dp, d: dosed
+doses <> f: s3, b: dose
+dosimeter <> s: dosimeters
+dosimeters <> b: dosimeter, f: s
+dosing <> b: dose, f: i, i: dosing
+doss <> i: dossing, '3': dosses, d: dossed, p: dossed
+doss-house <> s: doss-houses
+doss-houses <> b: doss-house, f: s
+dossed <> b: doss, f: dp
+dosser <> s: dossers
+dosseret <> s: dosserets
+dosserets <> b: dosseret, f: s
+dossers <> b: dosser, f: s
+dosses <> b: doss, f: '3'
+dossier <> s: dossiers, b: dossy, f: r
+dossiers <> b: dossier, f: s
+dossing <> b: doss, f: i
+dossy <> r: dossier
+dot <> s: dots, p: dotted, d: dotted, i: dotting, '3': dots
+dotard <> s: dotards
+dotards <> b: dotard, f: s
+dote <> p: doted, '3': dotes, d: doted, i: doting
+doted <> b: dote, f: pd
+dotes <> b: dote, f: '3'
+doting <> b: dote, f: i, i: doting
+dots <> f: s3, b: dot
+dotted <> b: dot, f: pd, p: dotted, d: dotted
+dottier <> b: dotty, f: r
+dotting <> b: dot, f: i, s: dottings, i: dotting
+dotty <> r: dottier
+double <> d: doubled, i: doubling, s: doubles, p: doubled, '3': doubles
+double-check <> '3': double-checks, i: double-checking, p: double-checked, d: double-checked
+double-checks <> b: double-check, f: '3'
+double-cross <> d: double-crossed
+double-crossed <> b: double-cross, f: d
+double-decker <> s: double-deckers
+double-deckers <> b: double-decker, f: s
+double-entries <> b: double-entry, f: s
+double-entry <> s: double-entries
+double-glaze <> i: double-glazing, p: double-glazed, '3': double-glazes, d: double-glazed
+double-glazing <> b: double-glaze, f: i
+double-lock <> p: double-locked
+double-locked <> b: double-lock, f: p
+double-park <> i: double-parking, p: double-parked, '3': double-parks, d: double-parked
+doubled <> b: double, f: dp, d: doubled, p: doubled
+doubler <> b: doubl, f: r
+doubles <> b: double, f: s3
+doublet <> s: doublets
+doublets <> b: doublet, f: s
+doubling <> b: double, f: i, i: doubling, s: doublings
+doubloon <> s: doubloons
+doubloons <> b: doubloon, f: s
+doubt <> s: doubts, p: doubted, d: doubted, i: doubting, '3': doubts
+doubted <> b: doubt, f: pd
+doubter <> s: doubters
+doubters <> b: doubter, f: s
+doubting <> b: doubt, f: i, i: doubting
+doubts <> b: doubt, f: s3
+douceur <> s: douceurs
+douceurs <> b: douceur, f: s
+douche <> i: douching, p: douched, '3': douches, d: douched
+douched <> f: pd, b: douche
+douches <> b: douch, f: 3s
+douching <> b: douch, f: i
+dough <> s: doughs
+doughboy <> s: doughboys
+doughboys <> b: doughboy, f: s
+doughnut <> s: doughnuts, i: doughnutting
+doughnuts <> b: doughnut, f: s
+doughnutting <> b: doughnut, f: i
+doughs <> b: dough, f: s
+doughtiest <> b: doughty, f: t
+doughty <> t: doughtiest
+dour <> t: dourest
+dourest <> b: dour, f: t
+Douro <> s: douros
+douse <> p: doused, d: doused, i: dousing, '3': douses
+doused <> b: douse, f: pd, d: doused
+douses <> b: douse, f: '3'
+dousing <> b: douse, f: i, i: dousing
+dove <> b: dive, f: p, s: doves, i: doving
+dovecot <> s: dovecots
+dovecote <> s: dovecotes
+dovecotes <> b: dovecote, f: s
+dovecots <> b: dovecot, f: s
+Dover <> p: dovered
+doves <> b: dove, f: s
+dovetail <> d: dovetailed, p: dovetailed, '3': dovetails, i: dovetailing, s: dovetails
+dovetailed <> b: dovetail, f: dp
+dovetailing <> b: dovetail, f: i, i: dovetailing
+dovetails <> b: dovetail, f: 3s
+doving <> b: dove, f: i
+dowager <> s: dowagers
+dowagers <> b: dowager, f: s
+Dowd <> i: dowding
+dowdier <> b: dowdy, f: r
+dowdiest <> b: dowdy, f: t
+Dowding <> b: dowd, f: i, s: dowdings
+dowdy <> t: dowdiest, r: dowdier
+dowel <> s: dowels, d: dowelled, p: dowelled
+dowelled <> b: dowel, f: dp
+dowels <> b: dowel, f: s
+dower <> i: dowering, p: dowered, '3': dowers, d: dowered
+dowered <> f: pd, b: dower
+dowering <> f: i, b: dower
+dowers <> f: '3', b: dower
+dowl <> i: dowling
+Dowling <> b: dowl, f: i
+down <> s: downs, i: downing, p: downed, '3': downs, d: downed
+down-and-out <> s: down-and-outs
+down-and-outs <> b: down-and-out, f: s
+downbeat <> s: downbeats
+downbeats <> b: downbeat, f: s
+downdraught <> s: downdraughts
+downdraughts <> b: downdraught, f: s
+downed <> p: downed, b: downed, f: p
+downer <> s: downers
+downers <> b: downer, f: s
+downfall <> s: downfalls
+downfalls <> b: downfall, f: s
+downgrade <> d: downgraded, p: downgraded, i: downgrading, '3': downgrades, s: downgrades
+downgraded <> b: downgrade, f: dp, d: downgraded, p: downgraded
+downgrades <> b: downgrade, f: 3s
+downgrading <> b: downgrade, f: i, s: downgradings, i: downgrading
+downhearted <> b: downheart, f: dp, p: downhearted, d: downhearted
+downhill <> s: downhills
+downhiller <> s: downhillers
+downhillers <> b: downhiller, f: s
+downhills <> b: downhill, f: s
+Downing <> f: i, b: down
+downland <> s: downlands
+downlands <> b: downland, f: s
+downlighter <> s: downlighters
+downlighters <> b: downlighter, f: s
+download <> d: downloaded, i: downloading, p: downloaded, s: downloads, '3': downloads
+downloaded <> b: download, f: dp
+downloading <> b: download, f: i
+downloads <> b: download, f: s
+downpipe <> s: downpipes, '3': downpipes
+downpipes <> b: downpipe, f: s3
+downplay <> i: downplaying, p: downplayed, d: downplayed, '3': downplays
+downplayed <> b: downplay, f: pd
+downplaying <> b: downplay, f: i
+downplays <> b: downplay, f: '3'
+downpour <> s: downpours
+downpours <> b: downpour, f: s
+downs <> f: s3, b: down
+downside <> s: downsides
+downsides <> b: downside, f: s
+downsize <> i: downsizing, d: downsized, p: downsized
+downsized <> b: downsize, f: dp
+downsizing <> b: downsize, f: i, i: downsizing
+downslope <> s: downslopes
+downslopes <> b: downslope, f: s
+downspout <> s: downspouts
+downspouts <> b: downspout, f: s
+downstroke <> s: downstrokes
+downstrokes <> b: downstroke, f: s
+downswing <> s: downswings, i: downswing, b: downswing, f: i
+downswings <> b: downswing, f: s
+downtown <> r: downtowner
+downtowner <> b: downtown, f: r, s: downtowners
+downturn <> s: downturns, p: downturned
+downturned <> b: downturn, f: p, p: downturned
+downturns <> b: downturn, f: s
+downwarp <> d: downwarped, i: downwarping
+downwarped <> b: downwarp, f: d
+downwarping <> i: downwarping, b: downwarping, f: i
+dowries <> b: dowry, f: s
+dowry <> s: dowries
+dowse <> i: dowsing, d: dowsed, p: dowsed, '3': dowses
+dowsed <> b: dowse, f: dp
+dowser <> s: dowsers
+dowsers <> b: dowser, f: s
+dowses <> f: '3', b: dowse
+dowsing <> b: dowse, f: i, i: dowsing
+doxies <> b: doxy, f: s
+doxy <> s: doxies
+doyen <> s: doyens
+doyens <> b: doyen, f: s
+doze <> p: dozed, i: dozing, d: dozed, s: dozes, '3': dozes
+dozed <> b: doze, f: pd
+dozes <> b: doze, f: s3
+doziest <> b: dozy, f: t
+dozing <> b: doze, f: i, i: dozing
+dozy <> t: doziest
+dra <> s: dras
+drab <> s: drabs, r: drabber, t: drabbest
+drabber <> b: drab, f: r
+drabbest <> b: drab, f: t
+drabble <> d: drabbled
+drabbled <> b: drabble, f: d
+drabs <> b: drab, f: s
+drachma <> s: drachmas
+drachmas <> b: drachma, f: s
+draft <> d: drafted, i: drafting, s: drafts, p: drafted, '3': drafts
+drafted <> b: draft, f: dp, d: drafted, p: drafted
+draftee <> s: draftees
+draftees <> b: draftee, f: s
+drafter <> s: drafters
+drafters <> b: drafter, f: s
+drafting <> b: draft, f: i, i: drafting
+drafts <> b: draft, f: s3
+draftsman <> s: draftsmen
+draftsmen <> b: draftsman, f: s
+drag <> p: dragged, i: dragging, d: dragged, '3': drags, s: drags
+dragged <> b: drag, f: pd
+dragger <> s: draggers
+draggers <> b: dragger, f: s
+dragging <> b: drag, f: i, i: dragging
+draggle <> p: draggled, i: draggling, '3': draggles, d: draggled
+draggled <> p: draggled, b: draggled, f: p
+draggles <> f: '3', b: draggle
+draggling <> f: i, b: draggle
+dragnet <> s: dragnets
+dragnets <> b: dragnet, f: s
+dragoman <> s: dragomans
+dragomans <> b: dragoman, f: s
+dragon <> s: dragons
+dragonflies <> b: dragonfly, f: s
+dragonfly <> s: dragonflies
+dragons <> b: dragon, f: s
+dragoon <> s: dragoons, d: dragooned, p: dragooned, i: dragooning, '3': dragoons
+dragooned <> b: dragoon, f: dp
+dragooning <> b: dragoon, f: i
+dragoons <> f: s3, b: dragoon
+drags <> b: drag, f: 3s
+drain <> s: drains, d: drained, i: draining, p: drained, '3': drains
+drainage <> s: drainages
+drainages <> b: drainage, f: s
+drained <> b: drain, f: dp, d: drained, p: drained
+drainer <> s: drainers
+drainers <> b: drainer, f: s
+draining <> b: drain, f: i, i: draining
+drainpipe <> s: drainpipes
+drainpipes <> b: drainpipe, f: s
+drains <> b: drain, f: s3
+drake <> s: drakes
+drakes <> b: drake, f: s
+dram <> s: drams
+drama <> s: dramas
+dramas <> b: drama, f: s
+dramatic <> s: dramatics
+dramatics <> b: dramatic, f: s
+dramatisation <> s: dramatisations
+dramatisations <> b: dramatisation, f: s
+dramatise <> i: dramatising, d: dramatised, '3': dramatises, p: dramatised
+dramatised <> b: dramatise, f: dp, d: dramatised, p: dramatised
+dramatises <> b: dramatise, f: '3'
+dramatising <> b: dramatise, f: i
+dramatist <> s: dramatists
+dramatists <> b: dramatist, f: s
+dramatization <> s: dramatizations
+dramatizations <> b: dramatization, f: s
+dramatize <> d: dramatized, i: dramatizing, p: dramatized, '3': dramatizes
+dramatized <> b: dramatize, f: dp, p: dramatized
+dramatizes <> b: dramatize, f: '3'
+dramatizing <> b: dramatize, f: i
+drams <> b: dram, f: s
+drank <> b: drink, f: p
+drape <> d: draped, p: draped, s: drapes, i: draping, '3': drapes
+draped <> b: drape, f: dp, d: draped, p: draped
+draper <> s: drapers
+draperies <> b: drapery, f: s
+drapers <> b: draper, f: s
+drapery <> s: draperies
+drapes <> b: drape, f: s3
+draping <> b: drape, f: i, i: draping, s: drapings
+dras <> b: dra, f: s
+drat <> p: dratted
+dratted <> b: drat, f: p, p: dratted
+draught <> s: draughts, i: draughting, d: draughted, p: draughted
+draughted <> b: draught, f: dp
+draughtiest <> b: draughty, f: t
+draughting <> b: draught, f: i, i: draughting
+draughtproof <> i: draughtproofing, d: draughtproofed, p: draughtproofed
+draughtproofed <> b: draughtproof, f: dp
+draughtproofing <> b: draughtproof, f: i
+draughts <> b: draught, f: s
+draughtsman <> s: draughtsmen
+draughtsmen <> b: draughtsman, f: s
+draughty <> t: draughtiest
+draw <> d: drawn, p: drew, i: drawing, '3': draws, s: draws
+drawback <> s: drawbacks
+drawbacks <> b: drawback, f: s
+drawbridge <> s: drawbridges
+drawbridges <> b: drawbridge, f: s
+drawcord <> s: drawcords
+drawcords <> b: drawcord, f: s
+drawdown <> s: drawdowns
+drawdowns <> b: drawdown, f: s
+drawer <> s: drawers
+drawers <> b: drawer, f: s
+drawing <> b: draw, f: i, s: drawings, i: drawing
+drawing-board <> s: drawing-boards
+drawing-boards <> b: drawing-board, f: s
+drawing-pin <> s: drawing-pins
+drawing-pins <> b: drawing-pin, f: s
+drawing-room <> s: drawing-rooms
+drawing-rooms <> b: drawing-room, f: s
+drawl <> p: drawled, '3': drawls, i: drawling, d: drawled, s: drawls
+drawled <> b: drawl, f: pd
+drawling <> b: drawl, f: i
+drawls <> b: drawl, f: 3s
+drawn <> b: draw, f: d
+draws <> b: draw, f: 3s
+drawstring <> s: drawstrings, i: drawstring, b: drawstring, f: i
+drawstrings <> b: drawstring, f: s
+dray <> s: drays
+drayman <> s: draymen
+draymen <> b: drayman, f: s
+drays <> b: dray, f: s
+dread <> p: dreaded, i: dreading, d: dreaded, '3': dreads, s: dreads
+dreaded <> b: dread, f: pd, d: dreaded, p: dreaded
+dreading <> b: dread, f: i, i: dreading
+dreadlock <> s: dreadlocks, p: dreadlocked
+dreadlocked <> b: dreadlock, f: p
+dreadlocks <> b: dreadlock, f: s
+dreadnought <> s: dreadnoughts
+dreadnoughts <> b: dreadnought, f: s
+dreads <> b: dread, f: 3s
+dream <> s: dreams, i: dreaming, d: dreamed, p: dreamed, '3': dreams
+dreamed <> b: dream, f: dp
+dreamer <> s: dreamers
+dreamers <> b: dreamer, f: s
+dreamier <> b: dreamy, f: r
+dreamiest <> b: dreamy, f: t
+dreaming <> b: dream, f: i, i: dreaming, s: dreamings
+dreamland <> s: dreamlands
+dreamlands <> b: dreamland, f: s
+dreams <> b: dream, f: s3
+dreamscape <> s: dreamscapes
+dreamscapes <> b: dreamscape, f: s
+dreamt <> b: dream, f: pd
+dreamy <> t: dreamiest, r: dreamier
+drearier <> b: dreary, f: r
+dreariest <> b: dreary, f: t
+dreary <> t: dreariest, r: drearier
+dredge <> i: dredging, p: dredged, d: dredged, '3': dredges, s: dredges
+dredged <> b: dredge, f: pd
+dredger <> s: dredgers
+dredgers <> b: dredger, f: s
+dredges <> b: dredge, f: 3s
+dredging <> b: dredge, f: i, i: dredging, s: dredgings
+dregs <> s: dregs, b: dregs, f: s
+drench <> d: drenched, i: drenching, p: drenched, '3': drenches
+drenched <> b: drench, f: dp, d: drenched
+drenches <> b: drench, f: '3'
+drenching <> b: drench, f: i, s: drenchings, i: drenching
+dress <> d: dressed, s: dresses, i: dressing, p: dressed, '3': dresses
+dressed <> b: dress, f: dp, d: dressed, p: dressed
+dresser <> s: dressers
+dressers <> b: dresser, f: s
+dresses <> b: dress, f: s3
+dressier <> b: dressy, f: r
+dressing <> b: dress, f: i, s: dressings, i: dressing
+dressmaker <> s: dressmakers
+dressmakers <> b: dressmaker, f: s
+dressmaking <> i: dressmaking, b: dressmaking, f: i
+dressy <> r: dressier
+drew <> b: draw, f: p
+drey <> s: dreys
+dreys <> b: drey, f: s
+dri <> s: dri, b: dri, f: s
+drib <> s: dribs
+dribble <> p: dribbled, i: dribbling, s: dribbles, d: dribbled, '3': dribbles
+dribbled <> b: dribble, f: pd
+dribbler <> s: dribblers
+dribblers <> b: dribbler, f: s
+dribbles <> b: dribble, f: s3
+dribbling <> b: dribble, f: i, s: dribblings, i: dribbling
+driblet <> s: driblets
+driblets <> b: driblet, f: s
+dribs <> b: drib, f: s
+dried <> b: dry, f: dp, p: dried, d: dried
+drier <> b: dry, f: r, s: driers
+driers <> b: drier, f: s
+drift <> p: drifted, i: drifting, d: drifted, s: drifts, '3': drifts
+drifted <> b: drift, f: pd, p: drifted
+drifter <> s: drifters
+drifters <> b: drifter, f: s
+drifting <> b: drift, f: i, i: drifting
+driftnet <> s: driftnets, i: driftnetting
+driftnets <> b: driftnet, f: s
+driftnetting <> b: driftnet, f: i
+drifts <> b: drift, f: s3
+drill <> i: drilling, s: drills, d: drilled, p: drilled, '3': drills
+drilled <> b: drill, f: dp, p: drilled
+driller <> s: drillers
+drillers <> b: driller, f: s
+drilling <> b: drill, f: i, i: drilling, s: drillings
+drills <> b: drill, f: s3
+drink <> s: drinks, i: drinking, p: drank, d: drunk, '3': drinks
+drink-driver <> s: drink-drivers
+drink-drivers <> b: drink-driver, f: s
+drinkable <> s: drinkables
+drinkables <> b: drinkable, f: s
+drinker <> s: drinkers
+drinkers <> b: drinker, f: s
+drinking <> b: drink, f: i, i: drinking
+drinks <> b: drink, f: s3
+drip <> i: dripping, p: dripped, s: drips, '3': drips, d: dripped
+dripped <> b: drip, f: pd, p: dripped
+drippiest <> b: drippy, f: t
+dripping <> b: drip, f: i, i: dripping
+drippy <> t: drippiest
+drips <> b: drip, f: s3
+drive <> p: drove, d: driven, i: driving, '3': drives, s: drives
+drive-by <> s: drive-bys
+drive-bys <> b: drive-by, f: s
+drive-in <> s: drive-ins
+drive-ins <> b: drive-in, f: s
+drivel <> i: drivelling, p: drivelled, '3': drivels, d: drivelled
+drivelled <> f: pd, b: drivel
+drivelling <> b: drivel, f: i
+drivels <> f: '3', b: drivel
+driven <> b: drive, f: d, d: driven
+driver <> s: drivers
+drivers <> b: driver, f: s
+drives <> b: drive, f: 3s
+driveshaft <> s: driveshafts
+driveshafts <> b: driveshaft, f: s
+driveway <> s: driveways
+driveways <> b: driveway, f: s
+driving <> b: drive, f: i, i: driving
+drizzle <> i: drizzling, p: drizzled, s: drizzles, '3': drizzles, d: drizzled
+drizzled <> f: pd, b: drizzle
+drizzles <> f: s3, b: drizzle
+drizzling <> b: drizzle, f: i, i: drizzling
+droid <> s: droids
+droids <> b: droid, f: s
+droit <> '3': droits, s: droits
+droits <> b: droit, f: 3s
+droll <> '3': drolls
+drolleries <> b: drollery, f: s
+drollery <> s: drolleries
+drolls <> b: droll, f: '3'
+dromedaries <> b: dromedary, f: s
+dromedary <> s: dromedaries
+dron <> i: droning
+drone <> p: droned, s: drones, '3': drones, d: droned, i: droning
+droned <> b: drone, f: pd
+drones <> b: drone, f: s3
+droning <> b: dron, f: i
+droob <> s: droobs
+droobs <> b: droob, f: s
+droog <> s: droogs
+droogs <> b: droog, f: s
+drool <> i: drooling, p: drooled, d: drooled, '3': drools, s: drools
+drooled <> b: drool, f: pd
+drooling <> b: drool, f: i, i: drooling
+drools <> b: drool, f: 3s
+droop <> p: drooped, i: drooping, '3': droops, d: drooped, s: droops
+drooped <> b: droop, f: pd
+drooping <> b: droop, f: i, i: drooping
+droops <> b: droop, f: 3s
+drop <> p: dropped, d: dropped, i: dropping, s: drops, '3': drops
+drop-down <> s: drop-downs
+drop-downs <> b: drop-down, f: s
+drop-in <> s: drop-ins
+drop-ins <> b: drop-in, f: s
+drop-leaf <> s: drop-leafs
+drop-leafs <> b: drop-leaf, f: s
+drop-off <> s: drop-offs
+drop-offs <> b: drop-off, f: s
+dropkick <> i: dropkicking, p: dropkicked, '3': dropkicks, d: dropkicked
+dropkicked <> f: pd, b: dropkick
+dropkicking <> f: i, b: dropkick
+dropkicks <> f: '3', b: dropkick
+droplet <> s: droplets
+droplets <> b: droplet, f: s
+dropout <> s: dropouts
+dropouts <> b: dropout, f: s
+dropped <> b: drop, f: pd, d: dropped, p: dropped
+dropper <> s: droppers
+droppers <> b: dropper, f: s
+dropping <> b: drop, f: i, s: droppings, i: dropping
+droppings <> b: dropping, f: s
+drops <> b: drop, f: s3
+dropsies <> b: dropsy, f: s
+dropsy <> s: dropsies
+drought <> s: droughts
+droughts <> b: drought, f: s
+drove <> b: drive, f: p, s: droves, i: droving
+drover <> s: drovers
+drovers <> b: drover, f: s
+drown <> d: drowned, p: drowned, i: drowning, '3': drowns
+drowned <> b: drown, f: dp, d: drowned, p: drowned
+drowning <> b: drown, f: i, i: drowning, s: drownings
+drowns <> b: drown, f: '3'
+drowse <> i: drowsing, p: drowsed, '3': drowses, d: drowsed
+drowsed <> f: pd, b: drowse
+drowses <> f: '3', b: drowse
+drowsier <> b: drowsy, f: r
+drowsing <> b: drowse, f: i
+drowsy <> r: drowsier
+drub <> i: drubbing, '3': drubs, d: drubbed, p: drubbed
+drubbed <> b: drub, f: dp
+drubbing <> i: drubbing, b: drubbing, f: i
+drubs <> b: drub, f: '3'
+drudge <> s: drudges, i: drudging, p: drudged, '3': drudges, d: drudged
+drudged <> f: pd, b: drudge
+drudgeries <> b: drudgery, f: s
+drudgery <> s: drudgeries
+drudges <> f: s3, b: drudge
+drudging <> f: i, b: drudge
+drug <> s: drugs, d: drugged, p: drugged, i: drugging, '3': drugs
+drugged <> b: drug, f: dp, d: drugged, p: drugged
+drugget <> s: druggets
+druggets <> b: drugget, f: s
+druggies <> b: druggy, f: s
+drugging <> b: drug, f: i, s: druggings, i: drugging
+druggist <> s: druggists
+druggists <> b: druggist, f: s
+druggy <> s: druggies
+drugs <> f: s3, b: drug
+drugstore <> s: drugstores
+drugstores <> b: drugstore, f: s
+druid <> s: druids
+druids <> b: druid, f: s
+drum <> s: drums, p: drummed, d: drummed, i: drumming, '3': drums
+drumbeat <> s: drumbeats
+drumbeats <> b: drumbeat, f: s
+drumlin <> s: drumlins
+drumlins <> b: drumlin, f: s
+drummed <> b: drum, f: pd
+drummer <> s: drummers
+drummers <> b: drummer, f: s
+drumming <> b: drum, f: i, i: drumming, s: drummings
+Drummond <> s: drummonds
+drumroll <> s: drumrolls
+drumrolls <> b: drumroll, f: s
+drums <> b: drum, f: s3
+drumstick <> s: drumsticks
+drumsticks <> b: drumstick, f: s
+drunk <> b: drink, f: dp, d: drunk, s: drunks, r: drunker, p: drunk
+drunkard <> s: drunkards
+drunkards <> b: drunkard, f: s
+drupe <> s: drupes
+drupes <> b: drupe, f: s
+dry <> d: dried, i: drying, p: dried, '3': dries, r: drier, t: driest, s: dries
+dry-cleaner <> s: dry-cleaners
+dry-cleaners <> b: dry-cleaner, f: s
+dryad <> s: dryads
+dryads <> b: dryad, f: s
+dryer <> s: dryers
+dryers <> b: dryer, f: s
+drying <> b: dry, f: i, i: drying
+dryland <> s: drylands
+drylands <> b: dryland, f: s
+drysuit <> s: drysuits
+drysuits <> b: drysuit, f: s
+DSC <> s: dscs
+DTI <> s: dti, b: dti, f: s
+dual <> s: duals
+dualism <> s: dualisms
+dualisms <> b: dualism, f: s
+dualist <> s: dualists
+dualists <> b: dualist, f: s
+dualities <> b: duality, f: s
+duality <> s: dualities
+duals <> b: dual, f: s
+dub <> d: dubbed, p: dubbed, i: dubbing, '3': dubs, s: dubs
+dubbed <> b: dub, f: dp
+dubbing <> b: dub, f: i, s: dubbings, i: dubbing
+dubliner <> s: dubliners
+dubliners <> b: dubliner, f: s
+dubs <> b: dub, f: 3s
+duc <> s: ducs
+ducat <> s: ducats
+ducats <> b: ducat, f: s
+duchess <> s: duchesses
+duchesses <> b: duchess, f: s
+duchies <> b: duchy, f: s
+duchy <> s: duchies
+duck <> s: ducks, p: ducked, i: ducking, d: ducked, '3': ducks
+duckbill <> s: duckbills
+duckbills <> b: duckbill, f: s
+duckboard <> s: duckboards, i: duckboarding
+duckboarding <> b: duckboard, f: i
+duckboards <> b: duckboard, f: s
+ducked <> b: duck, f: pd
+ducker <> i: duckering
+duckering <> b: ducker, f: i
+duckies <> b: ducky, f: s
+ducking <> b: duck, f: i, i: ducking, s: duckings
+duckling <> s: ducklings
+ducklings <> b: duckling, f: s
+ducks <> f: s3, b: duck
+ducky <> s: duckies
+ducs <> b: duc, f: s
+duct <> s: ducts, i: ducting, d: ducted, p: ducted
+ducted <> b: duct, f: dp
+ducting <> b: duct, f: i, i: ducting
+ducts <> b: duct, f: s
+ductule <> s: ductules
+ductules <> b: ductule, f: s
+dud <> s: duds, i: dudding
+dudding <> b: dud, f: i
+dude <> s: dudes, p: duded
+duded <> b: dude, f: p
+dudes <> b: dude, f: s
+dudgeon <> s: dudgeons
+dudgeons <> b: dudgeon, f: s
+dudley <> s: dudleys
+dudleys <> b: dudley, f: s
+duds <> b: dud, f: s
+duel <> s: duels, '3': duels, i: duelling, p: duelled, d: duelled
+duell <> i: duelling, p: duelled
+duelled <> b: duell, f: p
+duelling <> b: duell, f: i, i: duelling
+duellist <> s: duellists
+duellists <> b: duellist, f: s
+duels <> b: duel, f: s3
+dues <> s: dues, b: dues, f: s
+duet <> s: duets, i: duetting, p: duetted
+duets <> b: duet, f: s
+duetted <> b: duet, f: p
+duetting <> b: duet, f: i, i: duetting
+duettist <> s: duettists
+duettists <> b: duettist, f: s
+duff <> d: duffed, p: duffed, s: duffs
+duffed <> b: duff, f: dp
+duffer <> s: duffers
+duffers <> b: duffer, f: s
+duffle <> s: duffles
+duffles <> b: duffle, f: s
+duffs <> b: duff, f: s
+dug <> b: dig, f: pd, s: dugs
+dugong <> s: dugongs
+dugongs <> b: dugong, f: s
+dugout <> s: dugouts
+dugouts <> b: dugout, f: s
+duiker <> s: duikers
+duikers <> b: duiker, f: s
+duke <> s: dukes
+dukedom <> s: dukedoms
+dukedoms <> b: dukedom, f: s
+dukes <> b: duke, f: s
+dulcified <> f: pd, b: dulcify
+dulcifies <> f: '3', b: dulcify
+dulcify <> i: dulcifying, p: dulcified, '3': dulcifies, d: dulcified
+dulcifying <> f: i, b: dulcify
+dulcimer <> s: dulcimers
+dulcimers <> b: dulcimer, f: s
+dull <> r: duller, p: dulled, d: dulled, t: dullest, i: dulling, '3': dulls
+dullard <> s: dullards
+dullards <> b: dullard, f: s
+dulled <> b: dull, f: pd, p: dulled
+duller <> b: dull, f: r
+dullest <> b: dull, f: t
+dulling <> b: dull, f: i
+dulls <> b: dull, f: '3'
+dum-dum <> s: dum-dums
+dum-dums <> b: dum-dum, f: s
+Duma <> s: dumas
+dumas <> b: duma, f: s
+dumb <> i: dumbing, t: dumbest, p: dumbed, r: dumber
+dumb-bell <> s: dumb-bells
+dumb-bells <> b: dumb-bell, f: s
+dumbbell <> s: dumbbells
+dumbbells <> b: dumbbell, f: s
+dumbed <> b: dumb, f: p
+dumber <> b: dumb, f: r
+dumbest <> b: dumb, f: t
+dumbfound <> p: dumbfounded, d: dumbfounded, i: dumbfounding, '3': dumbfounds
+dumbfounded <> b: dumbfound, f: pd, p: dumbfounded, d: dumbfounded
+dumbing <> b: dumb, f: i
+dumbo <> s: dumbos
+dumbos <> b: dumbo, f: s
+dumbshow <> s: dumbshows
+dumbshows <> b: dumbshow, f: s
+dummied <> b: dummy, f: pd
+dummies <> f: s3, b: dummy
+dummy <> s: dummies, p: dummied, d: dummied, i: dummying, '3': dummies
+dummying <> b: dummy, f: i
+dump <> d: dumped, p: dumped, i: dumping, s: dumps, '3': dumps
+dumped <> b: dump, f: dp, p: dumped, d: dumped
+dumper <> s: dumpers
+dumpers <> b: dumper, f: s
+dumpier <> b: dumpy, f: r
+dumping <> b: dump, f: i, i: dumping
+dumpling <> s: dumplings
+dumplings <> b: dumpling, f: s
+dumps <> b: dump, f: s3
+dumpster <> s: dumpsters
+dumpsters <> b: dumpster, f: s
+dumpy <> r: dumpier
+dun <> s: duns, d: dunned, i: dunning, p: dunned, '3': duns
+dunce <> s: dunces
+dunces <> b: dunce, f: s
+dunderhead <> s: dunderheads
+dunderheads <> b: dunderhead, f: s
+dune <> s: dunes
+dunes <> b: dune, f: s
+dung <> i: dunging, p: dunged, '3': dungs, d: dunged
+dungaree <> s: dungarees
+dungarees <> b: dungaree, f: s
+dunged <> b: dunge, f: dp
+dungeon <> s: dungeons
+dungeons <> b: dungeon, f: s
+dunghill <> s: dunghills
+dunghills <> b: dunghill, f: s
+dunging <> b: dung, f: i
+dungs <> f: '3', b: dung
+dunite <> s: dunites
+dunites <> b: dunite, f: s
+dunk <> p: dunked, i: dunking, d: dunked, '3': dunks, s: dunks
+dunked <> b: dunk, f: pd, d: dunked
+dunking <> b: dunk, f: i, s: dunkings
+dunks <> b: dunk, f: 3s
+dunlin <> s: dunlins
+dunlins <> b: dunlin, f: s
+dunned <> f: dp, b: dun
+Dunning <> f: i, b: dun
+dunnock <> s: dunnocks
+dunnocks <> b: dunnock, f: s
+Duns <> f: s3, b: dun
+dunt <> s: dunts
+dunts <> b: dunt, f: s
+duo <> s: duos
+duopolies <> b: duopoly, f: s
+duopoly <> s: duopolies
+duos <> b: duo, f: s
+dupe <> d: duped, s: dupes, p: duped, i: duping, '3': dupes
+duped <> b: dupe, f: dp, d: duped, p: duped
+dupes <> b: dupe, f: s3
+duping <> b: dupe, f: i
+dupion <> s: dupions
+dupions <> b: dupion, f: s
+duplex <> s: duplexes, i: duplexing, p: duplexed
+duplexed <> b: duplex, f: p
+duplexes <> b: duplex, f: s
+duplexing <> b: duplex, f: i
+duplicate <> d: duplicated, s: duplicates, i: duplicating, p: duplicated, '3': duplicates
+duplicated <> b: duplicate, f: dp, p: duplicated, d: duplicated
+duplicates <> b: duplicate, f: s3
+duplicating <> b: duplicate, f: i, i: duplicating
+duplication <> s: duplications
+duplications <> b: duplication, f: s
+duplicator <> s: duplicators
+duplicators <> b: duplicator, f: s
+duplicities <> b: duplicity, f: s
+duplicity <> s: duplicities
+duppies <> b: duppy, f: s
+duppy <> s: duppies
+dur <> '3': durs
+dura <> s: duras
+durabilities <> b: durability, f: s
+durability <> s: durabilities
+durable <> s: durables, '3': durables
+durables <> b: durable, f: s3
+Duran <> s: durans
+durance <> s: durances
+durances <> b: durance, f: s
+duras <> b: dura, f: s
+duration <> s: durations
+durations <> b: duration, f: s
+durbar <> s: durbars
+durbars <> b: durbar, f: s
+duress <> s: duresses
+duresses <> b: duress, f: s
+durian <> s: durians
+durians <> b: durian, f: s
+durn <> i: durning
+durning <> b: durn, f: i
+durs <> b: dur, f: '3'
+dusk <> s: dusks, i: dusking, p: dusked, '3': dusks, d: dusked
+dusked <> f: pd, b: dusk
+duskier <> b: dusky, f: r
+dusking <> b: dusk, f: i
+dusks <> f: s3, b: dusk
+dusky <> r: duskier
+dust <> i: dusting, p: dusted, d: dusted, s: dusts, '3': dusts
+dustbin <> s: dustbins
+dustbins <> b: dustbin, f: s
+dustcart <> s: dustcarts
+dustcarts <> b: dustcart, f: s
+dusted <> b: dust, f: pd
+duster <> s: dusters
+dusters <> b: duster, f: s
+dustheap <> s: dustheaps
+dustheaps <> b: dustheap, f: s
+dustier <> b: dusty, f: r
+dusting <> b: dust, f: i, i: dusting, s: dustings
+dustman <> s: dustmen
+dustmen <> b: dustman, f: s
+dustpan <> s: dustpans
+dustpans <> b: dustpan, f: s
+dusts <> b: dust, f: s3
+dustsheet <> s: dustsheets
+dustsheets <> b: dustsheet, f: s
+dusty <> r: dustier
+Dutchman <> s: dutchmen
+dutchmen <> b: dutchman, f: s
+duties <> b: duty, f: s
+duty <> s: duties
+duty-free <> '3': duty-frees
+duty-frees <> b: duty-free, f: '3'
+Duvalier <> b: duvaly, f: r
+duvet <> s: duvets
+duvets <> b: duvet, f: s
+dwarf <> s: dwarfs, d: dwarfed, p: dwarfed, '3': dwarfs, i: dwarfing
+dwarfed <> b: dwarf, f: dp, p: dwarfed
+dwarfing <> b: dwarf, f: i
+dwarfs <> b: dwarf, f: s3
+dweeb <> s: dweebs
+dweebs <> b: dweeb, f: s
+dwell <> d: dwelt, '3': dwells, p: dwelt, i: dwelling
+dweller <> s: dwellers
+dwellers <> b: dweller, f: s
+dwelling <> s: dwellings, i: dwelling, b: dwelling, f: i
+dwells <> b: dwell, f: '3'
+dwelt <> b: dwell, f: dp
+dwindle <> p: dwindled, d: dwindled, i: dwindling, s: dwindles, '3': dwindles
+dwindled <> b: dwindle, f: pd
+dwindles <> b: dwindle, f: s3
+dwindling <> b: dwindle, f: i, i: dwindling
+Dworkin <> s: dworkins
+Dy <> s: dys
+dyad <> s: dyads
+dyads <> b: dyad, f: s
+Dyak <> s: dyaks
+dyaks <> b: dyak, f: s
+dybbuk <> s: dybbuks, i: dybbukking
+dybbukking <> b: dybbuk, f: i
+dybbuks <> b: dybbuk, f: s
+dye <> s: dyes, d: dyed, i: dyeing, p: dyed, '3': dyes
+dyed <> b: dye, f: dp, d: dyed, p: dyed
+dyeing <> b: dye, f: i, i: dyeing, s: dyeings
+dyer <> s: dyers
+dyers <> b: dyer, f: s
+dyes <> b: dye, f: s3
+dyestuff <> s: dyestuffs
+dyestuffs <> b: dyestuff, f: s
+dying <> b: die, f: i, i: dying
+dyke <> s: dykes, i: dyking, p: dyked, '3': dykes, d: dyked
+dyked <> b: dyk, f: p
+dykes <> f: s3, b: dyke
+dyking <> b: dyk, f: i
+dyn <> s: dyns
+dynamite <> i: dynamiting, p: dynamited, '3': dynamites, d: dynamited
+dynamited <> b: dynamit, f: dp
+dynamites <> f: '3', b: dynamite
+dynamiting <> b: dynamit, f: i
+dynamize <> d: dynamized
+dynamized <> b: dynamize, f: d
+dynamo <> s: dynamos
+dynamometer <> s: dynamometers
+dynamometers <> b: dynamometer, f: s
+dynamos <> b: dynamo, f: s
+dynast <> s: dynasts
+dynasties <> b: dynasty, f: s
+dynasts <> b: dynast, f: s
+dynasty <> s: dynasties
+dyne <> s: dynes
+dynes <> b: dyne, f: s
+dyns <> b: dyn, f: s
+dys <> b: dy, f: s
+dysfunction <> s: dysfunctions
+dysfunctions <> b: dysfunction, f: s
+dysgraphia <> s: dysgraphias
+dysgraphias <> b: dysgraphia, f: s
+dyskinesia <> s: dyskinesias
+dyskinesias <> b: dyskinesia, f: s
+dyslexia <> s: dyslexias
+dyslexias <> b: dyslexia, f: s
+dyslexic <> s: dyslexics
+dyslexics <> b: dyslexic, f: s
+Dyson <> s: dysons
+dysplasia <> s: dysplasias
+dysplasias <> b: dysplasia, f: s
+dysrhythmia <> s: dysrhythmias
+dysrhythmias <> b: dysrhythmia, f: s
+dystopia <> s: dystopias
+dystopias <> b: dystopia, f: s
+dystrophies <> b: dystrophy, f: s
+dystrophin <> s: dystrophins
+dystrophins <> b: dystrophin, f: s
+dystrophy <> s: dystrophies
+dzo <> s: dzos
+dzos <> b: dzo, f: s

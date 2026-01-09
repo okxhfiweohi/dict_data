@@ -1,0 +1,1907 @@
+W <> s: ws
+wabi <> s: wabi, b: wabi, f: s
+wack <> d: wacked, i: wacking
+wacked <> b: wack, f: d
+wackier <> b: wacky, f: r
+wackiest <> b: wacky, f: t
+wacking <> b: wack, f: i
+wacky <> t: wackiest, r: wackier
+wad <> s: wads, p: wadded, d: wadded, '3': wads, i: wadding
+wadded <> b: wad, f: pd, p: wadded
+wadding <> f: i, b: wad, s: waddings
+Waddington <> s: waddingtons
+waddle <> p: waddled, i: waddling, '3': waddles, d: waddled, s: waddles
+waddled <> b: waddle, f: pd
+waddles <> b: waddle, f: 3s
+waddling <> b: waddle, f: i
+wade <> p: waded, i: wading, d: waded, '3': wades
+waded <> b: wade, f: pd
+wader <> s: waders
+waders <> b: wader, f: s
+wades <> b: wade, f: '3'
+wadi <> s: wadis
+wading <> b: wade, f: i, i: wading
+wadis <> b: wadi, f: s
+wads <> b: wad, f: s3
+wafer <> s: wafers
+wafers <> b: wafer, f: s
+waffle <> i: waffling, s: waffles, '3': waffles, p: waffled, d: waffled
+waffled <> b: waffle, f: pd
+waffler <> s: wafflers
+wafflers <> b: waffler, f: s
+waffles <> b: waffle, f: s3
+waffling <> b: waffle, f: i, i: waffling
+waft <> p: wafted, i: wafting, '3': wafts, d: wafted, s: wafts
+wafted <> b: waft, f: pd
+wafting <> b: waft, f: i
+wafts <> b: waft, f: 3s
+wag <> i: wagging, p: wagged, s: wags, '3': wags, d: wagged
+wage <> s: wages, d: waged, i: waging, p: waged, '3': wages
+wage-earner <> s: wage-earners
+wage-earners <> b: wage-earner, f: s
+wage-packet <> s: wage-packets
+wage-packets <> b: wage-packet, f: s
+waged <> b: wage, f: dp, d: waged
+wager <> s: wagers, d: wagered, p: wagered, '3': wagers, i: wagering
+wagered <> b: wager, f: dp
+wagering <> b: wager, f: i
+wagers <> b: wager, f: s3
+wages <> f: s3, b: wage
+wagged <> b: wag, f: pd
+wagging <> b: wag, f: i, s: waggings, i: wagging
+waggle <> p: waggled, i: waggling, '3': waggles, s: waggles, d: waggled
+waggled <> f: pd, b: waggle, p: waggled
+waggles <> b: waggle, f: 3s
+waggling <> b: waggle, f: i
+waggon <> s: waggons, i: waggoning, p: waggoned
+waggoned <> b: waggon, f: p
+waggoning <> b: waggon, f: i
+waggons <> b: waggon, f: s
+waging <> b: wage, f: i
+wagon <> s: wagons
+wagon-lit <> s: wagon-lits
+wagon-lits <> b: wagon-lit, f: s
+wagoner <> s: wagoners
+wagoners <> b: wagoner, f: s
+wagonette <> s: wagonettes
+wagonettes <> b: wagonette, f: s
+wagonload <> s: wagonloads
+wagonloads <> b: wagonload, f: s
+wagons <> b: wagon, f: s
+wags <> b: wag, f: s3
+wagtail <> s: wagtails, '3': wagtails
+wagtails <> b: wagtail, f: s3
+wah <> s: wahs
+wahs <> b: wah, f: s
+waif <> s: waifs
+waifs <> b: waif, f: s
+wail <> p: wailed, i: wailing, s: wails, '3': wails, d: wailed
+wailed <> b: wail, f: pd
+wailer <> s: wailers
+wailers <> b: wailer, f: s
+wailing <> b: wail, f: i, i: wailing, s: wailings
+wails <> b: wail, f: s3
+wain <> p: wained, s: wains
+wained <> b: wain, f: p
+wains <> b: wain, f: s
+wainscot <> d: wainscotted, i: wainscotting, p: wainscotted, s: wainscots, '3': wainscots
+wainscoting <> i: wainscoting, b: wainscoting, f: i
+wainscots <> b: wainscot, f: s
+wainscotted <> b: wainscot, f: dp, p: wainscotted
+wainscotting <> b: wainscot, f: i
+waist <> s: waists, p: waisted
+waistband <> s: waistbands
+waistbands <> b: waistband, f: s
+waistcoat <> s: waistcoats
+waistcoats <> b: waistcoat, f: s
+waisted <> b: waist, f: p
+waistline <> s: waistlines
+waistlines <> b: waistline, f: s
+waists <> b: waist, f: s
+wait <> i: waiting, p: waited, d: waited, '3': waits, s: waits
+waited <> b: wait, f: pd, d: waited, p: waited
+waiter <> s: waiters
+waiters <> b: waiter, f: s
+waiting <> b: wait, f: i, i: waiting, s: waitings
+waitress <> s: waitresses, i: waitressing, d: waitressed, '3': waitresses, p: waitressed
+waitressed <> b: waitress, f: dp
+waitresses <> b: waitress, f: s3
+waitressing <> b: waitress, f: i
+waits <> b: wait, f: 3s
+waive <> d: waived, i: waiving, p: waived, '3': waives
+waived <> b: waive, f: dp
+waiver <> s: waivers, p: waivered
+waivered <> b: waiver, f: p
+waivers <> b: waiver, f: s
+waives <> b: waive, f: '3'
+waiving <> b: waive, f: i
+wake <> p: woke, d: woken, i: waking, '3': wakes, s: wakes
+waken <> d: wakened, p: wakened, i: wakening, '3': wakens
+wakened <> b: waken, f: dp
+wakening <> b: waken, f: i, s: wakenings, i: wakening
+wakens <> b: waken, f: '3'
+wakes <> b: wake, f: 3s
+waking <> b: wake, f: i, i: waking, s: wakings
+Waldenses <> b: waldense, f: s
+Waldensian <> s: waldensians
+Waldron <> s: waldrons
+wale <> s: wales, i: waling, p: waled
+Wales <> b: wale, f: s
+wali <> s: wali, b: wali, f: s
+walk <> p: walked, i: walking, s: walks, d: walked, '3': walks
+walk-in <> s: walk-ins
+walk-ins <> b: walk-in, f: s
+walk-on <> s: walk-ons
+walk-ons <> b: walk-on, f: s
+walkabout <> s: walkabouts
+walkabouts <> b: walkabout, f: s
+walked <> b: walk, f: pd
+walker <> s: walkers
+walkers <> b: walker, f: s
+walkies <> b: walky, f: s
+walking <> b: walk, f: i, i: walking
+walkman <> s: walkmans
+walkout <> s: walkouts
+walkouts <> b: walkout, f: s
+walkover <> s: walkovers
+walkovers <> b: walkover, f: s
+walks <> b: walk, f: s3
+walkthrough <> s: walkthroughs
+walkthroughs <> b: walkthrough, f: s
+walkway <> s: walkways, p: walkwayed
+walkwayed <> b: walkway, f: p
+walkways <> b: walkway, f: s
+wall <> s: walls, d: walled, i: walling, p: walled, '3': walls
+walla <> s: wallas
+wallabies <> b: wallaby, f: s
+wallaby <> s: wallabies
+wallah <> s: wallahs
+wallahs <> b: wallah, f: s
+wallas <> b: walla, f: s
+wallchart <> s: wallcharts
+wallcharts <> b: wallchart, f: s
+wallcovering <> s: wallcoverings, i: wallcovering, b: wallcovering, f: i
+wallcoverings <> b: wallcovering, f: s
+walled <> f: dp, b: wall, d: walled, p: walled
+wallet <> s: wallets
+wallets <> b: wallet, f: s
+wallflower <> s: wallflowers
+wallflowers <> b: wallflower, f: s
+wallies <> b: wally, f: s
+walling <> f: i, b: wall
+walloon <> s: walloons
+walloons <> b: walloon, f: s
+wallop <> i: walloping, p: walloped, '3': wallops, d: walloped
+walloped <> b: wallope, f: pd
+walloping <> b: wallope, f: i
+wallops <> f: '3', b: wallop
+wallow <> i: wallowing, p: wallowed, s: wallows, '3': wallows, d: wallowed
+wallowed <> b: wallow, f: pd
+wallowing <> b: wallow, f: i, s: wallowings, i: wallowing
+wallows <> b: wallow, f: s3
+wallpaper <> s: wallpapers, i: wallpapering, d: wallpapered, p: wallpapered, '3': wallpapers
+wallpapered <> b: wallpaper, f: dp
+wallpapering <> b: wallpaper, f: i, i: wallpapering
+wallpapers <> f: s3, b: wallpaper
+walls <> f: s3, b: wall
+wallwasher <> s: wallwashers
+wallwashers <> b: wallwasher, f: s
+wally <> s: wallies
+walnut <> s: walnuts
+walnuts <> b: walnut, f: s
+waltz <> i: waltzing, p: waltzed, '3': waltzes, d: waltzed
+waltzed <> b: waltze, f: pd
+waltzer <> s: waltzers
+waltzers <> b: waltzer, f: s
+waltzes <> b: waltze, f: s3
+waltzing <> b: waltze, f: i
+wan <> '3': wans, i: wanning, p: wanned, d: wanned
+wand <> s: wands
+wander <> i: wandering, p: wandered, d: wandered, '3': wanders
+wandered <> b: wander, f: pd
+wanderer <> s: wanderers, b: wandere, f: r
+wanderers <> b: wanderer, f: s
+wandering <> b: wander, f: i, s: wanderings, i: wandering
+wanderings <> b: wandering, f: s
+wanders <> b: wander, f: '3'
+wands <> b: wand, f: s
+wane <> p: waned, i: waning, d: waned, s: wanes, '3': wanes
+waned <> b: wane, f: pd
+wanes <> b: wane, f: s3
+wang <> i: wanging
+wanging <> b: wang, f: i
+wangle <> d: wangled, p: wangled, i: wangling, '3': wangles
+wangled <> b: wangle, f: dp
+wangles <> f: '3', b: wangle
+wangling <> b: wangle, f: i
+waning <> b: wane, f: i, i: waning
+wank <> i: wanking, p: wanked, s: wanks, d: wanked, '3': wanks
+wanked <> b: wank, f: pd
+wanker <> s: wankers
+wankers <> b: wanker, f: s
+wanking <> b: wank, f: i, i: wanking
+wanks <> f: s3, b: wank
+wannabe <> s: wannabes, '3': wannabes
+wannabes <> b: wannabe, f: s3
+wanned <> f: pd, b: wan
+wanning <> f: i, b: wan
+wans <> b: wan, f: '3'
+want <> p: wanted, '3': wants, d: wanted, i: wanting
+wanted <> b: want, f: pd, d: wanted, p: wanted
+wanting <> b: want, f: i, i: wanting
+wanton <> s: wantons, i: wantoning, p: wantoned, '3': wantons, d: wantoned
+wantoned <> f: pd, b: wanton
+wantoning <> b: wanton, f: i
+wantons <> f: s3, b: wanton
+wants <> b: want, f: '3'
+wapentake <> s: wapentakes
+wapentakes <> b: wapentake, f: s
+wapiti <> s: wapiti, b: wapiti, f: s
+war <> s: wars, i: warring, p: warred, '3': wars, d: warred
+warbird <> s: warbirds
+warbirds <> b: warbird, f: s
+warble <> p: warbled, i: warbling, '3': warbles, d: warbled, s: warbles
+warbled <> b: warble, f: pd
+warbler <> s: warblers
+warblers <> b: warbler, f: s
+warbles <> b: warble, f: 3s
+warbling <> b: warble, f: i, s: warblings
+ward <> s: wards, i: warding, d: warded, p: warded, '3': wards
+warded <> b: ward, f: dp
+warden <> s: wardens, i: wardening
+wardening <> b: warden, f: i, i: wardening
+wardens <> b: warden, f: s
+wardenship <> s: wardenships
+wardenships <> b: wardenship, f: s
+warder <> s: warders
+warders <> b: warder, f: s
+warding <> b: ward, f: i
+wardrobe <> s: wardrobes
+wardrobes <> b: wardrobe, f: s
+wardroom <> s: wardrooms
+wardrooms <> b: wardroom, f: s
+wards <> f: s3, b: ward
+wardship <> s: wardships
+wardships <> b: wardship, f: s
+ware <> s: wares, i: waring, p: wared, '3': wares, d: wared
+wared <> f: pd, b: ware
+warehouse <> s: warehouses, p: warehoused, i: warehousing, '3': warehouses, d: warehoused
+warehoused <> f: pd, b: warehouse
+warehouseman <> s: warehousemen
+warehousemen <> b: warehouseman, f: s
+warehouses <> f: s3, b: warehouse
+warehousing <> f: i, b: warehouse
+wares <> f: s3, b: ware
+warhead <> s: warheads
+warheads <> b: warhead, f: s
+warhorse <> s: warhorses, '3': warhorses
+warhorses <> b: warhorse, f: s3
+warier <> b: wary, f: r
+Waring <> b: ware, f: i
+warlock <> s: warlocks
+warlocks <> b: warlock, f: s
+warlord <> s: warlords
+warlords <> b: warlord, f: s
+warm <> r: warmer, i: warming, d: warmed, p: warmed, t: warmest, '3': warms
+warm-up <> s: warm-ups
+warm-ups <> b: warm-up, f: s
+warmed <> b: warm, f: dp, p: warmed, d: warmed
+warmer <> b: warm, f: r, s: warmers
+warmest <> b: warm, f: t
+warming <> b: warm, f: i, i: warming
+warmonger <> s: warmongers, i: warmongering
+warmongering <> b: warmonger, f: i, i: warmongering
+warmongers <> b: warmonger, f: s
+warms <> b: warm, f: '3'
+warn <> p: warned, d: warned, '3': warns, i: warning
+warned <> b: warn, f: pd
+warning <> b: warn, f: i, s: warnings, i: warning
+warns <> b: warn, f: '3'
+warp <> d: warped, i: warping, '3': warps, s: warps, p: warped
+warped <> b: warp, f: dp, d: warped
+warping <> b: warp, f: i, i: warping
+warplane <> s: warplanes
+warplanes <> b: warplane, f: s
+warps <> b: warp, f: 3s
+warrant <> s: warrants, '3': warrants, d: warranted, p: warranted, i: warranting
+warranted <> b: warrant, f: dp, p: warranted, d: warranted
+warranties <> b: warranty, f: s
+warranting <> b: warrant, f: i
+warrantor <> s: warrantors
+warrantors <> b: warrantor, f: s
+warrants <> b: warrant, f: s3
+warranty <> s: warranties
+warren <> s: warrens
+warrener <> s: warreners
+warreners <> b: warrener, f: s
+warrens <> b: warren, f: s
+warring <> i: warring, b: warring, f: i, s: warrings
+warrior <> s: warriors
+warriors <> b: warrior, f: s
+wars <> b: war, f: s
+warship <> s: warships
+warships <> b: warship, f: s
+wart <> s: warts, p: warted
+warted <> b: wart, f: p
+warthog <> s: warthogs
+warthogs <> b: warthog, f: s
+warties <> b: warty, f: s
+warts <> b: wart, f: s
+warty <> s: warties
+wary <> r: warier
+wasabi <> s: wasabi, b: wasabi, f: s
+wash <> d: washed, i: washing, p: washed, s: washes, '3': washes
+washbag <> s: washbags
+washbags <> b: washbag, f: s
+washbasin <> s: washbasins
+washbasins <> b: washbasin, f: s
+washday <> s: washdays
+washdays <> b: washday, f: s
+washed <> b: wash, f: dp, d: washed, p: washed
+washer <> s: washers
+washer-up <> s: washers-up
+washeries <> b: washery, f: s
+washerman <> s: washermen
+washermen <> b: washerman, f: s
+washers <> b: washer, f: s
+washers-up <> b: washer-up, f: s
+washerwoman <> s: washerwomen
+washerwomen <> b: washerwoman, f: s
+washery <> s: washeries
+washes <> b: wash, f: s3
+washier <> b: washy, f: r
+washing <> b: wash, f: i, i: washing, s: washings
+Washingtonian <> s: washingtonians
+washland <> s: washlands
+washlands <> b: washland, f: s
+washout <> s: washouts
+washouts <> b: washout, f: s
+washroom <> s: washrooms
+washrooms <> b: washroom, f: s
+washstand <> s: washstands
+washstands <> b: washstand, f: s
+washtub <> s: washtubs
+washtubs <> b: washtub, f: s
+washy <> r: washier
+wassail <> i: wassailing, p: wassailed, '3': wassails, d: wassailed
+wassailed <> f: pd, b: wassail
+wassailer <> s: wassailers
+wassailers <> b: wassailer, f: s
+wassailing <> b: wassail, f: i
+wassails <> f: '3', b: wassail
+wastage <> s: wastages
+wastages <> b: wastage, f: s
+waste <> i: wasting, d: wasted, s: wastes, p: wasted, '3': wastes
+wasted <> b: waste, f: dp, d: wasted, p: wasted
+wasteland <> s: wastelands
+wastelands <> b: wasteland, f: s
+waster <> s: wasters
+wasters <> b: waster, f: s
+wastes <> b: waste, f: s3
+wastewater <> b: wastewate, f: r
+wasting <> b: waste, f: i, i: wasting
+wastrel <> s: wastrels
+wastrels <> b: wastrel, f: s
+wat <> r: watter
+watch <> i: watching, p: watched, d: watched, '3': watches, s: watches
+watchdog <> s: watchdogs
+watchdogs <> b: watchdog, f: s
+watched <> b: watch, f: pd
+watcher <> s: watchers
+watchers <> b: watcher, f: s
+watches <> b: watch, f: 3s
+watchfulness <> s: watchfulnesses
+watchfulnesses <> b: watchfulness, f: s
+watching <> b: watch, f: i, i: watching
+watchkeeper <> s: watchkeepers
+watchkeepers <> b: watchkeeper, f: s
+watchmaker <> s: watchmakers
+watchmakers <> b: watchmaker, f: s
+watchmaking <> b: watchmake, f: i
+watchman <> s: watchmen
+watchmen <> b: watchman, f: s
+watchstrap <> s: watchstraps
+watchstraps <> b: watchstrap, f: s
+watchtower <> s: watchtowers
+watchtowers <> b: watchtower, f: s
+watchword <> s: watchwords
+watchwords <> b: watchword, f: s
+water <> s: waters, d: watered, i: watering, '3': waters, p: watered
+waterbed <> p: waterbed, b: waterbed, f: p
+waterbird <> s: waterbirds
+waterbirds <> b: waterbird, f: s
+waterborne <> d: waterborne, b: waterborne, f: d
+watercolour <> s: watercolours
+watercolourist <> s: watercolourists
+watercolourists <> b: watercolourist, f: s
+watercolours <> b: watercolour, f: s
+watercourse <> s: watercourses
+watercourses <> b: watercourse, f: s
+watered <> b: water, f: dp, d: watered, p: watered
+waterer <> s: waterers
+waterers <> b: waterer, f: s
+waterfall <> s: waterfalls
+waterfalls <> b: waterfall, f: s
+waterhole <> s: waterholes
+waterholes <> b: waterhole, f: s
+watering <> b: water, f: i, i: watering, s: waterings
+waterlilies <> b: waterlily, f: s
+waterlily <> s: waterlilies
+waterlog <> i: waterlogging, d: waterlogged
+waterlogged <> d: waterlogged, b: waterlogged, f: d
+waterlogging <> b: waterlog, f: i, i: waterlogging
+waterman <> s: watermen
+watermark <> s: watermarks, d: watermarked, i: watermarking
+watermarked <> b: watermark, f: d, d: watermarked
+watermarking <> b: watermark, f: i
+watermarks <> b: watermark, f: s
+watermelon <> s: watermelons
+watermelons <> b: watermelon, f: s
+watermen <> b: waterman, f: s
+watermill <> s: watermills, '3': watermills
+watermills <> b: watermill, f: s3
+waterproof <> s: waterproofs, d: waterproofed, i: waterproofing, p: waterproofed, '3': waterproofs
+waterproofed <> f: dp, b: waterproof, d: waterproofed
+waterproofer <> s: waterproofers
+waterproofers <> b: waterproofer, f: s
+waterproofing <> b: waterproof, f: i
+waterproofs <> f: s3, b: waterproof
+waters <> b: water, f: s3
+waterscape <> i: waterscaping
+waterscaping <> b: waterscape, f: i
+watershed <> s: watersheds
+watersheds <> b: watershed, f: s
+waterside <> s: watersides
+watersides <> b: waterside, f: s
+waterski <> i: waterskiing, s: waterski, b: waterski, f: s
+waterskiing <> b: waterski, f: i, i: waterskiing
+waterspout <> s: waterspouts
+waterspouts <> b: waterspout, f: s
+Waterstone <> s: waterstones
+waterway <> s: waterways
+waterways <> b: waterway, f: s
+waterwheel <> s: waterwheels
+waterwheels <> b: waterwheel, f: s
+waterwings <> b: waterwing, f: s
+Watkin <> s: watkins
+watkins <> b: watkin, f: s
+watney <> s: watneys
+watneys <> b: watney, f: s
+watt <> s: watts
+wattage <> s: wattages
+wattages <> b: wattage, f: s
+Watteau <> s: watteaus
+watter <> b: wat, f: r
+wattle <> s: wattles, i: wattling, p: wattled, '3': wattles, d: wattled
+wattled <> f: pd, b: wattle, p: wattled
+wattles <> f: s3, b: wattle
+wattling <> b: wattle, f: i
+watts <> b: watt, f: s
+waul <> i: wauling, p: wauled, '3': wauls, d: wauled
+wauled <> f: pd, b: waul
+wauling <> f: i, b: waul
+wauls <> f: '3', b: waul
+wave <> s: waves, p: waved, i: waving, d: waved, '3': waves
+waveband <> s: wavebands
+wavebands <> b: waveband, f: s
+waved <> b: wave, f: pd
+waveform <> s: waveforms
+waveforms <> b: waveform, f: s
+wavefront <> s: wavefronts
+wavefronts <> b: wavefront, f: s
+wavefunction <> s: wavefunctions
+wavefunctions <> b: wavefunction, f: s
+waveguide <> s: waveguides
+waveguides <> b: waveguide, f: s
+wavelength <> s: wavelengths
+wavelengths <> b: wavelength, f: s
+wavelet <> s: wavelets
+wavelets <> b: wavelet, f: s
+waver <> p: wavered, i: wavering, '3': wavers, d: wavered
+wavered <> b: waver, f: pd
+waverer <> s: waverers
+waverers <> b: waverer, f: s
+wavering <> b: waver, f: i, i: wavering, s: waverings
+wavers <> b: waver, f: '3'
+waves <> b: wave, f: s3
+wavier <> b: wavy, f: r
+waving <> b: wave, f: i, i: waving, s: wavings
+wavy <> r: wavier
+wax <> i: waxing, p: waxed, s: waxes, '3': waxes, d: waxed
+waxbill <> s: waxbills
+waxbills <> b: waxbill, f: s
+waxed <> b: wax, f: pd, d: waxed, p: waxed
+waxer <> s: waxers
+waxers <> b: waxer, f: s
+waxes <> b: wax, f: s3
+waxing <> b: wax, f: i, s: waxings, i: waxing
+waxwing <> s: waxwings
+waxwings <> b: waxwing, f: s
+waxwork <> s: waxworks
+waxworks <> b: waxwork, f: s
+way <> s: ways
+waybill <> s: waybills
+waybills <> b: waybill, f: s
+wayfarer <> s: wayfarers
+wayfarers <> b: wayfarer, f: s
+wayfaring <> i: wayfaring, b: wayfaring, f: i
+waylaid <> b: waylay, f: dp
+waylay <> d: waylaid, p: waylaid, i: waylaying, '3': waylays
+waylaying <> b: waylay, f: i
+waylays <> b: waylay, f: '3'
+waymark <> s: waymarks, i: waymarking
+waymarking <> b: waymark, f: i, i: waymarking
+waymarks <> b: waymark, f: s
+waypoint <> s: waypoints
+waypoints <> b: waypoint, f: s
+ways <> b: way, f: s
+wayside <> s: waysides
+waysides <> b: wayside, f: s
+wazzock <> s: wazzocks
+wazzocks <> b: wazzock, f: s
+WC <> s: wcs
+WEA <> s: weas
+weak <> r: weaker, t: weakest
+weaken <> d: weakened, i: weakening, p: weakened, '3': weakens
+weakened <> b: weaken, f: dp, d: weakened, p: weakened
+weakening <> b: weaken, f: i, i: weakening
+weakens <> b: weaken, f: '3'
+weaker <> b: weak, f: r
+weakest <> b: weak, f: t
+weakling <> s: weaklings
+weaklings <> b: weakling, f: s
+weakness <> s: weaknesses
+weaknesses <> b: weakness, f: s
+weal <> s: weals, d: wealed
+wealed <> b: weal, f: d
+weals <> b: weal, f: s
+wealthier <> b: wealthy, f: r
+wealthiest <> b: wealthy, f: t
+wealthy <> r: wealthier, t: wealthiest
+wean <> i: weaning, d: weaned, '3': weans, p: weaned
+weaned <> b: wean, f: dp, p: weaned
+weaner <> s: weaners
+weaners <> b: weaner, f: s
+weaning <> b: wean, f: i, i: weaning
+weanling <> s: weanlings, b: weanle, f: i
+weanlings <> b: weanling, f: s
+weans <> b: wean, f: '3'
+weapon <> s: weapons
+weaponize <> i: weaponizing, p: weaponized, '3': weaponizes, d: weaponized
+weapons <> b: weapon, f: s
+wear <> i: wearing, p: wore, d: worn, '3': wears
+wearer <> s: wearers
+wearers <> b: wearer, f: s
+wearied <> b: weary, f: dp, d: wearied, p: wearied
+wearier <> b: weary, f: r
+wearies <> f: s3, b: weary
+weariest <> b: weary, f: t
+weariness <> s: wearinesses
+wearinesses <> b: weariness, f: s
+wearing <> b: wear, f: i, i: wearing, s: wearings
+wears <> b: wear, f: '3'
+weary <> d: wearied, i: wearying, p: wearied, r: wearier, s: wearies, t: weariest, '3': wearies
+wearying <> b: weary, f: i, i: wearying
+weasel <> s: weasels, p: weaselled
+weaselled <> b: weasel, f: p
+weasels <> b: weasel, f: s
+weather <> d: weathered, s: weathers, p: weathered, i: weathering, '3': weathers
+weatherbeaten <> d: weatherbeaten, b: weatherbeaten, f: d
+weatherboard <> s: weatherboards, i: weatherboarding, p: weatherboarded
+weatherboarded <> b: weatherboard, f: p
+weatherboarding <> b: weatherboard, f: i
+weatherboards <> b: weatherboard, f: s
+weathercock <> i: weathercocking, s: weathercocks
+weathercocking <> b: weathercock, f: i
+weathercocks <> b: weathercock, f: s
+weathered <> b: weather, f: dp, p: weathered, d: weathered
+weathering <> b: weather, f: i, i: weathering
+weatherman <> s: weathermen
+weathermen <> b: weatherman, f: s
+weatherproof <> '3': weatherproofs, d: weatherproofed, p: weatherproofed, i: weatherproofing
+weatherproofed <> b: weatherproof, f: dp
+weatherproofing <> b: weatherproof, f: i
+weatherproofs <> b: weatherproof, f: '3'
+weathers <> f: s3, b: weather
+weathervane <> s: weathervanes
+weathervanes <> b: weathervane, f: s
+weave <> d: woven, i: weaving, p: wove, '3': weaves, s: weaves
+weaver <> s: weavers
+weavers <> b: weaver, f: s
+weaves <> b: weave, f: 3s
+weaving <> b: weave, f: i, i: weaving, s: weavings
+web <> s: webs, i: webbing, p: webbed, '3': webs, d: webbed
+webbed <> f: pd, b: web
+webbing <> f: i, b: web
+Weberian <> s: weberians
+webs <> f: s3, b: web
+wed <> d: wed, b: wed, f: dp, p: wed, '3': weds, i: wedding
+wedded <> b: wed, f: dp, d: wedded, p: wedded
+wedding <> s: weddings, i: wedding, b: wedding, f: i
+wedge <> s: wedges, d: wedged, p: wedged, i: wedging, '3': wedges
+wedged <> b: wedge, f: dp, d: wedged
+wedges <> b: wedge, f: s3
+wedging <> b: wedge, f: i
+wedlock <> s: wedlocks
+wedlocks <> b: wedlock, f: s
+Wednesday <> s: wednesdays
+Wednesdays <> b: wednesday, f: s
+weds <> b: wed, f: '3'
+wee <> d: weed, s: wees, p: weed, i: weeing, '3': wees, r: weer, t: weest
+wee-wee <> i: wee-weeing, p: wee-weed, '3': wee-wees, d: wee-weed
+wee-weed <> f: pd, b: wee-wee
+wee-weeing <> f: i, b: wee-wee
+wee-wees <> f: '3', b: wee-wee
+weed <> b: wee, f: dp, s: weeds, i: weeding, d: weeded, p: weeded, '3': weeds
+weeder <> s: weeders
+weeders <> b: weeder, f: s
+weedier <> b: weedy, f: r
+weedies <> b: weedy, f: s
+weediest <> b: weedy, f: t
+weeding <> b: weed, f: i, i: weeding
+weedkiller <> s: weedkillers
+weedkillers <> b: weedkiller, f: s
+weeds <> b: weed, f: s3
+weedy <> t: weediest, r: weedier, s: weedies
+weeing <> b: wee, f: i
+week <> s: weeks
+weekday <> s: weekdays
+weekdays <> b: weekday, f: s
+weekend <> s: weekends, i: weekending, p: weekended, '3': weekends, d: weekended
+weekended <> f: pd, b: weekend
+weekender <> s: weekenders
+weekenders <> b: weekender, f: s
+weekending <> f: i, b: weekend
+weekends <> f: s3, b: weekend
+weeklies <> b: weekly, f: s
+weekly <> s: weeklies
+weeknight <> s: weeknights
+weeknights <> b: weeknight, f: s
+weeks <> b: week, f: s
+ween <> i: weening, p: weened
+weened <> b: ween, f: p
+weenies <> b: weeny, f: s
+weeniest <> b: weeny, f: t
+weening <> b: ween, f: i
+weeny <> s: weenies, t: weeniest
+weep <> p: wept, i: weeping, d: wept, '3': weeps
+weeper <> s: weepers
+weepers <> b: weeper, f: s
+weepies <> b: weepy, f: s
+weeping <> b: weep, f: i, i: weeping, s: weepings
+weeps <> b: weep, f: '3'
+weepy <> s: weepies
+wees <> b: wee, f: s
+weevil <> s: weevils, '3': weevils
+weevils <> b: weevil, f: s3
+weft <> s: wefts
+wefts <> b: weft, f: s
+wei <> s: wei, b: wei, f: s
+weigh <> i: weighing, p: weighed, '3': weighs, d: weighed, s: weighs
+weigh-in <> s: weigh-ins
+weigh-ins <> b: weigh-in, f: s
+weighbridge <> s: weighbridges
+weighbridges <> b: weighbridge, f: s
+weighed <> b: weigh, f: pd
+weigher <> s: weighers
+weighers <> b: weigher, f: s
+weighing <> b: weigh, f: i, i: weighing, s: weighings
+weighs <> b: weigh, f: 3s
+weight <> s: weights, d: weighted, p: weighted, i: weighting, '3': weights
+weight-watcher <> s: weight-watchers
+weight-watchers <> b: weight-watcher, f: s
+weighted <> b: weight, f: dp, d: weighted, p: weighted
+weightier <> b: weighty, f: r
+weightiest <> b: weighty, f: t
+weighting <> b: weight, f: i, s: weightings, i: weighting
+weightlifter <> s: weightlifters
+weightlifters <> b: weightlifter, f: s
+weightlifting <> i: weightlifting, b: weightlifting, f: i
+weights <> b: weight, f: s3
+weighty <> r: weightier, t: weightiest
+weir <> s: weirs
+weirdo <> s: weirdos
+weirdos <> b: weirdo, f: s
+weirs <> b: weir, f: s
+weiss <> s: weisses
+weisses <> b: weiss, f: s
+welch <> p: welched
+welched <> b: welch, f: p
+welcome <> d: welcomed, p: welcomed, '3': welcomes, i: welcoming, s: welcomes
+welcomed <> b: welcome, f: dp
+welcomes <> b: welcome, f: 3s
+welcoming <> b: welcome, f: i, i: welcoming
+weld <> d: welded, p: welded, i: welding, s: welds, '3': welds
+welded <> b: weld, f: dp, d: welded, p: welded
+welder <> s: welders
+welders <> b: welder, f: s
+welding <> b: weld, f: i, i: welding
+welds <> b: weld, f: s3
+welfarist <> s: welfarists
+welfarists <> b: welfarist, f: s
+well <> s: wells, i: welling, p: welled, '3': wells, d: welled
+well-being <> i: well-being, b: well-being, f: i
+well-establish <> d: well-established, p: well-established
+well-established <> b: well-establish, f: dp
+well-informed <> b: well-inform, f: p
+well-intentioned <> d: well-intentioned, b: well-intentioned, f: dp, p: well-intentioned
+well-wisher <> s: well-wishers
+well-wishers <> b: well-wisher, f: s
+welled <> f: pd, b: well
+wellhead <> s: wellheads
+wellheads <> b: wellhead, f: s
+wellied <> b: welly, f: dp
+wellies <> b: welly, f: s
+welling <> i: welling, b: welling, f: i
+wellington <> s: wellingtons
+wellingtonia <> s: wellingtonias
+wellingtonias <> b: wellingtonia, f: s
+wellingtons <> b: wellington, f: s
+wells <> f: s3, b: well
+wellspring <> s: wellsprings, i: wellspring, b: wellspring, f: i
+wellsprings <> b: wellspring, f: s
+welly <> s: wellies, d: wellied, i: wellying, p: wellied
+wellying <> b: welly, f: i
+Welsh <> i: welshing, p: welshed, '3': welshes, d: welshed
+welshed <> f: pd, b: welsh
+welshes <> f: '3', b: welsh
+welshing <> f: i, b: welsh
+welshman <> s: welshmen
+welshmen <> b: welshman, f: s
+welt <> s: welts, p: welted, i: welting, '3': welts, d: welted
+welted <> f: pd, b: welt
+welter <> s: welters, '3': welters, i: weltering, p: weltered, d: weltered
+weltered <> f: pd, b: welter
+weltering <> b: welter, f: i
+welters <> b: welter, f: s3
+welterweight <> s: welterweights
+welterweights <> b: welterweight, f: s
+welting <> f: i, b: welt
+welts <> f: s3, b: welt
+wen <> p: wened, s: wens
+wench <> s: wenches, i: wenching, p: wenched, '3': wenches, d: wenched
+wenched <> f: pd, b: wench
+wenches <> f: s3, b: wench
+wenching <> b: wench, f: i
+wend <> i: wending, p: wended, '3': wends, d: wended
+wended <> f: pd, b: wend
+wender <> s: wenders
+wenders <> b: wender, f: s
+wending <> b: wend, f: i
+wends <> b: wend, f: '3'
+wened <> b: wen, f: p
+wens <> b: wen, f: s
+went <> b: go, f: p
+wept <> b: weep, f: pd
+wer <> s: wers
+were <> f: p, b: be
+werewolf <> s: werewolves
+werewolves <> b: werewolf, f: s
+wers <> b: wer, f: s
+Weser <> b: wese, f: r
+wesleyan <> s: wesleyans
+wesleyans <> b: wesleyan, f: s
+Wesson <> s: wessons
+wester <> i: westering, p: westered
+westered <> b: wester, f: p
+westering <> b: wester, f: i
+westerlies <> b: westerly, f: s
+westerly <> s: westerlies
+western <> s: westerns
+westerner <> s: westerners
+westerners <> b: westerner, f: s
+westernize <> p: westernized, d: westernized, i: westernizing, '3': westernizes
+westernized <> p: westernized, b: westernized, f: p
+westernizer <> s: westernizers
+westernizers <> b: westernizer, f: s
+westernizes <> f: '3', b: westernize
+westernizing <> b: westernize, f: i
+westerns <> b: western, f: s
+Westland <> s: westlands
+Westphalian <> s: westphalians
+wet <> d: wet, b: wet, f: dp, p: wet, r: wetter, i: wetting, t: wettest, s: wets, '3': wets
+wet-nurse <> s: wet-nurses
+wet-nurses <> b: wet-nurse, f: s
+wether <> '3': wethers, p: wethered
+wethered <> b: wether, f: p
+wethers <> b: wether, f: '3'
+wetland <> s: wetlands
+wetlands <> b: wetland, f: s
+wets <> b: wet, f: s3
+wetsuit <> s: wetsuits
+wetsuits <> b: wetsuit, f: s
+wetted <> b: wet, f: pd, p: wetted
+wetter <> b: wet, f: r, s: wetters
+wettest <> b: wet, f: t
+wetting <> b: wet, f: i, i: wetting, s: wettings
+wh <> p: whed
+wh-question <> s: wh-questions
+wh-questions <> b: wh-question, f: s
+wha <> s: whas
+whack <> p: whacked, '3': whacks, i: whacking, d: whacked, s: whacks
+whacked <> b: whack, f: pd, d: whacked, p: whacked
+whacking <> b: whack, f: i, i: whacking, s: whackings
+whacko <> s: whackos
+whackos <> b: whacko, f: s
+whacks <> b: whack, f: 3s
+whale <> s: whales, i: whaling, p: whaled, '3': whales, d: whaled
+whaleback <> s: whalebacks
+whalebacks <> b: whaleback, f: s
+whalebone <> s: whalebones
+whalebones <> b: whalebone, f: s
+whaled <> f: pd, b: whale
+whaler <> s: whalers
+whalers <> b: whaler, f: s
+whales <> f: s3, b: whale
+whaling <> b: whale, f: i, i: whaling
+wham <> d: whammed, p: whammed, i: whamming, '3': whams
+whammed <> b: wham, f: dp
+whammies <> b: whammy, f: s
+whamming <> f: i, b: wham
+whammy <> s: whammies
+whams <> f: '3', b: wham
+whang <> '3': whangs, s: whangs, i: whanging, p: whanged, d: whanged
+whanged <> f: pd, b: whang
+whanging <> f: i, b: whang
+whangs <> b: whang, f: 3s
+whap <> i: whaping, p: whaped, '3': whaps, d: whaped
+whaped <> f: pd, b: whap
+whaping <> f: i, b: whap
+whaps <> f: '3', b: whap
+wharf <> s: wharves, i: wharfing, p: wharfed, '3': wharfs, d: wharfed
+wharfed <> f: pd, b: wharf
+wharfing <> b: wharf, f: i
+wharfinger <> s: wharfingers
+wharfingers <> b: wharfinger, f: s
+wharfs <> f: s3, b: wharf
+wharves <> b: wharf, f: s
+whas <> b: wha, f: s
+whatnot <> s: whatnots, d: whatnotted
+whatnots <> b: whatnot, f: s
+whatnotted <> b: whatnot, f: d
+whatsit <> s: whatsits
+whatsits <> b: whatsit, f: s
+wheal <> s: wheals
+wheals <> b: wheal, f: s
+wheat <> s: wheats
+wheatear <> s: wheatears
+wheatears <> b: wheatear, f: s
+wheaten <> d: wheaten, b: wheaten, f: d
+wheatfield <> s: wheatfields
+wheatfields <> b: wheatfield, f: s
+wheats <> b: wheat, f: s
+whed <> b: wh, f: p
+wheedle <> p: wheedled, '3': wheedles, i: wheedling, d: wheedled
+wheedled <> b: wheedle, f: pd
+wheedles <> b: wheedle, f: '3'
+wheedling <> b: wheedle, f: i, i: wheedling
+wheel <> s: wheels, p: wheeled, i: wheeling, d: wheeled, '3': wheels
+wheelbarrow <> s: wheelbarrows, i: wheelbarrowing, p: wheelbarrowed, '3': wheelbarrows, d: wheelbarrowed
+wheelbarrowed <> f: pd, b: wheelbarrow
+wheelbarrowing <> b: wheelbarrow, f: i
+wheelbarrows <> f: s3, b: wheelbarrow
+wheelchair <> s: wheelchairs
+wheelchairs <> b: wheelchair, f: s
+wheeled <> b: wheel, f: pd, p: wheeled, d: wheeled
+wheeler <> s: wheelers
+wheeler-dealer <> s: wheeler-dealers
+wheeler-dealers <> b: wheeler-dealer, f: s
+wheelers <> b: wheeler, f: s
+wheelies <> b: wheely, f: s
+wheeling <> b: wheel, f: i, s: wheelings, i: wheeling
+wheels <> b: wheel, f: s3
+wheelset <> s: wheelsets
+wheelsets <> b: wheelset, f: s
+wheelwright <> s: wheelwrights
+wheelwrights <> b: wheelwright, f: s
+wheely <> s: wheelies
+wheeze <> i: wheezing, p: wheezed, s: wheezes, '3': wheezes, d: wheezed
+wheezed <> b: wheeze, f: pd
+wheezes <> b: wheeze, f: s3
+wheezier <> b: wheezy, f: r
+wheezing <> b: wheeze, f: i, i: wheezing
+wheezy <> r: wheezier
+whelk <> s: whelks
+whelks <> b: whelk, f: s
+whelm <> p: whelmed, '3': whelms, i: whelming, d: whelmed
+whelmed <> f: pd, b: whelm
+whelming <> f: i, b: whelm
+whelms <> b: whelm, f: '3'
+whelp <> d: whelped, i: whelping, '3': whelps, p: whelped, s: whelps
+whelped <> b: whelp, f: dp
+whelping <> b: whelp, f: i
+whelps <> b: whelp, f: 3s
+whereabouts <> s: whereabouts, b: whereabouts, f: s
+wherefore <> s: wherefores
+wherefores <> b: wherefore, f: s
+wherries <> b: wherry, f: s
+wherry <> s: wherries
+whet <> d: whetted, p: whetted, i: whetting, '3': whets
+whets <> b: whet, f: '3'
+whetstone <> s: whetstones
+whetstones <> b: whetstone, f: s
+whetted <> b: whet, f: dp, p: whetted
+whetting <> b: whet, f: i
+whey <> s: wheys
+wheys <> b: whey, f: s
+whicker <> p: whickered, i: whickering, '3': whickers, d: whickered
+whickered <> f: pd, b: whicker
+whickering <> b: whicker, f: i, i: whickering
+whickers <> f: '3', b: whicker
+whiff <> s: whiffs, p: whiffed, i: whiffing, '3': whiffs, d: whiffed
+whiffed <> f: pd, b: whiff
+whiffing <> f: i, b: whiff
+whiffle <> i: whiffling, p: whiffled
+whiffled <> b: whiffle, f: p
+whiffling <> b: whiffle, f: i, i: whiffling
+whiffs <> f: s3, b: whiff
+Whig <> s: whigs
+whim <> s: whims
+whimper <> p: whimpered, i: whimpering, s: whimpers, '3': whimpers, d: whimpered
+whimpered <> b: whimper, f: pd
+whimpering <> b: whimper, f: i, s: whimperings, i: whimpering
+whimpers <> b: whimper, f: s3
+whims <> b: whim, f: s
+whimsicalities <> b: whimsicality, f: s
+whimsicality <> s: whimsicalities
+whimsies <> b: whimsy, f: s
+whimsy <> s: whimsies
+whin <> s: whins
+whinchat <> s: whinchats
+whinchats <> b: whinchat, f: s
+whine <> i: whining, p: whined, s: whines, '3': whines, d: whined
+whined <> b: whine, f: pd
+whiner <> s: whiners
+whiners <> b: whiner, f: s
+whines <> b: whine, f: s3
+whing <> i: whinging, r: whinger
+whinge <> i: whingeing, p: whinged, s: whinges, d: whinged, '3': whinges
+whinged <> b: whinge, f: pd
+whingeing <> b: whinge, f: i, i: whingeing, s: whingeings
+whinger <> s: whingers, b: whing, f: r
+whingers <> b: whinger, f: s
+whinges <> b: whinge, f: s3
+whining <> b: whine, f: i, i: whining, s: whinings
+whinnied <> f: pd, b: whinny
+whinnies <> f: s3, b: whinny
+whinny <> p: whinnied, i: whinnying, s: whinnies, '3': whinnies, d: whinnied
+whinnying <> b: whinny, f: i, s: whinnyings, i: whinnying
+whins <> b: whin, f: s
+whip <> s: whips, p: whipped, i: whipping, d: whipped, '3': whips
+whip-round <> s: whip-rounds
+whip-rounds <> b: whip-round, f: s
+whipcord <> s: whipcords
+whipcords <> b: whipcord, f: s
+whiplash <> p: whiplashed, s: whiplashes, '3': whiplashes
+whiplashed <> b: whiplash, f: p
+whiplashes <> b: whiplash, f: s3
+whipped <> b: whip, f: pd, d: whipped, p: whipped
+whipper <> s: whippers
+whippers <> b: whipper, f: s
+whippersnapper <> s: whippersnappers
+whippersnappers <> b: whippersnapper, f: s
+whippet <> s: whippets
+whippets <> b: whippet, f: s
+whippier <> b: whippy, f: r
+whipping <> b: whip, f: i, s: whippings, i: whipping
+whippy <> r: whippier
+whips <> b: whip, f: s3
+whipsaw <> i: whipsawing, p: whipsawed, '3': whipsaws, d: whipsawed
+whipsawed <> f: pd, b: whipsaw
+whipsawing <> b: whipsaw, f: i
+whipsaws <> f: '3', b: whipsaw
+whiptail <> s: whiptails
+whiptails <> b: whiptail, f: s
+whir <> p: whirred, i: whirring, '3': whirs, d: whirred
+whirl <> p: whirled, i: whirling, '3': whirls, d: whirled, s: whirls
+whirled <> b: whirl, f: pd
+whirligig <> s: whirligigs
+whirligigs <> b: whirligig, f: s
+whirling <> b: whirl, f: i, i: whirling, s: whirlings
+whirlpool <> s: whirlpools, p: whirlpooled
+whirlpooled <> b: whirlpool, f: p
+whirlpools <> b: whirlpool, f: s
+whirls <> b: whirl, f: 3s
+whirlwind <> s: whirlwinds
+whirlwinds <> b: whirlwind, f: s
+whirr <> s: whirrs, i: whirring, p: whirred, '3': whirs, d: whirred
+whirred <> b: whir, f: p
+whirring <> b: whir, f: i, i: whirring, s: whirrings
+whirrs <> b: whirr, f: s
+whirs <> b: whir, f: '3'
+whisk <> d: whisked, p: whisked, i: whisking, '3': whisks, s: whisks
+whisked <> b: whisk, f: dp
+whisker <> s: whiskers
+whiskers <> b: whisker, f: s
+whiskey <> s: whiskeys
+whiskeys <> b: whiskey, f: s
+whiskies <> b: whisky, f: s
+whisking <> b: whisk, f: i, i: whisking
+whisks <> b: whisk, f: 3s
+whisky <> s: whiskies
+whisper <> p: whispered, i: whispering, s: whispers, '3': whispers, d: whispered
+whispered <> b: whisper, f: pd, p: whispered, d: whispered
+whisperer <> s: whisperers
+whisperers <> b: whisperer, f: s
+whispering <> b: whisper, f: i, s: whisperings, i: whispering
+whispers <> b: whisper, f: s3
+whistle <> p: whistled, i: whistling, s: whistles, '3': whistles, d: whistled
+whistle-blower <> s: whistle-blowers
+whistle-blowers <> b: whistle-blower, f: s
+whistled <> b: whistle, f: pd
+whistler <> s: whistlers
+whistlers <> b: whistler, f: s
+whistles <> b: whistle, f: s3
+whistling <> b: whistle, f: i, i: whistling
+whit <> p: whited, s: whits
+white <> s: whites, r: whiter, i: whiting, p: whited, '3': whites, d: whited
+white-eye <> s: white-eyes
+white-eyes <> b: white-eye, f: s
+white-knuckle <> p: white-knuckled
+white-knuckled <> b: white-knuckle, f: p
+white-out <> s: white-outs
+white-outs <> b: white-out, f: s
+whitebeam <> s: whitebeams
+whitebeams <> b: whitebeam, f: s
+whiteboard <> s: whiteboards
+whiteboards <> b: whiteboard, f: s
+whitecap <> '3': whitecaps, s: whitecaps
+whitecaps <> b: whitecap, f: 3s
+whited <> b: whit, f: p, d: whited
+whiteface <> p: whitefaced
+whitefaced <> b: whiteface, f: p
+whiteflies <> b: whitefly, f: s
+whitefly <> s: whiteflies
+Whitehead <> s: whiteheads, p: whiteheaded
+whiteheaded <> b: whitehead, f: p, p: whiteheaded
+whiten <> p: whitened, i: whitening, d: whitened, '3': whitens
+whitened <> b: whiten, f: pd, d: whitened
+whitening <> b: whiten, f: i, i: whitening
+whitens <> b: whiten, f: '3'
+whiteout <> s: whiteouts
+whiteouts <> b: whiteout, f: s
+whiter <> b: white, f: r
+whites <> f: s3, b: white
+whitesmith <> s: whitesmiths
+whitesmiths <> b: whitesmith, f: s
+whitethroat <> s: whitethroats
+whitethroats <> b: whitethroat, f: s
+whitewash <> d: whitewashed, p: whitewashed, i: whitewashing, s: whitewashes, '3': whitewashes
+whitewashed <> b: whitewash, f: dp, p: whitewashed, d: whitewashed
+whitewashes <> b: whitewash, f: s3
+whitewashing <> b: whitewash, f: i, i: whitewashing
+whitewater <> b: whitewate, f: r
+whitey <> s: whiteys
+whiteys <> b: whitey, f: s
+whiting <> f: i, b: white, s: whitings
+whits <> b: whit, f: s
+Whittaker <> s: whittakers
+whittle <> d: whittled, p: whittled, i: whittling, '3': whittles, s: whittles
+whittled <> b: whittle, f: dp, p: whittled
+whittles <> b: whittle, f: 3s
+whittling <> b: whittle, f: i, i: whittling
+whiz <> i: whizzing, p: whizzed, '3': whizzes, d: whizzed, s: whizzes
+whizz <> i: whizzing, p: whizzed, d: whizzed, '3': whizzes
+whizz-kid <> s: whizz-kids
+whizz-kids <> b: whizz-kid, f: s
+whizzbang <> s: whizzbangs
+whizzbangs <> b: whizzbang, f: s
+whizzed <> b: whizz, f: pd
+whizzes <> b: whizze, f: 3s
+whizzing <> b: whizz, f: i, i: whizzing
+whodunit <> s: whodunits
+whodunits <> b: whodunit, f: s
+whodunnit <> s: whodunnits
+whodunnits <> b: whodunnit, f: s
+whole <> s: wholes
+wholefood <> s: wholefoods
+wholefoods <> b: wholefood, f: s
+wholegrain <> s: wholegrains
+wholegrains <> b: wholegrain, f: s
+wholes <> b: whole, f: s
+wholesale <> i: wholesaling, p: wholesaled, '3': wholesales, d: wholesaled
+wholesaled <> f: pd, b: wholesale
+wholesaler <> s: wholesalers
+wholesalers <> b: wholesaler, f: s
+wholesales <> f: '3', b: wholesale
+wholesaling <> b: wholesale, f: i, i: wholesaling
+whomp <> p: whomped, s: whomps, i: whomping, '3': whomps, d: whomped
+whomped <> b: whomp, f: p
+whomps <> b: whomp, f: s
+whoop <> s: whoops, i: whooping, p: whooped, r: whooper, d: whooped, '3': whoops
+whooped <> b: whoop, f: pd
+whooper <> b: whoop, f: r, s: whoopers
+whooping <> b: whoop, f: i
+whoops <> f: s3, b: whoop
+whoosh <> i: whooshing, p: whooshed, '3': whooshes, s: whooshes, d: whooshed
+whooshed <> b: whoosh, f: p
+whooshes <> b: whoosh, f: 3s
+whooshing <> b: whoosh, f: i, i: whooshing
+whop <> '3': whops, d: whopped, i: whopping, p: whopped
+whopped <> f: dp, b: whop
+whopper <> s: whoppers
+whoppers <> b: whopper, f: s
+whopping <> i: whopping, b: whopping, f: i
+whops <> b: whop, f: '3'
+whore <> s: whores, i: whoring, d: whored, p: whored, '3': whores
+whored <> b: whore, f: dp
+whorehouse <> s: whorehouses
+whorehouses <> b: whorehouse, f: s
+whores <> f: s3, b: whore
+whoreson <> s: whoresons
+whoresons <> b: whoreson, f: s
+whoring <> b: whore, f: i
+whorl <> s: whorls, p: whorled
+whorled <> b: whorl, f: p, p: whorled
+whorls <> b: whorl, f: s
+whortleberries <> b: whortleberry, f: s
+whortleberry <> s: whortleberries
+whup <> p: whupped
+whupped <> b: whup, f: p
+whydah <> s: whydahs
+whydahs <> b: whydah, f: s
+wi <> s: wi, b: wi, f: s
+wick <> s: wicks
+wickede <> t: wickedest
+wickedest <> b: wickede, f: t
+wickedness <> s: wickednesses
+wickednesses <> b: wickedness, f: s
+wicket <> s: wickets
+wicketkeeper <> s: wicketkeepers
+wicketkeepers <> b: wicketkeeper, f: s
+wickets <> b: wicket, f: s
+wicks <> b: wick, f: s
+widdershins <> b: widdershin, f: s
+widdle <> s: widdles, i: widdleing
+widdleing <> b: widdle, f: i
+widdles <> b: widdle, f: s
+wide <> r: wider, t: widest
+widen <> d: widened, p: widened, i: widening, '3': widens
+widened <> b: widen, f: dp, d: widened, p: widened
+widening <> b: widen, f: i, i: widening, s: widenings
+widens <> b: widen, f: '3'
+wider <> b: wide, f: r
+widest <> b: wide, f: t
+widgeon <> s: widgeons
+widgeons <> b: widgeon, f: s
+widget <> s: widgets
+widgets <> b: widget, f: s
+widow <> s: widows, d: widowed, p: widowed, i: widowing, '3': widows
+widowed <> b: widow, f: dp, d: widowed, p: widowed
+widower <> s: widowers
+widowers <> b: widower, f: s
+widowing <> f: i, b: widow
+widows <> f: s3, b: widow
+width <> s: widths
+widths <> b: width, f: s
+widthways <> b: widthway, f: s
+wield <> i: wielding, p: wielded, '3': wields, d: wielded
+wielded <> b: wield, f: pd, p: wielded, d: wielded
+wielder <> s: wielders
+wielders <> b: wielder, f: s
+wielding <> b: wield, f: i
+wields <> b: wield, f: '3'
+wiener <> s: wieners
+wieners <> b: wiener, f: s
+wife <> s: wives
+wig <> s: wigs, i: wigging
+wigging <> b: wig, f: i
+wiggle <> p: wiggled, i: wiggling, '3': wiggles, s: wiggles, d: wiggled
+wiggled <> f: pd, b: wiggle
+wiggler <> s: wigglers
+wigglers <> b: wiggler, f: s
+wiggles <> b: wiggle, f: 3s
+wiggling <> b: wiggle, f: i
+Wight <> s: wights
+wigs <> b: wig, f: s
+wigwag <> i: wigwagging, p: wigwagged, '3': wigwags, d: wigwagged
+wigwagged <> f: pd, b: wigwag
+wigwagging <> f: i, b: wigwag
+wigwags <> f: '3', b: wigwag
+wigwam <> s: wigwams
+wigwams <> b: wigwam, f: s
+wil <> '3': wil, b: wil, f: '3', s: wils
+Wilberforce <> s: wilberforces
+Wilcock <> s: wilcocks
+wild <> r: wilder, t: wildest, s: wilds
+wildcat <> s: wildcats, i: wildcatting
+wildcats <> b: wildcat, f: s
+wildcatting <> b: wildcat, f: i
+wilde <> s: wildes
+wilder <> b: wild, f: r
+wilderness <> s: wildernesses
+wildernesses <> b: wilderness, f: s
+wildes <> b: wilde, f: s
+wildest <> b: wild, f: t
+wildfire <> s: wildfires
+wildfires <> b: wildfire, f: s
+wildflower <> s: wildflowers, '3': wildflowers
+wildflowers <> b: wildflower, f: s3
+wilding <> s: wildings, i: wilding, b: wilding, f: i
+wildings <> b: wilding, f: s
+wildman <> s: wildmen
+wildmen <> b: wildman, f: s
+wilds <> b: wild, f: s
+wildwood <> s: wildwoods
+wildwoods <> b: wildwood, f: s
+wile <> s: wiles, i: wiling, p: wiled
+wiled <> b: wile, f: p
+wiles <> b: wile, f: s
+wilier <> b: wily, f: r
+wiliest <> b: wily, f: t
+wiling <> b: wile, f: i
+wilke <> '3': wilkes
+wilkes <> b: wilke, f: '3'
+will <> i: willing, p: willed, '3': wills, d: willed
+willed <> p: willed, b: willed, f: pd, d: willed
+Willem <> s: willems
+Willett <> s: willetts, '3': willetts
+Willey <> s: willeys
+willies <> b: willy, f: s
+willing <> i: willing, b: willing, f: i
+williwaw <> s: williwaws
+williwaws <> b: williwaw, f: s
+willow <> s: willows, i: willowing
+willowing <> b: willow, f: i
+willows <> b: willow, f: s
+wills <> f: '3', b: will
+willy <> s: willies
+wils <> b: wil, f: s
+wilt <> p: wilted, i: wilting, d: wilted, '3': wilts
+wilted <> b: wilt, f: pd
+wilting <> b: wilt, f: i, i: wilting
+Wilts <> b: wilt, f: '3'
+wily <> t: wiliest, r: wilier
+wimp <> s: wimps, '3': wimps, i: wimping
+wimping <> b: wimp, f: i
+wimple <> s: wimples, p: wimpled
+wimpled <> b: wimple, f: p
+wimples <> b: wimple, f: s
+wimps <> b: wimp, f: s3
+win <> p: won, d: won, i: winning, '3': wins, s: wins
+wince <> p: winced, i: wincing, s: winces, '3': winces, d: winced
+winced <> b: wince, f: pd
+winces <> b: wince, f: s3
+winch <> s: winches, d: winched, i: winching, p: winched, '3': winches
+winched <> b: winch, f: dp
+winches <> b: winch, f: s3
+winching <> b: winch, f: i, i: winching
+wincing <> b: wince, f: i
+wind <> s: winds, i: winding, p: wound, d: wound, '3': winds
+wind-surf <> i: wind-surfing, s: wind-surfs
+wind-surfing <> i: wind-surfing, b: wind-surfing, f: i
+wind-surfs <> b: wind-surf, f: s
+wind-up <> s: wind-ups
+wind-ups <> b: wind-up, f: s
+windbreak <> s: windbreaks
+windbreaks <> b: windbreak, f: s
+windcheater <> s: windcheaters, d: windcheatered
+windcheatered <> b: windcheater, f: d
+windcheaters <> b: windcheater, f: s
+winded <> b: wind, f: p, p: winded
+winder <> s: winders
+winders <> b: winder, f: s
+windfall <> s: windfalls
+windfalls <> b: windfall, f: s
+windflower <> s: windflowers, '3': windflowers
+windflowers <> b: windflower, f: s3
+windier <> b: windy, f: r
+windies <> b: windy, f: s
+windiest <> b: windy, f: t
+winding <> b: wind, f: i, i: winding, s: windings
+windings <> b: winding, f: s
+windlass <> s: windlasses, d: windlassed
+windlassed <> b: windlass, f: d
+windlasses <> b: windlass, f: s
+windmill <> s: windmills
+windmills <> b: windmill, f: s
+window <> s: windows
+window-shop <> i: window-shopping, p: window-shopped, '3': window-shops, d: window-shopped
+window-shopper <> s: window-shoppers
+window-shoppers <> b: window-shopper, f: s
+windowing <> i: windowing, b: windowing, f: i
+windowpane <> s: windowpanes
+windowpanes <> b: windowpane, f: s
+windows <> b: window, f: s
+windowsill <> s: windowsills
+windowsills <> b: windowsill, f: s
+windpipe <> s: windpipes
+windpipes <> b: windpipe, f: s
+windproof <> '3': windproofs, i: windproofing
+windproofing <> b: windproof, f: i
+windproofs <> b: windproof, f: '3'
+windrow <> s: windrows
+windrows <> b: windrow, f: s
+winds <> b: wind, f: s3
+windscreen <> s: windscreens
+windscreens <> b: windscreen, f: s
+windshield <> s: windshields
+windshields <> b: windshield, f: s
+windsock <> s: windsocks
+windsocks <> b: windsock, f: s
+windsurf <> i: windsurfing, p: windsurfed, '3': windsurfs, d: windsurfed
+windsurfer <> s: windsurfers, '3': windsurfers
+windsurfers <> b: windsurfer, f: s3
+windsurfing <> i: windsurfing, b: windsurfing, f: i
+windward <> s: windwards
+windwards <> b: windward, f: s
+windy <> s: windies, t: windiest, r: windier
+wine <> s: wines, p: wined, d: wined, i: wining, '3': wines
+wined <> b: wine, f: pd
+wineglass <> s: wineglasses
+wineglasses <> b: wineglass, f: s
+winegrower <> s: winegrowers, '3': winegrowers
+winegrowers <> b: winegrower, f: s3
+winemaker <> s: winemakers
+winemakers <> b: winemaker, f: s
+winemaking <> i: winemaking, b: winemaking, f: i
+wineries <> b: winery, f: s
+winery <> s: wineries
+wines <> f: s3, b: wine
+wineskin <> s: wineskins
+wineskins <> b: wineskin, f: s
+wing <> s: wings, i: winging, '3': wings, p: winged, d: winged
+wing-tip <> s: wing-tips
+wing-tips <> b: wing-tip, f: s
+wingbeat <> s: wingbeats
+wingbeats <> b: wingbeat, f: s
+winge <> p: winged, d: winged, i: wingeing
+winged <> p: winged, b: winged, f: pd, d: winged
+wingeing <> b: winge, f: i
+winger <> s: wingers
+wingers <> b: winger, f: s
+winging <> b: wing, f: i
+winglet <> s: winglets, p: wingletted
+winglets <> b: winglet, f: s
+wingletted <> b: winglet, f: p
+wingman <> s: wingmen
+wingmen <> b: wingman, f: s
+wingnut <> s: wingnuts
+wingnuts <> b: wingnut, f: s
+wings <> b: wing, f: s3
+wingspan <> s: wingspans
+wingspans <> b: wingspan, f: s
+wingtip <> s: wingtips
+wingtips <> b: wingtip, f: s
+wining <> b: wine, f: i, i: wining
+wink <> p: winked, i: winking, s: winks, '3': winks, d: winked
+winked <> b: wink, f: pd
+winking <> b: wink, f: i, i: winking
+winkle <> s: winkles, p: winkled, d: winkled, i: winkling, '3': winkles
+winkle-picker <> s: winkle-pickers
+winkle-pickers <> b: winkle-picker, f: s
+winkled <> b: winkle, f: pd
+winkles <> f: s3, b: winkle
+winkling <> b: winkle, f: i
+winks <> b: wink, f: s3
+winner <> s: winners
+winners <> b: winner, f: s
+winning <> b: win, f: i, i: winning, s: winnings
+winnings <> b: winning, f: s
+winnow <> i: winnowing, d: winnowed, '3': winnows, p: winnowed
+winnowed <> b: winnow, f: dp
+winnowing <> b: winnow, f: i
+winnows <> b: winnow, f: '3'
+wino <> s: winos
+winos <> b: wino, f: s
+wins <> b: win, f: 3s
+winter <> s: winters, i: wintering, p: wintered, '3': winters, d: wintered
+wintered <> b: winter, f: pd
+wintering <> b: winter, f: i, i: wintering
+winterize <> i: winterizing, p: winterized, '3': winterizes, d: winterized
+winterized <> f: pd, b: winterize
+winterizes <> f: '3', b: winterize
+winterizing <> f: i, b: winterize
+Winters <> b: winter, f: s3
+wipe <> p: wiped, i: wiping, d: wiped, '3': wipes, s: wipes
+wipe-out <> s: wipe-outs
+wipe-outs <> b: wipe-out, f: s
+wiped <> b: wipe, f: pd
+wipeout <> s: wipeouts
+wipeouts <> b: wipeout, f: s
+wiper <> s: wipers
+wipers <> b: wiper, f: s
+wipes <> b: wipe, f: 3s
+wiping <> b: wipe, f: i
+wire <> s: wires, d: wired, p: wired, i: wiring, '3': wires
+wire-cutter <> s: wire-cutters
+wire-cutters <> b: wire-cutter, f: s
+wired <> b: wire, f: dp, d: wired, p: wired
+wireless <> s: wirelesses, d: wirelessed, p: wirelessed
+wirelessed <> b: wireless, f: dp
+wirelesses <> b: wireless, f: s
+wires <> f: s3, b: wire
+wiretap <> s: wiretaps, i: wiretapping, p: wiretapped, '3': wiretaps, d: wiretapped
+wiretaps <> b: wiretap, f: s
+wireworm <> s: wireworms
+wireworms <> b: wireworm, f: s
+wirier <> b: wiry, f: r
+wiriest <> b: wiry, f: t
+wiring <> b: wire, f: i, i: wiring
+wiry <> t: wiriest, r: wirier
+wisdom <> s: wisdoms
+wisdoms <> b: wisdom, f: s
+wise <> r: wiser, t: wisest, d: wised
+wiseacre <> s: wiseacres
+wiseacres <> b: wiseacre, f: s
+wisecrack <> s: wisecracks, p: wisecracked, i: wisecracking, '3': wisecracks, d: wisecracked
+wisecracked <> f: pd, b: wisecrack
+wisecracking <> b: wisecrack, f: i, i: wisecracking
+wisecracks <> f: s3, b: wisecrack
+wised <> b: wise, f: d
+wiser <> b: wise, f: r
+wisest <> b: wise, f: t
+wish <> p: wished, i: wishing, '3': wishes, s: wishes, d: wished
+wishbone <> s: wishbones
+wishbones <> b: wishbone, f: s
+wished <> b: wish, f: pd
+wisher <> s: wishers
+wishers <> b: wisher, f: s
+wishes <> b: wish, f: 3s
+wishing <> b: wish, f: i
+wisp <> s: wisps, i: wisping, p: wisped
+wisped <> b: wisp, f: p
+wispiest <> b: wispy, f: t
+wisping <> b: wisp, f: i
+wisps <> b: wisp, f: s
+wispy <> t: wispiest
+wit <> s: wits
+witch <> s: witches, i: witching, p: witched, '3': witches, d: witched
+witch-doctor <> s: witch-doctors
+witch-doctors <> b: witch-doctor, f: s
+witch-hunt <> s: witch-hunts
+witch-hunts <> b: witch-hunt, f: s
+witchcraft <> s: witchcrafts
+witchcrafts <> b: witchcraft, f: s
+witched <> f: pd, b: witch
+witches <> f: s3, b: witch
+witching <> b: witch, f: i, i: witching
+with-profit <> s: with-profits
+with-profits <> b: with-profit, f: s
+withdraw <> d: withdrawn, p: withdrew, i: withdrawing, '3': withdraws
+withdrawal <> s: withdrawals
+withdrawals <> b: withdrawal, f: s
+withdrawing <> b: withdraw, f: i, i: withdrawing
+withdrawn <> b: withdraw, f: d
+withdraws <> b: withdraw, f: '3'
+withdrew <> b: withdraw, f: p
+wither <> p: withered, d: withered, i: withering, '3': withers, s: withers
+withered <> b: wither, f: pd, p: withered, d: withered
+withering <> b: wither, f: i, i: withering, s: witherings
+withers <> b: wither, f: 3s, s: withers
+withheld <> b: withhold, f: dp
+withhold <> d: withheld, i: withholding, p: withheld, '3': withholds
+withholding <> b: withhold, f: i, i: withholding
+withholds <> b: withhold, f: '3'
+withies <> b: withy, f: s
+withstand <> d: withstood, i: withstanding, p: withstood, '3': withstands
+withstanding <> b: withstand, f: i
+withstands <> b: withstand, f: '3'
+withstood <> b: withstand, f: dp, p: withstood
+withy <> s: withies
+witness <> s: witnesses, d: witnessed, p: witnessed, i: witnessing, '3': witnesses
+witnessed <> b: witness, f: dp
+witnesses <> b: witness, f: s3
+witnessing <> b: witness, f: i, i: witnessing, s: witnessings
+wits <> b: wit, f: s
+witted <> p: witted, b: witted, f: p
+witter <> i: wittering, p: wittered
+wittered <> b: witter, f: p
+wittering <> b: witter, f: i, s: witterings
+witticism <> s: witticisms
+witticisms <> b: witticism, f: s
+wittier <> b: witty, f: r
+wittiest <> b: witty, f: t
+Witton <> s: wittons
+witty <> t: wittiest, r: wittier
+wives <> b: wife, f: s
+wiz <> i: wizzing, p: wizzed
+wizard <> s: wizards
+wizards <> b: wizard, f: s
+wizen <> p: wizened, d: wizened
+wizened <> p: wizened, b: wizened, f: p
+wizzed <> b: wiz, f: p
+wizzing <> b: wiz, f: i
+wo <> s: wos
+wobble <> p: wobbled, i: wobbling, '3': wobbles, s: wobbles, d: wobbled
+wobbled <> b: wobble, f: pd
+wobbler <> s: wobblers
+wobblers <> b: wobbler, f: s
+wobbles <> b: wobble, f: 3s
+wobblies <> b: wobbly, f: s
+wobbling <> b: wobble, f: i, i: wobbling, s: wobblings
+wobbly <> s: wobblies
+wodge <> s: wodges
+wodges <> b: wodge, f: s
+woe <> s: woes
+woes <> b: woe, f: s
+wog <> s: wogs
+woggle <> s: woggles
+woggles <> b: woggle, f: s
+wogs <> b: wog, f: s
+wok <> i: wokking, s: woks
+woke <> b: wake, f: pd
+woken <> b: wake, f: d
+wokking <> b: wok, f: i
+woks <> b: wok, f: s
+wold <> s: wolds
+wolds <> b: wold, f: s
+wolf <> s: wolves, p: wolfed, i: wolfing, d: wolfed, '3': wolfs
+wolfed <> b: wolf, f: pd
+wolfhound <> s: wolfhounds
+wolfhounds <> b: wolfhound, f: s
+wolfing <> b: wolf, f: i
+wolfs <> f: s3, b: wolf
+wolfskin <> s: wolfskins
+wolfskins <> b: wolfskin, f: s
+wolverine <> s: wolverines
+wolverines <> b: wolverine, f: s
+wolves <> b: wolf, f: s
+woman <> s: women
+womanise <> i: womanising, p: womanised
+womanised <> b: womanise, f: p
+womaniser <> s: womanisers
+womanisers <> b: womaniser, f: s
+womanising <> b: womanise, f: i, i: womanising
+womanist <> s: womanists
+womanists <> b: womanist, f: s
+womanize <> i: womanizing, p: womanized, '3': womanizes, d: womanized
+womanized <> f: pd, b: womanize
+womanizes <> f: '3', b: womanize
+womanizing <> b: womanize, f: i
+womb <> s: wombs, p: wombed
+wombat <> s: wombats
+wombats <> b: wombat, f: s
+wombed <> b: womb, f: p
+wombs <> b: womb, f: s
+women <> b: woman, f: s, s: womens, '3': womens
+womenfolk <> s: womenfolk, b: womenfolk, f: s
+WOMENS <> b: women, f: s3
+won <> b: win, f: pd, p: wonned
+wonder <> p: wondered, i: wondering, s: wonders, '3': wonders, d: wondered
+wonder-worker <> s: wonder-workers
+wonder-workers <> b: wonder-worker, f: s
+wondered <> b: wonder, f: pd
+wonderer <> p: wonderered, s: wonderers
+wonderered <> b: wonderer, f: p
+wonderers <> b: wonderer, f: s
+wondering <> b: wonder, f: i, s: wonderings, i: wondering
+wonderland <> s: wonderlands
+wonderlands <> b: wonderland, f: s
+wonderment <> s: wonderments
+wonderments <> b: wonderment, f: s
+wonders <> b: wonder, f: s3
+wonton <> s: wontons
+wontons <> b: wonton, f: s
+woo <> d: wooed, i: wooing, '3': woos, p: wooed
+wood <> s: woods
+Woodbine <> s: woodbines, '3': woodbines
+woodcarver <> s: woodcarvers, '3': woodcarvers
+woodcarvers <> b: woodcarver, f: s3
+woodcarving <> s: woodcarvings, i: woodcarving, b: woodcarving, f: i
+woodcarvings <> b: woodcarving, f: s
+woodchip <> s: woodchips
+woodchips <> b: woodchip, f: s
+woodchuck <> s: woodchucks
+woodchucks <> b: woodchuck, f: s
+woodcraft <> s: woodcrafts
+woodcrafts <> b: woodcraft, f: s
+woodcut <> s: woodcuts, i: woodcutting, '3': woodcuts
+woodcuts <> b: woodcut, f: s3
+woodcutter <> s: woodcutters
+woodcutters <> b: woodcutter, f: s
+woodcutting <> b: woodcut, f: i, s: woodcuttings, i: woodcutting
+woodentop <> s: woodentops
+woodentops <> b: woodentop, f: s
+woodland <> s: woodlands
+woodlander <> s: woodlanders
+woodlanders <> b: woodlander, f: s
+Woodlands <> b: woodland, f: s
+woodlark <> s: woodlarks
+woodlarks <> b: woodlark, f: s
+woodman <> s: woodmen
+woodmen <> b: woodman, f: s
+woodnote <> s: woodnotes
+woodnotes <> b: woodnote, f: s
+woodpecker <> s: woodpeckers
+woodpeckers <> b: woodpecker, f: s
+woodpile <> s: woodpiles
+woodpiles <> b: woodpile, f: s
+woods <> b: wood, f: s
+woodscrew <> s: woodscrews
+woodsman <> s: woodsmen
+woodsmen <> b: woodsman, f: s
+woodturner <> s: woodturners
+woodturners <> b: woodturner, f: s
+woodturning <> b: woodturn, f: i
+woodwind <> s: woodwinds
+woodwinds <> b: woodwind, f: s
+woodwork <> s: woodworks
+woodworker <> s: woodworkers
+woodworkers <> b: woodworker, f: s
+woodworks <> b: woodwork, f: s
+woodworm <> s: woodworms
+woodworms <> b: woodworm, f: s
+woody <> r: woodyer
+woodyer <> b: woody, f: r
+wooed <> b: woo, f: dp
+woof <> '3': woofs, s: woofs, r: woofer
+woofer <> b: woof, f: r, s: woofers
+woofs <> b: woof, f: 3s
+wooing <> b: woo, f: i, i: wooing
+wool <> s: wools
+Woolies <> b: wooly, f: s
+woollen <> s: woollens
+woollens <> b: woollen, f: s
+Woolley <> s: woolleys
+woollier <> b: woolly, f: r
+woollies <> b: woolly, f: s
+woolly <> s: woollies, r: woollier
+woolman <> s: woolmen
+woolmen <> b: woolman, f: s
+woolpack <> s: woolpacks
+woolpacks <> b: woolpack, f: s
+wools <> b: wool, f: s
+wooly <> s: woolies, r: woolier
+woos <> b: woo, f: '3'
+woosh <> i: wooshing, p: wooshed, '3': wooshes, d: wooshed
+wooshed <> f: pd, b: woosh
+wooshes <> f: '3', b: woosh
+wooshing <> f: i, b: woosh
+Wooster <> s: woosters
+wop <> s: wops
+wops <> b: wop, f: s
+word <> s: words, d: worded, i: wording, p: worded, '3': words
+worded <> f: dp, b: word, d: worded, p: worded
+wordier <> b: wordy, f: r
+wording <> s: wordings, i: wording, b: wording, f: i
+words <> f: s3, b: word
+wordsmith <> s: wordsmiths
+wordsmiths <> b: wordsmith, f: s
+wordy <> r: wordier
+wore <> b: wear, f: p
+work <> i: working, '3': works, p: worked, d: worked
+work-to-rule <> s: work-to-rules
+work-to-rules <> b: work-to-rule, f: s
+workaholic <> s: workaholics
+workaholics <> b: workaholic, f: s
+workbench <> s: workbenches
+workbenches <> b: workbench, f: s
+workboat <> s: workboats
+workboats <> b: workboat, f: s
+workbook <> s: workbooks
+workbooks <> b: workbook, f: s
+workday <> s: workdays
+workdays <> b: workday, f: s
+worked <> b: work, f: pd, p: worked, d: worked
+worker <> s: workers
+workers <> b: worker, f: s
+workforce <> s: workforces
+workforces <> b: workforce, f: s
+workgroup <> s: workgroups, i: workgrouping
+workgrouping <> b: workgroup, f: i
+workgroups <> b: workgroup, f: s
+workhorse <> s: workhorses
+workhorses <> b: workhorse, f: s
+workhouse <> s: workhouses
+workhouses <> b: workhouse, f: s
+working <> b: work, f: i, s: workings, i: working
+workingman <> s: workingmen
+workingmen <> b: workingman, f: s
+workings <> b: working, f: s
+workload <> s: workloads
+workloads <> b: workload, f: s
+workman <> s: workmen
+workmate <> s: workmates
+workmates <> b: workmate, f: s
+workmen <> b: workman, f: s
+workout <> s: workouts
+workouts <> b: workout, f: s
+workpiece <> s: workpieces
+workpieces <> b: workpiece, f: s
+workplace <> s: workplaces
+workplaces <> b: workplace, f: s
+workroom <> s: workrooms
+workrooms <> b: workroom, f: s
+works <> b: work, f: '3'
+worksheet <> s: worksheets
+worksheets <> b: worksheet, f: s
+workshop <> s: workshops
+workshops <> b: workshop, f: s
+worksite <> s: worksites
+worksites <> b: worksite, f: s
+workspace <> s: workspaces
+workspaces <> b: workspace, f: s
+workstation <> s: workstations
+workstations <> b: workstation, f: s
+worktable <> s: worktables
+worktables <> b: worktable, f: s
+worktop <> s: worktops
+worktops <> b: worktop, f: s
+world <> s: worlds
+world-beater <> s: world-beaters
+world-beaters <> b: world-beater, f: s
+worldlier <> b: worldly, f: r
+worldling <> i: worldling, b: worldling, f: i
+worldly <> r: worldlier
+worlds <> b: world, f: s
+worldview <> s: worldviews
+worldviews <> b: worldview, f: s
+worm <> s: worms, p: wormed, i: worming, d: wormed, '3': worms
+wormed <> b: worm, f: pd, d: wormed, p: wormed
+wormer <> s: wormers
+wormers <> b: wormer, f: s
+wormhole <> s: wormholes
+wormholes <> b: wormhole, f: s
+worming <> b: worm, f: i
+worms <> f: s3, b: worm
+worn <> b: wear, f: d, d: worn, p: worn
+worried <> b: worry, f: pd, d: worried, p: worried
+worrier <> s: worriers
+worriers <> b: worrier, f: s
+worry <> s: worries, p: worried, '3': worries, i: worrying, d: worried
+worrying <> b: worry, f: i, i: worrying
+worse <> b: bad, f: r
+worsen <> d: worsened, p: worsened, '3': worsens, i: worsening
+worsened <> b: worsen, f: dp
+worsening <> b: worsen, f: i, i: worsening
+worsens <> b: worsen, f: '3'
+worship <> d: worshipped, p: worshipped, '3': worships, i: worshipping, s: worships
+worshipped <> b: worship, f: dp, p: worshipped, d: worshipped
+worshipper <> s: worshippers
+worshippers <> b: worshipper, f: s
+worshipping <> b: worship, f: i, i: worshipping
+worships <> b: worship, f: 3s
+worst <> b: bad, f: t, d: worsted, '3': worsts, r: worst
+worsted <> b: worst, f: d, s: worsteds
+worsteds <> b: worsted, f: s
+wort <> s: worts
+worthier <> b: worthy, f: r
+worthies <> b: worthy, f: s
+worthiest <> b: worthy, f: t
+worthy <> s: worthies, r: worthier, t: worthiest
+worts <> b: wort, f: s
+wos <> b: wo, f: s
+wot <> '3': wot, b: wot, f: '3', s: wots
+wots <> b: wot, f: s
+wound <> b: wind, f: pd, s: wounds, d: wounded, i: wounding, p: wounded, '3': wounds
+wounded <> b: wound, f: dp, p: wounded, d: wounded
+wounding <> b: wound, f: i, i: wounding, s: woundings
+woundings <> b: wounding, f: s
+wove <> b: weave, f: p
+woven <> b: weave, f: d, d: woven, s: wovens
+wow <> i: wowing, p: wowed, d: wowed, '3': wows
+wowed <> b: wow, f: pd
+wowing <> b: wow, f: i
+wows <> b: wow, f: '3'
+wowser <> s: wowsers
+wowsers <> b: wowser, f: s
+wrack <> d: wracked, i: wracking, p: wracked, s: wracks, '3': wracks
+wracked <> b: wrack, f: dp
+wracking <> b: wrack, f: i, i: wracking
+wracks <> f: s3, b: wrack
+wraith <> s: wraiths
+wraiths <> b: wraith, f: s
+wrangle <> s: wrangles, i: wrangling, p: wrangled, d: wrangled, '3': wrangles
+wrangled <> b: wrangle, f: pd
+wrangler <> s: wranglers
+wranglers <> b: wrangler, f: s
+wrangles <> f: s3, b: wrangle
+wrangling <> b: wrangle, f: i, s: wranglings, i: wrangling
+wrap <> d: wrapped, p: wrapped, i: wrapping, s: wraps, '3': wraps
+wrapped <> b: wrap, f: dp, p: wrapped, d: wrapped
+wrapper <> s: wrappers
+wrappers <> b: wrapper, f: s
+wrapping <> b: wrap, f: i, s: wrappings, i: wrapping
+wraps <> b: wrap, f: s3
+wrath <> s: wraths
+wraths <> b: wrath, f: s
+wreak <> d: wreaked, i: wreaking, p: wreaked, '3': wreaks
+wreaked <> b: wreak, f: dp
+wreaking <> b: wreak, f: i
+wreaks <> b: wreak, f: '3'
+wreath <> s: wreaths
+wreathe <> p: wreathed, d: wreathed, '3': wreathes, s: wreathes, i: wreathing
+wreathed <> b: wreathe, f: pd
+wreathes <> b: wreathe, f: 3s
+wreathing <> b: wrethe, f: i
+wreaths <> b: wreath, f: s
+wreck <> d: wrecked, p: wrecked, s: wrecks, i: wrecking, '3': wrecks
+wrecked <> b: wreck, f: dp, p: wrecked, d: wrecked
+wrecker <> s: wreckers
+wreckers <> b: wrecker, f: s
+wrecking <> b: wreck, f: i, i: wrecking
+wrecks <> b: wreck, f: s3
+wren <> s: wrens
+wrench <> p: wrenched, i: wrenching, d: wrenched, s: wrenches, '3': wrenches
+wrenched <> b: wrench, f: pd
+wrenches <> b: wrench, f: s3
+wrenching <> b: wrench, f: i
+wrens <> b: wren, f: s
+wrest <> p: wrested, d: wrested, i: wresting, '3': wrests
+wrested <> b: wrest, f: pd, p: wrested
+wresting <> b: wrest, f: i
+wrestle <> p: wrestled, i: wrestling, d: wrestled, '3': wrestles
+wrestled <> b: wrestle, f: pd
+wrestler <> s: wrestlers
+wrestlers <> b: wrestler, f: s
+wrestles <> b: wrestle, f: '3'
+wrestling <> b: wrestle, f: i, i: wrestling, s: wrestlings
+wrests <> b: wrest, f: '3'
+wretch <> s: wretches
+wretches <> b: wretch, f: s
+wriest <> b: wry, f: t
+wriggle <> p: wriggled, i: wriggling, '3': wriggles, d: wriggled, s: wriggles
+wriggled <> b: wriggle, f: pd
+wriggler <> s: wrigglers
+wrigglers <> b: wriggler, f: s
+wriggles <> b: wriggle, f: 3s
+wriggling <> b: wriggle, f: i, i: wriggling, s: wrigglings
+wright <> s: wrights
+wrights <> b: wright, f: s
+wring <> i: wringing, p: wrung, d: wrung, '3': wrings
+wringer <> s: wringers
+wringers <> b: wringer, f: s
+wringing <> b: wring, f: i, i: wringing
+wrings <> b: wring, f: '3'
+wrinkle <> s: wrinkles, p: wrinkled, i: wrinkling, d: wrinkled, '3': wrinkles
+wrinkled <> b: wrinkle, f: pd, d: wrinkled, p: wrinkled
+wrinkles <> b: wrinkle, f: s3
+wrinklies <> b: wrinkly, f: s
+wrinkling <> b: wrinkle, f: i, i: wrinkling
+wrinkly <> s: wrinklies
+wrist <> s: wrists
+wristband <> s: wristbands
+wristbands <> b: wristband, f: s
+wristlet <> s: wristlets
+wristlets <> b: wristlet, f: s
+wrists <> b: wrist, f: s
+wristwatch <> s: wristwatches
+wristwatches <> b: wristwatch, f: s
+writ <> s: writs, d: writ, b: writ, f: dp, p: writ
+write <> p: wrote, d: written, i: writing, '3': writes
+write-down <> s: write-downs
+write-downs <> b: write-down, f: s
+write-off <> s: write-offs
+write-offs <> b: write-off, f: s
+write-up <> s: write-ups
+write-ups <> b: write-up, f: s
+writer <> s: writers
+writers <> b: writer, f: s
+writes <> b: write, f: '3'
+writhe <> p: writhed, '3': writhes, s: writhes, d: writhed, i: writhing
+writhed <> b: writhe, f: pd
+writhes <> b: writhe, f: 3s
+writhing <> b: wrthe, f: i, s: writhings, i: writhing
+writing <> b: write, f: i, i: writing, s: writings
+writings <> b: writing, f: s
+writs <> b: writ, f: s
+written <> b: write, f: d, d: written
+wrong <> s: wrongs, i: wronging, p: wronged, '3': wrongs, d: wronged
+wrong-foot <> '3': wrong-foots
+wrong-foots <> b: wrong-foot, f: '3'
+wrongdoer <> s: wrongdoers
+wrongdoers <> b: wrongdoer, f: s
+wrongdoing <> s: wrongdoings
+wrongdoings <> b: wrongdoing, f: s
+wronged <> b: wronge, f: dp, d: wronged, p: wronged
+wronghead <> p: wrongheaded
+wrongheaded <> b: wronghead, f: p
+wronging <> f: i, b: wrong
+wrongs <> f: s3, b: wrong
+wrote <> b: write, f: p
+wrought <> b: work, f: d, d: wrought
+wrung <> b: wring, f: pd
+wry <> t: wriest
+WS <> b: w, f: s
+wu <> r: wuer
+wuer <> b: wu, f: r
+wuther <> i: wuthering
+wuthering <> b: wuther, f: i, i: wuthering
+wye <> s: wyes
+wyes <> b: wye, f: s
+Wyeth <> '3': wyeth, b: wyeth, f: '3'
+wynd <> s: wynds
+wynds <> b: wynd, f: s
+wyvern <> s: wyverns, '3': wyverns
+wyverns <> b: wyvern, f: s3

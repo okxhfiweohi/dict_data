@@ -1,0 +1,7 @@
+qcs => QC
+quai => Quai
+quakers => quaker
+quebeckers => Quebecker
+quintas => Quinta
+quixotes => Quixote
+quorns => Quorn

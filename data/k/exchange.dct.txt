@@ -1,0 +1,666 @@
+kabuki <> s: kabuki, b: kabuki, f: s
+kadi <> s: kadis
+kadis <> b: kadi, f: s
+kaffir <> s: kaffirs
+kaffirs <> b: kaffir, f: s
+kaftan <> s: kaftans
+kaftans <> b: kaftan, f: s
+kagoul <> s: kagouls
+kagouls <> b: kagoul, f: s
+kai <> s: kai, b: kai, f: s
+kairo <> s: kairos, '3': kairos
+kairos <> b: kairo, f: s3
+kaiser <> s: kaisers
+kaisers <> b: kaiser, f: s
+kaki <> s: kaki, b: kaki, f: s
+kale <> p: kaled
+kaled <> b: kale, f: p
+kaleidoscope <> s: kaleidoscopes, p: kaleidoscoped
+kaleidoscoped <> b: kaleidoscope, f: p
+kaleidoscopes <> b: kaleidoscope, f: s
+kalends <> b: kalend, f: s3
+kali <> s: kali, b: kali, f: s
+kalmia <> s: kalmias
+kalmias <> b: kalmia, f: s
+kami <> s: kami, b: kami, f: s
+kampong <> s: kampongs
+kampongs <> b: kampong, f: s
+Kampuchean <> s: kampucheans
+kanban <> s: kanbans
+kanbans <> b: kanban, f: s
+kangaroo <> s: kangaroos
+kangaroos <> b: kangaroo, f: s
+kao <> s: kaos
+kaos <> b: kao, f: s
+Kaplan <> s: kaplans
+karabiner <> s: karabiners
+karabiners <> b: karabiner, f: s
+karaoke <> s: karaokes
+karaokes <> b: karaoke, f: s
+karateka <> s: karatekas
+karatekas <> b: karateka, f: s
+karma <> s: karmas
+karmas <> b: karma, f: s
+kart <> s: karts, i: karting
+karting <> b: kart, f: i
+karts <> b: kart, f: s
+karyotype <> s: karyotypes
+karyotypes <> b: karyotype, f: s
+karyotyping <> i: karyotyping, b: karyotyping, f: i
+KAT <> s: kats, '3': kats
+kata <> s: katas
+katas <> b: kata, f: s
+katydid <> s: katydids
+katydids <> b: katydid, f: s
+kauri <> s: kauri, b: kauri, f: s
+kava <> s: kavas
+kavas <> b: kava, f: s
+Kawasaki <> s: kawasaki, b: kawasaki, f: s
+kayak <> s: kayaks
+kayaking <> b: kayake, f: i, i: kayaking
+kayaks <> b: kayak, f: s
+kayo <> i: kayoing, p: kayoed, '3': kayos, d: kayoed
+kayoed <> f: pd, b: kayo
+kayoing <> f: i, b: kayo
+kayos <> f: '3', b: kayo
+kazakh <> s: kazakhs
+kazakhs <> b: kazakh, f: s
+kazoo <> s: kazoos
+kazoos <> b: kazoo, f: s
+KB <> s: kbs
+kbyte <> s: kbytes
+kbytes <> b: kbyte, f: s
+ke <> s: kes
+kea <> s: keas
+keas <> b: kea, f: s
+kebab <> s: kebabs, '3': kebabs
+kebabs <> b: kebab, f: s3
+keck <> s: kecks
+kecks <> b: keck, f: s
+kedge <> s: kedges
+kedges <> b: kedge, f: s
+keek <> i: keeking, p: keeked
+keeked <> b: keek, f: p
+keeking <> b: keek, f: i
+keel <> p: keeled, i: keeling, s: keels, '3': keels, d: keeled
+keelboat <> s: keelboats
+keelboats <> b: keelboat, f: s
+keeled <> b: keel, f: pd
+Keeling <> b: keel, f: i
+keels <> b: keel, f: s3
+keen <> r: keener, t: keenest, i: keening, p: keened, '3': keens, d: keened
+Keenan <> s: keenans
+keened <> f: pd, b: keen
+keener <> b: keen, f: r
+keenest <> b: keen, f: t
+keening <> b: keen, f: i, s: keenings, i: keening
+keens <> f: '3', b: keen
+keep <> p: kept, d: kept, i: keeping, '3': keeps
+keeper <> s: keepers
+keepers <> b: keeper, f: s
+keepership <> s: keeperships
+keeperships <> b: keepership, f: s
+keeping <> b: keep, f: i, i: keeping
+keeps <> b: keep, f: '3'
+keepsake <> s: keepsakes, '3': keepsakes
+keepsakes <> b: keepsake, f: s3
+keg <> s: kegs, '3': kegs, i: kegging
+kegging <> b: keg, f: i
+kegs <> b: keg, f: s3
+kelim <> s: kelims, '3': kelims
+kelims <> b: kelim, f: s3
+kell <> i: kelling
+kelling <> b: kell, f: i
+kelp <> i: kelping
+kelping <> b: kelp, f: i
+Kelvin <> s: kelvins
+kennel <> s: kennels, d: kennelled, i: kennelling, p: kennelled, '3': kennels
+kennelled <> f: dp, b: kennel
+kennelling <> f: i, b: kennel
+kennels <> f: s3, b: kennel
+kenyan <> s: kenyans
+Kenyon <> s: kenyons
+kept <> b: keep, f: pd, d: kept, p: kept
+keratinize <> i: keratinizing, p: keratinized, '3': keratinizes, d: keratinized
+keratinized <> f: pd, b: keratinize
+keratinizes <> f: '3', b: keratinize
+keratinizing <> f: i, b: keratinize
+keratinocyte <> s: keratinocytes
+keratinocytes <> b: keratinocyte, f: s
+kerb <> s: kerbs, d: kerbed, i: kerbing
+kerb-crawler <> s: kerb-crawlers
+kerb-crawlers <> b: kerb-crawler, f: s
+kerbed <> b: kerb, f: d
+kerbing <> b: kerb, f: i
+kerbs <> b: kerb, f: s
+kerbside <> s: kerbsides
+kerbsides <> b: kerbside, f: s
+kerbstone <> s: kerbstones
+kerbstones <> b: kerbstone, f: s
+kerchief <> s: kerchiefs
+kerchiefs <> b: kerchief, f: s
+kerf <> i: kerfing, p: kerfed, s: kerfs
+kerfed <> b: kerf, f: p
+kerfing <> b: kerf, f: i, i: kerfing
+kerfs <> b: kerf, f: s
+kern <> i: kerning, p: kerned
+kerned <> b: kern, f: p
+kernel <> s: kernels, '3': kernels
+kernels <> b: kernel, f: s3
+kerning <> b: kern, f: i
+kerries <> b: kerry, f: '3'
+kerry <> '3': kerries
+kersey <> s: kerseys
+kerseymere <> s: kerseymeres
+kerseymeres <> b: kerseymere, f: s
+kerseys <> b: kersey, f: s
+kes <> b: ke, f: s
+kestrel <> s: kestrels
+kestrels <> b: kestrel, f: s
+ketch <> s: ketches
+ketches <> b: ketch, f: s
+ketchup <> s: ketchups
+ketchups <> b: ketchup, f: s
+ketone <> s: ketones
+ketones <> b: ketone, f: s
+kettle <> s: kettles, p: kettled
+kettled <> b: kettle, f: p
+kettledrum <> s: kettledrums
+kettledrums <> b: kettledrum, f: s
+kettles <> b: kettle, f: s
+key <> s: keys, d: keyed, i: keying, p: keyed, '3': keys
+keyboard <> s: keyboards, i: keyboarding, d: keyboarded
+keyboarded <> b: keyboard, f: d
+keyboarder <> s: keyboarders
+keyboarders <> b: keyboarder, f: s
+keyboarding <> b: keyboard, f: i, i: keyboarding
+keyboardist <> s: keyboardists
+keyboardists <> b: keyboardist, f: s
+keyboards <> b: keyboard, f: s
+keycard <> s: keycards
+keyed <> f: dp, b: key
+keyhole <> s: keyholes
+keyholes <> b: keyhole, f: s
+keying <> f: i, b: key
+keynes <> b: keyne, f: 3s
+Keynesian <> s: keynesians
+keynote <> s: keynotes, i: keynoting, p: keynoted, '3': keynotes, d: keynoted
+keynoted <> f: pd, b: keynote
+keynotes <> f: s3, b: keynote
+keynoting <> b: keynote, f: i
+keypad <> s: keypads
+keypads <> b: keypad, f: s
+keyring <> s: keyrings, i: keyring, b: keyring, f: i
+keyrings <> b: keyring, f: s
+keys <> f: s3, b: key
+keystone <> s: keystones
+keystones <> b: keystone, f: s
+keystroke <> s: keystrokes
+keystrokes <> b: keystroke, f: s
+keyway <> s: keyways
+keyways <> b: keyway, f: s
+keyword <> s: keywords, i: keywording
+keywording <> b: keyword, f: i
+keywords <> b: keyword, f: s
+kg <> s: kgs
+kgs <> b: kg, f: s
+khaki <> s: khakis
+khakis <> b: khaki, f: s
+khaled <> p: khaled, b: khaled, f: p
+khan <> s: khans
+khanate <> s: khanates
+khanates <> b: khanate, f: s
+khans <> b: khan, f: s
+khazi <> s: khazi, b: khazi, f: s
+KI <> s: ki, b: ki, f: s
+kibble <> s: kibbles
+kibbles <> b: kibble, f: s
+kibitz <> i: kibitzing, p: kibitzed, '3': kibitzes, d: kibitzed
+kibitzed <> f: pd, b: kibitz
+kibitzes <> f: '3', b: kibitz
+kibitzing <> f: i, b: kibitz
+kibosh <> i: kiboshing, p: kiboshed, '3': kiboshes, d: kiboshed
+kiboshed <> f: pd, b: kibosh
+kiboshes <> f: '3', b: kibosh
+kiboshing <> f: i, b: kibosh
+kick <> p: kicked, i: kicking, d: kicked, s: kicks, '3': kicks
+kick-off <> s: kick-offs
+kick-offs <> b: kick-off, f: s
+kick-start <> '3': kick-starts, d: kick-started, i: kick-starting, p: kick-started
+kick-started <> f: dp, b: kick-start
+kick-starting <> f: i, b: kick-start
+kick-starts <> b: kick-start, f: '3'
+kickback <> s: kickbacks
+kickbacks <> b: kickback, f: s
+kickboxing <> b: kickbox, f: i
+kicked <> b: kick, f: pd
+kicker <> s: kickers
+kickers <> b: kicker, f: s
+kicking <> b: kick, f: i, i: kicking
+kickoff <> s: kickoffs
+kickoffs <> b: kickoff, f: s
+kicks <> b: kick, f: s3
+kid <> s: kids, i: kidding, p: kidded, '3': kids, d: kidded
+kidded <> f: pd, b: kid
+KIDDIES <> b: kiddy, f: s
+kidding <> b: kid, f: i, i: kidding
+kiddo <> s: kiddos
+kiddos <> b: kiddo, f: s
+kiddy <> s: kiddies
+kidnap <> d: kidnapped, p: kidnapped, i: kidnapping, '3': kidnaps, s: kidnaps
+kidnapped <> b: kidnap, f: dp, p: kidnapped, d: kidnapped
+kidnapper <> s: kidnappers
+kidnappers <> b: kidnapper, f: s
+kidnapping <> b: kidnap, f: i, s: kidnappings, i: kidnapping
+kidnaps <> b: kidnap, f: 3s
+kidney <> s: kidneys
+kidneys <> b: kidney, f: s
+kids <> f: s3, b: kid
+Kiefer <> s: kiefers
+kier <> b: ky, f: r
+kiev <> s: kievs
+kievs <> b: kiev, f: s
+kilderkin <> s: kilderkins
+kilderkins <> b: kilderkin, f: s
+kilim <> s: kilims
+kilims <> b: kilim, f: s
+kill <> d: killed, i: killing, p: killed, '3': kills
+killa <> s: killas
+killas <> b: killa, f: s
+killed <> b: kill, f: dp, d: killed, p: killed
+killer <> s: killers
+killers <> b: killer, f: s
+killick <> s: killicks
+killicks <> b: killick, f: s
+killing <> b: kill, f: i, s: killings, i: killing
+killjoy <> s: killjoys
+killjoys <> b: killjoy, f: s
+kills <> b: kill, f: '3'
+kiln <> s: kilns, '3': kilns
+kilns <> b: kiln, f: s3
+kilo <> s: kilos
+kilobase <> s: kilobases, '3': kilobases
+kilobases <> b: kilobase, f: s3
+KIlobyte <> s: kilobytes
+kilobytes <> b: kilobyte, f: s
+kilogram <> s: kilograms
+kilogramme <> s: kilogrammes
+kilogrammes <> b: kilogramme, f: s
+kilograms <> b: kilogram, f: s
+kilojoule <> s: kilojoules
+kilojoules <> b: kilojoule, f: s
+kilometer <> s: kilometers
+kilometers <> b: kilometer, f: s
+kilometre <> s: kilometres
+kilometres <> b: kilometre, f: s
+kilos <> b: kilo, f: s
+kiloton <> s: kilotons
+kilotons <> b: kiloton, f: s
+kilowatt <> s: kilowatts
+kilowatt-hour <> s: kilowatt-hours
+kilowatt-hours <> b: kilowatt-hour, f: s
+kilowatts <> b: kilowatt, f: s
+kilt <> s: kilts, p: kilted
+kilted <> b: kilt, f: p, p: kilted
+kilts <> b: kilt, f: s
+kimberlite <> s: kimberlites
+kimberlites <> b: kimberlite, f: s
+kimono <> s: kimonos
+kimonos <> b: kimono, f: s
+kinase <> s: kinases, d: kinased, i: kinasing
+kinased <> b: kinase, f: d, d: kinased
+kinases <> b: kinase, f: s
+kinasing <> b: kinase, f: i
+kind <> s: kinds, r: kinder, t: kindest
+kinder <> b: kind, f: r
+kindergarten <> s: kindergartens
+kindergartens <> b: kindergarten, f: s
+kindest <> b: kind, f: t
+kindle <> d: kindled, i: kindling, p: kindled, '3': kindles
+kindled <> b: kindle, f: dp, p: kindled, d: kindled
+kindles <> b: kindle, f: '3'
+kindlier <> b: kindly, f: r
+kindling <> b: kindle, f: i, i: kindling
+kindly <> r: kindlier
+kindness <> s: kindnesses
+kindnesses <> b: kindness, f: s
+kindred <> s: kindreds
+kindreds <> b: kindred, f: s
+kinds <> b: kind, f: s
+kinematic <> s: kinematics
+kinematics <> b: kinematic, f: s
+kinesic <> s: kinesics
+kinesics <> b: kinesic, f: s
+king <> s: kings
+kingcup <> s: kingcups
+kingcups <> b: kingcup, f: s
+kingdom <> s: kingdoms
+kingdoms <> b: kingdom, f: s
+kingfisher <> s: kingfishers
+kingfishers <> b: kingfisher, f: s
+kinglet <> s: kinglets
+kinglets <> b: kinglet, f: s
+kingmaker <> s: kingmakers
+kingmakers <> b: kingmaker, f: s
+kingpin <> s: kingpins
+kingpins <> b: kingpin, f: s
+kings <> b: king, f: s
+kingship <> s: kingships
+kingships <> b: kingship, f: s
+kink <> s: kinks, i: kinking, '3': kinks, d: kinked, p: kinked
+kinked <> b: kink, f: dp, p: kinked
+kinkier <> b: kinky, f: r
+kinkies <> b: kinky, f: s
+kinking <> b: kink, f: i, i: kinking
+kinks <> b: kink, f: s3
+kinky <> s: kinkies, r: kinkier
+kinship <> s: kinships
+kinships <> b: kinship, f: s
+kinsman <> s: kinsmen
+kinsmen <> b: kinsman, f: s
+kinswoman <> s: kinswomen
+kinswomen <> b: kinswoman, f: s
+kiosk <> s: kiosks
+kiosks <> b: kiosk, f: s
+kip <> i: kipping, p: kipped, d: kipped, '3': kips
+kipped <> b: kip, f: pd
+kipper <> s: kippers, d: kippered, i: kippering, p: kippered
+kippered <> b: kipper, f: dp
+kippering <> b: kipper, f: i
+kippers <> b: kipper, f: s
+kipping <> b: kip, f: i
+kirk <> s: kirks
+kirkman <> s: kirkmen
+kirkmen <> b: kirkman, f: s
+kirks <> b: kirk, f: s
+Kirkwood <> s: kirkwoods
+kirtle <> i: kirtling, s: kirtles
+kirtles <> b: kirtle, f: s
+kirtling <> b: kirtle, f: i
+kiss <> p: kissed, i: kissing, s: kisses, d: kissed, '3': kisses
+kiss-curl <> s: kiss-curls
+kiss-curls <> b: kiss-curl, f: s
+kissed <> b: kiss, f: pd, d: kissed
+kisser <> s: kissers
+kissers <> b: kisser, f: s
+kisses <> b: kiss, f: s3
+kissing <> b: kiss, f: i, i: kissing, s: kissings
+kissogram <> d: kissogrammed, s: kissograms
+kissogrammed <> b: kissogram, f: d
+kissograms <> b: kissogram, f: s
+kist <> s: kists
+kists <> b: kist, f: s
+Kiswahili <> s: kiswahili, b: kiswahili, f: s
+kit <> s: kits, d: kitted, i: kitting, p: kitted, '3': kits
+kitbag <> s: kitbags
+kitbags <> b: kitbag, f: s
+kitchen <> s: kitchens
+kitchenette <> s: kitchenettes
+kitchenettes <> b: kitchenette, f: s
+kitchens <> b: kitchen, f: s
+kite <> s: kites, i: kiting, p: kited, '3': kites, d: kited
+kited <> f: pd, b: kite
+kitemark <> d: kitemarked, s: kitemarks
+kitemarked <> b: kitemark, f: d
+kitemarks <> b: kitemark, f: s
+kites <> f: s3, b: kite
+kiting <> b: kit, f: i
+kits <> b: kit, f: s
+kitted <> b: kit, f: dp
+kitten <> s: kittens, d: kittened, i: kittening, p: kittened, '3': kittens
+kittened <> f: dp, b: kitten
+kittening <> f: i, b: kitten
+kittens <> f: s3, b: kitten
+kitting <> b: kit, f: i
+kittiwake <> s: kittiwakes
+kittiwakes <> b: kittiwake, f: s
+kiva <> s: kivas
+kivas <> b: kiva, f: s
+kiwi <> s: kiwis
+kiwis <> b: kiwi, f: s
+Klansman <> s: klansmen
+klansmen <> b: klansman, f: s
+klatch <> s: klatches
+klatches <> b: klatch, f: s
+klaxon <> s: klaxons, i: klaxoning
+klaxoning <> b: klaxon, f: i
+klaxons <> b: klaxon, f: s
+Kleinwort <> s: kleinworts
+klick <> s: klicks
+klicks <> b: klick, f: s
+Klingon <> s: klingons
+klong <> s: klongs
+klongs <> b: klong, f: s
+kloster <> s: klosters
+klosters <> b: kloster, f: s
+klystron <> s: klystrons
+klystrons <> b: klystron, f: s
+km <> s: kms
+kms <> b: km, f: s
+knack <> s: knacks, p: knacked
+knacked <> b: knack, f: p
+knacker <> s: knackers, p: knackered, d: knackered
+knackered <> d: knackered, b: knackered, f: dp, p: knackered
+knackers <> b: knacker, f: s
+knacks <> b: knack, f: s
+knackwurst <> s: knackwursts
+knackwursts <> b: knackwurst, f: s
+knap <> d: knapped, p: knapped, s: knaps, i: knapping, '3': knaps
+knapped <> b: knap, f: dp
+knapping <> f: i, b: knap
+knaps <> f: s3, b: knap
+knapsack <> s: knapsacks
+knapsacks <> b: knapsack, f: s
+knave <> s: knaves
+knaveries <> b: knavery, f: s
+knavery <> s: knaveries
+knaves <> b: knave, f: s
+knead <> i: kneading, p: kneaded, '3': kneads, d: kneaded
+kneaded <> b: knead, f: pd
+kneading <> b: knead, f: i, i: kneading
+kneads <> b: knead, f: '3'
+knee <> s: knees, i: kneeing
+kneecap <> s: kneecaps, i: kneecapping, p: kneecapped, '3': kneecaps, d: kneecapped
+kneecapping <> b: kneecap, f: i, s: kneecappings
+kneecaps <> b: kneecap, f: s
+kneeing <> b: knee, f: i
+kneel <> p: knelt, i: kneeling, '3': kneels, d: knelt
+kneeler <> s: kneelers
+kneelers <> b: kneeler, f: s
+kneeling <> b: kneel, f: i, i: kneeling
+kneels <> b: kneel, f: '3'
+knees <> b: knee, f: s
+knees-up <> s: knees-up, b: knees-up, f: s
+knell <> d: knelled, s: knells, i: knelling, p: knelled, '3': knells
+knelled <> b: knell, f: d
+knells <> b: knell, f: s
+knelt <> b: kneel, f: pd
+knew <> b: know, f: p
+knick <> s: knicks
+knick-knack <> s: knick-knacks
+knick-knacks <> b: knick-knack, f: s
+knickerbocker <> s: knickerbockers, p: knickerbockered
+knickerbockered <> b: knickerbocker, f: p
+knickerbockers <> b: knickerbocker, f: s
+knickers <> s: knickers, b: knickers, f: s
+knicks <> b: knick, f: s
+knife <> s: knives, d: knifed, i: knifing, p: knifed, '3': knifes
+knife-edge <> s: knife-edges
+knife-edges <> b: knife-edge, f: s
+knifed <> f: dp, b: knife
+knifes <> f: s3, b: knife
+knifing <> b: knife, f: i, s: knifings, i: knifing
+knight <> s: knights, d: knighted, p: knighted, '3': knights, i: knighting
+knighted <> b: knight, f: dp, p: knighted
+knighthood <> s: knighthoods
+knighthoods <> b: knighthood, f: s
+knighting <> b: knight, f: i
+knights <> b: knight, f: s3
+knit <> i: knitting, d: knitted, p: knit, b: knit, f: pd, '3': knits, s: knits
+knits <> b: knit, f: 3s
+knitted <> b: knit, f: dp, p: knitted, d: knitted, s: knitteds
+knitter <> s: knitters
+knitters <> b: knitter, f: s
+knitting <> b: knit, f: i, i: knitting
+knives <> b: knife, f: s
+knob <> s: knobs, p: knobbed, i: knobbing
+knobbed <> b: knob, f: p, p: knobbed
+knobbing <> b: knob, f: i
+knobble <> p: knobbled, s: knobbles, d: knobbled, i: knobbling
+knobbled <> b: knobble, f: pd
+knobbles <> b: knobble, f: s
+knobblier <> b: knobbly, f: r
+knobbling <> b: knobble, f: i
+knobbly <> r: knobblier
+knobs <> b: knob, f: s
+knobstick <> s: knobsticks
+knobsticks <> b: knobstick, f: s
+knock <> p: knocked, d: knocked, i: knocking, s: knocks, '3': knocks
+knock-down <> s: knock-downs
+knock-downs <> b: knock-down, f: s
+knock-off <> s: knock-offs
+knock-offs <> b: knock-off, f: s
+knockabout <> s: knockabouts
+knockabouts <> b: knockabout, f: s
+knockdown <> s: knockdowns
+knockdowns <> b: knockdown, f: s
+knocked <> b: knock, f: pd
+knocker <> s: knockers
+knockers <> b: knocker, f: s
+knocking <> b: knock, f: i, i: knocking, s: knockings
+knockout <> s: knockouts
+knockouts <> b: knockout, f: s
+knocks <> b: knock, f: s3
+knoll <> s: knolls, d: knolled
+knolled <> b: knoll, f: d
+knolls <> b: knoll, f: s
+knop <> s: knops
+knops <> b: knop, f: s
+knot <> s: knots, p: knotted, d: knotted, i: knotting, '3': knots
+knothole <> s: knotholes
+knotholes <> b: knothole, f: s
+knots <> f: s3, b: knot
+Knott <> '3': knotts
+knotted <> b: knot, f: pd, d: knotted, p: knotted
+knottier <> b: knotty, f: r
+knottiest <> b: knotty, f: t
+knotting <> b: knot, f: i, i: knotting
+knotty <> t: knottiest, r: knottier
+knotweed <> s: knotweeds
+knotweeds <> b: knotweed, f: s
+know <> p: knew, d: known, '3': knows, i: knowing
+know-all <> s: know-alls
+know-alls <> b: know-all, f: s
+know-it-all <> s: know-it-alls
+know-it-alls <> b: know-it-all, f: s
+know-nothing <> s: know-nothings
+know-nothings <> b: know-nothing, f: s
+knower <> s: knowers
+knowers <> b: knower, f: s
+knowing <> b: know, f: i, i: knowing
+knowledge <> s: knowledges
+knowledges <> b: knowledge, f: s
+known <> b: know, f: d, d: known, p: known
+knows <> b: know, f: '3'
+knuckle <> s: knuckles, p: knuckled, i: knuckling, '3': knuckles, d: knuckled
+knuckle-duster <> s: knuckle-dusters
+knuckle-dusters <> b: knuckle-duster, f: s
+knuckled <> b: knuckle, f: pd
+knuckleduster <> s: knuckledusters
+knuckledusters <> b: knuckleduster, f: s
+knucklehead <> s: knuckleheads
+knuckleheads <> b: knucklehead, f: s
+knuckles <> b: knuckle, f: s3
+knuckling <> b: knuckle, f: i
+knurled <> p: knurled, b: knurled, f: p
+KO <> s: kos
+koala <> s: koalas
+koalas <> b: koala, f: s
+kobold <> s: kobolds, '3': kobolds
+kobolds <> b: kobold, f: s3
+koel <> s: koels
+koels <> b: koel, f: s
+kofta <> s: koftas
+koftas <> b: kofta, f: s
+kohlrabi <> s: kohlrabi, b: kohlrabi, f: s
+koi <> s: koi, b: koi, f: s
+koko <> s: kokos
+kokos <> b: koko, f: s
+kook <> s: kooks
+kookaburra <> s: kookaburras
+kookaburras <> b: kookaburra, f: s
+kooks <> b: kook, f: s
+koon <> s: koons, i: kooning
+kooning <> b: koon, f: i
+KOONS <> b: koon, f: s
+Kop <> s: kops
+kopeck <> s: kopecks, '3': kopecks
+kopecks <> b: kopeck, f: s3
+kopek <> s: kopeks
+kopeks <> b: kopek, f: s
+kopje <> s: kopjes
+kopjes <> b: kopje, f: s
+Koran <> s: korans
+Korean <> s: koreans
+koreans <> b: korean, f: s
+korma <> s: kormas
+kormas <> b: korma, f: s
+Kos <> b: ko, f: s
+kosher <> p: koshered
+koshered <> b: kosher, f: p
+kouro <> s: kouros
+kouros <> b: kouro, f: s
+kowtow <> i: kowtowing, p: kowtowed, '3': kowtows, d: kowtowed
+kowtowed <> b: kowtow, f: pd
+kowtowing <> b: kowtow, f: i
+kowtows <> b: kowtow, f: '3'
+Kr <> i: kring
+Kraal <> s: kraals
+kraals <> b: kraal, f: s
+krait <> s: kraits
+kraits <> b: krait, f: s
+kraken <> s: krakens
+krakens <> b: kraken, f: s
+krau <> s: kraus
+Kraus <> b: krau, f: s
+Kraut <> s: krauts, '3': krauts
+krauts <> b: kraut, f: s3
+kray <> s: krays
+krays <> b: kray, f: s
+Krishna <> s: krishnas
+krone <> r: kroner
+kroner <> b: krone, f: r
+Kronos <> b: krono, f: s
+kroon <> s: kroons
+kroons <> b: kroon, f: s
+krugerrand <> s: krugerrands
+krugerrands <> b: krugerrand, f: s
+krytron <> s: krytrons
+krytrons <> b: krytron, f: s
+kudo <> s: kudos
+kudos <> b: kudo, f: s
+kudu <> s: kudus
+kudus <> b: kudu, f: s
+kukri <> s: kukri, b: kukri, f: s
+kulak <> s: kulaks
+kulaks <> b: kulak, f: s
+kumquat <> s: kumquats, '3': kumquats
+kumquats <> b: kumquat, f: s3
+kundalini <> s: kundalini, b: kundalini, f: s
+kung <> p: kung, b: kung, f: pd, d: kung
+Kurd <> s: kurds
+kurds <> b: kurd, f: s
+Kuwaiti <> s: kuwaitis
+kuwaitis <> b: kuwaiti, f: s
+kvetch <> i: kvetching, p: kvetched, '3': kvetches, d: kvetched
+kw <> s: kws
+kwacha <> s: kwachas
+kwachas <> b: kwacha, f: s
+kwanza <> s: kwanzas
+kwanzas <> b: kwanza, f: s
+kwh <> s: kwhs
+kwhs <> b: kwh, f: s
+kws <> b: kw, f: s
+KY <> r: kier
+kyat <> s: kyats
+kyats <> b: kyat, f: s

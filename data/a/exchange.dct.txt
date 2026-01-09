@@ -1,0 +1,4099 @@
+A-bomb <> s: a-bombs
+aaah <> p: aaahed
+aaahed <> b: aaah, f: p
+aah <> s: aahs, i: aahing, p: aahed
+aahed <> b: aah, f: p
+aahing <> b: aah, f: i
+aahs <> b: aah, f: s
+AAM <> s: aams
+aardvark <> s: aardvarks
+aardvarks <> b: aardvark, f: s
+ab <> i: abbing
+aba <> s: abas
+abalone <> s: abalones
+abalones <> b: abalone, f: s
+abandon <> d: abandoned, p: abandoned, i: abandoning, '3': abandons
+abandoned <> b: abandon, f: dp, p: abandoned, d: abandoned
+abandoning <> b: abandon, f: i
+abandonment <> s: abandonments
+abandonments <> b: abandonment, f: s
+abandons <> b: abandon, f: '3'
+abas <> b: aba, f: s
+abase <> i: abasing, p: abased, '3': abases, d: abased
+abased <> f: pd, b: abase
+abases <> b: abase, f: '3'
+abash <> d: abashed, i: abashing, p: abashed, '3': abashes
+abashed <> d: abashed, b: abashed, f: d
+abashes <> f: '3', b: abash
+abashing <> f: i, b: abash
+abasing <> b: abase, f: i
+abate <> d: abated, i: abating, p: abated, '3': abates
+abated <> b: abate, f: dp
+abatement <> s: abatements
+abatements <> b: abatement, f: s
+abates <> b: abate, f: '3'
+abating <> b: abate, f: i
+abattoir <> s: abattoirs
+abattoirs <> b: abattoir, f: s
+abaya <> s: abayas
+abayas <> b: abaya, f: s
+abbacies <> b: abbacy, f: s
+abbacy <> s: abbacies
+abbess <> s: abbesses
+abbesses <> b: abbess, f: s
+abbey <> s: abbeys
+abbeys <> b: abbey, f: s
+abbing <> b: ab, f: i
+abbot <> s: abbots
+abbots <> b: abbot, f: s
+abbreviate <> d: abbreviated, i: abbreviating, p: abbreviated, '3': abbreviates
+abbreviated <> d: abbreviated, b: abbreviated, f: d
+abbreviates <> f: '3', b: abbreviate
+abbreviating <> b: abbreviate, f: i
+abbreviation <> s: abbreviations
+abbreviations <> b: abbreviation, f: s
+ABC <> s: abcs
+abdicate <> p: abdicated, d: abdicated, i: abdicating, '3': abdicates, s: abdicates
+abdicated <> b: abdicate, f: pd, p: abdicated
+abdicates <> b: abdicate, f: 3s
+abdicating <> b: abdicate, f: i
+abdomen <> s: abdomens
+abdomens <> b: abdomen, f: s
+abdominal <> s: abdominals
+abdominals <> b: abdominal, f: s
+abduct <> d: abducted, p: abducted, i: abducting, '3': abducts
+abducted <> b: abduct, f: dp, d: abducted
+abductee <> s: abductees
+abductees <> b: abductee, f: s
+abducting <> b: abduct, f: i
+abduction <> s: abductions
+abductions <> b: abduction, f: s
+abductor <> s: abductors
+abductors <> b: abductor, f: s
+abducts <> b: abduct, f: '3'
+Aberdonian <> s: aberdonians
+aberrance <> s: aberrances
+aberrances <> b: aberrance, f: s
+aberration <> s: aberrations
+aberrations <> b: aberration, f: s
+abet <> p: abetted, i: abetting, d: abetted, '3': abets
+abets <> b: abet, f: '3'
+abetted <> b: abet, f: pd
+abetting <> b: abet, f: i
+abhor <> p: abhorred, '3': abhors, d: abhorred, i: abhorring
+abhorred <> b: abhor, f: pd, p: abhorred
+abhorrence <> s: abhorrences
+abhorrences <> b: abhorrence, f: s
+abhorring <> b: abhor, f: i
+abhors <> b: abhor, f: '3'
+abide <> i: abiding, '3': abides, p: abided, d: abided
+abided <> b: abide, f: pd
+abides <> b: abide, f: '3'
+abiding <> b: abide, f: i, i: abiding
+abigail <> s: abigails
+abigails <> b: abigail, f: s
+abilities <> b: ability, f: s
+ability <> s: abilities
+abjure <> d: abjured, i: abjuring, p: abjured, s: abjures, '3': abjures
+abjured <> b: abjure, f: dp
+abjures <> b: abjure, f: s3
+abjuring <> b: abjure, f: i
+ABL <> t: ablest, r: abler
+ablate <> d: ablated, p: ablated, s: ablates, i: ablating, '3': ablates
+ablated <> b: ablate, f: dp
+ablates <> f: s3, b: ablate
+ablating <> f: i, b: ablate
+ablation <> s: ablations
+ablations <> b: ablation, f: s
+abled <> p: abled, b: abled, f: p
+abler <> b: abl, f: r
+ablest <> b: abl, f: t
+ablution <> s: ablutions
+ablutions <> b: ablution, f: s
+abnegate <> d: abnegated, i: abnegating, p: abnegated, '3': abnegates
+abnegated <> f: dp, b: abnegate
+abnegates <> f: '3', b: abnegate
+abnegating <> f: i, b: abnegate
+abnormal <> s: abnormals
+abnormalities <> b: abnormality, f: s
+abnormality <> s: abnormalities
+abnormals <> b: abnormal, f: s
+ABO <> s: abos
+abode <> f: pd, b: abide, s: abodes
+abodes <> b: abode, f: s
+abolish <> d: abolished, i: abolishing, p: abolished, '3': abolishes
+abolished <> b: abolish, f: dp, d: abolished
+abolishes <> b: abolish, f: '3'
+abolishing <> b: abolish, f: i, i: abolishing
+abolitionist <> s: abolitionists
+abolitionists <> b: abolitionist, f: s
+abominate <> p: abominated, '3': abominates, i: abominating, d: abominated
+abominated <> f: pd, b: abominate, p: abominated
+abominates <> b: abominate, f: '3'
+abominating <> f: i, b: abominate
+abomination <> s: abominations
+abominations <> b: abomination, f: s
+aboriginal <> s: aboriginals
+Aboriginals <> b: aboriginal, f: s
+aborigine <> s: aborigines
+aborigines <> b: aborigine, f: s
+abort <> d: aborted, p: aborted, i: aborting, '3': aborts
+aborted <> b: abort, f: dp, p: aborted
+abortifacient <> s: abortifacients
+abortifacients <> b: abortifacient, f: s
+aborting <> b: abort, f: i
+abortion <> s: abortions
+abortionist <> s: abortionists
+abortionists <> b: abortionist, f: s
+abortions <> b: abortion, f: s
+aborts <> b: abort, f: '3'
+abound <> '3': abounds, p: abounded, i: abounding, d: abounded
+abounded <> b: abound, f: pd
+abounding <> b: abound, f: i, i: abounding
+abounds <> b: abound, f: '3'
+about-face <> s: about-faces
+about-turn <> s: about-turns
+about-turns <> b: about-turn, f: s
+abrade <> d: abraded, p: abraded, i: abrading, '3': abrades
+abraded <> b: abrade, f: dp, d: abraded
+abrades <> f: '3', b: abrade
+abrading <> b: abrade, f: i
+abram <> s: abrams, '3': abrams
+ABRAMS <> b: abram, f: s3
+abrasion <> s: abrasions
+abrasions <> b: abrasion, f: s
+abrasive <> s: abrasives
+abrasives <> b: abrasive, f: s
+abreact <> i: abreacting, p: abreacted, '3': abreacts, d: abreacted
+abreacted <> f: pd, b: abreact
+abreacting <> f: i, b: abreact
+abreacts <> f: '3', b: abreact
+abridge <> d: abridged, i: abridging, p: abridged, '3': abridges
+abridged <> b: abridge, f: dp, p: abridged, d: abridged
+abridgement <> s: abridgements
+abridgements <> b: abridgement, f: s
+abridges <> f: '3', b: abridge
+abridging <> b: abridge, f: i
+abridgment <> s: abridgments
+abridgments <> b: abridgment, f: s
+abrogate <> d: abrogated, i: abrogating, p: abrogated, '3': abrogates
+abrogated <> b: abrogate, f: dp
+abrogates <> b: abrogate, f: '3'
+abrogating <> b: abrogate, f: i
+abrogation <> s: abrogations
+abrogations <> b: abrogation, f: s
+abscess <> s: abscesses
+abscesses <> b: abscess, f: s
+abscise <> i: abscising, p: abscised, '3': abscises, d: abscised
+abscised <> f: pd, b: abscise
+abscises <> f: '3', b: abscise
+abscising <> f: i, b: abscise
+abscond <> p: absconded, d: absconded, i: absconding, '3': absconds, s: absconds
+absconded <> b: abscond, f: pd
+absconder <> s: absconders
+absconders <> b: absconder, f: s
+absconding <> b: abscond, f: i, i: absconding, s: abscondings
+absconds <> b: abscond, f: 3s
+abseil <> i: abseiling, p: abseiled, s: abseils, d: abseiled, '3': abseils
+abseiled <> b: abseil, f: pd
+abseiler <> s: abseilers
+abseilers <> b: abseiler, f: s
+abseiling <> b: abseil, f: i, i: abseiling
+abseils <> b: abseil, f: s3
+absence <> s: absences
+absences <> b: absence, f: s
+absent <> p: absented, i: absenting, d: absented, '3': absents
+absented <> b: absent, f: pd
+absentee <> s: absentees
+absentees <> b: absentee, f: s
+absenting <> b: absent, f: i
+absents <> b: absent, f: '3'
+absolute <> s: absolutes
+absolutes <> b: absolute, f: s
+absolutism <> s: absolutisms
+absolutisms <> b: absolutism, f: s
+absolutist <> s: absolutists
+absolutists <> b: absolutist, f: s
+absolutize <> '3': absolutizes, d: absolutized
+absolutized <> b: absolutize, f: d
+absolutizes <> b: absolutize, f: '3'
+absolve <> d: absolved, p: absolved, i: absolving, '3': absolves
+absolved <> b: absolve, f: dp, p: absolved
+absolves <> b: absolve, f: '3'
+absolving <> b: absolve, f: i
+absorb <> d: absorbed, p: absorbed, '3': absorbs, i: absorbing
+absorbance <> s: absorbances
+absorbances <> b: absorbance, f: s
+absorbed <> b: absorb, f: dp, d: absorbed, p: absorbed
+absorbent <> s: absorbents
+absorbents <> b: absorbent, f: s
+absorber <> s: absorbers
+absorbers <> b: absorber, f: s
+absorbing <> b: absorb, f: i, i: absorbing
+absorbs <> b: absorb, f: '3'
+absorption <> s: absorptions
+absorptions <> b: absorption, f: s
+absquatulate <> i: absquatulating, p: absquatulated, '3': absquatulates, d: absquatulated
+absquatulated <> f: pd, b: absquatulate
+absquatulates <> f: '3', b: absquatulate
+absquatulating <> f: i, b: absquatulate
+abstain <> p: abstained, i: abstaining, d: abstained, '3': abstains
+abstained <> b: abstain, f: pd
+abstainer <> s: abstainers
+abstainers <> b: abstainer, f: s
+abstaining <> b: abstain, f: i
+abstains <> b: abstain, f: '3'
+abstention <> s: abstentions
+abstentions <> b: abstention, f: s
+abstinence <> s: abstinences
+abstinences <> b: abstinence, f: s
+abstract <> s: abstracts, d: abstracted, i: abstracting, '3': abstracts, p: abstracted
+abstracted <> f: dp, b: abstract, d: abstracted
+abstracting <> b: abstract, f: i, i: abstracting
+abstraction <> s: abstractions
+abstractionist <> s: abstractionists
+abstractionists <> b: abstractionist, f: s
+abstractions <> b: abstraction, f: s
+abstractor <> s: abstractors
+abstractors <> b: abstractor, f: s
+abstracts <> b: abstract, f: s3
+abstruse <> r: abstruser
+abstruser <> b: abstruse, f: r
+absurd <> s: absurds
+absurdist <> s: absurdists
+absurdists <> b: absurdist, f: s
+absurdities <> b: absurdity, f: s
+absurdity <> s: absurdities
+absurds <> b: absurd, f: s
+abundance <> s: abundances
+abundances <> b: abundance, f: s
+abuse <> d: abused, s: abuses, i: abusing, '3': abuses, p: abused
+abused <> b: abuse, f: dp, d: abused, p: abused
+abuser <> s: abusers
+abusers <> b: abuser, f: s
+abuses <> b: abuse, f: s3
+abusing <> b: abuse, f: i, i: abusing
+abut <> i: abutting, '3': abuts, p: abutted, d: abutted
+abutilon <> s: abutilons
+abutilons <> b: abutilon, f: s
+abutment <> s: abutments
+abutments <> b: abutment, f: s
+abuts <> b: abut, f: '3'
+abutted <> f: pd, b: abut
+abutting <> b: abut, f: i
+abyss <> s: abysses
+abysses <> b: abyss, f: s
+Abyssinian <> s: abyssinians
+AC <> s: acs
+acacia <> s: acacias
+acacias <> b: acacia, f: s
+academe <> s: academes
+academes <> b: academe, f: s
+academic <> s: academics
+academical <> s: academicals
+academicals <> b: academical, f: s
+academician <> s: academicians
+academicians <> b: academician, f: s
+academics <> b: academic, f: s
+academies <> b: academy, f: s
+academy <> s: academies
+Acadian <> s: acadians
+acanthocephalan <> s: acanthocephalans
+acanthocephalans <> b: acanthocephalan, f: s
+accede <> p: acceded, d: acceded, i: acceding, '3': accedes
+acceded <> b: accede, f: pd
+accedes <> b: accede, f: '3'
+acceding <> b: accede, f: i, i: acceding
+accelerant <> s: accelerants
+accelerants <> b: accelerant, f: s
+accelerate <> p: accelerated, d: accelerated, i: accelerating, '3': accelerates
+accelerated <> b: accelerate, f: pd, p: accelerated, d: accelerated
+accelerates <> b: accelerate, f: '3'
+accelerating <> b: accelerate, f: i, i: accelerating
+acceleration <> s: accelerations
+accelerations <> b: acceleration, f: s
+accelerator <> s: accelerators
+accelerators <> b: accelerator, f: s
+accelerometer <> s: accelerometers
+accelerometers <> b: accelerometer, f: s
+accent <> s: accents, p: accented, i: accenting, d: accented, '3': accents
+accented <> b: accent, f: pd, p: accented, d: accented
+accenting <> b: accent, f: i
+accents <> f: s3, b: accent
+accentuate <> d: accentuated, p: accentuated, '3': accentuates, i: accentuating
+accentuated <> b: accentuate, f: dp, p: accentuated
+accentuates <> b: accentuate, f: '3'
+accentuating <> b: accentuate, f: i
+accentuation <> s: accentuations
+accentuations <> b: accentuation, f: s
+accept <> d: accepted, p: accepted, i: accepting, '3': accepts
+acceptance <> s: acceptances
+acceptances <> b: acceptance, f: s
+accepted <> b: accept, f: dp, d: accepted, p: accepted
+accepting <> b: accept, f: i, i: accepting
+acceptor <> s: acceptors
+acceptors <> b: acceptor, f: s
+accepts <> b: accept, f: '3'
+access <> d: accessed, i: accessing, '3': accesses, s: accesses, p: accessed
+accessed <> b: access, f: dp
+accesses <> b: access, f: 3s
+accessibilities <> b: accessibility, f: s
+accessibility <> s: accessibilities
+accessing <> b: access, f: i, i: accessing
+accession <> s: accessions, d: accessioned, p: accessioned, i: accessioning, '3': accessions
+accessioned <> b: accession, f: dp
+accessioning <> b: accession, f: i
+accessions <> f: s3, b: accession
+accessories <> b: accessory, f: s
+accessorize <> d: accessorized
+accessorized <> b: accessorize, f: d
+accessory <> s: accessories
+accident <> s: accidents
+accidental <> s: accidentals
+accidentals <> b: accidental, f: s
+accidents <> b: accident, f: s
+accipiter <> b: accipite, f: r
+acclaim <> d: acclaimed, p: acclaimed, i: acclaiming, s: acclaims, '3': acclaims
+acclaimed <> b: acclaim, f: dp, d: acclaimed, p: acclaimed
+acclaiming <> b: acclaim, f: i
+acclaims <> b: acclaim, f: s3
+acclamation <> s: acclamations
+acclamations <> b: acclamation, f: s
+acclimate <> p: acclimated, i: acclimating, '3': acclimates, d: acclimated
+acclimated <> b: acclimate, f: p
+acclimation <> s: acclimations
+acclimations <> b: acclimation, f: s
+acclimatise <> d: acclimatised, i: acclimatising, p: acclimatised
+acclimatised <> b: acclimatise, f: dp, d: acclimatised, p: acclimatised
+acclimatises <> f: '3', b: acclimatize
+acclimatising <> b: acclimatise, f: i
+acclimatize <> d: acclimatized, p: acclimatized, i: acclimatizing, '3': acclimatises
+acclimatized <> b: acclimatize, f: dp, d: acclimatized
+acclimatizing <> b: acclimatize, f: i
+accolade <> s: accolades
+accolades <> b: accolade, f: s
+accommodate <> d: accommodated, i: accommodating, '3': accommodates, p: accommodated
+accommodated <> b: accommodate, f: dp
+accommodates <> b: accommodate, f: '3'
+accommodating <> b: accommodate, f: i, i: accommodating
+accommodation <> s: accommodations
+accommodations <> b: accommodation, f: s
+accompanied <> b: accompany, f: dp
+accompanies <> b: accompany, f: '3'
+accompaniment <> s: accompaniments
+accompaniments <> b: accompaniment, f: s
+accompanist <> s: accompanists
+accompanists <> b: accompanist, f: s
+accompany <> d: accompanied, p: accompanied, i: accompanying, '3': accompanies
+accompanying <> b: accompany, f: i, i: accompanying
+accomplice <> s: accomplices
+accomplices <> b: accomplice, f: s
+accomplish <> d: accomplished, p: accomplished, i: accomplishing, '3': accomplishes
+accomplished <> b: accomplish, f: dp, d: accomplished, p: accomplished
+accomplishes <> b: accomplish, f: '3'
+accomplishing <> b: accomplish, f: i
+accomplishment <> s: accomplishments
+accomplishments <> b: accomplishment, f: s
+accord <> i: according, d: accorded, '3': accords, s: accords, p: accorded
+accorded <> b: accord, f: dp
+according <> b: accord, f: i
+accordion <> s: accordions
+accordionist <> s: accordionists
+accordionists <> b: accordionist, f: s
+accordions <> b: accordion, f: s
+accords <> b: accord, f: 3s
+accost <> d: accosted, p: accosted, i: accosting, '3': accosts
+accosted <> b: accost, f: dp
+accosting <> b: accost, f: i
+accosts <> b: accost, f: '3'
+account <> s: accounts, d: accounted, i: accounting, '3': accounts, p: accounted
+accountabilities <> b: accountability, f: s
+accountability <> s: accountabilities
+accountant <> s: accountants
+accountants <> b: accountant, f: s
+accounted <> b: account, f: dp
+accounting <> b: account, f: i, i: accounting
+accounts <> b: account, f: s3
+accoutre <> i: accoutring, p: accoutred, '3': accoutres, d: accoutred
+accoutred <> b: accoutr, f: pd
+accoutrement <> s: accoutrements
+accoutrements <> b: accoutrement, f: s
+accoutres <> f: '3', b: accoutre
+accoutring <> f: i, b: accoutre
+accredit <> d: accredited, i: accrediting, s: accredits, '3': accredits, p: accredited
+accreditation <> s: accreditations
+accreditations <> b: accreditation, f: s
+accredited <> b: accredit, f: dp, d: accredited, p: accredited
+accrediting <> b: accredit, f: i
+accredits <> b: accredit, f: s3
+accrete <> d: accreted, p: accreted, '3': accretes, i: accreting
+accreted <> b: accrete, f: dp
+accretes <> b: accrete, f: '3'
+accreting <> b: accrete, f: i
+accretion <> s: accretions
+accretions <> b: accretion, f: s
+accrual <> s: accruals
+accruals <> b: accrual, f: s
+accrue <> i: accruing, d: accrued, '3': accrues, p: accrued
+accrued <> b: accrue, f: dp, d: accrued, p: accrued
+accrues <> b: accrue, f: '3'
+accruing <> b: accrue, f: i
+acculturate <> p: acculturated, d: acculturated, i: acculturating, '3': acculturates
+acculturated <> b: acculturate, f: pd
+acculturates <> f: '3', b: acculturate
+acculturating <> f: i, b: acculturate
+accumulate <> d: accumulated, i: accumulating, '3': accumulates, p: accumulated
+accumulated <> b: accumulate, f: dp, d: accumulated, p: accumulated
+accumulates <> b: accumulate, f: '3'
+accumulating <> b: accumulate, f: i, i: accumulating
+accumulation <> s: accumulations
+accumulations <> b: accumulation, f: s
+accumulator <> s: accumulators
+accumulators <> b: accumulator, f: s
+accuracies <> b: accuracy, f: s
+accuracy <> s: accuracies
+accusation <> s: accusations
+accusations <> b: accusation, f: s
+accuse <> d: accused, p: accused, i: accusing, '3': accuses
+accused <> b: accuse, f: dp, d: accused, p: accused
+accuser <> s: accusers
+accusers <> b: accuser, f: s
+accuses <> b: accuse, f: '3'
+accusing <> b: accuse, f: i, i: accusing
+accustom <> d: accustomed, p: accustomed, '3': accustoms, i: accustoming
+accustomed <> d: accustomed, b: accustomed, f: dp, p: accustomed
+accustoming <> b: accustome, f: i
+accustoms <> b: accustom, f: '3'
+ace <> s: aces, i: acing, p: aced, '3': aces, d: aced
+acer <> s: acers
+acerbities <> b: acerbity, f: s
+acerbity <> s: acerbities
+acers <> b: acer, f: s
+acetate <> s: acetates
+acetates <> b: acetate, f: s
+acetyl <> s: acetyls
+acetylate <> d: acetylated, p: acetylated, i: acetylating, '3': acetylates
+acetylated <> b: acetylate, f: dp
+acetylates <> f: '3', b: acetylate
+acetylating <> b: acetylate, f: i
+acetylene <> s: acetylenes
+acetylenes <> b: acetylene, f: s
+acetyls <> b: acetyl, f: s
+ACH <> s: aches, '3': aches
+Achaean <> s: achaeans
+Achaemenid <> s: achaemenids
+ache <> p: ached, i: aching, d: ached, '3': aches
+ached <> b: ache, f: pd
+aches <> b: ach, f: s3
+achieve <> d: achieved, i: achieving, p: achieved, '3': achieves
+achieved <> b: achieve, f: dp, d: achieved, p: achieved
+achievement <> s: achievements
+achievements <> b: achievement, f: s
+achiever <> s: achievers
+achievers <> b: achiever, f: s
+achieves <> b: achieve, f: '3'
+achieving <> b: achieve, f: i
+Achille <> s: achilles
+achillea <> s: achilleas
+achilleas <> b: achillea, f: s
+Achilles <> b: achille, f: s
+aching <> b: ache, f: i, i: aching
+achondrite <> s: achondrites
+achondrites <> b: achondrite, f: s
+acid <> s: acids
+acidified <> b: acidify, f: dp, p: acidified
+acidifies <> b: acidify, f: '3'
+acidify <> d: acidified, p: acidified, '3': acidifies, i: acidifying
+acidities <> b: acidity, f: s
+acidity <> s: acidities
+acids <> b: acid, f: s
+acidulate <> i: acidulating, p: acidulated, '3': acidulates, d: acidulated
+acidulated <> f: pd, b: acidulate
+acidulates <> f: '3', b: acidulate
+acidulating <> f: i, b: acidulate
+Acker <> s: ackers
+acknowledge <> p: acknowledged, d: acknowledged, '3': acknowledges, i: acknowledging
+acknowledged <> b: acknowledge, f: pd, d: acknowledged, p: acknowledged
+acknowledgement <> s: acknowledgements
+acknowledgements <> b: acknowledgement, f: s
+acknowledges <> b: acknowledge, f: '3'
+acknowledging <> b: acknowledge, f: i
+acknowledgment <> s: acknowledgments
+acknowledgments <> b: acknowledgment, f: s
+Ackroyd <> s: ackroyds
+ACL <> s: acls
+acme <> s: acmes
+acmes <> b: acme, f: s
+acolyte <> s: acolytes
+acolytes <> b: acolyte, f: s
+aconite <> s: aconites
+aconites <> b: aconite, f: s
+acorn <> s: acorns
+acorns <> b: acorn, f: s
+acoustic <> s: acoustics
+acoustics <> b: acoustic, f: s
+acquaint <> d: acquainted, i: acquainting, p: acquainted, '3': acquaints
+acquaintance <> s: acquaintances
+acquaintances <> b: acquaintance, f: s
+acquaintanceship <> s: acquaintanceships
+acquaintanceships <> b: acquaintanceship, f: s
+acquainted <> b: acquaint, f: dp
+acquainting <> b: acquaint, f: i
+acquaints <> b: acquaint, f: '3'
+acquiesce <> d: acquiesced, p: acquiesced, i: acquiescing, '3': acquiesces
+acquiesced <> b: acquiesce, f: dp
+acquiesces <> b: acquiesce, f: '3'
+acquiescing <> b: acquiesce, f: i, i: acquiescing
+acquire <> d: acquired, p: acquired, i: acquiring, '3': acquires
+acquired <> b: acquire, f: dp, p: acquired, d: acquired
+acquirement <> s: acquirements
+acquirements <> b: acquirement, f: s
+acquirer <> s: acquirers
+acquirers <> b: acquirer, f: s
+acquires <> b: acquire, f: '3'
+acquiring <> b: acquire, f: i, i: acquiring
+acquisition <> s: acquisitions
+acquisitions <> b: acquisition, f: s
+acquit <> d: acquitted, p: acquitted, i: acquitting, s: acquits, '3': acquits
+acquits <> f: s3, b: acquit
+acquittal <> s: acquittals
+acquittals <> b: acquittal, f: s
+acquittance <> s: acquittances
+acquittances <> b: acquittance, f: s
+acquitted <> b: acquit, f: dp, d: acquitted
+acquitting <> b: acquit, f: i
+acre <> s: acres
+acreage <> s: acreages
+acreages <> b: acreage, f: s
+acres <> b: acre, f: s
+acrobat <> s: acrobats, '3': acrobats
+acrobatic <> s: acrobatics
+acrobatics <> b: acrobatic, f: s
+acrobats <> b: acrobat, f: s3
+acromegalic <> s: acromegalics
+acromegalics <> b: acromegalic, f: s
+acronym <> s: acronyms, p: acronymed
+acronymed <> b: acronym, f: p
+acronyms <> b: acronym, f: s
+acrostic <> s: acrostics
+acrostics <> b: acrostic, f: s
+acrylate <> s: acrylates
+acrylates <> b: acrylate, f: s
+acrylic <> s: acrylics
+acrylics <> b: acrylic, f: s
+act <> i: acting, s: acts, p: acted, d: acted, '3': acts
+acted <> b: act, f: pd, d: acted
+acting <> b: act, f: i, i: acting, s: actings
+actinian <> s: actinians
+actinians <> b: actinian, f: s
+actinide <> s: actinides
+actinides <> b: actinide, f: s
+actinomycete <> s: actinomycetes
+actinomycetes <> b: actinomycete, f: s
+action <> s: actions, i: actioning, p: actioned, '3': actions
+actions <> b: action, f: s
+activate <> d: activated, i: activating, '3': activates, p: activated
+activated <> b: activate, f: dp, d: activated, p: activated
+activates <> b: activate, f: '3'
+activating <> b: activate, f: i
+activator <> s: activators
+activators <> b: activator, f: s
+active <> s: actives
+actives <> b: active, f: s
+activist <> s: activists
+activists <> b: activist, f: s
+activities <> b: activity, f: s
+activity <> s: activities
+actor <> s: actors
+actor-manager <> s: actor-managers
+actor-managers <> b: actor-manager, f: s
+actors <> b: actor, f: s
+actress <> s: actresses
+actresses <> b: actress, f: s
+acts <> b: act, f: s3
+actual <> s: actuals
+actualise <> d: actualised, p: actualised, i: actualising
+actualised <> b: actualise, f: dp
+actualising <> b: actualise, f: i
+actualities <> b: actuality, f: s
+actuality <> s: actualities
+actualize <> d: actualized, i: actualizing, p: actualized, '3': actualizes
+actualized <> b: actualize, f: dp, d: actualized, p: actualized
+actualizes <> b: actualize, f: '3'
+actualizing <> b: actualize, f: i
+actuals <> b: actual, f: s
+actuaries <> b: actuary, f: s
+actuary <> s: actuaries
+actuate <> d: actuated, '3': actuates, i: actuating, p: actuated
+actuated <> b: actuate, f: dp
+actuates <> b: actuate, f: '3'
+actuating <> b: actuate, f: i
+actuator <> s: actuators
+actuators <> b: actuator, f: s
+acuities <> b: acuity, f: s
+acuity <> s: acuities
+acuminate <> i: acuminating, p: acuminated, '3': acuminates, d: acuminated
+acuminated <> f: pd, b: acuminate
+acuminates <> f: '3', b: acuminate
+acuminating <> f: i, b: acuminate
+acupuncturist <> s: acupuncturists
+acupuncturists <> b: acupuncturist, f: s
+acute <> s: acutes, t: acutest
+acutes <> b: acute, f: s
+acutest <> b: acute, f: t
+acylate <> i: acylating
+acylating <> b: acylate, f: i
+ad <> s: ads
+ad-lib <> s: ad-libs, '3': ad-libs, i: ad-libbing, p: ad-libbed, d: ad-libbed
+ad-libs <> b: ad-lib, f: s3
+adage <> s: adages
+adages <> b: adage, f: s
+adagio <> s: adagios
+adagios <> b: adagio, f: s
+adapt <> d: adapted, i: adapting, p: adapted, '3': adapts
+adaptation <> s: adaptations
+adaptations <> b: adaptation, f: s
+adapted <> b: adapt, f: dp, d: adapted, p: adapted
+adapter <> s: adapters
+adapters <> b: adapter, f: s
+adapting <> b: adapt, f: i, i: adapting
+adaption <> s: adaptions
+adaptions <> b: adaption, f: s
+adaptor <> s: adaptors
+adaptors <> b: adaptor, f: s
+adapts <> b: adapt, f: '3'
+add <> p: added, d: added, i: adding, '3': adds
+add-in <> s: add-ins
+add-ins <> b: add-in, f: s
+add-on <> s: add-ons
+add-ons <> b: add-on, f: s
+Addams <> b: addam, f: s
+added <> b: add, f: pd, d: added, p: added
+addendum <> s: addendums
+addendums <> b: addendum, f: s
+adder <> s: adders
+adders <> b: adder, f: s
+addict <> d: addicted, s: addicts, i: addicting, p: addicted, '3': addicts
+addicted <> f: dp, b: addict, d: addicted
+addicting <> f: i, b: addict
+addiction <> s: addictions
+addictions <> b: addiction, f: s
+addicts <> f: s3, b: addict
+addies <> b: addy, f: s
+adding <> b: add, f: i, i: adding
+addition <> s: additions
+additions <> b: addition, f: s
+additive <> s: additives
+additives <> b: additive, f: s
+addle <> d: addled, '3': addles, p: addled, i: addling
+addled <> d: addled, b: addled, f: d
+addles <> b: addle, f: '3'
+addling <> f: i, b: addle
+address <> d: addressed, i: addressing, s: addresses, p: addressed, '3': addresses
+addressed <> b: address, f: dp, p: addressed, d: addressed
+addressee <> s: addressees
+addressees <> b: addressee, f: s
+addresses <> b: address, f: s3
+addressing <> b: address, f: i, s: addressings
+adds <> b: add, f: '3'
+adduce <> d: adduced, '3': adduces, p: adduced, i: adducing
+adduced <> b: adduce, f: dp
+adduces <> b: adduce, f: '3'
+adducing <> b: adduce, f: i
+adduct <> s: adducts, '3': adducts, p: adducted, i: adducting, d: adducted
+adducted <> f: pd, b: adduct
+adducting <> f: i, b: adduct
+adductor <> s: adductors
+adductors <> b: adductor, f: s
+adducts <> b: adduct, f: s3
+addy <> s: addies
+adenine <> s: adenines
+adenines <> b: adenine, f: s
+adenocarcinoma <> s: adenocarcinomas
+adenocarcinomas <> b: adenocarcinoma, f: s
+adenoid <> s: adenoids
+adenoids <> b: adenoid, f: s
+adenoma <> s: adenomas
+adenomas <> b: adenoma, f: s
+adept <> s: adepts
+adepts <> b: adept, f: s
+adequacies <> b: adequacy, f: s
+adequacy <> s: adequacies
+adhere <> d: adhered, i: adhering, p: adhered, '3': adheres
+adhered <> b: adhere, f: dp
+adherent <> s: adherents
+adherents <> b: adherent, f: s
+adheres <> b: adhere, f: '3'
+adhering <> b: adhere, f: i, i: adhering
+adhesion <> s: adhesions
+adhesions <> b: adhesion, f: s
+adhesive <> s: adhesives
+adhesives <> b: adhesive, f: s
+adhocracies <> b: adhocracy, f: s
+adhocracy <> s: adhocracies
+adit <> s: adits
+adits <> b: adit, f: s
+adjective <> s: adjectives
+adjectives <> b: adjective, f: s
+adjoin <> i: adjoining, '3': adjoins, p: adjoined, d: adjoined
+adjoined <> b: adjoin, f: pd
+adjoining <> i: adjoining, b: adjoining, f: i
+adjoins <> b: adjoin, f: '3'
+adjourn <> d: adjourned, p: adjourned, i: adjourning, s: adjourns, '3': adjourns
+adjourned <> b: adjourn, f: dp, d: adjourned, p: adjourned
+adjourning <> b: adjourn, f: i
+adjournment <> s: adjournments
+adjournments <> b: adjournment, f: s
+adjourns <> b: adjourn, f: s3
+adjudge <> d: adjudged, p: adjudged, i: adjudging, '3': adjudges
+adjudged <> b: adjudge, f: dp
+adjudges <> b: adjudge, f: '3'
+adjudging <> b: adjudge, f: i
+adjudicate <> d: adjudicated, i: adjudicating, p: adjudicated, '3': adjudicates, s: adjudicates
+adjudicated <> b: adjudicate, f: dp
+adjudicates <> b: adjudicate, f: 3s
+adjudicating <> b: adjudicate, f: i
+adjudication <> s: adjudications
+adjudications <> b: adjudication, f: s
+adjudicator <> s: adjudicators
+adjudicators <> b: adjudicator, f: s
+adjunct <> s: adjuncts
+adjuncts <> b: adjunct, f: s
+adjure <> p: adjured, d: adjured, i: adjuring, '3': adjures
+adjured <> b: adjure, f: pd
+adjures <> f: '3', b: adjure
+adjuring <> b: adjure, f: i
+adjust <> d: adjusted, i: adjusting, p: adjusted, '3': adjusts
+adjustable <> s: adjustables
+adjustables <> b: adjustable, f: s
+adjusted <> b: adjust, f: dp, d: adjusted
+adjuster <> s: adjusters
+adjusters <> b: adjuster, f: s
+adjusting <> b: adjust, f: i, i: adjusting
+adjustment <> s: adjustments
+adjustments <> b: adjustment, f: s
+adjustor <> s: adjustors
+adjustors <> b: adjustor, f: s
+adjusts <> b: adjust, f: '3'
+adjutant <> s: adjutants
+adjutants <> b: adjutant, f: s
+adman <> s: admen
+admen <> b: adman, f: s
+ADMIN <> s: admins
+administer <> d: administered, i: administering, '3': administers, p: administered
+administered <> b: administer, f: dp, d: administered, p: administered
+administering <> b: administer, f: i
+administers <> b: administer, f: '3'
+administrate <> i: administrating, '3': administrates, d: administrated, s: administrates, p: administrated
+administrated <> f: dp, b: administrate
+administrates <> b: administrate, f: 3s
+administrating <> b: administrate, f: i
+administration <> s: administrations
+administrations <> b: administration, f: s
+administrator <> s: administrators
+administrators <> b: administrator, f: s
+admins <> b: admin, f: s
+admiral <> s: admirals
+admirals <> b: admiral, f: s
+admiralties <> b: admiralty, f: s
+Admiralty <> s: admiralties
+admiration <> s: admirations
+admirations <> b: admiration, f: s
+admire <> p: admired, d: admired, i: admiring, '3': admires
+admired <> b: admire, f: pd, p: admired, d: admired
+admirer <> s: admirers
+admirers <> b: admirer, f: s
+admires <> b: admire, f: '3'
+admiring <> b: admire, f: i, i: admiring
+admission <> s: admissions
+admissions <> b: admission, f: s
+admit <> p: admitted, d: admitted, '3': admits, i: admitting
+admits <> b: admit, f: '3'
+admittance <> s: admittances
+admittances <> b: admittance, f: s
+admitted <> b: admit, f: pd, d: admitted, p: admitted
+admitting <> b: admit, f: i, i: admitting
+admix <> s: admixes, d: admixed, i: admixing, p: admixed, '3': admixes
+admixed <> f: dp, b: admix
+admixes <> f: s3, b: admix
+admixing <> b: admix, f: i
+admixture <> s: admixtures
+admixtures <> b: admixture, f: s
+admonish <> p: admonished, d: admonished, i: admonishing, '3': admonishes
+admonished <> b: admonish, f: pd
+admonishes <> b: admonish, f: '3'
+admonishing <> b: admonish, f: i
+admonishment <> s: admonishments
+admonishments <> b: admonishment, f: s
+admonition <> s: admonitions
+admonitions <> b: admonition, f: s
+adobe <> s: adobes
+adobes <> b: adobe, f: s
+adolescence <> s: adolescences
+adolescences <> b: adolescence, f: s
+adolescent <> s: adolescents
+adolescents <> b: adolescent, f: s
+adopt <> d: adopted, p: adopted, i: adopting, '3': adopts
+adopted <> b: adopt, f: dp, p: adopted, d: adopted
+adoptee <> s: adoptees
+adoptees <> b: adoptee, f: s
+adopter <> s: adopters
+adopters <> b: adopter, f: s
+adopting <> b: adopt, f: i, i: adopting
+adoption <> s: adoptions
+adoptions <> b: adoption, f: s
+adopts <> b: adopt, f: '3'
+adoral <> s: adorals
+adorals <> b: adoral, f: s
+adoration <> s: adorations
+adorations <> b: adoration, f: s
+adore <> p: adored, '3': adores, d: adored, i: adoring
+adored <> b: adore, f: pd, p: adored, d: adored
+adorer <> s: adorers
+adorers <> b: adorer, f: s
+adores <> b: adore, f: '3'
+adoring <> b: adore, f: i
+adorn <> d: adorned, p: adorned, i: adorning, '3': adorns
+adorned <> b: adorn, f: dp
+adorning <> b: adorn, f: i
+adornment <> s: adornments
+adornments <> b: adornment, f: s
+adorns <> b: adorn, f: '3'
+ADR <> s: adrs
+adrenal <> s: adrenals
+adrenaline <> s: adrenalines
+adrenalines <> b: adrenaline, f: s
+adrenals <> b: adrenal, f: s
+adsorb <> p: adsorbed, d: adsorbed, '3': adsorbs, s: adsorbs, i: adsorbing
+adsorbate <> s: adsorbates
+adsorbates <> b: adsorbate, f: s
+adsorbed <> b: adsorb, f: pd, p: adsorbed, d: adsorbed
+adsorbent <> s: adsorbents
+adsorbents <> b: adsorbent, f: s
+adsorbing <> b: adsorb, f: i
+adsorbs <> b: adsorb, f: 3s
+aduki <> s: aduki, b: aduki, f: s
+adulate <> p: adulated, d: adulated, i: adulating, '3': adulates
+adulated <> b: adulate, f: pd
+adulates <> f: '3', b: adulate
+adulating <> f: i, b: adulate
+adult <> s: adults
+adulterant <> s: adulterants
+adulterants <> b: adulterant, f: s
+adulterate <> d: adulterated, p: adulterated, '3': adulterates, i: adulterating
+adulterated <> b: adulterate, f: dp, d: adulterated, p: adulterated
+adulterates <> b: adulterate, f: '3'
+adulterating <> b: adulterate, f: i
+adulterer <> s: adulterers
+adulterers <> b: adulterer, f: s
+adulteress <> s: adulteresses
+adulteresses <> b: adulteress, f: s
+adulteries <> b: adultery, f: s
+adultery <> s: adulteries
+adults <> b: adult, f: s
+adumbrate <> p: adumbrated, '3': adumbrates, d: adumbrated, i: adumbrating
+adumbrated <> b: adumbrate, f: pd
+adumbrates <> b: adumbrate, f: '3'
+adumbrating <> b: adumbrate, f: i
+advance <> s: advances, d: advanced, p: advanced, i: advancing, '3': advances
+advanced <> b: advance, f: dp, p: advanced, d: advanced
+advancement <> s: advancements
+advancements <> b: advancement, f: s
+advances <> b: advance, f: s3
+advancing <> b: advance, f: i, i: advancing
+advantage <> s: advantages, d: advantaged, i: advantaging, p: advantaged, '3': advantages
+advantaged <> f: dp, b: advantage, d: advantaged, p: advantaged
+advantages <> f: s3, b: advantage
+advantaging <> f: i, b: advantage
+advect <> d: advected, p: advected
+advected <> b: advect, f: dp
+advent <> s: advents
+Adventist <> s: adventists
+advents <> b: advent, f: s
+adventure <> s: adventures, i: adventuring, p: adventured, '3': adventures, d: adventured
+adventured <> f: pd, b: adventure
+adventurer <> s: adventurers
+adventurers <> b: adventurer, f: s
+adventures <> f: s3, b: adventure
+adventuress <> s: adventuresses
+adventuresses <> b: adventuress, f: s
+adventuring <> b: adventure, f: i
+adventurist <> s: adventurists
+adventurists <> b: adventurist, f: s
+adverb <> s: adverbs
+adverbial <> s: adverbials
+adverbials <> b: adverbial, f: s
+adverbs <> b: adverb, f: s
+adversaries <> b: adversary, f: s
+adversary <> s: adversaries
+adversities <> b: adversity, f: s
+adversity <> s: adversities
+advert <> s: adverts, d: adverted, p: adverted, i: adverting, '3': adverts
+adverted <> b: advert, f: dp
+adverting <> b: advert, f: i
+advertise <> d: advertised, p: advertised, i: advertising, '3': advertises
+advertised <> b: advertise, f: dp, p: advertised, d: advertised
+advertisement <> s: advertisements
+advertisements <> b: advertisement, f: s
+advertiser <> s: advertisers
+advertisers <> b: advertiser, f: s
+advertises <> b: advertise, f: '3'
+advertising <> i: advertising, b: advertising, f: i
+advertorial <> s: advertorials
+advertorials <> b: advertorial, f: s
+adverts <> f: s3, b: advert
+advise <> d: advised, p: advised, i: advising, '3': advises
+advised <> b: advise, f: dp, p: advised, d: advised
+advisee <> s: advisees
+advisees <> b: advisee, f: s
+adviser <> s: advisers
+advisers <> b: adviser, f: s
+advises <> b: advise, f: '3'
+advising <> b: advise, f: i, i: advising
+advisor <> s: advisors
+advisors <> b: advisor, f: s
+advocate <> d: advocated, s: advocates, i: advocating, p: advocated, '3': advocates
+advocated <> b: advocate, f: dp, p: advocated
+advocates <> b: advocate, f: s3
+advocating <> b: advocate, f: i
+advowson <> s: advowsons
+advowsons <> b: advowson, f: s
+advt <> s: advts
+advts <> b: advt, f: s
+adze <> s: adzes, i: adzing, d: adzed
+adzed <> b: adze, f: d
+adzes <> b: adze, f: s
+adzing <> b: adze, f: i
+AEA <> s: aeas
+AEC <> s: aecs
+aeolian <> s: aeolians
+aeolians <> b: aeolian, f: s
+aeon <> s: aeons
+aeons <> b: aeon, f: s
+aer <> s: aers
+aerate <> p: aerated, i: aerating, d: aerated, s: aerates, '3': aerates
+aerated <> b: aerate, f: pd, p: aerated, d: aerated
+aerates <> b: aerate, f: s3
+aerating <> b: aerate, f: i, i: aerating
+aerator <> s: aerators
+aerators <> b: aerator, f: s
+aerial <> s: aerials
+aerials <> b: aerial, f: s
+aero <> s: aeros
+aerobatic <> s: aerobatics
+aerobatics <> b: aerobatic, f: s
+aerobic <> s: aerobics
+aerobics <> b: aerobic, f: s
+aerodrome <> s: aerodromes
+aerodromes <> b: aerodrome, f: s
+aerodynamic <> s: aerodynamics
+aerodynamicist <> s: aerodynamicists
+aerodynamicists <> b: aerodynamicist, f: s
+aerodynamics <> b: aerodynamic, f: s
+aerofoil <> s: aerofoils
+aerofoils <> b: aerofoil, f: s
+aerogramme <> s: aerogrammes
+aerogrammes <> b: aerogramme, f: s
+aeronaut <> s: aeronauts
+aeronauts <> b: aeronaut, f: s
+aeroplane <> s: aeroplanes
+aeroplanes <> b: aeroplane, f: s
+aeros <> b: aero, f: s
+aerosol <> s: aerosols, d: aerosolled
+aerosolled <> b: aerosol, f: d
+aerosols <> b: aerosol, f: s
+aerotow <> i: aerotowing, s: aerotows
+aerotowing <> b: aerotow, f: i
+aers <> b: aer, f: s
+aesthete <> s: aesthetes
+aesthetes <> b: aesthete, f: s
+aesthetician <> s: aestheticians
+aestheticians <> b: aesthetician, f: s
+aestivate <> i: aestivating, p: aestivated, '3': aestivates, d: aestivated
+aestivated <> f: pd, b: aestivate
+aestivates <> f: '3', b: aestivate
+aestivating <> b: aestivate, f: i
+aethelred <> p: aethelred, b: aethelred, f: p
+aetiologies <> b: aetiology, f: s
+aetiology <> s: aetiologies
+AF <> s: afs, r: afer
+afar <> s: afars
+afars <> b: afar, f: s
+afear <> d: afeared
+afeared <> b: afear, f: d
+afer <> b: af, f: r
+affair <> s: affairs
+affaire <> s: affaires
+affaires <> b: affaire, f: s
+affairs <> b: affair, f: s
+affect <> d: affected, i: affecting, '3': affects, p: affected, s: affects
+affectation <> s: affectations
+affectations <> b: affectation, f: s
+affected <> b: affect, f: dp, d: affected, p: affected
+affecting <> b: affect, f: i, i: affecting
+affection <> s: affections
+affections <> b: affection, f: s
+affects <> b: affect, f: 3s
+afferent <> s: afferents
+afferents <> b: afferent, f: s
+affiance <> d: affianced, i: affiancing, p: affianced, '3': affiances
+affianced <> f: dp, b: affiance
+affiances <> f: '3', b: affiance
+affiancing <> f: i, b: affiance
+affidavit <> s: affidavits
+affidavits <> b: affidavit, f: s
+affiliate <> d: affiliated, s: affiliates, i: affiliating, p: affiliated, '3': affiliates
+affiliated <> b: affiliate, f: dp, d: affiliated, p: affiliated
+affiliates <> f: s3, b: affiliate
+affiliating <> b: affiliate, f: i
+affiliation <> s: affiliations
+affiliations <> b: affiliation, f: s
+affine <> s: affines, '3': affines
+affines <> b: affine, f: s3
+affinities <> b: affinity, f: s
+affinity <> s: affinities
+affirm <> p: affirmed, d: affirmed, i: affirming, '3': affirms, s: affirms
+affirmation <> s: affirmations
+affirmations <> b: affirmation, f: s
+affirmative <> s: affirmatives
+affirmatives <> b: affirmative, f: s
+affirmed <> b: affirm, f: pd, p: affirmed
+affirming <> b: affirm, f: i
+affirms <> b: affirm, f: 3s
+affix <> d: affixed, s: affixes, p: affixed, i: affixing, '3': affixes
+affixed <> b: affix, f: dp
+affixes <> f: s3, b: affix
+affixing <> b: affix, f: i
+afflict <> d: afflicted, '3': afflicts, i: afflicting, p: afflicted
+afflicted <> b: afflict, f: dp, d: afflicted, p: afflicted
+afflicting <> b: afflict, f: i
+affliction <> s: afflictions
+afflictions <> b: affliction, f: s
+afflicts <> b: afflict, f: '3'
+afforce <> d: afforced, p: afforced
+afforced <> b: afforce, f: dp
+afford <> d: afforded, '3': affords, p: afforded, i: affording
+afforded <> b: afford, f: dp
+affording <> b: afford, f: i
+affords <> b: afford, f: '3'
+afforest <> i: afforesting, p: afforested, '3': afforests, d: afforested
+afforested <> f: pd, b: afforest
+afforesting <> b: afforest, f: i
+afforests <> f: '3', b: afforest
+affraid <> b: affray, f: d
+affranchise <> i: affranchising, p: affranchised, '3': affranchises, d: affranchised
+affranchised <> f: pd, b: affranchise
+affranchises <> f: '3', b: affranchise
+affranchising <> f: i, b: affranchise
+affray <> s: affrays, d: affraid
+affrays <> b: affray, f: s
+affricate <> s: affricates
+affricates <> b: affricate, f: s
+affright <> d: affrighted, i: affrighting, p: affrighted, '3': affrights
+affrighted <> f: dp, b: affright
+affrighting <> f: i, b: affright
+affrights <> f: '3', b: affright
+affront <> d: affronted, p: affronted, s: affronts, i: affronting, '3': affronts
+affronted <> b: affront, f: dp, p: affronted, d: affronted
+affronting <> b: affront, f: i
+affronts <> b: affront, f: s3
+Afghan <> s: afghans
+afghans <> b: afghan, f: s
+aficionado <> s: aficionados
+aficionados <> b: aficionado, f: s
+aforesaid <> b: aforesay, f: dp, p: aforesaid
+AFP <> s: afps
+African <> s: africans
+Africander <> s: africanders
+Africanist <> s: africanists
+africans <> b: african, f: s
+Afrikaner <> s: afrikaners
+afro <> s: afros
+Afro-American <> s: afro-americans
+aft <> s: afts
+after-effect <> s: after-effects
+after-effects <> b: after-effect, f: s
+after-image <> s: after-images
+after-images <> b: after-image, f: s
+afterbirth <> s: afterbirths
+afterbirths <> b: afterbirth, f: s
+afterburner <> s: afterburners
+afterburners <> b: afterburner, f: s
+afterglow <> s: afterglows
+afterglows <> b: afterglow, f: s
+afterimage <> s: afterimages
+afterimages <> b: afterimage, f: s
+aftermath <> s: aftermaths
+aftermaths <> b: aftermath, f: s
+afternoon <> s: afternoons
+afternoons <> b: afternoon, f: s
+aftershave <> s: aftershaves, p: aftershaved
+aftershaved <> b: aftershave, f: p
+aftershaves <> b: aftershave, f: s
+aftershock <> s: aftershocks
+aftershocks <> b: aftershock, f: s
+afterthought <> s: afterthoughts
+afterthoughts <> b: afterthought, f: s
+afterword <> s: afterwords
+afterwords <> b: afterword, f: s
+ag <> s: ags
+aga <> s: agas
+agar <> s: agars
+agars <> b: agar, f: s
+agas <> b: aga, f: s
+agate <> s: agates
+agates <> b: agate, f: s
+agave <> s: agaves
+agaves <> b: agave, f: s
+age <> s: ages, d: aged, i: ageing, '3': ages, p: aged
+aged <> f: dp, b: age, d: aged
+ageing <> b: age, f: i, i: ageing
+agencies <> b: agency, f: s
+agency <> s: agencies
+agenda <> s: agendas
+agendas <> b: agenda, f: s
+agent <> s: agents
+agents <> b: agent, f: s
+ageratum <> s: ageratums
+ageratums <> b: ageratum, f: s
+ages <> b: age, f: s3
+agglomerate <> s: agglomerates, i: agglomerating, p: agglomerated, '3': agglomerates, d: agglomerated
+agglomerated <> p: agglomerated, b: agglomerated, f: p
+agglomerates <> f: s3, b: agglomerate
+agglomerating <> f: i, b: agglomerate
+agglomeration <> s: agglomerations
+agglomerations <> b: agglomeration, f: s
+agglutinate <> p: agglutinated, d: agglutinated, i: agglutinating, '3': agglutinates
+agglutinated <> b: agglutinate, f: pd
+agglutinates <> f: '3', b: agglutinate
+agglutinating <> b: agglutinate, f: i
+aggradation <> s: aggradations
+aggradations <> b: aggradation, f: s
+aggrandize <> i: aggrandizing, p: aggrandized, '3': aggrandizes, d: aggrandized
+aggrandized <> f: pd, b: aggrandize
+aggrandizement <> s: aggrandizements
+aggrandizements <> b: aggrandizement, f: s
+aggrandizes <> f: '3', b: aggrandize
+aggrandizing <> f: i, b: aggrandize
+aggravate <> d: aggravated, p: aggravated, i: aggravating, '3': aggravates
+aggravated <> b: aggravate, f: dp, p: aggravated
+aggravates <> b: aggravate, f: '3'
+aggravating <> b: aggravate, f: i, i: aggravating
+aggravation <> s: aggravations
+aggravations <> b: aggravation, f: s
+aggregate <> s: aggregates, d: aggregated, i: aggregating, '3': aggregates, p: aggregated
+aggregated <> b: aggregate, f: dp, d: aggregated
+aggregates <> b: aggregate, f: s3
+aggregating <> b: aggregate, f: i, i: aggregating
+aggregation <> s: aggregations
+aggregations <> b: aggregation, f: s
+aggress <> i: aggressing, p: aggressed, '3': aggresses, d: aggressed
+aggressed <> f: pd, b: aggress
+aggresses <> f: '3', b: aggress
+aggressing <> f: i, b: aggress
+aggression <> s: aggressions
+aggressions <> b: aggression, f: s
+aggressor <> s: aggressors
+aggressors <> b: aggressor, f: s
+aggrieved <> d: aggrieved, b: aggrieved, f: dp, p: aggrieved
+aggro <> s: aggros
+aggros <> b: aggro, f: s
+aging <> i: aging, b: aging, f: i
+agist <> d: agisted
+agisted <> b: agist, f: d
+agister <> s: agisters
+agisters <> b: agister, f: s
+agitate <> d: agitated, i: agitating, p: agitated, '3': agitates
+agitated <> b: agitate, f: dp, d: agitated
+agitates <> b: agitate, f: '3'
+agitating <> b: agitate, f: i
+agitation <> s: agitations
+agitations <> b: agitation, f: s
+agitator <> s: agitators
+agitators <> b: agitator, f: s
+agm <> s: agms
+agnate <> '3': agnates, s: agnates
+agnates <> b: agnate, f: 3s
+agnathan <> s: agnathans
+agnathans <> b: agnathan, f: s
+Agni <> s: agni, b: agni, f: s
+agnostic <> s: agnostics
+agnostics <> b: agnostic, f: s
+agonies <> b: agony, f: s
+agonise <> i: agonising, p: agonised, d: agonised, '3': agonises
+agonised <> p: agonised, b: agonised, f: pd, d: agonised
+agonises <> b: agonise, f: '3'
+agonising <> i: agonising, b: agonising, f: i, s: agonisings
+agonist <> s: agonists
+agonists <> b: agonist, f: s
+agonize <> p: agonized, d: agonized, i: agonizing, '3': agonizes
+agonized <> b: agonize, f: pd, p: agonized
+agonizes <> f: '3', b: agonize
+agonizing <> i: agonizing, b: agonizing, f: i
+agony <> s: agonies
+agoraphobic <> s: agoraphobics
+agoraphobics <> b: agoraphobic, f: s
+agouti <> s: agouti, b: agouti, f: s
+agrarian <> s: agrarians
+agrarians <> b: agrarian, f: s
+agree <> d: agreed, p: agreed, '3': agrees, i: agreeing
+agreed <> b: agree, f: dp, p: agreed, d: agreed
+agreeing <> b: agree, f: i, i: agreeing
+agreement <> s: agreements
+agreements <> b: agreement, f: s
+agrees <> b: agree, f: '3'
+agribusiness <> s: agribusinesses
+agribusinesses <> b: agribusiness, f: s
+agribusinessman <> s: agribusinessmen
+agribusinessmen <> b: agribusinessman, f: s
+agriculturalist <> s: agriculturalists
+agriculturalists <> b: agriculturalist, f: s
+agriculturist <> s: agriculturists
+agriculturists <> b: agriculturist, f: s
+agro-industries <> b: agro-industry, f: s
+agro-industry <> s: agro-industries
+agrochemical <> s: agrochemicals
+agrochemicals <> b: agrochemical, f: s
+agroecosystem <> s: agroecosystems
+agroecosystems <> b: agroecosystem, f: s
+agronomic <> s: agronomics
+agronomics <> b: agronomic, f: s
+agronomist <> s: agronomists
+agronomists <> b: agronomist, f: s
+ags <> b: ag, f: s
+ague <> s: agues
+agues <> b: ague, f: s
+ah <> s: ahs
+ahi <> s: ahi, b: ahi, f: s
+ahs <> b: ah, f: s
+AI <> s: ais
+aid <> s: aids, d: aided, i: aiding, p: aided, '3': aids
+aide <> s: aides
+aide-de-camp <> s: aides-de-camp
+aided <> b: aid, f: dp, p: aided, d: aided
+aider <> s: aiders
+aiders <> b: aider, f: s
+aides <> b: aide, f: s
+aides-de-camp <> b: aide-de-camp, f: s
+aiding <> b: aid, f: i
+AIDS <> b: aid, f: s3
+aiguillette <> s: aiguillettes
+aiguillettes <> b: aiguillette, f: s
+ail <> '3': ails, p: ailed, i: ailing, d: ailed
+ailed <> f: pd, b: ail
+aileron <> s: ailerons
+ailerons <> b: aileron, f: s
+ailing <> i: ailing, b: ailing, f: i
+ailment <> s: ailments
+ailments <> b: ailment, f: s
+ails <> b: ail, f: '3'
+aim <> s: aims, '3': aims, p: aimed, d: aimed, i: aiming
+aimed <> b: aim, f: pd, d: aimed, p: aimed
+aiming <> b: aim, f: i
+Ainu <> s: ainu, b: ainu, f: s
+aioli <> s: aioli, b: aioli, f: s
+air <> d: aired, s: airs, i: airing, p: aired, '3': airs
+air-freshener <> s: air-fresheners
+air-fresheners <> b: air-freshener, f: s
+airbag <> s: airbags, '3': airbags
+airbags <> b: airbag, f: s3
+airbase <> s: airbases
+airbases <> b: airbase, f: s
+airbrake <> s: airbrakes, '3': airbrakes, p: airbraked
+airbraked <> b: airbrake, f: p
+airbrakes <> b: airbrake, f: s3
+airbrick <> s: airbricks
+airbricks <> b: airbrick, f: s
+airbrush <> s: airbrushes, '3': airbrushes, p: airbrushed, i: airbrushing, d: airbrushed
+airbrushed <> b: airbrush, f: p
+airbrushes <> b: airbrush, f: s3
+airburst <> s: airbursts
+airbursts <> b: airburst, f: s
+aircraftman <> s: aircraftmen
+aircraftmen <> b: aircraftman, f: s
+aircrew <> s: aircrews, '3': aircrews
+aircrews <> b: aircrew, f: s3
+airdrop <> s: airdrops, '3': airdrops
+airdrops <> b: airdrop, f: s3
+aired <> b: air, f: dp
+Airedale <> s: airedales
+airfare <> s: airfares, '3': airfares
+airfares <> b: airfare, f: s3
+airfield <> s: airfields
+airfields <> b: airfield, f: s
+airflow <> s: airflows
+airflows <> b: airflow, f: s
+airforce <> s: airforces
+airforces <> b: airforce, f: s
+airframe <> s: airframes, '3': airframes
+airframes <> b: airframe, f: s3
+airfreight <> d: airfreighted
+airfreighted <> b: airfreight, f: d
+airgun <> s: airguns
+airguns <> b: airgun, f: s
+airhead <> s: airheads
+airheads <> b: airhead, f: s
+airier <> b: airy, f: r
+airing <> b: air, f: i, i: airing, s: airings
+airlift <> d: airlifted, s: airlifts, p: airlifted, i: airlifting, '3': airlifts
+airlifted <> b: airlift, f: dp
+airlifting <> b: airlift, f: i
+airlifts <> b: airlift, f: s3
+airline <> s: airlines
+airliner <> s: airliners
+airliners <> b: airliner, f: s
+airlines <> b: airline, f: s
+airlock <> s: airlocks
+airlocks <> b: airlock, f: s
+airmail <> d: airmailed, s: airmails, i: airmailing, p: airmailed, '3': airmails
+airmailed <> f: dp, b: airmail
+airmailing <> f: i, b: airmail
+airmails <> f: s3, b: airmail
+airman <> s: airmen
+airmen <> b: airman, f: s
+airmiss <> s: airmisses
+airmisses <> b: airmiss, f: s
+airplane <> s: airplanes
+airplanes <> b: airplane, f: s
+airport <> s: airports
+airports <> b: airport, f: s
+airs <> f: s3, b: air
+airscrew <> s: airscrews
+airscrews <> b: airscrew, f: s
+airship <> s: airships
+airships <> b: airship, f: s
+airshow <> s: airshows, '3': airshows
+airshows <> b: airshow, f: s3
+airspace <> s: airspaces
+airspaces <> b: airspace, f: s
+airspeed <> s: airspeeds
+airspeeds <> b: airspeed, f: s
+airstream <> s: airstreams
+airstreams <> b: airstream, f: s
+airstrike <> s: airstrikes
+airstrikes <> b: airstrike, f: s
+airstrip <> s: airstrips
+airstrips <> b: airstrip, f: s
+airwave <> s: airwaves
+airwaves <> b: airwave, f: s
+airway <> s: airways
+airways <> b: airway, f: s
+airwoman <> s: airwomen
+airwomen <> b: airwoman, f: s
+airy <> r: airier
+aisle <> s: aisles
+aisles <> b: aisle, f: s
+aitch <> s: aitches, d: aitched
+aitched <> b: aitch, f: d
+aitches <> b: aitch, f: s
+AK <> '3': aks, p: aked, r: aker
+Akkadian <> s: akkadians
+alabaster <> s: alabasters
+alabasters <> b: alabaster, f: s
+alarm <> s: alarms, d: alarmed, p: alarmed, i: alarming, '3': alarms
+alarmed <> b: alarm, f: dp, d: alarmed, p: alarmed
+alarming <> b: alarm, f: i, i: alarming
+alarmist <> s: alarmists
+alarmists <> b: alarmist, f: s
+alarms <> b: alarm, f: s3
+alaskan <> s: alaskans
+alaskans <> b: alaskan, f: s
+alb <> s: albs
+albanian <> s: albanians
+albatross <> s: albatrosses
+albatrosses <> b: albatross, f: s
+Albigensian <> s: albigensians
+albino <> s: albinos
+albinos <> b: albino, f: s
+albs <> b: alb, f: s
+album <> s: albums
+albumen <> b: albuman, f: s
+albumin <> s: albumins
+albumins <> b: albumin, f: s
+albums <> b: album, f: s
+alchemist <> s: alchemists
+alchemists <> b: alchemist, f: s
+alchemize <> i: alchemizing, p: alchemized, '3': alchemizes, d: alchemized
+alchemized <> f: pd, b: alchemize
+alchemizes <> f: '3', b: alchemize
+alchemizing <> f: i, b: alchemize
+alcohol <> s: alcohols
+alcoholic <> s: alcoholics
+alcoholics <> b: alcoholic, f: s
+alcohols <> b: alcohol, f: s
+alcove <> s: alcoves
+alcoves <> b: alcove, f: s
+aldehyde <> s: aldehydes
+aldehydes <> b: aldehyde, f: s
+alder <> s: alders
+alderman <> s: aldermen
+aldermen <> b: alderman, f: s
+alders <> b: alder, f: s
+Aldine <> s: aldines
+ale <> s: ales, p: aled, '3': ales
+alec <> s: alecs
+alecs <> b: alec, f: s
+aled <> b: ale, f: p, p: aled
+alehouse <> s: alehouses
+alehouses <> b: alehouse, f: s
+alembic <> s: alembics
+alembics <> b: alembic, f: s
+alert <> d: alerted, p: alerted, i: alerting, '3': alerts, s: alerts
+alerted <> b: alert, f: dp, p: alerted, d: alerted
+alerting <> b: alert, f: i
+alerts <> b: alert, f: 3s
+ales <> b: ale, f: s3
+Alesi <> s: alesi, b: alesi, f: s
+Aleut <> s: aleuts
+Alexei <> s: alexei, b: alexei, f: s
+alga <> s: algae
+algae <> b: alga, f: s, s: algaes
+algebra <> s: algebras
+algebraist <> s: algebraists
+algebraists <> b: algebraist, f: s
+algebras <> b: algebra, f: s
+Algerian <> s: algerians
+algerians <> b: algerian, f: s
+algicide <> s: algicides
+algicides <> b: algicide, f: s
+alginate <> s: alginates
+alginates <> b: alginate, f: s
+algorithm <> s: algorithms
+algorithms <> b: algorithm, f: s
+ALI <> s: ali, b: ali, f: s
+aliase <> s: aliases, i: aliasing
+aliases <> b: aliase, f: s
+aliasing <> b: aliase, f: i, i: aliasing
+alibi <> s: alibis, i: alibiing, p: alibied, '3': alibis, d: alibied
+alibied <> f: pd, b: alibi
+alibiing <> f: i, b: alibi
+alibis <> f: s3, b: alibi
+alien <> s: aliens, i: aliening, p: aliened, '3': aliens, d: aliened
+alienate <> d: alienated, p: alienated, i: alienating, '3': alienates
+alienated <> b: alienate, f: dp, d: alienated, p: alienated
+alienates <> b: alienate, f: '3'
+alienating <> b: alienate, f: i, i: alienating
+alienation <> s: alienations
+alienations <> b: alienation, f: s
+aliened <> f: pd, b: alien
+alienee <> s: alienees
+alienees <> b: alienee, f: s
+aliening <> f: i, b: alien
+alienist <> s: alienists
+alienists <> b: alienist, f: s
+aliens <> f: s3, b: alien
+alight <> p: alighted, i: alighting, '3': alights, d: alighted
+alighted <> b: alight, f: pd
+alighting <> b: alight, f: i
+alights <> b: alight, f: '3'
+align <> d: aligned, p: aligned, i: aligning, '3': aligns
+aligned <> b: align, f: dp, p: aligned
+aligning <> b: align, f: i
+alignment <> s: alignments
+alignments <> b: alignment, f: s
+aligns <> b: align, f: '3'
+aliment <> i: alimenting, p: alimented, '3': aliments, d: alimented
+alimented <> f: pd, b: aliment
+alimenting <> f: i, b: aliment
+aliments <> f: '3', b: aliment
+alimonies <> b: alimony, f: s
+alimony <> s: alimonies
+aline <> i: alining, p: alined, '3': alines, d: alined
+alined <> f: pd, b: aline
+alines <> f: '3', b: aline
+alining <> f: i, b: aline
+aliphatic <> s: aliphatics
+aliphatics <> b: aliphatic, f: s
+aliquot <> s: aliquots, '3': aliquots
+aliquots <> b: aliquot, f: s3
+alkali <> s: alkalis
+alkaline <> s: alkalines
+alkalines <> b: alkaline, f: s
+alkalinities <> b: alkalinity, f: s
+alkalinity <> s: alkalinities
+alkalis <> b: alkali, f: s
+alkalize <> i: alkalizing, p: alkalized, '3': alkalizes, d: alkalized
+alkalized <> f: pd, b: alkalize
+alkalizes <> f: '3', b: alkalize
+alkalizing <> f: i, b: alkalize
+alkaloid <> s: alkaloids
+alkaloids <> b: alkaloid, f: s
+alkane <> s: alkanes
+alkanes <> b: alkane, f: s
+alkene <> s: alkenes
+alkenes <> b: alkene, f: s
+alkies <> b: alky, f: s
+alky <> s: alkies
+alkyd <> s: alkyds
+alkyds <> b: alkyd, f: s
+alkyl <> s: alkyls
+alkylate <> i: alkylating, p: alkylated
+alkylated <> b: alkylate, f: p
+alkylating <> b: alkylate, f: i
+alkyls <> b: alkyl, f: s
+alkyne <> s: alkynes
+alkynes <> b: alkyne, f: s
+all-American <> s: all-americans
+all-americans <> b: all-american, f: s
+all-comers <> b: all-comer, f: s
+all-in-one <> s: all-in-ones
+all-in-ones <> b: all-in-one, f: s
+all-nighter <> s: all-nighters
+all-nighters <> b: all-nighter, f: s
+all-rounder <> s: all-rounders
+all-rounders <> b: all-rounder, f: s
+all-seater <> s: all-seaters
+all-seaters <> b: all-seater, f: s
+all-star <> s: all-stars
+all-stars <> b: all-star, f: s
+allay <> d: allayed, p: allayed, i: allaying, '3': allays
+allayed <> b: allay, f: dp
+allaying <> b: allay, f: i
+allays <> b: allay, f: '3'
+allegation <> s: allegations
+allegations <> b: allegation, f: s
+allege <> d: alleged, p: alleged, i: alleging, '3': alleges
+alleged <> b: allege, f: dp, p: alleged, d: alleged
+alleges <> b: allege, f: '3'
+allegiance <> s: allegiances
+allegiances <> b: allegiance, f: s
+alleging <> b: allege, f: i
+allegories <> b: allegory, f: s
+allegorize <> p: allegorized, d: allegorized, i: allegorizing, '3': allegorizes
+allegorized <> b: allegorize, f: pd
+allegorizes <> f: '3', b: allegorize
+allegorizing <> f: i, b: allegorize
+allegory <> s: allegories
+allegretto <> s: allegrettos
+allegrettos <> b: allegretto, f: s
+allegro <> s: allegros
+allegros <> b: allegro, f: s
+allele <> s: alleles
+alleles <> b: allele, f: s
+alleluia <> s: alleluias
+alleluias <> b: alleluia, f: s
+allergen <> s: allergens
+allergens <> b: allergen, f: s
+allergies <> b: allergy, f: s
+allergist <> s: allergists
+allergists <> b: allergist, f: s
+allergy <> s: allergies
+alleviate <> d: alleviated, i: alleviating, '3': alleviates, p: alleviated
+alleviated <> b: alleviate, f: dp
+alleviates <> b: alleviate, f: '3'
+alleviating <> b: alleviate, f: i
+alley <> s: alleys
+alleys <> b: alley, f: s
+alleyway <> s: alleyways
+alleyways <> b: alleyway, f: s
+alliance <> s: alliances
+alliances <> b: alliance, f: s
+allied <> b: ally, f: dp, d: allied
+alligator <> s: alligators
+alligators <> b: alligator, f: s
+Allinson <> s: allinsons
+alliterate <> p: alliterated, i: alliterating, '3': alliterates, d: alliterated
+alliterated <> f: pd, b: alliterate
+alliterates <> f: '3', b: alliterate
+alliterating <> f: i, b: alliterate
+alliteration <> s: alliterations
+alliterations <> b: alliteration, f: s
+allocate <> d: allocated, i: allocating, '3': allocates, p: allocated
+allocated <> b: allocate, f: dp, d: allocated, p: allocated
+allocates <> b: allocate, f: '3'
+allocating <> b: allocate, f: i, i: allocating
+allocation <> s: allocations
+allocations <> b: allocation, f: s
+allocator <> s: allocators
+allocators <> b: allocator, f: s
+allod <> s: allods
+allods <> b: allod, f: s
+allograft <> s: allografts
+allografts <> b: allograft, f: s
+allograph <> s: allographs
+allographs <> b: allograph, f: s
+allometries <> b: allometry, f: s
+allometry <> s: allometries
+allomorph <> s: allomorphs
+allomorphs <> b: allomorph, f: s
+allophone <> s: allophones
+allophones <> b: allophone, f: s
+allot <> d: allotted, i: allotting, '3': allots, p: allotted
+allotment <> s: allotments
+allotments <> b: allotment, f: s
+allotrope <> s: allotropes
+allotropes <> b: allotrope, f: s
+allots <> b: allot, f: '3'
+allotted <> b: allot, f: dp, d: allotted
+allottee <> s: allottees
+allottees <> b: allottee, f: s
+allotting <> b: allot, f: i
+allow <> d: allowed, i: allowing, '3': allows, p: allowed
+allowance <> s: allowances, i: allowancing, p: allowanced, '3': allowances, d: allowanced
+allowanced <> f: pd, b: allowance
+allowances <> f: s3, b: allowance
+allowancing <> f: i, b: allowance
+allowed <> b: allow, f: dp, d: allowed, p: allowed
+allowing <> b: allow, f: i, i: allowing
+allows <> b: allow, f: '3'
+alloy <> s: alloys, i: alloying, d: alloyed, p: alloyed, '3': alloys
+alloyed <> b: alloy, f: dp
+alloying <> b: alloy, f: i
+alloys <> f: s3, b: alloy
+allude <> p: alluded, i: alluding, d: alluded, '3': alludes
+alluded <> b: allude, f: pd
+alludes <> b: allude, f: '3'
+alluding <> b: allude, f: i
+allure <> d: allured, p: allured, i: alluring, '3': allures
+allured <> b: allure, f: dp
+allurement <> s: allurements
+allurements <> b: allurement, f: s
+allures <> f: '3', b: allure
+alluring <> f: i, b: allure
+allusion <> s: allusions
+allusions <> b: allusion, f: s
+ally <> s: allies, d: allied, p: allied, i: allying, '3': allies
+alm <> s: alms
+Almagest <> b: almage, f: t
+almanac <> s: almanacs
+almanacs <> b: almanac, f: s
+almond <> s: almonds
+almonds <> b: almond, f: s
+almoner <> s: almoners
+almoners <> b: almoner, f: s
+Almoravid <> s: almoravids
+alms <> b: alm, f: s
+alms-house <> s: alms-houses
+alms-houses <> b: alms-house, f: s
+almshouse <> s: almshouses
+almshouses <> b: almshouse, f: s
+aloe <> s: aloes
+aloes <> b: aloe, f: s
+alp <> s: alps
+alpaca <> s: alpacas
+alpacas <> b: alpaca, f: s
+alpha <> s: alphas
+alphabet <> s: alphabets
+alphabetize <> i: alphabetizing, p: alphabetized, '3': alphabetizes, d: alphabetized
+alphabetized <> f: pd, b: alphabetize
+alphabetizes <> f: '3', b: alphabetize
+alphabetizing <> f: i, b: alphabetize
+alphabets <> b: alphabet, f: s
+alphanumeric <> s: alphanumerics
+alphanumerics <> b: alphanumeric, f: s
+alphas <> b: alpha, f: s
+alpine <> s: alpines
+alpines <> b: alpine, f: s
+alpinist <> s: alpinists
+alpinists <> b: alpinist, f: s
+Alps <> s: alps, b: alps, f: s
+Alsatian <> s: alsatians
+alsike <> s: alsikes
+alsikes <> b: alsike, f: s
+also-ran <> s: also-rans
+also-rans <> b: also-ran, f: s
+alstroemeria <> s: alstroemerias
+alstroemerias <> b: alstroemeria, f: s
+altar <> s: altars
+altarpiece <> s: altarpieces
+altarpieces <> b: altarpiece, f: s
+altars <> b: altar, f: s
+alter <> d: altered, i: altering, '3': alters, p: altered
+alteration <> s: alterations
+alterations <> b: alteration, f: s
+altercate <> i: altercating, p: altercated, '3': altercates, d: altercated
+altercated <> f: pd, b: altercate
+altercates <> f: '3', b: altercate
+altercating <> f: i, b: altercate
+altercation <> s: altercations
+altercations <> b: altercation, f: s
+altered <> b: alter, f: dp, d: altered, p: altered
+altering <> b: alter, f: i, i: altering
+alternant <> s: alternants
+alternants <> b: alternant, f: s
+alternate <> i: alternating, p: alternated, '3': alternates, d: alternated, s: alternates
+alternated <> b: alternate, f: pd
+alternates <> b: alternate, f: 3s
+alternating <> b: alternate, f: i, i: alternating
+alternation <> s: alternations
+alternations <> b: alternation, f: s
+alternative <> s: alternatives
+alternatives <> b: alternative, f: s
+alternator <> s: alternators
+alternators <> b: alternator, f: s
+alters <> b: alter, f: '3'
+altimeter <> s: altimeters, b: altimete, f: r
+altimeters <> b: altimeter, f: s
+altitude <> s: altitudes
+altitudes <> b: altitude, f: s
+alto <> s: altos
+altos <> b: alto, f: s
+altruist <> s: altruists
+altruists <> b: altruist, f: s
+alum <> s: alums
+alumina <> s: aluminas
+aluminas <> b: alumina, f: s
+aluminize <> i: aluminizing, p: aluminized, '3': aluminizes, d: aluminized
+aluminized <> f: pd, b: aluminize
+aluminizes <> f: '3', b: aluminize
+aluminizing <> f: i, b: aluminize
+aluminosilicate <> s: aluminosilicates
+aluminosilicates <> b: aluminosilicate, f: s
+alumni <> s: alumni, b: alumni, f: s
+alums <> b: alum, f: s
+alveolar <> s: alveolars
+alveolars <> b: alveolar, f: s
+Alzheimer <> s: alzheimers
+AM <> s: ams, r: amer
+AMA <> s: amas
+Amalfi <> s: amalfi, b: amalfi, f: s
+amalgam <> s: amalgams
+amalgamate <> d: amalgamated, p: amalgamated, i: amalgamating, '3': amalgamates
+Amalgamated <> b: amalgamate, f: dp, p: amalgamated
+amalgamates <> b: amalgamate, f: '3'
+amalgamating <> b: amalgamate, f: i, i: amalgamating
+amalgamation <> s: amalgamations
+amalgamations <> b: amalgamation, f: s
+amalgams <> b: amalgam, f: s
+amaranth <> s: amaranths
+amaranths <> b: amaranth, f: s
+amaretti <> s: amaretti, b: amaretti, f: s
+amass <> d: amassed, p: amassed, i: amassing, '3': amasses
+amassed <> b: amass, f: dp, p: amassed
+amasses <> b: amass, f: '3'
+amassing <> b: amass, f: i
+amateur <> s: amateurs
+amateurs <> b: amateur, f: s
+amaze <> p: amazed, '3': amazes, i: amazing, d: amazed, s: amazes
+amazed <> p: amazed, b: amazed, f: pd, d: amazed
+amazement <> s: amazements
+amazements <> b: amazement, f: s
+amazes <> b: amaze, f: 3s
+amazing <> i: amazing, b: amazing, f: i
+amazon <> s: amazons
+amazona <> s: amazonas
+Amazonas <> b: amazona, f: s
+amazons <> b: amazon, f: s
+ambassador <> s: ambassadors
+ambassadors <> b: ambassador, f: s
+amber <> s: ambers
+ambers <> b: amber, f: s
+ambiance <> s: ambiances
+ambiances <> b: ambiance, f: s
+ambience <> s: ambiences
+ambiences <> b: ambience, f: s
+ambiguities <> b: ambiguity, f: s
+ambiguity <> s: ambiguities
+ambition <> s: ambitions
+ambitions <> b: ambition, f: s
+ambivalence <> s: ambivalences
+ambivalences <> b: ambivalence, f: s
+amble <> p: ambled, i: ambling, '3': ambles, d: ambled, s: ambles
+ambled <> b: amble, f: pd
+ambles <> b: amble, f: 3s
+ambling <> b: amble, f: i, s: amblings, i: ambling
+ambulance <> s: ambulances
+ambulanceman <> s: ambulancemen
+ambulancemen <> b: ambulanceman, f: s
+ambulances <> b: ambulance, f: s
+ambulate <> i: ambulating, p: ambulated, '3': ambulates, d: ambulated
+ambulated <> f: pd, b: ambulate
+ambulates <> f: '3', b: ambulate
+ambulating <> b: ambulate, f: i
+ambulatories <> b: ambulatory, f: s
+ambulatory <> s: ambulatories
+ambuscade <> i: ambuscading, p: ambuscaded, '3': ambuscades, d: ambuscaded
+ambuscaded <> f: pd, b: ambuscade
+ambuscades <> f: '3', b: ambuscade
+ambuscading <> f: i, b: ambuscade
+ambush <> d: ambushed, p: ambushed, s: ambushes, i: ambushing, '3': ambushes
+ambushed <> b: ambush, f: dp
+ambushes <> b: ambush, f: s3
+ambushing <> b: ambush, f: i
+ameliorate <> d: ameliorated, '3': ameliorates, i: ameliorating, p: ameliorated
+ameliorated <> b: ameliorate, f: dp
+ameliorates <> b: ameliorate, f: '3'
+ameliorating <> b: ameliorate, f: i, i: ameliorating
+amelioration <> s: ameliorations
+ameliorations <> b: amelioration, f: s
+amend <> d: amended, i: amending, p: amended, '3': amends, s: amends
+amended <> b: amend, f: dp, d: amended, p: amended
+amending <> b: amend, f: i, i: amending
+amendment <> s: amendments
+amendments <> b: amendment, f: s
+amends <> b: amend, f: 3s, s: amends
+amenities <> b: amenity, f: s
+amenity <> s: amenities
+amer <> b: am, f: r
+amerce <> d: amerced, p: amerced, i: amercing, '3': amerces
+amerced <> b: amerce, f: dp
+amercement <> s: amercements
+amercements <> b: amercement, f: s
+amerces <> f: '3', b: amerce
+amercing <> f: i, b: amerce
+American <> s: americans
+Americanism <> s: americanisms
+Americanize <> i: Americanizing, p: Americanized, '3': Americanizes, d: Americanized
+Americanized <> p: americanized, b: americanized, f: p
+Amerindian <> s: amerindians
+amethyst <> s: amethysts
+amethysts <> b: amethyst, f: s
+ami <> s: ami, b: ami, f: s
+amide <> s: amides
+amides <> b: amide, f: s
+amigo <> s: amigos
+amigos <> b: amigo, f: s
+amine <> s: amines, '3': amines
+amines <> b: amine, f: s3
+aminoglycoside <> s: aminoglycosides
+aminoglycosides <> b: aminoglycoside, f: s
+aminotransferase <> s: aminotransferases
+aminotransferases <> b: aminotransferase, f: s
+amir <> s: amirs
+amirs <> b: amir, f: s
+amiss <> i: amissing, s: amisses
+amisses <> b: amiss, f: s
+amissing <> b: amiss, f: i
+ammeter <> s: ammeters, b: ammete, f: r
+ammeters <> b: ammeter, f: s
+ammoniate <> i: ammoniating, p: ammoniated, '3': ammoniates, d: ammoniated
+ammoniated <> f: pd, b: ammoniate
+ammonite <> s: ammonites
+ammonites <> b: ammonite, f: s
+ammonoid <> s: ammonoids
+ammonoids <> b: ammonoid, f: s
+ammunition <> s: ammunitions
+ammunitions <> b: ammunition, f: s
+amnesia <> s: amnesias
+amnesiac <> s: amnesiacs
+amnesiacs <> b: amnesiac, f: s
+amnesias <> b: amnesia, f: s
+amnesic <> s: amnesics
+amnesics <> b: amnesic, f: s
+amnestied <> f: dp, b: amnesty
+amnesties <> f: s3, b: amnesty
+amnesty <> s: amnesties, d: amnestied, i: amnestying, p: amnestied, '3': amnesties
+amnestying <> f: i, b: amnesty
+amo <> s: amos
+amoeba <> s: amoebae
+amoebae <> b: amoeba, f: s
+amortise <> d: amortised, i: amortising, '3': amortises, p: amortised
+amortised <> b: amortise, f: dp
+amortises <> b: amortise, f: '3'
+amortising <> b: amortise, f: i
+amortize <> p: amortized, d: amortized, i: amortizing, '3': amortizes
+amortized <> b: amortize, f: pd
+amortizes <> f: '3', b: amortize
+amortizing <> b: amortize, f: i
+Amos <> b: amo, f: s
+amount <> s: amounts, p: amounted, '3': amounts, i: amounting, d: amounted
+amounted <> b: amount, f: pd
+amounting <> b: amount, f: i
+amounts <> b: amount, f: s3
+amour <> s: amours
+amours <> b: amour, f: s
+amp <> s: amps, i: amping
+ampere <> s: amperes
+amperes <> b: ampere, f: s
+ampersand <> s: ampersands
+ampersands <> b: ampersand, f: s
+amphetamine <> s: amphetamines, '3': amphetamines
+amphetamines <> b: amphetamine, f: s3
+amphibian <> s: amphibians
+amphibians <> b: amphibian, f: s
+amphibole <> s: amphiboles
+amphiboles <> b: amphibole, f: s
+amphipod <> s: amphipods
+amphipods <> b: amphipod, f: s
+amphisbaenian <> s: amphisbaenians
+amphisbaenians <> b: amphisbaenian, f: s
+amphitheater <> s: amphitheaters
+amphitheaters <> b: amphitheater, f: s
+amphitheatre <> s: amphitheatres
+amphitheatres <> b: amphitheatre, f: s
+amphora <> s: amphoras
+amphoras <> b: amphora, f: s
+amphoteric <> s: amphoterics
+amphoterics <> b: amphoteric, f: s
+amping <> b: amp, f: i
+ample <> r: ampler
+ampler <> b: ample, f: r
+amplification <> s: amplifications
+amplifications <> b: amplification, f: s
+amplified <> b: amplify, f: dp, d: amplified, p: amplified
+amplifier <> s: amplifiers
+amplifiers <> b: amplifier, f: s
+amplifies <> b: amplify, f: '3'
+amplify <> d: amplified, p: amplified, i: amplifying, '3': amplifies
+amplitude <> s: amplitudes
+amplitudes <> b: amplitude, f: s
+ampoule <> s: ampoules
+ampoules <> b: ampoule, f: s
+amputate <> d: amputated, p: amputated, '3': amputates, i: amputating
+amputated <> b: amputate, f: dp, p: amputated
+amputates <> b: amputate, f: '3'
+amputating <> b: amputate, f: i
+amputation <> s: amputations
+amputations <> b: amputation, f: s
+amputee <> s: amputees
+amputees <> b: amputee, f: s
+AMS <> b: am, f: s
+amulet <> s: amulets
+amulets <> b: amulet, f: s
+amuse <> p: amused, d: amused, i: amusing, '3': amuses, s: amuses
+amused <> d: amused, b: amused, f: dp, p: amused
+amusement <> s: amusements
+amusements <> b: amusement, f: s
+amuses <> b: amuse, f: 3s
+amusing <> i: amusing, b: amusing, f: i
+amy <> s: amys
+amys <> b: amy, f: s
+ana <> s: anas
+anabaptist <> s: anabaptists
+anabaptists <> b: anabaptist, f: s
+anachronism <> s: anachronisms
+anachronisms <> b: anachronism, f: s
+anaemia <> s: anaemias
+anaemias <> b: anaemia, f: s
+anaemic <> s: anaemics
+anaemics <> b: anaemic, f: s
+anaerobe <> s: anaerobes
+anaerobes <> b: anaerobe, f: s
+anaesthetic <> s: anaesthetics
+anaesthetics <> b: anaesthetic, f: s
+anaesthetise <> d: anaesthetised, i: anaesthetising, p: anaesthetised, '3': anaesthetises
+anaesthetised <> b: anaesthetise, f: dp, p: anaesthetised, d: anaesthetised
+anaesthetising <> b: anaesthetise, f: i
+anaesthetist <> s: anaesthetists
+anaesthetists <> b: anaesthetist, f: s
+anaesthetize <> d: anaesthetized, p: anaesthetized, i: anaesthetizing, '3': anaesthetizes
+anaesthetized <> b: anaesthetize, f: dp, d: anaesthetized
+anagram <> s: anagrams, i: anagramming
+anagrammatize <> i: anagrammatizing, p: anagrammatized, '3': anagrammatizes, d: anagrammatized
+anagrammatized <> f: pd, b: anagrammatize
+anagrammatizes <> f: '3', b: anagrammatize
+anagrammatizing <> f: i, b: anagrammatize
+anagramming <> b: anagram, f: i
+anagrams <> b: anagram, f: s
+anal <> s: anals
+analects <> b: analect, f: s
+analgesic <> s: analgesics
+analgesics <> b: analgesic, f: s
+analogies <> b: analogy, f: s
+analogize <> i: analogizing, '3': analogizes, d: analogized, p: analogized
+analogized <> b: analogize, f: dp
+analogizes <> b: analogize, f: '3'
+analogizing <> b: analogize, f: i
+analogue <> s: analogues
+analogues <> b: analogue, f: s
+analogy <> s: analogies
+anals <> b: anal, f: s
+analysand <> s: analysands
+analysands <> b: analysand, f: s
+analyse <> d: analysed, i: analysing, p: analysed, '3': analyses, s: analyses
+analysed <> b: analyse, f: dp, d: analysed, p: analysed
+analyser <> s: analysers
+analysers <> b: analyser, f: s
+analyses <> b: analysis, f: s
+analysing <> b: analyse, f: i, i: analysing
+analysis <> s: analyses
+analyst <> s: analysts
+analysts <> b: analyst, f: s
+analyte <> s: analytes
+analytes <> b: analyte, f: s
+analytic <> s: analytics
+analytics <> b: analytic, f: s
+analyze <> d: analyzed, i: analyzing, p: analyzed, '3': analyzes
+analyzed <> b: analyze, f: dp, d: analyzed
+analyzer <> s: analyzers
+analyzers <> b: analyzer, f: s
+analyzes <> b: analyze, f: '3'
+analyzing <> b: analyze, f: i
+anania <> s: ananias
+Ananias <> b: anania, f: s
+anaphor <> s: anaphors
+anaphors <> b: anaphor, f: s
+anarchies <> b: anarchy, f: s
+anarchist <> s: anarchists
+anarchists <> b: anarchist, f: s
+anarchy <> s: anarchies
+anas <> b: ana, f: s
+anastomose <> d: anastomosed, s: anastomoses, i: anastomosing, p: anastomosed, '3': anastomoses
+anastomosed <> f: dp, b: anastomose
+anastomoses <> f: s3, b: anastomose
+anastomosing <> b: anastomose, f: i
+anathema <> s: anathemas
+anathemas <> b: anathema, f: s
+anathematize <> p: anathematized, i: anathematizing, '3': anathematizes, d: anathematized
+anathematized <> f: pd, b: anathematize
+anathematizes <> f: '3', b: anathematize
+anathematizing <> f: i, b: anathematize
+Anatolian <> s: anatolians
+anatomies <> b: anatomy, f: s
+anatomist <> s: anatomists
+anatomists <> b: anatomist, f: s
+anatomize <> p: anatomized, i: anatomizing, '3': anatomizes, d: anatomized
+anatomized <> f: pd, b: anatomize
+anatomizes <> f: '3', b: anatomize
+anatomizing <> f: i, b: anatomize
+anatomy <> s: anatomies
+ancestor <> s: ancestors
+ancestors <> b: ancestor, f: s
+ancestries <> b: ancestry, f: s
+ancestry <> s: ancestries
+Anchises <> b: anchise, f: s3
+anchor <> s: anchors, i: anchoring, '3': anchors, p: anchored, d: anchored
+anchorage <> s: anchorages
+anchorages <> b: anchorage, f: s
+anchored <> b: anchore, f: dp, p: anchored, d: anchored
+anchoress <> s: anchoresses
+anchoresses <> b: anchoress, f: s
+anchoring <> b: anchor, f: i, i: anchoring
+anchorite <> s: anchorites
+anchorites <> b: anchorite, f: s
+anchorman <> s: anchormen
+anchormen <> b: anchorman, f: s
+anchors <> b: anchor, f: s3
+anchovies <> b: anchovy, f: s
+anchovy <> s: anchovies
+ancient <> s: ancients
+ancients <> b: ancient, f: s
+ancillaries <> b: ancillary, f: s
+ancillary <> s: ancillaries
+Andalusian <> s: andalusians
+andante <> s: andantes
+andantes <> b: andante, f: s
+andean <> s: andeans
+andeans <> b: andean, f: s
+ander <> s: anders
+anders <> b: ander, f: s
+andesite <> s: andesites
+andesites <> b: andesite, f: s
+andiron <> s: andirons
+andirons <> b: andiron, f: s
+Andorran <> s: andorrans
+Andra <> s: andras
+Andreotti <> s: andreotti, b: andreotti, f: s
+andrew <> p: andrew, b: andrew, f: p
+Andries <> b: andry, f: s
+androgen <> s: androgens
+androgens <> b: androgen, f: s
+androgyne <> s: androgynes, '3': androgynes
+androgynes <> b: androgyne, f: s3
+android <> s: androids
+androids <> b: android, f: s
+andry <> s: andries
+anecdote <> s: anecdotes
+anecdotes <> b: anecdote, f: s
+anele <> i: aneling, p: aneled, '3': aneles, d: aneled
+aneled <> f: pd, b: anele
+aneles <> f: '3', b: anele
+aneling <> f: i, b: anele
+anemometer <> s: anemometers, b: anemomete, f: r
+anemometers <> b: anemometer, f: s
+anemone <> s: anemones
+anemones <> b: anemone, f: s
+anencephalic <> s: anencephalics
+anencephalics <> b: anencephalic, f: s
+anesthetize <> i: anesthetizing, p: anesthetized, '3': anesthetizes, d: anesthetized
+anesthetized <> f: pd, b: anesthetize
+anesthetizes <> f: '3', b: anesthetize
+anesthetizing <> f: i, b: anesthetize
+aneuploidies <> b: aneuploidy, f: s
+aneuploidy <> s: aneuploidies
+aneurysm <> s: aneurysms
+aneurysms <> b: aneurysm, f: s
+ang <> i: anging, s: angs
+ange <> p: anged
+anged <> b: ange, f: p
+angel <> s: angels
+Angeleno <> s: angelenos
+Angeli <> s: angeli, b: angeli, f: s
+angelica <> s: angelicas
+angelicas <> b: angelica, f: s
+angels <> b: angel, f: s
+anger <> d: angered, p: angered, s: angers, '3': angers, i: angering
+angered <> b: anger, f: dp, d: angered, p: angered
+angering <> b: anger, f: i
+angers <> b: anger, f: s3
+Angevin <> s: angevins
+anging <> b: ang, f: i
+angiogram <> s: angiograms
+angiograms <> b: angiogram, f: s
+angiographies <> b: angiography, f: s
+angiography <> s: angiographies
+angioplasties <> b: angioplasty, f: s
+angioplasty <> s: angioplasties
+angiosperm <> s: angiosperms, '3': angiosperms
+angiosperms <> b: angiosperm, f: s3
+angle <> s: angles, d: angled, i: angling, p: angled, '3': angles
+angled <> b: angle, f: dp, d: angled, p: angled
+angler <> s: anglers
+anglers <> b: angler, f: s
+angles <> f: s3, b: angle
+anglian <> s: anglians
+anglians <> b: anglian, f: s
+Anglican <> s: anglicans
+Anglicise <> p: anglicised, d: anglicised, i: anglicising
+anglicised <> b: anglicise, f: pd
+Anglicize <> p: anglicized, d: anglicized, i: anglicizing, '3': anglicizes
+anglicized <> b: anglicize, f: pd, p: anglicized
+anglicizes <> f: '3', b: anglicize
+anglicizing <> f: i, b: anglicize
+angling <> b: angle, f: i, i: angling
+anglo <> s: anglos
+Anglo-American <> s: anglo-americans
+Anglo-Catholic <> s: anglo-catholics
+Anglo-Nubian <> s: anglo-nubians
+Anglo-Saxon <> s: anglo-saxons
+Anglophile <> s: anglophiles
+Anglophobe <> s: anglophobes
+anglophone <> s: anglophones, '3': anglophones
+anglophones <> b: anglophone, f: s3
+anglos <> b: anglo, f: s
+Angolan <> s: angolans
+Angora <> s: angoras
+angrier <> b: angry, f: r
+angry <> r: angrier
+angs <> b: ang, f: s
+angstrom <> s: angstroms
+angstroms <> b: angstrom, f: s
+anguish <> i: anguishing, s: anguishes, p: anguished, '3': anguishes, d: anguished
+anguished <> f: pd, b: anguish
+anguishes <> f: s3, b: anguish
+anguishing <> b: anguish, f: i
+angularities <> b: angularity, f: s
+angularity <> s: angularities
+angulate <> p: angulated, d: angulated, i: angulating, '3': angulates
+angulated <> b: angulate, f: pd
+angulates <> f: '3', b: angulate
+angulating <> f: i, b: angulate
+angulation <> s: angulations
+angulations <> b: angulation, f: s
+anharmonicities <> b: anharmonicity, f: s
+anharmonicity <> s: anharmonicities
+Anhui <> s: anhui, b: anhui, f: s
+anhydrite <> s: anhydrites
+anhydrites <> b: anhydrite, f: s
+animadversion <> s: animadversions
+animadversions <> b: animadversion, f: s
+animadvert <> p: animadverted, i: animadverting, '3': animadverts, d: animadverted
+animadverted <> f: pd, b: animadvert
+animadverting <> b: animadvert, f: i
+animadverts <> f: '3', b: animadvert
+animal <> s: animals
+animalcule <> s: animalcules
+animalcules <> b: animalcule, f: s
+animalize <> i: animalizing, p: animalized, '3': animalizes, d: animalized
+animalized <> f: pd, b: animalize
+animalizes <> f: '3', b: animalize
+animalizing <> f: i, b: animalize
+animals <> b: animal, f: s
+animate <> d: animated, '3': animates, i: animating, p: animated
+animated <> d: animated, b: animated, f: dp, p: animated
+animates <> b: animate, f: '3'
+animateur <> s: animateurs
+animateurs <> b: animateur, f: s
+animatic <> s: animatics
+animatics <> b: animatic, f: s
+animating <> b: animate, f: i
+animation <> s: animations
+animations <> b: animation, f: s
+animator <> s: animators
+animators <> b: animator, f: s
+animatronic <> s: animatronics
+animatronics <> b: animatronic, f: s
+animist <> s: animists
+animists <> b: animist, f: s
+animosities <> b: animosity, f: s
+animosity <> s: animosities
+anion <> s: anions
+anionic <> s: anionics
+anionics <> b: anionic, f: s
+anions <> b: anion, f: s
+anisotropies <> b: anisotropy, f: s
+anisotropy <> s: anisotropies
+ankle <> s: ankles
+ankles <> b: ankle, f: s
+anklet <> s: anklets
+anklets <> b: anklet, f: s
+ankylosaur <> s: ankylosaurs
+ankylosaurs <> b: ankylosaur, f: s
+ankylose <> i: ankylosing, p: ankylosed, '3': ankyloses, d: ankylosed
+ankylosed <> f: pd, b: ankylose
+ankyloses <> f: '3', b: ankylose
+ankylosing <> b: ankylose, f: i
+annal <> s: annals
+annalist <> s: annalists
+annalists <> b: annalist, f: s
+annals <> b: annal, f: s
+annates <> b: annate, f: s
+anneal <> i: annealing, p: annealed, d: annealed, s: anneals, '3': anneals
+annealed <> b: anneal, f: pd
+annealing <> b: anneal, f: i, i: annealing
+anneals <> f: s3, b: anneal
+annelid <> s: annelids
+annelids <> b: annelid, f: s
+annex <> d: annexed, p: annexed, s: annexes, i: annexing, '3': annexes
+annexation <> s: annexations
+annexations <> b: annexation, f: s
+annexed <> b: annex, f: dp
+annexes <> b: annex, f: s3
+annexing <> b: annex, f: i
+annihilate <> d: annihilated, i: annihilating, p: annihilated, '3': annihilates, s: annihilates
+annihilated <> b: annihilate, f: dp
+annihilates <> b: annihilate, f: 3s
+annihilating <> b: annihilate, f: i, i: annihilating
+annihilation <> s: annihilations
+annihilations <> b: annihilation, f: s
+anniversaries <> b: anniversary, f: s
+anniversary <> s: anniversaries
+anno <> s: annos
+annos <> b: anno, f: s
+annotate <> d: annotated, p: annotated, i: annotating, '3': annotates
+annotated <> b: annotate, f: dp, d: annotated, p: annotated
+annotates <> b: annotate, f: '3'
+annotating <> b: annotate, f: i
+annotation <> s: annotations
+annotations <> b: annotation, f: s
+announce <> p: announced, d: announced, i: announcing, '3': announces
+announced <> b: announce, f: pd, d: announced
+announcement <> s: announcements
+announcements <> b: announcement, f: s
+announcer <> s: announcers
+announcers <> b: announcer, f: s
+announces <> b: announce, f: '3'
+announcing <> b: announce, f: i, i: announcing
+annoy <> p: annoyed, '3': annoys, d: annoyed, i: annoying
+annoyance <> s: annoyances
+annoyances <> b: annoyance, f: s
+annoyed <> d: annoyed, b: annoyed, f: dp, p: annoyed
+annoying <> b: annoy, f: i, i: annoying
+annoys <> b: annoy, f: '3'
+annual <> s: annuals
+annualized <> p: annualized, b: annualized, f: p
+annuals <> b: annual, f: s
+annuitant <> s: annuitants
+annuitants <> b: annuitant, f: s
+annuities <> b: annuity, f: s
+annuity <> s: annuities
+annul <> d: annulled, p: annulled, i: annulling, s: annuls, '3': annuls
+annulled <> b: annul, f: dp, d: annulled
+annulling <> b: annul, f: i
+annuls <> f: s3, b: annul
+annunciate <> i: annunciating, p: annunciated, '3': annunciates, d: annunciated
+annunciated <> f: pd, b: annunciate
+annunciates <> f: '3', b: annunciate
+annunciating <> f: i, b: annunciate
+anode <> s: anodes
+anodes <> b: anode, f: s
+anodize <> i: anodizing, p: anodized, '3': anodizes, d: anodized
+anodized <> p: anodized, b: anodized, f: p
+anodizes <> f: '3', b: anodize
+anodizing <> f: i, b: anodize
+anoint <> d: anointed, p: anointed, i: anointing, '3': anoints
+Anointed <> b: anoint, f: dp, p: anointed, d: anointed
+anointing <> b: anoint, f: i, i: anointing
+anoints <> b: anoint, f: '3'
+anole <> s: anoles
+anoles <> b: anole, f: s
+anomalies <> b: anomaly, f: s
+anomaly <> s: anomalies
+anopheline <> s: anophelines
+anophelines <> b: anopheline, f: s
+anorak <> s: anoraks
+anoraks <> b: anorak, f: s
+anorexic <> s: anorexics
+anorexics <> b: anorexic, f: s
+anorthosite <> s: anorthosites
+anorthosites <> b: anorthosite, f: s
+Ansell <> s: ansells, '3': ansells
+ANSI <> s: ansi, b: ansi, f: s
+answer <> s: answers, p: answered, d: answered, i: answering, '3': answers
+answered <> b: answer, f: pd, d: answered, p: answered
+answering <> b: answer, f: i, i: answering
+answerphone <> s: answerphones
+answerphones <> b: answerphone, f: s
+answers <> b: answer, f: s3
+ant <> s: ants, p: anted, i: anting
+antacid <> s: antacids
+antacids <> b: antacid, f: s
+antagonise <> i: antagonising, d: antagonised, '3': antagonises, p: antagonised
+antagonised <> b: antagonise, f: dp, p: antagonised
+antagonises <> b: antagonise, f: '3'
+antagonising <> b: antagonise, f: i
+antagonism <> s: antagonisms
+antagonisms <> b: antagonism, f: s
+antagonist <> s: antagonists
+antagonists <> b: antagonist, f: s
+antagonize <> p: antagonized, i: antagonizing, d: antagonized, '3': antagonizes
+antagonized <> b: antagonize, f: pd
+antagonizes <> b: antagonize, f: '3'
+antagonizing <> b: antagonize, f: i
+ante <> s: antes, i: anteing, p: anteed, '3': antes, d: anteed
+ante-room <> s: ante-rooms
+ante-rooms <> b: ante-room, f: s
+anteater <> s: anteaters
+anteaters <> b: anteater, f: s
+antecedent <> s: antecedents
+antecedents <> b: antecedent, f: s
+antechamber <> s: antechambers
+antechambers <> b: antechamber, f: s
+anted <> b: ant, f: p
+antedate <> p: antedated, '3': antedates, i: antedating, s: antedates, d: antedated
+antedated <> b: antedate, f: pd
+antedates <> b: antedate, f: 3s
+antedating <> b: antedate, f: i
+anteed <> f: pd, b: ante
+anteing <> f: i, b: ante
+antelope <> s: antelopes
+antelopes <> b: antelope, f: s
+antenna <> s: antennas
+antennae <> s: antennae, b: antennae, f: s
+antennas <> b: antenna, f: s
+anteroom <> s: anterooms
+anterooms <> b: anteroom, f: s
+antes <> f: s3, b: ante
+anthelmintic <> s: anthelmintics
+anthelmintics <> b: anthelmintic, f: s
+anthem <> s: anthems
+anthems <> b: anthem, f: s
+anther <> s: anthers
+anthers <> b: anther, f: s
+anthill <> s: anthills, '3': anthills
+anthills <> b: anthill, f: s3
+anthologies <> b: anthology, f: s
+anthologist <> s: anthologists
+anthologists <> b: anthologist, f: s
+anthologize <> d: anthologized, i: anthologizing, p: anthologized, '3': anthologizes
+anthologized <> f: dp, b: anthologize
+anthologizes <> f: '3', b: anthologize
+anthologizing <> f: i, b: anthologize
+anthology <> s: anthologies
+anthracite <> s: anthracites
+anthracites <> b: anthracite, f: s
+anthraquinone <> s: anthraquinones
+anthraquinones <> b: anthraquinone, f: s
+anthropoid <> s: anthropoids
+anthropoids <> b: anthropoid, f: s
+anthropologies <> b: anthropology, f: s
+anthropologist <> s: anthropologists
+anthropologists <> b: anthropologist, f: s
+anthropology <> s: anthropologies
+anthropometric <> s: anthropometrics
+anthropometrics <> b: anthropometric, f: s
+anthropomorphism <> s: anthropomorphisms
+anthropomorphisms <> b: anthropomorphism, f: s
+anthropomorphize <> i: anthropomorphizing, p: anthropomorphized, '3': anthropomorphizes, d: anthropomorphized
+anthropomorphized <> f: pd, b: anthropomorphize
+anthropomorphizes <> f: '3', b: anthropomorphize
+anthropomorphizing <> b: anthropomorphize, f: i
+anthurium <> s: anthuriums
+anthuriums <> b: anthurium, f: s
+anti-abortionist <> s: anti-abortionists
+anti-abortionists <> b: anti-abortionist, f: s
+anti-communist <> s: anti-communists
+anti-communists <> b: anti-communist, f: s
+anti-emetic <> s: anti-emetics
+anti-emetics <> b: anti-emetic, f: s
+anti-hero <> s: anti-heros
+anti-heros <> b: anti-hero, f: s
+anti-infective <> s: anti-infectives
+anti-infectives <> b: anti-infective, f: s
+anti-inflammatories <> b: anti-inflammatory, f: s
+anti-inflammatory <> s: anti-inflammatories
+anti-personnel <> s: anti-personnel, b: anti-personnel, f: s
+anti-racist <> s: anti-racists
+anti-racists <> b: anti-racist, f: s
+anti-Semite <> s: anti-semites
+antibacterial <> s: antibacterials
+antibacterials <> b: antibacterial, f: s
+antibiotic <> s: antibiotics
+antibiotics <> b: antibiotic, f: s
+antibodies <> b: antibody, f: s
+antibody <> s: antibodies
+antic <> s: antics, i: anticking, p: anticked, '3': antics, d: anticked
+anticholinergic <> s: anticholinergics
+anticholinergics <> b: anticholinergic, f: s
+antichrist <> s: antichrists
+antichrists <> b: antichrist, f: s
+anticipate <> d: anticipated, i: anticipating, p: anticipated, '3': anticipates
+anticipated <> b: anticipate, f: dp, d: anticipated, p: anticipated
+anticipates <> b: anticipate, f: '3'
+anticipating <> b: anticipate, f: i
+anticipation <> s: anticipations
+anticipations <> b: anticipation, f: s
+anticlerical <> s: anticlericals
+anticlericals <> b: anticlerical, f: s
+anticlimax <> s: anticlimaxes
+anticlimaxes <> b: anticlimax, f: s
+anticline <> s: anticlines
+anticlines <> b: anticline, f: s
+anticoagulant <> s: anticoagulants
+anticoagulants <> b: anticoagulant, f: s
+anticodon <> s: anticodons
+anticodons <> b: anticodon, f: s
+anticonvulsant <> s: anticonvulsants
+anticonvulsants <> b: anticonvulsant, f: s
+antics <> b: antic, f: s
+anticyclone <> s: anticyclones
+anticyclones <> b: anticyclone, f: s
+antidepressant <> s: antidepressants
+antidepressants <> b: antidepressant, f: s
+antidote <> s: antidotes
+antidotes <> b: antidote, f: s
+antifouling <> i: antifouling, b: antifouling, f: i, s: antifoulings
+antifoulings <> b: antifouling, f: s
+antifungal <> s: antifungals
+antifungals <> b: antifungal, f: s
+antigen <> s: antigens
+antigens <> b: antigen, f: s
+Antiguan <> s: antiguans
+antihero <> s: antiheros
+antiheros <> b: antihero, f: s
+antihistamine <> s: antihistamines
+antihistamines <> b: antihistamine, f: s
+antihypertensive <> '3': antihypertensives
+antihypertensives <> b: antihypertensive, f: '3'
+Antille <> s: antilles
+Antilles <> b: antille, f: s
+antilog <> d: antilogged, s: antilogs
+antilogged <> b: antilog, f: d
+antilogs <> b: antilog, f: s
+antimacassar <> s: antimacassars
+antimacassars <> b: antimacassar, f: s
+antimalarial <> s: antimalarials
+antimalarials <> b: antimalarial, f: s
+antimetabolite <> s: antimetabolites
+antimetabolites <> b: antimetabolite, f: s
+antimicrobial <> s: antimicrobials
+antimicrobials <> b: antimicrobial, f: s
+antimonies <> b: antimony, f: s
+antimony <> s: antimonies
+antineutrino <> s: antineutrinos
+antineutrinos <> b: antineutrino, f: s
+anting <> b: ant, f: i, i: anting
+antinomian <> s: antinomians
+antinomians <> b: antinomian, f: s
+antinomies <> b: antinomy, f: s
+antinomy <> s: antinomies
+antioxidant <> s: antioxidants
+antioxidants <> b: antioxidant, f: s
+antiparticle <> s: antiparticles
+antiparticles <> b: antiparticle, f: s
+antipathies <> b: antipathy, f: s
+antipathy <> s: antipathies
+antiperspirant <> s: antiperspirants
+antiperspirants <> b: antiperspirant, f: s
+antiphon <> s: antiphons
+antiphons <> b: antiphon, f: s
+antipode <> s: antipodes
+antipodean <> s: antipodeans
+antipodeans <> b: antipodean, f: s
+antipodes <> b: antipode, f: s
+antiproton <> s: antiprotons
+antiprotons <> b: antiproton, f: s
+antiquarian <> s: antiquarians
+antiquarians <> b: antiquarian, f: s
+antiquaries <> b: antiquary, f: s
+antiquark <> s: antiquarks, '3': antiquarks
+antiquarks <> b: antiquark, f: s3
+antiquary <> s: antiquaries
+antiquate <> i: antiquating, p: antiquated, '3': antiquates, d: antiquated
+antiquated <> f: pd, b: antiquate
+antique <> s: antiques, p: antiqued, i: antiquing, '3': antiques, d: antiqued
+antiqued <> f: pd, b: antique
+antiques <> f: s3, b: antique
+antiquing <> i: antiquing, b: antiquing, f: i
+antiquities <> b: antiquity, f: s
+antiquity <> s: antiquities
+antiracist <> s: antiracists
+antiracists <> b: antiracist, f: s
+antirrhinum <> s: antirrhinums
+antirrhinums <> b: antirrhinum, f: s
+antiseptic <> s: antiseptics
+antiseptics <> b: antiseptic, f: s
+antiserum <> s: antiserums
+antiserums <> b: antiserum, f: s
+antispasmodic <> s: antispasmodics
+antispasmodics <> b: antispasmodic, f: s
+antitheses <> b: antithesis, f: s
+antithesis <> s: antitheses
+antitoxin <> s: antitoxins
+antitoxins <> b: antitoxin, f: s
+antitype <> s: antitypes
+antitypes <> b: antitype, f: s
+antiviral <> s: antivirals
+antivirals <> b: antiviral, f: s
+antler <> s: antlers, p: antlered
+antlered <> b: antler, f: p, p: antlered
+antlers <> b: antler, f: s
+antonym <> s: antonyms
+antonyms <> b: antonym, f: s
+ants <> b: ant, f: s
+anuran <> s: anurans
+anurans <> b: anuran, f: s
+anvil <> s: anvils
+anvils <> b: anvil, f: s
+Anwar <> s: anwars
+anxieties <> b: anxiety, f: s
+anxiety <> s: anxieties
+anxiolytic <> s: anxiolytics
+anxiolytics <> b: anxiolytic, f: s
+anyway <> s: anyways
+anyways <> b: anyway, f: s
+AO <> s: aos
+aorta <> s: aortas
+aortas <> b: aorta, f: s
+AP <> p: aped, i: aping, d: aped, s: aps
+apanage <> s: apanages
+apanages <> b: apanage, f: s
+apartheid <> s: apartheids
+apartheids <> b: apartheid, f: s
+apartment <> s: apartments
+apartments <> b: apartment, f: s
+apatite <> s: apatites
+apatites <> b: apatite, f: s
+ape <> s: apes, '3': apes, i: apeing, p: aped, d: aped
+aped <> b: ap, f: pd
+apeing <> b: ape, f: i
+Apennines <> b: apennine, f: s
+aperient <> s: aperients
+aperients <> b: aperient, f: s
+aperitif <> s: aperitifs
+aperitifs <> b: aperitif, f: s
+aperture <> s: apertures
+apertures <> b: aperture, f: s
+apes <> b: ape, f: s3
+apex <> s: apices
+aphasia <> s: aphasias
+aphasias <> b: aphasia, f: s
+aphasic <> s: aphasics
+aphasics <> b: aphasic, f: s
+aphid <> s: aphids
+aphids <> b: aphid, f: s
+aphorism <> s: aphorisms
+aphorisms <> b: aphorism, f: s
+aphorize <> i: aphorizing, p: aphorized, '3': aphorizes, d: aphorized
+aphorized <> f: pd, b: aphorize
+aphorizes <> f: '3', b: aphorize
+aphorizing <> f: i, b: aphorize
+aphrodisiac <> s: aphrodisiacs
+aphrodisiacs <> b: aphrodisiac, f: s
+API <> s: api, b: api, f: s
+apices <> b: apex, f: s
+aping <> b: ap, f: i
+apocalypse <> s: apocalypses
+apocalypses <> b: apocalypse, f: s
+apologetic <> s: apologetics
+apologetics <> b: apologetic, f: s
+apologies <> b: apology, f: s
+apologise <> p: apologised, i: apologising, d: apologised, '3': apologises
+apologised <> b: apologise, f: pd
+apologises <> b: apologise, f: '3'
+apologising <> b: apologise, f: i, i: apologising
+apologist <> s: apologists
+apologists <> b: apologist, f: s
+apologize <> p: apologized, i: apologizing, '3': apologizes, d: apologized
+apologized <> b: apologize, f: pd
+apologizes <> b: apologize, f: '3'
+apologizing <> b: apologize, f: i
+apology <> s: apologies
+apophthegm <> s: apophthegms
+apophthegms <> b: apophthegm, f: s
+apoprotein <> s: apoproteins
+apoproteins <> b: apoprotein, f: s
+aporia <> s: aporias
+aporias <> b: aporia, f: s
+apostate <> s: apostates
+apostates <> b: apostate, f: s
+apostatize <> p: apostatized, i: apostatizing, '3': apostatizes, d: apostatized
+apostatized <> f: pd, b: apostatize
+apostatizes <> f: '3', b: apostatize
+apostatizing <> f: i, b: apostatize
+apostle <> s: apostles
+apostles <> b: apostle, f: s
+apostolate <> s: apostolates
+apostolates <> b: apostolate, f: s
+apostrophe <> s: apostrophes
+apostrophes <> b: apostrophe, f: s
+apostrophize <> d: apostrophized, '3': apostrophizes, i: apostrophizing, p: apostrophized
+apostrophized <> f: dp, b: apostrophize
+apostrophizes <> b: apostrophize, f: '3'
+apostrophizing <> b: apostrophize, f: i
+apothecaries <> b: apothecary, f: s
+apothecary <> s: apothecaries
+apotheosize <> p: apotheosized, i: apotheosizing, '3': apotheosizes, d: apotheosized
+apotheosized <> f: pd, b: apotheosize
+apotheosizes <> f: '3', b: apotheosize
+apotheosizing <> f: i, b: apotheosize
+APP <> '3': apps, s: apps
+appal <> p: appalled, d: appalled, '3': appals, i: appalling
+appall <> '3': appalls, s: appalls, i: appalling, p: appalled, d: appalled
+appalled <> p: appalled, b: appalled, f: pd, d: appalled
+appalling <> i: appalling, b: appalling, f: i
+appalls <> b: appall, f: 3s
+appals <> b: appal, f: '3'
+apparat <> s: apparats
+apparatchik <> s: apparatchiks
+apparatchiks <> b: apparatchik, f: s
+apparats <> b: apparat, f: s
+apparel <> p: apparelled, s: apparels, i: appareling, '3': apparels, d: appareled
+apparelled <> b: apparel, f: p
+apparels <> b: apparel, f: s
+apparition <> s: apparitions
+apparitions <> b: apparition, f: s
+appeal <> s: appeals, p: appealed, i: appealing, d: appealed, '3': appeals
+appealed <> b: appeal, f: pd
+appealing <> b: appeal, f: i, i: appealing
+appeals <> b: appeal, f: s3
+appear <> p: appeared, '3': appears, i: appearing, d: appeared
+appearance <> s: appearances
+appearances <> b: appearance, f: s
+appeared <> b: appear, f: pd
+appearing <> b: appear, f: i
+appears <> b: appear, f: '3'
+appease <> d: appeased, i: appeasing, p: appeased, '3': appeases
+appeased <> b: appease, f: dp, d: appeased
+appeaser <> s: appeasers
+appeasers <> b: appeaser, f: s
+appeases <> b: appease, f: '3'
+appeasing <> b: appease, f: i
+appellant <> s: appellants
+appellants <> b: appellant, f: s
+appellation <> s: appellations
+appellations <> b: appellation, f: s
+append <> p: appended, d: appended, i: appending, '3': appends
+appendage <> s: appendages
+appendages <> b: appendage, f: s
+appended <> b: append, f: pd
+appendices <> b: appendix, f: s
+appending <> b: append, f: i
+appendix <> s: appendices
+appends <> b: append, f: '3'
+appertain <> i: appertaining, '3': appertains, d: appertained, p: appertained, s: appertains
+appertained <> b: appertain, f: dp
+appertaining <> b: appertain, f: i
+appertains <> b: appertain, f: 3s
+appetencies <> b: appetency, f: s
+appetency <> s: appetencies
+appetiser <> s: appetisers
+appetisers <> b: appetiser, f: s
+appetising <> i: appetising, b: appetising, f: i
+appetite <> s: appetites
+appetites <> b: appetite, f: s
+appetizer <> s: appetizers
+appetizers <> b: appetizer, f: s
+applaud <> p: applauded, d: applauded, i: applauding, '3': applauds
+applauded <> b: applaud, f: pd
+applauding <> b: applaud, f: i
+applauds <> b: applaud, f: '3'
+apple <> s: apples
+applecart <> s: applecarts, '3': applecarts
+applecarts <> b: applecart, f: s3
+apples <> b: apple, f: s
+applet <> s: applets
+applets <> b: applet, f: s
+appliance <> s: appliances
+appliances <> b: appliance, f: s
+applicabilities <> b: applicability, f: s
+applicability <> s: applicabilities
+applicant <> s: applicants
+applicants <> b: applicant, f: s
+application <> s: applications
+applications <> b: application, f: s
+applicator <> s: applicators
+applicators <> b: applicator, f: s
+applied <> b: apply, f: dp, p: applied, d: applied
+applier <> s: appliers
+appliers <> b: applier, f: s
+applique <> p: appliqued, d: appliqued, s: appliques
+appliqued <> b: applique, f: pd
+appliques <> b: applique, f: s
+apply <> d: applied, '3': applies, i: applying, p: applied
+appoggiatura <> s: appoggiaturas
+appoggiaturas <> b: appoggiatura, f: s
+appoint <> d: appointed, p: appointed, i: appointing, '3': appoints
+appointed <> b: appoint, f: dp, d: appointed, p: appointed
+appointee <> s: appointees
+appointees <> b: appointee, f: s
+appointer <> s: appointers
+appointers <> b: appointer, f: s
+appointing <> b: appoint, f: i, i: appointing
+appointment <> s: appointments
+appointments <> b: appointment, f: s
+appoints <> b: appoint, f: '3'
+apport <> s: apports
+apportion <> d: apportioned, i: apportioning, p: apportioned, '3': apportions
+apportioned <> b: apportion, f: dp
+apportioning <> b: apportion, f: i
+apportionment <> s: apportionments
+apportionments <> b: apportionment, f: s
+apportions <> b: apportion, f: '3'
+apports <> b: apport, f: s
+appose <> d: apposed, p: apposed, i: apposing, '3': apposes
+apposed <> d: apposed, b: apposed, f: d
+apposes <> f: '3', b: appose
+apposing <> f: i, b: appose
+apposition <> s: appositions
+appositions <> b: apposition, f: s
+appraisal <> s: appraisals
+appraisals <> b: appraisal, f: s
+appraise <> i: appraising, d: appraised, p: appraised, '3': appraises, s: appraises
+appraised <> b: appraise, f: dp, d: appraised
+appraisee <> s: appraisees
+appraisees <> b: appraisee, f: s
+appraiser <> s: appraisers
+appraisers <> b: appraiser, f: s
+appraises <> b: appraise, f: 3s
+appraising <> b: appraise, f: i, i: appraising
+appreciate <> d: appreciated, p: appreciated, i: appreciating, '3': appreciates
+appreciated <> b: appreciate, f: dp, p: appreciated
+appreciates <> b: appreciate, f: '3'
+appreciating <> b: appreciate, f: i
+appreciation <> s: appreciations
+appreciations <> b: appreciation, f: s
+appreciator <> s: appreciators
+appreciators <> b: appreciator, f: s
+apprehend <> d: apprehended, i: apprehending, p: apprehended, '3': apprehends
+apprehended <> b: apprehend, f: dp, p: apprehended
+apprehending <> b: apprehend, f: i
+apprehends <> b: apprehend, f: '3'
+apprehension <> s: apprehensions
+apprehensions <> b: apprehension, f: s
+apprentice <> s: apprentices, d: apprenticed, p: apprenticed, i: apprenticing, '3': apprentices
+apprenticed <> b: apprentice, f: dp, d: apprenticed
+apprentices <> f: s3, b: apprentice
+apprenticeship <> s: apprenticeships
+apprenticeships <> b: apprenticeship, f: s
+apprenticing <> f: i, b: apprentice
+appress <> p: appressed, d: appressed
+appressed <> b: appress, f: pd
+apprise <> d: apprised, p: apprised, i: apprising, '3': apprises
+apprised <> b: apprise, f: dp, d: apprised
+apprize <> i: apprizing, p: apprized, '3': apprizes, d: apprized
+apprized <> f: pd, b: apprize
+apprizes <> f: '3', b: apprize
+apprizing <> f: i, b: apprize
+approach <> s: approaches, p: approached, i: approaching, d: approached, '3': approaches
+approached <> b: approach, f: pd, d: approached, p: approached
+approaches <> b: approach, f: s3
+approaching <> b: approach, f: i, i: approaching
+approbate <> i: approbating, p: approbated, '3': approbates, d: approbated
+approbated <> f: pd, b: approbate
+approbates <> f: '3', b: approbate
+approbating <> f: i, b: approbate
+approbation <> s: approbations
+approbations <> b: approbation, f: s
+appropriate <> d: appropriated, '3': appropriates, p: appropriated, i: appropriating
+appropriated <> b: appropriate, f: dp, d: appropriated, p: appropriated
+appropriates <> b: appropriate, f: '3'
+appropriating <> b: appropriate, f: i
+appropriation <> s: appropriations
+appropriations <> b: appropriation, f: s
+approval <> s: approvals
+approvals <> b: approval, f: s
+approve <> d: approved, p: approved, i: approving, '3': approves
+approved <> b: approve, f: dp, d: approved, p: approved
+approves <> b: approve, f: '3'
+approving <> b: approve, f: i, i: approving
+approximate <> i: approximating, '3': approximates, d: approximated, p: approximated
+approximated <> b: approximate, f: dp
+approximates <> b: approximate, f: '3'
+approximating <> b: approximate, f: i
+approximation <> s: approximations
+approximations <> b: approximation, f: s
+apps <> b: app, f: 3s
+appurtenance <> s: appurtenances
+appurtenances <> b: appurtenance, f: s
+appy <> i: appying
+appying <> b: appy, f: i
+APR <> s: aprs
+apricot <> s: apricots
+apricots <> b: apricot, f: s
+apron <> s: aprons
+aprons <> b: apron, f: s
+apse <> s: apses
+apses <> b: apse, f: s
+apt <> s: apts, r: apter, t: aptest
+apter <> b: apt, f: r
+apterygote <> s: apterygotes
+apterygotes <> b: apterygote, f: s
+aptest <> b: apt, f: t
+aptitude <> s: aptitudes
+aptitudes <> b: aptitude, f: s
+apts <> b: apt, f: s
+aqua <> s: aquas
+aqualung <> i: aqualunging, s: aqualungs
+aqualunging <> b: aqualung, f: i
+aqualungs <> b: aqualung, f: s
+aquamarine <> s: aquamarines
+aquamarines <> b: aquamarine, f: s
+aquanaut <> s: aquanauts
+aquanauts <> b: aquanaut, f: s
+aquaplane <> i: aquaplaning, p: aquaplaned, s: aquaplanes, '3': aquaplanes, d: aquaplaned
+aquaplaned <> f: pd, b: aquaplane
+aquaplanes <> f: s3, b: aquaplane
+aquaplaning <> b: aquaplane, f: i
+aquaria <> b: aquarium, f: s
+aquarian <> s: aquarians
+aquarians <> b: aquarian, f: s
+aquarist <> s: aquarists
+aquarists <> b: aquarist, f: s
+aquarium <> s: aquaria
+aquas <> b: aqua, f: s
+aquatic <> s: aquatics
+aquatics <> b: aquatic, f: s
+aquatint <> s: aquatints, '3': aquatints, i: aquatinting, p: aquatinted, d: aquatinted
+aquatinted <> f: pd, b: aquatint
+aquatinting <> b: aquatint, f: i
+aquatints <> b: aquatint, f: s3
+aqueduct <> s: aqueducts, '3': aqueducts
+aqueducts <> b: aqueduct, f: s3
+aquifer <> s: aquifers, '3': aquifers
+aquifers <> b: aquifer, f: s3
+aquilegia <> s: aquilegias
+aquilegias <> b: aquilegia, f: s
+AR <> s: ars, '3': ars
+Arab <> s: arabs
+arabesque <> s: arabesques, i: arabesquing
+arabesques <> b: arabesque, f: s
+arabesquing <> b: arabesque, f: i
+Arabian <> s: arabians
+Arabist <> s: arabists
+arabs <> b: arab, f: s
+arachnid <> s: arachnids
+arachnids <> b: arachnid, f: s
+Aran <> s: arans
+Ararat <> '3': ararats
+arb <> s: arbs
+arbalest <> b: arbale, f: t, s: arbalests
+arbalests <> b: arbalest, f: s
+arbiter <> s: arbiters
+arbiters <> b: arbiter, f: s
+arbitrage <> i: arbitraging, s: arbitrages, p: arbitraged, '3': arbitrages, d: arbitraged
+arbitrages <> b: arbitrage, f: s
+arbitrageur <> s: arbitrageurs
+arbitrageurs <> b: arbitrageur, f: s
+arbitraging <> b: arbitrage, f: i
+arbitrate <> i: arbitrating, '3': arbitrates, d: arbitrated, p: arbitrated, s: arbitrates
+arbitrated <> b: arbitrate, f: dp
+arbitrates <> b: arbitrate, f: 3s
+arbitrating <> b: arbitrate, f: i
+arbitration <> s: arbitrations
+arbitrations <> b: arbitration, f: s
+arbitrator <> s: arbitrators
+arbitrators <> b: arbitrator, f: s
+arbor <> s: arbors
+arboretum <> s: arboretums
+arboretums <> b: arboretum, f: s
+arbors <> b: arbor, f: s
+arbour <> s: arbours
+arbours <> b: arbour, f: s
+arbs <> b: arb, f: s
+Arbuthnot <> s: arbuthnots
+arc <> s: arcs, i: arcking, p: arcked, '3': arcs, d: arcked
+arcade <> s: arcades, i: arcading, d: arcaded
+arcaded <> b: arcade, f: d, d: arcaded
+arcades <> b: arcade, f: s
+arcadian <> s: arcadians
+arcadians <> b: arcadian, f: s
+arcading <> b: arcade, f: i, i: arcading
+arcane <> t: arcanest
+arcanest <> b: arcane, f: t
+arce <> p: arced, i: arcing, d: arced
+arced <> b: arce, f: pd
+arch <> s: arches, p: arched, i: arching, d: arched, '3': arches
+arch-enemies <> b: arch-enemy, f: s
+arch-enemy <> s: arch-enemies
+archaeologist <> s: archaeologists
+archaeologists <> b: archaeologist, f: s
+archaism <> s: archaisms
+archaisms <> b: archaism, f: s
+archaize <> i: archaizing, p: archaized, '3': archaizes, d: archaized
+archaizing <> f: i, b: archaize
+archangel <> s: archangels
+archangels <> b: archangel, f: s
+archbishop <> s: archbishops
+archbishopric <> s: archbishoprics
+archbishoprics <> b: archbishopric, f: s
+archbishops <> b: archbishop, f: s
+archdeacon <> s: archdeacons
+archdeaconries <> b: archdeaconry, f: s
+archdeaconry <> s: archdeaconries
+archdeacons <> b: archdeacon, f: s
+archdiocese <> s: archdioceses
+archdioceses <> b: archdiocese, f: s
+arched <> b: arch, f: pd, p: arched, d: arched
+archeologist <> s: archeologists
+archeologists <> b: archeologist, f: s
+ARCHERS <> s: archers, b: archers, f: s
+arches <> b: arch, f: s3
+archetype <> s: archetypes
+archetypes <> b: archetype, f: s
+archiepiscopate <> s: archiepiscopates
+archiepiscopates <> b: archiepiscopate, f: s
+archimandrite <> s: archimandrites
+archimandrites <> b: archimandrite, f: s
+archimede <> '3': archimedes
+Archimedes <> b: archimede, f: '3'
+arching <> b: arch, f: i, i: arching
+archipelago <> s: archipelagos
+archipelagos <> b: archipelago, f: s
+architect <> s: architects
+architectonic <> s: architectonics
+architectonics <> b: architectonic, f: s
+architects <> b: architect, f: s
+architecture <> s: architectures
+architectures <> b: architecture, f: s
+architrave <> s: architraves, p: architraved
+architraved <> b: architrave, f: p
+architraves <> b: architrave, f: s
+archive <> s: archives, i: archiving, d: archived, p: archived, '3': archives
+archived <> b: archive, f: dp, d: archived
+archives <> b: archive, f: s
+archiving <> b: archive, f: i, i: archiving
+archivist <> s: archivists
+archivists <> b: archivist, f: s
+archlute <> s: archlutes
+archlutes <> b: archlute, f: s
+archon <> s: archons
+archons <> b: archon, f: s
+archosaur <> s: archosaurs, '3': archosaurs
+archosaurs <> b: archosaur, f: s3
+archpriest <> s: archpriests, b: archpry, f: t
+archpriests <> b: archpriest, f: s
+archway <> s: archways
+archways <> b: archway, f: s
+arcing <> b: arce, f: i
+arcked <> f: pd, b: arc
+arcking <> f: i, b: arc
+arcs <> f: s3, b: arc
+arcsecond <> s: arcseconds
+arctic <> s: arctics
+arctics <> b: arctic, f: s
+arcuate <> p: arcuated
+arcuated <> b: arcuate, f: p, p: arcuated
+arden <> s: ardens
+ardens <> b: arden, f: s
+ardour <> s: ardours
+ardours <> b: ardour, f: s
+are <> s: ares
+area <> s: areas
+areas <> b: area, f: s
+arena <> s: arenas
+arenas <> b: arena, f: s
+Ares <> b: are, f: s
+arf <> '3': arfs
+arfs <> b: arf, f: '3'
+argentine <> s: argentines
+argentines <> b: argentine, f: s
+Argentinian <> s: argentinians
+argies <> b: argy, f: s
+arginine <> s: arginines
+arginines <> b: arginine, f: s
+Argive <> s: argives
+argon <> s: argons
+argonaut <> s: argonauts
+argonauts <> b: argonaut, f: s
+argons <> b: argon, f: s
+argosies <> b: argosy, f: s
+argosy <> s: argosies
+argue <> d: argued, p: argued, '3': argues, i: arguing
+argued <> b: argue, f: dp, p: argued
+arguer <> s: arguers
+arguers <> b: arguer, f: s
+argues <> b: argue, f: '3'
+argufied <> f: pd, b: argufy
+argufies <> f: '3', b: argufy
+argufy <> i: argufying, p: argufied, '3': argufies, d: argufied
+arguing <> b: argue, f: i, i: arguing
+argument <> s: arguments
+arguments <> b: argument, f: s
+argy <> s: argies
+argy-bargies <> b: argy-bargy, f: s
+argy-bargy <> s: argy-bargies
+aria <> s: arias
+arian <> s: arians
+arians <> b: arian, f: s
+Arias <> b: aria, f: s
+aridities <> b: aridity, f: s
+aridity <> s: aridities
+ariel <> s: ariels
+ariels <> b: ariel, f: s
+aril <> s: arils
+arils <> b: aril, f: s
+arise <> i: arising, '3': arises, p: arose, d: arisen
+arisen <> b: arise, f: d
+arises <> b: arise, f: '3'
+arising <> b: arise, f: i, s: arisings
+arisings <> b: arising, f: s
+aristo <> s: aristos
+aristocracies <> b: aristocracy, f: s
+aristocracy <> s: aristocracies
+aristocrat <> s: aristocrats
+aristocrats <> b: aristocrat, f: s
+aristophane <> s: aristophanes
+Aristophanes <> b: aristophane, f: s
+ARISTOS <> b: aristo, f: s
+Aristotelian <> s: aristotelians
+aristotelians <> b: aristotelian, f: s
+arithmetic <> s: arithmetics
+arithmetician <> s: arithmeticians
+arithmeticians <> b: arithmetician, f: s
+arithmetics <> b: arithmetic, f: s
+ark <> s: arks
+arkell <> s: arkells
+arkells <> b: arkell, f: s
+arkose <> s: arkoses
+arkoses <> b: arkose, f: s
+arks <> b: ark, f: s
+Arkwright <> s: arkwrights
+arm <> s: arms, d: armed, i: arming, p: armed, '3': arms
+armada <> s: armadas
+armadas <> b: armada, f: s
+armadillo <> s: armadillos
+armadillos <> b: armadillo, f: s
+Armagnac <> s: armagnacs
+armament <> s: armaments
+armaments <> b: armament, f: s
+armature <> s: armatures
+armatures <> b: armature, f: s
+armband <> s: armbands
+armbands <> b: armband, f: s
+armchair <> s: armchairs
+armchairs <> b: armchair, f: s
+armed <> b: arm, f: dp, d: armed
+Armenian <> s: armenians
+armenians <> b: armenian, f: s
+armful <> s: armfuls
+armfuls <> b: armful, f: s
+armhole <> s: armholes
+armholes <> b: armhole, f: s
+armies <> b: army, f: s
+armiger <> s: armigers
+armigers <> b: armiger, f: s
+arming <> b: arm, f: i, i: arming, s: armings
+Arminian <> s: arminians
+armistice <> s: armistices
+armistices <> b: armistice, f: s
+armlet <> s: armlets
+armlets <> b: armlet, f: s
+armload <> s: armloads
+armloads <> b: armload, f: s
+armlock <> d: armlocked, p: armlocked
+armlocked <> b: armlock, f: dp
+armor <> i: armoring, p: armored, '3': armors, d: armored
+armored <> b: armore, f: p
+armorial <> s: armorials
+armorials <> b: armorial, f: s
+armour <> d: armoured, i: armouring, s: armours, p: armoured, '3': armours
+armoured <> f: dp, b: armour, d: armoured
+armourer <> s: armourers
+armourers <> b: armourer, f: s
+armouries <> b: armoury, f: s
+armouring <> b: armour, f: i
+armours <> f: s3, b: armour
+armoury <> s: armouries
+armpit <> s: armpits
+armpits <> b: armpit, f: s
+armr <> t: armrest
+armrest <> b: armr, f: t, s: armrests
+armrests <> b: armrest, f: s
+arms <> f: s3, b: arm
+army <> s: armies
+aroid <> s: aroids
+aroids <> b: aroid, f: s
+aroma <> s: aromas
+aromas <> b: aroma, f: s
+aromatherapist <> s: aromatherapists
+aromatherapists <> b: aromatherapist, f: s
+aromatic <> s: aromatics
+aromatics <> b: aromatic, f: s
+aromatize <> i: aromatizing, p: aromatized, '3': aromatizes, d: aromatized
+aromatized <> f: pd, b: aromatize
+aromatizes <> f: '3', b: aromatize
+aromatizing <> f: i, b: aromatize
+arose <> b: arise, f: p
+arousal <> s: arousals
+arousals <> b: arousal, f: s
+arouse <> d: aroused, p: aroused, i: arousing, '3': arouses
+aroused <> b: arouse, f: dp, p: aroused, d: aroused
+arouses <> b: arouse, f: '3'
+arousing <> b: arouse, f: i, i: arousing
+arpeggiate <> p: arpeggiated, '3': arpeggiates
+arpeggiated <> b: arpeggiate, f: p
+arpeggiates <> b: arpeggiate, f: '3'
+arpeggio <> s: arpeggios
+arpeggios <> b: arpeggio, f: s
+arraign <> d: arraigned, p: arraigned, i: arraigning, '3': arraigns
+arraigned <> b: arraign, f: dp
+arraigning <> b: arraign, f: i
+arraignment <> s: arraignments
+arraignments <> b: arraignment, f: s
+arraigns <> f: '3', b: arraign
+arrange <> d: arranged, i: arranging, p: arranged, '3': arranges
+arranged <> b: arrange, f: dp, d: arranged, p: arranged
+arrangement <> s: arrangements
+arrangements <> b: arrangement, f: s
+arranger <> s: arrangers
+arrangers <> b: arranger, f: s
+arranges <> b: arrange, f: '3'
+arranging <> b: arrange, f: i
+array <> s: arrays, p: arrayed, d: arrayed, i: arraying, '3': arrays
+arrayed <> b: array, f: pd, d: arrayed
+arraying <> f: i, b: array
+arrays <> f: s3, b: array
+arrears <> s: arrears, b: arrears, f: s
+arrest <> d: arrested, s: arrests, i: arresting, p: arrested, '3': arrests
+arrested <> b: arrest, f: dp, d: arrested
+arrestee <> s: arrestees
+arrestees <> b: arrestee, f: s
+arrester <> s: arresters
+arresters <> b: arrester, f: s
+arresting <> b: arrest, f: i, i: arresting
+arrestment <> s: arrestments
+arrestments <> b: arrestment, f: s
+arrests <> b: arrest, f: s3
+arrhythmia <> s: arrhythmias
+arrhythmias <> b: arrhythmia, f: s
+arrival <> s: arrivals
+arrivals <> b: arrival, f: s
+arrive <> p: arrived, d: arrived, i: arriving, '3': arrives
+arrived <> b: arrive, f: pd
+arrivederci <> s: arrivederci, b: arrivederci, f: s
+arrives <> b: arrive, f: '3'
+arriving <> b: arrive, f: i, i: arriving
+arriviste <> s: arrivistes
+arrivistes <> b: arriviste, f: s
+arrogate <> p: arrogated, '3': arrogates, d: arrogated, i: arrogating, s: arrogates
+arrogated <> b: arrogate, f: pd
+arrogates <> b: arrogate, f: 3s
+arrogating <> b: arrogate, f: i
+arrondissement <> s: arrondissements
+arrondissements <> b: arrondissement, f: s
+arrow <> s: arrows, p: arrowed, i: arrowing
+arrowed <> b: arrow, f: p, d: arrowed, p: arrowed
+arrowhead <> s: arrowheads
+arrowheads <> b: arrowhead, f: s
+arrowing <> b: arrow, f: i
+arrows <> b: arrow, f: s
+ARS <> b: ar, f: s3
+arse <> s: arses, d: arsed, i: arsing, p: arsed, '3': arses
+arsed <> b: arse, f: dp, d: arsed
+arsehole <> s: arseholes, d: arseholed
+arseholed <> b: arsehole, f: d
+arseholes <> b: arsehole, f: s
+arsenal <> s: arsenals
+arsenals <> b: arsenal, f: s
+arsenical <> s: arsenicals
+arsenicals <> b: arsenical, f: s
+arsenide <> s: arsenides
+arsenides <> b: arsenide, f: s
+arses <> b: arse, f: s
+arsing <> b: arse, f: i
+arson <> s: arsons
+arsonist <> s: arsonists
+arsonists <> b: arsonist, f: s
+arsons <> b: arson, f: s
+art <> s: arts
+arte <> s: artes
+artefact <> s: artefacts
+artefacts <> b: artefact, f: s
+artemisia <> s: artemisias
+artemisias <> b: artemisia, f: s
+arterial <> s: arterials
+arterialize <> i: arterializing, p: arterialized, '3': arterializes, d: arterialized
+arterialized <> f: pd, b: arterialize
+arterializes <> f: '3', b: arterialize
+arterializing <> f: i, b: arterialize
+arterials <> b: arterial, f: s
+arteries <> b: artery, f: s
+arteriole <> s: arterioles
+arterioles <> b: arteriole, f: s
+artery <> s: arteries
+artes <> b: arte, f: s
+arthritic <> s: arthritics
+arthritics <> b: arthritic, f: s
+arthropod <> s: arthropods, '3': arthropods
+arthropods <> b: arthropod, f: s3
+artic <> s: artics
+artichoke <> s: artichokes
+artichokes <> b: artichoke, f: s
+article <> s: articles, d: articled, i: articling, p: articled, '3': articles
+articled <> f: dp, b: article, d: articled
+articles <> f: s3, b: article
+articling <> f: i, b: article
+artics <> b: artic, f: s
+articulate <> d: articulated, i: articulating, '3': articulates, p: articulated
+articulated <> b: articulate, f: dp, d: articulated, p: articulated
+articulates <> b: articulate, f: '3'
+articulating <> b: articulate, f: i, i: articulating
+articulation <> s: articulations
+articulations <> b: articulation, f: s
+articulator <> s: articulators
+articulators <> b: articulator, f: s
+artiest <> b: arty, f: t
+artifact <> s: artifacts
+artifacts <> b: artifact, f: s
+artifice <> s: artifices
+artificer <> s: artificers
+artificers <> b: artificer, f: s
+artifices <> b: artifice, f: s
+artificial <> s: artificials
+artificialities <> b: artificiality, f: s
+artificiality <> s: artificialities
+artificials <> b: artificial, f: s
+artilleries <> b: artillery, f: s
+artillery <> s: artilleries
+artilleryman <> s: artillerymen
+artillerymen <> b: artilleryman, f: s
+artiodactyl <> s: artiodactyls
+artiodactyls <> b: artiodactyl, f: s
+artisan <> s: artisans
+artisans <> b: artisan, f: s
+artist <> s: artists
+artiste <> s: artistes
+artistes <> b: artiste, f: s
+artistries <> b: artistry, f: s
+artistry <> s: artistries
+artists <> b: artist, f: s
+arts <> b: art, f: s, s: arts
+artwork <> s: artworks
+artworks <> b: artwork, f: s
+arty <> t: artiest
+Aryan <> s: aryans
+aryans <> b: aryan, f: s
+ASA <> s: asas
+asas <> b: asa, f: s
+ascarid <> s: ascarids
+ascarids <> b: ascarid, f: s
+ascend <> p: ascended, '3': ascends, d: ascended, i: ascending
+ascendant <> s: ascendants
+ascendants <> b: ascendant, f: s
+ascended <> b: ascend, f: pd
+ascender <> s: ascenders
+ascenders <> b: ascender, f: s
+ascending <> b: ascend, f: i, i: ascending
+ascends <> b: ascend, f: '3'
+ascension <> s: ascensions
+ascensions <> b: ascension, f: s
+ascent <> s: ascents
+ascents <> b: ascent, f: s
+ascertain <> d: ascertained, i: ascertaining, p: ascertained, '3': ascertains
+ascertained <> b: ascertain, f: dp, d: ascertained, p: ascertained
+ascertaining <> b: ascertain, f: i
+ascertains <> b: ascertain, f: '3'
+ascetic <> s: ascetics
+ascetics <> b: ascetic, f: s
+asci <> s: asci, b: asci, f: s
+ASCII <> s: asciis
+ascites <> b: ascite, f: s
+ascomycete <> s: ascomycetes
+ascomycetes <> b: ascomycete, f: s
+ascribe <> d: ascribed, i: ascribing, '3': ascribes, p: ascribed, s: ascribes
+ascribed <> b: ascribe, f: dp, d: ascribed
+ascribes <> b: ascribe, f: 3s
+ascribing <> b: ascribe, f: i
+ascription <> s: ascriptions
+ascriptions <> b: ascription, f: s
+ascriptive <> s: ascriptives
+ascriptives <> b: ascriptive, f: s
+ash <> s: ashes
+Ashanti <> s: ashanti, b: ashanti, f: s
+ashcan <> s: ashcans
+ashcans <> b: ashcan, f: s
+ashes <> b: ash, f: s
+ashet <> s: ashets
+ashets <> b: ashet, f: s
+ashlar <> s: ashlars
+ashlars <> b: ashlar, f: s
+ashram <> s: ashrams
+ashrams <> b: ashram, f: s
+ashtray <> s: ashtrays
+ashtrays <> b: ashtray, f: s
+Asian <> s: asians
+asians <> b: asian, f: s
+asiatic <> s: asiatics
+asiatics <> b: asiatic, f: s
+ASIC <> s: asics
+aside <> s: asides
+asides <> b: aside, f: s
+ask <> p: asked, d: asked, i: asking, '3': asks
+askari <> s: askari, b: askari, f: s
+aske <> s: askes
+asked <> b: ask, f: pd
+askes <> b: aske, f: s
+asking <> b: ask, f: i, i: asking, s: askings
+asks <> b: ask, f: '3'
+ASM <> s: asms
+asp <> s: asps
+asparagine <> '3': asparagines
+asparagines <> b: asparagine, f: '3'
+aspect <> s: aspects
+aspects <> b: aspect, f: s
+aspen <> s: aspens
+aspens <> b: aspen, f: s
+asperge <> '3': asperges, s: asperges
+asperges <> b: asperge, f: 3s
+asperities <> b: asperity, f: s
+asperity <> s: asperities
+asperse <> i: aspersing, p: aspersed, '3': asperses, d: aspersed
+aspersed <> f: pd, b: asperse
+asperses <> f: '3', b: asperse
+aspersing <> f: i, b: asperse
+aspersion <> s: aspersions
+aspersions <> b: aspersion, f: s
+asphalt <> p: asphalted, s: asphalts, i: asphalting, '3': asphalts, d: asphalted
+asphalted <> f: pd, b: asphalt
+asphalting <> f: i, b: asphalt
+asphalts <> f: s3, b: asphalt
+asphodel <> s: asphodels
+asphodels <> b: asphodel, f: s
+asphyxiate <> d: asphyxiated, p: asphyxiated, '3': asphyxiates, i: asphyxiating
+asphyxiated <> b: asphyxiate, f: dp, p: asphyxiated
+asphyxiates <> b: asphyxiate, f: '3'
+asphyxiating <> b: asphyxiate, f: i
+aspidistra <> s: aspidistras
+aspidistras <> b: aspidistra, f: s
+aspirant <> s: aspirants
+aspirants <> b: aspirant, f: s
+aspirate <> d: aspirated, s: aspirates, p: aspirated, i: aspirating, '3': aspirates
+aspirated <> b: aspirate, f: dp, p: aspirated
+aspirates <> f: s3, b: aspirate
+aspirating <> b: aspirate, f: i
+aspiration <> s: aspirations
+aspirations <> b: aspiration, f: s
+aspire <> p: aspired, i: aspiring, '3': aspires, d: aspired
+aspired <> b: aspire, f: pd
+aspires <> b: aspire, f: '3'
+aspirin <> s: aspirins
+aspiring <> b: aspire, f: i, i: aspiring
+aspirins <> b: aspirin, f: s
+Asprey <> s: aspreys
+asps <> b: asp, f: s
+ass <> s: asses, d: assed
+assai <> s: assai, b: assai, f: s
+assail <> d: assailed, p: assailed, '3': assails, i: assailing
+assailant <> s: assailants
+assailants <> b: assailant, f: s
+assailed <> b: assail, f: dp
+assailing <> b: assail, f: i
+assails <> b: assail, f: '3'
+assart <> s: assarts, d: assarted
+assarted <> b: assart, f: d
+assarts <> b: assart, f: s
+assassin <> s: assassins
+assassinate <> d: assassinated, i: assassinating, p: assassinated, '3': assassinates
+assassinated <> b: assassinate, f: dp, d: assassinated
+assassinates <> b: assassinate, f: '3'
+assassinating <> b: assassinate, f: i
+assassination <> s: assassinations
+assassinations <> b: assassination, f: s
+assassins <> b: assassin, f: s
+assault <> s: assaults, d: assaulted, i: assaulting, p: assaulted, '3': assaults
+assaulted <> b: assault, f: dp, d: assaulted
+assaulting <> b: assault, f: i, i: assaulting
+assaults <> b: assault, f: s3
+assay <> s: assays, d: assayed, p: assayed, i: assaying, '3': assays
+assayed <> b: assay, f: dp
+assayer <> s: assayers
+assayers <> b: assayer, f: s
+assaying <> b: assay, f: i
+assays <> f: s3, b: assay
+assed <> b: ass, f: d
+assemblage <> s: assemblages
+assemblages <> b: assemblage, f: s
+assemble <> d: assembled, i: assembling, p: assembled, '3': assembles
+assembled <> b: assemble, f: dp, d: assembled, p: assembled
+assembler <> s: assemblers
+assemblers <> b: assembler, f: s
+assembles <> b: assemble, f: '3'
+assemblies <> b: assembly, f: s
+assembling <> b: assemble, f: i, i: assembling
+assembly <> s: assemblies
+assemblyman <> s: assemblymen
+assemblymen <> b: assemblyman, f: s
+assent <> p: assented, d: assented, i: assenting, s: assents, '3': assents
+assented <> b: assent, f: pd
+assenting <> b: assent, f: i
+assents <> b: assent, f: s3
+assert <> p: asserted, i: asserting, '3': asserts, d: asserted
+asserted <> b: assert, f: pd, p: asserted
+asserter <> s: asserters
+asserters <> b: asserter, f: s
+asserting <> b: assert, f: i, i: asserting
+assertion <> s: assertions
+assertions <> b: assertion, f: s
+asserts <> b: assert, f: '3'
+asses <> b: ass, f: s
+assess <> d: assessed, i: assessing, '3': assesses, p: assessed
+assessed <> b: assess, f: dp, d: assessed
+assesses <> b: assess, f: '3'
+assessing <> b: assess, f: i, i: assessing
+assessment <> s: assessments
+assessments <> b: assessment, f: s
+assessor <> s: assessors
+assessors <> b: assessor, f: s
+asset <> s: assets
+asset-stripper <> s: asset-strippers
+asset-strippers <> b: asset-stripper, f: s
+assets <> b: asset, f: s
+asseverate <> i: asseverating, p: asseverated, '3': asseverates, d: asseverated
+asseverated <> f: pd, b: asseverate
+asseverates <> f: '3', b: asseverate
+asseverating <> f: i, b: asseverate
+asshole <> s: assholes
+assholes <> b: asshole, f: s
+assibilate <> i: assibilating, p: assibilated, '3': assibilates, d: assibilated
+assibilated <> f: pd, b: assibilate
+assibilates <> f: '3', b: assibilate
+assibilating <> f: i, b: assibilate
+assign <> d: assigned, i: assigning, '3': assigns, p: assigned
+assignation <> s: assignations
+assignations <> b: assignation, f: s
+assigned <> b: assign, f: dp, d: assigned
+assignee <> s: assignees
+assignees <> b: assignee, f: s
+assigning <> b: assign, f: i, i: assigning
+assignment <> s: assignments
+assignments <> b: assignment, f: s
+assignor <> s: assignors
+assignors <> b: assignor, f: s
+assigns <> b: assign, f: '3'
+assimilate <> d: assimilated, i: assimilating, p: assimilated, '3': assimilates
+assimilated <> b: assimilate, f: dp, d: assimilated, p: assimilated
+assimilates <> b: assimilate, f: '3'
+assimilating <> b: assimilate, f: i
+assimilation <> s: assimilations
+assimilationist <> s: assimilationists
+assimilationists <> b: assimilationist, f: s
+assimilations <> b: assimilation, f: s
+assist <> d: assisted, i: assisting, p: assisted, '3': assists
+assistant <> s: assistants
+assistants <> b: assistant, f: s
+assistantship <> s: assistantships
+assistantships <> b: assistantship, f: s
+assisted <> b: assist, f: dp, d: assisted, p: assisted
+assisting <> b: assist, f: i, i: assisting
+assists <> b: assist, f: '3'
+assize <> s: assizes
+assizes <> b: assize, f: s
+associate <> d: associated, s: associates, i: associating, p: associated, '3': associates
+associated <> b: associate, f: dp, d: associated, p: associated
+associates <> b: associate, f: s3
+associating <> b: associate, f: i
+association <> s: associations
+associations <> b: association, f: s
+associative <> s: associatives
+associatives <> b: associative, f: s
+assonance <> s: assonances
+assonances <> b: assonance, f: s
+assort <> '3': assorts, i: assorting, p: assorted, d: assorted
+assorted <> p: assorted, b: assorted, f: p
+assorting <> f: i, b: assort
+assortment <> s: assortments
+assortments <> b: assortment, f: s
+assorts <> b: assort, f: '3'
+assuage <> d: assuaged, i: assuaging, p: assuaged, '3': assuages
+assuaged <> b: assuage, f: dp
+assuages <> b: assuage, f: '3'
+assuaging <> b: assuage, f: i, i: assuaging
+assume <> d: assumed, i: assuming, p: assumed, '3': assumes
+assumed <> b: assume, f: dp, p: assumed, d: assumed
+assumes <> b: assume, f: '3'
+assuming <> b: assume, f: i, i: assuming
+assumption <> s: assumptions
+assumptions <> b: assumption, f: s
+assurance <> s: assurances
+assurances <> b: assurance, f: s
+assure <> p: assured, d: assured, '3': assures, i: assuring
+assured <> b: assure, f: pd, d: assured, p: assured
+assurer <> s: assurers
+assurers <> b: assurer, f: s
+assures <> b: assure, f: '3'
+assuring <> b: assure, f: i
+Assyrian <> s: assyrians
+Astarte <> s: astartes
+aster <> s: asters
+asterisk <> s: asterisks, p: asterisked, i: asterisking, '3': asterisks, d: asterisked
+asterisked <> f: pd, b: asterisk
+asterisking <> f: i, b: asterisk
+asterisks <> f: s3, b: asterisk
+asteroid <> s: asteroids
+asteroids <> b: asteroid, f: s
+asters <> b: aster, f: s
+asthmatic <> s: asthmatics
+asthmatics <> b: asthmatic, f: s
+astilbe <> s: astilbes
+astilbes <> b: astilbe, f: s
+astonish <> p: astonished, d: astonished, '3': astonishes, i: astonishing
+astonished <> p: astonished, b: astonished, f: pd, d: astonished
+astonishes <> b: astonish, f: '3'
+astonishing <> i: astonishing, b: astonishing, f: i
+astonishment <> s: astonishments
+astonishments <> b: astonishment, f: s
+Astor <> s: astors
+astound <> i: astounding, p: astounded, d: astounded, '3': astounds, s: astounds
+astounded <> b: astound, f: pd, d: astounded, p: astounded
+astounding <> b: astound, f: i, i: astounding
+astounds <> b: astound, f: 3s
+astringent <> s: astringents
+astringents <> b: astringent, f: s
+astrocyte <> s: astrocytes
+astrocytes <> b: astrocyte, f: s
+astrolabe <> s: astrolabes
+astrolabes <> b: astrolabe, f: s
+astrologer <> s: astrologers
+astrologers <> b: astrologer, f: s
+astrologies <> b: astrology, f: s
+astrology <> s: astrologies
+astronaut <> s: astronauts, '3': astronauts
+astronauts <> b: astronaut, f: s3
+astronomer <> s: astronomers
+astronomers <> b: astronomer, f: s
+astrophysicist <> s: astrophysicists
+astrophysicists <> b: astrophysicist, f: s
+astrophysics <> b: astrophysic, f: s
+asturian <> s: asturians
+asturians <> b: asturian, f: s
+Asturias <> b: asturia, f: s
+asylum <> s: asylums
+asylums <> b: asylum, f: s
+asymmetries <> b: asymmetry, f: s
+asymmetry <> s: asymmetries
+asymptote <> s: asymptotes
+asymptotes <> b: asymptote, f: s
+Atalanta <> s: atalantas
+ataman <> s: atamans
+atamans <> b: ataman, f: s
+ate <> b: eat, f: pd
+atelier <> s: ateliers
+ateliers <> b: atelier, f: s
+atheist <> s: atheists
+atheists <> b: atheist, f: s
+atheling <> s: athelings
+athelings <> b: atheling, f: s
+Athenian <> s: athenians
+athlete <> s: athletes
+athletes <> b: athlete, f: s
+atlante <> s: atlantes
+atlantes <> b: atlante, f: s
+Atlanticist <> s: atlanticists
+ATM <> s: atms
+atmosphere <> s: atmospheres
+atmospheres <> b: atmosphere, f: s
+atmospheric <> s: atmospherics
+atmospherics <> b: atmospheric, f: s
+atms <> b: atm, f: s
+atoll <> s: atolls, '3': atolls
+atolls <> b: atoll, f: s3
+atom <> s: atoms
+atomic <> s: atomics
+atomics <> b: atomic, f: s
+atomised <> d: atomised, b: atomised, f: d
+atomist <> s: atomists
+atomists <> b: atomist, f: s
+atomize <> p: atomized, '3': atomizes, d: atomized, i: atomizing
+atomized <> b: atomize, f: pd, p: atomized
+atomizes <> b: atomize, f: '3'
+atomizing <> b: atomize, f: i
+atoms <> b: atom, f: s
+aton <> p: atoned, i: atoning, d: atoned
+atone <> s: atones, i: atoning, p: atoned, '3': atones, d: atoned
+atoned <> b: aton, f: pd
+atones <> f: s3, b: atone
+atoning <> b: aton, f: i, i: atoning
+ATP <> s: atps
+atresia <> s: atresias
+atresias <> b: atresia, f: s
+atrium <> p: atriumed
+atriumed <> b: atrium, f: p
+atrocities <> b: atrocity, f: s
+atrocity <> s: atrocities
+atrophied <> b: atrophy, f: pd, p: atrophied
+atrophies <> f: s3, b: atrophy
+atrophy <> p: atrophied, d: atrophied, s: atrophies, i: atrophying, '3': atrophies
+atrophying <> f: i, b: atrophy
+ATT <> s: atts
+attach <> d: attached, i: attaching, '3': attaches, p: attached
+attached <> b: attach, f: dp, d: attached, p: attached
+attaches <> b: attach, f: '3'
+attaching <> b: attach, f: i
+attachment <> s: attachments
+attachments <> b: attachment, f: s
+attack <> s: attacks, d: attacked, p: attacked, i: attacking, '3': attacks
+attacked <> b: attack, f: dp, d: attacked, p: attacked
+attacker <> s: attackers
+attackers <> b: attacker, f: s
+attacking <> b: attack, f: i, i: attacking
+attacks <> b: attack, f: s3
+attain <> d: attained, i: attaining, p: attained, '3': attains
+attainder <> s: attainders
+attainders <> b: attainder, f: s
+attained <> b: attain, f: dp, p: attained
+attainer <> s: attainers
+attainers <> b: attainer, f: s
+attaining <> b: attain, f: i, i: attaining
+attainment <> s: attainments
+attainments <> b: attainment, f: s
+attains <> b: attain, f: '3'
+attaint <> p: attainted, i: attainting, '3': attaints, d: attainted
+attainted <> f: pd, b: attaint
+attainting <> f: i, b: attaint
+attaints <> f: '3', b: attaint
+attar <> s: attars
+attars <> b: attar, f: s
+attempt <> s: attempts, i: attempting, d: attempted, p: attempted, '3': attempts
+attempted <> b: attempt, f: dp, p: attempted, d: attempted
+attempting <> b: attempt, f: i, i: attempting
+attempts <> b: attempt, f: s3
+attend <> i: attending, d: attended, p: attended, '3': attends
+attendance <> s: attendances
+attendances <> b: attendance, f: s
+attendant <> s: attendants
+attendants <> b: attendant, f: s
+attended <> b: attend, f: dp, d: attended, p: attended
+attendee <> s: attendees
+attendees <> b: attendee, f: s
+attender <> s: attenders
+attenders <> b: attender, f: s
+attending <> b: attend, f: i, i: attending
+attends <> b: attend, f: '3'
+attention <> s: attentions
+attentions <> b: attention, f: s
+attenuate <> d: attenuated, p: attenuated, i: attenuating, '3': attenuates
+attenuated <> b: attenuate, f: dp, p: attenuated
+attenuates <> b: attenuate, f: '3'
+attenuating <> b: attenuate, f: i
+attenuation <> s: attenuations
+attenuations <> b: attenuation, f: s
+attenuator <> s: attenuators
+attenuators <> b: attenuator, f: s
+attest <> d: attested, '3': attests, p: attested, i: attesting
+attestation <> s: attestations
+attestations <> b: attestation, f: s
+attested <> b: attest, f: dp, p: attested, d: attested
+attesting <> b: attest, f: i
+attests <> b: attest, f: '3'
+attic <> s: attics
+attics <> b: attic, f: s
+attire <> d: attired, i: attiring, p: attired, '3': attires
+attired <> f: dp, b: attire
+attires <> f: '3', b: attire
+attiring <> f: i, b: attire
+attitude <> s: attitudes
+attitudes <> b: attitude, f: s
+attitudinize <> i: attitudinizing, p: attitudinized, '3': attitudinizes, d: attitudinized
+attitudinized <> f: pd, b: attitudinize
+attitudinizes <> f: '3', b: attitudinize
+attitudinizing <> f: i, b: attitudinize
+attorn <> s: attorns, p: attorned, i: attorning, '3': attorns, d: attorned
+attorned <> f: pd, b: attorn
+attorney <> s: attorneys
+attorneys <> b: attorney, f: s
+attorning <> f: i, b: attorn
+attorns <> f: s3, b: attorn
+attract <> d: attracted, p: attracted, '3': attracts, i: attracting
+attractant <> s: attractants
+attractants <> b: attractant, f: s
+attracted <> b: attract, f: dp, p: attracted, d: attracted
+attracting <> b: attract, f: i, i: attracting
+attraction <> s: attractions
+attractions <> b: attraction, f: s
+attractor <> s: attractors
+attractors <> b: attractor, f: s
+attracts <> b: attract, f: '3'
+attribute <> d: attributed, s: attributes, p: attributed, '3': attributes, i: attributing
+attributed <> b: attribute, f: dp
+attributes <> b: attribute, f: s3
+attributing <> b: attribute, f: i, i: attributing
+attribution <> s: attributions
+attributions <> b: attribution, f: s
+attributive <> s: attributives
+attributives <> b: attributive, f: s
+attune <> d: attuned, p: attuned, '3': attunes, i: attuning
+attuned <> b: attune, f: dp
+attunement <> s: attunements
+attunements <> b: attunement, f: s
+attunes <> b: attune, f: '3'
+attuning <> b: attune, f: i
+AU <> s: aus
+auberge <> s: auberges
+auberges <> b: auberge, f: s
+aubergine <> s: aubergines, '3': aubergines
+aubergines <> b: aubergine, f: s3
+auction <> s: auctions, d: auctioned, p: auctioned, i: auctioning, '3': auctions
+auctioned <> b: auction, f: dp
+auctioneer <> s: auctioneers, i: auctioneering, p: auctioneered, '3': auctioneers, d: auctioneered
+auctioneered <> f: pd, b: auctioneer
+auctioneering <> b: auctioneer, f: i, i: auctioneering
+auctioneers <> f: s3, b: auctioneer
+auctioning <> b: auction, f: i, i: auctioning
+auctions <> b: auction, f: s3
+aucuba <> s: aucubas
+aucubas <> b: aucuba, f: s
+audience <> s: audiences
+audiences <> b: audience, f: s
+audio <> s: audios
+audio-visual <> s: audio-visuals
+audio-visuals <> b: audio-visual, f: s
+audiobook <> s: audiobooks
+audiobooks <> b: audiobook, f: s
+audiophile <> s: audiophiles
+audiophiles <> b: audiophile, f: s
+audios <> b: audio, f: s
+audiotape <> d: audiotaped, s: audiotapes
+audiotaped <> b: audiotape, f: d, p: audiotaped
+audiotapes <> b: audiotape, f: s
+audiovisual <> s: audiovisuals
+audiovisuals <> b: audiovisual, f: s
+audit <> s: audits, i: auditing, d: audited, p: audited, '3': audits
+audited <> b: audit, f: dp, d: audited, p: audited
+auditing <> b: audit, f: i, i: auditing
+audition <> s: auditions, i: auditioning, p: auditioned, d: auditioned, '3': auditions
+auditioned <> b: audition, f: pd
+auditioning <> b: audition, f: i, i: auditioning
+auditions <> b: audition, f: s3
+auditor <> s: auditors
+auditorium <> s: auditoriums
+auditoriums <> b: auditorium, f: s
+auditors <> b: auditor, f: s
+audits <> b: audit, f: s3
+auger <> s: augers, i: augering
+augering <> b: auger, f: i
+augers <> b: auger, f: s
+augment <> d: augmented, i: augmenting, p: augmented, '3': augments
+augmentation <> s: augmentations
+augmentations <> b: augmentation, f: s
+augmented <> b: augment, f: dp, d: augmented, p: augmented
+augmenting <> b: augment, f: i
+augments <> b: augment, f: '3'
+augur <> '3': augurs, i: auguring, p: augured, d: augured
+augured <> b: augure, f: pd
+auguries <> b: augury, f: s
+auguring <> b: augure, f: i
+augurs <> b: augur, f: '3'
+augury <> s: auguries
+Augustan <> s: augustans
+Augustinian <> s: augustinians
+auk <> s: auks
+auklet <> s: auklets
+auklets <> b: auklet, f: s
+auks <> b: auk, f: s
+Aung <> p: aung, b: aung, f: pd, d: aung
+aunt <> s: aunts
+aunties <> b: aunty, f: s
+aunts <> b: aunt, f: s
+aunty <> s: aunties
+aura <> s: auras
+auras <> b: aura, f: s
+aureole <> s: aureoles
+aureoles <> b: aureole, f: s
+auricula <> s: auriculas
+auriculas <> b: auricula, f: s
+aurochs <> b: auroch, f: s
+aurora <> s: auroras
+auroras <> b: aurora, f: s
+Aus <> b: au, f: s
+auscultate <> i: auscultating, p: auscultated, '3': auscultates, d: auscultated
+auscultated <> f: pd, b: auscultate
+auscultates <> f: '3', b: auscultate
+auscultating <> f: i, b: auscultate
+auspices <> s: auspices, b: auspices, f: s
+Aussie <> s: aussies
+austerities <> b: austerity, f: s
+austerity <> s: austerities
+austral <> s: australs
+Australian <> s: australians
+australians <> b: australian, f: s
+australopithecine <> s: australopithecines
+australopithecines <> b: australopithecine, f: s
+australs <> b: austral, f: s
+Austrian <> s: austrians
+austrians <> b: austrian, f: s
+auteur <> s: auteurs
+auteurs <> b: auteur, f: s
+authentic <> s: authentics
+authenticate <> d: authenticated, i: authenticating, p: authenticated, '3': authenticates
+authenticated <> b: authenticate, f: dp, d: authenticated, p: authenticated
+authenticates <> f: '3', b: authenticate
+authenticating <> b: authenticate, f: i
+authenticator <> s: authenticators
+authenticators <> b: authenticator, f: s
+authentics <> b: authentic, f: s
+author <> s: authors, i: authoring, p: authored, '3': authors, d: authored
+authored <> b: authore, f: dp, p: authored
+authoress <> s: authoresses
+authoresses <> b: authoress, f: s
+authoring <> b: authore, f: i, i: authoring
+authorisation <> s: authorisations
+authorisations <> b: authorisation, f: s
+authorise <> d: authorised, i: authorising, '3': authorises, p: authorised
+authorised <> b: authorise, f: dp, d: authorised, p: authorised
+authorises <> b: authorise, f: '3'
+authorising <> b: authorise, f: i, i: authorising
+authoritarian <> s: authoritarians
+authoritarians <> b: authoritarian, f: s
+authorities <> b: authority, f: s
+authority <> s: authorities
+authorization <> s: authorizations
+authorizations <> b: authorization, f: s
+authorize <> d: authorized, i: authorizing, p: authorized, '3': authorizes
+authorized <> b: authorize, f: dp, d: authorized, p: authorized
+authorizes <> b: authorize, f: '3'
+authorizing <> b: authorize, f: i, i: authorizing
+authors <> b: author, f: s
+authorship <> s: authorships
+authorships <> b: authorship, f: s
+autistic <> s: autistics
+autistics <> b: autistic, f: s
+auto <> s: autos
+auto-suggestion <> s: auto-suggestions
+auto-suggestions <> b: auto-suggestion, f: s
+autoantibodies <> b: autoantibody, f: s
+autoantibody <> s: autoantibodies
+autobahn <> s: autobahns
+autobahns <> b: autobahn, f: s
+autobiographer <> s: autobiographers
+autobiographers <> b: autobiographer, f: s
+autobiographies <> b: autobiography, f: s
+autobiography <> s: autobiographies
+autocatalyst <> s: autocatalysts, '3': autocatalysts
+autocatalysts <> b: autocatalyst, f: s3
+autochrome <> s: autochromes
+autochromes <> b: autochrome, f: s
+autoclave <> d: autoclaved, i: autoclaving, s: autoclaves, p: autoclaved, '3': autoclaves
+autoclaved <> f: dp, b: autoclave
+autoclaves <> f: s3, b: autoclave
+autoclaving <> b: autoclave, f: i
+autocracies <> b: autocracy, f: s
+autocracy <> s: autocracies
+autocrat <> s: autocrats
+autocrats <> b: autocrat, f: s
+autodidact <> s: autodidacts
+autodidacts <> b: autodidact, f: s
+autogenic <> s: autogenics
+autogenics <> b: autogenic, f: s
+autogiro <> s: autogiros
+autogiros <> b: autogiro, f: s
+autograph <> s: autographs, d: autographed, i: autographing, p: autographed, '3': autographs
+autographed <> b: autograph, f: dp, p: autographed, d: autographed
+autographing <> b: autograph, f: i
+autographs <> f: s3, b: autograph
+automaker <> s: automakers
+automakers <> b: automaker, f: s
+automate <> i: automating, d: automated, '3': automates, p: automated, s: automates
+automated <> d: automated, b: automated, f: dp, p: automated
+automates <> b: automate, f: 3s
+automatic <> s: automatics
+automatics <> b: automatic, f: s
+automating <> b: automate, f: i
+automation <> s: automations
+automations <> b: automation, f: s
+automatize <> p: automatized, d: automatized, i: automatizing, '3': automatizes
+automatized <> b: automatize, f: pd
+automatizes <> f: '3', b: automatize
+automatizing <> f: i, b: automatize
+automaton <> s: automatons
+automatons <> b: automaton, f: s
+automobile <> s: automobiles
+automobiles <> b: automobile, f: s
+autonomies <> b: autonomy, f: s
+autonomist <> s: autonomists
+autonomists <> b: autonomist, f: s
+autonomy <> s: autonomies
+autopilot <> s: autopilots
+autopilots <> b: autopilot, f: s
+autopsied <> b: autopsy, f: dp, p: autopsied
+autopsies <> b: autopsy, f: s
+autopsy <> s: autopsies, d: autopsied, p: autopsied
+autoradiogram <> s: autoradiograms
+autoradiograms <> b: autoradiogram, f: s
+autoradiograph <> p: autoradiographed, s: autoradiographs, d: autoradiographed
+autoradiographed <> b: autoradiograph, f: pd
+autoradiographies <> b: autoradiography, f: s
+autoradiographs <> b: autoradiograph, f: s
+autoradiography <> s: autoradiographies
+autorotation <> s: autorotations
+autorotations <> b: autorotation, f: s
+autoroute <> s: autoroutes
+autoroutes <> b: autoroute, f: s
+autos <> b: auto, f: s
+autoshape <> i: autoshaping
+autoshaping <> b: autoshape, f: i
+autosome <> s: autosomes
+autosomes <> b: autosome, f: s
+autostrada <> s: autostradas
+autostradas <> b: autostrada, f: s
+auxiliaries <> b: auxiliary, f: s
+auxiliary <> s: auxiliaries
+auxin <> s: auxins
+auxins <> b: auxin, f: s
+AV <> s: avs
+avail <> p: availed, d: availed, i: availing, '3': avails
+availabilities <> b: availability, f: s
+availability <> s: availabilities
+availed <> b: avail, f: pd
+availing <> b: avail, f: i
+avails <> b: avail, f: '3'
+avalanche <> i: avalanching, p: avalanched, '3': avalanches, d: avalanched
+avalanched <> b: avalanch, f: dp
+avalanches <> b: avalanch, f: s3
+avalanching <> b: avalanch, f: i
+avant-garde <> s: avant-gardes
+avant-gardes <> b: avant-garde, f: s
+avatar <> s: avatars
+avatars <> b: avatar, f: s
+avc <> s: avcs
+avcs <> b: avc, f: s
+ave <> i: aving
+Aveling <> b: avele, f: i
+aven <> s: avens
+avenge <> d: avenged, p: avenged, '3': avenges, i: avenging
+avenged <> b: avenge, f: dp
+avenger <> s: avengers, '3': avengers
+avengers <> b: avenger, f: s3
+avenges <> b: avenge, f: '3'
+avenging <> i: avenging, b: avenging, f: i
+avens <> b: aven, f: s
+avenue <> s: avenues
+avenues <> b: avenue, f: s
+aver <> p: averred, '3': avers, d: averred, i: averring, s: avers
+average <> s: averages, i: averaging, p: averaged, d: averaged, '3': averages
+averaged <> b: average, f: pd, d: averaged, p: averaged
+averages <> b: average, f: s3
+averaging <> b: average, f: i, i: averaging
+averment <> s: averments
+averments <> b: averment, f: s
+averred <> b: aver, f: pd
+averring <> b: aver, f: i
+avers <> b: aver, f: 3s
+aversion <> s: aversions
+aversions <> b: aversion, f: s
+avert <> d: averted, p: averted, i: averting, '3': averts
+averted <> b: avert, f: dp, p: averted
+averting <> b: avert, f: i
+averts <> b: avert, f: '3'
+avgas <> b: avga, f: s
+avi <> s: avi, b: avi, f: s
+aviaries <> b: aviary, f: s
+aviary <> s: aviaries
+aviate <> d: aviated, i: aviating, p: aviated, '3': aviates
+aviated <> f: dp, b: aviate
+aviates <> f: '3', b: aviate
+aviating <> b: aviate, f: i
+aviator <> s: aviators
+aviators <> b: aviator, f: s
+avifauna <> s: avifaunas
+avifaunas <> b: avifauna, f: s
+aving <> b: ave, f: i
+avo <> i: avoing
+avocado <> s: avocados
+avocados <> b: avocado, f: s
+avocation <> s: avocations
+avocations <> b: avocation, f: s
+avocet <> s: avocets, '3': avocets
+avocets <> b: avocet, f: s3
+avoid <> d: avoided, i: avoiding, p: avoided, '3': avoids
+avoidance <> s: avoidances
+avoidances <> b: avoidance, f: s
+avoided <> b: avoid, f: dp, p: avoided
+avoider <> s: avoiders
+avoiders <> b: avoider, f: s
+avoiding <> b: avoid, f: i, i: avoiding
+avoids <> b: avoid, f: '3'
+avoing <> b: avo, f: i
+avouch <> i: avouching, p: avouched, '3': avouches, d: avouched
+avouched <> f: pd, b: avouch
+avouches <> f: '3', b: avouch
+avouching <> b: avouch, f: i
+avow <> p: avowed, d: avowed, '3': avows, i: avowing
+avowal <> s: avowals
+avowals <> b: avowal, f: s
+avowed <> p: avowed, b: avowed, f: pd, d: avowed
+avowing <> b: avow, f: i
+avows <> b: avow, f: '3'
+avs <> b: av, f: s
+avulse <> i: avulsing, p: avulsed, '3': avulses, d: avulsed
+aw <> s: aws, '3': aws
+await <> i: awaiting, '3': awaits, p: awaited, d: awaited
+awaited <> b: await, f: pd, d: awaited
+awaiting <> b: await, f: i, i: awaiting
+awaits <> b: await, f: '3'
+awake <> p: awoke, d: awoken, '3': awakes, i: awaking
+awaken <> d: awakened, i: awakening, p: awakened, '3': awakens
+awakened <> b: awaken, f: dp
+awakening <> b: awaken, f: i, s: awakenings, i: awakening
+awakens <> b: awaken, f: '3'
+awakes <> b: awake, f: '3'
+awaking <> b: awake, f: i
+award <> d: awarded, s: awards, p: awarded, i: awarding, '3': awards
+awarded <> b: award, f: dp
+awarding <> b: award, f: i, i: awarding
+awards <> b: award, f: s3
+awareness <> s: awarenesses
+awarenesses <> b: awareness, f: s
+awe <> d: awed, p: awed, s: awes, '3': awes, i: awing
+awe-inspiring <> i: awe-inspiring, b: awe-inspiring, f: i
+awed <> b: awe, f: dp, d: awed, p: awed
+awes <> b: awe, f: s3
+awhile <> s: awhiles
+awhiles <> b: awhile, f: s
+awing <> f: i, b: awe
+awkwardness <> s: awkwardnesses
+awkwardnesses <> b: awkwardness, f: s
+awn <> s: awns, '3': awns
+awning <> s: awnings
+awnings <> b: awning, f: s
+awns <> b: awn, f: s3
+awoke <> b: awake, f: p
+awoken <> b: awake, f: d
+aws <> b: aw, f: s3
+ax <> i: axing, s: axes, '3': axes, p: axed, d: axed
+axe <> d: axed, p: axed, i: axeing, '3': axes
+axed <> b: axe, f: dp, d: axed, p: axed
+axeing <> b: axe, f: i
+axel <> s: axels
+axels <> b: axel, f: s
+axeman <> s: axemen
+axemen <> b: axeman, f: s
+axes <> b: ax, f: s3
+axil <> s: axils
+axillaries <> b: axillary, f: s
+axillary <> s: axillaries
+axils <> b: axil, f: s
+axing <> b: ax, f: i, s: axings, i: axing
+axiom <> s: axioms
+axioms <> b: axiom, f: s
+axle <> s: axles, p: axled
+axled <> b: axle, f: p
+axles <> b: axle, f: s
+Axminster <> s: axminsters
+axolotl <> s: axolotls
+axolotls <> b: axolotl, f: s
+axon <> s: axons
+axons <> b: axon, f: s
+ay <> r: ayer, '3': ays
+ayatollah <> s: ayatollahs
+ayatollahs <> b: ayatollah, f: s
+aye <> s: ayes
+ayer <> b: ay, f: r, s: ayers
+Ayers <> b: ayer, f: s
+ayes <> b: aye, f: s
+Ayling <> b: ayle, f: i
+Aymara <> s: aymaras
+ayre <> s: ayres
+Ayres <> b: ayre, f: s
+ays <> b: ay, f: '3'
+azalea <> s: azaleas
+azaleas <> b: azalea, f: s
+Azerbaijani <> s: azerbaijanis
+azide <> s: azides
+azides <> b: azide, f: s
+azimuth <> s: azimuths
+azimuths <> b: azimuth, f: s
+Aztec <> s: aztecs
+aztecs <> b: aztec, f: s
+azulejo <> s: azulejos
+azulejos <> b: azulejo, f: s

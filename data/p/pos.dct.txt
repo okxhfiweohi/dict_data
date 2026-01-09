@@ -1,0 +1,3392 @@
+pablum <> N: {rk: 52513, frq: 32}
+pabulum <> N: {rk: 48513, frq: 50}
+pace <> N: {rk: 2549, frq: 14170}, V: {rk: 5786, frq: 4380}
+pacemaker <> N: {rk: 19557, frq: 480}
+pacesetter <> N: {rk: 38495, frq: 81}
+pachinko <> N: {rk: 47757, frq: 40}
+pachuco <> N: {rk: 53151, frq: 34}
+pachyderm <> N: {rk: 38763, frq: 74}
+pachysandra <> N: {rk: 57960, frq: 23}
+pacific <> J: {rk: 29109, frq: 174}
+pacification <> N: {rk: 32994, frq: 134}
+pacifier <> N: {rk: 23542, frq: 315}
+pacifism <> N: {rk: 24674, frq: 272}
+pacifist <> N: {rk: 18105, frq: 567}
+pacifistic <> J: {rk: 56303, frq: 23}
+pacify <> V: {rk: 19944, frq: 427}
+pacing <> N: {rk: 56089, frq: 23}
+pack <> V: {rk: 2287, frq: 16720}, N: {rk: 2581, frq: 14523}
+package <> N: {rk: 1692, frq: 23766}, V: {rk: 8785, frq: 2189}
+packaged <> J: {rk: 16423, frq: 679}
+packager <> N: {rk: 37384, frq: 86}
+packaging <> N: {rk: 7788, frq: 2622}
+packed <> J: {rk: 8478, frq: 2331}
+packet <> N: {rk: 6323, frq: 3636}
+packhorse <> N: {rk: 42979, frq: 55}
+packing <> N: {rk: 10534, frq: 1536}
+packinghouse <> N: {rk: 44254, frq: 101}
+packrat <> N: {rk: 54660, frq: 25}
+pact <> N: {rk: 6778, frq: 3213}
+pad <> N: {rk: 3691, frq: 8410}, V: {rk: 13507, frq: 979}
+padded <> J: {rk: 11371, frq: 1381}
+padding <> N: {rk: 14077, frq: 900}
+paddle <> V: {rk: 9384, frq: 1891}, N: {rk: 11008, frq: 1428}
+paddlefish <> N: {rk: 53495, frq: 47}
+paddler <> N: {rk: 24201, frq: 299}
+paddlewheel <> N: {rk: 55888, frq: 27}
+paddling <> N: {rk: 38177, frq: 110}, J: {rk: 40143, frq: 70}
+paddock <> N: {rk: 22467, frq: 419}
+paddy <> N: {rk: 17421, frq: 1078}
+padlock <> N: {rk: 23160, frq: 322}, V: {rk: 31245, frq: 137}
+padlocked <> J: {rk: 40699, frq: 62}
+paean <> N: {rk: 26080, frq: 230}
+paediatric <> J: {rk: 32188, frq: 159}
+paediatrician <> N: {rk: 33159, frq: 160}
+paediatrics <> N: {rk: 49350, frq: 37}
+paella <> N: {rk: 30179, frq: 213}
+pagan <> J: {rk: 12743, frq: 1089}, N: {rk: 18338, frq: 594}
+paganism <> N: {rk: 29244, frq: 174}
+page <> N: {rk: 708, frq: 66258}, V: {rk: 20444, frq: 417}
+page-turner <> N: {rk: 39539, frq: 69}
+pageant <> N: {rk: 9735, frq: 1843}
+pageantry <> N: {rk: 24734, frq: 272}
+pageboy <> N: {rk: 38106, frq: 76}
+pager <> N: {rk: 14440, frq: 882}
+paging <> N: {rk: 25318, frq: 252}
+pagoda <> N: {rk: 24032, frq: 395}
+pah <> U: {rk: 49801, frq: 35}
+paid <> J: {rk: 7861, frq: 2493}
+paid-up <> J: {rk: 56710, frq: 24}
+pail <> N: {rk: 14692, frq: 848}
+pain <> N: {rk: 938, frq: 44912}, V: {rk: 19385, frq: 465}
+pained <> J: {rk: 15585, frq: 759}
+painful <> J: {rk: 3053, frq: 10704}
+painfully <> R: {rk: 7966, frq: 2432}
+painkiller <> N: {rk: 13423, frq: 1038}
+painless <> J: {rk: 14450, frq: 841}
+painlessly <> R: {rk: 31212, frq: 141}
+painstaking <> J: {rk: 14993, frq: 774}
+painstakingly <> R: {rk: 14361, frq: 829}
+paint <> V: {rk: 1560, frq: 25367}, N: {rk: 2670, frq: 13487}
+paintball <> N: {rk: 34597, frq: 138}
+paintbrush <> N: {rk: 20037, frq: 474}
+painted <> J: {rk: 6596, frq: 3359}
+painter <> N: {rk: 3344, frq: 9537}
+painterly <> J: {rk: 22457, frq: 346}
+painting <> N: {rk: 1057, frq: 40756}
+paintless <> J: {rk: 59155, frq: 20}
+paintwork <> N: {rk: 56067, frq: 23}
+pair <> N: {rk: 1490, frq: 27554}, V: {rk: 7798, frq: 2713}
+paired <> J: {rk: 20698, frq: 434}
+pairing <> N: {rk: 12720, frq: 1163}
+paisano <> N: {rk: 54065, frq: 45}
+pajamas <> N: {rk: 9171, frq: 2067}
+pakora <> N: {rk: 57946, frq: 24}
+pal <> N: {rk: 5071, frq: 5312}
+palace <> N: {rk: 4722, frq: 8868}
+palanquin <> N: {rk: 48070, frq: 43}
+palatability <> N: {rk: 54296, frq: 29}
+palatable <> J: {rk: 15103, frq: 761}
+palatal <> J: {rk: 33917, frq: 164}
+palate <> N: {rk: 11685, frq: 1278}
+palatial <> J: {rk: 24764, frq: 268}
+palaver <> N: {rk: 41376, frq: 73}
+pale <> J: {rk: 2952, frq: 12578}, V: {rk: 15210, frq: 761}
+palely <> R: {rk: 52359, frq: 28}
+paleness <> N: {rk: 37476, frq: 84}
+paleoanthropologist <> N: {rk: 41413, frq: 82}
+paleontological <> J: {rk: 35590, frq: 91}
+paleontologist <> N: {rk: 15683, frq: 756}
+paleontology <> N: {rk: 24308, frq: 278}
+palette <> N: {rk: 7506, frq: 2985}
+palimony <> N: {rk: 46913, frq: 43}
+palimpsest <> N: {rk: 30020, frq: 181}
+palindrome <> N: {rk: 49336, frq: 52}
+paling <> N: {rk: 48802, frq: 36}
+pall <> N: {rk: 21234, frq: 518}, V: {rk: 39071, frq: 73}
+palladian <> J: {rk: 38311, frq: 77}
+palladium <> N: {rk: 28985, frq: 205}
+pallbearer <> N: {rk: 30088, frq: 158}
+pallet <> N: {rk: 14826, frq: 847}
+palliative <> J: {rk: 23982, frq: 490}, N: {rk: 50039, frq: 32}
+pallid <> J: {rk: 21993, frq: 352}
+pallor <> N: {rk: 25065, frq: 269}
+palm <> N: {rk: 3010, frq: 16193}, V: {rk: 30414, frq: 162}
+palmette <> N: {rk: 59692, frq: 23}
+palmetto <> N: {rk: 21976, frq: 490}
+palmful <> N: {rk: 56674, frq: 21}
+palmistry <> N: {rk: 58710, frq: 20}
+palmtop <> N: {rk: 33438, frq: 124}
+palmy <> J: {rk: 52830, frq: 26}
+palooka <> N: {rk: 55195, frq: 24}
+palp <> N: {rk: 58119, frq: 31}
+palpable <> J: {rk: 10272, frq: 1584}
+palpably <> R: {rk: 30862, frq: 145}
+palpate <> V: {rk: 36328, frq: 91}
+palpation <> N: {rk: 37631, frq: 101}
+palpitate <> V: {rk: 44107, frq: 48}
+palpitation <> N: {rk: 26217, frq: 225}
+palsied <> J: {rk: 52547, frq: 33}
+palsy <> N: {rk: 15741, frq: 721}
+paltry <> J: {rk: 16454, frq: 656}
+pampas <> N: {rk: 37718, frq: 103}
+pamper <> V: {rk: 13741, frq: 918}
+pampered <> J: {rk: 24240, frq: 268}
+pampering <> N: {rk: 35479, frq: 107}, J: {rk: 46808, frq: 42}
+pamphlet <> N: {rk: 9144, frq: 1945}
+pamphleteer <> N: {rk: 43090, frq: 52}
+pan <> N: {rk: 2495, frq: 19517}, V: {rk: 9544, frq: 1823}
+panacea <> N: {rk: 16517, frq: 662}
+panache <> N: {rk: 22413, frq: 334}
+pancake <> N: {rk: 7451, frq: 2889}
+pancetta <> N: {rk: 27198, frq: 321}
+pancreas <> N: {rk: 18235, frq: 559}
+pancreatic <> J: {rk: 18850, frq: 559}
+pancreatitis <> N: {rk: 36668, frq: 101}
+panda <> N: {rk: 15238, frq: 908}
+pandemic <> J: {rk: 14753, frq: 1039}, N: {rk: 36390, frq: 146}
+pandemonium <> N: {rk: 22629, frq: 387}
+pander <> V: {rk: 15900, frq: 700}
+pandering <> N: {rk: 38594, frq: 79}
+pane <> N: {rk: 11188, frq: 1452}
+paneer <> N: {rk: 59676, frq: 35}
+panegyric <> J: {rk: 47142, frq: 50}
+panel <> N: {rk: 1612, frq: 24814}
+paneled <> J: {rk: 27459, frq: 197}
+paneling <> N: {rk: 17319, frq: 605}
+panelist <> N: {rk: 12652, frq: 1888}
+panelling <> N: {rk: 50796, frq: 30}
+panfish <> N: {rk: 36652, frq: 104}
+pang <> N: {rk: 14928, frq: 1419}
+panga <> N: {rk: 44144, frq: 75}
+pangolin <> N: {rk: 51390, frq: 37}
+panhandle <> N: {rk: 23897, frq: 634}, V: {rk: 26780, frq: 238}
+panhandler <> N: {rk: 25599, frq: 268}
+panhandling <> N: {rk: 54081, frq: 39}
+panic <> N: {rk: 4348, frq: 6748}, V: {rk: 6956, frq: 3124}
+panic-stricken <> J: {rk: 32558, frq: 121}
+panicked <> J: {rk: 18387, frq: 558}
+panicky <> J: {rk: 19957, frq: 436}
+pannier <> N: {rk: 34700, frq: 119}
+panoply <> N: {rk: 22008, frq: 342}
+panoptic <> J: {rk: 55072, frq: 25}
+panopticon <> N: {rk: 56243, frq: 37}
+panorama <> N: {rk: 13456, frq: 1036}
+panoramic <> J: {rk: 15926, frq: 719}
+pansy <> N: {rk: 20321, frq: 1272}
+pant <> N: {rk: 2706, frq: 13598}, V: {rk: 9974, frq: 1816}
+pantheism <> N: {rk: 32127, frq: 221}
+pantheist <> N: {rk: 48903, frq: 63}
+pantheistic <> J: {rk: 37706, frq: 98}
+pantheon <> N: {rk: 16379, frq: 921}
+panties <> N: {rk: 12667, frq: 1216}
+panting <> N: {rk: 34780, frq: 103}, J: {rk: 38450, frq: 79}
+pantomime <> N: {rk: 25126, frq: 253}, V: {rk: 35003, frq: 103}
+pantry <> N: {rk: 10613, frq: 1603}
+pantsuit <> N: {rk: 22160, frq: 367}
+panty <> J: {rk: 25508, frq: 313}
+pantyhose <> N: {rk: 24155, frq: 324}
+panzer <> N: {rk: 31334, frq: 181}
+papacy <> N: {rk: 21700, frq: 413}
+papal <> J: {rk: 12406, frq: 1213}
+paparazzi <> N: {rk: 15976, frq: 840}
+paparazzo <> N: {rk: 50669, frq: 46}
+papaya <> N: {rk: 16875, frq: 674}
+paper <> N: {rk: 519, frq: 81183}, V: {rk: 23553, frq: 302}
+paper-thin <> J: {rk: 25823, frq: 257}
+paperback <> N: {rk: 8387, frq: 2311}
+paperboard <> N: {rk: 36599, frq: 87}
+paperboy <> N: {rk: 36337, frq: 99}
+paperclip <> N: {rk: 42824, frq: 64}
+paperless <> J: {rk: 32431, frq: 134}
+papermaker <> N: {rk: 54643, frq: 25}
+paperweight <> N: {rk: 26156, frq: 248}
+paperwork <> N: {rk: 6938, frq: 3229}
+papery <> J: {rk: 29486, frq: 173}
+papilla <> N: {rk: 54574, frq: 28}
+papillary <> J: {rk: 37681, frq: 104}
+papilloma <> N: {rk: 42119, frq: 67}
+papist <> N: {rk: 47306, frq: 41}, J: {rk: 49872, frq: 37}
+papoose <> N: {rk: 41118, frq: 74}
+pappardelle <> N: {rk: 45156, frq: 58}
+paprika <> N: {rk: 15640, frq: 930}
+papyrus <> N: {rk: 25296, frq: 261}
+par <> N: {rk: 5880, frq: 5032}, J: {rk: 24303, frq: 283}, V: {rk: 51584, frq: 31}
+para <> N: {rk: 10060, frq: 1939}
+parable <> N: {rk: 13345, frq: 1054}
+parabola <> N: {rk: 35115, frq: 105}
+parabolic <> J: {rk: 28105, frq: 188}
+paraboloid <> N: {rk: 59775, frq: 20}
+paracetamol <> N: {rk: 59136, frq: 30}
+parachute <> N: {rk: 9891, frq: 1725}, V: {rk: 24107, frq: 267}
+parachutist <> N: {rk: 38697, frq: 140}
+parade <> N: {rk: 3937, frq: 7580}, V: {rk: 10779, frq: 1404}
+paradigm <> N: {rk: 5256, frq: 5390}
+paradigmatic <> J: {rk: 21877, frq: 388}
+paradise <> N: {rk: 6916, frq: 4940}
+paradisiacal <> J: {rk: 52657, frq: 31}
+paradox <> N: {rk: 6874, frq: 3176}
+paradoxical <> J: {rk: 12746, frq: 1133}
+paradoxically <> R: {rk: 10817, frq: 1476}
+paraffin <> N: {rk: 26595, frq: 214}
+parafoil <> N: {rk: 56666, frq: 28}
+paraglider <> N: {rk: 48220, frq: 42}
+paragon <> N: {rk: 20211, frq: 488}
+paragraph <> N: {rk: 5973, frq: 4123}
+parakeet <> N: {rk: 26238, frq: 242}
+paralegal <> J: {rk: 24161, frq: 275}, N: {rk: 33626, frq: 141}
+parallax <> N: {rk: 35297, frq: 170}
+parallel <> J: {rk: 5915, frq: 4063}, N: {rk: 6090, frq: 3888}, R: {rk: 8658, frq: 2151}, V: {rk: 9547, frq: 1825}
+parallelism <> N: {rk: 24324, frq: 311}
+parallelogram <> N: {rk: 39010, frq: 73}
+paralympic <> J: {rk: 37784, frq: 91}
+paralympics <> N: {rk: 36220, frq: 151}
+paralysis <> N: {rk: 10228, frq: 1597}
+paralytic <> J: {rk: 38312, frq: 77}
+paralyze <> V: {rk: 7260, frq: 2799}
+paralyzed <> J: {rk: 18111, frq: 524}
+paralyzing <> J: {rk: 29597, frq: 156}
+paramagnetic <> J: {rk: 55552, frq: 31}
+paramecium <> N: {rk: 59307, frq: 28}
+paramedic <> N: {rk: 10637, frq: 1523}
+parameter <> N: {rk: 5458, frq: 5295}
+parametric <> J: {rk: 28366, frq: 241}
+paramilitary <> J: {rk: 12292, frq: 1157}, N: {rk: 24437, frq: 287}
+paramount <> J: {rk: 9486, frq: 1820}
+paramour <> N: {rk: 30639, frq: 155}
+paranoia <> N: {rk: 10786, frq: 1423}
+paranoiac <> N: {rk: 53875, frq: 25}
+paranoid <> J: {rk: 8820, frq: 2048}
+paranormal <> J: {rk: 24854, frq: 325}
+parapet <> N: {rk: 23488, frq: 317}
+parapharyngeal <> J: {rk: 41754, frq: 77}
+paraphernalia <> N: {rk: 15727, frq: 684}
+paraphilia <> N: {rk: 52363, frq: 44}
+paraphrase <> V: {rk: 13251, frq: 989}, N: {rk: 29171, frq: 173}
+paraphrased <> J: {rk: 52265, frq: 27}
+paraplegia <> N: {rk: 38367, frq: 97}
+paraplegic <> J: {rk: 27202, frq: 208}
+paraprofessional <> J: {rk: 30346, frq: 217}, N: {rk: 30570, frq: 279}
+parapsychological <> J: {rk: 54658, frq: 28}
+parapsychologist <> N: {rk: 58579, frq: 22}
+parapsychology <> N: {rk: 45573, frq: 92}
+parasail <> N: {rk: 56352, frq: 40}
+parasite <> N: {rk: 8638, frq: 2201}
+parasitic <> J: {rk: 16809, frq: 635}
+parasitical <> J: {rk: 50337, frq: 42}
+parasitism <> N: {rk: 37108, frq: 90}
+parasitize <> V: {rk: 38774, frq: 72}
+parasitoid <> N: {rk: 52697, frq: 45}
+parasol <> N: {rk: 23157, frq: 321}
+paraspinal <> J: {rk: 59897, frq: 27}
+parastatal <> J: {rk: 45563, frq: 50}, N: {rk: 51824, frq: 35}
+parasympathetic <> J: {rk: 36955, frq: 106}
+paratactic <> J: {rk: 56978, frq: 22}
+paratha <> N: {rk: 57772, frq: 23}
+parathion <> N: {rk: 53199, frq: 36}
+parathyroid <> J: {rk: 33390, frq: 147}
+paratroop <> N: {rk: 37939, frq: 126}
+paratrooper <> N: {rk: 17846, frq: 581}
+parboil <> V: {rk: 48844, frq: 36}
+parcel <> N: {rk: 7866, frq: 2555}, V: {rk: 27026, frq: 200}
+parch <> V: {rk: 46169, frq: 49}
+parched <> J: {rk: 15027, frq: 802}
+parchment <> N: {rk: 11656, frq: 1463}
+pardner <> N: {rk: 41986, frq: 64}
+pardon <> N: {rk: 7969, frq: 2744}, V: {rk: 10286, frq: 1672}
+pare <> V: {rk: 13654, frq: 929}
+parenchyma <> N: {rk: 56667, frq: 27}
+parent <> N: {rk: 327, frq: 129272}, V: {rk: 24840, frq: 272}
+parentage <> N: {rk: 26219, frq: 233}
+parental <> J: {rk: 4135, frq: 7782}
+parenteral <> J: {rk: 40227, frq: 71}
+parenthesis <> N: {rk: 16103, frq: 708}
+parenthetical <> J: {rk: 34676, frq: 104}
+parenthetically <> R: {rk: 34270, frq: 104}
+parenthood <> N: {rk: 15002, frq: 1505}
+parenting <> N: {rk: 5509, frq: 4964}
+parentless <> J: {rk: 48422, frq: 39}
+paresis <> N: {rk: 47175, frq: 43}
+paresthesia <> N: {rk: 52734, frq: 31}
+parfait <> N: {rk: 32477, frq: 174}
+pari-mutuel <> J: {rk: 53988, frq: 48}
+pariah <> N: {rk: 18395, frq: 541}
+parietal <> J: {rk: 35395, frq: 119}
+paring <> J: {rk: 29839, frq: 168}, N: {rk: 51756, frq: 33}
+parish <> N: {rk: 4614, frq: 7065}
+parishioner <> N: {rk: 10424, frq: 1660}
+parity <> N: {rk: 12415, frq: 1184}
+park <> V: {rk: 3490, frq: 9632}
+parka <> N: {rk: 14106, frq: 975}
+parked <> J: {rk: 14964, frq: 813}
+parking <> N: {rk: 2336, frq: 16156}
+parkland <> N: {rk: 23134, frq: 407}
+parlance <> N: {rk: 17767, frq: 538}
+parlay <> V: {rk: 19299, frq: 466}
+parley <> N: {rk: 38275, frq: 95}, V: {rk: 45780, frq: 46}
+parliament <> N: {rk: 5223, frq: 8124}
+parliamentarian <> N: {rk: 22471, frq: 353}
+parliamentary <> J: {rk: 7791, frq: 2675}
+parlor <> N: {rk: 6512, frq: 3578}
+parlous <> J: {rk: 45756, frq: 55}
+parochial <> J: {rk: 11926, frq: 1226}
+parochialism <> N: {rk: 32235, frq: 134}
+parodic <> J: {rk: 30390, frq: 166}
+parody <> N: {rk: 10764, frq: 1452}, V: {rk: 19206, frq: 473}
+parole <> N: {rk: 6796, frq: 3344}
+paroled <> J: {rk: 41812, frq: 67}
+parolee <> N: {rk: 28675, frq: 235}
+parotid <> J: {rk: 24111, frq: 398}, N: {rk: 44252, frq: 63}
+paroxysm <> N: {rk: 31000, frq: 140}
+paroxysmal <> J: {rk: 50226, frq: 43}
+parquet <> N: {rk: 27612, frq: 207}
+parricide <> N: {rk: 56838, frq: 28}
+parrot <> N: {rk: 10220, frq: 1668}, V: {rk: 49723, frq: 33}
+parrotfish <> N: {rk: 49417, frq: 42}
+parry <> V: {rk: 27326, frq: 213}
+parse <> V: {rk: 19660, frq: 475}
+parsec <> N: {rk: 40766, frq: 70}
+parsimonious <> J: {rk: 29319, frq: 185}
+parsimony <> N: {rk: 32112, frq: 137}
+parsing <> N: {rk: 41731, frq: 76}
+parsley <> N: {rk: 6715, frq: 3733}
+parsnip <> N: {rk: 22052, frq: 412}
+parson <> N: {rk: 28330, frq: 360}
+parsonage <> N: {rk: 35459, frq: 113}
+part <> N: {rk: 178, frq: 225292}, R: {rk: 1826, frq: 20730}, I: {rk: 4732, frq: 5826}, V: {rk: 7355, frq: 2976}
+part-owner <> N: {rk: 33513, frq: 118}
+part-time <> J: {rk: 5281, frq: 4962}, R: {rk: 37570, frq: 79}
+part-timer <> N: {rk: 24469, frq: 298}
+partake <> V: {rk: 16166, frq: 681}
+partaking <> N: {rk: 56601, frq: 24}
+parted <> J: {rk: 35850, frq: 102}
+parterre <> N: {rk: 36460, frq: 102}
+parthenogenesis <> N: {rk: 49015, frq: 41}
+parthenogenetic <> J: {rk: 56254, frq: 38}
+partial <> J: {rk: 4588, frq: 6124}, N: {rk: 52144, frq: 35}
+partiality <> N: {rk: 33266, frq: 117}
+partially <> R: {rk: 4418, frq: 6317}
+participant <> N: {rk: 1104, frq: 46903}
+participate <> V: {rk: 1487, frq: 28621}
+participating <> J: {rk: 9149, frq: 2107}
+participation <> N: {rk: 2228, frq: 18521}
+participative <> J: {rk: 31889, frq: 153}
+participatory <> J: {rk: 13364, frq: 1131}
+participial <> J: {rk: 57535, frq: 34}
+participle <> N: {rk: 35657, frq: 167}
+particle <> N: {rk: 3711, frq: 8418}
+particleboard <> N: {rk: 38419, frq: 88}
+particular <> J: {rk: 949, frq: 45231}, R: {rk: 2564, frq: 14385}
+particularism <> N: {rk: 32020, frq: 143}
+particularistic <> J: {rk: 35385, frq: 103}
+particularity <> N: {rk: 18699, frq: 557}
+particularize <> V: {rk: 40444, frq: 67}
+particularized <> J: {rk: 42406, frq: 59}
+particularly <> R: {rk: 781, frq: 54165}
+particulars <> N: {rk: 12590, frq: 1096}
+particulate <> N: {rk: 16159, frq: 770}
+parting <> N: {rk: 14122, frq: 915}
+partisan <> J: {rk: 6305, frq: 3868}, N: {rk: 11455, frq: 1309}
+partisanship <> N: {rk: 14072, frq: 958}
+partita <> N: {rk: 48564, frq: 59}
+partition <> N: {rk: 9936, frq: 1763}, V: {rk: 18040, frq: 548}
+partitioned <> J: {rk: 44560, frq: 50}
+partitioning <> N: {rk: 28040, frq: 235}
+partly <> R: {rk: 2841, frq: 11954}
+partner <> N: {rk: 1049, frq: 40898}, V: {rk: 11276, frq: 1573}
+partnership <> N: {rk: 2929, frq: 12513}
+partridge <> N: {rk: 21443, frq: 405}
+parturition <> N: {rk: 58188, frq: 20}
+party <> N: {rk: 351, frq: 123578}, V: {rk: 12594, frq: 1131}
+partyer <> N: {rk: 47915, frq: 55}
+partying <> N: {rk: 30885, frq: 190}, J: {rk: 45460, frq: 45}
+parvenu <> N: {rk: 46245, frq: 45}
+pas <> N: {rk: 34393, frq: 108}
+paschal <> J: {rk: 37327, frq: 101}
+pasha <> N: {rk: 24684, frq: 328}
+pashmina <> N: {rk: 44367, frq: 61}
+pass <> V: {rk: 441, frq: 94585}, N: {rk: 2272, frq: 17336}
+passable <> J: {rk: 22908, frq: 318}
+passably <> R: {rk: 45783, frq: 44}
+passage <> N: {rk: 2224, frq: 17008}
+passageway <> N: {rk: 12812, frq: 1145}
+passbook <> N: {rk: 36977, frq: 98}
+passe <> J: {rk: 21688, frq: 340}
+passed <> J: {rk: 42292, frq: 55}
+passel <> N: {rk: 31993, frq: 178}
+passenger <> N: {rk: 2091, frq: 18440}
+passer <> N: {rk: 15079, frq: 979}
+passer-by <> N: {rk: 13000, frq: 2142}
+passim <> R: {rk: 35237, frq: 124}
+passing <> J: {rk: 4389, frq: 6559}, N: {rk: 6738, frq: 3255}
+passion <> N: {rk: 2297, frq: 15910}
+passionate <> J: {rk: 5229, frq: 4938}
+passionately <> R: {rk: 10349, frq: 1505}
+passionflower <> N: {rk: 54087, frq: 36}
+passionless <> J: {rk: 42739, frq: 53}
+passive <> J: {rk: 5751, frq: 4396}, N: {rk: 51919, frq: 35}
+passive-aggressive <> J: {rk: 31253, frq: 166}
+passively <> R: {rk: 16605, frq: 637}
+passivity <> N: {rk: 16724, frq: 664}
+passkey <> N: {rk: 56907, frq: 22}
+passport <> N: {rk: 6322, frq: 3619}
+password <> N: {rk: 10274, frq: 1717}
+past <> J: {rk: 680, frq: 61544}, N: {rk: 977, frq: 42721}, I: {rk: 1390, frq: 30572}, R: {rk: 3647, frq: 8624}
+pasta <> N: {rk: 4538, frq: 6913}
+paste <> N: {rk: 7753, frq: 2803}, V: {rk: 12563, frq: 1107}
+pasteboard <> N: {rk: 44128, frq: 51}
+pastel <> N: {rk: 8111, frq: 2574}, J: {rk: 10840, frq: 1493}
+pasteurization <> N: {rk: 34278, frq: 103}
+pasteurize <> V: {rk: 37380, frq: 86}
+pasteurized <> J: {rk: 37418, frq: 83}
+pastiche <> N: {rk: 25560, frq: 253}
+pastime <> N: {rk: 11426, frq: 1278}
+pasting <> N: {rk: 53991, frq: 26}
+pastness <> N: {rk: 54057, frq: 26}
+pastor <> N: {rk: 3880, frq: 8351}
+pastoral <> J: {rk: 7375, frq: 3009}, N: {rk: 59596, frq: 23}
+pastorale <> N: {rk: 59773, frq: 55}
+pastoralism <> N: {rk: 39438, frq: 83}
+pastoralist <> N: {rk: 33825, frq: 123}
+pastorate <> N: {rk: 47027, frq: 42}
+pastrami <> N: {rk: 27954, frq: 251}
+pastry <> N: {rk: 6400, frq: 3805}
+pasturage <> N: {rk: 46487, frq: 41}
+pasture <> N: {rk: 6415, frq: 3551}, V: {rk: 41200, frq: 62}
+pastured <> J: {rk: 59620, frq: 36}
+pastureland <> N: {rk: 32870, frq: 126}
+pasty <> J: {rk: 27551, frq: 214}, N: {rk: 30229, frq: 158}
+pasty-faced <> J: {rk: 50832, frq: 30}
+pat <> V: {rk: 4580, frq: 6472}
+patch <> N: {rk: 3338, frq: 9907}, V: {rk: 10873, frq: 1423}
+patched <> J: {rk: 29211, frq: 179}
+patchiness <> N: {rk: 54993, frq: 25}
+patchouli <> N: {rk: 36606, frq: 109}
+patchwork <> N: {rk: 13148, frq: 1060}
+patchy <> J: {rk: 22289, frq: 355}
+pate <> N: {rk: 19721, frq: 837}
+patella <> N: {rk: 35354, frq: 126}
+patellar <> J: {rk: 41024, frq: 84}
+patency <> N: {rk: 44612, frq: 74}
+patent <> N: {rk: 4445, frq: 6485}, V: {rk: 14643, frq: 829}, J: {rk: 25162, frq: 255}
+patentable <> J: {rk: 36973, frq: 97}
+patented <> J: {rk: 18294, frq: 515}
+patentee <> N: {rk: 55438, frq: 29}
+patenting <> N: {rk: 47904, frq: 53}, J: {rk: 56546, frq: 23}
+patently <> R: {rk: 17139, frq: 581}
+paterfamilias <> N: {rk: 45092, frq: 44}
+paternal <> J: {rk: 13080, frq: 1018}
+paternalism <> N: {rk: 22332, frq: 349}
+paternalistic <> J: {rk: 21098, frq: 381}
+paternally <> R: {rk: 56632, frq: 21}
+paternity <> N: {rk: 14464, frq: 928}
+path <> N: {rk: 1340, frq: 30980}
+pathetic <> J: {rk: 8070, frq: 2430}
+pathetically <> R: {rk: 23984, frq: 283}
+pathogen <> N: {rk: 8803, frq: 2319}
+pathogenesis <> N: {rk: 28663, frq: 215}
+pathogenetic <> J: {rk: 59719, frq: 21}
+pathogenic <> J: {rk: 22448, frq: 352}
+pathogenicity <> N: {rk: 58007, frq: 24}
+pathognomonic <> J: {rk: 56187, frq: 26}
+pathologic <> J: {rk: 27871, frq: 250}
+pathological <> J: {rk: 13836, frq: 966}
+pathologically <> R: {rk: 34040, frq: 111}
+pathologist <> N: {rk: 12034, frq: 1165}
+pathology <> N: {rk: 10378, frq: 1641}
+pathophysiology <> N: {rk: 39948, frq: 88}
+pathos <> N: {rk: 18769, frq: 503}
+pathway <> N: {rk: 6653, frq: 3612}
+patience <> N: {rk: 4210, frq: 7098}
+patient <> N: {rk: 572, frq: 79355}, J: {rk: 3519, frq: 9380}
+patiently <> R: {rk: 8386, frq: 2303}
+patina <> N: {rk: 18416, frq: 575}
+patio <> N: {rk: 6976, frq: 3195}
+patisserie <> N: {rk: 36936, frq: 90}
+patois <> N: {rk: 33094, frq: 117}
+patriarch <> N: {rk: 11012, frq: 1499}
+patriarchal <> J: {rk: 10447, frq: 1583}
+patriarchate <> N: {rk: 35139, frq: 159}
+patriarchy <> N: {rk: 15531, frq: 783}
+patrician <> N: {rk: 21445, frq: 416}, J: {rk: 47285, frq: 38}
+patrilateral <> J: {rk: 58674, frq: 38}
+patrilineage <> N: {rk: 45738, frq: 51}
+patrilineal <> J: {rk: 29330, frq: 184}
+patrilocal <> J: {rk: 54862, frq: 31}
+patrimonial <> J: {rk: 44855, frq: 61}
+patrimony <> N: {rk: 23714, frq: 309}
+patriotic <> J: {rk: 7767, frq: 2515}
+patriotically <> R: {rk: 42868, frq: 48}
+patriotism <> N: {rk: 8276, frq: 2299}
+patristic <> J: {rk: 26358, frq: 256}
+patristics <> N: {rk: 55608, frq: 36}
+patrol <> N: {rk: 4216, frq: 6895}, V: {rk: 7771, frq: 2563}
+patroller <> N: {rk: 29021, frq: 204}
+patrolman <> N: {rk: 19781, frq: 580}
+patron <> N: {rk: 4709, frq: 5843}
+patronage <> N: {rk: 10299, frq: 1634}
+patroness <> N: {rk: 39442, frq: 73}
+patronize <> V: {rk: 16901, frq: 601}
+patronizing <> J: {rk: 17463, frq: 557}
+patronizingly <> R: {rk: 43211, frq: 48}
+patronymic <> J: {rk: 58752, frq: 21}
+patter <> N: {rk: 20244, frq: 431}, V: {rk: 33408, frq: 127}
+pattern <> N: {rk: 1018, frq: 43481}, V: {rk: 23600, frq: 295}
+patterned <> J: {rk: 11714, frq: 1265}
+patterning <> N: {rk: 27215, frq: 235}, J: {rk: 59726, frq: 27}
+patting <> N: {rk: 52667, frq: 27}
+paucity <> N: {rk: 17386, frq: 618}
+paunch <> N: {rk: 26049, frq: 233}
+paunchy <> J: {rk: 36449, frq: 89}
+pauper <> N: {rk: 23137, frq: 329}
+pauperization <> N: {rk: 54748, frq: 25}
+pause <> V: {rk: 2794, frq: 13741}, N: {rk: 3751, frq: 8645}
+pave <> V: {rk: 7196, frq: 2883}
+paved <> J: {rk: 12631, frq: 1064}
+pavement <> N: {rk: 6634, frq: 3412}
+paver <> N: {rk: 58853, frq: 29}
+pavilion <> N: {rk: 12105, frq: 2194}
+paving <> N: {rk: 18822, frq: 520}
+paw <> N: {rk: 8179, frq: 2826}, V: {rk: 17019, frq: 645}
+pawn <> N: {rk: 13020, frq: 1025}, V: {rk: 23183, frq: 306}
+pawnbroker <> N: {rk: 40467, frq: 81}
+pawnshop <> N: {rk: 26478, frq: 255}
+pawpaw <> N: {rk: 59532, frq: 39}
+pay <> V: {rk: 286, frq: 144423}, N: {rk: 2739, frq: 13004}
+pay-per-view <> J: {rk: 23441, frq: 297}, N: {rk: 30761, frq: 173}
+payable <> J: {rk: 19215, frq: 465}
+payback <> N: {rk: 14179, frq: 928}
+paycheck <> N: {rk: 7799, frq: 2648}
+payday <> N: {rk: 16498, frq: 807}
+payee <> N: {rk: 43136, frq: 66}
+payer <> N: {rk: 15591, frq: 784}
+paying <> J: {rk: 14492, frq: 808}
+payload <> N: {rk: 14887, frq: 816}
+paymaster <> N: {rk: 42144, frq: 57}
+payment <> N: {rk: 2118, frq: 18137}
+payoff <> N: {rk: 7779, frq: 2627}, V: {rk: 34289, frq: 112}
+payola <> N: {rk: 46874, frq: 43}
+payor <> N: {rk: 50445, frq: 36}
+payout <> N: {rk: 13800, frq: 996}
+payphone <> N: {rk: 34897, frq: 126}
+payroll <> N: {rk: 5405, frq: 4865}
+pc <> N: {rk: 3072, frq: 11918}
+pea <> N: {rk: 5284, frq: 5275}
+peace <> N: {rk: 934, frq: 45534}
+peace-loving <> J: {rk: 32439, frq: 124}
+peaceable <> J: {rk: 26756, frq: 223}
+peaceably <> R: {rk: 30868, frq: 141}
+peaceful <> J: {rk: 3682, frq: 8352}
+peacefully <> R: {rk: 9259, frq: 1878}
+peacefulness <> N: {rk: 29087, frq: 172}
+peacekeeper <> N: {rk: 11433, frq: 1412}
+peacekeeping <> J: {rk: 12098, frq: 1186}, N: {rk: 28127, frq: 268}
+peacemaker <> N: {rk: 18123, frq: 546}
+peacemaking <> J: {rk: 34067, frq: 107}, N: {rk: 36015, frq: 119}
+peacenik <> N: {rk: 38822, frq: 75}
+peacetime <> N: {rk: 15664, frq: 698}
+peach <> N: {rk: 5594, frq: 4662}
+peachy <> J: {rk: 35202, frq: 104}
+peacoat <> N: {rk: 48166, frq: 41}
+peacock <> N: {rk: 16024, frq: 1242}
+peahen <> N: {rk: 55922, frq: 27}
+peak <> N: {rk: 2379, frq: 15657}, V: {rk: 7761, frq: 2590}
+peak-to-peak <> J: {rk: 56266, frq: 37}
+peaked <> J: {rk: 28478, frq: 187}
+peal <> N: {rk: 26515, frq: 233}, V: {rk: 33271, frq: 119}
+peanut <> N: {rk: 4671, frq: 6130}
+pear <> N: {rk: 6957, frq: 3292}
+pear-shaped <> J: {rk: 32270, frq: 128}
+pearl <> V: {rk: 57870, frq: 21}
+pearlescent <> J: {rk: 46257, frq: 46}
+pearly <> J: {rk: 19400, frq: 474}
+peasant <> N: {rk: 4724, frq: 5802}
+peasantry <> N: {rk: 21832, frq: 397}
+peat <> N: {rk: 14839, frq: 1002}
+peaty <> J: {rk: 54013, frq: 28}
+pebble <> N: {rk: 11450, frq: 2129}
+pebbled <> J: {rk: 35399, frq: 103}
+pebbly <> J: {rk: 32848, frq: 126}
+pec <> N: {rk: 30859, frq: 212}
+pecan <> N: {rk: 8439, frq: 2718}
+peccadillo <> N: {rk: 44574, frq: 45}
+peccary <> N: {rk: 39262, frq: 85}
+peck <> V: {rk: 14976, frq: 817}
+pecker <> N: {rk: 33572, frq: 141}
+peckerwood <> N: {rk: 55705, frq: 38}
+pecorino <> N: {rk: 33961, frq: 193}
+pectin <> N: {rk: 34079, frq: 120}
+pectoral <> N: {rk: 25086, frq: 246}
+pectoralis <> N: {rk: 44986, frq: 51}
+peculiar <> J: {rk: 5568, frq: 4377}
+peculiarity <> N: {rk: 17234, frq: 609}
+peculiarly <> R: {rk: 17755, frq: 551}
+pecuniary <> J: {rk: 35498, frq: 93}
+pedagogic <> J: {rk: 36297, frq: 100}
+pedagogical <> J: {rk: 11384, frq: 1501}
+pedagogically <> R: {rk: 36670, frq: 93}
+pedagogue <> N: {rk: 36571, frq: 94}
+pedagogy <> N: {rk: 12817, frq: 1288}
+pedal <> N: {rk: 7914, frq: 2657}, V: {rk: 9766, frq: 1792}
+pedaling <> J: {rk: 38375, frq: 83}
+pedant <> N: {rk: 43583, frq: 66}
+pedantic <> J: {rk: 29158, frq: 162}
+pedantry <> N: {rk: 41888, frq: 56}
+peddle <> V: {rk: 11944, frq: 1172}
+peddler <> N: {rk: 17340, frq: 640}
+peddling <> N: {rk: 50480, frq: 39}
+pederast <> N: {rk: 49157, frq: 34}
+pederasty <> N: {rk: 59396, frq: 24}
+pedestal <> N: {rk: 10776, frq: 1466}
+pedestrian <> N: {rk: 7706, frq: 2752}, J: {rk: 44333, frq: 50}
+pediatric <> J: {rk: 10235, frq: 1743}
+pediatrician <> N: {rk: 10003, frq: 1764}
+pediatrics <> N: {rk: 20513, frq: 796}
+pedicab <> N: {rk: 49451, frq: 35}
+pedicle <> N: {rk: 59522, frq: 29}
+pedicure <> N: {rk: 22898, frq: 359}, V: {rk: 44185, frq: 54}
+pedigree <> N: {rk: 14920, frq: 853}
+pedigreed <> J: {rk: 39185, frq: 72}
+pediment <> N: {rk: 34593, frq: 114}
+pedipalp <> N: {rk: 59758, frq: 20}
+pedometer <> N: {rk: 27385, frq: 291}
+pedophile <> N: {rk: 15622, frq: 788}
+pedophilia <> N: {rk: 25516, frq: 265}
+pee <> V: {rk: 11392, frq: 1465}, N: {rk: 22082, frq: 490}
+peeing <> N: {rk: 51879, frq: 32}
+peek <> V: {rk: 7553, frq: 2892}, N: {rk: 12084, frq: 1407}
+peekaboo <> N: {rk: 34995, frq: 124}
+peel <> V: {rk: 3950, frq: 7984}, N: {rk: 9594, frq: 2278}
+peeled <> J: {rk: 18215, frq: 615}
+peeler <> N: {rk: 22285, frq: 382}
+peeling <> N: {rk: 18591, frq: 521}
+peep <> V: {rk: 17356, frq: 604}, N: {rk: 18963, frq: 582}
+peep-toe <> J: {rk: 57319, frq: 25}
+peeper <> N: {rk: 32129, frq: 135}
+peephole <> N: {rk: 23443, frq: 333}
+peeping <> J: {rk: 43375, frq: 50}
+peepshow <> N: {rk: 58911, frq: 20}
+peer <> N: {rk: 2440, frq: 16083}, V: {rk: 3403, frq: 9942}
+peer-to-peer <> J: {rk: 32811, frq: 135}
+peerage <> N: {rk: 40415, frq: 66}
+peerless <> J: {rk: 29884, frq: 158}
+peeve <> N: {rk: 30016, frq: 184}
+peeved <> J: {rk: 28497, frq: 181}
+peevish <> J: {rk: 35100, frq: 101}
+peevishly <> R: {rk: 39340, frq: 70}
+peg <> N: {rk: 13013, frq: 1770}, V: {rk: 13628, frq: 948}
+pegboard <> N: {rk: 38460, frq: 98}
+pegged <> J: {rk: 47342, frq: 40}
+peignoir <> N: {rk: 57635, frq: 20}
+pejorative <> J: {rk: 20588, frq: 416}
+pejoratively <> R: {rk: 46100, frq: 42}
+pelagian <> J: {rk: 58257, frq: 21}
+pelagic <> J: {rk: 23621, frq: 381}
+pelargonium <> N: {rk: 59469, frq: 32}
+pelican <> N: {rk: 21030, frq: 762}
+pell-mell <> R: {rk: 34356, frq: 106}
+pellagra <> N: {rk: 35229, frq: 205}
+pellet <> N: {rk: 12157, frq: 1263}
+pellucid <> J: {rk: 46307, frq: 39}
+pelota <> N: {rk: 59204, frq: 25}
+pelt <> V: {rk: 15775, frq: 723}, N: {rk: 18394, frq: 719}
+pelting <> J: {rk: 49143, frq: 35}
+pelvic <> J: {rk: 15538, frq: 787}
+pelvis <> N: {rk: 14103, frq: 916}
+pemmican <> N: {rk: 49717, frq: 38}
+pen <> N: {rk: 3609, frq: 9034}, V: {rk: 10743, frq: 1480}
+penaeid <> J: {rk: 59077, frq: 21}
+penal <> J: {rk: 14245, frq: 948}
+penalize <> V: {rk: 11603, frq: 1258}
+penalized <> J: {rk: 45132, frq: 47}
+penalty <> N: {rk: 2696, frq: 13230}
+penance <> N: {rk: 17491, frq: 666}
+penchant <> N: {rk: 11741, frq: 1240}
+pencil <> N: {rk: 4450, frq: 6318}, V: {rk: 26091, frq: 220}
+penciled <> J: {rk: 40860, frq: 60}
+pendant <> N: {rk: 13778, frq: 988}
+pendency <> N: {rk: 58729, frq: 22}
+pending <> J: {rk: 6908, frq: 3154}, I: {rk: 12635, frq: 1091}
+pendulous <> J: {rk: 34363, frq: 106}
+pendulum <> N: {rk: 12965, frq: 1018}
+penetrable <> J: {rk: 48803, frq: 35}
+penetrate <> V: {rk: 5452, frq: 4534}
+penetrating <> J: {rk: 14151, frq: 863}
+penetration <> N: {rk: 11138, frq: 1377}
+penetrative <> J: {rk: 47975, frq: 53}
+penetrator <> N: {rk: 37456, frq: 92}
+penicillin <> N: {rk: 17929, frq: 564}
+penile <> J: {rk: 30174, frq: 193}
+peninsula <> N: {rk: 9196, frq: 3888}
+peninsular <> J: {rk: 34470, frq: 116}
+penis <> N: {rk: 7942, frq: 2566}
+penitence <> N: {rk: 35733, frq: 96}
+penitent <> N: {rk: 28394, frq: 211}, J: {rk: 36547, frq: 85}
+penitential <> J: {rk: 33921, frq: 122}
+penitentiary <> N: {rk: 18178, frq: 624}, J: {rk: 44395, frq: 47}
+penknife <> N: {rk: 35881, frq: 98}
+penlight <> N: {rk: 33420, frq: 135}
+penmanship <> N: {rk: 27987, frq: 216}
+pennant <> N: {rk: 13875, frq: 950}
+penne <> N: {rk: 26349, frq: 337}
+penned <> J: {rk: 51101, frq: 31}
+penniless <> J: {rk: 20904, frq: 384}
+penny-pinching <> J: {rk: 46351, frq: 45}, N: {rk: 51478, frq: 30}
+pension <> N: {rk: 3815, frq: 8692}, V: {rk: 54325, frq: 24}
+pensioner <> N: {rk: 23447, frq: 312}
+pensive <> J: {rk: 19686, frq: 463}
+pensively <> R: {rk: 29550, frq: 170}
+penstemon <> N: {rk: 37191, frq: 95}
+pent <> J: {rk: 42962, frq: 49}
+pent-up <> J: {rk: 19572, frq: 448}
+pentagonal <> J: {rk: 42940, frq: 77}
+pentagram <> N: {rk: 38141, frq: 93}
+pentameter <> N: {rk: 38007, frq: 102}
+pentathlon <> N: {rk: 37728, frq: 103}
+pentatonic <> J: {rk: 35227, frq: 110}
+penthouse <> N: {rk: 15071, frq: 1060}
+penultimate <> J: {rk: 25138, frq: 247}
+penumbra <> N: {rk: 31842, frq: 145}
+penumbral <> J: {rk: 45925, frq: 48}
+penurious <> J: {rk: 52264, frq: 29}
+penury <> N: {rk: 37156, frq: 79}
+peon <> N: {rk: 32015, frq: 178}
+peonage <> N: {rk: 51710, frq: 40}
+people <> N: {rk: 62, frq: 752220}, V: {rk: 23850, frq: 279}
+peoplehood <> N: {rk: 41412, frq: 74}
+peopling <> N: {rk: 48413, frq: 40}
+pep <> N: {rk: 13533, frq: 1005}, V: {rk: 40206, frq: 64}
+pepper <> N: {rk: 1933, frq: 24082}, V: {rk: 14785, frq: 833}
+peppercorn <> N: {rk: 18447, frq: 633}
+peppered <> J: {rk: 40762, frq: 62}
+peppermint <> N: {rk: 15749, frq: 779}
+pepperoni <> N: {rk: 22880, frq: 338}
+peppery <> J: {rk: 26261, frq: 241}
+peppy <> J: {rk: 29985, frq: 165}
+peptic <> J: {rk: 36939, frq: 86}
+peptide <> N: {rk: 18000, frq: 604}
+per <> I: {rk: 669, frq: 64713}, J: {rk: 9380, frq: 1955}
+perambulation <> N: {rk: 55337, frq: 24}
+percale <> N: {rk: 51901, frq: 45}
+perceivable <> J: {rk: 47887, frq: 35}
+perceive <> V: {rk: 2178, frq: 18359}
+perceived <> J: {rk: 4578, frq: 6942}
+perceiver <> N: {rk: 30708, frq: 173}
+perceiving <> J: {rk: 50121, frq: 33}
+percentage <> N: {rk: 1797, frq: 22431}
+percentile <> N: {rk: 14130, frq: 957}
+percept <> N: {rk: 46222, frq: 46}
+perceptible <> J: {rk: 19948, frq: 418}
+perceptibly <> R: {rk: 32390, frq: 132}
+perception <> N: {rk: 1876, frq: 22947}
+perceptive <> J: {rk: 15894, frq: 689}
+perceptively <> R: {rk: 36839, frq: 80}
+perceptiveness <> N: {rk: 46757, frq: 44}
+perceptual <> J: {rk: 12041, frq: 1360}
+perceptually <> R: {rk: 41705, frq: 58}
+perch <> V: {rk: 6161, frq: 3892}, N: {rk: 10238, frq: 1600}
+perchance <> R: {rk: 35904, frq: 91}
+perched <> J: {rk: 27898, frq: 192}
+perchlorate <> N: {rk: 56401, frq: 30}
+percolate <> V: {rk: 19491, frq: 446}
+percolation <> N: {rk: 43223, frq: 93}
+percolator <> N: {rk: 44090, frq: 54}
+percussion <> N: {rk: 14436, frq: 863}
+percussionist <> N: {rk: 27370, frq: 213}
+percussive <> J: {rk: 28816, frq: 172}
+percutaneous <> J: {rk: 36288, frq: 118}
+perdition <> N: {rk: 29628, frq: 171}
+peregrination <> N: {rk: 41991, frq: 54}
+peremptorily <> R: {rk: 44446, frq: 49}
+peremptory <> J: {rk: 25624, frq: 255}
+perennial <> J: {rk: 9049, frq: 1990}, N: {rk: 11350, frq: 1442}
+perennially <> R: {rk: 22768, frq: 321}
+perestroika <> N: {rk: 16085, frq: 833}
+perfect <> J: {rk: 1161, frq: 36898}, V: {rk: 7867, frq: 2500}
+perfecta <> N: {rk: 50049, frq: 100}
+perfected <> J: {rk: 39178, frq: 72}
+perfectibility <> N: {rk: 46402, frq: 41}
+perfecting <> N: {rk: 57136, frq: 20}
+perfection <> N: {rk: 6598, frq: 3310}
+perfectionism <> N: {rk: 15940, frq: 1078}
+perfectionist <> N: {rk: 15973, frq: 733}
+perfectionistic <> J: {rk: 39309, frq: 100}
+perfective <> J: {rk: 57965, frq: 29}
+perfectly <> R: {rk: 2451, frq: 14871}
+perfidious <> J: {rk: 41807, frq: 60}
+perfidy <> N: {rk: 34204, frq: 105}
+perforate <> V: {rk: 30594, frq: 149}
+perforated <> J: {rk: 21237, frq: 376}
+perforation <> N: {rk: 19787, frq: 532}
+perforce <> R: {rk: 32868, frq: 120}
+perform <> V: {rk: 954, frq: 44962}
+performance <> N: {rk: 675, frq: 64841}
+performative <> J: {rk: 21489, frq: 439}
+performativity <> N: {rk: 44628, frq: 63}
+performer <> N: {rk: 3993, frq: 7600}
+performing <> N: {rk: 8594, frq: 3241}
+perfume <> N: {rk: 6687, frq: 3430}, V: {rk: 26984, frq: 209}
+perfumed <> J: {rk: 23348, frq: 302}
+perfumer <> N: {rk: 37791, frq: 112}
+perfumery <> N: {rk: 50783, frq: 47}
+perfunctorily <> R: {rk: 38054, frq: 77}
+perfunctory <> J: {rk: 20204, frq: 418}
+perfuse <> V: {rk: 58464, frq: 21}
+perfusion <> N: {rk: 29445, frq: 289}
+pergola <> N: {rk: 31097, frq: 176}
+perhaps <> R: {rk: 435, frq: 93221}
+perianth <> N: {rk: 59801, frq: 33}
+pericardial <> J: {rk: 59009, frq: 37}
+pericardium <> N: {rk: 59343, frq: 30}
+perigee <> N: {rk: 42340, frq: 104}
+perihelion <> N: {rk: 29436, frq: 181}
+peril <> N: {rk: 7751, frq: 2570}
+perilous <> J: {rk: 13173, frq: 1006}
+perilously <> R: {rk: 21437, frq: 350}
+perilymph <> N: {rk: 48577, frq: 51}
+perimeter <> N: {rk: 6679, frq: 3258}
+perinatal <> J: {rk: 27792, frq: 233}
+perineal <> J: {rk: 52176, frq: 32}
+perineum <> N: {rk: 42598, frq: 62}
+period <> N: {rk: 617, frq: 69181}
+periodic <> J: {rk: 7837, frq: 2557}
+periodical <> N: {rk: 13406, frq: 1004}
+periodically <> R: {rk: 7154, frq: 2876}
+periodicity <> N: {rk: 33793, frq: 124}
+periodization <> N: {rk: 37002, frq: 123}
+periodontal <> J: {rk: 32135, frq: 206}
+periodontist <> N: {rk: 56824, frq: 26}
+periodontitis <> N: {rk: 58760, frq: 35}
+perioperative <> J: {rk: 38217, frq: 114}
+periosteum <> N: {rk: 48160, frq: 46}
+peripatetic <> J: {rk: 28231, frq: 180}
+peripheral <> J: {rk: 8508, frq: 2367}, N: {rk: 21786, frq: 363}
+peripherally <> R: {rk: 32377, frq: 123}
+periphery <> N: {rk: 10298, frq: 1676}
+periphyton <> N: {rk: 59756, frq: 21}
+periscope <> N: {rk: 28792, frq: 219}
+perish <> V: {rk: 9686, frq: 1728}
+perishable <> J: {rk: 21903, frq: 349}, N: {rk: 37329, frq: 85}
+peristaltic <> J: {rk: 55822, frq: 23}
+peristyle <> N: {rk: 54659, frq: 36}
+peritoneal <> J: {rk: 48618, frq: 45}
+peritoneum <> N: {rk: 53208, frq: 29}
+peritonitis <> N: {rk: 43303, frq: 54}
+peritonsillar <> J: {rk: 49273, frq: 57}
+periwinkle <> N: {rk: 30621, frq: 177}
+perjure <> V: {rk: 31676, frq: 170}
+perjured <> J: {rk: 56790, frq: 22}
+perjurer <> N: {rk: 49269, frq: 44}
+perjurious <> J: {rk: 55034, frq: 38}
+perjury <> N: {rk: 11486, frq: 1917}
+perk <> N: {rk: 9836, frq: 1734}, V: {rk: 15759, frq: 745}
+perkily <> R: {rk: 54585, frq: 25}
+perkiness <> N: {rk: 56268, frq: 23}
+perky <> J: {rk: 19458, frq: 473}
+perlite <> N: {rk: 39775, frq: 72}
+perm <> N: {rk: 27371, frq: 254}, V: {rk: 37752, frq: 80}
+permaculture <> N: {rk: 57774, frq: 29}
+permafrost <> N: {rk: 23503, frq: 340}
+permanence <> N: {rk: 16456, frq: 665}
+permanency <> N: {rk: 32948, frq: 133}
+permanent <> J: {rk: 2480, frq: 14399}, N: {rk: 55437, frq: 29}
+permanently <> R: {rk: 5747, frq: 4127}
+permeability <> N: {rk: 28625, frq: 194}
+permeable <> J: {rk: 23599, frq: 296}
+permeate <> V: {rk: 9837, frq: 1684}
+permeation <> N: {rk: 55907, frq: 25}
+permed <> J: {rk: 42472, frq: 55}
+permissibility <> N: {rk: 48756, frq: 39}
+permissible <> J: {rk: 13174, frq: 1030}
+permission <> N: {rk: 3254, frq: 9258}
+permissive <> J: {rk: 19039, frq: 503}
+permissiveness <> N: {rk: 31132, frq: 153}
+permit <> V: {rk: 2121, frq: 17668}, N: {rk: 4833, frq: 5742}
+permitted <> J: {rk: 28034, frq: 192}
+permittee <> N: {rk: 45302, frq: 67}
+permutation <> N: {rk: 21401, frq: 362}
+pernicious <> J: {rk: 16642, frq: 630}
+peroneal <> J: {rk: 56756, frq: 44}
+peroration <> N: {rk: 41236, frq: 57}
+peroxidase <> N: {rk: 55829, frq: 25}
+peroxide <> N: {rk: 19992, frq: 483}
+perp <> N: {rk: 27426, frq: 247}
+perpendicular <> J: {rk: 14365, frq: 835}
+perpendicularly <> R: {rk: 43333, frq: 50}
+perpetrate <> V: {rk: 12247, frq: 1143}
+perpetration <> N: {rk: 43763, frq: 58}
+perpetrator <> N: {rk: 8054, frq: 2562}
+perpetual <> J: {rk: 8938, frq: 2003}
+perpetually <> R: {rk: 13516, frq: 960}
+perpetuate <> V: {rk: 7776, frq: 2636}
+perpetuation <> N: {rk: 21567, frq: 374}
+perpetuity <> N: {rk: 22681, frq: 327}
+perplex <> V: {rk: 15962, frq: 677}
+perplexed <> J: {rk: 19778, frq: 452}
+perplexing <> J: {rk: 17447, frq: 581}
+perplexity <> N: {rk: 26070, frq: 223}
+perquisite <> N: {rk: 31666, frq: 141}
+persecute <> V: {rk: 13310, frq: 981}
+persecuted <> J: {rk: 28470, frq: 185}
+persecution <> N: {rk: 9030, frq: 2045}
+persecutor <> N: {rk: 31061, frq: 144}
+perseverance <> N: {rk: 14040, frq: 938}
+persevere <> V: {rk: 14274, frq: 854}
+persevering <> J: {rk: 54926, frq: 24}
+persimmon <> N: {rk: 22092, frq: 446}
+persist <> V: {rk: 4390, frq: 6435}
+persistence <> N: {rk: 7616, frq: 2948}
+persistent <> J: {rk: 5327, frq: 4895}
+persistently <> R: {rk: 16768, frq: 639}
+persnickety <> J: {rk: 41430, frq: 64}
+person <> N: {rk: 345, frq: 123625}
+person-to-person <> J: {rk: 33250, frq: 116}
+persona <> N: {rk: 7655, frq: 2622}
+personable <> J: {rk: 20201, frq: 412}
+personage <> N: {rk: 21049, frq: 404}
+personal <> J: {rk: 580, frq: 73291}, N: {rk: 33566, frq: 120}
+personalism <> N: {rk: 41646, frq: 74}
+personalistic <> J: {rk: 42954, frq: 58}
+personality <> N: {rk: 2087, frq: 18354}
+personalization <> N: {rk: 29455, frq: 173}
+personalize <> V: {rk: 13887, frq: 934}
+personalized <> J: {rk: 13608, frq: 1000}
+personally <> R: {rk: 2649, frq: 13291}
+personhood <> N: {rk: 21480, frq: 420}
+personification <> N: {rk: 18061, frq: 616}
+personified <> J: {rk: 40124, frq: 72}
+personify <> V: {rk: 14637, frq: 830}
+personnel <> N: {rk: 2441, frq: 15043}
+perspectival <> J: {rk: 36160, frq: 96}
+perspective <> N: {rk: 1416, frq: 31206}
+perspicacious <> J: {rk: 43441, frq: 52}
+perspicacity <> N: {rk: 46291, frq: 39}
+perspiration <> N: {rk: 14505, frq: 853}
+perspire <> V: {rk: 24190, frq: 282}
+perspiring <> J: {rk: 46979, frq: 41}
+persuadable <> J: {rk: 53953, frq: 28}
+persuade <> V: {rk: 3286, frq: 9659}
+persuader <> N: {rk: 43986, frq: 54}
+persuasion <> N: {rk: 9744, frq: 1785}
+persuasive <> J: {rk: 8840, frq: 2055}
+persuasively <> R: {rk: 21754, frq: 348}
+persuasiveness <> N: {rk: 33064, frq: 116}
+pert <> J: {rk: 24581, frq: 302}
+pertain <> V: {rk: 12559, frq: 1182}
+pertaining <> I: {rk: 11505, frq: 1410}
+pertinence <> N: {rk: 37385, frq: 83}
+pertinent <> J: {rk: 10122, frq: 1670}
+pertinently <> R: {rk: 52819, frq: 29}
+pertly <> R: {rk: 54510, frq: 23}
+perturb <> V: {rk: 23412, frq: 287}
+perturbation <> N: {rk: 21145, frq: 401}
+perturbed <> J: {rk: 36816, frq: 85}
+pertussis <> N: {rk: 33983, frq: 140}
+perusal <> N: {rk: 27535, frq: 200}
+peruse <> V: {rk: 14965, frq: 800}
+perv <> N: {rk: 48325, frq: 42}
+pervade <> V: {rk: 12381, frq: 1145}
+pervading <> J: {rk: 45543, frq: 44}
+pervasive <> J: {rk: 6878, frq: 3167}
+pervasively <> R: {rk: 31964, frq: 130}
+pervasiveness <> N: {rk: 24274, frq: 288}
+perverse <> J: {rk: 10435, frq: 1503}
+perversely <> R: {rk: 22240, frq: 322}
+perversion <> N: {rk: 18156, frq: 537}
+perversity <> N: {rk: 25029, frq: 241}
+pervert <> N: {rk: 20641, frq: 415}, V: {rk: 27982, frq: 183}
+perverted <> J: {rk: 22159, frq: 336}
+pesky <> J: {rk: 17626, frq: 576}
+pessimism <> N: {rk: 13051, frq: 1085}
+pessimist <> N: {rk: 19185, frq: 463}
+pessimistic <> J: {rk: 10013, frq: 1621}
+pessimistically <> R: {rk: 46596, frq: 38}
+pest <> N: {rk: 6942, frq: 3186}
+pester <> V: {rk: 18084, frq: 540}
+pesticide <> N: {rk: 5282, frq: 5099}
+pestilence <> N: {rk: 25791, frq: 242}
+pestilential <> J: {rk: 49549, frq: 46}
+pestle <> N: {rk: 28242, frq: 201}, V: {rk: 47360, frq: 42}
+pet <> N: {rk: 3299, frq: 10179}, V: {rk: 13201, frq: 1056}, J: {rk: 22672, frq: 342}
+petal <> N: {rk: 8977, frq: 2060}
+petard <> N: {rk: 41659, frq: 59}
+petiole <> N: {rk: 47413, frq: 47}
+petite <> J: {rk: 11971, frq: 1317}, N: {rk: 48483, frq: 37}
+petition <> N: {rk: 6038, frq: 3909}, V: {rk: 11664, frq: 1232}
+petitioner <> N: {rk: 18069, frq: 584}
+petitioning <> J: {rk: 59068, frq: 23}
+petrel <> N: {rk: 41042, frq: 91}
+petri <> N: {rk: 22690, frq: 459}
+petrified <> J: {rk: 15599, frq: 717}
+petrify <> V: {rk: 46121, frq: 42}
+petrochemical <> J: {rk: 20978, frq: 378}
+petroglyph <> N: {rk: 24254, frq: 289}
+petrol <> N: {rk: 23574, frq: 293}
+petrolatum <> N: {rk: 57159, frq: 26}
+petroleum <> N: {rk: 8245, frq: 3500}
+petrous <> J: {rk: 50659, frq: 44}
+petticoat <> N: {rk: 21211, frq: 394}
+pettiness <> N: {rk: 30287, frq: 152}
+petting <> J: {rk: 30680, frq: 160}, N: {rk: 45022, frq: 58}
+petty <> J: {rk: 6524, frq: 3441}
+petulance <> N: {rk: 36325, frq: 94}
+petulant <> J: {rk: 23967, frq: 281}
+petulantly <> R: {rk: 39342, frq: 71}
+petunia <> N: {rk: 21274, frq: 417}
+pew <> N: {rk: 10755, frq: 2309}
+pewter <> N: {rk: 20111, frq: 435}
+peyote <> N: {rk: 28229, frq: 221}
+phaeton <> N: {rk: 53473, frq: 72}
+phage <> N: {rk: 29799, frq: 292}
+phalanx <> N: {rk: 19540, frq: 486}
+phalarope <> N: {rk: 59054, frq: 19}
+phallic <> J: {rk: 22675, frq: 330}
+phallocentric <> J: {rk: 49402, frq: 38}
+phallus <> N: {rk: 28409, frq: 216}
+phantasm <> N: {rk: 34321, frq: 118}
+phantasmagoria <> N: {rk: 43887, frq: 60}
+phantasmagoric <> J: {rk: 41182, frq: 57}
+phantasmagorical <> J: {rk: 55189, frq: 22}
+phantasy <> N: {rk: 55035, frq: 32}
+phantom <> J: {rk: 15970, frq: 1058}, N: {rk: 18549, frq: 1105}
+pharaonic <> J: {rk: 36267, frq: 86}
+pharisee <> N: {rk: 31116, frq: 161}
+pharma <> N: {rk: 41778, frq: 160}
+pharmaceutical <> J: {rk: 6352, frq: 3662}, N: {rk: 13644, frq: 1305}
+pharmacist <> N: {rk: 10594, frq: 1590}
+pharmacognosy <> N: {rk: 54999, frq: 26}
+pharmacokinetic <> J: {rk: 55249, frq: 30}
+pharmacokinetics <> N: {rk: 51523, frq: 33}
+pharmacologic <> J: {rk: 41036, frq: 67}
+pharmacological <> J: {rk: 25915, frq: 256}
+pharmacologist <> N: {rk: 36425, frq: 91}
+pharmacology <> N: {rk: 24936, frq: 343}
+pharmacopoeia <> N: {rk: 51356, frq: 43}
+pharmacotherapy <> N: {rk: 50732, frq: 38}
+pharmacy <> N: {rk: 8160, frq: 2623}
+pharyngeal <> J: {rk: 31653, frq: 172}
+pharynx <> N: {rk: 37252, frq: 100}
+phase <> N: {rk: 2258, frq: 17158}, V: {rk: 11721, frq: 1251}
+phased <> J: {rk: 26734, frq: 237}
+phaser <> N: {rk: 33687, frq: 186}
+phasing <> N: {rk: 59223, frq: 19}
+pheasant <> N: {rk: 14247, frq: 971}
+phenobarbital <> N: {rk: 46848, frq: 42}
+phenol <> N: {rk: 31352, frq: 166}
+phenolic <> J: {rk: 38916, frq: 76}, N: {rk: 58580, frq: 23}
+phenology <> N: {rk: 51299, frq: 36}
+phenom <> N: {rk: 23559, frq: 328}
+phenomenal <> J: {rk: 9249, frq: 1883}
+phenomenally <> R: {rk: 25644, frq: 236}
+phenomenological <> J: {rk: 20440, frq: 489}
+phenomenologist <> N: {rk: 44690, frq: 48}
+phenomenology <> N: {rk: 25825, frq: 281}
+phenomenon <> N: {rk: 2482, frq: 14969}
+phenotype <> N: {rk: 25636, frq: 342}
+phenotypic <> J: {rk: 29216, frq: 285}
+phenylalanine <> N: {rk: 47997, frq: 41}
+phenylketonuria <> N: {rk: 54703, frq: 38}
+phenylpropanolamine <> N: {rk: 58675, frq: 24}
+pheromone <> N: {rk: 22577, frq: 338}
+phew <> U: {rk: 32034, frq: 138}
+phial <> N: {rk: 51181, frq: 34}
+philander <> V: {rk: 37936, frq: 80}
+philanderer <> N: {rk: 35349, frq: 95}
+philandering <> J: {rk: 38466, frq: 82}
+philanthropic <> J: {rk: 15868, frq: 721}
+philanthropist <> N: {rk: 14946, frq: 846}
+philanthropy <> N: {rk: 13996, frq: 1057}
+philharmonic <> J: {rk: 13802, frq: 963}
+philistine <> N: {rk: 23994, frq: 304}
+philistinism <> N: {rk: 45757, frq: 44}
+philodendron <> N: {rk: 39656, frq: 70}
+philological <> J: {rk: 37097, frq: 102}
+philologist <> N: {rk: 36495, frq: 100}
+philology <> N: {rk: 28868, frq: 269}
+philosophe <> N: {rk: 42405, frq: 74}
+philosopher <> N: {rk: 5195, frq: 5180}
+philosophic <> J: {rk: 20406, frq: 436}
+philosophical <> J: {rk: 4705, frq: 6058}
+philosophically <> R: {rk: 15629, frq: 709}
+philosophize <> V: {rk: 30029, frq: 154}
+philosophizing <> N: {rk: 46066, frq: 41}
+philosophy <> N: {rk: 2266, frq: 16659}
+phishing <> J: {rk: 57201, frq: 33}
+phlebitis <> N: {rk: 49968, frq: 34}
+phlebotomy <> N: {rk: 57450, frq: 24}
+phlegm <> N: {rk: 28408, frq: 189}
+phlegmatic <> J: {rk: 37946, frq: 81}
+phlegmy <> J: {rk: 53371, frq: 32}
+phlogiston <> N: {rk: 56336, frq: 25}
+phlox <> N: {rk: 26391, frq: 238}
+phobia <> N: {rk: 16089, frq: 728}
+phobic <> J: {rk: 31238, frq: 170}
+phone <> N: {rk: 557, frq: 78367}, V: {rk: 6515, frq: 3444}
+phone-in <> N: {rk: 44841, frq: 43}
+phonebook <> N: {rk: 47677, frq: 39}
+phoneme <> N: {rk: 24087, frq: 364}
+phonemic <> J: {rk: 32859, frq: 163}
+phonetic <> J: {rk: 25909, frq: 242}
+phonetically <> R: {rk: 33877, frq: 109}
+phonetics <> N: {rk: 47154, frq: 41}
+phoney <> J: {rk: 41643, frq: 56}
+phonic <> J: {rk: 52776, frq: 29}
+phonics <> N: {rk: 20539, frq: 438}
+phoniness <> N: {rk: 41033, frq: 68}
+phonograph <> N: {rk: 22053, frq: 350}
+phonographic <> J: {rk: 56484, frq: 23}
+phonological <> J: {rk: 20014, frq: 627}
+phonology <> N: {rk: 48551, frq: 52}
+phonon <> N: {rk: 41973, frq: 80}
+phony <> J: {rk: 8750, frq: 2074}, N: {rk: 33858, frq: 121}
+phorid <> J: {rk: 59020, frq: 30}
+phosphatase <> N: {rk: 47127, frq: 56}
+phosphate <> N: {rk: 17489, frq: 819}
+phosphide <> N: {rk: 57348, frq: 25}
+phospholipid <> N: {rk: 46772, frq: 55}
+phosphor <> N: {rk: 31989, frq: 145}
+phosphorescence <> N: {rk: 42548, frq: 54}
+phosphorescent <> J: {rk: 30471, frq: 158}
+phosphoric <> J: {rk: 40439, frq: 79}
+phosphorous <> J: {rk: 26901, frq: 224}
+phosphorus <> N: {rk: 14805, frq: 930}
+photocell <> N: {rk: 44483, frq: 52}
+photochemical <> J: {rk: 39328, frq: 85}
+photocopied <> J: {rk: 32589, frq: 119}
+photocopier <> N: {rk: 32678, frq: 124}
+photocopy <> N: {rk: 19352, frq: 510}, V: {rk: 25775, frq: 227}
+photocopying <> J: {rk: 48275, frq: 38}, N: {rk: 51812, frq: 30}
+photodetector <> N: {rk: 43762, frq: 55}
+photodiode <> N: {rk: 55893, frq: 25}
+photoelectric <> J: {rk: 36085, frq: 95}
+photogenic <> J: {rk: 23702, frq: 280}
+photographer <> N: {rk: 3117, frq: 10708}
+photographic <> J: {rk: 6331, frq: 3845}
+photographically <> R: {rk: 33462, frq: 108}
+photography <> N: {rk: 4017, frq: 7820}
+photojournalist <> N: {rk: 24520, frq: 306}
+photolithography <> N: {rk: 52331, frq: 34}
+photometer <> N: {rk: 43017, frq: 67}
+photometric <> J: {rk: 39706, frq: 70}
+photometry <> N: {rk: 38306, frq: 83}
+photomicrograph <> N: {rk: 43597, frq: 56}
+photomontage <> N: {rk: 42353, frq: 77}
+photomultiplier <> J: {rk: 48642, frq: 37}
+photon <> N: {rk: 10177, frq: 1724}
+photonic <> J: {rk: 31095, frq: 181}
+photonics <> N: {rk: 40306, frq: 97}
+photoreceptor <> N: {rk: 37303, frq: 102}
+photosensitive <> J: {rk: 45223, frq: 51}
+photosphere <> N: {rk: 32940, frq: 135}
+photostat <> N: {rk: 54997, frq: 26}
+photosynthesis <> N: {rk: 18635, frq: 568}
+photosynthesize <> V: {rk: 54010, frq: 32}
+photosynthetic <> J: {rk: 25533, frq: 314}
+photovoltaic <> J: {rk: 18927, frq: 550}
+phrase <> N: {rk: 2605, frq: 13544}, V: {rk: 14453, frq: 834}
+phrasebook <> N: {rk: 59266, frq: 21}
+phraseology <> N: {rk: 33384, frq: 112}
+phrasing <> N: {rk: 16025, frq: 686}
+phrenological <> J: {rk: 59937, frq: 23}
+phrenologist <> N: {rk: 53218, frq: 34}
+phrenology <> N: {rk: 42310, frq: 81}
+phthalate <> N: {rk: 34490, frq: 167}
+phylactery <> N: {rk: 55244, frq: 34}
+phyllo <> N: {rk: 25595, frq: 308}
+phylloxera <> N: {rk: 49795, frq: 47}
+phylogenetically <> R: {rk: 59070, frq: 38}
+phylogeny <> N: {rk: 35811, frq: 144}
+phylum <> N: {rk: 41534, frq: 67}
+physiatrist <> N: {rk: 49048, frq: 36}
+physic <> N: {rk: 41278, frq: 70}
+physical <> J: {rk: 802, frq: 56459}, N: {rk: 30456, frq: 152}
+physicality <> N: {rk: 21734, frq: 364}
+physically <> R: {rk: 3264, frq: 9812}
+physician <> N: {rk: 2052, frq: 19115}
+physicist <> N: {rk: 5633, frq: 4424}
+physics <> N: {rk: 3440, frq: 9639}
+physiognomic <> J: {rk: 44657, frq: 61}
+physiognomy <> N: {rk: 29040, frq: 186}
+physiographic <> J: {rk: 59052, frq: 22}
+physiologic <> J: {rk: 25361, frq: 261}
+physiological <> J: {rk: 8204, frq: 2534}
+physiologically <> R: {rk: 24214, frq: 273}
+physiologist <> N: {rk: 17849, frq: 571}
+physiology <> N: {rk: 11094, frq: 1454}
+physiotherapist <> N: {rk: 40584, frq: 77}
+physiotherapy <> N: {rk: 41823, frq: 69}
+physique <> N: {rk: 14318, frq: 886}
+physis <> N: {rk: 49697, frq: 66}
+phytochemical <> N: {rk: 29157, frq: 184}, J: {rk: 42941, frq: 54}
+phytoestrogen <> N: {rk: 33951, frq: 140}
+phytolith <> N: {rk: 51822, frq: 50}
+phytonutrient <> N: {rk: 44686, frq: 59}
+phytoplankton <> N: {rk: 23284, frq: 354}
+pianissimo <> N: {rk: 47085, frq: 41}
+pianist <> N: {rk: 8404, frq: 2316}
+piano <> N: {rk: 3320, frq: 9626}
+pianoforte <> N: {rk: 50703, frq: 34}
+pic <> N: {rk: 23692, frq: 348}
+pica <> N: {rk: 42020, frq: 116}
+picaresque <> J: {rk: 35860, frq: 94}
+piccolo <> N: {rk: 37689, frq: 152}
+pice <> N: {rk: 51225, frq: 39}
+pick <> V: {rk: 517, frq: 83487}, N: {rk: 5177, frq: 6382}
+pick-me-up <> N: {rk: 34683, frq: 130}
+pick-your-own <> J: {rk: 49196, frq: 39}
+pickaninny <> N: {rk: 58794, frq: 20}
+pickax <> N: {rk: 36645, frq: 107}
+pickaxe <> N: {rk: 37221, frq: 93}
+picked <> J: {rk: 34300, frq: 110}
+picker <> N: {rk: 15938, frq: 769}
+pickerel <> N: {rk: 40984, frq: 86}
+picket <> N: {rk: 11045, frq: 1366}, V: {rk: 31647, frq: 128}
+picketer <> N: {rk: 38227, frq: 79}
+picketing <> N: {rk: 43431, frq: 50}
+picking <> N: {rk: 19949, frq: 448}
+pickle <> N: {rk: 10281, frq: 1668}, V: {rk: 20283, frq: 437}
+pickled <> J: {rk: 18372, frq: 572}
+pickling <> J: {rk: 46478, frq: 49}
+pickoff <> N: {rk: 48203, frq: 44}
+pickpocket <> N: {rk: 25163, frq: 254}
+pickup <> N: {rk: 3832, frq: 7948}
+picky <> J: {rk: 17213, frq: 621}
+picnic <> N: {rk: 5686, frq: 4362}, V: {rk: 27537, frq: 202}
+picnicker <> N: {rk: 41221, frq: 58}
+picosecond <> N: {rk: 52437, frq: 30}
+pictogram <> N: {rk: 46167, frq: 42}
+pictograph <> N: {rk: 31493, frq: 143}
+pictographic <> J: {rk: 48284, frq: 37}
+pictorial <> J: {rk: 11069, frq: 1488}, N: {rk: 27238, frq: 210}
+pictorially <> R: {rk: 42181, frq: 54}
+picture <> N: {rk: 562, frq: 74387}, V: {rk: 3932, frq: 7781}
+picture-perfect <> J: {rk: 24690, frq: 266}
+picture-postcard <> J: {rk: 43520, frq: 50}
+pictured <> J: {rk: 24622, frq: 314}
+picturesque <> J: {rk: 11675, frq: 1257}
+picturesquely <> R: {rk: 53915, frq: 25}
+piddle <> V: {rk: 47247, frq: 37}
+piddling <> J: {rk: 36519, frq: 85}
+pidgin <> N: {rk: 32181, frq: 158}
+pie <> N: {rk: 3345, frq: 10130}
+piebald <> J: {rk: 49868, frq: 33}
+piece <> N: {rk: 565, frq: 75273}, V: {rk: 13400, frq: 955}
+piecemeal <> J: {rk: 20822, frq: 396}, R: {rk: 25349, frq: 248}
+piecework <> N: {rk: 36445, frq: 94}
+pied <> J: {rk: 24037, frq: 272}
+pied-a-terre <> N: {rk: 49478, frq: 32}
+pier <> N: {rk: 7980, frq: 3767}
+pierce <> V: {rk: 6939, frq: 3157}
+pierced <> J: {rk: 22230, frq: 347}
+piercing <> J: {rk: 13139, frq: 1038}, N: {rk: 28473, frq: 189}
+piercingly <> R: {rk: 40020, frq: 67}
+pietism <> N: {rk: 47333, frq: 44}
+pietistic <> J: {rk: 59080, frq: 25}
+piety <> N: {rk: 12217, frq: 1183}
+piezoelectric <> J: {rk: 33475, frq: 139}
+pig <> N: {rk: 3511, frq: 8930}, V: {rk: 36344, frq: 87}
+pig-headed <> J: {rk: 48124, frq: 36}
+pigeon <> N: {rk: 8131, frq: 2440}
+pigeon-toed <> J: {rk: 52756, frq: 28}
+pigeonhole <> N: {rk: 30674, frq: 144}
+piggish <> J: {rk: 52092, frq: 27}
+piggy <> N: {rk: 20550, frq: 530}
+piggyback <> N: {rk: 24355, frq: 268}, V: {rk: 35603, frq: 94}
+piglet <> N: {rk: 25083, frq: 257}
+pigment <> N: {rk: 9295, frq: 2004}
+pigmentation <> N: {rk: 31022, frq: 145}
+pigmented <> J: {rk: 33597, frq: 121}
+pigpen <> N: {rk: 41871, frq: 59}
+pigskin <> N: {rk: 33518, frq: 117}
+pigsty <> N: {rk: 40807, frq: 66}
+pigtail <> N: {rk: 25600, frq: 265}
+pigtailed <> J: {rk: 46448, frq: 44}
+pigweed <> N: {rk: 52844, frq: 27}
+pika <> N: {rk: 50265, frq: 50}
+piker <> N: {rk: 44804, frq: 51}
+pilaf <> N: {rk: 28065, frq: 239}
+pilaster <> N: {rk: 32571, frq: 126}
+pile <> N: {rk: 3022, frq: 11375}, V: {rk: 4613, frq: 6113}
+pileated <> J: {rk: 49752, frq: 36}
+pileup <> N: {rk: 27022, frq: 206}
+pilfer <> V: {rk: 27014, frq: 207}
+pilfered <> J: {rk: 48038, frq: 37}
+pilfering <> N: {rk: 53043, frq: 28}
+pilgrim <> N: {rk: 9225, frq: 3526}
+pilgrimage <> N: {rk: 8426, frq: 2263}
+pilings <> N: {rk: 19783, frq: 444}
+pill <> N: {rk: 3448, frq: 9481}
+pillage <> V: {rk: 22460, frq: 326}, N: {rk: 36303, frq: 91}
+pillaging <> N: {rk: 44970, frq: 48}
+pillar <> N: {rk: 6615, frq: 3360}
+pillared <> J: {rk: 49860, frq: 34}
+pillbox <> N: {rk: 28658, frq: 188}
+pillory <> V: {rk: 29596, frq: 164}, N: {rk: 43155, frq: 55}
+pillow <> N: {rk: 4048, frq: 7775}, V: {rk: 41899, frq: 59}
+pillowcase <> N: {rk: 18943, frq: 519}
+pillowy <> J: {rk: 40886, frq: 68}
+pilot <> N: {rk: 1782, frq: 21858}, V: {rk: 11102, frq: 1401}
+pilothouse <> N: {rk: 29463, frq: 233}
+piloting <> N: {rk: 51236, frq: 33}
+pilotless <> J: {rk: 43577, frq: 52}
+pimento <> N: {rk: 38130, frq: 87}
+pimiento <> N: {rk: 34268, frq: 134}
+pimp <> N: {rk: 13063, frq: 1137}, V: {rk: 26416, frq: 224}
+pimple <> N: {rk: 19006, frq: 510}
+pimpled <> J: {rk: 50596, frq: 31}
+pimply <> J: {rk: 40622, frq: 63}, R: {rk: 47911, frq: 37}
+pin <> N: {rk: 4386, frq: 6494}, V: {rk: 5306, frq: 5036}
+pin-up <> N: {rk: 26057, frq: 226}
+pinafore <> N: {rk: 33376, frq: 118}
+pinata <> N: {rk: 31765, frq: 185}
+pinball <> N: {rk: 21092, frq: 409}
+pince-nez <> N: {rk: 40365, frq: 69}
+pincer <> N: {rk: 32328, frq: 128}
+pincers <> N: {rk: 37683, frq: 81}
+pinch <> V: {rk: 7878, frq: 2629}, N: {rk: 8088, frq: 2542}
+pinch-hit <> J: {rk: 40846, frq: 74}, V: {rk: 48701, frq: 34}
+pinche <> N: {rk: 58964, frq: 20}
+pinched <> J: {rk: 19795, frq: 458}
+pinching <> N: {rk: 46455, frq: 39}
+pincushion <> N: {rk: 35753, frq: 101}
+pine <> N: {rk: 3178, frq: 11103}, V: {rk: 17055, frq: 631}
+pineal <> J: {rk: 39027, frq: 80}
+pineapple <> N: {rk: 9278, frq: 2026}
+pinecone <> N: {rk: 31554, frq: 171}
+pinewood <> N: {rk: 40600, frq: 119}
+ping <> N: {rk: 20871, frq: 940}, V: {rk: 25742, frq: 328}
+ping-pong <> J: {rk: 31853, frq: 140}
+pinging <> J: {rk: 55454, frq: 28}, N: {rk: 56074, frq: 28}
+pinhole <> N: {rk: 28322, frq: 205}
+pinion <> N: {rk: 36020, frq: 107}, V: {rk: 44554, frq: 48}
+pink <> J: {rk: 2504, frq: 15214}, N: {rk: 11321, frq: 1549}
+pinkie <> N: {rk: 25236, frq: 353}
+pinking <> N: {rk: 48475, frq: 35}
+pinkish <> J: {rk: 22814, frq: 322}
+pinkness <> N: {rk: 53730, frq: 26}
+pinko <> N: {rk: 50201, frq: 34}
+pinna <> N: {rk: 58122, frq: 25}
+pinnace <> N: {rk: 59642, frq: 28}
+pinnacle <> N: {rk: 12955, frq: 1217}
+pinned <> J: {rk: 44182, frq: 50}
+pinniped <> N: {rk: 52777, frq: 50}
+pinochle <> N: {rk: 39573, frq: 73}
+pinole <> N: {rk: 54069, frq: 63}
+pinon <> N: {rk: 32489, frq: 162}
+pinpoint <> V: {rk: 8300, frq: 2255}, J: {rk: 23697, frq: 295}, N: {rk: 34558, frq: 104}
+pinprick <> N: {rk: 27231, frq: 224}
+pinscher <> N: {rk: 45060, frq: 44}
+pinstripe <> N: {rk: 23002, frq: 318}
+pint-size <> J: {rk: 34222, frq: 114}
+pint-sized <> J: {rk: 31409, frq: 146}
+pintail <> N: {rk: 35122, frq: 116}
+pinwheel <> N: {rk: 28068, frq: 215}
+pinyon <> N: {rk: 47856, frq: 47}
+pion <> N: {rk: 35689, frq: 124}
+pioneer <> N: {rk: 4513, frq: 6193}, V: {rk: 9281, frq: 1884}
+pioneering <> J: {rk: 9947, frq: 1674}
+pious <> J: {rk: 13176, frq: 1006}
+piously <> R: {rk: 33787, frq: 108}
+pipe <> N: {rk: 2999, frq: 11405}, V: {rk: 12176, frq: 1167}
+piped <> J: {rk: 39112, frq: 87}
+pipefish <> N: {rk: 57947, frq: 24}
+pipeline <> N: {rk: 5235, frq: 5386}
+pipette <> N: {rk: 39457, frq: 65}
+piping <> N: {rk: 14161, frq: 919}, J: {rk: 36831, frq: 84}
+pipsqueak <> N: {rk: 39284, frq: 72}
+piquancy <> N: {rk: 52255, frq: 27}
+piquant <> J: {rk: 29859, frq: 165}
+pique <> V: {rk: 17499, frq: 574}, N: {rk: 27044, frq: 210}
+piqued <> J: {rk: 45870, frq: 43}
+piracy <> N: {rk: 14087, frq: 1097}
+piranha <> N: {rk: 29019, frq: 238}
+pirate <> N: {rk: 7323, frq: 5187}, V: {rk: 30265, frq: 165}
+pirated <> J: {rk: 32031, frq: 144}
+piratical <> J: {rk: 46955, frq: 53}
+piriform <> J: {rk: 55700, frq: 43}
+pirogue <> N: {rk: 35632, frq: 103}
+pirouette <> N: {rk: 28852, frq: 181}
+piss <> V: {rk: 8759, frq: 2296}, N: {rk: 18661, frq: 562}
+piss-poor <> J: {rk: 53016, frq: 28}
+pissant <> J: {rk: 48215, frq: 37}
+pissed <> J: {rk: 15796, frq: 793}
+pisser <> N: {rk: 55050, frq: 28}
+pissing <> J: {rk: 47005, frq: 40}
+pistachio <> N: {rk: 18590, frq: 612}
+piste <> N: {rk: 46143, frq: 50}
+pistil <> N: {rk: 41987, frq: 66}
+pistol <> N: {rk: 4991, frq: 5654}
+pit <> N: {rk: 3887, frq: 7768}, V: {rk: 8394, frq: 2225}
+pita <> N: {rk: 17689, frq: 736}
+pitbull <> N: {rk: 51738, frq: 44}
+pitch <> N: {rk: 3177, frq: 10474}, V: {rk: 3505, frq: 9642}
+pitch-black <> J: {rk: 28075, frq: 199}
+pitch-dark <> J: {rk: 41954, frq: 53}
+pitched <> J: {rk: 22986, frq: 299}
+pitcher <> N: {rk: 3501, frq: 9848}
+pitchfork <> N: {rk: 23752, frq: 325}
+pitching <> N: {rk: 10289, frq: 1709}
+pitchman <> N: {rk: 29367, frq: 170}
+piteous <> J: {rk: 39524, frq: 70}
+piteously <> R: {rk: 42905, frq: 53}
+pitfall <> N: {rk: 11304, frq: 1344}
+pith <> N: {rk: 25494, frq: 257}
+pithy <> J: {rk: 23108, frq: 302}
+pitiable <> J: {rk: 31972, frq: 132}
+pitiful <> J: {rk: 13211, frq: 1031}
+pitifully <> R: {rk: 27104, frq: 206}
+pitiless <> J: {rk: 26918, frq: 217}
+pitilessly <> R: {rk: 49393, frq: 31}
+piton <> N: {rk: 34373, frq: 130}
+pittance <> N: {rk: 24088, frq: 269}
+pitted <> J: {rk: 26546, frq: 236}
+pitter-patter <> N: {rk: 45641, frq: 44}
+pitting <> N: {rk: 37463, frq: 81}
+pituitary <> J: {rk: 29709, frq: 185}, N: {rk: 43304, frq: 51}
+pity <> N: {rk: 7032, frq: 3122}, V: {rk: 13325, frq: 997}
+pitying <> J: {rk: 46816, frq: 47}
+pityingly <> R: {rk: 50170, frq: 35}
+pivot <> N: {rk: 15969, frq: 740}, V: {rk: 19718, frq: 483}
+pivotal <> J: {rk: 8304, frq: 2384}
+pivoting <> J: {rk: 29946, frq: 165}
+pix <> N: {rk: 41308, frq: 105}
+pixel <> N: {rk: 10608, frq: 1630}
+pixelated <> J: {rk: 57084, frq: 24}
+pixie <> N: {rk: 25453, frq: 275}
+pixilated <> J: {rk: 58099, frq: 23}
+pixy <> N: {rk: 32806, frq: 165}
+pizazz <> N: {rk: 43947, frq: 54}
+pizza <> N: {rk: 3948, frq: 7993}
+pizzazz <> N: {rk: 30217, frq: 167}
+pizzeria <> N: {rk: 27746, frq: 291}
+pizzicato <> N: {rk: 57491, frq: 20}
+placard <> N: {rk: 16088, frq: 688}
+placate <> V: {rk: 16747, frq: 618}
+placating <> J: {rk: 53348, frq: 28}
+placatingly <> R: {rk: 59131, frq: 21}
+place <> N: {rk: 181, frq: 219869}, V: {rk: 631, frq: 65763}
+placebo <> N: {rk: 9605, frq: 1987}
+placeholder <> N: {rk: 47051, frq: 51}
+placekicker <> N: {rk: 39743, frq: 79}
+placeless <> J: {rk: 56827, frq: 23}
+placemat <> N: {rk: 33070, frq: 127}
+placement <> N: {rk: 4433, frq: 6697}
+placenta <> N: {rk: 21163, frq: 436}
+placental <> J: {rk: 33633, frq: 114}
+placer <> N: {rk: 31794, frq: 214}
+placid <> J: {rk: 12927, frq: 1061}
+placidity <> N: {rk: 47379, frq: 38}
+placidly <> R: {rk: 29321, frq: 178}
+placing <> N: {rk: 22441, frq: 329}
+plage <> N: {rk: 59608, frq: 42}
+plagiarism <> N: {rk: 19316, frq: 502}
+plagiarist <> N: {rk: 42396, frq: 96}
+plagiarize <> V: {rk: 27142, frq: 201}
+plague <> V: {rk: 6733, frq: 3157}, N: {rk: 7312, frq: 2942}
+plaice <> N: {rk: 59150, frq: 20}
+plaid <> N: {rk: 10627, frq: 1577}
+plain <> J: {rk: 3575, frq: 8710}, N: {rk: 4731, frq: 8766}, R: {rk: 18562, frq: 507}
+plain-spoken <> J: {rk: 32297, frq: 124}
+plainchant <> N: {rk: 59979, frq: 22}
+plainclothes <> J: {rk: 24468, frq: 219}
+plainclothesman <> N: {rk: 46494, frq: 52}
+plainer <> J: {rk: 37924, frq: 75}
+plainly <> R: {rk: 9799, frq: 1702}
+plainness <> N: {rk: 40431, frq: 63}
+plaint <> N: {rk: 38947, frq: 68}
+plaintiff <> N: {rk: 4987, frq: 5714}
+plaintive <> J: {rk: 20114, frq: 439}
+plaintively <> R: {rk: 29153, frq: 181}
+plait <> N: {rk: 29702, frq: 171}, V: {rk: 32683, frq: 126}
+plaited <> J: {rk: 43460, frq: 49}
+plan <> N: {rk: 413, frq: 104472}, V: {rk: 691, frq: 60773}
+planar <> J: {rk: 29371, frq: 206}
+plane <> N: {rk: 1151, frq: 36214}, V: {rk: 27878, frq: 196}, J: {rk: 54122, frq: 26}
+planeload <> N: {rk: 34761, frq: 99}
+planer <> N: {rk: 39765, frq: 91}
+planet <> N: {rk: 1597, frq: 25841}
+planetarium <> N: {rk: 18527, frq: 832}
+planetary <> J: {rk: 7048, frq: 3099}, N: {rk: 38726, frq: 84}
+planetesimal <> N: {rk: 34381, frq: 125}, J: {rk: 57208, frq: 23}
+planetoid <> N: {rk: 44253, frq: 78}
+plangent <> J: {rk: 48179, frq: 37}
+planing <> J: {rk: 54641, frq: 26}
+planisphere <> N: {rk: 49496, frq: 61}
+plank <> N: {rk: 8199, frq: 2628}
+planked <> J: {rk: 46893, frq: 38}
+planking <> N: {rk: 33744, frq: 111}
+plankton <> N: {rk: 20403, frq: 436}
+planktonic <> J: {rk: 35762, frq: 114}
+planned <> J: {rk: 5696, frq: 4370}
+planner <> N: {rk: 4541, frq: 6100}
+planning <> N: {rk: 2182, frq: 17509}
+plant <> N: {rk: 623, frq: 67679}, V: {rk: 2481, frq: 14515}
+plantain <> N: {rk: 19137, frq: 499}
+plantation <> N: {rk: 5807, frq: 4241}
+planted <> J: {rk: 20746, frq: 403}
+planter <> N: {rk: 11959, frq: 1247}
+planting <> N: {rk: 7570, frq: 2749}
+plantlet <> N: {rk: 46114, frq: 45}
+plantsman <> N: {rk: 49980, frq: 34}
+plaque <> N: {rk: 7117, frq: 2969}
+plasm <> N: {rk: 46338, frq: 61}
+plasma <> N: {rk: 8412, frq: 2462}
+plasmacytoma <> N: {rk: 50545, frq: 79}
+plasmapheresis <> N: {rk: 59992, frq: 23}
+plasmid <> N: {rk: 35889, frq: 122}
+plasminogen <> N: {rk: 55710, frq: 26}
+plasmodium <> N: {rk: 50553, frq: 68}
+plaster <> N: {rk: 8392, frq: 2304}, V: {rk: 12066, frq: 1204}
+plasterboard <> N: {rk: 52139, frq: 26}
+plastered <> J: {rk: 35313, frq: 96}
+plasterer <> N: {rk: 43341, frq: 50}
+plasterwork <> N: {rk: 55916, frq: 23}
+plastic <> N: {rk: 1528, frq: 26626}
+plasticity <> N: {rk: 23858, frq: 326}
+plasticized <> J: {rk: 49342, frq: 46}
+plasticizer <> N: {rk: 48837, frq: 41}
+plastique <> N: {rk: 51019, frq: 36}
+plat <> N: {rk: 34947, frq: 161}
+plate <> N: {rk: 1530, frq: 26946}, V: {rk: 27023, frq: 212}
+plateau <> N: {rk: 8493, frq: 2219}
+plated <> J: {rk: 40281, frq: 91}
+plateful <> N: {rk: 36324, frq: 90}
+platelet <> N: {rk: 19002, frq: 573}
+platform <> N: {rk: 2823, frq: 12326}
+plating <> N: {rk: 24235, frq: 391}
+platinum <> N: {rk: 9962, frq: 1721}
+platitude <> N: {rk: 21438, frq: 373}
+platonic <> J: {rk: 18033, frq: 559}
+platoon <> N: {rk: 9598, frq: 1868}
+platter <> N: {rk: 7332, frq: 3006}
+platypus <> N: {rk: 43994, frq: 59}
+plaudit <> N: {rk: 32803, frq: 125}
+plausibility <> N: {rk: 22268, frq: 388}
+plausible <> J: {rk: 7237, frq: 2978}
+plausibly <> R: {rk: 22859, frq: 323}
+play <> V: {rk: 200, frq: 204041}, N: {rk: 940, frq: 45361}
+play-acting <> N: {rk: 42986, frq: 53}
+play-by-play <> J: {rk: 27822, frq: 194}, N: {rk: 28528, frq: 195}
+playable <> J: {rk: 32963, frq: 129}
+playact <> V: {rk: 50027, frq: 33}
+playback <> N: {rk: 19117, frq: 492}
+playbill <> N: {rk: 39688, frq: 84}
+playbook <> N: {rk: 20711, frq: 486}
+playdate <> N: {rk: 34017, frq: 148}
+played <> J: {rk: 23647, frq: 322}
+played-out <> J: {rk: 52890, frq: 26}
+player <> N: {rk: 513, frq: 88057}
+playful <> J: {rk: 8600, frq: 2200}
+playfully <> R: {rk: 14840, frq: 828}
+playfulness <> N: {rk: 21060, frq: 390}
+playgoer <> N: {rk: 46410, frq: 42}
+playground <> N: {rk: 5866, frq: 4064}
+playgroup <> N: {rk: 44069, frq: 55}
+playing <> J: {rk: 8449, frq: 2232}, N: {rk: 17561, frq: 547}
+playlist <> N: {rk: 25855, frq: 288}
+playmaker <> N: {rk: 26004, frq: 284}
+playmaking <> J: {rk: 49782, frq: 36}
+playmate <> N: {rk: 15072, frq: 757}
+playoff <> N: {rk: 3658, frq: 9615}
+playpen <> N: {rk: 26148, frq: 229}
+playroom <> N: {rk: 21890, frq: 371}
+plaything <> N: {rk: 22591, frq: 333}
+playtime <> N: {rk: 28320, frq: 203}
+playwright <> N: {rk: 7738, frq: 2659}
+plea <> N: {rk: 4942, frq: 5351}
+plea-bargain <> N: {rk: 51441, frq: 29}
+plead <> V: {rk: 3549, frq: 8886}
+pleader <> N: {rk: 53755, frq: 28}
+pleading <> N: {rk: 21218, frq: 448}, J: {rk: 28413, frq: 243}
+pleadingly <> R: {rk: 39852, frq: 70}
+pleasant <> J: {rk: 3801, frq: 7952}
+pleasantly <> R: {rk: 10705, frq: 1510}
+pleasantness <> N: {rk: 39953, frq: 74}
+pleasantry <> N: {rk: 24128, frq: 291}
+please <> R: {rk: 1168, frq: 37129}, V: {rk: 4120, frq: 7059}
+pleased <> J: {rk: 3471, frq: 9072}
+pleaser <> N: {rk: 29462, frq: 196}
+pleasing <> J: {rk: 9697, frq: 1743}
+pleasingly <> R: {rk: 36564, frq: 90}
+pleasurable <> J: {rk: 14911, frq: 785}
+pleasurably <> R: {rk: 44644, frq: 46}
+pleasure <> N: {rk: 1892, frq: 20598}, V: {rk: 31679, frq: 137}
+pleat <> N: {rk: 22795, frq: 324}, V: {rk: 46299, frq: 44}
+pleated <> J: {rk: 19056, frq: 499}
+pleating <> N: {rk: 56509, frq: 22}
+pleb <> N: {rk: 55971, frq: 22}
+plebe <> N: {rk: 33033, frq: 136}
+plebeian <> J: {rk: 38005, frq: 78}, N: {rk: 48846, frq: 45}
+plebiscite <> N: {rk: 25260, frq: 283}
+pledge <> V: {rk: 5253, frq: 5024}, N: {rk: 5917, frq: 4077}
+pledged <> J: {rk: 47469, frq: 66}
+pledging <> N: {rk: 55289, frq: 26}
+plein-air <> J: {rk: 53493, frq: 30}
+plena <> N: {rk: 56765, frq: 49}
+plenary <> J: {rk: 22219, frq: 382}, N: {rk: 57013, frq: 26}
+plenipotentiary <> J: {rk: 46855, frq: 40}
+plenitude <> N: {rk: 29612, frq: 173}
+plentiful <> J: {rk: 9801, frq: 1695}
+plentifully <> R: {rk: 51619, frq: 29}
+plenty <> P: {rk: 2055, frq: 19129}, N: {rk: 14889, frq: 778}, R: {rk: 16908, frq: 639}
+plenum <> N: {rk: 33163, frq: 174}
+pleomorphic <> J: {rk: 43542, frq: 102}
+pleomorphism <> N: {rk: 57982, frq: 24}
+plesiosaur <> N: {rk: 49454, frq: 41}
+plethora <> N: {rk: 14014, frq: 896}
+pleura <> N: {rk: 59863, frq: 24}
+pleural <> J: {rk: 49056, frq: 72}
+pleurisy <> N: {rk: 54223, frq: 26}
+plexiglass <> N: {rk: 32169, frq: 131}
+plexus <> N: {rk: 30360, frq: 157}
+pliability <> N: {rk: 49288, frq: 34}
+pliable <> J: {rk: 22276, frq: 340}
+pliant <> J: {rk: 27608, frq: 196}
+pliers <> N: {rk: 18874, frq: 536}
+plight <> N: {rk: 7532, frq: 2669}
+plink <> V: {rk: 47399, frq: 40}, N: {rk: 50790, frq: 37}
+plinth <> N: {rk: 33888, frq: 134}
+plod <> V: {rk: 16653, frq: 646}
+plodder <> N: {rk: 45911, frq: 69}
+plodding <> J: {rk: 32539, frq: 121}
+plonk <> N: {rk: 50250, frq: 34}, V: {rk: 53271, frq: 28}
+plop <> V: {rk: 11880, frq: 1305}, N: {rk: 31929, frq: 147}
+plot <> N: {rk: 2986, frq: 11525}, V: {rk: 5850, frq: 4120}
+plotless <> J: {rk: 50841, frq: 30}
+plotline <> N: {rk: 36844, frq: 96}
+plotted <> J: {rk: 46266, frq: 40}
+plotter <> N: {rk: 19636, frq: 496}
+plotting <> N: {rk: 32734, frq: 123}, J: {rk: 49283, frq: 33}
+plough <> V: {rk: 31940, frq: 145}, N: {rk: 33142, frq: 121}
+ploughman <> N: {rk: 56594, frq: 20}
+plover <> N: {rk: 24654, frq: 331}
+plow <> V: {rk: 8185, frq: 2323}, N: {rk: 12787, frq: 1120}
+plowed <> J: {rk: 31167, frq: 147}
+plowing <> N: {rk: 40928, frq: 73}
+plowman <> N: {rk: 49507, frq: 59}
+plowshare <> N: {rk: 36552, frq: 89}
+ploy <> N: {rk: 11761, frq: 1206}
+pluck <> V: {rk: 6972, frq: 3215}, N: {rk: 38396, frq: 77}
+plucked <> J: {rk: 39451, frq: 74}
+plucking <> N: {rk: 49407, frq: 37}
+plucky <> J: {rk: 26252, frq: 231}
+plug <> V: {rk: 5651, frq: 4642}, N: {rk: 7301, frq: 2968}
+plug-in <> J: {rk: 20420, frq: 533}
+plugged <> J: {rk: 44066, frq: 53}
+plugged-in <> J: {rk: 43296, frq: 50}
+plugger <> N: {rk: 45969, frq: 44}
+plum <> N: {rk: 7800, frq: 2811}
+plumage <> N: {rk: 23281, frq: 334}
+plumb <> V: {rk: 20191, frq: 410}, J: {rk: 30405, frq: 151}, R: {rk: 33227, frq: 114}
+plumbago <> N: {rk: 56249, frq: 29}
+plumber <> N: {rk: 12327, frq: 1183}
+plumbing <> N: {rk: 9033, frq: 1959}
+plume <> N: {rk: 9669, frq: 1930}, V: {rk: 44299, frq: 48}
+plumed <> J: {rk: 33794, frq: 113}
+plummet <> V: {rk: 7815, frq: 2529}
+plummeting <> J: {rk: 26158, frq: 224}
+plummy <> J: {rk: 44960, frq: 49}
+plump <> J: {rk: 9563, frq: 1879}, V: {rk: 20951, frq: 416}, N: {rk: 52135, frq: 27}
+plumpness <> N: {rk: 43397, frq: 60}
+plunder <> V: {rk: 16632, frq: 630}, N: {rk: 24547, frq: 281}
+plundered <> J: {rk: 48326, frq: 38}
+plunderer <> N: {rk: 52246, frq: 28}
+plundering <> N: {rk: 41153, frq: 63}
+plunge <> V: {rk: 4654, frq: 5897}, N: {rk: 10959, frq: 1423}
+plunger <> N: {rk: 29302, frq: 163}
+plunging <> J: {rk: 31002, frq: 141}
+plunk <> V: {rk: 15502, frq: 733}, N: {rk: 45940, frq: 78}
+pluperfect <> N: {rk: 53654, frq: 25}
+plural <> J: {rk: 19760, frq: 459}, N: {rk: 20488, frq: 444}
+pluralism <> N: {rk: 9533, frq: 2066}
+pluralist <> J: {rk: 21677, frq: 388}, N: {rk: 38632, frq: 91}
+pluralistic <> J: {rk: 14213, frq: 947}
+plurality <> N: {rk: 13444, frq: 1050}
+pluralization <> N: {rk: 58922, frq: 21}
+plus <> I: {rk: 2077, frq: 20514}, C: {rk: 20091, frq: 451}
+plush <> J: {rk: 12322, frq: 1171}, N: {rk: 26186, frq: 245}
+plutocracy <> N: {rk: 47212, frq: 46}
+plutocrat <> N: {rk: 39267, frq: 74}
+plutonium <> N: {rk: 11179, frq: 1418}
+ply <> V: {rk: 13596, frq: 942}, N: {rk: 29198, frq: 185}
+plyometrics <> N: {rk: 54550, frq: 33}
+plywood <> N: {rk: 9118, frq: 2028}
+pm <> R: {rk: 825, frq: 65428}
+pneumatic <> J: {rk: 19263, frq: 484}
+pneumatically <> R: {rk: 50122, frq: 34}
+pneumatological <> J: {rk: 40113, frq: 98}
+pneumatology <> N: {rk: 39919, frq: 122}
+pneumococcal <> J: {rk: 37995, frq: 152}
+pneumocystis <> N: {rk: 42123, frq: 60}
+pneumonia <> N: {rk: 8797, frq: 2100}
+pneumonic <> J: {rk: 56257, frq: 26}
+pneumothorax <> N: {rk: 59299, frq: 39}
+poach <> V: {rk: 13228, frq: 1019}
+poached <> J: {rk: 23669, frq: 307}
+poacher <> N: {rk: 15785, frq: 733}
+poaching <> N: {rk: 33126, frq: 159}, J: {rk: 38574, frq: 78}
+pock <> V: {rk: 24393, frq: 274}, N: {rk: 44466, frq: 57}
+pocked <> J: {rk: 38775, frq: 78}
+pocket <> N: {rk: 1625, frq: 25524}, V: {rk: 14254, frq: 895}
+pocketbook <> N: {rk: 13010, frq: 1030}
+pocketful <> N: {rk: 37678, frq: 76}
+pocketknife <> N: {rk: 27795, frq: 207}
+pockmark <> V: {rk: 27824, frq: 204}, N: {rk: 41497, frq: 60}
+pockmarked <> J: {rk: 28815, frq: 180}
+poco <> R: {rk: 49178, frq: 36}
+pod <> N: {rk: 8536, frq: 2655}
+podcast <> N: {rk: 24171, frq: 483}
+podiatric <> J: {rk: 41520, frq: 62}
+podiatrist <> N: {rk: 27916, frq: 207}
+podiatry <> N: {rk: 58157, frq: 23}
+podium <> N: {rk: 8105, frq: 2373}
+poem <> N: {rk: 2510, frq: 14951}
+poet <> N: {rk: 2940, frq: 11863}
+poetess <> N: {rk: 44510, frq: 45}
+poetic <> J: {rk: 6800, frq: 3279}
+poetical <> J: {rk: 35416, frq: 95}
+poetically <> R: {rk: 30577, frq: 150}
+poetics <> N: {rk: 16824, frq: 806}
+poetry <> N: {rk: 2978, frq: 11773}
+pogrom <> N: {rk: 24194, frq: 292}
+poignance <> N: {rk: 51111, frq: 29}
+poignancy <> N: {rk: 23708, frq: 279}
+poignant <> J: {rk: 9882, frq: 1667}
+poignantly <> R: {rk: 23911, frq: 283}
+poinsettia <> N: {rk: 26790, frq: 248}
+point <> N: {rk: 211, frq: 194771}, V: {rk: 604, frq: 68001}
+point-and-click <> J: {rk: 42991, frq: 55}
+point-and-shoot <> J: {rk: 35035, frq: 117}
+point-blank <> R: {rk: 28056, frq: 192}, J: {rk: 28205, frq: 185}
+point-to-point <> N: {rk: 34771, frq: 98}
+pointed <> J: {rk: 9223, frq: 1924}
+pointedly <> R: {rk: 13036, frq: 1010}
+pointer <> N: {rk: 10915, frq: 1458}
+pointillism <> N: {rk: 48072, frq: 36}
+pointing <> J: {rk: 24970, frq: 253}, N: {rk: 50740, frq: 34}
+pointless <> J: {rk: 11755, frq: 1260}
+pointlessly <> R: {rk: 38232, frq: 77}
+pointlessness <> N: {rk: 47453, frq: 38}
+pointy <> J: {rk: 19653, frq: 475}
+pointy-headed <> J: {rk: 53896, frq: 27}
+poise <> V: {rk: 6327, frq: 3574}, N: {rk: 16471, frq: 654}
+poised <> J: {rk: 28885, frq: 173}
+poison <> N: {rk: 5605, frq: 4386}, V: {rk: 7472, frq: 2708}
+poisoned <> J: {rk: 19168, frq: 476}
+poisoner <> N: {rk: 53675, frq: 31}
+poisoning <> N: {rk: 9796, frq: 1756}
+poisonous <> J: {rk: 10307, frq: 1561}
+poke <> V: {rk: 4746, frq: 6075}, N: {rk: 20121, frq: 439}
+poker <> N: {rk: 8284, frq: 2458}
+poker-faced <> J: {rk: 41210, frq: 65}
+poking <> N: {rk: 53573, frq: 27}
+poky <> J: {rk: 41678, frq: 55}
+polar <> J: {rk: 6894, frq: 3124}
+polarity <> N: {rk: 19383, frq: 507}
+polarization <> N: {rk: 13084, frq: 1099}
+polarize <> V: {rk: 12494, frq: 1128}
+polarized <> J: {rk: 19881, frq: 453}
+polarizer <> N: {rk: 38230, frq: 90}
+polarizing <> J: {rk: 23501, frq: 307}
+polecat <> N: {rk: 47304, frq: 49}
+polemic <> N: {rk: 18442, frq: 532}
+polemical <> J: {rk: 22703, frq: 349}
+polemicist <> N: {rk: 36048, frq: 92}
+police <> N: {rk: 468, frq: 94176}, V: {rk: 10259, frq: 1579}
+policeman <> N: {rk: 4799, frq: 5653}
+policewoman <> N: {rk: 28737, frq: 190}
+policing <> N: {rk: 13434, frq: 1007}
+policy <> N: {rk: 388, frq: 116824}
+policyholder <> N: {rk: 21395, frq: 393}
+policymaker <> N: {rk: 6657, frq: 3616}
+polio <> N: {rk: 12561, frq: 1141}
+poliomyelitis <> N: {rk: 55919, frq: 24}
+poliovirus <> N: {rk: 56580, frq: 28}
+polis <> N: {rk: 33615, frq: 187}
+polished <> J: {rk: 7684, frq: 2698}
+polisher <> N: {rk: 41266, frq: 66}
+polishing <> N: {rk: 20371, frq: 411}
+politburo <> N: {rk: 22398, frq: 352}
+polite <> J: {rk: 5555, frq: 4617}
+politely <> R: {rk: 7850, frq: 2623}
+politeness <> N: {rk: 17504, frq: 582}
+politesse <> N: {rk: 45524, frq: 42}
+politic <> J: {rk: 30723, frq: 147}
+political <> J: {rk: 277, frq: 155252}
+politically <> R: {rk: 2855, frq: 12233}
+politician <> N: {rk: 1793, frq: 22067}
+politicization <> N: {rk: 18245, frq: 577}
+politicize <> V: {rk: 13745, frq: 935}
+politicized <> J: {rk: 18992, frq: 491}
+politicizing <> N: {rk: 53914, frq: 27}
+politicking <> N: {rk: 25287, frq: 243}
+politico <> N: {rk: 20854, frq: 564}
+politics <> N: {rk: 952, frq: 45290}
+polity <> N: {rk: 12387, frq: 1347}
+polka <> N: {rk: 18958, frq: 588}
+polka-dotted <> J: {rk: 41006, frq: 64}
+poll <> N: {rk: 1628, frq: 26079}, V: {rk: 10532, frq: 1528}
+polled <> J: {rk: 49849, frq: 33}
+pollen <> N: {rk: 9826, frq: 1771}
+pollinate <> V: {rk: 25583, frq: 244}
+pollinating <> J: {rk: 37053, frq: 85}
+pollination <> N: {rk: 22664, frq: 358}
+pollinator <> N: {rk: 21321, frq: 416}
+polling <> N: {rk: 8017, frq: 2664}
+pollster <> N: {rk: 9851, frq: 1911}
+polltaker <> N: {rk: 59311, frq: 19}
+pollutant <> N: {rk: 7471, frq: 2939}
+pollute <> V: {rk: 9405, frq: 1821}
+polluted <> J: {rk: 14085, frq: 852}
+polluter <> N: {rk: 14980, frq: 813}
+polluting <> J: {rk: 26315, frq: 219}
+pollution <> N: {rk: 2930, frq: 12116}
+polo <> N: {rk: 12785, frq: 2007}
+polonaise <> N: {rk: 57771, frq: 22}
+polonium <> N: {rk: 44306, frq: 66}
+poltergeist <> N: {rk: 39764, frq: 71}
+polyamide <> N: {rk: 55841, frq: 24}
+polyandrous <> J: {rk: 59441, frq: 19}
+polyandry <> N: {rk: 58331, frq: 28}
+polycarbonate <> J: {rk: 36898, frq: 107}, N: {rk: 45451, frq: 46}
+polychaete <> N: {rk: 49613, frq: 42}
+polychromatic <> J: {rk: 49857, frq: 33}
+polychrome <> J: {rk: 36539, frq: 88}
+polycrystalline <> J: {rk: 47660, frq: 42}
+polycyclic <> J: {rk: 41617, frq: 64}
+polycystic <> J: {rk: 44978, frq: 51}
+polyester <> N: {rk: 13710, frq: 946}
+polyethylene <> N: {rk: 20646, frq: 417}
+polygamist <> N: {rk: 29670, frq: 221}
+polygamous <> J: {rk: 32562, frq: 140}
+polygamy <> N: {rk: 19771, frq: 503}
+polyglot <> N: {rk: 30800, frq: 146}
+polygon <> N: {rk: 29279, frq: 218}
+polygonal <> J: {rk: 45227, frq: 48}
+polygraph <> N: {rk: 15719, frq: 813}
+polygrapher <> N: {rk: 58855, frq: 21}
+polygynous <> J: {rk: 37179, frq: 136}
+polygyny <> N: {rk: 39795, frq: 113}
+polyhedron <> N: {rk: 53989, frq: 34}
+polymath <> N: {rk: 39635, frq: 78}
+polymer <> N: {rk: 10539, frq: 1618}
+polymerase <> N: {rk: 26171, frq: 233}
+polymeric <> J: {rk: 43100, frq: 58}
+polymerization <> N: {rk: 58287, frq: 25}
+polymorphic <> J: {rk: 44961, frq: 55}
+polymorphism <> N: {rk: 32762, frq: 164}
+polymorphous <> J: {rk: 40054, frq: 67}
+polynomial <> N: {rk: 36660, frq: 134}
+polyp <> N: {rk: 19343, frq: 508}
+polypeptide <> N: {rk: 40652, frq: 75}
+polyphenol <> N: {rk: 34046, frq: 139}
+polyphonic <> J: {rk: 34416, frq: 110}
+polyphony <> N: {rk: 38018, frq: 86}
+polyploid <> J: {rk: 52342, frq: 52}, N: {rk: 59336, frq: 38}
+polyploidy <> N: {rk: 56046, frq: 35}
+polypoid <> J: {rk: 49016, frq: 40}
+polyposis <> N: {rk: 49169, frq: 41}
+polypropylene <> N: {rk: 24265, frq: 279}
+polyptych <> N: {rk: 59352, frq: 27}
+polyrhythmic <> J: {rk: 54529, frq: 23}
+polysaccharide <> N: {rk: 40717, frq: 74}
+polysemy <> N: {rk: 56158, frq: 26}
+polystyrene <> N: {rk: 27817, frq: 222}
+polysyllabic <> J: {rk: 49824, frq: 33}
+polytheism <> N: {rk: 47199, frq: 40}
+polytheistic <> J: {rk: 50706, frq: 32}
+polyunsaturated <> J: {rk: 35418, frq: 109}
+polyurethane <> N: {rk: 20884, frq: 414}
+polyvalent <> J: {rk: 50067, frq: 45}
+pom-pom <> N: {rk: 29360, frq: 181}, J: {rk: 57252, frq: 22}
+pomegranate <> N: {rk: 15988, frq: 811}
+pommel <> N: {rk: 33579, frq: 120}
+pomp <> N: {rk: 21164, frq: 385}
+pompadour <> N: {rk: 36284, frq: 160}
+pompano <> N: {rk: 42079, frq: 121}
+pompon <> N: {rk: 44322, frq: 53}
+pomposity <> N: {rk: 35342, frq: 100}
+pompous <> J: {rk: 17821, frq: 538}
+pompously <> R: {rk: 48353, frq: 37}
+poncho <> N: {rk: 19943, frq: 442}
+pond <> N: {rk: 3653, frq: 8493}
+ponder <> V: {rk: 6061, frq: 3859}
+ponderosa <> N: {rk: 24638, frq: 481}
+ponderous <> J: {rk: 20455, frq: 407}
+ponderously <> R: {rk: 34918, frq: 104}
+pondweed <> N: {rk: 56568, frq: 25}
+pone <> N: {rk: 46312, frq: 45}
+pong <> N: {rk: 25454, frq: 270}, V: {rk: 50252, frq: 36}
+pontiff <> N: {rk: 24255, frq: 327}
+pontifical <> J: {rk: 30177, frq: 185}
+pontificate <> V: {rk: 29917, frq: 152}, N: {rk: 32326, frq: 140}
+pontoon <> N: {rk: 25235, frq: 303}
+pony <> N: {rk: 8507, frq: 2478}
+ponytail <> N: {rk: 11163, frq: 1548}
+pooch <> N: {rk: 23189, frq: 374}
+poodle <> N: {rk: 15815, frq: 726}
+poof <> N: {rk: 26411, frq: 242}
+poofy <> J: {rk: 57370, frq: 19}
+pooh-pooh <> V: {rk: 36375, frq: 86}
+pool <> N: {rk: 1570, frq: 25237}, V: {rk: 11661, frq: 1261}
+pooled <> J: {rk: 25751, frq: 266}
+pooling <> N: {rk: 38747, frq: 71}
+poolroom <> N: {rk: 47070, frq: 39}
+poolside <> N: {rk: 22284, frq: 341}
+poop <> N: {rk: 21936, frq: 390}, V: {rk: 26242, frq: 240}
+pooped <> J: {rk: 48257, frq: 37}
+poopy <> J: {rk: 56988, frq: 24}
+poor <> J: {rk: 713, frq: 57962}
+poorhouse <> N: {rk: 29355, frq: 184}
+poorly <> R: {rk: 5190, frq: 5008}, J: {rk: 13356, frq: 973}
+pop <> V: {rk: 2561, frq: 14532}, N: {rk: 3518, frq: 9259}, J: {rk: 12763, frq: 1094}, U: {rk: 15448, frq: 763}
+pop-eyed <> J: {rk: 55951, frq: 22}
+pop-up <> N: {rk: 17395, frq: 648}, J: {rk: 52505, frq: 32}
+popcorn <> N: {rk: 9017, frq: 2183}
+popery <> N: {rk: 58736, frq: 21}
+poplar <> N: {rk: 15537, frq: 758}
+poplin <> N: {rk: 45549, frq: 55}
+popliteal <> J: {rk: 59900, frq: 26}
+popover <> N: {rk: 45333, frq: 59}
+popped <> J: {rk: 47427, frq: 43}
+popper <> N: {rk: 26979, frq: 452}
+poppet <> N: {rk: 52154, frq: 29}
+popping <> J: {rk: 27890, frq: 195}, N: {rk: 47284, frq: 38}
+poppy <> N: {rk: 12389, frq: 1876}
+poppycock <> N: {rk: 40037, frq: 78}
+popsicle <> N: {rk: 23665, frq: 356}
+populace <> N: {rk: 12092, frq: 1199}
+popular <> J: {rk: 925, frq: 45524}
+popularity <> N: {rk: 4005, frq: 7311}
+popularization <> N: {rk: 35029, frq: 106}
+popularize <> V: {rk: 13865, frq: 911}
+popularized <> J: {rk: 44988, frq: 52}
+popularizer <> N: {rk: 38991, frq: 70}
+popularly <> R: {rk: 17150, frq: 612}
+populate <> V: {rk: 7313, frq: 2850}
+populated <> J: {rk: 20794, frq: 384}
+population <> N: {rk: 642, frq: 68979}
+populous <> J: {rk: 14038, frq: 905}
+porcelain <> N: {rk: 8332, frq: 2460}
+porch <> N: {rk: 3061, frq: 11631}
+porcine <> J: {rk: 36314, frq: 91}
+porcupine <> N: {rk: 20857, frq: 451}
+pore <> N: {rk: 11868, frq: 1324}, V: {rk: 14583, frq: 846}
+pork <> N: {rk: 4304, frq: 7192}
+porker <> N: {rk: 38612, frq: 80}
+porkpie <> N: {rk: 46605, frq: 45}
+porky <> J: {rk: 41289, frq: 65}
+porn <> N: {rk: 11092, frq: 1628}
+porno <> N: {rk: 21500, frq: 390}
+pornographer <> N: {rk: 25863, frq: 230}
+pornographic <> J: {rk: 13652, frq: 938}
+pornography <> N: {rk: 7278, frq: 2963}
+porosity <> N: {rk: 37356, frq: 89}
+porous <> J: {rk: 14021, frq: 891}
+porousness <> N: {rk: 54603, frq: 25}
+porpoise <> N: {rk: 25008, frq: 282}
+porridge <> N: {rk: 19750, frq: 449}
+port <> N: {rk: 2734, frq: 15936}, V: {rk: 35444, frq: 99}
+portability <> N: {rk: 21439, frq: 395}
+portable <> J: {rk: 5501, frq: 4673}, N: {rk: 25026, frq: 274}
+portal <> N: {rk: 9418, frq: 2021}
+portcullis <> N: {rk: 50449, frq: 37}
+ported <> J: {rk: 54039, frq: 26}
+portend <> V: {rk: 19395, frq: 465}
+portent <> N: {rk: 22790, frq: 311}
+portentous <> J: {rk: 28491, frq: 183}
+portentously <> R: {rk: 43436, frq: 49}
+porterhouse <> N: {rk: 40685, frq: 72}
+portfolio <> N: {rk: 3839, frq: 8150}
+porthole <> N: {rk: 20372, frq: 446}
+portico <> N: {rk: 22497, frq: 332}
+portion <> N: {rk: 2191, frq: 16904}, V: {rk: 45661, frq: 45}
+portly <> J: {rk: 21331, frq: 373}
+portmanteau <> N: {rk: 47346, frq: 41}
+portobello <> N: {rk: 25137, frq: 356}
+portrait <> N: {rk: 2671, frq: 13220}
+portraitist <> N: {rk: 28214, frq: 187}
+portraiture <> N: {rk: 20122, frq: 442}
+portray <> V: {rk: 3284, frq: 9865}
+portrayal <> N: {rk: 8090, frq: 2401}
+portrayed <> J: {rk: 57073, frq: 23}
+pose <> V: {rk: 2244, frq: 16481}, N: {rk: 7609, frq: 2662}
+posed <> J: {rk: 41650, frq: 55}
+poser <> N: {rk: 38870, frq: 82}
+poseur <> N: {rk: 34053, frq: 104}
+posh <> J: {rk: 13627, frq: 953}
+posing <> N: {rk: 38036, frq: 77}, J: {rk: 51751, frq: 27}
+posit <> V: {rk: 9581, frq: 1938}
+posited <> J: {rk: 47002, frq: 40}
+position <> N: {rk: 512, frq: 82626}, V: {rk: 4218, frq: 6822}
+positional <> J: {rk: 25635, frq: 275}
+positioned <> J: {rk: 55625, frq: 23}
+positioner <> N: {rk: 51728, frq: 34}
+positioning <> N: {rk: 10984, frq: 1428}
+positive <> J: {rk: 1050, frq: 42697}, N: {rk: 16769, frq: 692}
+positively <> R: {rk: 5240, frq: 5343}
+positivism <> N: {rk: 26844, frq: 229}
+positivist <> J: {rk: 29616, frq: 179}, N: {rk: 34511, frq: 110}
+positivistic <> J: {rk: 43990, frq: 57}
+positivity <> N: {rk: 31715, frq: 159}
+positron <> N: {rk: 24602, frq: 288}
+posse <> N: {rk: 17528, frq: 773}
+possess <> V: {rk: 2859, frq: 12321}
+possessed <> J: {rk: 31746, frq: 150}
+possessing <> J: {rk: 51466, frq: 31}
+possession <> N: {rk: 3619, frq: 8505}
+possessive <> J: {rk: 21178, frq: 383}, N: {rk: 57196, frq: 24}
+possessively <> R: {rk: 44798, frq: 51}
+possessiveness <> N: {rk: 35389, frq: 91}
+possessor <> N: {rk: 26278, frq: 227}
+possessory <> J: {rk: 54733, frq: 27}
+possibility <> N: {rk: 1197, frq: 34687}
+possible <> J: {rk: 459, frq: 91694}
+possibly <> R: {rk: 1704, frq: 22694}
+possum <> N: {rk: 20771, frq: 546}
+post <> N: {rk: 2161, frq: 29135}, V: {rk: 4152, frq: 7660}, J: {rk: 25242, frq: 402}, R: {rk: 29648, frq: 217}
+post-classical <> J: {rk: 54754, frq: 34}
+post-coital <> J: {rk: 39062, frq: 73}
+post-feminist <> J: {rk: 47166, frq: 42}
+post-industrial <> J: {rk: 25148, frq: 254}
+post-mortem <> N: {rk: 20048, frq: 430}
+post-op <> J: {rk: 44854, frq: 48}
+post-production <> J: {rk: 45097, frq: 47}
+post-punk <> J: {rk: 49135, frq: 36}
+post-structuralist <> J: {rk: 37783, frq: 85}
+postage <> N: {rk: 13735, frq: 973}
+postal <> J: {rk: 7180, frq: 3026}
+postauricular <> J: {rk: 48308, frq: 51}
+postcard <> N: {rk: 7029, frq: 2939}
+postcolonial <> J: {rk: 13407, frq: 1246}
+postdate <> V: {rk: 50285, frq: 32}
+postdoc <> N: {rk: 26200, frq: 317}
+postdoctoral <> J: {rk: 20202, frq: 472}
+posted <> J: {rk: 24411, frq: 282}
+poster <> N: {rk: 3864, frq: 7710}
+posterboard <> N: {rk: 52254, frq: 26}
+posterior <> J: {rk: 14710, frq: 972}, N: {rk: 25110, frq: 256}
+posteriorly <> R: {rk: 39826, frq: 77}
+posterity <> N: {rk: 17240, frq: 601}
+postern <> N: {rk: 59590, frq: 20}
+postfeminist <> N: {rk: 49802, frq: 34}
+posthole <> N: {rk: 39026, frq: 87}
+posthumous <> J: {rk: 20219, frq: 440}
+posthumously <> R: {rk: 22265, frq: 336}
+posting <> N: {rk: 14074, frq: 973}
+postman <> N: {rk: 21365, frq: 511}
+postmark <> N: {rk: 27429, frq: 246}, V: {rk: 27865, frq: 201}
+postmaster <> N: {rk: 22881, frq: 382}
+postmistress <> N: {rk: 53815, frq: 45}
+postmodern <> J: {rk: 8201, frq: 2552}, N: {rk: 53677, frq: 32}
+postmodernism <> N: {rk: 13985, frq: 1116}
+postmodernist <> J: {rk: 19381, frq: 506}
+postnatal <> J: {rk: 30475, frq: 189}
+postoperative <> J: {rk: 12300, frq: 1417}
+postoperatively <> R: {rk: 24069, frq: 365}
+postpartum <> J: {rk: 17575, frq: 503}
+postpone <> V: {rk: 6639, frq: 3238}
+postponed <> J: {rk: 27463, frq: 197}
+postponement <> N: {rk: 21918, frq: 340}
+postprandial <> J: {rk: 53237, frq: 29}
+postscript <> N: {rk: 26594, frq: 388}
+postseason <> N: {rk: 9968, frq: 2029}
+postsecondary <> J: {rk: 13328, frq: 1305}
+poststructural <> J: {rk: 50550, frq: 38}
+postsurgical <> J: {rk: 37861, frq: 82}
+posttest <> J: {rk: 13009, frq: 1213}
+postulant <> N: {rk: 47435, frq: 59}
+postulate <> V: {rk: 13451, frq: 1039}, N: {rk: 27068, frq: 216}
+postulated <> J: {rk: 41435, frq: 63}
+postulation <> N: {rk: 43103, frq: 53}
+postural <> J: {rk: 32700, frq: 172}
+posture <> N: {rk: 5466, frq: 4583}, V: {rk: 22149, frq: 335}
+posturing <> N: {rk: 21207, frq: 377}, J: {rk: 51875, frq: 32}
+postwar <> J: {rk: 6006, frq: 4056}
+posy <> N: {rk: 37974, frq: 167}
+pot <> N: {rk: 2249, frq: 17204}, V: {rk: 15350, frq: 814}
+pot-bellied <> J: {rk: 28764, frq: 182}
+potable <> J: {rk: 22292, frq: 350}
+potash <> N: {rk: 38104, frq: 145}
+potassium <> N: {rk: 12537, frq: 1164}
+potato <> N: {rk: 2267, frq: 17432}
+potbelly <> N: {rk: 43229, frq: 59}, J: {rk: 47939, frq: 40}
+potboiler <> N: {rk: 38859, frq: 73}
+potency <> N: {rk: 13939, frq: 922}
+potent <> J: {rk: 6380, frq: 3571}
+potentate <> N: {rk: 31812, frq: 138}
+potential <> J: {rk: 1264, frq: 34024}, N: {rk: 2079, frq: 18848}
+potentiality <> N: {rk: 24334, frq: 285}
+potentially <> R: {rk: 2848, frq: 12641}
+potentiate <> V: {rk: 43921, frq: 49}
+potentilla <> N: {rk: 57967, frq: 40}
+potentiometer <> N: {rk: 40728, frq: 72}
+potently <> R: {rk: 44650, frq: 46}
+pothead <> N: {rk: 39120, frq: 80}
+potholder <> N: {rk: 43383, frq: 51}
+pothole <> N: {rk: 14405, frq: 893}
+potholed <> J: {rk: 38057, frq: 75}
+pothunter <> N: {rk: 57954, frq: 29}
+potion <> N: {rk: 15820, frq: 710}
+potlatch <> N: {rk: 36384, frq: 138}
+potluck <> N: {rk: 21904, frq: 384}
+potpie <> N: {rk: 49694, frq: 58}
+potpourri <> N: {rk: 23220, frq: 294}
+potsherd <> N: {rk: 36723, frq: 93}
+potshot <> N: {rk: 31519, frq: 139}
+pottage <> N: {rk: 55021, frq: 30}
+potted <> J: {rk: 15575, frq: 744}
+potter <> V: {rk: 30394, frq: 196}
+pottery <> N: {rk: 7212, frq: 3096}
+potting <> N: {rk: 45862, frq: 45}
+potty <> N: {rk: 22889, frq: 338}, J: {rk: 30319, frq: 166}
+pouch <> N: {rk: 9535, frq: 1911}, V: {rk: 47575, frq: 43}
+pouf <> N: {rk: 44420, frq: 65}
+poultice <> N: {rk: 31555, frq: 137}
+poultry <> N: {rk: 7759, frq: 2543}
+pounce <> V: {rk: 12869, frq: 1070}, N: {rk: 50985, frq: 30}
+pound <> N: {rk: 1310, frq: 32635}, V: {rk: 4817, frq: 5739}
+poundage <> N: {rk: 42291, frq: 60}
+pounded <> J: {rk: 34658, frq: 101}
+pounder <> N: {rk: 28312, frq: 216}
+pounding <> N: {rk: 7428, frq: 2898}
+pour <> V: {rk: 1908, frq: 21142}
+pouring <> J: {rk: 12655, frq: 1092}
+pout <> V: {rk: 18182, frq: 551}, N: {rk: 22356, frq: 366}
+pouting <> J: {rk: 47296, frq: 37}
+pouty <> J: {rk: 33728, frq: 113}
+poverty <> N: {rk: 2347, frq: 16283}
+poverty-stricken <> J: {rk: 25715, frq: 232}
+pow <> U: {rk: 20614, frq: 412}
+powder <> N: {rk: 3281, frq: 10772}, V: {rk: 19361, frq: 463}
+powdered <> J: {rk: 10199, frq: 1712}
+powdery <> J: {rk: 19710, frq: 453}
+power <> N: {rk: 271, frq: 155405}, V: {rk: 6808, frq: 3330}
+power-sharing <> J: {rk: 28200, frq: 194}
+powerboat <> N: {rk: 29197, frq: 216}
+powered <> J: {rk: 16528, frq: 656}
+powerful <> J: {rk: 1160, frq: 35836}
+powerfully <> R: {rk: 11144, frq: 1358}
+powerhouse <> N: {rk: 11273, frq: 1452}
+powerless <> J: {rk: 9505, frq: 1777}
+powerlessness <> N: {rk: 19669, frq: 477}
+powertrain <> N: {rk: 30091, frq: 180}
+powwow <> N: {rk: 21315, frq: 422}, V: {rk: 47605, frq: 44}
+pox <> N: {rk: 19190, frq: 469}
+practicability <> N: {rk: 52479, frq: 33}
+practicable <> J: {rk: 24773, frq: 277}
+practical <> J: {rk: 2295, frq: 16605}, N: {rk: 42636, frq: 60}
+practicality <> N: {rk: 14850, frq: 798}
+practically <> R: {rk: 3931, frq: 7527}
+practice <> N: {rk: 564, frq: 81373}, V: {rk: 2896, frq: 11659}
+practiced <> J: {rk: 15666, frq: 725}
+practicing <> J: {rk: 16357, frq: 655}, N: {rk: 35090, frq: 153}
+practicum <> N: {rk: 18009, frq: 736}
+practise <> V: {rk: 25383, frq: 286}
+practising <> J: {rk: 48003, frq: 40}
+practitioner <> N: {rk: 4287, frq: 7388}
+praetorian <> J: {rk: 41253, frq: 62}
+pragmatic <> J: {rk: 7647, frq: 2774}
+pragmatically <> R: {rk: 28235, frq: 194}
+pragmatics <> N: {rk: 36632, frq: 101}
+pragmatism <> N: {rk: 14147, frq: 941}
+pragmatist <> N: {rk: 18432, frq: 530}
+prairie <> N: {rk: 6946, frq: 4642}
+praise <> V: {rk: 3747, frq: 7992}, N: {rk: 4976, frq: 5301}
+praiseworthy <> J: {rk: 29261, frq: 167}
+praline <> N: {rk: 32677, frq: 167}
+pram <> N: {rk: 36511, frq: 91}
+prance <> V: {rk: 22360, frq: 343}, N: {rk: 30372, frq: 159}
+prancing <> J: {rk: 47731, frq: 39}
+prang <> N: {rk: 59994, frq: 23}
+prank <> N: {rk: 14691, frq: 855}
+prankish <> J: {rk: 51103, frq: 29}
+prankster <> N: {rk: 25812, frq: 250}
+pratfall <> N: {rk: 34747, frq: 100}
+prattle <> V: {rk: 30929, frq: 155}, N: {rk: 39600, frq: 72}
+prawn <> N: {rk: 20589, frq: 447}
+praxis <> N: {rk: 21627, frq: 476}
+pray <> V: {rk: 2415, frq: 15441}
+prayer <> N: {rk: 2110, frq: 17948}
+prayerbook <> N: {rk: 53649, frq: 36}
+prayerful <> J: {rk: 28298, frq: 201}
+praying <> N: {rk: 24721, frq: 264}
+pre-cut <> J: {rk: 47380, frq: 37}
+pre-eminent <> J: {rk: 13840, frq: 906}
+pre-emptive <> J: {rk: 13229, frq: 1028}
+pre-industrial <> J: {rk: 26946, frq: 224}
+pre-med <> J: {rk: 26628, frq: 217}
+pre-op <> J: {rk: 53871, frq: 30}, N: {rk: 57662, frq: 20}
+pre-owned <> J: {rk: 47356, frq: 40}
+pre-planned <> J: {rk: 34716, frq: 99}
+pre-production <> J: {rk: 40857, frq: 59}
+pre-release <> J: {rk: 52968, frq: 29}
+pre-tax <> J: {rk: 35490, frq: 99}
+pre-war <> J: {rk: 13808, frq: 917}
+preach <> V: {rk: 4860, frq: 5496}
+preacher <> N: {rk: 5803, frq: 4344}
+preaching <> J: {rk: 23154, frq: 317}, N: {rk: 29773, frq: 171}
+preachy <> J: {rk: 36659, frq: 82}
+preamble <> N: {rk: 18439, frq: 524}
+preamplifier <> N: {rk: 56022, frq: 24}
+prearranged <> J: {rk: 26849, frq: 202}
+prearrangement <> N: {rk: 53312, frq: 26}
+preauricular <> J: {rk: 59511, frq: 29}
+prebake <> V: {rk: 52665, frq: 36}
+prebaked <> J: {rk: 57924, frq: 21}
+prebiotic <> J: {rk: 46207, frq: 59}
+precancerous <> J: {rk: 27963, frq: 198}
+precarious <> J: {rk: 10336, frq: 1523}
+precariously <> R: {rk: 17487, frq: 580}
+precariousness <> N: {rk: 32698, frq: 124}
+precast <> J: {rk: 37636, frq: 117}
+precaution <> N: {rk: 7199, frq: 2815}
+precautionary <> J: {rk: 20326, frq: 419}
+precede <> V: {rk: 5671, frq: 4357}
+precedence <> N: {rk: 13363, frq: 987}
+precedent <> N: {rk: 5691, frq: 4386}
+precedential <> J: {rk: 53296, frq: 28}
+preceding <> J: {rk: 7189, frq: 2036}
+precept <> N: {rk: 14391, frq: 894}
+preceptor <> N: {rk: 39036, frq: 110}
+precession <> N: {rk: 31476, frq: 163}
+precinct <> N: {rk: 7263, frq: 3104}
+precious <> J: {rk: 4020, frq: 7367}, R: {rk: 19820, frq: 429}
+preciously <> R: {rk: 55181, frq: 24}
+preciousness <> N: {rk: 36235, frq: 90}
+precipice <> N: {rk: 19922, frq: 455}
+precipitant <> N: {rk: 47252, frq: 43}
+precipitate <> V: {rk: 10479, frq: 1530}, N: {rk: 35876, frq: 90}
+precipitately <> R: {rk: 54906, frq: 24}
+precipitating <> J: {rk: 38603, frq: 79}
+precipitation <> N: {rk: 12111, frq: 1348}
+precipitator <> N: {rk: 45395, frq: 48}
+precipitous <> J: {rk: 17693, frq: 562}
+precipitously <> R: {rk: 19191, frq: 462}
+precis <> N: {rk: 44552, frq: 46}
+precise <> J: {rk: 3856, frq: 7757}
+precisely <> R: {rk: 2595, frq: 13770}
+precision <> N: {rk: 5529, frq: 4552}
+preclinical <> J: {rk: 44168, frq: 53}
+preclude <> V: {rk: 8239, frq: 2409}
+preclusion <> N: {rk: 59535, frq: 35}
+precocious <> J: {rk: 16030, frq: 673}
+precociously <> R: {rk: 49397, frq: 36}
+precociousness <> N: {rk: 57129, frq: 20}
+precocity <> N: {rk: 40074, frq: 80}
+precognition <> N: {rk: 48368, frq: 45}
+precognitive <> J: {rk: 52916, frq: 32}
+precolonial <> J: {rk: 23720, frq: 353}
+preconceived <> J: {rk: 19818, frq: 436}
+preconception <> N: {rk: 19561, frq: 457}
+precondition <> N: {rk: 13530, frq: 1032}, V: {rk: 57515, frq: 22}
+preconditioning <> N: {rk: 56752, frq: 27}
+preconquest <> J: {rk: 47992, frq: 52}
+precook <> V: {rk: 40825, frq: 71}
+precooked <> J: {rk: 37151, frq: 89}
+precordial <> J: {rk: 59717, frq: 20}
+precursor <> N: {rk: 9881, frq: 1781}
+predate <> V: {rk: 14234, frq: 894}
+predation <> N: {rk: 15943, frq: 821}
+predator <> N: {rk: 4743, frq: 5945}
+predatory <> J: {rk: 11322, frq: 1500}
+predecease <> V: {rk: 49924, frq: 33}
+predecessor <> N: {rk: 5314, frq: 4869}
+predefined <> J: {rk: 34577, frq: 110}
+predella <> N: {rk: 49174, frq: 74}
+predestination <> N: {rk: 34697, frq: 116}
+predestined <> J: {rk: 44828, frq: 45}
+predetermine <> V: {rk: 24378, frq: 273}
+predetermined <> J: {rk: 15863, frq: 744}
+predicament <> N: {rk: 9677, frq: 1747}
+predicate <> V: {rk: 14174, frq: 925}, N: {rk: 26845, frq: 232}
+predication <> N: {rk: 44352, frq: 58}
+predict <> V: {rk: 1618, frq: 24740}
+predictability <> N: {rk: 16188, frq: 704}
+predictable <> J: {rk: 5809, frq: 4097}
+predictably <> R: {rk: 11976, frq: 1195}
+predicted <> J: {rk: 12710, frq: 1180}
+prediction <> N: {rk: 3634, frq: 8578}
+predictive <> J: {rk: 10657, frq: 1780}
+predictor <> N: {rk: 6105, frq: 4723}
+predilection <> N: {rk: 19497, frq: 467}
+predispose <> V: {rk: 13424, frq: 1000}
+predisposed <> J: {rk: 38893, frq: 71}
+predisposing <> J: {rk: 40751, frq: 71}
+predisposition <> N: {rk: 14908, frq: 801}
+prednisolone <> N: {rk: 43677, frq: 85}
+prednisone <> N: {rk: 34414, frq: 122}
+predoctoral <> J: {rk: 51472, frq: 39}
+predominance <> N: {rk: 20613, frq: 421}
+predominant <> J: {rk: 11939, frq: 1254}
+predominantly <> R: {rk: 6020, frq: 3989}
+predominate <> V: {rk: 14423, frq: 868}
+preeclampsia <> N: {rk: 37773, frq: 115}
+preemie <> N: {rk: 34221, frq: 120}
+preeminence <> N: {rk: 21618, frq: 371}
+preeminent <> N: {rk: 50099, frq: 34}
+preeminently <> R: {rk: 33229, frq: 111}
+preempt <> V: {rk: 14670, frq: 868}
+preemptively <> R: {rk: 31601, frq: 150}
+preemptory <> J: {rk: 52301, frq: 27}
+preen <> V: {rk: 20197, frq: 421}
+preexist <> V: {rk: 22080, frq: 416}
+preexistence <> N: {rk: 53458, frq: 29}
+preexistent <> J: {rk: 45957, frq: 42}
+prefab <> N: {rk: 27806, frq: 204}
+prefabricated <> J: {rk: 23940, frq: 283}
+preface <> N: {rk: 13719, frq: 984}, V: {rk: 22272, frq: 336}
+prefatory <> J: {rk: 38604, frq: 76}
+prefect <> N: {rk: 31843, frq: 152}
+prefectural <> J: {rk: 47047, frq: 44}
+prefecture <> N: {rk: 33164, frq: 210}
+prefer <> V: {rk: 1724, frq: 22572}
+preferable <> J: {rk: 10820, frq: 1454}
+preferably <> R: {rk: 9507, frq: 1842}
+preference <> N: {rk: 3041, frq: 11489}
+preferential <> J: {rk: 12339, frq: 1214}
+preferentially <> R: {rk: 30141, frq: 161}
+preferment <> N: {rk: 53282, frq: 28}
+preferred <> J: {rk: 5976, frq: 4195}
+prefetch <> N: {rk: 59601, frq: 25}
+prefetching <> N: {rk: 59392, frq: 38}
+prefiguration <> N: {rk: 50217, frq: 32}
+prefigure <> V: {rk: 26533, frq: 223}
+prefinished <> J: {rk: 59886, frq: 20}
+prefix <> N: {rk: 25472, frq: 250}, V: {rk: 53717, frq: 26}
+preform <> V: {rk: 45742, frq: 52}
+preformed <> J: {rk: 37093, frq: 87}
+prefrontal <> J: {rk: 30607, frq: 176}
+pregame <> J: {rk: 16540, frq: 591}
+pregnancy <> N: {rk: 3350, frq: 9634}
+pregnant <> J: {rk: 2645, frq: 13311}
+preheat <> V: {rk: 8250, frq: 3119}
+preheated <> J: {rk: 20821, frq: 480}
+prehensile <> J: {rk: 41854, frq: 61}
+prehension <> N: {rk: 47149, frq: 81}
+prehistoric <> J: {rk: 10540, frq: 1516}
+prehistory <> N: {rk: 21551, frq: 354}
+prejudge <> V: {rk: 28578, frq: 197}
+prejudgment <> N: {rk: 45441, frq: 44}
+prejudice <> N: {rk: 5293, frq: 4868}, V: {rk: 20062, frq: 414}
+prejudiced <> J: {rk: 20116, frq: 407}
+prejudicial <> J: {rk: 23298, frq: 306}
+prelapsarian <> J: {rk: 52936, frq: 30}
+prelate <> N: {rk: 27439, frq: 201}
+prelim <> N: {rk: 53054, frq: 34}
+preliminarily <> R: {rk: 44153, frq: 51}
+preliminary <> J: {rk: 4444, frq: 6263}, N: {rk: 28434, frq: 188}
+prelims <> N: {rk: 51187, frq: 39}
+preliterate <> J: {rk: 46688, frq: 40}
+preload <> N: {rk: 39065, frq: 76}
+preloaded <> J: {rk: 42933, frq: 63}
+prelude <> N: {rk: 12169, frq: 1154}
+premade <> J: {rk: 35455, frq: 112}
+premalignant <> J: {rk: 59408, frq: 19}
+premarital <> J: {rk: 19780, frq: 486}
+premature <> J: {rk: 6985, frq: 2986}
+prematurely <> R: {rk: 12001, frq: 1167}
+prematurity <> N: {rk: 40058, frq: 77}
+premedical <> J: {rk: 55533, frq: 26}
+premeditated <> J: {rk: 25718, frq: 249}
+premeditation <> N: {rk: 31505, frq: 139}
+premenstrual <> J: {rk: 31470, frq: 153}
+premier <> J: {rk: 7750, frq: 2621}, N: {rk: 15714, frq: 1098}, V: {rk: 16441, frq: 667}
+premiere <> N: {rk: 6932, frq: 3252}, V: {rk: 24421, frq: 301}, J: {rk: 51954, frq: 31}
+premiership <> N: {rk: 40967, frq: 61}
+premise <> N: {rk: 4598, frq: 6070}, V: {rk: 21281, frq: 389}
+premium <> N: {rk: 4846, frq: 5892}, J: {rk: 8847, frq: 2214}
+premixed <> J: {rk: 42620, frq: 57}
+premonition <> N: {rk: 18588, frq: 522}
+premonitory <> J: {rk: 49500, frq: 32}
+prenatal <> J: {rk: 11524, frq: 1365}
+prenuptial <> J: {rk: 23839, frq: 318}
+preoccupation <> N: {rk: 8957, frq: 2012}
+preoccupied <> J: {rk: 9024, frq: 1937}
+preoccupy <> V: {rk: 22945, frq: 310}
+preoperative <> J: {rk: 18998, frq: 604}
+preordain <> V: {rk: 34980, frq: 109}
+prep <> J: {rk: 19317, frq: 482}, V: {rk: 21016, frq: 437}
+prepackaged <> J: {rk: 26201, frq: 230}
+prepaid <> J: {rk: 18634, frq: 540}
+preparation <> N: {rk: 2529, frq: 14583}
+preparatory <> J: {rk: 13467, frq: 1016}
+prepare <> V: {rk: 774, frq: 53253}
+prepared <> J: {rk: 6065, frq: 4046}
+preparedness <> N: {rk: 13259, frq: 1106}
+preparer <> N: {rk: 22959, frq: 348}
+prepay <> V: {rk: 38345, frq: 80}
+prepayment <> N: {rk: 34942, frq: 98}
+preponderance <> N: {rk: 16364, frq: 670}
+preponderant <> J: {rk: 41591, frq: 58}
+preposition <> N: {rk: 30419, frq: 155}
+prepositional <> J: {rk: 54468, frq: 30}
+prepossessing <> J: {rk: 56443, frq: 21}
+preposterous <> J: {rk: 13913, frq: 911}
+preposterously <> R: {rk: 35678, frq: 97}
+preppy <> J: {rk: 27134, frq: 223}
+preproduction <> N: {rk: 32621, frq: 125}
+prepubescent <> J: {rk: 32532, frq: 119}
+prequel <> N: {rk: 35728, frq: 109}
+prerecord <> V: {rk: 46516, frq: 38}
+prerecorded <> J: {rk: 28855, frq: 176}
+prerequisite <> N: {rk: 11365, frq: 1458}, J: {rk: 26738, frq: 241}
+prerogative <> N: {rk: 12616, frq: 1119}
+presage <> V: {rk: 21371, frq: 364}
+presbyopia <> N: {rk: 51296, frq: 38}
+presbyter <> N: {rk: 49879, frq: 47}
+presbyterian <> J: {rk: 8997, frq: 2090}, N: {rk: 23636, frq: 306}
+presbytery <> N: {rk: 38912, frq: 102}
+preschool <> J: {rk: 7105, frq: 3067}, N: {rk: 22604, frq: 341}
+preschooler <> N: {rk: 11369, frq: 1438}
+prescience <> N: {rk: 33796, frq: 119}
+prescient <> J: {rk: 18980, frq: 488}
+presciently <> R: {rk: 41383, frq: 61}
+prescribe <> V: {rk: 5435, frq: 4688}
+prescribed <> J: {rk: 9916, frq: 1729}
+prescribing <> N: {rk: 35722, frq: 124}
+prescription <> N: {rk: 3332, frq: 9930}
+prescriptive <> J: {rk: 20400, frq: 459}
+preseason <> N: {rk: 10706, frq: 1742}
+presence <> N: {rk: 1268, frq: 33025}
+present <> V: {rk: 818, frq: 53923}, J: {rk: 1334, frq: 32520}, N: {rk: 2259, frq: 16657}, R: {rk: 8560, frq: 2219}
+present-day <> J: {rk: 10673, frq: 1532}
+presentable <> J: {rk: 24251, frq: 282}
+presentation <> N: {rk: 2915, frq: 12337}
+presentational <> J: {rk: 44764, frq: 52}
+presented <> J: {rk: 28447, frq: 233}
+presenter <> N: {rk: 15697, frq: 752}
+presentiment <> N: {rk: 41958, frq: 57}
+presently <> R: {rk: 7564, frq: 2673}
+presentment <> N: {rk: 53321, frq: 27}
+presentness <> N: {rk: 59907, frq: 20}
+preservation <> N: {rk: 5287, frq: 4996}
+preservationist <> N: {rk: 19135, frq: 501}
+preservative <> N: {rk: 17973, frq: 557}, J: {rk: 40891, frq: 69}
+preserve <> V: {rk: 2223, frq: 16673}, N: {rk: 10745, frq: 1494}
+preserved <> J: {rk: 20786, frq: 401}
+preserver <> N: {rk: 25918, frq: 232}
+preserving <> J: {rk: 14663, frq: 805}
+preset <> J: {rk: 25169, frq: 259}, V: {rk: 32892, frq: 129}
+preside <> V: {rk: 6880, frq: 3026}
+presidency <> N: {rk: 3455, frq: 9603}
+president <> N: {rk: 303, frq: 199016}
+president-elect <> N: {rk: 8906, frq: 2569}
+presidential <> J: {rk: 1620, frq: 25798}
+presidentially <> R: {rk: 45955, frq: 42}
+presider <> N: {rk: 51058, frq: 34}
+presiding <> J: {rk: 23213, frq: 307}
+presidium <> N: {rk: 45356, frq: 53}
+press <> N: {rk: 1179, frq: 51138}, V: {rk: 1534, frq: 27416}
+pressed <> J: {rk: 20411, frq: 410}
+pressing <> J: {rk: 7270, frq: 2855}
+pressman <> N: {rk: 39625, frq: 300}
+pressroom <> N: {rk: 48804, frq: 37}
+pressure <> N: {rk: 765, frq: 54792}, V: {rk: 7223, frq: 2846}
+pressured <> J: {rk: 25702, frq: 231}
+pressurization <> N: {rk: 43611, frq: 63}
+pressurize <> V: {rk: 25079, frq: 260}
+pressurized <> J: {rk: 22500, frq: 333}
+prestige <> N: {rk: 6788, frq: 3203}
+prestigious <> J: {rk: 6542, frq: 3328}
+presto <> J: {rk: 57687, frq: 20}
+presumable <> J: {rk: 57418, frq: 21}
+presumably <> R: {rk: 4326, frq: 6453}
+presume <> V: {rk: 5811, frq: 4114}
+presumed <> J: {rk: 15007, frq: 813}
+presumption <> N: {rk: 10134, frq: 1642}
+presumptive <> J: {rk: 22619, frq: 339}
+presumptively <> R: {rk: 36834, frq: 92}
+presumptuous <> J: {rk: 20591, frq: 385}
+presuppose <> V: {rk: 14534, frq: 885}
+presupposed <> J: {rk: 51189, frq: 36}
+presupposition <> N: {rk: 21926, frq: 389}
+preteen <> N: {rk: 21128, frq: 410}, J: {rk: 27757, frq: 202}
+pretence <> N: {rk: 44236, frq: 55}
+pretend <> V: {rk: 2922, frq: 12314}, J: {rk: 20609, frq: 458}
+pretended <> J: {rk: 35997, frq: 87}
+pretender <> N: {rk: 23415, frq: 301}
+pretending <> N: {rk: 58529, frq: 21}
+pretense <> N: {rk: 11762, frq: 1229}
+pretension <> N: {rk: 15090, frq: 783}
+pretentious <> J: {rk: 16714, frq: 622}
+pretentiously <> R: {rk: 57610, frq: 20}
+pretentiousness <> N: {rk: 42644, frq: 53}
+preterite <> N: {rk: 48177, frq: 48}
+preternatural <> J: {rk: 31190, frq: 151}
+preternaturally <> R: {rk: 33352, frq: 119}
+pretext <> N: {rk: 13895, frq: 894}
+pretrial <> J: {rk: 16634, frq: 652}
+prettily <> R: {rk: 31012, frq: 152}
+prettiness <> N: {rk: 37161, frq: 84}
+pretty <> R: {rk: 797, frq: 55701}, J: {rk: 2478, frq: 15135}, N: {rk: 51392, frq: 38}
+pretzel <> N: {rk: 16450, frq: 700}
+prevail <> V: {rk: 4786, frq: 5553}
+prevailing <> J: {rk: 6876, frq: 3192}
+prevalence <> N: {rk: 7579, frq: 3777}
+prevalent <> J: {rk: 7093, frq: 3069}
+prevaricate <> V: {rk: 47530, frq: 38}
+prevarication <> N: {rk: 38438, frq: 102}
+prevent <> V: {rk: 1084, frq: 39527}
+preventable <> J: {rk: 17071, frq: 655}
+preventative <> J: {rk: 19924, frq: 454}
+prevention <> N: {rk: 3991, frq: 11488}
+preventive <> J: {rk: 7729, frq: 2766}
+preventively <> R: {rk: 58070, frq: 25}
+preview <> N: {rk: 7658, frq: 2818}, V: {rk: 15390, frq: 798}
+previous <> J: {rk: 1280, frq: 33696}
+previously <> R: {rk: 2327, frq: 16352}
+prey <> N: {rk: 5565, frq: 4533}, V: {rk: 15771, frq: 697}
+priapism <> N: {rk: 58627, frq: 20}
+price <> N: {rk: 475, frq: 95908}, V: {rk: 5297, frq: 4966}
+priced <> J: {rk: 40014, frq: 68}
+priceless <> J: {rk: 12843, frq: 1044}
+pricey <> J: {rk: 11506, frq: 1420}
+pricing <> N: {rk: 8336, frq: 2435}
+prick <> V: {rk: 13717, frq: 973}, N: {rk: 18378, frq: 592}
+pricking <> N: {rk: 58120, frq: 23}
+prickle <> V: {rk: 23723, frq: 335}, N: {rk: 29927, frq: 178}
+prickling <> N: {rk: 52997, frq: 34}
+prickly <> J: {rk: 12666, frq: 1132}
+pricy <> J: {rk: 20585, frq: 431}
+pride <> N: {rk: 2818, frq: 12673}, V: {rk: 10731, frq: 1435}
+prideful <> J: {rk: 28925, frq: 172}
+priest <> N: {rk: 2307, frq: 16182}
+priestess <> N: {rk: 19868, frq: 470}
+priesthood <> N: {rk: 13151, frq: 1090}
+priestly <> J: {rk: 19220, frq: 504}
+prig <> N: {rk: 42164, frq: 56}
+priggish <> J: {rk: 50473, frq: 31}
+prim <> J: {rk: 20738, frq: 416}
+prima <> J: {rk: 30022, frq: 163}, R: {rk: 39910, frq: 67}
+primacy <> N: {rk: 13160, frq: 1118}
+primal <> J: {rk: 12056, frq: 1207}
+primarily <> R: {rk: 2147, frq: 18078}
+primary <> J: {rk: 1509, frq: 28506}, N: {rk: 3890, frq: 8520}
+primate <> N: {rk: 11655, frq: 1311}
+primatologist <> N: {rk: 35360, frq: 100}
+primavera <> N: {rk: 41584, frq: 121}
+prime <> J: {rk: 1673, frq: 24178}, V: {rk: 12650, frq: 1111}
+primed <> J: {rk: 41174, frq: 61}
+primer <> N: {rk: 11155, frq: 1432}
+primeval <> J: {rk: 19324, frq: 457}
+priming <> N: {rk: 33415, frq: 126}
+primitive <> J: {rk: 5871, frq: 4022}, N: {rk: 14169, frq: 898}
+primitively <> R: {rk: 54787, frq: 34}
+primitivism <> N: {rk: 28369, frq: 204}
+primly <> R: {rk: 28765, frq: 193}
+primness <> N: {rk: 57075, frq: 21}
+primo <> N: {rk: 31592, frq: 140}
+primogeniture <> N: {rk: 48718, frq: 36}
+primordial <> J: {rk: 13623, frq: 955}
+primp <> V: {rk: 28450, frq: 193}
+primrose <> N: {rk: 26916, frq: 316}
+primula <> N: {rk: 45001, frq: 49}
+primus <> N: {rk: 27659, frq: 211}
+princedom <> N: {rk: 59234, frq: 26}
+princeling <> N: {rk: 51278, frq: 31}
+princely <> J: {rk: 23557, frq: 286}
+principal <> N: {rk: 3143, frq: 10823}, J: {rk: 3328, frq: 9748}
+principality <> N: {rk: 24234, frq: 282}
+principally <> R: {rk: 10734, frq: 1490}
+principalship <> N: {rk: 50316, frq: 37}
+principle <> N: {rk: 1345, frq: 32204}
+principled <> J: {rk: 16950, frq: 636}
+print <> N: {rk: 2221, frq: 17064}, V: {rk: 3170, frq: 10257}
+printable <> J: {rk: 38327, frq: 82}
+printed <> J: {rk: 7234, frq: 2885}
+printer <> N: {rk: 5950, frq: 4175}
+printhead <> N: {rk: 54088, frq: 46}
+printing <> N: {rk: 7335, frq: 2858}
+printmaker <> N: {rk: 28170, frq: 192}
+printmaking <> N: {rk: 23699, frq: 303}
+printout <> N: {rk: 14676, frq: 807}
+prion <> N: {rk: 31090, frq: 197}
+prior <> I: {rk: 2873, frq: 12638}, J: {rk: 4232, frq: 6471}, R: {rk: 14381, frq: 904}
+prioress <> N: {rk: 54053, frq: 42}
+prioritization <> N: {rk: 32935, frq: 135}
+prioritize <> V: {rk: 13901, frq: 1006}
+prioritized <> J: {rk: 48402, frq: 42}
+priority <> N: {rk: 2124, frq: 18211}
+priory <> N: {rk: 33177, frq: 205}
+prise <> N: {rk: 53055, frq: 29}
+prism <> N: {rk: 13480, frq: 1050}
+prismatic <> J: {rk: 32760, frq: 140}
+prison <> N: {rk: 1286, frq: 33091}
+prisoner <> N: {rk: 2435, frq: 15175}
+prissy <> J: {rk: 26796, frq: 231}
+pristine <> J: {rk: 8384, frq: 2291}
+privacy <> N: {rk: 3079, frq: 10845}
+private <> J: {rk: 672, frq: 66100}, R: {rk: 8735, frq: 2076}, N: {rk: 15171, frq: 1334}
+privateer <> N: {rk: 34615, frq: 150}
+privately <> R: {rk: 4762, frq: 5567}
+privation <> N: {rk: 25972, frq: 231}
+privatization <> N: {rk: 6748, frq: 3354}
+privatize <> V: {rk: 11173, frq: 1330}
+privatized <> J: {rk: 22399, frq: 362}
+privatizer <> N: {rk: 56705, frq: 27}
+privet <> N: {rk: 35323, frq: 101}
+privilege <> N: {rk: 3638, frq: 8468}, V: {rk: 25866, frq: 260}
+privileged <> J: {rk: 6627, frq: 3291}
+privileging <> N: {rk: 34458, frq: 117}
+privy <> J: {rk: 14454, frq: 832}, N: {rk: 44414, frq: 55}
+prize <> N: {rk: 3714, frq: 11588}, V: {rk: 12693, frq: 1080}, J: {rk: 33090, frq: 119}
+prized <> J: {rk: 12490, frq: 1136}
+prizefight <> N: {rk: 54213, frq: 23}
+prizefighter <> N: {rk: 33487, frq: 115}
+pro <> N: {rk: 4092, frq: 7523}, J: {rk: 4424, frq: 6664}, I: {rk: 9855, frq: 1808}, R: {rk: 30403, frq: 156}
+pro-am <> N: {rk: 53140, frq: 46}
+pro-choice <> J: {rk: 21891, frq: 368}
+pro-choicer <> N: {rk: 40176, frq: 74}
+pro-democracy <> J: {rk: 20691, frq: 433}
+pro-family <> J: {rk: 32425, frq: 127}
+pro-life <> J: {rk: 11646, frq: 1454}
+pro-lifer <> N: {rk: 34704, frq: 207}
+proactive <> J: {rk: 10318, frq: 1763}
+proactively <> R: {rk: 29772, frq: 182}
+probabilistic <> J: {rk: 30412, frq: 175}
+probability <> N: {rk: 5158, frq: 5591}
+probable <> J: {rk: 6866, frq: 3124}
+probably <> R: {rk: 398, frq: 107712}
+probate <> N: {rk: 21550, frq: 427}, V: {rk: 33304, frq: 131}
+probation <> N: {rk: 7316, frq: 3002}
+probationary <> J: {rk: 29924, frq: 182}
+probationer <> N: {rk: 42352, frq: 96}
+probative <> J: {rk: 37568, frq: 97}
+probe <> N: {rk: 5232, frq: 5105}, V: {rk: 6617, frq: 3269}
+probing <> J: {rk: 12287, frq: 1114}, N: {rk: 56301, frq: 22}
+probiotic <> J: {rk: 38384, frq: 88}
+probity <> N: {rk: 31499, frq: 137}
+problem <> N: {rk: 171, frq: 233655}
+problematic <> J: {rk: 5625, frq: 4780}, N: {rk: 40508, frq: 84}
+problematical <> J: {rk: 29461, frq: 174}
+problematically <> R: {rk: 46368, frq: 40}
+proboscis <> N: {rk: 33453, frq: 120}
+procedural <> J: {rk: 9154, frq: 2117}
+procedurally <> R: {rk: 36043, frq: 92}
+procedure <> N: {rk: 1373, frq: 31156}
+proceed <> V: {rk: 2713, frq: 12589}
+proceedings <> N: {rk: 5424, frq: 4854}
+proceeds <> N: {rk: 8053, frq: 2507}
+process <> N: {rk: 391, frq: 115727}, V: {rk: 2762, frq: 12874}
+processed <> J: {rk: 12341, frq: 1205}
+processing <> N: {rk: 4066, frq: 7630}
+procession <> N: {rk: 7773, frq: 2517}
+processional <> N: {rk: 40869, frq: 61}, J: {rk: 43639, frq: 53}
+processor <> N: {rk: 4656, frq: 6393}
+proclaim <> V: {rk: 4494, frq: 6111}
+proclaimed <> J: {rk: 39140, frq: 71}
+proclamation <> N: {rk: 10949, frq: 1447}
+proclivity <> N: {rk: 19468, frq: 466}
+proconsul <> N: {rk: 46280, frq: 46}
+procrastinate <> V: {rk: 26517, frq: 219}
+procrastination <> N: {rk: 21761, frq: 421}
+procrastinator <> N: {rk: 32835, frq: 135}
+procreate <> V: {rk: 32910, frq: 116}
+procreation <> N: {rk: 20453, frq: 429}
+procreative <> J: {rk: 31395, frq: 167}
+proctologist <> N: {rk: 56867, frq: 23}
+procurator <> N: {rk: 46672, frq: 43}
+procure <> V: {rk: 13751, frq: 954}
+procurement <> N: {rk: 11874, frq: 1288}
+procurer <> N: {rk: 51409, frq: 31}
+prod <> V: {rk: 9403, frq: 1844}, N: {rk: 23164, frq: 304}
+prodding <> N: {rk: 25860, frq: 224}, J: {rk: 55589, frq: 22}
+prodigal <> N: {rk: 21031, frq: 407}
+prodigality <> N: {rk: 52587, frq: 34}
+prodigious <> J: {rk: 14711, frq: 800}
+prodigiously <> R: {rk: 35362, frq: 94}
+prodigy <> N: {rk: 14769, frq: 1229}
+produce <> V: {rk: 542, frq: 79127}, N: {rk: 7102, frq: 3059}
+produced <> J: {rk: 35668, frq: 97}
+producer <> N: {rk: 1855, frq: 21345}
+producing <> J: {rk: 23086, frq: 303}
+product <> N: {rk: 569, frq: 75627}
+production <> N: {rk: 960, frq: 45334}
+productive <> J: {rk: 3997, frq: 7487}
+productively <> R: {rk: 21975, frq: 347}
+productivity <> N: {rk: 4191, frq: 7042}
+profanation <> N: {rk: 53771, frq: 32}
+profane <> J: {rk: 18502, frq: 519}, V: {rk: 26103, frq: 229}
+profess <> V: {rk: 10586, frq: 1447}
+professed <> J: {rk: 23728, frq: 290}
+profession <> N: {rk: 2903, frq: 12554}
+professional <> J: {rk: 1095, frq: 39656}, N: {rk: 2579, frq: 14795}
+professionalism <> N: {rk: 11220, frq: 1411}
+professionalization <> N: {rk: 26392, frq: 256}
+professionalized <> J: {rk: 47312, frq: 41}
+professionally <> R: {rk: 7716, frq: 2523}
+professor <> N: {rk: 826, frq: 52903}
+professorate <> N: {rk: 52238, frq: 34}
+professorial <> J: {rk: 23732, frq: 277}
+professoriate <> N: {rk: 35710, frq: 112}
+professorship <> N: {rk: 23804, frq: 285}
+proffer <> V: {rk: 16135, frq: 672}
+proffered <> J: {rk: 29785, frq: 168}
+proficiency <> N: {rk: 10437, frq: 1832}
+proficient <> J: {rk: 12482, frq: 1206}
+proficiently <> R: {rk: 49618, frq: 35}
+profile <> N: {rk: 2692, frq: 13383}, V: {rk: 10388, frq: 1632}
+profiled <> J: {rk: 51424, frq: 29}
+profiler <> N: {rk: 27099, frq: 277}
+profiling <> N: {rk: 19479, frq: 641}, J: {rk: 42261, frq: 58}
+profit <> N: {rk: 1712, frq: 22947}, V: {rk: 7829, frq: 2491}
+profit-sharing <> J: {rk: 30831, frq: 154}
+profit-taking <> N: {rk: 47589, frq: 39}
+profitability <> N: {rk: 11497, frq: 1293}
+profitable <> J: {rk: 5412, frq: 4670}
+profitably <> R: {rk: 21239, frq: 362}
+profiteer <> N: {rk: 31757, frq: 136}, V: {rk: 56910, frq: 20}
+profiteering <> N: {rk: 28702, frq: 192}
+profiterole <> N: {rk: 49869, frq: 39}
+profitless <> J: {rk: 50637, frq: 29}
+profligacy <> N: {rk: 38559, frq: 82}
+profligate <> J: {rk: 26384, frq: 229}
+profound <> J: {rk: 3763, frq: 8049}
+profoundly <> R: {rk: 6577, frq: 3342}
+profundity <> N: {rk: 29429, frq: 171}
+profuse <> J: {rk: 29740, frq: 161}
+profusely <> R: {rk: 17856, frq: 540}
+profusion <> N: {rk: 16650, frq: 627}
+prog <> N: {rk: 57486, frq: 27}
+progenitor <> N: {rk: 21184, frq: 377}
+progeny <> N: {rk: 17633, frq: 602}
+progesterone <> N: {rk: 22335, frq: 364}
+progestin <> N: {rk: 30249, frq: 187}
+prognosis <> N: {rk: 12025, frq: 1274}
+prognostic <> J: {rk: 32150, frq: 156}
+prognosticate <> V: {rk: 56492, frq: 23}
+prognostication <> N: {rk: 31760, frq: 139}
+prognosticator <> N: {rk: 31315, frq: 143}
+program <> N: {rk: 194, frq: 212582}, V: {rk: 3894, frq: 7557}
+programmable <> J: {rk: 20808, frq: 410}
+programmatic <> J: {rk: 17783, frq: 615}
+programmed <> J: {rk: 26032, frq: 230}
+programmer <> N: {rk: 8555, frq: 2167}
+programming <> N: {rk: 4666, frq: 5843}
+progress <> N: {rk: 1513, frq: 26964}, V: {rk: 5076, frq: 5198}
+progression <> N: {rk: 7704, frq: 2770}
+progressive <> J: {rk: 4262, frq: 7031}, N: {rk: 16258, frq: 786}
+progressively <> R: {rk: 10730, frq: 1468}
+progressiveness <> N: {rk: 51556, frq: 30}
+progressivism <> N: {rk: 29500, frq: 248}
+progressivity <> N: {rk: 47217, frq: 42}
+prohibit <> V: {rk: 4021, frq: 7433}
+prohibited <> J: {rk: 17787, frq: 573}
+prohibition <> N: {rk: 6906, frq: 3191}
+prohibitionist <> N: {rk: 42314, frq: 64}
+prohibitive <> J: {rk: 18734, frq: 504}
+prohibitively <> R: {rk: 23186, frq: 314}
+project <> N: {rk: 534, frq: 84065}, V: {rk: 3626, frq: 8548}
+projected <> J: {rk: 7041, frq: 3059}
+projectile <> N: {rk: 16494, frq: 668}
+projecting <> J: {rk: 17361, frq: 587}
+projection <> N: {rk: 4800, frq: 5708}
+projectionist <> N: {rk: 33351, frq: 134}
+projective <> J: {rk: 31286, frq: 150}
+projector <> N: {rk: 10535, frq: 1574}
+prokaryote <> N: {rk: 51323, frq: 38}
+prolactin <> N: {rk: 40004, frq: 76}
+prolapse <> N: {rk: 47113, frq: 66}
+prole <> N: {rk: 52354, frq: 33}
+proletarian <> J: {rk: 22597, frq: 343}, N: {rk: 49268, frq: 35}
+proletarianization <> N: {rk: 49569, frq: 39}
+proletariat <> N: {rk: 22539, frq: 351}
+proliferate <> V: {rk: 12538, frq: 1108}
+proliferating <> J: {rk: 27696, frq: 195}
+proliferation <> N: {rk: 6674, frq: 3401}
+proliferative <> J: {rk: 44763, frq: 52}
+prolific <> J: {rk: 11259, frq: 1348}
+prolifically <> R: {rk: 43820, frq: 50}
+proline <> N: {rk: 60016, frq: 27}
+prologue <> N: {rk: 20179, frq: 802}
+prolong <> V: {rk: 9657, frq: 1731}
+prolongation <> N: {rk: 34951, frq: 103}
+prolonged <> J: {rk: 7490, frq: 2723}
+prom <> N: {rk: 9919, frq: 1731}
+promenade <> N: {rk: 16694, frq: 647}, V: {rk: 49749, frq: 32}
+prominence <> N: {rk: 8574, frq: 2171}
+prominent <> J: {rk: 2914, frq: 11793}
+prominently <> R: {rk: 9871, frq: 1684}
+promiscuity <> N: {rk: 20033, frq: 432}
+promiscuous <> J: {rk: 18045, frq: 548}
+promiscuously <> R: {rk: 39996, frq: 65}
+promise <> V: {rk: 1442, frq: 27943}, N: {rk: 2012, frq: 18833}
+promised <> J: {rk: 10248, frq: 1600}
+promising <> J: {rk: 3874, frq: 7622}
+promisingly <> R: {rk: 46582, frq: 40}
+promissory <> J: {rk: 28979, frq: 180}
+promo <> N: {rk: 21233, frq: 498}
+promontory <> N: {rk: 23945, frq: 294}
+promote <> V: {rk: 1332, frq: 32267}
+promoted <> J: {rk: 52196, frq: 30}
+promoter <> N: {rk: 8584, frq: 2177}
+promotion <> N: {rk: 3816, frq: 7999}
+promotional <> J: {rk: 9761, frq: 1730}
+prompt <> V: {rk: 3133, frq: 10522}, N: {rk: 14873, frq: 857}, J: {rk: 15046, frq: 795}
+prompter <> N: {rk: 39779, frq: 73}
+prompting <> N: {rk: 24388, frq: 271}
+promptly <> R: {rk: 6762, frq: 3133}
+promptness <> N: {rk: 40347, frq: 59}
+promulgate <> V: {rk: 13250, frq: 1081}
+promulgation <> N: {rk: 28966, frq: 184}
+pronation <> N: {rk: 50373, frq: 33}
+prone <> J: {rk: 6307, frq: 3626}
+proneness <> N: {rk: 34400, frq: 130}
+prong <> N: {rk: 20276, frq: 410}
+pronged <> J: {rk: 51292, frq: 28}
+pronghorn <> N: {rk: 26024, frq: 282}
+pronominal <> J: {rk: 52686, frq: 47}
+pronoun <> N: {rk: 17634, frq: 703}
+pronounce <> V: {rk: 5392, frq: 4579}
+pronounced <> J: {rk: 7826, frq: 2538}
+pronouncement <> N: {rk: 10891, frq: 1413}
+pronunciation <> N: {rk: 15985, frq: 695}
+proof <> N: {rk: 2882, frq: 11673}, V: {rk: 32152, frq: 129}, J: {rk: 38377, frq: 70}
+proofread <> V: {rk: 32984, frq: 127}
+proofreader <> N: {rk: 42627, frq: 64}
+prop <> V: {rk: 5920, frq: 4350}, N: {rk: 8118, frq: 3577}
+propaganda <> N: {rk: 5913, frq: 4198}
+propagandist <> N: {rk: 24872, frq: 291}
+propagandistic <> J: {rk: 38718, frq: 78}
+propagandize <> V: {rk: 37232, frq: 78}
+propagate <> V: {rk: 12195, frq: 1189}
+propagation <> N: {rk: 16204, frq: 770}
+propagator <> N: {rk: 51797, frq: 35}
+propane <> N: {rk: 15469, frq: 750}
+propel <> V: {rk: 6713, frq: 3201}
+propellant <> N: {rk: 21898, frq: 376}
+propelled <> J: {rk: 58615, frq: 20}
+propeller <> N: {rk: 12901, frq: 1152}
+propensity <> N: {rk: 11162, frq: 1461}
+proper <> J: {rk: 2069, frq: 18245}
+properly <> R: {rk: 2897, frq: 11629}
+propertied <> J: {rk: 45637, frq: 43}
+property <> N: {rk: 994, frq: 43845}
+prophecy <> N: {rk: 9624, frq: 1789}
+prophesy <> V: {rk: 19651, frq: 441}
+prophet <> N: {rk: 7642, frq: 3764}
+prophetess <> N: {rk: 49493, frq: 40}
+prophetic <> J: {rk: 12372, frq: 1138}
+prophetically <> R: {rk: 35831, frq: 93}
+prophylactic <> J: {rk: 25193, frq: 276}, N: {rk: 51037, frq: 30}
+prophylactically <> R: {rk: 57107, frq: 19}
+prophylaxis <> N: {rk: 30314, frq: 212}
+propinquity <> N: {rk: 47374, frq: 49}
+propitiate <> V: {rk: 45158, frq: 48}
+propitiation <> N: {rk: 49297, frq: 40}
+propitious <> J: {rk: 25528, frq: 239}
+propolis <> N: {rk: 54425, frq: 46}
+proponent <> N: {rk: 5816, frq: 4224}
+proportion <> N: {rk: 3082, frq: 11428}, I: {rk: 20675, frq: 394}, V: {rk: 23210, frq: 294}
+proportional <> J: {rk: 10770, frq: 1567}
+proportionality <> N: {rk: 23072, frq: 335}
+proportionally <> R: {rk: 23423, frq: 306}
+proportionate <> J: {rk: 20701, frq: 421}
+proportionately <> R: {rk: 20520, frq: 401}
+proposal <> N: {rk: 1630, frq: 24813}
+propose <> V: {rk: 1702, frq: 23369}
+proposed <> J: {rk: 3094, frq: 11076}
+proposer <> N: {rk: 53452, frq: 29}
+proposition <> N: {rk: 5488, frq: 6500}, V: {rk: 25621, frq: 245}
+propositional <> J: {rk: 31198, frq: 153}
+propound <> V: {rk: 26651, frq: 215}
+propranolol <> N: {rk: 58680, frq: 29}
+proprietary <> J: {rk: 10057, frq: 1747}
+proprietor <> N: {rk: 11133, frq: 1385}
+proprietorship <> N: {rk: 37502, frq: 80}
+proprietress <> N: {rk: 40670, frq: 66}
+propriety <> N: {rk: 14140, frq: 881}
+proprioception <> N: {rk: 49876, frq: 41}
+proprioceptive <> J: {rk: 45429, frq: 58}
+proptosis <> N: {rk: 57170, frq: 30}
+propulsion <> N: {rk: 11033, frq: 1412}
+propulsive <> J: {rk: 31064, frq: 154}
+propylene <> N: {rk: 49474, frq: 37}
+prosaic <> J: {rk: 20298, frq: 414}
+prosaically <> R: {rk: 49678, frq: 31}
+proscenium <> N: {rk: 31714, frq: 140}
+prosciutto <> N: {rk: 20068, frq: 578}
+proscribe <> V: {rk: 23334, frq: 308}
+proscribed <> J: {rk: 36782, frq: 92}
+proscription <> N: {rk: 29133, frq: 170}
+proscriptive <> J: {rk: 55703, frq: 31}
+prose <> N: {rk: 7593, frq: 2806}
+prosecutable <> J: {rk: 43607, frq: 48}
+prosecute <> V: {rk: 5141, frq: 5198}
+prosecuting <> J: {rk: 29707, frq: 154}
+prosecution <> N: {rk: 3631, frq: 9521}
+prosecutor <> N: {rk: 2136, frq: 18696}
+prosecutorial <> J: {rk: 21220, frq: 385}
+proselytism <> N: {rk: 48050, frq: 49}
+proselytization <> N: {rk: 48808, frq: 36}
+proselytize <> V: {rk: 20567, frq: 403}
+proselytizer <> N: {rk: 39660, frq: 66}
+proselytizing <> N: {rk: 34948, frq: 106}, J: {rk: 51254, frq: 32}
+prosocial <> J: {rk: 20636, frq: 561}
+prosodic <> J: {rk: 56157, frq: 30}
+prosody <> N: {rk: 44116, frq: 72}
+prosopopoeia <> N: {rk: 54657, frq: 45}
+prospect <> N: {rk: 2337, frq: 15862}, V: {rk: 27076, frq: 212}
+prospecting <> N: {rk: 43681, frq: 88}, J: {rk: 50073, frq: 32}
+prospective <> J: {rk: 5480, frq: 4793}
+prospector <> N: {rk: 18892, frq: 532}
+prospectus <> N: {rk: 20149, frq: 433}
+prosper <> V: {rk: 8403, frq: 2193}
+prosperity <> N: {rk: 5134, frq: 5156}
+prosperous <> J: {rk: 7463, frq: 2651}
+prostaglandin <> N: {rk: 28113, frq: 210}
+prostate <> N: {rk: 7489, frq: 2913}
+prostatectomy <> N: {rk: 34247, frq: 138}
+prostatic <> J: {rk: 38477, frq: 94}
+prostatitis <> N: {rk: 50089, frq: 61}
+prosthesis <> N: {rk: 11867, frq: 1483}
+prosthetic <> J: {rk: 13604, frq: 1150}, N: {rk: 57296, frq: 29}
+prosthetics <> N: {rk: 26263, frq: 290}
+prosthetist <> N: {rk: 36049, frq: 146}
+prostitute <> N: {rk: 6097, frq: 3834}, V: {rk: 30457, frq: 152}
+prostituted <> J: {rk: 58653, frq: 21}
+prostitution <> N: {rk: 8151, frq: 2437}
+prostrate <> J: {rk: 22927, frq: 304}, V: {rk: 34911, frq: 98}
+prostration <> N: {rk: 41648, frq: 56}
+protagonist <> N: {rk: 7663, frq: 2960}
+protean <> J: {rk: 28532, frq: 181}
+protease <> N: {rk: 27946, frq: 206}
+protect <> V: {rk: 749, frq: 54848}
+protectant <> N: {rk: 49420, frq: 40}
+protected <> J: {rk: 6466, frq: 3696}
+protecting <> J: {rk: 33990, frq: 111}
+protection <> N: {rk: 1319, frq: 31766}
+protectionism <> N: {rk: 16651, frq: 683}
+protectionist <> J: {rk: 18248, frq: 532}, N: {rk: 32706, frq: 125}
+protective <> J: {rk: 4146, frq: 7098}
+protectively <> R: {rk: 23974, frq: 297}
+protectiveness <> N: {rk: 35581, frq: 89}
+protector <> N: {rk: 9866, frq: 1712}
+protectorate <> N: {rk: 23884, frq: 327}
+protectress <> N: {rk: 58871, frq: 20}
+protege <> N: {rk: 14640, frq: 812}
+protegee <> N: {rk: 44152, frq: 52}
+protein <> N: {rk: 2539, frq: 15892}
+proteinase <> N: {rk: 59216, frq: 33}
+proteinuria <> N: {rk: 59888, frq: 27}
+proteolytic <> J: {rk: 43826, frq: 54}
+protest <> N: {rk: 2852, frq: 12553}, V: {rk: 3592, frq: 8481}
+protestation <> N: {rk: 22512, frq: 310}
+protester <> N: {rk: 6279, frq: 4390}
+protesting <> J: {rk: 37550, frq: 80}
+protestor <> N: {rk: 22025, frq: 401}
+protist <> N: {rk: 54079, frq: 39}
+protocol <> N: {rk: 4526, frq: 6644}
+proton <> N: {rk: 12522, frq: 1273}
+protoplanet <> N: {rk: 52237, frq: 35}
+protoplasm <> N: {rk: 43614, frq: 53}
+protostar <> N: {rk: 40927, frq: 80}
+prototype <> N: {rk: 6354, frq: 3651}
+prototypic <> J: {rk: 59354, frq: 23}
+prototypical <> J: {rk: 21740, frq: 359}
+prototypically <> R: {rk: 52036, frq: 28}
+prototyping <> J: {rk: 44627, frq: 66}
+protozoan <> N: {rk: 32039, frq: 144}, J: {rk: 45221, frq: 48}
+protract <> V: {rk: 43633, frq: 48}
+protracted <> J: {rk: 12093, frq: 1195}
+protractor <> N: {rk: 45977, frq: 46}
+protrude <> V: {rk: 12103, frq: 1207}
+protruding <> J: {rk: 20429, frq: 399}
+protrusion <> N: {rk: 27398, frq: 207}
+protuberance <> N: {rk: 36903, frq: 91}
+protuberant <> J: {rk: 47222, frq: 40}
+proud <> J: {rk: 1993, frq: 19313}
+proudly <> R: {rk: 6219, frq: 3640}
+provable <> J: {rk: 34360, frq: 99}
+prove <> V: {rk: 867, frq: 47800}
+proved <> J: {rk: 45734, frq: 43}
+proven <> J: {rk: 7849, frq: 2527}
+provenance <> N: {rk: 17426, frq: 600}
+provender <> N: {rk: 54966, frq: 24}
+provenience <> N: {rk: 59073, frq: 26}
+proverb <> N: {rk: 13351, frq: 1019}
+proverbial <> J: {rk: 14149, frq: 888}
+proverbially <> R: {rk: 49465, frq: 34}
+provide <> V: {rk: 262, frq: 162772}
+provided <> C: {rk: 3872, frq: 7978}
+provident <> J: {rk: 40528, frq: 72}
+providential <> J: {rk: 27467, frq: 203}
+providentially <> R: {rk: 46051, frq: 44}
+provider <> N: {rk: 3122, frq: 11212}
+providing <> C: {rk: 18446, frq: 520}
+province <> N: {rk: 3249, frq: 10332}
+provincial <> J: {rk: 6393, frq: 3708}, N: {rk: 44415, frq: 51}
+provincialism <> N: {rk: 36031, frq: 91}
+provinciality <> N: {rk: 57132, frq: 19}
+provincially <> R: {rk: 55603, frq: 21}
+proving <> J: {rk: 29002, frq: 175}
+provision <> N: {rk: 2628, frq: 14364}, V: {rk: 45196, frq: 46}
+provisional <> J: {rk: 11120, frq: 1445}
+provisionally <> R: {rk: 30032, frq: 169}
+provisioning <> N: {rk: 32526, frq: 135}
+proviso <> N: {rk: 24509, frq: 602}
+provocation <> N: {rk: 12994, frq: 1067}
+provocative <> J: {rk: 7340, frq: 2845}
+provocatively <> R: {rk: 26558, frq: 220}
+provoke <> V: {rk: 4867, frq: 5426}
+provoking <> J: {rk: 50827, frq: 29}
+provolone <> N: {rk: 38455, frq: 91}
+provost <> N: {rk: 20135, frq: 600}
+prow <> N: {rk: 22531, frq: 375}
+prowess <> N: {rk: 11331, frq: 1323}
+prowl <> V: {rk: 13545, frq: 957}, N: {rk: 24738, frq: 274}
+prowler <> N: {rk: 29666, frq: 239}
+prowling <> J: {rk: 50929, frq: 29}
+proximal <> J: {rk: 18643, frq: 566}
+proximate <> J: {rk: 23495, frq: 338}
+proximity <> N: {rk: 6683, frq: 3402}
+proxy <> N: {rk: 9372, frq: 1933}
+prude <> N: {rk: 30679, frq: 143}
+prudence <> N: {rk: 15544, frq: 1139}
+prudent <> J: {rk: 8998, frq: 1948}
+prudential <> J: {rk: 21549, frq: 390}
+prudently <> R: {rk: 24567, frq: 268}
+prudery <> N: {rk: 46155, frq: 42}
+prudish <> J: {rk: 37373, frq: 79}
+prudishness <> N: {rk: 50614, frq: 29}
+prune <> V: {rk: 14752, frq: 813}, N: {rk: 19424, frq: 459}
+pruned <> J: {rk: 48128, frq: 36}
+pruner <> N: {rk: 36961, frq: 108}
+pruning <> N: {rk: 16561, frq: 693}
+prurience <> N: {rk: 46075, frq: 44}
+prurient <> J: {rk: 26155, frq: 233}
+pruritus <> N: {rk: 45230, frq: 74}
+pry <> V: {rk: 8655, frq: 2252}, N: {rk: 42681, frq: 61}
+prying <> J: {rk: 34726, frq: 102}, N: {rk: 46959, frq: 42}
+psalmist <> N: {rk: 37325, frq: 97}
+psalter <> N: {rk: 41397, frq: 73}
+pseudo <> J: {rk: 29442, frq: 167}
+pseudoephedrine <> N: {rk: 40260, frq: 81}
+pseudonym <> N: {rk: 16665, frq: 654}
+pseudonymous <> J: {rk: 41768, frq: 62}
+pseudopod <> N: {rk: 53221, frq: 39}
+pseudoscience <> N: {rk: 35609, frq: 103}
+psilocybin <> N: {rk: 43366, frq: 79}
+psoas <> N: {rk: 59649, frq: 36}
+psoriasis <> N: {rk: 27593, frq: 263}
+psych <> V: {rk: 21127, frq: 380}
+psyche <> N: {rk: 7929, frq: 2536}
+psyched <> J: {rk: 48352, frq: 37}
+psychedelia <> N: {rk: 40678, frq: 69}
+psychedelic <> J: {rk: 17789, frq: 588}, N: {rk: 55309, frq: 23}
+psychiatric <> J: {rk: 5541, frq: 4673}
+psychiatrically <> R: {rk: 44436, frq: 45}
+psychiatrist <> N: {rk: 5234, frq: 5067}
+psychiatry <> N: {rk: 10181, frq: 1978}
+psychic <> J: {rk: 7958, frq: 2452}, N: {rk: 26377, frq: 234}
+psychical <> J: {rk: 38834, frq: 79}
+psychically <> R: {rk: 35182, frq: 98}
+psycho <> N: {rk: 16722, frq: 844}
+psychoactive <> J: {rk: 31006, frq: 152}
+psychoanalysis <> N: {rk: 14695, frq: 1170}
+psychoanalyst <> N: {rk: 21266, frq: 402}
+psychoanalytic <> J: {rk: 16604, frq: 772}
+psychoanalytical <> J: {rk: 38341, frq: 118}
+psychoanalyze <> V: {rk: 40233, frq: 64}
+psychobabble <> N: {rk: 39235, frq: 67}
+psychodrama <> N: {rk: 34809, frq: 110}
+psychodynamic <> J: {rk: 36783, frq: 100}
+psychodynamics <> N: {rk: 56055, frq: 22}
+psychoeducational <> J: {rk: 31572, frq: 163}
+psychogenic <> J: {rk: 45685, frq: 58}
+psychokinesis <> N: {rk: 55370, frq: 28}
+psycholinguist <> N: {rk: 59252, frq: 33}
+psycholinguistic <> J: {rk: 48708, frq: 38}
+psychological <> J: {rk: 2376, frq: 16793}
+psychologically <> R: {rk: 9273, frq: 1848}
+psychologist <> N: {rk: 3033, frq: 12076}
+psychology <> N: {rk: 2991, frq: 13259}
+psychometric <> J: {rk: 15965, frq: 822}
+psychometrically <> R: {rk: 35211, frq: 118}
+psychometrics <> N: {rk: 51861, frq: 33}
+psychoneuroimmunology <> N: {rk: 57656, frq: 21}
+psychopath <> N: {rk: 20199, frq: 529}
+psychopathic <> J: {rk: 29942, frq: 160}
+psychopathological <> J: {rk: 42105, frq: 60}
+psychopathology <> N: {rk: 19830, frq: 604}
+psychopathy <> N: {rk: 50546, frq: 56}
+psychopharmacological <> J: {rk: 54989, frq: 27}
+psychopharmacology <> N: {rk: 41449, frq: 76}
+psychophysical <> J: {rk: 36237, frq: 111}
+psychophysiological <> J: {rk: 41173, frq: 68}
+psychosexual <> J: {rk: 34024, frq: 108}
+psychosis <> N: {rk: 18909, frq: 520}
+psychosocial <> J: {rk: 10267, frq: 1909}
+psychosomatic <> J: {rk: 27280, frq: 259}
+psychotherapeutic <> J: {rk: 36057, frq: 103}
+psychotherapist <> N: {rk: 15060, frq: 850}
+psychotherapy <> N: {rk: 12834, frq: 1229}
+psychotic <> J: {rk: 13706, frq: 945}, N: {rk: 38783, frq: 91}
+psychotically <> R: {rk: 51148, frq: 30}
+psychotropic <> J: {rk: 28284, frq: 231}
+psyllium <> N: {rk: 39296, frq: 115}
+ptarmigan <> N: {rk: 36461, frq: 137}
+pterodactyl <> N: {rk: 36727, frq: 91}
+pterosaur <> N: {rk: 51017, frq: 34}
+pub <> N: {rk: 7552, frq: 2795}
+pubertal <> J: {rk: 39738, frq: 116}
+puberty <> N: {rk: 12957, frq: 1041}
+pubescence <> N: {rk: 58848, frq: 24}
+pubescent <> J: {rk: 32118, frq: 134}
+pubic <> J: {rk: 17279, frq: 609}
+pubis <> N: {rk: 42114, frq: 58}
+public <> J: {rk: 333, frq: 130442}, N: {rk: 859, frq: 49073}, R: {rk: 4957, frq: 5328}
+public-spirited <> J: {rk: 38638, frq: 70}
+public-spiritedness <> N: {rk: 58999, frq: 23}
+publically <> R: {rk: 46556, frq: 48}
+publican <> N: {rk: 44513, frq: 58}
+publication <> N: {rk: 2475, frq: 15306}
+publicist <> N: {rk: 11707, frq: 1346}
+publicity <> N: {rk: 4581, frq: 5922}
+publicize <> V: {rk: 9997, frq: 1622}
+publicized <> J: {rk: 13275, frq: 966}
+publicly <> R: {rk: 3046, frq: 11010}
+publicness <> N: {rk: 53775, frq: 44}
+publish <> V: {rk: 1117, frq: 37900}
+publishable <> J: {rk: 40526, frq: 78}
+published <> J: {rk: 7435, frq: 2861}
+publisher <> N: {rk: 3091, frq: 11246}
+publishing <> N: {rk: 6814, frq: 5596}
+puce <> N: {rk: 49944, frq: 44}
+puck <> N: {rk: 15739, frq: 1212}
+pucker <> V: {rk: 19408, frq: 493}, N: {rk: 35947, frq: 93}
+puckered <> J: {rk: 35027, frq: 105}
+puckering <> N: {rk: 53036, frq: 30}
+puckery <> J: {rk: 51951, frq: 30}
+puckish <> J: {rk: 38086, frq: 73}
+pud <> N: {rk: 52557, frq: 37}
+pudding <> N: {rk: 8675, frq: 2222}
+puddle <> N: {rk: 9197, frq: 2022}, V: {rk: 37738, frq: 86}
+puddled <> J: {rk: 55167, frq: 26}
+pudgy <> J: {rk: 18464, frq: 546}
+pueblo <> N: {rk: 15681, frq: 2527}
+puerile <> J: {rk: 41757, frq: 60}
+puff <> N: {rk: 8436, frq: 2531}, V: {rk: 9595, frq: 1852}
+puffball <> N: {rk: 37834, frq: 101}
+puffed <> J: {rk: 24930, frq: 276}
+puffer <> N: {rk: 37872, frq: 104}
+puffery <> N: {rk: 46236, frq: 44}
+puffin <> N: {rk: 34070, frq: 257}
+puffiness <> N: {rk: 36341, frq: 105}
+puffing <> J: {rk: 19154, frq: 477}
+puffy <> J: {rk: 11903, frq: 1254}
+pug <> N: {rk: 21829, frq: 378}
+pugilist <> N: {rk: 39198, frq: 70}
+pugilistic <> J: {rk: 47189, frq: 39}
+pugnacious <> J: {rk: 29172, frq: 171}
+pugnacity <> N: {rk: 47974, frq: 43}
+puissance <> N: {rk: 52231, frq: 31}
+puissant <> J: {rk: 56962, frq: 24}
+puja <> N: {rk: 44423, frq: 75}
+puke <> V: {rk: 18946, frq: 517}, N: {rk: 31578, frq: 140}
+pulchritude <> N: {rk: 50469, frq: 36}
+pull <> V: {rk: 471, frq: 94325}, N: {rk: 7541, frq: 2675}
+pull-down <> J: {rk: 34250, frq: 101}
+pull-up <> N: {rk: 23317, frq: 345}
+pullback <> N: {rk: 25536, frq: 261}
+pulled <> J: {rk: 23587, frq: 308}
+puller <> N: {rk: 30159, frq: 220}
+pullet <> N: {rk: 53749, frq: 32}
+pulley <> N: {rk: 16466, frq: 712}
+pulling <> N: {rk: 29232, frq: 165}, J: {rk: 32115, frq: 125}
+pullout <> N: {rk: 15251, frq: 1518}
+pullover <> N: {rk: 23001, frq: 312}
+pulmonary <> J: {rk: 13436, frq: 1272}
+pulmonologist <> N: {rk: 42036, frq: 72}
+pulp <> N: {rk: 8809, frq: 2069}, V: {rk: 34189, frq: 111}
+pulpit <> N: {rk: 10133, frq: 1594}
+pulpwood <> N: {rk: 39825, frq: 69}
+pulpy <> J: {rk: 33620, frq: 116}
+pulsar <> N: {rk: 15986, frq: 793}
+pulsate <> V: {rk: 21019, frq: 369}
+pulsatile <> J: {rk: 51184, frq: 35}
+pulsating <> J: {rk: 30090, frq: 149}, N: {rk: 54051, frq: 30}
+pulsation <> N: {rk: 29972, frq: 171}
+pulse <> N: {rk: 4369, frq: 6616}, V: {rk: 13463, frq: 1051}
+pulsed <> J: {rk: 31162, frq: 143}
+pulsing <> J: {rk: 27611, frq: 205}, N: {rk: 35388, frq: 96}
+pulverize <> V: {rk: 21541, frq: 355}
+pulverized <> J: {rk: 31852, frq: 128}
+puma <> N: {rk: 24294, frq: 292}
+pumice <> N: {rk: 29419, frq: 181}
+pummel <> V: {rk: 15324, frq: 759}
+pummeled <> J: {rk: 51501, frq: 30}
+pummeling <> N: {rk: 42359, frq: 55}
+pump <> N: {rk: 3467, frq: 9305}, V: {rk: 3999, frq: 7337}
+pump-action <> J: {rk: 49850, frq: 33}
+pumped <> J: {rk: 33975, frq: 106}
+pumper <> N: {rk: 36870, frq: 108}
+pumpernickel <> N: {rk: 44175, frq: 69}
+pumping <> N: {rk: 12352, frq: 1136}
+pumpkin <> N: {rk: 6231, frq: 4190}
+pun <> N: {rk: 13296, frq: 991}, V: {rk: 34044, frq: 111}
+punch <> V: {rk: 4387, frq: 6604}, N: {rk: 5143, frq: 5585}
+punch-drunk <> J: {rk: 40974, frq: 65}
+punchbowl <> N: {rk: 54445, frq: 34}
+punched <> J: {rk: 36175, frq: 95}
+puncher <> N: {rk: 34206, frq: 108}
+punching <> J: {rk: 27346, frq: 190}, N: {rk: 50646, frq: 47}
+punchline <> N: {rk: 31571, frq: 172}
+punchy <> J: {rk: 32041, frq: 145}
+punctilious <> J: {rk: 40338, frq: 65}
+punctual <> J: {rk: 27518, frq: 221}
+punctuality <> N: {rk: 28928, frq: 190}
+punctually <> R: {rk: 49280, frq: 35}
+punctuate <> V: {rk: 9395, frq: 1822}
+punctuation <> N: {rk: 16546, frq: 676}
+puncture <> V: {rk: 15306, frq: 725}, N: {rk: 19040, frq: 489}
+punctured <> J: {rk: 35679, frq: 99}
+pundit <> N: {rk: 9924, frq: 1743}
+punditry <> N: {rk: 38144, frq: 95}
+pungency <> N: {rk: 36358, frq: 86}
+pungent <> J: {rk: 13450, frq: 985}
+pungently <> R: {rk: 51657, frq: 28}
+punic <> J: {rk: 42796, frq: 80}
+punish <> V: {rk: 3892, frq: 7411}
+punishable <> J: {rk: 20970, frq: 391}
+punished <> J: {rk: 37720, frq: 78}
+punisher <> N: {rk: 50739, frq: 38}
+punishing <> J: {rk: 15078, frq: 767}
+punishment <> N: {rk: 3129, frq: 10888}
+punitive <> J: {rk: 9099, frq: 1983}, N: {rk: 59821, frq: 28}
+punitively <> R: {rk: 53398, frq: 28}
+punjabi <> J: {rk: 31171, frq: 197}, N: {rk: 47888, frq: 65}
+punk <> N: {rk: 8175, frq: 2396}
+punky <> J: {rk: 40188, frq: 66}
+punning <> N: {rk: 55930, frq: 25}
+punt <> N: {rk: 12859, frq: 1363}, V: {rk: 24059, frq: 329}
+punter <> N: {rk: 20011, frq: 476}
+punting <> J: {rk: 52307, frq: 31}
+puny <> J: {rk: 16493, frq: 649}
+pup <> N: {rk: 9455, frq: 2030}, V: {rk: 31052, frq: 143}
+pupa <> N: {rk: 29222, frq: 185}
+pupal <> J: {rk: 49564, frq: 35}
+pupate <> V: {rk: 49053, frq: 43}
+pupfish <> N: {rk: 50779, frq: 36}
+pupil <> N: {rk: 5109, frq: 5577}
+puppet <> N: {rk: 7368, frq: 2831}
+puppeteer <> N: {rk: 25519, frq: 249}
+puppetry <> N: {rk: 30212, frq: 178}
+puppy <> N: {rk: 6900, frq: 3254}
+purchase <> V: {rk: 2162, frq: 17698}, N: {rk: 3108, frq: 10869}
+purchased <> J: {rk: 25263, frq: 260}
+purchaser <> N: {rk: 14386, frq: 866}
+purchasing <> N: {rk: 10392, frq: 1577}, J: {rk: 56107, frq: 21}
+purdah <> N: {rk: 48686, frq: 34}
+pure <> J: {rk: 2432, frq: 14765}
+purebred <> J: {rk: 30667, frq: 155}, N: {rk: 57393, frq: 24}
+pured <> J: {rk: 57459, frq: 30}
+puree <> N: {rk: 11533, frq: 1580}
+purely <> R: {rk: 5174, frq: 4994}
+purgation <> N: {rk: 45971, frq: 56}
+purgative <> J: {rk: 51856, frq: 28}, N: {rk: 54688, frq: 23}
+purgatorial <> J: {rk: 59544, frq: 50}
+purgatory <> N: {rk: 22232, frq: 678}
+purge <> V: {rk: 11819, frq: 1204}, N: {rk: 16666, frq: 634}
+purging <> N: {rk: 37885, frq: 84}
+purification <> N: {rk: 16049, frq: 693}
+purified <> J: {rk: 26639, frq: 217}
+purifier <> N: {rk: 31788, frq: 139}
+purify <> V: {rk: 13894, frq: 903}
+purifying <> J: {rk: 41526, frq: 59}
+purine <> N: {rk: 59390, frq: 21}
+purism <> N: {rk: 45337, frq: 59}
+purist <> N: {rk: 16382, frq: 666}, J: {rk: 35902, frq: 90}
+puritanical <> J: {rk: 25468, frq: 236}
+puritanism <> N: {rk: 32173, frq: 131}
+purity <> N: {rk: 8920, frq: 2046}
+purl <> V: {rk: 51985, frq: 26}, N: {rk: 54459, frq: 36}
+purloin <> V: {rk: 43078, frq: 51}
+purloined <> J: {rk: 38216, frq: 71}
+purple <> J: {rk: 3924, frq: 7811}, N: {rk: 18028, frq: 804}, V: {rk: 57176, frq: 21}
+purplish <> J: {rk: 24870, frq: 257}
+purport <> V: {rk: 11637, frq: 1269}, N: {rk: 51691, frq: 28}
+purported <> J: {rk: 16673, frq: 648}
+purportedly <> R: {rk: 16920, frq: 617}
+purpose <> N: {rk: 1015, frq: 43195}, V: {rk: 33863, frq: 104}
+purpose-built <> J: {rk: 40388, frq: 74}
+purposeful <> J: {rk: 13165, frq: 1050}
+purposefully <> R: {rk: 14615, frq: 829}
+purposefulness <> N: {rk: 42223, frq: 57}
+purposeless <> J: {rk: 33862, frq: 111}
+purposelessness <> N: {rk: 55389, frq: 23}
+purposely <> R: {rk: 12718, frq: 1029}
+purposive <> J: {rk: 30853, frq: 175}
+purposiveness <> N: {rk: 59283, frq: 19}
+purpura <> N: {rk: 45825, frq: 59}
+purr <> V: {rk: 16172, frq: 722}, N: {rk: 25778, frq: 252}
+purring <> J: {rk: 43116, frq: 51}, N: {rk: 47657, frq: 42}
+purse <> N: {rk: 4397, frq: 6774}, V: {rk: 14493, frq: 956}
+pursed <> J: {rk: 31893, frq: 134}
+purser <> N: {rk: 43220, frq: 84}
+purslane <> N: {rk: 40706, frq: 79}
+pursuance <> N: {rk: 56411, frq: 26}
+pursuant <> I: {rk: 15946, frq: 721}
+pursue <> V: {rk: 1795, frq: 21708}
+pursued <> J: {rk: 56428, frq: 21}
+pursuer <> N: {rk: 17871, frq: 585}
+pursuing <> J: {rk: 31910, frq: 129}
+pursuit <> N: {rk: 3903, frq: 7596}
+purulent <> J: {rk: 37643, frq: 89}
+purvey <> V: {rk: 31974, frq: 128}
+purveyor <> N: {rk: 16092, frq: 695}
+purview <> N: {rk: 18356, frq: 533}
+pus <> N: {rk: 23722, frq: 303}
+push <> V: {rk: 695, frq: 61256}, N: {rk: 5551, frq: 4528}
+push-pull <> J: {rk: 37210, frq: 83}
+push-up <> N: {rk: 13556, frq: 1062}
+pushback <> N: {rk: 39314, frq: 123}
+pushcart <> N: {rk: 31787, frq: 142}
+pushed <> J: {rk: 55490, frq: 24}
+pusher <> N: {rk: 20462, frq: 429}
+pushing <> N: {rk: 33081, frq: 116}, J: {rk: 43279, frq: 76}
+pushover <> N: {rk: 28193, frq: 196}
+pushpin <> N: {rk: 41971, frq: 59}
+pushrod <> N: {rk: 49756, frq: 37}
+pushy <> J: {rk: 19890, frq: 431}
+pusillanimous <> J: {rk: 45321, frq: 45}
+puss <> N: {rk: 29507, frq: 374}
+pussy <> N: {rk: 14884, frq: 896}
+pussycat <> N: {rk: 29278, frq: 214}
+pustule <> N: {rk: 38639, frq: 78}
+put <> V: {rk: 151, frq: 257101}, N: {rk: 32430, frq: 139}
+put-down <> N: {rk: 26401, frq: 214}
+put-on <> N: {rk: 41840, frq: 62}
+putative <> J: {rk: 17137, frq: 741}
+putatively <> R: {rk: 34011, frq: 112}
+putrefaction <> N: {rk: 41701, frq: 59}
+putrefy <> V: {rk: 46869, frq: 40}
+putrescible <> J: {rk: 59203, frq: 22}
+putrid <> J: {rk: 26351, frq: 230}
+putsch <> N: {rk: 32216, frq: 139}
+putt <> N: {rk: 8924, frq: 2124}, V: {rk: 25939, frq: 236}
+putter <> N: {rk: 15450, frq: 771}, V: {rk: 26876, frq: 213}
+putting <> N: {rk: 29185, frq: 167}
+putty <> N: {rk: 20334, frq: 844}
+puzzle <> N: {rk: 4291, frq: 6569}, V: {rk: 9160, frq: 1877}
+puzzled <> J: {rk: 7439, frq: 2894}
+puzzlement <> N: {rk: 19581, frq: 461}
+puzzler <> N: {rk: 41375, frq: 70}
+puzzling <> J: {rk: 14004, frq: 900}
+puzzlingly <> R: {rk: 48036, frq: 35}
+pycnogenol <> N: {rk: 54230, frq: 56}
+pygmy <> J: {rk: 24564, frq: 274}, N: {rk: 31632, frq: 141}
+pylon <> N: {rk: 23379, frq: 316}
+pylorus <> N: {rk: 25956, frq: 294}
+pyramid <> N: {rk: 6211, frq: 3890}
+pyramidal <> J: {rk: 30274, frq: 154}
+pyre <> N: {rk: 25923, frq: 240}
+pyrite <> N: {rk: 38983, frq: 110}
+pyro <> N: {rk: 41310, frq: 118}
+pyroclastic <> J: {rk: 48485, frq: 42}
+pyrolysis <> N: {rk: 59430, frq: 22}
+pyromaniac <> N: {rk: 54894, frq: 23}
+pyrotechnic <> N: {rk: 26105, frq: 252}, J: {rk: 34967, frq: 110}
+pyrrhic <> J: {rk: 35162, frq: 100}
+python <> N: {rk: 20085, frq: 753}

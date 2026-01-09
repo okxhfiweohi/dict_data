@@ -1,0 +1,2489 @@
+G-man <> s: g-men
+G-string <> s: g-strings
+Ga <> r: gaer
+gaa <> s: gaas
+gaas <> b: gaa, f: s
+gab <> i: gabbing
+gabardine <> s: gabardines
+gabardines <> b: gabardine, f: s
+gabbing <> b: gab, f: i
+gabble <> p: gabbled, i: gabbling, '3': gabbles, d: gabbled
+gabbled <> b: gabble, f: pd
+gabbles <> b: gabble, f: '3'
+gabbling <> b: gabble, f: i, s: gabblings, i: gabbling
+gabbro <> s: gabbros
+gabbros <> b: gabbro, f: s
+gaberdine <> s: gaberdines
+gaberdines <> b: gaberdine, f: s
+gabion <> s: gabions
+gabions <> b: gabion, f: s
+gable <> s: gables, i: gabling
+gables <> b: gable, f: s
+gabling <> b: gable, f: i
+gad <> i: gadding, p: gadded, '3': gads, d: gadded
+gadabout <> s: gadabouts
+gadabouts <> b: gadabout, f: s
+Gaddafi <> s: gaddafi, b: gaddafi, f: s
+gadded <> f: pd, b: gad
+gadding <> b: gad, f: i
+gadflies <> b: gadfly, f: s
+gadfly <> s: gadflies
+gadget <> s: gadgets
+gadgets <> b: gadget, f: s
+gadroon <> s: gadroons
+gadroons <> b: gadroon, f: s
+gads <> f: '3', b: gad
+Gael <> s: gaels
+gaff <> s: gaffs, d: gaffed, '3': gaffs, i: gaffing, p: gaffed
+gaffe <> s: gaffes
+gaffed <> b: gaff, f: dp
+gaffer <> s: gaffers
+gaffers <> b: gaffer, f: s
+gaffes <> b: gaffe, f: s
+gaffing <> b: gaff, f: i
+gaffs <> b: gaff, f: s3
+gag <> s: gags, p: gagged, i: gagging, d: gagged, '3': gags
+gage <> s: gages
+gages <> b: gage, f: s
+gagged <> b: gag, f: pd
+gagging <> b: gag, f: i, i: gagging, s: gaggings
+gaggle <> s: gaggles, i: gaggling, p: gaggled, '3': gaggles, d: gaggled
+gaggled <> f: pd, b: gaggle
+gaggles <> f: s3, b: gaggle
+gaggling <> f: i, b: gaggle
+gags <> b: gag, f: s3
+gaieties <> b: gaiety, f: s
+gaiety <> s: gaieties
+gain <> d: gained, s: gains, p: gained, i: gaining, '3': gains
+gained <> b: gain, f: dp
+gainer <> s: gainers
+gainers <> b: gainer, f: s
+gaining <> b: gain, f: i, i: gaining
+gains <> b: gain, f: s3
+gainsaid <> b: gainsay, f: dp
+gainsay <> i: gainsaying, d: gainsaid, '3': gainsays, p: gainsaid
+gainsaying <> b: gainsay, f: i
+gainsays <> b: gainsay, f: '3'
+gait <> s: gaits
+gaiter <> s: gaiters
+gaiters <> b: gaiter, f: s
+gaits <> b: gait, f: s
+gal <> s: gals
+gala <> s: galas
+galantine <> s: galantines
+galantines <> b: galantine, f: s
+galapago <> s: galapagos
+galapagos <> b: galapago, f: s
+galas <> b: gala, f: s
+galatian <> s: galatians
+Galatians <> b: galatian, f: s
+galaxies <> b: galaxy, f: s
+galaxy <> s: galaxies
+gale <> s: gales
+gales <> b: gale, f: s
+galette <> s: galettes
+galettes <> b: galette, f: s
+Galician <> s: galicians
+Galilean <> s: galileans
+gall <> s: galls, p: galled, d: galled, '3': galls, i: galling
+galla <> s: gallas
+gallant <> s: gallants
+gallantries <> b: gallantry, f: s
+gallantry <> s: gallantries
+gallants <> b: gallant, f: s
+gallas <> b: galla, f: s
+galled <> b: gall, f: pd
+galleon <> s: galleons
+galleons <> b: galleon, f: s
+galleried <> p: galleried, b: galleried, f: p
+galleries <> b: gallery, f: s
+gallery <> s: galleries
+galley <> s: galleys
+galleys <> b: galley, f: s
+galliard <> s: galliards
+galliards <> b: galliard, f: s
+galling <> i: galling, b: galling, f: i
+gallivant <> i: gallivanting, '3': gallivants, p: gallivanted, d: gallivanted
+gallivanted <> f: pd, b: gallivant
+gallivanting <> b: gallivant, f: i, i: gallivanting
+gallivants <> b: gallivant, f: '3'
+gallon <> s: gallons
+gallons <> b: gallon, f: s
+gallop <> p: galloped, i: galloping, s: gallops, '3': gallops, d: galloped
+galloped <> b: gallop, f: pd
+galloper <> s: gallopers
+gallopers <> b: galloper, f: s
+galloping <> b: gallop, f: i, i: galloping
+gallops <> b: gallop, f: s3
+Galloway <> s: galloways
+gallows <> s: gallows, b: gallows, f: s
+galls <> b: gall, f: s3
+gallstone <> s: gallstones
+gallstones <> b: gallstone, f: s
+galop <> s: galops
+galops <> b: galop, f: s
+galosh <> s: galoshes
+galoshes <> b: galosh, f: s
+gals <> b: gal, f: s
+galumph <> i: galumphing, p: galumphed, '3': galumphs, d: galumphed
+galumphed <> f: pd, b: galumph
+galumphing <> b: galumph, f: i
+galumphs <> f: '3', b: galumph
+galvanise <> p: galvanised, d: galvanised, i: galvanising, '3': galvanises
+galvanised <> d: galvanised, b: galvanised, f: dp, p: galvanised
+galvanises <> b: galvanise, f: '3'
+galvanising <> b: galvanise, f: i
+galvanize <> p: galvanized, d: galvanized, i: galvanizing, '3': galvanizes
+galvanized <> b: galvanize, f: pd, d: galvanized
+galvanizes <> b: galvanize, f: '3'
+galvanizing <> b: galvanize, f: i
+galvanometer <> s: galvanometers, b: galvanomete, f: r
+galvanometers <> b: galvanometer, f: s
+gam <> i: gamming, p: gammed, s: gams
+Gambian <> s: gambians
+gambier <> s: gambiers
+gambiers <> b: gambier, f: s
+gambit <> s: gambits
+gambits <> b: gambit, f: s
+gamble <> p: gambled, i: gambling, s: gambles, d: gambled, '3': gambles
+gambled <> b: gamble, f: pd
+gambler <> s: gamblers
+gamblers <> b: gambler, f: s
+gambles <> b: gamble, f: s3
+gambling <> b: gamble, f: i, i: gambling
+gambol <> i: gambolling, p: gambolled, '3': gambols, s: gambols, d: gambolled
+gambolled <> f: pd, b: gambol
+gambolling <> b: gambol, f: i
+gambols <> b: gambol, f: 3s
+game <> s: games, i: gaming, p: gamed, '3': games, d: gamed
+gamecock <> s: gamecocks
+gamecocks <> b: gamecock, f: s
+gamed <> f: pd, b: game
+gamekeeper <> s: gamekeepers
+gamekeepers <> b: gamekeeper, f: s
+gamelan <> s: gamelans
+gamelans <> b: gamelan, f: s
+gamer <> s: gamers
+gamers <> b: gamer, f: s
+games <> f: s3, b: game
+gamester <> s: gamesters
+gamesters <> b: gamester, f: s
+gamete <> s: gametes
+gametes <> b: gamete, f: s
+gamine <> s: gamines
+gamines <> b: gamine, f: s
+gaming <> f: i, b: game
+gamma <> s: gammas
+gammas <> b: gamma, f: s
+gammed <> b: gam, f: p
+gammies <> b: gammy, f: s
+gamming <> b: gam, f: i
+gammy <> s: gammies
+gams <> b: gam, f: s
+gander <> s: ganders
+ganders <> b: gander, f: s
+gang <> s: gangs, i: ganging, p: ganged, d: ganged, '3': gangs
+gang-bang <> s: gang-bangs
+gang-bangs <> b: gang-bang, f: s
+gangbuster <> s: gangbusters
+gangbusters <> b: gangbuster, f: s
+ganged <> b: gang, f: pd
+ganger <> s: gangers
+gangers <> b: ganger, f: s
+ganging <> b: gang, f: i
+ganglia <> b: ganglion, f: s
+ganglion <> s: ganglia
+ganglioside <> s: gangliosides
+gangliosides <> b: ganglioside, f: s
+gangplank <> s: gangplanks
+gangplanks <> b: gangplank, f: s
+gangrene <> i: gangrening, p: gangrened, '3': gangrenes, d: gangrened
+gangrened <> f: pd, b: gangrene
+gangrenes <> f: '3', b: gangrene
+gangrening <> f: i, b: gangrene
+gangs <> f: s3, b: gang
+gangster <> s: gangsters
+gangsters <> b: gangster, f: s
+gangway <> s: gangways, p: gangwayed
+gangwayed <> b: gangway, f: p
+gangways <> b: gangway, f: s
+gannet <> s: gannets
+gannetries <> b: gannetry, f: s
+gannetry <> s: gannetries
+gannets <> b: gannet, f: s
+gantries <> b: gantry, f: s
+gantry <> s: gantries
+gaol <> s: gaols, d: gaoled, p: gaoled, i: gaoling, '3': gaols
+gaoled <> b: gaol, f: dp
+gaoler <> s: gaolers
+gaolers <> b: gaoler, f: s
+gaoling <> b: gaol, f: i
+gaols <> b: gaol, f: s
+gap <> s: gaps, i: gapping, p: gapped, '3': gaps, d: gapped
+gape <> p: gaped, i: gaping, '3': gapes, s: gapes, d: gaped
+gaped <> b: gape, f: pd
+gapes <> b: gape, f: 3s
+gaping <> i: gaping, b: gaping, f: i
+gaps <> b: gap, f: s
+garage <> s: garages, i: garaging, d: garaged, p: garaged, '3': garages
+garaged <> b: garage, f: dp
+garages <> f: s3, b: garage
+garaging <> b: garage, f: i, i: garaging
+garb <> d: garbed, p: garbed, i: garbing, '3': garbs
+garbed <> b: garb, f: dp
+garbing <> f: i, b: garb
+garble <> d: garbled, i: garbling, p: garbled, '3': garbles
+garbled <> d: garbled, b: garbled, f: d
+garbles <> f: '3', b: garble
+garbling <> b: garble, f: i
+garbs <> f: '3', b: garb
+garde <> s: gardes
+garden <> s: gardens, i: gardening, p: gardened, '3': gardens, d: gardened
+gardened <> d: gardened, b: gardened, f: dp, p: gardened
+gardener <> s: gardeners
+gardeners <> b: gardener, f: s
+gardenia <> s: gardenias
+gardenias <> b: gardenia, f: s
+gardening <> i: gardening, b: gardening, f: i
+gardens <> f: s3, b: garden
+garderobe <> s: garderobes
+garderobes <> b: garderobe, f: s
+gardes <> b: garde, f: s
+Gare <> '3': gares
+Gareth <> '3': gareth, b: gareth, f: '3'
+Garfunkel <> '3': garfunkels
+gargle <> p: gargled, i: gargling, '3': gargles, d: gargled
+gargled <> b: gargle, f: pd
+gargles <> b: gargle, f: '3'
+gargling <> b: gargle, f: i, i: gargling
+gargoyle <> s: gargoyles, p: gargoyled
+gargoyled <> b: gargoyle, f: p
+gargoyles <> b: gargoyle, f: s
+garland <> s: garlands, d: garlanded, i: garlanding, p: garlanded, '3': garlands
+garlanded <> f: dp, b: garland, d: garlanded
+garlanding <> f: i, b: garland
+garlands <> f: s3, b: garland
+garment <> s: garments, i: garmenting, p: garmented, '3': garments, d: garmented
+garmented <> f: pd, b: garment
+garmenting <> f: i, b: garment
+garments <> f: s3, b: garment
+garner <> p: garnered, d: garnered, i: garnering, '3': garners
+garnered <> b: garner, f: pd
+garnering <> b: garner, f: i
+garners <> f: '3', b: garner
+garnet <> s: garnets
+garnets <> b: garnet, f: s
+Garnier <> b: garny, f: r
+garnish <> p: garnished, d: garnished, i: garnishing, s: garnishes, '3': garnishes
+garnished <> b: garnish, f: pd, d: garnished, p: garnished
+garnishee <> i: garnisheeing, p: garnisheed, '3': garnishees, d: garnisheed
+garnisheed <> f: pd, b: garnishee
+garnisheeing <> f: i, b: garnishee
+garnishees <> f: '3', b: garnishee
+garnishes <> f: s3, b: garnish
+garnishing <> b: garnish, f: i
+garniture <> s: garnitures
+garnitures <> b: garniture, f: s
+garret <> s: garrets
+garrets <> b: garret, f: s
+garrison <> s: garrisons, d: garrisoned, p: garrisoned, i: garrisoning, '3': garrisons
+garrisoned <> b: garrison, f: dp
+garrisoning <> b: garrison, f: i, i: garrisoning
+garrisons <> f: s3, b: garrison
+garron <> s: garrons
+garrons <> b: garron, f: s
+garrotte <> i: garrotting, p: garrotted, '3': garrottes, d: garrotted
+garrotted <> b: garrot, f: dp, p: garrotted
+garrottes <> f: '3', b: garrotte
+garrotting <> b: garrot, f: i
+garryowen <> s: garryowens
+garryowens <> b: garryowen, f: s
+garter <> s: garters, i: gartering, p: gartered, '3': garters, d: gartered
+gartered <> f: pd, b: garter
+gartering <> b: garter, f: i
+garters <> f: s3, b: garter
+gas <> s: gases, i: gassing, p: gassed, '3': gasses, d: gassed
+gas-guzzler <> s: gas-guzzlers
+gas-guzzlers <> b: gas-guzzler, f: s
+gasbag <> s: gasbags
+gasbags <> b: gasbag, f: s
+Gascon <> s: gascons
+gasconade <> i: gasconading, p: gasconaded, '3': gasconades, d: gasconaded
+gasconaded <> f: pd, b: gasconade
+gasconades <> f: '3', b: gasconade
+gasconading <> f: i, b: gasconade
+gases <> b: gas, f: s
+gash <> s: gashes, d: gashed, p: gashed, i: gashing, '3': gashes
+gashed <> b: gash, f: dp, p: gashed
+gashes <> b: gash, f: s3
+gashing <> b: gash, f: i
+gasified <> f: dp, b: gasify
+gasifier <> s: gasifiers
+gasifiers <> b: gasifier, f: s
+gasifies <> f: '3', b: gasify
+gasify <> d: gasified, i: gasifying, p: gasified, '3': gasifies
+Gaskell <> s: gaskells
+gasket <> s: gaskets
+gaskets <> b: gasket, f: s
+gaslight <> s: gaslights
+gaslights <> b: gaslight, f: s
+gasometer <> s: gasometers
+gasometers <> b: gasometer, f: s
+gasp <> p: gasped, i: gasping, s: gasps, '3': gasps, d: gasped
+gasped <> b: gasp, f: pd
+gasper <> s: gaspers
+gaspers <> b: gasper, f: s
+gasping <> b: gasp, f: i, i: gasping, s: gaspings
+gasps <> b: gasp, f: s3
+gass <> d: gassed, p: gassed, s: gasses
+gassed <> b: gass, f: dp, d: gassed, p: gassed
+gasses <> b: gass, f: s
+gassies <> b: gassy, f: s
+gassing <> b: gas, f: i
+gassy <> s: gassies
+Gastarbeiter <> s: gastarbeiters
+gasteropod <> '3': gasteropods
+gasteropods <> b: gasteropod, f: '3'
+gaston <> s: gastons
+gastons <> b: gaston, f: s
+gastrectomies <> b: gastrectomy, f: s
+gastrectomy <> s: gastrectomies
+gastrin <> s: gastrins
+gastrins <> b: gastrin, f: s
+gastroenterologist <> s: gastroenterologists
+gastroenterologists <> b: gastroenterologist, f: s
+gastronome <> s: gastronomes
+gastronomes <> b: gastronome, f: s
+gastropod <> s: gastropods
+gastropods <> b: gastropod, f: s
+gastroscope <> s: gastroscopes
+gastroscopes <> b: gastroscope, f: s
+gastroscopies <> b: gastroscopy, f: s
+gastroscopy <> s: gastroscopies
+gastrostomies <> b: gastrostomy, f: s
+gastrostomy <> s: gastrostomies
+gate <> s: gates, p: gated, i: gating, '3': gates, d: gated
+gateau <> s: gateaus
+gateaus <> b: gateau, f: s
+gateaux <> s: gateaux, b: gateaux, f: s
+gatecrash <> p: gatecrashed, i: gatecrashing, d: gatecrashed
+gatecrashed <> b: gatecrash, f: pd
+gatecrasher <> s: gatecrashers
+gatecrashers <> b: gatecrasher, f: s
+gatecrashing <> b: gatecrash, f: i
+gated <> f: pd, b: gate, d: gated, p: gated
+gatehouse <> s: gatehouses
+gatehouses <> b: gatehouse, f: s
+gatekeeper <> s: gatekeepers
+gatekeepers <> b: gatekeeper, f: s
+gatekeeping <> b: gatekeep, f: i
+gatepost <> s: gateposts, '3': gateposts
+gateposts <> b: gatepost, f: s3
+gates <> f: s3, b: gate
+gateway <> s: gateways
+gateways <> b: gateway, f: s
+gather <> d: gathered, p: gathered, i: gathering, '3': gathers
+gathered <> b: gather, f: dp, p: gathered, d: gathered
+gatherer <> s: gatherers
+gatherers <> b: gatherer, f: s
+gathering <> b: gather, f: i, s: gatherings, i: gathering
+gathers <> b: gather, f: '3'
+gating <> b: gate, f: i, i: gating
+gator <> s: gators
+gators <> b: gator, f: s
+Gaucho <> s: gauchos
+gauchos <> b: gaucho, f: s
+gaud <> s: gauds
+gaudier <> b: gaudy, f: r
+gaudies <> b: gaudy, f: s
+gaudiest <> b: gaudy, f: t
+gauds <> b: gaud, f: s
+gaudy <> s: gaudies, t: gaudiest, r: gaudier
+gauge <> s: gauges, d: gauged, i: gauging, p: gauged, '3': gauges
+gauged <> b: gauge, f: dp
+gauger <> s: gaugers
+gaugers <> b: gauger, f: s
+gauges <> b: gauge, f: s3
+gauging <> b: gauge, f: i
+Gauguin <> s: gauguins
+gaul <> s: gauls
+Gauleiter <> s: gauleiters
+Gaullist <> s: gaullists
+gauloise <> s: gauloises, '3': gauloises
+gauloises <> b: gauloise, f: s3
+gauls <> b: gaul, f: s
+Gaultier <> b: gaulty, f: r
+gaunt <> r: gaunter
+gaunter <> b: gaunt, f: r
+gauntlet <> s: gauntlets
+gauntlets <> b: gauntlet, f: s
+Gaussian <> s: gaussians
+gauze <> s: gauzes
+gauzes <> b: gauze, f: s
+gave <> b: give, f: p
+gavel <> s: gavels
+gavels <> b: gavel, f: s
+gavotte <> s: gavottes
+gavottes <> b: gavotte, f: s
+gawk <> i: gawking, d: gawked, p: gawked, '3': gawks
+gawked <> b: gawk, f: dp
+gawker <> s: gawkers
+gawkers <> b: gawker, f: s
+gawkier <> b: gawky, f: r
+gawking <> b: gawk, f: i
+gawks <> f: '3', b: gawk
+gawky <> r: gawkier
+gawp <> i: gawping, p: gawped, d: gawped, '3': gawps
+gawped <> b: gawp, f: pd
+gawper <> s: gawpers
+gawpers <> b: gawper, f: s
+gawping <> b: gawp, f: i, i: gawping
+gawps <> b: gawp, f: '3'
+gay <> s: gays
+Gaye <> r: gayer, t: gayest
+gayer <> b: gaye, f: r
+gayest <> b: gaye, f: t
+gays <> b: gay, f: s
+gazania <> s: gazanias
+gazanias <> b: gazania, f: s
+gaze <> p: gazed, i: gazing, '3': gazes, d: gazed, s: gazes
+gazebo <> s: gazebos
+gazebos <> b: gazebo, f: s
+gazed <> b: gaze, f: pd
+gazelle <> s: gazelles
+gazelles <> b: gazelle, f: s
+gazer <> s: gazers
+gazers <> b: gazer, f: s
+gazes <> b: gaze, f: 3s
+gazette <> s: gazettes, d: gazetted, p: gazetted, i: gazetting, '3': gazettes
+gazetted <> b: gazette, f: dp
+gazetteer <> s: gazetteers
+gazetteers <> b: gazetteer, f: s
+gazettes <> f: s3, b: gazette
+gazetting <> f: i, b: gazette
+gazing <> b: gaze, f: i, i: gazing
+gazump <> i: gazumping, d: gazumped, p: gazumped, '3': gazumps
+gazumped <> b: gazump, f: dp
+gazumping <> b: gazump, f: i
+gazumps <> f: '3', b: gazump
+Gbyte <> s: gbytes
+GCE <> s: gces
+gcse <> s: gcses
+gcses <> b: gcse, f: s
+GDP <> s: gdps
+GE <> p: ged, i: ging
+gear <> d: geared, s: gears, p: geared, i: gearing, '3': gears
+gearbox <> s: gearboxes
+gearboxes <> b: gearbox, f: s
+geared <> b: gear, f: dp, d: geared, p: geared
+gearing <> b: gear, f: i, i: gearing
+gears <> b: gear, f: s3
+gearwheel <> s: gearwheels
+gearwheels <> b: gearwheel, f: s
+gecko <> s: geckos
+geckos <> b: gecko, f: s
+ged <> b: ge, f: p, p: ged
+gedge <> s: gedges
+gedges <> b: gedge, f: s
+gee <> t: geest, i: geeing, p: geed, '3': gees, d: geed
+geed <> f: pd, b: gee
+geeing <> b: gee, f: i
+geek <> s: geeks
+geeks <> b: geek, f: s
+gees <> f: '3', b: gee
+geese <> b: goose, f: s
+geest <> b: gee, f: t
+geezer <> s: geezers
+geezers <> b: geezer, f: s
+geisha <> s: geishas
+geishas <> b: geisha, f: s
+gel <> s: gels, i: gelling, p: gelled, '3': gels, d: gelled
+gelada <> s: geladas
+geladas <> b: gelada, f: s
+gelatine <> s: gelatines
+gelatines <> b: gelatine, f: s
+gelatinize <> i: gelatinizing, p: gelatinized, '3': gelatinizes, d: gelatinized
+gelatinized <> f: pd, b: gelatinize
+gelatinizes <> f: '3', b: gelatinize
+gelatinizing <> f: i, b: gelatinize
+gelcoat <> s: gelcoats
+gelcoats <> b: gelcoat, f: s
+geld <> d: gelded, s: gelds, i: gelding, p: gelt, '3': gelds
+gelding <> f: i, b: geld, s: geldings
+geldings <> b: gelding, f: s
+gell <> p: gelled, d: gelled, i: gelling
+gelled <> b: gell, f: pd
+gelling <> b: gell, f: i
+gels <> b: gel, f: s
+gelt <> f: pd, b: geld
+gem <> s: gems
+geminate <> i: geminating, p: geminated, '3': geminates, d: geminated
+geminated <> f: pd, b: geminate
+geminates <> f: '3', b: geminate
+geminating <> f: i, b: geminate
+gemini <> s: gemini, b: gemini, f: s
+gemm <> s: gemms
+gemmologist <> s: gemmologists
+gemmologists <> b: gemmologist, f: s
+gemms <> b: gemm, f: s
+gemmule <> s: gemmules
+gemmules <> b: gemmule, f: s
+gems <> b: gem, f: s
+gemstone <> s: gemstones
+gemstones <> b: gemstone, f: s
+gen <> s: gens, d: genned, i: genning
+gendarme <> s: gendarmes
+gendarmes <> b: gendarme, f: s
+gender <> s: genders, d: gendered, p: gendered
+gendered <> b: gender, f: dp, p: gendered
+gendering <> i: gendering, b: gendering, f: i
+genders <> b: gender, f: s
+gene <> s: genes
+genealogies <> b: genealogy, f: s
+genealogist <> s: genealogists
+genealogists <> b: genealogist, f: s
+genealogy <> s: genealogies
+genera <> b: genus, f: s
+general <> s: generals
+general-purpose <> s: general-purposes
+general-purposes <> b: general-purpose, f: s
+generalisation <> s: generalisations
+generalisations <> b: generalisation, f: s
+generalise <> i: generalising, d: generalised, '3': generalises, p: generalised
+generalised <> d: generalised, b: generalised, f: d
+generalises <> b: generalise, f: '3'
+generalising <> b: generalise, f: i, i: generalising
+generalist <> s: generalists
+generalists <> b: generalist, f: s
+generalities <> b: generality, f: s
+generality <> s: generalities
+generalization <> s: generalizations
+generalizations <> b: generalization, f: s
+generalize <> i: generalizing, d: generalized, '3': generalizes, p: generalized
+generalized <> d: generalized, b: generalized, f: dp, p: generalized
+generalizes <> b: generalize, f: '3'
+generalizing <> b: generalize, f: i
+generals <> b: general, f: s
+generate <> d: generated, '3': generates, p: generated, i: generating
+generated <> b: generate, f: dp, p: generated, d: generated
+generates <> b: generate, f: '3'
+generating <> b: generate, f: i, i: generating
+generation <> s: generations
+generations <> b: generation, f: s
+generator <> s: generators
+generators <> b: generator, f: s
+generic <> s: generics
+generics <> b: generic, f: s
+generosities <> b: generosity, f: s
+generosity <> s: generosities
+genes <> b: gene, f: s
+genet <> s: genets
+geneticist <> s: geneticists
+geneticists <> b: geneticist, f: s
+genets <> b: genet, f: s
+genii <> s: genii, b: genii, f: s
+genital <> s: genitals
+genitals <> b: genital, f: s
+genitive <> s: genitives
+genitives <> b: genitive, f: s
+genitor <> s: genitors
+genitors <> b: genitor, f: s
+genius <> s: geniuses
+geniuses <> b: genius, f: s
+genned <> b: gen, f: d
+genning <> b: gen, f: i
+Genoa <> s: genoas
+genocide <> p: genocided, s: genocides
+genocided <> b: genocide, f: p
+genocides <> b: genocide, f: s
+genome <> s: genomes
+genomes <> b: genome, f: s
+genotype <> s: genotypes, d: genotyped
+genotyped <> b: genotype, f: d
+genotypes <> b: genotype, f: s
+genre <> s: genres
+genres <> b: genre, f: s
+gens <> b: gen, f: s
+gent <> s: gents
+gente <> s: gentes
+genteelism <> s: genteelisms
+genteelisms <> b: genteelism, f: s
+gentes <> b: gente, f: s
+gentian <> s: gentians
+gentians <> b: gentian, f: s
+gentile <> s: gentiles
+gentiles <> b: gentile, f: s
+gentle <> p: gentled, i: gentling, d: gentled, '3': gentles
+gentled <> b: gentle, f: pd
+gentleman <> s: gentlemen
+gentlemen <> b: gentleman, f: s, s: gentlemens
+gentles <> f: '3', b: gentle
+gentlewoman <> s: gentlewomen
+gentlewomen <> b: gentlewoman, f: s
+gentling <> b: gentle, f: i
+gentoo <> s: gentoos
+gentoos <> b: gentoo, f: s
+gentrification <> s: gentrifications
+gentrifications <> b: gentrification, f: s
+gentrified <> b: gentrify, f: dp, p: gentrified
+gentrify <> d: gentrified, p: gentrified, i: gentrifying, '3': gentrifies
+genuflect <> p: genuflected, i: genuflecting, '3': genuflects, d: genuflected
+genuflected <> f: pd, b: genuflect
+genuflecting <> b: genuflect, f: i
+genuflection <> s: genuflections
+genuflections <> b: genuflection, f: s
+genuflects <> b: genuflect, f: '3'
+genus <> s: genera
+geo <> s: geos
+geochemist <> s: geochemists
+geochemists <> b: geochemist, f: s
+geodesic <> s: geodesics
+geodesics <> b: geodesic, f: s
+geographer <> s: geographers
+geographers <> b: geographer, f: s
+geographies <> b: geography, f: s
+geography <> s: geographies
+geologies <> b: geology, f: s
+geologist <> s: geologists
+geologists <> b: geologist, f: s
+geology <> s: geologies
+geometer <> s: geometers
+geometers <> b: geometer, f: s
+geometric <> s: geometrics
+geometrician <> s: geometricians
+geometricians <> b: geometrician, f: s
+geometrics <> b: geometric, f: s
+geometries <> b: geometry, f: s
+geometry <> s: geometries
+geomorphologist <> s: geomorphologists
+geomorphologists <> b: geomorphologist, f: s
+geophysicist <> s: geophysicists
+geophysicists <> b: geophysicist, f: s
+geophysics <> b: geophysic, f: s
+geopolitic <> s: geopolitics
+geopolitics <> b: geopolitic, f: s
+georgiade <> s: georgiades, '3': georgiades
+georgiades <> b: georgiade, f: s3
+Georgian <> s: georgians
+georgic <> s: georgics
+georgics <> b: georgic, f: s
+geoscience <> s: geosciences
+geosciences <> b: geoscience, f: s
+geoscientist <> s: geoscientists
+geoscientists <> b: geoscientist, f: s
+geosyncline <> s: geosynclines
+geosynclines <> b: geosyncline, f: s
+ger <> s: gers
+geranium <> s: geraniums
+geraniums <> b: geranium, f: s
+gerbera <> s: gerberas
+gerberas <> b: gerbera, f: s
+gerbil <> s: gerbils
+gerbils <> b: gerbil, f: s
+gerenuk <> s: gerenuks
+gerenuks <> b: gerenuk, f: s
+geriatric <> s: geriatrics
+geriatrician <> s: geriatricians
+geriatricians <> b: geriatrician, f: s
+geriatrics <> b: geriatric, f: s
+germ <> s: germs, '3': germs
+German <> s: germans
+germans <> b: german, f: s
+germinate <> d: germinated, p: germinated, i: germinating, '3': germinates
+germinated <> b: germinate, f: dp
+germinates <> b: germinate, f: '3'
+germinating <> b: germinate, f: i
+germs <> b: germ, f: s3
+gerontologist <> s: gerontologists
+gerontologists <> b: gerontologist, f: s
+gerrymander <> i: gerrymandering, d: gerrymandered, p: gerrymandered, '3': gerrymanders
+gerrymandered <> f: dp, b: gerrymander
+gerrymandering <> b: gerrymander, f: i, i: gerrymandering
+gerrymanders <> f: '3', b: gerrymander
+gers <> b: ger, f: s
+gerund <> s: gerunds
+gerunds <> b: gerund, f: s
+gestalt <> s: gestalts
+gestalts <> b: gestalt, f: s
+gestate <> i: gestating, p: gestated, s: gestates, '3': gestates, d: gestated
+gestated <> f: pd, b: gestate
+gestates <> f: s3, b: gestate
+gestating <> b: gestate, f: i
+gestation <> s: gestations
+gestations <> b: gestation, f: s
+gesticulate <> i: gesticulating, p: gesticulated, '3': gesticulates, d: gesticulated
+gesticulated <> f: pd, b: gesticulate
+gesticulates <> b: gesticulate, f: '3'
+gesticulating <> b: gesticulate, f: i
+gesticulation <> s: gesticulations
+gesticulations <> b: gesticulation, f: s
+gesture <> s: gestures, p: gestured, i: gesturing, '3': gestures, d: gestured
+gestured <> b: gesture, f: pd
+gestures <> b: gesture, f: s3
+gesturing <> b: gesture, f: i
+get <> d: got, p: got, i: getting, '3': gets
+get-out <> s: get-outs
+get-outs <> b: get-out, f: s
+get-together <> '3': get-togethers, s: get-togethers
+get-togethers <> b: get-together, f: 3s
+getaway <> s: getaways
+getaways <> b: getaway, f: s
+Gethsemane <> s: gethsemanes
+gets <> b: get, f: '3'
+getter <> s: getters
+getters <> b: getter, f: s
+gettier <> b: getty, f: r
+getting <> b: get, f: i
+getty <> r: gettier
+geum <> s: geums
+geums <> b: geum, f: s
+gewgaw <> s: gewgaws
+gewgaws <> b: gewgaw, f: s
+geyser <> s: geysers, p: geysered
+geysered <> b: geyser, f: p
+geysers <> b: geyser, f: s
+Ghanaian <> s: ghanaians
+ghastliest <> b: ghastly, f: t
+ghastly <> t: ghastliest
+ghat <> s: ghats
+Ghats <> b: ghat, f: s
+ghazal <> s: ghazals
+ghazals <> b: ghazal, f: s
+gherkin <> s: gherkins
+gherkins <> b: gherkin, f: s
+ghetto <> s: ghettos
+ghettoize <> '3': ghettoizes, i: ghettoizing, p: ghettoized, d: ghettoized
+ghettoizes <> b: ghettoize, f: '3'
+ghettoizing <> b: ghettoize, f: i
+ghettos <> b: ghetto, f: s
+Ghibelline <> '3': ghibellines
+ghost <> s: ghosts, p: ghosted, i: ghosting, '3': ghosts, d: ghosted
+ghosted <> f: pd, b: ghost
+ghosting <> b: ghost, f: i
+ghostlier <> b: ghostly, f: r
+ghostly <> r: ghostlier
+ghosts <> f: s3, b: ghost
+ghostwrite <> i: ghostwriting, p: ghostwrote, '3': ghostwrites, d: ghostwritten
+ghostwrites <> f: '3', b: ghostwrite
+ghostwriting <> f: i, b: ghostwrite
+ghostwritten <> f: d, b: ghostwrite
+ghostwrote <> f: p, b: ghostwrite
+ghoul <> s: ghouls
+ghouls <> b: ghoul, f: s
+ghyll <> s: ghylls
+ghylls <> b: ghyll, f: s
+gi <> s: gis, b: gi, f: s
+Gianni <> s: gianni, b: gianni, f: s
+giant <> s: giants
+giant-killer <> s: giant-killers
+giant-killers <> b: giant-killer, f: s
+giantess <> s: giantesses
+giantesses <> b: giantess, f: s
+giants <> b: giant, f: s
+gib <> s: gibs
+gibber <> i: gibbering, p: gibbered, d: gibbered, s: gibbers, '3': gibbers
+gibbered <> b: gibber, f: pd
+gibberellin <> s: gibberellins
+gibberellins <> b: gibberellin, f: s
+gibbering <> b: gibber, f: i, i: gibbering
+gibbers <> f: s3, b: gibber
+gibbet <> s: gibbets, i: gibbeting, p: gibbeted, '3': gibbets, d: gibbeted
+gibbeted <> b: gibbete, f: dp
+gibbeting <> f: i, b: gibbet
+gibbets <> f: s3, b: gibbet
+gibbon <> s: gibbons
+Gibbons <> b: gibbon, f: s
+gibe <> s: gibes, p: gibed, i: gibing, '3': gibes, d: gibed
+gibed <> f: pd, b: gibe
+gibes <> f: s3, b: gibe
+gibing <> f: i, b: gibe
+giblet <> s: giblets
+giblets <> b: giblet, f: s
+gibs <> b: gib, f: s
+gid <> i: gidding
+giddier <> b: giddy, f: r
+gidding <> s: giddings, i: gidding, b: gidding, f: i
+giddy <> r: giddier
+Gide <> i: giding
+Gideon <> s: gideons
+gie <> '3': gies
+gies <> b: gie, f: '3'
+GIF <> s: gifs
+gift <> s: gifts, p: gifted, d: gifted, i: gifting, '3': gifts
+gift-wrap <> i: gift-wrapping, p: gift-wrapped, '3': gift-wraps, d: gift-wrapping
+gifted <> b: gift, f: pd, d: gifted, p: gifted
+gifting <> b: gift, f: i, s: giftings
+gifts <> f: s3, b: gift
+gig <> s: gigs, p: gigged, i: gigging, d: gigged
+giga <> s: gigas
+gigabit <> s: gigabits
+gigabits <> b: gigabit, f: s
+gigabyte <> s: gigabytes
+gigabytes <> b: gigabyte, f: s
+gigaflop <> s: gigaflops
+gigaflops <> b: gigaflop, f: s
+gigas <> b: giga, f: s
+gigawatt <> s: gigawatts
+gigawatts <> b: gigawatt, f: s
+gigged <> b: gig, f: pd
+gigging <> b: gig, f: i
+giggle <> p: giggled, i: giggling, s: giggles, '3': giggles, d: giggled
+giggled <> b: giggle, f: pd
+giggles <> b: giggle, f: s3
+giggling <> b: giggle, f: i, i: giggling
+Giggs <> b: gigg, f: s3
+Gigli <> s: gigli, b: gigli, f: s
+gigolo <> s: gigolos
+gigolos <> b: gigolo, f: s
+gigot <> s: gigots
+gigots <> b: gigot, f: s
+gigs <> b: gig, f: s
+Gilbey <> s: gilbeys
+gild <> i: gilding, p: gilded, d: gilded, s: gilds, '3': gilds
+gilded <> d: gilded, b: gilded, f: dp, p: gilded
+gilder <> s: gilders
+gilders <> b: gilder, f: s
+gilding <> b: gild, f: i, i: gilding, s: gildings
+gilds <> b: gild, f: s3
+gile <> s: giles
+giles <> b: gile, f: s
+gilet <> s: gilets
+gilets <> b: gilet, f: s
+gill <> s: gills, i: gilling
+Gillies <> b: gilly, f: s
+gilling <> b: gill, f: i, s: gillings
+gills <> b: gill, f: s
+Gilly <> s: gillies, i: gillying, p: gillied
+gillyflower <> s: gillyflowers
+gillyflowers <> b: gillyflower, f: s
+Gilmour <> s: gilmours
+gilt <> f: pd, b: gild, s: gilts
+gilts <> b: gilt, f: s
+gimbal <> p: gimballed
+gimballed <> b: gimbal, f: p
+gimcrack <> s: gimcracks
+gimcracks <> b: gimcrack, f: s
+gimlet <> s: gimlets
+gimlets <> b: gimlet, f: s
+gimmick <> s: gimmicks, '3': gimmicks, d: gimmicked
+gimmicked <> b: gimmick, f: d
+gimmicks <> b: gimmick, f: s3
+gimp <> p: gimped, d: gimped, s: gimps
+gimped <> b: gimp, f: pd
+gimps <> b: gimp, f: s
+gin <> s: gins, d: ginned, p: ginned, i: ginning, '3': gins
+ging <> b: ge, f: i, i: ging
+ginger <> s: gingers, d: gingered, i: gingering, p: gingered, '3': gingers
+gingerbread <> s: gingerbreads
+gingerbreads <> b: gingerbread, f: s
+gingered <> b: ginger, f: dp
+gingering <> b: ginger, f: i
+gingers <> f: s3, b: ginger
+gingham <> s: ginghams
+ginghams <> b: gingham, f: s
+ginned <> b: gin, f: dp
+ginnel <> s: ginnels
+ginnels <> b: ginnel, f: s
+ginning <> f: i, b: gin
+gins <> f: s3, b: gin
+Giorgio <> s: giorgios
+gipsies <> b: gipsy, f: s
+gipsy <> s: gipsies
+giraffe <> s: giraffes
+giraffes <> b: giraffe, f: s
+girandole <> s: girandoles
+girandoles <> b: girandole, f: s
+gird <> i: girding, p: girded, '3': girds, d: girded
+girded <> b: gird, f: pd
+girder <> s: girders
+girders <> b: girder, f: s
+girding <> b: gird, f: i
+girdle <> s: girdles, p: girdled, d: girdled, i: girdling, '3': girdles
+girdled <> b: girdle, f: pd
+girdler <> s: girdlers
+girdlers <> b: girdler, f: s
+girdles <> b: girdle, f: s3
+girdling <> b: girdle, f: i
+girds <> b: gird, f: '3'
+girl <> s: girls
+girlfriend <> s: girlfriends
+girlfriends <> b: girlfriend, f: s
+girlies <> b: girly, f: s
+girls <> b: girl, f: s
+girly <> s: girlies
+girn <> i: girning, p: girned
+girned <> b: girn, f: p
+girning <> b: girn, f: i
+giro <> s: giros
+giros <> b: giro, f: s
+girt <> d: girt, p: girt, i: girding, f: pd, b: gird, '3': girds
+girth <> s: girths, d: girthed, i: girthing, p: girthed, '3': girths
+girthed <> f: dp, b: girth
+girthing <> f: i, b: girth
+girths <> f: s3, b: girth
+GIS <> b: gi, f: s
+gismo <> s: gismos
+gismos <> b: gismo, f: s
+giss <> i: gissing
+Gissing <> b: giss, f: i
+git <> s: gits
+gite <> s: gites
+gites <> b: gite, f: s
+gits <> b: git, f: s
+give <> d: given, p: gave, i: giving, '3': gives
+giveaway <> s: giveaways
+giveaways <> b: giveaway, f: s
+given <> b: give, f: d, d: given, s: givens
+giver <> s: givers
+givers <> b: giver, f: s
+gives <> b: give, f: '3'
+giving <> b: give, f: i, i: giving, s: givings
+gizmo <> s: gizmos
+gizmos <> b: gizmo, f: s
+gizzard <> s: gizzards
+gizzards <> b: gizzard, f: s
+glacial <> s: glacials
+glacials <> b: glacial, f: s
+glaciate <> d: glaciated, p: glaciated, i: glaciating, '3': glaciates
+glaciated <> b: glaciate, f: dp
+glaciation <> s: glaciations
+glaciations <> b: glaciation, f: s
+glacier <> s: glaciers
+glaciers <> b: glacier, f: s
+glaciologist <> s: glaciologists
+glaciologists <> b: glaciologist, f: s
+glad <> r: gladder
+gladden <> '3': gladdens, d: gladdened, p: gladdened, i: gladdening
+gladdened <> b: gladden, f: dp
+gladdening <> b: gladden, f: i
+gladdens <> b: gladden, f: '3'
+gladder <> b: glad, f: r
+glade <> s: glades
+glades <> b: glade, f: s
+gladiator <> s: gladiators
+gladiators <> b: gladiator, f: s
+gladioli <> s: gladioli, b: gladioli, f: s
+gladness <> s: gladnesses
+gladnesses <> b: gladness, f: s
+glam <> p: glammed, s: glams
+glammed <> b: glam, f: p
+glamorise <> i: glamorising, p: glamorised, d: glamorised
+glamorised <> b: glamorise, f: pd, d: glamorised
+glamorising <> b: glamorise, f: i
+glamorize <> p: glamorized, '3': glamorizes, d: glamorized, i: glamorizing
+glamorized <> b: glamorize, f: pd
+glamorizes <> b: glamorize, f: '3'
+glamorizing <> b: glamorize, f: i
+glamour <> s: glamours
+glamours <> b: glamour, f: s
+glams <> b: glam, f: s
+glan <> s: glans
+glance <> p: glanced, i: glancing, s: glances, '3': glances, d: glanced
+glanced <> b: glance, f: pd
+glances <> b: glance, f: s3
+glancing <> b: glance, f: i, i: glancing
+gland <> s: glands
+glander <> s: glanders
+glanders <> b: glander, f: s
+glands <> b: gland, f: s
+glans <> b: glan, f: s
+glare <> p: glared, i: glaring, '3': glares, s: glares, d: glared
+glared <> b: glare, f: pd
+glares <> b: glare, f: 3s
+glaring <> b: glare, f: i, i: glaring
+glass <> s: glasses, i: glassing, p: glassed, '3': glasses, d: glassed
+glass-maker <> s: glass-makers
+glass-makers <> b: glass-maker, f: s
+glassed <> f: pd, b: glass
+glasses <> f: s3, b: glass
+glassful <> s: glassfuls
+glassfuls <> b: glassful, f: s
+glasshouse <> s: glasshouses
+glasshouses <> b: glasshouse, f: s
+glassier <> b: glassy, f: r
+glassiest <> b: glassy, f: t
+glassing <> f: i, b: glass
+glassmaker <> s: glassmakers
+glassmakers <> b: glassmaker, f: s
+glassy <> t: glassiest, r: glassier
+Glaswegian <> s: glaswegians
+glaze <> d: glazed, s: glazes, i: glazing, p: glazed, '3': glazes
+glazed <> b: glaze, f: dp, d: glazed
+glazer <> s: glazers
+glazers <> b: glazer, f: s
+glazes <> b: glaze, f: s3
+glazier <> b: glazy, f: r, s: glaziers
+glaziers <> b: glazier, f: s
+glazing <> b: glaze, f: i, i: glazing
+glazy <> r: glazier
+gleam <> p: gleamed, i: gleaming, '3': gleams, s: gleams, d: gleamed
+gleamed <> b: gleam, f: pd
+gleaming <> b: gleam, f: i, i: gleaming
+gleams <> b: gleam, f: 3s
+glean <> d: gleaned, p: gleaned, i: gleaning, '3': gleans
+gleaned <> b: glean, f: dp
+gleaner <> s: gleaners
+gleaners <> b: gleaner, f: s
+gleaning <> b: glean, f: i, s: gleanings, i: gleaning
+gleanings <> b: gleaning, f: s
+gleans <> b: glean, f: '3'
+glebe <> s: glebes
+glebes <> b: glebe, f: s
+glee <> s: glees
+glees <> b: glee, f: s
+Gleichschaltung <> d: gleichschaltung, b: gleichschaltung, f: d
+glen <> s: glens
+gleneagle <> s: gleneagles
+Gleneagles <> b: gleneagle, f: s
+glens <> b: glen, f: s
+Glenys <> b: gleny, f: s
+gley <> s: gleys, d: gleyed, i: gleying
+gleyed <> b: gley, f: d
+gleying <> b: gley, f: i
+gleys <> b: gley, f: s
+gliadin <> s: gliadins
+gliadins <> b: gliadin, f: s
+glide <> i: gliding, p: glided, '3': glides, s: glides, d: glided
+glided <> b: glide, f: pd
+glider <> s: gliders
+gliders <> b: glider, f: s
+glides <> b: glide, f: 3s
+gliding <> b: glide, f: i, i: gliding
+glimmer <> p: glimmered, i: glimmering, s: glimmers, '3': glimmers, d: glimmered
+glimmered <> f: pd, b: glimmer
+glimmering <> b: glimmer, f: i, s: glimmerings
+glimmers <> b: glimmer, f: s3
+glimpse <> s: glimpses, p: glimpsed, d: glimpsed, i: glimpsing, '3': glimpses
+glimpsed <> b: glimpse, f: pd, d: glimpsed, p: glimpsed
+glimpses <> b: glimpse, f: s3
+glimpsing <> b: glimpse, f: i
+glint <> p: glinted, i: glinting, s: glints, '3': glints, d: glinted
+glinted <> f: pd, b: glint, p: glinted
+glinting <> b: glint, f: i, i: glinting
+glints <> f: s3, b: glint
+glioblastoma <> s: glioblastomas
+glioblastomas <> b: glioblastoma, f: s
+glioma <> s: gliomas
+gliomas <> b: glioma, f: s
+glissade <> s: glissades, p: glissaded, i: glissading, '3': glissades, d: glissaded
+glissaded <> f: pd, b: glissade
+glissades <> f: s3, b: glissade
+glissading <> b: glissade, f: i
+glissando <> s: glissandos
+glissandos <> b: glissando, f: s
+glisten <> p: glistened, i: glistening, '3': glistens, d: glistened
+glistened <> f: pd, b: glisten
+glistening <> b: glisten, f: i, i: glistening, s: glistenings
+glistens <> b: glisten, f: '3'
+glister <> s: glisters, i: glistering
+glistering <> b: glister, f: i
+glisters <> b: glister, f: s
+glitch <> s: glitches
+glitches <> b: glitch, f: s
+glitter <> p: glittered, i: glittering, s: glitters, '3': glitters, d: glittered
+glitterati <> s: glitterati, b: glitterati, f: s
+glittered <> b: glitter, f: pd
+glittering <> b: glitter, f: i, i: glittering, s: glitterings
+glitters <> b: glitter, f: s3
+glitzier <> b: glitzy, f: r
+glitziest <> b: glitzy, f: t
+glitzy <> t: glitziest, r: glitzier
+gloaming <> i: gloaming, b: gloaming, f: i
+gloat <> i: gloating, p: gloated, '3': gloats, d: gloated, s: gloats
+gloated <> b: gloat, f: pd
+gloating <> b: gloat, f: i, s: gloatings, i: gloating
+gloats <> b: gloat, f: 3s
+glob <> s: globs
+globalize <> d: globalized, i: globalizing, p: globalized, '3': globalizes
+globalized <> b: globalize, f: d
+globalizing <> b: globalize, f: i
+globe <> s: globes, p: globed
+globed <> b: globe, f: p
+globes <> b: globe, f: s
+globetrot <> i: globetrotting
+globetrotter <> s: globetrotters
+globetrotters <> b: globetrotter, f: s
+globetrotting <> b: globetrot, f: i
+globin <> s: globins
+globins <> b: globin, f: s
+globs <> b: glob, f: s
+globular <> s: globulars
+globulars <> b: globular, f: s
+globule <> s: globules
+globules <> b: globule, f: s
+globulin <> s: globulins
+globulins <> b: globulin, f: s
+glockenspiel <> s: glockenspiels
+glockenspiels <> b: glockenspiel, f: s
+glom <> i: glomming, p: glommed, '3': gloms, d: glommed
+gloom <> s: glooms, p: gloomed, d: gloomed, i: glooming
+gloomed <> b: gloom, f: pd
+gloomier <> b: gloomy, f: r
+gloomies <> b: gloomy, f: s
+gloomiest <> b: gloomy, f: t
+glooming <> b: gloom, f: i
+glooms <> b: gloom, f: s
+gloomy <> r: gloomier, t: gloomiest, s: gloomies
+gloop <> i: glooping
+glooping <> b: gloop, f: i
+gloried <> b: glory, f: pd
+glories <> b: glory, f: s3
+glorified <> b: glorify, f: dp, p: glorified, d: glorified
+glorify <> d: glorified, i: glorifying, p: glorified, '3': glorifies
+glory <> s: glories, p: gloried, i: glorying, '3': glories, d: gloried
+glorying <> b: glory, f: i
+gloss <> d: glossed, s: glosses, i: glossing, p: glossed, '3': glosses
+glossaries <> b: glossary, f: s
+glossary <> s: glossaries
+glossator <> s: glossators
+glossators <> b: glossator, f: s
+glossed <> b: gloss, f: dp, p: glossed, d: glossed
+glosses <> b: gloss, f: s3
+glossier <> b: glossy, f: r
+glossies <> b: glossy, f: s
+glossiest <> b: glossy, f: t
+glossing <> b: gloss, f: i, i: glossing
+glossy <> s: glossies, r: glossier, t: glossiest
+gloster <> s: glosters
+glosters <> b: gloster, f: s
+glottal <> i: glottalling
+glottalling <> b: glottal, f: i
+glove <> s: gloves, i: gloving
+glover <> s: glovers
+glovers <> b: glover, f: s
+gloves <> b: glove, f: s
+gloving <> b: glove, f: i, i: gloving
+glow <> p: glowed, i: glowing, '3': glows, s: glows, d: glowed
+glow-worm <> s: glow-worms
+glow-worms <> b: glow-worm, f: s
+glowed <> b: glow, f: pd
+glower <> p: glowered, i: glowering, s: glowers, d: glowered, '3': glowers
+glowered <> b: glower, f: pd
+glowering <> b: glower, f: i, i: glowering
+glowers <> f: s3, b: glower
+glowing <> b: glow, f: i, i: glowing
+glows <> b: glow, f: 3s
+glowworm <> s: glowworms
+glowworms <> b: glowworm, f: s
+gloxinia <> s: gloxinias
+gloxinias <> b: gloxinia, f: s
+glucocorticoid <> s: glucocorticoids
+glucocorticoids <> b: glucocorticoid, f: s
+glucoside <> s: glucosides
+glucosides <> b: glucoside, f: s
+glue <> d: glued, p: glued, s: glues, i: gluing, '3': glues
+glue-sniffing <> i: glue-sniffing, b: glue-sniffing, f: i
+glued <> b: glue, f: dp, d: glued
+glues <> b: glue, f: s3
+glug <> p: glugged, s: glugs
+glugged <> b: glug, f: p
+glugs <> b: glug, f: s
+gluing <> b: glue, f: i
+glum <> r: glummer, s: glums, t: glummest
+glummer <> b: glum, f: r
+glummest <> b: glum, f: t
+glums <> b: glum, f: s
+gluon <> s: gluons
+gluons <> b: gluon, f: s
+glut <> d: glutted, s: gluts, p: glutted, i: glutting, '3': gluts
+glutamine <> s: glutamines
+glutamines <> b: glutamine, f: s
+glute <> s: glutes
+glutes <> b: glute, f: s
+gluts <> f: s3, b: glut
+glutted <> b: glut, f: dp
+glutting <> f: i, b: glut
+glutton <> s: gluttons, d: gluttoned
+gluttoned <> b: glutton, f: d
+gluttons <> b: glutton, f: s
+glyceride <> s: glycerides
+glycerides <> b: glyceride, f: s
+glycerine <> d: glycerined
+glycerined <> b: glycerine, f: d
+glycine <> s: glycines, '3': glycines
+glycines <> b: glycine, f: s3
+glycol <> s: glycols
+glycols <> b: glycol, f: s
+glycoprotein <> s: glycoproteins
+glycoproteins <> b: glycoprotein, f: s
+glycosaminoglycan <> s: glycosaminoglycans
+glycosaminoglycans <> b: glycosaminoglycan, f: s
+glycoside <> s: glycosides
+glycosides <> b: glycoside, f: s
+glyph <> s: glyphs
+glyphs <> b: glyph, f: s
+gn <> s: gns
+gnarl <> s: gnarls, i: gnarling, p: gnarled, '3': gnars, d: gnarled
+gnarled <> f: pd, b: gnarl
+gnash <> i: gnashing, p: gnashed, '3': gnashes, d: gnashed
+gnashed <> b: gnash, f: pd
+gnasher <> s: gnashers
+gnashers <> b: gnasher, f: s
+gnashes <> b: gnash, f: '3'
+gnashing <> b: gnash, f: i, i: gnashing, s: gnashings
+gnat <> s: gnats, '3': gnats
+gnats <> b: gnat, f: s3
+gnaw <> i: gnawing, p: gnawed, d: gnawed, '3': gnaws, s: gnaws
+gnawed <> b: gnaw, f: pd
+gnawing <> b: gnaw, f: i, i: gnawing
+gnaws <> b: gnaw, f: 3s
+gneiss <> s: gneisses
+gneisses <> b: gneiss, f: s
+gnocchi <> s: gnocchi, b: gnocchi, f: s
+gnome <> s: gnomes, p: gnomed
+gnomed <> b: gnome, f: p
+gnomes <> b: gnome, f: s
+gnostic <> s: gnostics
+gnostics <> b: gnostic, f: s
+GNP <> s: gnps
+gns <> b: gn, f: s
+gnu <> s: gnus
+gnus <> b: gnu, f: s
+go <> i: going, p: went, d: gone, '3': goes
+go-between <> s: go-betweens
+go-betweens <> b: go-between, f: s
+go-cart <> s: go-carts
+go-carts <> b: go-cart, f: s
+go-getter <> s: go-getters
+go-getters <> b: go-getter, f: s
+go-go <> '3': go-gos
+go-gos <> b: go-go, f: '3'
+go-kart <> s: go-karts
+go-karts <> b: go-kart, f: s
+go-slow <> s: go-slows
+go-slows <> b: go-slow, f: s
+goad <> d: goaded, i: goading, p: goaded, '3': goads
+goaded <> b: goad, f: dp
+goading <> b: goad, f: i
+goads <> b: goad, f: '3'
+goal <> s: goals
+goal-line <> s: goal-lines
+goal-lines <> b: goal-line, f: s
+goalkeeper <> s: goalkeepers
+goalkeepers <> b: goalkeeper, f: s
+goalmouth <> s: goalmouths
+goalmouths <> b: goalmouth, f: s
+goalpost <> s: goalposts
+goalposts <> b: goalpost, f: s
+goals <> b: goal, f: s
+goalscorer <> s: goalscorers
+goalscorers <> b: goalscorer, f: s
+Goan <> s: goans
+goanna <> s: goannas
+goannas <> b: goanna, f: s
+goat <> s: goats, d: goat, b: goat, f: d
+goatherd <> s: goatherds
+goatherds <> b: goatherd, f: s
+goats <> b: goat, f: s
+goatskin <> s: goatskins
+goatskins <> b: goatskin, f: s
+goatsucker <> s: goatsuckers
+goatsuckers <> b: goatsucker, f: s
+gob <> s: gobs, i: gobbing, '3': gobs, d: gobbed, p: gobbed
+gobbed <> b: gob, f: dp
+gobbet <> s: gobbets
+gobbets <> b: gobbet, f: s
+gobbing <> b: gob, f: i, i: gobbing
+gobble <> d: gobbled, i: gobbling, p: gobbled, '3': gobbles, s: gobbles
+gobbled <> b: gobble, f: dp
+gobbles <> b: gobble, f: 3s
+gobbling <> b: gobble, f: i
+Gobelin <> s: gobelins
+Gobelins <> b: gobelin, f: s
+gobies <> b: goby, f: s
+goblet <> s: goblets
+goblets <> b: goblet, f: s
+goblin <> s: goblins
+goblins <> b: goblin, f: s
+gobs <> b: gob, f: s3
+gobshite <> s: gobshites
+gobshites <> b: gobshite, f: s
+gobsmack <> d: gobsmacked, p: gobsmacked, i: gobsmacking
+gobsmacked <> b: gobsmack, f: dp, d: gobsmacked
+gobsmacking <> b: gobsmack, f: i
+gobstopper <> s: gobstoppers
+gobstoppers <> b: gobstopper, f: s
+goby <> s: gobies
+God <> s: gods
+goddamn <> s: goddamns
+goddamns <> b: goddamn, f: s
+goddess <> s: goddesses
+goddesses <> b: goddess, f: s
+godetia <> s: godetias
+godetias <> b: godetia, f: s
+godfather <> s: godfathers
+godfathers <> b: godfather, f: s
+godhead <> s: godheads
+godheads <> b: godhead, f: s
+godmother <> s: godmothers
+godmothers <> b: godmother, f: s
+godown <> s: godowns
+godowns <> b: godown, f: s
+godparent <> s: godparents
+godparents <> b: godparent, f: s
+gods <> b: god, f: s
+godson <> s: godsons
+godsons <> b: godson, f: s
+godwit <> s: godwits
+godwits <> b: godwit, f: s
+Goebbel <> s: goebbels
+Goebbels <> b: goebbel, f: s
+goer <> s: goers, i: goering
+Goering <> b: goer, f: i
+goers <> b: goer, f: s
+goes <> b: go, f: '3'
+gofer <> s: gofers
+gofers <> b: gofer, f: s
+Goff <> s: goffs
+goffer <> d: goffered, p: goffered, i: goffering, '3': goffers
+goffered <> b: goffer, f: dp
+goffering <> f: i, b: goffer
+goffers <> f: '3', b: goffer
+goggle <> s: goggles, p: goggled, i: goggling, '3': goggles, d: goggled
+goggle-eye <> s: goggle-eyes
+goggle-eyes <> b: goggle-eye, f: s
+goggled <> f: pd, b: goggle
+goggles <> b: goggle, f: s3
+goggling <> b: goggle, f: i
+goin <> i: goin, b: goin, f: i
+going <> b: go, f: i, s: goings, i: going
+goings-on <> s: goings-on, b: goings-on, f: s
+goitre <> s: goitres
+goitres <> b: goitre, f: s
+gold <> s: golds, i: golding
+gold-digger <> s: gold-diggers
+gold-diggers <> b: gold-digger, f: s
+gold-plate <> i: gold-plating, p: gold-plated, '3': gold-plates, d: gold-plated
+gold-plated <> f: pd, b: gold-plate
+goldbrick <> i: goldbricking, p: goldbricked, '3': goldbricks, d: goldbricked, s: goldbricks
+goldcrest <> s: goldcrests, b: goldcr, f: t
+goldcrests <> b: goldcrest, f: s
+goldeneye <> s: goldeneyes
+goldeneyes <> b: goldeneye, f: s
+golder <> s: golders
+golders <> b: golder, f: s
+goldfield <> s: goldfields
+goldfields <> b: goldfield, f: s
+goldfinch <> s: goldfinches
+goldfinches <> b: goldfinch, f: s
+Goldfinger <> b: goldfing, f: r
+goldfish <> s: goldfishes
+goldfishes <> b: goldfish, f: s
+goldilocks <> b: goldilock, f: s
+Golding <> b: gold, f: i
+goldmine <> i: goldmining, s: goldmines
+goldmines <> b: goldmine, f: s
+goldmining <> b: goldmine, f: i, i: goldmining
+golds <> b: gold, f: s
+goldsmith <> s: goldsmiths
+goldsmiths <> b: goldsmith, f: s
+golf <> s: golfs, i: golfing, p: golfed, '3': golfs, d: golfed
+golfball <> s: golfballs
+golfballs <> b: golfball, f: s
+golfer <> s: golfers
+golfers <> b: golfer, f: s
+golfing <> i: golfing, b: golfing, f: i
+golfs <> b: golf, f: s
+Golgi <> s: golgi, b: golgi, f: s
+golliwog <> s: golliwogs
+golliwogs <> b: golliwog, f: s
+gollop <> '3': gollops
+gollops <> b: gollop, f: '3'
+gonad <> s: gonads
+gonadotrophin <> s: gonadotrophins
+gonadotrophins <> b: gonadotrophin, f: s
+gonadotropin <> s: gonadotropins
+gonadotropins <> b: gonadotropin, f: s
+gonads <> b: gonad, f: s
+Goncourt <> s: goncourts
+gondola <> s: gondolas
+gondolas <> b: gondola, f: s
+gondolier <> b: gondoly, f: r, s: gondoliers
+gondoliers <> b: gondolier, f: s
+gone <> b: go, f: d, s: gones
+goner <> s: goners
+goners <> b: goner, f: s
+gong <> s: gongs, i: gonging
+gonging <> b: gong, f: i
+gongs <> b: gong, f: s
+goniometer <> s: goniometers
+goniometers <> b: goniometer, f: s
+goo <> s: goos, i: gooing
+good <> t: best, r: better
+good-for-nothing <> s: good-for-nothings
+good-for-nothings <> b: good-for-nothing, f: s
+good-looker <> s: good-lookers
+good-lookers <> b: good-looker, f: s
+goodbye <> s: goodbyes
+goodbyes <> b: goodbye, f: s
+goodfella <> s: goodfellas
+goodfellas <> b: goodfella, f: s
+goodies <> b: goody, f: s
+goodnight <> s: goodnights
+goodnights <> b: goodnight, f: s
+goods <> s: goods, b: goods, f: s
+goody <> s: goodies
+goody-goodies <> b: goody-goody, f: s
+goody-goody <> s: goody-goodies
+goof <> i: goofing, d: goofed, p: goofed, '3': goofs
+goofed <> b: goof, f: dp
+goofing <> b: goof, f: i
+goofs <> b: goof, f: '3'
+googlies <> b: googly, f: s
+googly <> s: googlies
+gooing <> b: goo, f: i
+gook <> '3': gooks
+gooks <> b: gook, f: '3'
+goolies <> b: gooly, f: s
+gooly <> s: goolies
+goon <> s: goons, d: gooned
+gooned <> b: goon, f: d
+goons <> b: goon, f: s
+goos <> b: goo, f: s
+goosander <> s: goosanders
+goosanders <> b: goosander, f: s
+goose <> s: geese, d: goosed, p: goosed, i: goosing, '3': gooses
+gooseberries <> b: gooseberry, f: s
+gooseberry <> s: gooseberries
+goosebump <> s: goosebumps
+goosebumps <> b: goosebump, f: s
+goosed <> b: goose, f: dp
+gooseflesh <> p: goosefleshed
+goosefleshed <> b: gooseflesh, f: p
+gooses <> f: '3', b: goose
+goosing <> b: goose, f: i
+Gopher <> s: gophers
+gora <> s: goras
+goras <> b: gora, f: s
+gore <> s: gores, d: gored, i: goring, p: gored, '3': gores
+gored <> b: gore, f: dp
+gores <> b: gore, f: s3
+gorge <> s: gorges, i: gorging, d: gorged, p: gorged, '3': gorges
+gorged <> b: gorge, f: dp, p: gorged
+gorges <> f: s3, b: gorge
+gorget <> s: gorgets
+gorgets <> b: gorget, f: s
+gorging <> b: gorge, f: i, s: gorgings, i: gorging
+gorgon <> s: gorgons
+gorgons <> b: gorgon, f: s
+Gorgonzola <> s: gorgonzolas
+gorier <> b: gory, f: r
+gorilla <> s: gorillas
+gorillas <> b: gorilla, f: s
+Goring <> b: gore, f: i, s: gorings
+gormandize <> i: gormandizing, p: gormandized, '3': gormandizes, d: gormandized
+gormandized <> f: pd, b: gormandize
+gormandizes <> f: '3', b: gormandize
+gormandizing <> f: i, b: gormandize
+gorp <> i: gorping
+gorping <> b: gorp, f: i
+gorse <> s: gorses
+gorses <> b: gorse, f: s
+gory <> r: gorier
+goshawk <> s: goshawks
+goshawks <> b: goshawk, f: s
+gosling <> s: goslings
+goslings <> b: gosling, f: s
+gospel <> s: gospels
+gospels <> b: gospel, f: s
+gossip <> i: gossiping, s: gossips, '3': gossips, p: gossipped, d: gossipped
+gossiped <> b: gossipe, f: pd
+gossiper <> s: gossipers
+gossipers <> b: gossiper, f: s
+gossiping <> b: gossip, f: i, i: gossiping
+gossipped <> f: pd, b: gossip
+gossips <> b: gossip, f: s3
+got <> b: get, f: dp
+gotcha <> s: gotchas
+gotchas <> b: gotcha, f: s
+goth <> s: goths
+goths <> b: goth, f: s
+gotobed <> p: gotobed, b: gotobed, f: p
+gouge <> p: gouged, s: gouges, i: gouging, d: gouged, '3': gouges
+gouged <> b: gouge, f: pd, p: gouged
+gouger <> s: gougers, '3': gougers
+gougers <> b: gouger, f: s3
+gouges <> f: s3, b: gouge
+gouging <> b: gouge, f: i, i: gouging
+goujon <> s: goujons
+goujons <> b: goujon, f: s
+gould <> i: goulding
+Goulding <> b: gould, f: i
+gourd <> s: gourds
+gourde <> s: gourdes
+gourdes <> b: gourde, f: s
+gourds <> b: gourd, f: s
+gourmand <> s: gourmands
+gourmands <> b: gourmand, f: s
+gourmet <> s: gourmets
+gourmets <> b: gourmet, f: s
+gout <> s: gouts, p: gouted
+gouted <> b: gout, f: p
+gouts <> b: gout, f: s
+govern <> d: governed, i: governing, '3': governs, p: governed
+governance <> s: governances
+governances <> b: governance, f: s
+governed <> b: govern, f: dp, d: governed
+governess <> s: governesses, i: governessing
+governesses <> b: governess, f: s
+governessing <> b: governess, f: i
+governing <> b: govern, f: i, i: governing
+government <> s: governments
+governments <> b: government, f: s
+governor <> s: governors
+governorate <> s: governorates
+governorates <> b: governorate, f: s
+governors <> b: governor, f: s
+governorship <> s: governorships
+governorships <> b: governorship, f: s
+governs <> b: govern, f: '3'
+gown <> s: gowns, i: gowning, p: gowned, '3': gowns, d: gowned
+gowned <> f: pd, b: gown
+gowning <> f: i, b: gown
+gowns <> f: s3, b: gown
+goy <> s: goys
+goys <> b: goy, f: s
+GP <> s: gps
+gps <> b: gp, f: s
+grab <> p: grabbed, i: grabbing, d: grabbed, '3': grabs, s: grabs
+grabbed <> b: grab, f: pd
+grabber <> s: grabbers
+grabbers <> b: grabber, f: s
+grabbing <> b: grab, f: i, i: grabbing
+graben <> s: grabens
+grabens <> b: graben, f: s
+grabs <> b: grab, f: 3s
+grace <> d: graced, s: graces, p: graced, i: gracing, '3': graces
+graced <> b: grace, f: dp
+graces <> b: grace, f: s3
+gracing <> b: grace, f: i
+grad <> s: grads
+gradate <> i: gradating, p: gradated, '3': gradates, d: gradated
+gradated <> f: pd, b: gradate
+gradates <> f: '3', b: gradate
+gradating <> f: i, b: gradate
+gradation <> s: gradations
+gradations <> b: gradation, f: s
+grade <> s: grades, d: graded, p: graded, i: grading, '3': grades
+graded <> b: grade, f: dp, p: graded, d: graded
+grader <> s: graders
+graders <> b: grader, f: s
+grades <> f: s3, b: grade
+gradient <> s: gradients
+gradients <> b: gradient, f: s
+grading <> b: grade, f: i, i: grading, s: gradings
+gradiometer <> s: gradiometers
+gradiometers <> b: gradiometer, f: s
+grads <> b: grad, f: s
+gradualist <> s: gradualists
+gradualists <> b: gradualist, f: s
+graduand <> s: graduands
+graduands <> b: graduand, f: s
+graduate <> s: graduates, p: graduated, i: graduating, d: graduated, '3': graduates
+graduated <> b: graduate, f: pd, p: graduated, d: graduated
+graduates <> b: graduate, f: s3
+graduating <> b: graduate, f: i
+graduation <> s: graduations
+graduations <> b: graduation, f: s
+grady <> s: gradys
+gradys <> b: grady, f: s
+Graf <> s: grafs
+graffiti <> i: graffitiing
+graffitiing <> b: graffiti, f: i
+graffitist <> s: graffitists
+graffitists <> b: graffitist, f: s
+grafs <> b: graf, f: s
+graft <> d: grafted, p: grafted, s: grafts, i: grafting, '3': grafts
+grafted <> b: graft, f: dp, d: grafted, p: grafted
+grafter <> s: grafters
+grafters <> b: grafter, f: s
+grafting <> b: graft, f: i, i: grafting, s: graftings
+grafts <> b: graft, f: s3
+grail <> s: grails
+grails <> b: grail, f: s
+grain <> s: grains, d: grained, p: grained, i: graining, '3': grains
+grained <> b: grain, f: dp, p: grained
+Grainger <> b: graing, f: r
+grainier <> b: grainy, f: r
+graining <> b: grain, f: i, i: graining
+grains <> f: s3, b: grain
+grainy <> r: grainier
+gralloch <> s: grallochs
+grallochs <> b: gralloch, f: s
+gram <> s: grams
+grammar <> s: grammars
+grammarian <> s: grammarians
+grammarians <> b: grammarian, f: s
+grammars <> b: grammar, f: s
+grammaticalization <> s: grammaticalizations
+grammaticalizations <> b: grammaticalization, f: s
+grammaticalize <> d: grammaticalized, p: grammaticalized
+grammaticalized <> b: grammaticalize, f: dp
+gramme <> s: grammes
+grammes <> b: gramme, f: s
+Grammy <> s: grammys
+gramophone <> s: gramophones
+gramophones <> b: gramophone, f: s
+gramp <> s: gramps, '3': gramps
+Grampian <> s: grampians
+gramps <> b: gramp, f: s3
+grams <> b: gram, f: s
+Gramsci <> s: gramsci, b: gramsci, f: s
+gran <> s: grans
+granaries <> b: granary, f: s
+granary <> s: granaries
+grand <> r: grander, t: grandest, s: grands
+grandad <> s: grandads
+grandaddies <> b: grandaddy, f: s
+grandaddy <> s: grandaddies
+grandads <> b: grandad, f: s
+grandbabies <> b: grandbaby, f: s
+grandbaby <> s: grandbabies
+grandchildren <> s: grandchildren, b: grandchildren, f: s
+granddad <> s: granddads
+granddads <> b: granddad, f: s
+granddaughter <> s: granddaughters
+granddaughters <> b: granddaughter, f: s
+grande <> s: grandes
+grandee <> s: grandees
+grandees <> b: grandee, f: s
+grander <> b: grand, f: r
+grandes <> b: grande, f: s
+grandest <> b: grand, f: t
+grandeur <> s: grandeurs
+grandeurs <> b: grandeur, f: s
+grandfather <> s: grandfathers
+grandfathers <> b: grandfather, f: s
+grandkid <> s: grandkids
+grandkids <> b: grandkid, f: s
+grandma <> s: grandmas
+grandmas <> b: grandma, f: s
+grandmaster <> s: grandmasters
+grandmasters <> b: grandmaster, f: s
+grandmother <> s: grandmothers
+grandmothers <> b: grandmother, f: s
+grandpa <> s: grandpas
+grandparent <> s: grandparents
+grandparents <> b: grandparent, f: s
+grandpas <> b: grandpa, f: s
+grands <> b: grand, f: s
+grandson <> s: grandsons
+grandsons <> b: grandson, f: s
+grandstand <> s: grandstands, i: grandstanding, p: grandstanded, '3': grandstands, d: grandstanded
+grandstanded <> f: pd, b: grandstand
+grandstanding <> b: grandstand, f: i
+grandstands <> f: s3, b: grandstand
+grange <> s: granges
+granger <> s: grangers
+grangers <> b: granger, f: s
+granges <> b: grange, f: s
+granite <> s: granites
+granites <> b: granite, f: s
+granitoid <> s: granitoids
+granitoids <> b: granitoid, f: s
+grannies <> b: granny, f: s
+granny <> s: grannies
+grans <> b: gran, f: s
+grant <> d: granted, s: grants, p: granted, i: granting, '3': grants
+granted <> b: grant, f: dp
+grantee <> s: grantees
+grantees <> b: grantee, f: s
+granter <> s: granters
+granters <> b: granter, f: s
+granting <> b: grant, f: i, i: granting
+grantor <> s: grantors
+grantors <> b: grantor, f: s
+grants <> b: grant, f: s3
+granulate <> p: granulated, d: granulated, i: granulating, '3': granulates
+granulated <> p: granulated, b: granulated, f: p
+granulates <> f: '3', b: granulate
+granulating <> b: granulate, f: i
+granulation <> s: granulations
+granulations <> b: granulation, f: s
+granule <> s: granules
+granules <> b: granule, f: s
+granulite <> s: granulites
+granulites <> b: granulite, f: s
+granulocyte <> s: granulocytes
+granulocytes <> b: granulocyte, f: s
+granuloma <> s: granulomas
+granulomas <> b: granuloma, f: s
+grape <> s: grapes
+grapefruit <> s: grapefruits
+grapefruits <> b: grapefruit, f: s
+grapes <> b: grape, f: s
+grapevine <> s: grapevines
+grapevines <> b: grapevine, f: s
+graph <> s: graphs, i: graphing, p: graphed, '3': graphs, d: graphed
+graphed <> f: pd, b: graph
+grapheme <> s: graphemes
+graphemes <> b: grapheme, f: s
+graphing <> b: graph, f: i, i: graphing
+graphite <> s: graphites
+graphites <> b: graphite, f: s
+graphologist <> s: graphologists
+graphologists <> b: graphologist, f: s
+graphs <> f: s3, b: graph
+grapnel <> s: grapnels
+grapnels <> b: grapnel, f: s
+Grappelli <> s: grappelli, b: grappelli, f: s
+grapple <> i: grappling, p: grappled, d: grappled, '3': grapples, s: grapples
+grappled <> b: grapple, f: pd
+grappler <> s: grapplers
+grapplers <> b: grappler, f: s
+grapples <> b: grapple, f: 3s
+grappling <> b: grapple, f: i, i: grappling, s: grapplings
+graptolite <> s: graptolites
+graptolites <> b: graptolite, f: s
+grasp <> p: grasped, d: grasped, i: grasping, '3': grasps
+grasped <> b: grasp, f: pd
+grasping <> b: grasp, f: i, i: grasping
+grasps <> b: grasp, f: '3'
+grass <> s: grasses, p: grassed, d: grassed, i: grassing, '3': grasses
+grassbox <> s: grassboxes
+grassboxes <> b: grassbox, f: s
+grassed <> b: grass, f: pd, d: grassed, p: grassed
+grasses <> f: s3, b: grass
+grasshopper <> s: grasshoppers, p: grasshoppered
+grasshoppered <> b: grasshopper, f: p
+grasshoppers <> b: grasshopper, f: s
+grassier <> b: grassy, f: r
+grassies <> b: grassy, f: s
+grassiest <> b: grassy, f: t
+grassing <> f: i, b: grass
+grassland <> s: grasslands
+grasslands <> b: grassland, f: s
+grassroots <> s: grassroots, b: grassroots, f: s
+grassy <> s: grassies, t: grassiest, r: grassier
+grate <> p: grated, i: grating, s: grates, '3': grates, d: grated
+grated <> b: grate, f: pd, p: grated
+grater <> s: graters
+graters <> b: grater, f: s
+grates <> b: grate, f: s3
+graticule <> s: graticules
+graticules <> b: graticule, f: s
+gratification <> s: gratifications
+gratifications <> b: gratification, f: s
+gratified <> b: gratify, f: dp, d: gratified, p: gratified
+gratifies <> b: gratify, f: '3'
+gratify <> d: gratified, p: gratified, i: gratifying, '3': gratifies
+gratifying <> i: gratifying, b: gratifying, f: i
+grating <> b: grate, f: i, s: gratings, i: grating
+gratuities <> b: gratuity, f: s
+gratuity <> s: gratuities
+gravamen <> b: gravaman, f: s
+grave <> s: graves, t: gravest, r: graver, i: graving, p: graven, '3': graves, d: graven
+gravedigger <> s: gravediggers
+gravediggers <> b: gravedigger, f: s
+gravel <> s: gravels, i: gravelling, p: gravelled, '3': gravels, d: gravelled
+gravelled <> d: gravelled, b: gravelled, f: d
+gravelling <> f: i, b: gravel
+gravels <> f: s3, b: gravel
+graven <> f: pd, b: grave
+graver <> b: grave, f: r, s: gravers
+graves <> f: s3, b: grave
+gravest <> b: grave, f: t
+gravestone <> s: gravestones
+gravestones <> b: gravestone, f: s
+graveyard <> s: graveyards
+graveyards <> b: graveyard, f: s
+gravies <> b: gravy, f: s
+graving <> b: grave, f: i
+gravitas <> b: gravita, f: s
+gravitate <> p: gravitated, i: gravitating, d: gravitated, '3': gravitates, s: gravitates
+gravitated <> b: gravitate, f: pd
+gravitates <> b: gravitate, f: 3s
+gravitating <> b: gravitate, f: i
+gravitation <> s: gravitations
+gravitations <> b: gravitation, f: s
+gravities <> b: gravity, f: s
+graviton <> s: gravitons
+gravitons <> b: graviton, f: s
+gravity <> s: gravities
+gravy <> s: gravies
+gray <> s: grays, i: graying, p: grayed, '3': grays, d: grayed
+graying <> b: gray, f: i
+grays <> b: gray, f: s
+graze <> i: grazing, d: grazed, p: grazed, '3': grazes, s: grazes
+grazed <> b: graze, f: dp
+grazer <> s: grazers
+grazers <> b: grazer, f: s
+grazes <> b: graze, f: 3s
+grazier <> s: graziers, b: grazy, f: r
+graziers <> b: grazier, f: s
+grazing <> b: graze, f: i, i: grazing, s: grazings
+grease <> p: greased, i: greasing, d: greased, s: greases, '3': greases
+greased <> b: grease, f: pd, p: greased, d: greased
+greasepaint <> s: greasepaints
+greasepaints <> b: greasepaint, f: s
+greaser <> s: greasers
+greasers <> b: greaser, f: s
+greases <> b: grease, f: s3
+greasier <> b: greasy, f: r
+greasiest <> b: greasy, f: t
+greasing <> b: grease, f: i, i: greasing
+greasy <> t: greasiest, r: greasier
+great <> r: greater, t: greatest, s: greats
+great-aunt <> s: great-aunts
+great-aunts <> b: great-aunt, f: s
+great-nephew <> s: great-nephews
+great-nephews <> b: great-nephew, f: s
+great-niece <> s: great-nieces
+great-nieces <> b: great-niece, f: s
+great-uncle <> s: great-uncles
+great-uncles <> b: great-uncle, f: s
+greatcoat <> s: greatcoats
+greatcoats <> b: greatcoat, f: s
+greater <> b: great, f: r
+greatest <> b: great, f: t, s: greatests, r: greatest
+greats <> b: great, f: s
+greave <> s: greaves, '3': greaves
+greaves <> b: greave, f: s3
+grebe <> s: grebes, '3': grebes
+grebes <> b: grebe, f: s3
+grebo <> s: grebos
+grebos <> b: grebo, f: s
+Grecian <> s: grecians
+greed <> s: greeds
+greedier <> b: greedy, f: r
+greediest <> b: greedy, f: t
+greeds <> b: greed, f: s
+greedy <> r: greedier, t: greediest
+Greek <> s: greeks
+green <> s: greens, r: greener, t: greenest
+greenback <> s: greenbacks
+greenbacks <> b: greenback, f: s
+greenbelt <> s: greenbelts
+greenbelts <> b: greenbelt, f: s
+greenbul <> s: greenbuls
+greenbuls <> b: greenbul, f: s
+greener <> b: green, f: r, s: greeners
+greenest <> b: green, f: t
+greenfield <> s: greenfields
+greenfields <> b: greenfield, f: s
+greenfinch <> s: greenfinches
+greenfinches <> b: greenfinch, f: s
+greenflies <> b: greenfly, f: s
+greenfly <> s: greenflies
+greengage <> s: greengages, '3': greengages
+greengages <> b: greengage, f: s3
+greengrocer <> s: greengrocers
+greengroceries <> b: greengrocery, f: s
+greengrocers <> b: greengrocer, f: s
+greengrocery <> s: greengroceries
+greenhorn <> '3': greenhorns, s: greenhorns
+greenhorns <> b: greenhorn, f: 3s
+greenhouse <> s: greenhouses
+greenhouses <> b: greenhouse, f: s
+greenies <> b: greeny, f: s
+greening <> i: greening, b: greening, f: i
+greenkeeper <> s: greenkeepers
+greenkeepers <> b: greenkeeper, f: s
+greens <> b: green, f: s
+greensand <> s: greensands
+greensands <> b: greensand, f: s
+greenshank <> s: greenshanks
+greenshanks <> b: greenshank, f: s
+greenstone <> s: greenstones
+greenstones <> b: greenstone, f: s
+greenstuff <> s: greenstuffs
+greenstuffs <> b: greenstuff, f: s
+greensward <> s: greenswards
+greenswards <> b: greensward, f: s
+greenway <> s: greenways
+greenways <> b: greenway, f: s
+greenwood <> s: greenwoods
+greenwoods <> b: greenwood, f: s
+greeny <> s: greenies
+Greer <> s: greers
+greet <> d: greeted, p: greeted, i: greeting, '3': greets
+greeted <> b: greet, f: dp
+greeter <> s: greeters
+greeters <> b: greeter, f: s
+greeting <> b: greet, f: i, s: greetings, i: greeting
+greets <> b: greet, f: '3'
+Gregorian <> s: gregorians
+gremlin <> s: gremlins
+gremlins <> b: gremlin, f: s
+grenade <> s: grenades, p: grenaded
+grenaded <> b: grenade, f: p
+grenades <> b: grenade, f: s
+grenadier <> s: grenadiers
+grenadiers <> b: grenadier, f: s
+grew <> b: grow, f: p
+grey <> s: greys, i: greying, d: greyed, p: greyed, '3': greys
+greybeard <> s: greybeards
+greybeards <> b: greybeard, f: s
+greyed <> f: dp, b: grey
+greyhound <> s: greyhounds
+greyhounds <> b: greyhound, f: s
+greying <> b: grey, f: i, i: greying
+greys <> f: s3, b: grey
+greyscale <> s: greyscales
+greyscales <> b: greyscale, f: s
+Greystone <> s: greystones
+greywacke <> s: greywackes
+greywackes <> b: greywacke, f: s
+Grice <> i: gricing
+gricer <> s: gricers
+gricers <> b: gricer, f: s
+grid <> s: grids, p: gridded
+gridded <> b: grid, f: p, p: gridded
+griddle <> s: griddles, i: griddling, p: griddled, '3': griddles, d: griddled
+griddled <> f: pd, b: griddle
+griddles <> f: s3, b: griddle
+griddling <> b: griddle, f: i
+gridlock <> d: gridlocked
+gridlocked <> b: gridlock, f: d
+grids <> b: grid, f: s
+grief <> s: griefs
+griefs <> b: grief, f: s
+grievance <> s: grievances
+grievances <> b: grievance, f: s
+grieve <> '3': grieves, p: grieved, i: grieving, d: grieved
+grieved <> b: grieve, f: pd, d: grieved, p: grieved
+griever <> '3': grievers
+grievers <> b: griever, f: '3'
+grieves <> b: grieve, f: '3'
+grieving <> b: grieve, f: i, i: grieving
+griffin <> s: griffins
+griffins <> b: griffin, f: s
+griffon <> s: griffons
+griffons <> b: griffon, f: s
+grifter <> s: grifters
+grifters <> b: grifter, f: s
+grill <> i: grilling, s: grills, d: grilled, p: grilled, '3': grills
+grillade <> s: grillades
+grillades <> b: grillade, f: s
+grille <> s: grilles
+grilled <> b: grill, f: dp, p: grilled, d: grilled
+grilles <> b: grille, f: s
+grilling <> b: grill, f: i, i: grilling
+grills <> b: grill, f: s3
+grim <> r: grimmer, t: grimmest
+grimace <> p: grimaced, i: grimacing, s: grimaces, '3': grimaces, d: grimaced
+grimaced <> b: grimace, f: pd
+grimaces <> b: grimace, f: s3
+grimacing <> b: grimace, f: i, i: grimacing
+grime <> p: grimed, d: grimed, i: griming, '3': grimes
+grimed <> b: grime, f: pd
+Grimes <> f: '3', b: grime
+grimier <> b: grimy, f: r
+griming <> f: i, b: grime
+grimmer <> b: grim, f: r
+grimmest <> b: grim, f: t
+grimoire <> s: grimoires
+grimoires <> b: grimoire, f: s
+grimy <> r: grimier
+grin <> p: grinned, i: grinning, s: grins, '3': grins, d: grinned
+grinch <> s: grinches
+grinches <> b: grinch, f: s
+grind <> d: ground, p: ground, i: grinding, '3': grinds, s: grinds
+grinder <> s: grinders
+grinders <> b: grinder, f: s
+grinding <> b: grind, f: i, i: grinding, s: grindings
+grinds <> b: grind, f: 3s
+grindstone <> s: grindstones
+grindstones <> b: grindstone, f: s
+gringo <> s: gringos
+gringos <> b: gringo, f: s
+grinned <> b: grin, f: pd
+grinning <> b: grin, f: i, i: grinning, s: grinnings
+grins <> b: grin, f: s3
+griot <> s: griots
+griots <> b: griot, f: s
+grip <> p: gripped, s: grips, i: gripping, d: gripped, '3': grips
+gripe <> s: gripes, i: griping, '3': gripes, p: griped, d: griped
+griped <> b: gripe, f: pd
+gripes <> b: gripe, f: s3
+griping <> b: gripe, f: i, s: gripings
+gripped <> b: grip, f: pd
+gripper <> s: grippers
+grippers <> b: gripper, f: s
+gripping <> b: grip, f: i, i: gripping
+grips <> b: grip, f: s3
+grisette <> s: grisettes
+grisettes <> b: grisette, f: s
+grisliest <> b: grisly, f: t
+grisly <> t: grisliest
+grison <> s: grisons
+grisons <> b: grison, f: s
+grit <> p: gritted, i: gritting, d: gritted, s: grits, '3': grits
+grits <> b: grit, f: s3
+gritstone <> s: gritstones
+gritstones <> b: gritstone, f: s
+gritted <> b: grit, f: pd, p: gritted
+gritter <> s: gritters
+gritters <> b: gritter, f: s
+grittier <> b: gritty, f: r
+grittiest <> b: gritty, f: t
+gritting <> b: grit, f: i, i: gritting
+gritty <> r: grittier, t: grittiest
+grizzle <> p: grizzled, i: grizzling, s: grizzles, '3': grizzles, d: grizzled
+grizzled <> p: grizzled, b: grizzled, f: p
+grizzles <> f: s3, b: grizzle
+grizzlier <> b: grizzly, f: r
+grizzlies <> b: grizzly, f: s
+grizzliest <> b: grizzly, f: t
+grizzling <> b: grizzle, f: i
+grizzly <> s: grizzlies, t: grizzliest, r: grizzlier
+gro <> s: gros
+groan <> p: groaned, i: groaning, s: groans, '3': groans, d: groaned
+groaned <> b: groan, f: pd
+groaning <> b: groan, f: i, i: groaning, s: groanings
+groans <> b: groan, f: s3
+groat <> s: groats, '3': groats
+groats <> b: groat, f: s3
+grocer <> s: grocers
+groceries <> b: grocery, f: s
+grocers <> b: grocer, f: s
+grocery <> s: groceries
+grog <> s: grogs
+grogs <> b: grog, f: s
+groin <> s: groins, i: groining, p: groined, '3': groins, d: groined
+groined <> f: pd, b: groin
+groining <> b: groin, f: i
+groins <> f: s3, b: groin
+grommet <> s: grommets
+grommets <> b: grommet, f: s
+groom <> s: grooms, d: groomed, i: grooming, p: groomed, '3': grooms
+groomed <> b: groom, f: dp, d: groomed
+groomer <> s: groomers
+groomers <> b: groomer, f: s
+grooming <> b: groom, f: i, i: grooming, s: groomings
+grooms <> b: groom, f: s3
+groove <> s: grooves, p: grooved, i: grooving, d: grooved, '3': grooves
+grooved <> b: groove, f: pd, p: grooved
+grooves <> f: s3, b: groove
+groovies <> b: groovy, f: s
+grooviest <> b: groovy, f: t
+grooving <> b: groove, f: i
+groovy <> t: grooviest, s: groovies
+grope <> p: groped, i: groping, d: groped, '3': gropes, s: gropes
+groped <> b: grope, f: pd
+groper <> s: gropers
+gropers <> b: groper, f: s
+gropes <> b: grope, f: 3s
+groping <> b: grope, f: i, i: groping, s: gropings
+gros <> b: gro, f: s
+grosbeak <> s: grosbeaks
+grosbeaks <> b: grosbeak, f: s
+gross <> d: grossed, p: grossed, r: grosser, i: grossing, t: grossest, '3': grosses
+grossed <> b: gross, f: dp, d: grossed, p: grossed
+grosser <> b: gross, f: r
+grosses <> f: '3', b: gross
+grossest <> b: gross, f: t
+grossing <> b: gross, f: i, i: grossing
+grot <> s: grots
+grotesque <> s: grotesques
+grotesques <> b: grotesque, f: s
+grots <> b: grot, f: s
+grotto <> s: grottos
+grottos <> b: grotto, f: s
+grouch <> s: grouches, i: grouching, p: grouched, '3': grouches, d: grouched
+grouched <> f: pd, b: grouch
+grouches <> f: s3, b: grouch
+grouching <> f: i, b: grouch
+ground <> s: grounds, d: grounded, p: grounded, b: grind, f: dp, i: grinding, '3': grinds
+groundbreaking <> i: groundbreaking, b: groundbreaking, f: i
+grounded <> b: ground, f: dp, d: grounded, p: grounded
+groundhog <> s: groundhogs
+groundhogs <> b: groundhog, f: s
+grounding <> s: groundings, i: grounding, b: grounding, f: i
+groundings <> b: grounding, f: s
+groundling <> s: groundlings
+groundlings <> b: groundling, f: s
+groundnut <> s: groundnuts
+groundnuts <> b: groundnut, f: s
+grounds <> b: ground, f: s
+groundsel <> s: groundsels
+groundsels <> b: groundsel, f: s
+groundsheet <> s: groundsheets
+groundsheets <> b: groundsheet, f: s
+groundsman <> s: groundsmen
+groundsmen <> b: groundsman, f: s
+groundstroke <> s: groundstrokes
+groundstrokes <> b: groundstroke, f: s
+groundwater <> s: groundwaters
+groundwaters <> b: groundwater, f: s
+groundwork <> s: groundworks
+groundworks <> b: groundwork, f: s
+group <> s: groups, d: grouped, p: grouped, i: grouping, '3': groups
+grouped <> b: group, f: dp, p: grouped, d: grouped
+grouper <> s: groupers
+groupers <> b: grouper, f: s
+groupies <> b: groupy, f: s
+grouping <> s: groupings, i: grouping, b: grouping, f: i
+groups <> f: s3, b: group
+groupuscule <> s: groupuscules
+groupuscules <> b: groupuscule, f: s
+groupy <> s: groupies
+grouse <> s: grouses, i: grousing, p: groused, '3': grouses, d: groused
+groused <> f: pd, b: grouse
+grouses <> f: s3, b: grouse
+grousing <> i: grousing, b: grousing, f: i
+grout <> d: grouted, i: grouting, s: grouts, p: grouted, '3': grouts
+grouted <> f: dp, b: grout
+grouting <> b: grout, f: i, i: grouting
+grouts <> f: s3, b: grout
+grove <> s: groves
+grovel <> i: grovelling, p: grovelled, '3': grovels, d: grovelled
+grovelled <> b: grovel, f: pd
+grovelling <> b: grovel, f: i, i: grovelling
+grovels <> b: grovel, f: '3'
+Groves <> b: grove, f: s
+grow <> p: grew, d: grown, i: growing, '3': grows
+growbag <> s: growbags
+growbags <> b: growbag, f: s
+grower <> s: growers
+growers <> b: grower, f: s
+growing <> b: grow, f: i, i: growing
+growl <> p: growled, i: growling, s: growls, '3': growls, d: growled
+growled <> b: growl, f: pd
+growling <> b: growl, f: i, i: growling, s: growlings
+growls <> b: growl, f: s3
+grown <> b: grow, f: d, p: grown
+grown-up <> s: grown-ups
+grown-ups <> b: grown-up, f: s
+grownup <> s: grownups, '3': grownups
+grownups <> b: grownup, f: s3
+grows <> b: grow, f: '3'
+growth <> s: growths
+growths <> b: growth, f: s
+groyne <> s: groynes
+groynes <> b: groyne, f: s
+grub <> s: grubs, i: grubbing, p: grubbed, d: grubbed, '3': grubs
+grubbed <> b: grub, f: pd
+grubber <> s: grubbers
+grubbers <> b: grubber, f: s
+grubbied <> b: grubby, f: p
+grubbier <> b: grubby, f: r
+grubbiest <> b: grubby, f: t
+grubbing <> b: grub, f: i, i: grubbing
+grubby <> r: grubbier, p: grubbied, t: grubbiest
+grubs <> f: s3, b: grub
+grubstake <> i: grubstaking, p: grubstaked, '3': grubstakes, d: grubstaked
+grubstaked <> f: pd, b: grubstake
+grubstakes <> f: '3', b: grubstake
+grubstaking <> f: i, b: grubstake
+grudge <> s: grudges, p: grudged, d: grudged, i: grudging, '3': grudges
+grudged <> b: grudge, f: pd
+grudger <> s: grudgers
+grudgers <> b: grudger, f: s
+grudges <> f: s3, b: grudge
+grudging <> b: grudge, f: i
+gruesome <> t: gruesomest
+gruesomest <> b: gruesome, f: t
+gruff <> t: gruffest, s: gruffs, r: gruffer
+gruffer <> b: gruff, f: r
+gruffest <> b: gruff, f: t
+gruffs <> b: gruff, f: s
+grumble <> p: grumbled, i: grumbling, s: grumbles, '3': grumbles, d: grumbled
+grumbled <> b: grumble, f: pd
+grumbler <> s: grumblers
+grumblers <> b: grumbler, f: s
+grumbles <> b: grumble, f: s3
+grumbling <> b: grumble, f: i, s: grumblings, i: grumbling
+grump <> p: grumped, s: grumps, '3': grumps, i: grumping
+grumped <> b: grump, f: p
+grumpier <> b: grumpy, f: r
+grumpies <> b: grumpy, f: s
+grumping <> b: grump, f: i
+grumps <> b: grump, f: s3
+grumpy <> r: grumpier, s: grumpies
+grunge <> p: grunged
+grunged <> b: grunge, f: p
+grungier <> b: grungy, f: r
+grungy <> r: grungier
+grunt <> p: grunted, s: grunts, i: grunting, '3': grunts, d: grunted
+grunted <> b: grunt, f: pd
+grunting <> b: grunt, f: i, i: grunting, s: gruntings
+grunts <> b: grunt, f: s3
+gryke <> s: grykes
+grykes <> b: gryke, f: s
+gryphon <> s: gryphons
+gryphons <> b: gryphon, f: s
+gti <> s: gti, b: gti, f: s
+guacamole <> p: guacamoled
+guacamoled <> b: guacamole, f: p
+guan <> s: guans
+guanaco <> s: guanacos
+guanacos <> b: guanaco, f: s
+guanidine <> s: guanidines
+guanidines <> b: guanidine, f: s
+guanine <> s: guanines
+guanines <> b: guanine, f: s
+guans <> b: guan, f: s
+guanxi <> s: guanxi, b: guanxi, f: s
+guarantee <> d: guaranteed, s: guarantees, '3': guarantees, i: guaranteeing, p: guaranteed
+guaranteed <> b: guarantee, f: dp, d: guaranteed, p: guaranteed
+guaranteeing <> b: guarantee, f: i, i: guaranteeing
+guarantees <> b: guarantee, f: s3
+guarantor <> s: guarantors
+guarantors <> b: guarantor, f: s
+guard <> s: guards, d: guarded, i: guarding, '3': guards, p: guarded
+guarded <> b: guard, f: dp, d: guarded
+guardian <> s: guardians
+guardians <> b: guardian, f: s
+guarding <> b: guard, f: i, i: guarding
+guardrail <> s: guardrails
+guardrails <> b: guardrail, f: s
+guards <> b: guard, f: s3
+guardsman <> s: guardsmen
+guardsmen <> b: guardsman, f: s
+Guatemalan <> s: guatemalans
+guava <> s: guavas
+guavas <> b: guava, f: s
+gubbin <> s: gubbins
+gubbins <> b: gubbin, f: s
+guddle <> i: guddling
+guddling <> b: guddle, f: i
+gudgeon <> s: gudgeons
+gudgeons <> b: gudgeon, f: s
+guenon <> s: guenons
+guenons <> b: guenon, f: s
+guerilla <> s: guerillas
+guerillas <> b: guerilla, f: s
+Guernsey <> s: guernseys
+guerrilla <> s: guerrillas
+guerrillas <> b: guerrilla, f: s
+guess <> p: guessed, d: guessed, i: guessing, s: guesses, '3': guesses
+guessed <> b: guess, f: pd
+guesser <> s: guessers
+guessers <> b: guesser, f: s
+guesses <> b: guess, f: s3
+guessing <> b: guess, f: i, i: guessing
+guesstimate <> d: guesstimated, '3': guesstimates, s: guesstimates
+guesstimated <> b: guesstimate, f: d
+guesstimates <> b: guesstimate, f: 3s
+guest <> s: guests, i: guesting
+guesthouse <> s: guesthouses
+guesthouses <> b: guesthouse, f: s
+guestimate <> d: guestimated, s: guestimates
+guestimated <> b: guestimate, f: d
+guestimates <> b: guestimate, f: s
+guesting <> b: guest, f: i
+guestroom <> s: guestrooms
+guestrooms <> b: guestroom, f: s
+guests <> b: guest, f: s
+guffaw <> p: guffawed, s: guffaws, i: guffawing, d: guffawed, '3': guffaws
+guffawed <> b: guffaw, f: pd
+guffawing <> b: guffaw, f: i
+guffaws <> b: guffaw, f: s3
+GUI <> s: gui, b: gui, f: s
+guide <> s: guides, d: guided, p: guided, '3': guides, i: guiding
+guidebook <> s: guidebooks
+guidebooks <> b: guidebook, f: s
+guided <> b: guide, f: dp, p: guided, d: guided
+guideline <> s: guidelines
+guidelines <> b: guideline, f: s
+guider <> s: guiders
+guiders <> b: guider, f: s
+guides <> b: guide, f: s3
+guiding <> i: guiding, b: guiding, f: i
+guidon <> s: guidons
+guidons <> b: guidon, f: s
+guild <> s: guilds
+guilder <> s: guilders
+guilders <> b: guilder, f: s
+guildhall <> s: guildhalls
+guildhalls <> b: guildhall, f: s
+guilds <> b: guild, f: s
+guile <> s: guiles
+guiles <> b: guile, f: s
+guillemot <> s: guillemots, '3': guillemots
+guillemots <> b: guillemot, f: s3
+guillotine <> s: guillotines, d: guillotined, i: guillotining, p: guillotined, '3': guillotines
+guillotined <> f: dp, b: guillotine
+guillotines <> f: s3, b: guillotine
+guillotining <> b: guillotine, f: i
+guilt <> s: guilts
+guilts <> b: guilt, f: s
+guinea <> s: guineas
+Guinean <> s: guineans
+guineas <> b: guinea, f: s
+guise <> s: guises
+guiser <> s: guisers
+guisers <> b: guiser, f: s
+guises <> b: guise, f: s
+guitar <> s: guitars
+guitarist <> s: guitarists
+guitarists <> b: guitarist, f: s
+guitars <> b: guitar, f: s
+Gujarat <> s: gujarats
+gulag <> s: gulags
+gulags <> b: gulag, f: s
+gule <> s: gules, '3': gules
+gules <> b: gule, f: s3
+gulf <> s: gulfs
+gulfs <> b: gulf, f: s
+gull <> s: gulls, d: gulled, p: gulled, i: gulling, '3': gulls
+gulled <> b: gull, f: dp
+gullet <> s: gullets
+gullets <> b: gullet, f: s
+gulley <> s: gulleys
+gulleys <> b: gulley, f: s
+gullibilities <> b: gullibility, f: s
+gullibility <> s: gullibilities
+gullied <> b: gully, f: p
+gullies <> b: gully, f: s
+gulling <> f: i, b: gull
+gulls <> f: s3, b: gull
+gully <> s: gullies, i: gullying, p: gullied
+gullying <> b: gully, f: i, i: gullying
+gulp <> p: gulped, i: gulping, s: gulps, d: gulped, '3': gulps
+gulped <> b: gulp, f: pd
+gulper <> s: gulpers
+gulpers <> b: gulper, f: s
+gulping <> b: gulp, f: i, i: gulping
+gulps <> b: gulp, f: s3
+gum <> s: gums, i: gumming, p: gummed, d: gummed, '3': gums
+gumboot <> s: gumboots, '3': gumboots
+gumboots <> b: gumboot, f: s3
+gummed <> b: gum, f: pd, d: gummed, p: gummed
+gummies <> b: gummy, f: s
+gumming <> b: gum, f: i
+gummy <> s: gummies
+gums <> f: s3, b: gum
+gumshield <> s: gumshields
+gumshields <> b: gumshield, f: s
+gumshoe <> s: gumshoes
+gumshoes <> b: gumshoe, f: s
+gun <> s: guns, d: gunned, i: gunning, p: gunned, '3': guns
+gunbattle <> s: gunbattles
+gunbattles <> b: gunbattle, f: s
+gunboat <> s: gunboats
+gunboats <> b: gunboat, f: s
+gunfight <> s: gunfights
+gunfighter <> s: gunfighters
+gunfighters <> b: gunfighter, f: s
+gunfights <> b: gunfight, f: s
+gunge <> i: gungeing
+gungeing <> b: gunge, f: i
+gunmaker <> s: gunmakers
+gunmakers <> b: gunmaker, f: s
+gunman <> s: gunmen
+gunmen <> b: gunman, f: s
+gunned <> b: gun, f: dp
+gunnel <> s: gunnels
+gunnels <> b: gunnel, f: s
+gunner <> s: gunners
+gunners <> b: gunner, f: s
+gunning <> b: gun, f: i, i: gunning
+gunrunning <> b: gunrun, f: i
+guns <> f: s3, b: gun
+gunsel <> s: gunsels
+gunsels <> b: gunsel, f: s
+gunship <> s: gunships
+gunships <> b: gunship, f: s
+gunshot <> s: gunshots
+gunshots <> b: gunshot, f: s
+gunslinger <> s: gunslingers
+gunslingers <> b: gunslinger, f: s
+gunsmith <> s: gunsmiths
+gunsmiths <> b: gunsmith, f: s
+gunwale <> s: gunwales
+gunwales <> b: gunwale, f: s
+guppies <> b: guppy, f: s
+guppy <> s: guppies
+gurdwara <> s: gurdwaras
+gurdwaras <> b: gurdwara, f: s
+gurgle <> p: gurgled, i: gurgling, s: gurgles, '3': gurgles, d: gurgled
+gurgled <> f: pd, b: gurgle, p: gurgled
+gurgles <> b: gurgle, f: s3
+gurgling <> b: gurgle, f: i, i: gurgling, s: gurglings
+Gurkha <> s: gurkhas
+gurn <> i: gurning
+gurnard <> s: gurnards
+gurnards <> b: gurnard, f: s
+gurning <> b: gurn, f: i
+gush <> p: gushed, i: gushing, '3': gushes, s: gushes, d: gushed
+gushed <> b: gush, f: pd
+gusher <> s: gushers
+gushers <> b: gusher, f: s
+gushes <> b: gush, f: 3s
+gushing <> b: gush, f: i, i: gushing, s: gushings
+gusset <> s: gussets
+gusseted <> p: gusseted, b: gusseted, f: p
+gussets <> b: gusset, f: s
+gussied <> b: gussy, f: p
+gussy <> p: gussied
+gust <> s: gusts, i: gusting, p: gusted, d: gusted, '3': gusts
+gusted <> b: gust, f: pd
+gusting <> b: gust, f: i, i: gusting
+gusts <> b: gust, f: s3
+gut <> d: gutted, p: gutted, i: gutting, '3': guts
+gut-wrenching <> i: gut-wrenching, b: gut-wrenching, f: i
+guts <> s: guts, b: guts, f: s
+gutted <> b: gut, f: dp, d: gutted, p: gutted
+gutter <> s: gutters, p: guttered, i: guttering, '3': gutters, d: guttered
+guttered <> f: pd, b: gutter, p: guttered
+guttering <> b: gutter, f: i, i: guttering, s: gutterings
+gutters <> f: s3, b: gutter
+guttersnipe <> s: guttersnipes
+guttersnipes <> b: guttersnipe, f: s
+gutties <> b: gutty, f: s
+gutting <> b: gut, f: i, i: gutting
+guttural <> s: gutturals
+gutturals <> b: guttural, f: s
+gutty <> s: gutties
+guy <> s: guys, i: guying, p: guyed, '3': guys, d: guyed
+guyed <> f: pd, b: guy
+guying <> f: i, b: guy
+guyot <> s: guyots
+guyots <> b: guyot, f: s
+guys <> f: s3, b: guy
+guzzle <> i: guzzling, '3': guzzles, d: guzzled, p: guzzled
+guzzled <> b: guzzle, f: dp
+guzzler <> s: guzzlers
+guzzlers <> b: guzzler, f: s
+guzzles <> b: guzzle, f: '3'
+guzzling <> b: guzzle, f: i
+Gwynne <> s: gwynnes
+gybe <> s: gybes, i: gybing, p: gybed, '3': gybes, d: gybed
+gybed <> b: gyb, f: p
+gybes <> f: s3, b: gybe
+gybing <> b: gyb, f: i
+Gyle <> s: gyles
+gym <> s: gyms
+gymkhana <> s: gymkhanas
+gymkhanas <> b: gymkhana, f: s
+gymnasium <> s: gymnasiums
+gymnasiums <> b: gymnasium, f: s
+gymnast <> s: gymnasts
+gymnasts <> b: gymnast, f: s
+gymnosperm <> s: gymnosperms
+gymnosperms <> b: gymnosperm, f: s
+gymnure <> s: gymnures
+gymnures <> b: gymnure, f: s
+gyms <> b: gym, f: s
+gymslip <> s: gymslips
+gymslips <> b: gymslip, f: s
+gynaecologist <> s: gynaecologists
+gynaecologists <> b: gynaecologist, f: s
+gyp <> '3': gyps, i: gyping, p: gypped, d: gypped
+gyping <> b: gyp, f: i
+gypped <> f: pd, b: gyp
+gypping <> f: i, b: gyp
+gyppo <> s: gyppos
+gyppos <> b: gyppo, f: s
+gyps <> b: gyp, f: '3'
+gypsies <> b: gypsy, f: s
+gypsum <> s: gypsums
+gypsums <> b: gypsum, f: s
+gypsy <> s: gypsies
+gyrate <> i: gyrating, p: gyrated, '3': gyrates, d: gyrated
+gyrated <> f: pd, b: gyrate
+gyrates <> f: '3', b: gyrate
+gyrating <> b: gyrate, f: i
+gyration <> s: gyrations
+gyrations <> b: gyration, f: s
+gyre <> s: gyres
+gyres <> b: gyre, f: s
+gyri <> s: gyri, b: gyri, f: s
+gyro <> s: gyros
+gyros <> b: gyro, f: s
+gyroscope <> s: gyroscopes
+gyroscopes <> b: gyroscope, f: s
+gyve <> s: gyves
+gyves <> b: gyve, f: s

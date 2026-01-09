@@ -1,0 +1,112 @@
+y'all <> P: {rk: 12223, frq: 855}
+y-axis <> N: {rk: 53866, frq: 32}
+ya <> U: {rk: 13868, frq: 997}
+yacht <> N: {rk: 7621, frq: 2836}
+yachting <> N: {rk: 27366, frq: 224}
+yachtsman <> N: {rk: 36691, frq: 88}
+yah <> U: {rk: 26423, frq: 385}
+yak <> N: {rk: 22836, frq: 324}
+yakuza <> N: {rk: 45162, frq: 97}
+yam <> N: {rk: 15214, frq: 849}
+yammer <> V: {rk: 37177, frq: 87}
+yank <> V: {rk: 6229, frq: 4213}
+yap <> V: {rk: 24053, frq: 291}
+yapping <> J: {rk: 49682, frq: 33}, N: {rk: 51820, frq: 34}
+yappy <> J: {rk: 53018, frq: 27}
+yard <> N: {rk: 1036, frq: 43195}
+yardage <> N: {rk: 19824, frq: 488}
+yardarm <> N: {rk: 51717, frq: 34}
+yardman <> N: {rk: 56078, frq: 28}
+yardstick <> N: {rk: 17728, frq: 554}
+yarmulke <> N: {rk: 26522, frq: 242}
+yarn <> N: {rk: 11760, frq: 1282}
+yarrow <> N: {rk: 31386, frq: 263}
+yaw <> N: {rk: 33287, frq: 131}, V: {rk: 35293, frq: 100}
+yawl <> N: {rk: 49889, frq: 60}
+yawn <> V: {rk: 10916, frq: 1531}, N: {rk: 19164, frq: 524}
+yawning <> J: {rk: 21760, frq: 365}
+ye <> P: {rk: 8486, frq: 2693}
+yea <> U: {rk: 19667, frq: 453}, N: {rk: 37323, frq: 99}
+yeah <> U: {rk: 429, frq: 116972}
+year <> N: {rk: 54, frq: 834997}
+year-long <> J: {rk: 13573, frq: 887}
+year-round <> J: {rk: 7619, frq: 2725}
+yearbook <> N: {rk: 14232, frq: 851}
+yearling <> N: {rk: 22217, frq: 350}
+yearly <> J: {rk: 9096, frq: 1979}, R: {rk: 17823, frq: 537}
+yearn <> V: {rk: 8145, frq: 2329}
+yearning <> N: {rk: 12663, frq: 1070}, J: {rk: 33489, frq: 114}
+yeast <> N: {rk: 10234, frq: 1816}
+yeasty <> J: {rk: 33827, frq: 117}
+yell <> V: {rk: 2644, frq: 14191}, N: {rk: 13762, frq: 1051}
+yeller <> N: {rk: 41072, frq: 72}
+yelling <> N: {rk: 29855, frq: 167}, J: {rk: 52253, frq: 26}
+yellow <> J: {rk: 1671, frq: 24139}, N: {rk: 9258, frq: 2218}, V: {rk: 34291, frq: 106}
+yellow-bellied <> J: {rk: 49513, frq: 33}
+yellowcake <> N: {rk: 50697, frq: 55}
+yellowed <> J: {rk: 18696, frq: 542}
+yellowfin <> N: {rk: 25484, frq: 333}
+yellowing <> J: {rk: 24150, frq: 277}
+yellowish <> J: {rk: 19319, frq: 467}
+yellowtail <> N: {rk: 39848, frq: 140}
+yellowy <> J: {rk: 56818, frq: 26}
+yelp <> V: {rk: 17033, frq: 656}, N: {rk: 18383, frq: 550}
+yelping <> N: {rk: 46759, frq: 49}, J: {rk: 57385, frq: 19}
+yemeni <> J: {rk: 21268, frq: 492}, N: {rk: 31645, frq: 161}
+yen <> N: {rk: 10717, frq: 1534}, V: {rk: 33084, frq: 156}
+yeoman <> N: {rk: 27941, frq: 208}
+yep <> U: {rk: 8643, frq: 2482}
+yer <> A: {rk: 19254, frq: 575}
+yes <> U: {rk: 258, frq: 173566}
+yes-man <> N: {rk: 43004, frq: 50}
+yeshiva <> N: {rk: 27936, frq: 314}
+yesterday <> R: {rk: 1510, frq: 27892}
+yesteryear <> N: {rk: 21316, frq: 369}
+yet <> R: {rk: 275, frq: 146786}
+yeti <> N: {rk: 30693, frq: 173}
+yew <> N: {rk: 24670, frq: 390}
+yield <> V: {rk: 2668, frq: 13535}, N: {rk: 4803, frq: 5869}
+yielder <> N: {rk: 59579, frq: 19}
+yielding <> J: {rk: 22575, frq: 322}
+yip <> V: {rk: 29280, frq: 194}
+yippee <> U: {rk: 44373, frq: 54}
+yo-yo <> N: {rk: 19201, frq: 735}
+yod <> N: {rk: 53996, frq: 49}
+yodel <> V: {rk: 32417, frq: 136}, N: {rk: 43360, frq: 73}
+yoga <> N: {rk: 8018, frq: 3261}
+yoghurt <> N: {rk: 53855, frq: 31}
+yogic <> J: {rk: 45294, frq: 45}
+yogurt <> N: {rk: 7592, frq: 3153}
+yoke <> N: {rk: 16792, frq: 651}
+yokel <> N: {rk: 38907, frq: 85}
+yolk <> N: {rk: 11647, frq: 1403}
+yon <> D: {rk: 21077, frq: 388}, R: {rk: 32119, frq: 128}
+yonder <> R: {rk: 21888, frq: 363}, D: {rk: 44821, frq: 55}
+yoo-hoo <> U: {rk: 36422, frq: 94}
+yore <> N: {rk: 25699, frq: 257}
+you <> P: {rk: 14, frq: 3354252}
+you-all <> P: {rk: 19279, frq: 590}
+young <> J: {rk: 234, frq: 173683}
+youngish <> J: {rk: 31957, frq: 133}
+youngster <> N: {rk: 4842, frq: 5401}
+your <> A: {rk: 69, frq: 719699}, P: {rk: 37234, frq: 142}
+yours <> P: {rk: 3175, frq: 10910}
+yourself <> P: {rk: 916, frq: 47332}
+youth <> N: {rk: 1401, frq: 31288}
+youthful <> J: {rk: 7556, frq: 2666}
+youthfully <> R: {rk: 53012, frq: 26}
+youthfulness <> N: {rk: 34779, frq: 98}
+yowl <> V: {rk: 32492, frq: 128}, N: {rk: 38573, frq: 76}
+yttrium <> N: {rk: 54106, frq: 27}
+yucca <> N: {rk: 24397, frq: 732}
+yuck <> U: {rk: 23407, frq: 311}
+yucky <> J: {rk: 32769, frq: 121}
+yugoslav <> J: {rk: 10845, frq: 1557}, N: {rk: 34732, frq: 102}
+yuk <> U: {rk: 36438, frq: 96}
+yum <> U: {rk: 20468, frq: 436}
+yum-yum <> U: {rk: 55696, frq: 26}
+yummy <> J: {rk: 19302, frq: 547}
+yup <> U: {rk: 15054, frq: 811}, N: {rk: 54214, frq: 24}
+yuppie <> N: {rk: 18828, frq: 484}
+yuppy <> N: {rk: 25258, frq: 244}
+yurt <> N: {rk: 27892, frq: 215}

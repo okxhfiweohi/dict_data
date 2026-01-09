@@ -1,0 +1,278 @@
+kabaddi <> w: 227744
+kabob <> w: 101813, p: [21306]
+kabuki <> w: 208893
+kaftan <> w: 101837, p: [34115]
+kajal <> w: 216846
+kale <> w: 102027, p: [26712, 60778]
+kaleidoscope <> w: 365780
+kameez <> w: 102062, p: [34117]
+kangaroo <> w: 102090, p: [17987]
+kangaroo court <> w: 102096, p: [44002]
+kangaroo rat <> p: [34369]
+kanji <> w: 223448
+kanzu <> w: 102113, p: [39793]
+kaolinite <> w: 102118
+kaput <> w: 102131
+karakul <> w: 102141
+karaoke <> w: 102142, p: [33093]
+karat <> w: 102143, p: [26230]
+karate <> w: 102144, p: [37132]
+karateka <> w: 227483
+karen <> w: 102151
+karma <> w: 102187
+kaross <> w: 220841
+karst <> w: 225075
+kart <> w: 210457, p: [20271]
+karting <> w: 210068, p: [18872]
+karyotype <> w: 102203
+kasha <> w: 102207
+katakana <> w: 223450
+kayak <> w: 102272, p: [29553, 29553]
+kayaking <> w: 226983
+kayoed <> w: 102274
+kazoo <> w: 102285, p: [27654]
+kebab <> w: 102295, p: [21306]
+kedgeree <> w: 102300
+keen <> w: 102309, p: [22031, 42390]
+keenly <> w: 102312, p: [42864]
+keep <> w: 102314, p: [61284, 21167, 22680, 22790]
+keep body and soul together <> p: [41790]
+keep down <> p: [54191]
+keep in with <> p: [52749]
+keep mum <> p: [26317]
+keep off <> p: [52658]
+keep on <> p: [44124]
+keep the pot boiling <> p: [41970]
+keep the wolf from the door <> p: [41792]
+keep to <> p: [31932, 40685, 22255]
+keep up <> p: [51860]
+keeper <> w: 102348
+keeping <> w: 102349
+keepsake <> w: 102350, p: [17763]
+keffiyeh <> w: 216599, p: [34484]
+kefir <> w: 217204, p: [34668]
+keg <> w: 102355
+kegger <> w: 366953
+keister <> w: 102360, p: [33467]
+kelp <> w: 102370, p: [36277]
+kelpie <> w: 102372
+ken <> w: 102383
+kendo <> w: 226912
+kennel <> w: 102516, p: [34504]
+keno <> w: 102528, p: [31910]
+kenyan <> w: 102547
+keratinocyte <> w: 217067
+kerb <> w: 102597, p: [29832]
+kerchief <> w: 102602, p: [25377]
+kernel <> w: 102607, p: [31165, 15695]
+kerosene <> w: 102611
+kestrel <> w: 102623, p: [24791]
+ketamine <> w: 102625
+ketchup <> w: 102628, p: [51306]
+ketone <> w: 102639
+kettle <> w: 102654, p: [50781, 27656]
+kettledrum <> w: 102657, p: [27656]
+key <> w: 102662, p: [24009, 51458, 30203]
+key ring <> w: 102668, p: [36263]
+key signature <> w: 102669
+keyboard <> w: 102673, p: [15783, 18447, 30205]
+keyboardist <> w: 102676, p: [30571]
+keycard <> w: 102677, p: [29743]
+keyhole saw <> p: [41528]
+keyless <> w: 102682
+keypad <> w: 102689, p: [29390]
+keystone <> w: 102690
+kg <> w: 102694, p: [29745]
+khaki <> w: 102701, p: [29096]
+khakis <> w: 102702, p: [39731]
+kiang <> w: 102745
+kick <> w: 102760, p: [16632, 22315, 28065, 22315, 51061]
+kick back <> p: [53268, 48615]
+kick down <> p: [46597]
+kick in <> p: [46597, 45112]
+kick off <> p: [43104]
+kick the bucket <> p: [17775]
+kick up <> p: [41834]
+kick-down <> p: [46597]
+kick-off <> p: [43104]
+kickback <> w: 102780
+kickball <> w: 224173
+kickboxing <> w: 226933
+kicker <> w: 102781
+kicking <> w: 229194
+kicks <> w: 221350, p: [51061]
+kid <> w: 102787, p: [60837, 26180, 24494, 27898]
+kidnap <> w: 102795, p: [36997]
+kidnapper <> w: 102797, p: [37017]
+kidnapping <> w: 102798
+kidney <> w: 102799, p: [50721, 32930]
+kidney bean <> w: 102801, p: [27113]
+kidney stone <> p: [33095]
+kiki <> w: 366219
+kilim <> w: 221781
+kill <> w: 102827, p: [61262]
+kill or cure <> p: [40547]
+kill two birds with one stone <> p: [45471]
+killdeer <> w: 102833
+killer <> w: 102835
+killer bee <> p: [34640]
+killer whale <> w: 102839, p: [50295]
+killing <> w: 102841, p: [61262]
+kiln <> w: 102846, p: [25537]
+kilocalorie <> w: 102851, p: [31207]
+kilogram <> w: 102854, p: [29745]
+kilometer <> w: 102860
+kilt <> w: 102870, p: [24949]
+kimberlite <> w: 102873
+kimchi <> w: 209248, p: [31191]
+kimono <> w: 102874, p: [24951]
+kin <> w: 102875, p: [44566]
+kind <> w: 103007, p: [17879]
+kind of <> p: [43352]
+kind-hearted <> w: 103008
+kindergarten <> w: 103012, p: [20015]
+kindle <> w: 103017
+kindled <> w: 103018
+kindly <> w: 103021, p: [49536, 17879]
+kindness <> w: 103022, p: [61294, 61294]
+kindred <> w: 103023
+kine <> w: 103024, p: [27333]
+kinematics <> w: 103025
+kinesiology <> w: 103027
+kinetic <> w: 103034
+kinetic art <> w: 208796
+kinetic energy <> w: 103035
+kinfolk <> w: 103043
+king <> w: 103044, p: [60027, 29996]
+king of beasts <> p: [48613]
+king penguin <> p: [27099]
+king-size <> w: 103051, p: [37160]
+kingbird <> w: 103092, p: [34554]
+kingdom <> w: 103095
+kingfisher <> w: 103120, p: [50261]
+kink <> w: 103136, p: [26150]
+kinkajou <> w: 103138, p: [24224]
+kinky <> w: 103139
+kinship <> w: 103147, p: [27522]
+kiosk <> w: 103154, p: [22189]
+kip <> w: 103156, p: [58998]
+kipper <> w: 103161, p: [28085]
+kipper tie <> p: [33450]
+kirsch <> w: 103180
+kiss <> w: 103188, p: [19368, 19368]
+kiss and make up <> p: [40011]
+kiss and tell <> p: [40323]
+kiss of death <> p: [40889]
+kiss of life <> w: 103192, p: [32748]
+kissel <> w: 217646, p: [38647]
+kisser <> w: 103194, p: [60750]
+kit <> w: 103205
+kit fox <> p: [33989]
+kitchen <> w: 103216, p: [22167]
+kitchen cabinet <> w: 103218, p: [16117]
+kitchen porter <> p: [26499]
+kitchen roll <> w: 228468, p: [26505]
+kitchenette <> w: 103231, p: [22167]
+kitchenware <> w: 103232, p: [30874]
+kite <> w: 103233, p: [18615, 25587, 51749, 18615]
+kiting <> w: 210472, p: [18615]
+kitten <> w: 103241, p: [50132]
+kitten heel <> p: [25046]
+kittiwake <> w: 103244, p: [24795]
+kitty <> w: 103246, p: [50132]
+kiwi <> w: 103254, p: [50461, 24797, 35928]
+kiwi fruit <> w: 103256, p: [50461]
+kleptocracy <> w: 225169
+kleptomania <> w: 103280
+kleptomaniac <> w: 103281
+klezmer <> w: 208979
+klipspringer <> w: 216547, p: [34331]
+klutz <> w: 103294
+knack <> w: 103300
+knacked <> w: 367697
+knackered <> w: 103302, p: [51206]
+knapsack <> w: 103305, p: [18371]
+knave <> w: 103307
+knavery <> w: 103308
+knavishly <> w: 103310
+knead <> w: 103313, p: [32014, 21903]
+knee <> w: 103314, p: [50685, 25501]
+knee breeches <> w: 103322, p: [24865]
+knee-high <> w: 103317, p: [33167]
+knee-high to a grasshopper <> p: [39915]
+knee-length <> w: 103319
+kneecap <> w: 103328
+kneel <> w: 103329, p: [22917, 22917]
+kneeling <> w: 103331, p: [22917]
+knell <> w: 103333
+knick-knack <> w: 103338
+knickerbockers <> w: 103336, p: [24865]
+knickers <> w: 103337, p: [18335, 24865]
+knife <> w: 103340, p: [43178]
+knight <> w: 103349, p: [29998, 29631]
+knit <> w: 103366, p: [51939, 34041]
+knitted <> w: 103368, p: [33950]
+knitting <> w: 103370, p: [51939]
+knitting needle <> w: 103372, p: [33787]
+knitwear <> w: 103503
+knob <> w: 103505
+knobbed <> w: 103507
+knobby <> w: 103510
+knock <> w: 103514, p: [60825, 43476, 60825]
+knock it off <> p: [48387]
+knock off <> p: [52751, 52662]
+knock on wood <> p: [47314]
+knock up <> p: [46645]
+knock-back <> p: [53234]
+knock-down <> p: [49678, 47736]
+knock-off <> p: [52751, 52662]
+knock-on <> w: 103526
+knock-up <> p: [46645]
+knocking <> w: 103537, p: [60825]
+knockoff <> w: 103538
+knockout <> w: 103539, p: [26660]
+knoll <> w: 103543
+knot <> w: 103545, p: [26084, 26084]
+knotted <> w: 103548
+knotting <> w: 222588
+knotty <> w: 103551, p: [28614]
+know <> w: 103554, p: [48661, 59088]
+know the score <> p: [44250]
+know-all <> w: 103555
+knowing <> w: 103567, p: [27291, 49678]
+knowingly <> w: 103568, p: [49678]
+knowledge <> w: 103570
+knowledgeable <> w: 103574, p: [44748]
+known <> w: 103577
+knuckle <> w: 103580, p: [50687]
+knuckle down <> p: [43050]
+knuckle joint <> p: [50687]
+knuckle-duster <> p: [29777]
+knucklehead <> w: 103587
+knuckles <> w: 103589, p: [29777]
+koala <> w: 103597, p: [50205]
+kofta <> w: 209249, p: [31121]
+kohl <> w: 103620
+kohlrabi <> w: 103622, p: [26696]
+koi <> w: 208423, p: [24701]
+kookaburra <> w: 103666, p: [24799]
+kooky <> w: 103668
+kopje <> w: 103673, p: [31970]
+koppie <> w: 103675, p: [31970]
+kora <> w: 209013, p: [27658]
+korma <> w: 209250, p: [31245]
+kosher <> w: 103705
+kowtow <> w: 103723
+krait <> w: 103731, p: [23725]
+kraken <> w: 221962
+krill <> w: 103750, p: [25727]
+krummhorn <> w: 103766, p: [27660]
+kt <> w: 103774, p: [26230]
+kudos <> w: 103787, p: [19374]
+kudu <> w: 103788, p: [34333]
+kulfi <> w: 217505, p: [38134]
+kumquat <> w: 103808, p: [26678]
+kung fu <> w: 103812
+kurta <> w: 103840, p: [34146]
+kvass <> w: 103858
+kvetch <> w: 103859, p: [28065]

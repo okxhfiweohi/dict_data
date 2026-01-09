@@ -1,0 +1,52 @@
+{
+    "phonetic": {
+        "start": "G",
+        "end": "gyve",
+        "total": 3362
+    },
+    "bnc": {
+        "start": "G",
+        "end": "gyroscope",
+        "total": 1567
+    },
+    "explain": {
+        "start": "G",
+        "end": "gulp",
+        "total": 5000
+    },
+    "explain__1": {
+        "start": "gulped",
+        "end": "gyves",
+        "total": 332
+    },
+    "exchange": {
+        "start": "G-man",
+        "end": "gyves",
+        "total": 2489
+    },
+    "collins": {
+        "start": "gadget",
+        "end": "gypsy",
+        "total": 399
+    },
+    "freq": {
+        "start": "gab",
+        "end": "gyrus",
+        "total": 1334
+    },
+    "redirect": {
+        "start": "g-men",
+        "end": "gyles",
+        "total": 82
+    },
+    "lgk_id": {
+        "start": "gab",
+        "end": "gyrus",
+        "total": 1206
+    },
+    "pos": {
+        "start": "gab",
+        "end": "gyrus",
+        "total": 1319
+    }
+}

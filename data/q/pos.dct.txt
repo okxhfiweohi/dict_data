@@ -1,0 +1,192 @@
+qigong <> N: {rk: 54253, frq: 45}
+quack <> N: {rk: 25796, frq: 240}, V: {rk: 27089, frq: 201}, U: {rk: 36458, frq: 143}
+quackery <> N: {rk: 35629, frq: 103}
+quad <> N: {rk: 11368, frq: 1426}
+quadrangle <> N: {rk: 31636, frq: 157}
+quadrant <> N: {rk: 16272, frq: 686}
+quadratic <> J: {rk: 29863, frq: 206}
+quadrature <> N: {rk: 46335, frq: 43}
+quadrennial <> J: {rk: 32999, frq: 126}
+quadriceps <> N: {rk: 20495, frq: 455}
+quadrilateral <> J: {rk: 57246, frq: 20}
+quadrille <> N: {rk: 54436, frq: 38}
+quadrillion <> N: {rk: 39315, frq: 84}
+quadriplegia <> N: {rk: 46457, frq: 49}
+quadriplegic <> J: {rk: 25286, frq: 247}
+quadruped <> N: {rk: 45235, frq: 45}, J: {rk: 50918, frq: 31}
+quadruple <> V: {rk: 14984, frq: 785}, J: {rk: 26857, frq: 203}, N: {rk: 55036, frq: 44}
+quadruplet <> N: {rk: 40563, frq: 74}
+quadrupling <> N: {rk: 49603, frq: 34}
+quadrupole <> N: {rk: 46397, frq: 48}
+quaff <> V: {rk: 35256, frq: 96}
+quagga <> N: {rk: 59431, frq: 22}
+quagmire <> N: {rk: 17126, frq: 660}
+quahog <> N: {rk: 50943, frq: 38}
+quail <> N: {rk: 13549, frq: 1007}, V: {rk: 25957, frq: 243}
+quaint <> J: {rk: 10549, frq: 1515}
+quaintly <> R: {rk: 39529, frq: 64}, J: {rk: 56412, frq: 24}
+quaintness <> N: {rk: 44904, frq: 49}
+quake <> N: {rk: 8719, frq: 2559}, V: {rk: 25420, frq: 246}
+quaker <> J: {rk: 15989, frq: 693}, N: {rk: 17830, frq: 567}
+quaking <> N: {rk: 37700, frq: 79}
+quale <> N: {rk: 51080, frq: 50}
+qualification <> N: {rk: 6928, frq: 3237}
+qualified <> J: {rk: 6060, frq: 4003}
+qualifier <> N: {rk: 16252, frq: 754}
+qualify <> V: {rk: 3068, frq: 10981}
+qualifying <> J: {rk: 14736, frq: 833}, N: {rk: 22879, frq: 328}
+qualitative <> J: {rk: 7213, frq: 3838}
+qualitatively <> R: {rk: 18792, frq: 537}
+quality <> N: {rk: 764, frq: 56213}
+qualm <> N: {rk: 15382, frq: 739}
+quandary <> N: {rk: 16219, frq: 670}
+quant <> J: {rk: 52145, frq: 35}
+quantifiable <> J: {rk: 23227, frq: 304}
+quantification <> N: {rk: 28590, frq: 211}
+quantified <> J: {rk: 46670, frq: 44}
+quantifier <> N: {rk: 57909, frq: 23}
+quantify <> V: {rk: 9920, frq: 1810}
+quantitative <> J: {rk: 7796, frq: 3037}
+quantitatively <> R: {rk: 23365, frq: 321}
+quantity <> N: {rk: 4089, frq: 7353}
+quantization <> N: {rk: 36322, frq: 111}
+quantize <> V: {rk: 54844, frq: 32}
+quantized <> J: {rk: 48216, frq: 42}
+quantum <> N: {rk: 5683, frq: 4435}
+quantum-mechanical <> J: {rk: 49403, frq: 50}
+quarantine <> N: {rk: 14838, frq: 812}, V: {rk: 23060, frq: 310}
+quarantined <> J: {rk: 50587, frq: 32}
+quarantining <> N: {rk: 54183, frq: 24}
+quark <> N: {rk: 18580, frq: 845}
+quarrel <> N: {rk: 11467, frq: 1286}, V: {rk: 14945, frq: 788}
+quarreling <> N: {rk: 56490, frq: 24}
+quarrelsome <> J: {rk: 34078, frq: 108}
+quarried <> J: {rk: 52240, frq: 26}
+quarry <> N: {rk: 10015, frq: 1659}, V: {rk: 31195, frq: 146}
+quarter <> N: {rk: 1405, frq: 29343}, V: {rk: 15677, frq: 803}
+quarter-hour <> N: {rk: 50639, frq: 30}
+quarterback <> N: {rk: 3323, frq: 11845}
+quarterdeck <> N: {rk: 41368, frq: 93}
+quarterfinal <> N: {rk: 19048, frq: 812}, J: {rk: 30406, frq: 169}
+quarterly <> J: {rk: 11719, frq: 1503}, R: {rk: 26374, frq: 385}
+quartermaster <> N: {rk: 31588, frq: 161}
+quarterstaff <> N: {rk: 59361, frq: 19}
+quartet <> N: {rk: 11579, frq: 1918}
+quartile <> N: {rk: 26243, frq: 253}
+quarto <> N: {rk: 57730, frq: 40}
+quartz <> N: {rk: 17332, frq: 627}
+quartzite <> N: {rk: 41281, frq: 64}
+quasar <> N: {rk: 14807, frq: 839}
+quash <> V: {rk: 19240, frq: 461}
+quasi <> J: {rk: 33724, frq: 109}, R: {rk: 46090, frq: 46}
+quaternary <> J: {rk: 47930, frq: 50}
+quatrain <> N: {rk: 33838, frq: 170}
+quattrocento <> N: {rk: 44165, frq: 57}
+quaver <> V: {rk: 27011, frq: 230}, N: {rk: 35724, frq: 106}
+quavering <> J: {rk: 43466, frq: 53}
+quavery <> J: {rk: 53810, frq: 25}
+quay <> N: {rk: 23949, frq: 300}
+quayside <> N: {rk: 57468, frq: 26}
+qubit <> N: {rk: 27925, frq: 291}
+queasily <> R: {rk: 54299, frq: 24}
+queasiness <> N: {rk: 34120, frq: 112}
+queasy <> J: {rk: 15936, frq: 711}
+queen <> V: {rk: 52979, frq: 31}
+queen-size <> J: {rk: 29983, frq: 159}
+queen-sized <> J: {rk: 40286, frq: 62}
+queenly <> R: {rk: 44781, frq: 43}
+queer <> J: {rk: 12031, frq: 1254}, N: {rk: 28911, frq: 184}, V: {rk: 42051, frq: 62}
+queerly <> R: {rk: 54131, frq: 24}
+queerness <> N: {rk: 58115, frq: 26}
+quell <> V: {rk: 13371, frq: 991}
+quench <> V: {rk: 20186, frq: 423}
+quenelle <> N: {rk: 52156, frq: 35}
+quercetin <> N: {rk: 49834, frq: 44}
+querulous <> J: {rk: 35055, frq: 103}
+querulously <> R: {rk: 59284, frq: 20}
+query <> N: {rk: 10053, frq: 1864}, V: {rk: 15864, frq: 723}
+quesadilla <> N: {rk: 26733, frq: 285}
+quest <> N: {rk: 4099, frq: 7271}, V: {rk: 47100, frq: 38}
+question <> N: {rk: 197, frq: 208806}, V: {rk: 1960, frq: 19399}
+questionable <> J: {rk: 6325, frq: 3616}
+questionably <> R: {rk: 53739, frq: 27}
+questioned <> J: {rk: 42699, frq: 51}
+questioner <> N: {rk: 18633, frq: 546}
+questioning <> N: {rk: 7907, frq: 2479}, J: {rk: 14100, frq: 900}
+questioningly <> R: {rk: 32160, frq: 141}
+questionnaire <> N: {rk: 3632, frq: 9761}
+queue <> N: {rk: 16113, frq: 805}, V: {rk: 21593, frq: 359}
+queuing <> J: {rk: 58342, frq: 31}
+quibble <> V: {rk: 20764, frq: 383}, N: {rk: 28053, frq: 203}
+quibbling <> N: {rk: 54654, frq: 28}
+quiche <> N: {rk: 24396, frq: 317}
+quick <> J: {rk: 1307, frq: 31817}, R: {rk: 7665, frq: 2611}
+quick-release <> J: {rk: 37071, frq: 89}
+quick-tempered <> J: {rk: 44151, frq: 49}
+quick-witted <> J: {rk: 33263, frq: 116}
+quicken <> V: {rk: 11727, frq: 1282}
+quickened <> J: {rk: 45861, frq: 43}
+quickening <> N: {rk: 31557, frq: 184}, J: {rk: 34717, frq: 101}
+quicker <> J: {rk: 11668, frq: 1289}
+quickest <> J: {rk: 15366, frq: 741}
+quickie <> N: {rk: 23845, frq: 377}
+quicklime <> N: {rk: 53558, frq: 28}
+quickly <> R: {rk: 679, frq: 61148}
+quickness <> N: {rk: 16350, frq: 689}
+quicksand <> N: {rk: 23661, frq: 293}
+quicksilver <> N: {rk: 29838, frq: 216}
+quid <> N: {rk: 17777, frq: 547}
+quiescence <> N: {rk: 37750, frq: 80}
+quiescent <> J: {rk: 28821, frq: 175}
+quiet <> J: {rk: 1439, frq: 28964}, V: {rk: 12196, frq: 1209}, N: {rk: 13558, frq: 978}
+quieten <> V: {rk: 54283, frq: 27}
+quieting <> N: {rk: 56627, frq: 23}
+quietism <> N: {rk: 54990, frq: 30}
+quietist <> N: {rk: 54312, frq: 32}
+quietly <> R: {rk: 2569, frq: 14452}
+quietness <> N: {rk: 27739, frq: 195}
+quietude <> N: {rk: 36110, frq: 90}
+quill <> N: {rk: 19828, frq: 610}
+quilled <> J: {rk: 59012, frq: 21}
+quilt <> N: {rk: 6206, frq: 3968}, V: {rk: 25722, frq: 257}
+quilted <> J: {rk: 20616, frq: 415}
+quilter <> N: {rk: 25976, frq: 309}
+quilting <> J: {rk: 34200, frq: 114}, N: {rk: 44826, frq: 81}
+quince <> N: {rk: 23249, frq: 395}
+quincentenary <> N: {rk: 58788, frq: 28}
+quincentennial <> J: {rk: 52582, frq: 47}
+quinine <> N: {rk: 30618, frq: 154}
+quinoa <> N: {rk: 26839, frq: 324}
+quint <> N: {rk: 26302, frq: 348}
+quintessence <> N: {rk: 33292, frq: 120}
+quintessential <> J: {rk: 12566, frq: 1084}
+quintessentially <> R: {rk: 22835, frq: 317}
+quintet <> N: {rk: 22762, frq: 391}
+quintuple <> V: {rk: 33904, frq: 108}, J: {rk: 46630, frq: 39}
+quintuplet <> N: {rk: 39572, frq: 71}
+quip <> V: {rk: 14045, frq: 911}, N: {rk: 21444, frq: 369}
+quire <> N: {rk: 54092, frq: 31}
+quirk <> N: {rk: 12495, frq: 1165}, V: {rk: 37684, frq: 97}
+quirkiness <> N: {rk: 40209, frq: 66}
+quirky <> J: {rk: 11225, frq: 1421}
+quirt <> N: {rk: 49806, frq: 42}
+quit <> V: {rk: 2538, frq: 14060}, J: {rk: 31237, frq: 202}
+quitclaim <> N: {rk: 59359, frq: 29}
+quite <> R: {rk: 561, frq: 75276}
+quits <> J: {rk: 45076, frq: 45}
+quitter <> N: {rk: 27301, frq: 221}
+quiver <> V: {rk: 11822, frq: 1382}, N: {rk: 18148, frq: 583}
+quivering <> J: {rk: 19459, frq: 482}
+quivery <> J: {rk: 55099, frq: 24}
+quixotic <> J: {rk: 23403, frq: 300}
+quiz <> N: {rk: 8958, frq: 2154}, V: {rk: 19564, frq: 453}
+quizzical <> J: {rk: 23022, frq: 324}
+quizzically <> R: {rk: 25486, frq: 263}
+quorum <> N: {rk: 26452, frq: 234}
+quota <> N: {rk: 6134, frq: 3977}
+quotable <> J: {rk: 34395, frq: 106}
+quotation <> N: {rk: 9038, frq: 2088}
+quote <> V: {rk: 2269, frq: 16939}, N: {rk: 4446, frq: 5985}
+quoted <> J: {rk: 27349, frq: 210}
+quotidian <> J: {rk: 28650, frq: 190}, N: {rk: 40961, frq: 66}
+quotient <> N: {rk: 18688, frq: 559}

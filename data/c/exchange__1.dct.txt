@@ -1,0 +1,2435 @@
+consociation <> s: consociations
+consociations <> b: consociation, f: s
+consol <> s: consols
+consolation <> s: consolations
+consolations <> b: consolation, f: s
+console <> p: consoled, d: consoled, '3': consoles, i: consoling, s: consoles
+consoled <> b: console, f: pd
+consoler <> s: consolers
+consolers <> b: consoler, f: s
+consoles <> b: console, f: 3s
+consolidate <> d: consolidated, i: consolidating, p: consolidated, '3': consolidates
+consolidated <> b: consolidate, f: dp, d: consolidated, p: consolidated
+consolidates <> b: consolidate, f: '3'
+consolidating <> b: consolidate, f: i, i: consolidating
+consolidation <> s: consolidations
+consolidations <> b: consolidation, f: s
+consolidator <> s: consolidators
+consolidators <> b: consolidator, f: s
+consoling <> b: console, f: i, i: consoling
+consols <> b: consol, f: s
+consonance <> s: consonances
+consonances <> b: consonance, f: s
+consonant <> s: consonants
+consonants <> b: consonant, f: s
+consort <> s: consorts, i: consorting, '3': consorts, p: consorted, d: consorted
+consorted <> b: consort, f: pd
+consortia <> s: consortia, b: consortia, f: s
+consorting <> b: consort, f: i
+consortium <> s: consortiums
+consortiums <> b: consortium, f: s
+consorts <> b: consort, f: s3
+conspecific <> s: conspecifics
+conspecifics <> b: conspecific, f: s
+conspiracies <> b: conspiracy, f: s
+conspiracy <> s: conspiracies
+conspirator <> s: conspirators
+conspirators <> b: conspirator, f: s
+conspire <> i: conspiring, d: conspired, p: conspired, '3': conspires, s: conspires
+conspired <> b: conspire, f: dp
+conspires <> b: conspire, f: 3s
+conspiring <> b: conspire, f: i, i: conspiring
+constable <> s: constables
+constables <> b: constable, f: s
+constabularies <> b: constabulary, f: s
+constabulary <> s: constabularies
+constancies <> b: constancy, f: s
+constancy <> s: constancies
+constant <> s: constants
+constants <> b: constant, f: s
+constellate <> i: constellating, p: constellated, '3': constellates, d: constellated
+constellated <> f: pd, b: constellate
+constellates <> f: '3', b: constellate
+constellating <> f: i, b: constellate
+constellation <> s: constellations
+constellations <> b: constellation, f: s
+consternate <> i: consternating, p: consternated, '3': consternates, d: consternated
+consternated <> f: pd, b: consternate
+consternates <> f: '3', b: consternate
+consternating <> f: i, b: consternate
+constipate <> d: constipated, p: constipated, i: constipating, '3': constipates
+constipated <> b: constipate, f: dp, p: constipated, d: constipated
+constipates <> f: '3', b: constipate
+constipating <> b: constipate, f: i
+constipation <> s: constipations
+constipations <> b: constipation, f: s
+constituencies <> b: constituency, f: s
+constituency <> s: constituencies
+constituent <> s: constituents
+constituents <> b: constituent, f: s
+constitute <> '3': constitutes, p: constituted, d: constituted, i: constituting
+constituted <> b: constitute, f: pd, d: constituted, p: constituted
+constitutes <> b: constitute, f: '3'
+constituting <> b: constitute, f: i, i: constituting
+constitution <> s: constitutions
+constitutionalist <> s: constitutionalists
+constitutionalists <> b: constitutionalist, f: s
+constitutionalize <> p: constitutionalized, i: constitutionalizing, '3': constitutionalizes, d: constitutionalized
+constitutionalized <> f: pd, b: constitutionalize
+constitutionalizes <> f: '3', b: constitutionalize
+constitutionalizing <> f: i, b: constitutionalize
+constitutions <> b: constitution, f: s
+constrain <> d: constrained, i: constraining, '3': constrains, p: constrained
+constrained <> b: constrain, f: dp, d: constrained, p: constrained
+constraining <> b: constrain, f: i, i: constraining
+constrains <> b: constrain, f: '3'
+constraint <> s: constraints
+constraints <> b: constraint, f: s
+constrict <> d: constricted, i: constricting, p: constricted, '3': constricts
+constricted <> b: constrict, f: dp, d: constricted
+constricting <> b: constrict, f: i, i: constricting
+constriction <> s: constrictions
+constrictions <> b: constriction, f: s
+constrictor <> s: constrictors
+constrictors <> b: constrictor, f: s
+constricts <> b: constrict, f: '3'
+construal <> s: construals
+construals <> b: construal, f: s
+construct <> d: constructed, i: constructing, s: constructs, '3': constructs, p: constructed
+constructed <> b: construct, f: dp, d: constructed, p: constructed
+constructing <> b: construct, f: i
+construction <> s: constructions
+constructionist <> s: constructionists
+constructionists <> b: constructionist, f: s
+constructions <> b: construction, f: s
+constructivist <> s: constructivists
+constructivists <> b: constructivist, f: s
+constructor <> s: constructors
+constructors <> b: constructor, f: s
+constructs <> b: construct, f: s3
+construe <> d: construed, i: construing, p: construed, '3': construes, s: construes
+construed <> b: construe, f: dp
+construes <> b: construe, f: 3s
+construing <> b: construe, f: i
+consul <> s: consuls
+consulate <> s: consulates
+consulates <> b: consulate, f: s
+consuls <> b: consul, f: s
+consult <> d: consulted, i: consulting, p: consulted, '3': consults
+consultancies <> b: consultancy, f: s
+consultancy <> s: consultancies
+consultant <> s: consultants
+consultants <> b: consultant, f: s
+consultation <> s: consultations
+consultations <> b: consultation, f: s
+consulted <> b: consult, f: dp
+consultee <> s: consultees
+consultees <> b: consultee, f: s
+consulting <> b: consult, f: i, i: consulting
+consults <> b: consult, f: '3'
+consumable <> s: consumables
+consumables <> b: consumable, f: s
+consume <> d: consumed, i: consuming, p: consumed, '3': consumes
+consumed <> b: consume, f: dp
+consumer <> s: consumers
+consumerist <> s: consumerists
+consumerists <> b: consumerist, f: s
+consumers <> b: consumer, f: s
+consumes <> b: consume, f: '3'
+consuming <> b: consume, f: i, i: consuming
+consummate <> d: consummated, p: consummated, i: consummating, '3': consummates
+consummated <> b: consummate, f: dp, d: consummated
+consummates <> b: consummate, f: '3'
+consummating <> b: consummate, f: i
+consumptive <> s: consumptives
+consumptives <> b: consumptive, f: s
+contact <> s: contacts, d: contacted, p: contacted, i: contacting, '3': contacts
+contacted <> b: contact, f: dp
+contactee <> s: contactees
+contactees <> b: contactee, f: s
+contacting <> b: contact, f: i, i: contacting
+contacts <> b: contact, f: s3
+contain <> '3': contains, i: containing, p: contained, d: contained
+contained <> b: contain, f: pd, p: contained, d: contained
+container <> s: containers
+containerize <> i: containerizing, p: containerized, '3': containerizes, d: containerized
+containerized <> f: pd, b: containerize
+containerizes <> f: '3', b: containerize
+containerizing <> f: i, b: containerize
+containers <> b: container, f: s
+containing <> b: contain, f: i, i: containing
+containment <> s: containments
+containments <> b: containment, f: s
+contains <> b: contain, f: '3'
+contaminant <> s: contaminants
+contaminants <> b: contaminant, f: s
+contaminate <> d: contaminated, i: contaminating, '3': contaminates, p: contaminated, s: contaminates
+contaminated <> b: contaminate, f: dp, d: contaminated, p: contaminated
+contaminates <> b: contaminate, f: 3s
+contaminating <> b: contaminate, f: i
+contamination <> s: contaminations
+contaminations <> b: contamination, f: s
+contango <> s: contangos
+contangos <> b: contango, f: s
+conte <> s: contes
+contemn <> p: contemned, i: contemning, '3': contemns, d: contemned
+contemned <> f: pd, b: contemn
+contemning <> f: i, b: contemn
+contemnor <> s: contemnors
+contemnors <> b: contemnor, f: s
+contemns <> f: '3', b: contemn
+contemplate <> i: contemplating, d: contemplated, p: contemplated, '3': contemplates
+contemplated <> b: contemplate, f: dp, p: contemplated
+contemplates <> b: contemplate, f: '3'
+contemplating <> b: contemplate, f: i, i: contemplating
+contemplation <> s: contemplations
+contemplations <> b: contemplation, f: s
+contemplative <> s: contemplatives
+contemplatives <> b: contemplative, f: s
+contemporaries <> b: contemporary, f: s
+contemporary <> s: contemporaries
+contempt <> s: contempts
+contempts <> b: contempt, f: s
+contend <> '3': contends, p: contended, d: contended, i: contending
+contended <> b: contend, f: pd
+contender <> s: contenders
+contenders <> b: contender, f: s
+contending <> b: contend, f: i, i: contending, s: contendings
+contends <> b: contend, f: '3'
+content <> s: contents, p: contented, d: contented, i: contenting, '3': contents
+contented <> b: content, f: pd, d: contented, p: contented
+contenting <> b: content, f: i
+contention <> s: contentions
+contentions <> b: contention, f: s
+contents <> f: s3, b: content
+contes <> b: conte, f: s
+contessa <> s: contessas
+contessas <> b: contessa, f: s
+contest <> s: contests, d: contested, i: contesting, p: contested, '3': contests
+contestant <> s: contestants
+contestants <> b: contestant, f: s
+contested <> b: contest, f: dp, d: contested, p: contested
+contesting <> b: contest, f: i, i: contesting
+contests <> b: contest, f: s3
+context <> s: contexts
+contexts <> b: context, f: s
+contextualise <> d: contextualised, i: contextualising
+contextualised <> b: contextualise, f: d
+contextualising <> b: contextualise, f: i
+contextualist <> s: contextualists
+contextualists <> b: contextualist, f: s
+contextualize <> d: contextualized, i: contextualizing, p: contextualized
+contextualized <> b: contextualize, f: dp
+contextualizing <> b: contextualize, f: i
+contig <> s: contigs
+contigs <> b: contig, f: s
+contiguities <> b: contiguity, f: s
+contiguity <> s: contiguities
+continent <> s: continents
+continental <> s: continentals
+continentals <> b: continental, f: s
+continents <> b: continent, f: s
+contingencies <> b: contingency, f: s
+contingency <> s: contingencies
+contingent <> s: contingents
+contingents <> b: contingent, f: s
+continuant <> s: continuants
+continuants <> b: continuant, f: s
+continuation <> s: continuations
+continuations <> b: continuation, f: s
+continuative <> s: continuatives
+continuatives <> b: continuative, f: s
+continuator <> s: continuators
+continuators <> b: continuator, f: s
+continue <> p: continued, '3': continues, d: continued, i: continuing
+continued <> b: continue, f: pd, p: continued, d: continued
+continues <> b: continue, f: '3'
+continuing <> b: continue, f: i, i: continuing
+continuities <> b: continuity, f: s
+continuity <> s: continuities
+contort <> p: contorted, d: contorted, i: contorting, '3': contorts, s: contorts
+contorted <> b: contort, f: pd, d: contorted, p: contorted
+contorting <> b: contort, f: i
+contortion <> s: contortions
+contortionist <> s: contortionists
+contortionists <> b: contortionist, f: s
+contortions <> b: contortion, f: s
+contorts <> b: contort, f: 3s
+contour <> s: contours, d: contoured, i: contouring, p: contoured, '3': contours
+contoured <> b: contour, f: dp, d: contoured
+contouring <> b: contour, f: i, i: contouring
+contours <> f: s3, b: contour
+contra <> s: contras
+contraception <> s: contraceptions
+contraceptions <> b: contraception, f: s
+contraceptive <> s: contraceptives
+contraceptives <> b: contraceptive, f: s
+contract <> s: contracts, d: contracted, i: contracting, p: contracted, '3': contracts
+contracted <> b: contract, f: dp, d: contracted, p: contracted
+contracting <> b: contract, f: i, i: contracting
+contraction <> s: contractions
+contractions <> b: contraction, f: s
+contractor <> s: contractors
+contractors <> b: contractor, f: s
+contracts <> b: contract, f: s3
+contracture <> s: contractures
+contractures <> b: contracture, f: s
+contradict <> '3': contradicts, d: contradicted, p: contradicted, i: contradicting
+contradicted <> b: contradict, f: dp
+contradicting <> b: contradict, f: i, i: contradicting
+contradiction <> s: contradictions
+contradictions <> b: contradiction, f: s
+contradictories <> b: contradictory, f: s
+contradictory <> s: contradictories
+contradicts <> b: contradict, f: '3'
+contradistinguish <> i: contradistinguishing, p: contradistinguished, '3': contradistinguishes, d: contradistinguished
+contradistinguished <> f: pd, b: contradistinguish
+contradistinguishes <> f: '3', b: contradistinguish
+contradistinguishing <> f: i, b: contradistinguish
+contraflow <> s: contraflows
+contraflows <> b: contraflow, f: s
+contrail <> s: contrails
+contrails <> b: contrail, f: s
+contraindicate <> d: contraindicated, p: contraindicated, i: contraindicating, '3': contraindicates
+contraindicated <> b: contraindicate, f: dp
+contraindicates <> f: '3', b: contraindicate
+contraindicating <> f: i, b: contraindicate
+contraindication <> s: contraindications
+contraindications <> b: contraindication, f: s
+contralto <> s: contraltos
+contraltos <> b: contralto, f: s
+contrapositive <> s: contrapositives
+contrapositives <> b: contrapositive, f: s
+contraption <> s: contraptions
+contraptions <> b: contraption, f: s
+contrarian <> s: contrarians
+contrarians <> b: contrarian, f: s
+contraries <> b: contrary, f: s
+contrarieties <> b: contrariety, f: s
+contrariety <> s: contrarieties
+contrary <> s: contraries
+contras <> b: contra, f: s
+contrast <> s: contrasts, '3': contrasts, d: contrasted, p: contrasted, i: contrasting
+contrasted <> b: contrast, f: dp, p: contrasted, d: contrasted
+contrasting <> b: contrast, f: i, i: contrasting
+contrasts <> b: contrast, f: s3
+contravene <> i: contravening, p: contravened, '3': contravenes, d: contravened
+contravened <> b: contravene, f: pd
+contravener <> s: contraveners
+contraveners <> b: contravener, f: s
+contravenes <> b: contravene, f: '3'
+contravening <> b: contravene, f: i
+contravention <> s: contraventions
+contraventions <> b: contravention, f: s
+contredanse <> s: contredanses
+contribute <> d: contributed, i: contributing, p: contributed, '3': contributes
+contributed <> b: contribute, f: dp
+contributes <> b: contribute, f: '3'
+contributing <> b: contribute, f: i, i: contributing
+contribution <> s: contributions
+contributions <> b: contribution, f: s
+contributor <> s: contributors
+contributories <> b: contributory, f: s
+contributors <> b: contributor, f: s
+contributory <> s: contributories
+contrivance <> s: contrivances
+contrivances <> b: contrivance, f: s
+contrive <> d: contrived, p: contrived, i: contriving, '3': contrives
+contrived <> b: contrive, f: dp, d: contrived, p: contrived
+contriver <> s: contrivers
+contrivers <> b: contriver, f: s
+contrives <> b: contrive, f: '3'
+contriving <> b: contrive, f: i, s: contrivings
+control <> s: controls, d: controlled, i: controlling, '3': controls, p: controlled
+controllable <> s: controllables
+controllables <> b: controllable, f: s
+controlled <> b: control, f: dp, p: controlled, d: controlled
+controller <> s: controllers
+controllers <> b: controller, f: s
+controlling <> b: control, f: i, i: controlling
+controls <> b: control, f: s3
+controversialist <> s: controversialists
+controversialists <> b: controversialist, f: s
+controversies <> b: controversy, f: s
+controversy <> s: controversies
+controvert <> d: controverted, p: controverted, '3': controverts, i: controverting
+controverted <> b: controvert, f: dp
+controverting <> b: controvert, f: i
+controverts <> b: controvert, f: '3'
+contuse <> i: contusing, p: contused, '3': contuses, d: contused
+contused <> f: pd, b: contuse
+contuses <> f: '3', b: contuse
+contusing <> f: i, b: contuse
+contusion <> s: contusions
+contusions <> b: contusion, f: s
+conundrum <> s: conundrums
+conundrums <> b: conundrum, f: s
+conurbation <> s: conurbations
+conurbations <> b: conurbation, f: s
+convalesce <> i: convalescing, p: convalesced, d: convalesced, '3': convalesces
+convalesced <> b: convalesce, f: pd
+convalescent <> s: convalescents
+convalescents <> b: convalescent, f: s
+convalesces <> f: '3', b: convalesce
+convalescing <> b: convalesce, f: i
+convect <> i: convecting, '3': convects, p: convected, d: convected
+convected <> d: convected, b: convected, f: d
+convecting <> i: convecting, b: convecting, f: i
+convector <> s: convectors
+convectors <> b: convector, f: s
+convects <> b: convect, f: '3'
+convene <> d: convened, p: convened, '3': convenes, i: convening
+convened <> b: convene, f: dp
+convener <> s: conveners
+conveners <> b: convener, f: s
+convenes <> b: convene, f: '3'
+convenience <> s: conveniences
+conveniences <> b: convenience, f: s
+convening <> i: convening, b: convening, f: i
+convenor <> s: convenors
+convenors <> b: convenor, f: s
+convent <> s: convents, p: convented
+convented <> b: convent, f: p
+conventicle <> s: conventicles
+conventicles <> b: conventicle, f: s
+convention <> s: conventions
+conventionalism <> s: conventionalisms
+conventionalisms <> b: conventionalism, f: s
+conventionalist <> s: conventionalists
+conventionalists <> b: conventionalist, f: s
+conventionalities <> b: conventionality, f: s
+conventionality <> s: conventionalities
+conventionalize <> p: conventionalized, i: conventionalizing, '3': conventionalizes, d: conventionalized
+conventionalized <> p: conventionalized, b: conventionalized, f: p
+conventionalizes <> f: '3', b: conventionalize
+conventionalizing <> f: i, b: conventionalize
+conventioneer <> s: conventioneers
+conventioneers <> b: conventioneer, f: s
+conventions <> b: convention, f: s
+convents <> b: convent, f: s
+converge <> p: converged, i: converging, '3': converges, d: converged
+converged <> b: converge, f: pd
+convergence <> s: convergences
+convergences <> b: convergence, f: s
+converges <> b: converge, f: '3'
+converging <> b: converge, f: i, i: converging
+conversation <> s: conversations
+conversationalist <> s: conversationalists
+conversationalists <> b: conversationalist, f: s
+conversations <> b: conversation, f: s
+converse <> i: conversing, p: conversed, d: conversed, '3': converses, s: converses
+conversed <> b: converse, f: pd
+converses <> b: converse, f: 3s
+conversing <> b: converse, f: i
+conversion <> s: conversions
+conversions <> b: conversion, f: s
+convert <> d: converted, i: converting, p: converted, '3': converts, s: converts
+converted <> b: convert, f: dp, p: converted, d: converted
+converter <> s: converters
+converters <> b: converter, f: s
+convertible <> s: convertibles
+convertibles <> b: convertible, f: s
+converting <> b: convert, f: i, i: converting
+convertor <> s: convertors
+convertors <> b: convertor, f: s
+converts <> b: convert, f: 3s
+convexities <> b: convexity, f: s
+convexity <> s: convexities
+convey <> d: conveyed, i: conveying, '3': conveys, p: conveyed
+conveyance <> s: conveyances
+conveyancer <> s: conveyancers
+conveyancers <> b: conveyancer, f: s
+conveyances <> b: conveyance, f: s
+conveyancing <> i: conveyancing, b: conveyancing, f: i
+conveyed <> b: convey, f: dp
+conveyer <> s: conveyers
+conveyers <> b: conveyer, f: s
+conveying <> b: convey, f: i, i: conveying
+conveyor <> s: conveyors
+conveyors <> b: conveyor, f: s
+conveys <> b: convey, f: '3'
+convict <> d: convicted, s: convicts, i: convicting, p: convicted, '3': convicts
+convicted <> b: convict, f: dp, d: convicted, p: convicted
+convicting <> b: convict, f: i
+conviction <> s: convictions
+convictions <> b: conviction, f: s
+convicts <> f: s3, b: convict
+convince <> d: convinced, p: convinced, i: convincing, '3': convinces
+convinced <> d: convinced, b: convinced, f: dp, p: convinced
+convinces <> b: convince, f: '3'
+convincing <> b: convince, f: i, i: convincing
+convocation <> s: convocations
+convocations <> b: convocation, f: s
+convoke <> d: convoked, p: convoked, '3': convokes, i: convoking
+convoked <> b: convoke, f: dp
+convokes <> b: convoke, f: '3'
+convoking <> b: convoke, f: i
+convolute <> p: convoluted, d: convoluted, s: convolutes, '3': convolutes, i: convoluting
+convoluted <> p: convoluted, b: convoluted, f: pd, d: convoluted
+convolutes <> b: convolute, f: s3
+convoluting <> f: i, b: convolute
+convolution <> s: convolutions
+convolutions <> b: convolution, f: s
+convolve <> i: convolving, p: convolved, '3': convolves, d: convolved
+convolved <> f: pd, b: convolve
+convolves <> f: '3', b: convolve
+convolving <> f: i, b: convolve
+convoy <> s: convoys, i: convoying, p: convoyed, '3': convoys, d: convoyed
+convoyed <> f: pd, b: convoy
+convoying <> b: convoy, f: i
+convoys <> f: s3, b: convoy
+convulse <> p: convulsed, i: convulsing, d: convulsed, '3': convulses
+convulsed <> b: convulse, f: pd, d: convulsed, p: convulsed
+convulses <> b: convulse, f: '3'
+convulsing <> b: convulse, f: i
+convulsion <> s: convulsions
+convulsions <> b: convulsion, f: s
+coo <> i: cooing, s: coos, p: cooed, '3': coos, d: cooed
+cooed <> b: cooe, f: pd
+cooing <> b: coo, f: i, i: cooing
+cook <> i: cooking, d: cooked, p: cooked, s: cooks, '3': cooks
+cookbook <> s: cookbooks
+cookbooks <> b: cookbook, f: s
+cooked <> b: cook, f: dp, d: cooked, p: cooked
+cooker <> s: cookers
+cookers <> b: cooker, f: s
+cookhouse <> s: cookhouses
+cookhouses <> b: cookhouse, f: s
+cookies <> b: cooky, f: s
+cooking <> b: cook, f: i, i: cooking
+cooks <> b: cook, f: s3
+cookshop <> s: cookshops
+cookshops <> b: cookshop, f: s
+cooky <> s: cookies
+cool <> r: cooler, i: cooling, d: cooled, '3': cools, p: cooled, t: coolest
+coolant <> s: coolants
+coolants <> b: coolant, f: s
+cooled <> b: cool, f: dp, p: cooled, d: cooled
+cooler <> b: cool, f: r, s: coolers
+coolest <> b: cool, f: t
+coolie <> s: coolies
+coolies <> b: coolie, f: s
+cooling <> b: cool, f: i, i: cooling
+cools <> b: cool, f: '3'
+coomb <> s: coombs
+coombe <> s: coombes
+coombes <> b: coombe, f: s
+COOMBS <> b: coomb, f: s
+coon <> s: coons
+coons <> b: coon, f: s
+coop <> d: cooped, s: coops, p: cooped
+cooped <> b: coop, f: dp
+cooper <> s: coopers, i: coopering, p: coopered, '3': coopers, d: coopered
+cooperage <> s: cooperages
+cooperages <> b: cooperage, f: s
+cooperate <> i: cooperating, p: cooperated, d: cooperated, '3': cooperates
+cooperated <> b: cooperate, f: pd
+cooperates <> b: cooperate, f: '3'
+cooperating <> b: cooperate, f: i, i: cooperating
+cooperation <> s: cooperations
+cooperations <> b: cooperation, f: s
+cooperative <> s: cooperatives
+cooperatives <> b: cooperative, f: s
+cooperator <> s: cooperators
+cooperators <> b: cooperator, f: s
+coopered <> f: pd, b: cooper
+coopering <> b: cooper, f: i
+Coopers <> f: s3, b: cooper
+coops <> b: coop, f: s
+coopt <> d: coopted, i: coopting, '3': coopts
+coopted <> b: coopt, f: d
+coopting <> b: coopt, f: i
+coopts <> b: coopt, f: '3'
+coordinate <> s: coordinates, i: coordinating, d: coordinated, p: coordinated, '3': coordinates
+coordinated <> b: coordinate, f: dp, d: coordinated, p: coordinated
+coordinates <> f: s3, b: coordinate
+coordinating <> b: coordinate, f: i, i: coordinating
+coordination <> s: coordinations
+coordinations <> b: coordination, f: s
+coordinator <> s: coordinators
+coordinators <> b: coordinator, f: s
+coos <> f: s3, b: coo
+coot <> s: coots
+coots <> b: coot, f: s
+cop <> s: cops, p: copped, d: copped, i: copping, '3': cops
+cop-out <> s: cop-outs
+cop-outs <> b: cop-out, f: s
+coparcener <> s: coparceners
+coparceners <> b: coparcener, f: s
+cope <> i: coping, d: coped, p: coped, '3': copes
+copeck <> s: copecks
+copecks <> b: copeck, f: s
+coped <> b: cope, f: dp
+copepod <> s: copepods, '3': copepods
+copepods <> b: copepod, f: s3
+coper <> s: copers
+Copernican <> s: copernicans
+copers <> b: coper, f: s
+copes <> b: cope, f: '3'
+copied <> b: copy, f: dp, d: copied, p: copied
+copier <> s: copiers
+copiers <> b: copier, f: s
+coping <> b: cope, f: i, i: coping, s: copings
+Copland <> s: coplands
+copolymer <> s: copolymers
+copolymerize <> i: copolymerizing, p: copolymerized, '3': copolymerizes, d: copolymerized
+copolymerized <> f: pd, b: copolymerize
+copolymerizes <> f: '3', b: copolymerize
+copolymerizing <> f: i, b: copolymerize
+copolymers <> b: copolymer, f: s
+copped <> b: cop, f: pd
+copper <> s: coppers, i: coppering, p: coppered, '3': coppers, d: coppered
+copper-bottom <> i: copper-bottoming, p: copper-bottomed, '3': copper-bottoms, d: copper-bottomed
+copper-bottomed <> f: pd, b: copper-bottom
+coppered <> f: pd, b: copper
+copperhead <> s: copperheads
+copperheads <> b: copperhead, f: s
+coppering <> f: i, b: copper
+copperplate <> s: copperplates
+copperplates <> b: copperplate, f: s
+coppers <> f: s3, b: copper
+coppersmith <> s: coppersmiths
+coppersmiths <> b: coppersmith, f: s
+coppice <> i: coppicing, s: coppices
+coppices <> b: coppice, f: s
+coppicing <> b: coppice, f: i
+copping <> b: cop, f: i, i: copping
+coprocessor <> s: coprocessors
+coprocessors <> b: coprocessor, f: s
+cops <> b: cop, f: s3
+copse <> s: copses
+copses <> b: copse, f: s
+Copt <> s: copts
+copter <> s: copters, d: coptered, p: coptered
+coptered <> b: copter, f: dp
+copters <> b: copter, f: s
+copts <> b: copt, f: s
+copulate <> i: copulating, d: copulated, p: copulated, s: copulates, '3': copulates
+copulated <> b: copulate, f: dp
+copulates <> b: copulate, f: s3
+copulating <> b: copulate, f: i
+copulation <> s: copulations
+copulations <> b: copulation, f: s
+copy <> s: copies, d: copied, i: copying, p: copied, '3': copies
+copybook <> s: copybooks
+copybooks <> b: copybook, f: s
+copycat <> s: copycats
+copycats <> b: copycat, f: s
+copyhold <> s: copyholds
+copyholder <> s: copyholders, '3': copyholders
+copyholders <> b: copyholder, f: s3
+copyholds <> b: copyhold, f: s
+copying <> b: copy, f: i, i: copying, s: copyings
+copyings <> b: copying, f: s
+copyist <> s: copyists
+copyists <> b: copyist, f: s
+copyread <> d: copyread, p: copyread, i: copyreading, f: pd, b: copyread, '3': copyreads
+copyreading <> f: i, b: copyread
+copyreads <> f: '3', b: copyread
+copyright <> s: copyrights, i: copyrighting, p: copyrighted, '3': copyrights, d: copyrighted
+copyrighted <> f: pd, b: copyright
+copyrighting <> f: i, b: copyright
+copyrights <> f: s3, b: copyright
+copywriter <> s: copywriters
+copywriters <> b: copywriter, f: s
+coquette <> s: coquettes
+coquettes <> b: coquette, f: s
+coracle <> s: coracles
+coracles <> b: coracle, f: s
+coral <> s: corals
+corallite <> s: corallites
+corallites <> b: corallite, f: s
+corals <> b: coral, f: s
+corbel <> s: corbels, i: corbelling, p: corbelled, d: corbelled, '3': corbels
+corbelled <> b: corbel, f: pd, p: corbelled
+corbelling <> b: corbel, f: i
+corbels <> f: s3, b: corbel
+cord <> s: cords, p: corded, i: cording, '3': cords, d: corded
+corded <> f: pd, b: cord, d: corded
+Cordelia <> s: cordelias
+cordial <> s: cordials
+cordials <> b: cordial, f: s
+cordillera <> s: cordilleras
+cording <> f: i, b: cord, s: cordings
+cordoba <> s: cordobas
+cordobas <> b: cordoba, f: s
+cordon <> s: cordons, d: cordoned, p: cordoned, i: cordoning
+cordoned <> b: cordon, f: dp, p: cordoned
+cordoning <> b: cordon, f: i
+cordons <> b: cordon, f: s
+cords <> f: s3, b: cord
+corduroy <> s: corduroys
+corduroys <> b: corduroy, f: s
+cordwainer <> s: cordwainers
+cordwainers <> b: cordwainer, f: s
+CORE <> s: cores, p: cored, i: coring, '3': cores, d: cored
+cored <> f: pd, b: core, d: cored, p: cored
+corer <> s: corers
+corers <> b: corer, f: s
+cores <> f: s3, b: core
+corgi <> s: corgi, b: corgi, f: s
+coriander <> s: corianders
+corianders <> b: coriander, f: s
+coring <> i: coring, b: coring, f: i
+Corinthian <> s: corinthians
+Corinthians <> b: corinthian, f: s
+cork <> s: corks, p: corked, d: corked, i: corking, '3': corks
+corked <> b: cork, f: pd
+corker <> s: corkers
+corkers <> b: corker, f: s
+corking <> b: cork, f: i, i: corking
+corks <> f: s3, b: cork
+corkscrew <> s: corkscrews, i: corkscrewing, p: corkscrewed, '3': corkscrews, d: corkscrewed
+corkscrewed <> f: pd, b: corkscrew
+corkscrewing <> b: corkscrew, f: i
+corkscrews <> f: s3, b: corkscrew
+corm <> s: corms, '3': corms
+Cormack <> s: cormacks
+cormorant <> s: cormorants
+cormorants <> b: cormorant, f: s
+corms <> b: corm, f: s3
+corn <> s: corns, i: corning, p: corned, '3': corns, d: corned
+corncrake <> s: corncrakes
+corncrakes <> b: corncrake, f: s
+cornea <> s: corneas
+corneas <> b: cornea, f: s
+corned <> f: pd, b: corn
+cornelian <> s: cornelians
+cornelians <> b: cornelian, f: s
+corner <> s: corners, d: cornered, p: cornered, i: cornering, '3': corners
+cornered <> b: corner, f: dp, p: cornered, d: cornered
+cornering <> b: corner, f: i, i: cornering
+corners <> f: s3, b: corner
+cornerstone <> s: cornerstones
+cornerstones <> b: cornerstone, f: s
+cornet <> s: cornets
+cornets <> b: cornet, f: s
+cornetto <> s: cornettos
+cornettos <> b: cornetto, f: s
+cornfield <> s: cornfields
+cornfields <> b: cornfield, f: s
+cornflake <> s: cornflakes
+cornflakes <> b: cornflake, f: s
+cornflower <> s: cornflowers, '3': cornflowers
+cornflowers <> b: cornflower, f: s3
+cornice <> s: cornices, d: corniced, i: cornicing, p: corniced, '3': cornices
+corniced <> b: cornice, f: dp, p: corniced
+cornices <> f: s3, b: cornice
+cornicing <> b: cornice, f: i
+cornies <> b: corny, f: s
+corniest <> b: corny, f: t
+corning <> b: corn, f: i
+cornishman <> s: cornishmen
+cornishmen <> b: cornishman, f: s
+corns <> f: s3, b: corn
+cornstalk <> s: cornstalks
+cornstalks <> b: cornstalk, f: s
+cornucopia <> s: cornucopias
+cornucopias <> b: cornucopia, f: s
+corny <> t: corniest, s: cornies
+corolla <> s: corollas
+corollaries <> b: corollary, f: s
+corollary <> s: corollaries
+corollas <> b: corolla, f: s
+corona <> s: coronas
+coronaries <> b: coronary, f: s
+coronary <> s: coronaries
+coronas <> b: corona, f: s
+coronation <> s: coronations
+coronations <> b: coronation, f: s
+coroner <> s: coroners
+coroners <> b: coroner, f: s
+coronet <> s: coronets
+coronets <> b: coronet, f: s
+Corot <> s: corots
+corpora <> s: corpora, b: corpora, f: s
+corporal <> s: corporals
+corporals <> b: corporal, f: s
+corporate <> s: corporates
+corporates <> b: corporate, f: s
+corporation <> s: corporations
+corporations <> b: corporation, f: s
+corporatist <> s: corporatists
+corporatists <> b: corporatist, f: s
+corporator <> s: corporators
+corporators <> b: corporator, f: s
+corpse <> s: corpses
+corpses <> b: corpse, f: s
+corpuscle <> s: corpuscles
+corpuscles <> b: corpuscle, f: s
+corral <> d: corralled, s: corrals, i: corralling, p: corralled, '3': corrals
+corralled <> b: corral, f: dp
+corralling <> b: corral, f: i
+corrals <> f: s3, b: corral
+correct <> d: corrected, p: corrected, i: correcting, '3': corrects
+corrected <> b: correct, f: dp, d: corrected, p: corrected
+correcting <> b: correct, f: i, i: correcting
+correction <> s: corrections
+corrections <> b: correction, f: s
+corrective <> s: correctives
+correctives <> b: corrective, f: s
+corrector <> s: correctors
+correctors <> b: corrector, f: s
+corrects <> b: correct, f: '3'
+correlate <> d: correlated, '3': correlates, p: correlated, s: correlates, i: correlating
+correlated <> b: correlate, f: dp, d: correlated, p: correlated
+correlates <> b: correlate, f: 3s
+correlating <> b: correlate, f: i
+correlation <> s: correlations
+correlations <> b: correlation, f: s
+correlative <> s: correlatives
+correlatives <> b: correlative, f: s
+correspond <> '3': corresponds, i: corresponding, p: corresponded, d: corresponded
+corresponded <> b: correspond, f: pd
+correspondence <> s: correspondences
+correspondences <> b: correspondence, f: s
+correspondent <> s: correspondents
+correspondents <> b: correspondent, f: s
+corresponding <> b: correspond, f: i, i: corresponding
+corresponds <> b: correspond, f: '3'
+corridor <> s: corridors
+corridors <> b: corridor, f: s
+corroborate <> d: corroborated, '3': corroborates, i: corroborating, p: corroborated, s: corroborates
+corroborated <> b: corroborate, f: dp
+corroborates <> b: corroborate, f: 3s
+corroborating <> b: corroborate, f: i
+corroboration <> s: corroborations
+corroborations <> b: corroboration, f: s
+corroboree <> s: corroborees
+corroborees <> b: corroboree, f: s
+corrode <> d: corroded, '3': corrodes, i: corroding, p: corroded
+corroded <> b: corrode, f: dp, p: corroded, d: corroded
+corrodes <> b: corrode, f: '3'
+corrodies <> b: corrody, f: s
+corroding <> b: corrode, f: i
+corrody <> s: corrodies
+corrosive <> s: corrosives
+corrosives <> b: corrosive, f: s
+corrugate <> i: corrugating, p: corrugated, '3': corrugates, d: corrugated
+corrugated <> f: pd, b: corrugate
+corrugation <> s: corrugations
+corrugations <> b: corrugation, f: s
+corrupt <> d: corrupted, i: corrupting, p: corrupted, '3': corrupts, s: corrupts, r: corrupter
+corrupted <> b: corrupt, f: dp, p: corrupted, d: corrupted
+corrupter <> b: corrupt, f: r
+corrupting <> b: corrupt, f: i, i: corrupting
+corruption <> s: corruptions
+corruptions <> b: corruption, f: s
+corrupts <> b: corrupt, f: 3s
+Corry <> s: corries
+corsage <> s: corsages, '3': corsages
+corsages <> b: corsage, f: s3
+corsair <> s: corsairs
+corsairs <> b: corsair, f: s
+corselet <> s: corselets
+corselets <> b: corselet, f: s
+corset <> s: corsets, i: corseting, p: corseted, '3': corsets, d: corseted
+corseted <> b: corsete, f: dp
+corseting <> i: corseting, b: corseting, f: i
+corsets <> f: s3, b: corset
+Corsican <> s: corsicans
+corte <> s: cortes
+Cortes <> b: corte, f: s
+cortex <> s: cortexes
+cortexes <> b: cortex, f: s
+corticosteroid <> s: corticosteroids
+corticosteroids <> b: corticosteroid, f: s
+cortisone <> s: cortisones
+cortisones <> b: cortisone, f: s
+coruscate <> i: coruscating, p: coruscated, '3': coruscates, d: coruscated
+coruscated <> f: pd, b: coruscate
+coruscates <> f: '3', b: coruscate
+coruscating <> b: coruscate, f: i
+corve <> s: corves
+corves <> b: corve, f: s
+corvette <> s: corvettes
+corvettes <> b: corvette, f: s
+corvid <> s: corvids
+corvids <> b: corvid, f: s
+cory <> s: corys
+corydora <> s: corydoras
+corydoras <> b: corydora, f: s
+corys <> b: cory, f: s
+cose <> s: coses
+coses <> b: cose, f: s
+cosh <> p: coshed, d: coshed, s: coshes, i: coshing, '3': coshes
+coshed <> b: cosh, f: pd
+coshes <> f: s3, b: cosh
+coshing <> f: i, b: cosh
+cosied <> b: cosy, f: p
+cosier <> b: cosy, f: r
+cosies <> b: cosy, f: s
+cosiest <> b: cosy, f: t
+cosine <> s: cosines
+cosines <> b: cosine, f: s
+cosmetic <> s: cosmetics
+cosmetics <> b: cosmetic, f: s
+cosmetologist <> s: cosmetologists
+cosmetologists <> b: cosmetologist, f: s
+cosmic <> s: cosmics
+cosmics <> b: cosmic, f: s
+cosmid <> s: cosmids
+cosmids <> b: cosmid, f: s
+cosmologies <> b: cosmology, f: s
+cosmologist <> s: cosmologists
+cosmologists <> b: cosmologist, f: s
+cosmology <> s: cosmologies
+cosmonaut <> s: cosmonauts
+cosmonauts <> b: cosmonaut, f: s
+cosmopolitan <> s: cosmopolitans
+cosmopolitans <> b: cosmopolitan, f: s
+Cossack <> s: cossacks
+cosset <> p: cosseted, d: cosseted, i: cosseting, '3': cossets, s: cossets
+cosseted <> b: cosset, f: pd, p: cosseted
+cosseting <> b: cosset, f: i
+cossets <> b: cosset, f: 3s
+cost <> s: costs, '3': costs, i: costing, p: cost, b: cost, f: pd, d: cost
+costa <> s: costas
+Costain <> i: costaining
+costas <> b: costa, f: s
+coster <> s: costers
+costermonger <> s: costermongers
+costermongers <> b: costermonger, f: s
+costers <> b: coster, f: s
+costing <> b: cost, f: i, s: costings, i: costing
+costlier <> b: costly, f: r
+costliest <> b: costly, f: t
+costly <> t: costliest, r: costlier
+costs <> b: cost, f: s3
+costume <> s: costumes, p: costumed, d: costumed, i: costuming, '3': costumes
+costumed <> b: costume, f: pd, p: costumed
+costumes <> f: s3, b: costume
+costumier <> s: costumiers
+costumiers <> b: costumier, f: s
+costuming <> f: i, b: costume
+cosy <> r: cosier, s: cosies, t: cosiest, p: cosied, i: cosying
+cosying <> b: cosy, f: i
+cot <> s: cots
+cote <> s: cotes
+cotes <> b: cote, f: s
+cotinga <> s: cotingas
+cotingas <> b: cotinga, f: s
+cotoneaster <> s: cotoneasters
+cotoneasters <> b: cotoneaster, f: s
+Cotopaxi <> s: cotopaxi, b: cotopaxi, f: s
+cots <> b: cot, f: s
+cottage <> s: cottages
+cottager <> s: cottagers
+cottagers <> b: cottager, f: s
+cottages <> b: cottage, f: s
+cottar <> s: cottars
+cottars <> b: cottar, f: s
+cotton <> s: cottons, p: cottoned, d: cottoned, i: cottoning, '3': cottons
+cottoned <> b: cotton, f: pd
+cottoning <> b: cotton, f: i
+cottons <> b: cotton, f: s
+cottonwood <> s: cottonwoods
+cottonwoods <> b: cottonwood, f: s
+cotyledon <> s: cotyledons
+cotyledons <> b: cotyledon, f: s
+couch <> d: couched, s: couches, p: couched, i: couching, '3': couches
+couched <> b: couch, f: dp
+couches <> b: couch, f: s3
+couchette <> s: couchettes
+couchettes <> b: couchette, f: s
+couching <> b: couch, f: i
+cough <> p: coughed, i: coughing, s: coughs, '3': coughs, d: coughed
+coughed <> b: cough, f: pd
+coughing <> b: cough, f: i, i: coughing, s: coughings
+coughs <> b: cough, f: s3
+couloir <> s: couloirs
+couloirs <> b: couloir, f: s
+coulomb <> s: coulombs
+coulombs <> b: coulomb, f: s
+coulter <> s: coulters
+coulters <> b: coulter, f: s
+coun <> s: couns
+council <> s: councils
+councillor <> s: councillors
+councillors <> b: councillor, f: s
+councilman <> s: councilmen
+councilmen <> b: councilman, f: s
+councils <> b: council, f: s
+couns <> b: coun, f: s
+counsel <> i: counselling, p: counselled, s: counsels, d: counselled, '3': counsels
+counselled <> b: counsel, f: pd, p: counselled, d: counselled
+counselling <> b: counsel, f: i, i: counselling
+counsellor <> s: counsellors
+counsellors <> b: counsellor, f: s
+counsels <> b: counsel, f: s3
+count <> s: counts, d: counted, i: counting, '3': counts, p: counted
+counted <> b: count, f: dp
+countenance <> d: countenanced, p: countenanced, s: countenances, '3': countenances, i: countenancing
+countenanced <> b: countenance, f: dp
+countenances <> b: countenance, f: s3
+countenancing <> b: countenance, f: i
+counter <> p: countered, s: counters, d: countered, i: countering, '3': counters
+counter-attack <> s: counter-attacks, p: counter-attacked, i: counter-attacking, d: counter-attacked
+counter-attacked <> b: counter-attack, f: pd
+counter-attacking <> b: counter-attack, f: i, i: counter-attacking
+counter-attacks <> b: counter-attack, f: s
+counter-attraction <> s: counter-attractions
+counter-attractions <> b: counter-attraction, f: s
+counter-offer <> s: counter-offers
+counter-offers <> b: counter-offer, f: s
+counter-revolution <> s: counter-revolutions
+counter-revolutionaries <> b: counter-revolutionary, f: s
+counter-revolutionary <> s: counter-revolutionaries
+counter-revolutions <> b: counter-revolution, f: s
+counter-tenor <> s: counter-tenors
+counter-tenors <> b: counter-tenor, f: s
+counteract <> i: counteracting, d: counteracted, '3': counteracts, p: counteracted
+counteracted <> b: counteract, f: dp
+counteracting <> b: counteract, f: i
+counteraction <> s: counteractions
+counteractions <> b: counteraction, f: s
+counteracts <> b: counteract, f: '3'
+counterargument <> s: counterarguments
+counterarguments <> b: counterargument, f: s
+counterattack <> p: counterattacked, s: counterattacks, d: counterattacked, i: counter-attacking, '3': counterattacks'
+counterattacked <> b: counterattack, f: pd
+counterattacks <> b: counterattack, f: s
+counterbalance <> d: counterbalanced, i: counterbalancing, '3': counterbalances, p: counterbalanced, s: counterbalances
+counterbalanced <> b: counterbalance, f: dp
+counterbalances <> b: counterbalance, f: 3s
+counterbalancing <> b: counterbalance, f: i
+counterblast <> s: counterblasts, i: counterblasting
+counterblasting <> b: counterblast, f: i
+counterblasts <> b: counterblast, f: s
+counterbore <> d: counterbored
+counterbored <> b: counterbore, f: d
+counterchange <> p: counterchanged, i: counterchanging, '3': counterchanges, d: counterchanged
+counterchanged <> f: pd, b: counterchange
+counterchanges <> f: '3', b: counterchange
+counterchanging <> f: i, b: counterchange
+countercheck <> s: counterchecks, i: counterchecking, p: counterchecked, '3': counterchecks, d: counterchecked
+counterchecks <> b: countercheck, f: s
+counterclaim <> p: counterclaimed, s: counterclaims, i: counterclaiming, '3': counterclaims, d: counterclaimed
+counterclaimed <> f: pd, b: counterclaim
+counterclaiming <> b: counterclaim, f: i
+counterclaims <> f: s3, b: counterclaim
+counterdemonstration <> s: counterdemonstrations
+counterdemonstrations <> b: counterdemonstration, f: s
+countered <> b: counter, f: pd, p: countered
+counterfactual <> s: counterfactuals
+counterfactuals <> b: counterfactual, f: s
+counterfeit <> i: counterfeiting, s: counterfeits, '3': counterfeits, d: counterfeited, p: counterfeited
+counterfeited <> b: counterfeit, f: dp
+counterfeiter <> s: counterfeiters
+counterfeiters <> b: counterfeiter, f: s
+counterfeiting <> b: counterfeit, f: i
+counterfeits <> b: counterfeit, f: s3
+counterfoil <> s: counterfoils, '3': counterfoils
+counterfoils <> b: counterfoil, f: s3
+countering <> b: counter, f: i, i: countering
+countermand <> p: countermanded, d: countermanded, i: countermanding, '3': countermands
+countermanded <> b: countermand, f: pd
+countermanding <> b: countermand, f: i
+countermands <> b: countermand, f: '3'
+countermarch <> p: countermarched, i: countermarching, '3': countermarches, d: countermarched
+countermarched <> f: pd, b: countermarch
+countermarches <> f: '3', b: countermarch
+countermarching <> f: i, b: countermarch
+countermeasure <> s: countermeasures
+countermeasures <> b: countermeasure, f: s
+countermine <> i: countermining, p: countermined, '3': countermines, d: countermined
+countermined <> f: pd, b: countermine
+countermines <> f: '3', b: countermine
+countermining <> f: i, b: countermine
+countermove <> s: countermoves
+countermoves <> b: countermove, f: s
+counteroffer <> '3': counteroffers, s: counteroffers
+counteroffers <> b: counteroffer, f: 3s
+counterpane <> s: counterpanes
+counterpanes <> b: counterpane, f: s
+counterpart <> s: counterparts
+counterparties <> b: counterparty, f: s
+counterparts <> b: counterpart, f: s
+counterparty <> s: counterparties
+counterplot <> s: counterplots, i: counterplotting, p: counterplotted, '3': counterplots, d: counterplotted
+counterplots <> f: s3, b: counterplot
+counterplotted <> f: pd, b: counterplot
+counterplotting <> f: i, b: counterplot
+counterpoint <> s: counterpoints, d: counterpointed, p: counterpointed, i: counterpointing, '3': counterpoints
+counterpointed <> b: counterpoint, f: dp
+counterpointing <> b: counterpoint, f: i
+counterpoints <> b: counterpoint, f: s
+counterpoise <> d: counterpoised, p: counterpoised, i: counterpoising, '3': counterpoises
+counterpoised <> b: counterpoise, f: dp
+counterpoises <> f: '3', b: counterpoise
+counterpoising <> f: i, b: counterpoise
+counterpose <> d: counterposed, '3': counterposes, i: counterposing, p: counterposed
+counterposed <> b: counterpose, f: dp
+counterposes <> b: counterpose, f: '3'
+counterposing <> b: counterpose, f: i
+counterproposal <> s: counterproposals
+counterproposals <> b: counterproposal, f: s
+counters <> b: counter, f: s3
+countershading <> b: countershade, f: i
+countersign <> p: countersigned, d: countersigned, i: countersigning, '3': countersigns
+countersigned <> b: countersign, f: pd
+countersigning <> b: countersign, f: i
+countersigns <> f: '3', b: countersign
+countersink <> i: countersinking, p: countersank, '3': countersinks, d: countersunk
+counterstain <> d: counterstained, p: counterstained
+counterstained <> b: counterstain, f: dp
+countersunk <> f: d, b: countersink
+countertenor <> s: countertenors
+countertenors <> b: countertenor, f: s
+countertop <> s: countertops
+countertops <> b: countertop, f: s
+countertrade <> i: countertrading
+countertrading <> b: countertrade, f: i
+countervail <> i: countervailing, p: countervailed, '3': countervails, d: countervailed
+countervailing <> f: i, b: countervail
+counterweight <> s: counterweights, i: counterweighting, p: counterweighted, '3': counterweights
+counterweights <> b: counterweight, f: s
+countess <> s: countesses
+countesses <> b: countess, f: s
+counties <> b: county, f: s
+counting <> b: count, f: i, i: counting, s: countings
+countries <> b: country, f: s
+countrified <> p: countrified, b: countrified, f: p
+country <> s: countries
+countryman <> s: countrymen
+countrymen <> b: countryman, f: s
+countrywoman <> s: countrywomen
+countrywomen <> b: countrywoman, f: s
+counts <> b: count, f: s3
+countship <> s: countships
+countships <> b: countship, f: s
+county <> s: counties
+coup <> s: coups, p: couped
+coupe <> s: coupes
+couped <> b: coup, f: p
+coupes <> b: coupe, f: s
+couple <> s: couples, p: coupled, d: coupled, i: coupling, '3': couples
+coupled <> b: couple, f: pd, p: coupled, d: coupled
+coupler <> s: couplers
+couplers <> b: coupler, f: s
+couples <> f: s3, b: couple
+couplet <> s: couplets
+couplets <> b: couplet, f: s
+coupling <> s: couplings, i: coupling, b: coupling, f: i
+coupon <> s: coupons
+coupons <> b: coupon, f: s
+coups <> b: coup, f: s
+courgette <> s: courgettes
+courgettes <> b: courgette, f: s
+courier <> s: couriers, d: couriered, p: couriered
+couriered <> b: courier, f: dp
+couriers <> b: courier, f: s
+course <> s: courses, i: coursing, p: coursed, '3': courses, d: coursed
+coursebook <> s: coursebooks
+coursebooks <> b: coursebook, f: s
+coursed <> d: coursed, b: coursed, f: d
+courser <> s: coursers
+coursers <> b: courser, f: s
+courses <> f: s3, b: course
+coursing <> i: coursing, b: coursing, f: i
+court <> s: courts, i: courting, p: courted, d: courted, '3': courts
+court-martial <> d: court-martialled, s: court-martials, i: court-martialling, p: court-martialed, '3': court-martials, f: courts-martial
+court-martialled <> b: court-martial, f: d
+court-martials <> b: court-martial, f: s
+courted <> b: court, f: pd, p: courted
+courtesan <> s: courtesans
+courtesans <> b: courtesan, f: s
+courtesies <> b: courtesy, f: s
+courtesy <> s: courtesies
+courthouse <> s: courthouses
+courthouses <> b: courthouse, f: s
+courtier <> s: courtiers, b: courty, f: r
+courtiers <> b: courtier, f: s
+courting <> b: court, f: i, i: courting
+courtroom <> s: courtrooms
+courtrooms <> b: courtroom, f: s
+courts <> f: s3, b: court
+courts-martial <> s: courts-martial, b: courts-martial, f: s
+courtship <> s: courtships
+courtships <> b: courtship, f: s
+courty <> r: courtier
+courtyard <> s: courtyards
+courtyards <> b: courtyard, f: s
+cousin <> s: cousins
+cousins <> b: cousin, f: s
+Cousteau <> s: cousteaus
+couturier <> s: couturiers
+couturiers <> b: couturier, f: s
+covariance <> s: covariances
+covariances <> b: covariance, f: s
+covariate <> s: covariates
+covariates <> b: covariate, f: s
+covariation <> s: covariations
+covariations <> b: covariation, f: s
+cove <> s: coves, d: coved
+coved <> b: cove, f: d, d: coved
+coven <> s: covens
+covenant <> s: covenants, '3': covenants, p: covenanted, d: covenanted, i: covenanting
+covenanted <> b: covenant, f: pd
+covenanting <> b: covenant, f: i
+covenantor <> s: covenantors
+covenantors <> b: covenantor, f: s
+covenants <> b: covenant, f: s3
+covens <> b: coven, f: s
+cover <> d: covered, i: covering, '3': covers, p: covered, s: covers
+cover-up <> s: cover-ups
+cover-ups <> b: cover-up, f: s
+coverage <> s: coverages
+coverages <> b: coverage, f: s
+coverall <> s: coveralls
+coveralls <> b: coverall, f: s
+covered <> b: cover, f: dp, p: covered, d: covered
+covering <> b: cover, f: i, s: coverings, i: covering
+coverlet <> s: coverlets
+coverlets <> b: coverlet, f: s
+covers <> b: cover, f: 3s
+coverslip <> s: coverslips
+coverslips <> b: coverslip, f: s
+covert <> s: coverts, i: coverting
+coverting <> b: covert, f: i
+coverts <> b: covert, f: s
+coves <> b: cove, f: s
+covet <> '3': covets, i: coveting, p: coveted, d: coveted
+covetable <> s: covetables
+covetables <> b: covetable, f: s
+coveted <> d: coveted, b: coveted, f: dp, p: coveted
+coveting <> b: covete, f: i
+covets <> b: covet, f: '3'
+covey <> s: coveys
+coveys <> b: covey, f: s
+coving <> s: covings
+covings <> b: coving, f: s
+cow <> s: cows, d: cowed, p: cowed, i: cowing, '3': cows
+cow-house <> s: cow-houses
+cow-houses <> b: cow-house, f: s
+Cowan <> s: cowans
+coward <> s: cowards
+cowards <> b: coward, f: s
+cowbell <> s: cowbells
+cowbells <> b: cowbell, f: s
+cowbird <> s: cowbirds
+cowbirds <> b: cowbird, f: s
+cowboy <> s: cowboys
+cowboys <> b: cowboy, f: s
+cowed <> b: cow, f: dp, d: cowed, p: cowed
+cower <> i: cowering, p: cowered, '3': cowers, d: cowered
+cowered <> b: cower, f: pd
+cowering <> b: cower, f: i, i: cowering, s: cowerings
+cowers <> b: cower, f: '3'
+cowgirl <> s: cowgirls
+cowgirls <> b: cowgirl, f: s
+cowhand <> s: cowhands
+cowhands <> b: cowhand, f: s
+cowherd <> s: cowherds, i: cowherding
+cowherding <> b: cowherd, f: i
+cowherds <> b: cowherd, f: s
+cowhide <> s: cowhides, i: cowhiding, p: cowhided, '3': cowhides, d: cowhided
+cowhides <> b: cowhide, f: s
+cowing <> f: i, b: cow
+cowl <> s: cowls, p: cowled, d: cowled, i: cowling, '3': cowls
+cowled <> b: cowl, f: pd, p: cowled
+cowling <> f: i, b: cowl, s: cowlings
+cowls <> f: s3, b: cowl
+coworker <> s: coworkers
+coworkers <> b: coworker, f: s
+cowpea <> s: cowpeas
+cowpeas <> b: cowpea, f: s
+cowpoke <> s: cowpokes
+cowpokes <> b: cowpoke, f: s
+cowries <> b: cowry, f: s
+cowry <> s: cowries
+cows <> f: s3, b: cow
+cowshed <> s: cowsheds
+cowsheds <> b: cowshed, f: s
+cowslip <> s: cowslips
+cowslips <> b: cowslip, f: s
+cox <> s: coxes, i: coxing, p: coxed, d: coxed, '3': coxes
+coxcomb <> d: coxcombed
+coxcombed <> b: coxcomb, f: d
+coxed <> b: cox, f: pd, p: coxed
+coxes <> f: s3, b: cox
+coxing <> b: cox, f: i
+coxswain <> s: coxswains
+coxswains <> b: coxswain, f: s
+coyote <> s: coyotes
+coyotes <> b: coyote, f: s
+cozen <> d: cozened, i: cozening, p: cozened, '3': cozens
+Cozens <> f: '3', b: cozen
+cozier <> b: cozy, f: r
+cozy <> i: cozying, r: cozier
+cozying <> b: cozy, f: i
+CPA <> s: cpas
+CPE <> s: cpes
+CPU <> s: cpus
+CR <> p: cred, d: cred
+crab <> s: crabs, i: crabbing, d: crabbed, p: crabbed, '3': crabs
+crabbed <> b: crab, f: dp, p: crabbed
+crabbing <> b: crab, f: i
+crabs <> f: s3d, b: crab
+crack <> s: cracks, p: cracked, d: cracked, i: cracking, '3': cracks
+crack-up <> s: crack-ups
+crack-ups <> b: crack-up, f: s
+crackdown <> s: crackdowns
+crackdowns <> b: crackdown, f: s
+cracked <> b: crack, f: pd, d: cracked, p: cracked
+cracker <> s: crackers
+crackers <> b: cracker, f: s
+cracking <> b: crack, f: i, i: cracking, s: crackings
+crackle <> p: crackled, i: crackling, s: crackles, d: crackled, '3': crackles
+crackled <> b: crackle, f: pd
+crackles <> b: crackle, f: s3
+cracklier <> b: crackly, f: r
+crackling <> b: crackle, f: i, i: crackling
+crackly <> r: cracklier
+crackpot <> s: crackpots
+crackpots <> b: crackpot, f: s
+cracks <> f: s3, b: crack
+cracksman <> s: cracksmen
+cracksmen <> b: cracksman, f: s
+cradle <> i: cradling, p: cradled, s: cradles, d: cradled, '3': cradles
+cradled <> b: cradle, f: pd
+cradles <> f: s3, b: cradle
+cradling <> b: cradle, f: i, i: cradling
+craft <> s: crafts, p: crafted, d: crafted, i: crafting, '3': crafts
+crafted <> b: craft, f: pd, p: crafted
+craftier <> b: crafty, f: r
+craftiest <> b: crafty, f: t
+crafting <> b: craft, f: i
+crafts <> f: s3, b: craft
+craftsman <> s: craftsmen
+craftsmen <> b: craftsman, f: s
+craftsperson <> s: craftspersons
+craftspersons <> b: craftsperson, f: s
+craftswoman <> s: craftswomen
+craftswomen <> b: craftswoman, f: s
+craftwork <> s: craftworks
+craftworker <> s: craftworkers
+craftworkers <> b: craftworker, f: s
+craftworks <> b: craftwork, f: s
+crafty <> r: craftier, t: craftiest
+crag <> s: crags, i: cragging
+Cragg <> s: craggs
+craggier <> b: craggy, f: r
+cragging <> b: crag, f: i
+craggy <> r: craggier
+crags <> b: crag, f: s
+cragsman <> s: cragsmen
+cragsmen <> b: cragsman, f: s
+crake <> s: crakes
+crakes <> b: crake, f: s
+cram <> d: crammed, p: crammed, i: cramming, '3': crams, s: crams
+crammed <> b: cram, f: dp
+crammer <> s: crammers
+crammers <> b: crammer, f: s
+cramming <> b: cram, f: i, i: cramming
+cramp <> s: cramps, d: cramped, i: cramping, p: cramped, '3': cramps
+cramped <> b: cramp, f: dp, d: cramped
+cramping <> b: cramp, f: i
+crampon <> s: crampons, p: cramponed
+cramponed <> b: crampon, f: p
+crampons <> b: crampon, f: s
+cramps <> b: cramp, f: s3
+crams <> b: cram, f: 3s
+cran <> s: crans
+cranberries <> b: cranberry, f: s
+cranberry <> s: cranberries
+crane <> s: cranes, p: craned, i: craning, d: craned, '3': cranes
+craned <> b: crane, f: pd
+cranes <> b: crane, f: s3
+cranesbill <> s: cranesbills
+cranesbills <> b: cranesbill, f: s
+craniate <> s: craniates
+craniates <> b: craniate, f: s
+craning <> b: crane, f: i
+cranium <> s: craniums
+craniums <> b: cranium, f: s
+crank <> s: cranks, i: cranking, p: cranked, d: cranked, '3': cranks
+cranked <> b: crank, f: pd
+crankier <> b: cranky, f: r
+cranking <> b: crank, f: i
+cranko <> s: crankos
+crankos <> b: cranko, f: s
+cranks <> b: crank, f: s3
+crankshaft <> s: crankshafts
+crankshafts <> b: crankshaft, f: s
+cranky <> r: crankier
+Cranmer <> b: cranm, f: r
+crannies <> b: cranny, f: s
+crannog <> s: crannogs
+crannogs <> b: crannog, f: s
+cranny <> s: crannies
+crans <> b: cran, f: s
+crap <> i: crapping, p: crapped, s: craps, r: crapper, '3': craps, d: crapped
+crapped <> b: crap, f: pd
+crapper <> b: crap, f: r
+crappiest <> b: crappy, f: t
+crapping <> b: crap, f: i
+crappy <> t: crappiest
+craps <> b: crap, f: s3
+crash <> p: crashed, i: crashing, d: crashed, s: crashes, '3': crashes
+crash-dive <> i: crash-diving, p: crash-dived, '3': crash-dives', d: crash-dived
+crash-land <> s: crash-lands
+crash-lands <> b: crash-land, f: s
+crashed <> b: crash, f: pd, p: crashed, d: crashed
+crasher <> s: crashers
+crashers <> b: crasher, f: s
+crashes <> b: crash, f: s3
+crashing <> b: crash, f: i, i: crashing, s: crashings
+crass <> t: crassest, r: crasser
+crasser <> b: crass, f: r
+crassest <> b: crass, f: t
+crate <> s: crates, d: crated, p: crated, i: crating, '3': crates
+crated <> b: crate, f: dp, p: crated, d: crated
+crater <> s: craters, d: cratered, i: cratering, p: cratered
+cratered <> b: crater, f: dp, p: cratered, d: cratered
+cratering <> b: crater, f: i, i: cratering
+craters <> b: crater, f: s
+crates <> f: s3, b: crate
+crating <> b: crate, f: i
+craton <> s: cratons
+cratons <> b: craton, f: s
+cravat <> s: cravats
+cravats <> b: cravat, f: s
+crave <> p: craved, i: craving, '3': craves, d: craved
+craved <> b: crave, f: pd
+craven <> s: cravens
+cravens <> b: craven, f: s
+craves <> b: crave, f: '3'
+craving <> b: crave, f: i, s: cravings, i: craving
+craw <> s: craws
+crawfish <> s: crawfishes
+crawford <> s: crawfords
+crawfords <> b: crawford, f: s
+crawl <> p: crawled, i: crawling, d: crawled, '3': crawls
+crawled <> b: crawl, f: pd
+crawler <> s: crawlers
+crawlers <> b: crawler, f: s
+crawlies <> b: crawly, f: s
+crawling <> b: crawl, f: i, i: crawling
+crawls <> b: crawl, f: '3'
+crawly <> s: crawlies
+craws <> b: craw, f: s
+crayfish <> s: crayfishes
+crayfishes <> b: crayfish, f: s
+crayon <> s: crayons, i: crayoning, p: crayoned, '3': crayons, d: crayoned
+crayoned <> f: pd, b: crayon, d: crayoned, p: crayoned
+crayoning <> b: crayon, f: i
+crayons <> f: s3, b: crayon
+craze <> s: crazes, '3': crazes, i: crazing, p: crazed, d: crazed
+crazed <> f: pd, b: craze
+crazes <> b: craze, f: s3
+crazier <> b: crazy, f: r
+crazies <> b: crazy, f: s
+craziest <> b: crazy, f: t
+craziness <> s: crazinesses
+crazinesses <> b: craziness, f: s
+crazing <> b: craze, f: i
+crazy <> t: craziest, r: crazier, s: crazies
+creak <> p: creaked, i: creaking, s: creaks, '3': creaks, d: creaked
+creaked <> b: creak, f: pd
+creaking <> b: creak, f: i, i: creaking, s: creakings
+creaks <> b: creak, f: s3
+cream <> s: creams, i: creaming, d: creamed, p: creamed, '3': creams
+creamed <> b: cream, f: dp, p: creamed
+creameries <> b: creamery, f: s
+creamery <> s: creameries
+creamier <> b: creamy, f: r
+creamiest <> b: creamy, f: t
+creaming <> b: cream, f: i
+creams <> f: s3, b: cream
+creamy <> r: creamier, t: creamiest
+crease <> s: creases, d: creased, i: creasing, p: creased, '3': creases
+creased <> b: crease, f: dp, d: creased
+creases <> b: crease, f: s3
+creasing <> b: crease, f: i
+create <> d: created, i: creating, '3': creates, p: created
+created <> b: create, f: dp, p: created, d: created
+creates <> b: create, f: '3'
+creating <> b: create, f: i
+creation <> s: creations
+creationist <> s: creationists
+creationists <> b: creationist, f: s
+creations <> b: creation, f: s
+creative <> s: creatives
+creatives <> b: creative, f: s
+Creator <> s: creators
+creature <> s: creatures
+creatures <> b: creature, f: s
+cred <> b: cr, f: pd, s: creds, p: cred
+credential <> p: credentialed
+credentialed <> b: credential, f: p
+credentials <> s: credentials, b: credentials, f: s
+credit <> d: credited, s: credits, '3': credits, i: crediting, p: credited
+credited <> b: credit, f: dp, d: credited, p: credited
+crediting <> b: credit, f: i
+creditor <> s: creditors
+creditors <> b: creditor, f: s
+credits <> b: credit, f: s3
+credo <> s: credos
+credos <> b: credo, f: s
+cree <> s: crees
+creed <> s: creeds
+creeds <> b: creed, f: s
+creek <> s: creeks
+creeks <> b: creek, f: s
+creel <> s: creels
+creels <> b: creel, f: s
+creep <> p: crept, i: creeping, d: crept, '3': creeps, s: creeps
+creeper <> s: creepers
+creepers <> b: creeper, f: s
+creepier <> b: creepy, f: r
+creeping <> b: creep, f: i, i: creeping
+creeps <> b: creep, f: 3s
+creepy <> r: creepier
+creepy-crawlies <> b: creepy-crawly, f: s
+creepy-crawly <> s: creepy-crawlies
+crees <> b: cree, f: s
+cremate <> d: cremated, p: cremated, i: cremating, '3': cremates
+cremated <> b: cremate, f: dp, p: cremated
+cremates <> f: '3', b: cremate
+cremating <> b: cremate, f: i
+cremation <> s: cremations
+cremations <> b: cremation, f: s
+crematoria <> b: crematorium, f: s
+crematorium <> s: crematoria
+creme <> r: cremer
+crenellate <> p: crenellated, d: crenellated, i: crenellating, '3': crenellates
+crenellated <> p: crenellated, b: crenellated, f: p
+crenellates <> f: '3', b: crenellate
+crenellating <> f: i, b: crenellate
+crenellation <> s: crenellations
+crenellations <> b: crenellation, f: s
+Creole <> s: creoles
+creoles <> b: creole, f: s
+creosote <> p: creosoted, d: creosoted, i: creosoting
+creosoted <> b: creosote, f: pd, p: creosoted
+creosoting <> b: creosote, f: i
+crepe <> s: crepes, i: creping, p: creped, '3': crepes, d: creped
+creped <> f: pd, b: crepe
+crepes <> f: s3, b: crepe
+creping <> f: i, b: crepe
+crepitate <> i: crepitating, p: crepitated, '3': crepitates, d: crepitated
+crepitated <> f: pd, b: crepitate
+crepitates <> f: '3', b: crepitate
+crepitating <> f: i, b: crepitate
+crepitation <> s: crepitations
+crepitations <> b: crepitation, f: s
+crept <> b: creep, f: pd
+crescendo <> s: crescendos, i: crescendoing, p: crescendoed, '3': crescendoes, d: crescendoed
+crescendoed <> f: pd, b: crescendo
+crescendoes <> f: '3', b: crescendo
+crescendoing <> f: i, b: crescendo
+crescendos <> b: crescendo, f: s
+Crescent <> s: crescents
+crescents <> b: crescent, f: s
+cress <> s: cresses
+cresses <> b: cress, f: s
+cresset <> s: cressets
+cressets <> b: cresset, f: s
+crest <> s: crests, p: crested, i: cresting, d: crested, '3': crests
+crested <> b: crest, f: pd, p: crested
+cresting <> b: crest, f: i
+crests <> b: crest, f: s
+cretan <> s: cretans
+cretans <> b: cretan, f: s
+cretin <> s: cretins
+cretins <> b: cretin, f: s
+crevice <> s: crevices, d: creviced, p: creviced
+creviced <> b: crevice, f: dp, p: creviced
+crevices <> b: crevice, f: s
+crew <> s: crews, d: crewed, p: crewed, i: crewing, '3': crews
+crewed <> b: crew, f: dp, p: crewed
+crewing <> b: crew, f: i, i: crewing
+crewman <> s: crewmen
+crewmate <> s: crewmates
+crewmates <> b: crewmate, f: s
+crewmember <> s: crewmembers
+crewmembers <> b: crewmember, f: s
+crewmen <> b: crewman, f: s
+crews <> f: s3, b: crew
+crib <> i: cribbing, s: cribs, p: cribbed, d: cribbed, '3': cribs
+cribbed <> b: crib, f: pd
+cribber <> s: cribbers
+cribbers <> b: cribber, f: s
+cribbing <> b: crib, f: i
+cribs <> f: s3, b: crib
+Crichton <> s: crichtons
+crick <> s: cricks, d: cricked, i: cricking, p: cricked, '3': cricks
+cricked <> f: dp, b: crick
+cricket <> s: crickets
+cricketer <> s: cricketers
+cricketers <> b: cricketer, f: s
+crickets <> b: cricket, f: s
+cricking <> f: i, b: crick
+cricks <> f: s3, b: crick
+cried <> b: cry, f: pd
+crier <> s: criers
+criers <> b: crier, f: s
+cries <> b: cry, f: s3
+crime <> s: crimes
+crime-fighter <> s: crime-fighters
+crime-fighters <> b: crime-fighter, f: s
+crimes <> b: crime, f: s
+criminal <> s: criminals
+criminalise <> d: criminalised, i: criminalising, p: criminalised, '3': criminalises
+criminalised <> b: criminalise, f: dp, d: criminalised
+criminalises <> b: criminalise, f: '3'
+criminalising <> b: criminalise, f: i
+criminalize <> d: criminalized, i: criminalizing, p: criminalized, '3': criminalizes
+criminalized <> b: criminalize, f: dp
+criminalizes <> f: '3', b: criminalize
+criminalizing <> b: criminalize, f: i
+criminals <> b: criminal, f: s
+criminologies <> b: criminology, f: s
+criminologist <> s: criminologists
+criminologists <> b: criminologist, f: s
+criminology <> s: criminologies
+crimp <> p: crimped, d: crimped, i: crimping, s: crimps, '3': crimps
+crimped <> b: crimp, f: pd
+crimper <> s: crimpers
+crimpers <> b: crimper, f: s
+crimping <> b: crimp, f: i
+crimps <> f: s3, b: crimp
+crimson <> s: crimsons, p: crimsoned, i: crimsoning, '3': crimsons, d: crimsoned
+crimsoned <> f: pd, b: crimson
+crimsoning <> f: i, b: crimson
+crimsons <> f: s3, b: crimson
+cringe <> p: cringed, i: cringing, '3': cringes, d: cringed
+cringed <> b: cringe, f: pd
+cringes <> b: cringe, f: '3'
+cringing <> b: cringe, f: i, i: cringing
+crinkle <> p: crinkled, i: crinkling, s: crinkles, d: crinkled, '3': crinkles
+crinkled <> b: crinkle, f: pd, p: crinkled
+crinkles <> b: crinkle, f: s3
+crinkling <> b: crinkle, f: i
+crinoid <> s: crinoids
+crinoids <> b: crinoid, f: s
+crinoline <> s: crinolines
+crinolines <> b: crinoline, f: s
+criollo <> s: criollos
+criollos <> b: criollo, f: s
+crip <> s: crips, '3': crips
+cripple <> d: crippled, p: crippled, s: cripples, i: crippling, '3': cripples
+crippled <> b: cripple, f: dp, d: crippled, p: crippled
+cripples <> b: cripple, f: s3
+crippling <> b: cripple, f: i, i: crippling
+crips <> b: crip, f: s3
+crises <> b: crisis, f: s
+crisis <> s: crises
+crisp <> s: crisps, r: crisper, i: crisping, p: crisped, t: crispest, '3': crisps, d: crisped
+crispbread <> s: crispbreads
+crispbreads <> b: crispbread, f: s
+crisped <> f: pd, b: crisp, p: crisped
+crisper <> b: crisp, f: r
+crispest <> b: crisp, f: t
+crispies <> b: crispy, f: s
+crispiest <> b: crispy, f: t
+crisping <> b: crisp, f: i
+crisps <> f: s3, b: crisp
+crispy <> s: crispies, t: crispiest
+criss-cross <> d: criss-crossed, p: criss-crossed
+criss-crossed <> b: criss-cross, f: dp
+crisscross <> d: crisscrossed, i: crisscrossing, p: crisscrossed, s: crisscrosses, '3': crisscrosses
+crisscrossed <> b: crisscross, f: dp
+crisscrosses <> f: s3, b: crisscross
+crisscrossing <> b: crisscross, f: i
+crit <> s: crits
+criteria <> b: criterion, f: s, s: criterias
+criterion <> s: criteria
+critic <> s: critics
+criticalities <> b: criticality, f: s
+criticality <> s: criticalities
+criticise <> d: criticised, p: criticised, i: criticising, '3': criticises
+criticised <> b: criticise, f: dp, d: criticised, p: criticised
+criticises <> b: criticise, f: '3'
+criticising <> b: criticise, f: i, i: criticising
+criticism <> s: criticisms
+criticisms <> b: criticism, f: s
+criticize <> d: criticized, p: criticized, i: criticizing, '3': criticizes
+criticized <> b: criticize, f: dp, p: criticized, d: criticized
+criticizes <> b: criticize, f: '3'
+criticizing <> b: criticize, f: i
+critics <> b: critic, f: s
+critique <> s: critiques, d: critiqued, i: critiquing, p: critiqued, '3': critiques
+critiqued <> b: critique, f: d
+critiques <> b: critique, f: s
+critiquing <> b: critique, f: i
+crits <> b: crit, f: s
+critter <> s: critters
+critters <> b: critter, f: s
+croak <> p: croaked, i: croaking, '3': croaks, s: croaks, d: croaked
+croaked <> b: croak, f: pd
+croaker <> s: croakers
+croakers <> b: croaker, f: s
+croaking <> b: croak, f: i, i: croaking
+croaks <> b: croak, f: 3s
+croat <> s: croats
+Croatian <> s: croatians
+croats <> b: croat, f: s
+croc <> s: crocs
+crochet <> i: crocheting, p: crocheted, '3': crochets, d: crocheted
+crocheted <> b: crochete, f: pd
+crocheting <> b: crochete, f: i, i: crocheting
+crochets <> f: '3', b: crochet
+croci <> s: croci, b: croci, f: s
+crock <> s: crocks, p: crocked, d: crocked, i: crocking, '3': crocks
+crocked <> b: crock, f: pd, d: crocked
+crocket <> s: crockets
+crockets <> b: crocket, f: s
+crocking <> f: i, b: crock
+crocks <> f: s3, b: crock
+crocodile <> s: crocodiles, p: crocodiled
+crocodiled <> b: crocodile, f: p
+crocodiles <> b: crocodile, f: s
+crocodilian <> s: crocodilians
+crocodilians <> b: crocodilian, f: s
+crocs <> b: croc, f: s
+croft <> s: crofts, i: crofting, p: crofted
+crofted <> b: croft, f: p
+crofter <> s: crofters
+Crofters <> b: crofter, f: s
+crofting <> b: croft, f: i, i: crofting
+Crohn <> s: crohns
+croissant <> s: croissants
+croissants <> b: croissant, f: s
+cromlech <> s: cromlechs
+cromlechs <> b: cromlech, f: s
+cromwellian <> s: cromwellians
+cromwellians <> b: cromwellian, f: s
+crone <> s: crones
+crones <> b: crone, f: s
+cronies <> b: crony, f: s
+crony <> s: cronies
+crook <> s: crooks, p: crooked, i: crooking, '3': crooks, d: crooked
+crooke <> s: crookes, '3': crookes, i: crookeing
+crooked <> f: pd, b: crook, d: crooked, p: crooked
+Crookes <> b: crooke, f: s3
+crooking <> b: crook, f: i
+crooks <> f: s3, b: crook
+croon <> p: crooned, i: crooning, '3': croons, d: crooned, s: croons
+crooned <> b: croon, f: pd, p: crooned
+crooner <> s: crooners
+crooners <> b: crooner, f: s
+crooning <> b: croon, f: i, s: croonings, i: crooning
+croons <> b: croon, f: 3s
+crop <> s: crops, d: cropped, i: cropping, p: cropped, '3': crops
+cropland <> s: croplands
+croplands <> b: cropland, f: s
+cropped <> b: crop, f: dp, d: cropped, p: cropped
+cropper <> s: croppers
+croppers <> b: cropper, f: s
+cropping <> b: crop, f: i, i: cropping, s: croppings
+crops <> b: crop, f: s3
+croquet <> i: croqueting, p: croqueted, '3': croquets, d: croqueted
+croqueted <> f: pd, b: croquet
+croqueting <> f: i, b: croquet
+croquets <> f: '3', b: croquet
+croquette <> s: croquettes
+croquettes <> b: croquette, f: s
+Crosfield <> s: crosfields
+cross <> p: crossed, i: crossing, d: crossed, '3': crosses, s: crosses
+cross-beam <> s: cross-beams
+cross-beams <> b: cross-beam, f: s
+cross-bencher <> s: cross-benchers
+cross-benchers <> b: cross-bencher, f: s
+cross-breed <> s: cross-breeds
+cross-breeds <> b: cross-breed, f: s
+cross-check <> i: cross-checking, s: cross-checks, p: cross-checked, '3': cross-checks, d: cross-checked
+cross-checking <> b: cross-check, f: i
+cross-checks <> b: cross-check, f: s
+cross-compiler <> s: cross-compilers
+cross-compilers <> b: cross-compiler, f: s
+cross-connection <> s: cross-connections
+cross-connections <> b: cross-connection, f: s
+cross-countries <> b: cross-country, f: s
+cross-country <> s: cross-countries
+cross-current <> s: cross-currents
+cross-currents <> b: cross-current, f: s
+cross-cut <> s: cross-cuts, i: cross-cutting
+cross-cuts <> b: cross-cut, f: s
+cross-cutting <> b: cross-cut, f: i
+cross-dress <> s: cross-dresses, i: cross-dressing, p: cross-dressed, '3': cross-dresses, d: cross-dressed
+cross-dresser <> s: cross-dressers
+cross-dressers <> b: cross-dresser, f: s
+cross-dresses <> b: cross-dress, f: s
+cross-examination <> s: cross-examinations
+cross-examinations <> b: cross-examination, f: s
+cross-examine <> '3': cross-examines, i: cross-examining
+cross-examines <> b: cross-examine, f: '3'
+cross-examining <> b: cross-examine, f: i
+cross-hatching <> s: cross-hatchings
+cross-hatchings <> b: cross-hatching, f: s
+cross-link <> s: cross-links
+cross-links <> b: cross-link, f: s
+cross-platform <> s: cross-platforms
+cross-platforms <> b: cross-platform, f: s
+cross-purpose <> s: cross-purposes, '3': cross-purposes
+cross-purposes <> b: cross-purpose, f: s3
+cross-question <> d: cross-questioned, p: cross-questioned
+cross-questioned <> b: cross-question, f: dp
+cross-refer <> '3': cross-refers
+cross-reference <> s: cross-references, d: cross-referenced, p: cross-referenced, i: cross-referencing, '3': cross-references
+cross-referenced <> b: cross-reference, f: dp, p: cross-referenced
+cross-references <> b: cross-reference, f: s3
+cross-referencing <> b: cross-reference, f: i, i: cross-referencing
+cross-refers <> b: cross-refer, f: '3'
+cross-section <> s: cross-sections
+cross-sections <> b: cross-section, f: s
+cross-subsidies <> b: cross-subsidy, f: s
+cross-subsidy <> s: cross-subsidies
+crossbar <> s: crossbars
+crossbars <> b: crossbar, f: s
+crossbeam <> '3': crossbeams, s: crossbeams
+crossbeams <> b: crossbeam, f: 3s
+crossbill <> s: crossbills
+crossbills <> b: crossbill, f: s
+crossbones <> b: crossbone, f: s3
+crossbow <> s: crossbows, '3': crossbows
+crossbowman <> s: crossbowmen
+crossbowmen <> b: crossbowman, f: s
+crossbows <> b: crossbow, f: s3
+crossbreed <> i: crossbreeding, s: crossbreeds, '3': crossbreeds
+crossbreeding <> b: crossbreed, f: i
+crossbreeds <> b: crossbreed, f: s3
+crosscheck <> d: crosschecked
+crosschecked <> b: crosscheck, f: d
+crosscurrent <> s: crosscurrents
+crosscurrents <> b: crosscurrent, f: s
+crosscut <> d: crosscut, p: crosscut, i: crosscutting, f: pd, b: crosscut, '3': crosscuts
+crosscuts <> f: '3', b: crosscut
+crosscutting <> b: crosscut, f: i
+crossed <> b: cross, f: pd, p: crossed, d: crossed
+crosser <> s: crossers
+crossers <> b: crosser, f: s
+crosses <> b: cross, f: 3s
+crossfire <> s: crossfires
+crossfires <> b: crossfire, f: s
+crosshair <> s: crosshairs
+crosshairs <> b: crosshair, f: s
+crosshatch <> i: crosshatching, p: crosshatched, '3': crosshatches, d: crosshatched
+crosshatched <> f: pd, b: crosshatch
+crosshatches <> f: '3', b: crosshatch
+crosshatching <> b: crosshatch, f: i
+crosshead <> s: crossheads
+crossheads <> b: crosshead, f: s
+crossing <> b: cross, f: i, s: crossings, i: crossing
+crossover <> s: crossovers, '3': crossovers
+crossovers <> b: crossover, f: s3
+crosspiece <> s: crosspieces
+crosspieces <> b: crosspiece, f: s
+crosstree <> s: crosstrees
+crosstrees <> b: crosstree, f: s
+crossway <> s: crossways
+crossways <> b: crossway, f: s
+crosswind <> s: crosswinds
+crosswinds <> b: crosswind, f: s
+crossword <> s: crosswords
+crosswords <> b: crossword, f: s
+crotch <> s: crotches
+crotches <> b: crotch, f: s
+crotchet <> s: crotchets, '3': crotchets
+crotchets <> b: crotchet, f: s3
+croton <> s: crotons
+crotons <> b: croton, f: s
+crouch <> p: crouched, i: crouching, d: crouched, '3': crouches
+crouched <> b: crouch, f: pd, d: crouched, p: crouched
+crouches <> b: crouch, f: '3'
+crouching <> b: crouch, f: i, i: crouching, s: crouchings
+croup <> s: croups
+croupier <> s: croupiers
+croupiers <> b: croupier, f: s
+croups <> b: croup, f: s
+croustade <> s: croustades
+croustades <> b: croustade, f: s
+crouton <> s: croutons
+croutons <> b: crouton, f: s
+crow <> s: crows, p: crowed, i: crowing, d: crowed, '3': crows
+crowbar <> s: crowbars
+crowbars <> b: crowbar, f: s
+crowberries <> b: crowberry, f: s
+crowberry <> s: crowberries
+crowd <> s: crowds, p: crowded, d: crowded, i: crowding, '3': crowds
+crowd-pleaser <> s: crowd-pleasers
+crowd-pleasers <> b: crowd-pleaser, f: s
+crowd-puller <> s: crowd-pullers
+crowd-pullers <> b: crowd-puller, f: s
+crowded <> b: crowd, f: pd, d: crowded, p: crowded
+crowding <> b: crowd, f: i, i: crowding
+crowds <> f: s3, b: crowd
+Crowe <> s: crowes
+crowed <> b: crow, f: pd
+crowfoot <> s: crowfoots
+crowfoots <> b: crowfoot, f: s
+crowing <> b: crow, f: i, s: crowings, i: crowing
+crown <> d: crowned, s: crowns, p: crowned, i: crowning, '3': crowns
+crowned <> b: crown, f: dp, d: crowned, p: crowned
+crowning <> b: crown, f: i, i: crowning, s: crownings
+crowns <> b: crown, f: s3
+crows <> f: s3, b: crow
+crubeen <> s: crubeens
+crubeens <> b: crubeen, f: s
+cruces <> b: cruce, f: s
+crucian <> s: crucians
+crucians <> b: crucian, f: s
+crucible <> s: crucibles
+crucibles <> b: crucible, f: s
+crucified <> b: crucify, f: dp, d: crucified, p: crucified
+crucifix <> s: crucifixes
+crucifixes <> b: crucifix, f: s
+crucifixion <> s: crucifixions
+crucifixions <> b: crucifixion, f: s
+cruciform <> s: cruciforms
+cruciforms <> b: cruciform, f: s
+crucify <> d: crucified, p: crucified, i: crucifying, '3': crucifies
+cruck <> s: crucks
+crucks <> b: cruck, f: s
+crud <> s: cruds
+crude <> r: cruder, t: crudest, s: crudes
+cruder <> b: crude, f: r
+crudes <> b: crude, f: s
+crudest <> b: crude, f: t
+crudite <> s: crudites
+crudites <> b: crudite, f: s
+crudities <> b: crudity, f: s
+crudity <> s: crudities
+cruds <> b: crud, f: s
+cruel <> t: cruellest, r: crueller
+crueller <> b: cruel, f: r
+cruellest <> b: cruel, f: t
+cruelties <> b: cruelty, f: s
+cruelty <> s: cruelties
+cruet <> s: cruets
+cruets <> b: cruet, f: s
+cruise <> i: cruising, s: cruises, p: cruised, d: cruised, '3': cruises
+cruised <> b: cruise, f: pd
+cruiser <> s: cruisers
+cruisers <> b: cruiser, f: s
+cruises <> b: cruise, f: s3
+cruising <> b: cruise, f: i, i: cruising
+crumb <> s: crumbs, p: crumbed, i: crumbing, '3': crumbs, d: crumbed
+crumbed <> f: pd, b: crumb
+crumbing <> f: i, b: crumb
+crumble <> i: crumbling, d: crumbled, p: crumbled, '3': crumbles, s: crumbles
+crumbled <> b: crumble, f: dp, d: crumbled, p: crumbled
+crumbles <> b: crumble, f: 3s
+crumblies <> b: crumbly, f: s
+crumbling <> b: crumble, f: i, i: crumbling
+crumbly <> s: crumblies
+crumbs <> f: s3, b: crumb
+crump <> d: crumped, s: crumps, i: crumping, p: crumped, '3': crumps
+crumped <> f: dp, b: crump
+crumpet <> s: crumpets
+crumpets <> b: crumpet, f: s
+crumping <> f: i, b: crump
+crumple <> p: crumpled, d: crumpled, i: crumpling, '3': crumples, s: crumples
+crumpled <> b: crumple, f: pd, d: crumpled, p: crumpled
+crumples <> b: crumple, f: 3s
+crumpling <> b: crumple, f: i
+crumps <> f: s3, b: crump
+crunch <> p: crunched, i: crunching, '3': crunches, d: crunched, s: crunches
+crunched <> b: crunch, f: pd
+cruncher <> s: crunchers
+crunchers <> b: cruncher, f: s
+crunches <> b: crunch, f: 3s
+crunchier <> b: crunchy, f: r
+crunchies <> b: crunchy, f: s
+crunching <> b: crunch, f: i, i: crunching
+crunchy <> s: crunchies, r: crunchier
+crupper <> s: cruppers
+cruppers <> b: crupper, f: s
+crusade <> s: crusades, i: crusading, p: crusaded, d: crusaded, '3': crusades
+crusaded <> b: crusade, f: pd
+crusader <> s: crusaders
+crusaders <> b: crusader, f: s
+crusades <> f: s3, b: crusade
+crusading <> b: crusade, f: i, i: crusading
+crush <> d: crushed, p: crushed, i: crushing, '3': crushes, s: crushes
+crushed <> b: crush, f: dp, d: crushed, p: crushed
+crusher <> s: crushers
+crushers <> b: crusher, f: s
+crushes <> b: crush, f: 3s
+crushing <> b: crush, f: i, i: crushing, s: crushings
+crust <> s: crusts, d: crusted, i: crusting, p: crusted, '3': crusts
+Crustacea <> s: crustacea, b: crustacea, f: s
+crustacean <> s: crustaceans
+crustaceans <> b: crustacean, f: s
+crusted <> b: crust, f: dp, d: crusted
+crustier <> b: crusty, f: r
+crusties <> b: crusty, f: s
+crusting <> b: crust, f: i
+crusts <> f: s3, b: crust
+crusty <> s: crusties, r: crustier
+crutch <> s: crutches
+crutches <> b: crutch, f: s
+crux <> s: cruxes
+cruxes <> b: crux, f: s
+cruzado <> s: cruzados
+cruzados <> b: cruzado, f: s
+cry <> p: cried, i: crying, s: cries, '3': cries, d: cried
+crying <> b: cry, f: i, i: crying, s: cryings
+crypt <> s: crypts
+cryptanalyst <> s: cryptanalysts, '3': cryptanalysts
+cryptanalysts <> b: cryptanalyst, f: s3
+cryptogam <> s: cryptogams
+cryptogams <> b: cryptogam, f: s
+cryptogram <> s: cryptograms
+cryptograms <> b: cryptogram, f: s
+cryptographer <> s: cryptographers
+cryptographers <> b: cryptographer, f: s
+cryptologist <> s: cryptologists
+cryptologists <> b: cryptologist, f: s
+crypts <> b: crypt, f: s
+crystal <> s: crystals
+crystallise <> d: crystallised, '3': crystallises, i: crystallising, p: crystallised
+crystallised <> b: crystallise, f: dp, p: crystallised
+crystallises <> b: crystallise, f: '3'
+crystallising <> b: crystallise, f: i
+crystallite <> s: crystallites
+crystallites <> b: crystallite, f: s
+crystallization <> s: crystallizations
+crystallizations <> b: crystallization, f: s
+crystallize <> d: crystallized, p: crystallized, i: crystallizing, '3': crystallizes
+crystallized <> b: crystallize, f: dp, p: crystallized, d: crystallized
+crystallizes <> b: crystallize, f: '3'
+crystallizing <> b: crystallize, f: i
+crystallographer <> s: crystallographers
+crystallographers <> b: crystallographer, f: s
+crystalloid <> s: crystalloids
+crystalloids <> b: crystalloid, f: s
+crystals <> b: crystal, f: s
+CSE <> s: cses
+cso <> s: csos
+csos <> b: cso, f: s
+CT <> s: cts
+ctc <> s: ctcs
+ctcs <> b: ctc, f: s
+ctenophore <> s: ctenophores, '3': ctenophores
+ctenophores <> b: ctenophore, f: s3
+CTS <> b: ct, f: s
+cub <> s: cubs, i: cubbing, p: cubbed, '3': cubs, d: cubbed
+Cuban <> s: cubans
+cubbed <> f: pd, b: cub
+cubbies <> b: cubby, f: s
+cubbing <> b: cub, f: i
+cubby <> s: cubbies
+cubbyhole <> s: cubbyholes
+cubbyholes <> b: cubbyhole, f: s
+cube <> s: cubes, d: cubed, i: cubing, p: cubed, '3': cubes
+cubed <> f: dp, b: cube, d: cubed
+cubes <> f: s3, b: cube
+cubicle <> s: cubicles
+cubicles <> b: cubicle, f: s
+cubing <> b: cube, f: i
+cubist <> s: cubists
+cubists <> b: cubist, f: s
+cubit <> s: cubits
+cubits <> b: cubit, f: s
+cuboid <> s: cuboids
+cuboids <> b: cuboid, f: s
+cubs <> f: s3, b: cub
+cuckold <> d: cuckolded, i: cuckolding, '3': cuckolds, p: cuckolded, s: cuckolds
+cuckolded <> b: cuckold, f: dp
+cuckolding <> b: cuckold, f: i
+cuckolds <> b: cuckold, f: 3s
+cuckoo <> s: cuckoos, i: cuckooing, p: cuckooed, '3': cuckoos, d: cuckooed
+cuckooed <> f: pd, b: cuckoo
+cuckooing <> f: i, b: cuckoo
+cuckoos <> f: s3, b: cuckoo
+cucumber <> s: cucumbers
+cucumbers <> b: cucumber, f: s
+cuddle <> i: cuddling, p: cuddled, s: cuddles, d: cuddled, '3': cuddles
+cuddled <> b: cuddle, f: pd
+cuddles <> b: cuddle, f: s3
+cuddlier <> b: cuddly, f: r
+cuddliest <> b: cuddly, f: t
+cuddling <> b: cuddle, f: i, i: cuddling
+cuddly <> r: cuddlier, t: cuddliest
+cudgel <> s: cudgels, p: cudgelled, i: cudgelling, d: cudgelled, '3': cudgels
+cudgelled <> b: cudgel, f: pd
+cudgelling <> b: cudgel, f: i
+cudgels <> f: s3, b: cudgel
+cue <> s: cues, d: cued, i: cueing, p: cued, '3': cues
+cued <> b: cue, f: dp
+cueing <> b: cue, f: i, i: cueing
+cues <> b: cue, f: s3
+cuff <> s: cuffs, p: cuffed, '3': cuffs, d: cuffed, i: cuffing
+cuffed <> b: cuff, f: pd, p: cuffed
+cuffing <> b: cuff, f: i
+cufflink <> s: cufflinks
+cufflinks <> b: cufflink, f: s
+cuffs <> b: cuff, f: s3
+cuirass <> s: cuirasses
+cuirasses <> b: cuirass, f: s
+cuirassier <> s: cuirassiers
+cuirassiers <> b: cuirassier, f: s
+cuisine <> s: cuisines
+cuisines <> b: cuisine, f: s
+cul-de-sac <> s: cul-de-sacs
+cul-de-sacs <> b: cul-de-sac, f: s
+cull <> d: culled, i: culling, p: culled, s: culls, '3': culls
+culled <> b: cull, f: dp
+Culley <> s: culleys
+culling <> b: cull, f: i, i: culling, s: cullings
+culls <> b: cull, f: s3
+culm <> s: culms
+culminate <> i: culminating, p: culminated, '3': culminates, d: culminated
+culminated <> b: culminate, f: pd
+culminates <> b: culminate, f: '3'
+culminating <> b: culminate, f: i, i: culminating
+culmination <> s: culminations
+culminations <> b: culmination, f: s
+culms <> b: culm, f: s
+culotte <> s: culottes
+culottes <> b: culotte, f: s
+culprit <> s: culprits
+culprits <> b: culprit, f: s
+cult <> s: cults
+cultigen <> s: cultigens
+cultigens <> b: cultigen, f: s
+cultist <> s: cultists
+cultists <> b: cultist, f: s
+cultivar <> s: cultivars
+cultivars <> b: cultivar, f: s
+cultivate <> d: cultivated, i: cultivating, p: cultivated, '3': cultivates
+cultivated <> b: cultivate, f: dp, d: cultivated, p: cultivated
+cultivates <> b: cultivate, f: '3'
+cultivating <> b: cultivate, f: i
+cultivation <> s: cultivations
+cultivations <> b: cultivation, f: s
+cultivator <> s: cultivators
+cultivators <> b: cultivator, f: s
+cults <> b: cult, f: s
+culture <> s: cultures, d: cultured, i: culturing
+cultured <> b: culture, f: d, d: cultured, p: cultured
+cultures <> b: culture, f: s
+culturing <> b: culture, f: i
+culvert <> s: culverts, d: culverted, '3': culverts, p: culverted
+culverted <> b: culvert, f: dp
+culverts <> b: culvert, f: s3
+cum <> i: cumming, d: cum, b: cum, f: dp, s: cums, p: cum
+cumber <> d: cumbered, i: cumbering, s: cumbers, p: cumbered, '3': cumbers
+cumbered <> f: dp, b: cumber, p: cumbered
+cumbering <> b: cumber, f: i
+cumbers <> f: s3, b: cumber
+cumbrian <> s: cumbrians
+cumbrians <> b: cumbrian, f: s
+cumin <> i: cumin, b: cumin, f: i
+cummerbund <> s: cummerbunds
+cummerbunds <> b: cummerbund, f: s
+cummin <> s: cummins
+Cumming <> s: cummings, b: cum, f: i
+Cummings <> b: cumming, f: s
+CUMMINS <> b: cummin, f: s
+cums <> b: cum, f: s
+cumulate <> '3': cumulates, d: cumulated, i: cumulating, p: cumulated
+cumulated <> b: cumulate, f: dp
+cumulates <> b: cumulate, f: '3'
+cumulating <> b: cumulate, f: i
+cumulation <> s: cumulations
+cumulations <> b: cumulation, f: s
+cunning <> t: cunningest
+cunningest <> b: cunning, f: t
+cunt <> s: cunts
+cunts <> b: cunt, f: s
+cup <> s: cups, i: cupping, '3': cups, p: cupped, d: cupped
+cupboard <> s: cupboards
+cupboards <> b: cupboard, f: s
+cupful <> s: cupfuls
+cupfuls <> b: cupful, f: s
+Cupid <> s: cupids
+cupids <> b: cupid, f: s
+cupola <> s: cupolas
+cupolas <> b: cupola, f: s
+cuppa <> s: cuppas
+cuppas <> b: cuppa, f: s
+cupped <> b: cup, f: pd, d: cupped
+cupping <> b: cup, f: i, i: cupping
+cups <> b: cup, f: s3
+cur <> s: curs
+curacies <> b: curacy, f: s
+curacy <> s: curacies
+curate <> d: curated, s: curates, p: curated, i: curating
+curated <> b: curate, f: dp
+curates <> b: curate, f: s
+curating <> b: curate, f: i
+curator <> s: curators
+curators <> b: curator, f: s
+curatorship <> s: curatorships
+curatorships <> b: curatorship, f: s
+curb <> i: curbing, '3': curbs, d: curbed, s: curbs, p: curbed
+curbed <> b: curb, f: dp, p: curbed
+curbing <> b: curb, f: i, i: curbing
+curbs <> b: curb, f: 3s
+curd <> s: curds, p: curded
+curded <> b: curd, f: p
+curdle <> i: curdling, '3': curdles, p: curdled, d: curdled
+curdled <> b: curdle, f: pd, d: curdled, p: curdled
+curdles <> b: curdle, f: '3'
+curdling <> b: curdle, f: i
+curds <> b: curd, f: s
+cure <> d: cured, s: cures, i: curing, p: cured, '3': cures
+cure-all <> s: cure-alls
+cure-alls <> b: cure-all, f: s
+cured <> b: cure, f: dp, p: cured, d: cured
+curer <> s: curers
+curers <> b: curer, f: s
+cures <> b: cure, f: s3
+curfew <> s: curfews
+curfews <> b: curfew, f: s
+curia <> s: curias
+curias <> b: curia, f: s
+curie <> s: curies
+curies <> b: curie, f: s
+curing <> b: cure, f: i, i: curing
+curio <> s: curios
+curios <> b: curio, f: s
+curiosities <> b: curiosity, f: s
+curiosity <> s: curiosities
+curious <> r: curiouser
+curiouser <> b: curious, f: r
+curl <> s: curls, p: curled, i: curling, d: curled, '3': curls
+curled <> b: curl, f: pd, d: curled, p: curled
+curler <> s: curlers
+curlers <> b: curler, f: s
+curlew <> s: curlews
+curlews <> b: curlew, f: s
+curlicue <> s: curlicues
+curlicues <> b: curlicue, f: s
+curlier <> b: curly, f: r
+curlies <> b: curly, f: s3
+curliest <> b: curly, f: t
+curling <> b: curl, f: i, i: curling
+curls <> b: curl, f: s3
+curly <> s: curlies, r: curlier, '3': curlies, t: curliest
+curmudgeon <> s: curmudgeons
+curmudgeons <> b: curmudgeon, f: s
+curragh <> s: curraghs
+curraghs <> b: curragh, f: s
+Curran <> s: currans
+currant <> s: currants
+currants <> b: currant, f: s
+currencies <> b: currency, f: s
+currency <> s: currencies
+current <> s: currents
+currents <> b: current, f: s
+curricula <> b: curriculum, f: s
+curriculum <> s: curricula
+curried <> b: curry, f: pd, p: curried
+currier <> s: curriers
+curriers <> b: currier, f: s
+curry <> s: curries, i: currying, p: curried, d: curried, '3': curries
+curs <> b: cur, f: s
+curse <> i: cursing, p: cursed, s: curses, d: cursed, '3': curses
+cursed <> b: curse, f: pd, p: cursed, d: cursed
+curses <> b: curse, f: s3
+cursing <> b: curse, f: i, i: cursing, s: cursings
+cursor <> s: cursors
+cursors <> b: cursor, f: s
+curst <> f: pd, b: curse
+curtail <> d: curtailed, i: curtailing, p: curtailed, '3': curtails
+curtailed <> b: curtail, f: dp, p: curtailed, d: curtailed
+curtailing <> b: curtail, f: i
+curtailment <> s: curtailments
+curtailments <> b: curtailment, f: s
+curtails <> b: curtail, f: '3'
+curtain <> s: curtains, d: curtained, p: curtained, i: curtaining, '3': curtains
+curtain-raiser <> s: curtain-raisers
+curtain-raisers <> b: curtain-raiser, f: s
+curtained <> b: curtain, f: dp, p: curtained
+curtaining <> i: curtaining, b: curtaining, f: i
+curtains <> f: s3, b: curtain
+curtsey <> p: curtseyed, s: curtseys, i: curtseying
+curtseyed <> b: curtsey, f: p
+curtseying <> b: curtsey, f: i
+curtseys <> b: curtsey, f: s
+curtsied <> b: curtsy, f: pd
+curtsies <> f: s3, b: curtsy
+curtsy <> p: curtsied, s: curtsies, d: curtsied, i: curtsying, '3': curtsies
+curtsying <> b: curtsy, f: i
+curvature <> s: curvatures
+curvatures <> b: curvature, f: s
+curve <> s: curves, i: curving, p: curved, d: curved, '3': curves
+curved <> b: curve, f: pd, d: curved, p: curved
+curves <> b: curve, f: s3
+curvet <> i: curvetting, p: curvetted, '3': curvets, d: curvetted
+curvets <> f: '3', b: curvet
+curvetted <> f: pd, b: curvet
+curvetting <> b: curvet, f: i
+curvier <> b: curvy, f: r
+curving <> b: curve, f: i, i: curving
+curvy <> r: curvier
+cush <> i: cushing
+cushiest <> b: cushy, f: t
+cushing <> b: cush, f: i
+cushion <> s: cushions, d: cushioned, p: cushioned, i: cushioning, '3': cushions
+cushioned <> b: cushion, f: dp, p: cushioned
+cushioning <> b: cushion, f: i, i: cushioning
+cushions <> b: cushion, f: s3
+cushy <> t: cushiest
+cusp <> s: cusps, p: cusped, '3': cusps, i: cusping
+cusped <> b: cusp, f: p
+cusping <> b: cusp, f: i
+cusps <> b: cusp, f: s3
+cuss <> i: cussing, d: cussed, p: cussed, s: cusses, '3': cusses
+cussed <> b: cuss, f: dp, d: cussed
+cusses <> b: cuss, f: s
+cussing <> b: cuss, f: i, s: cussings
+custard <> s: custards
+custards <> b: custard, f: s
+custodian <> s: custodians
+custodians <> b: custodian, f: s
+custodianship <> s: custodianships
+custodianships <> b: custodianship, f: s
+custom <> s: customs
+customer <> s: customers
+customers <> b: customer, f: s
+customise <> d: customised, i: customising, p: customised, '3': customises
+customised <> b: customise, f: dp, d: customised, p: customised
+customises <> b: customise, f: '3'
+customising <> b: customise, f: i
+customize <> d: customized, i: customizing, p: customized, '3': customizes
+customized <> b: customize, f: dp, p: customized
+customizes <> f: '3', b: customize
+customizing <> b: customize, f: i
+customs <> b: custom, f: s
+cut <> d: cut, b: cut, f: dp, s: cuts, i: cutting, p: cut, '3': cuts
+cut-in <> s: cut-ins
+cut-ins <> b: cut-in, f: s
+cut-off <> s: cut-offs
+cut-offs <> b: cut-off, f: s
+cut-out <> s: cut-outs
+cut-outs <> b: cut-out, f: s
+cut-throat <> s: cut-throats
+cut-throats <> b: cut-throat, f: s
+cut-up <> s: cut-ups
+cut-ups <> b: cut-up, f: s
+cutaway <> s: cutaways
+cutaways <> b: cutaway, f: s
+cutback <> s: cutbacks
+cutbacks <> b: cutback, f: s
+cute <> t: cutest, r: cuter
+cuteness <> s: cutenesses
+cutenesses <> b: cuteness, f: s
+cuter <> b: cute, f: r
+cutest <> b: cute, f: t
+cuticle <> s: cuticles
+cuticles <> b: cuticle, f: s
+cutlass <> s: cutlasses
+cutlasses <> b: cutlass, f: s
+cutler <> s: cutlers
+cutlers <> b: cutler, f: s
+cutlet <> s: cutlets
+cutlets <> b: cutlet, f: s
+cutoff <> s: cutoffs
+cutoffs <> b: cutoff, f: s
+cutout <> s: cutouts
+cutouts <> b: cutout, f: s
+cutpurse <> s: cutpurses
+cutpurses <> b: cutpurse, f: s
+cuts <> b: cut, f: s3
+cutter <> s: cutters
+cutters <> b: cutter, f: s
+cutthroat <> s: cutthroats
+cutthroats <> b: cutthroat, f: s
+cutting <> b: cut, f: i, s: cuttings, i: cutting
+cutwater <> b: cutwate, f: r
+cv <> s: cvs
+cvs <> b: cv, f: s
+cwt <> s: cwts
+cwts <> b: cwt, f: s
+cy <> s: cys
+cyanide <> i: cyaniding
+cyaniding <> b: cyanide, f: i
+cybernate <> i: cybernating, p: cybernated, '3': cybernates, d: cybernated
+cybernated <> f: pd, b: cybernate
+cybernates <> f: '3', b: cybernate
+cybernating <> f: i, b: cybernate
+cybernetic <> s: cybernetics
+cybernetics <> b: cybernetic, f: s
+cyborg <> s: cyborgs
+cyborgs <> b: cyborg, f: s
+cycad <> s: cycads
+cycads <> b: cycad, f: s
+Cyclades <> b: cyclade, f: s
+cyclamate <> s: cyclamates
+cyclamates <> b: cyclamate, f: s
+cyclamen <> s: cyclamens
+cyclamens <> b: cyclamen, f: s
+cyclase <> s: cyclases
+cyclases <> b: cyclase, f: s
+cycle <> s: cycles, i: cycling, p: cycled, d: cycled, '3': cycles
+cycled <> b: cycle, f: pd
+cycles <> b: cycle, f: s3
+cycleway <> s: cycleways
+cycleways <> b: cycleway, f: s
+cyclical <> s: cyclicals
+cyclicals <> b: cyclical, f: s
+cyclin <> s: cyclins
+cycling <> b: cycle, f: i, i: cycling
+cyclins <> b: cyclin, f: s
+cyclist <> s: cyclists
+cyclists <> b: cyclist, f: s
+cycloalkane <> s: cycloalkanes
+cycloalkanes <> b: cycloalkane, f: s
+cycloid <> s: cycloids
+cycloids <> b: cycloid, f: s
+cyclone <> s: cyclones
+cyclones <> b: cyclone, f: s
+cyclop <> s: cyclops, '3': cyclops
+cyclops <> b: cyclop, f: s3
+cyclostome <> s: cyclostomes
+cyclostomes <> b: cyclostome, f: s
+cyclostyle <> i: cyclostyling, p: cyclostyled, '3': cyclostyles, d: cyclostyled
+cyclostyled <> p: cyclostyled, b: cyclostyled, f: p
+cyclostyles <> f: '3', b: cyclostyle
+cyclostyling <> f: i, b: cyclostyle
+cygnet <> s: cygnets
+cygnets <> b: cygnet, f: s
+cylinder <> s: cylinders
+cylinders <> b: cylinder, f: s
+cymbal <> s: cymbals
+cymbals <> b: cymbal, f: s
+cynic <> s: cynics
+cynics <> b: cynic, f: s
+cynodont <> s: cynodonts
+cynodonts <> b: cynodont, f: s
+cypher <> s: cyphers, i: cyphering, p: cyphered, '3': cyphers, d: cyphered
+cyphered <> f: pd, b: cypher
+cyphering <> f: i, b: cypher
+cyphers <> f: s3, b: cypher
+cypress <> s: cypresses
+cypresses <> b: cypress, f: s
+cyprinid <> s: cyprinids
+cyprinids <> b: cyprinid, f: s
+Cypriot <> s: cypriots
+cyst <> s: cysts, '3': cysts
+cystectomies <> b: cystectomy, f: s
+cystectomy <> s: cystectomies
+cysteine <> s: cysteines
+cysteines <> b: cysteine, f: s
+cystoscopied <> b: cystoscopy, f: d
+cystoscopies <> b: cystoscopy, f: s
+cystoscopy <> s: cystoscopies, d: cystoscopied
+cysts <> b: cyst, f: s3
+cytocentrifuge <> d: cytocentrifuged, p: cytocentrifuged
+cytocentrifuged <> b: cytocentrifuge, f: dp
+cytochrome <> s: cytochromes
+cytochromes <> b: cytochrome, f: s
+cytogenetic <> s: cytogenetics
+cytogeneticist <> s: cytogeneticists
+cytogeneticists <> b: cytogeneticist, f: s
+cytogenetics <> b: cytogenetic, f: s
+cytokine <> s: cytokines, '3': cytokines
+cytokines <> b: cytokine, f: s3
+cytokinin <> s: cytokinins
+cytokinins <> b: cytokinin, f: s
+cytoskeleton <> s: cytoskeletons
+cytoskeletons <> b: cytoskeleton, f: s
+cytotoxicities <> b: cytotoxicity, f: s
+cytotoxicity <> s: cytotoxicities
+czar <> s: czars
+czars <> b: czar, f: s
+Czech <> s: czechs, p: czeched
+Czechoslovak <> s: czechoslovaks
+Czechoslovakian <> s: czechoslovakians
+czechs <> b: czech, f: s

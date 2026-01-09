@@ -1,0 +1,4623 @@
+RA <> s: ras
+rabbet <> i: rabbeting, p: rabbeted, '3': rabbets, d: rabbeted, s: rabbets
+rabbi <> s: rabbis
+rabbinate <> s: rabbinates
+rabbinates <> b: rabbinate, f: s
+rabbis <> b: rabbi, f: s
+rabbit <> s: rabbits, i: rabbiting, p: rabbited, '3': rabbits, d: rabbited
+rabbited <> f: pd, b: rabbit
+rabbiting <> b: rabbit, f: i, i: rabbiting
+rabbits <> f: s3, b: rabbit
+rabble-rouser <> s: rabble-rousers
+rabble-rousers <> b: rabble-rouser, f: s
+raccoon <> s: raccoons
+raccoons <> b: raccoon, f: s
+race <> s: races, i: racing, p: raced, d: raced, '3': races
+racecard <> s: racecards
+racecards <> b: racecard, f: s
+racecourse <> s: racecourses
+racecourses <> b: racecourse, f: s
+raced <> b: race, f: pd
+racegoer <> s: racegoers
+racegoers <> b: racegoer, f: s
+racehorse <> s: racehorses
+racehorses <> b: racehorse, f: s
+raceme <> s: racemes
+racemes <> b: raceme, f: s
+racer <> s: racers
+racers <> b: racer, f: s
+races <> b: race, f: s3
+racetrack <> s: racetracks
+racetracks <> b: racetrack, f: s
+racialist <> s: racialists
+racialists <> b: racialist, f: s
+racialize <> '3': racializes, d: racialized, i: racializing, p: racialized
+racialized <> b: racialize, f: dp
+racializes <> b: racialize, f: '3'
+racializing <> b: racialize, f: i
+racier <> b: racy, f: r
+raciest <> b: racy, f: t
+racine <> '3': racines
+racines <> b: racine, f: '3'
+racing <> b: race, f: i, i: racing
+racism <> s: racisms
+racisms <> b: racism, f: s
+racist <> s: racists
+racists <> b: racist, f: s
+rack <> s: racks, d: racked, p: racked, i: racking, '3': racks
+rack-mount <> s: rack-mounts
+rack-mounts <> b: rack-mount, f: s
+racked <> b: rack, f: dp, d: racked
+racket <> s: rackets
+racketeer <> s: racketeers, i: racketeering, p: racketeered, '3': racketeers, d: racketeered
+racketeered <> f: pd, b: racketeer
+racketeering <> f: i, b: racketeer
+racketeers <> f: s3, b: racketeer
+rackets <> b: racket, f: s
+Rackham <> s: rackhams
+racking <> b: rack, f: i, i: racking
+racks <> b: rack, f: s3
+raconteur <> s: raconteurs
+raconteurs <> b: raconteur, f: s
+racoon <> s: racoons
+racoons <> b: racoon, f: s
+racquet <> s: racquets
+racquets <> b: racquet, f: s
+racy <> r: racier, t: raciest
+RAD <> s: rads
+radar <> s: radars
+radars <> b: radar, f: s
+raddle <> d: raddled, p: raddled, i: raddling, '3': raddles
+raddled <> b: raddle, f: dp, p: raddled
+raddles <> f: '3', b: raddle
+raddling <> f: i, b: raddle
+radial <> s: radials
+radials <> b: radial, f: s
+radian <> s: radians
+radiance <> s: radiances
+radiances <> b: radiance, f: s
+radians <> b: radian, f: s
+radiate <> i: radiating, p: radiated, '3': radiates, d: radiated
+radiated <> b: radiate, f: pd, p: radiated, d: radiated
+radiates <> b: radiate, f: '3'
+radiating <> b: radiate, f: i, i: radiating
+radiation <> s: radiations
+radiations <> b: radiation, f: s
+radiator <> s: radiators
+radiators <> b: radiator, f: s
+radical <> s: radicals
+radicalize <> d: radicalized, p: radicalized, i: radicalizing, '3': radicalizes
+radicalized <> b: radicalize, f: dp
+radicalizes <> b: radicalize, f: '3'
+radicalizing <> b: radicalize, f: i
+radicals <> b: radical, f: s
+radicle <> s: radicles
+radicles <> b: radicle, f: s
+radii <> b: radius, f: s
+radio <> s: radios, i: radioing, p: radioed, '3': radios, d: radioed
+radioactivities <> b: radioactivity, f: s
+radioactivity <> s: radioactivities
+radioed <> b: radioe, f: pd
+radiogram <> s: radiograms
+radiograms <> b: radiogram, f: s
+radiograph <> s: radiographs, d: radiographed, i: radiographing
+radiographed <> b: radiograph, f: d
+radiographer <> s: radiographers
+radiographers <> b: radiographer, f: s
+radiographing <> b: radiograph, f: i
+radiographs <> b: radiograph, f: s
+radioimmunoassay <> s: radioimmunoassays
+radioimmunoassays <> b: radioimmunoassay, f: s
+radioing <> f: i, b: radio
+radioisotope <> s: radioisotopes
+radioisotopes <> b: radioisotope, f: s
+radiolarian <> s: radiolarians
+radiolarians <> b: radiolarian, f: s
+radiologist <> s: radiologists
+radiologists <> b: radiologist, f: s
+radiomete <> r: radiometer
+radiometer <> s: radiometers, b: radiomete, f: r
+radiometers <> b: radiometer, f: s
+radiometric <> s: radiometrics
+radiometrics <> b: radiometric, f: s
+radionuclide <> s: radionuclides
+radionuclides <> b: radionuclide, f: s
+radios <> f: s3, b: radio
+radiotherapist <> s: radiotherapists
+radiotherapists <> b: radiotherapist, f: s
+radish <> s: radishes
+radishes <> b: radish, f: s
+radius <> s: radii
+Radley <> s: radleys
+radome <> s: radomes
+radomes <> b: radome, f: s
+raffle <> s: raffles, d: raffled, i: raffling, p: raffled, '3': raffles
+raffled <> b: raffle, f: dp
+raffles <> f: s3, b: raffle
+raffling <> b: raffle, f: i
+raft <> s: rafts, d: rafted, i: rafting, p: rafted, '3': rafts
+rafted <> b: raft, f: dp
+rafter <> s: rafters, p: raftered, i: raftering, '3': rafters, d: raftered
+raftered <> b: rafter, f: p
+rafters <> b: rafter, f: s
+rafting <> b: raft, f: i
+rafts <> f: s3, b: raft
+raftsman <> s: raftsmen
+raftsmen <> b: raftsman, f: s
+rag <> s: rags, d: ragged, i: ragging, p: ragged, '3': rags
+ragamuffin <> s: ragamuffins
+ragamuffins <> b: ragamuffin, f: s
+ragbag <> s: ragbags
+ragbags <> b: ragbag, f: s
+rage <> p: raged, i: raging, d: raged, s: rages, '3': rages
+raged <> b: rage, f: pd
+rages <> b: rage, f: s3
+ragga <> s: raggas
+raggas <> b: ragga, f: s
+ragged <> b: rag, f: dp, d: ragged, p: ragged
+raggies <> b: raggy, f: s
+ragging <> b: rag, f: i
+raggy <> s: raggies
+raging <> b: rage, f: i, i: raging
+raglan <> s: raglans
+raglans <> b: raglan, f: s
+ragout <> s: ragouts
+ragouts <> b: ragout, f: s
+ragpicker <> s: ragpickers
+ragpickers <> b: ragpicker, f: s
+rags <> f: s3, b: rag
+ragworm <> s: ragworms
+ragworms <> b: ragworm, f: s
+RAI <> s: rai, b: rai, f: s
+raid <> s: raids, p: raided, d: raided, i: raiding, '3': raids
+raided <> b: raid, f: pd
+raider <> s: raiders
+raiders <> b: raider, f: s
+raiding <> b: raid, f: i, i: raiding
+raids <> b: raid, f: s3
+rail <> s: rails, p: railed, d: railed, i: railing, '3': rails
+railcar <> s: railcars
+railcard <> s: railcards
+railcards <> b: railcard, f: s
+railcars <> b: railcar, f: s
+railed <> b: rail, f: pd
+railer <> s: railers
+railers <> b: railer, f: s
+railhead <> s: railheads
+railheads <> b: railhead, f: s
+railing <> s: railings, i: railing, b: railing, f: i
+railman <> s: railmen
+railmen <> b: railman, f: s
+railroad <> s: railroads, d: railroaded, i: railroading, p: railroaded, '3': railroads
+railroaded <> b: railroad, f: dp
+railroading <> b: railroad, f: i
+railroads <> b: railroad, f: s
+rails <> f: s3, b: rail
+railway <> s: railways
+railwayman <> s: railwaymen
+railwaymen <> b: railwayman, f: s
+railways <> b: railway, f: s
+raiment <> s: raiments
+rain <> i: raining, '3': rains, s: rains, p: rained, d: rained
+rainbow <> s: rainbows
+rainbows <> b: rainbow, f: s
+raincoat <> s: raincoats, p: raincoated
+raincoated <> b: raincoat, f: p, p: raincoated
+raincoats <> b: raincoat, f: s
+raindrop <> s: raindrops
+raindrops <> b: raindrop, f: s
+rained <> b: rain, f: pd
+rainfall <> s: rainfalls
+rainfalls <> b: rainfall, f: s
+rainforest <> s: rainforests
+rainforests <> b: rainforest, f: s
+rainiest <> b: rainy, f: t
+raining <> b: rain, f: i, i: raining
+rainmaking <> i: rainmaking, b: rainmaking, f: i
+rains <> b: rain, f: 3s
+rainstorm <> s: rainstorms, '3': rainstorms
+rainstorms <> b: rainstorm, f: s3
+rainy <> t: rainiest
+raise <> d: raised, p: raised, i: raising, '3': raises
+raised <> b: raise, f: dp, p: raised, d: raised
+raiser <> s: raisers
+raisers <> b: raiser, f: s
+raises <> b: raise, f: '3'
+raisin <> s: raisins
+raising <> b: raise, f: i, i: raising, s: raisings
+raisins <> b: raisin, f: s
+raja <> s: rajas
+rajah <> s: rajahs
+rajahs <> b: rajah, f: s
+rajas <> b: raja, f: s
+Rajput <> s: rajputs
+rake <> p: raked, i: raking, d: raked, s: rakes, '3': rakes
+rake-off <> s: rake-offs
+rake-offs <> b: rake-off, f: s
+raked <> b: rake, f: pd, p: raked, d: raked
+raker <> s: rakers
+rakers <> b: raker, f: s
+rakes <> b: rake, f: s3
+raki <> s: raki, b: raki, f: s
+raking <> b: rake, f: i, i: raking, s: rakings
+rallentando <> s: rallentandos
+rallentandos <> b: rallentando, f: s
+rallied <> b: rally, f: pd
+rallies <> b: rally, f: s3
+rally <> s: rallies, p: rallied, i: rallying, d: rallied, '3': rallies
+rallying <> b: rally, f: i, i: rallying
+ram <> p: rammed, s: rams, d: rammed, i: ramming, '3': rams
+ram-raider <> s: ram-raiders
+ram-raiders <> b: ram-raider, f: s
+raman <> s: ramen
+ramble <> s: rambles, '3': rambles, p: rambled, i: rambling, d: rambled
+rambled <> b: ramble, f: pd
+rambler <> s: ramblers
+ramblers <> b: rambler, f: s
+rambles <> b: ramble, f: s3
+rambling <> s: ramblings, i: rambling, b: rambling, f: i
+rambutan <> s: rambutans
+rambutans <> b: rambutan, f: s
+ramekin <> s: ramekins
+ramekins <> b: ramekin, f: s
+ramen <> b: raman, f: s
+ramification <> s: ramifications
+ramifications <> b: ramification, f: s
+ramified <> b: ramify, f: pd, p: ramified
+ramifies <> f: '3', b: ramify
+ramify <> i: ramifying, p: ramified, d: ramified, '3': ramifies
+ramifying <> b: ramify, f: i
+ramin <> s: ramins
+ramins <> b: ramin, f: s
+rammed <> b: ram, f: pd
+rammer <> s: rammers
+rammers <> b: rammer, f: s
+ramming <> b: ram, f: i
+ramp <> s: ramps, i: ramping, d: ramped, p: ramped, '3': ramps
+rampage <> i: rampaging, p: rampaged, s: rampages, '3': rampages, d: rampaged
+rampaged <> b: rampage, f: pd
+rampages <> b: rampage, f: s3
+rampaging <> b: rampage, f: i, i: rampaging
+rampart <> s: ramparts, '3': ramparts
+ramparts <> b: rampart, f: s3
+ramped <> b: ramp, f: dp, p: ramped
+ramping <> b: ramp, f: i
+ramps <> f: s3, b: ramp
+ramrod <> s: ramrods, d: ramrodded, p: ramrodded
+ramrodded <> b: ramrod, f: dp
+ramrods <> b: ramrod, f: s
+rams <> b: ram, f: s3
+ramshackle <> d: ramshackled
+ramshackled <> b: ramshackle, f: d
+ramson <> s: ramsons
+ramsons <> b: ramson, f: s
+ran <> b: run, f: p, s: rans
+ranch <> s: ranches, i: ranching, p: ranched, '3': ranches, d: ranched
+ranched <> f: pd, b: ranch, p: ranched
+rancher <> s: ranchers
+ranchers <> b: rancher, f: s
+ranches <> f: s3, b: ranch
+ranching <> b: ranch, f: i, i: ranching
+rand <> s: rands
+randiest <> b: randy, f: t
+randomise <> d: randomised
+randomised <> d: randomised, b: randomised, f: d
+randomize <> d: randomized, i: randomizing, p: randomized, '3': randomizes
+randomized <> b: randomize, f: dp, p: randomized
+randomizes <> b: randomize, f: '3'
+randomizing <> b: randomize, f: i, i: randomizing
+rands <> b: rand, f: s
+randy <> t: randiest
+rang <> b: ring, f: pd
+range <> i: ranging, s: ranges, p: ranged, '3': ranges, d: ranged
+ranged <> b: range, f: pd
+rangeland <> s: rangelands
+rangelands <> b: rangeland, f: s
+ranger <> s: rangers
+rangers <> s: rangers, b: rangers, f: s
+ranges <> b: range, f: s3
+rangier <> b: rangy, f: r
+ranging <> b: range, f: i, i: ranging
+rangy <> r: rangier
+rank <> s: ranks, d: ranked, '3': ranks, i: ranking, p: ranked
+ranked <> b: rank, f: dp, d: ranked, p: ranked
+ranker <> s: rankers
+rankers <> b: ranker, f: s
+ranking <> b: rank, f: i, s: rankings, i: ranking
+rankle <> p: rankled, '3': rankles, d: rankled, s: rankles, i: rankling
+rankled <> b: rankle, f: pd
+rankles <> b: rankle, f: 3s
+rankling <> f: i, b: rankle
+ranks <> b: rank, f: s3
+ransack <> p: ransacked, d: ransacked, i: ransacking, '3': ransacks
+ransacked <> b: ransack, f: pd, d: ransacked, p: ransacked
+ransacking <> b: ransack, f: i, i: ransacking
+ransacks <> b: ransack, f: '3'
+ransom <> s: ransoms, i: ransoming, p: ransomed, '3': ransoms, d: ransomed
+ransome <> d: ransomed, i: ransoming, p: ransomed
+ransomed <> b: ransome, f: dp
+ransoming <> b: ransome, f: i, i: ransoming
+ransoms <> f: s3, b: ransom
+rant <> i: ranting, p: ranted, s: rants, d: ranted, '3': rants
+ranted <> b: rant, f: pd
+ranter <> s: ranters
+ranters <> b: ranter, f: s
+ranting <> b: rant, f: i, s: rantings, i: ranting
+rants <> b: rant, f: s3
+rap <> p: rapped, '3': raps, d: rapped, i: rapping, s: raps
+rape <> d: raped, i: raping, s: rapes, p: raped, '3': rapes
+raped <> b: rape, f: dp, d: raped, p: raped
+rapes <> b: rape, f: s3
+raphe <> s: raphes
+raphes <> b: raphe, f: s
+rapid <> s: rapids
+rapids <> b: rapid, f: s
+rapier <> s: rapiers, p: rapiered
+rapiered <> b: rapier, f: p
+rapiers <> b: rapier, f: s
+raping <> b: rape, f: i, i: raping
+rapist <> s: rapists
+rapists <> b: rapist, f: s
+rapped <> b: rap, f: pd, p: rapped
+rappel <> i: rappelling, p: rappelled, '3': rappels, d: rappelled
+rappelled <> f: pd, b: rappel
+rappelling <> b: rappel, f: i
+rappels <> f: '3', b: rappel
+rapper <> s: rappers
+rappers <> b: rapper, f: s
+rapping <> b: rap, f: i, i: rapping
+rapport <> s: rapports
+rapporteur <> s: rapporteurs
+rapporteurs <> b: rapporteur, f: s
+rapports <> b: rapport, f: s
+raps <> b: rap, f: 3s
+raptor <> s: raptors
+raptors <> b: raptor, f: s
+rapture <> s: raptures, d: raptured
+raptured <> b: rapture, f: d
+raptures <> b: rapture, f: s
+rare <> r: rarer, t: rarest, i: raring
+rarebit <> s: rarebits
+rarebits <> b: rarebit, f: s
+rarefaction <> s: rarefactions
+rarefactions <> b: rarefaction, f: s
+rarefied <> p: rarefied, b: rarefied, f: p
+rarefy <> p: rarefied, d: rarefied, i: rarefying, '3': rarefies
+rarefying <> b: rarefy, f: i
+rarer <> b: rare, f: r
+rarest <> b: rare, f: t
+rarified <> f: pd, b: rarify
+rarify <> i: rarifying, p: rarified, '3': rarifies, d: rarified
+raring <> b: rare, f: i
+rarities <> b: rarity, f: s
+rarity <> s: rarities
+Rasbora <> s: rasboras
+rascal <> s: rascals
+rascals <> b: rascal, f: s
+rase <> s: rases, i: rasing, p: rased, '3': rases, d: rased
+rased <> b: rase, f: p
+rases <> b: rase, f: s
+rash <> s: rashes
+rasher <> s: rashers
+rashers <> b: rasher, f: s
+rashes <> b: rash, f: s
+rasing <> b: rase, f: i
+rasp <> p: rasped, i: rasping, d: rasped, s: rasps, '3': rasps
+raspberries <> b: raspberry, f: s
+raspberry <> s: raspberries, i: raspberrying
+raspberrying <> b: raspberry, f: i
+rasped <> b: rasp, f: pd
+rasper <> s: raspers
+raspers <> b: rasper, f: s
+rasping <> b: rasp, f: i, i: rasping
+rasps <> b: rasp, f: s3
+Rasputin <> s: rasputins
+rasta <> s: rastas
+Rastafari <> s: rastafari, b: rastafari, f: s
+Rastafarian <> s: rastafarians
+raster <> s: rasters, d: rastered
+rastered <> b: raster, f: d
+rasterize <> d: rasterized, p: rasterized
+rasterized <> b: rasterize, f: dp
+rasters <> b: raster, f: s
+rat <> s: rats, i: ratting, d: ratted, p: ratted, '3': rats
+rat-tail <> s: rat-tails
+rat-tails <> b: rat-tail, f: s
+ratafia <> s: ratafias
+ratafias <> b: ratafia, f: s
+ratbag <> s: ratbags
+ratbags <> b: ratbag, f: s
+ratchet <> s: ratchets, '3': ratchets, i: ratcheting, p: ratcheted, d: ratcheted
+ratcheted <> b: ratchete, f: pd
+ratcheting <> b: ratchete, f: i
+ratchets <> b: ratchet, f: s3
+rate <> s: rates, d: rated, p: rated, i: rating, '3': rates
+rated <> b: rate, f: dp, p: rated, d: rated
+ratepayer <> s: ratepayers
+ratepayers <> b: ratepayer, f: s
+rater <> s: raters
+raters <> b: rater, f: s
+rates <> b: rate, f: s3
+rath <> s: raths
+Rathbone <> s: rathbones
+raths <> b: rath, f: s
+ratification <> s: ratifications
+ratifications <> b: ratification, f: s
+ratified <> b: ratify, f: dp
+ratifies <> b: ratify, f: '3'
+ratify <> d: ratified, p: ratified, i: ratifying, '3': ratifies
+ratifying <> b: ratify, f: i, i: ratifying
+rating <> b: rate, f: i, s: ratings, i: rating
+ratings <> b: rating, f: s
+ratio <> s: ratios
+ratiocinate <> i: ratiocinating, p: ratiocinated, '3': ratiocinates, d: ratiocinated
+ratiocinated <> f: pd, b: ratiocinate
+ratiocinates <> f: '3', b: ratiocinate
+ratiocinating <> f: i, b: ratiocinate
+ration <> s: rations, d: rationed, i: rationing, p: rationed, '3': rations
+rationale <> s: rationales
+rationales <> b: rationale, f: s
+rationalisation <> s: rationalisations
+rationalisations <> b: rationalisation, f: s
+rationalise <> d: rationalised, i: rationalising, p: rationalised, '3': rationalises
+rationalised <> b: rationalise, f: dp, d: rationalised
+rationalises <> b: rationalise, f: '3'
+rationalising <> b: rationalise, f: i, i: rationalising
+rationalist <> s: rationalists
+rationalists <> b: rationalist, f: s
+rationalities <> b: rationality, f: s
+rationality <> s: rationalities
+rationalization <> s: rationalizations
+rationalizations <> b: rationalization, f: s
+rationalize <> d: rationalized, i: rationalizing, p: rationalized, '3': rationalizes
+rationalized <> b: rationalize, f: dp, p: rationalized, d: rationalized
+rationalizer <> s: rationalizers
+rationalizers <> b: rationalizer, f: s
+rationalizes <> b: rationalize, f: '3'
+rationalizing <> b: rationalize, f: i, i: rationalizing
+rationed <> b: ration, f: dp, d: rationed, p: rationed
+rationing <> b: ration, f: i, i: rationing
+rations <> b: ration, f: s3
+ratios <> b: ratio, f: s
+ratline <> s: ratlines
+ratlines <> b: ratline, f: s
+Ratner <> i: ratnering
+rats <> f: s3, b: rat
+rattan <> s: rattans
+rattans <> b: rattan, f: s
+ratted <> b: rat, f: dp, d: ratted
+ratter <> s: ratters
+ratters <> b: ratter, f: s
+ratting <> b: rat, f: i
+rattle <> i: rattling, p: rattled, d: rattled, '3': rattles, s: rattles
+rattled <> b: rattle, f: pd, d: rattled, p: rattled
+rattler <> s: rattlers
+rattlers <> b: rattler, f: s
+rattles <> b: rattle, f: 3s
+rattlesnake <> s: rattlesnakes, '3': rattlesnakes
+rattlesnakes <> b: rattlesnake, f: s3
+rattling <> b: rattle, f: i, i: rattling, s: rattlings
+raunch <> i: raunching
+raunchier <> b: raunchy, f: r
+raunchiest <> b: raunchy, f: t
+raunching <> b: raunch, f: i
+raunchy <> t: raunchiest, r: raunchier
+ravage <> s: ravages, p: ravaged, d: ravaged, i: ravaging, '3': ravages
+ravaged <> b: ravage, f: pd, p: ravaged, d: ravaged
+ravager <> s: ravagers
+ravagers <> b: ravager, f: s
+ravages <> b: ravage, f: s3
+ravaging <> b: ravage, f: i, i: ravaging
+rave <> i: raving, s: raves, p: raved, '3': raves, d: raved
+raved <> b: rave, f: pd
+ravel <> p: ravelled, '3': ravels, d: ravelled, i: ravelling
+ravelled <> b: ravel, f: pd, p: ravelled
+ravelling <> b: ravel, f: i
+ravels <> b: ravel, f: '3'
+raven <> s: ravens, i: ravening, p: ravened, '3': ravens, d: ravened
+ravening <> b: raven, f: i, i: ravening
+ravens <> b: raven, f: s
+raver <> s: ravers
+ravers <> b: raver, f: s
+raves <> b: rave, f: s3
+Ravi <> s: ravi, b: ravi, f: s
+ravine <> s: ravines
+ravines <> b: ravine, f: s
+raving <> b: rave, f: i, s: ravings, i: raving
+ravings <> b: raving, f: s
+ravioli <> s: ravioli, b: ravioli, f: s
+ravish <> i: ravishing, d: ravished, p: ravished, '3': ravishes
+ravished <> b: ravish, f: dp, d: ravished
+ravisher <> s: ravishers
+ravishers <> b: ravisher, f: s
+ravishes <> b: ravish, f: '3'
+ravishing <> i: ravishing, b: ravishing, f: i
+raw <> t: rawest
+raw-boned <> p: raw-boned, b: raw-boned, f: p
+rawest <> b: raw, f: t
+rawling <> s: rawlings
+rawlings <> b: rawling, f: s
+Rawls <> b: rawl, f: s3
+ray <> s: rays, i: raying, p: rayed, '3': rays, d: rayed
+rayed <> p: rayed, b: rayed, f: p
+raying <> f: i, b: ray
+rayon <> s: rayons
+rayons <> b: rayon, f: s
+rays <> f: s3, b: ray
+raze <> d: razed, p: razed, i: razing, '3': razes
+razed <> b: raze, f: dp
+razes <> f: '3', b: raze
+razing <> b: raze, f: i, i: razing
+razor <> s: razors
+razorbill <> s: razorbills, '3': razorbills
+razorbills <> b: razorbill, f: s3
+razored <> b: razore, f: dp
+razors <> b: razor, f: s
+razz <> i: razzing, p: razzed, '3': razzes, d: razzed
+razzed <> b: raz, f: p
+razzes <> f: '3', b: razz
+razzing <> f: i, b: razz
+RBI <> s: rbi, b: rbi, f: s
+rca <> s: rcas
+rcas <> b: rca, f: s
+RCC <> s: rccs
+RD <> s: rds
+rds <> b: rd, f: s
+re <> s: res
+re-advertise <> d: re-advertised, p: re-advertised
+re-advertised <> b: re-advertise, f: dp
+re-cover <> d: re-covered, i: re-covering, p: re-covered
+re-covered <> b: re-cover, f: dp
+re-covering <> b: re-cover, f: i
+re-dress <> i: re-dressing, p: re-dressed
+re-dressed <> b: re-dress, f: p
+re-dressing <> b: re-dress, f: i
+re-echo <> p: re-echoed, d: re-echoed, i: re-echoing
+re-echoed <> b: re-echo, f: pd
+re-echoing <> b: re-echo, f: i
+re-edit <> d: re-edited, i: re-editing, p: re-edited
+re-edited <> b: re-edit, f: dp
+re-editing <> b: re-edit, f: i, i: re-editing
+re-educate <> i: re-educating, d: re-educated, p: re-educated
+re-educated <> b: re-educate, f: dp
+re-educating <> b: re-educate, f: i
+re-elect <> d: re-elected, p: re-elected, i: re-electing
+re-elected <> b: re-elect, f: dp, d: re-elected, p: re-elected
+re-electing <> b: re-elect, f: i
+re-embark <> d: re-embarked, p: re-embarked
+re-embarked <> b: re-embark, f: dp
+re-emerge <> p: re-emerged, '3': re-emerges, d: re-emerged, i: re-emerging
+re-emerged <> b: re-emerge, f: pd, p: re-emerged
+re-emerges <> b: re-emerge, f: '3'
+re-emerging <> b: re-emerge, f: i, i: re-emerging
+re-emphasize <> d: re-emphasized, p: re-emphasized, i: re-emphasizing
+re-emphasized <> b: re-emphasize, f: dp
+re-emphasizing <> b: re-emphasize, f: i
+re-enact <> d: re-enacted, i: re-enacting, '3': re-enacts, p: re-enacted
+re-enacted <> b: re-enact, f: dp
+re-enacting <> b: re-enact, f: i
+re-enactment <> s: re-enactments
+re-enactments <> b: re-enactment, f: s
+re-enacts <> b: re-enact, f: '3'
+re-engineer <> d: re-engineered, i: re-engineering, p: re-engineered
+re-engineered <> b: re-engineer, f: dp, d: re-engineered
+re-engineering <> i: re-engineering, b: re-engineering, f: i
+re-enter <> p: re-entered, i: re-entering, '3': re-enters, d: re-entered
+re-entered <> b: re-enter, f: pd
+re-entering <> b: re-enter, f: i
+re-enters <> b: re-enter, f: '3'
+re-equip <> i: re-equipping, d: re-equipped, p: re-equipped, '3': re-equips
+re-equipped <> b: re-equip, f: dp
+re-equipping <> b: re-equip, f: i, i: re-equipping
+re-equips <> b: re-equip, f: '3'
+re-erect <> d: re-erected, p: re-erected, i: re-erecting
+re-erected <> b: re-erect, f: dp, d: re-erected, p: re-erected
+re-erecting <> b: re-erect, f: i
+re-establish <> d: re-established, i: re-establishing, p: re-established, '3': re-establishes
+re-established <> b: re-establish, f: dp, d: re-established, p: re-established
+re-establishes <> b: re-establish, f: '3'
+re-establishing <> b: re-establish, f: i
+re-evaluate <> d: re-evaluated, i: re-evaluating, p: re-evaluated, '3': re-evaluates
+re-evaluated <> b: re-evaluate, f: dp
+re-evaluates <> b: re-evaluate, f: '3'
+re-evaluating <> b: re-evaluate, f: i
+re-examination <> s: re-examinations
+re-examinations <> b: re-examination, f: s
+re-examine <> d: re-examined, i: re-examining, p: re-examined, '3': re-examines
+re-examined <> b: re-examine, f: dp
+re-examines <> b: re-examine, f: '3'
+re-examining <> b: re-examine, f: i
+re-export <> s: re-exports, d: re-exported, p: re-exported, i: re-exporting, '3': re-exports
+re-exported <> b: re-export, f: dp
+re-exporting <> b: re-export, f: i
+re-exports <> b: re-export, f: s
+re-form <> d: re-formed, p: re-formed, '3': re-forms, i: re-forming
+re-formed <> b: re-form, f: dp, d: re-formed
+re-forming <> b: re-form, f: i, i: re-forming
+re-forms <> b: re-form, f: '3'
+re-mark <> d: re-marked
+re-marked <> b: re-mark, f: d
+re-present <> d: re-presented, '3': re-presents, p: re-presented, i: re-presenting
+re-presentation <> s: re-presentations
+re-presentations <> b: re-presentation, f: s
+re-presented <> b: re-present, f: dp
+re-presenting <> b: re-present, f: i
+re-presents <> b: re-present, f: '3'
+re-record <> d: re-recorded, p: re-recorded, i: re-recording
+re-recorded <> b: re-record, f: dp
+re-recording <> b: re-record, f: i, i: re-recording
+re-release <> d: re-released, i: re-releasing, s: re-releases, p: re-released
+re-released <> b: re-release, f: dp, p: re-released
+re-releases <> b: re-release, f: s
+re-releasing <> b: re-release, f: i
+re-route <> i: re-routing
+re-routing <> b: re-route, f: i, i: re-routing
+re-sign <> p: re-signed, i: re-signing, d: re-signed
+re-signed <> b: re-sign, f: pd
+re-signing <> b: re-sign, f: i
+re-sort <> p: re-sorted, i: re-sorting
+re-sorted <> b: re-sort, f: p
+re-sorting <> b: re-sort, f: i
+re-time <> d: re-timed, p: re-timed
+re-timed <> b: re-time, f: dp
+reabsorb <> d: reabsorbed, '3': reabsorbs, i: reabsorbing, p: reabsorbed
+reabsorbed <> b: reabsorb, f: dp
+reabsorbing <> b: reabsorb, f: i
+reabsorbs <> b: reabsorb, f: '3'
+reach <> p: reached, d: reached, i: reaching, '3': reaches, s: reaches
+reach-me-down <> s: reach-me-downs
+reach-me-downs <> b: reach-me-down, f: s
+reached <> b: reach, f: pd
+reaches <> b: reach, f: 3s
+reaching <> b: reach, f: i, i: reaching, s: reachings
+reacquaint <> d: reacquainted, p: reacquainted
+reacquainted <> b: reacquaint, f: dp, d: reacquainted
+reacquire <> d: reacquired, p: reacquired
+reacquired <> b: reacquire, f: dp
+react <> p: reacted, i: reacting, d: reacted, '3': reacts
+reactance <> s: reactances
+reactances <> b: reactance, f: s
+reactant <> s: reactants
+reactants <> b: reactant, f: s
+reacted <> b: react, f: pd
+reacting <> b: react, f: i
+reaction <> s: reactions
+reactionaries <> b: reactionary, f: s
+reactionary <> s: reactionaries
+reactions <> b: reaction, f: s
+reactivate <> i: reactivating, d: reactivated, p: reactivated, '3': reactivates
+reactivated <> b: reactivate, f: dp, p: reactivated
+reactivates <> b: reactivate, f: '3'
+reactivating <> b: reactivate, f: i
+reactivities <> b: reactivity, f: s
+reactivity <> s: reactivities
+reactor <> s: reactors
+reactors <> b: reactor, f: s
+reacts <> b: react, f: '3'
+read <> d: read, b: read, f: dp, i: reading, p: read, '3': reads
+read-out <> s: read-outs
+read-outs <> b: read-out, f: s
+readdress <> d: readdressed, p: readdressed
+readdressed <> b: readdress, f: dp
+reader <> s: readers
+readers <> b: reader, f: s
+readership <> s: readerships
+readerships <> b: readership, f: s
+readied <> b: ready, f: dp
+readier <> b: ready, f: r
+readies <> f: s3, b: ready
+readiness <> s: readinesses
+readinesses <> b: readiness, f: s
+reading <> b: read, f: i, i: reading, s: readings
+readjust <> p: readjusted, d: readjusted, i: readjusting, '3': readjusts, s: readjusts
+readjusted <> b: readjust, f: pd
+readjusting <> b: readjust, f: i
+readjustment <> s: readjustments
+readjustments <> b: readjustment, f: s
+readjusts <> b: readjust, f: 3s
+readmission <> s: readmissions
+readmissions <> b: readmission, f: s
+readmit <> d: readmitted, p: readmitted, i: readmitting
+readmitted <> b: readmit, f: dp
+readmitting <> b: readmit, f: i
+readopt <> d: readopted, p: readopted, i: readopting
+readopted <> b: readopt, f: dp
+readopting <> b: readopt, f: i
+readout <> s: readouts, '3': readouts
+readouts <> b: readout, f: s3
+reads <> b: read, f: '3'
+ready <> s: readies, i: readying, r: readier, d: readied, p: readied, '3': readies
+ready-made <> s: ready-mades
+ready-mades <> b: ready-made, f: s
+readying <> b: ready, f: i
+readymade <> s: readymades
+readymades <> b: readymade, f: s
+reaffirm <> p: reaffirmed, d: reaffirmed, i: reaffirming, '3': reaffirms
+reaffirmation <> s: reaffirmations
+reaffirmations <> b: reaffirmation, f: s
+reaffirmed <> b: reaffirm, f: pd
+reaffirming <> b: reaffirm, f: i
+reaffirms <> b: reaffirm, f: '3'
+reafforest <> d: reafforested, p: reafforested
+reafforested <> b: reafforest, f: dp
+Reaganite <> s: reaganites
+reagent <> s: reagents
+reagents <> b: reagent, f: s
+realign <> i: realigning, d: realigned, p: realigned, s: realigns, '3': realigns
+realigned <> b: realign, f: dp, d: realigned
+realigning <> b: realign, f: i
+realignment <> s: realignments
+realignments <> b: realignment, f: s
+realigns <> b: realign, f: s3
+realisation <> s: realisations
+realisations <> b: realisation, f: s
+realise <> p: realised, d: realised, i: realising, '3': realises
+realised <> b: realise, f: pd, p: realised, d: realised
+realises <> b: realise, f: '3'
+realising <> b: realise, f: i
+realism <> s: realisms
+realisms <> b: realism, f: s
+realist <> s: realists
+realists <> b: realist, f: s
+realities <> b: reality, f: s
+reality <> s: realities
+realization <> s: realizations
+realizations <> b: realization, f: s
+realize <> p: realized, d: realized, i: realizing, '3': realizes
+realized <> b: realize, f: pd, p: realized, d: realized
+realizer <> s: realizers
+realizers <> b: realizer, f: s
+realizes <> b: realize, f: '3'
+realizing <> b: realize, f: i
+reallocate <> d: reallocated, p: reallocated, i: reallocating, s: reallocates, '3': reallocates
+reallocated <> b: reallocate, f: dp
+reallocates <> b: reallocate, f: s3
+reallocating <> b: reallocate, f: i
+reallocation <> s: reallocations
+reallocations <> b: reallocation, f: s
+realm <> s: realms
+realms <> b: realm, f: s
+realtor <> s: realtors
+realtors <> b: realtor, f: s
+ream <> s: reams, i: reaming, p: reamed, '3': reams, d: reamed
+reamed <> f: pd, b: ream
+reamer <> s: reamers
+reamers <> b: reamer, f: s
+reaming <> b: ream, f: i
+reams <> f: s3, b: ream
+reanimate <> d: reanimated, '3': reanimates, i: reanimating, p: reanimated
+reanimated <> b: reanimate, f: dp
+reanimates <> b: reanimate, f: '3'
+reanimating <> b: reanimate, f: i
+reap <> i: reaping, p: reaped, d: reaped, '3': reaps
+reaped <> b: reap, f: pd
+reaper <> s: reapers
+reapers <> b: reaper, f: s
+reaping <> b: reap, f: i
+reappear <> p: reappeared, '3': reappears, d: reappeared, i: reappearing
+reappearance <> s: reappearances
+reappearances <> b: reappearance, f: s
+reappeared <> b: reappear, f: pd
+reappearing <> b: reappear, f: i
+reappears <> b: reappear, f: '3'
+reapplied <> b: reapply, f: dp
+reapplies <> b: reapply, f: '3'
+reapply <> d: reapplied, i: reapplying, p: reapplied, '3': reapplies
+reapplying <> b: reapply, f: i
+reappoint <> d: reappointed, p: reappointed, i: reappointing, '3': reappoints
+reappointed <> b: reappoint, f: dp
+reappointing <> b: reappoint, f: i
+reappointment <> s: reappointments
+reappointments <> b: reappointment, f: s
+reappoints <> b: reappoint, f: '3'
+reapportion <> i: reapportioning, p: reapportioned, '3': reapportions, d: reapportioned
+reapportioned <> f: pd, b: reapportion
+reapportioning <> b: reapportion, f: i
+reapportions <> f: '3', b: reapportion
+reappraisal <> s: reappraisals
+reappraisals <> b: reappraisal, f: s
+reappraise <> d: reappraised, i: reappraising, p: reappraised, '3': reappraises
+reappraised <> b: reappraise, f: dp
+reappraises <> b: reappraise, f: '3'
+reappraising <> b: reappraise, f: i
+reaps <> b: reap, f: '3'
+rear <> d: reared, p: reared, i: rearing, '3': rears, s: rears
+reared <> b: rear, f: dp, p: reared
+rearer <> s: rearers
+rearers <> b: rearer, f: s
+rearguard <> s: rearguards
+rearguards <> b: rearguard, f: s
+rearing <> b: rear, f: i, i: rearing
+rearm <> d: rearmed, i: rearming, p: rearmed, '3': rearms
+rearmed <> b: rearm, f: dp
+rearming <> b: rearm, f: i, i: rearming
+rearms <> f: '3', b: rearm
+rearrange <> d: rearranged, p: rearranged, '3': rearranges, i: rearranging
+rearranged <> b: rearrange, f: dp, p: rearranged, d: rearranged
+rearrangement <> s: rearrangements
+rearrangements <> b: rearrangement, f: s
+rearranges <> b: rearrange, f: '3'
+rearranging <> b: rearrang, f: i, i: rearranging
+rearrest <> d: rearrested, p: rearrested
+rearrested <> b: rearrest, f: dp
+rears <> b: rear, f: 3s
+rearticulate <> d: rearticulated, p: rearticulated, i: rearticulating
+rearticulated <> b: rearticulate, f: dp
+rearticulating <> b: rearticulate, f: i
+reascend <> i: reascending
+reascending <> b: reascend, f: i
+reason <> s: reasons, p: reasoned, i: reasoning, '3': reasons, d: reasoned
+reasoned <> f: pd, b: reason, d: reasoned, p: reasoned
+reasoner <> s: reasoners
+reasoners <> b: reasoner, f: s
+reasoning <> b: reason, f: i, i: reasoning, s: reasonings
+reasons <> f: s3, b: reason
+reassemble <> d: reassembled, p: reassembled, i: reassembling, '3': reassembles
+reassembled <> b: reassemble, f: dp, p: reassembled
+reassembles <> b: reassemble, f: '3'
+reassembling <> b: reassemble, f: i, i: reassembling
+reassert <> p: reasserted, i: reasserting, d: reasserted, '3': reasserts
+reasserted <> b: reassert, f: pd
+reasserting <> b: reassert, f: i
+reasserts <> b: reassert, f: '3'
+reassess <> d: reassessed, i: reassessing, p: reassessed, '3': reassesses
+reassessed <> b: reassess, f: dp, d: reassessed
+reassesses <> b: reassess, f: '3'
+reassessing <> b: reassess, f: i
+reassessment <> s: reassessments
+reassessments <> b: reassessment, f: s
+reassign <> d: reassigned, p: reassigned, i: reassigning, '3': reassigns
+reassigned <> b: reassign, f: dp
+reassigning <> b: reassign, f: i
+reassignment <> s: reassignments
+reassignments <> b: reassignment, f: s
+reassigns <> f: '3', b: reassign
+reassume <> '3': reassumes, d: reassumed, p: reassumed
+reassumed <> b: reassume, f: dp
+reassumes <> b: reassume, f: '3'
+reassurance <> s: reassurances
+reassurances <> b: reassurance, f: s
+reassure <> d: reassured, p: reassured, i: reassuring, '3': reassures
+reassured <> b: reassure, f: dp, d: reassured
+reassures <> b: reassure, f: '3'
+reassuring <> b: reassure, f: i, i: reassuring
+reattach <> d: reattached, p: reattached
+reattached <> b: reattach, f: dp
+reattain <> d: reattained
+reattained <> b: reattain, f: d
+reave <> s: reaves, i: reaving, p: reaved, '3': reaves, d: reaved
+reaved <> f: pd, b: reave
+reaver <> s: reavers
+reavers <> b: reaver, f: s
+reaves <> f: s3, b: reave
+reaving <> b: reave, f: i
+reawaken <> d: reawakened, i: reawakening, p: reawakened, '3': reawakens
+reawakened <> b: reawaken, f: dp
+reawakening <> b: reawaken, f: i, i: reawakening
+reawakens <> b: reawaken, f: '3'
+rebadge <> i: rebadging, d: rebadged, p: rebadged
+rebadged <> b: rebadge, f: dp, d: rebadged, p: rebadged
+rebadging <> b: rebadge, f: i
+rebalance <> i: rebalancing, d: rebalanced
+rebalanced <> b: rebalance, f: d
+rebalancing <> b: rebalance, f: i, i: rebalancing
+rebase <> d: rebased, i: rebasing
+rebased <> b: rebase, f: d
+rebasing <> b: rebase, f: i
+rebate <> s: rebates, i: rebating, p: rebated, d: rebated, '3': rebates
+rebated <> b: rebate, f: pd, p: rebated
+rebates <> f: s3, b: rebate
+rebating <> b: rebate, f: i
+rebel <> s: rebels, p: rebelled, i: rebelling, d: rebelled, '3': rebels
+rebelled <> b: rebel, f: pd, p: rebelled
+rebelling <> b: rebel, f: i
+rebellion <> s: rebellions
+rebellions <> b: rebellion, f: s
+rebels <> b: rebel, f: s3
+rebid <> i: rebidding, s: rebids
+rebidding <> b: rebid, f: i
+rebids <> b: rebid, f: s
+rebind <> i: rebinding, p: rebound, '3': rebinds, d: rebound
+rebinding <> b: rebind, f: i
+rebirth <> s: rebirths, i: rebirthing
+rebirther <> s: rebirthers
+rebirthers <> b: rebirther, f: s
+rebirthing <> b: rebirth, f: i
+rebirths <> b: rebirth, f: s
+reboard <> i: reboarding, p: reboarded, d: reboarded
+reboarded <> b: reboard, f: pd
+reboarding <> b: reboard, f: i
+rebook <> d: rebooked, p: rebooked
+rebooked <> b: rebook, f: dp
+reboot <> p: rebooted, d: rebooted, i: rebooting, s: reboots, '3': reboots
+rebooted <> b: reboot, f: pd
+rebooting <> b: reboot, f: i
+reboots <> b: reboot, f: s
+rebore <> d: rebored, i: reboring, p: rebored
+rebored <> b: rebore, f: dp
+reboring <> b: rebore, f: i
+reborn <> d: reborn, b: reborn, f: d
+rebound <> p: rebounded, i: rebounding, d: rebounded, '3': rebounds, b: rebound, f: p, s: rebounds
+rebounded <> b: rebound, f: pd
+rebounding <> b: rebound, f: i, i: rebounding
+rebounds <> b: rebound, f: 3s
+rebrand <> d: rebranded, p: rebranded
+rebranded <> b: rebrand, f: dp
+rebreathe <> p: rebreathed
+rebreathed <> b: rebreathe, f: p
+rebroadcast <> i: rebroadcasting, p: rebroadcast, '3': rebroadcasts, d: rebroadcast
+rebuff <> d: rebuffed, p: rebuffed, s: rebuffs, '3': rebuffs, i: rebuffing
+rebuffed <> b: rebuff, f: dp
+rebuffing <> b: rebuff, f: i
+rebuffs <> b: rebuff, f: s3
+rebuild <> d: rebuilt, i: rebuilding, p: rebuilt, '3': rebuilds, s: rebuilds
+rebuilder <> s: rebuilders
+rebuilders <> b: rebuilder, f: s
+rebuilding <> b: rebuild, f: i, i: rebuilding, s: rebuildings
+rebuilds <> b: rebuild, f: 3s
+rebuilt <> b: rebuild, f: dp, d: rebuilt, p: rebuilt
+rebuke <> d: rebuked, p: rebuked, i: rebuking, '3': rebukes, s: rebukes
+rebuked <> b: rebuke, f: dp
+rebukes <> b: rebuke, f: 3s
+rebuking <> b: rebuke, f: i
+reburied <> b: rebury, f: dp
+rebury <> d: reburied, i: reburying, p: reburied, '3': reburies
+reburying <> b: rebury, f: i
+rebut <> d: rebutted, i: rebutting, p: rebutted, '3': rebuts
+rebuts <> b: rebut, f: '3'
+rebuttal <> s: rebuttals
+rebuttals <> b: rebuttal, f: s
+rebutted <> b: rebut, f: dp
+rebutting <> b: rebut, f: i
+REC <> s: recs, d: recced
+recalcitrant <> s: recalcitrants
+recalcitrants <> b: recalcitrant, f: s
+recalculate <> d: recalculated, '3': recalculates, p: recalculated, i: recalculating
+recalculated <> b: recalculate, f: dp
+recalculates <> b: recalculate, f: '3'
+recalculating <> b: recalculate, f: i
+recalculation <> s: recalculations
+recalculations <> b: recalculation, f: s
+recall <> p: recalled, '3': recalls, d: recalled, i: recalling
+recalled <> b: recall, f: pd, d: recalled, p: recalled
+recalling <> b: recall, f: i, i: recalling
+recalls <> b: recall, f: '3'
+recant <> p: recanted, d: recanted, i: recanting, '3': recants
+recantation <> s: recantations
+recantations <> b: recantation, f: s
+recanted <> b: recant, f: pd
+recanting <> b: recant, f: i
+recants <> f: '3', b: recant
+recap <> i: recapping, p: recapped, '3': recaps, d: recaped
+recaped <> f: pd, b: recap
+recapitalization <> s: recapitalizations
+recapitalizations <> b: recapitalization, f: s
+recapitulate <> '3': recapitulates, i: recapitulating, d: recapitulated, p: recapitulated, s: recapitulates
+recapitulated <> b: recapitulate, f: dp
+recapitulates <> b: recapitulate, f: 3s
+recapitulating <> b: recapitulate, f: i
+recapitulation <> s: recapitulations
+recapitulations <> b: recapitulation, f: s
+recapped <> b: recap, f: p
+recapping <> b: recap, f: i
+recaps <> f: '3', b: recap
+recapture <> d: recaptured, p: recaptured, i: recapturing, '3': recaptures, s: recaptures
+recaptured <> b: recapture, f: dp, p: recaptured
+recaptures <> b: recapture, f: 3s
+recapturing <> b: recapture, f: i
+recast <> d: recast, b: recast, f: dp, i: recasting, p: recast, '3': recasts
+recasting <> b: recast, f: i, i: recasting, s: recastings
+recasts <> b: recast, f: '3'
+recce <> s: recces
+recces <> b: recce, f: s
+recede <> p: receded, i: receding, d: receded, '3': recedes
+receded <> b: recede, f: pd
+recedes <> b: recede, f: '3'
+receding <> b: recede, f: i, i: receding
+receipt <> s: receipts, i: receipting, p: receipted, '3': receipts, d: receipted
+receipted <> d: receipted, b: receipted, f: d
+receipting <> f: i, b: receipt
+receipts <> f: s3, b: receipt
+receivable <> s: receivables, '3': receivables
+receivables <> b: receivable, f: s3
+receive <> d: received, p: received, i: receiving, '3': receives
+received <> b: receive, f: dp, p: received, d: received
+receiver <> s: receivers
+receivers <> b: receiver, f: s
+receivership <> s: receiverships
+receiverships <> b: receivership, f: s
+receives <> b: receive, f: '3'
+receiving <> b: receive, f: i, i: receiving
+recension <> s: recensions
+recensions <> b: recension, f: s
+receptacle <> s: receptacles
+receptacles <> b: receptacle, f: s
+reception <> s: receptions
+receptionist <> s: receptionists
+receptionists <> b: receptionist, f: s
+receptions <> b: reception, f: s
+receptor <> s: receptors
+receptors <> b: receptor, f: s
+recess <> s: recesses, d: recessed, p: recessed, i: recessing, '3': recesses
+recessed <> b: recess, f: dp, d: recessed, p: recessed
+recesses <> f: s3, b: recess
+recessing <> b: recess, f: i
+recession <> s: recessions
+recessions <> b: recession, f: s
+recessive <> s: recessives
+recessives <> b: recessive, f: s
+Rechabite <> s: rechabites
+recharge <> i: recharging, d: recharged, p: recharged, '3': recharges, s: recharges
+rechargeable <> s: rechargeables
+rechargeables <> b: rechargeable, f: s
+recharged <> b: recharge, f: dp, p: recharged
+recharges <> b: recharge, f: 3s
+recharging <> b: recharge, f: i, i: recharging, s: rechargings
+recheck <> d: rechecked, i: rechecking, p: rechecked
+rechecked <> b: recheck, f: dp
+rechecking <> b: recheck, f: i
+rechristen <> p: rechristened, d: rechristened, i: rechristening
+rechristened <> b: rechristen, f: pd
+rechristening <> b: rechristen, f: i
+recidivist <> s: recidivists
+recidivists <> b: recidivist, f: s
+recipe <> s: recipes
+recipes <> b: recipe, f: s
+recipient <> s: recipients
+recipients <> b: recipient, f: s
+reciprocal <> s: reciprocals
+reciprocals <> b: reciprocal, f: s
+reciprocate <> d: reciprocated, p: reciprocated, i: reciprocating, '3': reciprocates, s: reciprocates
+reciprocated <> b: reciprocate, f: dp, d: reciprocated, p: reciprocated
+reciprocates <> b: reciprocate, f: 3s
+reciprocating <> b: reciprocate, f: i, i: reciprocating
+reciprocation <> s: reciprocations
+reciprocations <> b: reciprocation, f: s
+reciprocities <> b: reciprocity, f: s
+reciprocity <> s: reciprocities
+recirculate <> i: recirculating, p: recirculated, d: recirculated
+recirculated <> b: recirculate, f: pd
+recirculating <> b: recirculate, f: i
+recital <> s: recitals
+recitalist <> s: recitalists
+recitalists <> b: recitalist, f: s
+recitals <> b: recital, f: s
+recitation <> s: recitations
+recitations <> b: recitation, f: s
+recitative <> s: recitatives
+recitatives <> b: recitative, f: s
+recite <> i: reciting, p: recited, d: recited, '3': recites
+recited <> b: recite, f: pd
+reciter <> s: reciters
+reciters <> b: reciter, f: s
+recites <> b: recite, f: '3'
+reciting <> b: recite, f: i
+reck <> s: recks
+reckon <> '3': reckons, p: reckoned, d: reckoned, i: reckoning
+reckoned <> b: reckon, f: pd
+reckoner <> s: reckoners
+reckoners <> b: reckoner, f: s
+reckoning <> b: reckon, f: i, i: reckoning, s: reckonings
+reckons <> b: reckon, f: '3'
+recks <> b: reck, f: s
+reclaim <> d: reclaimed, i: reclaiming, p: reclaimed, '3': reclaims
+reclaimed <> b: reclaim, f: dp, d: reclaimed, p: reclaimed
+reclaimer <> s: reclaimers
+reclaimers <> b: reclaimer, f: s
+reclaiming <> b: reclaim, f: i, i: reclaiming
+reclaims <> b: reclaim, f: '3'
+reclamation <> s: reclamations
+reclamations <> b: reclamation, f: s
+reclassification <> s: reclassifications
+reclassifications <> b: reclassification, f: s
+reclassified <> b: reclassify, f: dp, d: reclassified
+reclassifies <> b: reclassify, f: '3'
+reclassify <> d: reclassified, i: reclassifying, '3': reclassifies, p: reclassified
+reclassifying <> b: reclassify, f: i
+recline <> i: reclining, p: reclined, '3': reclines, d: reclined, s: reclines
+reclined <> b: recline, f: pd
+reclines <> b: recline, f: 3s
+reclining <> b: recline, f: i, i: reclining
+reclothe <> p: reclothed
+reclothed <> b: reclothe, f: p
+recluse <> s: recluses, '3': recluses
+recluses <> b: recluse, f: s3
+recode <> p: recoded, d: recoded, i: recoding
+recoded <> b: recode, f: pd
+recoding <> b: recode, f: i, i: recoding
+recognise <> d: recognised, p: recognised, i: recognising, '3': recognises
+recognised <> b: recognise, f: dp, d: recognised, p: recognised
+recognises <> b: recognise, f: '3'
+recognising <> b: recognise, f: i
+recognition <> s: recognitions
+recognitions <> b: recognition, f: s
+recognizance <> s: recognizances
+recognizances <> b: recognizance, f: s
+recognize <> d: recognized, p: recognized, i: recognizing, '3': recognizes
+recognized <> b: recognize, f: dp, p: recognized, d: recognized
+recognizes <> b: recognize, f: '3'
+recognizing <> b: recognize, f: i
+recoil <> p: recoiled, '3': recoils, i: recoiling, d: recoiled, s: recoils
+recoiled <> b: recoil, f: pd, p: recoiled
+recoiling <> b: recoil, f: i
+recoils <> b: recoil, f: 3s
+recollect <> p: recollected, '3': recollects, i: recollecting, d: recollected
+recollected <> b: recollect, f: pd, p: recollected
+recollecting <> b: recollect, f: i
+recollection <> s: recollections
+recollections <> b: recollection, f: s
+recollects <> b: recollect, f: '3'
+recolonize <> i: recolonizing, p: recolonized
+recolonized <> b: recolonize, f: p
+recolonizing <> b: recolonize, f: i
+recolour <> d: recoloured, p: recoloured
+recoloured <> b: recolour, f: dp
+recombinant <> s: recombinants
+recombinants <> b: recombinant, f: s
+recombination <> s: recombinations
+recombinations <> b: recombination, f: s
+recombine <> i: recombining, d: recombined, p: recombined, s: recombines, '3': recombines
+recombined <> b: recombine, f: dp
+recombines <> b: recombine, f: s
+recombining <> b: recombine, f: i
+recommence <> p: recommenced, '3': recommences, d: recommenced, i: recommencing
+recommenced <> b: recommence, f: pd
+recommences <> b: recommence, f: '3'
+recommencing <> b: recommence, f: i
+recommend <> d: recommended, p: recommended, '3': recommends, i: recommending
+recommendation <> s: recommendations
+recommendations <> b: recommendation, f: s
+recommended <> b: recommend, f: dp, d: recommended, p: recommended
+recommending <> b: recommend, f: i
+recommends <> b: recommend, f: '3'
+recommission <> d: recommissioned, i: recommissioning, p: recommissioned
+recommissioned <> b: recommission, f: dp
+recommissioning <> b: recommission, f: i, i: recommissioning
+recommit <> d: recommitted, i: recommitting, p: recommitted, '3': recommits
+recommitment <> s: recommitments
+recommitments <> b: recommitment, f: s
+recommits <> f: '3', b: recommit
+recommitted <> f: dp, b: recommit
+recommitting <> b: recommit, f: i
+recompense <> d: recompensed, '3': recompenses, p: recompensed, i: recompensing, s: recompenses
+recompensed <> b: recompense, f: dp
+recompenses <> b: recompense, f: 3s
+recompensing <> b: recompense, f: i
+recompilation <> s: recompilations
+recompilations <> b: recompilation, f: s
+recompile <> d: recompiled, s: recompiles, p: recompiled, i: recompiling
+recompiled <> b: recompile, f: dp, d: recompiled
+recompiles <> b: recompile, f: s
+recompiling <> b: recompile, f: i
+recompose <> p: recomposed, i: recomposing, d: recomposed
+recomposed <> b: recompose, f: pd, d: recomposed
+recomposing <> b: recompose, f: i
+recon <> s: recons
+reconcile <> d: reconciled, i: reconciling, '3': reconciles, p: reconciled
+reconciled <> b: reconcile, f: dp, d: reconciled, p: reconciled
+reconciler <> s: reconcilers
+reconcilers <> b: reconciler, f: s
+reconciles <> b: reconcile, f: '3'
+reconciliation <> s: reconciliations
+reconciliations <> b: reconciliation, f: s
+reconciling <> b: reconcile, f: i
+recondition <> p: reconditioned, d: reconditioned, i: reconditioning, '3': reconditions
+reconditioned <> b: recondition, f: pd, d: reconditioned, p: reconditioned
+reconditioning <> b: recondition, f: i
+reconditions <> b: recondition, f: '3'
+reconfiguration <> s: reconfigurations
+reconfigurations <> b: reconfiguration, f: s
+reconfigure <> d: reconfigured, i: reconfiguring, p: reconfigured
+reconfigured <> b: reconfigure, f: dp
+reconfiguring <> b: reconfigure, f: i
+reconfirm <> d: reconfirmed, p: reconfirmed, i: reconfirming, '3': reconfirms
+reconfirmed <> b: reconfirm, f: dp
+reconfirming <> b: reconfirm, f: i
+reconnaissance <> s: reconnaissances
+reconnaissances <> b: reconnaissance, f: s
+reconnect <> d: reconnected, i: reconnecting, p: reconnected, '3': reconnects
+reconnected <> b: reconnect, f: dp, p: reconnected
+reconnecting <> b: reconnect, f: i
+reconnects <> b: reconnect, f: '3'
+reconnoiter <> i: reconnoitering, p: reconnoitered, '3': reconnoiters, d: reconnoitered
+reconnoitre <> i: reconnoitring, p: reconnoitred, '3': reconnoitres, d: reconnoitred
+reconnoitred <> b: reconnoitr, f: pd
+reconnoitres <> f: '3', b: reconnoitre
+reconnoitring <> b: reconnoitre, f: i
+reconquer <> d: reconquered, i: reconquering, p: reconquered, '3': reconquers
+reconquered <> b: reconquer, f: dp
+reconquering <> b: reconquer, f: i
+reconquest <> b: reconqu, f: t, s: reconquests
+reconquests <> b: reconquest, f: s
+recons <> b: recon, f: s
+reconsecrate <> d: reconsecrated, p: reconsecrated
+reconsider <> d: reconsidered, i: reconsidering, p: reconsidered, '3': reconsiders
+reconsideration <> s: reconsiderations
+reconsiderations <> b: reconsideration, f: s
+reconsidered <> b: reconsider, f: dp, p: reconsidered
+reconsidering <> b: reconsider, f: i
+reconsiders <> b: reconsider, f: '3'
+reconstitute <> d: reconstituted, p: reconstituted, i: reconstituting, '3': reconstitutes
+reconstituted <> b: reconstitute, f: dp, p: reconstituted, d: reconstituted
+reconstitutes <> b: reconstitute, f: '3'
+reconstituting <> b: reconstitute, f: i
+reconstitution <> s: reconstitutions
+reconstitutions <> b: reconstitution, f: s
+reconstruct <> d: reconstructed, i: reconstructing, p: reconstructed, '3': reconstructs
+reconstructed <> b: reconstruct, f: dp, p: reconstructed, d: reconstructed
+reconstructing <> b: reconstruct, f: i, i: reconstructing
+reconstruction <> s: reconstructions
+reconstructions <> b: reconstruction, f: s
+reconstructs <> b: reconstruct, f: '3'
+reconvene <> '3': reconvenes, i: reconvening, p: reconvened, d: reconvened
+reconvened <> b: reconven, f: dp
+reconvenes <> b: reconvene, f: '3'
+reconvening <> b: reconven, f: i, i: reconvening
+reconvert <> d: reconverted, i: reconverting, '3': reconverts, p: reconverted
+reconverted <> f: dp, b: reconvert
+reconverting <> b: reconvert, f: i
+reconverts <> b: reconvert, f: '3'
+reconvict <> d: reconvicted, i: reconvicting, p: reconvicted, '3': reconvicts
+reconvicted <> b: reconvict, f: d
+reconviction <> s: reconvictions
+reconvictions <> b: reconviction, f: s
+recopied <> b: recopy, f: dp
+recopy <> d: recopied, p: recopied, i: recopying, '3': recopies
+recopying <> b: recopy, f: i
+record <> s: records, d: recorded, p: recorded, i: recording, '3': records
+record-breaker <> s: record-breakers
+record-breakers <> b: record-breaker, f: s
+record-holder <> s: record-holders
+record-holders <> b: record-holder, f: s
+record-player <> s: record-players
+record-players <> b: record-player, f: s
+recorded <> b: record, f: dp, p: recorded, d: recorded
+recorder <> s: recorders
+recorders <> b: recorder, f: s
+recording <> b: record, f: i, s: recordings, i: recording
+recordist <> s: recordists
+recordists <> b: recordist, f: s
+records <> b: record, f: s3
+recount <> p: recounted, '3': recounts, i: recounting, d: recounted, s: recounts
+recounted <> b: recount, f: pd
+recounting <> b: recount, f: i
+recounts <> b: recount, f: 3s
+recoup <> d: recouped, i: recouping, p: recouped, '3': recoups
+recouped <> b: recoup, f: dp
+recouping <> b: recoup, f: i
+recoups <> b: recoup, f: '3'
+recourse <> s: recourses
+recourses <> b: recourse, f: s
+recover <> d: recovered, i: recovering, p: recovered, '3': recovers
+recovered <> b: recover, f: dp, d: recovered, p: recovered
+recoveries <> b: recovery, f: s
+recovering <> b: recover, f: i, i: recovering
+recovers <> b: recover, f: '3'
+recovery <> s: recoveries
+recreate <> '3': recreates, i: recreating, p: recreated, d: recreated
+recreated <> b: recreat, f: dp
+recreates <> b: recreate, f: '3'
+recreating <> b: recreat, f: i
+recreation <> s: recreations
+recreations <> b: recreation, f: s
+recriminate <> i: recriminating, p: recriminated, '3': recriminates, d: recriminated
+recriminated <> f: pd, b: recriminate
+recriminates <> f: '3', b: recriminate
+recriminating <> b: recriminate, f: i
+recrimination <> s: recriminations
+recriminations <> b: recrimination, f: s
+recross <> p: recrossed, i: recrossing, '3': recrosses
+recrossed <> b: recross, f: p
+recrosses <> b: recross, f: '3'
+recrossing <> b: recross, f: i
+recrudesce <> i: recrudescing, p: recrudesced, '3': recrudesces, d: recrudesced
+recrudesced <> f: pd, b: recrudesce
+recrudesces <> f: '3', b: recrudesce
+recrudescing <> f: i, b: recrudesce
+recruit <> d: recruited, s: recruits, i: recruiting, p: recruited, '3': recruits
+recruited <> b: recruit, f: dp, d: recruited, p: recruited
+recruiter <> s: recruiters
+recruiters <> b: recruiter, f: s
+recruiting <> b: recruit, f: i, i: recruiting
+recruitment <> s: recruitments
+recruitments <> b: recruitment, f: s
+recruits <> b: recruit, f: s3
+recrystallize <> d: recrystallized
+recrystallized <> b: recrystallize, f: d
+rectangle <> s: rectangles
+rectangles <> b: rectangle, f: s
+rectification <> s: rectifications
+rectifications <> b: rectification, f: s
+rectified <> b: rectify, f: dp, p: rectified, d: rectified
+rectifier <> s: rectifiers
+rectifiers <> b: rectifier, f: s
+rectifies <> b: rectify, f: '3'
+rectify <> d: rectified, i: rectifying, p: rectified, '3': rectifies
+rectifying <> b: rectify, f: i
+rector <> s: rectors
+rectories <> b: rectory, f: s
+rectors <> b: rector, f: s
+rectory <> s: rectories
+rectum <> s: rectums
+rectums <> b: rectum, f: s
+recumbent <> s: recumbents
+recumbents <> b: recumbent, f: s
+recuperate <> i: recuperating, d: recuperated, p: recuperated, s: recuperates, '3': recuperates
+recuperated <> b: recuperate, f: dp
+recuperates <> f: s3, b: recuperate
+recuperating <> b: recuperate, f: i
+recur <> '3': recurs, p: recurred, i: recurring, d: recurred
+recurred <> b: recur, f: pd, p: recurred
+recurrence <> s: recurrences
+recurrences <> b: recurrence, f: s
+recurring <> b: recur, f: i, i: recurring
+recurs <> b: recur, f: '3'
+recursion <> s: recursions
+recursions <> b: recursion, f: s
+recurve <> p: recurved, d: recurved, i: recurving, '3': recurves
+recurved <> b: recurve, f: pd
+recurves <> f: '3', b: recurve
+recurving <> f: i, b: recurve
+recusant <> s: recusants
+recusants <> b: recusant, f: s
+recuse <> i: recusing, p: recused, '3': recuses, d: recused
+recut <> i: recutting
+recutting <> b: recut, f: i
+recyclable <> s: recyclables
+recyclables <> b: recyclable, f: s
+recycle <> i: recycling, d: recycled, '3': recycles, p: recycled
+recycled <> b: recycle, f: dp, d: recycled
+recycler <> s: recyclers
+recyclers <> b: recycler, f: s
+recycles <> b: recycle, f: '3'
+recycling <> i: recycling, b: recycling, f: i
+red <> s: reds, r: redder
+red-eye <> s: red-eyes
+red-hot <> t: red-hottest
+red-hottest <> b: red-hot, f: t
+redact <> i: redacting, p: redacted, '3': redacts, d: redacted
+redacted <> f: pd, b: redact
+redacting <> f: i, b: redact
+redacts <> f: '3', b: redact
+redbreast <> s: redbreasts
+redbreasts <> b: redbreast, f: s
+redcap <> s: redcaps
+redcaps <> b: redcap, f: s
+redcoat <> s: redcoats
+redcoats <> b: redcoat, f: s
+redcurrant <> s: redcurrants
+redcurrants <> b: redcurrant, f: s
+redd <> '3': redds
+redden <> d: reddened, p: reddened, i: reddening, '3': reddens
+reddened <> b: redden, f: dp, p: reddened
+reddening <> b: redden, f: i, i: reddening
+reddens <> b: redden, f: '3'
+redder <> b: red, f: r
+Redding <> s: reddings
+redds <> b: redd, f: '3'
+rede <> i: reding, p: reded, '3': redes, d: reded
+redecorate <> i: redecorating, d: redecorated, p: redecorated, '3': redecorates
+redecorated <> b: redecorate, f: dp, p: redecorated
+redecorates <> b: redecorate, f: '3'
+redecorating <> b: redecorate, f: i, i: redecorating
+redecoration <> s: redecorations
+redecorations <> b: redecoration, f: s
+reded <> f: pd, b: rede
+rededicate <> d: rededicated, i: rededicating, p: rededicated
+redeem <> d: redeemed, p: redeemed, i: redeeming, '3': redeems
+redeemed <> b: redeem, f: dp
+redeemer <> s: redeemers
+redeemers <> b: redeemer, f: s
+redeeming <> b: redeem, f: i, i: redeeming
+redeems <> b: redeem, f: '3'
+redefine <> d: redefined, i: redefining, p: redefined, '3': redefines, s: redefines
+redefined <> b: redefine, f: dp, p: redefined, d: redefined
+redefines <> b: redefine, f: 3s
+redefining <> b: redefine, f: i, i: redefining
+redefinition <> s: redefinitions
+redefinitions <> b: redefinition, f: s
+redemption <> s: redemptions
+redemptions <> b: redemption, f: s
+redeploy <> d: redeployed, p: redeployed, i: redeploying, '3': redeploys
+redeployed <> b: redeploy, f: dp
+redeploying <> b: redeploy, f: i
+redeployment <> s: redeployments
+redeployments <> b: redeployment, f: s
+redeploys <> f: '3', b: redeploy
+redeposit <> d: redeposited, p: redeposited
+redeposited <> b: redeposit, f: dp
+redes <> f: '3', b: rede
+redesign <> d: redesigned, i: redesigning, p: redesigned, '3': redesigns, s: redesigns
+redesignate <> d: redesignated, p: redesignated, '3': redesignates, i: redesignating
+redesignated <> b: redesignate, f: dp
+redesignates <> b: redesignate, f: '3'
+redesignating <> b: redesignate, f: i
+redesigned <> b: redesign, f: dp, p: redesigned
+redesigning <> b: redesign, f: i
+redesigns <> b: redesign, f: 3s
+redetermination <> s: redeterminations
+redeterminations <> b: redetermination, f: s
+redetermine <> p: redetermined, i: redetermining
+redetermined <> b: redetermine, f: p
+redetermining <> b: redetermine, f: i
+redevelop <> d: redeveloped, p: redeveloped, i: redeveloping, '3': redevelops
+redeveloped <> b: redevelop, f: dp, p: redeveloped
+redeveloping <> b: redevelope, f: i
+redevelopment <> s: redevelopments
+redevelopments <> b: redevelopment, f: s
+redevelops <> f: '3', b: redevelop
+redhead <> s: redheads
+redheads <> b: redhead, f: s
+redial <> s: redials
+redials <> b: redial, f: s
+redid <> f: p, b: redo
+reding <> f: i, b: rede
+redirect <> d: redirected, p: redirected, i: redirecting, '3': redirects
+redirected <> b: redirect, f: dp, p: redirected
+redirecting <> b: redirect, f: i
+redirects <> b: redirect, f: '3'
+rediscount <> d: rediscounted, i: rediscounting
+rediscounted <> b: rediscount, f: d
+rediscounting <> b: rediscount, f: i
+rediscover <> d: rediscovered, p: rediscovered, i: rediscovering, '3': rediscovers
+rediscovered <> b: rediscover, f: dp, p: rediscovered
+rediscoveries <> b: rediscovery, f: s
+rediscovering <> b: rediscover, f: i
+rediscovers <> b: rediscover, f: '3'
+rediscovery <> s: rediscoveries
+redisplay <> d: redisplayed, p: redisplayed
+redisplayed <> b: redisplay, f: dp
+redissolve <> d: redissolved, p: redissolved
+redissolved <> b: redissolve, f: dp
+redistribute <> d: redistributed, i: redistributing, p: redistributed, '3': redistributes
+redistributed <> b: redistribute, f: dp, d: redistributed
+redistributes <> b: redistribute, f: '3'
+redistributing <> b: redistribute, f: i
+redistribution <> s: redistributions
+redistributions <> b: redistribution, f: s
+redistrict <> i: redistricting
+redistricting <> b: redistrict, f: i
+redivide <> d: redivided, i: redividing
+redivided <> b: redivide, f: d
+redividing <> b: redivide, f: i
+redline <> d: redlined, i: redlining, p: redlined
+redlined <> b: redline, f: dp
+redlining <> b: redline, f: i
+redneck <> s: rednecks
+rednecks <> b: redneck, f: s
+redness <> s: rednesses
+rednesses <> b: redness, f: s
+redo <> i: redoing, p: redid, '3': redoes, d: redone
+redoes <> f: '3', b: redo
+redoing <> b: redo, f: i
+redone <> f: d, b: redo
+redouble <> p: redoubled, d: redoubled, i: redoubling, '3': redoubles
+redoubled <> b: redouble, f: pd, p: redoubled
+redoubles <> b: redouble, f: '3'
+redoubling <> b: redouble, f: i
+redoubt <> s: redoubts
+redoubts <> b: redoubt, f: s
+redound <> p: redounded, d: redounded, i: redounding, '3': redounds
+redounded <> b: redound, f: pd
+redounding <> f: i, b: redound
+redounds <> f: '3', b: redound
+redpoll <> s: redpolls
+redpolls <> b: redpoll, f: s
+redraft <> i: redrafting, d: redrafted, p: redrafted, '3': redrafts, s: redrafts
+redrafted <> b: redraft, f: dp, p: redrafted
+redrafting <> b: redraft, f: i, i: redrafting, s: redraftings
+redrafts <> b: redraft, f: 3s
+redraw <> d: redrawn, i: redrawing, '3': redraws, s: redraws
+redrawing <> b: redraw, f: i, i: redrawing
+redrawn <> b: redraw, f: d
+redraws <> b: redraw, f: 3s
+redress <> i: redressing, d: redressed, '3': redresses, p: redressed
+redressed <> b: redress, f: dp
+redresser <> s: redressers
+redressers <> b: redresser, f: s
+redresses <> b: redress, f: '3'
+redressing <> b: redress, f: i
+reds <> b: red, f: s
+redshank <> s: redshanks
+redshanks <> b: redshank, f: s
+redshift <> s: redshifts
+redshifted <> p: redshifted, b: redshifted, f: p
+redshifts <> b: redshift, f: s
+redskin <> s: redskins
+redskins <> b: redskin, f: s
+redstart <> s: redstarts
+redstarts <> b: redstart, f: s
+reduce <> d: reduced, i: reducing, '3': reduces, p: reduced
+reduced <> b: reduce, f: dp, p: reduced, d: reduced
+reducer <> s: reducers
+reducers <> b: reducer, f: s
+reduces <> b: reduce, f: '3'
+reducing <> b: reduce, f: i, i: reducing
+reduction <> s: reductions
+reductionism <> s: reductionisms
+reductionisms <> b: reductionism, f: s
+reductionist <> s: reductionists
+reductionists <> b: reductionist, f: s
+reductions <> b: reduction, f: s
+reductivist <> s: reductivists
+reductivists <> b: reductivist, f: s
+redundancies <> b: redundancy, f: s
+redundancy <> s: redundancies
+reduplicate <> i: reduplicating, '3': reduplicates, d: reduplicated, p: reduplicated
+reduplicated <> b: reduplicate, f: dp
+reduplicates <> b: reduplicate, f: '3'
+reduplicating <> b: reduplicate, f: i
+redwing <> s: redwings, i: redwing, b: redwing, f: i
+redwings <> b: redwing, f: s
+redwood <> s: redwoods
+redwoods <> b: redwood, f: s
+redworm <> s: redworms
+redworms <> b: redworm, f: s
+Reebok <> s: reeboks
+reed <> s: reeds, i: reeding
+reeded <> p: reeded, b: reeded, f: p
+reedier <> b: reedy, f: r
+reeding <> b: reed, f: i
+reedling <> s: reedlings
+reedlings <> b: reedling, f: s
+reeds <> b: reed, f: s
+reedy <> r: reedier
+reef <> s: reefs, i: reefing, d: reefed, p: reefed, '3': reefs
+reefed <> b: reef, f: dp
+reefer <> s: reefers
+reefers <> b: reefer, f: s
+reefing <> b: reef, f: i
+reefs <> f: s3, b: reef
+reek <> p: reeked, '3': reeks, i: reeking, s: reeks, d: reeked
+reeked <> f: pd, b: reek
+reekies <> b: reeky, f: s
+reeking <> b: reek, f: i, i: reeking
+reeks <> b: reek, f: 3s
+reeky <> s: reekies
+reel <> i: reeling, p: reeled, s: reels, '3': reels, d: reeled
+reel-to-reel <> s: reel-to-reels
+reel-to-reels <> b: reel-to-reel, f: s
+reeled <> b: reel, f: pd
+reeling <> b: reel, f: i, s: reelings, i: reeling
+reels <> b: reel, f: s3
+reenter <> p: reentered, '3': reenters, i: reentering
+reentered <> b: reenter, f: p
+reentering <> b: reenter, f: i
+reenters <> b: reenter, f: '3'
+reestablish <> p: reestablished, d: reestablished, i: reestablishing, '3': reestablishes
+reestablished <> b: reestablish, f: pd
+reestablishes <> f: '3', b: reestablish
+reestablishing <> b: reestablish, f: i
+reevaluate <> i: reevaluating, '3': reevaluates
+reevaluates <> b: reevaluate, f: '3'
+reevaluating <> b: reevaluate, f: i
+reeve <> s: reeves, '3': reeves, i: reeving, p: reeved, d: reeved
+reeved <> f: pd, b: reeve
+Reeves <> b: reeve, f: s3
+reeving <> f: i, b: reeve
+reexamine <> d: reexamined, i: reexamining, '3': reexamines, p: reexamined
+reexamined <> b: reexamine, f: dp
+reexamines <> b: reexamine, f: '3'
+reexamining <> b: reexamine, f: i
+ref <> s: refs
+reface <> p: refaced, i: refacing, '3': refaces, d: refaced
+refaced <> f: pd, b: reface
+refaces <> f: '3', b: reface
+refacing <> f: i, b: reface
+refashion <> p: refashioned, i: refashioning, d: refashioned, '3': refashions
+refashioned <> b: refashion, f: pd
+refashioning <> b: refashion, f: i, i: refashioning
+refasten <> p: refastened, d: refastened
+refastened <> b: refasten, f: pd
+refectories <> b: refectory, f: s
+refectory <> s: refectories
+refer <> d: referred, '3': refers, i: referring, p: referred
+referee <> s: referees, d: refereed, i: refereeing, p: refereed, '3': referees
+refereed <> b: referee, f: dp, p: refereed
+refereeing <> b: referee, f: i, i: refereeing
+referees <> b: referee, f: s3
+reference <> s: references, p: referenced, d: referenced, i: referencing, '3': references
+referenced <> b: reference, f: pd, p: referenced, d: referenced
+references <> b: reference, f: s3
+referencing <> b: reference, f: i, i: referencing
+referendum <> s: referendums
+referendums <> b: referendum, f: s
+referent <> s: referents
+referents <> b: referent, f: s
+referral <> s: referrals
+referrals <> b: referral, f: s
+referred <> b: refer, f: dp, d: referred, p: referred
+referrer <> s: referrers
+referrers <> b: referrer, f: s
+referring <> b: refer, f: i
+refers <> b: refer, f: '3'
+refil <> i: refilling
+refill <> p: refilled, d: refilled, s: refills, i: refilling, '3': refills
+refilled <> b: refill, f: pd
+refilling <> b: refil, f: i
+refills <> f: s3, b: refill
+refinance <> i: refinancing, d: refinanced, p: refinanced, '3': refinances
+refinanced <> b: refinance, f: dp
+refinances <> f: '3', b: refinance
+refinancing <> i: refinancing, b: refinancing, f: i, s: refinancings
+refine <> i: refining, d: refined, p: refined, '3': refines
+refined <> b: refine, f: dp, d: refined, p: refined
+refinement <> s: refinements
+refinements <> b: refinement, f: s
+refiner <> s: refiners
+refineries <> b: refinery, f: s
+refiners <> b: refiner, f: s
+refinery <> s: refineries
+refines <> b: refine, f: '3'
+refining <> b: refine, f: i, i: refining
+refinish <> p: refinished, d: refinished, i: refinishing, '3': refinishes
+refinished <> b: refinish, f: pd
+refinishing <> b: refinish, f: i
+refit <> d: refitted, i: refitting, p: refitted, s: refits, '3': refits
+refits <> f: s3, b: refit
+refitted <> b: refit, f: dp
+refitting <> b: refit, f: i, i: refitting
+refix <> i: refixing, d: refixed, p: refixed
+refixed <> b: refix, f: dp
+refixing <> b: refix, f: i
+reflate <> i: reflating, p: reflated, '3': reflates, d: reflated
+reflated <> f: pd, b: reflate
+reflates <> f: '3', b: reflate
+reflating <> b: reflate, f: i
+reflect <> '3': reflects, d: reflected, i: reflecting, p: reflected
+reflectance <> s: reflectances
+reflectances <> b: reflectance, f: s
+reflected <> b: reflect, f: dp, p: reflected, d: reflected
+reflecting <> b: reflect, f: i
+reflection <> s: reflections
+reflections <> b: reflection, f: s
+reflective <> s: reflectives
+reflectives <> b: reflective, f: s
+reflector <> s: reflectors
+reflectors <> b: reflector, f: s
+reflects <> b: reflect, f: '3'
+reflex <> s: reflexes
+reflexes <> b: reflex, f: s
+reflexion <> s: reflexions
+reflexions <> b: reflexion, f: s
+reflexologist <> s: reflexologists
+reflexologists <> b: reflexologist, f: s
+refloat <> p: refloated, d: refloated, i: refloating, '3': refloats
+refloated <> b: refloat, f: pd
+refloating <> b: refloat, f: i, i: refloating
+refloats <> f: '3', b: refloat
+reflux <> p: refluxed, d: refluxed
+refluxed <> b: reflux, f: pd, p: refluxed, d: refluxed
+refocuse <> i: refocusing, p: refocused, d: refocused, '3': refocuses, s: refocuses
+refocused <> b: refocuse, f: pd
+refocuses <> b: refocuse, f: 3s
+refocusing <> b: refocuse, f: i, i: refocusing
+refold <> p: refolded, i: refolding, d: refolded
+refolded <> b: refold, f: pd
+refolding <> b: refold, f: i
+reforest <> d: reforested, i: reforesting, p: reforested, b: refore, f: t, '3': reforests
+reforested <> b: reforest, f: dp
+reforesting <> b: reforest, f: i
+reforests <> f: '3', b: reforest
+reform <> s: reforms, d: reformed, i: reforming, p: reformed, '3': reforms
+reformat <> i: reformatting, d: reformatted, '3': reformats
+reformation <> s: reformations
+reformations <> b: reformation, f: s
+reformatories <> b: reformatory, f: s
+reformatory <> s: reformatories
+reformats <> b: reformat, f: '3'
+reformatted <> b: reformat, f: d
+reformatting <> b: reformat, f: i, i: reformatting
+reformed <> b: reform, f: dp, d: reformed, p: reformed
+reformer <> s: reformers
+reformers <> b: reformer, f: s
+reforming <> b: reform, f: i, i: reforming, s: reformings
+reformist <> s: reformists
+reformists <> b: reformist, f: s
+reforms <> b: reform, f: s3
+reformulate <> d: reformulated, i: reformulating, '3': reformulates, p: reformulated
+reformulated <> b: reformulate, f: dp, d: reformulated
+reformulates <> b: reformulate, f: '3'
+reformulating <> b: reformulate, f: i
+reformulation <> s: reformulations
+reformulations <> b: reformulation, f: s
+refound <> d: refounded, p: refounded
+refounded <> b: refound, f: dp
+refract <> d: refracted, '3': refracts, p: refracted, i: refracting
+refracted <> b: refract, f: dp, d: refracted, p: refracted
+refracting <> b: refract, f: i
+refraction <> s: refractions
+refractions <> b: refraction, f: s
+refractor <> s: refractors
+refractories <> b: refractory, f: s
+refractors <> b: refractor, f: s
+refractory <> s: refractories
+refracts <> b: refract, f: '3'
+refrain <> p: refrained, i: refraining, d: refrained, '3': refrains, s: refrains
+refrained <> b: refrain, f: pd
+refraining <> b: refrain, f: i
+refrains <> b: refrain, f: 3s
+reframe <> d: reframed, i: reframing
+reframed <> b: reframe, f: d
+reframing <> b: reframe, f: i, i: reframing
+refreeze <> i: refreezing, s: refreezes
+refreezes <> b: refreeze, f: s
+refreezing <> b: refreeze, f: i
+refresh <> p: refreshed, d: refreshed, i: refreshing, '3': refreshes, s: refreshes
+refreshed <> b: refresh, f: pd, p: refreshed, d: refreshed
+refresher <> s: refreshers
+refreshers <> b: refresher, f: s
+refreshes <> b: refresh, f: 3s
+refreshing <> i: refreshing, b: refreshing, f: i
+refreshment <> s: refreshments
+refreshments <> b: refreshment, f: s
+refrigerant <> s: refrigerants
+refrigerants <> b: refrigerant, f: s
+refrigerate <> p: refrigerated, d: refrigerated, i: refrigerating, '3': refrigerates
+refrigerated <> b: refrigerate, f: pd, p: refrigerated, d: refrigerated
+refrigerates <> f: '3', b: refrigerate
+refrigerating <> b: refrigerate, f: i
+refrigerator <> s: refrigerators
+refrigerators <> b: refrigerator, f: s
+refs <> b: ref, f: s
+refuel <> i: refuelling, p: refuelled, d: refuelled, '3': refuels
+refuelled <> b: refuel, f: pd
+refuelling <> b: refuel, f: i, i: refuelling
+refuels <> b: refuel, f: '3'
+refuge <> s: refuges
+refugee <> s: refugees
+refugees <> b: refugee, f: s
+refuges <> b: refuge, f: s
+refund <> s: refunds, d: refunded, p: refunded, i: refunding, '3': refunds
+refunded <> b: refund, f: dp
+refunding <> b: refund, f: i
+refunds <> f: s3, b: refund
+refurbish <> d: refurbished, i: refurbishing, p: refurbished, '3': refurbishes
+refurbished <> b: refurbish, f: dp, d: refurbished, p: refurbished
+refurbishes <> b: refurbish, f: '3'
+refurbishing <> b: refurbish, f: i, i: refurbishing
+refurbishment <> s: refurbishments
+refurbishments <> b: refurbishment, f: s
+refurnish <> d: refurnished, p: refurnished, i: refurnishing, '3': refurnishes
+refurnished <> b: refurnish, f: dp, d: refurnished
+refurnishing <> b: refurnish, f: i
+refusal <> s: refusals
+refusals <> b: refusal, f: s
+refuse <> p: refused, d: refused, i: refusing, '3': refuses
+refused <> b: refuse, f: pd, p: refused, d: refused
+refusenik <> s: refuseniks
+refuseniks <> b: refusenik, f: s
+refuser <> s: refusers
+refusers <> b: refuser, f: s
+refuses <> b: refuse, f: '3'
+refusing <> b: refuse, f: i
+refutation <> s: refutations
+refutations <> b: refutation, f: s
+refute <> d: refuted, p: refuted, '3': refutes, i: refuting, s: refutes
+refuted <> b: refute, f: dp
+refutes <> b: refute, f: 3s
+refuting <> b: refute, f: i
+REG <> s: regs
+regain <> p: regained, d: regained, i: regaining, '3': regains
+regained <> b: regain, f: pd
+regaining <> b: regain, f: i
+regains <> b: regain, f: '3'
+regal <> s: regals
+regale <> p: regaled, d: regaled, i: regaling, '3': regales
+regaled <> b: regale, f: pd
+regales <> b: regale, f: '3'
+regalia <> s: regalia, b: regalia, f: s
+regaling <> b: regale, f: i
+regalist <> s: regalists
+regalists <> b: regalist, f: s
+regals <> b: regal, f: s
+regard <> d: regarded, '3': regards, p: regarded, i: regarding
+regarded <> b: regard, f: dp, d: regarded
+regarding <> b: regard, f: i
+regards <> b: regard, f: '3', s: regards
+regather <> p: regathered
+regathered <> b: regather, f: p
+regatta <> s: regattas
+regattas <> b: regatta, f: s
+regencies <> b: regency, f: s
+regency <> s: regencies
+regenerate <> i: regenerating, d: regenerated, '3': regenerates, p: regenerated, s: regenerates
+regenerated <> b: regenerate, f: dp, p: regenerated, d: regenerated
+regenerates <> b: regenerate, f: 3s
+regenerating <> b: regenerate, f: i
+regeneration <> s: regenerations
+regenerations <> b: regeneration, f: s
+regenerator <> s: regenerators
+regenerators <> b: regenerator, f: s
+regent <> s: regents
+Regents <> b: regent, f: s
+regicide <> s: regicides
+regicides <> b: regicide, f: s
+regime <> s: regimes
+regimen <> s: regimens
+regimens <> b: regimen, f: s
+regiment <> s: regiments, d: regimented, i: regimenting, p: regimented, '3': regiments
+regimental <> s: regimentals
+regimentals <> b: regimental, f: s
+regimented <> f: dp, b: regiment, d: regimented
+regimenting <> f: i, b: regiment
+regiments <> f: s3, b: regiment
+regimes <> b: regime, f: s
+region <> s: regions
+regional <> s: regionals
+regionalism <> s: regionalisms
+regionalisms <> b: regionalism, f: s
+regionalist <> s: regionalists
+regionalists <> b: regionalist, f: s
+regionalize <> p: regionalized
+regionalized <> b: regionalize, f: p
+regionals <> b: regional, f: s
+regions <> b: region, f: s
+register <> d: registered, s: registers, p: registered, i: registering, '3': registers
+registered <> b: register, f: dp, p: registered, d: registered
+registering <> b: register, f: i, i: registering
+registers <> b: register, f: s3
+registrant <> s: registrants
+registrants <> b: registrant, f: s
+registrar <> s: registrars
+registrars <> b: registrar, f: s
+registration <> s: registrations
+registrations <> b: registration, f: s
+registries <> b: registry, f: s
+registry <> s: registries
+reglaze <> p: reglazed, i: reglazing, '3': reglazes, d: reglazed
+reglazed <> b: reglaze, f: pd
+reglazes <> b: reglaze, f: '3'
+reglazing <> b: reglaze, f: i
+regorge <> i: regorging, p: regorged, '3': regorges, d: regorged
+regorged <> f: pd, b: regorge
+regorges <> f: '3', b: regorge
+regorging <> f: i, b: regorge
+regrade <> i: regrading, d: regraded, p: regraded
+regraded <> b: regrade, f: dp
+regrading <> s: regradings, i: regrading, b: regrading, f: i
+regress <> d: regressed, i: regressing, p: regressed, '3': regresses, s: regresses
+regressed <> b: regress, f: dp, p: regressed
+regresses <> b: regress, f: 3s
+regressing <> b: regress, f: i, i: regressing
+regression <> s: regressions
+regressions <> b: regression, f: s
+regret <> p: regretted, s: regrets, i: regretting, d: regretted, '3': regrets
+regrets <> b: regret, f: s3
+regretted <> b: regret, f: pd
+regretting <> b: regret, f: i
+regroup <> p: regrouped, i: regrouping, d: regrouped, s: regroups, '3': regroups
+regrouped <> b: regroup, f: pd
+regrouping <> b: regroup, f: i, i: regrouping
+regroups <> f: s3, b: regroup
+regrow <> i: regrowing, '3': regrows, d: regrown, p: regrew
+regrowing <> b: regrow, f: i
+regrown <> b: regrow, f: d
+regrows <> b: regrow, f: '3'
+regs <> b: reg, f: s
+regular <> s: regulars
+regularise <> d: regularised, p: regularised, i: regularising, '3': regularises
+regularised <> b: regularise, f: dp
+regularises <> b: regularise, f: '3'
+regularising <> b: regularise, f: i
+regularities <> b: regularity, f: s
+regularity <> s: regularities
+regularization <> s: regularizations
+regularizations <> b: regularization, f: s
+regularize <> p: regularized, d: regularized, i: regularizing, '3': regularizes
+regularized <> b: regularize, f: pd, p: regularized
+regularizes <> b: regularize, f: '3'
+regularizing <> b: regularize, f: i
+regulars <> b: regular, f: s
+regulate <> d: regulated, i: regulating, '3': regulates, p: regulated
+regulated <> b: regulate, f: dp, d: regulated, p: regulated
+regulates <> b: regulate, f: '3'
+regulating <> b: regulate, f: i, i: regulating
+regulation <> s: regulations
+regulations <> b: regulation, f: s
+regulator <> s: regulators
+regulators <> b: regulator, f: s
+regurgitate <> d: regurgitated, p: regurgitated, i: regurgitating, '3': regurgitates
+regurgitated <> b: regurgitate, f: dp, p: regurgitated
+regurgitates <> b: regurgitate, f: '3'
+regurgitating <> b: regurgitate, f: i
+regurgitation <> s: regurgitations
+regurgitations <> b: regurgitation, f: s
+rehabilitate <> d: rehabilitated, i: rehabilitating, p: rehabilitated, '3': rehabilitates
+rehabilitated <> b: rehabilitate, f: dp, p: rehabilitated
+rehabilitates <> b: rehabilitate, f: '3'
+rehabilitating <> b: rehabilitate, f: i
+rehabilitation <> s: rehabilitations
+rehabilitations <> b: rehabilitation, f: s
+rehang <> i: rehanging
+rehanging <> b: rehang, f: i
+rehash <> '3': rehashes, i: rehashing, p: rehashed, s: rehashes, d: rehashed
+rehashed <> b: rehash, f: pd
+rehashes <> b: rehash, f: 3s
+rehashing <> b: rehash, f: i
+rehear <> i: rehearing, p: reheard, '3': rehears, d: reheard
+reheard <> f: pd, b: rehear
+rehearing <> i: rehearing, b: rehearing, f: i
+rehears <> f: '3', b: rehear
+rehearsal <> s: rehearsals
+rehearsals <> b: rehearsal, f: s
+rehearse <> i: rehearsing, d: rehearsed, p: rehearsed, '3': rehearses
+rehearsed <> b: rehearse, f: dp, p: rehearsed
+rehearses <> b: rehearse, f: '3'
+rehearsing <> b: rehearse, f: i, i: rehearsing
+reheat <> i: reheating, d: reheated, p: reheated, '3': reheats
+reheated <> b: reheat, f: dp
+reheating <> b: reheat, f: i, i: reheating
+reheats <> b: reheat, f: '3'
+rehire <> d: rehired, i: rehiring, p: rehired
+rehired <> b: rehire, f: dp
+rehiring <> b: rehire, f: i
+rehome <> d: rehomed, p: rehomed, i: rehoming, s: rehomes
+rehouse <> d: rehoused, i: rehousing, p: rehoused, '3': rehouses
+rehoused <> b: rehouse, f: dp, d: rehoused
+rehouses <> f: '3', b: rehouse
+rehousing <> b: rehouse, f: i, i: rehousing
+rehung <> d: rehung, b: rehung, f: dp, p: rehung
+rehydrate <> p: rehydrated, d: rehydrated
+rehydrated <> b: rehydrate, f: pd
+Reichsmark <> s: reichsmarks
+reification <> s: reifications
+reifications <> b: reification, f: s
+reified <> b: reify, f: pd, p: reified
+reifies <> b: reify, f: '3'
+reify <> p: reified, d: reified, i: reifying, '3': reifies
+reifying <> b: reify, f: i
+reign <> p: reigned, '3': reigns, s: reigns, i: reigning, d: reigned
+reigned <> b: reign, f: pd
+reigning <> b: reign, f: i, i: reigning
+reignite <> i: reigniting, p: reignited, '3': reignites, d: reignited
+reignited <> b: reignit, f: d
+reignites <> f: '3', b: reignite
+reigniting <> b: reignit, f: i
+reigns <> b: reign, f: 3s
+reim <> s: reims, '3': reims
+reimbursable <> s: reimbursables
+reimbursables <> b: reimbursable, f: s
+reimburse <> d: reimbursed, '3': reimburses, p: reimbursed, i: reimbursing, s: reimburses
+reimbursed <> b: reimburse, f: dp, d: reimbursed, p: reimbursed
+reimbursement <> s: reimbursements
+reimbursements <> b: reimbursement, f: s
+reimburses <> b: reimburse, f: 3s
+reimbursing <> b: reimburse, f: i
+reimport <> d: reimported, p: reimported
+reimported <> b: reimport, f: dp
+reimpose <> d: reimposed, p: reimposed, i: reimposing, '3': reimposes
+reimposed <> b: reimpose, f: dp
+reimposing <> b: reimpose, f: i
+REIMS <> b: reim, f: s3
+rein <> s: reins, p: reined, d: reined, i: reining, '3': reins
+reincarnate <> p: reincarnated, d: reincarnated, s: reincarnates, i: reincarnating, '3': reincarnates
+reincarnated <> b: reincarnate, f: pd, d: reincarnated
+reincarnates <> f: s3, b: reincarnate
+reincarnating <> b: reincarnate, f: i
+reincarnation <> s: reincarnations
+reincarnations <> b: reincarnation, f: s
+reincorporate <> d: reincorporated, p: reincorporated
+reincorporated <> b: reincorporate, f: dp
+reindeer <> s: reindeers
+reindeers <> b: reindeer, f: s
+reined <> b: rein, f: pd
+reinfect <> d: reinfected
+reinfected <> b: reinfect, f: d, p: reinfected
+reinforce <> d: reinforced, '3': reinforces, i: reinforcing, p: reinforced
+reinforced <> b: reinforce, f: dp, p: reinforced, d: reinforced
+reinforcement <> s: reinforcements
+reinforcements <> b: reinforcement, f: s
+reinforcer <> s: reinforcers
+reinforcers <> b: reinforcer, f: s
+reinforces <> b: reinforce, f: '3'
+reinforcing <> b: reinforce, f: i, i: reinforcing
+reining <> b: rein, f: i
+reins <> b: rein, f: s3
+reinsert <> d: reinserted, p: reinserted, i: reinserting
+reinserted <> b: reinsert, f: dp
+reinserting <> b: reinsert, f: i
+reinstall <> '3': reinstalls, i: reinstalling, p: reinstalled, d: reinstalled
+reinstalled <> b: reinstal, f: pd
+reinstalling <> b: reinstal, f: i
+reinstalls <> b: reinstall, f: '3'
+reinstate <> d: reinstated, p: reinstated, i: reinstating, '3': reinstates
+reinstated <> b: reinstate, f: dp
+reinstates <> b: reinstate, f: '3'
+reinstating <> b: reinstate, f: i
+reinsurance <> s: reinsurances
+reinsurances <> b: reinsurance, f: s
+reinsure <> i: reinsuring, d: reinsured, p: reinsured, '3': reinsures
+reinsured <> b: reinsure, f: dp
+reinsurer <> s: reinsurers
+reinsurers <> b: reinsurer, f: s
+reinsures <> f: '3', b: reinsure
+reinsuring <> b: reinsure, f: i
+reintegrate <> d: reintegrated, i: reintegrating, '3': reintegrates, p: reintegrated
+reintegrated <> b: reintegrate, f: dp
+reintegrates <> b: reintegrate, f: '3'
+reintegrating <> b: reintegrate, f: i
+reinter <> d: reinterred, p: reinterred
+reinterpret <> '3': reinterprets, s: reinterprets, i: reinterpreting, p: reinterpreted, d: reinterpreted
+reinterpretation <> s: reinterpretations
+reinterpretations <> b: reinterpretation, f: s
+reinterpreted <> b: reinterprete, f: dp
+reinterpreting <> b: reinterprete, f: i
+reinterprets <> b: reinterpret, f: 3s
+reinterred <> b: reinter, f: dp
+reintroduce <> d: reintroduced, i: reintroducing, p: reintroduced, '3': reintroduces
+reintroduced <> b: reintroduce, f: dp, d: reintroduced, p: reintroduced
+reintroduces <> b: reintroduce, f: '3'
+reintroducing <> b: reintroduce, f: i
+reintroduction <> s: reintroductions
+reintroductions <> b: reintroduction, f: s
+reinvade <> d: reinvaded, i: reinvading, p: reinvaded
+reinvaded <> b: reinvade, f: dp
+reinvading <> b: reinvade, f: i
+reinvent <> i: reinventing, d: reinvented, p: reinvented, '3': reinvents
+reinvented <> b: reinvent, f: dp
+reinventing <> b: reinvent, f: i
+reinvents <> b: reinvent, f: '3'
+reinvest <> d: reinvested, p: reinvested, i: reinvesting, '3': reinvests, b: reinv, f: t
+reinvested <> b: reinvest, f: dp
+reinvestigate <> d: reinvestigated, i: reinvestigating, p: reinvestigated
+reinvestigated <> b: reinvestigate, f: dp
+reinvestigating <> b: reinvestigate, f: i
+reinvesting <> b: reinvest, f: i
+reinvestment <> s: reinvestments
+reinvestments <> b: reinvestment, f: s
+reinvests <> b: reinvest, f: '3'
+reinvigorate <> p: reinvigorated, d: reinvigorated, i: reinvigorating, '3': reinvigorates
+reinvigorated <> b: reinvigorate, f: pd, p: reinvigorated
+reinvigorates <> f: '3', b: reinvigorate
+reinvigorating <> b: reinvigorate, f: i
+reissue <> d: reissued, s: reissues, p: reissued, i: reissuing, '3': reissues
+reissued <> b: reissue, f: dp, p: reissued, d: reissued
+reissues <> b: reissue, f: s3
+reissuing <> b: reissue, f: i
+reiterate <> p: reiterated, d: reiterated, i: reiterating, '3': reiterates
+reiterated <> b: reiterate, f: pd, p: reiterated
+reiterates <> b: reiterate, f: '3'
+reiterating <> b: reiterate, f: i
+reiteration <> s: reiterations
+reiterations <> b: reiteration, f: s
+reive <> i: reiving, s: reives
+reiver <> s: reivers
+reivers <> b: reiver, f: s
+reives <> b: reive, f: s
+reiving <> b: reive, f: i
+reject <> d: rejected, p: rejected, i: rejecting, '3': rejects, s: rejects
+rejected <> b: reject, f: dp, p: rejected, d: rejected
+rejecting <> b: reject, f: i
+rejection <> s: rejections
+rejectionist <> s: rejectionists
+rejectionists <> b: rejectionist, f: s
+rejections <> b: rejection, f: s
+rejects <> b: reject, f: 3s
+rejig <> d: rejigged, i: rejigging, p: rejigged, '3': rejigs
+rejigged <> b: rejig, f: dp
+rejigging <> b: rejig, f: i
+rejigs <> f: '3', b: rejig
+rejoice <> i: rejoicing, p: rejoiced, '3': rejoices, d: rejoiced
+rejoiced <> b: rejoice, f: pd
+rejoices <> b: rejoice, f: '3'
+rejoicing <> b: rejoice, f: i, s: rejoicings, i: rejoicing
+rejoin <> p: rejoined, i: rejoining, d: rejoined, '3': rejoins
+rejoinder <> s: rejoinders, p: rejoindered
+rejoindered <> b: rejoinder, f: p
+rejoinders <> b: rejoinder, f: s
+rejoined <> b: rejoin, f: pd
+rejoining <> b: rejoin, f: i
+rejoins <> b: rejoin, f: '3'
+rejuvenate <> d: rejuvenated, i: rejuvenating, p: rejuvenated, '3': rejuvenates
+rejuvenated <> b: rejuvenate, f: dp, d: rejuvenated
+rejuvenates <> b: rejuvenate, f: '3'
+rejuvenating <> b: rejuvenate, f: i
+rejuvenation <> s: rejuvenations
+rejuvenations <> b: rejuvenation, f: s
+rejuvenator <> s: rejuvenators
+rejuvenators <> b: rejuvenator, f: s
+rekindle <> d: rekindled, p: rekindled, i: rekindling, '3': rekindles
+rekindled <> b: rekindle, f: dp
+rekindles <> b: rekindle, f: '3'
+rekindling <> b: rekindle, f: i
+relabel <> p: relabelled, i: relabelling
+relabelled <> b: relabel, f: p
+relabelling <> b: relabel, f: i
+relaid <> b: relay, f: dp
+relapse <> s: relapses, p: relapsed, i: relapsing, d: relapsed, '3': relapses
+relapsed <> b: relapse, f: pd
+relapses <> b: relapse, f: s3
+relapsing <> b: relapse, f: i
+relate <> i: relating, d: related, '3': relates, p: related
+related <> b: relate, f: dp, p: related, d: related
+relates <> b: relate, f: '3'
+relating <> b: relate, f: i
+relation <> s: relations
+relations <> b: relation, f: s
+relationship <> s: relationships
+relationships <> b: relationship, f: s
+relative <> s: relatives
+relatives <> b: relative, f: s
+relativist <> s: relativists
+relativists <> b: relativist, f: s
+relativities <> b: relativity, f: s
+relativity <> s: relativities
+relativize <> d: relativized, i: relativizing, '3': relativizes, p: relativized
+relativized <> f: dp, b: relativize
+relativizes <> b: relativize, f: '3'
+relativizing <> b: relativize, f: i
+relaunch <> d: relaunched, p: relaunched, i: relaunching, '3': relaunches, s: relaunches
+relaunched <> b: relaunch, f: dp, d: relaunched, p: relaunched
+relaunches <> b: relaunch, f: 3s
+relaunching <> b: relaunch, f: i, i: relaunching
+relax <> p: relaxed, i: relaxing, d: relaxed, '3': relaxes
+relaxant <> s: relaxants
+relaxants <> b: relaxant, f: s
+relaxation <> s: relaxations
+relaxations <> b: relaxation, f: s
+relaxed <> b: relax, f: pd, p: relaxed, d: relaxed
+relaxes <> b: relax, f: '3'
+relaxing <> b: relax, f: i, i: relaxing
+relay <> d: relayed, i: relaying, p: relayed, s: relays, '3': relays
+relayed <> b: relay, f: dp
+relaying <> b: relay, f: i, i: relaying
+relays <> b: relay, f: s3
+relearn <> i: relearning, d: relearned, s: relearns, '3': relearns, p: relearned
+relearned <> b: relearn, f: dp
+relearning <> b: relearn, f: i, i: relearning
+relearns <> b: relearn, f: s3
+release <> d: released, i: releasing, p: released, s: releases, '3': releases
+released <> b: release, f: dp, d: released, p: released
+releaser <> s: releasers
+releasers <> b: releaser, f: s
+releases <> b: release, f: s3
+releasing <> b: release, f: i, s: releasings
+relegate <> d: relegated, p: relegated, i: relegating, '3': relegates
+relegated <> b: relegate, f: dp, d: relegated, p: relegated
+relegates <> b: relegate, f: '3'
+relegating <> b: relegate, f: i
+relegation <> s: relegations
+relegations <> b: relegation, f: s
+relent <> p: relented, i: relenting, d: relented, '3': relents, s: relents
+relented <> b: relent, f: pd
+relenting <> b: relent, f: i, i: relenting
+relents <> b: relent, f: 3s
+relet <> i: reletting
+reletting <> b: relet, f: i
+relevancies <> b: relevancy, f: s
+relevancy <> s: relevancies
+reliabilities <> b: reliability, f: s
+reliability <> s: reliabilities
+relic <> s: relics
+relicense <> i: relicensing
+relicensing <> b: relicense, f: i, i: relicensing
+relics <> b: relic, f: s
+relict <> s: relicts
+relicts <> b: relict, f: s
+relied <> b: rely, f: dp
+relief <> s: reliefs
+reliefs <> b: relief, f: s
+relies <> b: rely, f: '3'
+relieve <> p: relieved, d: relieved, i: relieving, '3': relieves
+relieved <> b: relieve, f: pd, d: relieved, p: relieved
+reliever <> '3': relievers
+relievers <> b: reliever, f: '3'
+relieves <> b: relieve, f: '3'
+relieving <> b: relieve, f: i, i: relieving
+relight <> i: relighting, s: relights
+relighting <> b: relight, f: i
+relights <> b: relight, f: s
+religion <> s: religions
+religions <> b: religion, f: s
+reline <> d: relined, i: relining, p: relined, '3': relines
+relined <> b: reline, f: dp
+relines <> f: '3', b: reline
+relining <> b: reline, f: i
+relinquish <> p: relinquished, d: relinquished, i: relinquishing, '3': relinquishes
+relinquished <> b: relinquish, f: pd, d: relinquished
+relinquishes <> b: relinquish, f: '3'
+relinquishing <> b: relinquish, f: i, i: relinquishing
+reliquaries <> b: reliquary, f: s
+reliquary <> s: reliquaries
+relish <> p: relished, i: relishing, d: relished, '3': relishes, s: relishes
+relished <> b: relish, f: pd
+relishes <> b: relish, f: 3s
+relishing <> b: relish, f: i
+relist <> d: relisted, i: relisting
+relisted <> b: relist, f: d
+relisting <> b: relist, f: i
+relive <> i: reliving, p: relived, '3': relives, d: relived
+relived <> b: relive, f: pd
+relives <> b: relive, f: '3'
+reliving <> b: relive, f: i
+reload <> p: reloaded, i: reloading, d: reloaded, '3': reloads, s: reloads
+reloaded <> b: reload, f: pd
+reloading <> b: reload, f: i
+reloads <> b: reload, f: 3s
+relocate <> d: relocated, i: relocating, p: relocated, '3': relocates
+relocated <> b: relocate, f: dp, d: relocated
+relocates <> b: relocate, f: '3'
+relocating <> b: relocate, f: i
+relocation <> s: relocations
+relocations <> b: relocation, f: s
+rely <> i: relying, '3': relies, d: relied, p: relied
+relying <> b: rely, f: i
+REM <> s: rems, p: remmed, d: remmed
+remade <> b: remake, f: dp
+remain <> '3': remains, p: remained, d: remained, i: remaining, s: remains
+remainder <> s: remainders, d: remaindered, i: remaindering, p: remaindered, '3': remainders
+remaindered <> f: dp, b: remainder, p: remaindered
+remaindering <> f: i, b: remainder
+remainders <> f: s3, b: remainder
+remained <> b: remain, f: pd
+remaining <> b: remain, f: i, i: remaining
+remains <> b: remain, f: 3s, s: remains
+remake <> d: remade, i: remaking, p: remade, s: remakes, '3': remakes
+remakes <> f: s3, b: remake
+remaking <> b: remake, f: i, i: remaking
+reman <> s: remans
+remand <> d: remanded, s: remands, p: remanded, i: remanding, '3': remands
+remanded <> b: remand, f: dp
+remanding <> b: remand, f: i
+remands <> f: s3, b: remand
+remanence <> s: remanences
+remanences <> b: remanence, f: s
+remans <> b: reman, f: s
+remanufacture <> '3': remanufactures, d: remanufactured, i: remanufacturing, p: remanufactured
+remanufactured <> b: remanufacture, f: dp, p: remanufactured
+remap <> d: remapped, i: remapping, p: remapped
+remapped <> b: remap, f: dp
+remapping <> b: remap, f: i
+remark <> s: remarks, p: remarked, d: remarked, '3': remarks, i: remarking
+remarked <> b: remark, f: pd
+remarking <> b: remark, f: i, i: remarking
+remarks <> b: remark, f: s3
+remarriage <> s: remarriages
+remarriages <> b: remarriage, f: s
+remarried <> b: remarry, f: dp, d: remarried, p: remarried
+remarries <> b: remarry, f: '3'
+remarry <> d: remarried, p: remarried, i: remarrying, '3': remarries
+remarrying <> b: remarry, f: i
+remaster <> d: remastered, p: remastered, i: remastering
+remastered <> b: remaster, f: dp
+remastering <> b: remaster, f: i, i: remastering
+remeasure <> d: remeasured, p: remeasured, i: remeasuring
+remeasured <> b: remeasure, f: dp
+remeasuring <> b: remeasure, f: i
+remedial <> s: remedials
+remedials <> b: remedial, f: s
+remediate <> i: remediating
+remediating <> b: remediate, f: i
+remedied <> b: remedy, f: dp
+remedies <> b: remedy, f: s3
+remedy <> s: remedies, d: remedied, i: remedying, p: remedied, '3': remedies
+remedying <> b: remedy, f: i
+remember <> p: remembered, d: remembered, i: remembering, '3': remembers
+remembered <> b: remember, f: pd, p: remembered, d: remembered
+remembering <> b: remember, f: i, i: remembering, s: rememberings
+remembers <> b: remember, f: '3'
+remembrance <> s: remembrances
+remembrancer <> s: remembrancers
+remembrancers <> b: remembrancer, f: s
+remembrances <> b: remembrance, f: s
+remilitarize <> i: remilitarizing, p: remilitarized, '3': remilitarizes, d: remilitarized
+remilitarized <> f: pd, b: remilitarize
+remilitarizes <> f: '3', b: remilitarize
+remilitarizing <> f: i, b: remilitarize
+remind <> p: reminded, d: reminded, '3': reminds, i: reminding
+reminded <> b: remind, f: pd
+reminder <> s: reminders
+reminders <> b: reminder, f: s
+reminding <> b: remind, f: i
+reminds <> b: remind, f: '3'
+reminisce <> i: reminiscing, p: reminisced, '3': reminisces, d: reminisced
+reminisced <> b: reminisce, f: pd
+reminiscence <> s: reminiscences
+reminiscences <> b: reminiscence, f: s
+reminiscer <> s: reminiscers
+reminiscers <> b: reminiscer, f: s
+reminisces <> b: reminisce, f: '3'
+reminiscing <> b: reminisce, f: i, i: reminiscing
+remise <> s: remises
+remises <> b: remise, f: s
+remission <> s: remissions
+remissions <> b: remission, f: s
+remit <> d: remitted, s: remits, p: remitted, i: remitting, '3': remits
+remits <> b: remit, f: s3
+remittance <> s: remittances
+remittances <> b: remittance, f: s
+remitted <> b: remit, f: dp
+remitting <> b: remit, f: i
+remix <> s: remixes, d: remixed, p: remixed, i: remixing, '3': remixes
+remixed <> b: remix, f: dp, p: remixed
+remixer <> s: remixers
+remixers <> b: remixer, f: s
+remixes <> b: remix, f: s
+remixing <> b: remix, f: i
+remnant <> s: remnants
+remnants <> b: remnant, f: s
+remodel <> d: remodelled, i: remodelling, p: remodelled, '3': remodels
+remodeled <> f: pd, b: remodel
+remodeling <> f: i, b: remodel
+remodelled <> b: remodel, f: dp, d: remodelled, p: remodelled
+remodelling <> b: remodel, f: i, i: remodelling
+remodels <> f: '3', b: remodel
+remonstrance <> s: remonstrances
+remonstrances <> b: remonstrance, f: s
+remonstrate <> p: remonstrated, i: remonstrating, d: remonstrated, '3': remonstrates
+remonstrated <> b: remonstrate, f: pd
+remonstrates <> b: remonstrate, f: '3'
+remonstrating <> b: remonstrate, f: i
+remonstration <> s: remonstrations
+remonstrations <> b: remonstration, f: s
+remortgage <> i: remortgaging, s: remortgages, d: remortgaged, '3': remortgages, p: remortgaged
+remortgaged <> b: remortgage, f: dp
+remortgages <> b: remortgage, f: s3
+remortgaging <> b: remortgage, f: i
+remote <> r: remoter, t: remotest
+remoter <> b: remote, f: r
+remotest <> b: remote, f: t
+remould <> p: remoulded, d: remoulded, i: remoulding, '3': remoulds
+remoulded <> b: remould, f: pd
+remoulding <> b: remould, f: i
+remoulds <> f: '3', b: remould
+remount <> s: remounts, p: remounted, d: remounted, i: remounting, '3': remounts
+remounted <> b: remount, f: pd
+remounting <> b: remount, f: i
+remounts <> f: s3, b: remount
+removable <> s: removables
+removables <> b: removable, f: s
+removal <> s: removals
+removals <> b: removal, f: s
+remove <> d: removed, i: removing, p: removed, '3': removes
+removed <> b: remove, f: dp, d: removed, p: removed
+remover <> s: removers
+removers <> b: remover, f: s
+removes <> b: remove, f: '3'
+removing <> b: remove, f: i
+remunerate <> d: remunerated, p: remunerated, i: remunerating, '3': remunerates
+remunerated <> b: remunerate, f: dp, p: remunerated
+remunerates <> b: remunerate, f: '3'
+remunerating <> b: remunerate, f: i
+remuneration <> s: remunerations
+remunerations <> b: remuneration, f: s
+rename <> d: renamed, p: renamed, i: renaming, '3': renames
+renamed <> b: rename, f: dp, d: renamed, p: renamed
+renames <> b: rename, f: '3'
+renaming <> b: rename, f: i, s: renamings, i: renaming
+renationalise <> i: renationalising, d: renationalised
+renationalised <> b: renationalise, f: d
+renationalising <> b: renationalise, f: i
+rencontre <> s: rencontres
+rencontres <> b: rencontre, f: s
+rend <> i: rending, '3': rends, p: rent, d: rent
+render <> d: rendered, '3': renders, i: rendering, p: rendered
+rendered <> b: render, f: dp
+renderer <> s: renderers
+renderers <> b: renderer, f: s
+rendering <> b: render, f: i, s: renderings, i: rendering
+renders <> b: render, f: '3'
+rendezvous <> i: rendezvousing, p: rendezvoused, '3': rendezvouses, d: rendezvoused
+rendezvoused <> b: rendezvouse, f: pd
+rendezvouses <> f: '3', b: rendezvous
+rendezvousing <> b: rendezvouse, f: i
+rending <> b: rend, f: i, s: rendings
+rendition <> s: renditions
+renditions <> b: rendition, f: s
+rends <> b: rend, f: '3'
+renegade <> s: renegades
+renegades <> b: renegade, f: s
+renege <> i: reneging, d: reneged, p: reneged, s: reneges, '3': reneges
+reneged <> b: renege, f: dp
+reneges <> b: renege, f: s3
+reneging <> b: renege, f: i
+renegotiate <> d: renegotiated, i: renegotiating, p: renegotiated, '3': renegotiates
+renegotiated <> b: renegotiate, f: dp
+renegotiates <> b: renegotiate, f: '3'
+renegotiating <> b: renegotiate, f: i
+renegotiation <> s: renegotiations
+renegotiations <> b: renegotiation, f: s
+renew <> p: renewed, d: renewed, i: renewing, '3': renews
+renewable <> s: renewables, '3': renewables
+renewables <> b: renewable, f: s3
+renewal <> s: renewals
+renewals <> b: renewal, f: s
+renewed <> b: renew, f: pd, d: renewed, p: renewed
+renewing <> b: renew, f: i
+renews <> b: renew, f: '3'
+renne <> s: rennes
+Rennes <> b: renne, f: s
+renoir <> s: renoirs
+renoirs <> b: renoir, f: s
+renominate <> d: renominated, p: renominated
+renominated <> b: renominate, f: dp
+renounce <> d: renounced, p: renounced, i: renouncing, '3': renounces
+renounced <> b: renounce, f: dp
+renounces <> b: renounce, f: '3'
+renouncing <> b: renounce, f: i
+renovate <> d: renovated, i: renovating, p: renovated, '3': renovates
+renovated <> b: renovate, f: dp, d: renovated, p: renovated
+renovates <> b: renovate, f: '3'
+renovating <> b: renovate, f: i, i: renovating
+renovation <> s: renovations
+renovations <> b: renovation, f: s
+renovator <> s: renovators
+renovators <> b: renovator, f: s
+Renshaw <> s: renshaws
+rent <> s: rents, i: renting, d: rented, p: rented, '3': rents, b: rent, f: d
+rental <> s: rentals
+rentals <> b: rental, f: s
+rented <> b: rent, f: dp, d: rented, p: rented
+renter <> s: renters
+renters <> b: renter, f: s
+rentier <> s: rentiers
+rentiers <> b: rentier, f: s
+renting <> b: rent, f: i, i: renting
+renumber <> d: renumbered, p: renumbered, i: renumbering
+renumbered <> b: renumber, f: dp, d: renumbered
+renumbering <> b: renumber, f: i
+renunciation <> s: renunciations
+renunciations <> b: renunciation, f: s
+reoccupied <> b: reoccupy, f: dp
+reoccupy <> d: reoccupied, p: reoccupied, i: reoccupying
+reoccupying <> b: reoccupy, f: i
+reoccur <> i: reoccurring, p: reoccurred, s: reoccurs
+reoccurred <> b: reoccur, f: p
+reoccurrence <> s: reoccurrences
+reoccurrences <> b: reoccurrence, f: s
+reoccurring <> b: reoccur, f: i
+reoccurs <> b: reoccur, f: s
+reoffend <> i: reoffending, d: reoffended, '3': reoffends
+reoffended <> b: reoffend, f: d
+reoffending <> b: reoffend, f: i, i: reoffending
+reoffends <> b: reoffend, f: '3'
+reopen <> d: reopened, p: reopened, '3': reopens, i: reopening
+reopened <> b: reopen, f: dp, p: reopened
+reopening <> b: reopen, f: i, i: reopening, s: reopenings
+reopens <> b: reopen, f: '3'
+reorder <> d: reordered, i: reordering, p: reordered, '3': reorders
+reordered <> b: reorder, f: dp, p: reordered
+reordering <> b: reorder, f: i, i: reordering
+reorders <> b: reorder, f: '3'
+reorganisation <> s: reorganisations
+reorganisations <> b: reorganisation, f: s
+reorganise <> d: reorganised, i: reorganising, p: reorganised, '3': reorganises
+reorganised <> b: reorganise, f: dp, d: reorganised
+reorganises <> b: reorganise, f: '3'
+reorganising <> b: reorganise, f: i
+reorganization <> s: reorganizations
+reorganizations <> b: reorganization, f: s
+reorganize <> d: reorganized, p: reorganized, i: reorganizing, '3': reorganizes
+reorganized <> b: reorganize, f: dp, p: reorganized
+reorganizes <> b: reorganize, f: '3'
+reorganizing <> b: reorganize, f: i
+reorient <> i: reorienting, p: reoriented, '3': reorients, d: reoriented
+reorientate <> d: reorientated, i: reorientating, p: reorientated, '3': reorientates
+reorientated <> b: reorientate, f: dp
+reorientates <> f: '3', b: reorientate
+reorientating <> b: reorientate, f: i
+reoriented <> f: pd, b: reorient
+reorienting <> b: reorient, f: i
+reorients <> f: '3', b: reorient
+rep <> s: reps, d: repped, i: repping
+repack <> p: repacked, i: repacking, d: repacked
+repackage <> d: repackaged, i: repackaging, p: repackaged, '3': repackages
+repackaged <> b: repackage, f: dp
+repackages <> b: repackage, f: '3'
+repackaging <> b: repackage, f: i, s: repackagings, i: repackaging
+repacked <> b: repack, f: pd
+repacking <> b: repack, f: i
+repaid <> b: repay, f: dp
+repaint <> d: repainted, p: repainted, i: repainting, s: repaints, '3': repaints
+repainted <> b: repaint, f: dp, d: repainted
+repainting <> b: repaint, f: i, i: repainting
+repaints <> b: repaint, f: s
+repair <> s: repairs, i: repairing, d: repaired, p: repaired, '3': repairs
+repaired <> b: repair, f: dp, p: repaired, d: repaired
+repairer <> s: repairers
+repairers <> b: repairer, f: s
+repairing <> b: repair, f: i, i: repairing
+repairman <> s: repairmen
+repairmen <> b: repairman, f: s
+repairs <> b: repair, f: s3
+repaper <> d: repapered, i: repapering
+repapered <> b: repaper, f: d
+repapering <> b: repaper, f: i
+reparation <> s: reparations
+reparations <> b: reparation, f: s
+repartition <> i: repartitioning, p: repartitioned
+repartitioned <> b: repartition, f: p
+repartitioning <> b: repartition, f: i
+repass <> i: repassing, p: repassed
+repassed <> b: repass, f: p
+repassing <> b: repass, f: i
+repast <> s: repasts
+repasts <> b: repast, f: s
+repatriate <> d: repatriated, i: repatriating, s: repatriates, '3': repatriates, p: repatriated
+repatriated <> b: repatriate, f: dp, d: repatriated
+repatriates <> b: repatriate, f: s3
+repatriating <> b: repatriate, f: i
+repatriation <> s: repatriations
+repatriations <> b: repatriation, f: s
+repay <> d: repaid, i: repaying, p: repaid, '3': repays
+repaying <> b: repay, f: i
+repayment <> s: repayments
+repayments <> b: repayment, f: s
+repays <> b: repay, f: '3'
+repeal <> d: repealed, i: repealing, p: repealed, '3': repeals, s: repeals
+repealed <> b: repeal, f: dp, d: repealed, p: repealed
+repealing <> b: repeal, f: i
+repeals <> b: repeal, f: 3s
+repeat <> p: repeated, d: repeated, i: repeating, '3': repeats, s: repeats
+repeated <> b: repeat, f: pd, d: repeated, p: repeated
+repeater <> s: repeaters
+repeaters <> b: repeater, f: s
+repeating <> b: repeat, f: i, i: repeating
+repeats <> b: repeat, f: 3s
+repel <> d: repelled, p: repelled, i: repelling, '3': repels
+repellant <> s: repellants
+repellants <> b: repellant, f: s
+repelled <> b: repel, f: dp
+repellent <> s: repellents
+repellents <> b: repellent, f: s
+repelling <> b: repel, f: i, i: repelling
+repels <> b: repel, f: '3'
+repent <> p: repented, d: repented, '3': repents, i: repenting
+repented <> b: repent, f: pd
+repenting <> b: repent, f: i
+repents <> b: repent, f: '3'
+repeople <> i: repeopling, p: repeopled
+repeopled <> b: repeople, f: p
+repeopling <> b: repeople, f: i
+repercussion <> s: repercussions
+repercussions <> b: repercussion, f: s
+repertoire <> s: repertoires
+repertoires <> b: repertoire, f: s
+repertories <> b: repertory, f: s
+repertory <> s: repertories
+repetition <> s: repetitions
+repetitions <> b: repetition, f: s
+rephrase <> d: rephrased, i: rephrasing, p: rephrased, '3': rephrases
+rephrased <> b: rephrase, f: dp
+rephrases <> b: rephrase, f: '3'
+rephrasing <> b: rephrase, f: i
+repine <> i: repining, p: repined, '3': repines, d: repined
+repined <> f: pd, b: repine
+repines <> f: '3', b: repine
+repining <> b: repine, f: i
+replace <> d: replaced, i: replacing, p: replaced, '3': replaces
+replaced <> b: replace, f: dp, d: replaced, p: replaced
+replacement <> s: replacements
+replacements <> b: replacement, f: s
+replacer <> s: replacers
+replacers <> b: replacer, f: s
+replaces <> b: replace, f: '3'
+replacing <> b: replace, f: i
+replan <> i: replanning, d: replanned, p: replanned
+replanned <> b: replan, f: dp
+replanning <> b: replan, f: i
+replant <> i: replanting, d: replanted, p: replanted, '3': replants
+replanted <> b: replant, f: dp
+replanting <> b: replant, f: i, i: replanting
+replay <> d: replayed, s: replays, p: replayed, i: replaying, '3': replays
+replayed <> b: replay, f: dp
+replaying <> b: replay, f: i
+replays <> b: replay, f: s3
+replenish <> d: replenished, i: replenishing, p: replenished, '3': replenishes
+replenished <> b: replenish, f: dp
+replenishes <> b: replenish, f: '3'
+replenishing <> b: replenish, f: i
+replenishment <> s: replenishments
+replenishments <> b: replenishment, f: s
+replete <> s: repletes, r: more replete, t: most replete
+repletes <> b: replete, f: s
+replica <> s: replicas
+replicant <> s: replicants
+replicants <> b: replicant, f: s
+replicas <> b: replica, f: s
+replicate <> d: replicated, '3': replicates, i: replicating, p: replicated
+replicated <> b: replicate, f: dp, p: replicated
+replicates <> b: replicate, f: '3'
+replicating <> b: replicate, f: i
+replication <> s: replications
+replications <> b: replication, f: s
+replicator <> s: replicators
+replicators <> b: replicator, f: s
+replied <> b: reply, f: pd
+replies <> b: reply, f: s3
+reply <> p: replied, s: replies, '3': replies, i: replying, d: replied
+replying <> b: reply, f: i
+repo <> s: repos
+repoint <> i: repointing, d: repointed, p: repointed, '3': repoints
+repointed <> b: repoint, f: dp
+repointing <> b: repoint, f: i
+repoints <> f: '3', b: repoint
+repolish <> d: repolished, i: repolishing, p: repolished
+repolished <> b: repolish, f: dp
+repolishing <> b: repolish, f: i
+repopulate <> d: repopulated, p: repopulated, i: repopulating
+repopulated <> b: repopulate, f: dp
+repopulating <> b: repopulate, f: i
+report <> d: reported, s: reports, p: reported, '3': reports, i: reporting
+reported <> b: report, f: dp, p: reported, d: reported
+reporter <> s: reporters
+reporters <> b: reporter, f: s
+reporting <> b: report, f: i, i: reporting
+reports <> b: report, f: s3
+repos <> b: repo, f: s
+repose <> i: reposing, p: reposed, d: reposed, '3': reposes, s: reposes
+reposed <> b: repose, f: pd
+reposes <> b: repose, f: 3s
+reposing <> b: repose, f: i
+reposition <> i: repositioning, p: repositioned, d: repositioned, '3': repositions
+repositioned <> b: reposition, f: pd
+repositioning <> b: reposition, f: i, s: repositionings
+repositions <> b: reposition, f: '3'
+repositories <> b: repository, f: s
+repository <> s: repositories
+repossess <> d: repossessed, i: repossessing, p: repossessed, '3': repossesses
+repossessed <> b: repossess, f: dp, d: repossessed
+repossesses <> f: '3', b: repossess
+repossessing <> b: repossess, f: i
+repossession <> s: repossessions
+repossessions <> b: repossession, f: s
+repot <> p: repotted, i: repotting, '3': repots, d: repotted
+repots <> f: '3', b: repot
+repotted <> f: pd, b: repot
+repotting <> b: repot, f: i
+repped <> b: rep, f: d
+repping <> b: rep, f: i
+reprehend <> i: reprehending, p: reprehended, '3': reprehends, d: reprehended
+reprehended <> f: pd, b: reprehend
+reprehending <> f: i, b: reprehend
+reprehends <> f: '3', b: reprehend
+represent <> d: represented, '3': represents, i: representing, p: represented
+representation <> s: representations
+representations <> b: representation, f: s
+representative <> s: representatives
+representatives <> b: representative, f: s
+represented <> b: represent, f: dp
+representing <> b: represent, f: i, i: representing
+represents <> b: represent, f: '3'
+repress <> i: repressing, d: repressed, p: repressed, '3': represses, s: represses
+repressed <> d: repressed, b: repressed, f: dp, p: repressed
+represses <> b: repress, f: 3s
+repressing <> b: repress, f: i
+repression <> s: repressions
+repressions <> b: repression, f: s
+repressor <> s: repressors
+repressors <> b: repressor, f: s
+reprieve <> d: reprieved, p: reprieved, i: reprieving, s: reprieves, '3': reprieves
+reprieved <> b: reprieve, f: dp, p: reprieved
+reprieves <> b: reprieve, f: s3
+reprieving <> b: reprieve, f: i
+reprimand <> d: reprimanded, p: reprimanded, s: reprimands, i: reprimanding, '3': reprimands
+reprimanded <> b: reprimand, f: dp
+reprimanding <> b: reprimand, f: i
+reprimands <> b: reprimand, f: s3
+reprint <> d: reprinted, s: reprints, i: reprinting, p: reprinted, '3': reprints
+reprinted <> b: reprint, f: dp, d: reprinted, p: reprinted
+reprinting <> b: reprint, f: i, i: reprinting, s: reprintings
+reprints <> b: reprint, f: s3
+reprisal <> s: reprisals
+reprisals <> b: reprisal, f: s
+reprise <> d: reprised, i: reprising, '3': reprises, s: reprises, p: reprised
+reprised <> f: dp, b: reprise
+reprises <> b: reprise, f: 3s
+reprising <> b: reprise, f: i
+reproach <> p: reproached, s: reproaches, d: reproached, '3': reproaches, i: reproaching
+reproached <> b: reproach, f: pd
+reproaches <> b: reproach, f: s3
+reproaching <> b: reproach, f: i
+reprobate <> '3': reprobates, s: reprobates, i: reprobating, p: reprobated, d: reprobated
+reprobated <> f: pd, b: reprobate
+reprobates <> b: reprobate, f: 3s
+reprobating <> f: i, b: reprobate
+reprocess <> d: reprocessed, p: reprocessed, i: reprocessing, s: reprocesses, '3': reprocesses
+reprocessed <> b: reprocess, f: dp, d: reprocessed
+reprocesses <> b: reprocess, f: s
+reprocessing <> i: reprocessing, b: reprocessing, f: i
+reproduce <> d: reproduced, i: reproducing, '3': reproduces, p: reproduced
+reproduced <> b: reproduce, f: dp
+reproducer <> s: reproducers
+reproducers <> b: reproducer, f: s
+reproduces <> b: reproduce, f: '3'
+reproducing <> b: reproduce, f: i, i: reproducing
+reproduction <> s: reproductions
+reproductions <> b: reproduction, f: s
+reproductive <> s: reproductives
+reproductives <> b: reproductive, f: s
+reprogram <> d: reprogrammed, p: reprogrammed, i: reprogramming
+reprogrammed <> b: reprogram, f: dp
+reprogramming <> b: reprogram, f: i, i: reprogramming
+reprographic <> s: reprographics
+reprographics <> b: reprographic, f: s
+reproof <> s: reproofs, i: reproofing, p: reproofed, '3': reproofs
+reproofed <> b: reproof, f: p
+reproofing <> b: reproof, f: i
+reproofs <> b: reproof, f: s
+reprove <> p: reproved, d: reproved, '3': reproves, i: reproving
+reproved <> b: reprove, f: pd
+reproves <> b: reprove, f: '3'
+reproving <> b: reprove, f: i
+reps <> b: rep, f: s
+reptile <> s: reptiles
+reptiles <> b: reptile, f: s
+reptilian <> s: reptilians
+reptilians <> b: reptilian, f: s
+republic <> s: republics
+republican <> s: republicans
+republics <> b: republic, f: s
+republish <> d: republished, p: republished, '3': republishes, i: republishing
+republished <> b: republish, f: dp
+republishes <> b: republish, f: '3'
+republishing <> b: republish, f: i
+repudiate <> p: repudiated, d: repudiated, i: repudiating, '3': repudiates
+repudiated <> b: repudiate, f: pd
+repudiates <> b: repudiate, f: '3'
+repudiating <> b: repudiate, f: i
+repudiation <> s: repudiations
+repudiations <> b: repudiation, f: s
+repulse <> d: repulsed, p: repulsed, i: repulsing, '3': repulses
+repulsed <> b: repulse, f: dp, d: repulsed, p: repulsed
+repulses <> b: repulse, f: '3'
+repulsing <> b: repulse, f: i
+repulsion <> s: repulsions
+repulsions <> b: repulsion, f: s
+repurchase <> s: repurchases, d: repurchased, p: repurchased, i: repurchasing, '3': repurchases
+repurchased <> b: repurchase, f: dp
+repurchases <> f: s3, b: repurchase
+repurchasing <> b: repurchase, f: i
+reputation <> s: reputations
+reputations <> b: reputation, f: s
+repute <> d: reputed, i: reputing, p: reputed, '3': reputes
+reputed <> f: dp, b: repute, d: reputed
+reputes <> f: '3', b: repute
+reputing <> b: repute, f: i
+request <> s: requests, d: requested, i: requesting, p: requested, '3': requests
+requested <> b: request, f: dp, d: requested
+requester <> s: requesters
+requesters <> b: requester, f: s
+requesting <> b: request, f: i, i: requesting
+requests <> b: request, f: s3
+requiem <> s: requiems
+requiems <> b: requiem, f: s
+require <> d: required, '3': requires, i: requiring, p: required
+required <> b: require, f: dp, d: required, p: required
+requirement <> s: requirements
+requirements <> b: requirement, f: s
+requires <> b: require, f: '3'
+requiring <> b: require, f: i
+requisite <> s: requisites
+requisites <> b: requisite, f: s
+requisition <> s: requisitions, d: requisitioned, p: requisitioned, i: requisitioning, '3': requisitions
+requisitioned <> b: requisition, f: dp, d: requisitioned, p: requisitioned
+requisitioner <> s: requisitioners
+requisitioners <> b: requisitioner, f: s
+requisitioning <> b: requisition, f: i, i: requisitioning
+requisitions <> b: requisition, f: s3
+requite <> i: requiting, p: requited, '3': requites, d: requited
+requited <> b: requit, f: pd
+requites <> f: '3', b: requite
+requiting <> b: requit, f: i
+reran <> f: p, b: rerun
+reread <> i: rereading, p: reread, b: reread, f: pd, d: reread, '3': rereads
+rereading <> b: reread, f: i
+rereads <> b: reread, f: '3'
+reredo <> s: reredos
+reredos <> b: reredo, f: s
+rerouting <> b: rerout, f: i, i: rerouting
+rerun <> d: rerun, b: rerun, i: rerunning, '3': reruns, f: d, p: reran, s: reruns
+rerunning <> b: rerun, f: i
+reruns <> b: rerun, f: s3
+RES <> b: re, f: s
+resale <> s: resales
+resales <> b: resale, f: s
+rescale <> i: rescaling, d: rescaled, p: rescaled
+rescaled <> b: rescale, f: dp
+rescaling <> b: rescale, f: i, i: rescaling
+reschedule <> i: rescheduling, d: rescheduled, p: rescheduled, '3': reschedules
+rescheduled <> b: reschedule, f: dp
+reschedules <> f: '3', b: reschedule
+rescheduling <> b: reschedule, f: i, i: rescheduling
+rescind <> d: rescinded, p: rescinded, i: rescinding, s: rescinds, '3': rescinds
+rescinded <> b: rescind, f: dp, d: rescinded, p: rescinded
+rescinding <> b: rescind, f: i, i: rescinding
+rescinds <> f: s3, b: rescind
+rescript <> s: rescripts, p: rescripted
+rescripted <> b: rescript, f: p
+rescripts <> b: rescript, f: s
+rescue <> d: rescued, p: rescued, i: rescuing, '3': rescues, s: rescues
+rescued <> b: rescue, f: dp, d: rescued, p: rescued
+rescuer <> s: rescuers
+rescuers <> b: rescuer, f: s
+rescues <> b: rescue, f: 3s
+rescuing <> b: rescue, f: i, i: rescuing
+reseal <> p: resealed, d: resealed, i: resealing, '3': reseals
+resealed <> b: reseal, f: pd
+resealing <> b: reseal, f: i
+reseals <> b: reseal, f: '3'
+research <> i: researching, d: researched, s: researches, p: researched, '3': researches
+researched <> b: research, f: dp, d: researched
+researcher <> s: researchers
+researchers <> b: researcher, f: s
+researches <> f: s3, b: research
+researching <> b: research, f: i
+reseat <> p: reseated, d: reseated, i: reseating, '3': reseats
+reseated <> b: reseat, f: pd
+reseating <> b: reseat, f: i
+reseats <> f: '3', b: reseat
+resect <> d: resected, p: resected, i: resecting, '3': resects
+resected <> b: resect, f: dp, p: resected
+resecting <> b: resect, f: i
+resection <> s: resections
+resections <> b: resection, f: s
+reseed <> i: reseeding, d: reseeded, p: reseeded, '3': reseeds
+reseeded <> b: reseed, f: dp
+reseeding <> b: reseed, f: i, i: reseeding
+reseeds <> b: reseed, f: '3'
+reselect <> d: reselected, p: reselected
+reselected <> b: reselect, f: dp
+reselection <> s: reselections
+reselections <> b: reselection, f: s
+resell <> i: reselling, '3': resells, p: resold, d: resold
+reseller <> s: resellers
+resellers <> b: reseller, f: s
+reselling <> b: resell, f: i, i: reselling
+resells <> b: resell, f: '3'
+resemblance <> s: resemblances
+resemblances <> b: resemblance, f: s
+resemble <> '3': resembles, i: resembling, p: resembled, d: resembled
+resembled <> b: resemble, f: pd
+resembles <> b: resemble, f: '3'
+resembling <> b: resemble, f: i
+resent <> p: resented, d: resented, i: resenting, '3': resents, b: resent, f: dp
+resented <> b: resent, f: pd, p: resented, d: resented
+resenting <> b: resent, f: i
+resentment <> s: resentments
+resentments <> b: resentment, f: s
+resents <> b: resent, f: '3'
+reservation <> s: reservations
+reservations <> b: reservation, f: s
+reserve <> s: reserves, d: reserved, p: reserved, '3': reserves, i: reserving
+reserved <> b: reserve, f: dp, d: reserved, p: reserved
+reserves <> b: reserve, f: s3
+reserving <> b: reserve, f: i, i: reserving
+reservist <> s: reservists
+reservists <> b: reservist, f: s
+reservoir <> s: reservoirs
+reservoirs <> b: reservoir, f: s
+reset <> d: reset, b: reset, f: dp, '3': resets, i: resetting, p: reset
+resets <> b: reset, f: '3'
+resetting <> b: reset, f: i, i: resetting
+resettle <> d: resettled, i: resettling, p: resettled, '3': resettles
+resettled <> b: resettle, f: dp, d: resettled
+resettlement <> s: resettlements
+resettlements <> b: resettlement, f: s
+resettles <> b: resettle, f: '3'
+resettling <> b: resettle, f: i, i: resettling
+reshape <> i: reshaping, d: reshaped, p: reshaped, '3': reshapes
+reshaped <> b: reshape, f: dp, d: reshaped, p: reshaped
+reshapes <> b: reshape, f: '3'
+reshaping <> b: reshape, f: i, i: reshaping
+resharpen <> d: resharpened, i: resharpening
+resharpened <> b: resharpen, f: d
+resharpening <> b: resharpen, f: i
+reshuffle <> p: reshuffled, d: reshuffled, i: reshuffling, s: reshuffles, '3': reshuffles
+reshuffled <> b: reshuffle, f: pd, d: reshuffled
+reshuffles <> b: reshuffle, f: s3
+reshuffling <> b: reshuffle, f: i, i: reshuffling
+reside <> '3': resides, i: residing, p: resided, d: resided
+resided <> b: reside, f: pd
+residence <> s: residences
+residences <> b: residence, f: s
+residencies <> b: residency, f: s
+residency <> s: residencies
+resident <> s: residents
+residents <> b: resident, f: s
+resides <> b: reside, f: '3'
+residing <> b: reside, f: i, i: residing
+residual <> s: residuals
+residuals <> b: residual, f: s
+residue <> s: residues
+residues <> b: residue, f: s
+resign <> p: resigned, d: resigned, i: resigning, '3': resigns
+resignation <> s: resignations
+resignations <> b: resignation, f: s
+resigned <> b: resign, f: pd, d: resigned, p: resigned
+resigning <> b: resign, f: i, i: resigning
+resigns <> b: resign, f: '3'
+resile <> d: resiled, p: resiled, i: resiling, '3': resiles
+resiled <> b: resile, f: dp
+resiles <> f: '3', b: resile
+resiling <> f: i, b: resile
+resin <> s: resins
+resinate <> i: resinating, p: resinated, '3': resinates, d: resinated
+resinated <> f: pd, b: resinate
+resinates <> f: '3', b: resinate
+resinating <> f: i, b: resinate
+resins <> b: resin, f: s
+resist <> d: resisted, p: resisted, i: resisting, '3': resists
+resistance <> s: resistances
+resistances <> b: resistance, f: s
+resisted <> b: resist, f: dp
+resister <> s: resisters
+resisters <> b: resister, f: s
+resisting <> b: resist, f: i, i: resisting
+resistivities <> b: resistivity, f: s
+resistivity <> s: resistivities
+resistor <> s: resistors
+resistors <> b: resistor, f: s
+resists <> b: resist, f: '3'
+resit <> s: resits, i: resiting, d: resited, p: resited, '3': resits
+resited <> b: resit, f: dp
+resiting <> b: resit, f: i, i: resiting
+resits <> b: resit, f: s
+resize <> d: resized, p: resized, i: resizing
+resized <> b: resize, f: dp
+resizing <> b: resize, f: i
+resold <> d: resold, b: resold, f: dp, p: resold, r: resolder
+resole <> d: resoled, i: resoling, p: resoled, '3': resoles
+resoled <> b: resole, f: dp
+resoles <> f: '3', b: resole
+resoling <> b: resole, f: i
+resolute <> s: resolutes
+resolutes <> b: resolute, f: s
+resolution <> s: resolutions
+resolutions <> b: resolution, f: s
+resolve <> d: resolved, i: resolving, p: resolved, '3': resolves
+resolved <> b: resolve, f: dp, d: resolved, p: resolved
+resolver <> s: resolvers
+resolvers <> b: resolver, f: s
+resolves <> b: resolve, f: '3'
+resolving <> b: resolve, f: i
+resonance <> s: resonances
+resonances <> b: resonance, f: s
+resonate <> '3': resonates, p: resonated, i: resonating, d: resonated
+resonated <> b: resonate, f: pd
+resonates <> b: resonate, f: '3'
+resonating <> b: resonate, f: i
+resonator <> s: resonators
+resonators <> b: resonator, f: s
+resorb <> i: resorbing, p: resorbed, '3': resorbs, d: resorbed
+resorbed <> f: pd, b: resorb
+resorbing <> f: i, b: resorb
+resorbs <> f: '3', b: resorb
+resort <> s: resorts, i: resorting, d: resorted, p: resorted, '3': resorts
+resorted <> b: resort, f: dp
+resorting <> b: resort, f: i
+resorts <> b: resort, f: s3
+resound <> p: resounded, i: resounding, '3': resounds, s: resounds, d: resounded
+resounded <> b: resound, f: pd
+resounding <> i: resounding, b: resounding, f: i
+resounds <> b: resound, f: 3s
+resource <> s: resources, d: resourced, i: resourcing, p: resourced
+resourced <> b: resource, f: dp, p: resourced
+resources <> b: resource, f: s
+resourcing <> b: resource, f: i, i: resourcing
+respecified <> b: respecify, f: dp
+respecifies <> b: respecify, f: '3'
+respecify <> d: respecified, '3': respecifies, i: respecifying, p: respecified
+respecifying <> b: respecify, f: i
+respect <> s: respects, d: respected, p: respected, '3': respects, i: respecting
+respectable <> s: respectables
+respectables <> b: respectable, f: s
+respected <> b: respect, f: dp, d: respected, p: respected
+respecter <> s: respecters
+respecters <> b: respecter, f: s
+respecting <> b: respect, f: i
+respects <> b: respect, f: s3
+respiration <> s: respirations
+respirations <> b: respiration, f: s
+respirator <> s: respirators
+respirators <> b: respirator, f: s
+respire <> p: respired, i: respiring, '3': respires, d: respired
+respired <> f: pd, b: respire
+respires <> b: respire, f: '3'
+respiring <> b: respire, f: i
+respite <> s: respites, i: respiting, p: respited, '3': respites, d: respited
+respited <> b: respit, f: d
+respites <> f: s3, b: respite
+respiting <> b: respit, f: i
+respond <> i: responding, p: responded, d: responded, '3': responds
+responded <> b: respond, f: pd
+respondent <> s: respondents
+respondents <> b: respondent, f: s
+responder <> s: responders
+responders <> b: responder, f: s
+responding <> b: respond, f: i
+responds <> b: respond, f: '3'
+response <> s: responses
+responses <> b: response, f: s
+responsibilities <> b: responsibility, f: s
+responsibility <> s: responsibilities
+responsories <> b: responsory, f: s
+responsory <> s: responsories
+respray <> p: resprayed, d: resprayed, i: respraying
+resprayed <> b: respray, f: pd
+respraying <> b: respray, f: i
+rest <> i: resting, p: rested, '3': rests, s: rests, d: rested
+restage <> p: restaged, d: restaged, i: restaging
+restaged <> b: restage, f: pd
+restaging <> b: restage, f: i, i: restaging
+restart <> d: restarted, i: restarting, p: restarted, '3': restarts, s: restarts
+restarted <> b: restart, f: dp
+restarting <> b: restart, f: i
+restarts <> b: restart, f: 3s
+restate <> d: restated, p: restated, i: restating, '3': restates, s: restates
+restated <> b: restate, f: dp, d: restated, p: restated
+restatement <> s: restatements
+restatements <> b: restatement, f: s
+restates <> b: restate, f: 3s
+restating <> b: restate, f: i, i: restating
+restaurant <> s: restaurants
+restaurants <> b: restaurant, f: s
+restaurateur <> s: restaurateurs
+restaurateurs <> b: restaurateur, f: s
+rested <> b: rest, f: pd, d: rested
+resting <> b: rest, f: i, i: resting
+restitution <> s: restitutions
+restitutions <> b: restitution, f: s
+restock <> i: restocking, p: restocked, d: restocked, '3': restocks
+restocked <> b: restock, f: pd
+restocking <> b: restock, f: i, i: restocking
+restocks <> f: '3', b: restock
+restoration <> s: restorations
+restorationist <> s: restorationists
+restorationists <> b: restorationist, f: s
+restorations <> b: restoration, f: s
+restorative <> s: restoratives
+restoratives <> b: restorative, f: s
+restore <> d: restored, i: restoring, p: restored, '3': restores
+restored <> b: restore, f: dp, d: restored, p: restored
+restorer <> s: restorers
+restorers <> b: restorer, f: s
+restores <> b: restore, f: '3'
+restoring <> b: restore, f: i, i: restoring
+restr <> i: restring
+restrain <> d: restrained, i: restraining, p: restrained, '3': restrains
+restrained <> b: restrain, f: dp, d: restrained, p: restrained
+restraining <> b: restrain, f: i, i: restraining
+restrains <> b: restrain, f: '3'
+restraint <> s: restraints
+restraints <> b: restraint, f: s
+restrict <> d: restricted, i: restricting, '3': restricts, p: restricted
+restricted <> b: restrict, f: dp, d: restricted, p: restricted
+restricting <> b: restrict, f: i
+restriction <> s: restrictions
+restrictions <> b: restriction, f: s
+restricts <> b: restrict, f: '3'
+restring <> b: restr, f: i, i: restringing
+restringing <> b: restring, f: i
+restructure <> i: restructuring, d: restructured, p: restructured, '3': restructures
+restructured <> b: restructure, f: dp, d: restructured, p: restructured
+restructures <> b: restructure, f: '3'
+restructuring <> i: restructuring, b: restructuring, f: i, s: restructurings
+rests <> b: rest, f: 3s
+restudied <> b: restudy, f: d
+restudies <> b: restudy, f: s
+restudy <> d: restudied, s: restudies
+restyle <> d: restyled, p: restyled, i: restyling
+restyled <> b: restyle, f: dp
+restyling <> b: restyle, f: i
+resubmission <> s: resubmissions
+resubmissions <> b: resubmission, f: s
+resubmit <> d: resubmitted, p: resubmitted, i: resubmitting, '3': resubmits
+resubmits <> f: '3', b: resubmit
+resubmitted <> b: resubmit, f: dp
+resubmitting <> b: resubmit, f: i
+result <> s: results, p: resulted, i: resulting, d: resulted, '3': results
+resultant <> s: resultants
+resultants <> b: resultant, f: s
+resulted <> b: result, f: pd
+resulting <> b: result, f: i, i: resulting
+results <> b: result, f: s3
+resume <> p: resumed, d: resumed, i: resuming, '3': resumes, s: resumes
+resumed <> b: resume, f: pd
+resumes <> b: resume, f: 3s
+resuming <> b: resume, f: i
+resumption <> s: resumptions
+resumptions <> b: resumption, f: s
+resupplied <> b: resupply, f: dp
+resupply <> i: resupplying, d: resupplied, p: resupplied
+resupplying <> b: resupply, f: i
+resurface <> p: resurfaced, d: resurfaced, i: resurfacing, '3': resurfaces, s: resurfaces
+resurfaced <> b: resurface, f: pd
+resurfaces <> b: resurface, f: 3s
+resurfacing <> b: resurface, f: i, i: resurfacing, s: resurfacings
+resurgence <> s: resurgences
+resurgences <> b: resurgence, f: s
+resurrect <> d: resurrected, i: resurrecting, p: resurrected, '3': resurrects
+resurrected <> b: resurrect, f: dp, d: resurrected
+resurrecting <> b: resurrect, f: i
+resurrection <> s: resurrections
+resurrections <> b: resurrection, f: s
+resurrects <> b: resurrect, f: '3'
+resurvey <> d: resurveyed, s: resurveys, i: resurveying, p: resurveyed
+resurveyed <> b: resurvey, f: dp
+resurveying <> b: resurvey, f: i
+resurveys <> b: resurvey, f: s
+resuscitate <> d: resuscitated, i: resuscitating, p: resuscitated, '3': resuscitates
+resuscitated <> b: resuscitate, f: dp
+resuscitates <> b: resuscitate, f: '3'
+resuscitating <> b: resuscitate, f: i
+resuscitation <> s: resuscitations
+resuscitations <> b: resuscitation, f: s
+resuspend <> d: resuspended, p: resuspended, i: resuspending
+resuspended <> b: resuspend, f: dp
+ret <> s: rets, i: retting, p: retted, '3': rets, d: retted
+retable <> s: retables, p: retabled
+retabled <> b: retable, f: p
+retables <> b: retable, f: s
+retail <> i: retailing, '3': retails, p: retailed, d: retailed, s: retails
+retailed <> b: retail, f: pd
+retailer <> s: retailers
+retailers <> b: retailer, f: s
+retailing <> b: retail, f: i, i: retailing
+retails <> b: retail, f: 3s
+retain <> d: retained, p: retained, '3': retains, i: retaining
+retained <> b: retain, f: dp, d: retained, p: retained
+retainer <> s: retainers
+retainers <> b: retainer, f: s
+retaining <> b: retain, f: i, i: retaining
+retains <> b: retain, f: '3'
+retake <> i: retaking, s: retakes, '3': retakes, p: retook, d: retaken
+retaken <> d: retaken, b: retaken, f: d
+retakes <> b: retake, f: s3
+retaking <> b: retake, f: i, i: retaking
+retaliate <> p: retaliated, i: retaliating, d: retaliated, '3': retaliates, s: retaliates
+retaliated <> b: retaliate, f: pd
+retaliates <> b: retaliate, f: 3s
+retaliating <> b: retaliate, f: i
+retaliation <> s: retaliations
+retaliations <> b: retaliation, f: s
+retard <> i: retarding, '3': retards, d: retarded, p: retarded
+retardant <> s: retardants
+retardants <> b: retardant, f: s
+retarded <> d: retarded, b: retarded, f: dp, p: retarded
+retarding <> b: retard, f: i
+retards <> b: retard, f: '3'
+retch <> p: retched, i: retching, d: retched, '3': retches
+retched <> b: retch, f: pd
+retches <> f: '3', b: retch
+retching <> b: retch, f: i, i: retching
+retell <> i: retelling, '3': retells, p: retold, d: retold
+retelling <> b: retell, f: i, s: retellings, i: retelling
+retells <> b: retell, f: '3'
+retention <> s: retentions
+retentions <> b: retention, f: s
+retest <> d: retested, i: retesting, p: retested
+retested <> b: retest, f: dp
+retesting <> b: retest, f: i
+rethink <> i: rethinking, s: rethinks, '3': rethinks, p: rethought, d: rethought
+rethinking <> b: rethink, f: i, i: rethinking
+rethinks <> b: rethink, f: s3
+rethought <> d: rethought, b: rethought, f: dp, p: rethought
+reticence <> s: reticences
+reticences <> b: reticence, f: s
+reticulate <> p: reticulated, i: reticulating, '3': reticulates, d: reticulated
+reticulated <> p: reticulated, b: reticulated, f: p
+reticulates <> f: '3', b: reticulate
+reticulating <> f: i, b: reticulate
+reticule <> s: reticules
+reticules <> b: reticule, f: s
+reticulocyte <> s: reticulocytes
+reticulocytes <> b: reticulocyte, f: s
+retighten <> d: retightened
+retightened <> b: retighten, f: d
+retina <> s: retinas
+retinas <> b: retina, f: s
+retinue <> s: retinues
+retinues <> b: retinue, f: s
+retiral <> s: retirals
+retirals <> b: retiral, f: s
+retire <> p: retired, d: retired, i: retiring, '3': retires
+retired <> b: retire, f: pd, d: retired, p: retired
+retiree <> s: retirees
+retirees <> b: retiree, f: s
+retirement <> s: retirements
+retirements <> b: retirement, f: s
+retires <> b: retire, f: '3'
+retiring <> b: retire, f: i, i: retiring
+retitle <> p: retitled, d: retitled
+retold <> d: retold, b: retold, f: dp, p: retold
+retook <> p: retook, b: retook, f: p
+retool <> i: retooling, '3': retools, d: retooled, p: retooled
+retooled <> f: dp, b: retool
+retooling <> b: retool, f: i
+retools <> b: retool, f: '3'
+retort <> p: retorted, s: retorts, '3': retorts, d: retorted, i: retorting
+retorted <> b: retort, f: pd
+retorting <> b: retort, f: i
+retorts <> b: retort, f: s3
+retouch <> i: retouching, d: retouched, p: retouched, '3': retouches
+retouched <> b: retouch, f: dp, p: retouched
+retouches <> b: retouch, f: '3'
+retouching <> b: retouch, f: i, s: retouchings
+retrace <> p: retraced, i: retracing, d: retraced, '3': retraces
+retraced <> b: retrace, f: pd
+retraces <> b: retrace, f: '3'
+retracing <> b: retrace, f: i
+retract <> p: retracted, d: retracted, i: retracting, '3': retracts
+retracted <> b: retract, f: pd, p: retracted
+retracting <> b: retract, f: i
+retraction <> s: retractions
+retractions <> b: retraction, f: s
+retractor <> s: retractors
+retractors <> b: retractor, f: s
+retracts <> b: retract, f: '3'
+retrain <> i: retraining, d: retrained, p: retrained, '3': retrains
+retrained <> b: retrain, f: dp
+retraining <> b: retrain, f: i, i: retraining
+retranslate <> i: retranslating
+retranslating <> b: retranslate, f: i
+retransmission <> s: retransmissions
+retransmissions <> b: retransmission, f: s
+retransmit <> p: retransmitted, '3': retransmits
+retransmits <> b: retransmit, f: '3'
+retransmitted <> b: retransmit, f: p
+retread <> s: retreads, i: retreading, p: retreaded, '3': retreads, d: retreaded
+retreaded <> f: pd, b: retread
+retreading <> f: i, b: retread
+retreads <> f: s3, b: retread
+retreat <> p: retreated, d: retreated, i: retreating, s: retreats, '3': retreats
+retreated <> b: retreat, f: pd
+retreating <> b: retreat, f: i, i: retreating
+retreats <> b: retreat, f: s3
+retrench <> i: retrenching, p: retrenched, '3': retrenches, d: retrenched
+retrenched <> f: pd, b: retrench
+retrenches <> f: '3', b: retrench
+retrenching <> b: retrench, f: i
+retrenchment <> s: retrenchments
+retrenchments <> b: retrenchment, f: s
+retrial <> s: retrials
+retrials <> b: retrial, f: s
+retribution <> s: retributions
+retributions <> b: retribution, f: s
+retried <> f: dp, b: retry
+retries <> b: retry, f: '3'
+retrieval <> s: retrievals
+retrievals <> b: retrieval, f: s
+retrieve <> d: retrieved, i: retrieving, p: retrieved, '3': retrieves
+retrieved <> b: retrieve, f: dp, p: retrieved
+retriever <> s: retrievers
+retrievers <> b: retriever, f: s
+retrieves <> b: retrieve, f: '3'
+retrieving <> b: retrieve, f: i
+retro <> s: retros
+retrofit <> i: retrofitting, s: retrofits, '3': retrofits, d: retrofitted, p: retrofitted
+retrofits <> b: retrofit, f: s3
+retrofitted <> f: dp, b: retrofit
+retrofitting <> b: retrofit, f: i
+retrograde <> s: retrogrades, i: retrograding, p: retrograded, '3': retrogrades, d: retrograded
+retrograded <> f: pd, b: retrograde
+retrogrades <> f: s3, b: retrograde
+retrograding <> f: i, b: retrograde
+retrogress <> p: retrogressed, i: retrogressing, '3': retrogresses, d: retrogressed
+retrogressed <> f: pd, b: retrogress
+retrogresses <> f: '3', b: retrogress
+retrogressing <> f: i, b: retrogress
+retros <> b: retro, f: s
+retrospect <> s: retrospects, i: retrospecting, p: retrospected, '3': retrospects, d: retrospected
+retrospected <> f: pd, b: retrospect
+retrospecting <> f: i, b: retrospect
+retrospection <> s: retrospections
+retrospections <> b: retrospection, f: s
+retrospective <> s: retrospectives
+retrospectives <> b: retrospective, f: s
+retrospects <> f: s3, b: retrospect
+retry <> d: retried, i: retrying, '3': retries, p: retried
+rets <> f: s3, b: ret
+retted <> f: pd, b: ret
+retting <> f: i, b: ret
+retune <> i: retuning, d: retuned, p: retuned
+retuned <> b: retune, f: dp
+retuning <> b: retune, f: i, i: retuning
+return <> p: returned, d: returned, i: returning, s: returns, '3': returns
+returned <> b: return, f: pd, d: returned, p: returned
+returnee <> s: returnees
+returnees <> b: returnee, f: s
+returner <> s: returners
+returners <> b: returner, f: s
+returning <> b: return, f: i, i: returning, s: returnings
+returns <> b: return, f: s3
+retying <> b: rety, f: i
+reunified <> b: reunify, f: dp, d: reunified
+reunifies <> f: '3', b: reunify
+reunify <> d: reunified, p: reunified, i: reunifying, '3': reunifies
+reunifying <> f: i, b: reunify
+reunion <> s: reunions
+reunions <> b: reunion, f: s
+reunite <> d: reunited, p: reunited, '3': reunites, i: reuniting
+reunited <> b: reunite, f: dp, p: reunited, d: reunited
+reunites <> b: reunite, f: '3'
+reuniting <> b: reunit, f: i
+reuse <> d: reused, p: reused, i: reusing, '3': reuses
+reused <> b: reuse, f: dp, d: reused
+reuses <> b: reuse, f: '3'
+reusing <> b: reuse, f: i
+Reuter <> s: reuters
+Reuters <> b: reuter, f: s
+rev <> s: revs, p: revved, i: revving, d: revved, '3': revs
+revaluation <> s: revaluations
+revaluations <> b: revaluation, f: s
+revalue <> d: revalued, i: revaluing, p: revalued, '3': revalues
+revalued <> b: revalue, f: dp
+revalues <> b: revalue, f: '3'
+revaluing <> b: revalue, f: i
+revamp <> i: revamping, d: revamped, '3': revamps, p: revamped, s: revamps
+revamped <> b: revamp, f: dp, d: revamped, p: revamped
+revamping <> b: revamp, f: i, i: revamping
+revamps <> b: revamp, f: 3s
+reveal <> d: revealed, p: revealed, '3': reveals, i: revealing
+revealed <> b: reveal, f: dp, p: revealed, d: revealed
+revealing <> b: reveal, f: i, i: revealing, s: revealings
+reveals <> b: reveal, f: '3'
+revegetate <> d: revegetated
+revegetated <> b: revegetate, f: d
+revel <> p: revelled, i: revelling, '3': revels, d: revelled, s: revels
+revelation <> s: revelations
+revelations <> b: revelation, f: s
+revelled <> b: revel, f: pd, d: revelled
+reveller <> s: revellers
+revellers <> b: reveller, f: s
+revelling <> b: revel, f: i, s: revellings, i: revelling
+revelries <> b: revelry, f: s
+revelry <> s: revelries
+revels <> b: revel, f: 3s
+revenant <> s: revenants
+revenants <> b: revenant, f: s
+revenge <> d: revenged, s: revenges, i: revenging, p: revenged, '3': revenges
+revenged <> f: dp, b: revenge
+revenger <> s: revengers
+revengers <> b: revenger, f: s
+revenges <> f: s3, b: revenge
+revenging <> f: i, b: revenge
+revenue <> s: revenues
+revenues <> b: revenue, f: s
+rever <> d: revered, p: revered, s: revers, i: revering, '3': revers
+reverb <> s: reverbs
+reverberate <> p: reverberated, i: reverberating, '3': reverberates, s: reverberates, d: reverberated
+reverberated <> b: reverberate, f: pd
+reverberates <> b: reverberate, f: 3s
+reverberating <> b: reverberate, f: i, i: reverberating
+reverberation <> s: reverberations
+reverberations <> b: reverberation, f: s
+reverbs <> b: reverb, f: s
+revere <> '3': reveres, i: revering, p: revered, d: revered
+revered <> b: rever, f: dp, p: revered, d: revered
+reverence <> p: reverenced, s: reverences, d: reverenced, i: reverencing, '3': reverences
+reverenced <> b: reverence, f: pd
+reverences <> f: s3, b: reverence
+reverencing <> b: reverence, f: i
+reverend <> s: reverends
+reverends <> b: reverend, f: s
+reveres <> b: revere, f: '3'
+reverie <> s: reveries
+reveries <> b: reverie, f: s
+revering <> b: rever, f: i
+revers <> b: rever, f: s3
+reversal <> s: reversals
+reversals <> b: reversal, f: s
+reverse <> d: reversed, i: reversing, p: reversed, '3': reverses, s: reverses
+reversed <> b: reverse, f: dp, p: reversed, d: reversed
+reverser <> s: reversers
+reversers <> b: reverser, f: s
+reverses <> b: reverse, f: 3s
+reversing <> b: reverse, f: i, i: reversing, s: reversings
+reversion <> s: reversions
+reversioner <> s: reversioners
+reversioners <> b: reversioner, f: s
+reversions <> b: reversion, f: s
+revert <> i: reverting, d: reverted, p: reverted, '3': reverts
+revertant <> s: revertants
+revertants <> b: revertant, f: s
+reverted <> b: revert, f: dp
+reverting <> b: revert, f: i
+reverts <> b: revert, f: '3'
+revet <> i: revetting, p: revetted, '3': revets, d: revetted
+revetment <> s: revetments
+revetments <> b: revetment, f: s
+revets <> f: '3', b: revet
+revetted <> f: pd, b: revet
+revetting <> f: i, b: revet
+review <> d: reviewed, s: reviews, i: reviewing, p: reviewed, '3': reviews
+reviewed <> b: review, f: dp, d: reviewed, p: reviewed
+reviewer <> s: reviewers
+reviewers <> b: reviewer, f: s
+reviewing <> b: review, f: i, i: reviewing
+reviews <> b: review, f: s3
+revile <> d: reviled, p: reviled, i: reviling, '3': reviles
+reviled <> b: revile, f: dp, p: reviled
+reviles <> f: '3', b: revile
+reviling <> b: revile, f: i
+revise <> d: revised, i: revising, p: revised, '3': revises
+revised <> b: revise, f: dp, d: revised, p: revised
+reviser <> s: revisers
+revisers <> b: reviser, f: s
+revises <> b: revise, f: '3'
+revising <> b: revise, f: i, i: revising
+revision <> s: revisions
+revisionist <> s: revisionists
+revisionists <> b: revisionist, f: s
+revisions <> b: revision, f: s
+revisit <> p: revisited, i: revisiting, '3': revisits, d: revisited
+revisited <> b: revisit, f: pd, p: revisited, d: revisited
+revisiting <> b: revisit, f: i
+revisits <> b: revisit, f: '3'
+revitalise <> d: revitalised, i: revitalising, p: revitalised, '3': revitalises
+revitalised <> b: revitalise, f: dp, d: revitalised, p: revitalised
+revitalises <> b: revitalise, f: '3'
+revitalising <> b: revitalise, f: i, i: revitalising
+revitalize <> d: revitalized, i: revitalizing, '3': revitalizes, p: revitalized
+revitalized <> b: revitalize, f: dp
+revitalizes <> b: revitalize, f: '3'
+revitalizing <> b: revitalize, f: i
+revival <> s: revivals
+revivalist <> s: revivalists
+revivalists <> b: revivalist, f: s
+revivals <> b: revival, f: s
+revive <> d: revived, i: reviving, p: revived, '3': revives
+revived <> b: revive, f: dp, p: revived, d: revived
+reviver <> s: revivers
+revivers <> b: reviver, f: s
+revives <> b: revive, f: '3'
+revivified <> b: revivify, f: dp
+revivifies <> f: '3', b: revivify
+revivify <> d: revivified, i: revivifying, p: revivified, '3': revivifies
+revivifying <> b: revivify, f: i
+reviving <> b: revive, f: i, i: reviving
+revocation <> s: revocations
+revocations <> b: revocation, f: s
+revoke <> d: revoked, p: revoked, i: revoking, '3': revokes
+revoked <> b: revoke, f: dp, p: revoked, d: revoked
+revokes <> b: revoke, f: '3'
+revoking <> b: revoke, f: i
+revolt <> s: revolts, p: revolted, d: revolted, i: revolting, '3': revolts
+revolted <> b: revolt, f: pd, p: revolted, d: revolted
+revolting <> b: revolt, f: i, i: revolting
+revolts <> b: revolt, f: s3
+revolution <> s: revolutions
+revolutionaries <> b: revolutionary, f: s
+revolutionary <> s: revolutionaries
+revolutionise <> d: revolutionised, p: revolutionised, i: revolutionising, '3': revolutionises
+revolutionised <> b: revolutionise, f: dp
+revolutionises <> b: revolutionise, f: '3'
+revolutionising <> b: revolutionise, f: i
+revolutionize <> d: revolutionized, p: revolutionized, i: revolutionizing, '3': revolutionizes
+revolutionized <> b: revolutionize, f: dp
+revolutionizes <> f: '3', b: revolutionize
+revolutionizing <> b: revolutionize, f: i
+revolutions <> b: revolution, f: s
+revolve <> '3': revolves, p: revolved, i: revolving, d: revolved
+revolved <> b: revolve, f: pd
+revolver <> s: revolvers
+revolvers <> b: revolver, f: s
+revolves <> b: revolve, f: '3'
+revolving <> b: revolve, f: i, i: revolving
+revs <> f: s3, b: rev
+revue <> s: revues, '3': revues
+revues <> b: revue, f: s3
+revulsion <> s: revulsions
+revulsions <> b: revulsion, f: s
+revved <> b: rev, f: pd
+revving <> b: rev, f: i, i: revving
+reward <> s: rewards, d: rewarded, i: rewarding, p: rewarded, '3': rewards
+rewarded <> b: reward, f: dp, d: rewarded, p: rewarded
+rewarding <> b: reward, f: i, i: rewarding
+rewards <> b: reward, f: s3
+rewash <> d: rewashed
+rewashed <> b: rewash, f: d
+rewind <> i: rewinding, '3': rewinds, s: rewinds
+rewinding <> b: rewind, f: i
+rewinds <> b: rewind, f: 3s
+rewire <> i: rewiring, d: rewired, p: rewired, s: rewires, '3': rewires
+rewired <> b: rewire, f: dp, p: rewired
+rewires <> f: s3, b: rewire
+rewiring <> b: rewire, f: i
+reword <> i: rewording, d: reworded, p: reworded, '3': rewords
+reworded <> b: reword, f: dp
+rewording <> i: rewording, b: rewording, f: i, s: rewordings
+rewords <> f: '3', b: reword
+rework <> d: reworked, i: reworking, p: reworked, '3': reworks
+reworked <> b: rework, f: dp, d: reworked, p: reworked
+reworking <> b: rework, f: i, s: reworkings, i: reworking
+reworks <> b: rework, f: '3'
+rewound <> d: rewound, b: rewound, f: dp, p: rewound
+rewrap <> p: rewrapped, '3': rewraps, d: rewrapped
+rewrite <> d: rewritten, '3': rewrites, i: rewriting, p: rewrote
+rewrites <> b: rewrite, f: '3'
+rewriting <> b: rewrit, f: i, s: rewritings, i: rewriting
+rewritten <> b: rewrite, f: d, d: rewritten
+rewrote <> f: p, b: rewrite
+reyburn <> s: reyburns
+reyburns <> b: reyburn, f: s
+Reyes <> b: reye, f: s3
+Reynard <> s: reynards
+rezoning <> b: rezon, f: i
+rha <> s: rhas
+rhabdom <> s: rhabdoms
+rhabdoms <> b: rhabdom, f: s
+rhapsodies <> b: rhapsody, f: s
+rhapsodize <> p: rhapsodized, '3': rhapsodizes, i: rhapsodizing, d: rhapsodized
+rhapsodized <> f: pd, b: rhapsodize
+rhapsodizes <> b: rhapsodize, f: '3'
+rhapsodizing <> b: rhapsodize, f: i
+rhapsody <> s: rhapsodies
+rhas <> b: rha, f: s
+rhea <> s: rheas
+rheas <> b: rhea, f: s
+rheme <> s: rhemes
+rhemes <> b: rheme, f: s
+rheologist <> s: rheologists
+rheologists <> b: rheologist, f: s
+rhetoric <> s: rhetorics
+rhetorical <> s: rhetoricals
+rhetoricals <> b: rhetorical, f: s
+rhetorician <> s: rhetoricians
+rhetoricians <> b: rhetorician, f: s
+rhetorics <> b: rhetoric, f: s
+rheum <> s: rheums
+rheumatic <> s: rheumatics
+rheumatics <> b: rheumatic, f: s
+rheumatologist <> s: rheumatologists
+rheumatologists <> b: rheumatologist, f: s
+rheums <> b: rheum, f: s
+Rhine <> s: rhines
+rhinestone <> s: rhinestones
+rhinestones <> b: rhinestone, f: s
+rhino <> s: rhinos
+rhinos <> b: rhino, f: s
+rhizome <> s: rhizomes
+rhizomes <> b: rhizome, f: s
+rhodesian <> s: rhodesians
+rhodesians <> b: rhodesian, f: s
+rhododendron <> s: rhododendrons
+rhododendrons <> b: rhododendron, f: s
+rhodopsin <> s: rhodopsins
+rhodopsins <> b: rhodopsin, f: s
+rhomboid <> s: rhomboids
+rhomboids <> b: rhomboid, f: s
+rhubarb <> p: rhubarbed
+rhubarbed <> b: rhubarb, f: p
+rhumba <> s: rhumbas
+rhyme <> s: rhymes, '3': rhymes, i: rhyming, p: rhymed, d: rhymed
+rhymed <> b: rhym, f: pd, p: rhymed
+rhymes <> b: rhyme, f: s3
+rhymester <> s: rhymesters
+rhymesters <> b: rhymester, f: s
+rhyming <> b: rhym, f: i
+rhynchosaur <> s: rhynchosaurs, '3': rhynchosaurs
+rhynchosaurs <> b: rhynchosaur, f: s3
+rhyolite <> s: rhyolites
+rhyolites <> b: rhyolite, f: s
+rhythm <> s: rhythms
+rhythmic <> s: rhythmics
+rhythmicities <> b: rhythmicity, f: s
+rhythmicity <> s: rhythmicities
+rhythmics <> b: rhythmic, f: s
+rhythms <> b: rhythm, f: s
+rhyton <> s: rhytons
+rhytons <> b: rhyton, f: s
+RI <> s: ri, b: ri, f: s
+RIA <> s: rias
+rial <> s: rials
+rials <> b: rial, f: s
+rib <> s: ribs, i: ribbing, p: ribbed, '3': ribs, d: ribbed
+ribaldries <> b: ribaldry, f: s
+ribaldry <> s: ribaldries
+riband <> s: ribands
+ribands <> b: riband, f: s
+ribbed <> f: pd, b: rib, d: ribbed
+ribber <> s: ribbers
+ribbers <> b: ribber, f: s
+ribbing <> b: rib, f: i, i: ribbing
+ribbon <> s: ribbons, i: ribboning
+ribboning <> b: ribbon, f: i
+ribbons <> b: ribbon, f: s
+ribosome <> s: ribosomes
+ribosomes <> b: ribosome, f: s
+ribozyme <> s: ribozymes
+ribozymes <> b: ribozyme, f: s
+ribs <> f: s3, b: rib
+ric <> s: rics
+Ricci <> s: ricci, b: ricci, f: s
+rice <> s: rices, i: ricing, p: riced, '3': rices, d: riced
+riced <> f: pd, b: rice
+ricercar <> s: ricercars
+ricercars <> b: ricercar, f: s
+rices <> f: s3, b: rice
+rich <> r: richer, t: richest
+richen <> s: richens
+richens <> b: richen, f: s
+richer <> b: rich, f: r
+riches <> s: riches, b: riches, f: s
+richest <> b: rich, f: t
+richness <> s: richnesses
+richnesses <> b: richness, f: s
+ricing <> f: i, b: rice
+rick <> s: ricks, p: ricked, i: ricking, '3': ricks, d: ricked
+Rickard <> s: rickards
+ricked <> f: pd, b: rick
+rickets <> s: rickets, b: rickets, f: s
+ricking <> b: rick, f: i
+ricks <> f: s3, b: rick
+rickshaw <> s: rickshaws
+rickshaws <> b: rickshaw, f: s
+ricochet <> p: ricocheted, d: ricocheted, s: ricochets, '3': ricochets, i: ricochetting
+ricocheted <> b: ricochet, f: pd
+ricocheting <> b: ricochete, f: i
+ricochets <> b: ricochet, f: s3
+ricochetting <> f: i, b: ricochet
+rics <> b: ric, f: s
+rid <> d: rid, b: rid, f: dp, i: ridding, p: rid, '3': rids
+ridden <> b: ride, f: d
+ridding <> b: rid, f: i
+riddle <> d: riddled, s: riddles, p: riddled, i: riddling, '3': riddles
+riddled <> b: riddle, f: dp, p: riddled
+riddles <> b: riddle, f: s3
+riddling <> b: riddle, f: i
+ride <> i: riding, p: rode, d: ridden, s: rides, '3': rides
+rider <> s: riders
+riders <> b: rider, f: s
+rides <> b: ride, f: s3
+ridge <> s: ridges, i: ridging, p: ridged, '3': ridges, d: ridged
+ridgeback <> s: ridgebacks
+ridgebacks <> b: ridgeback, f: s
+ridged <> f: pd, b: ridge
+ridges <> f: s3, b: ridge
+ridgeway <> s: ridgeways
+ridgeways <> b: ridgeway, f: s
+ridging <> b: ridge, f: i, i: ridging
+ridicule <> d: ridiculed, p: ridiculed, i: ridiculing, '3': ridicules, s: ridicules
+ridiculed <> b: ridicule, f: dp, d: ridiculed, p: ridiculed
+ridicules <> b: ridicule, f: 3s
+ridiculing <> b: ridicule, f: i
+riding <> b: ride, f: i, i: riding, s: ridings
+ridley <> s: ridleys
+ridleys <> b: ridley, f: s
+rids <> b: rid, f: '3'
+riel <> s: riels
+riels <> b: riel, f: s
+Riesling <> s: rieslings, b: riesle, f: i
+riff <> s: riffs, '3': riffs, i: riffing, p: riffed, d: riffed
+riffed <> f: pd, b: riff
+riffing <> b: riff, f: i, i: riffing
+riffle <> p: riffled, i: riffling, s: riffles, '3': riffles, d: riffled
+riffled <> f: pd, b: riffle
+riffles <> b: riffle, f: s3
+riffling <> b: riffle, f: i
+riffs <> b: riff, f: s3
+rifle <> s: rifles, p: rifled, i: rifling, d: rifled, '3': rifles
+rifled <> b: rifle, f: pd
+rifleman <> s: riflemen
+riflemen <> b: rifleman, f: s
+rifles <> b: rifle, f: s3
+rifling <> b: rifle, f: i, i: rifling
+rift <> s: rifts, i: rifting, p: rifted, d: rifted
+rifted <> b: rift, f: pd
+rifting <> b: rift, f: i, i: rifting
+rifts <> b: rift, f: s
+rig <> s: rigs, d: rigged, i: rigging, p: rigged, '3': rigs
+Rigg <> s: riggs
+rigged <> b: rig, f: dp, p: rigged
+rigger <> s: riggers
+riggers <> b: rigger, f: s
+rigging <> b: rig, f: i, i: rigging
+Riggs <> b: rigg, f: s
+right <> s: rights, i: righting, p: righted, '3': rights, d: righted
+right-hander <> s: right-handers
+right-handers <> b: right-hander, f: s
+right-on <> s: right-ons
+right-ons <> b: right-on, f: s
+right-to-lifer <> s: right-to-lifers
+right-to-lifers <> b: right-to-lifer, f: s
+right-winger <> s: right-wingers
+right-wingers <> b: right-winger, f: s
+righted <> f: pd, b: right
+righter <> s: righters
+righters <> b: righter, f: s
+righting <> f: i, b: right
+rightist <> s: rightists
+rightists <> b: rightist, f: s
+rights <> f: s3, b: right
+rightsize <> i: rightsizing
+rightsizing <> b: rightsize, f: i
+rigidified <> f: pd, b: rigidify
+rigidifies <> f: '3', b: rigidify
+rigidify <> p: rigidified, i: rigidifying, '3': rigidifies, d: rigidified
+rigidifying <> b: rigidify, f: i
+rigidities <> b: rigidity, f: s
+rigidity <> s: rigidities
+rigmarole <> s: rigmaroles
+rigmaroles <> b: rigmarole, f: s
+rigor <> s: rigors
+rigorist <> s: rigorists
+rigorists <> b: rigorist, f: s
+rigors <> b: rigor, f: s
+rigour <> s: rigours
+rigours <> b: rigour, f: s
+rigs <> b: rig, f: s3
+rile <> p: riled, d: riled, '3': riles, i: riling
+riled <> b: rile, f: pd, p: riled
+riles <> b: rile, f: '3'
+riling <> b: rile, f: i
+rill <> s: rills, p: rilled
+rilled <> b: rill, f: p
+rillette <> s: rillettes
+rillettes <> b: rillette, f: s
+rills <> b: rill, f: s
+rim <> s: rims, p: rimmed, d: rimmed, i: rimming, '3': rims
+rime <> p: rimed, s: rimes, i: riming, '3': rimes, d: rimed
+rimed <> f: pd, b: rime
+rimes <> f: s3, b: rime
+riming <> f: i, b: rime
+Rimini <> s: rimini, b: rimini, f: s
+rimmed <> b: rim, f: pd
+rimming <> b: rim, f: i
+rind <> s: rinds, p: rinded
+rinded <> b: rind, f: p
+rinds <> b: rind, f: s
+ring <> p: rang, s: rings, i: ringing, d: rung, '3': rings
+ring-pull <> s: ring-pulls
+ring-pulls <> b: ring-pull, f: s
+ringdove <> s: ringdoves
+ringdoves <> b: ringdove, f: s
+ringe <> p: ringed, d: ringed, s: ringes
+ringed <> b: ringe, f: pd, p: ringed
+ringer <> s: ringers
+ringers <> b: ringer, f: s
+ringes <> b: ringe, f: s
+ringgit <> s: ringgits
+ringgits <> b: ringgit, f: s
+ringing <> b: ring, f: i, i: ringing
+ringleader <> s: ringleaders
+ringleaders <> b: ringleader, f: s
+ringlet <> s: ringlets, p: ringletted
+ringlets <> b: ringlet, f: s
+ringletted <> b: ringlet, f: p
+ringmaster <> s: ringmasters
+ringmasters <> b: ringmaster, f: s
+ringo <> s: ringos
+ringos <> b: ringo, f: s
+rings <> b: ring, f: s3
+ringsider <> s: ringsiders
+ringsiders <> b: ringsider, f: s
+ringworm <> s: ringworms
+ringworms <> b: ringworm, f: s
+rink <> s: rinks, i: rinking
+rinking <> b: rink, f: i
+rinks <> b: rink, f: s
+rinse <> p: rinsed, d: rinsed, i: rinsing, s: rinses, '3': rinses
+rinsed <> b: rinse, f: pd, d: rinsed, p: rinsed
+rinses <> b: rinse, f: s3
+rinsing <> b: rinse, f: i, i: rinsing, s: rinsings
+riot <> s: riots, p: rioted, i: rioting, '3': riots, d: rioted
+rioted <> b: riot, f: pd
+rioter <> s: rioters
+rioters <> b: rioter, f: s
+rioting <> b: riot, f: i, i: rioting, s: riotings
+riots <> b: riot, f: s3
+rip <> p: ripped, d: ripped, i: ripping, '3': rips, s: rips
+rip-off <> s: rip-offs
+rip-offs <> b: rip-off, f: s
+riparian <> s: riparians
+riparians <> b: riparian, f: s
+ripcord <> s: ripcords
+ripcords <> b: ripcord, f: s
+ripe <> t: ripest, r: riper
+ripen <> i: ripening, '3': ripens, d: ripened, p: ripened
+ripened <> b: ripen, f: dp, d: ripened, p: ripened
+ripening <> b: ripen, f: i, i: ripening, s: ripenings
+ripens <> b: ripen, f: '3'
+riper <> b: ripe, f: r
+ripest <> b: ripe, f: t
+riposte <> s: ripostes, i: riposting, p: riposted, '3': riposts, d: riposted
+riposted <> b: ripost, f: p
+ripostes <> b: riposte, f: s
+riposting <> f: i, b: riposte
+riposts <> f: '3', b: riposte
+ripped <> b: rip, f: pd, d: ripped, p: ripped
+ripper <> s: rippers
+rippers <> b: ripper, f: s
+ripping <> b: rip, f: i, i: ripping, s: rippings
+ripple <> s: ripples, p: rippled, i: rippling, d: rippled, '3': ripples
+rippled <> b: ripple, f: pd, p: rippled
+ripples <> b: ripple, f: s3
+rippling <> b: ripple, f: i, i: rippling, s: ripplings
+rips <> b: rip, f: 3s
+riptide <> s: riptides
+riptides <> b: riptide, f: s
+rise <> p: rose, i: rising, d: risen, s: rises, '3': rises
+risen <> b: rise, f: d, d: risen
+riser <> s: risers
+risers <> b: riser, f: s
+rises <> b: rise, f: s3
+rising <> b: rise, f: i, i: rising, s: risings
+risk <> s: risks, i: risking, p: risked, '3': risks, d: risked
+risked <> b: risk, f: pd
+riskier <> b: risky, f: r
+riskiest <> b: risky, f: t
+risking <> b: risk, f: i, i: risking
+risks <> b: risk, f: s3
+risky <> r: riskier, t: riskiest
+rissole <> s: rissoles
+rissoles <> b: rissole, f: s
+rite <> s: rites
+rites <> b: rite, f: s
+ritornello <> s: ritornellos
+ritornellos <> b: ritornello, f: s
+Ritter <> s: ritters
+ritual <> s: rituals
+ritualised <> d: ritualised, b: ritualised, f: d
+ritualist <> s: ritualists
+ritualists <> b: ritualist, f: s
+ritualize <> d: ritualized, i: ritualizing, p: ritualized, '3': ritualizes
+ritualized <> d: ritualized, b: ritualized, f: d
+ritualizes <> f: '3', b: ritualize
+ritualizing <> b: ritualize, f: i
+rituals <> b: ritual, f: s
+ritzier <> b: ritzy, f: r
+ritzy <> r: ritzier
+riva <> s: rivas
+rival <> s: rivals, p: rivalled, '3': rivals, i: rivalling, d: rivalled
+rivalled <> b: rival, f: pd
+rivalling <> b: rival, f: i
+rivalries <> b: rivalry, f: s
+rivalry <> s: rivalries
+rivals <> b: rival, f: s3
+rivas <> b: riva, f: s
+rive <> i: riving, p: rived, '3': rives, d: riven
+rived <> b: rive, f: p
+riven <> d: riven, b: riven, f: d
+river <> s: rivers
+riverbank <> s: riverbanks
+riverbanks <> b: riverbank, f: s
+riverbed <> s: riverbeds
+riverbeds <> b: riverbed, f: s
+riverboat <> s: riverboats
+riverboats <> b: riverboat, f: s
+rivers <> b: river, f: s
+riverside <> s: riversides
+riversides <> b: riverside, f: s
+rives <> f: '3', b: rive
+rivet <> s: rivets, d: riveted, p: riveted, '3': rivets, i: riveting
+riveted <> b: rivet, f: dp, d: riveted, p: riveted
+riveter <> s: riveters, b: rivete, f: r
+riveters <> b: riveter, f: s
+riveting <> b: rivet, f: i, i: riveting
+rivets <> b: rivet, f: s3
+riving <> b: rive, f: i
+Rivoli <> s: rivoli, b: rivoli, f: s
+rivulet <> s: rivulets
+rivulets <> b: rivulet, f: s
+riyal <> s: riyals
+riyals <> b: riyal, f: s
+RNA <> s: rnas
+RO <> s: ros
+roach <> s: roaches, i: roaching, p: roached, '3': roaches, d: roached
+roaches <> b: roach, f: s
+road <> s: roads
+roadblock <> s: roadblocks
+roadblocks <> b: roadblock, f: s
+roadholding <> i: roadholding, b: roadholding, f: i
+roadhouse <> s: roadhouses
+roadhouses <> b: roadhouse, f: s
+roadman <> s: roadmen
+roadmen <> b: roadman, f: s
+roadrunner <> s: roadrunners
+roadrunners <> b: roadrunner, f: s
+roads <> b: road, f: s
+roadshow <> s: roadshows
+roadshows <> b: roadshow, f: s
+roadside <> s: roadsides
+roadsides <> b: roadside, f: s
+roadster <> s: roadsters
+roadsters <> b: roadster, f: s
+roadway <> s: roadways
+roadways <> b: roadway, f: s
+roadwork <> s: roadworks
+roadworks <> b: roadwork, f: s
+roam <> i: roaming, p: roamed, '3': roams, d: roamed, s: roams
+roamed <> b: roam, f: pd
+roamer <> s: roamers
+roamers <> b: roamer, f: s
+roaming <> b: roam, f: i, i: roaming
+roams <> b: roam, f: 3s
+roan <> s: roans
+roans <> b: roan, f: s
+roar <> p: roared, i: roaring, '3': roars, s: roars, d: roared
+roared <> b: roar, f: pd
+roarer <> s: roarers
+roarers <> b: roarer, f: s
+roaring <> b: roar, f: i, i: roaring, s: roarings
+roars <> b: roar, f: 3s
+roast <> i: roasting, d: roasted, p: roasted, s: roasts, '3': roasts, r: roaster
+roasted <> b: roast, f: dp, d: roasted, p: roasted
+roaster <> b: roast, f: r, s: roasters
+roasting <> b: roast, f: i, i: roasting
+roasts <> b: roast, f: s3
+rob <> d: robbed, p: robbed, i: robbing, '3': robs
+robbed <> b: rob, f: dp, d: robbed, p: robbed
+robber <> s: robbers
+robberies <> b: robbery, f: s
+robbers <> b: robber, f: s
+robbery <> s: robberies
+robbing <> b: rob, f: i, i: robbing
+robe <> s: robes, p: robed, d: robed, i: robing, '3': robes
+robed <> b: robe, f: pd, p: robed, d: robed
+robes <> f: s3, b: robe
+robin <> s: robins
+robing <> b: robe, f: i
+robins <> b: robin, f: s
+robot <> s: robots
+robotic <> s: robotics
+robotics <> b: robotic, f: s
+robots <> b: robot, f: s
+robs <> b: rob, f: '3'
+robust <> r: robuster
+robuster <> b: robust, f: r
+Roch <> s: roches
+rochet <> s: rochets
+rochets <> b: rochet, f: s
+rock <> s: rocks, i: rocking, p: rocked, d: rocked, '3': rocks
+rocked <> b: rock, f: pd
+rocker <> s: rockers
+rockeries <> b: rockery, f: s
+Rockers <> b: rocker, f: s
+rockery <> s: rockeries
+rocket <> s: rockets, d: rocketed, p: rocketed, '3': rockets, i: rocketing
+rocketed <> b: rocket, f: dp
+rocketeer <> s: rocketeers
+rocketeers <> b: rocketeer, f: s
+rocketing <> i: rocketing, b: rocketing, f: i
+rockface <> s: rockfaces
+rockfaces <> b: rockface, f: s
+rockfall <> s: rockfalls
+rockfalls <> b: rockfall, f: s
+rockier <> b: rocky, f: r
+rocking <> b: rock, f: i, i: rocking
+rockling <> s: rocklings
+rocklings <> b: rockling, f: s
+rocks <> b: rock, f: s3
+rockumentaries <> b: rockumentary, f: s
+rockumentary <> s: rockumentaries
+rocky <> r: rockier
+rod <> s: rods, i: rodding
+Roddick <> s: roddicks
+rodding <> b: rod, f: i, i: rodding
+rode <> b: ride, f: p
+Roden <> s: rodens
+rodent <> s: rodents
+rodenticide <> s: rodenticides
+rodenticides <> b: rodenticide, f: s
+rodents <> b: rodent, f: s
+rodeo <> s: rodeos
+rodeos <> b: rodeo, f: s
+rods <> b: rod, f: s
+roe <> s: roes
+roentgen <> s: roentgens
+roentgens <> b: roentgen, f: s
+roes <> b: roe, f: s
+rogation <> s: rogations
+rogations <> b: rogation, f: s
+roger <> i: rogering, d: rogered, p: rogered
+rogered <> b: roger, f: dp
+rogering <> b: roger, f: i, i: rogering
+rogue <> s: rogues
+rogues <> b: rogue, f: s
+roi <> s: rois, b: roi, f: s
+roil <> i: roiling, s: roils, p: roiled, '3': roils, d: roiled
+roiled <> f: pd, b: roil
+roiling <> b: roil, f: i
+roils <> f: s3, b: roil
+rois <> b: roi, f: s
+roister <> p: roistered, i: roistering, '3': roisters, d: roistered
+roistered <> f: pd, b: roister
+roisterer <> s: roisterers
+roisterers <> b: roisterer, f: s
+roistering <> b: roister, f: i
+roisters <> f: '3', b: roister
+Roja <> s: rojas
+role <> s: roles
+role-play <> s: role-plays
+role-plays <> b: role-play, f: s
+roles <> b: role, f: s
+rolex <> s: rolexes
+rolexes <> b: rolex, f: s
+rolf <> i: rolfing
+rolfing <> b: rolf, f: i
+roll <> p: rolled, s: rolls, i: rolling, d: rolled, '3': rolls
+roll-call <> s: roll-calls
+roll-calls <> b: roll-call, f: s
+roll-neck <> s: roll-necks
+roll-necks <> b: roll-neck, f: s
+roll-on <> s: roll-ons
+roll-ons <> b: roll-on, f: s
+roll-up <> s: roll-ups
+roll-ups <> b: roll-up, f: s
+rolled <> b: roll, f: pd, p: rolled, d: rolled
+roller <> s: rollers, p: rollered, d: rollered, i: rollering
+roller-skate <> i: roller-skating, s: roller-skates
+roller-skates <> b: roller-skate, f: s
+roller-skating <> b: roller-skate, f: i, i: roller-skating
+rollercoaster <> s: rollercoasters
+rollercoasters <> b: rollercoaster, f: s
+rollered <> b: roller, f: pd, p: rollered
+rollering <> b: roller, f: i
+rollers <> b: roller, f: s
+rollick <> i: rollicking, p: rollicked, '3': rollicks, d: rollicked
+rollicked <> f: pd, b: rollick
+rollicking <> i: rollicking, b: rollicking, f: i
+rollicks <> f: '3', b: rollick
+rolling <> b: roll, f: i, i: rolling, s: rollings
+rollmop <> s: rollmops
+rollmops <> b: rollmop, f: s
+rollover <> s: rollovers
+rollovers <> b: rollover, f: s
+rolls <> b: roll, f: s3
+roly-polies <> b: roly-poly, f: s
+roly-poly <> s: roly-polies
+ROM <> s: roms
+Roman <> s: romans
+romance <> s: romances, i: romancing, d: romanced, p: romanced, '3': romances
+romanced <> b: romance, f: dp
+romancer <> s: romancers
+romancers <> b: romancer, f: s
+romances <> f: s3, b: romance
+romancing <> b: romance, f: i, i: romancing
+Romanian <> s: romanians
+Romanist <> s: romanists
+romans <> b: roman, f: s
+romantic <> s: romantics
+romanticise <> i: romanticising, '3': romanticises, d: romanticised, p: romanticised, s: romanticises
+romanticised <> b: romanticise, f: dp, d: romanticised
+romanticises <> b: romanticise, f: 3s
+romanticising <> b: romanticise, f: i
+romanticist <> s: romanticists
+romanticists <> b: romanticist, f: s
+romanticize <> d: romanticized, p: romanticized, '3': romanticizes, i: romanticizing
+romanticized <> b: romanticize, f: dp, p: romanticized
+romanticizes <> b: romanticize, f: '3'
+romanticizing <> b: romanticize, f: i, i: romanticizing
+romantics <> b: romantic, f: s
+Romany <> s: romanies
+romeo <> s: romeos
+romeos <> b: romeo, f: s
+romp <> p: romped, i: romping, s: romps, d: romped, '3': romps
+romped <> b: romp, f: pd
+romper <> s: rompers
+rompers <> b: romper, f: s
+romping <> b: romp, f: i, s: rompings
+romps <> b: romp, f: s3
+roms <> b: rom, f: s
+rondavel <> s: rondavels
+rondavels <> b: rondavel, f: s
+Ronny <> s: ronnies
+roo <> s: roos
+rood <> s: roods, '3': roods
+roods <> b: rood, f: s3
+roof <> s: roofs, d: roofed, i: roofing, p: roofed, '3': roofs
+roof-rack <> s: roof-racks
+roof-racks <> b: roof-rack, f: s
+roof-tree <> s: roof-trees
+roof-trees <> b: roof-tree, f: s
+roofed <> f: dp, b: roof
+roofer <> s: roofers
+roofers <> b: roofer, f: s
+roofing <> i: roofing, b: roofing, f: i
+roofline <> s: rooflines
+rooflines <> b: roofline, f: s
+roofs <> f: s3, b: roof
+rooftop <> s: rooftops, i: rooftopping
+rooftopping <> b: rooftop, f: i
+rooftops <> b: rooftop, f: s
+rook <> s: rooks, d: rooked, i: rooking, p: rooked, '3': rooks
+Rooke <> s: rookes
+rooked <> f: dp, b: rook
+rookeries <> b: rookery, f: s
+rookery <> s: rookeries
+rooking <> b: rook, f: i
+rooks <> f: s3, b: rook
+room <> s: rooms, i: rooming, p: roomed, '3': rooms, d: roomed
+room-mate <> s: room-mates
+room-mates <> b: room-mate, f: s
+roomed <> p: roomed, b: roomed, f: p
+roomette <> s: roomettes
+roomettes <> b: roomette, f: s
+roomier <> b: roomy, f: r
+roomiest <> b: roomy, f: t
+roommate <> s: roommates
+roommates <> b: roommate, f: s
+rooms <> b: room, f: s
+roomy <> r: roomier, t: roomiest
+roos <> b: roo, f: s
+roost <> i: roosting, s: roosts, p: roosted, '3': roosts, d: roosted
+roosted <> f: pd, b: roost
+rooster <> s: roosters
+roosters <> b: rooster, f: s
+roosting <> b: roost, f: i
+roosts <> b: roost, f: s3
+root <> s: roots, d: rooted, i: rooting, p: rooted, '3': roots
+rooted <> b: root, f: dp, d: rooted
+rooting <> b: root, f: i, i: rooting
+rootle <> i: rootling, p: rootled, '3': rootles, d: rootled
+rootled <> f: pd, b: rootle
+rootles <> f: '3', b: rootle
+rootlet <> s: rootlets
+rootlets <> b: rootlet, f: s
+rootling <> b: rootle, f: i
+roots <> b: root, f: s3
+rootstock <> s: rootstocks
+rootstocks <> b: rootstock, f: s
+rope <> s: ropes, d: roped, i: roping, p: roped, '3': ropes
+roped <> b: rope, f: dp, d: roped, p: roped
+roper <> s: ropers
+ropers <> b: roper, f: s
+ropes <> b: rope, f: s
+ropier <> b: ropy, f: r
+ropies <> b: ropy, f: s
+roping <> b: rope, f: i
+ropy <> s: ropies, r: ropier
+rorqual <> s: rorquals
+rorquals <> b: rorqual, f: s
+ros <> b: ro, f: s
+rosaniline <> s: rosanilines
+rosanilines <> b: rosaniline, f: s
+rosaries <> b: rosary, f: s
+rosary <> s: rosaries
+rose <> b: rise, f: pd, s: roses
+rosebud <> s: rosebuds
+rosebuds <> b: rosebud, f: s
+rosebush <> s: rosebushes
+rosebushes <> b: rosebush, f: s
+roses <> b: rose, f: s
+roset <> p: rosetted
+rosette <> s: rosettes
+rosetted <> b: roset, f: p
+rosettes <> b: rosette, f: s
+rosewater <> b: rosewate, f: r
+Rosicrucian <> s: rosicrucians
+rosier <> b: rosy, f: r
+rosiest <> b: rosy, f: t
+rosin <> s: rosins, i: rosining, p: rosined, '3': rosins, d: rosined
+rosined <> f: pd, b: rosin
+rosining <> f: i, b: rosin
+rosins <> f: s3, b: rosin
+Rossetti <> s: rossetti, b: rossetti, f: s
+Rossi <> s: rossi, b: rossi, f: s
+rossite <> r: rossiter
+rossiter <> s: rossiters, b: rossite, f: r
+rossiters <> b: rossiter, f: s
+rosso <> s: rossos
+rossos <> b: rosso, f: s
+roster <> s: rosters, d: rostered, i: rostering
+rostered <> b: roster, f: d
+rostering <> b: roster, f: i, i: rostering
+rosters <> b: roster, f: s
+rosy <> r: rosier, t: rosiest
+rot <> d: rotted, i: rotting, '3': rots, p: rotted, s: rots
+rota <> s: rotas
+rotaries <> b: rotary, f: s
+rotary <> s: rotaries
+rotas <> b: rota, f: s
+rotate <> i: rotating, d: rotated, '3': rotates, p: rotated, s: rotates
+rotated <> b: rotate, f: dp, d: rotated
+rotates <> b: rotate, f: 3s
+rotating <> b: rotate, f: i, i: rotating
+rotation <> s: rotations
+rotations <> b: rotation, f: s
+rotator <> s: rotators
+rotators <> b: rotator, f: s
+rotavate <> i: rotavating
+rotavating <> b: rotavate, f: i
+Rothko <> s: rothkos
+Rothwell <> s: rothwells, '3': rothwells
+roti <> s: roti, b: roti, f: s
+rotifer <> s: rotifers
+rotifers <> b: rotifer, f: s
+rotor <> s: rotors
+rotors <> b: rotor, f: s
+rotoscope <> i: rotoscoping, p: rotoscoped
+rotoscoped <> b: rotoscope, f: p
+rotoscoping <> b: rotoscope, f: i
+rotovator <> s: rotovators
+rotovators <> b: rotovator, f: s
+rots <> b: rot, f: 3s
+rotted <> b: rot, f: dp, p: rotted
+rottenest <> b: rottene, f: t
+rotter <> s: rotters
+rotters <> b: rotter, f: s
+rotting <> b: rot, f: i, i: rotting
+rottweiler <> s: rottweilers
+rottweilers <> b: rottweiler, f: s
+rotunda <> s: rotundas
+rotundas <> b: rotunda, f: s
+rotundities <> b: rotundity, f: s
+rotundity <> s: rotundities
+rouble <> s: roubles
+roubles <> b: rouble, f: s
+rouge <> s: rouges, d: rouged, p: rouged, i: rouging, '3': rouges
+rouged <> b: rouge, f: dp, p: rouged
+rouges <> f: s3, b: rouge
+rough <> r: rougher, t: roughest, d: roughed, s: roughs, i: roughing, p: roughed, '3': roughs
+rough-and-tumble <> s: rough-and-tumbles
+rough-and-tumbles <> b: rough-and-tumble, f: s
+roughage <> s: roughages
+roughages <> b: roughage, f: s
+roughcast <> d: roughcast, b: roughcast, i: roughcasting, f: pd, p: roughcast, '3': roughcasts
+roughcasting <> f: i, b: roughcast
+roughcasts <> f: '3', b: roughcast
+roughed <> b: rough, f: dp
+roughen <> d: roughened, p: roughened, i: roughening, '3': roughens
+roughened <> b: roughen, f: dp, p: roughened
+roughening <> b: roughen, f: i
+roughens <> f: '3', b: roughen
+rougher <> b: rough, f: r
+roughest <> b: rough, f: t
+roughhouse <> i: roughhousing, p: roughhoused, '3': roughhouses, d: roughhoused
+roughhoused <> f: p, b: rough-house
+roughhouses <> f: '3', b: roughhouse
+roughhousing <> f: i, b: roughhouse
+roughies <> b: roughy, f: s
+roughing <> b: rough, f: i, i: roughing
+roughneck <> s: roughnecks
+roughnecks <> b: roughneck, f: s
+roughs <> b: rough, f: s3
+roughy <> s: roughies
+rouging <> b: rouge, f: i
+roulade <> s: roulades
+roulades <> b: roulade, f: s
+roulette <> s: roulettes
+roulettes <> b: roulette, f: s
+Roumanian <> s: roumanians
+round <> s: rounds, p: rounded, d: rounded, i: rounding, '3': rounds, r: rounder
+round-trip <> s: round-trips
+round-trips <> b: round-trip, f: s
+round-up <> s: round-ups
+round-ups <> b: round-up, f: s
+roundabout <> s: roundabouts
+roundabouts <> b: roundabout, f: s
+rounded <> b: round, f: pd, d: rounded, p: rounded
+roundel <> s: roundels
+roundels <> b: roundel, f: s
+rounder <> b: round, f: r
+roundhead <> s: roundheads
+roundheads <> b: roundhead, f: s
+rounding <> b: round, f: i, i: rounding, s: roundings
+roundness <> s: roundnesses
+roundnesses <> b: roundness, f: s
+rounds <> b: round, f: s3
+roundsman <> s: roundsmen
+roundsmen <> b: roundsman, f: s
+roundup <> s: roundups
+roundups <> b: roundup, f: s
+roundworm <> s: roundworms
+roundworms <> b: roundworm, f: s
+Rourke <> s: rourkes
+rouse <> d: roused, p: roused, i: rousing, '3': rouses
+roused <> b: rouse, f: dp
+rouser <> s: rousers
+rousers <> b: rouser, f: s
+rouses <> b: rouse, f: '3'
+rousing <> b: rouse, f: i, i: rousing
+roust <> d: rousted, p: rousted
+roustabout <> s: roustabouts
+roustabouts <> b: roustabout, f: s
+rousted <> b: roust, f: dp
+rout <> d: routed, p: routed, i: routing, s: routs, '3': routs
+route <> s: routes, i: routing, p: routed, '3': routes, d: routed
+routed <> b: rout, f: dp, d: routed
+router <> s: routers, d: routered
+routered <> b: router, f: d
+routers <> b: router, f: s
+routes <> f: s3, b: route
+routier <> s: routiers, b: routy, f: r
+routiers <> b: routier, f: s
+routine <> s: routines
+routines <> b: routine, f: s
+routing <> b: rout, f: i, i: routing, s: routings
+routinize <> p: routinized, d: routinized, i: routinizing
+routinized <> b: routinize, f: pd
+routinizing <> b: routinize, f: i
+routs <> b: rout, f: s3
+roux <> s: rouxs
+rouxs <> b: roux, f: s
+rove <> p: roved, i: roving, '3': roves, d: roved
+roved <> b: rove, f: pd
+rover <> s: rovers
+rovers <> b: rover, f: s
+roves <> b: rove, f: '3'
+roving <> s: rovings, i: roving, b: roving, f: i
+row <> s: rows, p: rowed, d: rowed, i: rowing, '3': rows
+rowan <> s: rowans
+rowans <> b: rowan, f: s
+rowboat <> s: rowboats
+rowboats <> b: rowboat, f: s
+rowdier <> b: rowdy, f: r
+Rowdies <> b: rowdy, f: s
+rowdiest <> b: rowdy, f: t
+rowdy <> s: rowdies, r: rowdier, t: rowdiest
+rowed <> b: row, f: pd
+rowel <> i: rowelling, p: rowelled
+rowelled <> b: rowel, f: p
+rowelling <> b: rowel, f: i
+rower <> s: rowers
+rowers <> b: rower, f: s
+rowing <> b: row, f: i, i: rowing
+rowlock <> s: rowlocks
+rowlocks <> b: rowlock, f: s
+Rowntree <> s: rowntrees
+rows <> f: s3, b: row
+royal <> s: royals
+royalist <> s: royalists
+royalists <> b: royalist, f: s
+royals <> b: royal, f: s
+royalties <> b: royalty, f: s
+royalty <> s: royalties
+royce <> '3': royces, s: royces
+royces <> b: royce, f: 3s
+rozzer <> s: rozzers
+rozzers <> b: rozzer, f: s
+rpi <> s: rpis
+rpis <> b: rpi, f: s
+RPM <> s: rpms
+rub <> p: rubbed, i: rubbing, d: rubbed, '3': rubs, s: rubs
+rubbed <> b: rub, f: pd
+rubber <> s: rubbers, i: rubbering, p: rubbered, '3': rubbers, d: rubbered
+rubber-stamp <> p: rubber-stamped, s: rubber-stamps
+rubber-stamped <> b: rubber-stamp, f: p
+rubber-stamps <> b: rubber-stamp, f: s
+rubbered <> f: pd, b: rubber
+rubbering <> f: i, b: rubber
+rubberised <> d: rubberised, b: rubberised, f: dp, p: rubberised
+rubberize <> i: rubberizing, p: rubberized, '3': rubberizes, d: rubberized
+rubberized <> f: pd, b: rubberize
+rubberizes <> f: '3', b: rubberize
+rubberizing <> f: i, b: rubberize
+rubberneck <> p: rubbernecked, s: rubbernecks, i: rubbernecking, '3': rubbernecks, d: rubbernecked
+rubbernecked <> f: pd, b: rubberneck
+rubbernecking <> f: i, b: rubberneck
+rubbernecks <> f: s3, b: rubberneck
+rubbers <> f: s3, b: rubber
+rubbing <> b: rub, f: i, s: rubbings, i: rubbing
+rubbish <> p: rubbished, d: rubbished, i: rubbishing, '3': rubbishes
+rubbished <> b: rubbish, f: pd
+rubbishes <> f: '3', b: rubbish
+rubbishing <> b: rubbish, f: i, i: rubbishing
+rubble <> s: rubbles
+rubbles <> b: rubble, f: s
+ruben <> s: rubens
+Rubens <> b: ruben, f: s
+rubicon <> s: rubicons
+rubicons <> b: rubicon, f: s
+rubies <> b: ruby, f: s
+ruble <> s: rubles
+rubles <> b: ruble, f: s
+rubric <> s: rubrics
+rubricate <> d: rubricated, p: rubricated, i: rubricating, '3': rubricates
+rubricated <> b: rubricate, f: dp
+rubricates <> f: '3', b: rubricate
+rubricating <> f: i, b: rubricate
+rubrics <> b: rubric, f: s
+rubs <> b: rub, f: 3s
+ruby <> s: rubies
+ruch <> i: ruching
+ruching <> b: ruch, f: i
+ruck <> s: rucks, i: rucking, p: rucked, d: rucked, '3': rucks
+rucked <> b: ruck, f: pd
+rucking <> b: ruck, f: i, i: rucking
+rucks <> f: s3, b: ruck
+rucksack <> s: rucksacks, p: rucksacked
+rucksacked <> b: rucksack, f: p
+rucksacks <> b: rucksack, f: s
+ruction <> s: ructions
+ructions <> b: ruction, f: s
+rudbeckia <> s: rudbeckias
+rudbeckias <> b: rudbeckia, f: s
+rudder <> s: rudders, '3': rudders, i: ruddering
+ruddering <> b: rudder, f: i
+rudders <> b: rudder, f: s3
+ruddied <> b: ruddy, f: p
+ruddier <> b: ruddy, f: r
+ruddle <> s: ruddles, '3': ruddles, i: ruddling, p: ruddled, d: ruddled
+ruddled <> f: pd, b: ruddle
+ruddles <> b: ruddle, f: s3
+ruddling <> f: i, b: ruddle
+ruddy <> r: ruddier, p: ruddied, s: ruddys
+ruddys <> b: ruddy, f: s
+rude <> r: ruder, t: rudest
+rudeness <> s: rudenesses
+rudenesses <> b: rudeness, f: s
+ruder <> b: rude, f: r
+rudest <> b: rude, f: t
+Rudi <> s: rudis
+rudies <> b: rudy, f: s
+rudiment <> s: rudiments
+rudiments <> b: rudiment, f: s
+rudy <> s: rudies
+rue <> i: ruing, '3': rues, p: rued, d: rued, s: rues
+rued <> b: rue, f: pd
+rues <> b: rue, f: 3s
+ruff <> s: ruffs, p: ruffed, d: ruffed, i: ruffing, '3': ruffs
+ruffed <> b: ruff, f: pd
+ruffian <> s: ruffians
+ruffians <> b: ruffian, f: s
+ruffing <> f: i, b: ruff
+ruffle <> p: ruffled, i: ruffling, d: ruffled, s: ruffles, '3': ruffles
+ruffled <> b: ruffle, f: pd, p: ruffled, d: ruffled
+ruffles <> b: ruffle, f: s3
+ruffling <> b: ruffle, f: i
+ruffs <> f: s3, b: ruff
+rug <> s: rugs
+ruggedize <> i: ruggedizing, p: ruggedized, '3': ruggedizes, d: ruggedized
+ruggedized <> f: pd, b: ruggedize
+rugger <> p: ruggered, s: ruggers
+rugger-bugger <> s: rugger-buggers
+rugger-buggers <> b: rugger-bugger, f: s
+ruggered <> b: rugger, f: p
+ruggers <> b: rugger, f: s
+rugosa <> s: rugosas
+rugosas <> b: rugosa, f: s
+rugs <> b: rug, f: s
+ruin <> s: ruins, '3': ruins, i: ruining, p: ruined, d: ruined
+ruine <> d: ruined, i: ruining, p: ruined
+ruined <> b: ruine, f: dp, d: ruined, p: ruined
+ruing <> b: rue, f: i
+ruining <> b: ruine, f: i, i: ruining
+ruins <> b: ruin, f: s3
+rule <> s: rules, d: ruled, p: ruled, '3': rules, i: ruling
+rulebook <> s: rulebooks
+rulebooks <> b: rulebook, f: s
+ruled <> b: rule, f: dp, p: ruled, d: ruled
+ruler <> s: rulers
+rulers <> b: ruler, f: s
+rules <> b: rule, f: s3
+ruling <> b: rule, f: i, s: rulings, i: ruling
+rum <> s: rums, r: rummer
+Rumanian <> s: rumanians
+rumba <> s: rumbas
+rumbas <> b: rumba, f: s
+rumble <> p: rumbled, i: rumbling, d: rumbled, s: rumbles, '3': rumbles
+rumbled <> b: rumble, f: pd
+rumbles <> b: rumble, f: s3
+rumbling <> b: rumble, f: i, s: rumblings, i: rumbling
+Rumbold <> s: rumbolds
+rumen <> s: rumens
+rumens <> b: rumen, f: s
+ruminant <> s: ruminants
+ruminants <> b: ruminant, f: s
+ruminate <> p: ruminated, i: ruminating, '3': ruminates, d: ruminated
+ruminated <> f: pd, b: ruminate
+ruminates <> b: ruminate, f: '3'
+ruminating <> b: ruminate, f: i
+rumination <> s: ruminations
+ruminations <> b: rumination, f: s
+rummage <> p: rummaged, i: rummaging, '3': rummages, d: rummaged
+rummaged <> b: rummage, f: pd
+rummages <> b: rummage, f: '3'
+rummaging <> b: rummage, f: i, i: rummaging
+rummer <> b: rum, f: r
+rumor <> s: rumors, i: rumoring, p: rumored, '3': rumors, d: rumored
+rumors <> b: rumor, f: s
+rumour <> s: rumours, d: rumoured, i: rumouring, p: rumoured, '3': rumours
+rumour-monger <> s: rumour-mongers
+rumour-mongers <> b: rumour-monger, f: s
+rumoured <> f: dp, b: rumour
+rumouring <> f: i, b: rumour
+rumours <> f: s3, b: rumour
+rump <> s: rumps
+rumple <> p: rumpled, d: rumpled, i: rumpling, '3': rumples
+rumpled <> b: rumple, f: pd, p: rumpled
+rumples <> f: '3', b: rumple
+rumpling <> b: rumple, f: i
+rumps <> b: rump, f: s
+rumpus <> s: rumpuses
+rums <> b: rum, f: s
+run <> p: ran, i: running, d: run, b: run, f: d, '3': runs, s: runs
+run-in <> s: run-ins
+run-ins <> b: run-in, f: s
+run-off <> s: run-offs
+run-offs <> b: run-off, f: s
+run-on <> s: run-ons
+run-ons <> b: run-on, f: s
+run-out <> s: run-outs
+run-outs <> b: run-out, f: s
+run-through <> s: run-throughs
+run-throughs <> b: run-through, f: s
+run-time <> s: run-times
+run-times <> b: run-time, f: s
+run-up <> s: run-ups
+run-ups <> b: run-up, f: s
+runabout <> '3': runabouts, s: runabouts
+runabouts <> b: runabout, f: 3s
+runaway <> s: runaways
+runaways <> b: runaway, f: s
+rune <> s: runes, i: runing
+runes <> b: rune, f: s
+rung <> b: ring, f: dp, s: rungs
+runge <> p: runged
+runged <> b: runge, f: p
+runing <> b: rune, f: i
+runlet <> s: runlets
+runlets <> b: runlet, f: s
+runnel <> s: runnels, i: runnelling
+runnelling <> b: runnel, f: i
+runnels <> b: runnel, f: s
+runner <> s: runners
+runners <> b: runner, f: s
+runnier <> b: runny, f: r
+running <> b: run, f: i, i: running, s: runnings
+running-board <> s: running-boards
+running-boards <> b: running-board, f: s
+runny <> r: runnier
+runoff <> s: runoffs
+runoffs <> b: runoff, f: s
+runs <> b: run, f: 3s
+runt <> s: runts, p: runted
+runted <> b: runt, f: p
+runts <> b: runt, f: s
+runway <> s: runways
+runways <> b: runway, f: s
+rupee <> s: rupees
+rupees <> b: rupee, f: s
+rupiah <> s: rupiahs
+rupiahs <> b: rupiah, f: s
+rupture <> d: ruptured, p: ruptured, i: rupturing, '3': ruptures, s: ruptures
+ruptured <> b: rupture, f: dp, d: ruptured
+ruptures <> b: rupture, f: 3s
+rupturing <> b: rupture, f: i
+ruralist <> s: ruralists
+ruralists <> b: ruralist, f: s
+Ruritanian <> s: ruritanians
+ruse <> s: ruses, i: rusing
+ruses <> b: ruse, f: s
+rush <> i: rushing, p: rushed, d: rushed, s: rushes, '3': rushes
+rushed <> b: rush, f: pd, d: rushed, p: rushed
+rusher <> s: rushers
+rushers <> b: rusher, f: s
+rushes <> b: rush, f: s3
+rushing <> b: rush, f: i, s: rushings, i: rushing
+rushlight <> s: rushlights
+rushlights <> b: rushlight, f: s
+rusing <> b: ruse, f: i
+rusk <> s: rusks, p: rusked
+rusked <> b: rusk, f: p
+rusks <> b: rusk, f: s
+russ <> '3': russes
+russes <> b: russ, f: '3'
+russet <> s: russets
+russets <> b: russet, f: s
+Russian <> s: russians
+russians <> b: russian, f: s
+rust <> i: rusting, d: rusted, '3': rusts, s: rusts, p: rusted
+rusted <> b: rust, f: dp, p: rusted, d: rusted
+rustic <> s: rustics
+rusticate <> d: rusticated, p: rusticated, i: rusticating, '3': rusticates
+rusticated <> b: rusticate, f: dp
+rusticates <> f: '3', b: rusticate
+rusticating <> f: i, b: rusticate
+rustics <> b: rustic, f: s
+rustier <> b: rusty, f: r
+rustiest <> b: rusty, f: t
+rusting <> b: rust, f: i, i: rusting
+rustle <> i: rustling, p: rustled, d: rustled, s: rustles, '3': rustles
+rustled <> b: rustle, f: pd
+rustler <> s: rustlers
+rustlers <> b: rustler, f: s
+rustles <> b: rustle, f: s3
+rustling <> b: rustle, f: i, s: rustlings, i: rustling
+rusts <> b: rust, f: 3s
+rusty <> t: rustiest, r: rustier
+rut <> s: ruts, p: rutted, i: rutting, '3': ruts, d: rutted
+Ruthven <> s: ruthvens
+ruts <> b: rut, f: s3
+rutted <> b: rut, f: pd, p: rutted
+rutting <> b: rut, f: i, i: rutting
+rve <> d: riven
+rye <> s: ryes
+ryes <> b: rye, f: s
+ryland <> s: rylands
+rylands <> b: ryland, f: s
+Ryman <> s: rymans

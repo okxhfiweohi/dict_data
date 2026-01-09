@@ -1,0 +1,14 @@
+zap >> 1
+zeal >> 1
+zealous >> 1
+zebra >> 1
+Zen >> 1
+zero >> 2
+zest >> 1
+zinc >> 2
+zip >> 1
+zodiac >> 1
+zone >> 3
+zoo >> 2
+zoology >> 1
+zoom >> 2

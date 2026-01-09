@@ -1,0 +1,1319 @@
+gab <> V: {rk: 31259, frq: 144}, N: {rk: 33679, frq: 132}
+gabardine <> N: {rk: 35642, frq: 103}
+gabble <> V: {rk: 43024, frq: 56}, N: {rk: 57494, frq: 21}
+gabby <> J: {rk: 48856, frq: 35}
+gabled <> J: {rk: 30772, frq: 144}
+gadfly <> N: {rk: 28122, frq: 184}
+gadget <> N: {rk: 9297, frq: 2103}
+gadgetry <> N: {rk: 28638, frq: 179}
+gadolinium <> N: {rk: 43559, frq: 59}
+gadwall <> N: {rk: 50278, frq: 34}
+gaff <> N: {rk: 31403, frq: 164}
+gaffe <> N: {rk: 20709, frq: 429}
+gaffer <> N: {rk: 34741, frq: 145}
+gag <> N: {rk: 10944, frq: 1361}, V: {rk: 13375, frq: 1037}
+gage <> V: {rk: 46716, frq: 46}
+gagging <> J: {rk: 53521, frq: 28}
+gaggle <> N: {rk: 20657, frq: 413}
+gaiety <> N: {rk: 28371, frq: 188}
+gaijin <> N: {rk: 50124, frq: 36}
+gaily <> R: {rk: 24466, frq: 279}
+gain <> V: {rk: 1257, frq: 33114}, N: {rk: 2209, frq: 16946}
+gainer <> N: {rk: 28416, frq: 316}
+gainful <> J: {rk: 31719, frq: 144}
+gainfully <> R: {rk: 33865, frq: 107}
+gaining <> N: {rk: 38486, frq: 75}
+gainsay <> V: {rk: 37410, frq: 81}
+gait <> N: {rk: 10448, frq: 1752}
+gaiter <> N: {rk: 33557, frq: 128}
+gal <> N: {rk: 11019, frq: 1866}
+gala <> N: {rk: 9359, frq: 1995}
+galactic <> J: {rk: 12038, frq: 1244}
+galactosemia <> N: {rk: 56750, frq: 39}
+galaxy <> N: {rk: 3035, frq: 11805}
+gale-force <> J: {rk: 36674, frq: 93}
+galette <> N: {rk: 41629, frq: 102}
+gall <> N: {rk: 15200, frq: 917}, V: {rk: 22354, frq: 350}
+gallant <> J: {rk: 17857, frq: 588}, N: {rk: 56550, frq: 40}
+gallantly <> R: {rk: 30870, frq: 140}
+gallantry <> N: {rk: 28857, frq: 171}
+gallbladder <> N: {rk: 29144, frq: 180}
+galleon <> N: {rk: 31279, frq: 163}
+gallery <> N: {rk: 3376, frq: 17124}
+galley <> N: {rk: 11558, frq: 1390}
+gallic <> J: {rk: 26154, frq: 228}
+galling <> J: {rk: 26083, frq: 223}
+gallium <> N: {rk: 33093, frq: 136}
+gallivant <> V: {rk: 43091, frq: 67}
+gallop <> V: {rk: 12433, frq: 1163}, N: {rk: 19668, frq: 457}
+galloping <> J: {rk: 25288, frq: 244}
+gallows <> N: {rk: 22104, frq: 389}
+gallstone <> N: {rk: 31185, frq: 158}
+galore <> J: {rk: 20894, frq: 404}
+galosh <> N: {rk: 33034, frq: 120}
+galumph <> V: {rk: 54016, frq: 25}
+galvanic <> J: {rk: 37083, frq: 88}
+galvanize <> V: {rk: 14548, frq: 823}
+galvanized <> J: {rk: 17059, frq: 600}
+galvanizing <> J: {rk: 36521, frq: 89}
+gam <> N: {rk: 36402, frq: 150}
+gambit <> N: {rk: 19514, frq: 481}
+gamble <> V: {rk: 9342, frq: 1847}, N: {rk: 11027, frq: 2445}
+gambler <> N: {rk: 10457, frq: 1554}
+gambling <> N: {rk: 5116, frq: 5148}
+gamboge <> N: {rk: 54742, frq: 29}
+gambol <> V: {rk: 40048, frq: 67}
+game <> N: {rk: 273, frq: 159057}, V: {rk: 14762, frq: 850}, J: {rk: 39349, frq: 72}
+gamekeeper <> N: {rk: 45744, frq: 52}
+gamelan <> N: {rk: 43543, frq: 55}
+gamely <> R: {rk: 23817, frq: 283}
+gameplay <> N: {rk: 45073, frq: 52}
+gamer <> N: {rk: 21393, frq: 518}
+gamesmanship <> N: {rk: 31150, frq: 155}
+gamete <> N: {rk: 33632, frq: 119}
+gamine <> N: {rk: 53513, frq: 39}
+gaming <> N: {rk: 9450, frq: 1923}
+gamma <> N: {rk: 13263, frq: 1705}
+gamut <> N: {rk: 14621, frq: 808}
+ganache <> N: {rk: 36498, frq: 126}
+gander <> N: {rk: 29312, frq: 234}
+gang <> N: {rk: 2630, frq: 13717}, V: {rk: 19836, frq: 436}
+gangbanger <> N: {rk: 29745, frq: 177}
+gangbuster <> N: {rk: 33125, frq: 126}
+gangland <> N: {rk: 34396, frq: 102}
+gangling <> J: {rk: 47186, frq: 42}
+ganglion <> N: {rk: 29451, frq: 188}
+gangly <> J: {rk: 22696, frq: 329}
+gangplank <> N: {rk: 28064, frq: 202}
+gangrene <> N: {rk: 27918, frq: 199}
+gangrenous <> J: {rk: 42709, frq: 56}
+gangsta <> N: {rk: 21382, frq: 425}
+gangster <> N: {rk: 9553, frq: 1873}
+gangway <> N: {rk: 27443, frq: 228}
+ganja <> N: {rk: 46952, frq: 49}
+gannet <> N: {rk: 47553, frq: 74}
+gantlet <> N: {rk: 34177, frq: 110}
+gantry <> N: {rk: 28388, frq: 245}
+gaol <> N: {rk: 39943, frq: 86}
+gaoler <> N: {rk: 60022, frq: 23}
+gap <> N: {rk: 2133, frq: 17859}
+gap-toothed <> J: {rk: 32344, frq: 131}
+gape <> V: {rk: 14809, frq: 919}, N: {rk: 39018, frq: 70}
+gaping <> J: {rk: 11478, frq: 1355}
+garage <> N: {rk: 3229, frq: 10349}
+garb <> N: {rk: 13854, frq: 909}, V: {rk: 30934, frq: 136}
+garbage <> N: {rk: 3965, frq: 7442}
+garbageman <> N: {rk: 53643, frq: 34}
+garbanzo <> N: {rk: 31138, frq: 165}
+garble <> V: {rk: 39643, frq: 66}, N: {rk: 55989, frq: 23}
+garbled <> J: {rk: 24699, frq: 261}
+garden <> N: {rk: 1044, frq: 42083}, V: {rk: 28097, frq: 198}
+garden-variety <> J: {rk: 26568, frq: 220}
+gardener <> N: {rk: 5823, frq: 4314}
+gardenia <> N: {rk: 25381, frq: 325}
+gardening <> N: {rk: 7157, frq: 3107}
+gargantuan <> J: {rk: 17891, frq: 545}
+gargle <> V: {rk: 29806, frq: 162}, N: {rk: 47847, frq: 40}
+gargoyle <> N: {rk: 20896, frq: 434}
+garish <> J: {rk: 17815, frq: 563}
+garishly <> R: {rk: 38153, frq: 78}
+garlanded <> J: {rk: 43728, frq: 53}
+garlic <> N: {rk: 2975, frq: 13102}
+garlicky <> J: {rk: 29885, frq: 180}
+garment <> N: {rk: 6194, frq: 3747}
+garner <> V: {rk: 11403, frq: 1346}
+garnish <> V: {rk: 9679, frq: 2093}, N: {rk: 11420, frq: 1554}
+garnished <> J: {rk: 47595, frq: 41}
+garnishment <> N: {rk: 56321, frq: 23}
+garrison <> V: {rk: 39135, frq: 101}
+garrote <> N: {rk: 41398, frq: 64}
+garrulous <> J: {rk: 28440, frq: 176}
+garter <> N: {rk: 21214, frq: 393}
+gas <> N: {rk: 1024, frq: 41879}, V: {rk: 31412, frq: 140}
+gas-fired <> J: {rk: 32582, frq: 130}
+gaseous <> J: {rk: 19133, frq: 497}
+gash <> N: {rk: 16388, frq: 766}, V: {rk: 31799, frq: 137}
+gasification <> N: {rk: 28968, frq: 200}
+gasifier <> N: {rk: 43330, frq: 61}
+gasket <> N: {rk: 25922, frq: 259}
+gaslight <> N: {rk: 30119, frq: 187}
+gaslit <> J: {rk: 47919, frq: 41}
+gasohol <> N: {rk: 46283, frq: 52}
+gasoline <> N: {rk: 4114, frq: 7142}
+gasp <> V: {rk: 5730, frq: 4732}, N: {rk: 10329, frq: 1703}
+gasping <> J: {rk: 46091, frq: 47}, N: {rk: 52753, frq: 29}
+gassed <> J: {rk: 56828, frq: 24}
+gassing <> N: {rk: 43983, frq: 50}
+gassy <> J: {rk: 37669, frq: 77}
+gastric <> J: {rk: 20015, frq: 498}
+gastritis <> N: {rk: 42016, frq: 57}
+gastrocnemius <> N: {rk: 48043, frq: 44}
+gastroenteritis <> N: {rk: 32520, frq: 142}
+gastroenterologist <> N: {rk: 29778, frq: 176}
+gastroenterology <> N: {rk: 41555, frq: 75}
+gastroesophageal <> J: {rk: 40938, frq: 74}
+gastrointestinal <> J: {rk: 14623, frq: 859}
+gastronome <> N: {rk: 51961, frq: 30}
+gastronomic <> J: {rk: 29366, frq: 173}
+gastronomical <> J: {rk: 46787, frq: 37}
+gastronomy <> N: {rk: 38957, frq: 83}
+gastropod <> N: {rk: 48572, frq: 41}
+gate <> N: {rk: 2020, frq: 19526}, V: {rk: 30646, frq: 190}
+gateau <> N: {rk: 54798, frq: 24}
+gated <> J: {rk: 19725, frq: 539}
+gatehouse <> N: {rk: 33088, frq: 200}
+gatekeeper <> N: {rk: 15615, frq: 806}
+gatekeeping <> J: {rk: 54885, frq: 32}
+gatepost <> N: {rk: 45800, frq: 42}
+gateway <> N: {rk: 10252, frq: 2684}
+gather <> V: {rk: 1351, frq: 29965}, N: {rk: 41951, frq: 63}
+gathered <> J: {rk: 13605, frq: 945}
+gatherer <> N: {rk: 25628, frq: 244}
+gathering <> N: {rk: 4030, frq: 7265}, J: {rk: 54197, frq: 26}
+gauche <> J: {rk: 29041, frq: 206}
+gaudily <> R: {rk: 48080, frq: 39}
+gaudy <> J: {rk: 15589, frq: 730}
+gauge <> N: {rk: 6125, frq: 3816}, V: {rk: 12286, frq: 1117}
+gaunt <> J: {rk: 16080, frq: 726}
+gauntlet <> N: {rk: 16715, frq: 641}
+gauss <> N: {rk: 44442, frq: 142}
+gauze <> N: {rk: 15313, frq: 771}
+gauzy <> J: {rk: 21442, frq: 380}
+gavel <> N: {rk: 20369, frq: 912}
+gawk <> V: {rk: 17850, frq: 572}, N: {rk: 51054, frq: 31}
+gawking <> J: {rk: 51096, frq: 31}
+gawky <> J: {rk: 30567, frq: 150}
+gay <> J: {rk: 2067, frq: 18949}, N: {rk: 7523, frq: 4676}
+gayness <> N: {rk: 40796, frq: 64}
+gaze <> N: {rk: 3349, frq: 11028}, V: {rk: 4470, frq: 6881}
+gazebo <> N: {rk: 19265, frq: 479}
+gazelle <> N: {rk: 24106, frq: 348}
+gazetteer <> N: {rk: 52960, frq: 40}
+gazillion <> N: {rk: 35141, frq: 113}
+gazpacho <> N: {rk: 32982, frq: 155}
+gear <> N: {rk: 2623, frq: 14013}, V: {rk: 7018, frq: 2945}
+gearbox <> N: {rk: 27367, frq: 256}
+gearhead <> N: {rk: 37513, frq: 89}
+gearing <> N: {rk: 30886, frq: 157}
+gearshift <> N: {rk: 36387, frq: 92}
+gecko <> N: {rk: 26309, frq: 324}
+gee <> U: {rk: 7327, frq: 2853}
+geek <> N: {rk: 13761, frq: 1098}
+geeky <> J: {rk: 28876, frq: 193}
+gees <> U: {rk: 30633, frq: 169}
+geezer <> N: {rk: 23926, frq: 305}
+geisha <> N: {rk: 22105, frq: 416}
+gel <> N: {rk: 8919, frq: 2239}, V: {rk: 32097, frq: 151}
+gelatin <> N: {rk: 16964, frq: 669}
+gelatinous <> J: {rk: 29675, frq: 176}
+gelato <> N: {rk: 31734, frq: 198}
+gelding <> N: {rk: 25059, frq: 279}
+gelid <> J: {rk: 55976, frq: 21}
+gem <> N: {rk: 7946, frq: 2584}
+gem-like <> J: {rk: 42172, frq: 57}
+gemstone <> N: {rk: 26606, frq: 243}
+gendarme <> N: {rk: 29603, frq: 178}
+gendarmerie <> N: {rk: 54678, frq: 38}
+gender <> N: {rk: 1834, frq: 24014}
+gendered <> J: {rk: 17844, frq: 654}
+gendering <> N: {rk: 48511, frq: 41}
+genderless <> J: {rk: 41295, frq: 111}
+gene <> N: {rk: 2301, frq: 21394}
+genealogical <> J: {rk: 22659, frq: 357}
+genealogist <> N: {rk: 36228, frq: 95}
+genealogy <> N: {rk: 15122, frq: 872}
+general <> J: {rk: 804, frq: 67115}, R: {rk: 2577, frq: 14291}, N: {rk: 2804, frq: 22586}
+general-purpose <> J: {rk: 28772, frq: 193}
+generalised <> J: {rk: 48786, frq: 44}
+generalissimo <> N: {rk: 39750, frq: 68}
+generalist <> N: {rk: 21229, frq: 417}
+generality <> N: {rk: 18210, frq: 561}
+generalizability <> N: {rk: 19959, frq: 528}
+generalization <> N: {rk: 8877, frq: 2247}
+generalize <> V: {rk: 10974, frq: 1560}
+generalized <> J: {rk: 11299, frq: 1453}
+generalizing <> J: {rk: 56970, frq: 24}
+generally <> R: {rk: 1204, frq: 35453}
+generalship <> N: {rk: 44659, frq: 52}
+generate <> V: {rk: 1700, frq: 23832}
+generated <> J: {rk: 31816, frq: 135}
+generating <> J: {rk: 9762, frq: 1756}
+generation <> N: {rk: 1027, frq: 41345}
+generational <> J: {rk: 12149, frq: 1197}
+generative <> J: {rk: 23047, frq: 354}
+generator <> N: {rk: 5911, frq: 4298}
+generic <> J: {rk: 6536, frq: 3572}
+generically <> R: {rk: 26019, frq: 223}
+generosity <> N: {rk: 8097, frq: 2365}
+generous <> J: {rk: 3916, frq: 7561}
+generously <> R: {rk: 10814, frq: 1446}
+genetic <> J: {rk: 2738, frq: 13003}
+genetically <> R: {rk: 6844, frq: 3160}
+geneticist <> N: {rk: 13677, frq: 979}
+genetics <> N: {rk: 7774, frq: 2706}
+genial <> J: {rk: 18152, frq: 521}
+geniality <> N: {rk: 45865, frq: 41}
+genially <> R: {rk: 36929, frq: 81}
+genie <> N: {rk: 19288, frq: 708}
+genistein <> N: {rk: 50515, frq: 43}
+genital <> J: {rk: 14498, frq: 888}
+genitalia <> N: {rk: 22138, frq: 349}
+genitals <> N: {rk: 15639, frq: 707}
+genitourinary <> J: {rk: 57158, frq: 27}
+genius <> N: {rk: 4097, frq: 7169}
+genocidal <> J: {rk: 21062, frq: 387}
+genocide <> N: {rk: 7692, frq: 2862}
+genome <> N: {rk: 7500, frq: 3157}
+genomic <> J: {rk: 25741, frq: 311}
+genomics <> N: {rk: 23795, frq: 489}
+genotype <> N: {rk: 24711, frq: 321}
+genotypic <> J: {rk: 59325, frq: 25}
+genre <> N: {rk: 4537, frq: 6415}
+gent <> N: {rk: 20193, frq: 475}
+gentamicin <> N: {rk: 31400, frq: 186}
+genteel <> J: {rk: 16563, frq: 641}
+gentian <> N: {rk: 38238, frq: 77}
+gentile <> J: {rk: 33476, frq: 153}
+gentility <> N: {rk: 30351, frq: 160}
+gentle <> J: {rk: 3416, frq: 9440}, V: {rk: 37123, frq: 95}
+gentleman <> N: {rk: 2463, frq: 15552}
+gentlemanliness <> N: {rk: 57945, frq: 24}
+gentlemanly <> J: {rk: 24226, frq: 268}
+gentleness <> N: {rk: 18773, frq: 484}
+gentlewoman <> N: {rk: 39939, frq: 71}
+gently <> R: {rk: 2768, frq: 13301}
+gentoo <> N: {rk: 59910, frq: 24}
+gentrification <> N: {rk: 25888, frq: 271}
+gentrified <> J: {rk: 37831, frq: 77}
+gentrify <> V: {rk: 33989, frq: 117}
+genuflect <> V: {rk: 31615, frq: 133}
+genuflection <> N: {rk: 52590, frq: 28}
+genuine <> J: {rk: 3776, frq: 7903}
+genuinely <> R: {rk: 6529, frq: 3365}
+genuineness <> N: {rk: 38758, frq: 80}
+genus <> N: {rk: 11101, frq: 1441}
+geocentric <> J: {rk: 47576, frq: 37}
+geochemical <> J: {rk: 44521, frq: 61}
+geochemist <> N: {rk: 38898, frq: 73}
+geochemistry <> N: {rk: 51566, frq: 46}
+geodesic <> J: {rk: 33441, frq: 118}
+geodetic <> J: {rk: 51396, frq: 34}
+geoeconomics <> N: {rk: 59132, frq: 21}
+geoengineering <> J: {rk: 59190, frq: 34}
+geographer <> N: {rk: 13136, frq: 1166}
+geographic <> J: {rk: 5496, frq: 4786}
+geographical <> J: {rk: 6813, frq: 3553}
+geographically <> R: {rk: 11910, frq: 1266}
+geography <> N: {rk: 5217, frq: 5714}
+geologic <> J: {rk: 17092, frq: 626}
+geological <> J: {rk: 8979, frq: 2073}
+geologically <> R: {rk: 28601, frq: 176}
+geologist <> N: {rk: 9923, frq: 1713}
+geology <> N: {rk: 11752, frq: 1285}
+geomagnetic <> J: {rk: 39347, frq: 92}
+geometric <> J: {rk: 10072, frq: 1657}
+geometrical <> J: {rk: 24338, frq: 270}
+geometrically <> R: {rk: 30819, frq: 144}
+geometrics <> N: {rk: 53886, frq: 31}
+geometry <> N: {rk: 7990, frq: 2508}
+geomorphic <> J: {rk: 43410, frq: 79}
+geomorphological <> J: {rk: 52104, frq: 29}
+geomorphologist <> N: {rk: 51312, frq: 43}
+geomorphology <> N: {rk: 40149, frq: 109}
+geophysical <> J: {rk: 23184, frq: 329}
+geophysicist <> N: {rk: 29568, frq: 167}
+geophysics <> N: {rk: 37893, frq: 84}
+geopolitical <> J: {rk: 11712, frq: 1385}
+geopolitics <> N: {rk: 23020, frq: 374}
+geoscience <> N: {rk: 47084, frq: 71}
+geostationary <> J: {rk: 42422, frq: 61}
+geostrategic <> J: {rk: 31396, frq: 157}
+geosynchronous <> J: {rk: 37311, frq: 82}
+geothermal <> J: {rk: 16879, frq: 678}
+geranium <> N: {rk: 17270, frq: 599}
+gerbil <> N: {rk: 31735, frq: 159}
+geriatric <> J: {rk: 17582, frq: 668}, N: {rk: 27021, frq: 294}
+geriatrician <> N: {rk: 34756, frq: 122}
+germ <> N: {rk: 9438, frq: 1949}
+germane <> J: {rk: 21424, frq: 372}
+germanium <> N: {rk: 36091, frq: 101}
+germinal <> J: {rk: 42155, frq: 60}
+germinate <> V: {rk: 18300, frq: 523}
+germination <> N: {rk: 23901, frq: 305}
+germline <> N: {rk: 55516, frq: 27}
+germplasm <> N: {rk: 25074, frq: 305}
+gerontocracy <> N: {rk: 52530, frq: 27}
+gerontological <> J: {rk: 35681, frq: 120}
+gerontologist <> N: {rk: 32453, frq: 142}
+gerontology <> N: {rk: 29139, frq: 271}
+gerrymander <> V: {rk: 35041, frq: 100}
+gerrymandered <> J: {rk: 57861, frq: 21}
+gerrymandering <> N: {rk: 41188, frq: 75}
+gesso <> N: {rk: 21938, frq: 390}
+gessoed <> J: {rk: 40799, frq: 66}
+gestalt <> N: {rk: 26082, frq: 241}
+gestate <> V: {rk: 40135, frq: 63}
+gestation <> N: {rk: 20988, frq: 391}
+gestational <> J: {rk: 29306, frq: 238}
+gesticulate <> V: {rk: 30156, frq: 164}
+gesticulation <> N: {rk: 43127, frq: 49}
+gestural <> J: {rk: 32727, frq: 126}
+gesture <> N: {rk: 2988, frq: 11391}, V: {rk: 7030, frq: 3455}
+gesturing <> N: {rk: 51347, frq: 34}
+get <> V: {rk: 39, frq: 1080432}
+get-go <> N: {rk: 21534, frq: 188}
+get-out <> N: {rk: 48112, frq: 40}
+get-rich-quick <> J: {rk: 35702, frq: 97}
+get-up <> N: {rk: 25709, frq: 267}
+getaway <> N: {rk: 10626, frq: 1569}
+getter <> N: {rk: 34708, frq: 109}
+gewgaws <> N: {rk: 53421, frq: 25}
+geyser <> N: {rk: 17416, frq: 641}
+ghastly <> J: {rk: 14638, frq: 818}
+ghat <> N: {rk: 44441, frq: 49}
+ghee <> N: {rk: 39039, frq: 79}
+gherkin <> N: {rk: 49786, frq: 38}
+ghetto <> N: {rk: 8744, frq: 2214}
+ghettoization <> N: {rk: 52153, frq: 33}
+ghettoize <> V: {rk: 40686, frq: 62}
+ghost <> N: {rk: 3287, frq: 10546}, V: {rk: 34198, frq: 115}
+ghostlike <> J: {rk: 31616, frq: 137}
+ghostly <> J: {rk: 11535, frq: 1324}
+ghostwriter <> N: {rk: 38683, frq: 81}
+ghoul <> N: {rk: 25847, frq: 388}
+ghoulish <> J: {rk: 25532, frq: 234}
+gi <> N: {rk: 7601, frq: 2746}
+giant <> J: {rk: 2555, frq: 13994}, N: {rk: 3891, frq: 14174}
+giantess <> N: {rk: 46564, frq: 41}
+giardiasis <> N: {rk: 43283, frq: 70}
+gibber <> V: {rk: 41418, frq: 61}
+gibberish <> N: {rk: 24601, frq: 230}
+gibbet <> N: {rk: 51238, frq: 33}
+gibbous <> J: {rk: 30482, frq: 156}
+gibe <> N: {rk: 37357, frq: 76}
+giblet <> N: {rk: 28150, frq: 235}
+giddily <> R: {rk: 32975, frq: 117}
+giddiness <> N: {rk: 32309, frq: 127}
+giddy <> J: {rk: 11517, frq: 1316}
+gift <> N: {rk: 1386, frq: 30081}, V: {rk: 33440, frq: 136}
+gift-wrapped <> J: {rk: 37664, frq: 76}
+gifted <> J: {rk: 3258, frq: 11211}
+giftedness <> N: {rk: 12155, frq: 1400}
+gig <> N: {rk: 8139, frq: 2507}
+gigabit <> N: {rk: 39012, frq: 106}
+gigabyte <> N: {rk: 26272, frq: 252}
+gigahertz <> N: {rk: 37498, frq: 93}
+gigantic <> J: {rk: 7920, frq: 2524}
+gigantism <> N: {rk: 50300, frq: 31}
+gigawatt <> N: {rk: 42241, frq: 65}
+giggle <> V: {rk: 7473, frq: 2927}, N: {rk: 10391, frq: 1634}
+giggling <> J: {rk: 36665, frq: 88}, N: {rk: 37202, frq: 84}
+giggly <> J: {rk: 46940, frq: 38}
+gigolo <> N: {rk: 34199, frq: 140}
+gild <> V: {rk: 25314, frq: 249}
+gilded <> J: {rk: 12419, frq: 1157}
+gilding <> N: {rk: 48363, frq: 38}
+gilt <> N: {rk: 18660, frq: 522}
+gilt-edged <> J: {rk: 40127, frq: 66}
+gimbal <> N: {rk: 59151, frq: 20}
+gimlet <> N: {rk: 35649, frq: 124}
+gimmick <> N: {rk: 13197, frq: 1036}
+gimmickry <> N: {rk: 43848, frq: 55}
+gimp <> N: {rk: 41515, frq: 123}
+gimpy <> J: {rk: 41460, frq: 58}
+gin <> N: {rk: 9432, frq: 2028}
+ginger <> N: {rk: 7448, frq: 4493}, J: {rk: 10348, frq: 1642}
+gingerbread <> N: {rk: 16064, frq: 754}
+gingered <> J: {rk: 50120, frq: 43}
+gingerly <> R: {rk: 12114, frq: 1230}
+gingerroot <> N: {rk: 41070, frq: 65}
+gingersnap <> N: {rk: 36908, frq: 105}
+gingery <> J: {rk: 47701, frq: 52}
+gingham <> N: {rk: 27913, frq: 201}
+gingivitis <> N: {rk: 41596, frq: 66}
+gingko <> N: {rk: 49260, frq: 38}
+ginseng <> N: {rk: 22058, frq: 400}
+giraffe <> N: {rk: 16035, frq: 860}
+gird <> V: {rk: 24207, frq: 278}
+girder <> N: {rk: 22126, frq: 354}
+girdle <> N: {rk: 22302, frq: 318}, V: {rk: 37258, frq: 80}
+giri <> N: {rk: 58985, frq: 40}
+girl <> N: {rk: 363, frq: 121177}
+girlfriend <> N: {rk: 3134, frq: 10962}
+girlhood <> N: {rk: 25218, frq: 249}
+girlie <> N: {rk: 28343, frq: 226}
+girlish <> J: {rk: 19907, frq: 458}
+girlishly <> R: {rk: 46658, frq: 42}
+girly <> J: {rk: 31249, frq: 180}
+girth <> N: {rk: 18975, frq: 501}
+gist <> N: {rk: 18553, frq: 539}
+gite <> N: {rk: 59312, frq: 23}
+give <> V: {rk: 98, frq: 415914}
+give-and-take <> J: {rk: 24609, frq: 265}
+giveaway <> N: {rk: 14507, frq: 867}
+giveback <> N: {rk: 50092, frq: 34}
+given <> J: {rk: 3036, frq: 11532}
+givenness <> N: {rk: 57586, frq: 23}
+giver <> N: {rk: 14172, frq: 885}
+giving <> N: {rk: 16492, frq: 655}
+gizmo <> N: {rk: 18512, frq: 534}
+gizzard <> N: {rk: 34622, frq: 116}
+glacial <> J: {rk: 14546, frq: 851}
+glacially <> R: {rk: 40412, frq: 62}
+glaciated <> J: {rk: 45838, frq: 40}
+glaciation <> N: {rk: 39627, frq: 71}
+glacier <> N: {rk: 8015, frq: 3365}
+glaciologist <> N: {rk: 46695, frq: 53}
+glad <> J: {rk: 2283, frq: 16892}
+gladden <> V: {rk: 28982, frq: 178}
+glade <> N: {rk: 20257, frq: 685}
+gladed <> J: {rk: 58714, frq: 21}
+gladiator <> N: {rk: 23987, frq: 500}
+gladiatorial <> J: {rk: 42015, frq: 63}
+gladiolus <> N: {rk: 38318, frq: 96}
+gladly <> R: {rk: 11260, frq: 1341}
+gladness <> N: {rk: 32957, frq: 121}
+glam <> J: {rk: 23588, frq: 369}
+glamorization <> N: {rk: 56122, frq: 22}
+glamorize <> V: {rk: 26577, frq: 224}
+glamorous <> J: {rk: 8206, frq: 2372}
+glamorously <> R: {rk: 49383, frq: 34}
+glamourous <> J: {rk: 57895, frq: 21}
+glance <> V: {rk: 2433, frq: 17626}, N: {rk: 3712, frq: 8766}
+glancing <> J: {rk: 32029, frq: 131}
+glancingly <> R: {rk: 57389, frq: 23}
+gland <> N: {rk: 8137, frq: 2547}
+glandular <> J: {rk: 34630, frq: 107}
+glare <> V: {rk: 6458, frq: 3998}, N: {rk: 7407, frq: 2905}
+glaring <> J: {rk: 12996, frq: 1016}
+glaringly <> R: {rk: 30742, frq: 142}
+glasnost <> N: {rk: 20624, frq: 452}
+glass <> N: {rk: 821, frq: 55835}, V: {rk: 29902, frq: 181}
+glass-blowing <> J: {rk: 47447, frq: 38}
+glassblower <> N: {rk: 34467, frq: 117}
+glassed <> J: {rk: 52317, frq: 29}
+glassed-in <> J: {rk: 28726, frq: 180}
+glassful <> N: {rk: 52210, frq: 30}
+glasshouse <> N: {rk: 46282, frq: 46}
+glassine <> N: {rk: 46925, frq: 46}
+glasslike <> J: {rk: 49285, frq: 33}
+glassmaker <> N: {rk: 39966, frq: 70}
+glassware <> N: {rk: 19964, frq: 434}
+glassworks <> N: {rk: 40954, frq: 75}
+glassy <> J: {rk: 16309, frq: 705}
+glassy-eyed <> J: {rk: 34175, frq: 110}
+glaucoma <> N: {rk: 20948, frq: 432}
+glaucous <> J: {rk: 48374, frq: 40}
+glaze <> N: {rk: 9370, frq: 2061}, V: {rk: 12048, frq: 1212}
+glazed <> J: {rk: 14617, frq: 864}
+glazing <> N: {rk: 22729, frq: 381}
+gleam <> V: {rk: 10450, frq: 1674}, N: {rk: 14098, frq: 945}
+gleaming <> J: {rk: 8326, frq: 2438}
+glean <> V: {rk: 10973, frq: 1398}
+gleaner <> N: {rk: 39950, frq: 122}
+gleanings <> N: {rk: 51093, frq: 33}
+glee <> N: {rk: 13565, frq: 1156}
+gleeful <> J: {rk: 21765, frq: 349}
+gleefully <> R: {rk: 16271, frq: 661}
+glial <> J: {rk: 58352, frq: 26}
+glib <> J: {rk: 20266, frq: 399}
+glibly <> R: {rk: 33643, frq: 109}
+glibness <> N: {rk: 48679, frq: 34}
+glide <> V: {rk: 7201, frq: 3033}, N: {rk: 20637, frq: 633}
+glider <> N: {rk: 17184, frq: 652}
+gliding <> N: {rk: 28038, frq: 210}
+glimmer <> N: {rk: 12872, frq: 1124}, V: {rk: 19873, frq: 477}
+glimmering <> J: {rk: 35529, frq: 100}, N: {rk: 42287, frq: 57}
+glimpse <> N: {rk: 4597, frq: 6051}, V: {rk: 8869, frq: 2106}
+glimpsed <> J: {rk: 45202, frq: 45}
+glint <> N: {rk: 13625, frq: 1011}, V: {rk: 14461, frq: 934}
+glinting <> J: {rk: 31233, frq: 149}
+glioblastoma <> N: {rk: 47664, frq: 65}
+glioma <> N: {rk: 50175, frq: 42}
+glissade <> N: {rk: 57769, frq: 24}, V: {rk: 59227, frq: 19}
+glissando <> N: {rk: 46599, frq: 43}
+glisten <> V: {rk: 10713, frq: 1586}
+glistening <> J: {rk: 14705, frq: 848}
+glitch <> N: {rk: 13049, frq: 1051}
+glitter <> N: {rk: 12170, frq: 1185}, V: {rk: 12565, frq: 1224}
+glitterati <> N: {rk: 41706, frq: 66}
+glittering <> J: {rk: 11796, frq: 1283}
+glittery <> J: {rk: 23471, frq: 318}
+glitz <> N: {rk: 20971, frq: 412}
+glitzy <> J: {rk: 19434, frq: 479}
+gloaming <> N: {rk: 48857, frq: 43}
+gloat <> V: {rk: 18758, frq: 493}, N: {rk: 52575, frq: 32}
+gloating <> N: {rk: 49427, frq: 41}, J: {rk: 57671, frq: 20}
+glob <> N: {rk: 24956, frq: 325}
+global <> J: {rk: 1111, frq: 40980}
+globalism <> N: {rk: 28938, frq: 191}
+globalization <> N: {rk: 6540, frq: 4187}
+globalize <> V: {rk: 26997, frq: 234}
+globalized <> J: {rk: 22121, frq: 418}
+globalizing <> J: {rk: 38308, frq: 84}
+globally <> R: {rk: 10543, frq: 1679}
+globe <> N: {rk: 4779, frq: 7734}
+globin <> N: {rk: 60012, frq: 19}
+globular <> J: {rk: 16336, frq: 756}
+globule <> N: {rk: 32511, frq: 146}
+globulin <> N: {rk: 37755, frq: 84}
+glockenspiel <> N: {rk: 47411, frq: 42}
+glom <> V: {rk: 47570, frq: 41}
+glomerular <> J: {rk: 50447, frq: 41}
+glomerulonephritis <> N: {rk: 59236, frq: 23}
+gloom <> N: {rk: 9639, frq: 1855}
+gloomily <> R: {rk: 27868, frq: 200}
+gloominess <> N: {rk: 57854, frq: 21}
+gloomy <> J: {rk: 10054, frq: 1632}
+glop <> N: {rk: 38041, frq: 88}
+gloppy <> J: {rk: 48268, frq: 40}
+glorification <> N: {rk: 26436, frq: 216}
+glorified <> J: {rk: 20952, frq: 397}
+glorify <> V: {rk: 14049, frq: 871}
+gloriosa <> N: {rk: 55096, frq: 42}
+glorious <> J: {rk: 6273, frq: 3702}
+gloriously <> R: {rk: 21285, frq: 369}
+glory <> N: {rk: 4145, frq: 7025}, V: {rk: 32634, frq: 126}
+gloss <> N: {rk: 11507, frq: 1379}, V: {rk: 17982, frq: 543}
+glossary <> N: {rk: 17545, frq: 616}
+glossed <> J: {rk: 57352, frq: 21}
+glossy <> J: {rk: 8732, frq: 2187}, N: {rk: 40385, frq: 67}
+glottal <> J: {rk: 44754, frq: 52}
+glottic <> J: {rk: 52583, frq: 42}
+glottis <> N: {rk: 49875, frq: 38}
+glove <> N: {rk: 3114, frq: 11011}
+gloved <> J: {rk: 14287, frq: 979}
+gloveless <> J: {rk: 55585, frq: 22}
+glow <> N: {rk: 5145, frq: 5418}, V: {rk: 5353, frq: 5066}
+glower <> V: {rk: 19754, frq: 497}, N: {rk: 28648, frq: 199}
+glowering <> J: {rk: 40999, frq: 62}
+glowing <> J: {rk: 7559, frq: 2784}
+glowingly <> R: {rk: 33891, frq: 105}
+glowworm <> N: {rk: 58243, frq: 20}
+glucocorticoid <> N: {rk: 52460, frq: 30}
+glucosamine <> N: {rk: 44485, frq: 60}
+glucose <> N: {rk: 11985, frq: 1344}
+glue <> N: {rk: 7387, frq: 2906}, V: {rk: 7699, frq: 2639}
+glued <> J: {rk: 44193, frq: 46}
+glug <> N: {rk: 57935, frq: 25}
+glum <> J: {rk: 20502, frq: 412}
+glumly <> R: {rk: 21521, frq: 380}
+gluon <> N: {rk: 35687, frq: 112}
+glut <> N: {rk: 17458, frq: 583}, V: {rk: 34056, frq: 106}
+glutamate <> N: {rk: 34147, frq: 128}
+glutamine <> N: {rk: 41559, frq: 72}
+glutathione <> N: {rk: 37645, frq: 106}
+glute <> N: {rk: 27138, frq: 238}
+gluteal <> J: {rk: 42672, frq: 68}, N: {rk: 50857, frq: 35}
+gluten <> N: {rk: 25967, frq: 302}
+gluteus <> N: {rk: 32903, frq: 146}
+glutinous <> J: {rk: 35821, frq: 90}
+glutted <> J: {rk: 49617, frq: 30}
+glutton <> N: {rk: 32967, frq: 125}
+gluttonous <> J: {rk: 42869, frq: 52}
+gluttony <> N: {rk: 27961, frq: 209}
+glycemic <> J: {rk: 33367, frq: 138}
+glycerin <> N: {rk: 33845, frq: 148}
+glycerine <> N: {rk: 42602, frq: 61}
+glycerol <> N: {rk: 48942, frq: 38}
+glyceryl <> N: {rk: 59450, frq: 43}
+glycine <> N: {rk: 49431, frq: 42}
+glycogen <> N: {rk: 31330, frq: 168}
+glycol <> N: {rk: 33722, frq: 129}
+glycoprotein <> N: {rk: 47323, frq: 48}
+glycoside <> N: {rk: 56036, frq: 23}
+glyph <> N: {rk: 31481, frq: 167}
+glyphosate <> N: {rk: 51183, frq: 38}
+gnarled <> J: {rk: 15993, frq: 724}
+gnarly <> R: {rk: 27408, frq: 213}
+gnash <> V: {rk: 31011, frq: 146}
+gnashing <> N: {rk: 41892, frq: 61}
+gnat <> N: {rk: 21597, frq: 403}
+gnatcatcher <> N: {rk: 56048, frq: 25}
+gnaw <> V: {rk: 12984, frq: 1085}
+gnawing <> J: {rk: 30668, frq: 146}, N: {rk: 43162, frq: 55}
+gneiss <> N: {rk: 58295, frq: 23}
+gnome <> N: {rk: 25000, frq: 320}
+gnomic <> J: {rk: 47429, frq: 42}
+gnomon <> N: {rk: 59925, frq: 34}
+gnosis <> N: {rk: 48621, frq: 50}
+gnostic <> J: {rk: 31158, frq: 149}
+gnu <> N: {rk: 41040, frq: 65}
+go <> V: {rk: 35, frq: 1251786}
+go-ahead <> N: {rk: 23644, frq: 290}, J: {rk: 27680, frq: 222}
+go-around <> N: {rk: 39606, frq: 71}
+go-between <> N: {rk: 24760, frq: 261}
+go-cart <> N: {rk: 39113, frq: 76}, J: {rk: 48557, frq: 35}
+go-getter <> N: {rk: 33045, frq: 121}
+go-go <> J: {rk: 22858, frq: 313}
+go-kart <> N: {rk: 38687, frq: 85}, J: {rk: 53851, frq: 29}
+go-slow <> J: {rk: 44002, frq: 48}
+goad <> V: {rk: 17494, frq: 565}, N: {rk: 44647, frq: 43}
+goading <> N: {rk: 51260, frq: 31}
+goal <> N: {rk: 681, frq: 64791}
+goal-line <> J: {rk: 42917, frq: 60}
+goalie <> N: {rk: 15724, frq: 812}
+goalkeeper <> N: {rk: 24497, frq: 349}
+goalpost <> N: {rk: 32823, frq: 117}
+goaltender <> N: {rk: 24856, frq: 299}
+goaltending <> J: {rk: 52914, frq: 34}, N: {rk: 53486, frq: 45}
+goanna <> N: {rk: 58843, frq: 35}
+goat <> N: {rk: 4718, frq: 6070}
+goatee <> N: {rk: 19047, frq: 494}
+goatherd <> N: {rk: 47741, frq: 44}
+goatskin <> N: {rk: 35633, frq: 98}
+gob <> N: {rk: 23263, frq: 314}, V: {rk: 56140, frq: 22}
+gobbet <> N: {rk: 50759, frq: 33}
+gobble <> V: {rk: 11109, frq: 1390}, N: {rk: 32652, frq: 160}
+gobbledygook <> N: {rk: 42692, frq: 56}
+gobbler <> N: {rk: 17614, frq: 736}
+gobbling <> J: {rk: 50560, frq: 34}, N: {rk: 54448, frq: 28}
+goblet <> N: {rk: 17060, frq: 650}
+goblin <> N: {rk: 20058, frq: 883}
+goby <> N: {rk: 47874, frq: 64}
+god-awful <> J: {rk: 27249, frq: 212}
+god-fearing <> J: {rk: 25447, frq: 242}
+godchild <> N: {rk: 50861, frq: 40}
+goddam <> J: {rk: 20741, frq: 423}
+goddammit <> U: {rk: 23481, frq: 321}
+goddamn <> J: {rk: 8052, frq: 2699}, U: {rk: 18008, frq: 602}
+goddamned <> J: {rk: 14671, frq: 901}
+goddaughter <> N: {rk: 42196, frq: 62}
+goddess <> N: {rk: 6731, frq: 3292}
+godfather <> N: {rk: 17525, frq: 1104}
+godforsaken <> J: {rk: 26539, frq: 228}
+godhead <> N: {rk: 42086, frq: 132}
+godhood <> N: {rk: 55838, frq: 26}
+godless <> J: {rk: 23771, frq: 286}
+godlessness <> N: {rk: 54160, frq: 30}
+godlike <> J: {rk: 23166, frq: 304}
+godliness <> N: {rk: 37717, frq: 87}
+godly <> J: {rk: 24753, frq: 263}
+godmother <> N: {rk: 19827, frq: 461}
+godparent <> N: {rk: 36155, frq: 120}
+godsend <> N: {rk: 21351, frq: 377}
+godson <> N: {rk: 38182, frq: 97}
+goer <> N: {rk: 27767, frq: 202}
+gofer <> N: {rk: 36003, frq: 87}
+goggle <> N: {rk: 11349, frq: 2730}, V: {rk: 33658, frq: 118}
+goggle-eyed <> J: {rk: 42448, frq: 55}
+going <> N: {rk: 11064, frq: 1378}, J: {rk: 14936, frq: 819}
+going-over <> N: {rk: 54210, frq: 24}
+goings-on <> N: {rk: 23226, frq: 307}
+goiter <> N: {rk: 30401, frq: 229}
+gold <> N: {rk: 1260, frq: 33706}, J: {rk: 8707, frq: 2120}
+gold-plated <> J: {rk: 26435, frq: 225}
+gold-rimmed <> J: {rk: 35180, frq: 101}
+golden <> J: {rk: 1831, frq: 21906}
+goldenrod <> N: {rk: 24737, frq: 336}
+goldfield <> N: {rk: 50970, frq: 89}
+goldfinch <> N: {rk: 38855, frq: 76}
+goldfish <> N: {rk: 17036, frq: 625}
+golem <> N: {rk: 25274, frq: 428}
+golf <> N: {rk: 1811, frq: 22301}, V: {rk: 41324, frq: 59}
+golfer <> N: {rk: 6667, frq: 3444}
+golfing <> N: {rk: 16108, frq: 678}
+golly <> U: {rk: 22816, frq: 319}
+gonad <> N: {rk: 34038, frq: 128}
+gonadal <> J: {rk: 55344, frq: 28}
+gonadotropin <> N: {rk: 57341, frq: 21}
+gondola <> N: {rk: 16420, frq: 750}
+gondolier <> N: {rk: 39618, frq: 76}
+goner <> N: {rk: 29182, frq: 169}
+gong <> N: {rk: 19128, frq: 942}, V: {rk: 54969, frq: 23}
+goniometer <> N: {rk: 48241, frq: 57}
+goniometric <> J: {rk: 59913, frq: 21}
+gonorrhea <> N: {rk: 26430, frq: 239}
+goo <> N: {rk: 18401, frq: 617}
+goober <> N: {rk: 39905, frq: 114}
+good <> J: {rk: 110, frq: 386236}, N: {rk: 2274, frq: 18073}, R: {rk: 5106, frq: 5095}
+good-for-nothing <> J: {rk: 46099, frq: 42}
+good-hearted <> J: {rk: 26262, frq: 220}
+good-looking <> J: {rk: 10044, frq: 1692}
+good-natured <> J: {rk: 16031, frq: 686}
+good-naturedly <> R: {rk: 24021, frq: 280}
+good-time <> J: {rk: 37257, frq: 82}
+goodbye <> U: {rk: 5643, frq: 4619}
+goodies <> N: {rk: 12848, frq: 1099}
+goodly <> J: {rk: 29145, frq: 177}
+goodness <> N: {rk: 5209, frq: 5092}
+goodnight <> U: {rk: 19122, frq: 531}
+goodwife <> N: {rk: 56941, frq: 35}
+goodwill <> N: {rk: 8940, frq: 1981}
+goody <> J: {rk: 28541, frq: 193}
+goody-goody <> J: {rk: 42736, frq: 52}
+gooey <> J: {rk: 19785, frq: 470}
+goof <> V: {rk: 18962, frq: 475}, N: {rk: 28011, frq: 222}
+goofball <> N: {rk: 32673, frq: 135}
+goofiness <> N: {rk: 45947, frq: 44}
+goofy <> J: {rk: 12932, frq: 1058}
+gook <> N: {rk: 35134, frq: 129}
+goon <> N: {rk: 19475, frq: 496}
+goop <> N: {rk: 34659, frq: 118}
+goopy <> J: {rk: 46746, frq: 41}
+goose <> N: {rk: 5592, frq: 4693}
+gooseberry <> N: {rk: 33245, frq: 142}
+gooseflesh <> N: {rk: 44542, frq: 60}
+gooseneck <> N: {rk: 42872, frq: 59}
+gordian <> J: {rk: 38921, frq: 75}
+gore <> V: {rk: 27569, frq: 199}
+gored <> J: {rk: 53583, frq: 26}
+gorge <> N: {rk: 12502, frq: 1762}, V: {rk: 25073, frq: 257}
+gorgeous <> J: {rk: 5519, frq: 4919}
+gorgeously <> R: {rk: 31648, frq: 156}
+gorgeousness <> N: {rk: 57621, frq: 24}
+gorget <> N: {rk: 47516, frq: 48}
+gorgon <> N: {rk: 42399, frq: 59}
+gorilla <> N: {rk: 9570, frq: 1895}
+gorp <> N: {rk: 44664, frq: 76}
+gorse <> N: {rk: 39365, frq: 76}
+gory <> J: {rk: 19733, frq: 437}
+gosh <> U: {rk: 7778, frq: 3104}
+goshawk <> N: {rk: 43977, frq: 55}
+gospel <> N: {rk: 5524, frq: 6962}
+gossamer <> N: {rk: 24127, frq: 289}
+gossip <> N: {rk: 6962, frq: 3104}, V: {rk: 11521, frq: 1361}
+gossiping <> N: {rk: 56646, frq: 23}
+gossipy <> J: {rk: 34192, frq: 112}
+goth <> N: {rk: 26443, frq: 384}
+gothic <> J: {rk: 10085, frq: 1744}
+gouache <> N: {rk: 22271, frq: 395}
+gouge <> V: {rk: 13772, frq: 913}, N: {rk: 26602, frq: 213}
+gouged <> J: {rk: 45808, frq: 39}
+gouging <> N: {rk: 48291, frq: 49}
+goulash <> N: {rk: 35899, frq: 96}
+gourd <> N: {rk: 16220, frq: 910}
+gourmand <> N: {rk: 34755, frq: 111}
+gourmet <> N: {rk: 8347, frq: 2457}
+gout <> N: {rk: 24140, frq: 293}
+govern <> V: {rk: 3739, frq: 8223}
+governable <> J: {rk: 51175, frq: 35}
+governance <> N: {rk: 6559, frq: 3974}
+governess <> N: {rk: 25215, frq: 292}
+governing <> J: {rk: 7232, frq: 2930}
+government <> N: {rk: 201, frq: 209934}
+governmental <> J: {rk: 5894, frq: 4236}
+governmentally <> R: {rk: 47857, frq: 37}
+governor <> N: {rk: 1821, frq: 28242}
+governorate <> N: {rk: 55245, frq: 38}
+governorship <> N: {rk: 19841, frq: 470}
+gown <> N: {rk: 5320, frq: 5180}
+gowned <> J: {rk: 45688, frq: 47}
+goy <> N: {rk: 42756, frq: 63}
+grab <> V: {rk: 1482, frq: 29141}, N: {rk: 9626, frq: 1746}
+grabber <> N: {rk: 33241, frq: 125}
+grabbing <> J: {rk: 49527, frq: 28}
+grabby <> J: {rk: 45461, frq: 43}
+grace <> V: {rk: 11644, frq: 1263}
+graceful <> J: {rk: 7354, frq: 2818}
+gracefully <> R: {rk: 10724, frq: 1480}
+gracefulness <> N: {rk: 45619, frq: 48}
+graceless <> J: {rk: 33181, frq: 121}
+gracelessly <> R: {rk: 51130, frq: 29}
+gracilis <> N: {rk: 47214, frq: 80}
+gracious <> J: {rk: 8695, frq: 2079}
+graciously <> R: {rk: 15880, frq: 698}
+graciousness <> N: {rk: 28598, frq: 180}
+grackle <> N: {rk: 40041, frq: 72}
+grad <> N: {rk: 10607, frq: 1677}
+gradation <> N: {rk: 23099, frq: 302}
+grade <> N: {rk: 1430, frq: 29416}, V: {rk: 5614, frq: 4542}
+graded <> J: {rk: 24882, frq: 299}
+grader <> N: {rk: 7256, frq: 2988}
+gradient <> N: {rk: 14853, frq: 959}
+grading <> N: {rk: 15381, frq: 802}
+gradual <> J: {rk: 6895, frq: 3139}
+gradualism <> N: {rk: 37870, frq: 85}
+gradually <> R: {rk: 2980, frq: 11355}
+graduate <> N: {rk: 2127, frq: 18236}, V: {rk: 2624, frq: 13676}
+graduated <> J: {rk: 19244, frq: 466}
+graduation <> N: {rk: 4804, frq: 5837}
+graffiti <> N: {rk: 8981, frq: 2066}
+graffito <> N: {rk: 53429, frq: 25}
+graft <> N: {rk: 14584, frq: 863}, V: {rk: 17274, frq: 580}
+grafted <> J: {rk: 43552, frq: 52}
+grafting <> N: {rk: 25128, frq: 277}
+grain <> N: {rk: 3243, frq: 10221}, V: {rk: 43837, frq: 51}
+graininess <> N: {rk: 52021, frq: 31}
+grainy <> J: {rk: 14510, frq: 864}
+grammar <> N: {rk: 8522, frq: 2359}
+grammarian <> N: {rk: 40599, frq: 64}
+grammatical <> J: {rk: 19406, frq: 515}
+grammatically <> R: {rk: 31985, frq: 134}
+gramophone <> N: {rk: 30912, frq: 161}
+granary <> N: {rk: 26737, frq: 219}
+grand <> J: {rk: 2251, frq: 24503}
+grandad <> N: {rk: 42526, frq: 59}
+grandaddy <> N: {rk: 47276, frq: 68}
+grandbaby <> N: {rk: 44701, frq: 56}
+grandchild <> N: {rk: 4432, frq: 6251}
+granddad <> N: {rk: 25181, frq: 319}
+granddaddy <> N: {rk: 21571, frq: 447}
+granddaughter <> N: {rk: 8685, frq: 2200}
+grandee <> N: {rk: 39335, frq: 78}
+grandeur <> N: {rk: 12074, frq: 1185}
+grandfather <> N: {rk: 2968, frq: 11865}
+grandfathered <> J: {rk: 55439, frq: 25}
+grandfatherly <> J: {rk: 36187, frq: 86}
+grandiloquent <> J: {rk: 44968, frq: 47}
+grandiose <> J: {rk: 15252, frq: 743}
+grandiosely <> R: {rk: 54931, frq: 23}
+grandiosity <> N: {rk: 35335, frq: 99}
+grandkid <> N: {rk: 17368, frq: 653}
+grandly <> R: {rk: 21578, frq: 367}
+grandmama <> N: {rk: 31042, frq: 172}
+grandmaster <> N: {rk: 33450, frq: 175}
+grandmother <> N: {rk: 2511, frq: 14727}
+grandmotherly <> J: {rk: 35266, frq: 99}
+grandnephew <> N: {rk: 58630, frq: 20}
+grandness <> N: {rk: 47466, frq: 36}
+grandniece <> N: {rk: 45249, frq: 42}
+grandparent <> N: {rk: 4723, frq: 5778}
+grandson <> N: {rk: 6736, frq: 3208}
+grandstand <> N: {rk: 20304, frq: 882}, V: {rk: 30223, frq: 159}
+grandstanding <> N: {rk: 37116, frq: 84}, J: {rk: 54025, frq: 25}
+granita <> N: {rk: 44226, frq: 81}
+granite <> N: {rk: 6919, frq: 3185}
+granitic <> J: {rk: 50828, frq: 29}
+granny <> N: {rk: 19865, frq: 1619}
+granola <> N: {rk: 20716, frq: 479}
+grant <> V: {rk: 1917, frq: 20094}, N: {rk: 3272, frq: 20034}
+grantee <> N: {rk: 25558, frq: 289}
+granting <> N: {rk: 20226, frq: 446}
+grantor <> N: {rk: 38524, frq: 114}
+granular <> J: {rk: 21503, frq: 404}
+granularity <> N: {rk: 52148, frq: 28}
+granulate <> V: {rk: 16854, frq: 764}
+granulated <> J: {rk: 22623, frq: 417}
+granulation <> N: {rk: 28836, frq: 241}
+granule <> N: {rk: 22019, frq: 365}
+granuloma <> N: {rk: 34689, frq: 134}
+granulomatous <> J: {rk: 41693, frq: 66}
+grape <> N: {rk: 4809, frq: 5809}
+grapefruit <> N: {rk: 12395, frq: 1190}
+grapeshot <> N: {rk: 48199, frq: 37}
+grapevine <> N: {rk: 18092, frq: 677}
+graph <> V: {rk: 28520, frq: 211}
+grapheme <> N: {rk: 42312, frq: 102}
+graphic <> N: {rk: 5441, frq: 6709}, J: {rk: 5908, frq: 4271}
+graphical <> J: {rk: 17716, frq: 612}
+graphically <> R: {rk: 16884, frq: 623}
+graphing <> J: {rk: 55803, frq: 23}
+graphite <> N: {rk: 11552, frq: 1424}
+grappa <> N: {rk: 44824, frq: 63}
+grapple <> V: {rk: 8509, frq: 2158}, N: {rk: 31841, frq: 168}
+grappler <> N: {rk: 52855, frq: 29}
+grappling <> J: {rk: 30192, frq: 158}
+grasp <> V: {rk: 4214, frq: 6864}, N: {rk: 7466, frq: 2753}
+graspable <> J: {rk: 52832, frq: 25}
+grasping <> J: {rk: 22540, frq: 329}
+grass <> N: {rk: 2025, frq: 19494}, V: {rk: 54278, frq: 24}
+grasshopper <> N: {rk: 15899, frq: 761}
+grassland <> N: {rk: 12189, frq: 1225}
+grassless <> J: {rk: 51035, frq: 29}
+grasslike <> J: {rk: 48543, frq: 37}
+grassy <> J: {rk: 10337, frq: 1574}
+grate <> V: {rk: 8669, frq: 2506}, N: {rk: 13409, frq: 1047}
+grated <> J: {rk: 14058, frq: 996}
+grateful <> J: {rk: 3699, frq: 8378}
+gratefully <> R: {rk: 14833, frq: 815}
+gratefulness <> N: {rk: 44696, frq: 47}
+grater <> N: {rk: 29265, frq: 192}
+gratification <> N: {rk: 12671, frq: 1078}
+gratified <> J: {rk: 28760, frq: 169}
+gratify <> V: {rk: 18644, frq: 480}
+gratifying <> J: {rk: 14325, frq: 855}
+gratifyingly <> R: {rk: 47613, frq: 36}
+gratin <> N: {rk: 26456, frq: 308}
+grating <> J: {rk: 17812, frq: 567}, N: {rk: 40621, frq: 71}
+gratis <> R: {rk: 33036, frq: 124}, J: {rk: 49838, frq: 31}
+gratitude <> N: {rk: 7166, frq: 3034}
+gratuitous <> J: {rk: 17480, frq: 564}
+gratuitously <> R: {rk: 33455, frq: 110}
+gratuitousness <> N: {rk: 59096, frq: 37}
+gratuity <> N: {rk: 23080, frq: 311}
+grav <> N: {rk: 48891, frq: 41}
+grave <> N: {rk: 3380, frq: 9911}, J: {rk: 6192, frq: 3662}
+gravedigger <> N: {rk: 32186, frq: 138}
+gravel <> N: {rk: 5687, frq: 4423}
+gravelly <> J: {rk: 26432, frq: 237}, R: {rk: 32251, frq: 127}
+gravely <> R: {rk: 13499, frq: 1031}
+graven <> J: {rk: 37032, frq: 85}
+graveside <> N: {rk: 29146, frq: 189}
+gravesite <> N: {rk: 28151, frq: 196}
+gravestone <> N: {rk: 19512, frq: 454}
+graveyard <> N: {rk: 10210, frq: 1642}
+gravid <> J: {rk: 51158, frq: 33}
+gravimetric <> J: {rk: 59723, frq: 24}
+gravitate <> V: {rk: 12941, frq: 1046}
+gravitation <> N: {rk: 28494, frq: 194}
+gravitational <> J: {rk: 9540, frq: 1946}
+gravitationally <> R: {rk: 29848, frq: 167}
+graviton <> N: {rk: 46711, frq: 50}
+gravity <> N: {rk: 3987, frq: 7599}
+gravity-fed <> J: {rk: 53210, frq: 44}
+gravlax <> N: {rk: 59135, frq: 23}
+gravy <> N: {rk: 9253, frq: 1967}
+gray <> J: {rk: 1949, frq: 21156}
+graybeard <> N: {rk: 39637, frq: 70}
+grayed <> J: {rk: 48734, frq: 40}
+graying <> J: {rk: 23246, frq: 314}, N: {rk: 34139, frq: 101}
+grayish <> J: {rk: 24531, frq: 266}
+grayling <> N: {rk: 45024, frq: 107}
+grayness <> N: {rk: 32831, frq: 121}
+graze <> V: {rk: 7652, frq: 2650}, N: {rk: 43244, frq: 62}
+grazed <> J: {rk: 54870, frq: 26}
+grazing <> J: {rk: 13301, frq: 978}, N: {rk: 17451, frq: 596}
+grease <> N: {rk: 8063, frq: 2499}, V: {rk: 16210, frq: 747}
+greased <> J: {rk: 15669, frq: 903}
+greaseless <> J: {rk: 57351, frq: 19}
+greasepaint <> N: {rk: 46298, frq: 43}
+greaser <> N: {rk: 42018, frq: 95}
+greasewood <> N: {rk: 58413, frq: 22}
+greasy <> J: {rk: 9960, frq: 1770}
+great <> J: {rk: 160, frq: 244358}, R: {rk: 5470, frq: 4481}
+great-aunt <> N: {rk: 27266, frq: 263}, J: {rk: 34811, frq: 161}
+great-grandchild <> N: {rk: 47954, frq: 41}
+great-nephew <> N: {rk: 44505, frq: 50}
+great-niece <> N: {rk: 48908, frq: 40}
+great-uncle <> N: {rk: 28102, frq: 245}, J: {rk: 36957, frq: 103}
+greatcoat <> N: {rk: 36482, frq: 100}
+greatest <> J: {rk: 1602, frq: 24471}
+greatly <> R: {rk: 3459, frq: 9203}
+greatness <> N: {rk: 9060, frq: 1968}
+grebe <> N: {rk: 41226, frq: 89}
+greed <> N: {rk: 6850, frq: 3082}
+greedily <> R: {rk: 25117, frq: 263}
+greediness <> N: {rk: 53028, frq: 28}
+greedy <> J: {rk: 9091, frq: 1936}
+green <> J: {rk: 891, frq: 49572}, N: {rk: 2138, frq: 25470}, V: {rk: 30014, frq: 161}
+greenback <> N: {rk: 28329, frq: 202}
+greenbelt <> N: {rk: 23904, frq: 405}
+greenbrier <> N: {rk: 41726, frq: 110}
+greenery <> N: {rk: 15326, frq: 781}
+greengrocer <> N: {rk: 35270, frq: 98}
+greenhorn <> N: {rk: 33316, frq: 131}
+greenhouse <> N: {rk: 5220, frq: 5372}
+greening <> N: {rk: 33338, frq: 148}, J: {rk: 51132, frq: 30}
+greenish <> J: {rk: 17124, frq: 631}
+greenly <> R: {rk: 53387, frq: 26}
+greenness <> N: {rk: 38588, frq: 77}
+greenroom <> N: {rk: 43102, frq: 63}
+greenskeeper <> N: {rk: 58937, frq: 20}
+greenstone <> N: {rk: 56400, frq: 47}
+greensward <> N: {rk: 42747, frq: 55}
+greet <> V: {rk: 3498, frq: 9096}
+greeter <> N: {rk: 30485, frq: 170}
+greeting <> N: {rk: 6409, frq: 3606}
+gregarious <> J: {rk: 17962, frq: 535}
+gregariousness <> N: {rk: 57150, frq: 24}
+gremlin <> N: {rk: 29112, frq: 190}
+grenade <> N: {rk: 8041, frq: 2435}
+grenadier <> N: {rk: 30333, frq: 255}
+grey <> V: {rk: 43960, frq: 52}
+greyness <> N: {rk: 58781, frq: 21}
+grid <> N: {rk: 5542, frq: 4720}
+gridded <> J: {rk: 49948, frq: 35}
+griddle <> N: {rk: 21943, frq: 374}, V: {rk: 47398, frq: 44}
+gridiron <> N: {rk: 25649, frq: 260}
+gridlock <> N: {rk: 12998, frq: 1422}
+gridlocked <> J: {rk: 42738, frq: 53}
+grief <> N: {rk: 4124, frq: 7215}
+grief-stricken <> J: {rk: 29069, frq: 167}
+grievance <> N: {rk: 8789, frq: 2075}
+grieve <> V: {rk: 9981, frq: 1659}
+grieved <> J: {rk: 54130, frq: 23}
+grieving <> J: {rk: 10659, frq: 1499}, N: {rk: 37007, frq: 92}
+grievous <> J: {rk: 21326, frq: 355}
+grievously <> R: {rk: 30241, frq: 147}
+griffon <> N: {rk: 53144, frq: 53}
+grifter <> N: {rk: 34887, frq: 125}
+grill <> N: {rk: 5455, frq: 7170}, V: {rk: 8572, frq: 2325}
+grille <> N: {rk: 16314, frq: 685}
+grilled <> J: {rk: 7131, frq: 3335}
+grilling <> N: {rk: 27594, frq: 316}, J: {rk: 37698, frq: 84}
+grillwork <> N: {rk: 38762, frq: 69}
+grim <> J: {rk: 5408, frq: 4719}
+grimace <> V: {rk: 11139, frq: 1540}, N: {rk: 16474, frq: 722}
+grimacing <> J: {rk: 55911, frq: 22}
+grime <> N: {rk: 18705, frq: 545}
+grimly <> R: {rk: 12536, frq: 1197}
+grimness <> N: {rk: 39888, frq: 64}
+grimy <> J: {rk: 16087, frq: 724}
+grin <> V: {rk: 4187, frq: 7904}, N: {rk: 4658, frq: 6479}
+grinch <> N: {rk: 25953, frq: 395}
+grind <> V: {rk: 5432, frq: 4641}, N: {rk: 14468, frq: 858}
+grinder <> N: {rk: 13473, frq: 998}
+grinding <> J: {rk: 14289, frq: 855}, N: {rk: 19895, frq: 438}
+grindstone <> N: {rk: 34635, frq: 121}
+gringa <> N: {rk: 45262, frq: 62}
+gringo <> N: {rk: 21250, frq: 434}
+grinning <> J: {rk: 14953, frq: 850}
+griot <> N: {rk: 34212, frq: 120}
+grip <> N: {rk: 3722, frq: 8429}, V: {rk: 5374, frq: 5149}
+gripe <> V: {rk: 18299, frq: 529}, N: {rk: 19247, frq: 975}
+griping <> N: {rk: 44592, frq: 44}
+gripper <> N: {rk: 38268, frq: 92}
+gripping <> J: {rk: 15636, frq: 724}
+grippy <> J: {rk: 43936, frq: 58}
+grisaille <> N: {rk: 36030, frq: 98}
+grisly <> J: {rk: 15961, frq: 698}
+grist <> N: {rk: 24278, frq: 308}
+gristle <> N: {rk: 35894, frq: 100}
+gristmill <> N: {rk: 46382, frq: 46}
+grit <> N: {rk: 9195, frq: 2158}, V: {rk: 13810, frq: 1002}
+grittiness <> N: {rk: 49690, frq: 36}
+gritty <> J: {rk: 10711, frq: 1478}
+grizzle <> V: {rk: 34666, frq: 101}
+grizzled <> J: {rk: 22674, frq: 326}
+grizzly <> J: {rk: 13226, frq: 1049}, N: {rk: 14267, frq: 1358}
+groan <> V: {rk: 7293, frq: 3173}, N: {rk: 11912, frq: 1355}
+groaning <> J: {rk: 36061, frq: 89}, N: {rk: 39813, frq: 67}
+groats <> N: {rk: 58408, frq: 23}
+grocer <> N: {rk: 14943, frq: 784}
+grocery <> N: {rk: 3322, frq: 9909}
+grog <> N: {rk: 46820, frq: 44}
+groggily <> R: {rk: 30535, frq: 159}
+grogginess <> N: {rk: 49574, frq: 35}
+groggy <> J: {rk: 19327, frq: 475}
+groin <> N: {rk: 11892, frq: 1286}
+grommet <> N: {rk: 30094, frq: 213}
+groom <> V: {rk: 8862, frq: 2102}, N: {rk: 9685, frq: 1842}
+groomed <> J: {rk: 26593, frq: 253}
+groomer <> N: {rk: 28592, frq: 218}
+grooming <> N: {rk: 27345, frq: 278}, J: {rk: 33915, frq: 122}
+groomsman <> N: {rk: 39469, frq: 90}
+groove <> N: {rk: 8479, frq: 2239}, V: {rk: 29114, frq: 172}
+grooved <> J: {rk: 38661, frq: 70}
+groovy <> J: {rk: 25406, frq: 259}
+grope <> V: {rk: 10360, frq: 1635}, N: {rk: 43557, frq: 67}
+groping <> N: {rk: 38061, frq: 89}, J: {rk: 49704, frq: 37}
+grosbeak <> N: {rk: 45896, frq: 42}
+grosgrain <> N: {rk: 44364, frq: 56}
+gross <> J: {rk: 4449, frq: 6270}, V: {rk: 12475, frq: 1164}
+gross-out <> N: {rk: 40748, frq: 66}
+grossly <> R: {rk: 12235, frq: 1119}
+grossness <> N: {rk: 57858, frq: 20}
+grotesque <> J: {rk: 12611, frq: 1065}, N: {rk: 20649, frq: 416}
+grotesquely <> R: {rk: 24815, frq: 255}
+grotesquerie <> N: {rk: 45520, frq: 41}
+grotto <> N: {rk: 18523, frq: 522}
+grotty <> J: {rk: 54554, frq: 25}
+grouch <> N: {rk: 36633, frq: 109}
+grouchy <> J: {rk: 29798, frq: 168}
+ground <> N: {rk: 522, frq: 81234}, V: {rk: 6234, frq: 3998}, J: {rk: 7719, frq: 3185}
+groundball <> N: {rk: 49425, frq: 40}
+groundbreaking <> J: {rk: 15070, frq: 783}, N: {rk: 33493, frq: 145}
+groundcover <> N: {rk: 32077, frq: 188}
+grounded <> J: {rk: 22574, frq: 579}
+grounder <> N: {rk: 25316, frq: 268}
+groundfish <> N: {rk: 33501, frq: 135}
+grounding <> N: {rk: 15960, frq: 702}
+groundless <> J: {rk: 27544, frq: 192}
+groundling <> N: {rk: 42424, frq: 68}
+groundnut <> N: {rk: 45168, frq: 57}
+groundout <> N: {rk: 55219, frq: 27}
+groundskeeper <> N: {rk: 29000, frq: 189}
+groundstroke <> N: {rk: 56956, frq: 25}
+groundswell <> N: {rk: 24144, frq: 276}
+groundwater <> N: {rk: 9155, frq: 2156}
+groundwork <> N: {rk: 12082, frq: 1191}
+group <> N: {rk: 163, frq: 249082}, V: {rk: 8659, frq: 2242}
+grouped <> J: {rk: 49955, frq: 36}
+grouper <> N: {rk: 24917, frq: 295}
+groupie <> N: {rk: 18841, frq: 496}
+grouping <> N: {rk: 8120, frq: 2508}
+groupthink <> N: {rk: 44425, frq: 51}
+groupware <> N: {rk: 45687, frq: 80}
+grouse <> N: {rk: 15184, frq: 888}
+grousing <> N: {rk: 46999, frq: 39}
+grout <> N: {rk: 25043, frq: 283}, V: {rk: 41893, frq: 63}
+grouting <> N: {rk: 53805, frq: 25}
+grovel <> V: {rk: 26525, frq: 218}
+grow <> V: {rk: 353, frq: 118898}
+grower <> N: {rk: 6047, frq: 3881}
+growing <> J: {rk: 1417, frq: 28850}, N: {rk: 25275, frq: 248}
+growl <> V: {rk: 8917, frq: 2286}, N: {rk: 12679, frq: 1176}
+growling <> J: {rk: 30341, frq: 154}, N: {rk: 54308, frq: 26}
+grown <> J: {rk: 16251, frq: 678}
+grown-up <> N: {rk: 8814, frq: 2100}, J: {rk: 13883, frq: 935}
+growth <> N: {rk: 787, frq: 54725}
+grub <> N: {rk: 17312, frq: 637}, V: {rk: 39791, frq: 64}
+grubby <> J: {rk: 21374, frq: 379}
+grudge <> N: {rk: 14536, frq: 851}, V: {rk: 44265, frq: 46}
+grudging <> J: {rk: 20119, frq: 411}
+grudgingly <> R: {rk: 14699, frq: 818}
+gruel <> N: {rk: 28206, frq: 198}
+grueling <> J: {rk: 14739, frq: 818}, N: {rk: 34643, frq: 111}
+gruelling <> J: {rk: 54775, frq: 28}
+gruesome <> J: {rk: 11694, frq: 1258}
+gruesomely <> R: {rk: 48763, frq: 39}
+gruff <> J: {rk: 16802, frq: 647}
+gruffly <> R: {rk: 28162, frq: 201}
+gruffness <> N: {rk: 52876, frq: 26}
+grumble <> V: {rk: 8717, frq: 2180}, N: {rk: 27643, frq: 230}
+grumbling <> J: {rk: 31381, frq: 141}, N: {rk: 38099, frq: 79}
+grump <> N: {rk: 49747, frq: 47}
+grumpily <> R: {rk: 38255, frq: 77}
+grumpiness <> N: {rk: 55150, frq: 25}
+grumpy <> J: {rk: 18286, frq: 523}
+grunge <> N: {rk: 23774, frq: 307}
+grungy <> J: {rk: 29820, frq: 161}
+grunt <> N: {rk: 9842, frq: 1930}, V: {rk: 9901, frq: 1909}
+gryphon <> N: {rk: 57997, frq: 31}
+guacamole <> N: {rk: 23668, frq: 371}
+guanaco <> N: {rk: 55211, frq: 32}
+guanine <> N: {rk: 50561, frq: 36}
+guano <> N: {rk: 32382, frq: 143}
+guar <> N: {rk: 57916, frq: 21}
+guarana <> N: {rk: 59013, frq: 26}
+guarantee <> V: {rk: 2791, frq: 12188}, N: {rk: 4826, frq: 5567}
+guaranteed <> J: {rk: 9266, frq: 1908}
+guarantor <> N: {rk: 22208, frq: 341}
+guaranty <> J: {rk: 33797, frq: 121}
+guard <> N: {rk: 1288, frq: 32605}, V: {rk: 3695, frq: 8313}
+guarded <> J: {rk: 13812, frq: 899}
+guardedly <> R: {rk: 29851, frq: 153}
+guardhouse <> N: {rk: 34764, frq: 111}
+guardian <> N: {rk: 5741, frq: 4385}
+guardianship <> N: {rk: 22032, frq: 354}
+guarding <> N: {rk: 54202, frq: 38}, J: {rk: 55214, frq: 26}
+guardrail <> N: {rk: 24913, frq: 285}
+guardsman <> N: {rk: 25146, frq: 478}
+guava <> N: {rk: 25568, frq: 277}
+guayabera <> N: {rk: 50085, frq: 35}
+gubernatorial <> J: {rk: 13893, frq: 1078}
+guerilla <> N: {rk: 24399, frq: 308}
+guerrilla <> N: {rk: 5502, frq: 4518}
+guess <> V: {rk: 863, frq: 51540}, N: {rk: 5431, frq: 4701}
+guesser <> N: {rk: 52934, frq: 30}
+guessing <> N: {rk: 25459, frq: 231}
+guesstimate <> N: {rk: 43414, frq: 55}, V: {rk: 50731, frq: 32}
+guesswork <> N: {rk: 21879, frq: 361}
+guest <> N: {rk: 1314, frq: 32313}, V: {rk: 38511, frq: 73}
+guesthouse <> N: {rk: 25264, frq: 291}
+guestroom <> N: {rk: 39682, frq: 73}
+guff <> N: {rk: 39377, frq: 94}
+guffaw <> N: {rk: 26794, frq: 214}, V: {rk: 28249, frq: 192}
+guidance <> N: {rk: 3899, frq: 8043}
+guide <> N: {rk: 1789, frq: 22350}, V: {rk: 2985, frq: 11458}
+guidebook <> N: {rk: 12131, frq: 1200}
+guided <> J: {rk: 8708, frq: 2152}
+guideline <> N: {rk: 3083, frq: 11165}
+guidepost <> N: {rk: 31265, frq: 147}
+guider <> N: {rk: 50097, frq: 38}
+guideway <> N: {rk: 37107, frq: 139}
+guiding <> J: {rk: 6490, frq: 3464}
+guilder <> N: {rk: 47146, frq: 53}
+guile <> N: {rk: 25900, frq: 224}
+guileless <> J: {rk: 29476, frq: 173}
+guilelessly <> R: {rk: 55814, frq: 23}
+guilloche <> N: {rk: 59437, frq: 23}
+guillotine <> N: {rk: 22340, frq: 379}, V: {rk: 54946, frq: 27}
+guilt <> N: {rk: 3655, frq: 8350}
+guilt-ridden <> J: {rk: 39308, frq: 65}
+guiltily <> R: {rk: 25358, frq: 257}
+guiltless <> J: {rk: 37805, frq: 76}
+guilty <> J: {rk: 2072, frq: 19008}
+guise <> N: {rk: 10867, frq: 1409}
+guitar <> N: {rk: 3685, frq: 8576}
+guitarist <> N: {rk: 9802, frq: 1878}
+gulag <> N: {rk: 21150, frq: 399}
+gull <> N: {rk: 12531, frq: 1165}, V: {rk: 55498, frq: 24}
+gullet <> N: {rk: 30825, frq: 153}
+gulley <> N: {rk: 43961, frq: 92}
+gullibility <> N: {rk: 35759, frq: 91}
+gullible <> J: {rk: 20998, frq: 383}
+gully <> N: {rk: 14108, frq: 949}
+gulp <> V: {rk: 11499, frq: 1393}, N: {rk: 14740, frq: 892}
+gulping <> N: {rk: 56058, frq: 22}
+gum <> N: {rk: 6050, frq: 3989}, V: {rk: 28990, frq: 180}
+gumball <> N: {rk: 36405, frq: 117}
+gumbo <> N: {rk: 18914, frq: 594}
+gumdrop <> N: {rk: 40241, frq: 83}
+gummed <> J: {rk: 46751, frq: 42}
+gummy <> J: {rk: 25520, frq: 254}
+gumption <> N: {rk: 28421, frq: 184}
+gumshoe <> N: {rk: 38520, frq: 76}
+gun <> N: {rk: 841, frq: 50929}, V: {rk: 11174, frq: 1378}
+gun-shy <> J: {rk: 36363, frq: 86}
+gunbattle <> N: {rk: 51384, frq: 33}
+gunboat <> N: {rk: 28272, frq: 195}
+gunfight <> N: {rk: 26964, frq: 222}
+gunfighter <> N: {rk: 35826, frq: 117}
+gunfire <> N: {rk: 8893, frq: 2064}
+gung-ho <> J: {rk: 25068, frq: 245}
+gunk <> N: {rk: 28824, frq: 191}, V: {rk: 54290, frq: 27}
+gunky <> J: {rk: 57802, frq: 21}
+gunmaker <> N: {rk: 34674, frq: 122}
+gunman <> N: {rk: 7374, frq: 3111}
+gunmetal <> J: {rk: 37555, frq: 87}
+gunnel <> N: {rk: 45822, frq: 57}
+gunner <> N: {rk: 13242, frq: 1007}
+gunnery <> N: {rk: 27889, frq: 197}
+gunny <> J: {rk: 43785, frq: 54}, N: {rk: 59693, frq: 39}
+gunnysack <> N: {rk: 43236, frq: 54}
+gunplay <> N: {rk: 36892, frq: 81}
+gunpoint <> N: {rk: 17130, frq: 606}
+gunpowder <> N: {rk: 17743, frq: 584}
+gunrunner <> N: {rk: 48657, frq: 38}
+gunship <> N: {rk: 20665, frq: 425}
+gunshot <> N: {rk: 9135, frq: 2119}
+gunsight <> N: {rk: 46770, frq: 49}
+gunslinger <> N: {rk: 29291, frq: 184}, J: {rk: 55145, frq: 23}
+gunsmith <> N: {rk: 31240, frq: 157}
+gunwale <> N: {rk: 24464, frq: 284}
+guppy <> N: {rk: 35424, frq: 100}
+gurgle <> V: {rk: 21009, frq: 408}, N: {rk: 27884, frq: 202}
+gurgling <> J: {rk: 24596, frq: 278}, N: {rk: 51271, frq: 32}
+gurney <> N: {rk: 15939, frq: 1006}
+guru <> N: {rk: 8170, frq: 2490}
+gush <> V: {rk: 11542, frq: 1381}, N: {rk: 26196, frq: 289}
+gusher <> N: {rk: 33189, frq: 149}
+gushing <> J: {rk: 39057, frq: 92}, N: {rk: 53198, frq: 42}
+gushy <> J: {rk: 41004, frq: 62}
+gusset <> N: {rk: 39938, frq: 69}
+gust <> N: {rk: 10374, frq: 1640}, V: {rk: 22228, frq: 344}
+gustatory <> J: {rk: 38904, frq: 74}
+gusting <> J: {rk: 48779, frq: 36}
+gusto <> N: {rk: 17488, frq: 573}
+gusty <> J: {rk: 27517, frq: 221}
+gut <> N: {rk: 4335, frq: 6594}, V: {rk: 12192, frq: 1158}
+gut-wrenching <> J: {rk: 26615, frq: 208}
+gutless <> J: {rk: 32850, frq: 121}
+gutsiest <> J: {rk: 57284, frq: 22}
+gutsiness <> N: {rk: 57824, frq: 21}
+gutsy <> J: {rk: 19401, frq: 466}
+gutta <> N: {rk: 57700, frq: 58}
+gutted <> J: {rk: 26031, frq: 226}
+gutter <> N: {rk: 11158, frq: 1405}, V: {rk: 47138, frq: 45}
+guttering <> N: {rk: 42327, frq: 60}
+gutting <> N: {rk: 47692, frq: 42}
+guttural <> J: {rk: 22613, frq: 348}
+guv <> N: {rk: 46588, frq: 49}
+guy <> N: {rk: 364, frq: 127711}, V: {rk: 57469, frq: 22}
+guzzle <> V: {rk: 22891, frq: 317}
+guzzler <> N: {rk: 32771, frq: 125}
+gweilo <> N: {rk: 57583, frq: 42}
+gym <> N: {rk: 3906, frq: 7933}
+gymnasium <> N: {rk: 13481, frq: 1023}
+gymnast <> N: {rk: 16840, frq: 688}
+gymnastic <> J: {rk: 32404, frq: 120}
+gymnastics <> N: {rk: 10679, frq: 1541}
+gynaecological <> J: {rk: 59961, frq: 20}
+gynecologic <> J: {rk: 40924, frq: 65}
+gynecological <> J: {rk: 29178, frq: 171}
+gynecologist <> N: {rk: 16680, frq: 698}
+gynecology <> N: {rk: 25092, frq: 323}
+gyp <> N: {rk: 57971, frq: 33}
+gypsum <> N: {rk: 24478, frq: 342}
+gypsy <> N: {rk: 13961, frq: 1750}
+gyrate <> V: {rk: 25733, frq: 235}
+gyration <> N: {rk: 28899, frq: 169}
+gyre <> N: {rk: 40713, frq: 92}
+gyrfalcon <> N: {rk: 55435, frq: 40}
+gyro <> N: {rk: 30585, frq: 179}
+gyroplane <> N: {rk: 40725, frq: 106}
+gyroscope <> N: {rk: 26744, frq: 233}
+gyroscopic <> J: {rk: 49779, frq: 35}
+gyrus <> N: {rk: 59860, frq: 21}

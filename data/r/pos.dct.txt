@@ -1,0 +1,2324 @@
+rabbet <> N: {rk: 40105, frq: 87}
+rabbi <> N: {rk: 8158, frq: 4004}
+rabbinate <> N: {rk: 44965, frq: 49}
+rabbinic <> J: {rk: 29710, frq: 184}
+rabbinical <> J: {rk: 28085, frq: 252}
+rabbit <> N: {rk: 4412, frq: 6487}
+rabble <> N: {rk: 26554, frq: 232}
+rabble-rouser <> N: {rk: 40463, frq: 74}
+rabble-rousing <> N: {rk: 57112, frq: 23}
+rabid <> J: {rk: 16978, frq: 621}
+rabidly <> R: {rk: 44209, frq: 48}
+rabies <> N: {rk: 19452, frq: 494}
+raccoon <> N: {rk: 12661, frq: 1188}
+race <> N: {rk: 716, frq: 59654}, V: {rk: 2403, frq: 15318}
+racecar <> N: {rk: 32062, frq: 153}
+racecourse <> N: {rk: 35833, frq: 118}
+racehorse <> N: {rk: 24193, frq: 311}
+racer <> N: {rk: 9312, frq: 2213}
+racetrack <> N: {rk: 15745, frq: 769}
+raceway <> N: {rk: 31500, frq: 244}
+racial <> J: {rk: 2257, frq: 16909}
+racialism <> N: {rk: 44760, frq: 94}
+racialist <> J: {rk: 47433, frq: 44}
+racialized <> J: {rk: 32784, frq: 175}
+racially <> R: {rk: 9543, frq: 1786}
+racing <> J: {rk: 11031, frq: 1390}, N: {rk: 13415, frq: 1005}
+racism <> N: {rk: 3979, frq: 7639}
+racist <> J: {rk: 6469, frq: 3537}, N: {rk: 9488, frq: 1977}
+rack <> N: {rk: 4184, frq: 7483}, V: {rk: 9445, frq: 1844}
+rack-and-pinion <> J: {rk: 45963, frq: 47}
+racket <> N: {rk: 10140, frq: 1682}
+racketeer <> N: {rk: 35517, frq: 94}
+racketeering <> N: {rk: 18242, frq: 537}
+raclette <> N: {rk: 53178, frq: 52}
+raconteur <> N: {rk: 33647, frq: 116}
+racoon <> N: {rk: 53420, frq: 24}
+racquet <> N: {rk: 21088, frq: 464}
+racquetball <> N: {rk: 25270, frq: 261}
+racy <> J: {rk: 18266, frq: 554}
+radar <> N: {rk: 4825, frq: 5685}
+radial <> J: {rk: 17116, frq: 668}, N: {rk: 41205, frq: 64}
+radially <> R: {rk: 37099, frq: 89}
+radian <> N: {rk: 55522, frq: 25}
+radiance <> N: {rk: 17868, frq: 867}
+radiant <> J: {rk: 9951, frq: 1704}
+radiantly <> R: {rk: 35281, frq: 94}
+radiate <> V: {rk: 8653, frq: 2136}
+radiated <> J: {rk: 40998, frq: 59}
+radiating <> J: {rk: 42103, frq: 53}
+radiation <> N: {rk: 3679, frq: 8766}
+radiative <> J: {rk: 31931, frq: 157}
+radiator <> N: {rk: 13785, frq: 960}
+radical <> J: {rk: 2946, frq: 11787}, N: {rk: 6721, frq: 3300}
+radicalism <> N: {rk: 17271, frq: 644}
+radicalization <> N: {rk: 30358, frq: 227}
+radicalize <> V: {rk: 24620, frq: 293}
+radicalized <> J: {rk: 39662, frq: 84}
+radically <> R: {rk: 6614, frq: 3358}
+radicchio <> N: {rk: 26621, frq: 261}
+radio <> N: {rk: 905, frq: 45845}, V: {rk: 17621, frq: 573}
+radio-controlled <> J: {rk: 39857, frq: 71}
+radioactive <> J: {rk: 8031, frq: 2492}
+radioactively <> R: {rk: 51285, frq: 28}
+radioactivity <> N: {rk: 21302, frq: 431}
+radiocarbon <> N: {rk: 30439, frq: 190}
+radiograph <> N: {rk: 26022, frq: 276}
+radiographic <> J: {rk: 30864, frq: 180}
+radiographically <> R: {rk: 52293, frq: 35}
+radiography <> N: {rk: 35645, frq: 102}
+radioisotope <> N: {rk: 42429, frq: 68}
+radiological <> J: {rk: 23802, frq: 326}
+radiologist <> N: {rk: 18718, frq: 519}
+radiology <> N: {rk: 25053, frq: 324}
+radioman <> N: {rk: 49047, frq: 44}
+radiometer <> N: {rk: 51302, frq: 62}
+radiometric <> J: {rk: 58961, frq: 20}
+radionuclide <> N: {rk: 37201, frq: 94}
+radiotherapy <> N: {rk: 21640, frq: 519}
+radish <> N: {rk: 15486, frq: 850}
+radium <> N: {rk: 33692, frq: 134}
+radius <> N: {rk: 9620, frq: 1816}
+radon <> N: {rk: 18984, frq: 908}
+raffia <> N: {rk: 24395, frq: 273}
+raffish <> J: {rk: 37059, frq: 76}
+raffle <> N: {rk: 22809, frq: 348}, V: {rk: 35506, frq: 103}
+raft <> N: {rk: 7497, frq: 2770}, V: {rk: 41439, frq: 66}
+rafter <> N: {rk: 10831, frq: 1456}
+rafting <> N: {rk: 17842, frq: 580}
+rag <> N: {rk: 6758, frq: 3386}, V: {rk: 33955, frq: 109}
+raga <> N: {rk: 44975, frq: 52}
+ragamuffin <> N: {rk: 46490, frq: 44}
+ragbag <> N: {rk: 57882, frq: 21}
+rage <> N: {rk: 4015, frq: 7363}, V: {rk: 7015, frq: 2943}
+ragged <> J: {rk: 8316, frq: 2437}
+raggedly <> R: {rk: 39868, frq: 70}
+raggedy <> J: {rk: 28293, frq: 193}
+raggy <> J: {rk: 58154, frq: 21}
+raging <> J: {rk: 11454, frq: 1278}
+ragout <> N: {rk: 33630, frq: 125}
+ragtag <> N: {rk: 26855, frq: 212}
+ragtime <> N: {rk: 25212, frq: 274}
+ragtop <> N: {rk: 52379, frq: 32}
+ragweed <> N: {rk: 37915, frq: 168}
+rah <> U: {rk: 40630, frq: 74}
+rah-rah <> J: {rk: 40789, frq: 61}
+raid <> N: {rk: 5149, frq: 5178}, V: {rk: 8918, frq: 2055}
+raiding <> J: {rk: 37468, frq: 86}, N: {rk: 48054, frq: 45}
+rail <> N: {rk: 3396, frq: 9534}, V: {rk: 17855, frq: 557}
+railcar <> N: {rk: 34570, frq: 114}
+railed <> J: {rk: 50590, frq: 31}
+railhead <> N: {rk: 40826, frq: 95}
+railing <> N: {rk: 7787, frq: 2692}
+railroad <> N: {rk: 3676, frq: 8312}, V: {rk: 29191, frq: 165}
+railway <> N: {rk: 8524, frq: 2221}
+railyard <> N: {rk: 52933, frq: 47}
+raiment <> N: {rk: 45642, frq: 43}
+rain <> N: {rk: 1555, frq: 25903}, V: {rk: 4661, frq: 5988}
+rainbow <> N: {rk: 7549, frq: 3989}
+raincoat <> N: {rk: 15798, frq: 759}
+raindrop <> N: {rk: 17445, frq: 607}
+rainfall <> N: {rk: 9363, frq: 1928}
+rainforest <> N: {rk: 11684, frq: 1326}
+rainless <> J: {rk: 53412, frq: 25}
+rainmaker <> N: {rk: 28897, frq: 221}
+rainout <> N: {rk: 41184, frq: 62}
+rainstorm <> N: {rk: 18257, frq: 524}
+rainwater <> N: {rk: 14628, frq: 872}
+rainy <> J: {rk: 7602, frq: 2703}
+raise <> V: {rk: 433, frq: 94234}, N: {rk: 8813, frq: 2071}
+raised <> J: {rk: 7487, frq: 2736}
+raiser <> N: {rk: 19734, frq: 478}
+raisin <> N: {rk: 9176, frq: 2132}
+raising <> N: {rk: 9314, frq: 1815}
+raita <> N: {rk: 58502, frq: 27}
+rake <> V: {rk: 9041, frq: 2010}, N: {rk: 14378, frq: 899}
+raked <> J: {rk: 38660, frq: 73}
+raki <> N: {rk: 53761, frq: 35}
+raking <> J: {rk: 30858, frq: 143}
+rakish <> J: {rk: 29875, frq: 164}
+rakishly <> R: {rk: 51776, frq: 30}
+rally <> N: {rk: 4663, frq: 6220}, V: {rk: 5505, frq: 4698}
+rallying <> N: {rk: 18076, frq: 529}
+ram <> V: {rk: 12402, frq: 1264}
+ramble <> V: {rk: 17546, frq: 575}, N: {rk: 29723, frq: 171}
+rambler <> N: {rk: 27693, frq: 242}
+rambling <> J: {rk: 16091, frq: 697}, N: {rk: 22130, frq: 342}
+rambunctious <> J: {rk: 21913, frq: 347}
+ramekin <> N: {rk: 27243, frq: 270}
+ramie <> N: {rk: 59600, frq: 31}
+ramification <> N: {rk: 10358, frq: 1577}
+ramify <> V: {rk: 46264, frq: 52}
+ramjet <> N: {rk: 38286, frq: 101}
+rammed <> J: {rk: 59865, frq: 23}
+ramp <> N: {rk: 6179, frq: 3848}, V: {rk: 23194, frq: 369}
+rampage <> N: {rk: 15566, frq: 783}, V: {rk: 28991, frq: 178}
+rampaging <> J: {rk: 38234, frq: 75}
+rampant <> J: {rk: 8873, frq: 2012}
+rampantly <> R: {rk: 55621, frq: 22}
+rampart <> N: {rk: 20949, frq: 462}
+ramrod <> N: {rk: 31947, frq: 152}
+ramshackle <> J: {rk: 17967, frq: 545}
+ranch <> N: {rk: 4068, frq: 10181}, V: {rk: 48271, frq: 35}
+rancher <> N: {rk: 7598, frq: 2714}
+ranchera <> N: {rk: 39094, frq: 100}
+rancheria <> N: {rk: 45538, frq: 53}
+ranchero <> N: {rk: 35044, frq: 123}
+ranchette <> N: {rk: 46345, frq: 55}
+ranching <> N: {rk: 14948, frq: 796}
+rancid <> J: {rk: 19139, frq: 509}
+rancor <> N: {rk: 20654, frq: 399}
+rancorous <> J: {rk: 29318, frq: 167}
+random <> J: {rk: 3646, frq: 8591}, R: {rk: 12193, frq: 1140}
+randomised <> J: {rk: 27368, frq: 265}
+randomization <> N: {rk: 24804, frq: 294}
+randomize <> V: {rk: 20098, frq: 496}
+randomized <> J: {rk: 19935, frq: 574}
+randomly <> R: {rk: 6600, frq: 3531}
+randomness <> N: {rk: 22792, frq: 340}
+randy <> J: {rk: 22740, frq: 342}
+range <> N: {rk: 973, frq: 44627}, V: {rk: 1874, frq: 21430}
+rangefinder <> N: {rk: 50912, frq: 39}
+rangeland <> N: {rk: 20790, frq: 456}
+ranging <> J: {rk: 34135, frq: 111}
+rangy <> J: {rk: 30048, frq: 166}
+rank <> N: {rk: 2663, frq: 13516}, V: {rk: 3405, frq: 9664}, J: {rk: 27669, frq: 194}
+ranked <> J: {rk: 15211, frq: 813}
+ranking <> N: {rk: 5090, frq: 5351}
+rankle <> V: {rk: 20919, frq: 389}
+ransack <> V: {rk: 18884, frq: 496}
+ransacked <> J: {rk: 55937, frq: 23}
+ransom <> N: {rk: 12241, frq: 1213}, V: {rk: 39420, frq: 70}
+rant <> N: {rk: 16774, frq: 701}, V: {rk: 20255, frq: 414}
+ranter <> N: {rk: 57632, frq: 22}
+ranting <> N: {rk: 30790, frq: 141}
+ranula <> N: {rk: 60008, frq: 23}
+rap <> N: {rk: 5362, frq: 4778}, V: {rk: 8582, frq: 2191}
+rapacious <> J: {rk: 25198, frq: 243}
+rapacity <> N: {rk: 47966, frq: 35}
+rape <> N: {rk: 3439, frq: 9403}, V: {rk: 5014, frq: 5381}
+raped <> J: {rk: 38019, frq: 78}
+rapeseed <> N: {rk: 49938, frq: 32}
+rapid <> J: {rk: 3048, frq: 11166}, N: {rk: 14037, frq: 921}
+rapid-fire <> J: {rk: 21379, frq: 372}
+rapidity <> N: {rk: 24792, frq: 257}
+rapidly <> R: {rk: 2543, frq: 13883}
+rapier <> N: {rk: 34496, frq: 121}
+raping <> N: {rk: 32955, frq: 119}
+rapist <> N: {rk: 10170, frq: 1712}
+rappel <> V: {rk: 29854, frq: 167}, N: {rk: 40458, frq: 80}
+rapper <> N: {rk: 9317, frq: 2117}
+rapping <> N: {rk: 42847, frq: 154}, J: {rk: 57375, frq: 19}
+rapport <> N: {rk: 12408, frq: 1126}
+rapporteur <> N: {rk: 44571, frq: 52}
+rapprochement <> N: {rk: 20036, frq: 445}
+rapt <> J: {rk: 17753, frq: 573}
+raptly <> R: {rk: 40031, frq: 65}
+raptor <> N: {rk: 19886, frq: 868}
+rapture <> N: {rk: 17034, frq: 655}
+rapturous <> J: {rk: 27265, frq: 196}
+rapturously <> R: {rk: 42418, frq: 54}
+rare <> J: {rk: 1882, frq: 20819}
+rarefaction <> N: {rk: 55429, frq: 28}
+rarefied <> J: {rk: 23180, frq: 311}
+rarefy <> V: {rk: 40076, frq: 61}
+rarely <> R: {rk: 2285, frq: 16167}
+rarified <> J: {rk: 37986, frq: 76}
+rarity <> N: {rk: 12443, frq: 1138}
+rasa <> N: {rk: 33530, frq: 148}
+rascal <> N: {rk: 21569, frq: 692}
+rascally <> R: {rk: 47886, frq: 35}
+rash <> N: {rk: 9121, frq: 1949}, J: {rk: 19608, frq: 442}
+rasher <> N: {rk: 54280, frq: 28}
+rashly <> R: {rk: 36570, frq: 86}
+rashness <> N: {rk: 46656, frq: 40}
+rasp <> V: {rk: 20890, frq: 424}, N: {rk: 22994, frq: 327}
+raspberry <> N: {rk: 8996, frq: 2140}
+rasping <> J: {rk: 28922, frq: 183}
+raspy <> J: {rk: 22267, frq: 344}
+raster <> N: {rk: 37808, frq: 101}
+rat <> N: {rk: 3584, frq: 8848}, V: {rk: 28517, frq: 183}
+rat-a-tat <> J: {rk: 55338, frq: 28}
+rata <> N: {rk: 59416, frq: 27}
+ratatouille <> N: {rk: 36919, frq: 144}
+ratchet <> V: {rk: 22957, frq: 340}, N: {rk: 27836, frq: 239}
+ratcheting <> N: {rk: 54653, frq: 26}, J: {rk: 57033, frq: 26}
+rate <> N: {rk: 457, frq: 94277}, V: {rk: 3111, frq: 11250}
+rated <> J: {rk: 21693, frq: 354}
+ratepayer <> N: {rk: 27747, frq: 252}
+rater <> N: {rk: 18321, frq: 603}
+rather <> R: {rk: 861, frq: 50197}, I: {rk: 974, frq: 44680}, C: {rk: 2468, frq: 14658}
+rathole <> N: {rk: 46986, frq: 44}
+ratification <> N: {rk: 14565, frq: 967}
+ratifier <> N: {rk: 58473, frq: 24}
+ratify <> V: {rk: 9256, frq: 1899}
+rating <> N: {rk: 1829, frq: 22379}
+ratio <> N: {rk: 3107, frq: 11227}
+ratiocination <> N: {rk: 55135, frq: 25}
+ration <> N: {rk: 11811, frq: 1245}, V: {rk: 17168, frq: 641}
+rational <> J: {rk: 4522, frq: 6344}
+rationale <> N: {rk: 6128, frq: 4059}
+rationalism <> N: {rk: 20664, frq: 441}
+rationalist <> N: {rk: 24843, frq: 280}, J: {rk: 58527, frq: 19}
+rationalistic <> J: {rk: 36897, frq: 92}
+rationality <> N: {rk: 11549, frq: 1452}
+rationalization <> N: {rk: 17140, frq: 614}
+rationalize <> V: {rk: 12256, frq: 1146}
+rationalized <> J: {rk: 40901, frq: 62}
+rationally <> R: {rk: 15426, frq: 739}
+rationed <> J: {rk: 50384, frq: 46}
+rationing <> N: {rk: 17664, frq: 598}
+rattan <> J: {rk: 29292, frq: 182}, N: {rk: 38919, frq: 98}
+rattle <> V: {rk: 5514, frq: 4736}, N: {rk: 12317, frq: 1184}
+rattled <> J: {rk: 42186, frq: 57}
+rattler <> N: {rk: 23988, frq: 355}
+rattlesnake <> N: {rk: 15473, frq: 851}
+rattletrap <> N: {rk: 45836, frq: 43}
+rattling <> J: {rk: 25105, frq: 263}, N: {rk: 35001, frq: 103}
+ratty <> J: {rk: 20781, frq: 415}
+raucous <> J: {rk: 13327, frq: 1012}
+raucously <> R: {rk: 39165, frq: 68}
+raunch <> N: {rk: 51749, frq: 30}
+raunchy <> J: {rk: 24942, frq: 251}
+ravage <> V: {rk: 12310, frq: 1118}
+ravaged <> J: {rk: 24696, frq: 258}
+ravages <> N: {rk: 18180, frq: 520}
+ravaging <> J: {rk: 53825, frq: 23}
+rave <> V: {rk: 11884, frq: 1221}, N: {rk: 13491, frq: 1015}
+ravel <> V: {rk: 51968, frq: 28}
+raveled <> J: {rk: 56250, frq: 23}
+raven-haired <> J: {rk: 41917, frq: 61}
+ravening <> J: {rk: 58419, frq: 21}
+ravenous <> J: {rk: 20493, frq: 412}
+ravenously <> R: {rk: 37455, frq: 78}
+raver <> N: {rk: 41000, frq: 90}
+ravine <> N: {rk: 11715, frq: 1312}
+raving <> J: {rk: 34862, frq: 103}, N: {rk: 37058, frq: 83}, R: {rk: 43435, frq: 51}
+ravioli <> N: {rk: 18778, frq: 592}
+ravish <> V: {rk: 29575, frq: 167}
+ravishing <> J: {rk: 29735, frq: 170}
+ravishingly <> R: {rk: 55597, frq: 22}
+raw <> J: {rk: 2800, frq: 12345}
+rawboned <> J: {rk: 37203, frq: 87}
+rawhide <> N: {rk: 30097, frq: 217}
+rawness <> N: {rk: 34890, frq: 103}
+rayon <> N: {rk: 25901, frq: 236}
+raze <> V: {rk: 17701, frq: 577}
+razing <> N: {rk: 48186, frq: 37}
+razor <> N: {rk: 7566, frq: 2695}, V: {rk: 47122, frq: 39}
+razor-sharp <> J: {rk: 23023, frq: 327}
+razor-thin <> J: {rk: 32437, frq: 129}
+razorback <> N: {rk: 30725, frq: 257}
+razored <> J: {rk: 58465, frq: 20}
+razz <> V: {rk: 34786, frq: 101}
+razzle-dazzle <> J: {rk: 44232, frq: 50}, N: {rk: 44372, frq: 54}
+razzmatazz <> N: {rk: 55183, frq: 26}
+re <> I: {rk: 3652, frq: 4901}
+re-educate <> V: {rk: 31164, frq: 140}
+re-education <> N: {rk: 23740, frq: 298}
+re-elect <> V: {rk: 10390, frq: 1630}, J: {rk: 56246, frq: 23}
+re-election <> N: {rk: 5901, frq: 4394}
+re-emerge <> V: {rk: 16149, frq: 655}
+re-emerging <> J: {rk: 44934, frq: 51}
+re-emphasize <> V: {rk: 31690, frq: 129}
+re-enact <> V: {rk: 16805, frq: 608}
+re-enactment <> N: {rk: 17507, frq: 559}
+re-engineered <> J: {rk: 52529, frq: 30}
+re-engineering <> N: {rk: 35872, frq: 140}
+re-enter <> V: {rk: 12202, frq: 1142}
+re-entry <> N: {rk: 16275, frq: 696}
+re-establish <> V: {rk: 10216, frq: 1553}
+re-established <> J: {rk: 48361, frq: 37}
+re-evaluate <> V: {rk: 13305, frq: 996}
+re-evaluation <> N: {rk: 20730, frq: 404}
+re-examination <> N: {rk: 21681, frq: 368}
+re-examine <> V: {rk: 11619, frq: 1282}
+re-export <> N: {rk: 44593, frq: 63}
+re-release <> N: {rk: 38546, frq: 78}
+re-route <> N: {rk: 57438, frq: 20}
+reabsorb <> V: {rk: 34665, frq: 102}
+reabsorption <> N: {rk: 50087, frq: 31}
+reach <> V: {rk: 422, frq: 99791}, N: {rk: 3572, frq: 8693}
+reachable <> J: {rk: 26376, frq: 235}
+reaching <> J: {rk: 41883, frq: 54}
+reacquaint <> V: {rk: 35198, frq: 99}
+reacquire <> V: {rk: 41577, frq: 57}
+react <> V: {rk: 2682, frq: 12790}
+reactance <> N: {rk: 59978, frq: 30}
+reactant <> N: {rk: 43243, frq: 67}
+reaction <> N: {rk: 1413, frq: 28995}
+reactionary <> J: {rk: 14329, frq: 859}, N: {rk: 32294, frq: 132}
+reactivate <> V: {rk: 22699, frq: 324}
+reactivation <> N: {rk: 34803, frq: 122}
+reactive <> J: {rk: 11820, frq: 1359}
+reactivity <> N: {rk: 24528, frq: 346}
+reactor <> N: {rk: 6402, frq: 4535}
+read <> V: {rk: 337, frq: 124885}, N: {rk: 15119, frq: 1080}
+readability <> N: {rk: 25655, frq: 366}
+readable <> J: {rk: 18067, frq: 539}
+readdress <> V: {rk: 54770, frq: 23}
+reader <> N: {rk: 1272, frq: 34828}
+readership <> N: {rk: 15064, frq: 785}
+readily <> R: {rk: 4044, frq: 7377}
+readiness <> N: {rk: 7614, frq: 2759}
+reading <> N: {rk: 1586, frq: 30265}
+readjust <> V: {rk: 18714, frq: 500}
+readjustment <> N: {rk: 25876, frq: 240}
+readmission <> N: {rk: 34526, frq: 130}
+readmit <> V: {rk: 31919, frq: 132}
+ready <> J: {rk: 758, frq: 55154}, V: {rk: 8518, frq: 2210}, R: {rk: 13979, frq: 903}, N: {rk: 29948, frq: 173}
+ready-made <> J: {rk: 16122, frq: 690}
+ready-to-wear <> J: {rk: 32195, frq: 159}
+readymade <> N: {rk: 46985, frq: 71}
+reaffirm <> V: {rk: 9356, frq: 1879}
+reaffirmation <> N: {rk: 27473, frq: 196}
+reagent <> N: {rk: 32276, frq: 138}
+real <> J: {rk: 305, frq: 134361}, R: {rk: 15553, frq: 721}
+real-time <> J: {rk: 12542, frq: 1189}
+realign <> V: {rk: 20696, frq: 397}
+realignment <> N: {rk: 16524, frq: 655}
+realism <> N: {rk: 7289, frq: 3012}
+realist <> N: {rk: 10175, frq: 1722}, J: {rk: 28493, frq: 193}
+realistic <> J: {rk: 4024, frq: 7289}
+realistically <> R: {rk: 11425, frq: 1291}
+reality <> N: {rk: 1033, frq: 41915}
+realizable <> J: {rk: 41565, frq: 60}
+realization <> N: {rk: 5644, frq: 4357}
+realize <> V: {rk: 616, frq: 67516}
+realized <> J: {rk: 29895, frq: 163}
+reallocate <> V: {rk: 27945, frq: 195}
+reallocation <> N: {rk: 34882, frq: 105}
+really <> R: {rk: 143, frq: 289297}
+realm <> N: {rk: 3941, frq: 7777}
+realness <> N: {rk: 42533, frq: 52}
+realpolitik <> N: {rk: 26390, frq: 227}
+realtor <> N: {rk: 19866, frq: 1170}
+ream <> N: {rk: 19891, frq: 467}, V: {rk: 23671, frq: 365}
+reamer <> N: {rk: 38287, frq: 181}
+reaming <> J: {rk: 44346, frq: 72}, N: {rk: 45730, frq: 63}
+reanalysis <> N: {rk: 37443, frq: 80}
+reanimate <> V: {rk: 34591, frq: 116}
+reanimation <> N: {rk: 43616, frq: 59}
+reap <> V: {rk: 7722, frq: 2606}
+reaper <> N: {rk: 27762, frq: 318}
+reappear <> V: {rk: 9234, frq: 1908}
+reappearance <> N: {rk: 25748, frq: 236}
+reapplication <> N: {rk: 50147, frq: 33}
+reappoint <> V: {rk: 32591, frq: 132}
+reappointment <> N: {rk: 39867, frq: 71}
+reapportionment <> N: {rk: 31239, frq: 162}
+reappraisal <> N: {rk: 26841, frq: 222}
+reappraise <> V: {rk: 40719, frq: 78}
+reappropriation <> N: {rk: 48464, frq: 40}
+rear <> J: {rk: 4065, frq: 7444}, N: {rk: 5376, frq: 4775}, V: {rk: 7580, frq: 2598}
+rearguard <> N: {rk: 42029, frq: 58}
+rearing <> J: {rk: 20277, frq: 425}
+rearm <> V: {rk: 33112, frq: 119}
+rearmament <> N: {rk: 37625, frq: 89}
+rearmost <> J: {rk: 54924, frq: 24}
+rearrange <> V: {rk: 9648, frq: 1732}
+rearrangement <> N: {rk: 26864, frq: 220}
+rearranging <> N: {rk: 55671, frq: 26}
+rearticulate <> V: {rk: 50497, frq: 31}
+rearview <> J: {rk: 11147, frq: 1326}
+rearward <> R: {rk: 37955, frq: 83}, J: {rk: 39496, frq: 81}
+reason <> N: {rk: 359, frq: 115335}, V: {rk: 5549, frq: 4431}
+reasonable <> J: {rk: 2526, frq: 14034}, R: {rk: 31098, frq: 145}
+reasonableness <> N: {rk: 23131, frq: 330}
+reasonably <> R: {rk: 5124, frq: 4996}
+reasoned <> J: {rk: 16284, frq: 701}
+reasoning <> N: {rk: 5878, frq: 4393}
+reassemble <> V: {rk: 16497, frq: 651}
+reassembly <> N: {rk: 42993, frq: 51}
+reassert <> V: {rk: 14723, frq: 810}
+reassertion <> N: {rk: 33233, frq: 116}
+reassess <> V: {rk: 14632, frq: 829}
+reassessment <> N: {rk: 19918, frq: 443}
+reassign <> V: {rk: 18193, frq: 532}
+reassignment <> N: {rk: 27764, frq: 225}
+reassume <> V: {rk: 45408, frq: 40}
+reassurance <> N: {rk: 10851, frq: 1413}
+reassure <> V: {rk: 5471, frq: 4514}
+reassured <> J: {rk: 51670, frq: 30}
+reassuring <> J: {rk: 11391, frq: 1317}
+reassuringly <> R: {rk: 21850, frq: 357}
+reawaken <> V: {rk: 25820, frq: 236}
+reawakening <> N: {rk: 37386, frq: 83}
+rebalancing <> N: {rk: 49758, frq: 42}
+rebate <> N: {rk: 10771, frq: 1550}, V: {rk: 31927, frq: 134}
+rebel <> N: {rk: 3806, frq: 8352}, V: {rk: 9698, frq: 1705}
+rebellion <> N: {rk: 6416, frq: 3535}
+rebellious <> J: {rk: 11456, frq: 1258}
+rebelliously <> R: {rk: 54172, frq: 24}
+rebelliousness <> N: {rk: 33775, frq: 108}
+rebirth <> N: {rk: 11810, frq: 1227}
+reboot <> V: {rk: 30160, frq: 192}, N: {rk: 41387, frq: 91}
+reborn <> V: {rk: 16138, frq: 674}, J: {rk: 27172, frq: 208}
+rebound <> N: {rk: 5961, frq: 4413}, V: {rk: 7977, frq: 2604}
+rebounding <> J: {rk: 33198, frq: 119}
+rebroadcast <> V: {rk: 37596, frq: 77}, N: {rk: 52744, frq: 27}
+rebuff <> V: {rk: 14797, frq: 788}, N: {rk: 30523, frq: 154}
+rebuild <> V: {rk: 3820, frq: 8127}, N: {rk: 48886, frq: 45}
+rebuilder <> N: {rk: 58661, frq: 24}
+rebuilding <> N: {rk: 10498, frq: 1553}
+rebuilt <> J: {rk: 20021, frq: 457}
+rebuke <> N: {rk: 18093, frq: 546}, V: {rk: 18859, frq: 498}
+reburial <> N: {rk: 34912, frq: 112}
+rebury <> V: {rk: 32881, frq: 130}
+rebus <> N: {rk: 52683, frq: 41}
+rebut <> V: {rk: 18846, frq: 479}
+rebuttable <> J: {rk: 51687, frq: 35}
+rebuttal <> N: {rk: 15590, frq: 736}
+recalcitrance <> N: {rk: 37122, frq: 86}
+recalcitrant <> J: {rk: 18904, frq: 475}
+recalculate <> V: {rk: 31630, frq: 135}
+recalculation <> N: {rk: 51981, frq: 35}
+recalibration <> N: {rk: 47705, frq: 48}
+recall <> V: {rk: 1130, frq: 36910}, N: {rk: 7416, frq: 3064}
+recalled <> J: {rk: 27470, frq: 223}
+recalling <> N: {rk: 50890, frq: 30}
+recant <> V: {rk: 20562, frq: 404}
+recantation <> N: {rk: 43635, frq: 50}
+recap <> N: {rk: 28125, frq: 278}
+recapitalization <> N: {rk: 44522, frq: 49}
+recapitalize <> V: {rk: 48206, frq: 34}
+recapitulate <> V: {rk: 26960, frq: 204}
+recapitulation <> N: {rk: 35507, frq: 102}
+recapture <> V: {rk: 11055, frq: 1405}, N: {rk: 31553, frq: 175}
+recast <> V: {rk: 15824, frq: 733}
+recasting <> N: {rk: 42421, frq: 54}
+recede <> V: {rk: 7809, frq: 2535}
+receding <> J: {rk: 23784, frq: 291}
+receipt <> N: {rk: 6610, frq: 3319}
+receivable <> J: {rk: 28027, frq: 193}
+receive <> V: {rk: 497, frq: 86999}
+received <> J: {rk: 16148, frq: 693}
+receiver <> N: {rk: 3424, frq: 9651}
+receivership <> N: {rk: 35009, frq: 114}
+receiving <> J: {rk: 11943, frq: 1225}, N: {rk: 32577, frq: 123}
+recency <> N: {rk: 50336, frq: 37}
+recent <> J: {rk: 567, frq: 76624}
+recently <> R: {rk: 699, frq: 60615}
+receptacle <> N: {rk: 18994, frq: 501}
+reception <> N: {rk: 3975, frq: 7530}
+receptionist <> N: {rk: 10527, frq: 1627}
+receptive <> J: {rk: 9982, frq: 1654}
+receptiveness <> N: {rk: 40920, frq: 65}
+receptivity <> N: {rk: 23892, frq: 296}
+receptor <> N: {rk: 9976, frq: 1764}
+recertification <> N: {rk: 43391, frq: 55}
+recess <> N: {rk: 7884, frq: 2498}, V: {rk: 26977, frq: 206}
+recessed <> J: {rk: 20905, frq: 388}
+recession <> N: {rk: 3602, frq: 10568}
+recessional <> J: {rk: 47449, frq: 37}
+recessionary <> J: {rk: 30940, frq: 164}
+recessive <> J: {rk: 32316, frq: 146}
+recharge <> V: {rk: 14328, frq: 920}
+rechargeable <> J: {rk: 24597, frq: 302}
+recharged <> J: {rk: 57383, frq: 20}
+recharger <> N: {rk: 53603, frq: 28}
+recharging <> N: {rk: 54409, frq: 33}
+rechristen <> V: {rk: 37444, frq: 83}
+recidivism <> N: {rk: 22042, frq: 448}
+recidivist <> N: {rk: 37528, frq: 87}
+recipe <> N: {rk: 2525, frq: 15850}
+recipient <> N: {rk: 3949, frq: 7672}
+reciprocal <> J: {rk: 10902, frq: 1525}
+reciprocally <> R: {rk: 33694, frq: 119}
+reciprocate <> V: {rk: 16187, frq: 689}
+reciprocated <> J: {rk: 59289, frq: 39}
+reciprocating <> N: {rk: 54974, frq: 32}
+reciprocation <> N: {rk: 45551, frq: 47}
+reciprocity <> N: {rk: 14173, frq: 982}
+recirculate <> V: {rk: 29634, frq: 169}
+recirculated <> J: {rk: 58250, frq: 20}
+recirculating <> J: {rk: 54236, frq: 38}
+recirculation <> N: {rk: 38365, frq: 85}
+recision <> N: {rk: 59690, frq: 26}
+recital <> N: {rk: 12288, frq: 1173}
+recitation <> N: {rk: 15659, frq: 718}
+recitative <> N: {rk: 45246, frq: 56}
+recite <> V: {rk: 6486, frq: 3475}
+reckless <> J: {rk: 8720, frq: 2142}
+recklessly <> R: {rk: 18260, frq: 512}
+recklessness <> N: {rk: 21830, frq: 367}
+reckon <> V: {rk: 8682, frq: 2196}
+reckoning <> N: {rk: 14484, frq: 895}
+reclaim <> V: {rk: 7576, frq: 2639}, N: {rk: 57011, frq: 29}
+reclaimed <> J: {rk: 28811, frq: 215}
+reclaiming <> N: {rk: 54215, frq: 24}
+reclamation <> N: {rk: 20817, frq: 723}
+reclassification <> N: {rk: 34538, frq: 110}
+reclassify <> V: {rk: 25386, frq: 234}
+recline <> V: {rk: 16487, frq: 675}
+recliner <> N: {rk: 18854, frq: 530}
+reclining <> J: {rk: 23794, frq: 284}
+recluse <> N: {rk: 22429, frq: 355}
+reclusive <> J: {rk: 18368, frq: 510}
+recode <> V: {rk: 31611, frq: 162}
+recognisable <> J: {rk: 55628, frq: 23}
+recognised <> J: {rk: 58892, frq: 27}
+recognition <> N: {rk: 2457, frq: 15262}
+recognizable <> J: {rk: 8422, frq: 2216}
+recognizably <> R: {rk: 28270, frq: 194}
+recognizance <> N: {rk: 36911, frq: 87}
+recognize <> V: {rk: 779, frq: 54314}
+recognized <> J: {rk: 13343, frq: 1016}
+recoil <> V: {rk: 13510, frq: 1013}
+recoilless <> J: {rk: 51070, frq: 31}
+recollect <> V: {rk: 18903, frq: 480}
+recollected <> J: {rk: 58214, frq: 19}
+recollection <> N: {rk: 8021, frq: 2346}
+recolonization <> N: {rk: 42251, frq: 70}
+recolonize <> V: {rk: 45046, frq: 44}
+recombinant <> J: {rk: 27789, frq: 195}
+recombination <> N: {rk: 30480, frq: 169}
+recombine <> V: {rk: 29208, frq: 170}
+recommence <> V: {rk: 42102, frq: 53}
+recommend <> V: {rk: 1695, frq: 23563}
+recommendation <> N: {rk: 2782, frq: 12816}
+recommended <> J: {rk: 8501, frq: 2246}
+recommit <> V: {rk: 38092, frq: 81}
+recommitment <> N: {rk: 56653, frq: 24}
+recompense <> N: {rk: 29378, frq: 167}, V: {rk: 44682, frq: 44}
+recomposition <> N: {rk: 58404, frq: 19}
+recon <> N: {rk: 30665, frq: 180}
+reconceptualization <> N: {rk: 35220, frq: 108}
+reconcilable <> J: {rk: 48852, frq: 37}
+reconcile <> V: {rk: 6654, frq: 3364}
+reconciled <> J: {rk: 41989, frq: 65}
+reconciliation <> N: {rk: 5837, frq: 4464}
+recondite <> J: {rk: 41755, frq: 58}
+recondition <> V: {rk: 39492, frq: 67}
+reconditioned <> J: {rk: 52060, frq: 33}
+reconfigurable <> J: {rk: 59363, frq: 31}
+reconfiguration <> N: {rk: 26151, frq: 243}
+reconfigure <> V: {rk: 16052, frq: 706}
+reconfigured <> J: {rk: 39838, frq: 67}
+reconfirm <> V: {rk: 28220, frq: 181}
+reconfirmation <> N: {rk: 58809, frq: 19}
+reconnaissance <> N: {rk: 12243, frq: 1180}
+reconnect <> V: {rk: 13877, frq: 997}
+reconnection <> N: {rk: 33535, frq: 147}
+reconnoiter <> N: {rk: 38378, frq: 74}
+reconquer <> V: {rk: 43322, frq: 48}
+reconsider <> V: {rk: 7895, frq: 2469}
+reconsideration <> N: {rk: 21294, frq: 398}
+reconstitute <> V: {rk: 16572, frq: 627}
+reconstituted <> J: {rk: 30280, frq: 149}
+reconstitution <> N: {rk: 30769, frq: 155}
+reconstruct <> V: {rk: 7447, frq: 2751}
+reconstructed <> J: {rk: 22829, frq: 315}
+reconstruction <> N: {rk: 5263, frq: 5147}
+reconstructionist <> N: {rk: 52373, frq: 29}, J: {rk: 55173, frq: 22}
+reconstructive <> J: {rk: 19249, frq: 474}
+recontextualization <> N: {rk: 50478, frq: 42}
+recontextualize <> V: {rk: 58540, frq: 20}
+reconvene <> V: {rk: 27679, frq: 194}
+reconversion <> N: {rk: 53318, frq: 32}
+reconvert <> V: {rk: 53891, frq: 24}
+recopy <> V: {rk: 56211, frq: 22}
+record <> N: {rk: 516, frq: 83911}, V: {rk: 1663, frq: 23842}, J: {rk: 23337, frq: 314}
+record-breaking <> J: {rk: 22802, frq: 329}
+record-holder <> N: {rk: 35071, frq: 113}
+recordable <> J: {rk: 38322, frq: 85}
+recorded <> J: {rk: 8901, frq: 2020}
+recorder <> N: {rk: 6094, frq: 3716}
+recording <> N: {rk: 3341, frq: 9837}, J: {rk: 31850, frq: 135}
+recordist <> N: {rk: 58522, frq: 19}
+recount <> V: {rk: 5547, frq: 4703}, N: {rk: 14193, frq: 1897}
+recounted <> J: {rk: 51905, frq: 37}
+recounting <> N: {rk: 40249, frq: 66}
+recoup <> V: {rk: 14222, frq: 886}
+recoupment <> N: {rk: 51572, frq: 63}
+recourse <> N: {rk: 11635, frq: 1258}
+recover <> V: {rk: 2144, frq: 17291}
+recoverable <> J: {rk: 26341, frq: 238}
+recovered <> J: {rk: 21303, frq: 371}
+recovery <> N: {rk: 2459, frq: 15747}
+recreation <> N: {rk: 5942, frq: 5526}
+recreational <> J: {rk: 6012, frq: 3982}
+recrimination <> N: {rk: 19723, frq: 439}
+recrudescence <> N: {rk: 57547, frq: 32}
+recruit <> V: {rk: 3336, frq: 9970}, N: {rk: 7023, frq: 3193}
+recruiter <> N: {rk: 10998, frq: 1665}
+recruiting <> N: {rk: 8035, frq: 2630}
+recruitment <> N: {rk: 6467, frq: 3815}
+rectal <> J: {rk: 21629, frq: 365}
+rectangle <> N: {rk: 10291, frq: 1689}
+rectangular <> J: {rk: 9738, frq: 1756}
+rectification <> N: {rk: 34417, frq: 159}
+rectifier <> N: {rk: 57734, frq: 26}
+rectify <> V: {rk: 14880, frq: 796}
+rectilinear <> J: {rk: 35125, frq: 97}
+rectitude <> N: {rk: 25954, frq: 226}
+recto <> N: {rk: 48152, frq: 39}
+rector <> N: {rk: 22261, frq: 515}
+rectory <> N: {rk: 23522, frq: 325}
+rectum <> N: {rk: 24716, frq: 280}
+rectus <> J: {rk: 35081, frq: 113}
+recumbent <> J: {rk: 30035, frq: 165}
+recuperate <> V: {rk: 16710, frq: 604}
+recuperation <> N: {rk: 25407, frq: 246}
+recuperative <> J: {rk: 42188, frq: 61}
+recur <> V: {rk: 13421, frq: 982}
+recurrence <> N: {rk: 11039, frq: 1583}
+recurrent <> J: {rk: 11687, frq: 1387}
+recurrently <> R: {rk: 47478, frq: 38}
+recurring <> J: {rk: 9937, frq: 1636}
+recursion <> N: {rk: 41710, frq: 120}
+recursive <> J: {rk: 28838, frq: 329}
+recusal <> N: {rk: 45398, frq: 49}
+recuse <> V: {rk: 24985, frq: 278}
+recyclability <> N: {rk: 57501, frq: 20}
+recyclable <> J: {rk: 20229, frq: 445}, N: {rk: 24655, frq: 308}
+recycle <> V: {rk: 5879, frq: 4241}
+recycled <> J: {rk: 9061, frq: 2089}
+recycler <> N: {rk: 24741, frq: 279}
+recycling <> N: {rk: 6074, frq: 4144}
+red <> J: {rk: 598, frq: 72558}
+red-blooded <> J: {rk: 34932, frq: 103}
+red-brick <> J: {rk: 24847, frq: 252}
+red-eye <> N: {rk: 35585, frq: 106}, J: {rk: 36129, frq: 91}
+red-faced <> J: {rk: 20605, frq: 414}
+red-handed <> R: {rk: 33011, frq: 121}
+red-headed <> J: {rk: 20660, frq: 429}
+red-hot <> J: {rk: 17808, frq: 566}
+redacted <> J: {rk: 44491, frq: 51}
+redaction <> N: {rk: 39629, frq: 76}
+redbone <> N: {rk: 55826, frq: 33}
+redbud <> N: {rk: 37963, frq: 112}
+redcoat <> N: {rk: 30608, frq: 234}
+redden <> V: {rk: 16967, frq: 676}
+reddened <> J: {rk: 35651, frq: 102}
+reddening <> J: {rk: 51505, frq: 30}, N: {rk: 53961, frq: 31}
+reddish <> J: {rk: 12728, frq: 1088}
+redecorate <> V: {rk: 23801, frq: 280}
+redecoration <> N: {rk: 48716, frq: 38}
+rededicate <> V: {rk: 31866, frq: 129}
+rededication <> N: {rk: 42060, frq: 54}
+redeem <> V: {rk: 9448, frq: 1827}
+redeemable <> J: {rk: 35363, frq: 94}
+redeemed <> J: {rk: 41530, frq: 63}
+redeemer <> N: {rk: 24455, frq: 381}
+redeeming <> J: {rk: 25859, frq: 225}
+redefine <> V: {rk: 7696, frq: 2627}
+redefined <> J: {rk: 39636, frq: 66}
+redefining <> N: {rk: 53128, frq: 59}
+redefinition <> N: {rk: 19794, frq: 451}
+redemption <> N: {rk: 8396, frq: 2340}
+redemptive <> J: {rk: 20692, frq: 426}
+redeploy <> V: {rk: 23590, frq: 297}
+redeployment <> N: {rk: 24525, frq: 271}
+redescription <> N: {rk: 50090, frq: 39}
+redesign <> V: {rk: 10899, frq: 1408}, N: {rk: 16306, frq: 752}
+redesigned <> J: {rk: 22472, frq: 348}
+redevelop <> V: {rk: 24164, frq: 297}
+redevelopment <> N: {rk: 13380, frq: 1079}
+redfish <> N: {rk: 26569, frq: 269}
+redhead <> N: {rk: 15676, frq: 827}
+redial <> J: {rk: 39757, frq: 67}
+redirect <> V: {rk: 11728, frq: 1288}
+redirected <> J: {rk: 54971, frq: 25}
+redirection <> N: {rk: 29979, frq: 159}
+rediscover <> V: {rk: 10825, frq: 1401}
+rediscovered <> J: {rk: 35775, frq: 94}
+rediscovery <> N: {rk: 23519, frq: 290}
+redistribute <> V: {rk: 15933, frq: 711}
+redistribution <> N: {rk: 14257, frq: 936}
+redistributional <> J: {rk: 59290, frq: 22}
+redistributive <> J: {rk: 29662, frq: 183}
+redistricting <> J: {rk: 33357, frq: 135}, N: {rk: 34419, frq: 147}
+redivide <> V: {rk: 57406, frq: 19}
+redline <> V: {rk: 35398, frq: 96}, N: {rk: 46271, frq: 75}
+redly <> R: {rk: 58310, frq: 21}
+redneck <> N: {rk: 18162, frq: 580}
+redness <> N: {rk: 18393, frq: 572}
+redolence <> N: {rk: 57421, frq: 21}
+redolent <> J: {rk: 22940, frq: 318}
+redouble <> V: {rk: 21253, frq: 369}
+redoubled <> J: {rk: 53109, frq: 28}
+redoubt <> N: {rk: 29165, frq: 208}
+redoubtable <> J: {rk: 34953, frq: 98}
+redound <> V: {rk: 42092, frq: 56}
+redox <> N: {rk: 55059, frq: 31}
+redraft <> V: {rk: 41537, frq: 60}
+redraw <> V: {rk: 18310, frq: 508}
+redrawing <> N: {rk: 43794, frq: 51}
+redress <> V: {rk: 17341, frq: 594}, N: {rk: 19979, frq: 460}
+redshift <> N: {rk: 19720, frq: 509}
+redshifted <> J: {rk: 55078, frq: 25}
+redshirt <> N: {rk: 26718, frq: 279}, V: {rk: 35269, frq: 114}
+reduce <> V: {rk: 701, frq: 62024}
+reduced <> J: {rk: 6113, frq: 3971}
+reducer <> N: {rk: 30656, frq: 176}
+reducible <> J: {rk: 30783, frq: 152}
+reducing <> J: {rk: 28376, frq: 197}
+reductase <> N: {rk: 46739, frq: 53}
+reduction <> N: {rk: 2284, frq: 17156}
+reductionism <> N: {rk: 29136, frq: 187}
+reductionistic <> J: {rk: 55070, frq: 26}
+reductive <> J: {rk: 25471, frq: 249}
+redundancy <> N: {rk: 17533, frq: 609}
+redundant <> J: {rk: 13386, frq: 979}
+redundantly <> R: {rk: 51006, frq: 31}
+redware <> N: {rk: 57711, frq: 27}
+redwood <> N: {rk: 12172, frq: 2034}
+reedy <> J: {rk: 26597, frq: 229}
+reef <> N: {rk: 6438, frq: 3801}
+reefer <> N: {rk: 30936, frq: 188}
+reek <> V: {rk: 15051, frq: 825}, N: {rk: 28243, frq: 213}
+reeking <> J: {rk: 48476, frq: 44}
+reel <> V: {rk: 7656, frq: 2636}, N: {rk: 8702, frq: 2241}
+reel-to-reel <> J: {rk: 45488, frq: 47}
+reeling <> J: {rk: 53832, frq: 25}
+reengineering <> J: {rk: 59483, frq: 23}
+reestablishment <> N: {rk: 29783, frq: 165}
+ref <> N: {rk: 16449, frq: 673}
+refashion <> V: {rk: 27283, frq: 203}
+refashioning <> N: {rk: 50134, frq: 32}
+refectory <> N: {rk: 36731, frq: 99}
+refer <> V: {rk: 1157, frq: 36840}
+referee <> N: {rk: 8673, frq: 2189}, V: {rk: 26279, frq: 225}
+refereed <> J: {rk: 37283, frq: 94}
+refereeing <> N: {rk: 36367, frq: 107}
+reference <> N: {rk: 1914, frq: 21359}, V: {rk: 11291, frq: 1569}
+referenced <> J: {rk: 42981, frq: 61}
+referencing <> N: {rk: 53960, frq: 31}
+referendum <> N: {rk: 6855, frq: 3315}
+referent <> N: {rk: 16238, frq: 763}
+referential <> J: {rk: 26856, frq: 233}
+referral <> N: {rk: 6599, frq: 3575}
+referred <> J: {rk: 38348, frq: 83}
+refill <> V: {rk: 13318, frq: 1058}, N: {rk: 22626, frq: 337}
+refillable <> J: {rk: 41147, frq: 62}
+refinance <> V: {rk: 12990, frq: 1133}
+refinancing <> N: {rk: 31065, frq: 170}, J: {rk: 42055, frq: 65}
+refine <> V: {rk: 6695, frq: 3308}
+refined <> J: {rk: 7835, frq: 2554}
+refinement <> N: {rk: 10900, frq: 1472}
+refiner <> N: {rk: 23261, frq: 334}
+refinery <> N: {rk: 9586, frq: 1913}
+refining <> J: {rk: 32690, frq: 130}, N: {rk: 34651, frq: 146}
+refinish <> V: {rk: 27145, frq: 211}
+refinished <> J: {rk: 55591, frq: 22}
+refit <> V: {rk: 29088, frq: 174}, N: {rk: 56098, frq: 25}
+refitting <> N: {rk: 50038, frq: 31}
+reflect <> V: {rk: 1005, frq: 43769}
+reflectance <> N: {rk: 39109, frq: 151}
+reflected <> J: {rk: 15561, frq: 719}
+reflection <> N: {rk: 2774, frq: 12921}
+reflective <> J: {rk: 6963, frq: 3257}
+reflectively <> R: {rk: 30816, frq: 143}
+reflectiveness <> N: {rk: 52230, frq: 30}
+reflectivity <> N: {rk: 30041, frq: 222}
+reflector <> N: {rk: 13241, frq: 1041}
+reflex <> N: {rk: 10497, frq: 1530}, J: {rk: 22256, frq: 359}
+reflexive <> N: {rk: 21523, frq: 422}
+reflexively <> R: {rk: 20173, frq: 450}
+reflexivity <> N: {rk: 34859, frq: 114}
+reflexology <> N: {rk: 38757, frq: 91}
+reflux <> N: {rk: 22386, frq: 434}
+reforest <> V: {rk: 46733, frq: 39}
+reforestation <> N: {rk: 25979, frq: 258}
+reform <> N: {rk: 1113, frq: 40744}, V: {rk: 5398, frq: 4797}
+reformat <> V: {rk: 42043, frq: 60}
+reformatory <> J: {rk: 49726, frq: 33}
+reformed <> J: {rk: 13749, frq: 992}
+reformer <> N: {rk: 6798, frq: 3167}
+reforming <> J: {rk: 19087, frq: 504}
+reformism <> N: {rk: 45413, frq: 50}
+reformist <> J: {rk: 17106, frq: 627}, N: {rk: 24676, frq: 272}
+reformulate <> V: {rk: 22615, frq: 332}
+reformulated <> J: {rk: 28402, frq: 190}
+reformulation <> N: {rk: 30472, frq: 165}
+refract <> V: {rk: 23667, frq: 285}
+refracted <> J: {rk: 47421, frq: 38}
+refracting <> J: {rk: 57336, frq: 24}
+refraction <> N: {rk: 26677, frq: 224}
+refractive <> J: {rk: 32679, frq: 130}
+refractor <> N: {rk: 17177, frq: 689}
+refractory <> J: {rk: 27908, frq: 205}
+refrain <> V: {rk: 9217, frq: 1932}, N: {rk: 13266, frq: 988}
+reframing <> N: {rk: 46527, frq: 61}
+refresh <> V: {rk: 12722, frq: 1095}
+refreshed <> J: {rk: 32177, frq: 138}
+refresher <> N: {rk: 24763, frq: 267}
+refreshing <> J: {rk: 8891, frq: 2073}
+refreshingly <> R: {rk: 24001, frq: 281}
+refreshment <> N: {rk: 14951, frq: 830}
+refrigerant <> N: {rk: 24973, frq: 344}, J: {rk: 40536, frq: 71}
+refrigerate <> V: {rk: 8690, frq: 2459}
+refrigerated <> J: {rk: 18866, frq: 508}
+refrigeration <> N: {rk: 16566, frq: 665}
+refrigerator <> N: {rk: 4166, frq: 7012}
+refuel <> V: {rk: 15847, frq: 723}
+refueling <> J: {rk: 31020, frq: 138}, N: {rk: 42585, frq: 65}
+refuge <> N: {rk: 4660, frq: 5904}
+refugee <> N: {rk: 2615, frq: 13835}
+refund <> N: {rk: 11177, frq: 1406}, V: {rk: 21892, frq: 356}
+refundable <> J: {rk: 30957, frq: 155}
+refurbish <> V: {rk: 15671, frq: 715}
+refurbished <> J: {rk: 20944, frq: 393}
+refurbishing <> N: {rk: 36720, frq: 83}
+refurbishment <> N: {rk: 34891, frq: 104}
+refurnish <> V: {rk: 56448, frq: 20}
+refusal <> N: {rk: 6011, frq: 3919}
+refuse <> V: {rk: 1251, frq: 32410}, N: {rk: 16578, frq: 669}
+refused <> J: {rk: 51406, frq: 32}
+refusenik <> N: {rk: 44608, frq: 70}
+refutation <> N: {rk: 24709, frq: 257}
+refute <> V: {rk: 11389, frq: 1310}
+regain <> V: {rk: 4828, frq: 5435}
+regal <> J: {rk: 12509, frq: 1219}
+regale <> V: {rk: 20725, frq: 390}
+regalia <> N: {rk: 20013, frq: 437}
+regally <> R: {rk: 33936, frq: 109}
+regard <> V: {rk: 2095, frq: 18035}, I: {rk: 4246, frq: 7072}, N: {rk: 4811, frq: 5640}
+regarding <> I: {rk: 2166, frq: 18756}
+regardless <> R: {rk: 2916, frq: 11955}
+regards <> I: {rk: 21963, frq: 355}
+regatta <> N: {rk: 29623, frq: 251}
+regenerate <> V: {rk: 15444, frq: 725}, J: {rk: 54681, frq: 24}, N: {rk: 54751, frq: 24}
+regenerating <> J: {rk: 59115, frq: 20}
+regeneration <> N: {rk: 14367, frq: 889}
+regenerative <> J: {rk: 24538, frq: 286}
+regent <> N: {rk: 16131, frq: 1148}
+reggae <> N: {rk: 16295, frq: 677}
+regicide <> N: {rk: 51563, frq: 30}
+regime <> N: {rk: 1858, frq: 22831}
+regimen <> N: {rk: 8051, frq: 2564}
+regiment <> N: {rk: 10545, frq: 2280}, V: {rk: 37649, frq: 77}
+regimental <> J: {rk: 22708, frq: 330}
+regimentation <> N: {rk: 36060, frq: 87}
+regimented <> J: {rk: 27354, frq: 194}
+region <> N: {rk: 793, frq: 54996}
+regional <> J: {rk: 1651, frq: 24915}, N: {rk: 33614, frq: 153}
+regionalism <> N: {rk: 23941, frq: 302}
+regionalist <> J: {rk: 38673, frq: 77}, N: {rk: 54998, frq: 27}
+regionalization <> N: {rk: 36068, frq: 115}
+regionalize <> V: {rk: 53215, frq: 30}
+regionalized <> J: {rk: 49881, frq: 36}
+regionally <> R: {rk: 19571, frq: 469}
+register <> V: {rk: 3193, frq: 10142}, N: {rk: 5402, frq: 4819}
+registered <> J: {rk: 6443, frq: 3630}
+registrant <> N: {rk: 32218, frq: 144}
+registrar <> N: {rk: 19840, frq: 462}
+registration <> N: {rk: 5438, frq: 5043}
+registry <> N: {rk: 13083, frq: 1812}
+regnant <> J: {rk: 53393, frq: 27}
+regolith <> N: {rk: 36867, frq: 106}
+regress <> V: {rk: 17700, frq: 560}, N: {rk: 39739, frq: 76}
+regression <> N: {rk: 5463, frq: 5731}
+regressive <> J: {rk: 19551, frq: 449}
+regret <> V: {rk: 4639, frq: 6040}, N: {rk: 5995, frq: 4059}
+regretful <> J: {rk: 29829, frq: 164}
+regretfully <> R: {rk: 25514, frq: 245}
+regrettable <> J: {rk: 18312, frq: 508}
+regrettably <> R: {rk: 17847, frq: 546}
+regroup <> V: {rk: 14557, frq: 826}
+regrouping <> N: {rk: 53247, frq: 30}
+regrow <> V: {rk: 34027, frq: 120}
+regrowth <> N: {rk: 28819, frq: 202}
+regular <> J: {rk: 1374, frq: 29438}, N: {rk: 11121, frq: 1411}
+regularity <> N: {rk: 12556, frq: 1095}
+regularization <> N: {rk: 44028, frq: 57}
+regularize <> V: {rk: 32697, frq: 126}
+regularized <> J: {rk: 46146, frq: 43}
+regularly <> R: {rk: 2835, frq: 12289}
+regulate <> V: {rk: 3407, frq: 9554}
+regulated <> J: {rk: 14702, frq: 833}
+regulating <> J: {rk: 44631, frq: 48}
+regulation <> N: {rk: 1681, frq: 24373}
+regulative <> J: {rk: 38792, frq: 103}
+regulator <> N: {rk: 4773, frq: 6112}
+regulatory <> J: {rk: 3970, frq: 7924}
+regurgitate <> V: {rk: 27640, frq: 199}
+regurgitated <> J: {rk: 54322, frq: 23}
+regurgitation <> N: {rk: 41479, frq: 86}
+rehab <> N: {rk: 10207, frq: 1942}
+rehabbed <> J: {rk: 49606, frq: 34}
+rehabilitate <> V: {rk: 11496, frq: 1281}
+rehabilitated <> J: {rk: 39644, frq: 68}
+rehabilitation <> N: {rk: 4838, frq: 5985}
+rehabilitative <> J: {rk: 25066, frq: 274}
+rehabilitator <> N: {rk: 55424, frq: 25}
+rehash <> V: {rk: 24518, frq: 266}, N: {rk: 35140, frq: 97}
+rehashing <> N: {rk: 54763, frq: 22}
+rehear <> V: {rk: 47430, frq: 49}
+rehearing <> N: {rk: 45658, frq: 63}
+rehearsal <> N: {rk: 5473, frq: 4713}
+rehearse <> V: {rk: 7924, frq: 2379}
+rehearsed <> J: {rk: 33015, frq: 120}
+reheat <> V: {rk: 16419, frq: 720}
+reheated <> J: {rk: 56149, frq: 23}
+reheating <> N: {rk: 57213, frq: 24}
+rehydrate <> V: {rk: 32459, frq: 137}
+rehydrated <> J: {rk: 57833, frq: 22}
+reification <> N: {rk: 31976, frq: 149}
+reified <> J: {rk: 39404, frq: 73}
+reify <> V: {rk: 27147, frq: 221}
+reign <> N: {rk: 7760, frq: 2615}, V: {rk: 9958, frq: 1657}
+reigning <> J: {rk: 15019, frq: 801}
+reignite <> V: {rk: 24631, frq: 276}
+reiki <> N: {rk: 59820, frq: 49}
+reimburse <> V: {rk: 12227, frq: 1193}
+reimbursement <> N: {rk: 10009, frq: 1706}
+reimportation <> N: {rk: 48941, frq: 50}
+reimpose <> V: {rk: 33884, frq: 105}
+reimposition <> N: {rk: 56126, frq: 22}
+rein <> N: {rk: 8793, frq: 2124}, V: {rk: 11372, frq: 1405}
+reincarnate <> V: {rk: 28694, frq: 180}
+reincarnated <> J: {rk: 47681, frq: 37}
+reincarnation <> N: {rk: 18525, frq: 497}
+reincorporation <> N: {rk: 51283, frq: 33}
+reindeer <> N: {rk: 13384, frq: 1045}
+reinforce <> V: {rk: 3351, frq: 10017}
+reinforced <> J: {rk: 23851, frq: 284}
+reinforcement <> N: {rk: 7634, frq: 2853}
+reinforcer <> N: {rk: 24570, frq: 347}
+reinforcing <> J: {rk: 32408, frq: 137}
+reinsert <> V: {rk: 32209, frq: 132}
+reinsertion <> N: {rk: 51335, frq: 29}
+reinstall <> V: {rk: 33123, frq: 136}
+reinstallation <> N: {rk: 45814, frq: 48}
+reinstate <> V: {rk: 11167, frq: 1388}
+reinstatement <> N: {rk: 22890, frq: 319}
+reinstitution <> N: {rk: 49675, frq: 36}
+reinsurance <> N: {rk: 33043, frq: 140}
+reintegrate <> V: {rk: 27046, frq: 235}
+reintegration <> N: {rk: 24419, frq: 339}
+reinterpret <> V: {rk: 27024, frq: 207}
+reinterpretation <> N: {rk: 23222, frq: 313}
+reintroduce <> V: {rk: 12981, frq: 1022}
+reintroduced <> J: {rk: 48614, frq: 38}
+reintroduction <> N: {rk: 21167, frq: 418}
+reinvent <> V: {rk: 8340, frq: 2328}
+reinvented <> J: {rk: 45050, frq: 50}
+reinvention <> N: {rk: 20172, frq: 563}
+reinvested <> J: {rk: 50671, frq: 32}
+reinvestigate <> V: {rk: 51429, frq: 34}
+reinvigorate <> V: {rk: 18452, frq: 523}
+reinvigorated <> J: {rk: 37760, frq: 80}
+reinvigoration <> N: {rk: 45130, frq: 41}
+reishi <> N: {rk: 59899, frq: 25}
+reissue <> V: {rk: 20393, frq: 414}, N: {rk: 28722, frq: 183}
+reissued <> J: {rk: 54337, frq: 24}
+reiterate <> V: {rk: 8926, frq: 2052}
+reiterated <> J: {rk: 55912, frq: 22}
+reiteration <> N: {rk: 30663, frq: 154}
+reject <> V: {rk: 2040, frq: 18945}, N: {rk: 22101, frq: 343}
+rejected <> J: {rk: 20256, frq: 418}
+rejecter <> N: {rk: 59555, frq: 22}
+rejection <> N: {rk: 5054, frq: 5403}
+rejectionist <> N: {rk: 37015, frq: 83}
+rejigger <> V: {rk: 46098, frq: 46}
+rejoice <> V: {rk: 11007, frq: 1373}
+rejoicing <> J: {rk: 47225, frq: 36}
+rejoin <> V: {rk: 10427, frq: 1510}
+rejoinder <> N: {rk: 25338, frq: 244}
+rejuvenate <> V: {rk: 19498, frq: 448}
+rejuvenated <> J: {rk: 20902, frq: 390}
+rejuvenating <> J: {rk: 42711, frq: 51}
+rejuvenation <> N: {rk: 22249, frq: 332}
+rekindle <> V: {rk: 15488, frq: 714}
+rekindled <> J: {rk: 50245, frq: 34}
+rekindling <> N: {rk: 54147, frq: 28}
+relapse <> N: {rk: 16562, frq: 713}, V: {rk: 21695, frq: 385}
+relatable <> J: {rk: 40695, frq: 82}
+relate <> V: {rk: 1081, frq: 42517}
+related <> J: {rk: 3414, frq: 9969}
+relatedly <> R: {rk: 43403, frq: 56}
+relatedness <> N: {rk: 22212, frq: 460}
+relation <> N: {rk: 1119, frq: 39198}
+relational <> J: {rk: 11423, frq: 1573}
+relationship <> N: {rk: 486, frq: 92198}
+relative <> N: {rk: 2444, frq: 14625}, J: {rk: 3173, frq: 10940}
+relatively <> R: {rk: 1466, frq: 28295}
+relativism <> N: {rk: 14766, frq: 876}
+relativist <> N: {rk: 28784, frq: 190}
+relativistic <> J: {rk: 20346, frq: 446}
+relativity <> N: {rk: 11807, frq: 1277}
+relativize <> V: {rk: 35311, frq: 100}
+relator <> N: {rk: 59465, frq: 29}
+relaunch <> N: {rk: 48033, frq: 40}
+relax <> V: {rk: 2878, frq: 12074}
+relaxant <> N: {rk: 34837, frq: 107}
+relaxation <> N: {rk: 8208, frq: 2354}
+relaxed <> J: {rk: 6186, frq: 3712}
+relaxer <> N: {rk: 40792, frq: 70}
+relaxing <> J: {rk: 12382, frq: 1179}
+relay <> N: {rk: 8480, frq: 2313}, V: {rk: 9534, frq: 1801}
+relearn <> V: {rk: 23595, frq: 300}
+relearning <> N: {rk: 54662, frq: 24}
+releasable <> J: {rk: 56306, frq: 21}
+release <> V: {rk: 1121, frq: 37764}, N: {rk: 2214, frq: 16929}
+released <> J: {rk: 17339, frq: 601}
+relegate <> V: {rk: 9918, frq: 1656}
+relegation <> N: {rk: 42539, frq: 58}
+relent <> V: {rk: 16071, frq: 682}
+relentless <> J: {rk: 7143, frq: 2916}
+relentlessly <> R: {rk: 10768, frq: 1422}
+relentlessness <> N: {rk: 41716, frq: 62}
+relevance <> N: {rk: 6637, frq: 3579}
+relevancy <> N: {rk: 29420, frq: 176}
+relevant <> J: {rk: 2831, frq: 13262}
+relevantly <> R: {rk: 47776, frq: 37}
+reliability <> N: {rk: 4235, frq: 7657}
+reliable <> J: {rk: 3528, frq: 8994}
+reliably <> R: {rk: 11941, frq: 1248}
+reliance <> N: {rk: 7047, frq: 3131}
+reliant <> J: {rk: 16190, frq: 802}
+relic <> N: {rk: 8549, frq: 2236}
+relict <> N: {rk: 43646, frq: 57}
+relief <> N: {rk: 1822, frq: 21287}
+relieve <> V: {rk: 3793, frq: 7881}
+relieved <> J: {rk: 11681, frq: 1329}
+reliever <> N: {rk: 12583, frq: 1134}
+religion <> N: {rk: 1387, frq: 30711}
+religionist <> N: {rk: 37919, frq: 81}
+religiosity <> N: {rk: 15216, frq: 982}
+religious <> J: {rk: 885, frq: 50065}
+religiously <> R: {rk: 12428, frq: 1145}
+religiousness <> N: {rk: 39338, frq: 101}
+reline <> V: {rk: 54297, frq: 25}
+relinquish <> V: {rk: 9660, frq: 1725}
+relinquishing <> N: {rk: 50036, frq: 30}
+relinquishment <> N: {rk: 36631, frq: 98}
+reliquary <> N: {rk: 24362, frq: 413}
+relish <> V: {rk: 8827, frq: 2057}, N: {rk: 13294, frq: 1041}
+relive <> V: {rk: 11096, frq: 1356}
+reload <> V: {rk: 17122, frq: 631}, N: {rk: 40095, frq: 118}
+relocate <> V: {rk: 7033, frq: 3032}
+relocated <> J: {rk: 41155, frq: 61}
+relocation <> N: {rk: 10800, frq: 1484}
+reluctance <> N: {rk: 7085, frq: 2875}
+reluctant <> J: {rk: 3930, frq: 7359}
+reluctantly <> R: {rk: 7219, frq: 2956}
+rely <> V: {rk: 1867, frq: 21401}
+remain <> V: {rk: 426, frq: 98934}
+remainder <> N: {rk: 6904, frq: 3102}
+remaining <> J: {rk: 2168, frq: 17654}
+remains <> N: {rk: 5375, frq: 4843}
+remake <> V: {rk: 10870, frq: 1419}, N: {rk: 14342, frq: 906}
+remaking <> N: {rk: 38449, frq: 96}
+remand <> V: {rk: 25225, frq: 249}, N: {rk: 39595, frq: 78}
+remanufactured <> J: {rk: 58536, frq: 19}
+remapping <> N: {rk: 52343, frq: 29}
+remark <> N: {rk: 3412, frq: 9055}, V: {rk: 4772, frq: 5674}
+remarkable <> J: {rk: 2724, frq: 12585}
+remarkably <> R: {rk: 5212, frq: 4897}
+remarriage <> N: {rk: 25306, frq: 269}
+remarried <> J: {rk: 56540, frq: 23}
+remarry <> V: {rk: 11235, frq: 1347}
+remastered <> J: {rk: 55949, frq: 29}
+rematch <> N: {rk: 20120, frq: 450}
+remediable <> J: {rk: 56452, frq: 22}
+remedial <> J: {rk: 10674, frq: 1643}
+remediate <> V: {rk: 28706, frq: 209}
+remediation <> N: {rk: 14591, frq: 1005}
+remedy <> N: {rk: 5165, frq: 4998}, V: {rk: 10192, frq: 1586}
+remember <> V: {rk: 379, frq: 115601}
+remembered <> J: {rk: 24337, frq: 267}
+rememberer <> N: {rk: 59473, frq: 22}
+remembering <> N: {rk: 28128, frq: 186}
+remembrance <> N: {rk: 11076, frq: 1367}
+remilitarization <> N: {rk: 57996, frq: 22}
+remind <> V: {rk: 1462, frq: 27902}
+reminder <> N: {rk: 4429, frq: 6280}
+remineralization <> N: {rk: 59972, frq: 21}
+reminisce <> V: {rk: 14205, frq: 855}
+reminiscence <> N: {rk: 17954, frq: 535}
+reminiscent <> J: {rk: 7643, frq: 2588}
+remiss <> J: {rk: 26075, frq: 221}
+remission <> N: {rk: 15626, frq: 736}
+remit <> V: {rk: 31287, frq: 138}, N: {rk: 50670, frq: 39}
+remittance <> N: {rk: 17302, frq: 677}
+remix <> N: {rk: 34301, frq: 169}, V: {rk: 37608, frq: 94}
+remnant <> N: {rk: 6483, frq: 3468}
+remodel <> V: {rk: 11650, frq: 1271}, N: {rk: 29370, frq: 194}
+remodeled <> J: {rk: 29590, frq: 159}
+remodeling <> N: {rk: 25910, frq: 288}, J: {rk: 28786, frq: 183}
+remold <> V: {rk: 42476, frq: 57}
+remonstrance <> N: {rk: 41078, frq: 85}
+remonstrate <> V: {rk: 34832, frq: 100}
+remorse <> N: {rk: 10727, frq: 1470}
+remorseful <> J: {rk: 27084, frq: 206}
+remorseless <> J: {rk: 31299, frq: 138}
+remorselessly <> R: {rk: 42094, frq: 59}
+remote <> J: {rk: 2795, frq: 12290}, N: {rk: 32587, frq: 142}
+remote-controlled <> J: {rk: 28446, frq: 189}
+remotely <> R: {rk: 9827, frq: 1734}
+remoteness <> N: {rk: 23074, frq: 311}
+remount <> V: {rk: 35531, frq: 93}
+removable <> J: {rk: 15325, frq: 835}
+removal <> N: {rk: 4755, frq: 5964}
+remove <> V: {rk: 877, frq: 48857}, N: {rk: 30502, frq: 151}
+removed <> J: {rk: 38021, frq: 73}
+remover <> N: {rk: 22907, frq: 367}
+remunerate <> V: {rk: 51922, frq: 33}
+remuneration <> N: {rk: 26679, frq: 225}
+remunerative <> J: {rk: 44145, frq: 51}
+renal <> J: {rk: 14276, frq: 1073}
+rename <> V: {rk: 9439, frq: 1807}
+renamed <> J: {rk: 36208, frq: 89}
+renaming <> N: {rk: 35262, frq: 99}
+rend <> V: {rk: 29796, frq: 156}
+render <> V: {rk: 3563, frq: 8891}
+rendering <> N: {rk: 11072, frq: 1376}
+rendezvous <> N: {rk: 13389, frq: 1013}, V: {rk: 28088, frq: 200}
+rending <> N: {rk: 51275, frq: 30}
+rendition <> N: {rk: 10701, frq: 1441}
+renegade <> N: {rk: 13602, frq: 951}
+renege <> V: {rk: 19621, frq: 449}
+renegotiate <> V: {rk: 16291, frq: 666}
+renegotiated <> J: {rk: 54007, frq: 25}
+renegotiation <> N: {rk: 29617, frq: 172}
+renew <> V: {rk: 5589, frq: 4402}
+renewable <> J: {rk: 7422, frq: 3105}
+renewables <> N: {rk: 21430, frq: 485}
+renewal <> N: {rk: 6594, frq: 3378}
+renewed <> J: {rk: 6308, frq: 3630}
+rennet <> N: {rk: 57079, frq: 34}
+renomination <> N: {rk: 42968, frq: 62}
+renormalization <> N: {rk: 51532, frq: 64}
+renounce <> V: {rk: 10923, frq: 1420}
+renovate <> V: {rk: 8784, frq: 2150}
+renovated <> J: {rk: 19271, frq: 474}
+renovation <> N: {rk: 7383, frq: 2923}
+renovator <> N: {rk: 46087, frq: 51}
+renown <> N: {rk: 19773, frq: 452}
+renowned <> J: {rk: 7326, frq: 2811}
+rent <> V: {rk: 3456, frq: 9119}, N: {rk: 4221, frq: 6768}
+rent-free <> J: {rk: 33553, frq: 112}
+rental <> N: {rk: 4791, frq: 5724}
+rented <> J: {rk: 11701, frq: 1246}
+renter <> N: {rk: 14824, frq: 865}
+rentier <> N: {rk: 35308, frq: 127}
+renunciation <> N: {rk: 22067, frq: 355}
+reoccupation <> N: {rk: 48286, frq: 40}
+reoccupy <> V: {rk: 42662, frq: 61}
+reoccur <> V: {rk: 37855, frq: 79}
+reoccurrence <> N: {rk: 44887, frq: 45}
+reoccurring <> J: {rk: 52737, frq: 26}
+reopen <> V: {rk: 6767, frq: 3242}
+reopened <> J: {rk: 52517, frq: 28}
+reopening <> N: {rk: 23954, frq: 277}
+reorder <> V: {rk: 23238, frq: 303}, N: {rk: 49509, frq: 53}
+reordering <> N: {rk: 36318, frq: 94}
+reorganization <> N: {rk: 10682, frq: 1491}
+reorganize <> V: {rk: 11137, frq: 1352}
+reorganized <> J: {rk: 37900, frq: 80}
+reorientation <> N: {rk: 27123, frq: 222}
+repackage <> V: {rk: 23959, frq: 281}
+repackaged <> J: {rk: 54177, frq: 23}
+repackaging <> N: {rk: 46892, frq: 38}
+repaint <> V: {rk: 18788, frq: 482}
+repair <> N: {rk: 3904, frq: 7604}, V: {rk: 4016, frq: 7281}
+repairable <> J: {rk: 49580, frq: 32}
+repaired <> J: {rk: 33428, frq: 113}
+repairer <> N: {rk: 48002, frq: 35}
+repairman <> N: {rk: 20524, frq: 417}
+reparation <> N: {rk: 13447, frq: 1051}
+reparative <> J: {rk: 37291, frq: 87}
+repartee <> N: {rk: 31003, frq: 136}
+repast <> N: {rk: 29212, frq: 168}
+repatriate <> V: {rk: 21842, frq: 363}
+repatriated <> J: {rk: 40909, frq: 66}
+repatriation <> N: {rk: 16476, frq: 699}
+repay <> V: {rk: 8116, frq: 2420}
+repayment <> N: {rk: 15357, frq: 824}
+repeal <> V: {rk: 9747, frq: 2047}, N: {rk: 14741, frq: 1039}
+repeat <> V: {rk: 1607, frq: 24519}, N: {rk: 9736, frq: 1736}
+repeatability <> N: {rk: 28883, frq: 200}
+repeatable <> J: {rk: 27875, frq: 198}
+repeated <> J: {rk: 5609, frq: 4475}
+repeatedly <> R: {rk: 3266, frq: 9870}
+repeater <> N: {rk: 26305, frq: 291}
+repeating <> J: {rk: 15445, frq: 718}
+repel <> V: {rk: 11488, frq: 1280}
+repellant <> N: {rk: 38585, frq: 79}, J: {rk: 57670, frq: 19}
+repellency <> N: {rk: 58905, frq: 22}
+repellent <> N: {rk: 17513, frq: 602}, J: {rk: 27705, frq: 192}
+repent <> V: {rk: 17328, frq: 588}
+repentance <> N: {rk: 17909, frq: 628}
+repentant <> J: {rk: 29314, frq: 170}
+repercussion <> N: {rk: 11078, frq: 1375}
+repertoire <> N: {rk: 7922, frq: 2595}
+repertory <> N: {rk: 13725, frq: 1024}
+repetition <> N: {rk: 5895, frq: 4154}
+repetitious <> J: {rk: 28490, frq: 179}
+repetitive <> J: {rk: 10364, frq: 1559}
+repetitively <> R: {rk: 40319, frq: 62}
+repetitiveness <> N: {rk: 45602, frq: 41}
+rephrase <> V: {rk: 25806, frq: 234}
+replace <> V: {rk: 1183, frq: 35406}
+replaceable <> J: {rk: 25875, frq: 242}
+replaced <> J: {rk: 49438, frq: 34}
+replacement <> N: {rk: 3683, frq: 8353}
+replant <> V: {rk: 19666, frq: 453}
+replanting <> N: {rk: 51494, frq: 29}
+replay <> V: {rk: 11837, frq: 1190}, N: {rk: 13034, frq: 1048}
+replenish <> V: {rk: 12474, frq: 1138}
+replenished <> J: {rk: 55966, frq: 27}
+replenishment <> N: {rk: 30124, frq: 157}
+replete <> J: {rk: 13619, frq: 953}
+replica <> N: {rk: 9464, frq: 1792}
+replicant <> N: {rk: 51009, frq: 40}
+replicate <> V: {rk: 6716, frq: 3449}
+replicated <> J: {rk: 43799, frq: 49}
+replication <> N: {rk: 13309, frq: 1109}
+replicator <> N: {rk: 39507, frq: 95}
+reply <> V: {rk: 2233, frq: 17532}, N: {rk: 5536, frq: 4591}
+repo <> N: {rk: 30983, frq: 162}
+repopulation <> N: {rk: 57163, frq: 26}
+report <> V: {rk: 450, frq: 95400}, N: {rk: 476, frq: 90951}
+reportable <> J: {rk: 40472, frq: 71}
+reportage <> N: {rk: 28051, frq: 205}
+reported <> J: {rk: 6385, frq: 3711}
+reportedly <> R: {rk: 4436, frq: 6467}
+reporter <> N: {rk: 1290, frq: 35804}
+reporting <> N: {rk: 3912, frq: 8134}, J: {rk: 41834, frq: 56}
+reportorial <> J: {rk: 38161, frq: 73}
+repose <> N: {rk: 20271, frq: 427}, V: {rk: 28076, frq: 189}
+reposition <> V: {rk: 16937, frq: 636}
+repositioning <> N: {rk: 38100, frq: 80}
+repository <> N: {rk: 11388, frq: 1340}
+repossess <> V: {rk: 27546, frq: 206}
+repossession <> N: {rk: 43546, frq: 55}
+repot <> V: {rk: 44435, frq: 48}
+repp <> N: {rk: 48063, frq: 39}
+reprehensible <> J: {rk: 18746, frq: 502}
+represent <> V: {rk: 687, frq: 63269}
+representable <> J: {rk: 56834, frq: 28}
+representation <> N: {rk: 2925, frq: 12874}
+representational <> J: {rk: 14956, frq: 842}
+representative <> N: {rk: 1986, frq: 19844}, J: {rk: 4022, frq: 7841}
+representativeness <> N: {rk: 29926, frq: 179}
+representing <> J: {rk: 35110, frq: 97}
+repress <> V: {rk: 13445, frq: 964}
+repressed <> J: {rk: 13846, frq: 902}
+repression <> N: {rk: 7817, frq: 2660}
+repressive <> J: {rk: 11726, frq: 1304}
+reprieve <> N: {rk: 17657, frq: 557}, V: {rk: 51646, frq: 30}
+reprimand <> V: {rk: 15407, frq: 737}, N: {rk: 17552, frq: 606}
+reprint <> V: {rk: 9440, frq: 1915}, N: {rk: 17176, frq: 657}
+reprinting <> N: {rk: 55800, frq: 22}
+reprisal <> N: {rk: 15503, frq: 724}
+reprise <> N: {rk: 22358, frq: 339}, V: {rk: 23102, frq: 314}
+reproach <> N: {rk: 19248, frq: 481}, V: {rk: 23830, frq: 283}
+reproachful <> J: {rk: 32988, frq: 130}
+reproachfully <> R: {rk: 36214, frq: 92}
+reprobate <> N: {rk: 47467, frq: 45}
+reprobation <> N: {rk: 57727, frq: 21}
+reprocess <> V: {rk: 33334, frq: 124}
+reproduce <> V: {rk: 5038, frq: 4680}
+reproduced <> J: {rk: 46830, frq: 41}
+reproducer <> N: {rk: 51161, frq: 31}
+reproducibility <> N: {rk: 35998, frq: 110}
+reproducible <> J: {rk: 28111, frq: 192}
+reproduction <> N: {rk: 5728, frq: 4448}
+reproductive <> J: {rk: 5939, frq: 4154}
+reprogram <> V: {rk: 23005, frq: 309}
+reprogrammed <> J: {rk: 59558, frq: 35}
+reprogramming <> N: {rk: 53181, frq: 35}
+reproof <> N: {rk: 42673, frq: 58}
+reprove <> V: {rk: 35040, frq: 101}
+reprovingly <> R: {rk: 53610, frq: 29}
+reptile <> N: {rk: 10789, frq: 1455}
+reptilian <> J: {rk: 24346, frq: 269}
+republican <> N: {rk: 594, frq: 81388}, J: {rk: 4888, frq: 5764}
+republicanism <> N: {rk: 24120, frq: 290}
+republish <> V: {rk: 29310, frq: 170}
+repudiate <> V: {rk: 14093, frq: 893}
+repudiation <> N: {rk: 19835, frq: 471}
+repugnance <> N: {rk: 35497, frq: 97}
+repugnant <> J: {rk: 18881, frq: 475}
+repulse <> V: {rk: 19085, frq: 465}
+repulsed <> J: {rk: 45722, frq: 42}
+repulsion <> N: {rk: 25978, frq: 226}
+repulsive <> J: {rk: 16416, frq: 641}
+repurchase <> N: {rk: 30924, frq: 148}
+reputable <> J: {rk: 14316, frq: 862}
+reputation <> N: {rk: 2427, frq: 14705}
+reputational <> J: {rk: 39406, frq: 87}
+repute <> V: {rk: 19849, frq: 412}, N: {rk: 29431, frq: 162}
+reputed <> J: {rk: 24672, frq: 257}
+reputedly <> R: {rk: 24867, frq: 256}
+request <> N: {rk: 2128, frq: 17604}, V: {rk: 3136, frq: 10356}
+requested <> J: {rk: 23625, frq: 303}
+requester <> N: {rk: 53491, frq: 31}
+requiem <> N: {rk: 21884, frq: 364}
+require <> V: {rk: 446, frq: 96535}
+required <> J: {rk: 4503, frq: 6409}
+requirement <> N: {rk: 1895, frq: 21845}
+requisite <> J: {rk: 12487, frq: 1103}, N: {rk: 23312, frq: 310}
+requisition <> V: {rk: 33525, frq: 117}, N: {rk: 38407, frq: 74}
+reread <> V: {rk: 12630, frq: 1121}
+rerouting <> N: {rk: 53030, frq: 28}
+rerun <> N: {rk: 14216, frq: 867}, V: {rk: 24899, frq: 246}
+resale <> N: {rk: 17509, frq: 597}
+reschedule <> V: {rk: 17744, frq: 561}
+rescheduling <> N: {rk: 53847, frq: 27}
+rescind <> V: {rk: 16808, frq: 645}
+rescission <> N: {rk: 46109, frq: 50}
+rescue <> V: {rk: 3845, frq: 8060}, N: {rk: 3917, frq: 8010}
+rescued <> J: {rk: 32500, frq: 144}
+rescuer <> N: {rk: 11909, frq: 1334}
+reseal <> V: {rk: 36465, frq: 90}
+research <> N: {rk: 362, frq: 126662}, V: {rk: 3731, frq: 8430}
+researcher <> N: {rk: 1178, frq: 38039}
+reseat <> V: {rk: 56996, frq: 25}
+resect <> V: {rk: 40972, frq: 68}
+resected <> J: {rk: 59110, frq: 24}
+resection <> N: {rk: 22274, frq: 480}
+reseed <> V: {rk: 31737, frq: 138}
+resegregation <> N: {rk: 47716, frq: 42}
+resell <> V: {rk: 16274, frq: 674}
+reseller <> N: {rk: 28385, frq: 189}
+resemblance <> N: {rk: 7685, frq: 2533}
+resemble <> V: {rk: 3077, frq: 10767}
+resent <> V: {rk: 6519, frq: 3279}
+resented <> J: {rk: 57362, frq: 20}
+resentful <> J: {rk: 14783, frq: 789}
+resentfully <> R: {rk: 34525, frq: 107}
+resentment <> N: {rk: 5886, frq: 3963}
+reservation <> N: {rk: 3065, frq: 10898}
+reservationist <> N: {rk: 58348, frq: 22}
+reserve <> N: {rk: 3768, frq: 11045}, V: {rk: 4070, frq: 7270}, J: {rk: 5599, frq: 4636}
+reserved <> J: {rk: 9935, frq: 1803}
+reservist <> N: {rk: 14252, frq: 953}
+reservoir <> N: {rk: 5984, frq: 4043}
+reset <> V: {rk: 13196, frq: 1099}, J: {rk: 33184, frq: 175}
+resettle <> V: {rk: 17577, frq: 566}
+resettlement <> N: {rk: 16780, frq: 663}
+reshape <> V: {rk: 9585, frq: 1788}
+reshaped <> J: {rk: 55764, frq: 24}
+reshaping <> N: {rk: 33764, frq: 118}
+reshoot <> V: {rk: 42931, frq: 50}
+reshuffle <> V: {rk: 27214, frq: 201}, N: {rk: 44025, frq: 48}
+reshuffling <> N: {rk: 40688, frq: 61}
+reside <> V: {rk: 5342, frq: 4993}
+residence <> N: {rk: 3795, frq: 8158}
+residency <> N: {rk: 9573, frq: 1915}
+resident <> N: {rk: 1258, frq: 35492}, J: {rk: 6865, frq: 3158}
+residential <> J: {rk: 3858, frq: 8071}
+residentially <> R: {rk: 46865, frq: 38}
+residual <> J: {rk: 7930, frq: 2811}
+residuals <> N: {rk: 13916, frq: 1302}
+residue <> N: {rk: 7709, frq: 2657}
+residuum <> N: {rk: 42118, frq: 111}
+resign <> V: {rk: 3413, frq: 9472}
+resignation <> N: {rk: 5834, frq: 4102}
+resigned <> J: {rk: 18089, frq: 529}
+resignedly <> R: {rk: 35078, frq: 102}
+resilience <> N: {rk: 10838, frq: 1847}
+resiliency <> N: {rk: 21328, frq: 518}
+resilient <> J: {rk: 10897, frq: 1496}
+resin <> N: {rk: 12410, frq: 1181}
+resinous <> J: {rk: 40297, frq: 63}
+resist <> V: {rk: 2486, frq: 14293}
+resistance <> N: {rk: 2240, frq: 16774}
+resistant <> J: {rk: 6760, frq: 3212}
+resister <> N: {rk: 29828, frq: 163}
+resisting <> J: {rk: 45789, frq: 42}
+resistive <> J: {rk: 34945, frq: 113}
+resistivity <> N: {rk: 41573, frq: 83}
+resistor <> N: {rk: 31575, frq: 148}
+resize <> V: {rk: 32736, frq: 134}
+resolute <> J: {rk: 15545, frq: 710}
+resolutely <> R: {rk: 16227, frq: 667}
+resoluteness <> N: {rk: 53246, frq: 27}
+resolution <> N: {rk: 1978, frq: 19986}
+resolvable <> J: {rk: 41833, frq: 58}
+resolve <> V: {rk: 2256, frq: 16212}, N: {rk: 8700, frq: 2050}
+resolved <> J: {rk: 34988, frq: 103}
+resonance <> N: {rk: 8079, frq: 2483}
+resonant <> J: {rk: 14527, frq: 827}
+resonate <> V: {rk: 7994, frq: 2512}
+resonating <> J: {rk: 44431, frq: 46}
+resonator <> N: {rk: 32164, frq: 166}
+resorption <> N: {rk: 37440, frq: 92}
+resort <> N: {rk: 2700, frq: 13418}, V: {rk: 7999, frq: 2397}
+resound <> V: {rk: 20158, frq: 412}
+resounding <> J: {rk: 16002, frq: 665}
+resoundingly <> R: {rk: 33490, frq: 116}
+resource <> N: {rk: 769, frq: 57586}
+resourceful <> J: {rk: 15134, frq: 751}
+resourcefulness <> N: {rk: 23330, frq: 332}
+respect <> N: {rk: 1559, frq: 24947}, V: {rk: 2829, frq: 12024}, I: {rk: 4300, frq: 7089}
+respectability <> N: {rk: 15540, frq: 725}
+respectable <> J: {rk: 7474, frq: 2682}
+respectably <> R: {rk: 35958, frq: 87}
+respected <> J: {rk: 6666, frq: 3229}
+respecter <> N: {rk: 45044, frq: 44}
+respectful <> J: {rk: 8529, frq: 2201}
+respectfully <> R: {rk: 12773, frq: 1061}
+respecting <> I: {rk: 15082, frq: 809}
+respective <> J: {rk: 5959, frq: 4256}
+respectively <> R: {rk: 3754, frq: 8942}
+respirable <> J: {rk: 58184, frq: 41}
+respiration <> N: {rk: 18301, frq: 565}
+respirator <> N: {rk: 16924, frq: 681}
+respiratory <> J: {rk: 7606, frq: 2972}
+respire <> V: {rk: 50951, frq: 30}
+respite <> N: {rk: 13365, frq: 987}, V: {rk: 33188, frq: 126}
+resplendent <> J: {rk: 21864, frq: 355}
+resplendently <> R: {rk: 57428, frq: 21}
+respond <> V: {rk: 921, frq: 45600}
+respondent <> N: {rk: 2554, frq: 16380}
+responder <> N: {rk: 16539, frq: 768}
+response <> N: {rk: 725, frq: 61127}, I: {rk: 3704, frq: 8421}
+responsibility <> N: {rk: 1068, frq: 39790}
+responsible <> J: {rk: 1369, frq: 29575}
+responsibly <> R: {rk: 13847, frq: 921}
+responsive <> J: {rk: 7017, frq: 3074}
+responsively <> R: {rk: 55737, frq: 23}
+responsiveness <> N: {rk: 14433, frq: 955}
+rest <> N: {rk: 673, frq: 61439}, V: {rk: 1931, frq: 20347}
+restage <> V: {rk: 38453, frq: 74}
+restart <> V: {rk: 13427, frq: 1022}, N: {rk: 35205, frq: 119}
+restate <> V: {rk: 17462, frq: 572}
+restatement <> N: {rk: 27840, frq: 438}
+restaurant <> N: {rk: 1115, frq: 39551}
+restaurateur <> N: {rk: 16504, frq: 725}
+rested <> J: {rk: 36604, frq: 85}
+restenosis <> N: {rk: 59504, frq: 22}
+restful <> J: {rk: 20754, frq: 400}
+resting <> J: {rk: 12206, frq: 967}
+restitution <> N: {rk: 15634, frq: 715}
+restive <> J: {rk: 22842, frq: 326}
+restiveness <> N: {rk: 44769, frq: 48}
+restless <> J: {rk: 7423, frq: 2765}
+restlessly <> R: {rk: 21909, frq: 361}
+restlessness <> N: {rk: 17989, frq: 561}
+restock <> V: {rk: 24555, frq: 271}
+restocking <> N: {rk: 54852, frq: 26}
+restoration <> N: {rk: 5053, frq: 5503}
+restorationist <> N: {rk: 54873, frq: 46}
+restorative <> J: {rk: 19326, frq: 518}, N: {rk: 40114, frq: 67}
+restore <> V: {rk: 2559, frq: 13836}
+restored <> J: {rk: 11480, frq: 1304}
+restorer <> N: {rk: 26039, frq: 245}
+restoring <> J: {rk: 14170, frq: 896}
+restrain <> V: {rk: 6925, frq: 2979}
+restrained <> J: {rk: 15315, frq: 742}
+restraining <> J: {rk: 15282, frq: 756}
+restraint <> N: {rk: 5479, frq: 4571}
+restrict <> V: {rk: 3565, frq: 8909}
+restricted <> J: {rk: 8993, frq: 1993}
+restriction <> N: {rk: 3146, frq: 10599}
+restrictive <> J: {rk: 8684, frq: 2184}
+restrictively <> R: {rk: 55978, frq: 24}
+restrictiveness <> N: {rk: 49426, frq: 74}
+restroom <> N: {rk: 12014, frq: 1274}
+restructure <> V: {rk: 8288, frq: 2284}
+restructured <> J: {rk: 29251, frq: 175}
+restructuring <> N: {rk: 7394, frq: 2790}
+restyle <> V: {rk: 41034, frq: 70}
+restyled <> J: {rk: 50139, frq: 32}
+resubmit <> V: {rk: 34136, frq: 104}
+result <> N: {rk: 354, frq: 123215}, V: {rk: 1362, frq: 31850}
+resultant <> J: {rk: 14570, frq: 903}
+resulting <> J: {rk: 5472, frq: 4805}
+resume <> V: {rk: 3810, frq: 7772}, N: {rk: 9984, frq: 1709}
+resumption <> N: {rk: 19198, frq: 463}
+resupply <> N: {rk: 29282, frq: 128}, J: {rk: 34762, frq: 100}
+resurface <> V: {rk: 14509, frq: 828}
+resurfacing <> N: {rk: 42392, frq: 73}
+resurgence <> N: {rk: 10604, frq: 1501}
+resurgent <> J: {rk: 21269, frq: 380}
+resurrect <> V: {rk: 10832, frq: 1405}
+resurrected <> J: {rk: 28195, frq: 234}
+resurrection <> N: {rk: 10461, frq: 2385}
+resurvey <> N: {rk: 57887, frq: 20}
+resuscitate <> V: {rk: 18448, frq: 511}
+resuscitation <> N: {rk: 21590, frq: 501}
+resveratrol <> N: {rk: 34327, frq: 149}
+ret <> V: {rk: 56776, frq: 25}
+retail <> J: {rk: 3502, frq: 9553}, V: {rk: 12517, frq: 1165}
+retailer <> N: {rk: 4552, frq: 6546}
+retailing <> N: {rk: 16820, frq: 645}
+retain <> V: {rk: 2741, frq: 12872}
+retained <> J: {rk: 30681, frq: 158}
+retainer <> N: {rk: 17972, frq: 572}
+retaining <> J: {rk: 26647, frq: 210}
+retake <> V: {rk: 17710, frq: 595}, N: {rk: 44933, frq: 50}
+retaliate <> V: {rk: 12361, frq: 1128}
+retaliation <> N: {rk: 8627, frq: 2156}
+retaliatory <> J: {rk: 20553, frq: 411}
+retard <> V: {rk: 17883, frq: 539}, N: {rk: 39150, frq: 84}
+retardant <> N: {rk: 30982, frq: 160}
+retardation <> N: {rk: 13733, frq: 992}
+retarded <> J: {rk: 10409, frq: 1523}
+retarget <> V: {rk: 57649, frq: 21}
+retch <> V: {rk: 25239, frq: 258}
+retching <> N: {rk: 54650, frq: 31}
+retell <> V: {rk: 20687, frq: 381}
+retelling <> N: {rk: 21066, frq: 383}
+retention <> N: {rk: 6636, frq: 3839}
+retentive <> J: {rk: 46636, frq: 41}
+retest <> V: {rk: 23387, frq: 298}, N: {rk: 30477, frq: 178}
+retesting <> N: {rk: 57908, frq: 26}
+rethink <> V: {rk: 7928, frq: 2503}, N: {rk: 37340, frq: 89}
+rethinking <> N: {rk: 23192, frq: 362}
+reticence <> N: {rk: 19092, frq: 493}
+reticent <> J: {rk: 17961, frq: 521}
+reticle <> N: {rk: 30648, frq: 201}
+reticular <> J: {rk: 42645, frq: 55}
+reticulated <> J: {rk: 53263, frq: 25}
+reticule <> N: {rk: 47805, frq: 47}
+reticulum <> N: {rk: 51621, frq: 46}
+retina <> N: {rk: 15327, frq: 904}
+retinal <> J: {rk: 21418, frq: 403}
+retinitis <> N: {rk: 37368, frq: 107}
+retinoid <> N: {rk: 38281, frq: 124}
+retinol <> N: {rk: 36127, frq: 136}
+retinopathy <> N: {rk: 37595, frq: 103}
+retinue <> N: {rk: 27364, frq: 202}
+retire <> V: {rk: 2315, frq: 16166}
+retired <> J: {rk: 3697, frq: 8643}
+retiree <> N: {rk: 7353, frq: 3021}
+retirement <> N: {rk: 2458, frq: 15172}
+retiring <> J: {rk: 16058, frq: 691}
+retitle <> V: {rk: 38598, frq: 68}
+retool <> V: {rk: 18183, frq: 540}
+retooled <> J: {rk: 47055, frq: 43}
+retooling <> N: {rk: 40339, frq: 65}
+retort <> V: {rk: 14330, frq: 869}, N: {rk: 20838, frq: 397}
+retouch <> V: {rk: 27620, frq: 199}, N: {rk: 47583, frq: 41}
+retrace <> V: {rk: 14182, frq: 856}
+retract <> V: {rk: 14395, frq: 857}
+retractable <> J: {rk: 22771, frq: 335}
+retracted <> J: {rk: 49616, frq: 31}
+retraction <> N: {rk: 23421, frq: 318}
+retractor <> N: {rk: 43596, frq: 58}
+retrain <> V: {rk: 15853, frq: 698}
+retraining <> N: {rk: 20252, frq: 410}
+retransmission <> N: {rk: 55023, frq: 31}
+retransmit <> V: {rk: 57433, frq: 20}
+retread <> N: {rk: 39056, frq: 74}
+retreat <> N: {rk: 4832, frq: 5838}, V: {rk: 5198, frq: 5036}
+retreating <> J: {rk: 20370, frq: 415}
+retrench <> V: {rk: 32083, frq: 137}
+retrenchment <> N: {rk: 24266, frq: 298}
+retrial <> N: {rk: 28325, frq: 186}
+retribution <> N: {rk: 11923, frq: 1274}
+retributive <> J: {rk: 35259, frq: 151}
+retrievable <> J: {rk: 41776, frq: 61}
+retrieval <> N: {rk: 14501, frq: 905}
+retrieve <> V: {rk: 5000, frq: 6275}
+retrieved <> J: {rk: 46135, frq: 41}
+retriever <> N: {rk: 15913, frq: 726}
+retro <> J: {rk: 14742, frq: 887}
+retroactive <> J: {rk: 20227, frq: 443}
+retroactively <> R: {rk: 24924, frq: 267}
+retroactivity <> N: {rk: 51172, frq: 35}
+retrofit <> V: {rk: 18803, frq: 521}, N: {rk: 23936, frq: 305}
+retrofitted <> J: {rk: 49813, frq: 33}
+retrofitting <> N: {rk: 44461, frq: 54}
+retrograde <> V: {rk: 39192, frq: 74}
+retrogression <> N: {rk: 49278, frq: 41}
+retrogressive <> J: {rk: 52189, frq: 29}
+retropharyngeal <> J: {rk: 44019, frq: 67}
+retrospect <> N: {rk: 8499, frq: 2140}
+retrospection <> N: {rk: 51957, frq: 31}
+retrospective <> J: {rk: 9224, frq: 1996}, N: {rk: 32194, frq: 133}
+retrospectively <> R: {rk: 25592, frq: 260}
+retroviral <> J: {rk: 55056, frq: 26}
+retrovirus <> N: {rk: 40329, frq: 66}
+retry <> V: {rk: 26686, frq: 223}
+retune <> V: {rk: 48695, frq: 38}
+return <> V: {rk: 472, frq: 88880}, N: {rk: 1243, frq: 33623}, J: {rk: 21476, frq: 352}
+returnable <> J: {rk: 43694, frq: 50}
+returned <> J: {rk: 27078, frq: 210}
+returnee <> N: {rk: 20756, frq: 438}
+returner <> N: {rk: 22761, frq: 381}
+returning <> J: {rk: 14696, frq: 855}, N: {rk: 28039, frq: 188}
+reunification <> N: {rk: 11870, frq: 1307}
+reunified <> J: {rk: 39093, frq: 78}
+reunify <> V: {rk: 31650, frq: 143}
+reunion <> N: {rk: 6146, frq: 3958}
+reunite <> V: {rk: 8897, frq: 2068}
+reunited <> J: {rk: 28997, frq: 172}
+reuptake <> N: {rk: 38953, frq: 81}
+reusable <> J: {rk: 19016, frq: 546}
+reuse <> V: {rk: 13361, frq: 1047}, N: {rk: 21001, frq: 417}
+rev <> V: {rk: 18132, frq: 571}
+revaluation <> N: {rk: 31346, frq: 149}
+revalue <> V: {rk: 39819, frq: 75}
+revamp <> V: {rk: 13562, frq: 984}, N: {rk: 39809, frq: 75}
+revamped <> J: {rk: 20066, frq: 456}
+revamping <> N: {rk: 36334, frq: 90}
+revanchist <> J: {rk: 57040, frq: 22}
+reveal <> V: {rk: 928, frq: 46286}, N: {rk: 50581, frq: 41}
+revealed <> J: {rk: 23910, frq: 291}
+revealing <> J: {rk: 9388, frq: 1809}
+revealingly <> R: {rk: 40834, frq: 63}
+reveille <> N: {rk: 36349, frq: 124}
+revel <> V: {rk: 10091, frq: 1645}
+revelation <> N: {rk: 4217, frq: 6994}
+revelational <> J: {rk: 57936, frq: 22}
+revelatory <> J: {rk: 23229, frq: 316}
+reveler <> N: {rk: 19586, frq: 469}
+reveller <> N: {rk: 56994, frq: 21}
+revelry <> N: {rk: 24591, frq: 260}
+revenant <> N: {rk: 51862, frq: 38}
+revenge <> N: {rk: 5338, frq: 4676}, V: {rk: 53830, frq: 26}
+revengeful <> J: {rk: 52675, frq: 26}
+revenue <> N: {rk: 1687, frq: 24225}
+reverb <> N: {rk: 38994, frq: 79}
+reverberant <> J: {rk: 53831, frq: 25}
+reverberate <> V: {rk: 12968, frq: 1048}
+reverberating <> J: {rk: 46597, frq: 39}
+reverberation <> N: {rk: 21563, frq: 346}
+revere <> V: {rk: 10922, frq: 1396}
+revered <> J: {rk: 17391, frq: 577}
+reverence <> N: {rk: 10576, frq: 1467}, V: {rk: 55961, frq: 23}
+reverend <> N: {rk: 5865, frq: 4392}, J: {rk: 17941, frq: 770}
+reverent <> J: {rk: 23290, frq: 295}
+reverential <> J: {rk: 31169, frq: 143}
+reverentially <> R: {rk: 43685, frq: 50}
+reverently <> R: {rk: 23380, frq: 308}
+reverie <> N: {rk: 14849, frq: 848}
+reversal <> N: {rk: 7345, frq: 2830}
+reverse <> V: {rk: 3521, frq: 8815}, J: {rk: 7405, frq: 2772}, N: {rk: 7527, frq: 2625}
+reversed <> J: {rk: 29701, frq: 164}
+reverser <> N: {rk: 47627, frq: 59}
+reversibility <> N: {rk: 36374, frq: 100}
+reversible <> J: {rk: 17977, frq: 566}
+reversing <> N: {rk: 52454, frq: 34}
+reversion <> N: {rk: 28117, frq: 189}
+revert <> V: {rk: 10297, frq: 1541}
+revery <> N: {rk: 54115, frq: 25}
+revetment <> N: {rk: 46340, frq: 48}
+review <> N: {rk: 1388, frq: 32190}, V: {rk: 2100, frq: 18393}
+reviewable <> J: {rk: 47598, frq: 43}
+reviewed <> J: {rk: 47155, frq: 47}
+reviewer <> N: {rk: 8435, frq: 2362}
+reviewing <> N: {rk: 25668, frq: 239}
+revile <> V: {rk: 20446, frq: 397}
+reviled <> J: {rk: 39693, frq: 72}
+revise <> V: {rk: 5904, frq: 4292}
+revised <> J: {rk: 8087, frq: 2551}
+revision <> N: {rk: 6073, frq: 4215}
+revisionary <> J: {rk: 44572, frq: 50}
+revisionism <> N: {rk: 25883, frq: 240}
+revisionist <> N: {rk: 14309, frq: 915}, J: {rk: 51737, frq: 34}
+revisit <> V: {rk: 8076, frq: 2513}
+revitalization <> N: {rk: 15106, frq: 805}
+revitalize <> V: {rk: 10850, frq: 1430}
+revitalized <> J: {rk: 26956, frq: 203}
+revitalizing <> J: {rk: 56662, frq: 22}
+revival <> N: {rk: 5477, frq: 4650}
+revivalism <> N: {rk: 36411, frq: 98}
+revivalist <> J: {rk: 33251, frq: 117}, N: {rk: 35272, frq: 111}
+revive <> V: {rk: 5336, frq: 4780}
+revived <> J: {rk: 20776, frq: 383}
+revivify <> V: {rk: 42997, frq: 51}
+reviving <> J: {rk: 48040, frq: 37}
+revocable <> J: {rk: 43020, frq: 51}
+revocation <> N: {rk: 27139, frq: 212}
+revoke <> V: {rk: 12953, frq: 1088}
+revoked <> J: {rk: 56687, frq: 22}
+revolt <> N: {rk: 9140, frq: 2045}, V: {rk: 19883, frq: 429}
+revolted <> J: {rk: 47882, frq: 34}
+revolting <> J: {rk: 22491, frq: 316}
+revolution <> N: {rk: 2770, frq: 18124}
+revolutionary <> J: {rk: 4045, frq: 7421}, N: {rk: 15541, frq: 754}
+revolutionist <> N: {rk: 47816, frq: 38}
+revolutionize <> V: {rk: 11306, frq: 1326}
+revolutionized <> J: {rk: 53564, frq: 24}
+revolve <> V: {rk: 7516, frq: 2635}
+revolver <> N: {rk: 11314, frq: 1399}
+revolving <> J: {rk: 12883, frq: 1033}
+revote <> N: {rk: 47013, frq: 61}
+revue <> N: {rk: 21962, frq: 566}
+revulsion <> N: {rk: 16422, frq: 666}
+reward <> N: {rk: 3415, frq: 9377}, V: {rk: 4477, frq: 6183}
+rewarding <> J: {rk: 9519, frq: 1832}
+rewarm <> V: {rk: 52602, frq: 37}
+rewind <> V: {rk: 21410, frq: 356}, N: {rk: 38760, frq: 74}
+rewire <> V: {rk: 26618, frq: 227}
+reword <> V: {rk: 45241, frq: 51}
+rework <> V: {rk: 13942, frq: 892}
+reworked <> J: {rk: 48603, frq: 38}
+reworking <> N: {rk: 27163, frq: 205}
+rewritable <> J: {rk: 42356, frq: 79}
+rewrite <> V: {rk: 7762, frq: 2566}
+rewriting <> N: {rk: 27973, frq: 211}
+rezoning <> N: {rk: 30916, frq: 172}, J: {rk: 38206, frq: 97}
+rhabdomyosarcoma <> N: {rk: 45379, frq: 82}
+rhapsodic <> J: {rk: 34944, frq: 96}
+rhapsodize <> V: {rk: 31691, frq: 131}
+rhapsody <> N: {rk: 28608, frq: 265}
+rheostat <> N: {rk: 54383, frq: 29}
+rhesus <> N: {rk: 32466, frq: 146}
+rhetoric <> N: {rk: 3741, frq: 8385}
+rhetorical <> J: {rk: 7618, frq: 2912}
+rhetorically <> R: {rk: 17607, frq: 564}
+rhetorician <> N: {rk: 36764, frq: 92}
+rheumatic <> J: {rk: 31751, frq: 154}
+rheumatism <> N: {rk: 32069, frq: 126}
+rheumatoid <> J: {rk: 18886, frq: 549}
+rheumatologist <> N: {rk: 33984, frq: 119}
+rheumatology <> N: {rk: 40905, frq: 116}
+rheumy <> J: {rk: 42758, frq: 62}
+rhinestone <> N: {rk: 21697, frq: 398}
+rhinitis <> N: {rk: 31340, frq: 199}
+rhino <> N: {rk: 17231, frq: 904}
+rhinoceros <> N: {rk: 24359, frq: 278}
+rhinoplasty <> N: {rk: 36999, frq: 107}
+rhinorrhea <> N: {rk: 49983, frq: 46}
+rhinovirus <> N: {rk: 57467, frq: 26}
+rhizomatous <> J: {rk: 59165, frq: 20}
+rhizome <> N: {rk: 27141, frq: 224}
+rho <> N: {rk: 27304, frq: 230}
+rhodesian <> J: {rk: 35356, frq: 127}, N: {rk: 59368, frq: 34}
+rhodium <> N: {rk: 54868, frq: 25}
+rhododendron <> N: {rk: 18799, frq: 549}
+rhodopsin <> N: {rk: 58944, frq: 32}
+rhomboid <> N: {rk: 46396, frq: 46}
+rhubarb <> N: {rk: 17266, frq: 682}
+rhumba <> N: {rk: 54503, frq: 28}
+rhyme <> N: {rk: 10442, frq: 1544}, V: {rk: 14799, frq: 792}
+rhymed <> J: {rk: 44959, frq: 51}
+rhyming <> J: {rk: 25839, frq: 227}, N: {rk: 35544, frq: 95}
+rhythm <> N: {rk: 3301, frq: 9637}
+rhythmic <> J: {rk: 8928, frq: 2042}
+rhythmical <> J: {rk: 36559, frq: 85}
+rhythmically <> R: {rk: 19462, frq: 448}
+rib <> N: {rk: 4611, frq: 6349}, V: {rk: 39079, frq: 72}
+rib-eye <> J: {rk: 44173, frq: 50}
+ribald <> J: {rk: 30549, frq: 140}
+ribavirin <> N: {rk: 52029, frq: 40}
+ribbed <> J: {rk: 23527, frq: 299}
+ribbing <> N: {rk: 28481, frq: 179}
+ribbon <> N: {rk: 4885, frq: 5654}
+ribboned <> J: {rk: 40983, frq: 65}
+riboflavin <> N: {rk: 34473, frq: 115}
+ribose <> N: {rk: 49310, frq: 67}
+ribosomal <> J: {rk: 49114, frq: 50}
+ribosome <> N: {rk: 59419, frq: 18}
+ribozyme <> N: {rk: 45069, frq: 87}
+rice <> N: {rk: 2757, frq: 19581}
+ricer <> N: {rk: 50503, frq: 33}
+rich <> J: {rk: 1076, frq: 38766}
+riches <> N: {rk: 9767, frq: 1697}
+richly <> R: {rk: 11413, frq: 1314}
+richness <> N: {rk: 9451, frq: 1956}
+ricin <> N: {rk: 35283, frq: 142}
+rickets <> N: {rk: 35540, frq: 102}
+rickety <> J: {rk: 14876, frq: 841}
+rickshaw <> N: {rk: 24735, frq: 319}
+ricochet <> V: {rk: 18838, frq: 503}, N: {rk: 29352, frq: 165}
+ricocheting <> J: {rk: 56931, frq: 19}
+ricotta <> N: {rk: 18199, frq: 831}
+rictus <> N: {rk: 41711, frq: 62}
+rid <> V: {rk: 3060, frq: 10956}
+riddance <> N: {rk: 25617, frq: 240}
+riddle <> N: {rk: 12035, frq: 1400}, V: {rk: 13193, frq: 992}
+riddled <> J: {rk: 47565, frq: 40}
+ride <> V: {rk: 1287, frq: 32631}, N: {rk: 2056, frq: 19093}
+rider <> N: {rk: 3854, frq: 8355}
+riderless <> J: {rk: 41191, frq: 60}
+ridership <> N: {rk: 23915, frq: 296}
+ridge <> N: {rk: 4900, frq: 10201}
+ridged <> J: {rk: 27200, frq: 216}
+ridgeline <> N: {rk: 24559, frq: 308}
+ridgepole <> N: {rk: 58701, frq: 25}
+ridgetop <> N: {rk: 30286, frq: 169}
+ridicule <> V: {rk: 10284, frq: 1528}, N: {rk: 15202, frq: 776}
+ridiculed <> J: {rk: 35468, frq: 89}
+ridiculous <> J: {rk: 4075, frq: 7356}
+ridiculously <> R: {rk: 15665, frq: 753}
+ridiculousness <> N: {rk: 40746, frq: 68}
+riding <> N: {rk: 11550, frq: 1756}
+rifampin <> N: {rk: 52420, frq: 46}
+rife <> J: {rk: 14520, frq: 830}
+riff <> N: {rk: 16385, frq: 784}, V: {rk: 27090, frq: 228}
+riffle <> V: {rk: 27460, frq: 228}, N: {rk: 29116, frq: 185}
+riffraff <> N: {rk: 33458, frq: 114}
+rifle <> N: {rk: 3084, frq: 11147}, V: {rk: 18918, frq: 507}
+rifled <> J: {rk: 40162, frq: 80}
+rifleman <> N: {rk: 34667, frq: 123}
+riflery <> N: {rk: 47046, frq: 45}
+riflescope <> N: {rk: 52911, frq: 35}
+rifling <> N: {rk: 50694, frq: 45}
+rift <> N: {rk: 10718, frq: 1485}
+rig <> N: {rk: 8438, frq: 2651}, V: {rk: 8988, frq: 2011}
+rigatoni <> N: {rk: 35930, frq: 105}
+rigged <> J: {rk: 34110, frq: 113}
+rigger <> N: {rk: 28505, frq: 205}
+rigging <> N: {rk: 20101, frq: 442}
+right <> R: {rk: 193, frq: 251114}, N: {rk: 239, frq: 155604}, J: {rk: 317, frq: 136837}, V: {rk: 15434, frq: 759}
+right-angled <> J: {rk: 52524, frq: 28}
+right-hand <> J: {rk: 12314, frq: 1105}
+right-handed <> J: {rk: 20480, frq: 429}, R: {rk: 26260, frq: 239}
+right-hander <> N: {rk: 21296, frq: 440}
+right-minded <> J: {rk: 56647, frq: 20}
+right-thinking <> J: {rk: 41934, frq: 53}
+right-to-life <> J: {rk: 31781, frq: 136}
+right-to-lifer <> N: {rk: 48333, frq: 40}
+right-to-work <> J: {rk: 44351, frq: 60}
+right-winger <> N: {rk: 25701, frq: 248}
+righteous <> J: {rk: 11118, frq: 1354}
+righteously <> R: {rk: 36917, frq: 82}
+righteousness <> N: {rk: 15902, frq: 707}
+rightfield <> N: {rk: 46797, frq: 45}
+rightful <> J: {rk: 13478, frq: 971}
+rightfully <> R: {rk: 15405, frq: 713}
+rightist <> N: {rk: 22503, frq: 333}
+rightly <> R: {rk: 7765, frq: 2565}
+rightmost <> J: {rk: 51832, frq: 32}
+rightness <> N: {rk: 23424, frq: 286}
+rightward <> J: {rk: 40732, frq: 62}, R: {rk: 45863, frq: 40}
+rigid <> J: {rk: 5532, frq: 4409}
+rigidity <> N: {rk: 15344, frq: 766}
+rigidly <> R: {rk: 16787, frq: 617}
+rigmarole <> N: {rk: 40753, frq: 60}
+rigor <> N: {rk: 10051, frq: 1666}
+rigorous <> J: {rk: 6701, frq: 3310}
+rigorously <> R: {rk: 16147, frq: 679}
+rile <> V: {rk: 17810, frq: 563}
+riled <> J: {rk: 53916, frq: 25}
+rill <> N: {rk: 38622, frq: 88}
+rille <> N: {rk: 59798, frq: 25}
+rim <> N: {rk: 4646, frq: 6093}, V: {rk: 18979, frq: 494}
+rime <> N: {rk: 23396, frq: 397}
+rimless <> J: {rk: 32763, frq: 129}
+rimmed <> J: {rk: 31804, frq: 200}
+rimrock <> N: {rk: 49870, frq: 60}
+rind <> N: {rk: 12548, frq: 1231}
+rinderpest <> N: {rk: 45161, frq: 67}
+ring <> N: {rk: 1684, frq: 23711}, V: {rk: 2392, frq: 16050}
+ringed <> J: {rk: 30926, frq: 153}
+ringer <> N: {rk: 19939, frq: 524}
+ringing <> N: {rk: 10305, frq: 1706}
+ringleader <> N: {rk: 21787, frq: 355}
+ringless <> J: {rk: 50169, frq: 33}
+ringlet <> N: {rk: 25727, frq: 256}
+ringmaster <> N: {rk: 32670, frq: 138}
+ringside <> N: {rk: 26167, frq: 228}
+ringworm <> N: {rk: 45873, frq: 51}
+rink <> N: {rk: 10830, frq: 1493}
+rinky-dink <> J: {rk: 44681, frq: 45}
+rinse <> V: {rk: 7132, frq: 3230}, N: {rk: 19657, frq: 482}
+rinsed <> J: {rk: 18051, frq: 686}
+rinsing <> N: {rk: 56345, frq: 29}
+riot <> N: {rk: 4895, frq: 5500}, V: {rk: 21118, frq: 374}
+rioter <> N: {rk: 22779, frq: 322}
+rioting <> N: {rk: 17636, frq: 576}
+riotous <> J: {rk: 26015, frq: 232}
+riotously <> R: {rk: 45745, frq: 44}
+rip <> V: {rk: 3598, frq: 8858}, N: {rk: 15510, frq: 1544}
+rip-off <> N: {rk: 21364, frq: 309}
+rip-roaring <> J: {rk: 45402, frq: 47}
+riparian <> J: {rk: 18653, frq: 565}, N: {rk: 42680, frq: 79}
+ripcord <> N: {rk: 54068, frq: 33}
+ripe <> J: {rk: 6147, frq: 3872}
+ripen <> V: {rk: 15299, frq: 772}
+ripened <> J: {rk: 48854, frq: 35}
+ripeness <> N: {rk: 31365, frq: 157}
+ripening <> J: {rk: 25896, frq: 234}
+riposte <> N: {rk: 36107, frq: 89}
+ripped <> J: {rk: 18894, frq: 501}
+ripper <> N: {rk: 25682, frq: 282}
+ripping <> J: {rk: 30625, frq: 151}
+ripple <> N: {rk: 8273, frq: 2323}, V: {rk: 12592, frq: 1199}
+rippled <> J: {rk: 35305, frq: 100}
+rippling <> J: {rk: 18052, frq: 568}
+riprap <> N: {rk: 44868, frq: 48}
+riptide <> N: {rk: 40017, frq: 78}
+rise <> V: {rk: 727, frq: 58380}, N: {rk: 1970, frq: 19602}
+risen <> J: {rk: 25985, frq: 295}
+riser <> N: {rk: 18669, frq: 571}
+risible <> J: {rk: 42674, frq: 58}
+rising <> J: {rk: 5396, frq: 4664}, N: {rk: 17313, frq: 601}
+risk <> N: {rk: 650, frq: 66531}, V: {rk: 3182, frq: 10262}
+riskiness <> N: {rk: 44321, frq: 55}
+riskless <> J: {rk: 57330, frq: 25}
+risky <> J: {rk: 4535, frq: 6114}
+risotto <> N: {rk: 16997, frq: 802}
+risque <> J: {rk: 27317, frq: 196}
+rite <> N: {rk: 6603, frq: 3378}
+ritual <> N: {rk: 3427, frq: 9490}, J: {rk: 6533, frq: 3638}
+ritualistic <> J: {rk: 22558, frq: 320}
+ritualistically <> R: {rk: 45812, frq: 41}
+ritualization <> N: {rk: 55523, frq: 25}
+ritualize <> V: {rk: 51925, frq: 30}
+ritualized <> J: {rk: 25237, frq: 252}
+ritually <> R: {rk: 24273, frq: 294}
+ritzy <> J: {rk: 26635, frq: 212}
+rival <> N: {rk: 4384, frq: 6452}, J: {rk: 6697, frq: 3253}, V: {rk: 8731, frq: 2130}
+rivalrous <> J: {rk: 53222, frq: 37}
+rivalry <> N: {rk: 6692, frq: 3279}
+rive <> V: {rk: 35087, frq: 116}
+riven <> J: {rk: 51514, frq: 31}
+river <> N: {rk: 1331, frq: 56742}
+riverbank <> N: {rk: 15307, frq: 796}
+riverbed <> N: {rk: 20146, frq: 860}
+riverboat <> N: {rk: 17986, frq: 616}
+riverfront <> N: {rk: 25396, frq: 377}
+riverine <> J: {rk: 26899, frq: 233}
+riverway <> N: {rk: 49803, frq: 51}
+rivet <> V: {rk: 14922, frq: 783}, N: {rk: 21870, frq: 362}
+riveted <> J: {rk: 45042, frq: 44}
+riveter <> N: {rk: 58481, frq: 65}
+riveting <> J: {rk: 16462, frq: 674}
+rivulet <> N: {rk: 22365, frq: 345}
+roach <> N: {rk: 15833, frq: 1401}
+road <> N: {rk: 489, frq: 87528}
+roadbed <> N: {rk: 31196, frq: 146}
+roadblock <> N: {rk: 11662, frq: 1232}
+roadhouse <> N: {rk: 27784, frq: 235}
+roadie <> N: {rk: 26454, frq: 346}
+roadkill <> N: {rk: 35814, frq: 127}
+roadless <> J: {rk: 27590, frq: 224}
+roadmap <> N: {rk: 29830, frq: 265}
+roadrunner <> N: {rk: 33312, frq: 150}
+roadshow <> N: {rk: 31675, frq: 151}
+roadside <> N: {rk: 7561, frq: 2735}
+roadster <> N: {rk: 22656, frq: 391}
+roadway <> N: {rk: 10952, frq: 1419}
+roadwork <> N: {rk: 45195, frq: 47}
+roam <> V: {rk: 6257, frq: 3628}, N: {rk: 35222, frq: 105}
+roamer <> N: {rk: 53782, frq: 32}
+roan <> N: {rk: 32389, frq: 165}, J: {rk: 38987, frq: 75}
+roar <> V: {rk: 5333, frq: 4997}, N: {rk: 7069, frq: 3142}
+roaring <> J: {rk: 15059, frq: 791}, N: {rk: 25047, frq: 261}
+roast <> V: {rk: 7813, frq: 2790}, N: {rk: 10703, frq: 1582}, J: {rk: 10704, frq: 1554}
+roasted <> J: {rk: 7955, frq: 2853}
+roaster <> N: {rk: 28614, frq: 190}
+roasting <> J: {rk: 13074, frq: 1172}
+rob <> V: {rk: 5123, frq: 5135}
+robber <> N: {rk: 9771, frq: 1830}
+robbery <> N: {rk: 6091, frq: 3874}
+robbing <> N: {rk: 47152, frq: 50}
+robe <> N: {rk: 5299, frq: 5224}, V: {rk: 36430, frq: 90}
+robed <> J: {rk: 34865, frq: 100}
+robot <> N: {rk: 4564, frq: 6897}
+robotic <> J: {rk: 10352, frq: 1679}
+robotics <> N: {rk: 17631, frq: 818}
+robust <> J: {rk: 6508, frq: 3723}
+robusta <> N: {rk: 53451, frq: 32}
+robustly <> R: {rk: 34124, frq: 122}
+robustness <> N: {rk: 26388, frq: 279}
+rock <> N: {rk: 870, frq: 52101}, V: {rk: 4197, frq: 7107}
+rock-bottom <> J: {rk: 27230, frq: 211}
+rock-hard <> J: {rk: 27895, frq: 183}
+rock-like <> J: {rk: 49472, frq: 34}
+rock-ribbed <> J: {rk: 45372, frq: 43}
+rock-solid <> J: {rk: 23046, frq: 320}
+rock-steady <> J: {rk: 48077, frq: 36}
+rockabilly <> N: {rk: 37425, frq: 72}, J: {rk: 38874, frq: 76}
+rocker <> N: {rk: 9348, frq: 2162}
+rocket <> N: {rk: 4126, frq: 11006}, V: {rk: 16118, frq: 696}
+rocketeer <> N: {rk: 49409, frq: 55}
+rocketry <> N: {rk: 39622, frq: 89}
+rocketship <> N: {rk: 49761, frq: 39}
+rockface <> N: {rk: 58838, frq: 22}
+rockfall <> N: {rk: 50239, frq: 35}
+rockfish <> N: {rk: 19837, frq: 758}
+rocking <> J: {rk: 13238, frq: 1001}, N: {rk: 38405, frq: 77}
+rockslide <> N: {rk: 44605, frq: 49}
+rocky <> J: {rk: 5612, frq: 4465}
+rococo <> J: {rk: 28666, frq: 184}, N: {rk: 39231, frq: 81}
+rod <> N: {rk: 4619, frq: 9398}
+rodent <> N: {rk: 10211, frq: 1697}
+rodeo <> N: {rk: 11704, frq: 1962}
+rogue <> N: {rk: 8766, frq: 2262}, J: {rk: 27419, frq: 205}
+roguish <> J: {rk: 34856, frq: 102}
+roil <> V: {rk: 16640, frq: 669}
+roiling <> J: {rk: 27267, frq: 208}, N: {rk: 47096, frq: 39}
+roily <> R: {rk: 59269, frq: 19}
+role <> N: {rk: 451, frq: 95826}
+role-play <> N: {rk: 37195, frq: 92}, J: {rk: 38376, frq: 89}
+roll <> V: {rk: 1253, frq: 34548}, N: {rk: 2541, frq: 14186}
+roll-call <> N: {rk: 38696, frq: 79}
+roll-off <> J: {rk: 38569, frq: 82}
+roll-on <> N: {rk: 49439, frq: 37}
+roll-up <> N: {rk: 29252, frq: 190}
+rollback <> N: {rk: 21935, frq: 368}
+rolled <> J: {rk: 18605, frq: 507}
+roller <> N: {rk: 6243, frq: 3736}
+roller-skating <> J: {rk: 49581, frq: 31}
+rollerblader <> N: {rk: 47482, frq: 39}
+rollicking <> J: {rk: 25564, frq: 248}
+rolling <> J: {rk: 4336, frq: 6624}, N: {rk: 33059, frq: 163}
+rollout <> N: {rk: 22825, frq: 341}
+rollover <> N: {rk: 18745, frq: 517}
+roly-poly <> J: {rk: 42705, frq: 54}, N: {rk: 57038, frq: 23}
+romaine <> N: {rk: 24945, frq: 387}
+romance <> N: {rk: 4047, frq: 7279}, J: {rk: 23834, frq: 309}, V: {rk: 28059, frq: 195}
+romantic <> J: {rk: 3154, frq: 10404}, N: {rk: 23314, frq: 298}
+romantically <> R: {rk: 19484, frq: 443}
+romanticism <> N: {rk: 19807, frq: 699}
+romanticist <> N: {rk: 54040, frq: 28}
+romanticization <> N: {rk: 47440, frq: 42}
+romanticize <> V: {rk: 18808, frq: 488}
+romanticized <> J: {rk: 29499, frq: 170}
+romp <> N: {rk: 20415, frq: 450}, V: {rk: 21155, frq: 376}
+romper <> N: {rk: 43631, frq: 76}
+rood <> N: {rk: 38966, frq: 73}
+roof <> N: {rk: 2148, frq: 17827}, V: {rk: 27543, frq: 191}
+roofer <> N: {rk: 29458, frq: 175}
+roofing <> N: {rk: 16300, frq: 693}
+roofless <> J: {rk: 35617, frq: 91}
+roofline <> N: {rk: 31271, frq: 142}
+rooftop <> N: {rk: 8747, frq: 2313}
+rook <> V: {rk: 49608, frq: 38}
+rookery <> N: {rk: 31005, frq: 155}
+rookie <> N: {rk: 5317, frq: 6808}
+room <> N: {rk: 227, frq: 185952}, V: {rk: 21040, frq: 377}
+roomful <> N: {rk: 21047, frq: 376}
+roomie <> N: {rk: 40861, frq: 67}
+roominess <> N: {rk: 40001, frq: 68}
+rooming <> J: {rk: 28686, frq: 179}
+roommate <> N: {rk: 6979, frq: 3106}
+roomy <> J: {rk: 13488, frq: 1027}
+roost <> V: {rk: 16979, frq: 625}, N: {rk: 19511, frq: 489}
+roosted <> J: {rk: 54463, frq: 29}
+rooster <> N: {rk: 11873, frq: 1408}
+roosting <> J: {rk: 50488, frq: 30}
+root <> N: {rk: 1743, frq: 22449}, V: {rk: 4200, frq: 6840}
+root-knot <> J: {rk: 59286, frq: 20}
+rooted <> J: {rk: 19382, frq: 457}
+rootedness <> N: {rk: 33814, frq: 123}
+rooter <> N: {rk: 50045, frq: 35}
+rooting <> J: {rk: 36902, frq: 83}, N: {rk: 47910, frq: 42}
+rootless <> J: {rk: 31322, frq: 131}
+rootlessness <> N: {rk: 45596, frq: 44}
+rootlet <> N: {rk: 51108, frq: 28}
+rootstock <> N: {rk: 30744, frq: 176}
+rootsy <> J: {rk: 50487, frq: 35}
+rootworm <> N: {rk: 52591, frq: 52}
+rooty <> J: {rk: 56643, frq: 21}
+rope <> N: {rk: 3330, frq: 10098}, V: {rk: 17655, frq: 583}
+rope-a-dope <> N: {rk: 55969, frq: 29}
+roped <> J: {rk: 47090, frq: 39}
+ropey <> J: {rk: 55221, frq: 21}
+roping <> N: {rk: 54630, frq: 51}
+ropy <> J: {rk: 37155, frq: 86}
+rosacea <> N: {rk: 50698, frq: 46}
+rosary <> N: {rk: 14780, frq: 831}
+rose <> J: {rk: 25452, frq: 240}
+rose-tinted <> J: {rk: 47538, frq: 37}
+roseate <> J: {rk: 36512, frq: 88}
+rosebush <> N: {rk: 28448, frq: 200}
+rosette <> N: {rk: 22074, frq: 400}
+rosewood <> N: {rk: 25569, frq: 379}
+rosin <> N: {rk: 40956, frq: 118}
+roster <> N: {rk: 6565, frq: 3739}
+rostrum <> N: {rk: 37027, frq: 82}
+rosy <> J: {rk: 10342, frq: 1543}
+rot <> V: {rk: 9817, frq: 1736}, N: {rk: 14051, frq: 916}
+rota <> N: {rk: 37041, frq: 97}
+rotary <> J: {rk: 12963, frq: 1031}, N: {rk: 36578, frq: 85}
+rotatable <> J: {rk: 51622, frq: 31}
+rotate <> V: {rk: 5546, frq: 4535}
+rotated <> J: {rk: 53045, frq: 37}
+rotating <> J: {rk: 15191, frq: 771}, N: {rk: 45976, frq: 59}
+rotation <> N: {rk: 5288, frq: 4990}
+rotational <> J: {rk: 22145, frq: 352}
+rotator <> N: {rk: 24921, frq: 259}
+rotavirus <> N: {rk: 43623, frq: 135}
+rote <> N: {rk: 17696, frq: 600}
+rotgut <> N: {rk: 54187, frq: 23}
+rotifer <> N: {rk: 46540, frq: 57}
+rotisserie <> N: {rk: 27584, frq: 287}
+rotor <> N: {rk: 12724, frq: 1169}
+rotorcraft <> N: {rk: 58460, frq: 23}
+rototiller <> N: {rk: 48387, frq: 39}
+rotted <> J: {rk: 25639, frq: 270}
+rotten <> J: {rk: 8540, frq: 2225}
+rottenness <> N: {rk: 56865, frq: 22}
+rotting <> J: {rk: 13712, frq: 965}, N: {rk: 32027, frq: 129}
+rottweiler <> N: {rk: 25500, frq: 242}
+rotund <> J: {rk: 27063, frq: 215}
+rotunda <> N: {rk: 20507, frq: 612}
+rouge <> V: {rk: 41296, frq: 63}
+rouged <> J: {rk: 51076, frq: 32}
+rough <> J: {rk: 2643, frq: 13317}, V: {rk: 14132, frq: 877}, R: {rk: 55382, frq: 23}, N: {rk: 57102, frq: 21}
+rough-and-tumble <> N: {rk: 23717, frq: 278}
+rough-hewn <> J: {rk: 23997, frq: 294}
+roughage <> N: {rk: 46371, frq: 42}
+roughen <> V: {rk: 38210, frq: 74}
+roughened <> J: {rk: 56872, frq: 21}
+roughhouse <> N: {rk: 49081, frq: 35}
+roughly <> R: {rk: 2673, frq: 13401}
+roughneck <> N: {rk: 33364, frq: 137}
+roughness <> N: {rk: 22793, frq: 338}
+roughshod <> R: {rk: 28907, frq: 175}
+rouille <> N: {rk: 59688, frq: 33}
+roulade <> N: {rk: 53864, frq: 38}
+roulette <> N: {rk: 18282, frq: 565}
+round <> N: {rk: 2387, frq: 16419}, J: {rk: 2956, frq: 11622}, V: {rk: 4757, frq: 5648}, R: {rk: 5620, frq: 4550}
+round-shouldered <> J: {rk: 52396, frq: 26}
+round-the-clock <> J: {rk: 20925, frq: 388}
+round-trip <> J: {rk: 17471, frq: 590}, N: {rk: 23455, frq: 318}
+roundabout <> J: {rk: 23333, frq: 302}, N: {rk: 27323, frq: 250}
+rounded <> J: {rk: 10146, frq: 1638}
+roundel <> N: {rk: 52377, frq: 42}
+rounder <> N: {rk: 49115, frq: 73}
+rounders <> N: {rk: 47474, frq: 42}
+roundhouse <> N: {rk: 29121, frq: 194}
+rounding <> J: {rk: 32101, frq: 195}
+roundish <> J: {rk: 41936, frq: 57}
+roundly <> R: {rk: 20835, frq: 391}
+roundness <> N: {rk: 26343, frq: 223}
+roundtable <> N: {rk: 14926, frq: 1552}
+roundup <> N: {rk: 15463, frq: 889}
+roundworm <> N: {rk: 37588, frq: 83}
+rouse <> V: {rk: 11197, frq: 1413}
+rouser <> N: {rk: 53447, frq: 29}
+rousing <> J: {rk: 17012, frq: 610}
+roust <> V: {rk: 31163, frq: 141}
+roustabout <> N: {rk: 43704, frq: 56}
+rout <> V: {rk: 12179, frq: 1166}, N: {rk: 17208, frq: 654}
+route <> N: {rk: 1956, frq: 19811}, V: {rk: 47283, frq: 38}
+routed <> J: {rk: 57006, frq: 21}
+router <> N: {rk: 16482, frq: 816}
+routine <> N: {rk: 2601, frq: 13575}, J: {rk: 11071, frq: 1365}
+routinely <> R: {rk: 4771, frq: 5639}
+routing <> N: {rk: 22824, frq: 327}
+routinization <> N: {rk: 49238, frq: 42}
+routinized <> J: {rk: 49778, frq: 33}
+roux <> N: {rk: 24098, frq: 378}
+rove <> V: {rk: 8651, frq: 2642}
+rover <> N: {rk: 10648, frq: 2691}
+roving <> J: {rk: 17216, frq: 592}
+row <> N: {rk: 1853, frq: 21074}, V: {rk: 10064, frq: 1659}
+rowan <> J: {rk: 47081, frq: 45}
+rowboat <> N: {rk: 20959, frq: 408}
+rowdiness <> N: {rk: 47968, frq: 40}
+rowdy <> J: {rk: 15218, frq: 786}
+rower <> N: {rk: 24568, frq: 301}
+rowing <> N: {rk: 14022, frq: 923}
+royal <> J: {rk: 4344, frq: 12726}, N: {rk: 21391, frq: 1367}
+royalist <> N: {rk: 28349, frq: 204}
+royally <> R: {rk: 28847, frq: 171}
+royalty <> N: {rk: 7013, frq: 3034}
+rub <> V: {rk: 2892, frq: 12748}, N: {rk: 14620, frq: 912}
+rubato <> N: {rk: 50506, frq: 32}
+rubber <> J: {rk: 4836, frq: 5598}, N: {rk: 8674, frq: 2115}
+rubberized <> J: {rk: 37102, frq: 88}
+rubberneck <> N: {rk: 57407, frq: 20}
+rubbernecker <> N: {rk: 54899, frq: 22}
+rubbery <> J: {rk: 19433, frq: 493}
+rubbing <> N: {rk: 27178, frq: 230}
+rubbish <> N: {rk: 15524, frq: 757}
+rubble <> N: {rk: 7681, frq: 2768}
+rubdown <> N: {rk: 37347, frq: 93}
+rubella <> N: {rk: 35978, frq: 104}
+rubidium <> N: {rk: 48192, frq: 40}
+rubric <> N: {rk: 13974, frq: 1065}
+rubrum <> J: {rk: 50734, frq: 44}
+ruby <> J: {rk: 44404, frq: 51}
+ruched <> J: {rk: 45701, frq: 48}
+ruck <> V: {rk: 53806, frq: 25}, N: {rk: 55349, frq: 49}
+rucksack <> N: {rk: 26061, frq: 250}
+ruckus <> N: {rk: 21058, frq: 421}
+rudbeckia <> N: {rk: 37843, frq: 84}
+rudder <> N: {rk: 17275, frq: 618}
+rudderless <> J: {rk: 36679, frq: 90}
+ruddy <> J: {rk: 17432, frq: 600}, R: {rk: 46061, frq: 44}
+rude <> J: {rk: 6815, frq: 3264}
+rudely <> R: {rk: 19879, frq: 434}
+rudeness <> N: {rk: 21542, frq: 391}
+rudiment <> N: {rk: 27256, frq: 196}
+rudimentary <> J: {rk: 12450, frq: 1116}
+rue <> V: {rk: 23555, frq: 292}
+rueful <> J: {rk: 22339, frq: 349}
+ruefully <> R: {rk: 16511, frq: 668}
+ruff <> V: {rk: 48456, frq: 36}
+ruffed <> J: {rk: 38146, frq: 91}
+ruffian <> N: {rk: 28572, frq: 224}
+ruffle <> V: {rk: 13925, frq: 946}, N: {rk: 20611, frq: 432}
+ruffled <> J: {rk: 21224, frq: 378}
+ruffly <> R: {rk: 57427, frq: 20}
+rug <> N: {rk: 5148, frq: 5236}
+rugby <> N: {rk: 16114, frq: 885}
+rugged <> J: {rk: 7104, frq: 3003}
+ruggedly <> R: {rk: 35797, frq: 95}
+ruggedness <> N: {rk: 36620, frq: 89}
+ruin <> V: {rk: 4230, frq: 6785}, N: {rk: 5237, frq: 4967}
+ruination <> N: {rk: 35279, frq: 95}
+ruined <> J: {rk: 12099, frq: 1257}
+ruinous <> J: {rk: 22490, frq: 324}
+ruinously <> R: {rk: 51115, frq: 32}
+rule <> N: {rk: 633, frq: 65913}, V: {rk: 2220, frq: 16522}
+rulebook <> N: {rk: 40081, frq: 68}
+ruled <> J: {rk: 38780, frq: 76}
+ruler <> N: {rk: 5616, frq: 4534}
+rulership <> N: {rk: 49181, frq: 39}
+ruling <> N: {rk: 4058, frq: 7545}, J: {rk: 6018, frq: 4047}
+rum <> N: {rk: 9740, frq: 1937}, J: {rk: 40989, frq: 65}
+rumba <> N: {rk: 33940, frq: 136}
+rumble <> V: {rk: 8913, frq: 2144}, N: {rk: 12274, frq: 1260}
+rumbling <> N: {rk: 17245, frq: 593}, J: {rk: 26230, frq: 234}
+rumen <> N: {rk: 51170, frq: 31}
+ruminant <> J: {rk: 51317, frq: 31}
+ruminate <> V: {rk: 23729, frq: 283}
+rumination <> N: {rk: 24267, frq: 284}
+ruminative <> J: {rk: 46511, frq: 51}
+rummage <> V: {rk: 11623, frq: 1370}, N: {rk: 45788, frq: 47}
+rummy <> N: {rk: 32016, frq: 162}
+rumor <> N: {rk: 3522, frq: 9137}, V: {rk: 13055, frq: 1011}
+rumored <> J: {rk: 27080, frq: 213}
+rump <> N: {rk: 17195, frq: 627}
+rumple <> V: {rk: 21299, frq: 382}
+rumpled <> J: {rk: 18082, frq: 559}
+rumpus <> N: {rk: 36952, frq: 97}
+run <> V: {rk: 202, frq: 203041}, N: {rk: 1255, frq: 35153}
+run-down <> J: {rk: 13899, frq: 931}
+run-in <> N: {rk: 19194, frq: 473}
+run-of-the-mill <> J: {rk: 24976, frq: 250}
+run-on <> N: {rk: 43277, frq: 53}
+run-through <> N: {rk: 33803, frq: 86}
+run-time <> N: {rk: 39615, frq: 109}
+run-up <> N: {rk: 16067, frq: 735}
+runabout <> N: {rk: 35547, frq: 114}
+runaround <> N: {rk: 32611, frq: 133}
+runaway <> J: {rk: 10185, frq: 1662}, N: {rk: 15673, frq: 765}
+rundown <> N: {rk: 17051, frq: 1282}
+rune <> N: {rk: 23775, frq: 425}
+rung <> N: {rk: 14377, frq: 858}
+runic <> J: {rk: 49037, frq: 32}
+runnel <> N: {rk: 39756, frq: 83}
+runner <> N: {rk: 4247, frq: 7008}
+runner-up <> N: {rk: 12762, frq: 1173}
+running <> J: {rk: 3273, frq: 10105}, N: {rk: 4719, frq: 6157}
+runny <> J: {rk: 19172, frq: 486}
+runoff <> N: {rk: 7713, frq: 2737}
+runt <> N: {rk: 28729, frq: 200}
+runty <> J: {rk: 46429, frq: 39}
+runway <> N: {rk: 5952, frq: 4346}
+rupture <> V: {rk: 14446, frq: 841}, N: {rk: 14881, frq: 846}
+ruptured <> J: {rk: 23439, frq: 310}
+rural <> J: {rk: 2016, frq: 19984}
+ruse <> N: {rk: 17477, frq: 572}
+rush <> V: {rk: 1966, frq: 20232}, N: {rk: 3789, frq: 13170}
+rushed <> J: {rk: 34706, frq: 107}
+rusher <> N: {rk: 17194, frq: 816}
+rushing <> J: {rk: 12282, frq: 1234}, N: {rk: 43119, frq: 50}
+russet <> J: {rk: 22466, frq: 356}, N: {rk: 39769, frq: 83}
+rust <> N: {rk: 10505, frq: 1561}, V: {rk: 13274, frq: 1001}
+rusted <> J: {rk: 14208, frq: 916}
+rustic <> J: {rk: 10047, frq: 1739}
+rusticity <> N: {rk: 53101, frq: 27}
+rusting <> J: {rk: 27311, frq: 201}, N: {rk: 55029, frq: 26}
+rustle <> V: {rk: 13178, frq: 1095}, N: {rk: 18539, frq: 536}
+rustler <> N: {rk: 36765, frq: 106}
+rustling <> N: {rk: 22815, frq: 347}, J: {rk: 33952, frq: 116}
+rustproof <> J: {rk: 47720, frq: 38}
+rusty <> J: {rk: 9828, frq: 1802}
+rut <> N: {rk: 11604, frq: 1433}, V: {rk: 21455, frq: 378}
+rutabaga <> N: {rk: 30564, frq: 178}
+ruthless <> J: {rk: 9604, frq: 1745}
+ruthlessly <> R: {rk: 20154, frq: 420}
+ruthlessness <> N: {rk: 25096, frq: 247}
+rutted <> J: {rk: 22562, frq: 333}
+rutting <> J: {rk: 43601, frq: 53}
+rye <> N: {rk: 15816, frq: 1142}
+ryegrass <> N: {rk: 45486, frq: 48}

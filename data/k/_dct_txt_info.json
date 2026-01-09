@@ -1,0 +1,47 @@
+{
+    "phonetic": {
+        "start": "K",
+        "end": "Kyushu",
+        "total": 1086
+    },
+    "bnc": {
+        "start": "K",
+        "end": "Kyushu",
+        "total": 568
+    },
+    "explain": {
+        "start": "K",
+        "end": "Kyzyl Kum",
+        "total": 1791
+    },
+    "exchange": {
+        "start": "kabuki",
+        "end": "kyats",
+        "total": 666
+    },
+    "freq": {
+        "start": "ka",
+        "end": "Kuwaiti",
+        "total": 300
+    },
+    "collins": {
+        "start": "kangaroo",
+        "end": "kudos",
+        "total": 72
+    },
+    "pos": {
+        "start": "ka-ching",
+        "end": "kurtosis",
+        "total": 292
+    },
+    "lgk_id": {
+        "start": "kabaddi",
+        "end": "kvetch",
+        "total": 278
+    },
+    "redirect": {
+        "start": "kampucheans",
+        "end": "krishnas",
+        "total": 28
+    }
+}

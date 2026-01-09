@@ -1,0 +1,57 @@
+{
+    "phonetic": {
+        "start": "M",
+        "end": "muffin",
+        "total": 5000
+    },
+    "phonetic__1": {
+        "start": "muffin top",
+        "end": "mzungu",
+        "total": 598
+    },
+    "exchange": {
+        "start": "M",
+        "end": "myths",
+        "total": 3924
+    },
+    "freq": {
+        "start": "M",
+        "end": "myxoid",
+        "total": 2307
+    },
+    "bnc": {
+        "start": "M",
+        "end": "mythology",
+        "total": 2767
+    },
+    "explain": {
+        "start": "M",
+        "end": "mindedness",
+        "total": 5000
+    },
+    "explain__1": {
+        "start": "Mindel",
+        "end": "mzungu",
+        "total": 3669
+    },
+    "collins": {
+        "start": "MA",
+        "end": "mythology",
+        "total": 700
+    },
+    "lgk_id": {
+        "start": "m",
+        "end": "myxomatosis",
+        "total": 1738
+    },
+    "pos": {
+        "start": "m",
+        "end": "myxoid",
+        "total": 2246
+    },
+    "redirect": {
+        "start": "maas",
+        "end": "mysticetes",
+        "total": 156
+    }
+}

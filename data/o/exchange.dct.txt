@@ -1,0 +1,1929 @@
+oaf <> s: oafs
+oafs <> b: oaf, f: s
+oak <> s: oaks
+oaks <> b: oak, f: s
+oap <> s: oaps
+oaps <> b: oap, f: s
+oar <> s: oars
+oarlock <> s: oarlocks
+oarlocks <> b: oarlock, f: s
+oars <> b: oar, f: s
+oarsman <> s: oarsmen
+oarsmen <> b: oarsman, f: s
+oases <> b: oasis, f: s
+oasis <> s: oases
+oast <> s: oasts
+oasts <> b: oast, f: s
+oatcake <> s: oatcakes
+oatcakes <> b: oatcake, f: s
+oath <> s: oaths
+oaths <> b: oath, f: s
+ob <> s: obs, '3': obs, p: obed
+oba <> s: obas
+obas <> b: oba, f: s
+obbligato <> s: obbligatos
+obbligatos <> b: obbligato, f: s
+OBE <> s: obes
+obed <> b: ob, f: p, p: obed
+obedience <> s: obediences
+obediences <> b: obedience, f: s
+obeisance <> s: obeisances
+obeisances <> b: obeisance, f: s
+obelisk <> s: obelisks, '3': obelisks
+obelisks <> b: obelisk, f: s3
+obey <> p: obeyed, d: obeyed, i: obeying, '3': obeys
+obeyed <> b: obey, f: pd
+obeying <> b: obey, f: i
+obeys <> b: obey, f: '3'
+obfuscate <> '3': obfuscates, i: obfuscating, d: obfuscated, p: obfuscated
+obfuscated <> b: obfuscate, f: dp
+obfuscates <> b: obfuscate, f: '3'
+obfuscating <> b: obfuscate, f: i
+obfuscation <> s: obfuscations
+obfuscations <> b: obfuscation, f: s
+obi <> s: obi, b: obi, f: s
+obit <> s: obits, '3': obits
+obiter <> b: obite, f: r
+obits <> b: obit, f: s3
+obituaries <> b: obituary, f: s
+obituarist <> s: obituarists
+obituarists <> b: obituarist, f: s
+obituary <> s: obituaries
+object <> s: objects, p: objected, d: objected, i: objecting, '3': objects
+object-glass <> s: object-glasses
+object-glasses <> b: object-glass, f: s
+objected <> b: object, f: pd
+objectification <> s: objectifications
+objectifications <> b: objectification, f: s
+objectified <> b: objectify, f: dp, p: objectified
+objectifies <> b: objectify, f: '3'
+objectify <> '3': objectifies, d: objectified, p: objectified, i: objectifying
+objectifying <> b: objectify, f: i
+objecting <> b: object, f: i, i: objecting
+objection <> s: objections
+objections <> b: objection, f: s
+objective <> s: objectives
+objectives <> b: objective, f: s
+objectivist <> s: objectivists
+objectivists <> b: objectivist, f: s
+objectivities <> b: objectivity, f: s
+objectivity <> s: objectivities
+objector <> s: objectors
+objectors <> b: objector, f: s
+objects <> b: object, f: s3
+objurgate <> i: objurgating, p: objurgated, '3': objurgates, d: objurgated
+objurgated <> f: pd, b: objurgate
+objurgates <> f: '3', b: objurgate
+objurgating <> f: i, b: objurgate
+oblast <> s: oblasts
+oblasts <> b: oblast, f: s
+oblation <> s: oblations
+oblations <> b: oblation, f: s
+obligate <> d: obligated, p: obligated, i: obligating, '3': obligates
+obligated <> b: obligate, f: dp, d: obligated, p: obligated
+obligates <> f: '3', b: obligate
+obligating <> b: obligate, f: i
+obligation <> s: obligations
+obligations <> b: obligation, f: s
+oblige <> d: obliged, p: obliged, '3': obliges, i: obliging
+obliged <> d: obliged, b: obliged, f: dp, p: obliged
+obliges <> b: oblige, f: '3'
+obliging <> b: oblige, f: i, i: obliging
+oblique <> s: obliques
+obliques <> b: oblique, f: s
+obliquities <> b: obliquity, f: s
+obliquity <> s: obliquities
+obliterate <> d: obliterated, i: obliterating, '3': obliterates, p: obliterated
+obliterated <> b: obliterate, f: dp
+obliterates <> b: obliterate, f: '3'
+obliterating <> b: obliterate, f: i
+oblivion <> s: oblivions
+oblivions <> b: oblivion, f: s
+oblong <> s: oblongs
+oblongs <> b: oblong, f: s
+obnubilate <> i: obnubilating, p: obnubilated, '3': obnubilates, d: obnubilated
+obnubilated <> f: pd, b: obnubilate
+obnubilates <> f: '3', b: obnubilate
+obnubilating <> f: i, b: obnubilate
+oboe <> s: oboes
+oboes <> b: oboe, f: s
+oboist <> s: oboists
+oboists <> b: oboist, f: s
+obscenities <> b: obscenity, f: s
+obscenity <> s: obscenities
+obscure <> d: obscured, '3': obscures, i: obscuring, p: obscured, r: obscurer
+obscured <> b: obscure, f: dp
+obscurer <> b: obscure, f: r
+obscures <> b: obscure, f: '3'
+obscuring <> b: obscure, f: i
+obscurities <> b: obscurity, f: s
+obscurity <> s: obscurities
+obsequies <> b: obsequy, f: s
+obsequy <> s: obsequies
+observable <> s: observables
+observables <> b: observable, f: s
+observance <> s: observances
+observances <> b: observance, f: s
+observation <> s: observations
+observations <> b: observation, f: s
+observatories <> b: observatory, f: s
+observatory <> s: observatories
+observe <> d: observed, p: observed, i: observing, '3': observes
+observed <> b: observe, f: dp, d: observed, p: observed
+observer <> s: observers
+observers <> b: observer, f: s
+observes <> b: observe, f: '3'
+observing <> b: observe, f: i
+obsess <> '3': obsesses, p: obsessed, d: obsessed, i: obsessing
+obsessed <> d: obsessed, b: obsessed, f: dp, p: obsessed
+obsesses <> b: obsess, f: '3'
+obsessing <> b: obsess, f: i
+obsession <> s: obsessions
+obsessional <> s: obsessionals
+obsessionals <> b: obsessional, f: s
+obsessions <> b: obsession, f: s
+obsessive <> s: obsessives, '3': obsessives
+obsessives <> b: obsessive, f: s3
+obsidian <> s: obsidians
+obsidians <> b: obsidian, f: s
+obsolesce <> i: obsolescing, p: obsolesced, '3': obsolesces, d: obsolesced
+obsolesced <> f: pd, b: obsolesce
+obsolesces <> f: '3', b: obsolesce
+obsolescing <> f: i, b: obsolesce
+obsolete <> d: obsoleted, i: obsoleting, p: obsoleted
+obsoleted <> b: obsolete, f: dp
+obsoleting <> b: obsolete, f: i
+obstacle <> s: obstacles
+obstacles <> b: obstacle, f: s
+obstetrician <> s: obstetricians
+obstetricians <> b: obstetrician, f: s
+obstruct <> i: obstructing, d: obstructed, '3': obstructs, p: obstructed
+obstructed <> b: obstruct, f: dp, d: obstructed
+obstructing <> b: obstruct, f: i, i: obstructing
+obstruction <> s: obstructions
+obstructionist <> s: obstructionists
+obstructionists <> b: obstructionist, f: s
+obstructions <> b: obstruction, f: s
+obstructs <> b: obstruct, f: '3'
+obstruent <> s: obstruents
+obstruents <> b: obstruent, f: s
+obtain <> d: obtained, i: obtaining, p: obtained, '3': obtains
+obtained <> b: obtain, f: dp
+obtaining <> b: obtain, f: i, s: obtainings
+obtains <> b: obtain, f: '3'
+obtrude <> p: obtruded, '3': obtrudes, i: obtruding, d: obtruded
+obtruded <> b: obtrude, f: pd
+obtrudes <> b: obtrude, f: '3'
+obtruding <> b: obtrude, f: i
+obtund <> i: obtunding, p: obtunded, '3': obtunds, d: obtunded
+obtunded <> f: pd, b: obtund
+obtunding <> f: i, b: obtund
+obtunds <> f: '3', b: obtund
+obturate <> i: obturating, p: obturated, '3': obturates, d: obturated
+obturated <> f: pd, b: obturate
+obturates <> f: '3', b: obturate
+obturating <> f: i, b: obturate
+obviate <> '3': obviates, i: obviating, d: obviated, p: obviated
+obviated <> b: obviate, f: dp
+obviates <> b: obviate, f: '3'
+obviating <> b: obviate, f: i
+ocarina <> s: ocarinas
+ocarinas <> b: ocarina, f: s
+occasion <> s: occasions, d: occasioned, i: occasioning, p: occasioned, '3': occasions
+occasioned <> b: occasion, f: dp
+occasioning <> b: occasion, f: i
+occasions <> f: s3, b: occasion
+occidentalize <> i: Occidentalizing, p: Occidentalized, '3': Occidentalizes, d: Occidentalized
+occlude <> '3': occludes, d: occluded, p: occluded, i: occluding
+occluded <> b: occlude, f: dp, p: occluded, d: occluded
+occludes <> b: occlude, f: '3'
+occluding <> b: occlude, f: i, i: occluding
+occlusion <> s: occlusions
+occlusions <> b: occlusion, f: s
+occult <> i: occulting, p: occulted, '3': occults, d: occulted
+occultation <> s: occultations
+occultations <> b: occultation, f: s
+occulted <> f: pd, b: occult
+occulting <> f: i, b: occult
+occultist <> s: occultists
+occultists <> b: occultist, f: s
+occults <> f: '3', b: occult
+occupancies <> b: occupancy, f: s
+occupancy <> s: occupancies
+occupant <> s: occupants
+occupants <> b: occupant, f: s
+occupation <> s: occupations
+occupations <> b: occupation, f: s
+occupied <> b: occupy, f: dp, d: occupied, p: occupied
+occupier <> s: occupiers
+occupiers <> b: occupier, f: s
+occupy <> d: occupied, '3': occupies, p: occupied, i: occupying
+occupying <> b: occupy, f: i, i: occupying
+occur <> '3': occurs, p: occurred, d: occurred, i: occurring
+occurred <> b: occur, f: pd
+occurrence <> s: occurrences
+occurrences <> b: occurrence, f: s
+occurring <> b: occur, f: i, i: occurring
+occurs <> b: occur, f: '3'
+ocean <> s: oceans
+oceanic <> s: oceanics
+oceanics <> b: oceanic, f: s
+oceanographer <> s: oceanographers
+oceanographers <> b: oceanographer, f: s
+oceans <> b: ocean, f: s
+ocellated <> p: ocellated, b: ocellated, f: p
+ocelot <> s: ocelots
+ocelots <> b: ocelot, f: s
+och <> s: ochs
+ochre <> s: ochres
+ochres <> b: ochre, f: s
+ochs <> b: och, f: s
+octagon <> s: octagons
+octagons <> b: octagon, f: s
+octahedron <> s: octahedrons
+octahedrons <> b: octahedron, f: s
+octamer <> s: octamers
+octamers <> b: octamer, f: s
+octan <> s: octans
+Octans <> b: octan, f: s
+octave <> s: octaves
+octaves <> b: octave, f: s
+Octobrist <> s: octobrists
+octogenarian <> s: octogenarians
+octogenarians <> b: octogenarian, f: s
+octopod <> s: octopods
+octopods <> b: octopod, f: s
+oculist <> s: oculists
+oculists <> b: oculist, f: s
+OD <> t: oddest, r: odder, '3': ods, s: ods
+odalisque <> s: odalisques
+odalisques <> b: odalisque, f: s
+oddball <> s: oddballs
+oddballs <> b: oddball, f: s
+odder <> b: od, f: r
+oddest <> b: od, f: t
+Oddfellow <> s: oddfellows
+oddities <> b: oddity, f: s
+oddity <> s: oddities
+oddment <> s: oddments
+oddments <> b: oddment, f: s
+odds <> s: odds, b: odds, f: s
+ode <> s: odes
+odeon <> s: odeons
+odeons <> b: odeon, f: s
+oder <> b: od, f: r
+odes <> b: ode, f: s
+Odets <> b: odet, f: s
+odometer <> s: odometers, b: odomete, f: r
+odometers <> b: odometer, f: s
+odontocete <> s: odontocetes
+odontocetes <> b: odontocete, f: s
+odor <> s: odors
+odorant <> s: odorants
+odorants <> b: odorant, f: s
+odors <> b: odor, f: s
+odour <> s: odours
+odours <> b: odour, f: s
+ods <> b: od, f: 3s
+Odyssey <> s: odysseys
+odysseys <> b: odyssey, f: s
+OE <> s: oes
+OEM <> d: oemed, i: oeming
+oes <> b: oe, f: s
+oestrogen <> s: oestrogens
+oestrogens <> b: oestrogen, f: s
+oeuvre <> s: oeuvres
+oeuvres <> b: oeuvre, f: s
+off <> i: offing, p: offed, '3': offs, d: offed
+off-cut <> s: off-cuts
+off-cuts <> b: off-cut, f: s
+off-licence <> s: off-licences
+off-licences <> b: off-licence, f: s
+off-line <> s: off-lines
+off-lines <> b: off-line, f: s
+off-load <> d: off-loaded, i: off-loading, p: off-loaded, '3': off-loads
+off-loaded <> b: off-load, f: dp
+off-loading <> b: off-load, f: i, i: off-loading
+off-loads <> b: off-load, f: '3'
+off-roader <> s: off-roaders
+off-roaders <> b: off-roader, f: s
+off-season <> s: off-seasons
+off-seasons <> b: off-season, f: s
+offal <> s: offals
+offals <> b: offal, f: s
+offcut <> s: offcuts
+offcuts <> b: offcut, f: s
+offence <> s: offences
+offences <> b: offence, f: s
+offend <> d: offended, p: offended, '3': offends, i: offending
+offended <> b: offend, f: dp, d: offended, p: offended
+offender <> s: offenders
+offenders <> b: offender, f: s
+offending <> b: offend, f: i, i: offending
+offends <> b: offend, f: '3'
+offense <> s: offenses
+offenses <> b: offense, f: s
+offensive <> s: offensives
+offensives <> b: offensive, f: s
+offer <> d: offered, '3': offers, i: offering, p: offered, s: offers
+offered <> b: offer, f: dp, p: offered, d: offered
+offerer <> s: offerers
+offerers <> b: offerer, f: s
+offering <> b: offer, f: i, s: offerings, i: offering
+offeror <> s: offerors
+offerors <> b: offeror, f: s
+offers <> b: offer, f: 3s
+office <> s: offices
+office-bearer <> s: office-bearers
+office-bearers <> b: office-bearer, f: s
+officeholder <> s: officeholders
+officeholders <> b: officeholder, f: s
+officer <> s: officers, i: officering, p: officered, '3': officers, d: officered
+officered <> f: pd, b: officer
+officering <> f: i, b: officer
+officers <> f: s3, b: officer
+offices <> b: office, f: s
+official <> s: officials
+officials <> b: official, f: s
+officiant <> s: officiants
+officiants <> b: officiant, f: s
+officiate <> i: officiating, p: officiated, d: officiated, '3': officiates
+officiated <> b: officiate, f: pd
+officiates <> b: officiate, f: '3'
+officiating <> b: officiate, f: i
+offline <> d: offlined, i: offlining, s: offlines
+offlined <> b: offline, f: d, d: offlined, p: offlined
+offlines <> b: offline, f: s
+offlining <> b: offline, f: i
+offload <> d: offloaded, i: offloading, '3': offloads, p: offloaded
+offloaded <> b: offload, f: dp
+offloading <> b: offload, f: i, i: offloading
+offloads <> b: offload, f: '3'
+offprint <> s: offprints
+offprints <> b: offprint, f: s
+offset <> d: offset, b: offset, f: dp, '3': offsets, i: offsetting, p: offset, s: offsets
+offsets <> b: offset, f: 3s
+offsetting <> b: offset, f: i, i: offsetting
+offshoot <> s: offshoots
+offshoots <> b: offshoot, f: s
+offside <> s: offsides
+offsides <> b: offside, f: s
+offspring <> s: offsprings
+offsprings <> b: offspring, f: s
+offtake <> s: offtakes
+offtakes <> b: offtake, f: s
+og <> s: ogs
+ogam <> s: ogams
+ogams <> b: ogam, f: s
+Ogilvy <> s: ogilvys
+ogle <> i: ogling, p: ogled, d: ogled, s: ogles, '3': ogles
+ogled <> b: ogle, f: pd
+ogler <> s: oglers
+oglers <> b: ogler, f: s
+ogles <> f: s3, b: ogle
+ogling <> b: ogle, f: i, s: oglings
+ogre <> s: ogres
+ogres <> b: ogre, f: s
+ogs <> b: og, f: s
+ohm <> s: ohms
+ohms <> b: ohm, f: s
+oik <> s: oiks
+oiks <> b: oik, f: s
+oil <> s: oils, p: oiled, i: oiling, d: oiled, '3': oils
+oil-burner <> s: oil-burners
+oil-burners <> b: oil-burner, f: s
+oilbird <> s: oilbirds
+oilbirds <> b: oilbird, f: s
+oiled <> b: oil, f: pd, p: oiled, d: oiled
+oilfield <> s: oilfields
+oilfields <> b: oilfield, f: s
+oilier <> b: oily, f: r
+oilies <> b: oily, f: s
+oiliest <> b: oily, f: t
+oiling <> b: oil, f: i, i: oiling
+oilman <> s: oilmen
+oilmen <> b: oilman, f: s
+oils <> f: s3, b: oil
+oilseed <> s: oilseeds, '3': oilseeds
+oilseeds <> b: oilseed, f: s3
+oilskin <> s: oilskins, '3': oilskins
+oilskins <> b: oilskin, f: s3
+oily <> s: oilies, r: oilier, t: oiliest
+oink <> i: oinking, p: oinked, '3': oinks, d: oinked, s: oinks
+ointment <> s: ointments
+ointments <> b: ointment, f: s
+okay <> i: okaying, p: okayed, '3': okays, d: okayed
+okayed <> f: pd, b: okay
+okaying <> f: i, b: okay
+okays <> f: '3', b: okay
+okrug <> s: okrugs
+okrugs <> b: okrug, f: s
+Ol <> s: ols
+old <> r: older, t: oldest, s: olds
+old-timer <> s: old-timers
+old-timers <> b: old-timer, f: s
+older <> b: old, f: r
+oldest <> b: old, f: t
+oldies <> b: oldy, f: s
+olds <> b: old, f: s
+oldster <> s: oldsters
+oldsters <> b: oldster, f: s
+oldy <> s: oldies
+oleander <> s: oleanders
+oleanders <> b: oleander, f: s
+olefin <> s: olefins
+olefins <> b: olefin, f: s
+oleograph <> s: oleographs
+oleographs <> b: oleograph, f: s
+oligarch <> s: oligarchs
+oligarchies <> b: oligarchy, f: s
+oligarchs <> b: oligarch, f: s
+oligarchy <> s: oligarchies
+oligo <> s: oligos
+oligochaete <> s: oligochaetes
+oligochaetes <> b: oligochaete, f: s
+oligodendrocyte <> s: oligodendrocytes
+oligodendrocytes <> b: oligodendrocyte, f: s
+oligomer <> s: oligomers
+oligomers <> b: oligomer, f: s
+oligonucleotide <> s: oligonucleotides, '3': oligonucleotides
+oligonucleotides <> b: oligonucleotide, f: s3
+oligopeptide <> s: oligopeptides
+oligopeptides <> b: oligopeptide, f: s
+oligopolies <> b: oligopoly, f: s
+oligopolist <> s: oligopolists
+oligopolists <> b: oligopolist, f: s
+oligopoly <> s: oligopolies
+oligos <> b: oligo, f: s
+oligosaccharide <> s: oligosaccharides
+oligosaccharides <> b: oligosaccharide, f: s
+olive <> s: olives
+olives <> b: olive, f: s
+olivine <> s: olivines, '3': olivines
+olivines <> b: olivine, f: s3
+ologies <> b: ology, f: s
+ology <> s: ologies
+olsen <> s: olsens
+olsens <> b: olsen, f: s
+olympian <> s: olympians
+olympians <> b: olympian, f: s
+Olympic <> s: olympics
+olympics <> b: olympic, f: s
+om <> i: omming
+ombudsman <> s: ombudsmen
+ombudsmen <> b: ombudsman, f: s
+omelette <> s: omelettes
+omelettes <> b: omelette, f: s
+omen <> s: omens, i: omening, p: omened, '3': omens, d: omened
+omened <> f: pd, b: omen
+omening <> f: i, b: omen
+omens <> f: s3, b: omen
+omi <> s: omi, b: omi, f: s
+omission <> s: omissions
+omissions <> b: omission, f: s
+omit <> d: omitted, i: omitting, p: omitted, '3': omits
+omits <> b: omit, f: '3'
+omitted <> b: omit, f: dp, d: omitted, p: omitted
+omitting <> b: omit, f: i
+omming <> b: om, f: i
+omnivore <> s: omnivores, '3': omnivores
+omnivores <> b: omnivore, f: s3
+omphalo <> s: omphalos
+omphalos <> b: omphalo, f: s
+onanist <> s: onanists
+onanists <> b: onanist, f: s
+oncer <> s: oncers
+oncers <> b: oncer, f: s
+oncogene <> s: oncogenes
+oncogenes <> b: oncogene, f: s
+oncologist <> s: oncologists
+oncologists <> b: oncologist, f: s
+one <> s: ones
+one-liner <> s: one-liners
+one-liners <> b: one-liner, f: s
+one-nighter <> s: one-nighters
+one-nighters <> b: one-nighter, f: s
+one-off <> s: one-offs
+one-offs <> b: one-off, f: s
+one-parent <> s: one-parents
+one-parents <> b: one-parent, f: s
+one-piece <> s: one-pieces
+one-pieces <> b: one-piece, f: s
+one-step <> i: one-stepping, p: one-stepped, '3': one-steps, d: one-stepped
+ones <> b: one, f: s
+onion <> s: onions
+onlooker <> s: onlookers
+onlookers <> b: onlooker, f: s
+onomastic <> s: onomastics
+onomastics <> b: onomastic, f: s
+onrush <> i: onrushing
+onrushing <> b: onrush, f: i
+onslaught <> s: onslaughts
+onslaughts <> b: onslaught, f: s
+onto <> s: ontos
+ontologies <> b: ontology, f: s
+ontology <> s: ontologies
+ontos <> b: onto, f: s
+onychophoran <> s: onychophorans
+onychophorans <> b: onychophoran, f: s
+oo <> s: oos
+oocyte <> s: oocytes
+oocytes <> b: oocyte, f: s
+oodles <> b: oodle, f: s
+ooh <> s: oohs
+oohs <> b: ooh, f: s
+oolite <> s: oolites
+oolites <> b: oolite, f: s
+oos <> b: oo, f: s
+ooze <> i: oozing, p: oozed, '3': oozes, s: oozes, d: oozed
+oozed <> b: ooze, f: pd
+oozes <> b: ooze, f: 3s
+oozing <> b: ooze, f: i, s: oozings, i: oozing
+OP <> s: ops, p: opped
+op-amp <> s: op-amps
+op-amps <> b: op-amp, f: s
+opacify <> i: opacifying, p: opacified, '3': opacifies, d: opacified
+opacities <> b: opacity, f: s
+opacity <> s: opacities
+opal <> s: opals
+opals <> b: opal, f: s
+opaque <> s: opaques, p: opaqued
+opaqued <> b: opaque, f: p
+opaques <> b: opaque, f: s
+opcode <> s: opcodes
+opcodes <> b: opcode, f: s
+open <> p: opened, d: opened, i: opening, '3': opens
+opencast <> i: opencasting
+opencasting <> b: opencast, f: i
+opened <> b: open, f: pd, p: opened, d: opened
+opener <> s: openers
+openers <> b: opener, f: s
+opening <> b: open, f: i, i: opening, s: openings
+opens <> b: open, f: '3'
+opera <> s: operas
+operand <> s: operands
+operands <> b: operand, f: s
+operas <> b: opera, f: s
+operate <> i: operating, d: operated, '3': operates, p: operated
+operated <> b: operate, f: dp
+operates <> b: operate, f: '3'
+operatic <> s: operatics
+operatics <> b: operatic, f: s
+operating <> b: operate, f: i, i: operating
+operation <> s: operations
+operationalize <> d: operationalized, i: operationalizing, p: operationalized
+operationalized <> b: operationalize, f: dp, d: operationalized
+operationalizing <> b: operationalize, f: i
+operations <> b: operation, f: s
+operative <> s: operatives
+operatives <> b: operative, f: s
+operator <> s: operators
+operators <> b: operator, f: s
+operculum <> s: operculums
+operculums <> b: operculum, f: s
+operetta <> s: operettas
+operettas <> b: operetta, f: s
+operon <> s: operons
+operons <> b: operon, f: s
+ophiolite <> s: ophiolites
+ophiolites <> b: ophiolite, f: s
+ophiuroid <> s: ophiuroids
+ophiuroids <> b: ophiuroid, f: s
+ophthalmologist <> s: ophthalmologists
+ophthalmologists <> b: ophthalmologist, f: s
+opiate <> s: opiates, '3': opiates
+opiates <> b: opiate, f: s3
+opine <> p: opined, '3': opines, i: opining, s: opines, d: opined
+opined <> f: pd, b: opine
+opines <> b: opine, f: 3s
+opining <> b: opine, f: i
+opinion <> s: opinions
+opinionate <> p: opinionated, d: opinionated
+opinionated <> b: opinionate, f: pd, p: opinionated, d: opinionated
+opinions <> b: opinion, f: s
+opioid <> s: opioids
+opioids <> b: opioid, f: s
+opossum <> s: opossums
+opossums <> b: opossum, f: s
+oppo <> s: oppos
+opponent <> s: opponents
+opponents <> b: opponent, f: s
+opportunist <> s: opportunists
+opportunists <> b: opportunist, f: s
+opportunities <> b: opportunity, f: s
+opportunity <> s: opportunities
+oppos <> b: oppo, f: s
+oppose <> d: opposed, p: opposed, i: opposing, '3': opposes
+opposed <> b: oppose, f: dp, p: opposed, d: opposed
+opposer <> s: opposers
+opposers <> b: opposer, f: s
+opposes <> b: oppose, f: '3'
+opposing <> b: oppose, f: i, i: opposing
+opposite <> s: opposites
+opposites <> b: opposite, f: s
+opposition <> s: oppositions
+oppositionist <> s: oppositionists
+oppositionists <> b: oppositionist, f: s
+oppositions <> b: opposition, f: s
+oppress <> d: oppressed, p: oppressed, i: oppressing, '3': oppresses
+oppressed <> d: oppressed, b: oppressed, f: dp, p: oppressed
+oppresses <> b: oppress, f: '3'
+oppressing <> b: oppress, f: i
+oppression <> s: oppressions
+oppressions <> b: oppression, f: s
+oppressor <> s: oppressors
+oppressors <> b: oppressor, f: s
+oppugn <> i: oppugning, p: oppugned, '3': oppugns, d: oppugned
+oppugned <> f: pd, b: oppugn
+oppugning <> f: i, b: oppugn
+oppugns <> f: '3', b: oppugn
+ops <> b: op, f: s
+opsonize <> i: opsonizing, p: opsonized, '3': opsonizes, d: opsonized
+opsonized <> f: pd, b: opsonize
+opsonizes <> f: '3', b: opsonize
+opsonizing <> f: i, b: opsonize
+opt <> i: opting, d: opted, p: opted, '3': opts
+opt-out <> s: opt-outs
+opt-outs <> b: opt-out, f: s
+optative <> s: optatives
+optatives <> b: optative, f: s
+opted <> b: opt, f: dp
+optical <> s: opticals
+opticals <> b: optical, f: s
+optician <> s: opticians
+opticians <> b: optician, f: s
+optimisation <> s: optimisations
+optimisations <> b: optimisation, f: s
+optimise <> d: optimised, i: optimising, p: optimised, '3': optimises
+optimised <> b: optimise, f: dp, p: optimised, d: optimised
+optimises <> b: optimise, f: '3'
+optimising <> b: optimise, f: i, i: optimising
+optimist <> s: optimists
+optimists <> b: optimist, f: s
+optimize <> d: optimized, i: optimizing, '3': optimizes, p: optimized
+optimized <> f: dp, b: optimize, d: optimized
+optimizer <> s: optimizers
+optimizers <> b: optimizer, f: s
+optimizes <> b: optimize, f: '3'
+optimizing <> b: optimize, f: i, i: optimizing
+opting <> b: opt, f: i
+option <> s: options
+options <> b: option, f: s
+optoelectronic <> s: optoelectronics
+optoelectronics <> b: optoelectronic, f: s
+optometrist <> s: optometrists
+optometrists <> b: optometrist, f: s
+opts <> b: opt, f: '3'
+oracle <> s: oracles
+oracles <> b: oracle, f: s
+oral <> s: orals
+oralist <> s: oralists
+oralists <> b: oralist, f: s
+orals <> b: oral, f: s
+orang <> s: orangs, '3': orangs
+orange <> s: oranges
+orangeman <> s: orangemen
+orangemen <> b: orangeman, f: s
+orangeries <> b: orangery, f: s
+orangery <> s: orangeries
+oranges <> b: orange, f: s
+orangs <> b: orang, f: s3
+orangutan <> s: orangutans
+orangutans <> b: orangutan, f: s
+orate <> p: orated, s: orates, i: orating, '3': orates, d: orated
+orated <> f: pd, b: orate
+orates <> f: s3, b: orate
+orating <> f: i, b: orate
+oration <> s: orations
+orations <> b: oration, f: s
+orator <> s: orators
+Oratorian <> s: oratorians
+oratories <> b: oratory, f: s
+oratorio <> s: oratorios
+oratorios <> b: oratorio, f: s
+orators <> b: orator, f: s
+oratory <> s: oratories
+orb <> s: orbs, i: orbing, p: orbed, '3': orbs, d: orbed
+orbed <> f: pd, b: orb
+orbing <> f: i, b: orb
+orbit <> s: orbits, i: orbiting, p: orbited, '3': orbits, d: orbited
+orbital <> s: orbitals
+orbitals <> b: orbital, f: s
+orbited <> b: orbit, f: pd
+orbiter <> s: orbiters
+orbiters <> b: orbiter, f: s
+orbiting <> b: orbit, f: i, i: orbiting
+orbits <> b: orbit, f: s3
+orbs <> f: s3, b: orb
+orc <> s: orcs
+orca <> s: orcas
+orcadian <> s: orcadians
+orcadians <> b: orcadian, f: s
+orcas <> b: orca, f: s
+orchard <> s: orchards
+orchards <> b: orchard, f: s
+orchestra <> s: orchestras
+orchestras <> b: orchestra, f: s
+orchestrate <> d: orchestrated, i: orchestrating, p: orchestrated, '3': orchestrates
+orchestrated <> b: orchestrate, f: dp, p: orchestrated, d: orchestrated
+orchestrates <> b: orchestrate, f: '3'
+orchestrating <> b: orchestrate, f: i
+orchestration <> s: orchestrations
+orchestrations <> b: orchestration, f: s
+orchestrator <> s: orchestrators
+orchestrators <> b: orchestrator, f: s
+orchestrion <> s: orchestrions
+orchestrions <> b: orchestrion, f: s
+orchid <> s: orchids
+orchids <> b: orchid, f: s
+ORCS <> b: orc, f: s
+ord <> s: ords
+ordain <> d: ordained, i: ordaining, p: ordained, '3': ordains, s: ordains
+ordained <> b: ordain, f: dp, d: ordained, p: ordained
+ordainer <> s: ordainers
+ordainers <> b: ordainer, f: s
+ordaining <> b: ordain, f: i
+ordains <> b: ordain, f: 3s
+ordeal <> s: ordeals
+ordeals <> b: ordeal, f: s
+order <> s: orders, d: ordered, p: ordered, i: ordering, '3': orders
+ordered <> b: order, f: dp, p: ordered, d: ordered
+ordering <> b: order, f: i, i: ordering, s: orderings
+orderlies <> b: orderly, f: s
+orderly <> s: orderlies
+orders <> b: order, f: s3
+ordinal <> s: ordinals
+ordinals <> b: ordinal, f: s
+ordinance <> s: ordinances
+ordinances <> b: ordinance, f: s
+ordinand <> s: ordinands, '3': ordinands
+ordinands <> b: ordinand, f: s3
+ordinaries <> b: ordinary, f: s
+ordinary <> s: ordinaries
+ordinate <> s: ordinates, p: ordinated, i: ordinating
+ordinated <> b: ordinate, f: p
+ordinates <> b: ordinate, f: s
+ordinating <> b: ordinate, f: i
+ordination <> s: ordinations
+ordinations <> b: ordination, f: s
+ordnance <> s: ordnances
+ordnances <> b: ordnance, f: s
+ords <> b: ord, f: s
+ore <> s: ores
+oread <> s: oreads
+oreads <> b: oread, f: s
+orebodies <> b: orebody, f: s
+orebody <> s: orebodies
+ores <> b: ore, f: s
+ORF <> s: orfs
+orfe <> s: orfes
+orfes <> b: orfe, f: s
+organ <> s: organs
+organelle <> s: organelles
+organelles <> b: organelle, f: s
+organic <> s: organics
+organics <> b: organic, f: s
+organisation <> s: organisations
+organisations <> b: organisation, f: s
+organise <> d: organised, i: organising, p: organised, '3': organises
+organised <> b: organise, f: dp, d: organised, p: organised
+organiser <> s: organisers
+organisers <> b: organiser, f: s
+organises <> b: organise, f: '3'
+organising <> b: organise, f: i, i: organising
+organism <> s: organisms
+organisms <> b: organism, f: s
+organist <> s: organists
+organists <> b: organist, f: s
+organization <> s: organizations
+organizations <> b: organization, f: s
+organize <> d: organized, i: organizing, p: organized, '3': organizes
+organized <> b: organize, f: dp, d: organized, p: organized
+organizer <> s: organizers
+organizers <> b: organizer, f: s
+organizes <> b: organize, f: '3'
+organizing <> b: organize, f: i, i: organizing
+organochlorine <> s: organochlorines
+organochlorines <> b: organochlorine, f: s
+organometallic <> s: organometallics
+organometallics <> b: organometallic, f: s
+organophosphate <> s: organophosphates
+organophosphates <> b: organophosphate, f: s
+organs <> b: organ, f: s
+orgasm <> s: orgasms, p: orgasmed, '3': orgasms
+orgasmed <> b: orgasm, f: p
+orgasms <> b: orgasm, f: s3
+orgies <> b: orgy, f: s
+orgy <> s: orgies
+Oriel <> s: oriels
+orient <> p: oriented, d: oriented, i: orienting, '3': orients
+oriental <> s: orientals
+orientals <> b: oriental, f: s
+orientate <> d: orientated, i: orientating, '3': orientates, p: orientated
+orientated <> b: orientate, f: dp, d: orientated
+orientates <> b: orientate, f: '3'
+orientating <> b: orientate, f: i
+orientation <> s: orientations
+orientations <> b: orientation, f: s
+oriented <> b: orient, f: pd, p: oriented, d: oriented
+orienteer <> s: orienteers, i: orienteering
+orienteering <> b: orienteer, f: i
+orienting <> b: orient, f: i, i: orienting
+orients <> b: orient, f: '3'
+orifice <> s: orifices
+orifices <> b: orifice, f: s
+origami <> s: origami, b: origami, f: s
+origin <> s: origins
+original <> s: originals
+originalities <> b: originality, f: s
+originality <> s: originalities
+originals <> b: original, f: s
+originate <> d: originated, i: originating, p: originated, '3': originates
+originated <> b: originate, f: dp
+originates <> b: originate, f: '3'
+originating <> b: originate, f: i, i: originating
+origination <> s: originations
+originations <> b: origination, f: s
+originator <> s: originators
+originators <> b: originator, f: s
+origins <> b: origin, f: s
+oriole <> s: orioles
+orioles <> b: oriole, f: s
+orison <> s: orisons
+orisons <> b: orison, f: s
+Ormerod <> s: ormerods
+ornament <> s: ornaments, d: ornamented, i: ornamenting, p: ornamented, '3': ornaments
+ornamental <> s: ornamentals
+ornamentals <> b: ornamental, f: s
+ornamentation <> s: ornamentations
+ornamentations <> b: ornamentation, f: s
+ornamented <> b: ornament, f: dp, d: ornamented
+ornamenting <> b: ornament, f: i
+ornaments <> f: s3, b: ornament
+ornithischian <> s: ornithischians
+ornithischians <> b: ornithischian, f: s
+ornithologist <> s: ornithologists
+ornithologists <> b: ornithologist, f: s
+ornithopod <> s: ornithopods
+ornithopods <> b: ornithopod, f: s
+orogen <> s: orogens
+orogenies <> b: orogeny, f: s
+orogens <> b: orogen, f: s
+orogeny <> s: orogenies
+oropendola <> s: oropendolas
+oropendolas <> b: oropendola, f: s
+orphan <> s: orphans, i: orphaning, p: orphaned, '3': orphans, d: orphaned
+orphanage <> s: orphanages
+orphanages <> b: orphanage, f: s
+orphaned <> d: orphaned, b: orphaned, f: d
+orphaning <> f: i, b: orphan
+orphans <> f: s3, b: orphan
+orr <> s: orrs
+orrs <> b: orr, f: s
+ort <> s: orts
+orthodontic <> s: orthodontics
+orthodontics <> b: orthodontic, f: s
+orthodoxies <> b: orthodoxy, f: s
+orthodoxy <> s: orthodoxies
+orthoepist <> s: orthoepists
+orthoepists <> b: orthoepist, f: s
+orthogonal <> s: orthogonals
+orthogonals <> b: orthogonal, f: s
+orthographies <> b: orthography, f: s
+orthography <> s: orthographies
+orthopaedic <> s: orthopaedics
+orthopaedics <> b: orthopaedic, f: s
+orthopedic <> s: orthopedics
+orthopedics <> b: orthopedic, f: s
+orthophosphate <> s: orthophosphates
+orthophosphates <> b: orthophosphate, f: s
+orts <> b: ort, f: s
+oryx <> s: oryxes
+oryxes <> b: oryx, f: s
+Osborne <> d: osborne, b: osborne, f: d
+Oscar <> s: oscars
+oscars <> b: oscar, f: s
+oscillate <> '3': oscillates, i: oscillating, p: oscillated, d: oscillated
+oscillated <> b: oscillate, f: pd
+oscillates <> b: oscillate, f: '3'
+oscillating <> b: oscillate, f: i, i: oscillating
+oscillation <> s: oscillations
+oscillations <> b: oscillation, f: s
+oscillator <> s: oscillators
+oscillators <> b: oscillator, f: s
+oscillogram <> s: oscillograms
+oscillograms <> b: oscillogram, f: s
+oscilloscope <> s: oscilloscopes
+oscilloscopes <> b: oscilloscope, f: s
+osculate <> i: osculating, p: osculated, '3': osculates, d: osculated
+osculated <> f: pd, b: osculate
+osculates <> f: '3', b: osculate
+osculating <> f: i, b: osculate
+osier <> s: osiers, b: osy, f: r
+osiers <> b: osier, f: s
+osmometer <> s: osmometers
+osmometers <> b: osmometer, f: s
+osprey <> s: ospreys
+ospreys <> b: osprey, f: s
+oss <> s: osses
+osses <> b: oss, f: s
+Ossete <> s: ossetes
+ossicle <> s: ossicles
+ossicles <> b: ossicle, f: s
+ossified <> b: ossify, f: dp
+ossify <> d: ossified, p: ossified, i: ossifying, '3': ossifies
+ossuaries <> b: ossuary, f: s
+ossuary <> s: ossuaries
+osteoblast <> s: osteoblasts
+osteoblasts <> b: osteoblast, f: s
+osteoclast <> s: osteoclasts
+osteoclasts <> b: osteoclast, f: s
+osteopath <> s: osteopaths
+osteopaths <> b: osteopath, f: s
+osteospermum <> s: osteospermums
+osteospermums <> b: osteospermum, f: s
+ostinato <> s: ostinatos
+ostinatos <> b: ostinato, f: s
+ostiole <> s: ostioles
+ostioles <> b: ostiole, f: s
+ostler <> s: ostlers
+ostlers <> b: ostler, f: s
+ostracise <> d: ostracised, i: ostracising, '3': ostracises
+ostracised <> b: ostracise, f: d
+ostracises <> b: ostracise, f: '3'
+ostracising <> b: ostracise, f: i
+ostracize <> d: ostracized, i: ostracizing, p: ostracized, '3': ostracizes
+ostracized <> b: ostracize, f: dp
+ostracizes <> f: '3', b: ostracize
+ostracizing <> b: ostracize, f: i
+ostracod <> s: ostracods, '3': ostracods
+ostracoderm <> s: ostracoderms
+ostracoderms <> b: ostracoderm, f: s
+ostracods <> b: ostracod, f: s3
+ostrich <> s: ostriches
+ostriches <> b: ostrich, f: s
+Ostrogoth <> s: ostrogoths
+osy <> r: osier
+ot <> s: ots, r: oter
+oter <> b: ot, f: r
+other <> s: others
+others <> b: other, f: s
+ots <> b: ot, f: s
+otter <> s: otters
+otters <> b: otter, f: s
+ottoman <> s: ottomans
+ottomans <> b: ottoman, f: s
+ou <> t: ouest
+oubliette <> s: oubliettes
+oubliettes <> b: oubliette, f: s
+ouch <> s: ouches
+ouches <> b: ouch, f: s
+ouest <> b: ou, f: t
+ouguiya <> s: ouguiyas
+ouguiyas <> b: ouguiya, f: s
+ounce <> s: ounces
+ounces <> b: ounce, f: s
+oust <> d: ousted, p: ousted, i: ousting, '3': ousts
+ousted <> b: oust, f: dp, p: ousted, d: ousted
+ouster <> s: ousters
+ousters <> b: ouster, f: s
+ousting <> b: oust, f: i, i: ousting
+ousts <> b: oust, f: '3'
+out <> i: outing, p: outed, '3': outs, d: outed
+out-group <> s: out-groups
+out-groups <> b: out-group, f: s
+out-take <> s: out-takes
+out-takes <> b: out-take, f: s
+out-talk <> d: out-talked
+out-talked <> b: out-talk, f: d
+out-turn <> '3': out-turns, s: out-turns
+out-turns <> b: out-turn, f: 3s
+outage <> s: outages
+outages <> b: outage, f: s
+outbalance <> i: outbalancing, p: outbalanced, '3': outbalances, d: outbalanced
+outbalanced <> f: pd, b: outbalance
+outbalances <> f: '3', b: outbalance
+outbalancing <> f: i, b: outbalance
+outbid <> d: outbid, b: outbid, f: dp, i: outbidding, '3': outbids, p: outbid
+outbidding <> b: outbid, f: i
+outbids <> b: outbid, f: '3'
+outboard <> s: outboards
+outboards <> b: outboard, f: s
+outbrave <> i: outbraving, p: outbraved, '3': outbraves, d: outbraved
+outbraved <> f: pd, b: outbrave
+outbraves <> f: '3', b: outbrave
+outbraving <> f: i, b: outbrave
+outbreak <> s: outbreaks
+outbreaks <> b: outbreak, f: s
+outbreed <> i: outbreeding
+outbreeding <> b: outbreed, f: i
+outbuilding <> s: outbuildings
+outbuildings <> b: outbuilding, f: s
+outburst <> s: outbursts
+outbursts <> b: outburst, f: s
+outcast <> s: outcasts
+outcaste <> '3': outcastes, s: outcastes
+outcastes <> b: outcaste, f: 3s
+outcasts <> b: outcast, f: s
+outclass <> d: outclassed, p: outclassed, i: outclassing, '3': outclasses
+outclassed <> b: outclass, f: dp, d: outclassed, p: outclassed
+outclasses <> b: outclass, f: '3'
+outclassing <> b: outclass, f: i
+outcome <> s: outcomes
+outcomes <> b: outcome, f: s
+outcompete <> i: outcompeting, p: outcompeted
+outcompeted <> b: outcompete, f: p
+outcompeting <> b: outcompete, f: i
+outcried <> f: pd, b: outcry
+outcries <> f: s3, b: outcry
+outcrop <> s: outcrops, i: outcropping, p: outcropped, '3': outcrops, d: outcropped
+outcropped <> f: pd, b: outcrop
+outcropping <> b: outcrop, f: i, s: outcroppings
+outcrops <> f: s3, b: outcrop
+outcross <> i: outcrossing, d: outcrossed
+outcrossed <> b: outcross, f: d
+outcrossing <> b: outcross, f: i
+outcry <> s: outcries, i: outcrying, p: outcried, '3': outcries, d: outcried
+outcrying <> f: i, b: outcry
+outdate <> d: outdated
+outdated <> d: outdated, b: outdated, f: d
+outdid <> p: outdid, b: outdid, f: p
+outdistance <> p: outdistanced, d: outdistanced, s: outdistances, i: outdistancing, '3': outdistances
+outdistanced <> b: outdistance, f: pd
+outdistances <> f: s3, b: outdistance
+outdistancing <> f: i, b: outdistance
+outdo <> i: outdoing, p: outdid, '3': outdoes, d: outdone
+outdoes <> b: outdoe, f: '3'
+outdoing <> b: outdo, f: i
+outdone <> d: outdone, b: outdone, f: d
+outdoorsman <> s: outdoorsmen
+outdoorsmen <> b: outdoorsman, f: s
+outdraw <> i: outdrawing, p: outdrew, '3': outdraws, d: outdrawn
+outdrew <> p: outdrew, b: outdrew, f: p
+outdrive <> i: outdriving
+outdriving <> b: outdrive, f: i
+outed <> f: pd, b: out
+outer <> s: outers
+outers <> b: outer, f: s
+outface <> d: outfaced, p: outfaced, i: outfacing, '3': outfaces
+outfaced <> b: outface, f: dp
+outfaces <> f: '3', b: outface
+outfacing <> b: outface, f: i
+outfall <> s: outfalls
+outfalls <> b: outfall, f: s
+outfield <> s: outfields
+outfielder <> s: outfielders
+outfielders <> b: outfielder, f: s
+outfields <> b: outfield, f: s
+outfight <> i: outfighting, p: outfought, '3': outfights, d: outfought
+outfighting <> f: i, b: outfight
+outfights <> f: '3', b: outfight
+outfit <> s: outfits, i: outfitting, p: outfitted, '3': outfits, d: outfitted
+outfits <> f: s3, b: outfit
+outfitted <> f: pd, b: outfit
+outfitter <> s: outfitters
+outfitters <> b: outfitter, f: s
+outfitting <> b: outfit, f: i, i: outfitting
+outflank <> d: outflanked, p: outflanked, i: outflanking, '3': outflanks
+outflanked <> b: outflank, f: dp
+outflanking <> b: outflank, f: i
+outflanks <> b: outflank, f: '3'
+outflow <> s: outflows, i: outflowing
+outflowing <> b: outflow, f: i, i: outflowing
+outflows <> b: outflow, f: s
+outfought <> p: outfought, b: outfought, f: pd, d: outfought
+outfox <> d: outfoxed, i: outfoxing, p: outfoxed, '3': outfoxes
+outfoxed <> b: outfox, f: dp
+outfoxes <> f: '3', b: outfox
+outfoxing <> b: outfox, f: i
+outga <> s: outgas
+outgas <> b: outga, f: s
+outgeneral <> i: outgeneralling, p: outgeneralled, '3': outgenerals, d: outgeneralled
+outgeneralled <> f: pd, b: outgeneral
+outgeneralling <> f: i, b: outgeneral
+outgenerals <> f: '3', b: outgeneral
+outgo <> i: outgoing, p: outwent, '3': outgoes, d: outgone
+outgoes <> f: '3', b: outgo
+outgoing <> s: outgoings, i: outgoing, b: outgoing, f: i
+outgoings <> b: outgoing, f: s
+outgone <> f: d, b: outgo
+outgrew <> f: p, b: outgrow
+outgross <> i: outgrossing, p: outgrossed
+outgrow <> d: outgrown, i: outgrowing, '3': outgrows, p: outgrew
+outgrown <> b: outgrow, f: d, d: outgrown
+outgrowth <> s: outgrowths
+outgrowths <> b: outgrowth, f: s
+outguess <> d: outguessed, i: outguessing, p: outguessed, '3': outguesses
+outguessed <> b: outguess, f: d
+outguessing <> b: outguess, f: i
+outgun <> d: outgunned, p: outgunned
+outgunned <> b: outgun, f: dp
+outhouse <> s: outhouses, p: outhoused
+outhoused <> b: outhouse, f: p
+outhouses <> b: outhouse, f: s
+outing <> f: i, b: out, s: outings
+outlaid <> b: outlay, f: d
+outlast <> p: outlasted, '3': outlasts, d: outlasted, i: outlasting
+outlasted <> b: outlast, f: pd
+outlasting <> b: outlast, f: i
+outlasts <> b: outlast, f: '3'
+outlaw <> d: outlawed, s: outlaws, p: outlawed, i: outlawing, '3': outlaws
+outlawed <> b: outlaw, f: dp, d: outlawed, p: outlawed
+outlawing <> b: outlaw, f: i, i: outlawing
+outlawries <> b: outlawry, f: s
+outlawry <> s: outlawries
+outlaws <> b: outlaw, f: s3
+outlay <> s: outlays, d: outlaid
+outlays <> b: outlay, f: s
+outlet <> s: outlets
+outlets <> b: outlet, f: s
+outlier <> s: outliers, b: outly, f: r
+outliers <> b: outlier, f: s
+outline <> d: outlined, s: outlines, p: outlined, i: outlining, '3': outlines
+outlined <> b: outline, f: dp, p: outlined, d: outlined
+outliner <> s: outliners
+outliners <> b: outliner, f: s
+outlines <> b: outline, f: s3
+outlining <> b: outline, f: i, i: outlining
+outlive <> d: outlived, p: outlived, '3': outlives, i: outliving
+outlived <> b: outlive, f: dp
+outlives <> b: outlive, f: '3'
+outliving <> b: outlive, f: i
+outlook <> s: outlooks
+outlooks <> b: outlook, f: s
+outmaneuver <> i: outmaneuvering, p: outmaneuvered, '3': outmaneuvers, d: outmaneuvered
+outmanoeuvre <> d: outmanoeuvred, p: outmanoeuvred, i: outmanoeuvreing, '3': outmanoeuvres
+outmanoeuvred <> b: outmanoeuvre, f: dp
+outmanoeuvreing <> b: outmanoeuvre, f: i
+outmanoeuvres <> f: '3', b: outmanoeuvre
+outmatch <> p: outmatched, d: outmatched, i: outmatching, '3': outmatches
+outmatched <> b: outmatch, f: pd
+outmatches <> f: '3', b: outmatch
+outmatching <> b: outmatch, f: i
+outnumber <> d: outnumbered, p: outnumbered, i: outnumbering, '3': outnumbers
+outnumbered <> b: outnumber, f: dp, d: outnumbered
+outnumbering <> b: outnumber, f: i
+outnumbers <> b: outnumber, f: '3'
+outpace <> p: outpaced, d: outpaced, i: outpacing, '3': outpaces
+outpaced <> b: outpace, f: pd, p: outpaced
+outpaces <> b: outpace, f: '3'
+outpacing <> b: outpace, f: i
+outpatient <> s: outpatients
+outpatients <> b: outpatient, f: s
+outperform <> d: outperformed, '3': outperforms, p: outperformed, i: outperforming, s: outperforms
+outperformed <> b: outperform, f: dp
+outperforming <> b: outperform, f: i
+outperforms <> b: outperform, f: 3s
+outplay <> d: outplayed, p: outplayed, i: outplaying, '3': outplays
+outplayed <> b: outplay, f: dp
+outplaying <> b: outplay, f: i
+outplays <> f: '3', b: outplay
+outpoint <> p: outpointed, d: outpointed, i: outpointing, '3': outpoints
+outpointed <> b: outpoint, f: pd
+outpointing <> b: outpoint, f: i
+outpoints <> f: '3', b: outpoint
+outport <> s: outports
+outports <> b: outport, f: s
+outpost <> s: outposts, p: outposted
+outposted <> b: outpost, f: p
+outposts <> b: outpost, f: s
+outpouring <> s: outpourings, i: outpouring, b: outpouring, f: i
+outpourings <> b: outpouring, f: s
+output <> s: outputs, d: output, b: output, f: d, '3': outputs, i: outputting
+outputs <> b: output, f: s3
+outputting <> b: output, f: i
+outrage <> s: outrages, i: outraging, p: outraged, '3': outrages, d: outraged
+outraged <> f: pd, b: outrage
+outrages <> f: s3, b: outrage
+outraging <> b: outrage, f: i
+outran <> p: outran, b: outran, f: p
+outrank <> '3': outranks, p: outranked, i: outranking, s: outranks, d: outranked
+outranked <> b: outrank, f: pd
+outranking <> b: outrank, f: i
+outranks <> b: outrank, f: 3s
+outreach <> i: outreaching, s: outreaches, p: outreached
+outreached <> b: outreach, f: p
+outreaches <> b: outreach, f: s
+outreaching <> b: outreach, f: i
+outridden <> f: d, b: outride
+outride <> '3': outrides, i: outriding, p: outrode, d: outridden
+outrider <> s: outriders
+outriders <> b: outrider, f: s
+outrides <> b: outride, f: '3'
+outriding <> b: outride, f: i
+outrigger <> s: outriggers
+outriggers <> b: outrigger, f: s
+outright <> s: outrights
+outrights <> b: outright, f: s
+outrival <> i: outrivalling, p: outrivalled, '3': outrivals, d: outrivalled
+outrivalled <> f: pd, b: outrival
+outrivalling <> f: i, b: outrival
+outrivals <> f: '3', b: outrival
+outrode <> f: p, b: outride
+outrun <> i: outrunning, d: outrun, b: outrun, f: d, '3': outruns, p: outran
+outrunning <> b: outrun, f: i
+outruns <> b: outrun, f: '3'
+outs <> f: '3', b: out
+outsail <> i: outsailing, p: outsailed, '3': outsails, d: outsailed
+outsailed <> f: pd, b: outsail
+outsailing <> f: i, b: outsail
+outsails <> f: '3', b: outsail
+outscore <> p: outscored, i: outscoring, d: outscored, '3': outscores
+outscored <> b: outscore, f: pd
+outscoring <> b: outscore, f: i
+outsell <> '3': outsells, s: outsells, i: outselling, p: outsold, d: outsold
+outselling <> b: outsel, f: i
+outsells <> b: outsell, f: 3s
+outshine <> '3': outshines, i: outshining, p: outshone, d: outshone
+outshines <> b: outshine, f: '3'
+outshining <> b: outshine, f: i, i: outshining
+outshone <> d: outshone, b: outshone, f: dp, p: outshone
+outshoot <> '3': outshoots
+outshoots <> b: outshoot, f: '3'
+outshop <> d: outshopped
+outsider <> s: outsiders
+outsiders <> b: outsider, f: s
+outsize <> p: outsized, '3': outsizes
+outsized <> b: outsize, f: p
+outsizes <> b: outsize, f: '3'
+outskirts <> s: outskirts, b: outskirts, f: s
+outsmart <> d: outsmarted, i: outsmarting, p: outsmarted, '3': outsmarts
+outsmarted <> b: outsmart, f: dp
+outsmarting <> b: outsmart, f: i
+outsmarts <> f: '3', b: outsmart
+outsold <> f: pd, b: outsell
+outsole <> s: outsoles
+outsoles <> b: outsole, f: s
+outsource <> i: outsourcing, p: outsourced, '3': outsources, d: outsourced
+outsourcing <> b: outsource, f: i, i: outsourcing
+outspan <> i: outspanning, p: outspanned, '3': outspans, d: outspanned
+outspanned <> f: pd, b: outspan
+outspanning <> f: i, b: outspan
+outspans <> f: '3', b: outspan
+outstare <> s: outstares, i: outstaring, p: outstared, '3': outstares, d: outstared
+outstares <> b: outstare, f: s
+outstation <> s: outstations
+outstations <> b: outstation, f: s
+outstay <> d: outstayed, p: outstayed, i: outstaying, '3': outstays
+outstayed <> b: outstay, f: dp
+outstaying <> b: outstay, f: i
+outstays <> f: '3', b: outstay
+outstretch <> i: outstretching
+outstretching <> b: outstretch, f: i
+outstrip <> d: outstripped, '3': outstrips, i: outstripping, p: outstripped
+outstripped <> b: outstrip, f: dp
+outstripping <> b: outstrip, f: i
+outstrips <> b: outstrip, f: '3'
+outswing <> b: outsw, f: i
+outturn <> s: outturns
+outturns <> b: outturn, f: s
+outvote <> d: outvoted, i: outvoting, p: outvoted, '3': outvotes
+outvoted <> f: dp, b: outvote
+outvotes <> f: '3', b: outvote
+outvoting <> f: i, b: outvote
+outwear <> i: outwearing, p: outwore, '3': outwears, d: outworn
+outwearing <> f: i, b: outwear
+outwears <> f: '3', b: outwear
+outweigh <> d: outweighed, '3': outweighs, p: outweighed, i: outweighing
+outweighed <> b: outweigh, f: dp
+outweighing <> b: outweigh, f: i
+outweighs <> b: outweigh, f: '3'
+outwent <> f: p, b: outgo
+outwit <> d: outwitted, i: outwitting, p: outwitted, '3': outwits, s: outwits
+outwits <> b: outwit, f: 3s
+outwitted <> b: outwit, f: dp
+outwitting <> b: outwit, f: i
+outwore <> f: p, b: outwear
+outwork <> s: outworks, i: outworking
+outworker <> s: outworkers
+outworkers <> b: outworker, f: s
+outworking <> i: outworking, b: outworking, f: i
+outworks <> b: outwork, f: s
+outworn <> d: outworn, b: outworn, f: d
+outyield <> p: outyielded
+outyielded <> b: outyield, f: p
+ova <> s: ova, b: ova, f: s
+oval <> s: ovals
+ovals <> b: oval, f: s
+ovaries <> b: ovary, f: s
+ovary <> s: ovaries
+ovation <> s: ovations
+ovations <> b: ovation, f: s
+oven <> s: ovens
+ovens <> b: oven, f: s
+over <> s: overs
+over-exercise <> d: over-exercised
+over-exercised <> b: over-exercise, f: d
+over-report <> i: over-reporting, p: over-reported
+over-reporting <> b: over-report, f: i
+over-represent <> d: over-represented
+over-represented <> b: over-represent, f: d
+overachieve <> i: overachieving, p: overachieved, '3': overachieves, d: overachieved
+overachieved <> f: pd, b: overachieve
+overachieves <> f: '3', b: overachieve
+overachieving <> b: overachieve, f: i
+overact <> s: overacts, i: overacting, p: overacted, '3': overacts, d: overacted
+overacted <> f: pd, b: overact
+overacting <> b: overact, f: i
+overacts <> f: s3, b: overact
+overall <> s: overalls
+overalled <> p: overalled, b: overalled, f: p
+overalls <> b: overall, f: s
+overarch <> i: overarching, p: overarched, '3': overarches, d: overarched
+overarched <> f: pd, b: overarch
+overarches <> f: '3', b: overarch
+overarching <> i: overarching, b: overarching, f: i
+overate <> f: p, b: overeat
+overawe <> d: overawed, '3': overawes, p: overawed, i: overawing
+overawed <> b: overawe, f: dp, d: overawed, p: overawed
+overawes <> b: overawe, f: '3'
+overawing <> f: i, b: overawe
+overbalance <> p: overbalanced, i: overbalancing, d: overbalanced, s: overbalances, '3': overbalances
+overbalanced <> b: overbalance, f: pd
+overbalances <> f: s3, b: overbalance
+overbalancing <> b: overbalance, f: i
+overbear <> '3': overbears, i: overbearing, p: overbore, d: overborne
+overbearing <> f: i, b: overbear
+overbid <> d: overbid, p: overbid, i: overbidding, f: dp, b: overbid, '3': overbids
+overbidding <> b: overbid, f: i
+overbids <> f: '3', b: overbid
+overbook <> i: overbooking, d: overbooked, '3': overbooks
+overbooked <> b: overbook, f: d
+overbooking <> b: overbook, f: i
+overbooks <> b: overbook, f: '3'
+overboot <> s: overboots
+overboots <> b: overboot, f: s
+overbore <> f: p, b: overbear
+overborne <> d: overborne, b: overborne, f: d
+overbridge <> s: overbridges
+overbridges <> b: overbridge, f: s
+overbuild <> i: overbuilding
+overbuilding <> i: overbuilding, b: overbuilding, f: i
+overburden <> d: overburdened, p: overburdened, i: overburdening, '3': overburdens
+overburdened <> b: overburden, f: dp, p: overburdened, d: overburdened
+overburdening <> b: overburden, f: i
+overburdens <> f: '3', b: overburden
+overcall <> s: overcalls
+overcalls <> b: overcall, f: s
+overcame <> b: overcome, f: p
+overcapitalize <> i: overcapitalizing, p: overcapitalized, '3': overcapitalizes, d: overcapitalized
+overcapitalized <> f: pd, b: overcapitalize
+overcapitalizes <> f: '3', b: overcapitalize
+overcapitalizing <> f: i, b: overcapitalize
+overcast <> i: overcasting, p: overcast, '3': overcasts, d: overcast, s: overcasts
+overcasting <> b: overcast, f: i
+overcharge <> i: overcharging, d: overcharged, p: overcharged, s: overcharges, '3': overcharges
+overcharged <> b: overcharge, f: dp
+overcharges <> f: s3, b: overcharge
+overcharging <> b: overcharge, f: i, i: overcharging
+overcloud <> p: overclouded, i: overclouding, '3': overclouds, d: overclouded
+overclouded <> f: pd, b: overcloud
+overclouding <> f: i, b: overcloud
+overclouds <> f: '3', b: overcloud
+overcoat <> s: overcoats, d: overcoated, p: overcoated
+overcoated <> b: overcoat, f: dp
+overcoats <> b: overcoat, f: s
+overcome <> d: overcome, b: overcome, f: d, i: overcoming, p: overcame, '3': overcomes
+overcomes <> b: overcome, f: '3'
+overcoming <> b: overcome, f: i
+overcommit <> i: overcommitting, d: overcommitted, p: overcommitted
+overcommitted <> b: overcommit, f: dp
+overcommitting <> b: overcommit, f: i
+overcompensate <> i: overcompensating, d: overcompensated, p: overcompensated, '3': overcompensates
+overcompensated <> b: overcompensate, f: dp
+overcompensates <> f: '3', b: overcompensate
+overcompensating <> b: overcompensate, f: i
+overcook <> d: overcooked, p: overcooked, i: overcooking, '3': overcooks
+overcooked <> b: overcook, f: dp, p: overcooked, d: overcooked
+overcooking <> b: overcook, f: i
+overcooks <> f: '3', b: overcook
+overcrop <> i: overcropping, p: overcropped, '3': overcrops, d: overcropped
+overcropped <> f: pd, b: overcrop
+overcropping <> f: i, b: overcrop
+overcrops <> f: '3', b: overcrop
+overcrowd <> i: overcrowding, p: overcrowded, '3': overcrowds, d: overcrowded
+overcrowded <> f: pd, b: overcrowd
+overcrowding <> b: overcrowd, f: i, i: overcrowding
+overcrowds <> f: '3', b: overcrowd
+overdetermine <> d: overdetermined, p: overdetermined, i: overdetermining
+overdetermined <> b: overdetermine, f: dp, d: overdetermined, p: overdetermined
+overdetermining <> b: overdetermine, f: i
+overdeveloped <> b: overdevelope, f: dp, p: overdeveloped
+overdevelopment <> s: overdevelopments
+overdevelopments <> b: overdevelopment, f: s
+overdid <> b: overdo, f: p
+overdo <> i: overdoing, d: overdone, p: overdid, '3': overdoes
+overdoes <> b: overdoe, f: '3'
+overdoing <> b: overdo, f: i
+overdone <> b: overdo, f: d, d: overdone
+overdose <> s: overdoses, i: overdosing, p: overdosed, d: overdosed, '3': overdoses
+overdosed <> b: overdose, f: pd, d: overdosed, p: overdosed
+overdoses <> f: s3, b: overdose
+overdosing <> b: overdose, f: i, i: overdosing
+overdraft <> s: overdrafts
+overdrafts <> b: overdraft, f: s
+overdraw <> i: overdrawing, p: overdrew, '3': overdraws, d: overdrawn
+overdrawn <> f: d, b: overdraw
+overdress <> d: overdressed, p: overdressed, i: overdressing, '3': overdresses
+overdressed <> b: overdress, f: dp, d: overdressed
+overdresses <> f: '3', b: overdress
+overdressing <> b: overdress, f: i
+overdrive <> i: overdriving, p: overdrove, '3': overdrives, d: overdriven
+overdriven <> d: overdriven, b: overdriven, f: d
+overdrives <> f: '3', b: overdrive
+overdriving <> b: overdrive, f: i
+overdrove <> f: p, b: overdrive
+overdub <> p: overdubbed, s: overdubs, '3': overdubs, i: overdubbing
+overdubbed <> b: overdub, f: p
+overdubbing <> b: overdub, f: i
+overdubs <> b: overdub, f: s3
+overdue <> s: overdues
+overdues <> b: overdue, f: s
+overeat <> i: overeating, '3': overeats, p: overate, d: overeaten
+overeaten <> d: overeaten, b: overeaten, f: d
+overeater <> s: overeaters
+overeaters <> b: overeater, f: s
+overeating <> b: overeat, f: i, i: overeating
+overeats <> b: overeat, f: '3'
+overemphasise <> d: overemphasised, '3': overemphasises, i: overemphasising, p: overemphasised
+overemphasised <> b: overemphasise, f: dp
+overemphasises <> b: overemphasise, f: '3'
+overemphasising <> b: overemphasise, f: i
+overemphasize <> d: overemphasized, i: overemphasizing, '3': overemphasizes, p: overemphasized
+overemphasized <> b: overemphasize, f: dp
+overemphasizes <> b: overemphasize, f: '3'
+overemphasizing <> b: overemphasize, f: i
+overestimate <> d: overestimated, p: overestimated, i: overestimating, '3': overestimates, s: overestimates
+overestimated <> b: overestimate, f: dp
+overestimates <> b: overestimate, f: 3s
+overestimating <> b: overestimate, f: i
+overexcited <> p: overexcited, b: overexcited, f: pd, d: overexcited
+overexert <> i: overexerting, p: overexerted, '3': overexerts, d: overexerted
+overexerted <> f: pd, b: overexert
+overexerting <> f: i, b: overexert
+overexerts <> f: '3', b: overexert
+overexpose <> i: overexposing, p: overexposed, '3': overexposes, d: overexposed
+overexposed <> d: overexposed, b: overexposed, f: d
+overexposes <> f: '3', b: overexpose
+overexposing <> f: i, b: overexpose
+overextend <> d: overextended, p: overextended, i: overextending, '3': overextends
+overextended <> b: overextend, f: dp, p: overextended
+overfall <> s: overfalls
+overfalls <> b: overfall, f: s
+overfed <> b: overf, f: dp, p: overfed
+overfeed <> i: overfeeding, p: overfed, '3': overfeeds, d: overfed
+overfeeding <> b: overfeed, f: i, i: overfeeding
+overfeeds <> f: '3', b: overfeed
+overfill <> i: overfilling, p: overfilled, '3': overfills, d: overfilled
+overfilled <> b: overfil, f: dp
+overfilling <> b: overfil, f: i, i: overfilling
+overfish <> i: overfishing, d: overfished, p: overfished
+overfished <> b: overfish, f: dp
+overfishing <> b: overfish, f: i, i: overfishing
+overflew <> f: p, b: overfly
+overflies <> f: '3', b: overfly
+overflight <> s: overflights
+overflights <> b: overflight, f: s
+overflow <> i: overflowing, p: overflowed, '3': overflows, d: overflowed, s: overflows
+overflowed <> b: overflow, f: pd
+overflowing <> b: overflow, f: i, i: overflowing
+overflown <> f: d, b: overfly
+overflows <> b: overflow, f: 3s
+overfly <> i: overflying, p: overflew, '3': overflies, d: overflown
+overflying <> b: overfly, f: i, i: overflying
+overfund <> i: overfunding, d: overfunded
+overfunded <> b: overfund, f: d
+overfunding <> b: overfund, f: i
+overgeneralization <> s: overgeneralizations
+overgeneralizations <> b: overgeneralization, f: s
+overgeneralize <> d: overgeneralized, i: overgeneralizing
+overgeneralized <> b: overgeneralize, f: d
+overgeneralizing <> b: overgeneralize, f: i
+overgraze <> d: overgrazed, i: overgrazing
+overgrazed <> d: overgrazed, b: overgrazed, f: d
+overgrazing <> i: overgrazing, b: overgrazing, f: i
+overgrew <> f: p, b: overgrow
+overground <> s: overgrounds
+overgrounds <> b: overground, f: s
+overgrow <> d: overgrown, i: overgrowing, p: overgrew, '3': overgrows
+overgrowing <> b: overgrow, f: i
+overgrown <> d: overgrown, b: overgrown, f: d
+overgrows <> f: '3', b: overgrow
+overgrowth <> s: overgrowths
+overgrowths <> b: overgrowth, f: s
+overhang <> s: overhangs, i: overhanging, p: overhung, '3': overhangs, d: overhung
+overhanging <> i: overhanging, b: overhanging, f: i
+overhangs <> f: s3, b: overhang
+overhaul <> d: overhauled, i: overhauling, p: overhauled, s: overhauls, '3': overhauls
+overhauled <> b: overhaul, f: dp
+overhauling <> b: overhaul, f: i
+overhauls <> f: s3, b: overhaul
+overhead <> s: overheads
+overheads <> b: overhead, f: s
+overhear <> d: overheard, p: overheard, i: overhearing, '3': overhears
+overheard <> b: overhear, f: dp, d: overheard, s: overheards, p: overheard
+overhearing <> b: overhear, f: i
+overhears <> b: overhear, f: '3'
+overheat <> i: overheating, d: overheated, '3': overheats, p: overheated, s: overheats
+overheated <> b: overheat, f: dp, d: overheated, p: overheated
+overheating <> i: overheating, b: overheating, f: i
+overheats <> b: overheat, f: 3s
+overhit <> i: overhitting
+overhitting <> b: overhit, f: i
+overhung <> d: overhung, b: overhung, f: d
+overindulge <> i: overindulging, p: overindulged, '3': overindulges, d: overindulged
+overindulged <> f: pd, b: overindulge
+overindulges <> f: '3', b: overindulge
+overindulging <> f: i, b: overindulge
+overinflated <> b: overinflate, f: p
+overjoy <> i: overjoying, p: overjoyed, '3': overjoys, d: overjoyed
+overjoyed <> f: pd, b: overjoy
+overlaid <> b: overlay, f: dp
+overlain <> d: overlain, b: overlain, f: d
+overlap <> i: overlapping, s: overlaps, '3': overlaps, d: overlapped, p: overlapped
+overlapped <> b: overlap, f: dp, d: overlapped
+overlapping <> b: overlap, f: i, i: overlapping
+overlaps <> b: overlap, f: s3
+overlay <> d: overlaid, p: overlaid, i: overlaying, '3': overlays, f: p, b: overlay, s: overlays
+overlayer <> i: overlayering
+overlayering <> b: overlayer, f: i
+overlaying <> b: overlay, f: i
+overlays <> b: overlay, f: 3s
+overleap <> p: overleaped, i: overleaping, '3': overleaps, d: overleapt
+overleaped <> b: overleap, f: p
+overleaping <> f: i, b: overleap
+overleaps <> f: '3', b: overleap
+overleapt <> f: pd, b: overleap
+overlie <> i: overlying, p: overlay, '3': overlies, d: overlain
+overlies <> b: overly, f: '3'
+overload <> i: overloading, d: overloaded, s: overloads, '3': overloads, p: overloaded
+overloaded <> b: overload, f: dp, d: overloaded
+overloading <> b: overload, f: i, i: overloading
+overloads <> b: overload, f: s3
+overlock <> d: overlocked, i: overlocking, p: overlocked
+overlocked <> b: overlock, f: dp
+overlocking <> b: overlock, f: i
+overlook <> i: overlooking, d: overlooked, '3': overlooks, p: overlooked
+overlooked <> b: overlook, f: dp, d: overlooked
+overlooker <> s: overlookers
+overlookers <> b: overlooker, f: s
+overlooking <> b: overlook, f: i
+overlooks <> b: overlook, f: '3'
+overlord <> s: overlords
+overlords <> b: overlord, f: s
+overlordship <> s: overlordships
+overlordships <> b: overlordship, f: s
+overly <> '3': overlies
+overlying <> i: overlying, b: overlying, f: i
+overman <> i: overmanning, d: overmanned, p: overmanned
+overmanned <> b: overman, f: dp, d: overmanned
+overmanning <> b: overman, f: i, i: overmanning
+overmaster <> i: overmastering, p: overmastered, '3': overmasters, d: overmastered
+overmastered <> f: pd, b: overmaster
+overmastering <> f: i, b: overmaster
+overmasters <> f: '3', b: overmaster
+overnight <> s: overnights
+overnights <> b: overnight, f: s
+overpaid <> b: overpay, f: dp, d: overpaid
+overpaint <> d: overpainted, p: overpainted
+overpainted <> b: overpaint, f: dp, d: overpainted
+overpass <> s: overpasses
+overpasses <> b: overpass, f: s
+overpay <> d: overpaid, p: overpaid, i: overpaying, '3': overpays
+overpayment <> s: overpayments
+overpayments <> b: overpayment, f: s
+overplay <> d: overplayed, p: overplayed, i: overplaying, '3': overplays
+overplayed <> b: overplay, f: dp
+overplaying <> b: overplay, f: i
+overplays <> b: overplay, f: '3'
+overpopulate <> d: overpopulated, p: overpopulated, i: overpopulating
+overpopulated <> b: overpopulate, f: dp, p: overpopulated
+overpopulating <> b: overpopulate, f: i
+overpower <> i: overpowering, d: overpowered, p: overpowered, '3': overpowers, s: overpowers
+overpowered <> b: overpower, f: dp, d: overpowered, p: overpowered
+overpowering <> b: overpower, f: i, i: overpowering
+overpowers <> b: overpower, f: 3s
+overpraise <> d: overpraised, '3': overpraises, i: overpraising, p: overpraised
+overpraised <> f: dp, b: overpraise
+overpraises <> b: overpraise, f: '3'
+overpraising <> f: i, b: overpraise
+overpressure <> i: overpressuring
+overpressuring <> b: overpressure, f: i
+overprice <> d: overpriced, i: overpricing, '3': overprices, p: overpriced
+overpriced <> d: overpriced, b: overpriced, f: d
+overprices <> b: overprice, f: '3'
+overpricing <> b: overprice, f: i, i: overpricing, s: overpricings
+overprint <> p: overprinted, d: overprinted, i: overprinting, s: overprints, '3': overprints
+overprinted <> b: overprint, f: pd
+overprinting <> b: overprint, f: i, i: overprinting
+overprints <> f: s3, b: overprint
+overproduce <> d: overproduced, '3': overproduces, i: overproducing, p: overproduced
+overproduced <> b: overproduce, f: dp
+overproduces <> b: overproduce, f: '3'
+overproducing <> b: overproduce, f: i
+overprotect <> d: overprotected, i: overprotecting, p: overprotected, '3': overprotects
+overprotected <> f: dp, b: overprotect
+overprotecting <> f: i, b: overprotect
+overprotects <> f: '3', b: overprotect
+overqualified <> b: overqualify, f: dp
+overran <> p: overran, b: overran, f: p
+overrate <> d: overrated, i: overrating, '3': overrates, p: overrated
+overrated <> d: overrated, b: overrated, f: dp, p: overrated
+overrates <> b: overrate, f: '3'
+overrating <> b: overrate, f: i
+overreach <> p: overreached, i: overreaching, d: overreached, '3': overreaches
+overreached <> b: overreach, f: pd
+overreaches <> b: overreach, f: '3'
+overreaching <> b: overreach, f: i
+overreact <> i: overreacting, p: overreacted, d: overreacted, '3': overreacts
+overreacted <> b: overreact, f: pd
+overreacting <> b: overreact, f: i
+overreacts <> b: overreact, f: '3'
+overridden <> d: overridden, b: overridden, f: d
+override <> '3': overrides, i: overriding, s: overrides, p: overrode, d: overridden
+overrider <> s: overriders
+overriders <> b: overrider, f: s
+overrides <> b: override, f: 3s
+overriding <> b: override, f: i, i: overriding, s: overridings
+overrode <> p: overrode, b: overrode, f: p
+overrule <> d: overruled, i: overruling, p: overruled, '3': overrules
+overruled <> b: overrule, f: dp
+overrules <> b: overrule, f: '3'
+overruling <> b: overrule, f: i, i: overruling
+overrun <> d: overrun, b: overrun, f: d, i: overrunning, s: overruns, '3': overruns, p: overran
+overrunning <> b: overrun, f: i, i: overrunning
+overruns <> b: overrun, f: s3
+overs <> b: over, f: s
+oversail <> i: oversailing, p: oversailed
+oversailed <> b: oversail, f: p
+oversailing <> b: oversail, f: i
+oversample <> i: oversampling, p: oversampled
+oversampling <> b: oversample, f: i
+oversaw <> f: p, b: oversee
+oversee <> i: overseeing, '3': oversees, p: oversaw, d: overseen
+overseen <> d: overseen, b: overseen, f: d
+overseer <> s: overseers
+overseers <> b: overseer, f: s
+oversew <> i: oversewing, p: oversewed, '3': oversews, d: oversewn
+oversewed <> f: p, b: oversew
+oversewing <> f: i, b: oversew
+oversewn <> f: d, b: oversew
+oversews <> f: '3', b: oversew
+oversexed <> b: oversex, f: pd
+overshadow <> d: overshadowed, p: overshadowed, '3': overshadows, i: overshadowing
+overshadowed <> b: overshadow, f: dp
+overshadowing <> b: overshadow, f: i, i: overshadowing
+overshadows <> b: overshadow, f: '3'
+overshirt <> s: overshirts
+overshirts <> b: overshirt, f: s
+overshoe <> s: overshoes
+overshoes <> b: overshoe, f: s
+overshoot <> i: overshooting, '3': overshoots, s: overshoots, p: overshot, d: overshot
+overshooting <> b: overshoot, f: i
+overshoots <> b: overshoot, f: 3s
+overshot <> p: overshot, b: overshot, f: pd, d: overshot
+oversight <> s: oversights, d: oversighted
+oversighted <> b: oversight, f: d
+oversights <> b: oversight, f: s
+oversimplification <> s: oversimplifications
+oversimplifications <> b: oversimplification, f: s
+oversimplified <> b: oversimplify, f: dp, p: oversimplified, d: oversimplified
+oversimplify <> '3': oversimplifies, d: oversimplified, i: oversimplifying, p: oversimplified
+oversize <> p: oversized, d: oversized
+oversized <> p: oversized, b: oversized, f: p
+oversleep <> i: oversleeping, '3': oversleeps, p: overslept, d: overslept
+oversleeping <> b: oversleep, f: i
+oversleeps <> b: oversleep, f: '3'
+overslept <> p: overslept, b: overslept, f: p
+overspend <> i: overspending, '3': overspends, p: overspent, d: overspent
+overspending <> b: overspend, f: i, i: overspending
+overspends <> b: overspend, f: '3'
+overspent <> d: overspent, b: overspent, f: dp, p: overspent
+overspill <> '3': overspills
+overspills <> b: overspill, f: '3'
+overspray <> i: overspraying
+overspraying <> b: overspray, f: i
+overspread <> i: overspreading, p: overspread, '3': overspreads, d: overspread
+overspreading <> b: overspread, f: i
+overstate <> d: overstated, '3': overstates, i: overstating, s: overstates, p: overstated
+overstated <> b: overstate, f: dp, d: overstated
+overstatement <> s: overstatements
+overstatements <> b: overstatement, f: s
+overstates <> b: overstate, f: 3s
+overstating <> b: overstate, f: i
+overstay <> d: overstayed, p: overstayed, i: overstaying, '3': overstays
+overstayed <> b: overstay, f: dp
+overstaying <> b: overstay, f: i
+overstays <> f: '3', b: overstay
+overstep <> d: overstepped, p: overstepped, i: overstepping, '3': oversteps
+overstepped <> b: overstep, f: dp
+overstepping <> b: overstep, f: i
+oversteps <> b: overstep, f: '3'
+overstock <> i: overstocking, d: overstocked, s: overstocks, p: overstocked, '3': overstocks
+overstocked <> f: dp, b: overstock, d: overstocked
+overstocking <> b: overstock, f: i
+overstocks <> f: s3, b: overstock
+overstrain <> d: overstrained, p: overstrained, i: overstraining, '3': overstrains
+overstrained <> b: overstrain, f: dp
+overstraining <> b: overstrain, f: i
+overstrains <> f: '3', b: overstrain
+overstress <> d: overstressed, i: overstressing, p: overstressed
+overstressed <> b: overstress, f: dp
+overstressing <> b: overstress, f: i
+overstretch <> d: overstretched, p: overstretched, i: overstretching, '3': overstretches
+overstretched <> b: overstretch, f: dp, p: overstretched, d: overstretched
+overstretching <> b: overstretch, f: i
+overstrike <> i: overstriking, s: overstrikes
+overstrikes <> b: overstrike, f: s
+overstriking <> b: overstrike, f: i
+overstrung <> p: overstrung, b: overstrung, f: p
+overstuff <> p: overstuffed, i: overstuffing, '3': overstuffs, d: overstuffed
+overstuffed <> p: overstuffed, b: overstuffed, f: p
+overstuffing <> f: i, b: overstuff
+overstuffs <> f: '3', b: overstuff
+oversubscribe <> d: oversubscribed
+oversubscribed <> b: oversubscribe, f: d, d: oversubscribed, p: oversubscribed
+oversupplied <> b: oversupply, f: d
+oversupply <> d: oversupplied, i: oversupplying, p: oversupplied, '3': oversupplies
+overtake <> d: overtaken, p: overtook, i: overtaking, '3': overtakes
+overtaken <> b: overtake, f: d
+overtakes <> b: overtake, f: '3'
+overtaking <> b: overtake, f: i, i: overtaking
+overtax <> d: overtaxed, i: overtaxing, '3': overtaxes, p: overtaxed
+overtaxed <> f: dp, b: overtax
+overtaxes <> b: overtax, f: '3'
+overtaxing <> b: overtax, f: i
+overthrew <> p: overthrew, b: overthrew, f: p
+overthrow <> d: overthrown, i: overthrowing, '3': overthrows, s: overthrows, p: overthrew
+overthrowing <> b: overthrow, f: i, i: overthrowing
+overthrown <> b: overthrow, f: d, d: overthrown
+overthrows <> b: overthrow, f: 3s
+overthrust <> i: overthrusting
+overthrusting <> b: overthrust, f: i
+overtire <> d: overtired, p: overtired, i: overtiring, '3': overtires
+overtired <> b: overtire, f: dp, p: overtired
+overtone <> s: overtones
+overtones <> b: overtone, f: s
+overtook <> b: overtake, f: p
+overtop <> d: overtopped, i: overtopping, p: overtopped, '3': overtops
+overtopped <> b: overtop, f: dp
+overtopping <> b: overtop, f: i
+overtops <> f: '3', b: overtop
+overtrade <> i: overtrading
+overtrading <> b: overtrade, f: i
+overtrain <> i: overtraining
+overtraining <> b: overtrain, f: i
+overtrump <> i: overtrumping, p: overtrumped, '3': overtrumps, d: overtrumped
+overtrumped <> f: pd, b: overtrump
+overtrumping <> f: i, b: overtrump
+overtrumps <> f: '3', b: overtrump
+overture <> s: overtures, '3': overtures
+overtures <> b: overture, f: s3
+overturn <> d: overturned, p: overturned, i: overturning, '3': overturns
+overturned <> b: overturn, f: dp, p: overturned, d: overturned
+overturning <> b: overturn, f: i, i: overturning
+overturns <> b: overturn, f: '3'
+overuse <> d: overused, p: overused, i: overusing, '3': overuses
+overused <> b: overuse, f: dp
+overusing <> b: overuse, f: i
+overvaluation <> s: overvaluations
+overvaluations <> b: overvaluation, f: s
+overvalue <> d: overvalued, p: overvalued, '3': overvalues, i: overvaluing, s: overvalues
+overvalued <> b: overvalue, f: dp, d: overvalued, p: overvalued
+overvalues <> b: overvalue, f: 3s
+overvaluing <> b: overvalue, f: i
+overview <> s: overviews, i: overviewing, p: overviewed
+overviewed <> b: overview, f: p
+overviewing <> b: overview, f: i
+overviews <> b: overview, f: s
+overwater <> i: overwatering, d: overwatered, p: overwatered, b: overwate, f: r
+overwatered <> b: overwater, f: dp
+overwatering <> b: overwater, f: i
+overweening <> i: overweening, b: overweening, f: i
+overweight <> '3': overweights, d: overweighted
+overweighted <> b: overweight, f: d, d: overweighted, p: overweighted
+overweights <> b: overweight, f: '3'
+overwhelm <> d: overwhelmed, p: overwhelmed, '3': overwhelms, i: overwhelming
+overwhelmed <> b: overwhelm, f: dp, d: overwhelmed, p: overwhelmed
+overwhelming <> f: i, b: overwhelm
+overwhelms <> b: overwhelm, f: '3'
+overwinter <> d: overwintered, '3': overwinters, i: overwintering, p: overwintered
+overwintered <> b: overwinter, f: dp
+overwintering <> b: overwinter, f: i, i: overwintering
+overwinters <> b: overwinter, f: '3'
+overwork <> d: overworked, i: overworking, p: overworked, '3': overworks
+overworked <> d: overworked, b: overworked, f: dp, p: overworked
+overworking <> b: overwork, f: i
+overworks <> b: overwork, f: '3'
+overwrap <> d: overwrapped, i: overwrapping
+overwrapped <> b: overwrap, f: d
+overwrapping <> b: overwrap, f: i
+overwrite <> '3': overwrites, i: overwriting, p: overwrote, d: overwritten
+overwrites <> b: overwrite, f: '3'
+overwriting <> b: overwrit, f: i
+overwritten <> d: overwritten, b: overwritten, f: d
+overwrote <> f: p, b: overwrite
+overwrought <> d: overwrought, b: overwrought, f: dp, p: overwrought
+oviduct <> s: oviducts
+oviducts <> b: oviduct, f: s
+oviposit <> i: ovipositing
+ovipositing <> b: oviposit, f: i
+ovoid <> s: ovoids
+ovoids <> b: ovoid, f: s
+ovulate <> i: ovulating, d: ovulated, p: ovulated, s: ovulates, '3': ovulates
+ovulated <> b: ovulate, f: dp
+ovulates <> f: s3, b: ovulate
+ovulating <> b: ovulate, f: i
+ovulation <> s: ovulations
+ovulations <> b: ovulation, f: s
+ovule <> s: ovules
+ovules <> b: ovule, f: s
+ow <> '3': ows, r: ower, s: ows
+owe <> i: owing, p: owed, '3': owes, d: owed
+owed <> b: owe, f: pd
+ower <> b: ow, f: r, s: owers, '3': owers
+owes <> b: owe, f: '3'
+owing <> b: owe, f: i, i: owing, s: owings
+owl <> s: owls
+owlet <> s: owlets
+owlets <> b: owlet, f: s
+owls <> b: owl, f: s
+own <> d: owned, '3': owns, p: owned, i: owning
+own-label <> s: own-labels
+own-labels <> b: own-label, f: s
+owned <> b: own, f: dp, p: owned, d: owned
+owner <> s: owners
+owner-occupier <> s: owner-occupiers
+owner-occupiers <> b: owner-occupier, f: s
+owners <> b: owner, f: s
+ownership <> s: ownerships
+ownerships <> b: ownership, f: s
+owning <> b: own, f: i, i: owning
+owns <> b: own, f: '3'
+ows <> b: ow, f: 3s
+ox <> s: oxen, r: oxer
+oxalate <> s: oxalates
+oxalates <> b: oxalate, f: s
+oxbow <> s: oxbows
+oxbows <> b: oxbow, f: s
+oxcart <> s: oxcarts
+oxcarts <> b: oxcart, f: s
+oxen <> b: ox, f: s
+oxer <> b: ox, f: r
+oxhide <> s: oxhides
+oxhides <> b: oxhide, f: s
+oxidant <> s: oxidants
+oxidants <> b: oxidant, f: s
+oxidation <> s: oxidations
+oxidations <> b: oxidation, f: s
+oxide <> s: oxides
+oxides <> b: oxide, f: s
+oxidise <> i: oxidising, d: oxidised, p: oxidised, s: oxidises, '3': oxidises
+oxidised <> b: oxidise, f: dp, d: oxidised, p: oxidised
+oxidises <> b: oxidise, f: s3
+oxidising <> b: oxidise, f: i
+oxidize <> d: oxidized, '3': oxidizes, i: oxidizing, p: oxidized
+oxidized <> b: oxidize, f: dp, d: oxidized, p: oxidized
+oxidizes <> b: oxidize, f: '3'
+oxidizing <> b: oxidize, f: i
+Oxley <> s: oxleys
+oxlip <> s: oxlips
+oxlips <> b: oxlip, f: s
+oxo <> s: oxos
+Oxonian <> s: oxonians
+oxos <> b: oxo, f: s
+oxtail <> s: oxtails
+oxtails <> b: oxtail, f: s
+oxter <> s: oxters
+oxters <> b: oxter, f: s
+oxyanion <> s: oxyanions
+oxyanions <> b: oxyanion, f: s
+oxygen <> s: oxygens
+oxygenate <> p: oxygenated, '3': oxygenates, d: oxygenated, i: oxygenating
+oxygenated <> p: oxygenated, b: oxygenated, f: pd, d: oxygenated
+oxygenates <> b: oxygenate, f: '3'
+oxygenating <> b: oxygenate, f: i
+oxygenator <> s: oxygenators
+oxygenators <> b: oxygenator, f: s
+oxygenize <> i: oxygenizing, p: oxygenized, '3': oxygenizes, d: oxygenized
+oxygenized <> f: pd, b: oxygenize
+oxygenizes <> f: '3', b: oxygenize
+oxygenizing <> f: i, b: oxygenize
+oxygens <> b: oxygen, f: s
+oy <> s: oys, r: oyer
+oyer <> b: oy, f: r
+oys <> b: oy, f: s
+oyster <> s: oysters, i: oystering, p: oystered, '3': oysters, d: oystered
+oyster-catcher <> s: oyster-catchers
+oyster-catchers <> b: oyster-catcher, f: s
+oystercatcher <> s: oystercatchers
+oystercatchers <> b: oystercatcher, f: s
+oystered <> f: pd, b: oyster
+oystering <> f: i, b: oyster
+oysters <> f: s3, b: oyster
+oz <> s: ozs
+ozonize <> i: ozonizing, p: ozonized, '3': ozonizes, d: ozonized
+ozonized <> f: pd, b: ozonize
+ozonizes <> f: '3', b: ozonize
+ozonizing <> f: i, b: ozonize
+ozs <> b: oz, f: s

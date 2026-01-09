@@ -1,0 +1,1050 @@
+V-neck <> s: v-necks
+V-sign <> s: v-signs
+VA <> s: vas
+vac <> s: vacs
+vacancies <> b: vacancy, f: s
+vacancy <> s: vacancies
+vacate <> d: vacated, p: vacated, i: vacating, '3': vacates
+vacated <> b: vacate, f: dp, d: vacated, p: vacated
+vacates <> b: vacate, f: '3'
+vacating <> b: vacate, f: i
+vacation <> s: vacations, i: vacationing, p: vacationed, '3': vacations, d: vacationed
+vacationed <> f: pd, b: vacation
+vacationing <> b: vacation, f: i
+vacations <> f: s3, b: vacation
+vaccinate <> d: vaccinated, p: vaccinated, i: vaccinating, '3': vaccinates
+vaccinated <> b: vaccinate, f: dp, d: vaccinated, p: vaccinated
+vaccinates <> f: '3', b: vaccinate
+vaccinating <> b: vaccinate, f: i
+vaccination <> s: vaccinations
+vaccinations <> b: vaccination, f: s
+vaccinator <> s: vaccinators
+vaccinators <> b: vaccinator, f: s
+vaccine <> s: vaccines
+vaccines <> b: vaccine, f: s
+vacillate <> p: vacillated, i: vacillating, '3': vacillates, d: vacillated
+vacillated <> b: vacillate, f: pd
+vacillates <> b: vacillate, f: '3'
+vacillating <> b: vacillate, f: i, i: vacillating
+vacillation <> s: vacillations
+vacillations <> b: vacillation, f: s
+vacs <> b: vac, f: s
+vacuolation <> s: vacuolations
+vacuolations <> b: vacuolation, f: s
+vacuole <> s: vacuoles
+vacuoles <> b: vacuole, f: s
+vacuum <> s: vacuums, '3': vacuums, i: vacuuming, p: vacuumed, d: vacuumed
+vacuumed <> b: vacuume, f: dp
+vacuuming <> b: vacuume, f: i
+vacuums <> b: vacuum, f: s3
+vagabond <> s: vagabonds
+vagabonds <> b: vagabond, f: s
+vagaries <> b: vagary, f: s
+vagary <> s: vagaries
+vagina <> s: vaginas
+vaginas <> b: vagina, f: s
+vagotomies <> b: vagotomy, f: s
+vagotomy <> s: vagotomies
+vagrant <> s: vagrants
+vagrants <> b: vagrant, f: s
+vail <> s: vails
+vails <> b: vail, f: s
+vain <> t: vainest, r: vainer
+vainer <> b: vain, f: r
+vainest <> b: vain, f: t
+valance <> s: valances
+valances <> b: valance, f: s
+vale <> s: vales
+valediction <> s: valedictions
+valedictions <> b: valediction, f: s
+valence <> s: valences, p: valenced
+valenced <> b: valence, f: p
+valences <> b: valence, f: s
+Valenciennes <> b: valencienne, f: s
+valencies <> b: valency, f: s
+valency <> s: valencies
+valentine <> s: valentines
+valentines <> b: valentine, f: s
+vales <> b: vale, f: s
+valet <> s: valets, i: valeting, p: valeted, '3': valets, d: valeted
+valete <> i: valeting, p: valeted, d: valeted
+valeted <> b: valete, f: pd
+valeting <> b: valete, f: i
+valets <> f: s3, b: valet
+valiant <> s: valiants
+valiants <> b: valiant, f: s
+validate <> d: validated, p: validated, i: validating, '3': validates, s: validates
+validated <> b: validate, f: dp, p: validated
+validates <> b: validate, f: 3s
+validating <> b: validate, f: i, i: validating
+validation <> s: validations
+validations <> b: validation, f: s
+valise <> s: valises
+valises <> b: valise, f: s
+valium <> s: valiums
+valiums <> b: valium, f: s
+valkyrie <> s: valkyrie, b: valkyrie, f: s
+valley <> s: valleys
+valleys <> b: valley, f: s
+valorize <> i: valorizing, d: valorized
+valorized <> b: valorize, f: d
+valorizing <> b: valorize, f: i
+valour <> s: valours
+valours <> b: valour, f: s
+valuables <> s: valuables, b: valuables, f: s
+valuate <> '3': valuates, i: valuating, p: valuated, d: valuated
+valuated <> f: pd, b: valuate
+valuates <> b: valuate, f: '3'
+valuating <> f: i, b: valuate
+valuation <> s: valuations
+valuations <> b: valuation, f: s
+value <> s: values, d: valued, p: valued, i: valuing, '3': values
+valued <> b: value, f: dp, p: valued, d: valued
+valuer <> s: valuers
+valuers <> b: valuer, f: s
+values <> b: value, f: s3
+valuing <> b: value, f: i
+valve <> s: valves, d: valved
+valved <> b: valve, f: d
+valves <> b: valve, f: s
+vamoose <> i: vamoosing, p: vamoosed, '3': vamooses, d: vamoosed
+vamoosed <> f: pd, b: vamoose
+vamooses <> f: '3', b: vamoose
+vamoosing <> f: i, b: vamoose
+vamp <> s: vamps, i: vamping, p: vamped, '3': vamps, d: vamped
+vamped <> f: pd, b: vamp
+vamping <> b: vamp, f: i
+vampire <> s: vampires
+vampires <> b: vampire, f: s
+vamps <> f: s3, b: vamp
+van <> s: vans
+vandal <> s: vandals
+vandalise <> d: vandalised, i: vandalising, p: vandalised
+vandalised <> b: vandalise, f: dp, d: vandalised, p: vandalised
+vandalising <> b: vandalise, f: i
+vandalism <> s: vandalisms
+vandalisms <> b: vandalism, f: s
+vandalize <> d: vandalized, p: vandalized, i: vandalizing, '3': vandalizes
+vandalized <> b: vandalize, f: dp, p: vandalized, d: vandalized
+vandalizes <> f: '3', b: vandalize
+vandalizing <> b: vandalize, f: i
+vandals <> b: vandal, f: s
+vane <> s: vanes
+vanes <> b: vane, f: s
+vanguard <> s: vanguards
+vanguards <> b: vanguard, f: s
+vanish <> p: vanished, d: vanished, '3': vanishes, i: vanishing
+vanished <> b: vanish, f: pd, p: vanished, d: vanished
+vanishes <> b: vanish, f: '3'
+vanishing <> b: vanish, f: i, i: vanishing
+vanities <> b: vanity, f: s
+vanity <> s: vanities
+vanload <> s: vanloads
+vanloads <> b: vanload, f: s
+vanquish <> d: vanquished, p: vanquished, i: vanquishing, '3': vanquishes
+vanquished <> b: vanquish, f: dp, d: vanquished
+vanquisher <> s: vanquishers
+vanquishers <> b: vanquisher, f: s
+vanquishes <> b: vanquish, f: '3'
+vanquishing <> b: vanquish, f: i
+vans <> b: van, f: s
+vantage <> s: vantages
+vantages <> b: vantage, f: s
+vapor <> s: vapors
+vaporise <> d: vaporised, '3': vaporises, i: vaporising, p: vaporised, s: vaporises
+vaporised <> b: vaporise, f: dp
+vaporises <> b: vaporise, f: 3s
+vaporising <> b: vaporise, f: i
+vaporize <> p: vaporized, d: vaporized, '3': vaporizes, i: vaporizing
+vaporized <> b: vaporize, f: pd, d: vaporized
+vaporizes <> b: vaporize, f: '3'
+vaporizing <> f: i, b: vaporize
+vapors <> b: vapor, f: s
+vapour <> s: vapours, i: vapouring
+vapouring <> b: vapour, f: i
+vapours <> b: vapour, f: s
+vaquero <> s: vaqueros
+vaqueros <> b: vaquero, f: s
+VAR <> s: vars
+Varangian <> s: varangians
+vardo <> s: vardos
+vardos <> b: vardo, f: s
+variabilities <> b: variability, f: s
+variability <> s: variabilities
+variable <> s: variables
+variables <> b: variable, f: s
+variance <> s: variances
+variances <> b: variance, f: s
+variant <> s: variants
+variants <> b: variant, f: s
+variate <> s: variates
+variates <> b: variate, f: s
+variation <> s: variations
+variations <> b: variation, f: s
+varices <> b: varice, f: s
+varied <> b: vary, f: dp, d: varied, p: varied
+variegated <> d: variegated, b: variegated, f: dp, p: variegated
+variegation <> s: variegations
+variegations <> b: variegation, f: s
+varies <> b: vary, f: '3'
+varieties <> b: variety, f: s
+variety <> s: varieties
+variometer <> s: variometers
+variometers <> b: variometer, f: s
+varlet <> s: varlets
+varlets <> b: varlet, f: s
+varmint <> s: varmints
+varmints <> b: varmint, f: s
+Varna <> s: varnas
+varnish <> s: varnishes, p: varnished, d: varnished, i: varnishing, '3': varnishes
+varnished <> b: varnish, f: pd, p: varnished
+varnishes <> f: s3, b: varnish
+varnishing <> b: varnish, f: i, i: varnishing
+vars <> b: var, f: s
+varsities <> b: varsity, f: s
+varsity <> s: varsities
+varve <> s: varves
+varved <> p: varved, b: varved, f: p
+varves <> b: varve, f: s
+vary <> '3': varies, d: varied, p: varied, i: varying
+varying <> b: vary, f: i, i: varying
+vas <> b: va, f: s
+Vasari <> s: vasari, b: vasari, f: s
+vase <> s: vases
+vasectomies <> b: vasectomy, f: s
+vasectomize <> d: vasectomized
+vasectomized <> b: vasectomize, f: d
+vasectomy <> s: vasectomies
+vaseline <> s: vaselines
+vaselines <> b: vaseline, f: s
+vases <> b: vase, f: s
+vasoconstrictor <> s: vasoconstrictors
+vasoconstrictors <> b: vasoconstrictor, f: s
+vasodilator <> s: vasodilators
+vasodilators <> b: vasodilator, f: s
+vassal <> s: vassals
+vassals <> b: vassal, f: s
+vast <> r: vaster
+vaster <> b: vast, f: r
+vastness <> s: vastnesses
+vastnesses <> b: vastness, f: s
+VAT <> s: vats
+vaticinate <> i: vaticinating, p: vaticinated, '3': vaticinates, d: vaticinated
+vaticinated <> f: pd, b: vaticinate
+vaticinates <> f: '3', b: vaticinate
+vaticinating <> f: i, b: vaticinate
+vats <> b: vat, f: s
+vaudevillian <> s: vaudevillians
+vaudevillians <> b: vaudevillian, f: s
+vault <> s: vaults, p: vaulted, d: vaulted, '3': vaults, i: vaulting
+vaulted <> b: vault, f: pd, p: vaulted, d: vaulted
+vaulter <> s: vaulters
+vaulters <> b: vaulter, f: s
+vaulting <> b: vault, f: i, i: vaulting
+vaults <> b: vault, f: s3
+vaunt <> d: vaunted, p: vaunted, '3': vaunts, i: vaunting
+vaunted <> b: vaunt, f: dp
+vaunting <> b: vaunt, f: i
+vaunts <> b: vaunt, f: '3'
+VAX <> s: vaxes
+VC <> s: vcs
+vcs <> b: vc, f: s
+VD <> s: vds
+VDU <> s: vdus
+ve <> i: veing, s: ves
+veal <> s: veals
+veals <> b: veal, f: s
+Vecchi <> s: vecchi, b: vecchi, f: s
+vector <> s: vectors
+vectors <> b: vector, f: s
+vee <> s: vees, i: veeing
+veeing <> b: vee, f: i
+veer <> p: veered, '3': veers, i: veering, d: veered
+veered <> b: veer, f: pd
+veering <> b: veer, f: i
+veers <> b: veer, f: '3'
+vees <> b: vee, f: s
+veg <> s: vegs, p: vegged
+vegan <> s: vegans
+vegans <> b: vegan, f: s
+vegetable <> s: vegetables
+vegetables <> b: vegetable, f: s
+vegetarian <> s: vegetarians
+vegetarians <> b: vegetarian, f: s
+vegetate <> p: vegetated, s: vegetates, i: vegetating, '3': vegetates, d: vegetated
+vegetated <> f: pd, b: vegetate, p: vegetated
+vegetates <> f: s3, b: vegetate
+vegetating <> b: vegetate, f: i
+vegged <> b: veg, f: p
+vegs <> b: veg, f: s
+vehicle <> s: vehicles
+vehicles <> b: vehicle, f: s
+veil <> s: veils, d: veiled, p: veiled, i: veiling, '3': veils
+veiled <> b: veil, f: dp, d: veiled, p: veiled
+veiling <> b: veil, f: i, i: veiling
+veils <> b: veil, f: s3
+vein <> s: veins, d: veined, i: veining, p: veined, '3': veins
+veined <> f: dp, b: vein, d: veined
+veing <> b: ve, f: i
+veinier <> b: veiny, f: r
+veining <> b: vein, f: i, i: veining
+veinlet <> s: veinlets
+veinlets <> b: veinlet, f: s
+veins <> f: s3, b: vein
+veinstone <> s: veinstones
+veinstones <> b: veinstone, f: s
+veiny <> r: veinier
+velar <> s: velars
+velars <> b: velar, f: s
+veld <> s: velds
+velds <> b: veld, f: s
+velocipede <> '3': velocipedes
+velocipedes <> b: velocipede, f: '3'
+velocities <> b: velocity, f: s
+velocity <> s: velocities
+velour <> s: velours
+velours <> b: velour, f: s
+velvet <> s: velvets
+velveteen <> s: velveteens
+velveteens <> b: velveteen, f: s
+velvets <> b: velvet, f: s
+vend <> i: vending, '3': vends, p: vended, d: vended
+vended <> f: pd, b: vend
+vendetta <> s: vendettas
+vendettas <> b: vendetta, f: s
+vending <> i: vending, b: vending, f: i
+vendor <> s: vendors
+vendors <> b: vendor, f: s
+vends <> b: vend, f: '3'
+veneer <> s: veneers, d: veneered, i: veneering, p: veneered, '3': veneers
+veneered <> f: dp, b: veneer, d: veneered
+veneering <> b: veneer, f: i, i: veneering
+veneers <> f: s3, b: veneer
+venerate <> d: venerated, p: venerated, i: venerating, '3': venerates
+venerated <> b: venerate, f: dp, p: venerated
+venerates <> b: venerate, f: '3'
+venerating <> b: venerate, f: i
+venereologist <> s: venereologists
+venereologists <> b: venereologist, f: s
+Venetian <> s: venetians
+venezuelan <> s: venezuelans
+venezuelans <> b: venezuelan, f: s
+vennel <> s: vennels
+vennels <> b: vennel, f: s
+venom <> s: venoms
+venoms <> b: venom, f: s
+vent <> s: vents, i: venting, p: vented, d: vented, '3': vents
+vented <> b: vent, f: pd
+ventilate <> d: ventilated, i: ventilating, '3': ventilates, p: ventilated
+ventilated <> b: ventilate, f: dp, d: ventilated
+ventilates <> b: ventilate, f: '3'
+ventilating <> b: ventilate, f: i, i: ventilating
+ventilation <> s: ventilations
+ventilations <> b: ventilation, f: s
+ventilator <> s: ventilators
+ventilators <> b: ventilator, f: s
+venting <> b: vent, f: i, i: venting
+ventricle <> s: ventricles
+ventricles <> b: ventricle, f: s
+ventriloquist <> s: ventriloquists
+ventriloquists <> b: ventriloquist, f: s
+vents <> b: vent, f: s3
+venture <> s: ventures, p: ventured, i: venturing, d: ventured, '3': ventures
+ventured <> b: venture, f: pd
+venturer <> s: venturers
+venturers <> b: venturer, f: s
+ventures <> b: venture, f: s3
+venturi <> s: venturi, b: venturi, f: s
+venturing <> b: venture, f: i, i: venturing
+venue <> s: venues
+venues <> b: venue, f: s
+venule <> s: venules
+venules <> b: venule, f: s
+Venusian <> s: venusians
+VER <> s: vers, '3': vers
+vera <> s: veras
+veranda <> s: verandas
+verandah <> s: verandahs
+verandahs <> b: verandah, f: s
+verandas <> b: veranda, f: s
+veras <> b: vera, f: s
+veratrum <> s: veratrums
+veratrums <> b: veratrum, f: s
+verb <> s: verbs
+verbal <> s: verbals
+verbalise <> i: verbalising, d: verbalised, p: verbalised, s: verbalises, '3': verbalises
+verbalised <> b: verbalise, f: dp
+verbalises <> b: verbalise, f: s
+verbalising <> b: verbalise, f: i
+verbalize <> i: verbalizing, p: verbalized, '3': verbalizes, d: verbalized
+verbalized <> f: pd, b: verbalize
+verbalizes <> f: '3', b: verbalize
+verbalizing <> b: verbalize, f: i
+verbals <> b: verbal, f: s
+verbascum <> s: verbascums
+verbascums <> b: verbascum, f: s
+verbena <> s: verbenas
+verbenas <> b: verbena, f: s
+verbs <> b: verb, f: s
+verderer <> s: verderers, b: verdere, f: r
+verderers <> b: verderer, f: s
+verdict <> s: verdicts
+verdicts <> b: verdict, f: s
+verge <> i: verging, s: verges, p: verged, '3': verges, d: verged
+verged <> b: verge, f: pd
+verger <> s: vergers
+vergers <> b: verger, f: s
+verges <> b: verge, f: s3
+verging <> b: verge, f: i
+verglas <> b: vergla, f: s
+verification <> s: verifications
+verifications <> b: verification, f: s
+verified <> b: verify, f: dp, d: verified, p: verified
+verifier <> s: verifiers
+verifiers <> b: verifier, f: s
+verifies <> b: verify, f: '3'
+verify <> d: verified, i: verifying, p: verified, '3': verifies
+verifying <> b: verify, f: i
+verities <> b: verity, f: s
+verity <> s: verities
+vermiculate <> p: vermiculated, i: vermiculating, '3': vermiculates, d: vermiculated
+vermiculated <> f: pd, b: vermiculate
+vermiculates <> f: '3', b: vermiculate
+vermiculating <> f: i, b: vermiculate
+vermouth <> s: vermouths
+vermouths <> b: vermouth, f: s
+vern <> s: verns
+vernacular <> s: vernaculars
+vernaculars <> b: vernacular, f: s
+Verne <> s: vernes
+verns <> b: vern, f: s
+Veronica <> s: veronicas
+verruca <> s: verrucas
+verrucas <> b: verruca, f: s
+vers <> b: ver, f: s3
+verse <> s: verses, d: versed, i: versing, p: versed, '3': verses
+versed <> f: dp, b: verse
+verses <> f: s3, b: verse
+verset <> s: versets
+versets <> b: verset, f: s
+versicle <> s: versicles
+versicles <> b: versicle, f: s
+versification <> s: versifications
+versifications <> b: versification, f: s
+versified <> b: versify, f: dp
+versifier <> s: versifiers
+versifiers <> b: versifier, f: s
+versifies <> f: '3', b: versify
+versify <> d: versified, i: versifying, p: versified, '3': versifies
+versifying <> b: versify, f: i
+versing <> f: i, b: verse
+version <> s: versions
+versions <> b: version, f: s
+verso <> s: versos
+versos <> b: verso, f: s
+verst <> s: versts
+versts <> b: verst, f: s
+vert <> '3': verts, s: verts
+vertebra <> s: vertebrae
+vertebrae <> b: vertebra, f: s
+vertebrate <> s: vertebrates
+vertebrates <> b: vertebrate, f: s
+vertex <> s: vertices
+vertical <> s: verticals
+verticals <> b: vertical, f: s
+vertices <> b: vertex, f: s
+vertigo <> s: vertigos
+vertigos <> b: vertigo, f: s
+verts <> b: vert, f: 3s
+vervet <> s: vervets
+vervets <> b: vervet, f: s
+ves <> b: ve, f: s
+vesicate <> i: vesicating, p: vesicated, '3': vesicates, d: vesicated
+vesicated <> f: pd, b: vesicate
+vesicates <> f: '3', b: vesicate
+vesicating <> f: i, b: vesicate
+vesicle <> s: vesicles
+vesicles <> b: vesicle, f: s
+vesiculate <> p: vesiculated, i: vesiculating, '3': vesiculates, d: vesiculated
+vesiculated <> f: pd, b: vesiculate
+Vesper <> s: vespers
+vespers <> b: vesper, f: s
+vessel <> s: vessels
+vessels <> b: vessel, f: s
+vest <> d: vested, s: vests, i: vesting, p: vested, '3': vests
+vested <> b: vest, f: dp, d: vested
+vestibule <> s: vestibules, d: vestibuled
+vestibuled <> b: vestibule, f: d
+vestibules <> b: vestibule, f: s
+vestige <> s: vestiges
+vestiges <> b: vestige, f: s
+vestigial <> s: vestigials
+vestigials <> b: vestigial, f: s
+vesting <> b: vest, f: i, i: vesting
+vestment <> s: vestments
+vestments <> b: vestment, f: s
+vestries <> b: vestry, f: s
+vestry <> s: vestries
+vestryman <> s: vestrymen
+vestrymen <> b: vestryman, f: s
+vests <> f: s3, b: vest
+vesture <> i: vesturing, p: vestured, '3': vestures, d: vestured
+vestured <> f: pd, b: vesture
+vestures <> f: '3', b: vesture
+vesturing <> f: i, b: vesture
+vet <> s: vets, d: vetted, i: vetting, '3': vets, p: vetted
+vetch <> s: vetches
+vetches <> b: vetch, f: s
+vetchling <> b: vetchle, f: i
+veteran <> s: veterans
+veterans <> b: veteran, f: s
+veterinarian <> s: veterinarians
+veterinarians <> b: veterinarian, f: s
+vetiver <> b: vetive, f: r
+veto <> d: vetoed, p: vetoed, i: vetoing, '3': vetoes
+vetoed <> b: veto, f: dp
+vetoes <> b: vetoe, f: s3
+vetoing <> b: veto, f: i, i: vetoing
+vets <> b: vet, f: s3
+vetted <> b: vet, f: dp
+vetting <> b: vet, f: i, i: vetting
+vex <> d: vexed, i: vexing, p: vexed, '3': vexes, s: vexes
+vexation <> s: vexations
+vexations <> b: vexation, f: s
+vexed <> b: vex, f: dp, d: vexed, p: vexed
+vexes <> b: vex, f: 3s
+vexing <> b: vex, f: i
+viable <> s: viables
+viables <> b: viable, f: s
+viaduct <> s: viaducts
+viaducts <> b: viaduct, f: s
+vial <> s: vials
+vials <> b: vial, f: s
+viand <> s: viands
+viands <> b: viand, f: s
+vibe <> s: vibes, i: vibing, d: vibed
+vibed <> b: vibe, f: d
+vibes <> b: vibe, f: s
+vibing <> b: vibe, f: i
+vibrate <> i: vibrating, p: vibrated, '3': vibrates, d: vibrated
+vibrated <> b: vibrate, f: pd
+vibrates <> b: vibrate, f: '3'
+vibrating <> b: vibrate, f: i, i: vibrating
+vibration <> s: vibrations
+vibrations <> b: vibration, f: s
+vibrato <> s: vibratos
+vibrator <> s: vibrators
+vibrators <> b: vibrator, f: s
+vibratos <> b: vibrato, f: s
+vibrissae <> s: vibrissae, b: vibrissae, f: s
+viburnum <> s: viburnums
+viburnums <> b: viburnum, f: s
+vicar <> s: vicars
+vicarage <> s: vicarages
+vicarages <> b: vicarage, f: s
+Vicars <> b: vicar, f: s
+vice <> s: vices
+vice-admiral <> s: vice-admirals
+vice-admirals <> b: vice-admiral, f: s
+vice-chancellor <> s: vice-chancellors
+vice-chancellors <> b: vice-chancellor, f: s
+vice-presidencies <> b: vice-presidency, f: s
+vice-presidency <> s: vice-presidencies
+vice-president <> s: vice-presidents
+vice-presidents <> b: vice-president, f: s
+viceroy <> s: viceroys
+viceroyalties <> b: viceroyalty, f: s
+viceroyalty <> s: viceroyalties
+viceroys <> b: viceroy, f: s
+vices <> b: vice, f: s
+vicinities <> b: vicinity, f: s
+vicinity <> s: vicinities
+vicissitude <> s: vicissitudes
+vicissitudes <> b: vicissitude, f: s
+vick <> p: vicked
+vicked <> b: vick, f: p
+vicker <> s: vickers
+vickers <> b: vicker, f: s
+vicomte <> s: vicomtes
+vicomtes <> b: vicomte, f: s
+victim <> s: victims
+victimise <> d: victimised, i: victimising, p: victimised
+victimised <> b: victimise, f: dp, d: victimised, p: victimised
+victimising <> b: victimise, f: i
+victimization <> s: victimizations
+victimizations <> b: victimization, f: s
+victimize <> d: victimized, p: victimized, i: victimizing, '3': victimizes
+victimized <> b: victimize, f: dp
+victimizes <> b: victimize, f: '3'
+victimizing <> b: victimize, f: i, i: victimizing
+victimologies <> b: victimology, f: s
+victimology <> s: victimologies
+victims <> b: victim, f: s
+victor <> s: victors
+victoria <> s: victorias
+Victorian <> s: victorians
+victoriana <> s: victoriana, b: victoriana, f: s
+victorias <> b: victoria, f: s
+victories <> b: victory, f: s
+victors <> b: victor, f: s
+victory <> s: victories
+victual <> s: victuals, i: victualling, d: victualled, p: victualled, '3': victuals
+victualled <> f: dp, b: victual
+victualler <> s: victuallers
+victuallers <> b: victualler, f: s
+victualling <> b: victual, f: i, s: victuallings
+victuals <> f: s3, b: victual
+vicuna <> s: vicunas
+vicunas <> b: vicuna, f: s
+vid <> s: vids
+vide <> d: vided, s: vides
+vided <> b: vide, f: d
+video <> s: videos, i: videoing
+videocassette <> s: videocassettes
+videocassettes <> b: videocassette, f: s
+videoconference <> s: videoconferences
+videoconferences <> b: videoconference, f: s
+videodisc <> s: videodiscs
+videodiscs <> b: videodisc, f: s
+videofit <> s: videofits
+videofits <> b: videofit, f: s
+videoing <> b: video, f: i
+videophone <> s: videophones
+videophones <> b: videophone, f: s
+videos <> b: video, f: s
+videotape <> s: videotapes, d: videotaped, p: videotaped, i: videotaping, '3': videotapes
+videotaped <> b: videotape, f: dp
+videotapes <> f: s3, b: videotape
+videotaping <> b: videotape, f: i
+vides <> b: vide, f: s
+vids <> b: vid, f: s
+vie <> i: vying, p: vied, '3': vies, d: vied
+vied <> b: vie, f: pd
+vielle <> s: vielles
+vielles <> b: vielle, f: s
+vies <> b: vie, f: '3'
+view <> s: views, d: viewed, p: viewed, i: viewing, '3': views
+viewed <> b: view, f: dp
+viewer <> s: viewers
+viewers <> b: viewer, f: s
+viewfinder <> s: viewfinders
+viewfinders <> b: viewfinder, f: s
+viewing <> b: view, f: i, i: viewing, s: viewings
+viewpoint <> s: viewpoints
+viewpoints <> b: viewpoint, f: s
+viewport <> s: viewports
+viewports <> b: viewport, f: s
+views <> b: view, f: s3
+vigil <> s: vigils
+vigilante <> s: vigilantes
+vigilantes <> b: vigilante, f: s
+vigils <> b: vigil, f: s
+vigneron <> s: vignerons
+vignerons <> b: vigneron, f: s
+vignette <> s: vignettes
+vignettes <> b: vignette, f: s
+viking <> s: vikings
+vikings <> b: viking, f: s
+Vila <> s: vilas
+vilayet <> s: vilayets
+vilayets <> b: vilayet, f: s
+vile <> t: vilest, r: viler
+vileness <> s: vilenesses
+vilenesses <> b: vileness, f: s
+viler <> b: vile, f: r
+vilest <> b: vile, f: t
+vilified <> b: vilify, f: dp
+vilifies <> f: '3', b: vilify
+vilify <> d: vilified, i: vilifying, p: vilified, '3': vilifies
+vilifying <> b: vilify, f: i
+vill <> s: vills
+villa <> s: villas
+Villa-Lobos <> b: villa-lobo, f: s
+village <> s: villages
+villager <> s: villagers
+villagers <> b: villager, f: s
+villages <> b: village, f: s
+villain <> s: villains
+villainies <> b: villainy, f: s
+villains <> b: villain, f: s
+villainy <> s: villainies
+villas <> b: villa, f: s
+ville <> s: villes
+villein <> s: villeins
+villeins <> b: villein, f: s
+villes <> b: ville, f: s
+villi <> s: villi, b: villi, f: s
+Villon <> s: villons
+vills <> b: vill, f: s
+vin <> s: vins
+vina <> s: vinas
+vinaigrette <> s: vinaigrettes
+vinaigrettes <> b: vinaigrette, f: s
+vinas <> b: vina, f: s
+vinca <> s: vincas
+vincas <> b: vinca, f: s
+vindaloo <> s: vindaloos
+vindaloos <> b: vindaloo, f: s
+vindicate <> d: vindicated, p: vindicated, '3': vindicates, i: vindicating
+vindicated <> b: vindicate, f: dp, p: vindicated
+vindicates <> b: vindicate, f: '3'
+vindicating <> b: vindicate, f: i
+vindication <> s: vindications
+vindications <> b: vindication, f: s
+vindicator <> s: vindicators
+vindicators <> b: vindicator, f: s
+vine <> s: vines, i: vining
+vinegar <> s: vinegars
+vinegars <> b: vinegar, f: s
+VINES <> b: vine, f: s
+vineyard <> s: vineyards
+vineyards <> b: vineyard, f: s
+vinified <> b: vinify, f: dp
+vinify <> d: vinified, p: vinified
+vining <> b: vine, f: i
+vins <> b: vin, f: s
+vintage <> s: vintages
+vintages <> b: vintage, f: s
+vintner <> s: vintners
+vintners <> b: vintner, f: s
+vinyl <> s: vinyls
+vinyls <> b: vinyl, f: s
+viol <> s: viols
+viola <> s: violas
+violas <> b: viola, f: s
+violate <> d: violated, i: violating, p: violated, '3': violates, s: violates
+violated <> b: violate, f: dp, p: violated
+violates <> b: violate, f: 3s
+violating <> b: violate, f: i
+violation <> s: violations
+violations <> b: violation, f: s
+violator <> s: violators
+violators <> b: violator, f: s
+violet <> s: violets
+violets <> b: violet, f: s
+violin <> s: violins
+violinist <> s: violinists
+violinists <> b: violinist, f: s
+violins <> b: violin, f: s
+viols <> b: viol, f: s
+VIP <> s: vips
+viper <> s: vipers
+vipers <> b: viper, f: s
+vips <> b: vip, f: s
+virago <> s: viragos
+viragos <> b: virago, f: s
+vire <> s: vires, '3': vires, i: viring
+vires <> b: vire, f: s3
+virgate <> s: virgates, '3': virgates
+virgates <> b: virgate, f: s3
+virgin <> s: virgins
+virginal <> s: virginals
+virginals <> b: virginal, f: s
+virginian <> s: virginians
+virginians <> b: virginian, f: s
+virginities <> b: virginity, f: s
+virginity <> s: virginities
+virgins <> b: virgin, f: s
+viring <> b: vire, f: i
+virion <> s: virions
+virions <> b: virion, f: s
+virologist <> s: virologists
+virologists <> b: virologist, f: s
+virtualities <> b: virtuality, f: s
+virtuality <> s: virtualities
+virtue <> s: virtues
+virtues <> b: virtue, f: s
+virtuosi <> b: virtuoso, f: s
+virtuoso <> s: virtuosi
+virus <> s: viruses
+viruses <> b: virus, f: s
+visa <> s: visas, i: visaing, p: visaed, '3': visas, d: visaed
+visaed <> f: pd, b: visa
+visage <> '3': visages, s: visages
+visages <> b: visage, f: 3s
+visaing <> f: i, b: visa
+visas <> f: s3, b: visa
+viscometer <> s: viscometers
+viscometers <> b: viscometer, f: s
+Visconti <> s: visconti, b: visconti, f: s
+viscosities <> b: viscosity, f: s
+viscosity <> s: viscosities
+viscount <> s: viscounts
+viscounties <> b: viscounty, f: s
+viscounts <> b: viscount, f: s
+viscounty <> s: viscounties
+visigoth <> s: visigoths
+visigoths <> b: visigoth, f: s
+vision <> s: visions
+visionaries <> b: visionary, f: s
+visionary <> s: visionaries
+visions <> b: vision, f: s
+visit <> p: visited, s: visits, d: visited, i: visiting, '3': visits
+visitant <> s: visitants
+visitants <> b: visitant, f: s
+visitation <> s: visitations
+visitations <> b: visitation, f: s
+visited <> b: visit, f: pd
+visiting <> b: visit, f: i, i: visiting, s: visitings
+visitor <> s: visitors
+visitors <> b: visitor, f: s
+visits <> b: visit, f: s3
+visor <> s: visors
+visored <> p: visored, b: visored, f: p
+visors <> b: visor, f: s
+vista <> s: vistas
+vistas <> b: vista, f: s
+visual <> s: visuals
+visualisation <> s: visualisations
+visualisations <> b: visualisation, f: s
+visualise <> d: visualised, i: visualising, p: visualised, '3': visualises
+visualised <> b: visualise, f: dp
+visualises <> b: visualise, f: '3'
+visualising <> b: visualise, f: i, i: visualising
+visualization <> s: visualizations
+visualizations <> b: visualization, f: s
+visualize <> d: visualized, p: visualized, i: visualizing, '3': visualizes
+visualized <> b: visualize, f: dp
+visualizes <> b: visualize, f: '3'
+visualizing <> b: visualize, f: i
+visuals <> b: visual, f: s
+vitae <> s: vitae, b: vitae, f: s
+vital <> s: vitals
+vitalist <> s: vitalists
+vitalists <> b: vitalist, f: s
+vitalize <> d: vitalized, i: vitalizing, p: vitalized, '3': vitalizes
+vitalized <> f: dp, b: vitalize
+vitalizes <> f: '3', b: vitalize
+vitalizing <> b: vitalize, f: i
+vitals <> b: vital, f: s
+vitamin <> s: vitamins
+vitamins <> b: vitamin, f: s
+vitiate <> d: vitiated, p: vitiated, '3': vitiates, i: vitiating, s: vitiates
+vitiated <> b: vitiate, f: dp
+vitiates <> b: vitiate, f: 3s
+vitiating <> b: vitiate, f: i
+vito <> s: vitos
+vitos <> b: vito, f: s
+vitrified <> d: vitrified, b: vitrified, f: d
+vitrifies <> f: '3', b: vitrify
+vitrify <> p: vitrified, i: vitrifying, '3': vitrifies, d: vitrified
+vitrine <> s: vitrines
+vitrines <> b: vitrine, f: s
+vitrinite <> s: vitrinites
+vitrinites <> b: vitrinite, f: s
+vitriol <> i: vitrioling, p: vitrioled, '3': vitriols, d: vitrioled
+vitrioled <> f: pd, b: vitriol
+vitrioling <> f: i, b: vitriol
+vitriols <> f: '3', b: vitriol
+vitta <> s: vittas
+vittas <> b: vitta, f: s
+vituperate <> i: vituperating, p: vituperated, '3': vituperates, d: vituperated
+vituperated <> f: pd, b: vituperate
+vituperates <> f: '3', b: vituperate
+vituperating <> b: vituperate, f: i
+vituperation <> s: vituperations
+vituperations <> b: vituperation, f: s
+viva <> s: vivas
+vivas <> b: viva, f: s
+vive <> '3': vives
+vives <> b: vive, f: '3'
+vivified <> b: vivify, f: dp
+vivifies <> f: '3', b: vivify
+vivify <> i: vivifying, d: vivified, p: vivified, '3': vivifies
+vivisect <> i: vivisecting, p: vivisected, '3': vivisects, d: vivisected
+vivisected <> f: pd, b: vivisect
+vivisecting <> f: i, b: vivisect
+vivisection <> s: vivisections
+vivisectionist <> s: vivisectionists
+vivisectionists <> b: vivisectionist, f: s
+vivisections <> b: vivisection, f: s
+vivisector <> s: vivisectors
+vivisectors <> b: vivisector, f: s
+vivisects <> f: '3', b: vivisect
+vivo <> s: vivos
+vivos <> b: vivo, f: s
+vixen <> s: vixens
+vixens <> b: vixen, f: s
+vizier <> s: viziers
+viziers <> b: vizier, f: s
+vizor <> s: vizors
+vizors <> b: vizor, f: s
+vo <> s: vos
+vocabularies <> b: vocabulary, f: s
+vocabulary <> s: vocabularies
+vocal <> s: vocals
+vocalisation <> s: vocalisations
+vocalisations <> b: vocalisation, f: s
+vocalise <> i: vocalising, '3': vocalises, p: vocalised, d: vocalised
+vocalised <> b: vocalise, f: pd
+vocalises <> b: vocalise, f: '3'
+vocalising <> b: vocalise, f: i
+vocalist <> s: vocalists
+vocalists <> b: vocalist, f: s
+vocalization <> s: vocalizations
+vocalizations <> b: vocalization, f: s
+vocalize <> i: vocalizing, p: vocalized, '3': vocalizes, d: vocalized
+vocalized <> f: pd, b: vocalize
+vocalizes <> f: '3', b: vocalize
+vocalizing <> b: vocalize, f: i
+vocals <> b: vocal, f: s
+vocation <> s: vocations
+vocations <> b: vocation, f: s
+vocative <> s: vocatives
+vocatives <> b: vocative, f: s
+vociferate <> i: vociferating, p: vociferated, '3': vociferates, d: vociferated
+vociferated <> f: pd, b: vociferate
+vociferates <> f: '3', b: vociferate
+vociferating <> f: i, b: vociferate
+vodka <> s: vodkas
+vodkas <> b: vodka, f: s
+voe <> s: voes
+voes <> b: voe, f: s
+vogue <> s: vogues, p: vogued, i: vogueing
+vogued <> b: vogue, f: p
+vogueing <> b: vogue, f: i
+vogues <> b: vogue, f: s
+voice <> s: voices, d: voiced, p: voiced, i: voicing, '3': voices
+voice-over <> s: voice-overs
+voice-overs <> b: voice-over, f: s
+voiced <> b: voice, f: dp, p: voiced, d: voiced
+voices <> f: s3, b: voice
+voicing <> b: voice, f: i, s: voicings, i: voicing
+void <> s: voids, d: voided, p: voided, i: voiding, '3': voids, r: voider
+voided <> b: void, f: dp, p: voided
+voider <> b: void, f: r, s: voiders
+voiding <> b: void, f: i, i: voiding
+voids <> b: void, f: s3
+voile <> s: voiles
+voiles <> b: voile, f: s
+VOL <> s: vols
+vol-au-vent <> s: vol-au-vents
+vol-au-vents <> b: vol-au-vent, f: s
+volan <> s: volans
+Volans <> b: volan, f: s
+volatile <> s: volatiles, '3': volatiles
+volatiles <> b: volatile, f: s3
+volatilities <> b: volatility, f: s
+volatility <> s: volatilities
+volatilize <> i: volatilizing, p: volatilized, '3': volatilizes, d: volatilized
+volatilized <> f: pd, b: volatilize
+volatilizes <> f: '3', b: volatilize
+volatilizing <> f: i, b: volatilize
+volcanic <> s: volcanics
+volcaniclastic <> s: volcaniclastics
+volcaniclastics <> b: volcaniclastic, f: s
+volcanics <> b: volcanic, f: s
+volcano <> s: volcanos
+volcanos <> b: volcano, f: s
+vole <> s: voles
+voles <> b: vole, f: s
+volition <> s: volitions
+volitions <> b: volition, f: s
+volk <> s: volks
+volks <> b: volk, f: s
+volley <> s: volleys, p: volleyed, i: volleying, '3': volleys, d: volleyed
+volleyed <> b: volley, f: pd, d: volleyed
+volleying <> b: volley, f: i, i: volleying
+volleys <> b: volley, f: s3
+vols <> b: vol, f: s
+volt <> s: volts
+voltage <> s: voltages
+voltages <> b: voltage, f: s
+volte-face <> s: volte-faces
+volte-faces <> b: volte-face, f: s
+voltmeter <> s: voltmeters, b: voltmete, f: r
+voltmeters <> b: voltmeter, f: s
+volts <> b: volt, f: s
+volume <> s: volumes
+volumes <> b: volume, f: s
+voluntaries <> b: voluntary, f: s
+voluntary <> s: voluntaries
+volunteer <> s: volunteers, p: volunteered, d: volunteered, i: volunteering, '3': volunteers
+volunteered <> b: volunteer, f: pd
+volunteering <> b: volunteer, f: i, i: volunteering
+volunteers <> f: s3, b: volunteer
+volute <> s: volutes, i: voluting
+volutes <> b: volute, f: s
+voluting <> b: volute, f: i
+vomit <> i: vomiting, p: vomited, d: vomited, '3': vomits, s: vomits
+vomited <> b: vomit, f: pd, p: vomited
+vomiting <> b: vomit, f: i, i: vomiting, s: vomitings
+vomitorium <> s: vomitoriums
+vomitoriums <> b: vomitorium, f: s
+vomits <> b: vomit, f: 3s
+voodoo <> s: voodoos, i: voodooing, p: voodooed, '3': voodoos, d: voodooed
+voodooed <> f: pd, b: voodoo
+voodooing <> f: i, b: voodoo
+voodoos <> f: s3, b: voodoo
+vortex <> s: vortices, i: vortexing, p: vortexed
+vortexed <> b: vortex, f: p
+vortexing <> b: vortex, f: i
+vortices <> b: vortex, f: s
+vos <> b: vo, f: s
+votaries <> b: votary, f: s
+votary <> s: votaries
+vote <> s: votes, d: voted, p: voted, i: voting, '3': votes
+voted <> b: vote, f: dp
+voter <> s: voters
+voters <> b: voter, f: s
+votes <> b: vote, f: s3
+voting <> b: vote, f: i, i: voting
+votive <> s: votives
+votives <> b: votive, f: s
+vouch <> d: vouched, p: vouched, i: vouching, s: vouches, '3': vouches
+vouched <> b: vouch, f: dp
+voucher <> s: vouchers
+vouchers <> b: voucher, f: s
+vouches <> f: s3, b: vouch
+vouching <> b: vouch, f: i, i: vouching
+vouchsafe <> d: vouchsafed, p: vouchsafed, '3': vouchsafes, i: vouchsafing
+vouchsafed <> b: vouchsafe, f: dp
+vouchsafes <> b: vouchsafe, f: '3'
+vouchsafing <> b: vouchsafe, f: i
+voussoir <> s: voussoirs
+voussoirs <> b: voussoir, f: s
+vow <> p: vowed, d: vowed, s: vows, i: vowing, '3': vows
+vowed <> b: vow, f: pd
+vowel <> s: vowels
+vowelize <> i: vowelizing, p: vowelized, '3': vowelizes, d: vowelized
+vowelized <> f: pd, b: vowelize
+vowelizes <> f: '3', b: vowelize
+vowelizing <> f: i, b: vowelize
+vowels <> b: vowel, f: s
+vowing <> b: vow, f: i
+vows <> b: vow, f: s3
+voyage <> s: voyages, i: voyaging, p: voyaged, '3': voyages, d: voyaged
+voyaged <> f: pd, b: voyage
+voyager <> s: voyagers
+voyagers <> b: voyager, f: s
+voyages <> f: s3, b: voyage
+voyaging <> b: voyage, f: i, i: voyaging
+voyeur <> s: voyeurs
+voyeurs <> b: voyeur, f: s
+vroom <> i: vrooming, p: vroomed, '3': vrooms, d: vroomed, s: vrooms
+vrooming <> b: vroom, f: i
+vug <> s: vugs
+vugs <> b: vug, f: s
+vulcanize <> i: vulcanizing, p: vulcanized, '3': vulcanizes, d: vulcanized
+vulcanized <> f: pd, b: vulcanize
+vulcanizes <> f: '3', b: vulcanize
+vulcanizing <> f: i, b: vulcanize
+vulgarian <> s: vulgarians
+vulgarians <> b: vulgarian, f: s
+vulgarism <> s: vulgarisms
+vulgarisms <> b: vulgarism, f: s
+vulgarities <> b: vulgarity, f: s
+vulgarity <> s: vulgarities
+vulgarization <> s: vulgarizations
+vulgarizations <> b: vulgarization, f: s
+vulgarize <> i: vulgarizing, p: vulgarized, '3': vulgarizes, d: vulgarized
+vulgarized <> f: pd, b: vulgarize
+vulgarizes <> f: '3', b: vulgarize
+vulgarizing <> b: vulgarize, f: i
+vulnerabilities <> b: vulnerability, f: s
+vulnerability <> s: vulnerabilities
+vulture <> s: vultures
+vultures <> b: vulture, f: s
+vulva <> s: vulvas
+vulvas <> b: vulva, f: s
+vying <> b: vie, f: i, i: vying

@@ -1,0 +1,47 @@
+{
+    "phonetic": {
+        "start": "Q",
+        "end": "qwerty",
+        "total": 491
+    },
+    "exchange": {
+        "start": "Q",
+        "end": "quoting",
+        "total": 355
+    },
+    "bnc": {
+        "start": "Q",
+        "end": "qwerty",
+        "total": 190
+    },
+    "explain": {
+        "start": "Q",
+        "end": "qwerty",
+        "total": 708
+    },
+    "collins": {
+        "start": "QC",
+        "end": "quote",
+        "total": 56
+    },
+    "freq": {
+        "start": "Qatari",
+        "end": "quotient",
+        "total": 187
+    },
+    "redirect": {
+        "start": "qcs",
+        "end": "quorns",
+        "total": 7
+    },
+    "pos": {
+        "start": "qigong",
+        "end": "quotient",
+        "total": 192
+    },
+    "lgk_id": {
+        "start": "quack",
+        "end": "quotient",
+        "total": 149
+    }
+}

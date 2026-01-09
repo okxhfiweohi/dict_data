@@ -1,0 +1,52 @@
+{
+    "phonetic": {
+        "start": "H",
+        "end": "Hythe",
+        "total": 3965
+    },
+    "exchange": {
+        "start": "H",
+        "end": "hysterics",
+        "total": 2761
+    },
+    "bnc": {
+        "start": "H",
+        "end": "Hz",
+        "total": 1840
+    },
+    "explain": {
+        "start": "H",
+        "end": "Hrawi",
+        "total": 5000
+    },
+    "explain__1": {
+        "start": "HRH",
+        "end": "Hz",
+        "total": 1046
+    },
+    "freq": {
+        "start": "ha",
+        "end": "hysterics",
+        "total": 1548
+    },
+    "collins": {
+        "start": "ha",
+        "end": "hysterical",
+        "total": 517
+    },
+    "redirect": {
+        "start": "h-bombs",
+        "end": "hypnos",
+        "total": 93
+    },
+    "lgk_id": {
+        "start": "ha",
+        "end": "hysterically",
+        "total": 1346
+    },
+    "pos": {
+        "start": "ha",
+        "end": "hysterics",
+        "total": 1650
+    }
+}

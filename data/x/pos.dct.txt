@@ -1,0 +1,9 @@
+x-axis <> N: {rk: 46132, frq: 47}
+xenon <> N: {rk: 33424, frq: 125}
+xenophobia <> N: {rk: 23242, frq: 341}
+xenophobic <> J: {rk: 24239, frq: 269}
+xerox <> V: {rk: 33512, frq: 110}
+xeroxed <> J: {rk: 38951, frq: 70}
+xylem <> N: {rk: 54559, frq: 27}
+xylene <> N: {rk: 48393, frq: 46}
+xylophone <> N: {rk: 31351, frq: 158}

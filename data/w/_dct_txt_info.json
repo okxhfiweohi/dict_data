@@ -1,0 +1,47 @@
+{
+    "phonetic": {
+        "start": "W",
+        "end": "wyvern",
+        "total": 2452
+    },
+    "exchange": {
+        "start": "W",
+        "end": "wyverns",
+        "total": 1907
+    },
+    "bnc": {
+        "start": "W",
+        "end": "wysiwyg",
+        "total": 1292
+    },
+    "explain": {
+        "start": "W",
+        "end": "wyverns",
+        "total": 4072
+    },
+    "freq": {
+        "start": "wack",
+        "end": "wussy",
+        "total": 980
+    },
+    "collins": {
+        "start": "wacky",
+        "end": "wry",
+        "total": 387
+    },
+    "lgk_id": {
+        "start": "wack",
+        "end": "wye",
+        "total": 931
+    },
+    "pos": {
+        "start": "wack",
+        "end": "wussy",
+        "total": 1055
+    },
+    "redirect": {
+        "start": "waddingtons",
+        "end": "wyeth",
+        "total": 38
+    }
+}

@@ -1,0 +1,216 @@
+y-front <> s: y-fronts
+y-fronts <> b: y-front, f: s
+yacht <> s: yachts, i: yachting, p: yachted, '3': yachts, d: yachted
+yachted <> f: pd, b: yacht
+yachting <> i: yachting, b: yachting, f: i
+yachts <> f: s3, b: yacht
+yachtsman <> s: yachtsmen
+yachtsmen <> b: yachtsman, f: s
+yack <> i: yacking, p: yacked, '3': yacks, d: yacked
+yacked <> f: pd, b: yack
+yacking <> f: i, b: yack
+yacks <> f: '3', b: yack
+yahoo <> s: yahoos
+yahoos <> b: yahoo, f: s
+yak <> s: yaks, i: yakking
+yakitori <> s: yakitori, b: yakitori, f: s
+yakking <> b: yak, f: i
+yaks <> b: yak, f: s
+Yakut <> s: yakuts
+yam <> s: yams, i: yamming
+yammer <> i: yammering, s: yammers, p: yammered, '3': yammers, d: yammered
+yammered <> f: pd, b: yammer
+yammering <> b: yammer, f: i
+yammers <> f: s3, b: yammer
+yamming <> b: yam, f: i
+yams <> b: yam, f: s
+yang <> s: yangs
+yangs <> b: yang, f: s
+yank <> p: yanked, s: yanks, i: yanking, d: yanked, '3': yanks
+yanked <> b: yank, f: pd
+Yankee <> s: yankees
+yanking <> b: yank, f: i
+yanks <> b: yank, f: s3
+Yanomami <> s: yanomami, b: yanomami, f: s
+yantra <> s: yantras
+yantras <> b: yantra, f: s
+yap <> i: yapping, p: yapped, s: yaps, '3': yaps, d: yapped
+yapped <> f: pd, b: yap
+yapping <> b: yap, f: i, i: yapping
+yaps <> b: yap, f: s3
+yard <> s: yards
+yardage <> s: yardages
+yardages <> b: yardage, f: s
+yardang <> s: yardangs
+yardangs <> b: yardang, f: s
+yardarm <> s: yardarms
+yardarms <> b: yardarm, f: s
+yardbird <> s: yardbirds
+yardbirds <> b: yardbird, f: s
+yardman <> s: yardmen
+yardmen <> b: yardman, f: s
+yards <> b: yard, f: s
+yardstick <> s: yardsticks
+yardsticks <> b: yardstick, f: s
+yarmulke <> s: yarmulkes
+yarmulkes <> b: yarmulke, f: s
+yarn <> s: yarns, i: yarning, p: yarned, '3': yarns, d: yarned
+yarned <> f: pd, b: yarn
+yarning <> f: i, b: yarn
+yarns <> f: s3, b: yarn
+yarrow <> s: yarrows
+yarrows <> b: yarrow, f: s
+yatter <> i: yattering, p: yattered
+yattered <> b: yatter, f: p
+yattering <> b: yatter, f: i
+yaw <> s: yaws, i: yawing, p: yawed, '3': yaws, d: yawed
+yawed <> f: pd, b: yaw
+yawing <> b: yaw, f: i, i: yawing
+yawl <> s: yawls, i: yawling, p: yawled, '3': yawls, d: yawled
+yawled <> f: pd, b: yawl
+yawling <> f: i, b: yawl
+yawls <> f: s3, b: yawl
+yawn <> p: yawned, i: yawning, '3': yawns, s: yawns, d: yawned
+yawned <> b: yawn, f: pd
+yawning <> b: yawn, f: i, i: yawning
+yawns <> b: yawn, f: 3s
+yawp <> i: yawping, p: yawped, '3': yawps, d: yawped
+yawped <> f: pd, b: yawp
+yawping <> f: i, b: yawp
+yawps <> f: '3', b: yawp
+yaws <> b: yaw, f: s3
+yd <> s: yds
+yds <> b: yd, f: s
+yea <> s: yeas
+year <> s: years
+yearbook <> s: yearbooks
+yearbooks <> b: yearbook, f: s
+yearling <> s: yearlings
+yearlings <> b: yearling, f: s
+yearn <> i: yearning, p: yearned, '3': yearns, d: yearned
+yearned <> b: yearn, f: pd
+yearner <> s: yearners
+yearners <> b: yearner, f: s
+yearning <> b: yearn, f: i, i: yearning, s: yearnings
+yearns <> b: yearn, f: '3'
+years <> b: year, f: s
+yeas <> b: yea, f: s
+yeast <> s: yeasts
+yeasts <> b: yeast, f: s
+yell <> p: yelled, i: yelling, '3': yells, s: yells, d: yelled
+yelled <> b: yell, f: pd
+yelling <> b: yell, f: i, i: yelling
+yellow <> s: yellows, r: yellower, i: yellowing, p: yellowed, '3': yellows, d: yellowed
+yellowed <> d: yellowed, b: yellowed, f: dp, p: yellowed
+yellower <> b: yellow, f: r
+yellowhammer <> s: yellowhammers
+yellowhammers <> b: yellowhammer, f: s
+yellowing <> f: i, b: yellow
+yellowlegs <> b: yellowleg, f: s
+yellows <> f: s3, b: yellow
+yells <> b: yell, f: 3s
+yelp <> p: yelped, i: yelping, s: yelps, '3': yelps, d: yelped
+yelped <> b: yelp, f: pd
+yelping <> b: yelp, f: i, i: yelping
+yelps <> b: yelp, f: s3
+Yemen <> b: yeman, f: s
+Yemeni <> s: yemenis, b: yemeni, f: s
+yen <> s: yens, f: yen
+yens <> b: yen, f: s
+yeoman <> s: yeomen
+yeomen <> b: yeoman, f: s
+yer <> s: yers
+yers <> b: yer, f: s
+yes-man <> s: yes-men
+yes-men <> b: yes-man, f: s
+yew <> s: yews
+yews <> b: yew, f: s
+yid <> s: yids
+yids <> b: yid, f: s
+yield <> s: yields, '3': yields, p: yielded, d: yielded, i: yielding
+yielded <> b: yield, f: pd
+yielder <> s: yielders
+yielders <> b: yielder, f: s
+yielding <> b: yield, f: i, i: yielding
+yields <> b: yield, f: s3
+yike <> '3': yikes, s: yikes
+yikes <> b: yike, f: 3s
+yin <> s: yins
+yins <> b: yin, f: s
+yip <> s: yips, p: yipped, i: yipping, '3': yips, d: yipped
+yipped <> b: yip, f: p
+yipping <> b: yip, f: i
+yips <> b: yip, f: s
+yo-yo <> s: yo-yos
+yo-yos <> b: yo-yo, f: s
+YOB <> s: yobs, '3': yobs
+yobbo <> s: yobbos
+yobbos <> b: yobbo, f: s
+yobs <> b: yob, f: s3
+yodel <> i: yodelling, '3': yodels, p: yodelled, d: yodelled
+yodelled <> b: yodel, f: p
+yodeller <> s: yodellers
+yodellers <> b: yodeller, f: s
+yodelling <> b: yodel, f: i, i: yodelling
+yodels <> b: yodel, f: '3'
+yoghurt <> s: yoghurts
+yoghurts <> b: yoghurt, f: s
+yogi <> s: yogis
+yogis <> b: yogi, f: s
+yogurt <> s: yogurts
+yogurts <> b: yogurt, f: s
+yoke <> d: yoked, s: yokes, p: yoked, i: yoking, '3': yokes
+yoked <> b: yoke, f: dp, p: yoked
+yokel <> s: yokels
+yokels <> b: yokel, f: s
+yokes <> f: s3, b: yoke
+yoking <> b: yoke, f: i
+yolk <> s: yolks, '3': yolks, d: yolked
+yolked <> b: yolk, f: d
+yolks <> b: yolk, f: s3
+yolky <> s: yolkys
+yolkys <> b: yolky, f: s
+yomp <> i: yomping
+yomping <> b: yomp, f: i
+yorker <> s: yorkers
+Yorkers <> b: yorker, f: s
+yorkist <> s: yorkists
+yorkists <> b: yorkist, f: s
+yorkshireman <> s: yorkshiremen
+yorkshiremen <> b: yorkshireman, f: s
+Yoruba <> s: yorubas
+young <> r: younger, t: youngest
+younger <> b: young, f: r
+youngest <> b: young, f: t
+youngster <> s: youngsters
+youngsters <> b: youngster, f: s
+youth <> s: youths
+youths <> b: youth, f: s
+yow <> i: yowing
+yowing <> b: yow, f: i
+yowl <> p: yowled, i: yowling, '3': yowls, s: yowls, d: yowled
+yowled <> f: pd, b: yowl
+yowling <> b: yowl, f: i
+yowls <> b: yowl, f: 3s
+Ypres <> b: ypre, f: s
+YR <> s: yrs
+yrs <> b: yr, f: s
+Yt <> s: yts, '3': yts
+YTS <> b: yt, f: s3
+yuan <> s: yuans
+yuans <> b: yuan, f: s
+yucca <> s: yuccas
+yuccas <> b: yucca, f: s
+yugoslav <> s: yugoslavs
+Yugoslavian <> s: yugoslavians
+yugoslavs <> b: yugoslav, f: s
+yummiest <> b: yummy, f: t
+yummy <> t: yummiest
+yup <> s: yups
+Yuppies <> b: yuppy, f: s
+yuppy <> s: yuppies
+yups <> b: yup, f: s
+yurt <> s: yurts, '3': yurts
+yurts <> b: yurt, f: s3
+yve <> '3': yves, s: yves
+YVES <> b: yve, f: 3s

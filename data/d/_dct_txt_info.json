@@ -1,0 +1,57 @@
+{
+    "phonetic": {
+        "start": "D",
+        "end": "dot",
+        "total": 5000
+    },
+    "phonetic__1": {
+        "start": "dot-com",
+        "end": "dzo",
+        "total": 1134
+    },
+    "bnc": {
+        "start": "D",
+        "end": "dystrophy",
+        "total": 2665
+    },
+    "explain": {
+        "start": "D",
+        "end": "disburdens",
+        "total": 5000
+    },
+    "explain__1": {
+        "start": "disbursal",
+        "end": "dzos",
+        "total": 3891
+    },
+    "exchange": {
+        "start": "dab",
+        "end": "dzos",
+        "total": 4889
+    },
+    "collins": {
+        "start": "dab",
+        "end": "dynasty",
+        "total": 811
+    },
+    "freq": {
+        "start": "dab",
+        "end": "dystrophy",
+        "total": 2592
+    },
+    "lgk_id": {
+        "start": "d",
+        "end": "dystrophy",
+        "total": 2020
+    },
+    "pos": {
+        "start": "dab",
+        "end": "dystrophy",
+        "total": 2615
+    },
+    "redirect": {
+        "start": "dadaists",
+        "end": "dysons",
+        "total": 67
+    }
+}

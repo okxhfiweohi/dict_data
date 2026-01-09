@@ -1,0 +1,47 @@
+{
+    "phonetic": {
+        "start": "O",
+        "end": "ozonosphere",
+        "total": 2694
+    },
+    "bnc": {
+        "start": "O",
+        "end": "ozone",
+        "total": 1036
+    },
+    "explain": {
+        "start": "O",
+        "end": "ozs",
+        "total": 4218
+    },
+    "collins": {
+        "start": "O level",
+        "end": "ozone layer",
+        "total": 366
+    },
+    "exchange": {
+        "start": "oaf",
+        "end": "ozs",
+        "total": 1929
+    },
+    "freq": {
+        "start": "o'clock",
+        "end": "ozone",
+        "total": 1047
+    },
+    "redirect": {
+        "start": "obes",
+        "end": "oxonians",
+        "total": 28
+    },
+    "lgk_id": {
+        "start": "o'clock",
+        "end": "ozone layer",
+        "total": 914
+    },
+    "pos": {
+        "start": "o'clock",
+        "end": "ozone",
+        "total": 1129
+    }
+}

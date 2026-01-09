@@ -1,0 +1,1524 @@
+fable <> w: 64217
+fabled <> w: 64218
+fabric <> w: 64219, p: [18373]
+fabricate <> w: 64220, p: [43118]
+fabrication <> w: 64222
+fabulous <> w: 64225, p: [49213]
+fabulously <> w: 64226, p: [49213]
+facade <> w: 64227, p: [18748]
+face <> w: 64228, p: [60750, 43614, 27493]
+face card <> w: 64236
+face cream <> w: 64238, p: [51832]
+face mask <> p: [22840]
+face pack <> w: 64246, p: [22840]
+face powder <> w: 64247, p: [22842]
+face the music <> p: [43668]
+face value <> w: 64257
+face-off <> w: 64232
+face-to-face <> w: 64254, p: [46649]
+faced <> w: 64259
+facet <> w: 64264
+facetious <> w: 64267
+facetiously <> w: 64268, p: [49640]
+facial <> w: 64271, p: [22840, 60750]
+facially <> w: 64283
+facile <> w: 64284, p: [48611]
+facilitate <> w: 64285, p: [48237]
+facilitated <> w: 229481
+facilitator <> w: 64288
+facility <> w: 64290
+facing <> w: 64291, p: [20519]
+facsimile <> w: 64293, p: [28866, 28866]
+fact <> w: 64295
+faction <> w: 64298
+factious <> w: 64299
+factitious <> w: 64300
+factor <> w: 64302, p: [59896, 23419]
+factorial <> w: 64324
+factory <> w: 64504, p: [48037]
+factotum <> w: 64511
+facts <> w: 225905, p: [48107]
+factual <> w: 64513, p: [45661]
+factuality <> w: 64514
+faculty <> w: 64519
+fad <> w: 64521
+faddy <> w: 64527
+fade <> w: 64528, p: [52177]
+faded <> w: 64531, p: [13970]
+fag <> w: 64548, p: [51208]
+fagged <> w: 64553
+fahrenheit <> w: 64575, p: [20916]
+fail <> w: 64579, p: [49996, 22249]
+fail-safe <> w: 64580
+failed <> w: 210125, p: [46189]
+failing <> w: 64581
+failure <> w: 64583
+fain <> w: 64584
+faint <> w: 64587, p: [45689, 21459, 21459]
+faint-hearted <> w: 64588
+faintly <> w: 64591, p: [49281]
+fair <> w: 64593, p: [60296, 48127, 49127, 48683, 17170]
+fair and square <> p: [43482]
+fair dinkum <> w: 367704
+fair-haired <> p: [49127]
+fair-haired boy <> w: 212610, p: [42202]
+fair-weather <> p: [54603]
+fair-weather friend <> p: [40187]
+fairing <> w: 365467
+fairly <> w: 64617, p: [43352]
+fairness <> w: 64618, p: [49127, 26648]
+fairway <> w: 64620
+fairy <> w: 64622
+fairy godmother <> w: 64630
+fairy tale <> w: 64637
+fait accompli <> w: 64643
+faith <> w: 64644, p: [23635]
+faithful <> w: 64647
+faithfully <> w: 64648, p: [50021]
+faithless <> w: 64650
+fake <> w: 64653, p: [28662, 47474, 28662]
+fakie <> w: 227035
+falafel <> w: 64660, p: [30900]
+falcon <> w: 64678, p: [24661]
+fall <> w: 64689, p: [49441, 22943, 22335, 48651, 22943, 51156, 31928]
+fall about <> p: [53341]
+fall away <> p: [27794]
+fall back <> p: [19522]
+fall back on <> p: [53258]
+fall behind <> p: [47873]
+fall between two stools <> p: [32568]
+fall by the wayside <> p: [43128]
+fall down <> p: [49441]
+fall flat <> p: [40829]
+fall for <> p: [40147, 49984]
+fall in <> p: [28029, 27590]
+fall in with <> p: [43206]
+fall into <> p: [53435, 52007]
+fall into place <> p: [23641, 40313]
+fall off <> p: [49441]
+fall on deaf ears <> p: [44828]
+fall on stony ground <> p: [41162]
+fall out <> p: [52803, 52505]
+fall over <> p: [49441]
+fall through <> p: [49996]
+fall to pieces <> p: [23639, 42628]
+fall-off <> p: [49441]
+fallacious <> w: 64728
+fallacy <> w: 64730
+fallibility <> w: 64737
+fallible <> w: 64738
+falling <> w: 64739, p: [22943, 22943]
+fallopian tube <> w: 64743
+fallout <> w: 64749
+fallow <> w: 64751, p: [39269]
+fallow deer <> w: 64752, p: [40003]
+falls <> w: 64753, p: [51156]
+false <> w: 64754, p: [48229, 28662]
+false move <> p: [41140]
+false teeth <> w: 65020, p: [31618]
+falsehood <> w: 65030
+falsely <> w: 65031, p: [50146]
+falsetto <> w: 65033
+falsification <> w: 65036
+falsify <> w: 65038, p: [59910]
+falter <> w: 65043
+fam <> w: 366332
+fame <> w: 65047, p: [22311]
+famed <> w: 65048, p: [28447]
+familial <> w: 65049, p: [52849]
+familiar <> w: 65051, p: [51240]
+familiarity <> w: 65057
+familiarize <> w: 65059
+family <> w: 65063, p: [60845, 60845, 20886]
+family doctor <> w: 65437, p: [50501]
+family man <> w: 65748
+family name <> w: 65830, p: [29036]
+family room <> w: 66059, p: [50809, 19018]
+family tree <> w: 66219, p: [20886]
+famine <> w: 66301, p: [17651]
+famish <> w: 66302, p: [27251]
+famished <> w: 66303, p: [29338]
+famous <> w: 66306, p: [28447]
+famously <> w: 66308
+fan <> w: 66310, p: [17523, 39087, 22616]
+fan belt <> w: 66315
+fanatic <> w: 66327
+fanatical <> w: 66328
+fanatically <> w: 66329
+fanaticism <> w: 66330
+fanciful <> w: 66334, p: [45663]
+fancy <> w: 66339, p: [28361, 42668]
+fancy dress <> w: 66342, p: [34065]
+fancywork <> w: 66347, p: [31313]
+fandango <> w: 66348, p: [38615]
+fanfare <> w: 66350
+fang <> w: 66351, p: [29729]
+fanlight <> w: 66357
+fanny <> w: 66363, p: [33467]
+fantabulous <> w: 66367, p: [51340]
+fantail <> w: 66368
+fantasia <> w: 66370
+fantasist <> w: 66372
+fantasize <> w: 66373, p: [27624]
+fantastic <> w: 66376, p: [49588]
+fantastical <> w: 66377
+fantastically <> w: 66378, p: [49263]
+fantasy <> w: 66379, p: [22405]
+fanzine <> w: 208939
+far <> w: 66389, p: [48323, 48323]
+far-fetched <> w: 66391
+far-flung <> w: 66392, p: [45918]
+far-off <> w: 66393
+far-out <> w: 66394
+far-reaching <> w: 218570
+farandole <> w: 66404
+faraway <> w: 66405, p: [48323]
+farce <> w: 66408, p: [32668]
+farcical <> w: 66410
+fare <> w: 66413, p: [33024]
+farewell <> w: 66417, p: [48971]
+farfalle <> w: 66418, p: [27678]
+farm <> w: 66426, p: [28772, 19592, 50613, 19204]
+farmer <> w: 66510, p: [50613]
+farmhand <> w: 66517, p: [50613]
+farmhouse <> w: 66518, p: [19592]
+farming <> w: 66519, p: [19058]
+farmland <> w: 66522, p: [19204]
+farmyard <> w: 66525
+farrier <> w: 66535
+farrow <> w: 66536
+farsighted <> w: 66540
+farther <> w: 66543, p: [48341]
+farthermost <> w: 66544
+farthest <> w: 66545
+farthing <> w: 66546
+farthingale <> w: 66547
+fascia <> w: 66553, p: [35720]
+fascicle <> w: 66554
+fascinate <> w: 66558, p: [43364]
+fascinated <> w: 66559, p: [23547]
+fascinating <> w: 66560, p: [43364, 49369]
+fascinatingly <> w: 66561, p: [45910]
+fascination <> w: 66562
+fascism <> w: 66571
+fascist <> w: 66572
+fash <> w: 367758
+fashion <> w: 66575, p: [49906, 47708]
+fashion house <> w: 216659
+fashionable <> w: 66583, p: [60582]
+fashionably <> w: 66584, p: [18437]
+fast <> w: 66588, p: [48413, 45128]
+fast and furious <> p: [44184]
+fast food <> w: 66599, p: [36511]
+fast lane <> w: 66600
+fast track <> p: [46651]
+fast-forward <> w: 223801
+fast-track <> w: 211680, p: [46651]
+fastback <> w: 227657
+fastball <> w: 66612
+fasten <> w: 66613, p: [18393]
+fastener <> w: 66616, p: [25493]
+fastidious <> w: 66620
+fastidiously <> w: 66621
+fastidiousness <> w: 66622
+fasting <> w: 66624
+fastness <> w: 66626, p: [27401]
+fat <> w: 66627, p: [60630, 26948, 27365]
+fat cat <> p: [16375]
+fat farm <> w: 66635
+fat hen <> p: [35021]
+fatal <> w: 66645, p: [50120]
+fatalism <> w: 66647
+fatalist <> w: 66648
+fatality <> w: 66650
+fatally <> w: 66652, p: [50120]
+fatback <> w: 66653, p: [36333]
+fate <> w: 66654
+fateful <> w: 66656
+fathead <> w: 66658, p: [17871]
+father <> w: 66660, p: [60849, 51616]
+father-in-law <> w: 66664, p: [29062]
+fatherhood <> w: 66672, p: [19346]
+fatherland <> w: 66673
+fathom <> w: 66678, p: [44976]
+fatigue <> w: 66682, p: [23545, 43218]
+fatigued <> w: 66687, p: [20199]
+fatso <> w: 66698
+fattening <> w: 66703, p: [51232]
+fatty <> w: 66707, p: [29615]
+fatty acid <> w: 66708
+fatuous <> w: 66713
+fatwa <> w: 66716
+faucet <> w: 66721, p: [19030]
+fault <> w: 66725, p: [27427]
+faulting <> w: 66731
+faultless <> w: 66732, p: [49526]
+faulty <> w: 66735
+faun <> w: 66736
+fauna <> w: 66737, p: [60736]
+fauteuil <> w: 66745, p: [42104]
+fauvism <> w: 66747, p: [25375]
+faux <> w: 66749, p: [28662]
+faux pas <> w: 66750
+favor <> w: 66754, p: [59114]
+favorable <> w: 66755, p: [17891]
+favorably <> w: 66759
+favored <> w: 66760
+favorite <> w: 66761, p: [43268]
+fawn <> w: 66774, p: [30634, 38577]
+fawning <> w: 66779
+fay <> w: 66781
+faze <> w: 66783
+fazed <> w: 66784, p: [46125]
+fealty <> w: 66794
+fear <> w: 66795, p: [52103, 48137]
+fearful <> w: 66796, p: [42876]
+fearfully <> w: 66797, p: [42054]
+fearfulness <> w: 66798, p: [52103, 52103]
+fearless <> w: 66799, p: [60127, 19262]
+fearlessly <> w: 66800, p: [49347]
+fearlessness <> w: 66801
+fearsome <> w: 66802, p: [28301]
+feasibility <> w: 66804
+feasible <> w: 66805, p: [17453]
+feasibly <> w: 66807
+feast <> w: 66808, p: [32084, 32084, 32580]
+feat <> w: 67003
+feather <> w: 67004, p: [20539]
+feather duster <> w: 216497, p: [32860]
+featherweight <> w: 67027
+feathery <> w: 67028
+feature <> w: 67029, p: [49461, 48043]
+feature film <> w: 67031
+featured <> w: 67033
+febrile <> w: 67039, p: [39781]
+febrility <> w: 67040, p: [39781]
+fecal <> w: 67049
+feck <> w: 367687
+feckless <> w: 67057, p: [45168]
+fecklessly <> w: 67058, p: [50039]
+fecund <> w: 67063
+fecundity <> w: 67066
+fed up <> w: 67068, p: [60406]
+federal <> w: 67072
+federalism <> w: 67115
+federalize <> w: 67119
+federate <> w: 67121
+federation <> w: 67124
+fedora <> w: 67131, p: [25188]
+fee <> w: 67132, p: [20762, 15845]
+feeble <> w: 67137, p: [49149, 49570]
+feebly <> w: 67141, p: [49570]
+feed <> w: 67142, p: [51238, 30553]
+feedback <> w: 67149
+feeder <> w: 67153
+feeding <> w: 67155, p: [48579]
+feeding bottle <> p: [33428]
+feeding-bottle <> p: [33428]
+feel <> w: 67160, p: [48699, 23335]
+feel for <> p: [61308]
+feel the pinch <> p: [41780]
+feeler <> w: 67166, p: [30820]
+feeling <> w: 67167, p: [61280]
+feet of clay <> p: [42218]
+feign <> w: 67174, p: [52469]
+feigned <> w: 67175
+feigning <> w: 67176, p: [19436]
+feijoa <> w: 67177
+feint <> w: 67179
+feisty <> w: 67181, p: [60172]
+felafel <> w: 67182, p: [30900]
+feldspar <> w: 67184
+felicitate <> w: 67188
+felicitations <> w: 226053, p: [48883]
+felicitous <> w: 67190
+felicity <> w: 67193
+feline <> w: 67196, p: [50132]
+fell <> w: 67215, p: [30826]
+fella <> w: 67216, p: [60862]
+feller <> w: 67223, p: [60862]
+fellow <> w: 67226, p: [60862, 51240, 47905]
+fellow feeling <> p: [61308]
+fellowship <> w: 67232, p: [27419]
+felon <> w: 67235, p: [23969]
+felonious <> w: 67236
+felony <> w: 67237
+felt <> w: 67239
+felt-tip <> p: [23979]
+female <> w: 67251, p: [17587, 17587, 17587]
+feminine <> w: 67271, p: [17587]
+femininity <> w: 67273
+feminism <> w: 67276, p: [31606]
+feminist <> w: 67277
+femme <> w: 366230
+femme fatale <> w: 67281
+femur <> w: 67294
+fen <> w: 67295, p: [29623]
+fence <> w: 67298, p: [45204, 33880]
+fencer <> w: 67306
+fencing <> w: 67309, p: [33880, 45204]
+fend <> w: 67314, p: [28037]
+fender <> w: 67317, p: [21338]
+fenestella <> w: 67319
+fenestra <> w: 67320
+fenland <> w: 67331, p: [29623]
+fennel <> w: 67332, p: [29002]
+fenugreek <> w: 67340, p: [31287]
+feral <> w: 67514
+fermata <> w: 67540, p: [39523]
+ferment <> w: 67541, p: [55027]
+fermentation <> w: 67543
+fermented <> w: 224434
+fermion <> w: 67549
+ferocious <> w: 67565, p: [22103]
+ferociously <> w: 67566, p: [22919]
+ferocity <> w: 67568
+ferret <> w: 67570, p: [24156]
+ferrule <> w: 67589, p: [47198]
+ferry <> w: 67590, p: [51148, 53651, 51148]
+ferryboat <> w: 67591, p: [51148]
+fertile <> w: 67594, p: [32570, 22780]
+fertilisation <> w: 67598
+fertiliser <> w: 67600
+fertility <> w: 67601
+fertilization <> w: 67605
+fertilize <> w: 67608, p: [42330]
+fertilizer <> w: 67611, p: [42330]
+fervent <> w: 67614
+fervently <> w: 67615, p: [45236]
+fervid <> w: 67616
+fervidly <> w: 67617
+fervor <> w: 67619
+festal <> w: 67627
+fester <> w: 67628
+festival <> w: 67632
+festival of lights <> p: [18724]
+festive <> w: 67634
+festivity <> w: 67635, p: [19474]
+festoon <> w: 67636, p: [47128]
+festschrift <> w: 67638
+fetal <> w: 67643
+fetch <> w: 67651, p: [31522]
+fetching <> w: 67653, p: [33999]
+fete <> w: 67654, p: [18742]
+fetid <> w: 67661
+fetish <> w: 67665
+fetlock <> w: 67669, p: [30734]
+fetter <> w: 67677
+fettuccine <> w: 67683, p: [27680]
+fetus <> w: 67686, p: [29577]
+feud <> w: 67687, p: [46422]
+feudal <> w: 67688
+feudalism <> w: 67692
+feuding <> w: 209446
+fever <> w: 67697, p: [39781, 44098]
+fever pitch <> p: [23517]
+feverish <> w: 67703, p: [39781]
+feverishness <> w: 67705, p: [39781]
+few <> w: 67708, p: [51508]
+fewer <> w: 67710
+fewest <> w: 67711
+fez <> w: 67715, p: [25190]
+fiance <> w: 67718, p: [21987]
+fiancee <> w: 67719, p: [21989]
+fiasco <> w: 67720, p: [44034]
+fiat <> w: 67721
+fib <> w: 67723, p: [21272, 21272]
+fiber <> w: 67726
+fiberboard <> w: 67732
+fibril <> w: 67749, p: [30303]
+fibromyalgia <> w: 219206
+fibrosis <> w: 67772
+fibula <> w: 67783
+fickle <> w: 67788
+fiction <> w: 67791
+fictional <> w: 67792, p: [45605]
+fictionalize <> w: 67798
+fictitious <> w: 67799, p: [45605]
+fiddle <> w: 67816, p: [51822, 54368, 18511]
+fiddler <> w: 67823, p: [18511]
+fide <> w: 224013
+fidelity <> w: 67829
+fidget <> w: 67830, p: [47298]
+fidgety <> w: 67832, p: [52147]
+fiducial <> w: 67833
+fiduciary <> w: 67834
+fief <> w: 67838
+field <> w: 67840, p: [31586, 15913, 23591, 16071, 27163]
+field goal <> w: 68003
+field hockey <> w: 68007, p: [39171]
+field trip <> w: 68059
+fieldcraft <> w: 211460
+fielder <> w: 68063
+fieldfare <> w: 68065
+fielding <> w: 68067
+fieldwork <> w: 68073
+fiend <> w: 68075, p: [27509]
+fiendish <> w: 68076
+fiendishly <> w: 68077
+fierce <> w: 68078, p: [22103]
+fiercely <> w: 68079, p: [61066]
+fierily <> w: 68082
+fiery <> w: 68084, p: [38659]
+fife <> w: 68087, p: [27554]
+fifteen <> w: 68090, p: [36004]
+fifteenth <> w: 68091, p: [36503, 36503]
+fifth <> w: 68092, p: [36483, 36483]
+fifth column <> w: 68095
+fiftieth <> w: 68104
+fifty <> w: 68105, p: [36106]
+fig <> w: 68120, p: [50457]
+fight <> w: 68131, p: [61066, 26353, 61066, 42954, 49125]
+fight back <> p: [44714]
+fight fire with fire <> p: [44660]
+fighter <> w: 68135, p: [39259]
+fighting <> w: 68138
+figment <> w: 68143
+figurative <> w: 68147, p: [49696]
+figuratively <> w: 68148, p: [49696]
+figure <> w: 68149, p: [23229, 60746, 61080, 18778, 45112]
+figure of speech <> w: 68155
+figure skating <> w: 68158, p: [39127]
+figure-hugging <> p: [34101]
+figure-skating <> p: [39127]
+figurehead <> w: 68162
+figurine <> w: 68164, p: [33783]
+filament <> w: 68177, p: [30303]
+filbert <> w: 68188, p: [14645, 46964]
+filch <> w: 68189
+file <> w: 68190, p: [15779, 22532, 39065, 47480]
+file cabinet <> p: [39065]
+filet <> w: 68208, p: [27949]
+filial <> w: 68211
+filibuster <> w: 68216
+filigree <> w: 68223
+filing cabinet <> w: 68225, p: [39065]
+fill <> w: 68231, p: [48827, 46844, 46844]
+fill in <> p: [44792, 22331]
+fill out <> p: [22331]
+fill up <> p: [48827, 45409, 26425]
+fill-up <> p: [48827, 45409, 26425]
+fille <> w: 68239, p: [60610]
+filled <> w: 68241, p: [14966]
+filler <> w: 68242
+filling <> w: 68245, p: [31059, 17555]
+filling station <> w: 68246, p: [17168]
+filly <> w: 68249, p: [24432]
+film <> w: 68250, p: [49461, 33715, 22413]
+film festival <> w: 68258
+filmed <> w: 68270
+filmmaker <> w: 68272, p: [50581]
+filmmaking <> w: 68251, p: [50581]
+filmstrip <> w: 208916
+filmy <> w: 68273, p: [29876]
+filter <> w: 68278, p: [52583]
+filth <> w: 68285
+filthy <> w: 68288, p: [60618]
+fin <> w: 68296, p: [30018, 33835, 35948]
+final <> w: 68304, p: [28449]
+finale <> w: 68316
+finalist <> w: 68319
+finalize <> w: 68322, p: [46627]
+finally <> w: 68502, p: [43332]
+finance <> w: 68503, p: [27768]
+financial <> w: 68508, p: [60778]
+financially <> w: 68529
+financier <> w: 68530
+financing <> w: 68531
+finback <> w: 68532
+finch <> w: 68535, p: [24663]
+find <> w: 68536, p: [60722, 61202]
+finding <> w: 68542
+fine <> w: 68546, p: [60632, 48507, 49598, 48683, 35694, 47440, 20177, 20177]
+fine print <> w: 68560
+fine-tooth comb <> w: 68554, p: [35102]
+fine-tune <> w: 68557, p: [43170]
+finely <> w: 68565, p: [49598]
+finery <> w: 68568, p: [28361]
+fines herbes <> p: [31429]
+finesse <> w: 68571
+finger <> w: 68573, p: [50677, 54290]
+finger bowl <> w: 68583, p: [26548]
+fingerboard <> w: 68596, p: [30193]
+fingering <> w: 68600
+fingerling <> w: 68603
+fingernail <> w: 68605, p: [50653]
+fingerprint <> w: 68609, p: [36283]
+fingerstall <> w: 68617
+fingertip <> w: 68618, p: [28964]
+finial <> w: 68619, p: [41958]
+finicky <> w: 68621, p: [60280]
+finis <> w: 68622
+finish <> w: 68623, p: [21268, 27886, 21268, 18551]
+finish up <> p: [27886, 52023]
+finish with <> p: [22253]
+finished <> w: 68629, p: [17537]
+finisher <> w: 68630
+finishing touch <> p: [20952]
+finite <> w: 68636, p: [45904]
+fink <> w: 68640, p: [47783]
+fipple flute <> p: [27542]
+fir <> w: 68660, p: [21841]
+fir tree <> p: [21841]
+fire <> w: 68664, p: [60760, 18840, 16395, 60760, 49157]
+fire alarm <> w: 68677, p: [28604]
+fire ant <> p: [25245]
+fire chief <> w: 68685
+fire department <> w: 68691
+fire door <> w: 68692
+fire engine <> w: 68694, p: [14264]
+fire escape <> w: 68695, p: [51051]
+fire extinguisher <> w: 68696, p: [39067]
+fire hydrant <> w: 68700, p: [33567]
+fire screen <> p: [32762]
+fire station <> w: 68712, p: [19192]
+fire truck <> w: 68718, p: [14264]
+fire warden <> p: [29912]
+fire-eater <> w: 68667, p: [50503]
+firearm <> w: 68726, p: [18838]
+fireball <> w: 68727
+fireballer <> w: 227439
+firebird <> w: 68729
+firebox <> w: 68732
+firebrand <> w: 68733
+firebrick <> w: 68736
+fired <> w: 68740, p: [16395]
+firedrake <> w: 68743, p: [29783]
+firefighter <> w: 68744, p: [50503]
+firefly <> w: 68745, p: [50245, 36383]
+fireguard <> w: 68746, p: [32762]
+firehouse <> w: 68747, p: [19192]
+fireman <> w: 68751, p: [50503]
+fireplace <> w: 68756, p: [18029]
+fireplug <> w: 68757, p: [33567]
+fireproof <> w: 68759
+fireside <> w: 68761
+firetrap <> w: 68765
+firewall <> w: 68766
+firewater <> w: 68767
+firewood <> w: 68770
+firework <> w: 68771, p: [19476]
+firing line <> w: 68774
+firing squad <> w: 68780
+firm <> w: 68782, p: [17911, 24015, 49323]
+firmly <> w: 68790, p: [49323]
+firmware <> w: 68793
+first <> w: 68794, p: [40067, 28451, 48995]
+first aid <> w: 68809, p: [18984]
+first base <> w: 69014
+first class <> w: 69019, p: [18655]
+first cousin <> w: 69023, p: [60839]
+first edition <> w: 221347
+first finger <> p: [29944]
+first floor <> w: 69044, p: [28195, 28191]
+first gear <> w: 69045
+first light <> p: [44090]
+first name <> w: 69061, p: [29034]
+first night <> w: 208888
+first-class <> w: 68797
+first-ever <> w: 224515
+first-hand <> p: [44792]
+first-rate <> w: 68805
+firsthand <> w: 69087
+firstly <> w: 69088
+fiscal <> w: 69094
+fiscal year <> w: 69096
+fiscally <> w: 69097
+fish <> w: 69100, p: [27339, 48655, 51642]
+fish and chips <> w: 69104, p: [27197]
+fish cake <> p: [30902]
+fish farm <> w: 69113, p: [19444]
+fish finger <> w: 69116, p: [28972]
+fish hawk <> p: [24940]
+fish knife <> p: [30752]
+fish slice <> w: 69135, p: [37558]
+fish stick <> w: 69139, p: [28972]
+fishbowl <> w: 69142, p: [30822]
+fisher <> w: 69143, p: [20986]
+fisherman <> w: 69145, p: [20986]
+fishery <> w: 69149
+fishing <> w: 69155, p: [51642]
+fishing expedition <> p: [26365]
+fishing pole <> p: [33856]
+fishing rod <> w: 69167, p: [33856]
+fishmonger <> w: 69173
+fishnet <> w: 69174, p: [33854]
+fishnet stockings <> w: 216627, p: [34391]
+fishy <> w: 69184
+fission <> w: 69186
+fissure <> w: 69194
+fist <> w: 69200, p: [28958]
+fit <> w: 69215, p: [39185, 53409, 16640, 39185]
+fit in <> p: [52713]
+fit to be tied <> p: [42528]
+fit-out <> p: [19318]
+fit-up <> p: [52089]
+fitful <> w: 69220
+fitly <> w: 69223
+fitness <> w: 69225
+fitted <> w: 69227, p: [39185]
+fitting <> w: 69231, p: [35794]
+fitting room <> p: [29513]
+fittingly <> w: 69232, p: [35794]
+five <> w: 69235, p: [35948]
+five o'clock shadow <> w: 216781, p: [30068]
+five-finger discount <> p: [43710]
+five-spot <> w: 69250, p: [36285]
+fiver <> w: 69260, p: [36285]
+fix <> w: 69263, p: [39095, 27059, 26120, 46455]
+fixate <> w: 69266, p: [59444, 59444]
+fixation <> w: 69267
+fixative <> w: 69268, p: [25533]
+fixed <> w: 69269
+fixer <> w: 69289
+fixings <> w: 69293, p: [20938]
+fixture <> w: 69295
+fizz <> w: 69297
+fizzing <> w: 69298
+fizzle <> w: 69299
+fizzy <> w: 69301, p: [19558]
+fjord <> w: 69302
+flab <> w: 69305
+flabbergast <> w: 69306
+flabbergasted <> w: 69307, p: [52109]
+flabby <> w: 69310
+flaccid <> w: 69311
+flag <> w: 69321, p: [46786, 51590]
+flagger <> w: 227880
+flagrant <> w: 69349
+flagrantly <> w: 69350, p: [46406]
+flair <> w: 69357
+flak <> w: 69502
+flake <> w: 69504, p: [29657, 18485]
+flaky <> w: 69509, p: [29657]
+flamboyance <> w: 69512
+flamboyant <> w: 69513, p: [34085, 60344]
+flame <> w: 69516, p: [61052, 38661]
+flamenco <> w: 69537, p: [28043, 28043]
+flaming <> w: 69540
+flamingo <> w: 69542, p: [24665]
+flammable <> w: 69548, p: [51264]
+flan <> w: 69551, p: [31046]
+flank <> w: 69555, p: [30736, 31634]
+flanker <> w: 69557
+flannel <> w: 69559, p: [30020, 32818]
+flannels <> w: 221082
+flap <> w: 69568, p: [53539, 46768, 44182]
+flapjack <> w: 69571, p: [19132]
+flare <> w: 69575, p: [24861, 60760, 47640, 24861]
+flare up <> p: [41295]
+flare-up <> p: [41295]
+flared <> w: 208549, p: [24861]
+flares <> w: 221739, p: [24861]
+flash <> w: 69583, p: [26433, 47560]
+flash back <> p: [53194]
+flash drive <> p: [28800]
+flash flood <> w: 69592
+flash in the pan <> p: [40639, 40833]
+flash memory <> p: [28800]
+flashback <> w: 69598
+flashcard <> w: 69591, p: [37289]
+flasher <> w: 69603
+flashing <> w: 69608
+flashlight <> w: 69609, p: [41078]
+flashy <> w: 69614, p: [34085]
+flat <> w: 69617, p: [15992, 39527, 19556, 32640, 51392, 21607, 35786, 39527, 25036]
+flat-top <> p: [30126]
+flatbed <> w: 69643
+flatbread <> w: 69648, p: [27750]
+flatcar <> w: 69650
+flatfish <> w: 69651, p: [50363]
+flatfoot <> w: 69652
+flatline <> w: 211118
+flatly <> w: 69658, p: [30084]
+flatmate <> w: 69659, p: [35884]
+flatness <> w: 69660
+flatten <> w: 69662, p: [54217]
+flatten out <> p: [41434]
+flatter <> w: 69665, p: [58593]
+flattering <> w: 69667, p: [33995]
+flatulence <> w: 69670
+flatulent <> w: 69672
+flatware <> w: 69675, p: [19006]
+flatworm <> w: 69677, p: [34604]
+flaunt <> w: 69679, p: [26433, 26433]
+flavor <> w: 69692, p: [21422, 37830]
+flavored <> w: 229470
+flavorful <> w: 69694
+flavoring <> w: 69695
+flavorless <> w: 69696, p: [32640]
+flavorous <> w: 69698
+flawed <> w: 69711, p: [45810]
+flawless <> w: 69712, p: [45812]
+flawlessly <> w: 69713, p: [49526]
+flax <> w: 69715, p: [35423, 35425, 38679]
+flaxen <> w: 69720, p: [30165]
+flaxseed <> w: 69721, p: [35425]
+flay <> w: 69723
+flea <> w: 69724, p: [50247]
+flea beetle <> p: [36385]
+flea market <> w: 69728, p: [33765]
+fleapit <> w: 69731
+fleck <> w: 69734, p: [54449, 26533]
+flecked <> w: 69735, p: [33679]
+fledgling <> w: 69741
+flee <> w: 69742, p: [20684]
+fleece <> w: 69743, p: [19324, 19801, 24916]
+fleer <> w: 69746
+fleet <> w: 69747
+fleeting <> w: 69751, p: [23687]
+fleetly <> w: 69753
+flesh <> w: 69760, p: [27155, 60746]
+flesh and blood <> p: [44562, 60845]
+flesh fly <> p: [34718]
+fleshy <> w: 69770, p: [29206]
+fletching <> w: 227585
+flex <> w: 69775, p: [27760]
+flexibility <> w: 69777
+flexible <> w: 69778, p: [23709]
+flexibly <> w: 69783, p: [49387]
+flexile <> w: 69784, p: [23709]
+flexing <> w: 220648
+flexion <> w: 69785
+flexitime <> w: 220710
+flexor <> w: 69786
+flick <> w: 69791, p: [46908, 43120]
+flicker <> w: 70004, p: [47476]
+flickering <> w: 70005
+flier <> w: 70007, p: [33479, 31524]
+flight <> w: 70009, p: [17805, 24468]
+flight attendant <> w: 70010, p: [20962]
+flight simulator <> w: 70021
+flightless <> w: 70026
+flimsy <> w: 70033
+flinch <> w: 70034, p: [47300]
+fling <> w: 70041, p: [53653]
+flip <> w: 70052, p: [27798, 33046, 60238]
+flip chart <> w: 70055
+flip side <> w: 227368
+flip through <> p: [53272]
+flip-flop <> w: 70054, p: [25040]
+flippant <> w: 70062
+flippantly <> w: 70063
+flipper <> w: 70064, p: [30776, 25042, 37558]
+flirt <> w: 70066, p: [19600, 19600, 38617]
+flirt with <> p: [45317]
+flirtation <> w: 70068, p: [19600]
+flirtatious <> w: 70069, p: [19600]
+flit <> w: 70072
+float <> w: 70078, p: [21126, 40793]
+floater <> w: 70080, p: [20229]
+floaty <> w: 70095
+flock <> w: 70103, p: [24468, 31373, 59121]
+flog <> w: 70106, p: [47342]
+flog a dead horse <> p: [40835]
+flokati <> w: 221784
+flood <> w: 70109, p: [36315, 47450, 36315, 36970]
+flooded <> w: 70116
+flooding <> w: 70120, p: [22612]
+floodlight <> w: 70121, p: [36970]
+floodplain <> w: 70124
+floor <> w: 70125, p: [48351, 28191]
+floor lamp <> w: 70130, p: [32764]
+floor plan <> w: 70132
+floor show <> w: 70133
+floorboard <> w: 70135
+flooring <> w: 70137, p: [48351, 48351]
+flop <> w: 70142, p: [26491, 48093]
+floppy <> w: 70144, p: [29629]
+flora <> w: 70146, p: [32572]
+floral <> w: 70147, p: [46505]
+floret <> w: 70161
+florid <> w: 70165
+floridness <> w: 70181
+florist <> w: 70185, p: [20988]
+floss <> w: 70192, p: [51804, 33386]
+flotilla <> w: 70196
+flotsam <> w: 70197
+flounce <> w: 70198
+flounder <> w: 70199, p: [53560, 50363]
+flour <> w: 70200, p: [27738]
+flourish <> w: 70206, p: [19158, 23425]
+flourishing <> w: 70207
+floury <> w: 70208
+flout <> w: 70209, p: [59720]
+flow <> w: 70211, p: [27939]
+flow chart <> w: 70213
+flower <> w: 70223, p: [29028, 21936]
+flower bed <> p: [32768]
+flower girl <> w: 70234, p: [51494]
+flowered <> w: 70242
+flowerpot <> w: 70264, p: [42454]
+flowery <> w: 70267, p: [28285]
+flowing <> w: 70268
+flowy <> w: 219849
+flu <> w: 70271, p: [17637]
+flub <> w: 70272, p: [26431]
+fluctuate <> w: 70273, p: [53525]
+fluctuating <> w: 70274
+fluctuation <> w: 70275
+flue <> w: 70276
+fluency <> w: 70280
+fluent <> w: 70281, p: [49325]
+fluently <> w: 70283
+fluff <> w: 70284, p: [54219, 26431]
+fluffy <> w: 70503, p: [45565]
+flugelhorn <> w: 70505, p: [27558]
+fluid <> w: 70506, p: [46499]
+fluid ounce <> w: 70512, p: [32846]
+fluidity <> w: 70513
+fluidly <> w: 225465, p: [49325]
+fluke <> w: 70517
+flummery <> w: 70521
+flummox <> w: 70522, p: [48333]
+flump <> w: 70523, p: [53583]
+flunk <> w: 70526, p: [22249]
+fluorescence <> w: 70536
+fluorescent <> w: 70538, p: [37185, 45517]
+fluorine <> w: 70549
+fluoroscopy <> w: 70558
+flurry <> w: 70570, p: [18547]
+flush <> w: 70571, p: [42848, 35631, 35631]
+flushed <> w: 70576, p: [30082]
+fluster <> w: 70578, p: [44182]
+flustered <> w: 70579
+flute <> w: 70580, p: [51820, 18345]
+fluted <> w: 367689
+fluting <> w: 70583
+flutist <> w: 70584
+flutter <> w: 70585
+fluvial <> w: 70589
+flux <> w: 70590, p: [27939]
+fly <> w: 70598, p: [49826, 17805, 19532, 20684, 28888, 25495]
+fly at <> p: [31705]
+fly high <> p: [23425]
+fly off the handle <> p: [42630]
+fly the coop <> p: [23637]
+fly-by-night <> w: 70600
+flyaway <> w: 70628, p: [30301]
+flycatcher <> w: 70631, p: [24667]
+flyer <> w: 70633, p: [33479, 31524, 50591]
+flying <> w: 70635, p: [17805]
+flying buttress <> w: 70640
+flying fish <> w: 70649, p: [34606]
+flying fox <> w: 70650, p: [24158]
+flying saucer <> w: 70663, p: [29842]
+flying squirrel <> p: [24160]
+flying start <> w: 70667, p: [40351]
+flyleaf <> w: 70669
+flyover <> w: 70670, p: [19576]
+flyweight <> w: 70678
+foal <> w: 70685, p: [24434]
+foam <> w: 70686
+foamy <> w: 70692
+focaccia <> w: 217383, p: [37592]
+focal <> w: 70695, p: [43368]
+focal length <> w: 70699
+focus <> w: 70708, p: [27690, 27690, 58595]
+focus on <> p: [27690]
+focused <> w: 70710, p: [27297]
+fodder <> w: 70714
+foe <> w: 70715, p: [19568]
+fog <> w: 70737, p: [17236]
+fog lamp <> w: 227814
+foggy <> w: 70744, p: [17236]
+foible <> w: 70752
+foil <> w: 70754, p: [32820, 52491]
+foiled <> w: 70755
+foist <> w: 70757
+fold <> w: 70761, p: [33299]
+foldable <> w: 70763
+foldaway <> w: 70764
+folder <> w: 70765, p: [29579, 20159]
+folderol <> w: 64686
+folding <> w: 70768, p: [23711]
+foley <> w: 221195
+foliage <> w: 70775, p: [21917]
+folio <> w: 70783
+folk <> w: 70787, p: [21465]
+folk dance <> w: 70790
+folk music <> w: 70794, p: [21465]
+folklore <> w: 71002
+folks <> w: 71003
+folktale <> w: 71006
+folkways <> w: 224986
+follow <> w: 71012, p: [36361, 20692, 49614, 19520]
+follow-the-leader <> p: [32030]
+follow-through <> w: 71014
+follow-up <> w: 71015, p: [51648]
+follower <> w: 71021
+following <> w: 71024, p: [60873]
+folly <> w: 71026
+foment <> w: 71028
+fond <> w: 71036, p: [60362]
+fondant <> w: 71039, p: [31050]
+fondle <> w: 71040, p: [30557]
+fondly <> w: 71043, p: [23063]
+fondness <> w: 71044, p: [61302]
+fondu <> w: 71045, p: [30904]
+fondue <> w: 71046, p: [30904]
+food <> w: 71054, p: [60764, 48653]
+food chain <> w: 71062
+food court <> p: [26497]
+food poisoning <> w: 71078, p: [35894]
+food processor <> w: 71079, p: [19454]
+foodie <> w: 71087, p: [39963]
+foodstuff <> w: 71089, p: [17017]
+fool <> w: 71090, p: [20117, 31052]
+fool around <> p: [44706]
+foolery <> w: 71099
+foolhardy <> w: 71101
+foolish <> w: 71103, p: [17871]
+foolishly <> w: 71105, p: [50088]
+foolproof <> w: 71107
+foosball <> w: 211445, p: [32068]
+foot <> w: 71109, p: [50679]
+foot fault <> w: 226860
+footage <> w: 71126
+football <> w: 71127, p: [60684, 39203, 33813]
+footballer <> w: 71143, p: [49808]
+footboard <> w: 71145, p: [41998]
+footbridge <> w: 71146
+footer <> w: 71150, p: [27125]
+foothill <> w: 71154
+foothold <> w: 71155
+footing <> w: 71156
+footlight <> w: 71159
+footloose <> w: 71162
+footman <> w: 71163
+footnote <> w: 71165
+footpath <> w: 71167, p: [15927]
+footstool <> w: 71179
+footwear <> w: 71182, p: [48583]
+footwork <> w: 71183
+footy <> w: 216700
+foppish <> w: 71185
+for <> w: 208360
+for a song <> p: [41814]
+for crying out loud <> p: [48183]
+for dear life <> p: [42690]
+for free <> p: [22323]
+for real <> p: [46298]
+for the time being <> p: [44052]
+for want of <> p: [45285]
+forage <> w: 71216, p: [59329]
+foraging <> w: 71218
+foray <> w: 71225
+forbear <> w: 71227
+forbearance <> w: 71228
+forbearing <> w: 71229, p: [19276]
+forbid <> w: 71230, p: [47278]
+forbidden <> w: 71232, p: [45393]
+forbidden fruit <> w: 71234
+force <> w: 71237, p: [18792, 20934, 27692, 49429, 47056]
+force field <> p: [23591]
+forceful <> w: 71256, p: [45842]
+forcefully <> w: 71257, p: [47036]
+forcefulness <> w: 71258
+forceps <> w: 71261, p: [25715]
+forcible <> w: 71264
+forcibly <> w: 71265
+ford <> w: 71268
+fore <> w: 71274
+forearm <> w: 71286, p: [50711]
+forebear <> w: 71287
+forebode <> w: 71288
+foreboding <> w: 71289
+forecast <> w: 71291, p: [59638, 18463]
+forecastle <> w: 71294
+foreclose <> w: 71295
+forecourt <> w: 71297
+forefather <> w: 71302
+forefinger <> w: 71304, p: [29944]
+forefoot <> w: 71305, p: [30738]
+forefront <> w: 71306
+forego <> w: 71308
+foregone conclusion <> w: 71311, p: [46762]
+foreground <> w: 71312, p: [60232]
+forehand <> w: 71315
+forehead <> w: 71320, p: [50681]
+foreign <> w: 71321, p: [58681]
+foreigner <> w: 71519, p: [58681]
+foreknowledge <> w: 71522
+foreland <> w: 71524, p: [31968]
+forelock <> w: 71527, p: [30810]
+foreman <> w: 71528
+foremost <> w: 71532
+forename <> w: 71534, p: [29034]
+forenoon <> w: 71535, p: [48569]
+forensic <> w: 71536, p: [21451]
+forensics <> w: 71539, p: [21451]
+foreordain <> w: 71540
+foreordination <> w: 71542
+forepart <> w: 71543
+foresail <> w: 71549
+foresee <> w: 71550, p: [47322]
+foreseeable <> w: 71551
+foreshadow <> w: 71552, p: [47322]
+foreshadowing <> w: 71553
+foreshore <> w: 71556
+foresight <> w: 71559
+foreskin <> w: 71564
+forest <> w: 71565, p: [18904]
+forestall <> w: 71573
+forested <> w: 71576
+forester <> w: 71577
+forestry <> w: 71580
+foretell <> w: 71583, p: [61168]
+forethought <> w: 71585
+foretop <> w: 71588, p: [30810]
+forever <> w: 71589, p: [43404]
+forewarn <> w: 71592
+forewing <> w: 71594
+foreword <> w: 71596
+forfeit <> w: 71597, p: [60073, 20177]
+forfeiture <> w: 71599, p: [20177]
+forfend <> w: 71600
+forge <> w: 71606, p: [47158]
+forged <> w: 71607, p: [28662]
+forgery <> w: 71609
+forget <> w: 71610, p: [22095]
+forgetful <> w: 71613, p: [60200, 22095]
+forgettable <> w: 71617
+forgive <> w: 71621, p: [27890]
+forgiveness <> w: 71622, p: [27890]
+forgiving <> w: 71624, p: [60188]
+forgo <> w: 71627
+fork <> w: 71631, p: [48659, 22598, 46603]
+forkball <> w: 226817
+forklift <> w: 71639, p: [40809]
+forlorn <> w: 71640, p: [20323]
+form <> w: 71644, p: [22981, 60746, 16842, 16640, 27588, 27171]
+form of address <> p: [17901]
+formal <> w: 71655, p: [17459, 39727]
+formalism <> w: 71664, p: [25433]
+formality <> w: 71667, p: [17459]
+formalize <> w: 71669, p: [51923]
+formally <> w: 71671
+format <> w: 71674, p: [59331]
+formation <> w: 71675
+formative <> w: 71676
+formed <> w: 71680
+former <> w: 71681, p: [43460]
+formerly <> w: 71683, p: [49117]
+formidable <> w: 71697, p: [45780]
+formula <> w: 71704, p: [33436, 14023]
+formulaic <> w: 71705
+formulate <> w: 71709, p: [61204]
+formulation <> w: 71711
+fornication <> w: 71714, p: [27403]
+forsake <> w: 71721, p: [20327]
+forswear <> w: 71726
+fort <> w: 71729
+forte <> w: 71742
+fortepiano <> w: 219773
+forth <> w: 71745
+forthcoming <> w: 71747, p: [45587, 19306]
+forthright <> w: 71749
+forthwith <> w: 71752
+forties <> w: 71753
+fortieth <> w: 71754
+fortification <> w: 71755
+fortified <> w: 71756
+fortify <> w: 71758, p: [58992]
+fortissimo <> w: 71759
+fortitude <> w: 71760
+fortnight <> w: 71761
+fortress <> w: 71766
+fortuitous <> w: 71767, p: [50108]
+fortuitously <> w: 71768, p: [50108]
+fortunate <> w: 71772
+fortunately <> w: 71773
+fortune <> w: 71774, p: [20764, 35810]
+fortune cookie <> p: [31054]
+fortune-teller <> w: 71782
+forty <> w: 71784, p: [36086]
+forty winks <> w: 71804
+forty-five <> w: 71789, p: [36096]
+forum <> w: 71805, p: [19488]
+forward <> w: 71806, p: [16698, 21485, 19504, 52323]
+forward-looking <> w: 71807, p: [28738]
+forwards <> w: 72009
+fossa <> w: 72014, p: [34189]
+fosse <> w: 72017, p: [27205]
+fossil <> w: 72018, p: [37097, 37097]
+fossil fuel <> w: 72020, p: [20424]
+fossilization <> w: 72027
+foster <> w: 72034, p: [29479]
+foul <> w: 72062, p: [49522, 28732, 31693, 31693]
+foul play <> w: 72071
+foul-up <> w: 72066, p: [26431]
+found <> w: 72080, p: [52985]
+foundation <> w: 72081, p: [22844]
+foundation course <> w: 226618
+foundational <> w: 224447, p: [43420]
+founder <> w: 72084
+founding father <> w: 72087
+foundry <> w: 72091
+fountain <> w: 72094, p: [33767]
+fountain pen <> w: 72097, p: [29533]
+four <> w: 72103, p: [35946]
+four-wheel drive <> w: 72139
+fourscore <> w: 72158, p: [36166, 36166]
+foursome <> w: 72159, p: [35946]
+foursquare <> w: 72160, p: [14582]
+fourteen <> w: 72161, p: [36000]
+fourteenth <> w: 72162, p: [36501, 36501]
+fourth <> w: 72164, p: [36481, 36481, 36481]
+fourth estate <> w: 72173
+fourthly <> w: 72180, p: [36481]
+fovea <> w: 72181
+fowl <> w: 72184, p: [24735, 18315]
+fowl pest <> w: 72186
+fox <> w: 72190, p: [50078, 16274]
+fox terrier <> w: 72200, p: [24126]
+foxhound <> w: 72205, p: [24136]
+foxily <> w: 72207
+foxtrot <> w: 72214
+foxy <> w: 72215, p: [16274]
+foyer <> w: 72216, p: [18161]
+fracas <> w: 72221
+fraction <> w: 72224, p: [23225, 27764]
+fractious <> w: 72232, p: [27309]
+fracture <> w: 72235, p: [17427, 17427, 46605]
+fractured <> w: 224435
+frag <> w: 211423
+fragile <> w: 72242, p: [46099]
+fragment <> w: 72245, p: [49383]
+fragmented <> w: 72250, p: [45768]
+fragrance <> w: 72254, p: [14566]
+fragrant <> w: 72256, p: [45445]
+frail <> w: 72266, p: [49229]
+frailly <> w: 225438, p: [49229]
+frailty <> w: 72268
+frame <> w: 72273, p: [20890, 60746, 15663, 31709, 20890]
+framework <> w: 72282, p: [31709]
+framing <> w: 72283
+franc <> w: 72284
+franchise <> w: 72294
+frank <> w: 72529, p: [60374]
+frankfurter <> w: 72550, p: [27952]
+frankincense <> w: 72552
+frankly <> w: 72562, p: [45251]
+frantic <> w: 72565, p: [60408]
+frantically <> w: 72566, p: [42926]
+fraternal <> w: 72591
+fraternity <> w: 72596
+fraternize <> w: 72599, p: [59094]
+fraud <> w: 72602, p: [43590]
+fraudster <> w: 217275
+fraudulence <> w: 72607
+fraudulent <> w: 72608
+fraudulently <> w: 72610, p: [43590]
+fraught <> w: 72611
+fray <> w: 72630
+frayed <> w: 72631
+frazzled <> w: 211145
+freak <> w: 72634, p: [48219]
+freakish <> w: 72636, p: [29657]
+freakishly <> w: 72637, p: [49145]
+freaky <> w: 72639
+freckle <> w: 72640, p: [19781]
+freckled <> w: 72641, p: [19781]
+free <> w: 72678, p: [22323, 50060, 20688, 17157, 20932]
+free fall <> p: [51094]
+free kick <> w: 72710, p: [31689]
+free market <> w: 210232
+free spirit <> p: [40317]
+free trade <> w: 72733
+free verse <> w: 72735
+free will <> w: 72737
+free-fall <> p: [51094]
+free-for-all <> w: 72684
+free-range <> w: 72688
+freebie <> w: 72741
+freedom <> w: 72746, p: [20688]
+freehold <> w: 72767
+freelance <> w: 72770, p: [51434, 51434]
+freelancer <> w: 72771, p: [51434]
+freeloader <> w: 72773
+freely <> w: 72774, p: [50060]
+freemason <> w: 72777
+freestyle <> w: 72782
+freethinker <> w: 72785
+freethinking <> w: 72786
+freeway <> w: 72789, p: [51630]
+freeze <> w: 72795, p: [19570, 19564, 18489, 19572, 21278, 21499, 47470]
+freeze-dried <> w: 72796
+freeze-frame <> w: 208864
+freeze-out <> p: [19570]
+freeze-up <> p: [52075]
+freezer <> w: 72802, p: [19456]
+freezing <> w: 72803, p: [17321]
+freezing point <> w: 72805, p: [23289]
+freight <> w: 72808, p: [46890]
+freight train <> w: 72814
+freighter <> w: 72816
+frenemy <> w: 209451
+frenetic <> w: 72885
+frenzy <> w: 72889
+frequency <> w: 73004
+frequent <> w: 73011, p: [49870]
+frequenter <> w: 73013
+frequently <> w: 73014, p: [49870]
+fresco <> w: 73015
+fresh <> w: 73016, p: [29611, 14418, 17449]
+freshen <> w: 73026
+freshen up <> p: [26128]
+fresher <> w: 73029, p: [29388]
+freshly <> w: 73031, p: [48983]
+freshman <> w: 73032, p: [29388, 29388]
+freshness <> w: 73034
+freshwater <> w: 73035, p: [31566, 31566]
+fret <> w: 73048, p: [61310, 22658, 30195]
+fretful <> w: 73049
+fretsaw <> w: 73052, p: [41029]
+fretwork <> w: 73054
+fri <> w: 73064, p: [60851]
+fricassee <> w: 73073
+fricative <> w: 73074
+friction <> w: 73077, p: [35900]
+friday <> w: 73083, p: [60851]
+fried <> w: 73086, p: [20942]
+friend <> w: 73108, p: [47759]
+friendless <> w: 73110, p: [17517]
+friendliness <> w: 73112
+friendly <> w: 73113, p: [60542]
+friends in high places <> p: [40677]
+friendship <> w: 73118, p: [19406]
+frier <> w: 73120, p: [18315]
+fries <> w: 73121, p: [50359]
+friesian <> w: 73122, p: [51358]
+frieze <> w: 73124, p: [31363]
+frigate bird <> p: [24671]
+fright <> w: 73130, p: [52103]
+frighten <> w: 73131, p: [47310]
+frightened <> w: 73134, p: [46151]
+frightening <> w: 73135, p: [28301]
+frighteningly <> w: 73136, p: [28301]
+frightful <> w: 73137
+frightfully <> w: 73138
+frigid <> w: 73140, p: [18473]
+frigid zone <> p: [18926]
+frigidity <> w: 73142, p: [51398]
+frigidly <> w: 73143
+frigidness <> w: 73144, p: [51398]
+fringe <> w: 73156, p: [33301, 29846, 19216, 33301, 59658]
+fringe benefit <> w: 73158
+fringe theatre <> w: 208892
+fringed <> w: 73162, p: [33307]
+frisbee <> w: 73179, p: [31920]
+frisk <> w: 73184, p: [32030]
+frisson <> w: 73189
+frit <> w: 222586
+fritter <> w: 73205, p: [31333]
+frivolity <> w: 73217
+frivolous <> w: 73218
+frivolously <> w: 73219
+frizz <> w: 73221, p: [26150, 26150]
+frizzle <> w: 73222, p: [26150]
+frizzly <> w: 73223
+frizzy <> w: 73224, p: [26150]
+frock <> w: 73226, p: [50958]
+frock coat <> p: [34233]
+frog <> w: 73230, p: [50140]
+froglet <> w: 208433, p: [25912]
+frogmarch <> w: 73242
+frogmouth <> w: 73243
+frogspawn <> w: 208434, p: [30130]
+frolic <> w: 73244
+frolicsome <> w: 73246
+from <> w: 208357
+from pillar to post <> p: [41164]
+from scratch <> p: [28451]
+from time to time <> p: [16863]
+fromage frais <> p: [27373]
+front <> w: 73259, p: [24013, 24013]
+front desk <> w: 208495, p: [17281]
+front door <> w: 73267, p: [18101]
+front line <> w: 73270
+front man <> w: 73271, p: [30707]
+front matter <> w: 73272
+front page <> w: 209139
+front room <> w: 73275, p: [18055]
+front runner <> p: [40075]
+front-page <> w: 209140
+frontage <> w: 73278
+frontal <> w: 73280
+frontal lobe <> p: [30421]
+frontier <> w: 73291
+fronting <> w: 366358
+frontispiece <> w: 73295
+frontlet <> w: 73296
+frontman <> w: 209154
+frontward <> w: 73299
+frost <> w: 73302, p: [22614, 31675, 31675, 37798]
+frostbite <> w: 73312, p: [22550]
+frostbitten <> w: 73313
+frosted <> w: 73314
+frostily <> w: 73317
+frosting <> w: 73319, p: [20111]
+frosty <> w: 73322, p: [17321]
+frottage <> w: 73329, p: [47554]
+froward <> w: 73331
+frown <> w: 73332, p: [17115, 17115]
+frowsty <> w: 73338
+frowzy <> w: 73341
+frozen <> w: 73342, p: [19564, 19570]
+fructose <> w: 73514
+frugal <> w: 73516, p: [49882]
+frugality <> w: 73517
+frugally <> w: 73518, p: [41974]
+fruit <> w: 73520, p: [48681]
+fruit bat <> w: 73523, p: [24158]
+fruit cocktail <> p: [38108]
+fruit cup <> p: [38108]
+fruit fly <> p: [34750]
+fruit salad <> w: 73535, p: [19108]
+fruit tree <> p: [32570]
+fruitarian <> w: 220206
+fruitcake <> w: 73539, p: [37778, 17871]
+fruiterer <> w: 73540
+fruitful <> w: 73541, p: [45856]
+fruitfully <> w: 73542
+fruition <> w: 73546
+fruitless <> w: 73547, p: [48835]
+fruity <> w: 73552
+frumpish <> w: 73556, p: [34087]
+frumpy <> w: 73558, p: [34087]
+frustrate <> w: 73560, p: [59640]
+frustrated <> w: 73561, p: [46191]
+frustrating <> w: 73562, p: [46193]
+frustratingly <> w: 225433, p: [46193]
+frustration <> w: 73563, p: [52129]
+frustum <> w: 73565
+fry <> w: 73568, p: [20942, 20942, 19819]
+fry-up <> w: 209270, p: [31111]
+fryer <> w: 73572, p: [38156, 18315]
+frying pan <> w: 73574, p: [20990]
+fuchsia <> w: 73587, p: [38619]
+fuck-up <> p: [26431]
+fuddle <> w: 73604, p: [18307]
+fuddy-duddy <> w: 73606
+fudge <> w: 73607, p: [27720, 26974]
+fuel <> w: 73612, p: [20426, 16710]
+fugacious <> w: 73632, p: [49614]
+fugitive <> w: 73639, p: [23687]
+fugue <> w: 73645
+fulcrum <> w: 73660
+fulfill <> w: 73662, p: [42416]
+fulfilled <> w: 73663, p: [38713]
+fulfilling <> w: 217351
+fulfillment <> w: 73664, p: [52069]
+fulgent <> w: 73666, p: [49740]
+full <> w: 73675, p: [14966, 17537, 16459, 29785]
+full board <> w: 228828
+full house <> w: 73706, p: [22363]
+full moon <> w: 73708, p: [29785, 29785]
+full of beans <> p: [42684]
+full point <> p: [27479]
+full professor <> w: 73714, p: [27089]
+full stop <> w: 73718, p: [27479]
+full-bodied <> w: 73679, p: [32646]
+full-fledged <> w: 73686
+full-grown <> w: 73687
+full-length <> w: 73688
+full-size <> w: 73692
+full-time <> w: 73695, p: [17915, 17915]
+fullback <> w: 73721
+fully <> w: 73727, p: [45730]
+fulmar <> w: 73731, p: [24673]
+fulminant <> w: 73735
+fulminate <> w: 73736, p: [18423, 46364]
+fulsome <> w: 73741
+fumble <> w: 73754, p: [26431]
+fume <> w: 73757, p: [21157, 48065]
+fumes <> w: 73761
+fumet <> w: 220673
+fumigate <> w: 73764
+fun <> w: 73771, p: [45415, 52115]
+funambulist <> w: 73775
+function <> w: 73776, p: [23845, 49864]
+function word <> w: 73778
+functional <> w: 73779, p: [49864]
+functionality <> w: 73788
+functionally <> w: 73789
+functionary <> w: 73791
+functioning <> w: 73792
+fund <> w: 73793, p: [48241]
+fundament <> w: 73799, p: [33467]
+fundamental <> w: 73800, p: [43420]
+fundamentalism <> w: 73809
+fundamentalist <> w: 73810
+fundamentally <> w: 73812
+fundamentals <> w: 73813
+funded <> w: 73815
+funding <> w: 73816
+fundraise <> w: 73817
+fundraiser <> w: 73818
+fundraising <> w: 210231
+funds <> w: 73819
+funeral <> w: 73824, p: [35870]
+funeral home <> w: 73829
+funfair <> w: 73837, p: [17172]
+fungal <> w: 73838
+fungi <> w: 73840, p: [37373]
+fungible <> w: 73844
+fungous <> w: 73848
+fungus <> w: 73849, p: [29814]
+funicular <> w: 74006
+funk <> w: 74010, p: [28045]
+funky <> w: 74014
+funnel <> w: 74015, p: [37491, 37491]
+funnily <> w: 74021, p: [44706]
+funny <> w: 74023, p: [45906, 49137]
+funny business <> p: [43714]
+fur <> w: 74032, p: [30896, 30896, 60266]
+furbelow <> w: 74040, p: [54531]
+furbish <> w: 74041
+furcula <> w: 74045, p: [30802]
+furious <> w: 74049, p: [44118]
+furiously <> w: 74050, p: [42680]
+furl <> w: 74052, p: [51468]
+furlough <> w: 74056
+furnish <> w: 74062, p: [32624]
+furnished <> w: 74063, p: [32624]
+furnishings <> w: 74064, p: [48561]
+furniture <> w: 74065, p: [48561]
+furniture beetle <> p: [25249]
+furor <> w: 74069
+furphy <> w: 367716
+furrow <> w: 74076
+furrowed <> w: 74077
+furry <> w: 74078
+further <> w: 74080, p: [22680]
+further education <> w: 208636
+furtherance <> w: 74081
+furthermore <> w: 74082
+furtive <> w: 74085, p: [49608]
+furtively <> w: 74086, p: [47100]
+furunculosis <> w: 74089
+fury <> w: 74090, p: [52143]
+fuscous <> w: 74100, p: [38561]
+fuse <> w: 74101, p: [31789, 54568]
+fuse box <> w: 211949, p: [32556]
+fusible <> w: 74107
+fusilli <> w: 209185, p: [37457]
+fusion <> w: 74113, p: [33699]
+fuss <> w: 74117, p: [42834]
+fussy <> w: 74122, p: [26776, 45395]
+fustian <> w: 74123
+fusty <> w: 74125
+futile <> w: 74126, p: [45750]
+futon <> w: 74129, p: [28399]
+future <> w: 74131, p: [17360, 28730]
+future perfect <> w: 74134
+futurism <> w: 74143, p: [25435]
+futurist <> w: 74144
+futuristic <> w: 74145, p: [28730]
+futurity <> w: 74147, p: [17360]
+futurology <> w: 74148
+fuzz <> w: 74151, p: [50625]
+fuzzbox <> w: 209011, p: [28225]
+fuzzed <> w: 74152
+fuzzy <> w: 74154, p: [45611]

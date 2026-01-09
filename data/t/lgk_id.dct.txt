@@ -1,0 +1,1812 @@
+ta-ta <> w: 229036
+tab <> w: 183086, p: [14206, 46786]
+tabard <> w: 183089, p: [34152]
+tabbouleh <> w: 183094, p: [30848]
+tabby <> w: 183095
+tabernacle <> w: 183097, p: [33573]
+tabla <> w: 219735, p: [38407]
+tablature <> w: 183105
+table <> w: 183106, p: [17397]
+table knife <> p: [38463]
+table lamp <> p: [22117]
+table linen <> w: 183116, p: [41858]
+table manners <> w: 218134
+table mat <> w: 183117, p: [26507]
+table napkin <> p: [17180]
+table salt <> p: [27117]
+table tennis <> w: 183127, p: [51073]
+tableau <> w: 183132
+tablecloth <> w: 183134, p: [26674]
+tableland <> w: 183136, p: [31940]
+tablespoon <> w: 183138, p: [26846]
+tablet <> w: 183140, p: [16718, 35649]
+tabloid <> w: 183144
+taboo <> w: 183145
+tabor <> w: 183147, p: [28231]
+tabular <> w: 183157
+tachometer <> w: 183178
+tacit <> w: 183186, p: [49578]
+tacitly <> w: 183188, p: [49578]
+taciturn <> w: 183189, p: [17859]
+taciturnly <> w: 183191, p: [23205]
+tack <> w: 183193, p: [58383, 41634]
+tacker <> w: 183197, p: [22748]
+tackie <> w: 367749
+tackle <> w: 183200, p: [43614, 31701]
+tacky <> w: 183202, p: [34089]
+taco <> w: 183203, p: [29621]
+tact <> w: 183209
+tactful <> w: 183210, p: [60462]
+tactfully <> w: 183211, p: [20261]
+tactic <> w: 183213
+tactical <> w: 183214
+tactically <> w: 183219
+tactician <> w: 183220
+tactics <> w: 183221
+tactile <> w: 183222
+tactlessly <> w: 183228
+tadpole <> w: 183243, p: [23839]
+taekwondo <> w: 183250, p: [51057]
+taffeta <> w: 183254
+taffy <> w: 183258, p: [27780]
+tag <> w: 183261, p: [58385, 31865]
+tagliatelle <> w: 183276, p: [27680]
+tahini <> w: 183281, p: [35402]
+tai <> w: 183285, p: [36605, 37136, 36605, 37136]
+tail <> w: 183297, p: [30610, 33467, 43998]
+tail end <> p: [33467]
+tail light <> p: [21436]
+tail-light <> p: [21436]
+tailback <> w: 183309
+tailboard <> w: 183310, p: [36429]
+tailcoat <> w: 183311, p: [25098]
+tailgate <> w: 183317, p: [36429]
+tailor <> w: 183324, p: [51440, 51440, 51440, 34055]
+tailor-made <> w: 183327, p: [34051, 34051]
+tailorbird <> w: 183329
+tailored <> w: 183330, p: [34051]
+tailoring <> w: 183331
+tailpiece <> w: 183332, p: [38100]
+tailpipe <> w: 183333, p: [21344]
+taint <> w: 183342, p: [59906]
+tainted <> w: 183343
+taipan <> w: 183344, p: [23851]
+takahe <> w: 183359, p: [34558]
+take <> w: 183362, p: [48621, 26872, 60720, 48543, 48551, 18599, 22333, 60827, 35585, 61248]
+take a back seat <> p: [43174]
+take a bath <> p: [27071]
+take a beating <> p: [40839, 21230]
+take a hike <> p: [44744]
+take a shine to <> p: [39679]
+take advantage of <> p: [43190, 40505]
+take after <> p: [40213]
+take against <> p: [41348]
+take care <> p: [27421, 35655]
+take it easy <> p: [38889, 35657]
+take note <> p: [22267]
+take off <> p: [39244, 17847, 16163, 61248]
+take on <> p: [16397]
+take part <> p: [60819]
+take the easy way out <> p: [46079]
+take the edge off <> p: [45110]
+take the fall <> p: [43660]
+take the floor <> p: [40549]
+take the gilt off the gingerbread <> p: [42114]
+take the plunge <> p: [43100, 40309]
+take time by the forelock <> p: [21483]
+take to <> p: [42724]
+take up the cudgels <> p: [55042]
+take up with <> p: [43118]
+take-out <> p: [52219, 19480, 61262]
+take-up <> p: [43104, 26319]
+takeaway <> w: 183603, p: [21424]
+takedown <> w: 183604
+takeoff <> w: 183610, p: [16163]
+takeout <> w: 183613, p: [21424, 26421, 21424]
+takeover <> w: 183615
+takin <> w: 183622, p: [39997]
+talapoin <> w: 183632
+talaria <> w: 183633
+talc <> w: 183635
+talcum <> w: 183637, p: [30038]
+talcum powder <> w: 183638, p: [30038]
+tale <> w: 183639, p: [17065]
+talent <> w: 183643
+talented <> w: 183646, p: [44750]
+talisman <> w: 183666
+talk <> w: 183668, p: [60730, 55226, 44826, 37316, 51502]
+talk a blue streak <> p: [42268]
+talk at <> p: [42264]
+talk sense into <> p: [45026]
+talk shop <> p: [41468]
+talk show <> w: 183677, p: [19771]
+talk the hind leg off a donkey <> p: [42236]
+talkative <> w: 183681, p: [17835, 19306]
+talkback <> w: 209087
+talkie <> w: 183686
+talking <> w: 183688, p: [60730]
+tall <> w: 183696, p: [60638, 28453]
+tallish <> w: 183727, p: [60638]
+tallith <> w: 183728, p: [39883]
+tallness <> w: 183729, p: [29735]
+tallow <> w: 183730, p: [35146]
+tally <> w: 183733, p: [22732, 61252, 17216, 47997]
+talon <> w: 183738, p: [30313]
+talus <> w: 183741
+tam-o'-shanter <> w: 183744, p: [25110]
+tam-tam <> p: [37948]
+tamandua <> w: 183751
+tamarillo <> w: 183759
+tamarin <> w: 183760, p: [39935]
+tamarind <> w: 183761, p: [26982]
+tambour <> w: 183773, p: [31544]
+tambourine <> w: 183774, p: [28233]
+tame <> w: 183776, p: [20537, 47983]
+tamed <> w: 183778, p: [20537]
+tamoxifen <> w: 183801
+tamper <> w: 183807, p: [59347]
+tampon <> w: 184006, p: [22977]
+tan <> w: 184011
+tanager <> w: 184022
+tandem <> w: 184028
+tandoor <> w: 184031, p: [37529]
+tang <> w: 184035
+tangelo <> w: 184040, p: [50439, 39373]
+tangent <> w: 184043, p: [39605]
+tangential <> w: 184045
+tangentially <> w: 184046
+tangerine <> w: 184047, p: [50479]
+tangible <> w: 184050, p: [45986]
+tangibly <> w: 184053
+tanginess <> w: 184058
+tangle <> w: 184059, p: [30255, 47070]
+tangled <> w: 184063
+tango <> w: 184064, p: [28007, 28007, 39111]
+tangram <> w: 184066
+tangy <> w: 184069, p: [32670]
+tank <> w: 184070, p: [29946, 21346, 30012]
+tank top <> w: 184084, p: [18337]
+tanka <> w: 184085
+tankard <> w: 184087, p: [42912]
+tanked <> w: 366891
+tanker <> w: 184088, p: [33549]
+tanned <> w: 184091, p: [47370]
+tanner <> w: 184093, p: [47785]
+tannery <> w: 184095
+tannin <> w: 184099
+tanning <> w: 184100
+tantalize <> w: 184117
+tantalizing <> w: 184119
+tantalus <> w: 184122
+tantamount <> w: 184123, p: [49275]
+tantrum <> w: 184130
+tap <> w: 184143, p: [27774, 19030]
+tap dancing <> w: 184147
+tapa <> w: 184152
+tape <> w: 184155, p: [29679, 61096, 27632, 25876]
+tape measure <> w: 184162, p: [22650]
+tape recording <> w: 184166, p: [29679]
+taper <> w: 184171, p: [43108, 19608]
+tapestry <> w: 184178, p: [32500, 48577]
+tapeworm <> w: 184180
+taping <> w: 184184, p: [29679]
+tapioca <> w: 184185, p: [35477]
+tapir <> w: 184188, p: [24342]
+taproom <> w: 184204, p: [51512]
+taproot <> w: 184205
+tar <> w: 184208
+tar baby <> p: [46475]
+tara <> w: 184214
+taramasalata <> w: 209263, p: [30850]
+tarantella <> w: 184227
+tarantula <> w: 184231, p: [30010]
+tarboosh <> w: 184240, p: [25190]
+tardigrade <> w: 184243
+tardily <> w: 184244
+tardy <> w: 184248, p: [22439]
+target <> w: 184252, p: [47935, 23779]
+targeted <> w: 224460, p: [46209]
+tariff <> w: 184267
+tarmac <> w: 184269
+tarnish <> w: 184272
+taro <> w: 184274, p: [26375, 26375]
+tarot <> w: 184277, p: [29519]
+tarp <> w: 184279
+tarragon <> w: 184289, p: [30908]
+tarry <> w: 184294
+tarsal <> w: 184295
+tarsier <> w: 184298, p: [34219]
+tarsus <> w: 184305
+tart <> w: 184306, p: [32670, 28878]
+tartan <> w: 184308, p: [24949]
+tartar <> w: 184309, p: [37898]
+tartare sauce <> w: 184313, p: [31349]
+tartness <> w: 184322
+task <> w: 184335, p: [59912]
+tassel <> w: 184505
+taste <> w: 184513, p: [27596, 27193, 27596, 18611]
+taste bud <> w: 184516
+tasteful <> w: 184523, p: [49315]
+tastefully <> w: 184524, p: [49315]
+tasteless <> w: 184526, p: [31211]
+tastelessness <> w: 184528, p: [32640]
+taster <> w: 184529
+tastily <> w: 184530
+tasty <> w: 184533, p: [16023]
+tatami <> w: 221767
+tater <> w: 184539, p: [27077]
+tattered <> w: 184545
+tattily <> w: 184546
+tatting <> w: 184547
+tattle <> w: 184548, p: [46529, 48707]
+tattler <> w: 184549
+tattoo <> w: 184554, p: [29970, 29970]
+tatty <> w: 184555
+taunt <> w: 184563
+taupe <> w: 184567, p: [38561, 38561]
+tauromachy <> w: 184569, p: [29697]
+taut <> w: 184575
+tautological <> w: 184585
+tautology <> w: 184586
+tavern <> w: 184587, p: [51412]
+tawdrily <> w: 184590
+tawdry <> w: 184592
+tawny <> w: 184595, p: [38585]
+tawny owl <> p: [25569]
+tax <> w: 184602, p: [60624]
+tax evasion <> w: 184622
+tax haven <> w: 184624
+taxable <> w: 184639
+taxation <> w: 184642
+taxi <> w: 184644, p: [49512]
+taxi rank <> w: 184647, p: [14274]
+taxicab <> w: 184649, p: [49512]
+taxidermy <> w: 184653, p: [32502]
+taxing <> w: 184657
+taxonomic <> w: 184669
+taxonomical <> w: 184672
+taxonomy <> w: 184675
+taxpayer <> w: 184678
+tayberry <> w: 209172, p: [21294]
+tayra <> w: 184696, p: [34447]
+tazza <> w: 220113
+tchotchke <> w: 184706
+tea <> w: 184714, p: [26992, 38036, 26521, 21881, 51220]
+tea bag <> p: [35661]
+tea gown <> p: [39801]
+tea leaf <> p: [38036]
+tea room <> p: [26521]
+tea rose <> p: [38743]
+tea service <> w: 184740, p: [38226]
+tea set <> p: [38226]
+tea towel <> w: 184744, p: [32954]
+tea-strainer <> p: [37531]
+teacake <> w: 184750, p: [37872]
+teach <> w: 184752, p: [28822]
+teacher <> w: 184755, p: [50529]
+teacher's pet <> w: 184757, p: [42202]
+teaching <> w: 184761, p: [19989]
+teaching hospital <> w: 218384
+teacup <> w: 184767, p: [27105]
+teahouse <> w: 184769, p: [26521]
+teakettle <> w: 184771, p: [50781]
+teal <> w: 184773, p: [38465, 40279]
+team <> w: 184774, p: [49804, 52511]
+team spirit <> w: 184775
+teammate <> w: 184779, p: [49806]
+teamster <> w: 184780, p: [33629]
+teamwork <> w: 184782
+teapot <> w: 184783, p: [26848]
+teapoy <> w: 221632, p: [42098]
+tear <> w: 184786, p: [20211, 32531, 23681, 20211]
+teardrop <> w: 184800, p: [20211]
+tearful <> w: 184801
+tearfully <> w: 184802, p: [44596]
+tearjerker <> w: 184807
+tearoom <> w: 184809
+teary <> w: 184811
+tease <> w: 184814, p: [20259, 26134, 39493]
+teaser <> w: 184818
+teashop <> w: 184819, p: [26521]
+teasing <> w: 184820, p: [46127]
+teaspoon <> w: 184823, p: [26850]
+teat <> w: 184825, p: [39841]
+teatime <> w: 184826, p: [51220]
+tech <> w: 184833
+techie <> w: 184834
+technical <> w: 184836, p: [28656]
+technicality <> w: 184846
+technically <> w: 184847
+technician <> w: 184848, p: [51448]
+technique <> w: 184850
+techno <> w: 184851, p: [28219]
+technological <> w: 184855, p: [28656]
+technologically <> w: 184857
+technologist <> w: 184858, p: [50527]
+technology <> w: 184859, p: [26465, 49820]
+technophile <> w: 185003
+technophobe <> w: 185006
+techy <> w: 185009, p: [27309]
+tectonic <> w: 185016
+tectonics <> w: 185018
+teddy bear <> w: 185026, p: [31986]
+tedious <> w: 185029, p: [17851, 49894]
+tedium <> w: 185032
+tee <> w: 185033
+tee shirt <> w: 185036, p: [48593]
+teem <> w: 185039
+teeming <> w: 185041
+teen <> w: 185043, p: [19981, 19981]
+teenage <> w: 185044, p: [19981]
+teenager <> w: 185046, p: [19981]
+teens <> w: 185047, p: [19981]
+teensy <> w: 185048
+teeny <> w: 185051
+teeter <> w: 185055, p: [31863]
+teeter-totter <> w: 185056, p: [31863]
+teeth <> w: 185059, p: [48525]
+teething ring <> p: [33509]
+teetotal <> w: 185063, p: [32672, 32672]
+teetotaler <> w: 185064, p: [32672]
+teetotalism <> w: 185066, p: [32672]
+teetotaller <> w: 185068
+teff <> w: 185070
+tegument <> w: 185078, p: [50741]
+tektite <> w: 185087
+telecine <> w: 221194
+telecom <> w: 185098
+telecommunication <> w: 185104
+telecommute <> w: 227210
+telecommuting <> w: 185107
+teleconference <> w: 185108, p: [28956, 28956]
+teleconferencing <> w: 185109, p: [28956]
+telefax <> w: 185110, p: [28866]
+telefilm <> w: 185111
+telegraph <> w: 185115, p: [28948]
+telegraph pole <> w: 185121, p: [36918]
+telegraph post <> w: 185122, p: [36918]
+telegraphy <> w: 185130, p: [28948]
+telemark <> w: 185133
+telemarketing <> w: 185134, p: [33561]
+teleological <> w: 185140
+teleology <> w: 185142
+telepathic <> w: 185147, p: [49612]
+telepathically <> w: 225464, p: [49612]
+telepathy <> w: 185151, p: [49612]
+telephone <> w: 185152, p: [27123, 32527, 48703]
+telephone book <> w: 185155, p: [37069]
+telephone call <> p: [49129]
+telephone directory <> w: 185164, p: [37069]
+telephone number <> w: 185172, p: [48125]
+telephone pole <> w: 185176, p: [36918]
+telephoner <> w: 185183, p: [49129]
+telephony <> w: 185186
+telephoto lens <> w: 185188, p: [33733]
+teleport <> w: 185191, p: [53549]
+teleportation <> w: 185192
+telepresence <> w: 365628
+teleprompter <> w: 185195
+telesales <> w: 228787
+telescope <> w: 185197, p: [22083]
+teleshopping <> w: 208612
+teletext <> w: 209097
+telethon <> w: 209098
+televise <> w: 185211, p: [19174]
+television <> w: 185212, p: [48539]
+telex <> w: 185235
+tell <> w: 185242, p: [60730, 58059]
+tell on <> p: [46529]
+teller <> w: 185246, p: [51348]
+telling <> w: 185250
+telling-off <> w: 217855
+tellingly <> w: 185251
+telltale <> w: 185252
+telly <> w: 185258, p: [48539]
+telomere <> w: 185262
+telophase <> w: 185266
+temazepam <> w: 185272
+temblor <> w: 185273, p: [39615]
+temerity <> w: 185275
+temp <> w: 185277
+tempeh <> w: 209264, p: [30852]
+temper <> w: 185278
+tempera <> w: 185279, p: [25665]
+temperament <> w: 185280
+temperamental <> w: 185281, p: [22105]
+temperance <> w: 185283
+temperate <> w: 185284, p: [35732]
+temperately <> w: 185287
+temperateness <> w: 185288, p: [54603]
+temperature <> w: 185289, p: [21246, 39781]
+tempest <> w: 185297, p: [18547]
+tempestuous <> w: 185301
+template <> w: 185304
+temple <> w: 185306, p: [29362, 50739, 33573]
+tempo <> w: 185317
+temporal <> w: 185318
+temporal lobe <> p: [30445]
+temporally <> w: 185337
+temporarily <> w: 185339, p: [50154]
+temporary <> w: 185341, p: [54762]
+temporize <> w: 185350
+tempt <> w: 185354, p: [58739]
+temptation <> w: 185356
+tempted <> w: 219379
+tempter <> w: 185357
+tempting <> w: 185358, p: [45864]
+temptingly <> w: 185359
+temptress <> w: 185361
+tempura <> w: 185362
+ten <> w: 185365, p: [35982]
+ten to one <> p: [44202]
+ten-gallon hat <> w: 185368, p: [25168]
+tenable <> w: 185380
+tenacious <> w: 185382
+tenaciously <> w: 185383
+tenacity <> w: 185385
+tenant <> w: 185387, p: [22289]
+tench <> w: 185503, p: [24825]
+tend <> w: 185504, p: [59494, 53515]
+tendency <> w: 185507
+tendentious <> w: 185508
+tendentiously <> w: 185509
+tendentiousness <> w: 185510
+tender <> w: 185511, p: [17879, 27323, 26467, 52781, 32674]
+tenderize <> w: 185523, p: [32674]
+tenderloin <> w: 185526, p: [18283]
+tenderly <> w: 185527, p: [48925]
+tenderness <> w: 185528, p: [61302]
+tendon <> w: 185532, p: [32102]
+tendril <> w: 185538, p: [30257]
+tendu <> w: 220728
+tenebrionid <> w: 185541, p: [36375]
+tenebrous <> w: 185544, p: [17319]
+tenement <> w: 185545
+tenet <> w: 185550
+tenfold <> w: 185551, p: [48783]
+tenner <> w: 185557, p: [36297, 35982]
+tennis <> w: 185565, p: [49465]
+tennis court <> w: 185570
+tennis elbow <> w: 185571
+tennis shoe <> w: 185578, p: [24963]
+tenon saw <> p: [41025]
+tenor <> w: 185585
+tenrec <> w: 185601
+tense <> w: 185604, p: [42874]
+tenseness <> w: 185609
+tensile <> w: 185610
+tension <> w: 185614
+tent <> w: 185621, p: [27445]
+tentacle <> w: 185628, p: [30670]
+tentative <> w: 185632
+tentatively <> w: 185633
+tenth <> w: 185636, p: [36493, 36493]
+tenuous <> w: 185646
+tenure <> w: 185648
+tenuto <> w: 220144
+tepid <> w: 185659, p: [49600]
+tequila <> w: 185663, p: [50399]
+tequila sunrise <> p: [31825]
+terabyte <> w: 185666
+tercel <> w: 185680
+tercentenary <> w: 185682
+tercet <> w: 185684, p: [35944]
+teriyaki <> w: 185708, p: [30854]
+term <> w: 185709, p: [58216]
+termagant <> w: 185716
+terminal <> w: 185721, p: [49548, 28449, 48843]
+terminally <> w: 185727, p: [48843]
+terminate <> w: 185728, p: [59678, 16395]
+terminated <> w: 185729
+termination <> w: 185730
+terminology <> w: 185734
+terminus <> w: 185735, p: [49548]
+termite <> w: 185738, p: [25345]
+terms <> w: 185740
+tern <> w: 185741, p: [25068]
+ternary <> w: 185742, p: [35944]
+terpsichorean <> w: 185747, p: [26800]
+terra firma <> w: 185750, p: [17609]
+terrace <> w: 185753, p: [51122]
+terraced <> w: 211377
+terraced house <> w: 185754, p: [32694]
+terracotta <> w: 222356
+terrain <> w: 185755
+terrapin <> w: 185761, p: [18009]
+terrarium <> w: 185762
+terrestrial <> w: 185767
+terrible <> w: 185773, p: [33139, 17307]
+terribly <> w: 185775, p: [43466]
+terrier <> w: 185776, p: [25789]
+terrific <> w: 185779, p: [49588]
+terrifically <> w: 185780
+terrified <> w: 185781, p: [46151]
+terrify <> w: 185782, p: [47652]
+terrifying <> w: 185783, p: [23551]
+terrifyingly <> w: 225429, p: [46151]
+terrine <> w: 185784, p: [21310]
+territorial <> w: 185785
+territory <> w: 185797, p: [17164]
+terror <> w: 185798, p: [52103, 37045]
+terrorism <> w: 185803, p: [20930]
+terrorist <> w: 185804, p: [20930]
+terrorize <> w: 185811, p: [48155]
+terse <> w: 185816, p: [49712]
+tersely <> w: 185817, p: [49712]
+tertiary <> w: 185820, p: [40065]
+tertiary education <> w: 226397
+terzetto <> w: 185829, p: [35944]
+tessitura <> w: 220199
+test <> w: 185839, p: [27664, 17431, 20239, 20017, 17431]
+test drive <> w: 186008
+test match <> w: 186013
+test paper <> p: [20017]
+test tube <> w: 186021
+testament <> w: 186026
+testator <> w: 186030
+testicle <> w: 186036
+testify <> w: 186043, p: [47799]
+testily <> w: 186044
+testimonial <> w: 186045
+testimony <> w: 186047
+testis <> w: 186052
+testosterone <> w: 186053
+testy <> w: 186059, p: [27309]
+tetanus <> w: 186063
+tetchy <> w: 186071, p: [27309]
+tether <> w: 186075, p: [20559, 20559]
+tetrad <> w: 186097, p: [35946]
+tetrahedral <> w: 225539
+tetrahedron <> w: 186111, p: [25998]
+tetrathlon <> w: 226881
+text <> w: 186183, p: [26278, 26278, 45802, 45802]
+textbook <> w: 186188, p: [23997]
+textile <> w: 186189, p: [18373]
+textual <> w: 186193
+texture <> w: 186196, p: [31249]
+textured <> w: 186197
+textured vegetable protein <> w: 218497, p: [37429]
+thai <> w: 186202, p: [36605, 37136, 37136, 36605]
+thalamus <> w: 186207, p: [30447]
+thalassemia <> w: 186210
+thali <> w: 217932
+than <> w: 210175
+thank <> w: 186246, p: [20209]
+thank you <> p: [60817]
+thank-you <> p: [60817]
+thankful <> w: 186249, p: [20209]
+thankfully <> w: 186250
+thankfulness <> w: 186251, p: [20209]
+thanks <> w: 186254, p: [35700, 35700]
+thanksgiving <> w: 186255, p: [18726]
+that <> w: 210161
+thatch <> w: 186261
+thatched <> w: 211382
+thaumaturge <> w: 186269, p: [29641]
+thaumaturgist <> w: 186270, p: [29641]
+thaumaturgy <> w: 186271, p: [19438]
+thaw <> w: 186272, p: [18491, 54914, 32740]
+thawing <> w: 186274, p: [32740]
+the <> w: 216630
+the ropes <> p: [42510, 44748, 43166]
+theater <> w: 186325, p: [44966, 44962]
+theatrical <> w: 186347, p: [22361, 18577]
+theatrically <> w: 186356
+thebes <> w: 186359
+thee <> w: 225790
+theft <> w: 186365, p: [53025]
+their <> w: 210162, p: [37269]
+theirs <> w: 219333, p: [37269]
+theism <> w: 186367
+them <> w: 216622, p: [37275]
+thematic <> w: 186383
+thematically <> w: 186386
+theme <> w: 186387, p: [58016]
+theme park <> w: 186388, p: [17172]
+themed <> w: 224461
+themselves <> w: 217418
+then <> w: 186392, p: [17362, 43392]
+thenar <> w: 186395, p: [50691]
+thenceforth <> w: 186397, p: [48943]
+theocracy <> w: 186401
+theodolite <> w: 186503
+theologian <> w: 186519
+theological <> w: 186520
+theologically <> w: 186524
+theology <> w: 186530, p: [29477]
+theorem <> w: 186536
+theoretical <> w: 186538
+theoretically <> w: 186540
+theorist <> w: 186545
+theorize <> w: 186547, p: [59496]
+theorizing <> w: 209801
+theory <> w: 186549
+theosophy <> w: 186567
+therapeutic <> w: 186569
+therapeutically <> w: 186574
+therapeutics <> w: 186575
+therapist <> w: 186577, p: [21400]
+therapy <> w: 186580, p: [51606, 51604]
+there <> w: 186583, p: [49728, 48321]
+thereabouts <> w: 186585, p: [48369]
+thereafter <> w: 186586, p: [48943]
+thereby <> w: 186587
+therefore <> w: 186589, p: [43498]
+therein <> w: 186591
+theremin <> w: 186593, p: [38098]
+thereupon <> w: 208586
+thermal <> w: 186605, p: [60312]
+thermally <> w: 186615
+thermic <> w: 186617
+thermocouple <> w: 186636
+thermodynamic <> w: 186638
+thermodynamically <> w: 186640
+thermodynamics <> w: 186641
+thermoelectric <> w: 186643
+thermoelectricity <> w: 186646
+thermometer <> w: 186657, p: [33241]
+thermosphere <> w: 186682
+thermostat <> w: 186683, p: [19462]
+thesaurus <> w: 186692
+these <> w: 225794
+thesis <> w: 186694
+thewy <> w: 225549
+they <> w: 216618, p: [37271]
+thick <> w: 186720, p: [28099, 32676, 17319]
+thick and fast <> p: [22447]
+thick-skinned <> w: 186729
+thicken <> w: 186733, p: [54702]
+thickly <> w: 186741, p: [49403]
+thickness <> w: 186743
+thickset <> w: 186744
+thief <> w: 186746, p: [20788]
+thieve <> w: 186749
+thievery <> w: 186750, p: [53025]
+thigh <> w: 186755, p: [50693, 36407]
+thighbone <> w: 186759
+thimble <> w: 186761, p: [33319]
+thin <> w: 186768, p: [28135, 30225, 46499, 60640, 46920, 49407]
+thin on the ground <> p: [45291]
+thine <> w: 225792
+thing <> w: 186778, p: [60815]
+thingy <> w: 228922
+think <> w: 186788, p: [60847, 22568, 33002, 22568]
+think back <> p: [44972]
+think of <> p: [22568]
+think the world of <> p: [40165]
+think twice <> p: [22568]
+thinkable <> w: 186800, p: [17453]
+thinker <> w: 186801
+thinking <> w: 186802
+thinly <> w: 186804, p: [49407]
+thinning <> w: 186808
+third <> w: 186825
+third class <> w: 186838
+third degree <> w: 186843, p: [47787]
+third party <> w: 186854
+third-degree <> p: [47787]
+third-degree burn <> w: 186827
+third-rate <> w: 186831
+thirdly <> w: 186866
+thirst <> w: 186867, p: [21655, 21655]
+thirstiness <> w: 187004, p: [21655]
+thirsty <> w: 187005, p: [49862]
+thirteen <> w: 187006, p: [35996]
+thirteenth <> w: 187007, p: [36499, 36499]
+thirtieth <> w: 187009, p: [36519, 36519]
+thirty <> w: 187010, p: [36054]
+thirty-eight <> p: [36082]
+this <> w: 210163, p: [29344, 29344]
+thistle <> w: 187036, p: [38767]
+thither <> w: 187039
+thong <> w: 187122, p: [26210, 25040]
+thorax <> w: 187139, p: [30844]
+thorn <> w: 187148, p: [21930]
+thornbill <> w: 187151
+thorny <> w: 187158
+thorough <> w: 187161, p: [48845, 46187]
+thoroughbred <> w: 187163, p: [40231]
+thoroughfare <> w: 187166, p: [51526]
+thoroughgoing <> w: 187167
+thoroughly <> w: 187168, p: [48845]
+those <> w: 225795
+thou <> w: 187177, p: [36210]
+though <> w: 187178
+thought <> w: 187179, p: [60847]
+thought-out <> w: 365595
+thoughtcrime <> w: 209611
+thoughtful <> w: 187185, p: [60847, 27305, 51476, 49417]
+thoughtfully <> w: 187186, p: [49417]
+thoughtfulness <> w: 187187
+thoughtless <> w: 187188
+thoughtlessly <> w: 187189
+thousand <> w: 187191, p: [36210, 36210]
+thousandth <> w: 187196
+thrall <> w: 187201, p: [19338]
+thralldom <> w: 187202, p: [19338]
+thrash <> w: 187203
+thrasher <> w: 187206
+thread <> w: 187209, p: [33229, 34053]
+threadbare <> w: 187213
+threads <> w: 187220
+threadworm <> w: 187221
+threat <> w: 187223
+threaten <> w: 187224, p: [28071, 45988]
+threatened <> w: 187225
+threatening <> w: 187227, p: [45988]
+threateningly <> w: 187228
+three <> w: 187229, p: [35944]
+three cheers <> p: [44644]
+three-decker <> p: [32708]
+three-dimensional <> w: 187241, p: [45557]
+three-line whip <> w: 209852
+three-point turn <> w: 187265
+three-way <> p: [37103]
+three-wheeler <> w: 227638
+threefold <> w: 187286
+threescore <> w: 187289, p: [36126]
+threesome <> w: 187290, p: [35944]
+threshold <> w: 187301, p: [50906, 21098]
+thrice <> w: 187310
+thriftily <> w: 187313, p: [41928]
+thrifty <> w: 187319
+thrill <> w: 187320, p: [20203, 47991]
+thrilled <> w: 187321, p: [20203]
+thriller <> w: 187322, p: [35908]
+thrilling <> w: 187324, p: [17853]
+thrips <> w: 187333
+thrive <> w: 187335, p: [22291, 23425]
+thriving <> w: 187336, p: [45357]
+throat <> w: 187337, p: [50733]
+throb <> w: 187344
+thrombolysis <> w: 187357
+thrombosis <> w: 187366
+throne <> w: 187368, p: [27203, 30048]
+throng <> w: 187502, p: [59106]
+throttle <> w: 187505, p: [27800, 35633]
+through <> w: 187510, p: [43520]
+through and through <> p: [45156]
+through thick and thin <> p: [39919]
+throughout <> w: 187515, p: [48733]
+throw <> w: 187518, p: [17579, 61162, 42034]
+throw down the gauntlet <> p: [41354]
+throw good money after bad <> p: [41934]
+throw light on <> p: [45028]
+throw off <> p: [22347, 39244]
+throw the baby out with the bathwater <> p: [46336]
+throw up <> p: [26300, 26300]
+throw-in <> w: 187519
+throw-off <> p: [22347, 39244]
+throwaway <> w: 187536, p: [33479]
+throwback <> w: 187537
+thrum <> w: 187546
+thrush <> w: 187547, p: [25070]
+thrust <> w: 187549, p: [46914]
+thud <> w: 187561
+thudding <> w: 187562
+thug <> w: 187563
+thumb <> w: 187574, p: [50695, 54298]
+thumb piano <> p: [28235]
+thumbtack <> w: 187583, p: [29563]
+thump <> w: 187584, p: [47036]
+thumping <> w: 187586
+thunder <> w: 187589, p: [51098]
+thunder thighs <> p: [39449]
+thunderbird <> w: 187594
+thunderbolt <> w: 187595, p: [51098]
+thunderclap <> w: 187596
+thundercloud <> w: 187597
+thundering <> w: 187600
+thunderous <> w: 187601
+thunderstorm <> w: 187603, p: [17240]
+thundery <> w: 187605, p: [17240]
+thursday <> w: 187616, p: [60897]
+thus <> w: 187617
+thusly <> w: 187619
+thwack <> w: 187620, p: [47036]
+thwart <> w: 187621, p: [52291]
+thy <> w: 225793
+thyme <> w: 187630, p: [28880]
+thymus <> w: 187641
+thyroid <> w: 187649, p: [30379]
+thyself <> w: 225791
+tia <> w: 187685
+tian <> w: 209265, p: [30856]
+tiara <> w: 187688, p: [25483]
+tibia <> w: 187704, p: [20737]
+tic-tac-toe <> p: [22828]
+tick <> w: 187726, p: [30692, 47636]
+tick-tack-toe <> w: 187727, p: [22828]
+tick-tock <> w: 187762
+ticker <> w: 187733, p: [50713]
+ticket <> w: 187735, p: [49492]
+ticket office <> p: [19076]
+tickle <> w: 187750, p: [36369, 36369]
+tickling <> w: 187755, p: [36369, 36369]
+tidal <> w: 187766
+tidal wave <> w: 187773
+tiddler <> w: 187776, p: [24859, 19819]
+tiddlywinks <> w: 187778, p: [31321]
+tide <> w: 187779, p: [21124]
+tidily <> w: 187789
+tidiness <> w: 187790, p: [27423]
+tidy <> w: 187792, p: [19422, 23667]
+tie <> w: 187797, p: [61158, 49980, 28796, 49980, 37117, 30690]
+tie the knot <> p: [39013]
+tie-back <> p: [53238]
+tie-down <> p: [44396]
+tie-in <> w: 187799
+tie-up <> w: 187801
+tieback <> w: 187810, p: [41885]
+tiebreaker <> w: 187811
+tier <> w: 187819
+tierce <> w: 188003, p: [35944]
+tiff <> w: 188009
+tiffin <> w: 188012, p: [48663]
+tiger <> w: 188014, p: [50273]
+tiger beetle <> p: [35712]
+tiger moth <> w: 188021
+tight <> w: 188028, p: [39189, 49289, 31265, 49289]
+tight-fisted <> w: 188039, p: [31265]
+tight-fitting <> w: 188029, p: [34101]
+tight-knit <> w: 188030
+tight-lipped <> w: 188042
+tighten <> w: 188035, p: [46575]
+tightly <> w: 188043
+tightrope <> w: 188047
+tights <> w: 188050, p: [49888]
+tigress <> w: 188054
+tike <> w: 188058, p: [19819]
+tikka <> w: 209266, p: [30343]
+tilbury <> w: 227720
+tilde <> w: 188062
+tile <> w: 188064, p: [28954]
+till <> w: 188079, p: [29585, 20301]
+till the cows come home <> p: [44064]
+tillage <> w: 188081, p: [19204]
+tiller <> w: 188086, p: [20301]
+tilt <> w: 188093, p: [47012]
+tilted <> w: 188096
+tilth <> w: 188098, p: [19204]
+timbale <> w: 188104
+timber <> w: 188106, p: [39115, 18904, 39115, 48397]
+timberland <> w: 188114, p: [18904]
+timbre <> w: 188117
+time <> w: 188120, p: [48023, 59396]
+time out <> w: 188164, p: [16419]
+time out of mind <> p: [44918]
+time signal <> w: 188172
+time signature <> w: 188173, p: [30729]
+time zone <> w: 188179
+time-consuming <> w: 188123
+time-saving <> w: 218569
+time-worn <> p: [26304]
+timekeeper <> w: 188182, p: [47903]
+timeless <> w: 188184
+timelessly <> w: 229264
+timeline <> w: 188187
+timely <> w: 188189, p: [46281]
+timepiece <> w: 188190, p: [47903]
+timer <> w: 188191, p: [32784]
+times <> w: 188192, p: [61234, 23245]
+timeshare <> w: 218533
+timetable <> w: 188196, p: [17841, 20924, 44582]
+timid <> w: 188200, p: [52141, 52141]
+timidity <> w: 188201
+timidly <> w: 188202
+timing <> w: 188205
+timorous <> w: 188210
+timpani <> w: 188217, p: [27656]
+timpanist <> w: 188218
+tin <> w: 188222, p: [20051]
+tin can <> p: [20051]
+tin hat <> w: 188228, p: [25192]
+tin opener <> w: 188229, p: [38883]
+tin whistle <> p: [27958]
+tin-opener <> p: [38883]
+tina <> w: 366836
+tincture <> w: 188243, p: [31683]
+tinder <> w: 188248
+tinfoil <> w: 188269, p: [32820]
+ting <> w: 188270
+tinge <> w: 188271, p: [21050, 54916]
+tingle <> w: 188273, p: [58679]
+tinker <> w: 188277
+tinkle <> w: 188282
+tinned <> w: 188285, p: [51572]
+tint <> w: 188300, p: [31683, 26126, 26168]
+tiny <> w: 188309, p: [45521]
+tip <> w: 188310, p: [15845, 20283, 27774, 22959, 15845]
+tip off <> p: [44638]
+tip-off <> w: 188312
+tip-top <> w: 188314
+tipper <> w: 188325, p: [33539]
+tippet <> w: 188328, p: [34241]
+tipple <> w: 188329
+tippler <> w: 188330
+tipsy <> w: 188336, p: [18291]
+tiptoe <> w: 188338, p: [22959, 22959, 22959]
+tiptop <> w: 188339
+tirade <> w: 188506
+tiramisu <> w: 188507, p: [31177]
+tire <> w: 188509, p: [51480, 48717]
+tired <> w: 188514, p: [39209]
+tiredly <> w: 188516
+tiredness <> w: 188517
+tireless <> w: 188518
+tirelessly <> w: 188519, p: [43034]
+tiresome <> w: 188522, p: [17851]
+tiring <> w: 188526, p: [39209]
+tissue <> w: 188538, p: [32174, 38899]
+tissue paper <> p: [38899]
+tit <> w: 188543, p: [25072]
+titchy <> w: 225534
+tithe <> w: 188563, p: [59995]
+titillate <> w: 188571, p: [36369]
+titillating <> w: 188573
+titillation <> w: 188574, p: [36369]
+title <> w: 188578, p: [17901, 57901]
+title page <> w: 188583
+title role <> w: 188584
+titling <> w: 221420
+titlist <> w: 224740
+titmouse <> w: 188586, p: [25074]
+titration <> w: 188589
+titter <> w: 188592, p: [23005, 23005]
+tittle-tattle <> w: 188598, p: [36880]
+titty <> w: 188600
+tmesis <> w: 208780
+to <> w: 208332, p: [60704]
+to and fro <> w: 188639, p: [41114, 41114]
+to death <> p: [21483]
+to hell with <> p: [49163]
+to the bitter end <> p: [42952]
+to the bone <> p: [45196]
+to the core <> p: [39231]
+toad <> w: 188666, p: [23731]
+toad-in-the-hole <> w: 188667, p: [30860]
+toadfish <> w: 188671, p: [24839]
+toadstool <> w: 188674, p: [29814]
+toady <> w: 188675
+toast <> w: 188677, p: [14041, 21999, 21000, 21999]
+toasted <> w: 188679, p: [21000]
+toaster <> w: 188680, p: [50789, 27560]
+toastie <> w: 217793, p: [32716]
+toasting fork <> w: 188683, p: [38387]
+toasty <> w: 224505
+tobacco <> w: 188686
+tobacco pipe <> p: [36976]
+tobacconist <> w: 188702
+toboggan <> w: 188712, p: [31988]
+today <> w: 188732, p: [17370, 17370]
+toddler <> w: 188735, p: [19835]
+tody <> w: 188743
+toe <> w: 188744, p: [27004, 33372]
+toe the line <> p: [44422]
+toenail <> w: 188758, p: [27395]
+toffee <> w: 188761, p: [27782]
+tofu <> w: 188768, p: [28924]
+tog <> w: 188769, p: [19318]
+toga <> w: 188772, p: [34154]
+together <> w: 188775, p: [22279]
+toggle <> w: 188780, p: [25553, 58438]
+toggle switch <> w: 188783
+toil <> w: 188789, p: [43008]
+toilet <> w: 188791, p: [27203, 48355]
+toilet paper <> w: 188799, p: [20859]
+toilet roll <> w: 188801, p: [20859]
+toilet table <> p: [28309]
+toilet tissue <> p: [20859]
+toilet water <> w: 188807, p: [14566]
+toiletries <> w: 210329
+toiletry <> w: 188808, p: [35854]
+toilette <> w: 188809, p: [26128]
+toilsome <> w: 188811
+tokay <> w: 188818
+token <> w: 188820, p: [17763]
+tolerable <> w: 188836, p: [46225]
+tolerably <> w: 188837
+tolerance <> w: 188838, p: [29707]
+tolerant <> w: 188839, p: [60324]
+tolerantly <> w: 188840
+tolerate <> w: 188841, p: [48095]
+toleration <> w: 188842
+toll <> w: 188845
+toll road <> w: 188854
+tollbooth <> w: 188857
+tom <> w: 188878
+tom-tom <> w: 188879
+tomahawk <> w: 189012
+tomatillo <> w: 189016, p: [35013]
+tomato <> w: 189017, p: [48627, 38783]
+tomb <> w: 189030, p: [27215]
+tombstone <> w: 189040, p: [35728]
+tome <> w: 189042
+tomfoolery <> w: 189048
+tomorrow <> w: 189055, p: [17372, 17372]
+ton <> w: 189059
+tonal <> w: 189060
+tonality <> w: 189064
+tone <> w: 189065, p: [31683, 59020]
+tone poem <> w: 189074
+toned <> w: 189077, p: [21899]
+toneme <> w: 223335
+toner <> w: 189081, p: [29880]
+tongs <> w: 189086, p: [26852]
+tongue <> w: 189087, p: [50659, 25178, 36240]
+tongue depressor <> w: 189096
+tongue-in-cheek <> w: 189090
+tongue-tied <> w: 189094
+tonic <> w: 189109, p: [29880, 50397, 49942]
+tonight <> w: 189116, p: [48437, 48437]
+tonne <> w: 189121
+tonsil <> w: 189126, p: [30365]
+tonsillectomy <> w: 189130
+tonsillitis <> w: 189131
+tonsure <> w: 189133
+too <> w: 189139, p: [22628, 43398]
+too bad <> p: [48509]
+tool <> w: 189148, p: [22770]
+tool shed <> w: 222862
+toolbar <> w: 218050, p: [36431]
+toolbox <> w: 189157, p: [22652]
+toolmaker <> w: 189159
+toon <> w: 189161, p: [22399]
+tooth <> w: 189166, p: [48525]
+toothache <> w: 189176, p: [17433]
+toothbrush <> w: 189178, p: [17399, 16493]
+toothing <> w: 222363
+toothless <> w: 189185
+toothpaste <> w: 189187, p: [17218]
+toothpick <> w: 189188, p: [30161]
+toothsome <> w: 189190
+top <> w: 189196, p: [26194, 37049, 18337, 36070, 26194, 59622, 37822]
+top boot <> p: [34417]
+top dog <> p: [40741]
+top hat <> w: 189215, p: [50910]
+top-notch <> w: 189202
+top-up <> w: 189205
+topaz <> w: 189225, p: [34632]
+topcoat <> w: 189226, p: [39703]
+tope <> w: 189228, p: [18291]
+topee <> w: 189229, p: [25198]
+toper <> w: 189231, p: [18291]
+topi <> w: 189237, p: [34381, 25198]
+topiary <> w: 189238
+topic <> w: 189239
+topical <> w: 189241
+topicalization <> w: 189248
+topically <> w: 189250
+topknot <> w: 189251, p: [30187]
+topographical <> w: 189263
+topography <> w: 189265
+topological <> w: 189268
+topping <> w: 189278, p: [32678]
+topple <> w: 189280, p: [46992]
+topsoil <> w: 189284
+topspin <> w: 189285
+topsy-turvy <> w: 189287
+toque <> w: 189291, p: [25200, 26222]
+tor <> w: 189292, p: [31970]
+torch <> w: 189295, p: [36469, 41078, 37546, 59204]
+toreador <> w: 189303, p: [29697]
+toreador pants <> p: [24871]
+torii <> w: 222196
+torment <> w: 189307
+torn <> w: 189311, p: [45852]
+tornado <> w: 189312, p: [46812]
+toroidal <> w: 189318
+torpedo <> w: 189322, p: [31117]
+torpefy <> w: 225352, p: [59246]
+torpid <> w: 189326
+torpor <> w: 189330
+torque <> w: 189332
+torrent <> w: 189506, p: [51126, 18479]
+torrential <> w: 189507
+torrid <> w: 189517
+torso <> w: 189523, p: [29627]
+tort <> w: 189524
+torte <> w: 189526
+tortellini <> w: 189527, p: [30936]
+tortilla <> w: 189530, p: [27600]
+tortious <> w: 189532
+tortoise <> w: 189533, p: [18009]
+tortoiseshell <> w: 189535, p: [34931]
+tortoiseshell butterfly <> p: [34931]
+tortuous <> w: 189544
+torture <> w: 189547
+torturous <> w: 189553
+torus <> w: 189556, p: [44994]
+tosa <> w: 208378, p: [25144]
+toss <> w: 189563, p: [46860, 22347, 37832, 33046]
+toss-up <> w: 189564
+tostada <> w: 189574
+tot <> w: 189575, p: [19835, 61252]
+total <> w: 189577, p: [17537, 61252, 61252, 22730]
+totalitarian <> w: 189591
+totalitarianism <> w: 189593
+totality <> w: 189595, p: [61252]
+totally <> w: 189599, p: [45730]
+tote <> w: 189601, p: [22305]
+tote bag <> w: 189602, p: [22305]
+totem <> w: 189604
+toter <> w: 189609, p: [29711]
+totes <> w: 366511
+totter <> w: 189614
+toucan <> w: 189618, p: [25076]
+touch <> w: 189620, p: [18607, 60921, 18607, 21050]
+touch down <> p: [35888]
+touch wood <> p: [48795]
+touch-up <> p: [53574]
+touchable <> w: 189638
+touchdown <> w: 189640
+touche <> w: 209663
+touched <> w: 189641
+touchily <> w: 189643
+touching <> w: 189645, p: [45960]
+touchingly <> w: 189646
+touchline <> w: 189647
+touchpad <> w: 218048, p: [36433]
+touchscreen <> w: 189648, p: [35649]
+touchstone <> w: 189649
+touchy <> w: 189651, p: [60460]
+tough <> w: 189653, p: [17885, 17869, 17861, 32680]
+toughen <> w: 189658
+toughie <> w: 189660
+toupee <> w: 189667, p: [26140]
+tour <> w: 189669, p: [15853, 17067, 17809, 17067]
+tour de force <> w: 189670
+touraco <> w: 189674
+tourer <> w: 189675, p: [15855]
+touring <> w: 229454
+tourism <> w: 189679, p: [17473]
+tourist <> w: 189680, p: [15855]
+tourist class <> w: 189682
+tourist trap <> w: 225571
+touristy <> w: 189686, p: [15855]
+tourmaline <> w: 189687, p: [34634]
+tournament <> w: 189688, p: [33050]
+tourney <> w: 189690, p: [33050]
+tourniquet <> w: 189691, p: [25879]
+tousle <> w: 189694
+tousled <> w: 189695
+tout <> w: 189696, p: [59042]
+tow <> w: 189701, p: [46900]
+toward <> w: 210169
+towards <> w: 220937
+towboat <> w: 189706
+towel <> w: 189707, p: [48685, 32800]
+towel horse <> p: [32902]
+tower <> w: 189715, p: [18267, 53489]
+tower block <> w: 189716, p: [21086]
+towering <> w: 189723
+towhee <> w: 189726
+town <> w: 189731, p: [49201]
+town center <> w: 228381
+town crier <> w: 189733
+town hall <> w: 189735, p: [17244]
+town house <> w: 189736
+township <> w: 189748, p: [49201]
+townsman <> w: 189749
+toxemia <> w: 189756
+toxic <> w: 189758, p: [20824]
+toxic shock syndrome <> w: 189763
+toxicant <> w: 189769, p: [20824, 20824]
+toxicity <> w: 189770
+toxicology <> w: 189781
+toxin <> w: 189782
+toxoplasmosis <> w: 189785
+toy <> w: 189791, p: [48913, 54368]
+toying <> w: 189804, p: [19600]
+toylike <> w: 225376
+trace <> w: 189820, p: [60722]
+tracery <> w: 189827
+trachea <> w: 189828, p: [30381]
+tracheostomy <> w: 190003
+tracheotomy <> w: 190004
+tracing <> w: 190017, p: [47402]
+tracing paper <> w: 190018
+track <> w: 190020, p: [15927, 16045, 18565, 44048, 37320, 60722, 27700]
+track and field <> w: 190022, p: [51086]
+track record <> w: 190026
+track shoe <> p: [25180]
+tracking <> w: 190033
+tracksuit <> w: 208536, p: [25415]
+tract <> w: 190037
+tractable <> w: 190041
+traction <> w: 190046
+tractor <> w: 190049, p: [19160]
+trade <> w: 190053, p: [48545, 31972, 48545, 51496]
+trade route <> w: 190076
+trade school <> w: 190077
+trade secret <> w: 190078
+trademark <> w: 190086
+trader <> w: 190089, p: [51442]
+trades <> w: 229053
+tradesman <> w: 190094, p: [21068]
+trading <> w: 190096
+tradition <> w: 190102
+traditional <> w: 190103, p: [46213, 49143]
+traditionalist <> w: 190106
+traditionally <> w: 190109, p: [49143]
+traduce <> w: 190110
+traffic <> w: 190115, p: [17232, 47797]
+traffic circle <> w: 190116, p: [52079]
+traffic cone <> w: 228037
+traffic island <> w: 190120
+traffic jam <> w: 190121, p: [17833]
+traffic lights <> w: 190123, p: [22199]
+traffic sign <> p: [19228]
+traffic warden <> w: 218078
+trafficator <> w: 190126, p: [21440]
+trafficker <> w: 190127
+trafficking <> w: 210325
+tragedian <> w: 190129
+tragedy <> w: 190131, p: [17603]
+tragic <> w: 190139, p: [50122]
+tragical <> w: 190141, p: [50122]
+tragically <> w: 190142, p: [50122]
+tragicomedy <> w: 190143
+tragicomic <> w: 190144
+tragopan <> w: 190146
+tragus <> w: 190155, p: [30545]
+trail <> w: 190156, p: [46900, 15927]
+trailblazing <> w: 227298
+trailer <> w: 190162, p: [32696, 51248]
+trailer truck <> p: [51246]
+train <> w: 190172, p: [49496, 40221, 26248, 22590, 17525]
+train of thought <> p: [44932]
+trained <> w: 190184
+trainee <> w: 190187, p: [16402]
+trainer <> w: 190189, p: [50497, 24963]
+training <> w: 190190, p: [26248, 17525]
+training shoe <> p: [24963]
+traipse <> w: 190199, p: [53570]
+trait <> w: 190200
+trajectory <> w: 190207
+tram <> w: 190209, p: [36319]
+tramcar <> w: 190210, p: [36319]
+tramline <> w: 190211
+trammel <> w: 190212, p: [27800]
+tramp <> w: 190216, p: [49459, 20229, 49459]
+trample <> w: 190221
+trampoline <> w: 190224, p: [21877]
+trampolining <> w: 227265
+trance <> w: 190226
+tranquil <> w: 190231, p: [46344]
+tranquility <> w: 190233, p: [46344]
+tranquilize <> w: 190241
+tranquilizer <> w: 190242
+tranquillizing <> w: 190243
+transact <> w: 190247
+transaction <> w: 190249, p: [48543]
+transactional <> w: 224412
+transatlantic <> w: 190258
+transcend <> w: 190260, p: [43152]
+transcendence <> w: 190261
+transcendent <> w: 190263
+transcendental <> w: 190264
+transcendental meditation <> w: 218337
+transcontinental <> w: 190270
+transcribe <> w: 190272, p: [47074]
+transcript <> w: 190275
+transcription <> w: 190277
+transcriptionist <> w: 221386
+transept <> w: 190288
+transfection <> w: 227099
+transfer <> w: 190291, p: [18599, 23733]
+transferable <> w: 190299
+transference <> w: 190302
+transferrer <> w: 190309
+transfigure <> w: 190314, p: [23735]
+transfix <> w: 190315, p: [51192]
+transfixed <> w: 190316
+transform <> w: 190317, p: [54627, 44104]
+transformation <> w: 190319
+transformative <> w: 224440
+transformer <> w: 190503, p: [31795]
+transfuse <> w: 190505
+transgender <> w: 190508
+transgenic <> w: 227097
+transgress <> w: 190511
+transience <> w: 190514
+transient <> w: 190516, p: [49614]
+transiently <> w: 190519, p: [49614]
+transistor <> w: 190520, p: [31797]
+transit <> w: 190525, p: [18659]
+transition <> w: 190530
+transitive <> w: 190533
+transitivity <> w: 190539
+transitorily <> w: 190541
+transitory <> w: 190543, p: [49614]
+translate <> w: 190545, p: [50665]
+translation <> w: 190547, p: [33627]
+translational <> w: 190548
+translator <> w: 190549, p: [50665]
+transliterate <> w: 190550
+translocate <> w: 190552
+translocation <> w: 190553
+translucent <> w: 190556
+transmigrate <> w: 190561, p: [19849]
+transmissible <> w: 190563, p: [28083, 31590]
+transmission <> w: 190564
+transmit <> w: 190574, p: [23733]
+transmittable <> w: 190575, p: [28083]
+transmittance <> w: 190577
+transmitted <> w: 190578, p: [31590]
+transmitter <> w: 190579, p: [29370]
+transmogrify <> w: 190583
+transmutation <> w: 190588
+transmute <> w: 190589, p: [23735]
+transnational <> w: 190590, p: [28728]
+transoceanic <> w: 190591
+transparency <> w: 190597
+transparent <> w: 190598, p: [45463]
+transparently <> w: 190602
+transpire <> w: 190606
+transplant <> w: 190609, p: [53543]
+transplantation <> w: 190611
+transport <> w: 190616, p: [18599, 18659]
+transportable <> w: 190618, p: [45820]
+transportation <> w: 190619, p: [18659, 18599, 33024]
+transporter <> w: 190624, p: [31905]
+transpose <> w: 190627
+transposition <> w: 190629
+transsexual <> w: 190631
+transubstantiate <> w: 190637, p: [23735]
+transversal <> w: 190648
+transverse <> w: 190650
+transverse flute <> p: [51820]
+transvestite <> w: 190661
+trap <> w: 190666, p: [20686, 20686, 48359]
+trapdoor <> w: 222229
+trapeze <> w: 190677
+trapezium <> w: 190678, p: [25986]
+trapezoid <> w: 190683, p: [25986]
+trapezoidal <> w: 190685
+trappings <> w: 190690
+trash <> w: 190694, p: [59450]
+trash can <> p: [20857]
+trashed <> w: 229177
+trashy <> w: 190704
+trattoria <> w: 209329, p: [26523]
+trauma <> w: 190707
+traumatic <> w: 190708
+traumatize <> w: 190711, p: [42872]
+travail <> w: 190716
+travel <> w: 190718, p: [49467, 17809, 49467]
+travel agency <> w: 190722, p: [23127]
+travel agent <> w: 190723, p: [21072]
+travel-sick <> w: 228430
+travel-sickness <> p: [36824]
+traveler <> w: 190741, p: [49467]
+traveling <> w: 190746, p: [49467]
+traverse <> w: 190764, p: [27700]
+travesty <> w: 190767
+travois <> w: 227722
+tray <> w: 190772, p: [20089]
+treacherous <> w: 190776, p: [45271]
+treacherously <> w: 190777, p: [49217]
+treachery <> w: 190778
+treacle <> w: 190779, p: [31179]
+tread <> w: 190781
+tread water <> p: [40999]
+treadle <> w: 190787, p: [37083]
+treadmill <> w: 190788, p: [21691]
+treason <> w: 190791
+treasonable <> w: 190792
+treasure <> w: 190796, p: [37140]
+treasure trove <> w: 191006
+treasured <> w: 191007
+treasury <> w: 191012
+treat <> w: 191021, p: [43708, 31719]
+treatise <> w: 191024
+treatment <> w: 191025, p: [51606]
+treaty <> w: 191026
+treble <> w: 191029
+treble clef <> w: 191030, p: [39531]
+tree <> w: 191036, p: [28183]
+tree frog <> p: [34614]
+tree house <> p: [32118]
+tree kangaroo <> p: [39713]
+tree line <> w: 191058
+tree trunk <> p: [21843]
+treehopper <> w: 191083, p: [36471]
+trefoil <> w: 191090, p: [31771]
+trek <> w: 191093, p: [51346, 51346]
+trekker <> w: 191094, p: [17761]
+trellis <> w: 191095, p: [42508]
+tremble <> w: 191100, p: [47014]
+trembles <> w: 191102
+tremendous <> w: 191111, p: [45866, 45866, 49588]
+tremendously <> w: 191112, p: [45774]
+tremolo <> w: 191114
+tremor <> w: 191115, p: [39615, 46904]
+tremulous <> w: 191116
+trench <> w: 191119, p: [47142]
+trench coat <> w: 191120, p: [33177]
+trench mortar <> p: [36846]
+trenchant <> w: 191128
+trend <> w: 191133, p: [33960]
+trendily <> w: 365643
+trending <> w: 229192
+trendsetter <> w: 227292
+trendsetting <> w: 191139
+trendy <> w: 191140, p: [18395]
+trepidation <> w: 191154
+trespass <> w: 191158
+tress <> w: 191165, p: [30305]
+trestle <> w: 191166
+trestle table <> w: 191168, p: [42100]
+trews <> w: 191173, p: [33956]
+trey <> w: 191174, p: [35944]
+triad <> w: 191181, p: [35944]
+triage <> w: 191184
+trial <> w: 191186, p: [20339]
+trial balloon <> p: [43142]
+triangle <> w: 191202, p: [22913, 28237]
+triangular <> w: 191203, p: [22913]
+triathlon <> w: 210202
+tribal <> w: 191220
+tribe <> w: 191230
+tribunal <> w: 191249
+tribune <> w: 191250
+tributary <> w: 191252
+tribute <> w: 191253
+trice <> w: 191257
+triceps <> w: 191261
+trichology <> w: 210006
+trick <> w: 191326, p: [19438, 20117]
+trick or treat <> w: 191327
+trickery <> w: 191332
+trickily <> w: 191333
+trickle <> w: 191335, p: [47540]
+tricks of the trade <> p: [45040]
+trickster <> w: 191336
+tricksy <> w: 191337
+tricky <> w: 191338, p: [48609]
+tricolor <> w: 191341
+tricycle <> w: 191353, p: [33849]
+tried <> w: 224437
+triennial <> w: 191364
+trifecta <> w: 227261
+trifle <> w: 191504, p: [31181]
+trifling <> w: 191507, p: [17731]
+triforium <> w: 222163
+trigger <> w: 191531
+triggered <> w: 366740
+triglyceride <> w: 191541
+triglyph <> w: 222122
+trigon <> w: 191542, p: [22913]
+trigonometric <> w: 191547
+trigonometry <> w: 191550, p: [32636]
+trihedron <> w: 208512, p: [26000]
+trike <> w: 191556, p: [33849]
+trilateral <> w: 191557, p: [22913, 22913]
+trilby <> w: 191558, p: [25188]
+trilithon <> w: 365473
+trill <> w: 191562
+trillion <> w: 191566
+trillionth <> w: 191568
+trilogy <> w: 191578
+trim <> w: 191579, p: [34055, 26172, 16640]
+trimaran <> w: 191582
+trimester <> w: 191584
+trimming <> w: 191591
+trimness <> w: 191594
+trinity <> w: 191618, p: [35944]
+trinket <> w: 191621, p: [25629]
+trio <> w: 191626, p: [35944, 30283]
+trip <> w: 191639, p: [49467, 23015, 23015]
+trip up <> p: [52007, 52879]
+tripe <> w: 191649, p: [36242]
+triplane <> w: 365509
+triple <> w: 191657, p: [59908, 59908]
+triple jump <> w: 191668
+triplet <> w: 191672, p: [35944]
+triplicate <> w: 191680
+triplicity <> w: 191681
+tripod <> w: 191686, p: [33725]
+tripping <> w: 191690
+triptych <> w: 191692, p: [47400]
+trisect <> w: 191698
+trisomy <> w: 191706
+trite <> w: 191715
+triumph <> w: 191733, p: [18828, 53889]
+triumphant <> w: 191736, p: [28465]
+triumvir <> w: 191738
+trivet <> w: 191743, p: [38172]
+trivia <> w: 191744
+trivial <> w: 191745, p: [17731]
+trivialize <> w: 191748
+trivially <> w: 191749, p: [43504]
+trochee <> w: 191757
+trogon <> w: 191770, p: [34560]
+troika <> w: 191773, p: [35944]
+troll <> w: 191777
+trolley <> w: 191779, p: [36319, 36321]
+trolley car <> p: [36319]
+trolleybus <> w: 191783
+trolling <> w: 191784
+trombone <> w: 191794, p: [21362]
+trombonist <> w: 191796, p: [30583]
+tromp <> w: 227156
+troop <> w: 191803, p: [18790]
+trooper <> w: 191807, p: [39259]
+troops <> w: 191808
+trope <> w: 191815
+trophy <> w: 191824, p: [17569]
+tropic <> w: 191827, p: [22558]
+tropical <> w: 191831, p: [22558]
+tropicbird <> w: 191841
+tropics <> w: 191842
+troposphere <> w: 191850
+trot <> w: 191851, p: [21438]
+troth <> w: 191853, p: [18730]
+trotter <> w: 192002
+troubadour <> w: 192005
+trouble <> w: 192006, p: [59349]
+troubled <> w: 192013, p: [52147]
+troubled waters <> p: [40823]
+troublemaker <> w: 192014
+troubleshoot <> w: 192016, p: [53134]
+troublesome <> w: 192018
+troubling <> w: 192020, p: [45972]
+trough <> w: 192022, p: [50823]
+trounce <> w: 192023, p: [61046]
+troupe <> w: 192025
+trouper <> w: 192026
+troupial <> w: 220572
+trouser suit <> p: [34075]
+trousers <> w: 192034, p: [50966]
+trout <> w: 192036, p: [50323]
+trowel <> w: 192039, p: [33595]
+troy <> w: 192040
+truant <> w: 192046
+truce <> w: 192047
+truck <> w: 192048, p: [49433, 18599]
+trucker <> w: 192058, p: [33629]
+truckle <> w: 192063
+truckload <> w: 366514
+truculence <> w: 192067
+truculent <> w: 192069
+trudge <> w: 192071, p: [53572]
+trudgen <> w: 227159
+true <> w: 192073, p: [48227]
+true blue <> p: [38965]
+true-blue <> p: [38965]
+truffle <> w: 192124, p: [36349, 27784]
+truism <> w: 192125
+truly <> w: 192126, p: [19270]
+trumeau <> w: 222291
+trump <> w: 192131, p: [18449]
+trumpet <> w: 192137, p: [18449, 61136]
+trumpeter <> w: 192149, p: [30585]
+truncate <> w: 192155
+truncated <> w: 192156
+trundle bed <> w: 192168, p: [41996]
+trunk <> w: 192169, p: [21843, 34586, 28942, 21352, 29627]
+trunks <> w: 192177, p: [49844]
+truss <> w: 192179
+trust <> w: 192182, p: [23621, 52113]
+trustee <> w: 192192
+trustful <> w: 192198
+trustfulness <> w: 192200, p: [23621]
+trustingness <> w: 192204, p: [23621]
+trustworthy <> w: 192207, p: [60226]
+trusty <> w: 192208, p: [27425]
+truth <> w: 192209
+truth drug <> w: 192210
+truthful <> w: 192213, p: [19270]
+truthfully <> w: 192214, p: [42986]
+try <> w: 192216, p: [20313, 49059]
+try for <> p: [42952]
+try-on <> p: [49059]
+try-out <> w: 221298
+trying <> w: 192224
+tryst <> w: 192232
+tsar <> w: 192234
+tsetse fly <> w: 193672
+tsk tsk <> p: [48471]
+tsunami <> w: 192257, p: [22951]
+tu-whit tu-whoo <> w: 216279
+tuatara <> w: 192266, p: [40295]
+tub <> w: 192269, p: [27073, 32122]
+tub chair <> p: [42206]
+tuba <> w: 192273, p: [51769]
+tubbiness <> w: 192278, p: [51230]
+tubby <> w: 192279, p: [26782]
+tube <> w: 192280, p: [17218, 49490]
+tube top <> w: 208528, p: [25100]
+tuber <> w: 192293
+tubercular <> w: 192299
+tuberculosis <> w: 192308
+tuberous <> w: 192312
+tubular <> w: 192321
+tubular bells <> p: [30215]
+tuck <> w: 192327
+tuck-in <> p: [28974]
+tucked <> w: 192333
+tuesday <> w: 192509, p: [60899]
+tuft <> w: 192513, p: [30259]
+tufted <> w: 192514
+tug <> w: 192521, p: [49427]
+tuition <> w: 192533, p: [33004, 51428]
+tulip <> w: 192539, p: [21959]
+tum <> w: 192560, p: [50737]
+tumble <> w: 192561, p: [42466, 28029]
+tumble dryer <> w: 192563
+tumbledown <> w: 222938
+tumbler <> w: 192568
+tumbleweed <> w: 192570, p: [38589]
+tumid <> w: 192579
+tummy <> w: 192582, p: [50633]
+tumor <> w: 192585
+tump <> w: 367505
+tumult <> w: 192593
+tumultuous <> w: 192594, p: [17831]
+tun <> w: 192599
+tuna <> w: 192600, p: [50325, 51572]
+tundra <> w: 192606
+tune <> w: 192609, p: [21380, 53134]
+tune into <> p: [26298]
+tuned <> w: 224503
+tuneful <> w: 192613
+tunefully <> w: 192614
+tunefulness <> w: 192615
+tuneless <> w: 192616
+tuner <> w: 192618, p: [33727]
+tung oil <> p: [48005]
+tunic <> w: 192634, p: [25102]
+tuning peg <> w: 209023, p: [30273]
+tunnel <> w: 192651, p: [43496, 24168]
+tunnel vision <> w: 192652
+tunny <> w: 192654, p: [24829]
+tup <> w: 192655
+tuque <> w: 208574, p: [25162]
+turban <> w: 192676, p: [25202, 25379]
+turbid <> w: 192682
+turbinal <> w: 192685, p: [30367]
+turbinate <> w: 192686, p: [30367, 31502]
+turbine <> w: 192688, p: [21048]
+turbot <> w: 192696, p: [24853]
+turbulence <> w: 192697
+turbulent <> w: 192699
+turbulently <> w: 192701
+tureen <> w: 192715, p: [26854]
+turf <> w: 192716
+turfing <> w: 220635
+turgid <> w: 192723
+turkey <> w: 192738, p: [37539, 18205, 14507]
+turmeric <> w: 192775, p: [30910]
+turmoil <> w: 192777
+turn <> w: 192778, p: [16846, 37322, 47016, 49435, 37005, 47018, 20301, 18613, 35862, 21426]
+turn a blind eye <> p: [44522]
+turn a deaf ear <> p: [42268]
+turn a trick <> p: [41450]
+turn in <> p: [35862, 52787, 21212]
+turn off <> p: [49866]
+turn on <> p: [49868, 42578]
+turn out <> p: [52283, 26435]
+turn over <> p: [23677, 53168, 27798, 16846]
+turn signal <> p: [21440]
+turn tail <> p: [23637]
+turn the other cheek <> p: [46374]
+turn to <> p: [47266]
+turn up <> p: [22463, 33299, 45206, 43680]
+turn-off <> w: 228008
+turn-on <> p: [49868, 42578]
+turn-up <> p: [22463, 33299, 45206, 43680]
+turnabout <> w: 193004
+turnaround <> w: 193005
+turner <> w: 193014, p: [37558]
+turning <> w: 193018, p: [35862, 21426]
+turning point <> w: 193020, p: [44156]
+turnip <> w: 193021, p: [50523]
+turnout <> w: 193033, p: [26876]
+turnover <> w: 193034, p: [37862]
+turnpike <> w: 193036
+turntable <> w: 193041, p: [21382, 33729]
+turpentine <> w: 193045, p: [48007]
+turpitude <> w: 193049
+turquoise <> w: 193051, p: [25485, 31773, 31773]
+turret <> w: 193053
+turtle <> w: 193060, p: [18169, 25104]
+turtledove <> w: 193063, p: [25078]
+turtleneck <> w: 193065, p: [25104]
+tush <> w: 193073, p: [33467]
+tusk <> w: 193075, p: [28944]
+tussle <> w: 193087, p: [48337]
+tussock <> w: 193088, p: [30259]
+tut <> w: 193094
+tut-tut <> w: 193095, p: [48471]
+tutelage <> w: 193098
+tutelary <> w: 193100
+tutor <> w: 193102, p: [51428, 51428]
+tutorial <> w: 193103
+tutorship <> w: 193105
+tutu <> w: 193109, p: [34309]
+tux <> w: 193112, p: [22001]
+tuxedo <> w: 193113, p: [22001]
+twain <> w: 193134, p: [37451]
+twang <> w: 193135
+twat <> w: 193136, p: [17871]
+tweak <> w: 193138, p: [53661, 35896, 35896]
+tweaked <> w: 229142
+twee <> w: 193139
+tweed <> w: 193140, p: [34636]
+tweeds <> w: 221076, p: [33958]
+tween <> w: 211831, p: [19979]
+tweet <> w: 193146, p: [32064, 36838, 32064, 36838]
+tweezers <> w: 193149, p: [22939]
+twelfth <> w: 193150, p: [36497, 36497]
+twelve <> w: 193156, p: [35990]
+twelvemonth <> w: 193162, p: [48599]
+twenties <> w: 193163
+twentieth <> w: 193164, p: [36515, 36515]
+twenty <> w: 193166, p: [36014]
+twenty-eight <> p: [36046]
+twenty-first <> w: 193170, p: [36523]
+twenty-four hours <> p: [51576]
+twenty-one <> w: 193179, p: [36016]
+twenty-three skidoo <> p: [44036]
+twenty-two <> w: 193188, p: [36018]
+twi <> w: 219539, p: [36784]
+twice <> w: 193194, p: [48947, 20235]
+twiddle <> w: 193197, p: [54380]
+twig <> w: 193199, p: [21661]
+twilight <> w: 193203, p: [31928, 31928]
+twilit <> w: 193208, p: [31928]
+twin <> w: 193212, p: [38909]
+twin bed <> w: 193217, p: [15857]
+twine <> w: 193223, p: [37533, 37533]
+twinge <> w: 193226, p: [35896]
+twining <> w: 222611
+twinkle <> w: 193229
+twinkling <> w: 193231
+twinning <> w: 193234
+twirl <> w: 193236, p: [27981, 27981]
+twirling <> w: 220775
+twirp <> w: 193239, p: [32064]
+twist <> w: 193240, p: [27760, 37005, 27981, 21426]
+twist in the wind <> p: [44448]
+twisted <> w: 193245, p: [46215]
+twister <> w: 193246, p: [38050, 46812]
+twisting <> w: 193247, p: [27981]
+twisty <> w: 193249
+twitch <> w: 193251, p: [46998, 35896]
+twitter <> w: 193253, p: [36838]
+two <> w: 193255, p: [35970]
+two-dimensional <> w: 193263, p: [45555]
+two-faced <> w: 193268, p: [19436]
+two-piece <> w: 193289, p: [20507, 34127, 34103]
+two-step <> w: 193296
+two-time <> w: 193299
+twofold <> w: 193518, p: [20235]
+twosome <> w: 193523, p: [37451]
+tycoon <> w: 193529
+tyke <> w: 193533, p: [19819]
+tympanic membrane <> p: [30351]
+tympanum <> w: 193555, p: [30351]
+type <> w: 193561, p: [20143]
+typecast <> w: 193577
+typeface <> w: 193578
+typesetter <> w: 193581
+typesetting <> w: 208951
+typewrite <> w: 193584, p: [20143]
+typhoid <> w: 193598
+typhoon <> w: 193604, p: [51342]
+typhus <> w: 193605
+typical <> w: 193608, p: [28666]
+typically <> w: 193611, p: [49870]
+typify <> w: 193613, p: [33131]
+typist <> w: 193617
+typographical <> w: 193621
+typography <> w: 193624, p: [44964]
+tyrannical <> w: 193630
+tyrannize <> w: 193635, p: [47644]
+tyranny <> w: 193644
+tyrant <> w: 193645
+tyre <> w: 193648, p: [51480]
+tyro <> w: 193650
+tzatziki <> w: 229411

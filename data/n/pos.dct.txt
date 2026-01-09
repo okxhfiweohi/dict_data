@@ -1,0 +1,909 @@
+n't <> X: {rk: 29, frq: 1744284}
+naan <> N: {rk: 43907, frq: 67}
+nab <> V: {rk: 15998, frq: 733}
+nabob <> N: {rk: 44468, frq: 58}
+nacelle <> N: {rk: 42481, frq: 69}
+nacho <> N: {rk: 24842, frq: 407}
+nacreous <> J: {rk: 53290, frq: 28}
+nadir <> N: {rk: 25177, frq: 311}
+nag <> V: {rk: 14156, frq: 900}, N: {rk: 25982, frq: 230}
+nagging <> J: {rk: 13416, frq: 966}, N: {rk: 56989, frq: 22}
+nah <> U: {rk: 13683, frq: 1049}
+nail <> N: {rk: 3582, frq: 8962}, V: {rk: 6554, frq: 3439}
+nail-biter <> N: {rk: 51380, frq: 31}
+nail-biting <> J: {rk: 38393, frq: 75}
+nailed <> J: {rk: 47726, frq: 40}
+nailer <> N: {rk: 56322, frq: 34}
+nailhead <> N: {rk: 49357, frq: 39}
+naive <> J: {rk: 6196, frq: 3591}
+naively <> R: {rk: 20396, frq: 401}
+naivete <> N: {rk: 17555, frq: 561}
+naivety <> N: {rk: 53511, frq: 28}
+naked <> J: {rk: 3206, frq: 10709}
+nakedly <> R: {rk: 34838, frq: 104}
+nakedness <> N: {rk: 19384, frq: 498}
+naloxone <> N: {rk: 59235, frq: 24}
+naltrexone <> N: {rk: 51459, frq: 70}
+namby-pamby <> J: {rk: 51100, frq: 32}
+name <> N: {rk: 298, frq: 137352}, V: {rk: 814, frq: 51238}
+name-calling <> N: {rk: 24574, frq: 268}
+name-dropping <> N: {rk: 46070, frq: 41}
+named <> J: {rk: 13273, frq: 1010}
+nameless <> J: {rk: 14751, frq: 840}
+namely <> R: {rk: 5587, frq: 4696}
+nameplate <> N: {rk: 22553, frq: 314}
+namesake <> N: {rk: 14305, frq: 874}
+nametag <> N: {rk: 32145, frq: 144}
+naming <> N: {rk: 13864, frq: 969}
+nanny <> N: {rk: 8855, frq: 2121}
+nanobot <> N: {rk: 39037, frq: 116}
+nanogram <> N: {rk: 45028, frq: 50}
+nanomachine <> N: {rk: 40043, frq: 118}
+nanometer <> N: {rk: 22639, frq: 339}
+nanoparticle <> N: {rk: 31818, frq: 192}
+nanoscience <> N: {rk: 53843, frq: 32}
+nanosecond <> N: {rk: 25276, frq: 260}
+nanostructure <> N: {rk: 40822, frq: 77}
+nanostructured <> J: {rk: 53679, frq: 39}
+nanotechnology <> N: {rk: 16661, frq: 799}
+nanotube <> N: {rk: 24030, frq: 403}
+nanowire <> N: {rk: 40459, frq: 87}
+nap <> N: {rk: 7560, frq: 2730}, V: {rk: 14455, frq: 865}
+napalm <> N: {rk: 28247, frq: 252}
+nape <> N: {rk: 17848, frq: 611}
+naphtha <> N: {rk: 43246, frq: 69}
+naphthalene <> N: {rk: 49992, frq: 42}
+napkin <> N: {rk: 7269, frq: 3065}
+napping <> J: {rk: 49716, frq: 40}
+nappy <> N: {rk: 28073, frq: 198}
+naproxen <> N: {rk: 40371, frq: 86}
+narc <> N: {rk: 37737, frq: 98}
+narcissism <> N: {rk: 19470, frq: 537}
+narcissistic <> J: {rk: 18783, frq: 495}
+narco <> N: {rk: 41283, frq: 73}
+narcolepsy <> N: {rk: 33569, frq: 160}
+narcoleptic <> J: {rk: 56925, frq: 22}
+narcosis <> N: {rk: 49941, frq: 34}
+narcotic <> N: {rk: 8588, frq: 2250}
+narrate <> V: {rk: 10694, frq: 1496}
+narrated <> J: {rk: 35085, frq: 116}
+narrating <> J: {rk: 48107, frq: 50}
+narration <> N: {rk: 11142, frq: 1580}
+narrational <> J: {rk: 59342, frq: 21}
+narrative <> N: {rk: 3116, frq: 12144}, J: {rk: 5214, frq: 5743}
+narratively <> R: {rk: 42462, frq: 60}
+narratorial <> J: {rk: 38145, frq: 113}
+narrow <> J: {rk: 2017, frq: 19160}, V: {rk: 5553, frq: 4543}
+narrow-minded <> J: {rk: 29337, frq: 167}
+narrow-mindedness <> N: {rk: 47361, frq: 38}
+narrowed <> J: {rk: 30947, frq: 155}
+narrowing <> N: {rk: 24988, frq: 258}, J: {rk: 39382, frq: 72}
+narrowly <> R: {rk: 8210, frq: 2278}
+narrowness <> N: {rk: 30426, frq: 149}
+narthex <> N: {rk: 45775, frq: 46}
+narwhal <> N: {rk: 40534, frq: 102}
+nary <> J: {rk: 34738, frq: 106}
+nasal <> J: {rk: 7857, frq: 2936}, N: {rk: 51167, frq: 31}
+nasally <> R: {rk: 46068, frq: 43}
+nascent <> J: {rk: 13692, frq: 968}
+nasogastric <> J: {rk: 49693, frq: 39}
+nasopharyngeal <> J: {rk: 40226, frq: 93}
+nasopharynx <> N: {rk: 41208, frq: 91}
+nastily <> R: {rk: 41996, frq: 60}
+nastiness <> N: {rk: 24898, frq: 254}
+nasturtium <> N: {rk: 28334, frq: 207}
+nasty <> J: {rk: 4517, frq: 6144}, N: {rk: 46807, frq: 41}
+natal <> J: {rk: 26852, frq: 242}
+natatorium <> N: {rk: 42871, frq: 109}
+nation <> N: {rk: 412, frq: 105498}
+national <> J: {rk: 231, frq: 179411}, N: {rk: 11634, frq: 1873}
+nationalism <> N: {rk: 5692, frq: 4708}
+nationalist <> J: {rk: 7277, frq: 2992}, N: {rk: 7974, frq: 2498}
+nationalistic <> J: {rk: 15096, frq: 799}
+nationality <> N: {rk: 7888, frq: 2581}
+nationalization <> N: {rk: 20525, frq: 428}
+nationalize <> V: {rk: 19709, frq: 462}
+nationalized <> J: {rk: 27910, frq: 205}
+nationally <> R: {rk: 5348, frq: 4948}
+nationwide <> R: {rk: 4977, frq: 5491}, J: {rk: 6462, frq: 3492}
+native <> J: {rk: 1407, frq: 30106}, N: {rk: 5465, frq: 4562}
+natively <> R: {rk: 58393, frq: 23}
+nativism <> N: {rk: 31568, frq: 150}
+nativist <> N: {rk: 23827, frq: 313}
+nativity <> N: {rk: 25076, frq: 662}
+natter <> V: {rk: 40271, frq: 65}
+nattily <> R: {rk: 43001, frq: 53}
+natty <> J: {rk: 33976, frq: 104}
+natural <> J: {rk: 715, frq: 59811}, R: {rk: 23666, frq: 297}, N: {rk: 32138, frq: 138}
+natural-born <> J: {rk: 32147, frq: 146}
+naturalism <> N: {rk: 20052, frq: 463}
+naturalist <> N: {rk: 11113, frq: 1436}
+naturalistic <> J: {rk: 15353, frq: 812}
+naturalistically <> R: {rk: 52544, frq: 27}
+naturalize <> V: {rk: 26314, frq: 238}
+naturalized <> J: {rk: 18988, frq: 511}
+naturally <> R: {rk: 2812, frq: 12130}
+naturalness <> N: {rk: 27188, frq: 204}
+nature <> N: {rk: 696, frq: 63226}
+naturopath <> N: {rk: 42650, frq: 61}
+naturopathic <> J: {rk: 38705, frq: 82}
+naught <> P: {rk: 20762, frq: 418}
+naughtiness <> N: {rk: 43085, frq: 51}
+naughty <> J: {rk: 13027, frq: 1099}
+nausea <> N: {rk: 9512, frq: 1934}
+nauseate <> V: {rk: 22541, frq: 322}
+nauseated <> J: {rk: 34907, frq: 99}
+nauseating <> J: {rk: 26840, frq: 212}
+nauseatingly <> R: {rk: 51264, frq: 30}
+nauseous <> J: {rk: 21278, frq: 370}
+nautical <> J: {rk: 16701, frq: 683}
+nautilus <> N: {rk: 29361, frq: 240}
+naval <> J: {rk: 4989, frq: 5438}
+nave <> N: {rk: 16590, frq: 728}
+navel <> N: {rk: 14415, frq: 858}
+navel-gazing <> N: {rk: 54621, frq: 29}
+navigable <> J: {rk: 25330, frq: 243}
+navigate <> V: {rk: 6505, frq: 3695}
+navigation <> N: {rk: 8389, frq: 2461}
+navigational <> J: {rk: 19038, frq: 498}
+navigator <> N: {rk: 17182, frq: 1173}
+naw <> U: {rk: 19976, frq: 466}
+nay <> U: {rk: 18941, frq: 585}, N: {rk: 19145, frq: 499}
+naysayer <> N: {rk: 20295, frq: 433}
+ne'er <> R: {rk: 43813, frq: 54}
+ne'er-do-well <> N: {rk: 34482, frq: 109}
+neap <> J: {rk: 47269, frq: 48}
+near <> I: {rk: 706, frq: 59259}, J: {rk: 4167, frq: 6841}, R: {rk: 4311, frq: 6605}, V: {rk: 5930, frq: 4029}
+near-term <> J: {rk: 21844, frq: 369}
+nearby <> J: {rk: 2439, frq: 14968}, R: {rk: 3748, frq: 8133}
+nearer <> J: {rk: 22607, frq: 328}
+nearest <> J: {rk: 5815, frq: 4237}, R: {rk: 32427, frq: 121}
+nearly <> R: {rk: 599, frq: 70781}
+nearness <> N: {rk: 27703, frq: 195}
+nearside <> N: {rk: 59128, frq: 30}
+nearsighted <> J: {rk: 27329, frq: 205}
+nearsightedness <> N: {rk: 35804, frq: 97}
+neat <> J: {rk: 4727, frq: 5753}
+neaten <> V: {rk: 47352, frq: 39}
+neath <> I: {rk: 43660, frq: 59}
+neatly <> R: {rk: 5861, frq: 4176}
+neatness <> N: {rk: 27005, frq: 217}
+neatnik <> N: {rk: 53966, frq: 23}
+nebbish <> J: {rk: 54200, frq: 24}
+nebula <> N: {rk: 8353, frq: 3082}
+nebular <> J: {rk: 39799, frq: 74}
+nebulosity <> N: {rk: 28492, frq: 214}
+nebulous <> J: {rk: 21134, frq: 375}
+necessarily <> R: {rk: 1967, frq: 19859}
+necessary <> J: {rk: 983, frq: 43888}, N: {rk: 52173, frq: 98}
+necessitate <> V: {rk: 10476, frq: 1603}
+necessity <> N: {rk: 3982, frq: 7594}
+neck <> N: {rk: 1526, frq: 28054}, V: {rk: 22016, frq: 353}
+neckband <> N: {rk: 58609, frq: 19}
+neckerchief <> N: {rk: 39710, frq: 67}
+necklace <> N: {rk: 6678, frq: 3834}
+neckline <> N: {rk: 19455, frq: 484}
+neckpiece <> N: {rk: 46628, frq: 61}
+necktie <> N: {rk: 17824, frq: 574}
+neckwear <> N: {rk: 54273, frq: 30}
+necromancy <> N: {rk: 51386, frq: 43}
+necrophilia <> N: {rk: 46586, frq: 48}
+necropolis <> N: {rk: 38269, frq: 108}
+necropsy <> N: {rk: 44639, frq: 57}, J: {rk: 51311, frq: 31}
+necrosis <> N: {rk: 21851, frq: 434}
+necrotic <> J: {rk: 35781, frq: 114}
+necrotizing <> J: {rk: 59674, frq: 41}
+nectar <> N: {rk: 15611, frq: 862}
+nectarine <> N: {rk: 34188, frq: 114}
+need <> V: {rk: 132, frq: 304665}, N: {rk: 540, frq: 81279}
+needed <> J: {rk: 21238, frq: 396}
+needful <> J: {rk: 35676, frq: 99}
+needier <> J: {rk: 46598, frq: 37}
+neediness <> N: {rk: 36350, frq: 94}
+needle <> N: {rk: 3834, frq: 7932}, V: {rk: 26633, frq: 212}
+needlepoint <> N: {rk: 27943, frq: 203}
+needless <> J: {rk: 9497, frq: 1769}
+needlessly <> R: {rk: 18149, frq: 518}
+needlework <> N: {rk: 26387, frq: 226}
+needling <> J: {rk: 57545, frq: 26}
+needy <> J: {rk: 8970, frq: 1990}
+neem <> N: {rk: 45691, frq: 60}
+nefarious <> J: {rk: 19995, frq: 434}
+negate <> V: {rk: 12714, frq: 1082}
+negation <> N: {rk: 19355, frq: 567}
+negative <> J: {rk: 1474, frq: 28866}, N: {rk: 9834, frq: 1684}
+negatively <> R: {rk: 7511, frq: 3047}
+negativism <> N: {rk: 33418, frq: 117}
+negativity <> N: {rk: 19199, frq: 501}
+neglect <> V: {rk: 5115, frq: 5052}, N: {rk: 6910, frq: 3091}
+neglected <> J: {rk: 11409, frq: 1301}
+neglectful <> J: {rk: 26640, frq: 270}
+negligee <> N: {rk: 31161, frq: 151}
+negligence <> N: {rk: 12042, frq: 1241}
+negligent <> J: {rk: 14521, frq: 842}
+negligently <> R: {rk: 33950, frq: 107}
+negligible <> J: {rk: 12388, frq: 1163}
+negligibly <> R: {rk: 56701, frq: 25}
+negotiable <> J: {rk: 20888, frq: 389}
+negotiate <> V: {rk: 2557, frq: 13999}
+negotiated <> J: {rk: 12220, frq: 1218}
+negotiating <> N: {rk: 9104, frq: 1958}, J: {rk: 43047, frq: 53}
+negotiation <> N: {rk: 2273, frq: 16777}
+negotiator <> N: {rk: 7155, frq: 3031}
+negress <> N: {rk: 58035, frq: 24}
+negritude <> N: {rk: 44984, frq: 108}
+neigh <> V: {rk: 38877, frq: 77}, N: {rk: 46407, frq: 46}
+neighbor <> N: {rk: 1428, frq: 28917}
+neighborhood <> N: {rk: 1135, frq: 37917}
+neighboring <> J: {rk: 4879, frq: 4868}, N: {rk: 37265, frq: 140}
+neighborliness <> N: {rk: 35036, frq: 98}
+neighborly <> J: {rk: 32065, frq: 135}, R: {rk: 33221, frq: 115}
+neighbourhood <> N: {rk: 27430, frq: 235}
+neighbouring <> J: {rk: 35941, frq: 112}
+neither <> R: {rk: 1800, frq: 21470}, D: {rk: 2934, frq: 11402}
+nematode <> N: {rk: 21447, frq: 393}
+nemesis <> N: {rk: 16017, frq: 734}
+neo-fascist <> J: {rk: 56234, frq: 23}
+neoclassic <> J: {rk: 47197, frq: 40}
+neoclassical <> J: {rk: 15918, frq: 737}
+neoclassicism <> N: {rk: 41282, frq: 61}
+neocon <> N: {rk: 32456, frq: 149}
+neoconservative <> J: {rk: 23999, frq: 309}, N: {rk: 27917, frq: 228}
+neocortex <> N: {rk: 49974, frq: 36}
+neodymium <> N: {rk: 54121, frq: 37}
+neoliberal <> J: {rk: 15934, frq: 897}, N: {rk: 39541, frq: 95}
+neoliberalism <> N: {rk: 25994, frq: 328}
+neolithic <> J: {rk: 24101, frq: 341}
+neologism <> N: {rk: 36010, frq: 98}
+neomycin <> N: {rk: 46253, frq: 44}
+neon <> N: {rk: 8122, frq: 2397}
+neonatal <> J: {rk: 20200, frq: 459}
+neonate <> N: {rk: 35960, frq: 107}
+neonatology <> N: {rk: 57128, frq: 24}
+neophyte <> N: {rk: 19691, frq: 434}
+neoplasia <> N: {rk: 51452, frq: 39}
+neoplasm <> N: {rk: 26872, frq: 292}
+neoplastic <> J: {rk: 39801, frq: 79}
+neoplatonic <> J: {rk: 34579, frq: 119}
+neoprene <> N: {rk: 27401, frq: 234}
+neotropical <> J: {rk: 36241, frq: 100}
+nephew <> N: {rk: 6448, frq: 3491}
+nephrectomy <> N: {rk: 58712, frq: 21}
+nephrologist <> N: {rk: 55683, frq: 30}
+nephropathy <> N: {rk: 52181, frq: 36}
+nephrotoxic <> J: {rk: 59464, frq: 25}
+nepotism <> N: {rk: 24679, frq: 269}
+nepotistic <> J: {rk: 57584, frq: 23}
+nerd <> N: {rk: 14865, frq: 926}
+nerdy <> J: {rk: 25887, frq: 241}
+nerve <> N: {rk: 3102, frq: 10682}, V: {rk: 29159, frq: 168}
+nerve-racking <> J: {rk: 26608, frq: 223}
+nerve-wracking <> J: {rk: 30603, frq: 153}
+nerveless <> J: {rk: 48337, frq: 35}
+nervous <> J: {rk: 2409, frq: 15206}
+nervously <> R: {rk: 7205, frq: 3085}
+nervousness <> N: {rk: 14150, frq: 891}
+nervy <> J: {rk: 34936, frq: 102}
+nest <> N: {rk: 4164, frq: 7067}, V: {rk: 11023, frq: 1418}
+nested <> J: {rk: 25614, frq: 258}
+nester <> N: {rk: 30104, frq: 190}
+nesting <> J: {rk: 15093, frq: 742}
+nestle <> V: {rk: 8879, frq: 2069}
+nestled <> J: {rk: 41409, frq: 58}
+nestling <> N: {rk: 36587, frq: 93}
+net <> N: {rk: 2901, frq: 11712}, J: {rk: 3486, frq: 9086}, V: {rk: 11401, frq: 1317}
+netball <> N: {rk: 46879, frq: 67}
+nether <> J: {rk: 29444, frq: 172}
+netherworld <> N: {rk: 30986, frq: 152}
+netted <> J: {rk: 43255, frq: 50}
+netter <> N: {rk: 51742, frq: 64}
+netting <> N: {rk: 15114, frq: 787}
+nettle <> N: {rk: 18730, frq: 553}
+nettlesome <> J: {rk: 37487, frq: 78}
+network <> N: {rk: 883, frq: 49261}, V: {rk: 14680, frq: 843}
+networked <> J: {rk: 20318, frq: 468}
+networker <> N: {rk: 43139, frq: 58}
+networking <> N: {rk: 9561, frq: 2054}
+neural <> J: {rk: 10746, frq: 1518}
+neuralgia <> N: {rk: 42963, frq: 71}
+neuralgic <> J: {rk: 57642, frq: 21}
+neurasthenia <> N: {rk: 53962, frq: 37}
+neurasthenic <> J: {rk: 51653, frq: 29}
+neuritis <> N: {rk: 51162, frq: 31}
+neuroanatomy <> N: {rk: 59566, frq: 23}
+neurobehavioral <> J: {rk: 55202, frq: 27}
+neurobiological <> J: {rk: 39593, frq: 74}
+neurobiologist <> N: {rk: 36291, frq: 117}
+neurobiology <> N: {rk: 34208, frq: 125}
+neurochemical <> J: {rk: 34108, frq: 137}, N: {rk: 51087, frq: 46}
+neurochemistry <> N: {rk: 43099, frq: 57}
+neurodegenerative <> J: {rk: 44747, frq: 48}
+neurodevelopmental <> J: {rk: 50310, frq: 39}
+neuroendocrine <> J: {rk: 49511, frq: 50}
+neurofibroma <> N: {rk: 56470, frq: 29}
+neurofibromatosis <> N: {rk: 49235, frq: 48}
+neurogenic <> J: {rk: 48972, frq: 40}
+neurologic <> J: {rk: 26742, frq: 232}
+neurological <> J: {rk: 10903, frq: 1516}
+neurologist <> N: {rk: 14178, frq: 925}
+neurology <> N: {rk: 22529, frq: 437}
+neuroma <> N: {rk: 35673, frq: 148}
+neuromuscular <> J: {rk: 26355, frq: 226}
+neuron <> N: {rk: 10835, frq: 1755}
+neuronal <> J: {rk: 30357, frq: 174}
+neuropathic <> J: {rk: 46007, frq: 67}
+neuropathy <> N: {rk: 29287, frq: 207}
+neuropeptide <> N: {rk: 45684, frq: 104}
+neurophysiological <> J: {rk: 43343, frq: 55}
+neurophysiologist <> N: {rk: 55068, frq: 25}
+neurophysiology <> N: {rk: 48349, frq: 44}
+neuropsychiatric <> J: {rk: 44026, frq: 55}
+neuropsychiatry <> N: {rk: 57994, frq: 24}
+neuropsychological <> J: {rk: 29448, frq: 205}
+neuropsychologist <> N: {rk: 39103, frq: 87}
+neuropsychology <> N: {rk: 44786, frq: 58}
+neuroscience <> N: {rk: 20065, frq: 665}
+neuroscientist <> N: {rk: 21146, frq: 447}
+neurosis <> N: {rk: 21509, frq: 375}
+neurosurgeon <> N: {rk: 18780, frq: 526}
+neurosurgery <> N: {rk: 29103, frq: 206}
+neurosurgical <> J: {rk: 45170, frq: 50}
+neurotic <> J: {rk: 15011, frq: 769}
+neurotically <> R: {rk: 51893, frq: 28}
+neuroticism <> N: {rk: 26688, frq: 259}
+neurotoxic <> J: {rk: 46134, frq: 47}
+neurotoxin <> N: {rk: 38373, frq: 81}
+neurotransmitter <> N: {rk: 18584, frq: 539}
+neurovascular <> J: {rk: 46104, frq: 58}
+neuter <> V: {rk: 27651, frq: 202}, J: {rk: 37589, frq: 144}
+neutered <> J: {rk: 43212, frq: 52}
+neutering <> N: {rk: 39557, frq: 71}
+neutral <> J: {rk: 4256, frq: 6807}, N: {rk: 30033, frq: 193}
+neutrality <> N: {rk: 12558, frq: 1157}
+neutralization <> N: {rk: 34049, frq: 146}
+neutralize <> V: {rk: 10769, frq: 1448}
+neutralized <> J: {rk: 58578, frq: 22}
+neutralizer <> N: {rk: 53490, frq: 33}
+neutralizing <> N: {rk: 51597, frq: 30}
+neutrally <> R: {rk: 31298, frq: 144}
+neutrino <> N: {rk: 11625, frq: 1470}
+neutron <> N: {rk: 10394, frq: 1682}
+neutropenia <> N: {rk: 59348, frq: 28}
+neutrophil <> N: {rk: 36845, frq: 128}
+never <> R: {rk: 138, frq: 284212}
+never-ending <> J: {rk: 14284, frq: 854}
+nevermore <> R: {rk: 48984, frq: 35}
+nevertheless <> R: {rk: 2598, frq: 13968}
+new <> J: {rk: 88, frq: 472947}, R: {rk: 40477, frq: 60}
+newbie <> N: {rk: 29853, frq: 237}
+newborn <> J: {rk: 7896, frq: 2498}, N: {rk: 15898, frq: 870}
+newcomer <> N: {rk: 5677, frq: 4401}
+newel <> N: {rk: 42273, frq: 61}
+newfangled <> J: {rk: 24582, frq: 264}
+newfound <> J: {rk: 9913, frq: 1682}
+newish <> J: {rk: 42475, frq: 63}
+newly <> R: {rk: 2808, frq: 12448}
+newlywed <> N: {rk: 14082, frq: 906}
+newness <> N: {rk: 19848, frq: 434}
+news <> N: {rk: 574, frq: 92380}
+newsboy <> N: {rk: 35020, frq: 104}
+newscast <> N: {rk: 13606, frq: 1136}
+newsdesk <> N: {rk: 47231, frq: 75}
+newsgroup <> N: {rk: 26532, frq: 246}
+newshound <> N: {rk: 56899, frq: 21}
+newsletter <> N: {rk: 6227, frq: 3693}
+newsmaker <> N: {rk: 21808, frq: 654}
+newsman <> N: {rk: 18991, frq: 526}
+newspaper <> N: {rk: 1065, frq: 39628}
+newspaperman <> N: {rk: 25290, frq: 243}
+newspeak <> N: {rk: 58793, frq: 21}
+newspeople <> N: {rk: 45798, frq: 42}
+newsprint <> N: {rk: 17456, frq: 590}
+newsreader <> N: {rk: 51831, frq: 30}
+newsreel <> N: {rk: 22928, frq: 367}
+newsroom <> N: {rk: 11472, frq: 1535}
+newsstand <> N: {rk: 15190, frq: 821}
+newswoman <> N: {rk: 42873, frq: 52}
+newsworthiness <> N: {rk: 52622, frq: 28}
+newsworthy <> J: {rk: 20414, frq: 404}
+newsy <> J: {rk: 50754, frq: 32}
+next <> M: {rk: 217, frq: 192845}, I: {rk: 1514, frq: 27956}
+next-door <> J: {rk: 17640, frq: 561}
+nexus <> N: {rk: 14634, frq: 1009}
+ngoma <> N: {rk: 58332, frq: 39}
+niacin <> N: {rk: 24530, frq: 338}
+nib <> N: {rk: 31377, frq: 160}
+nibble <> V: {rk: 11534, frq: 1332}, N: {rk: 20766, frq: 395}
+nibbler <> N: {rk: 53368, frq: 39}
+niblick <> N: {rk: 55207, frq: 28}
+nicad <> N: {rk: 52926, frq: 41}
+nice <> J: {rk: 898, frq: 48777}, R: {rk: 11108, frq: 1387}
+nice-looking <> J: {rk: 27331, frq: 212}
+nicely <> R: {rk: 6095, frq: 3808}
+niceness <> N: {rk: 33308, frq: 115}
+nicety <> N: {rk: 19909, frq: 429}
+niche <> N: {rk: 5896, frq: 4095}
+nick <> V: {rk: 18576, frq: 579}
+nicked <> J: {rk: 56986, frq: 23}
+nickel <> N: {rk: 7986, frq: 2386}
+nickel-and-dime <> J: {rk: 48117, frq: 36}
+nicker <> V: {rk: 50799, frq: 36}, N: {rk: 54545, frq: 26}
+nickname <> N: {rk: 6171, frq: 3856}, V: {rk: 11827, frq: 1245}
+nicknamed <> J: {rk: 58073, frq: 20}
+nicotine <> N: {rk: 10542, frq: 1693}
+niece <> N: {rk: 7600, frq: 2728}
+nifty <> J: {rk: 16193, frq: 692}
+niggardly <> R: {rk: 45200, frq: 44}
+nigger <> N: {rk: 10553, frq: 1582}
+niggling <> J: {rk: 34485, frq: 111}
+nigh <> R: {rk: 26630, frq: 231}, I: {rk: 51503, frq: 47}
+night <> N: {rk: 209, frq: 198607}
+night-long <> J: {rk: 56431, frq: 22}
+night-time <> J: {rk: 35212, frq: 106}
+nightcap <> N: {rk: 28169, frq: 192}
+nightclothes <> N: {rk: 42618, frq: 62}
+nightclub <> N: {rk: 8450, frq: 2256}
+nightcrawler <> N: {rk: 38081, frq: 92}
+nightdress <> N: {rk: 32696, frq: 134}
+nightfall <> N: {rk: 14502, frq: 867}
+nightgown <> N: {rk: 13326, frq: 1114}
+nighthawk <> N: {rk: 43107, frq: 69}
+nightie <> N: {rk: 30546, frq: 160}
+nightlife <> N: {rk: 19570, frq: 478}
+nightly <> J: {rk: 9012, frq: 1972}, R: {rk: 16134, frq: 706}
+nightmare <> N: {rk: 3612, frq: 8543}
+nightmarish <> J: {rk: 19346, frq: 455}
+nightshade <> N: {rk: 38845, frq: 83}
+nightshirt <> N: {rk: 29096, frq: 187}
+nightspot <> N: {rk: 31880, frq: 133}
+nightstand <> N: {rk: 16525, frq: 758}
+nightstick <> N: {rk: 30117, frq: 171}
+nighttime <> N: {rk: 10077, frq: 1688}
+nigra <> N: {rk: 35375, frq: 109}
+nihilism <> N: {rk: 23930, frq: 328}
+nihilist <> N: {rk: 35406, frq: 98}
+nihilistic <> J: {rk: 28496, frq: 183}
+nilgai <> N: {rk: 57549, frq: 34}
+nim <> N: {rk: 60014, frq: 40}
+nimble <> J: {rk: 14855, frq: 832}
+nimbleness <> N: {rk: 48688, frq: 36}
+nimbly <> R: {rk: 26596, frq: 222}
+nimbus <> N: {rk: 34456, frq: 155}
+nincompoop <> N: {rk: 44865, frq: 47}
+nine <> M: {rk: 1155, frq: 36081}
+nine-to-five <> M: {rk: 37139, frq: 90}
+nineteen <> M: {rk: 7956, frq: 2535}
+nineteenth <> M: {rk: 5207, frq: 5313}
+ninetieth <> M: {rk: 50303, frq: 34}
+ninety <> M: {rk: 8432, frq: 2299}
+ninety-nine <> M: {rk: 19273, frq: 472}
+ninny <> N: {rk: 39312, frq: 70}
+ninth <> M: {rk: 5111, frq: 5343}
+niobium <> N: {rk: 47236, frq: 88}
+nip <> V: {rk: 14403, frq: 868}, N: {rk: 22871, frq: 328}
+nipper <> N: {rk: 47286, frq: 80}
+nipple <> N: {rk: 9029, frq: 2171}
+nippy <> J: {rk: 38742, frq: 74}
+nite <> N: {rk: 33645, frq: 125}
+nitpick <> V: {rk: 34325, frq: 109}
+nitrate <> N: {rk: 12065, frq: 1487}
+nitric <> J: {rk: 26888, frq: 240}
+nitride <> N: {rk: 40372, frq: 84}
+nitrification <> N: {rk: 37290, frq: 124}
+nitrite <> N: {rk: 32647, frq: 178}
+nitro <> N: {rk: 38522, frq: 144}
+nitrogen <> N: {rk: 5957, frq: 4314}
+nitrogenous <> J: {rk: 51845, frq: 31}
+nitroglycerin <> N: {rk: 34900, frq: 108}
+nitroglycerine <> N: {rk: 43196, frq: 51}
+nitrosamine <> N: {rk: 58406, frq: 19}
+nitrous <> J: {rk: 25171, frq: 263}
+nitty-gritty <> J: {rk: 27406, frq: 210}
+nitwit <> N: {rk: 34234, frq: 115}
+nix <> V: {rk: 20082, frq: 496}
+no <> A: {rk: 93, frq: 433546}, R: {rk: 698, frq: 58967}, U: {rk: 914, frq: 50113}, P: {rk: 1105, frq: 37912}, D: {rk: 4547, frq: 6083}
+no-account <> J: {rk: 55936, frq: 22}
+no-brainer <> N: {rk: 19176, frq: 547}, J: {rk: 35068, frq: 80}
+no-fault <> J: {rk: 21657, frq: 412}
+no-good <> J: {rk: 33195, frq: 119}
+no-hitter <> N: {rk: 19567, frq: 526}
+no-load <> J: {rk: 27634, frq: 235}
+no-man's-land <> N: {rk: 32937, frq: 121}
+no-name <> J: {rk: 33962, frq: 104}
+no-no <> N: {rk: 20876, frq: 314}
+no-nonsense <> J: {rk: 16072, frq: 692}
+no-see-um <> N: {rk: 52503, frq: 26}
+no-show <> N: {rk: 27616, frq: 203}, J: {rk: 45404, frq: 43}
+no-win <> J: {rk: 25973, frq: 223}
+nobility <> N: {rk: 12445, frq: 1154}
+noble <> J: {rk: 5617, frq: 4545}
+nobleman <> N: {rk: 23066, frq: 362}
+noblesse <> N: {rk: 31958, frq: 136}
+noblewoman <> N: {rk: 38646, frq: 78}
+nobly <> R: {rk: 29423, frq: 164}
+nobody <> P: {rk: 1152, frq: 37091}, N: {rk: 32788, frq: 174}
+nock <> V: {rk: 50453, frq: 37}, N: {rk: 59439, frq: 52}
+nocturnal <> J: {rk: 13755, frq: 943}
+nocturne <> N: {rk: 42174, frq: 100}
+nod <> V: {rk: 1562, frq: 29713}, N: {rk: 5304, frq: 5317}
+nodal <> J: {rk: 29882, frq: 181}
+nodding <> J: {rk: 35101, frq: 99}
+node <> N: {rk: 8081, frq: 2602}
+nodular <> J: {rk: 43534, frq: 62}
+nodule <> N: {rk: 21225, frq: 462}
+noetic <> J: {rk: 47001, frq: 42}
+nog <> N: {rk: 47675, frq: 62}
+noggin <> N: {rk: 31928, frq: 146}
+noise <> N: {rk: 2023, frq: 19572}
+noiseless <> J: {rk: 37013, frq: 87}
+noiselessly <> R: {rk: 31326, frq: 150}
+noisemaker <> N: {rk: 34337, frq: 111}
+noisette <> N: {rk: 59410, frq: 30}
+noisily <> R: {rk: 16837, frq: 653}
+noisome <> J: {rk: 44102, frq: 47}
+noisy <> J: {rk: 6660, frq: 3321}
+nomad <> N: {rk: 15099, frq: 825}
+nomadic <> J: {rk: 15598, frq: 740}
+nomenclature <> N: {rk: 21002, frq: 399}
+nomenklatura <> N: {rk: 34463, frq: 116}
+nominal <> J: {rk: 11054, frq: 1499}
+nominalism <> N: {rk: 50963, frq: 32}
+nominally <> R: {rk: 17895, frq: 545}
+nominate <> V: {rk: 5006, frq: 5508}
+nominated <> J: {rk: 28896, frq: 203}
+nomination <> N: {rk: 3253, frq: 10368}
+nominator <> N: {rk: 43675, frq: 53}
+nominee <> N: {rk: 4113, frq: 7878}
+nomothetic <> J: {rk: 58673, frq: 30}
+non-aggression <> J: {rk: 50523, frq: 33}
+non-aligned <> J: {rk: 28018, frq: 205}
+non-allergic <> J: {rk: 59746, frq: 27}
+non-bank <> J: {rk: 56053, frq: 30}
+non-believer <> N: {rk: 37653, frq: 85}
+non-biodegradable <> J: {rk: 56302, frq: 21}
+non-citizen <> J: {rk: 46857, frq: 47}
+non-competitive <> J: {rk: 24287, frq: 285}
+non-controversial <> J: {rk: 38334, frq: 80}
+non-destructive <> J: {rk: 31905, frq: 164}
+non-essential <> J: {rk: 23104, frq: 308}
+non-event <> N: {rk: 38304, frq: 85}
+non-executive <> J: {rk: 47742, frq: 39}
+non-flammable <> J: {rk: 47837, frq: 39}
+non-human <> J: {rk: 30320, frq: 161}
+non-intervention <> N: {rk: 31166, frq: 169}
+non-issue <> N: {rk: 28328, frq: 199}
+non-malignant <> J: {rk: 50858, frq: 40}
+non-military <> J: {rk: 22392, frq: 337}
+non-native <> J: {rk: 15691, frq: 828}, N: {rk: 30205, frq: 192}
+non-negotiable <> J: {rk: 25435, frq: 245}
+non-nuclear <> J: {rk: 24376, frq: 294}
+non-parametric <> J: {rk: 30199, frq: 200}
+non-participating <> J: {rk: 48916, frq: 42}
+non-partisan <> N: {rk: 32509, frq: 150}
+non-party <> J: {rk: 45314, frq: 46}
+non-physical <> J: {rk: 31904, frq: 151}
+non-productive <> J: {rk: 33328, frq: 116}
+non-professional <> J: {rk: 30699, frq: 168}
+non-resident <> J: {rk: 27229, frq: 223}
+non-sectarian <> J: {rk: 31013, frq: 143}
+non-slip <> J: {rk: 40873, frq: 73}
+non-smoker <> N: {rk: 24940, frq: 262}
+non-smoking <> J: {rk: 31438, frq: 138}
+non-specific <> J: {rk: 23149, frq: 339}
+non-standard <> J: {rk: 43982, frq: 48}
+non-starter <> N: {rk: 28537, frq: 196}
+non-union <> J: {rk: 28254, frq: 189}
+non-unionized <> J: {rk: 42426, frq: 73}
+non-use <> N: {rk: 34421, frq: 117}
+non-white <> N: {rk: 18098, frq: 568}, J: {rk: 23675, frq: 331}
+non-zero <> J: {rk: 54588, frq: 41}
+nonagenarian <> N: {rk: 52061, frq: 28}
+nonaggression <> N: {rk: 37118, frq: 93}
+nonaggressive <> J: {rk: 33238, frq: 128}
+nonagricultural <> J: {rk: 32158, frq: 133}
+nonalcoholic <> J: {rk: 26567, frq: 233}
+nonathlete <> N: {rk: 21690, frq: 457}
+nonbank <> N: {rk: 53197, frq: 30}
+noncaloric <> J: {rk: 55192, frq: 28}
+noncanonical <> J: {rk: 48576, frq: 37}
+nonce <> N: {rk: 52023, frq: 28}
+nonchalance <> N: {rk: 23875, frq: 294}
+nonchalant <> J: {rk: 22166, frq: 343}
+nonchalantly <> R: {rk: 20864, frq: 394}
+noncircular <> J: {rk: 59701, frq: 20}
+noncom <> N: {rk: 43815, frq: 63}
+noncombatant <> J: {rk: 35803, frq: 99}
+noncommercial <> J: {rk: 23534, frq: 318}
+noncommissioned <> J: {rk: 26672, frq: 223}
+noncommittally <> R: {rk: 39515, frq: 72}
+noncompliant <> J: {rk: 30964, frq: 172}, N: {rk: 58827, frq: 22}
+nonconformist <> N: {rk: 35538, frq: 93}, J: {rk: 36103, frq: 89}
+nonconformity <> N: {rk: 35231, frq: 106}
+nonconsumptive <> J: {rk: 52222, frq: 31}
+noncontributory <> J: {rk: 58187, frq: 20}
+noncriminal <> J: {rk: 42395, frq: 69}
+noncritical <> J: {rk: 38125, frq: 103}
+nondairy <> J: {rk: 35568, frq: 112}
+nondenominational <> J: {rk: 25795, frq: 238}
+nondescript <> J: {rk: 15207, frq: 775}
+nondiabetic <> J: {rk: 50856, frq: 37}
+nondiscretionary <> J: {rk: 53143, frq: 35}
+none <> P: {rk: 1087, frq: 38168}, R: {rk: 29556, frq: 156}
+nonentity <> N: {rk: 33560, frq: 112}
+nonequivalent <> J: {rk: 59282, frq: 20}
+nonetheless <> R: {rk: 3319, frq: 9785}
+nonexistence <> N: {rk: 30027, frq: 173}
+nonexistent <> J: {rk: 8880, frq: 2049}
+nonferrous <> J: {rk: 39654, frq: 72}
+nonfigurative <> J: {rk: 49416, frq: 39}
+nonfunctional <> J: {rk: 33709, frq: 124}
+nongovernmental <> J: {rk: 10544, frq: 1625}
+nonhierarchical <> J: {rk: 39054, frq: 73}
+noninstitutionalized <> J: {rk: 49022, frq: 44}
+noninvasive <> J: {rk: 23736, frq: 301}
+nonjudgmental <> J: {rk: 27585, frq: 208}
+nonlinear <> J: {rk: 14248, frq: 1050}
+nonlinearity <> N: {rk: 31698, frq: 161}
+nonlinguistic <> J: {rk: 44860, frq: 54}
+nonmagnetic <> J: {rk: 44009, frq: 54}
+nonmaterial <> J: {rk: 37272, frq: 84}
+nonmedical <> J: {rk: 23867, frq: 568}
+nonmember <> N: {rk: 20174, frq: 938}
+nonmetallic <> J: {rk: 41667, frq: 60}
+nonmusical <> J: {rk: 35789, frq: 96}
+nonobjective <> J: {rk: 43901, frq: 49}
+nonoccurrence <> N: {rk: 53818, frq: 30}
+nonpareil <> N: {rk: 47497, frq: 48}
+nonpartisan <> J: {rk: 13559, frq: 1061}
+nonpartisanship <> N: {rk: 54444, frq: 29}
+nonpayment <> N: {rk: 32324, frq: 131}
+nonperformance <> N: {rk: 53081, frq: 30}
+nonplussed <> J: {rk: 29376, frq: 179}
+nonporous <> J: {rk: 48748, frq: 41}
+nonprofit <> J: {rk: 3867, frq: 8305}, N: {rk: 38330, frq: 106}
+nonracist <> J: {rk: 56575, frq: 17}
+nonreactive <> J: {rk: 30021, frq: 174}
+nonrecognition <> N: {rk: 46004, frq: 42}
+nonrefundable <> J: {rk: 33040, frq: 120}
+nonrelativistic <> J: {rk: 56585, frq: 24}
+nonrenewable <> J: {rk: 27083, frq: 222}
+nonrepresentational <> J: {rk: 47246, frq: 40}
+nonreproductive <> J: {rk: 57777, frq: 29}
+nonresidential <> J: {rk: 37253, frq: 86}
+nonsense <> N: {rk: 6048, frq: 3915}
+nonsensical <> J: {rk: 21375, frq: 372}
+nonsexual <> J: {rk: 28771, frq: 186}
+nonsignificant <> J: {rk: 19859, frq: 531}
+nonskid <> J: {rk: 38078, frq: 93}
+nonsterile <> J: {rk: 59885, frq: 23}
+nonsteroidal <> J: {rk: 31109, frq: 143}
+nonstick <> J: {rk: 12249, frq: 1244}
+nonstop <> J: {rk: 12493, frq: 1160}, R: {rk: 13675, frq: 962}
+nonsurgical <> J: {rk: 33153, frq: 122}
+nonthermal <> J: {rk: 59123, frq: 20}
+nontoxic <> J: {rk: 19472, frq: 501}
+nontraditional <> J: {rk: 10128, frq: 1769}
+nontrivial <> J: {rk: 36209, frq: 101}
+nonuniform <> J: {rk: 40527, frq: 68}
+nonverbal <> J: {rk: 13291, frq: 1115}
+nonverbally <> R: {rk: 40675, frq: 68}
+nonviable <> J: {rk: 45650, frq: 43}
+nonviolence <> N: {rk: 18749, frq: 1086}
+nonviolent <> J: {rk: 10387, frq: 1581}
+nonviolently <> R: {rk: 46434, frq: 40}
+nonvisual <> J: {rk: 45300, frq: 61}
+nonvolatile <> J: {rk: 52584, frq: 57}
+nonworker <> N: {rk: 59745, frq: 22}
+noodle <> N: {rk: 8083, frq: 2691}, V: {rk: 16585, frq: 723}
+nook <> N: {rk: 13031, frq: 1102}
+nookie <> N: {rk: 53160, frq: 31}
+noon <> N: {rk: 3850, frq: 8363}
+noonday <> N: {rk: 29816, frq: 187}
+noontime <> N: {rk: 24947, frq: 257}
+noose <> N: {rk: 15183, frq: 802}
+nopal <> J: {rk: 59270, frq: 20}
+nope <> U: {rk: 9954, frq: 1813}
+nor <> C: {rk: 1063, frq: 39883}
+noradrenaline <> N: {rk: 55358, frq: 27}
+norepinephrine <> N: {rk: 33037, frq: 141}, J: {rk: 49405, frq: 51}
+nori <> N: {rk: 41334, frq: 93}
+norm <> N: {rk: 3410, frq: 10572}
+normal <> J: {rk: 1219, frq: 33691}, N: {rk: 38609, frq: 99}
+normalcy <> N: {rk: 15457, frq: 750}
+normality <> N: {rk: 19942, frq: 478}
+normalization <> N: {rk: 16784, frq: 675}
+normalize <> V: {rk: 13991, frq: 933}
+normalized <> J: {rk: 28828, frq: 193}
+normally <> R: {rk: 2604, frq: 13416}
+norman <> J: {rk: 14261, frq: 989}
+normative <> J: {rk: 8783, frq: 2373}
+normativity <> N: {rk: 51897, frq: 35}
+normed <> J: {rk: 56374, frq: 22}
+norming <> N: {rk: 38853, frq: 78}
+norovirus <> N: {rk: 47548, frq: 70}
+norse <> N: {rk: 26063, frq: 413}
+northeast <> N: {rk: 4155, frq: 7114}
+northeasterly <> J: {rk: 45933, frq: 40}
+northeastern <> J: {rk: 7599, frq: 2695}
+northeastward <> R: {rk: 52694, frq: 31}
+northerly <> J: {rk: 27038, frq: 224}
+northern <> J: {rk: 1561, frq: 25501}
+northerner <> N: {rk: 22644, frq: 332}
+northernmost <> J: {rk: 21788, frq: 346}
+northward <> R: {rk: 14664, frq: 808}, J: {rk: 45077, frq: 44}
+northwards <> R: {rk: 54340, frq: 26}
+northwest <> N: {rk: 3426, frq: 9565}
+northwesterly <> J: {rk: 48355, frq: 36}
+northwestern <> J: {rk: 6516, frq: 3626}
+northwestward <> R: {rk: 48730, frq: 34}
+nose <> N: {rk: 1744, frq: 23670}, V: {rk: 18713, frq: 521}
+nosebleed <> N: {rk: 28296, frq: 197}
+nosedive <> N: {rk: 30365, frq: 163}
+nosegay <> N: {rk: 46332, frq: 63}
+nosepiece <> N: {rk: 55530, frq: 30}
+nosey <> J: {rk: 47000, frq: 40}
+nosh <> V: {rk: 35839, frq: 88}, N: {rk: 51722, frq: 41}
+nosocomial <> J: {rk: 50380, frq: 46}
+nostalgia <> N: {rk: 8232, frq: 2265}
+nostalgic <> J: {rk: 10759, frq: 1435}
+nostalgically <> R: {rk: 31235, frq: 136}
+nostril <> N: {rk: 8817, frq: 2242}
+nostrum <> N: {rk: 36576, frq: 89}
+nosy <> J: {rk: 21219, frq: 392}
+not <> X: {rk: 28, frq: 1771490}, C: {rk: 2923, frq: 12064}, R: {rk: 36443, frq: 86}
+not-for-profit <> J: {rk: 18872, frq: 507}
+notable <> J: {rk: 5351, frq: 4967}, N: {rk: 22937, frq: 311}
+notably <> R: {rk: 5323, frq: 4972}
+notarial <> J: {rk: 59834, frq: 19}
+notarized <> J: {rk: 41781, frq: 56}
+notary <> N: {rk: 27623, frq: 208}
+notate <> V: {rk: 29865, frq: 174}
+notated <> J: {rk: 41980, frq: 58}
+notation <> N: {rk: 10370, frq: 1698}
+notational <> J: {rk: 39389, frq: 81}
+notch <> N: {rk: 9681, frq: 1779}, V: {rk: 17366, frq: 607}
+notched <> J: {rk: 35163, frq: 99}
+note <> V: {rk: 703, frq: 61602}, N: {rk: 876, frq: 48159}
+notebook <> N: {rk: 4467, frq: 6381}
+noted <> J: {rk: 11134, frq: 1330}
+notepad <> N: {rk: 18561, frq: 589}
+notepaper <> N: {rk: 39236, frq: 75}
+noteworthy <> J: {rk: 9668, frq: 1826}
+nothing <> P: {rk: 315, frq: 137198}, N: {rk: 35553, frq: 189}
+nothingness <> N: {rk: 16759, frq: 656}
+notice <> V: {rk: 1045, frq: 42295}, N: {rk: 3613, frq: 8391}
+noticeable <> J: {rk: 8645, frq: 2156}
+noticeably <> R: {rk: 11678, frq: 1247}
+noticing <> N: {rk: 53640, frq: 28}
+notification <> N: {rk: 12063, frq: 1224}
+notified <> J: {rk: 56908, frq: 21}
+notify <> V: {rk: 6193, frq: 3650}
+notion <> N: {rk: 1722, frq: 23325}
+notional <> J: {rk: 36201, frq: 101}
+notionally <> R: {rk: 52785, frq: 31}
+notoriety <> N: {rk: 13382, frq: 968}
+notorious <> J: {rk: 6237, frq: 3629}
+notoriously <> R: {rk: 10533, frq: 1514}
+notwithstanding <> R: {rk: 10646, frq: 1455}, I: {rk: 12653, frq: 1105}
+nougat <> N: {rk: 49517, frq: 40}
+nought <> P: {rk: 44894, frq: 65}
+noun <> N: {rk: 14256, frq: 924}
+nourish <> V: {rk: 10482, frq: 1521}
+nourished <> J: {rk: 54243, frq: 28}
+nourishing <> J: {rk: 24648, frq: 272}
+nourishment <> N: {rk: 15294, frq: 736}
+nous <> N: {rk: 26927, frq: 234}
+novel <> N: {rk: 1653, frq: 24449}, J: {rk: 5410, frq: 4830}
+novelette <> N: {rk: 57458, frq: 27}
+novelist <> N: {rk: 6434, frq: 3535}
+novelistic <> J: {rk: 26924, frq: 231}
+novelization <> N: {rk: 50652, frq: 34}
+novella <> N: {rk: 19262, frq: 476}
+novelty <> N: {rk: 8106, frq: 2396}
+novena <> N: {rk: 41043, frq: 74}
+novice <> N: {rk: 7697, frq: 2667}
+novitiate <> N: {rk: 35928, frq: 131}
+novocaine <> N: {rk: 53904, frq: 48}
+now <> R: {rk: 72, frq: 657619}, C: {rk: 1901, frq: 20805}
+nowadays <> R: {rk: 6887, frq: 3014}
+nowhere <> R: {rk: 2941, frq: 11558}
+noxious <> J: {rk: 15996, frq: 696}
+nozzle <> N: {rk: 13815, frq: 935}
+nth <> M: {rk: 26133, frq: 233}
+nuance <> N: {rk: 9296, frq: 1848}
+nuanced <> J: {rk: 17520, frq: 629}
+nub <> N: {rk: 22428, frq: 328}
+nubbin <> N: {rk: 40981, frq: 64}
+nubby <> J: {rk: 35981, frq: 103}
+nubile <> J: {rk: 34320, frq: 102}
+nuclear <> J: {rk: 1177, frq: 38742}
+nuclear-free <> J: {rk: 38372, frq: 83}
+nuclear-powered <> J: {rk: 34536, frq: 116}
+nuclearization <> N: {rk: 52289, frq: 42}
+nucleated <> J: {rk: 51685, frq: 31}
+nucleation <> N: {rk: 51512, frq: 35}
+nucleic <> J: {rk: 32793, frq: 140}
+nucleon <> N: {rk: 35637, frq: 144}
+nucleoside <> N: {rk: 56351, frq: 26}
+nucleosynthesis <> N: {rk: 44390, frq: 56}
+nucleotide <> N: {rk: 25889, frq: 276}
+nucleus <> N: {rk: 7049, frq: 3100}
+nuclide <> N: {rk: 59143, frq: 37}
+nude <> J: {rk: 7708, frq: 2557}, N: {rk: 18103, frq: 525}
+nudge <> V: {rk: 7863, frq: 2671}, N: {rk: 21626, frq: 377}
+nudist <> N: {rk: 32265, frq: 134}
+nudity <> N: {rk: 14322, frq: 969}
+nugatory <> J: {rk: 55734, frq: 21}
+nugget <> N: {rk: 16315, frq: 1301}
+nuisance <> N: {rk: 8908, frq: 2257}
+nuke <> N: {rk: 18573, frq: 623}, V: {rk: 26000, frq: 231}
+null <> J: {rk: 15584, frq: 867}
+nullification <> N: {rk: 30829, frq: 175}
+nullify <> V: {rk: 17833, frq: 535}
+nullity <> N: {rk: 43109, frq: 52}
+numb <> J: {rk: 9517, frq: 1887}, V: {rk: 15003, frq: 775}
+numbed <> J: {rk: 41058, frq: 58}
+number <> N: {rk: 204, frq: 201813}, V: {rk: 8794, frq: 2025}
+numbered <> J: {rk: 17590, frq: 563}
+numbering <> N: {rk: 32226, frq: 127}
+numberless <> J: {rk: 35410, frq: 95}
+numbing <> J: {rk: 27295, frq: 193}, N: {rk: 41162, frq: 62}
+numbly <> R: {rk: 27980, frq: 202}
+numbness <> N: {rk: 17114, frq: 619}
+numbskull <> N: {rk: 56759, frq: 25}
+numeracy <> N: {rk: 47485, frq: 65}
+numeral <> N: {rk: 20141, frq: 445}, J: {rk: 51587, frq: 28}
+numeration <> N: {rk: 56057, frq: 22}
+numerator <> N: {rk: 40119, frq: 85}
+numeric <> J: {rk: 23328, frq: 327}
+numerical <> J: {rk: 10351, frq: 1685}
+numerically <> R: {rk: 21809, frq: 364}
+numerological <> J: {rk: 57753, frq: 25}
+numerology <> N: {rk: 37779, frq: 81}
+numerous <> J: {rk: 2289, frq: 16521}
+numinous <> J: {rk: 36703, frq: 96}
+numismatic <> J: {rk: 45547, frq: 48}
+numismatist <> N: {rk: 57912, frq: 25}
+nun <> N: {rk: 5759, frq: 4281}
+nunciature <> N: {rk: 58670, frq: 30}
+nuncio <> N: {rk: 39409, frq: 141}
+nunnery <> N: {rk: 33366, frq: 125}
+nuptial <> J: {rk: 30978, frq: 144}
+nuptials <> N: {rk: 26729, frq: 260}
+nurse <> N: {rk: 1885, frq: 22131}, V: {rk: 6580, frq: 3474}
+nursemaid <> N: {rk: 31585, frq: 142}
+nursery <> N: {rk: 5699, frq: 4316}
+nurseryman <> N: {rk: 39800, frq: 69}
+nursing <> N: {rk: 5308, frq: 5377}, J: {rk: 5678, frq: 4981}
+nurturance <> N: {rk: 26982, frq: 265}
+nurturant <> J: {rk: 53841, frq: 26}
+nurture <> V: {rk: 5596, frq: 4351}, N: {rk: 19799, frq: 470}
+nurturer <> N: {rk: 30871, frq: 149}
+nurturing <> N: {rk: 13088, frq: 1007}
+nut <> N: {rk: 3209, frq: 10484}, V: {rk: 41089, frq: 62}
+nut-brown <> J: {rk: 42596, frq: 57}
+nutcase <> N: {rk: 38089, frq: 98}
+nuthatch <> N: {rk: 46376, frq: 40}
+nuthouse <> N: {rk: 45842, frq: 47}
+nutmeg <> N: {rk: 12151, frq: 1359}
+nutraceutical <> J: {rk: 47551, frq: 54}
+nutria <> N: {rk: 34002, frq: 210}
+nutrient <> N: {rk: 4896, frq: 6027}, J: {rk: 34874, frq: 100}
+nutrition <> N: {rk: 5627, frq: 7037}
+nutritional <> J: {rk: 7502, frq: 2792}
+nutritionally <> R: {rk: 26267, frq: 225}
+nutritionist <> N: {rk: 13649, frq: 1035}
+nutritious <> J: {rk: 13662, frq: 1002}
+nutritiously <> R: {rk: 58055, frq: 19}
+nutritive <> J: {rk: 40333, frq: 63}
+nuts <> J: {rk: 15360, frq: 730}
+nutshell <> N: {rk: 16906, frq: 619}
+nuttier <> J: {rk: 52637, frq: 28}
+nuttiness <> N: {rk: 42324, frq: 61}
+nutty <> J: {rk: 14985, frq: 813}
+nuzzle <> V: {rk: 18680, frq: 541}
+nylon <> N: {rk: 8605, frq: 2245}
+nymph <> N: {rk: 16262, frq: 700}
+nymphet <> N: {rk: 50965, frq: 33}
+nymphomaniac <> N: {rk: 44892, frq: 51}
+nystagmus <> N: {rk: 42393, frq: 116}

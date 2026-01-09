@@ -1,0 +1,57 @@
+{
+    "phonetic": {
+        "start": "R",
+        "end": "Russia",
+        "total": 5000
+    },
+    "phonetic__1": {
+        "start": "Russian",
+        "end": "Ryurik",
+        "total": 61
+    },
+    "bnc": {
+        "start": "R",
+        "end": "rymer",
+        "total": 2433
+    },
+    "explain": {
+        "start": "R",
+        "end": "retrain",
+        "total": 5000
+    },
+    "explain__1": {
+        "start": "retrained",
+        "end": "Ryurik",
+        "total": 2828
+    },
+    "exchange": {
+        "start": "RA",
+        "end": "Ryman",
+        "total": 4623
+    },
+    "freq": {
+        "start": "rabbet",
+        "end": "ryegrass",
+        "total": 2276
+    },
+    "collins": {
+        "start": "rabbi",
+        "end": "rye",
+        "total": 790
+    },
+    "lgk_id": {
+        "start": "r",
+        "end": "rye",
+        "total": 1627
+    },
+    "pos": {
+        "start": "rabbet",
+        "end": "ryegrass",
+        "total": 2324
+    },
+    "redirect": {
+        "start": "rackhams",
+        "end": "rymans",
+        "total": 87
+    }
+}

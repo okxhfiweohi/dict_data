@@ -1,0 +1,2995 @@
+E-boat <> s: e-boats
+EA <> s: eas
+eagle <> s: eagles, p: eagled, d: eagled, i: eagling, '3': eagles
+eagled <> b: eagle, f: pd
+eagles <> b: eagle, f: s
+eame <> '3': eames, s: eames
+Eames <> b: eame, f: 3s
+ear <> s: ears
+eardrum <> s: eardrums
+eardrums <> b: eardrum, f: s
+earflap <> s: earflaps
+earflaps <> b: earflap, f: s
+earhole <> s: earholes
+earholes <> b: earhole, f: s
+earl <> s: earls
+earldom <> s: earldoms
+earldoms <> b: earldom, f: s
+earlier <> b: early, f: r
+earliest <> b: early, f: t
+earlobe <> s: earlobes
+earlobes <> b: earlobe, f: s
+earlock <> s: earlocks
+earlocks <> b: earlock, f: s
+Earls <> b: earl, f: s
+early <> r: earlier, t: earliest
+earmark <> d: earmarked, p: earmarked, i: earmarking, '3': earmarks, s: earmarks
+earmarked <> b: earmark, f: dp, d: earmarked, p: earmarked
+earmarking <> b: earmark, f: i
+earmarks <> b: earmark, f: 3s
+earmuff <> s: earmuffs
+earmuffs <> b: earmuff, f: s
+earn <> i: earning, d: earned, p: earned, '3': earns
+earn-out <> s: earn-outs
+earn-outs <> b: earn-out, f: s
+earned <> b: earn, f: dp, d: earned, p: earned
+earner <> s: earners
+earners <> b: earner, f: s
+earnest <> s: earnests
+earnests <> b: earnest, f: s
+earning <> b: earn, f: i
+earnings <> s: earnings, b: earnings, f: s
+earns <> b: earn, f: '3'
+earphone <> s: earphones, '3': earphones
+earphones <> b: earphone, f: s3
+earpiece <> s: earpieces
+earpieces <> b: earpiece, f: s
+earplug <> s: earplugs
+earplugs <> b: earplug, f: s
+earring <> s: earrings
+earrings <> b: earring, f: s
+ears <> b: ear, f: s
+earth <> s: earths, d: earthed, i: earthing, p: earthed, '3': earths
+earthed <> f: dp, b: earth, d: earthed
+earthenware <> s: earthenwares
+earthenwares <> b: earthenware, f: s
+earthier <> b: earthy, f: r
+earthing <> i: earthing, b: earthing, f: i
+earthling <> s: earthlings
+earthlings <> b: earthling, f: s
+earthmover <> s: earthmovers
+earthmovers <> b: earthmover, f: s
+earthquake <> s: earthquakes
+earthquakes <> b: earthquake, f: s
+earths <> f: s3, b: earth
+earthwork <> s: earthworks
+earthworks <> b: earthwork, f: s
+earthworm <> s: earthworms
+earthworms <> b: earthworm, f: s
+earthy <> r: earthier
+earwig <> s: earwigs, i: earwigging, p: earwigged
+earwigged <> b: earwig, f: p
+earwigging <> b: earwig, f: i
+earwigs <> b: earwig, f: s
+eas <> b: ea, f: s
+ease <> p: eased, i: easing, d: eased, '3': eases
+eased <> b: ease, f: pd
+easel <> s: easels
+easels <> b: easel, f: s
+easement <> s: easements
+easements <> b: easement, f: s
+eases <> b: ease, f: '3'
+easier <> b: easy, f: r
+easing <> b: ease, f: i, i: easing, s: easings
+eason <> s: easons
+easons <> b: eason, f: s
+eastender <> s: eastenders
+eastenders <> b: eastender, f: s
+Easter <> s: easters
+easterlies <> b: easterly, f: s
+easterly <> s: easterlies
+easterner <> s: easterners, b: easterne, f: r
+easterners <> b: easterner, f: s
+easting <> s: eastings, i: easting, b: easting, f: i
+eastings <> b: easting, f: s
+Easton <> s: eastons
+easy <> r: easier, t: easiest
+easy-peasies <> b: easy-peasy, f: s
+easy-peasy <> s: easy-peasies
+eat <> i: eating, p: ate, d: eaten, '3': eats
+eatable <> s: eatables
+eatables <> b: eatable, f: s
+eaten <> b: eat, f: d, d: eaten
+eater <> s: eaters
+eateries <> b: eatery, f: s
+eaters <> b: eater, f: s
+eatery <> s: eateries
+eating <> b: eat, f: i, i: eating
+eats <> b: eat, f: '3'
+eave <> s: eaves, p: eaved
+eaved <> b: eave, f: p
+eaves <> b: eave, f: s
+eavesdrop <> i: eavesdropping, '3': eavesdrops, d: eavesdropped, p: eavesdropped
+eavesdropped <> b: eavesdrop, f: dp
+eavesdropper <> s: eavesdroppers
+eavesdroppers <> b: eavesdropper, f: s
+eavesdropping <> b: eavesdrop, f: i, i: eavesdropping
+eavesdrops <> b: eavesdrop, f: '3'
+eb <> i: ebbing, s: ebs
+ebb <> p: ebbed, d: ebbed, s: ebbs, '3': ebbs, i: ebbing
+ebbed <> b: ebb, f: pd
+ebbing <> b: eb, f: i, s: ebbings, i: ebbing
+ebbs <> b: ebb, f: s3
+ebonies <> b: ebony, f: s
+ebonize <> i: ebonizing, p: ebonized, '3': ebonizes, d: ebonized
+ebonized <> f: pd, b: ebonize
+ebonizes <> f: '3', b: ebonize
+ebonizing <> f: i, b: ebonize
+ebony <> s: ebonies
+ebs <> b: eb, f: s
+eccentric <> s: eccentrics
+eccentricities <> b: eccentricity, f: s
+eccentricity <> s: eccentricities
+eccentrics <> b: eccentric, f: s
+ecclesiarch <> s: ecclesiarchs
+ecclesiarchs <> b: ecclesiarch, f: s
+ecclesiastic <> s: ecclesiastics
+ecclesiastics <> b: ecclesiastic, f: s
+ECG <> s: ecgs
+echelon <> s: echelons, p: echeloned
+echeloned <> b: echelon, f: p
+echelons <> b: echelon, f: s
+echidna <> s: echidnas
+echidnas <> b: echidna, f: s
+echinoderm <> s: echinoderms
+echinoderms <> b: echinoderm, f: s
+echinoid <> s: echinoids
+echinoids <> b: echinoid, f: s
+echo <> p: echoed, s: echoes, d: echoed, i: echoing, '3': echoes
+echocardiogram <> s: echocardiograms
+echocardiograms <> b: echocardiogram, f: s
+echoed <> b: echo, f: pd, p: echoed
+echoes <> b: echo, f: s3
+echoing <> b: echo, f: i, i: echoing, s: echoings
+eclair <> s: eclairs
+eclairs <> b: eclair, f: s
+eclectic <> s: eclectics
+eclectics <> b: eclectic, f: s
+eclipse <> d: eclipsed, s: eclipses, p: eclipsed, i: eclipsing, '3': eclipses
+eclipsed <> b: eclipse, f: dp
+eclipses <> b: eclipse, f: s3
+eclipsing <> b: eclipse, f: i, i: eclipsing
+eclogite <> s: eclogites
+eclogites <> b: eclogite, f: s
+eclogue <> s: eclogues
+eclogues <> b: eclogue, f: s
+ECM <> s: ecms
+eco-label <> s: eco-labels
+eco-labels <> b: eco-label, f: s
+Ecole <> s: ecoles
+ecologies <> b: ecology, f: s
+ecologist <> s: ecologists
+ecologists <> b: ecologist, f: s
+ecology <> s: ecologies
+econometric <> s: econometrics
+econometrician <> s: econometricians
+econometricians <> b: econometrician, f: s
+econometrics <> b: econometric, f: s
+economies <> b: economy, f: s
+economise <> i: economising, d: economised, p: economised
+economised <> b: economise, f: dp
+economising <> b: economise, f: i
+economist <> s: economists
+economists <> b: economist, f: s
+economize <> i: economizing, p: economized, '3': economizes, d: economized
+economized <> b: economize, f: pd
+economizes <> b: economize, f: '3'
+economizing <> b: economize, f: i
+economy <> s: economies
+ecosystem <> s: ecosystems
+ecosystems <> b: ecosystem, f: s
+ecotype <> s: ecotypes
+ecotypes <> b: ecotype, f: s
+ECOWAS <> b: ecowa, f: s
+ecstasies <> b: ecstasy, f: s
+ecstasy <> s: ecstasies
+ecstatic <> s: ecstatics
+ecstatics <> b: ecstatic, f: s
+ectomorph <> s: ectomorphs
+ectomorphs <> b: ectomorph, f: s
+ectoparasite <> s: ectoparasites
+ectoparasites <> b: ectoparasite, f: s
+ectopic <> s: ectopics
+ectopics <> b: ectopic, f: s
+ectotherm <> s: ectotherms, '3': ectotherms
+ectotherms <> b: ectotherm, f: s3
+ecu <> s: ecus
+Ecuadorean <> s: ecuadoreans
+Ecuadorian <> s: ecuadorians
+ecumenical <> s: ecumenicals
+ecumenicals <> b: ecumenical, f: s
+ecus <> b: ecu, f: s
+ED <> s: eds, r: eder
+eddied <> b: eddy, f: pd
+eddies <> f: s3, b: eddy
+eddy <> s: eddies, p: eddied, i: eddying, d: eddied, '3': eddies
+eddying <> b: eddy, f: i
+eder <> b: ed, f: r
+edge <> s: edges, p: edged, i: edging, d: edged, '3': edges
+edged <> b: edge, f: pd, d: edged, p: edged
+edges <> f: s3, b: edge
+edgeways <> b: edgeway, f: s
+edgier <> b: edgy, f: r
+edging <> b: edge, f: i, s: edgings, i: edging
+edgy <> r: edgier
+edible <> s: edibles
+edibles <> b: edible, f: s
+edict <> s: edicts
+edicts <> b: edict, f: s
+edification <> s: edifications
+edifications <> b: edification, f: s
+edifice <> s: edifices, '3': edifices
+edifices <> b: edifice, f: s3
+edified <> f: dp, b: edify
+edifies <> f: '3', b: edify
+edify <> i: edifying, d: edified, p: edified, '3': edifies
+edifying <> b: edify, f: i, i: edifying
+edit <> d: edited, p: edited, i: editing, '3': edits, s: edits
+edited <> b: edit, f: dp, d: edited, p: edited
+editing <> b: edit, f: i, i: editing, s: editings
+edition <> s: editions
+editions <> b: edition, f: s
+editor <> s: editors
+editorial <> s: editorials
+editorialist <> s: editorialists
+editorialists <> b: editorialist, f: s
+editorialize <> i: editorializing, p: editorialized, '3': editorializes, d: editorialized
+editorialized <> f: pd, b: editorialize
+editorializes <> f: '3', b: editorialize
+editorializing <> b: editorialize, f: i, i: editorializing
+editorials <> b: editorial, f: s
+editors <> b: editor, f: s
+edits <> b: edit, f: 3s
+edn <> s: edns
+edns <> b: edn, f: s
+eds <> b: ed, f: s
+educate <> d: educated, i: educating, '3': educates, p: educated
+educated <> b: educate, f: dp, d: educated, p: educated
+educates <> b: educate, f: '3'
+educating <> b: educate, f: i, i: educating
+educationalist <> s: educationalists
+educationalists <> b: educationalist, f: s
+educationist <> s: educationists
+educationists <> b: educationist, f: s
+educator <> s: educators
+educators <> b: educator, f: s
+educe <> d: educed, i: educing, p: educed, '3': educes
+educed <> f: dp, b: educe
+educes <> f: '3', b: educe
+educing <> f: i, b: educe
+edulcorate <> i: edulcorating, p: edulcorated, '3': edulcorates, d: edulcorated
+edulcorated <> f: pd, b: edulcorate
+edulcorates <> f: '3', b: edulcorate
+edulcorating <> f: i, b: edulcorate
+edwarde <> s: edwardes
+edwardes <> b: edwarde, f: s
+edwardian <> s: edwardians
+edwardians <> b: edwardian, f: s
+EE <> s: ees
+EEG <> s: eegs
+eejit <> s: eejits
+eejits <> b: eejit, f: s
+eel <> s: eels, i: eeling
+eeling <> b: eel, f: i
+eels <> b: eel, f: s
+EEPROM <> i: eepromming, s: eeproms
+ees <> b: ee, f: s
+ef <> s: efs
+efa <> s: efas
+efas <> b: efa, f: s
+eff <> i: effing, p: effed, '3': effs, d: effed
+efface <> d: effaced, p: effaced, '3': effaces, i: effacing
+effaced <> b: efface, f: dp
+effaces <> b: efface, f: '3'
+effacing <> b: efface, f: i
+effect <> s: effects, d: effected, i: effecting, p: effected, '3': effects
+effected <> b: effect, f: dp, d: effected
+effecting <> b: effect, f: i
+effector <> s: effectors
+effectors <> b: effector, f: s
+effects <> f: s3, b: effect
+effectuate <> '3': effectuates, d: effectuated, i: effectuating, p: effectuated
+effectuated <> b: effectuate, f: dp
+effectuates <> b: effectuate, f: '3'
+effectuating <> b: effectuate, f: i
+effed <> f: pd, b: eff
+effervesce <> '3': effervesces, i: effervescing, p: effervesced, d: effervesced
+effervesced <> f: pd, b: effervesce
+effervesces <> b: effervesce, f: '3'
+effervescing <> b: effervesce, f: i
+efficacies <> b: efficacy, f: s
+efficacy <> s: efficacies
+efficiencies <> b: efficiency, f: s
+efficiency <> s: efficiencies
+effigies <> b: effigy, f: s
+effigy <> s: effigies
+effing <> b: eff, f: i, i: effing
+effloresce <> i: efflorescing, p: effloresced, '3': effloresces, d: effloresced
+effloresced <> f: pd, b: effloresce
+efflorescence <> s: efflorescences
+efflorescences <> b: efflorescence, f: s
+effloresces <> f: '3', b: effloresce
+efflorescing <> f: i, b: effloresce
+effluent <> s: effluents
+effluents <> b: effluent, f: s
+effluvia <> s: effluvia, b: effluvia, f: s
+effort <> s: efforts
+efforts <> b: effort, f: s
+effs <> f: '3', b: eff
+effuse <> p: effused, i: effusing, '3': effuses, d: effused
+effused <> f: pd, b: effuse
+effuses <> f: '3', b: effuse
+effusing <> f: i, b: effuse
+effusion <> s: effusions
+effusions <> b: effusion, f: s
+efs <> b: ef, f: s
+eg <> i: egging, s: egs
+egalitarian <> s: egalitarians
+egalitarians <> b: egalitarian, f: s
+egest <> i: egesting, p: egested, '3': egests, d: egested
+egested <> f: pd, b: egest
+egesting <> f: i, b: egest
+egests <> f: '3', b: egest
+egg <> s: eggs, p: egged, i: egging, '3': eggs, d: egged
+Eggar <> s: eggars
+egged <> f: pd, b: egg
+egghead <> s: eggheads
+eggheads <> b: egghead, f: s
+egging <> b: eg, f: i
+eggplant <> s: eggplants
+eggplants <> b: eggplant, f: s
+eggs <> f: s3, b: egg
+eggshell <> s: eggshells, '3': eggshells
+eggshells <> b: eggshell, f: s3
+ego <> s: egos
+egocentric <> s: egocentrics
+egocentricities <> b: egocentricity, f: s
+egocentricity <> s: egocentricities
+egocentrics <> b: egocentric, f: s
+egoism <> s: egoisms
+egoisms <> b: egoism, f: s
+egoist <> s: egoists
+egoists <> b: egoist, f: s
+egomaniac <> s: egomaniacs
+egomaniacs <> b: egomaniac, f: s
+egos <> b: ego, f: s
+egotist <> s: egotists
+egotists <> b: egotist, f: s
+egress <> s: egresses, i: egressing, p: egressed, '3': egresses, d: egressed
+egressed <> f: pd, b: egress
+egresses <> f: s3, b: egress
+egressing <> f: i, b: egress
+egret <> s: egrets
+egrets <> b: egret, f: s
+egs <> b: eg, f: s
+Egyptian <> s: egyptians
+egyptians <> b: egyptian, f: s
+Egyptologist <> s: egyptologists
+eh <> s: ehs
+ehs <> b: eh, f: s
+EIA <> s: eias
+eider <> s: eiders
+eiderdown <> s: eiderdowns
+eiderdowns <> b: eiderdown, f: s
+eiders <> b: eider, f: s
+eigenstate <> s: eigenstates
+eigenstates <> b: eigenstate, f: s
+eigenvalue <> s: eigenvalues
+eigenvalues <> b: eigenvalue, f: s
+eigenvector <> s: eigenvectors
+eigenvectors <> b: eigenvector, f: s
+eisteddfod <> s: eisteddfods
+eisteddfods <> b: eisteddfod, f: s
+ejaculate <> p: ejaculated, d: ejaculated, i: ejaculating, s: ejaculates, '3': ejaculates
+ejaculated <> b: ejaculate, f: pd
+ejaculates <> f: s3, b: ejaculate
+ejaculating <> b: ejaculate, f: i
+ejaculation <> s: ejaculations
+ejaculations <> b: ejaculation, f: s
+eject <> d: ejected, p: ejected, i: ejecting, '3': ejects
+ejected <> b: eject, f: dp
+ejecting <> b: eject, f: i
+ejection <> s: ejections
+ejections <> b: ejection, f: s
+ejectment <> s: ejectments
+ejectments <> b: ejectment, f: s
+ejector <> s: ejectors
+ejectors <> b: ejector, f: s
+ejects <> b: eject, f: '3'
+ejido <> s: ejidos
+ejidos <> b: ejido, f: s
+EK <> i: eking, d: eked, p: eked
+eke <> '3': ekes
+eked <> b: ek, f: dp
+ekes <> b: eke, f: '3'
+eking <> b: ek, f: i
+elaborate <> d: elaborated, p: elaborated, i: elaborating, '3': elaborates
+elaborated <> b: elaborate, f: dp, d: elaborated, p: elaborated
+elaborates <> b: elaborate, f: '3'
+elaborating <> b: elaborate, f: i
+elaboration <> s: elaborations
+elaborations <> b: elaboration, f: s
+Elamite <> s: elamites
+elan <> s: elans
+eland <> s: elands
+elands <> b: eland, f: s
+elans <> b: elan, f: s
+elapse <> d: elapsed, p: elapsed, '3': elapses, i: elapsing
+elapsed <> b: elapse, f: dp, d: elapsed, p: elapsed
+elapses <> b: elapse, f: '3'
+elapsing <> b: elapse, f: i
+elastic <> s: elastics
+elasticated <> p: elasticated, b: elasticated, f: pd, d: elasticated
+elasticities <> b: elasticity, f: s
+elasticity <> s: elasticities
+elastics <> b: elastic, f: s
+elastomer <> s: elastomers
+elastomers <> b: elastomer, f: s
+elastoplast <> d: elastoplasted
+elastoplasted <> b: elastoplast, f: d
+elate <> d: elated, i: elating, p: elated, '3': elates
+elated <> d: elated, b: elated, f: dp, p: elated
+elates <> f: '3', b: elate
+elating <> b: elate, f: i
+elation <> s: elations
+elations <> b: elation, f: s
+elbow <> s: elbows, p: elbowed, i: elbowing, d: elbowed, '3': elbows
+elbowed <> b: elbow, f: pd, p: elbowed
+elbowing <> b: elbow, f: i, i: elbowing
+elbows <> b: elbow, f: s3
+elder <> r: elder, b: elder, f: r, s: elders
+elderberries <> b: elderberry, f: s
+elderberry <> s: elderberries
+elderflower <> s: elderflowers, '3': elderflowers
+elderflowers <> b: elderflower, f: s3
+elders <> b: elder, f: s
+eldest <> t: eldest, b: eldest, f: t
+elect <> d: elected, p: elected, i: electing, '3': elects
+elected <> b: elect, f: dp, d: elected, p: elected
+electing <> b: elect, f: i
+election <> s: elections
+electioneer <> i: electioneering, s: electioneers, p: electioneered, '3': electioneers, d: electioneered
+electioneered <> f: pd, b: electioneer
+electioneering <> b: electioneer, f: i, i: electioneering
+electioneers <> f: s3, b: electioneer
+elections <> b: election, f: s
+elective <> s: electives, '3': electives
+electives <> b: elective, f: s3
+elector <> s: electors
+electorate <> s: electorates
+electorates <> b: electorate, f: s
+electors <> b: elector, f: s
+electra <> s: electras
+electras <> b: electra, f: s
+electric <> s: electrics
+electrical <> s: electricals
+electricals <> b: electrical, f: s
+electrician <> s: electricians
+electricians <> b: electrician, f: s
+electrics <> b: electric, f: s
+electrified <> b: electrify, f: dp, p: electrified, d: electrified
+electrify <> d: electrified, i: electrifying, p: electrified, '3': electrifies
+electrifying <> b: electrify, f: i, i: electrifying
+electro <> s: electros
+electro-acoustic <> s: electro-acoustics
+electro-acoustics <> b: electro-acoustic, f: s
+electrocardiogram <> s: electrocardiograms
+electrocardiograms <> b: electrocardiogram, f: s
+electrocardiograph <> s: electrocardiographs
+electrocardiographs <> b: electrocardiograph, f: s
+electrochemist <> s: electrochemists
+electrochemists <> b: electrochemist, f: s
+electrocute <> d: electrocuted, p: electrocuted, i: electrocuting, '3': electrocutes
+electrocuted <> b: electrocute, f: dp
+electrocutes <> f: '3', b: electrocute
+electrocuting <> f: i, b: electrocute
+electrode <> s: electrodes, '3': electrodes
+electrodes <> b: electrode, f: s3
+electrodynamic <> s: electrodynamics
+electrodynamics <> b: electrodynamic, f: s
+electroencephalogram <> s: electroencephalograms
+electroencephalograms <> b: electroencephalogram, f: s
+electrolier <> b: electroly, f: r
+electrolyte <> s: electrolytes
+electrolytes <> b: electrolyte, f: s
+electromagnet <> s: electromagnets
+electromagnetic <> s: electromagnetics
+electromagnetics <> b: electromagnetic, f: s
+electromagnets <> b: electromagnet, f: s
+electromyogram <> s: electromyograms
+electromyograms <> b: electromyogram, f: s
+electron <> s: electrons
+electronegativities <> b: electronegativity, f: s
+electronegativity <> s: electronegativities
+electrons <> b: electron, f: s
+electronvolt <> s: electronvolts
+electronvolts <> b: electronvolt, f: s
+electrophorese <> d: electrophoresed, p: electrophoresed
+electrophoresed <> b: electrophorese, f: dp
+electroplate <> i: electroplating, d: electroplated, p: electroplated, '3': electroplates
+electroplated <> f: dp, b: electroplate
+electroplates <> f: '3', b: electroplate
+electroplating <> b: electroplate, f: i
+electroporate <> d: electroporated, i: electroporating
+electroporated <> b: electroporate, f: d
+electroporating <> b: electroporate, f: i
+electroreceptor <> s: electroreceptors
+electroreceptors <> b: electroreceptor, f: s
+electroretinogram <> s: electroretinograms
+electroretinograms <> b: electroretinogram, f: s
+electros <> b: electro, f: s
+electrostatic <> s: electrostatics
+electrostatics <> b: electrostatic, f: s
+elects <> b: elect, f: '3'
+elegance <> s: elegances
+elegances <> b: elegance, f: s
+elegies <> b: elegy, f: s
+elegize <> i: elegizing, p: elegized, '3': elegizes, d: elegized
+elegized <> f: pd, b: elegize
+elegizes <> f: '3', b: elegize
+elegizing <> f: i, b: elegize
+elegy <> s: elegies
+element <> s: elements
+elemental <> s: elementals
+elementals <> b: elemental, f: s
+elements <> b: element, f: s
+elephant <> s: elephants
+elephants <> b: elephant, f: s
+elevate <> d: elevated, p: elevated, '3': elevates, i: elevating
+elevated <> b: elevate, f: dp, d: elevated, p: elevated
+elevates <> b: elevate, f: '3'
+elevating <> b: elevate, f: i
+elevation <> s: elevations
+elevations <> b: elevation, f: s
+elevator <> s: elevators
+elevators <> b: elevator, f: s
+elevenses <> b: elevense, f: s
+ELF <> s: elves, p: elfed
+elf-lock <> s: elf-locks
+elf-locks <> b: elf-lock, f: s
+elfin <> s: elfins
+elfins <> b: elfin, f: s
+eli <> s: eli, b: eli, f: s
+elicit <> d: elicited, i: eliciting, p: elicited, '3': elicits
+elicitation <> s: elicitations
+elicitations <> b: elicitation, f: s
+elicited <> b: elicit, f: dp, p: elicited
+eliciting <> b: elicit, f: i
+elicitor <> s: elicitors
+elicitors <> b: elicitor, f: s
+elicits <> b: elicit, f: '3'
+elide <> d: elided, '3': elides, p: elided, i: eliding, s: elides
+elided <> b: elide, f: dp
+elides <> b: elide, f: 3s
+eliding <> b: elide, f: i
+eligibilities <> b: eligibility, f: s
+eligibility <> s: eligibilities
+eliminate <> d: eliminated, i: eliminating, '3': eliminates, p: eliminated
+eliminated <> b: eliminate, f: dp, p: eliminated, d: eliminated
+eliminates <> b: eliminate, f: '3'
+eliminating <> b: eliminate, f: i, i: eliminating
+elimination <> s: eliminations
+eliminations <> b: elimination, f: s
+eliminator <> s: eliminators
+eliminators <> b: eliminator, f: s
+elision <> s: elisions
+elisions <> b: elision, f: s
+elite <> s: elites
+elites <> b: elite, f: s
+elitist <> s: elitists
+elitists <> b: elitist, f: s
+elixir <> s: elixirs
+elixirs <> b: elixir, f: s
+Elizabethan <> s: elizabethans
+elk <> s: elks
+elks <> b: elk, f: s
+ell <> s: ells, '3': ells
+elle <> s: elles
+elles <> b: elle, f: s
+ellipsoid <> s: ellipsoids
+ellipsoids <> b: ellipsoid, f: s
+ells <> b: ell, f: s3
+elm <> s: elms
+elmer <> s: elmers
+elmers <> b: elmer, f: s
+elms <> b: elm, f: s
+elongate <> i: elongating, '3': elongates, d: elongated, p: elongated, s: elongates
+elongated <> d: elongated, b: elongated, f: dp, p: elongated
+elongates <> b: elongate, f: 3s
+elongating <> b: elongate, f: i
+elongation <> s: elongations
+elongations <> b: elongation, f: s
+elope <> p: eloped, d: eloped, '3': elopes, s: elopes, i: eloping
+eloped <> b: elope, f: pd
+elopes <> b: elope, f: 3s
+eloping <> b: elope, f: i
+elp <> '3': elps, d: elped
+elped <> b: elp, f: d
+elps <> b: elp, f: '3'
+Elspeth <> '3': elspeth, b: elspeth, f: '3'
+eluant <> s: eluants
+eluants <> b: eluant, f: s
+eluate <> s: eluates, '3': eluates
+eluates <> b: eluate, f: s3
+elucidate <> d: elucidated, i: elucidating, p: elucidated, '3': elucidates, s: elucidates
+elucidated <> b: elucidate, f: dp
+elucidates <> b: elucidate, f: 3s
+elucidating <> b: elucidate, f: i
+elucidation <> s: elucidations
+elucidations <> b: elucidation, f: s
+elude <> d: eluded, p: eluded, '3': eludes, i: eluding
+eluded <> b: elude, f: dp
+eludes <> b: elude, f: '3'
+eluding <> b: elude, f: i
+elute <> d: eluted, p: eluted, i: eluting, '3': elutes
+eluted <> b: elute, f: dp
+elutes <> b: elute, f: '3'
+eluting <> b: elute, f: i
+elution <> s: elutions
+elutions <> b: elution, f: s
+elver <> s: elvers
+elvers <> b: elver, f: s
+elves <> b: elf, f: s
+EM <> s: ems
+emaciate <> p: emaciated, d: emaciated, i: emaciating, '3': emaciates
+emaciated <> p: emaciated, b: emaciated, f: p
+emaciates <> f: '3', b: emaciate
+emaciating <> f: i, b: emaciate
+emalangeni <> s: emalangeni, b: emalangeni, f: s
+emanate <> i: emanating, p: emanated, '3': emanates, d: emanated
+emanated <> b: emanate, f: pd
+emanates <> b: emanate, f: '3'
+emanating <> b: emanate, f: i
+emanation <> s: emanations
+emanations <> b: emanation, f: s
+emancipate <> d: emancipated, p: emancipated, i: emancipating, '3': emancipates
+emancipated <> b: emancipate, f: dp, p: emancipated
+emancipates <> f: '3', b: emancipate
+emancipating <> b: emancipate, f: i
+emancipation <> s: emancipations
+emancipations <> b: emancipation, f: s
+emancipator <> s: emancipators
+emancipators <> b: emancipator, f: s
+emasculate <> d: emasculated, i: emasculating, '3': emasculates, p: emasculated
+emasculated <> b: emasculate, f: dp
+emasculates <> b: emasculate, f: '3'
+emasculating <> b: emasculate, f: i
+embalm <> i: embalming, d: embalmed, p: embalmed, '3': embalms
+embalmed <> b: embalm, f: dp, p: embalmed, d: embalmed
+embalmer <> s: embalmers
+embalmers <> b: embalmer, f: s
+embalming <> b: embalm, f: i, i: embalming
+embalms <> b: embalm, f: '3'
+embank <> d: embanked, i: embanking, p: embanked, '3': embanks
+embanked <> p: embanked, b: embanked, f: p
+embanking <> b: embank, f: i
+embankment <> s: embankments
+embankments <> b: embankment, f: s
+embanks <> f: '3', b: embank
+embargo <> s: embargos, i: embargoing, p: embargoed, '3': embargoes, d: embargoed
+embargoed <> b: embargoe, f: dp
+embargoes <> b: embargoe, f: s
+embargoing <> f: i, b: embargo
+embargos <> b: embargo, f: s
+embark <> i: embarking, d: embarked, p: embarked, '3': embarks
+embarked <> b: embark, f: dp
+embarking <> b: embark, f: i
+embarks <> b: embark, f: '3'
+embarrass <> p: embarrassed, d: embarrassed, i: embarrassing, '3': embarrasses
+embarrassed <> p: embarrassed, b: embarrassed, f: pd, d: embarrassed
+embarrasses <> b: embarrass, f: '3'
+embarrassing <> i: embarrassing, b: embarrassing, f: i
+embarrassment <> s: embarrassments
+embarrassments <> b: embarrassment, f: s
+embassies <> b: embassy, f: s
+embassy <> s: embassies
+embattle <> p: embattled, d: embattled, s: embattles
+embattled <> p: embattled, b: embattled, f: p
+embattles <> b: embattle, f: s
+embayment <> s: embayments
+embayments <> b: embayment, f: s
+embed <> d: embedded, i: embedding, '3': embeds, p: embedded
+embedded <> b: embed, f: dp, d: embedded
+embedding <> b: embed, f: i, i: embedding
+embeds <> b: embed, f: '3'
+embellish <> d: embellished, p: embellished, i: embellishing, '3': embellishes
+embellished <> b: embellish, f: dp, d: embellished, p: embellished
+embellishes <> b: embellish, f: '3'
+embellishing <> b: embellish, f: i
+embellishment <> s: embellishments
+embellishments <> b: embellishment, f: s
+ember <> s: embers
+embers <> b: ember, f: s
+embezzle <> i: embezzling, d: embezzled, p: embezzled, '3': embezzles
+embezzled <> b: embezzle, f: dp, p: embezzled
+embezzlement <> s: embezzlements
+embezzlements <> b: embezzlement, f: s
+embezzles <> b: embezzle, f: '3'
+embezzling <> b: embezzle, f: i
+embitter <> d: embittered, i: embittering, '3': embitters, p: embittered
+embittered <> d: embittered, b: embittered, f: d
+embittering <> b: embitter, f: i
+embitters <> b: embitter, f: '3'
+emblazon <> d: emblazoned, i: emblazoning, p: emblazoned, s: emblazons, '3': emblazons
+emblazoned <> b: emblazon, f: dp
+emblazoning <> b: emblazon, f: i
+emblazons <> f: s3, b: emblazon
+emblem <> s: emblems
+emblement <> s: emblements
+emblements <> b: emblement, f: s
+emblems <> b: emblem, f: s
+embodied <> b: embody, f: dp
+embodies <> b: embody, f: '3'
+embodiment <> s: embodiments
+embodiments <> b: embodiment, f: s
+embody <> d: embodied, '3': embodies, p: embodied, i: embodying
+embodying <> b: embody, f: i
+embolden <> d: emboldened, p: emboldened, '3': emboldens, s: emboldens, i: emboldening
+emboldened <> b: embolden, f: dp, d: emboldened, p: emboldened
+emboldening <> f: i, b: embolden
+emboldens <> b: embolden, f: 3s
+embolism <> s: embolisms
+embolisms <> b: embolism, f: s
+emboss <> d: embossed, p: embossed, i: embossing, '3': embosses
+embossed <> b: emboss, f: dp, p: embossed, d: embossed
+embosses <> f: '3', b: emboss
+embossing <> b: emboss, f: i, i: embossing
+embouchure <> s: embouchures
+embouchures <> b: embouchure, f: s
+embower <> p: embowered, i: embowering, '3': embowers, d: embowered
+embowered <> f: pd, b: embower
+embowering <> f: i, b: embower
+embowers <> f: '3', b: embower
+embrace <> i: embracing, p: embraced, '3': embraces, d: embraced, s: embraces
+embraced <> b: embrace, f: pd
+embraces <> b: embrace, f: 3s
+embracing <> b: embrace, f: i, i: embracing, s: embracings
+embrasure <> s: embrasures
+embrasures <> b: embrasure, f: s
+embrittle <> i: embrittling, p: embrittled, '3': embrittles, d: embrittled
+embroider <> p: embroidered, d: embroidered, i: embroidering, '3': embroiders
+embroidered <> b: embroider, f: pd, d: embroidered, p: embroidered
+embroiderer <> s: embroiderers
+embroiderers <> b: embroiderer, f: s
+embroideries <> b: embroidery, f: s
+embroidering <> b: embroider, f: i
+embroiders <> b: embroider, f: '3'
+embroidery <> s: embroideries
+embroil <> d: embroiled, p: embroiled, i: embroiling, '3': embroils
+embroiled <> b: embroil, f: dp, d: embroiled
+embroiling <> b: embroil, f: i
+embroils <> f: '3', b: embroil
+embryo <> s: embryos
+embryologies <> b: embryology, f: s
+embryologist <> s: embryologists
+embryologists <> b: embryologist, f: s
+embryology <> s: embryologies
+embryos <> b: embryo, f: s
+emcee <> i: emceeing, p: emceed, '3': emcees, d: emceed, s: emcees
+emend <> d: emended, p: emended, i: emending, '3': emends
+emendation <> s: emendations
+emendations <> b: emendation, f: s
+emended <> b: emend, f: dp
+emending <> b: emend, f: i
+emends <> f: '3', b: emend
+emerald <> s: emeralds
+emeralds <> b: emerald, f: s
+emerge <> p: emerged, d: emerged, '3': emerges, i: emerging
+emerged <> b: emerge, f: pd
+emergencies <> b: emergency, f: s
+emergency <> s: emergencies
+emergent <> s: emergents
+emergents <> b: emergent, f: s
+emerges <> b: emerge, f: '3'
+emerging <> b: emerge, f: i, i: emerging
+emersed <> b: emerse, f: d, d: emersed
+emetic <> s: emetics
+emetics <> b: emetic, f: s
+emigrant <> s: emigrants
+emigrants <> b: emigrant, f: s
+emigrate <> p: emigrated, d: emigrated, i: emigrating, '3': emigrates
+emigrated <> b: emigrate, f: pd
+emigrates <> b: emigrate, f: '3'
+emigrating <> b: emigrate, f: i, i: emigrating
+emigration <> s: emigrations
+emigrations <> b: emigration, f: s
+emigre <> s: emigres
+emigres <> b: emigre, f: s
+eminence <> s: eminences
+eminences <> b: eminence, f: s
+emir <> s: emirs
+emirate <> s: emirates
+Emirates <> b: emirate, f: s
+emirs <> b: emir, f: s
+emissaries <> b: emissary, f: s
+emissary <> s: emissaries
+emission <> s: emissions
+emissions <> b: emission, f: s
+emissivities <> b: emissivity, f: s
+emissivity <> s: emissivities
+emit <> p: emitted, i: emitting, '3': emits, d: emitted, s: emits
+emits <> b: emit, f: 3s
+emitted <> b: emit, f: pd, p: emitted
+emitter <> s: emitters
+emitters <> b: emitter, f: s
+emitting <> b: emit, f: i, i: emitting
+emo <> s: emos
+emollient <> s: emollients
+emollients <> b: emollient, f: s
+emolument <> s: emoluments
+emoluments <> b: emolument, f: s
+emos <> b: emo, f: s
+emote <> i: emoting, '3': emotes, p: emoted, d: emoted
+emoted <> f: pd, b: emote
+emotes <> b: emote, f: '3'
+emoting <> b: emote, f: i
+emotion <> s: emotions
+emotions <> b: emotion, f: s
+empanel <> p: empanelled, i: empaneling, '3': empanels, d: empaneled
+empanelled <> b: empanel, f: p
+empath <> s: empaths
+empathies <> b: empathy, f: s
+empathise <> i: empathising, s: empathises, '3': empathises, p: empathised, d: empathised
+empathised <> b: empathise, f: p
+empathises <> b: empathise, f: s3
+empathising <> b: empathise, f: i
+empathize <> i: empathizing, '3': empathizes, d: empathized, p: empathized
+empathized <> b: empathize, f: dp
+empathizes <> b: empathize, f: '3'
+empathizing <> b: empathize, f: i
+empaths <> b: empath, f: s
+empathy <> s: empathies
+empennage <> s: empennages
+empennages <> b: empennage, f: s
+emperor <> s: emperors
+emperors <> b: emperor, f: s
+emphasise <> d: emphasised, p: emphasised, '3': emphasises, i: emphasising
+emphasised <> b: emphasise, f: dp
+emphasises <> b: emphasise, f: '3'
+emphasising <> b: emphasise, f: i
+emphasize <> d: emphasized, p: emphasized, '3': emphasizes, i: emphasizing
+emphasized <> b: emphasize, f: dp
+emphasizes <> b: emphasize, f: '3'
+emphasizing <> b: emphasize, f: i
+empire <> s: empires
+empires <> b: empire, f: s
+empiric <> s: empirics
+empirical <> s: empiricals
+empiricals <> b: empirical, f: s
+empiricist <> s: empiricists
+empiricists <> b: empiricist, f: s
+empirics <> b: empiric, f: s
+emplace <> d: emplaced, p: emplaced, i: emplacing, '3': emplaces
+emplaced <> b: emplace, f: dp
+emplacement <> s: emplacements
+emplacements <> b: emplacement, f: s
+emplaces <> f: '3', b: emplace
+emplacing <> f: i, b: emplace
+emplane <> i: emplaning, p: emplaned, '3': emplanes, d: emplaned
+emplaned <> f: pd, b: emplane
+emplanes <> f: '3', b: emplane
+emplaning <> f: i, b: emplane
+employ <> d: employed, '3': employs, p: employed, i: employing
+employed <> b: employ, f: dp, p: employed, d: employed
+employee <> s: employees
+employees <> b: employee, f: s
+employer <> s: employers
+employers <> b: employer, f: s
+employing <> b: employ, f: i, i: employing
+employment <> s: employments
+employments <> b: employment, f: s
+employs <> b: employ, f: '3'
+emporia <> b: emporium, f: s
+emporium <> s: emporia
+empower <> d: empowered, '3': empowers, p: empowered, i: empowering, s: empowers
+empowered <> b: empower, f: dp, p: empowered, d: empowered
+empowering <> b: empower, f: i, i: empowering
+empowers <> b: empower, f: 3s
+empress <> s: empresses
+empresses <> b: empress, f: s
+emptied <> b: empty, f: dp, p: emptied
+emptier <> b: empty, f: r
+empties <> b: empty, f: 3s
+emptiest <> b: empty, f: t
+emptiness <> s: emptinesses
+emptinesses <> b: emptiness, f: s
+empty <> d: emptied, p: emptied, i: emptying, '3': empties, s: empties, r: emptier, t: emptiest
+empty-handed <> b: empty-hand, f: d
+emptying <> b: empty, f: i, i: emptying
+empurple <> i: empurpling, p: empurpled, '3': empurples, d: empurpled
+empyema <> s: empyemas
+empyemas <> b: empyema, f: s
+EMS <> b: em, f: s
+EMU <> s: emus
+emulate <> d: emulated, i: emulating, p: emulated, '3': emulates
+emulated <> b: emulate, f: dp
+emulates <> b: emulate, f: '3'
+emulating <> b: emulate, f: i, i: emulating
+emulation <> s: emulations
+emulations <> b: emulation, f: s
+emulator <> s: emulators
+emulators <> b: emulator, f: s
+emulsified <> b: emulsify, f: dp
+emulsifier <> s: emulsifiers
+emulsifiers <> b: emulsifier, f: s
+emulsifies <> b: emulsify, f: '3'
+emulsify <> '3': emulsifies, d: emulsified, i: emulsifying, p: emulsified
+emulsifying <> b: emulsify, f: i
+emulsion <> s: emulsions, d: emulsioned, p: emulsioned
+emulsioned <> b: emulsion, f: dp
+emulsions <> b: emulsion, f: s
+emus <> b: emu, f: s
+en <> s: ens
+enable <> '3': enables, p: enabled, i: enabling, d: enabled
+enabled <> b: enable, f: pd
+enabler <> s: enablers
+enablers <> b: enabler, f: s
+enables <> b: enable, f: '3'
+enabling <> b: enable, f: i, i: enabling
+enact <> d: enacted, p: enacted, i: enacting, '3': enacts
+enacted <> b: enact, f: dp
+enacting <> b: enact, f: i
+enactment <> s: enactments
+enactments <> b: enactment, f: s
+enactor <> s: enactors
+enactors <> b: enactor, f: s
+enacts <> b: enact, f: '3'
+enamel <> s: enamels, p: enamelled, d: enamelled, i: enamelling, '3': enamels
+enamelled <> b: enamel, f: pd, p: enamelled, d: enamelled
+enameller <> s: enamellers
+enamellers <> b: enameller, f: s
+enamelling <> b: enamel, f: i, i: enamelling
+enamels <> f: s3, b: enamel
+enamor <> i: enamoring, p: enamored, '3': enamors, d: enamored
+enamour <> d: enamoured, i: enamouring, p: enamoured, '3': enamours
+enamoured <> d: enamoured, b: enamoured, f: d
+enamouring <> f: i, b: enamour
+enamours <> f: '3', b: enamour
+enantiomer <> s: enantiomers
+enantiomers <> b: enantiomer, f: s
+enantiomorph <> s: enantiomorphs
+enantiomorphs <> b: enantiomorph, f: s
+encamp <> d: encamped, p: encamped, i: encamping, '3': encamps
+encamped <> b: encamp, f: dp
+encamping <> b: encamp, f: i
+encampment <> s: encampments
+encampments <> b: encampment, f: s
+encamps <> f: '3', b: encamp
+encapsidate <> d: encapsidated
+encapsidated <> b: encapsidate, f: d
+encapsulate <> d: encapsulated, '3': encapsulates, p: encapsulated, i: encapsulating
+encapsulated <> b: encapsulate, f: dp, p: encapsulated, d: encapsulated
+encapsulates <> b: encapsulate, f: '3'
+encapsulating <> b: encapsulate, f: i
+encapsulation <> s: encapsulations
+encapsulations <> b: encapsulation, f: s
+encase <> d: encased, p: encased, i: encasing, s: encases, '3': encases
+encased <> b: encase, f: dp
+encases <> b: encase, f: s
+encash <> d: encashed, i: encashing
+encashed <> b: encash, f: d
+encashing <> b: encash, f: i
+encashment <> s: encashments
+encashments <> b: encashment, f: s
+encasing <> b: encase, f: i
+encephalopathies <> b: encephalopathy, f: s
+encephalopathy <> s: encephalopathies
+enchain <> i: enchaining, p: enchained, '3': enchains, d: enchained
+enchained <> f: pd, b: enchain
+enchaining <> f: i, b: enchain
+enchains <> f: '3', b: enchain
+enchant <> d: enchanted, p: enchanted, '3': enchants, i: enchanting
+enchanted <> d: enchanted, b: enchanted, f: dp, p: enchanted
+enchanter <> s: enchanters
+enchanters <> b: enchanter, f: s
+enchanting <> i: enchanting, b: enchanting, f: i
+enchantment <> s: enchantments
+enchantments <> b: enchantment, f: s
+enchants <> b: enchant, f: '3'
+enchase <> d: enchased, p: enchased
+enchased <> b: enchase, f: dp
+enchilada <> s: enchiladas
+enchiladas <> b: enchilada, f: s
+encipher <> i: enciphering, p: enciphered, '3': enciphers, d: enciphered
+enciphered <> f: pd, b: encipher
+enciphering <> f: i, b: encipher
+enciphers <> f: '3', b: encipher
+encircle <> p: encircled, i: encircling, d: encircled, '3': encircles
+encircled <> b: encircle, f: pd, p: encircled
+encircles <> b: encircle, f: '3'
+encircling <> b: encircle, f: i, i: encircling
+enclave <> s: enclaves
+enclaves <> b: enclave, f: s
+enclitic <> s: enclitics
+enclitics <> b: enclitic, f: s
+enclose <> d: enclosed, i: enclosing, p: enclosed, '3': encloses
+enclosed <> b: enclose, f: dp, d: enclosed, p: enclosed
+encloses <> b: enclose, f: '3'
+enclosing <> b: enclose, f: i, i: enclosing
+enclosure <> s: enclosures
+enclosures <> b: enclosure, f: s
+encode <> i: encoding, d: encoded, p: encoded, '3': encodes, s: encodes
+encoded <> b: encode, f: dp, p: encoded, d: encoded
+encoder <> s: encoders
+encoders <> b: encoder, f: s
+encodes <> b: encode, f: 3s
+encoding <> b: encode, f: i, i: encoding, s: encodings
+encomium <> s: encomiums
+encomiums <> b: encomium, f: s
+encompass <> '3': encompasses, i: encompassing, p: encompassed, d: encompassed
+encompassed <> b: encompass, f: pd
+encompasses <> b: encompass, f: '3'
+encompassing <> b: encompass, f: i
+encore <> s: encores, d: encored, i: encoring, p: encored, '3': encores
+encored <> f: dp, b: encore
+encores <> f: s3, b: encore
+encoring <> f: i, b: encore
+encounter <> d: encountered, s: encounters, p: encountered, '3': encounters, i: encountering
+encountered <> b: encounter, f: dp
+encountering <> b: encounter, f: i
+encounters <> b: encounter, f: s3
+encourage <> d: encouraged, p: encouraged, '3': encourages, i: encouraging
+encouraged <> b: encourage, f: dp
+encouragement <> s: encouragements
+encouragements <> b: encouragement, f: s
+encourages <> b: encourage, f: '3'
+encouraging <> b: encourage, f: i, i: encouraging
+encroach <> d: encroached, i: encroaching, p: encroached, '3': encroaches
+encroached <> b: encroach, f: dp
+encroaches <> b: encroach, f: '3'
+encroaching <> b: encroach, f: i
+encroachment <> s: encroachments
+encroachments <> b: encroachment, f: s
+encrust <> d: encrusted, i: encrusting, p: encrusted, '3': encrusts
+encrustation <> s: encrustations
+encrustations <> b: encrustation, f: s
+encrusted <> b: encrust, f: dp
+encrusting <> b: encrust, f: i, i: encrusting
+encrypt <> d: encrypted, '3': encrypts, p: encrypted, i: encrypting
+encrypted <> b: encrypt, f: dp
+encrypting <> b: encrypt, f: i
+encryption <> s: encryptions
+encryptions <> b: encryption, f: s
+encrypts <> b: encrypt, f: '3'
+encumber <> d: encumbered, i: encumbering, s: encumbers, p: encumbered, '3': encumbers
+encumbered <> b: encumber, f: d, d: encumbered
+encumbering <> b: encumber, f: i
+encumbers <> b: encumber, f: s
+encumbrance <> s: encumbrances
+encumbrances <> b: encumbrance, f: s
+encyclical <> s: encyclicals
+encyclicals <> b: encyclical, f: s
+encyclopaedia <> s: encyclopaedias
+encyclopaedias <> b: encyclopaedia, f: s
+encyclopedia <> s: encyclopedias
+encyclopedias <> b: encyclopedia, f: s
+encyst <> d: encysted
+encysted <> b: encyst, f: d
+end <> p: ended, s: ends, d: ended, i: ending, '3': ends
+endanger <> i: endangering, d: endangered, '3': endangers, p: endangered
+endangered <> b: endanger, f: dp, d: endangered, p: endangered
+endangering <> b: endanger, f: i
+endangers <> b: endanger, f: '3'
+endear <> p: endeared, d: endeared, '3': endears, i: endearing
+endeared <> b: endear, f: pd
+endearing <> i: endearing, b: endearing, f: i
+endearment <> s: endearments
+endearments <> b: endearment, f: s
+endears <> b: endear, f: '3'
+endeavor <> s: endeavors, i: endeavoring, p: endeavored, '3': endeavors, d: endeavored
+endeavored <> b: endeavore, f: dp
+endeavors <> b: endeavor, f: s
+endeavour <> s: endeavours, i: endeavouring, d: endeavoured, p: endeavoured, '3': endeavours
+endeavoured <> b: endeavour, f: dp
+endeavouring <> b: endeavour, f: i
+endeavours <> b: endeavour, f: s3
+ended <> b: end, f: pd
+endemic <> s: endemics
+endemics <> b: endemic, f: s
+ender <> s: enders
+enders <> b: ender, f: s
+endgame <> s: endgames
+endgames <> b: endgame, f: s
+ending <> b: end, f: i, s: endings, i: ending
+endite <> s: endites
+endites <> b: endite, f: s
+endive <> s: endives
+endives <> b: endive, f: s
+endnote <> s: endnotes
+endnotes <> b: endnote, f: s
+endocrinologist <> s: endocrinologists
+endocrinologists <> b: endocrinologist, f: s
+endomorph <> s: endomorphs
+endomorphs <> b: endomorph, f: s
+endonuclease <> s: endonucleases, '3': endonucleases
+endonucleases <> b: endonuclease, f: s3
+endoparasite <> s: endoparasites
+endoparasites <> b: endoparasite, f: s
+endorphin <> s: endorphins
+endorphins <> b: endorphin, f: s
+endorse <> d: endorsed, p: endorsed, i: endorsing, '3': endorses
+endorsed <> b: endorse, f: dp, p: endorsed, d: endorsed
+endorsee <> s: endorsees
+endorsees <> b: endorsee, f: s
+endorsement <> s: endorsements
+endorsements <> b: endorsement, f: s
+endorses <> b: endorse, f: '3'
+endorsing <> b: endorse, f: i, i: endorsing
+endoscope <> s: endoscopes, d: endoscoped, i: endoscoping
+endoscoped <> b: endoscope, f: d
+endoscopes <> b: endoscope, f: s
+endoscopies <> b: endoscopy, f: s
+endoscoping <> b: endoscope, f: i
+endoscopist <> s: endoscopists
+endoscopists <> b: endoscopist, f: s
+endoscopy <> s: endoscopies
+endotherm <> s: endotherms
+endotherms <> b: endotherm, f: s
+endotoxin <> s: endotoxins
+endotoxins <> b: endotoxin, f: s
+endow <> d: endowed, p: endowed, i: endowing, '3': endows
+endowed <> b: endow, f: dp, d: endowed, p: endowed
+endowing <> b: endow, f: i
+endowment <> s: endowments
+endowments <> b: endowment, f: s
+endows <> b: endow, f: '3'
+endpaper <> s: endpapers
+endpapers <> b: endpaper, f: s
+endpoint <> s: endpoints
+endpoints <> b: endpoint, f: s
+ends <> b: end, f: s3
+endue <> d: endued, p: endued, i: enduing, '3': endues
+endued <> b: endue, f: dp
+endure <> d: endured, p: endured, '3': endures, i: enduring
+endured <> b: endure, f: dp
+endures <> b: endure, f: '3'
+enduring <> b: endure, f: i, i: enduring
+enema <> s: enemas
+enemas <> b: enema, f: s
+enemies <> b: enemy, f: s
+enemy <> s: enemies
+energetic <> s: energetics
+energetics <> b: energetic, f: s
+energies <> b: energy, f: s
+energise <> d: energised, i: energising, p: energised, '3': energises, s: energises
+energised <> b: energise, f: dp, d: energised, p: energised
+energises <> b: energise, f: 3s
+energising <> b: energise, f: i, i: energising
+energize <> d: energized, i: energizing, p: energized, '3': energizes
+energized <> b: energize, f: dp
+energizer <> s: energizers
+energizers <> b: energizer, f: s
+energizes <> b: energize, f: '3'
+energizing <> b: energize, f: i, i: energizing
+energy <> s: energies
+enervate <> d: enervated, i: enervating, p: enervated, '3': enervates
+enervated <> f: dp, b: enervate
+enervates <> f: '3', b: enervate
+enervating <> b: enervate, f: i
+enfant <> s: enfants
+enfants <> b: enfant, f: s
+enfeeble <> d: enfeebled, p: enfeebled, i: enfeebling, '3': enfeebles
+enfeebled <> b: enfeeble, f: dp, p: enfeebled
+enfeebles <> b: enfeeble, f: '3'
+enfeebling <> b: enfeeble, f: i
+enfeoff <> d: enfeoffed, p: enfeoffed, i: enfeoffing, '3': enfeoffs
+enfeoffed <> b: enfeoff, f: dp
+enfeoffing <> f: i, b: enfeoff
+enfeoffs <> f: '3', b: enfeoff
+enfilade <> d: enfiladed, i: enfilading, p: enfiladed, '3': enfilades
+enfiladed <> f: dp, b: enfilade
+enfilades <> f: '3', b: enfilade
+enfilading <> f: i, b: enfilade
+enfold <> p: enfolded, i: enfolding, '3': enfolds, d: enfolded
+enfolded <> b: enfold, f: pd, p: enfolded
+enfolding <> b: enfold, f: i
+enfolds <> b: enfold, f: '3'
+enforce <> d: enforced, i: enforcing, p: enforced, '3': enforces
+enforced <> b: enforce, f: dp, d: enforced, p: enforced
+enforcement <> s: enforcements
+enforcements <> b: enforcement, f: s
+enforcer <> s: enforcers
+enforcers <> b: enforcer, f: s
+enforces <> b: enforce, f: '3'
+enforcing <> b: enforce, f: i
+enfranchise <> d: enfranchised, p: enfranchised, i: enfranchising, '3': enfranchises
+enfranchised <> b: enfranchise, f: dp, d: enfranchised
+enfranchisement <> s: enfranchisements
+enfranchisements <> b: enfranchisement, f: s
+enfranchises <> f: '3', b: enfranchise
+enfranchising <> b: enfranchise, f: i
+engage <> d: engaged, p: engaged, i: engaging, '3': engages
+engaged <> b: engage, f: dp, d: engaged, p: engaged
+engagement <> s: engagements
+engagements <> b: engagement, f: s
+engages <> b: engage, f: '3'
+engaging <> b: engage, f: i, i: engaging
+engel <> s: engels, '3': engels
+engels <> b: engel, f: s3
+engender <> d: engendered, '3': engenders, p: engendered, i: engendering
+engendered <> b: engender, f: dp
+engendering <> b: engender, f: i
+engenders <> b: engender, f: '3'
+engine <> s: engines, p: engined
+engined <> b: engine, f: p, p: engined, d: engined
+engineer <> s: engineers, d: engineered, p: engineered, i: engineering, '3': engineers
+engineered <> b: engineer, f: dp, d: engineered, p: engineered
+engineering <> i: engineering, b: engineering, f: i
+engineers <> f: s3, b: engineer
+engines <> b: engine, f: s
+Englishman <> s: englishmen
+englishmen <> b: englishman, f: s
+Englishwoman <> s: englishwomen
+englishwomen <> b: englishwoman, f: s
+engorge <> p: engorged, d: engorged, i: engorging, '3': engorges
+engorged <> b: engorge, f: pd, p: engorged, d: engorged
+engorges <> f: '3', b: engorge
+engorging <> b: engorge, f: i
+engraft <> i: engrafting, p: engrafted, '3': engrafts, d: engrafted
+engrailed <> d: engrailed, b: engrailed, f: dp, p: engrailed
+engrain <> d: engrained, p: engrained
+engrained <> b: engrain, f: dp
+engrave <> d: engraved, p: engraved, i: engraving, s: engraves, '3': engraves
+engraved <> b: engrave, f: dp, d: engraved, p: engraved
+engraver <> s: engravers
+engravers <> b: engraver, f: s
+engraves <> b: engrave, f: s3
+engraving <> b: engrave, f: i, s: engravings, i: engraving
+engross <> d: engrossed, p: engrossed, i: engrossing, '3': engrosses
+engrossed <> b: engross, f: dp, d: engrossed, p: engrossed
+engrosses <> b: engross, f: '3'
+engrossing <> b: engross, f: i, i: engrossing
+engrossment <> s: engrossments
+engrossments <> b: engrossment, f: s
+engulf <> p: engulfed, d: engulfed, i: engulfing, '3': engulfs
+engulfed <> b: engulf, f: pd, d: engulfed, p: engulfed
+engulfing <> b: engulf, f: i
+engulfs <> b: engulf, f: '3'
+enhance <> d: enhanced, i: enhancing, '3': enhances, p: enhanced
+enhanced <> b: enhance, f: dp, d: enhanced, p: enhanced
+enhancement <> s: enhancements
+enhancements <> b: enhancement, f: s
+enhancer <> s: enhancers
+enhancers <> b: enhancer, f: s
+enhances <> b: enhance, f: '3'
+enhancing <> b: enhance, f: i, i: enhancing
+enigma <> s: enigmas
+enigmas <> b: enigma, f: s
+enjambment <> s: enjambments
+enjambments <> b: enjambment, f: s
+enjoin <> p: enjoined, d: enjoined, '3': enjoins, i: enjoining
+enjoined <> b: enjoin, f: pd, d: enjoined, p: enjoined
+enjoining <> b: enjoin, f: i
+enjoins <> b: enjoin, f: '3'
+enjoy <> p: enjoyed, i: enjoying, d: enjoyed, '3': enjoys
+enjoyed <> b: enjoy, f: pd
+enjoying <> b: enjoy, f: i
+enjoyment <> s: enjoyments
+enjoyments <> b: enjoyment, f: s
+enjoys <> b: enjoy, f: '3'
+enkephalin <> s: enkephalins
+enkephalins <> b: enkephalin, f: s
+enkindle <> d: enkindled, i: enkindling, p: enkindled, '3': enkindles
+enkindled <> f: dp, b: enkindle
+enkindles <> f: '3', b: enkindle
+enkindling <> f: i, b: enkindle
+enlace <> d: enlaced, p: enlaced, i: enlacing, '3': enlaces
+enlaced <> b: enlace, f: dp
+enlaces <> f: '3', b: enlace
+enlacing <> f: i, b: enlace
+enlarge <> d: enlarged, i: enlarging, p: enlarged, '3': enlarges, s: enlarges
+enlarged <> b: enlarge, f: dp, d: enlarged, p: enlarged
+enlargement <> s: enlargements
+enlargements <> b: enlargement, f: s
+enlarger <> s: enlargers
+enlargers <> b: enlarger, f: s
+enlarges <> b: enlarge, f: 3s
+enlarging <> b: enlarge, f: i, i: enlarging
+enlighten <> i: enlightening, d: enlightened, p: enlightened, '3': enlightens
+enlightened <> d: enlightened, b: enlightened, f: dp, p: enlightened
+enlightening <> b: enlighten, f: i, i: enlightening
+enlightenment <> s: enlightenments
+enlightenments <> b: enlightenment, f: s
+enlightens <> b: enlighten, f: '3'
+enlist <> p: enlisted, d: enlisted, i: enlisting, '3': enlists
+enlisted <> b: enlist, f: pd
+enlister <> s: enlisters
+enlisters <> b: enlister, f: s
+enlisting <> b: enlist, f: i
+enlistment <> s: enlistments
+enlistments <> b: enlistment, f: s
+enlists <> b: enlist, f: '3'
+enliven <> d: enlivened, p: enlivened, '3': enlivens, i: enlivening
+enlivened <> b: enliven, f: dp, p: enlivened
+enlivening <> b: enliven, f: i
+enlivens <> b: enliven, f: '3'
+enmesh <> d: enmeshed, p: enmeshed, i: enmeshing, '3': enmeshes
+enmeshed <> b: enmesh, f: dp, d: enmeshed, p: enmeshed
+enmeshes <> b: enmesh, f: '3'
+enmeshing <> b: enmesh, f: i
+enmities <> b: enmity, f: s
+enmity <> s: enmities
+ennoble <> d: ennobled, p: ennobled, i: ennobling, s: ennobles, '3': ennobles
+ennobled <> b: ennoble, f: dp, d: ennobled, p: ennobled
+ennobles <> b: ennoble, f: s3
+ennobling <> b: ennoble, f: i
+enormities <> b: enormity, f: s
+enormity <> s: enormities
+enplane <> p: enplaned, i: enplaning, '3': enplanes, d: enplaned
+enplaned <> f: pd, b: enplane
+enplanes <> f: '3', b: enplane
+enplaning <> f: i, b: enplane
+enquire <> p: enquired, i: enquiring, d: enquired, '3': enquires
+enquired <> b: enquire, f: pd
+enquirer <> s: enquirers
+enquirers <> b: enquirer, f: s
+enquires <> b: enquire, f: '3'
+enquiries <> b: enquiry, f: s
+enquiring <> b: enquire, f: i, i: enquiring
+enquiry <> s: enquiries
+enrage <> d: enraged, p: enraged, i: enraging, '3': enrages
+enraged <> b: enrage, f: dp, d: enraged, p: enraged
+enrages <> b: enrage, f: '3'
+enraging <> b: enrage, f: i
+enrapture <> d: enraptured, p: enraptured, i: enrapturing, '3': enraptures
+enraptured <> b: enrapture, f: dp, d: enraptured
+enraptures <> f: '3', b: enrapture
+enrapturing <> f: i, b: enrapture
+enrich <> d: enriched, i: enriching, '3': enriches, p: enriched
+enriched <> b: enrich, f: dp, d: enriched, p: enriched
+enriches <> b: enrich, f: '3'
+enriching <> b: enrich, f: i, i: enriching
+enrichment <> s: enrichments
+enrichments <> b: enrichment, f: s
+enrobe <> i: enrobing, p: enrobed, '3': enrobes, d: enrobed
+enrobed <> f: pd, b: enrobe
+enrobes <> f: '3', b: enrobe
+enrobing <> f: i, b: enrobe
+enrol <> d: enrolled, p: enrolled, i: enrolling, '3': enrols
+enroll <> i: enrolling, p: enrolled, '3': enrols, d: enrolled
+enrolled <> b: enrol, f: dp, p: enrolled, d: enrolled
+enrolling <> b: enrol, f: i
+enrolment <> s: enrolments
+enrolments <> b: enrolment, f: s
+enrols <> b: enrol, f: '3'
+ensconce <> d: ensconced, p: ensconced, i: ensconcing, '3': ensconces
+ensconced <> b: ensconce, f: dp
+ensconces <> f: '3', b: ensconce
+ensconcing <> f: i, b: ensconce
+ensemble <> s: ensembles
+ensembles <> b: ensemble, f: s
+enshrine <> d: enshrined, '3': enshrines, i: enshrining, p: enshrined, s: enshrines
+enshrined <> b: enshrine, f: dp, d: enshrined
+enshrines <> b: enshrine, f: 3s
+enshrining <> b: enshrine, f: i
+enshroud <> p: enshrouded, '3': enshrouds, d: enshrouded, i: enshrouding
+enshrouded <> b: enshroud, f: pd
+enshrouding <> b: enshroud, f: i
+enshrouds <> b: enshroud, f: '3'
+ensign <> s: ensigns, '3': ensigns
+ensigns <> b: ensign, f: s3
+ensile <> i: ensiling, p: ensiled, '3': ensiles, d: ensiled
+ensiled <> f: pd, b: ensile
+ensiles <> f: '3', b: ensile
+ensiling <> f: i, b: ensile
+enslave <> d: enslaved, i: enslaving, p: enslaved, '3': enslaves
+enslaved <> b: enslave, f: dp, d: enslaved, p: enslaved
+enslaves <> b: enslave, f: '3'
+enslaving <> b: enslave, f: i
+ensnare <> d: ensnared, '3': ensnares, p: ensnared, i: ensnaring
+ensnared <> b: ensnare, f: dp
+ensnares <> b: ensnare, f: '3'
+ensnaring <> b: ensnare, f: i
+ensue <> p: ensued, '3': ensues, d: ensued, i: ensuing
+ensued <> b: ensue, f: pd
+ensues <> b: ensue, f: '3'
+ensuing <> i: ensuing, b: ensuing, f: i
+ensure <> i: ensuring, '3': ensures, p: ensured, d: ensured
+ensured <> b: ensure, f: pd
+ensures <> b: ensure, f: '3'
+ensuring <> b: ensure, f: i
+ent <> s: ents
+entablature <> s: entablatures
+entablatures <> b: entablature, f: s
+entail <> '3': entails, p: entailed, d: entailed, i: entailing
+entailed <> b: entail, f: pd
+entailing <> b: entail, f: i
+entailment <> s: entailments
+entailments <> b: entailment, f: s
+entails <> b: entail, f: '3'
+entangle <> d: entangled, i: entangling, '3': entangles, p: entangled
+entangled <> b: entangle, f: dp, d: entangled
+entanglement <> s: entanglements
+entanglements <> b: entanglement, f: s
+entangles <> b: entangle, f: '3'
+entangling <> b: entangle, f: i
+entente <> s: ententes
+ententes <> b: entente, f: s
+enter <> p: entered, d: entered, i: entering, '3': enters
+entered <> b: enter, f: pd, p: entered, d: entered
+entering <> b: enter, f: i
+enterocyte <> s: enterocytes
+enterocytes <> b: enterocyte, f: s
+enteropathies <> b: enteropathy, f: s
+enteropathy <> s: enteropathies
+enterotoxin <> s: enterotoxins
+enterotoxins <> b: enterotoxin, f: s
+enterprise <> s: enterprises
+enterprises <> b: enterprise, f: s
+enters <> b: enter, f: '3'
+entertain <> d: entertained, p: entertained, i: entertaining, '3': entertains
+entertained <> b: entertain, f: dp
+entertainer <> s: entertainers
+entertainers <> b: entertainer, f: s
+entertaining <> b: entertain, f: i, i: entertaining
+entertainment <> s: entertainments
+entertainments <> b: entertainment, f: s
+entertains <> b: entertain, f: '3'
+enthalpies <> b: enthalpy, f: s
+enthalpy <> s: enthalpies
+enthral <> d: enthralled, p: enthralled, i: enthralling, '3': enthrals
+enthrall <> '3': enthralls, i: enthralling, p: enthralled, d: enthralled
+enthralled <> b: enthral, f: dp
+enthralling <> b: enthral, f: i
+enthralls <> b: enthrall, f: '3'
+enthrals <> f: '3', b: enthrall
+enthrone <> i: enthroning, p: enthroned, '3': enthrones, d: enthroned
+enthroned <> b: enthron, f: dp, p: enthroned, d: enthroned
+enthrones <> f: '3', b: enthrone
+enthroning <> b: enthron, f: i
+enthuse <> p: enthused, d: enthused, '3': enthuses, i: enthusing, s: enthuses
+enthused <> b: enthuse, f: pd
+enthuses <> b: enthuse, f: 3s
+enthusiasm <> s: enthusiasms
+enthusiasms <> b: enthusiasm, f: s
+enthusiast <> s: enthusiasts
+enthusiasts <> b: enthusiast, f: s
+enthusing <> b: enthuse, f: i
+enthymeme <> s: enthymemes
+enthymemes <> b: enthymeme, f: s
+entice <> d: enticed, i: enticing, p: enticed, '3': entices
+enticed <> b: entice, f: dp
+enticement <> s: enticements
+enticements <> b: enticement, f: s
+enticer <> s: enticers
+enticers <> b: enticer, f: s
+entices <> b: entice, f: '3'
+enticing <> b: entice, f: i, i: enticing
+entities <> b: entity, f: s
+entitle <> d: entitled, '3': entitles, p: entitled, i: entitling
+entitled <> b: entitle, f: dp
+entitlement <> s: entitlements
+entitlements <> b: entitlement, f: s
+entitles <> b: entitle, f: '3'
+entitling <> b: entitle, f: i
+entity <> s: entities
+entomb <> d: entombed, p: entombed, '3': entombs, i: entombing
+entombed <> b: entomb, f: dp, p: entombed
+entombing <> b: entomb, f: i
+entombs <> b: entomb, f: '3'
+entomologist <> s: entomologists
+entomologists <> b: entomologist, f: s
+entourage <> s: entourages
+entourages <> b: entourage, f: s
+entrails <> s: entrails, b: entrails, f: s
+entrain <> d: entrained, p: entrained, i: entraining, '3': entrains
+entrained <> b: entrain, f: dp
+entraining <> b: entrain, f: i
+entrains <> f: '3', b: entrain
+entrammel <> p: entrammelled
+entrammelled <> b: entrammel, f: p
+entrance <> s: entrances, d: entranced, p: entranced, i: entrancing, '3': entrances
+entranced <> b: entrance, f: dp, p: entranced, d: entranced
+entrances <> f: s3, b: entrance
+entranceway <> s: entranceways
+entranceways <> b: entranceway, f: s
+entrancing <> b: entrance, f: i, i: entrancing
+entrant <> s: entrants
+entrants <> b: entrant, f: s
+entrap <> d: entrapped, p: entrapped, i: entrapping, '3': entraps
+entrapment <> s: entrapments
+entrapments <> b: entrapment, f: s
+entrapped <> b: entrap, f: dp, p: entrapped
+entrapping <> b: entrap, f: i, s: entrappings
+entraps <> b: entrap, f: '3'
+entreat <> p: entreated, d: entreated, i: entreating, '3': entreats
+entreated <> b: entreat, f: pd
+entreaties <> b: entreaty, f: s
+entreating <> b: entreat, f: i
+entreats <> b: entreat, f: '3'
+entreaty <> s: entreaties
+entrechat <> s: entrechats
+entrechats <> b: entrechat, f: s
+entree <> s: entrees
+entrees <> b: entree, f: s
+entremets <> b: entremet, f: s
+entrench <> d: entrenched, p: entrenched, i: entrenching, '3': entrenches
+entrenched <> b: entrench, f: dp, d: entrenched, p: entrenched
+entrenches <> b: entrench, f: '3'
+entrenching <> b: entrench, f: i
+entrenchment <> s: entrenchments
+entrenchments <> b: entrenchment, f: s
+entrepreneur <> s: entrepreneurs
+entrepreneurs <> b: entrepreneur, f: s
+entries <> b: entry, f: s
+entropies <> b: entropy, f: s
+entropy <> s: entropies
+entrust <> d: entrusted, p: entrusted, i: entrusting, '3': entrusts
+entrusted <> b: entrust, f: dp
+entrusting <> b: entrust, f: i
+entrusts <> b: entrust, f: '3'
+entry <> s: entries
+entryist <> s: entryists
+entryists <> b: entryist, f: s
+ents <> b: ent, f: s
+entwine <> p: entwined, d: entwined, i: entwining, '3': entwines
+entwined <> b: entwine, f: pd, d: entwined, p: entwined
+entwines <> b: entwine, f: '3'
+entwining <> b: entwine, f: i
+enucleate <> i: enucleating, p: enucleated, '3': enucleates, d: enucleated
+enucleated <> f: pd, b: enucleate
+enucleates <> f: '3', b: enucleate
+enucleating <> f: i, b: enucleate
+enumerate <> d: enumerated, i: enumerating, '3': enumerates, p: enumerated
+enumerated <> b: enumerate, f: dp
+enumerates <> b: enumerate, f: '3'
+enumerating <> b: enumerate, f: i
+enumeration <> s: enumerations
+enumerations <> b: enumeration, f: s
+enumerator <> s: enumerators
+enumerators <> b: enumerator, f: s
+enunciate <> d: enunciated, p: enunciated, i: enunciating, '3': enunciates
+enunciated <> b: enunciate, f: dp
+enunciates <> b: enunciate, f: '3'
+enunciating <> b: enunciate, f: i
+enunciation <> s: enunciations
+enunciations <> b: enunciation, f: s
+enure <> '3': enures, i: enuring, p: enured, d: enured
+enured <> b: enure, f: p
+enures <> b: enure, f: '3'
+enuretic <> s: enuretics
+enuretics <> b: enuretic, f: s
+enuring <> b: enure, f: i
+envelop <> d: enveloped, p: enveloped, i: enveloping, '3': envelops
+envelope <> s: envelopes, '3': envelopes
+enveloped <> b: envelop, f: dp
+envelopes <> b: envelope, f: s3
+enveloping <> b: envelop, f: i, i: enveloping
+envelopment <> s: envelopments
+envelopments <> b: envelopment, f: s
+envelops <> b: envelop, f: '3'
+envenom <> i: envenoming, p: envenomed, '3': envenoms, d: envenomed
+envenomed <> f: pd, b: envenom
+envenoming <> f: i, b: envenom
+envenoms <> f: '3', b: envenom
+envied <> b: envy, f: pd, p: envied
+envies <> b: envy, f: 3s
+environ <> d: environed, i: environing, p: environed, '3': environs
+environed <> f: dp, b: environ
+environing <> f: i, b: environ
+environment <> s: environments
+environmentalist <> s: environmentalists
+environmentalists <> b: environmentalist, f: s
+environments <> b: environment, f: s
+environs <> s: environs, b: environs, f: s
+envisage <> d: envisaged, p: envisaged, '3': envisages, i: envisaging
+envisaged <> b: envisage, f: dp, p: envisaged, d: envisaged
+envisages <> b: envisage, f: '3'
+envisaging <> b: envisage, f: i
+envision <> d: envisioned, p: envisioned, '3': envisions, i: envisioning
+envisioned <> b: envision, f: dp
+envisioning <> b: envision, f: i
+envisions <> b: envision, f: '3'
+envoi <> s: envoi, b: envoi, f: s
+envoy <> s: envoys
+envoys <> b: envoy, f: s
+envy <> p: envied, d: envied, i: envying, '3': envies, s: envies
+enwrap <> '3': enwraps, d: enwrapped, p: enwrapped, i: enwrapping
+enwrapped <> b: enwrap, f: dp
+enwrapping <> f: i, b: enwrap
+enwraps <> b: enwrap, f: '3'
+enzyme <> s: enzymes
+enzymes <> b: enzyme, f: s
+EO <> s: eos
+eon <> s: eons
+eons <> b: eon, f: s
+Eos <> b: eo, f: s
+eosinophil <> s: eosinophils, '3': eosinophils
+eosinophils <> b: eosinophil, f: s3
+epaulet <> s: epaulets
+epaulets <> b: epaulet, f: s
+epaulette <> s: epaulettes
+epaulettes <> b: epaulette, f: s
+ephebe <> s: ephebes
+ephebes <> b: ephebe, f: s
+ephemeral <> s: ephemerals
+ephemerals <> b: ephemeral, f: s
+ephesian <> s: ephesians
+Ephesians <> b: ephesian, f: s
+ephor <> s: ephors
+ephors <> b: ephor, f: s
+epic <> s: epics
+epicentre <> s: epicentres
+epicentres <> b: epicentre, f: s
+epics <> b: epic, f: s
+epicycle <> s: epicycles
+epicycles <> b: epicycle, f: s
+epicycloid <> s: epicycloids
+epicycloids <> b: epicycloid, f: s
+epidemic <> s: epidemics
+epidemics <> b: epidemic, f: s
+epidemiologist <> s: epidemiologists
+epidemiologists <> b: epidemiologist, f: s
+epidural <> s: epidurals
+epidurals <> b: epidural, f: s
+epigone <> s: epigones
+epigones <> b: epigone, f: s
+epigram <> s: epigrams
+epigrammatist <> s: epigrammatists
+epigrammatists <> b: epigrammatist, f: s
+epigrams <> b: epigram, f: s
+epigraph <> s: epigraphs
+epigraphs <> b: epigraph, f: s
+epilate <> i: epilating, p: epilated, '3': epilates, d: epilated
+epilated <> f: pd, b: epilate
+epilates <> f: '3', b: epilate
+epilating <> f: i, b: epilate
+epilator <> s: epilators
+epilators <> b: epilator, f: s
+epileptic <> s: epileptics
+epileptics <> b: epileptic, f: s
+epilogue <> s: epilogues
+epilogues <> b: epilogue, f: s
+Epiphany <> s: epiphanies
+epiphyte <> s: epiphytes
+epiphytes <> b: epiphyte, f: s
+episcopacies <> b: episcopacy, f: s
+episcopacy <> s: episcopacies
+episcopalian <> s: episcopalians
+episcopalians <> b: episcopalian, f: s
+episcopate <> s: episcopates
+episcopates <> b: episcopate, f: s
+episiotomies <> b: episiotomy, f: s
+episiotomy <> s: episiotomies
+episode <> s: episodes
+episodes <> b: episode, f: s
+episome <> s: episomes
+episomes <> b: episome, f: s
+episteme <> s: epistemes
+epistemes <> b: episteme, f: s
+epistemologies <> b: epistemology, f: s
+epistemologist <> s: epistemologists
+epistemologists <> b: epistemologist, f: s
+epistemology <> s: epistemologies
+Epistle <> s: epistles
+epistles <> b: epistle, f: s
+epitaph <> s: epitaphs
+epitaphs <> b: epitaph, f: s
+epithalamium <> s: epithalamiums
+epithalamiums <> b: epithalamium, f: s
+epithet <> s: epithets
+epithets <> b: epithet, f: s
+epitome <> s: epitomes
+epitomes <> b: epitome, f: s
+epitomise <> d: epitomised, '3': epitomises, p: epitomised, i: epitomising
+epitomised <> b: epitomise, f: dp
+epitomises <> b: epitomise, f: '3'
+epitomising <> b: epitomise, f: i
+epitomize <> d: epitomized, '3': epitomizes, p: epitomized, i: epitomizing
+epitomized <> b: epitomize, f: dp
+epitomizes <> b: epitomize, f: '3'
+epitomizing <> b: epitomize, f: i
+epitope <> s: epitopes, '3': epitopes
+epitopes <> b: epitope, f: s3
+epo <> s: epos
+epoch <> s: epochs
+epochs <> b: epoch, f: s
+epos <> b: epo, f: s
+epoxide <> s: epoxides
+epoxides <> b: epoxide, f: s
+epoxied <> b: epoxy, f: p
+epoxies <> b: epoxy, f: '3'
+epoxy <> '3': epoxies, p: epoxied
+EPROM <> s: eproms
+epsilon <> s: epsilons
+epsilons <> b: epsilon, f: s
+EQ <> s: eqs
+eqn <> s: eqns
+eqns <> b: eqn, f: s
+equal <> '3': equals, s: equals, d: equalled, p: equalled, i: equalling
+equalise <> p: equalised, i: equalising, d: equalised, '3': equalises, s: equalises
+equalised <> b: equalise, f: pd
+equaliser <> s: equalisers
+equalisers <> b: equaliser, f: s
+equalises <> b: equalise, f: 3s
+equalising <> b: equalise, f: i, i: equalising
+equalities <> b: equality, f: s
+equality <> s: equalities
+equalize <> d: equalized, i: equalizing, p: equalized, '3': equalizes
+equalized <> b: equalize, f: dp
+equalizes <> b: equalize, f: '3'
+equalizing <> b: equalize, f: i, i: equalizing
+equalled <> b: equal, f: dp
+equalling <> b: equal, f: i
+equals <> b: equal, f: 3s
+equate <> d: equated, '3': equates, i: equating, p: equated
+equated <> b: equate, f: dp
+equates <> b: equate, f: '3'
+equating <> b: equate, f: i
+equation <> s: equations
+equations <> b: equation, f: s
+equator <> s: equators
+equators <> b: equator, f: s
+equerries <> b: equerry, f: s
+equerry <> s: equerries
+equestrian <> s: equestrians
+equestrians <> b: equestrian, f: s
+equilibrate <> p: equilibrated, d: equilibrated, i: equilibrating, '3': equilibrates
+equilibrated <> b: equilibrate, f: pd
+equilibrates <> f: '3', b: equilibrate
+equilibrating <> b: equilibrate, f: i
+equilibria <> s: equilibria, b: equilibria, f: s
+equine <> s: equines
+equines <> b: equine, f: s
+equinox <> s: equinoxes
+equinoxes <> b: equinox, f: s
+equip <> d: equipped, i: equipping, p: equipped, '3': equips
+equipment <> s: equipments
+equipments <> b: equipment, f: s
+equipotential <> s: equipotentials
+equipotentials <> b: equipotential, f: s
+equipped <> b: equip, f: dp
+equipping <> b: equip, f: i, i: equipping
+equips <> b: equip, f: '3'
+equities <> b: equity, f: s
+equity <> s: equities
+equivalence <> s: equivalences, p: equivalenced
+equivalenced <> b: equivalence, f: p
+equivalences <> b: equivalence, f: s
+equivalencies <> b: equivalency, f: s
+equivalency <> s: equivalencies
+equivalent <> s: equivalents
+equivalents <> b: equivalent, f: s
+equivocate <> p: equivocated, s: equivocates, d: equivocated, i: equivocating, '3': equivocates
+equivocated <> b: equivocate, f: pd
+equivocates <> f: s3, b: equivocate
+equivocating <> b: equivocate, f: i
+equivocation <> s: equivocations
+equivocations <> b: equivocation, f: s
+era <> s: eras
+eradicate <> d: eradicated, i: eradicating, '3': eradicates, p: eradicated
+eradicated <> b: eradicate, f: dp
+eradicates <> b: eradicate, f: '3'
+eradicating <> b: eradicate, f: i
+eradicator <> s: eradicators
+eradicators <> b: eradicator, f: s
+eras <> b: era, f: s
+erase <> d: erased, p: erased, i: erasing, '3': erases
+erased <> b: erase, f: dp, p: erased
+eraser <> s: erasers
+erasers <> b: eraser, f: s
+erases <> b: erase, f: '3'
+erasing <> b: erase, f: i
+erasure <> s: erasures
+erasures <> b: erasure, f: s
+Eratosthenes <> b: eratosthene, f: s
+ERCP <> s: ercps
+ere <> s: eres
+erect <> d: erected, p: erected, i: erecting, '3': erects
+erected <> b: erect, f: dp
+erecting <> b: erect, f: i, i: erecting
+erection <> s: erections
+erections <> b: erection, f: s
+erector <> s: erectors
+erectors <> b: erector, f: s
+erects <> b: erect, f: '3'
+eres <> b: ere, f: s
+erg <> s: ergs
+ergonomist <> s: ergonomists
+ergonomists <> b: ergonomist, f: s
+ergs <> b: erg, f: s
+eristic <> s: eristics
+eristics <> b: eristic, f: s
+Eritrean <> s: eritreans
+eritreans <> b: eritrean, f: s
+erk <> s: erks
+erks <> b: erk, f: s
+ermine <> s: ermines
+ermines <> b: ermine, f: s
+erne <> t: ernest
+ernest <> b: erne, f: t
+ero <> s: eros
+erode <> d: eroded, p: eroded, '3': erodes, i: eroding
+eroded <> b: erode, f: dp, d: eroded, p: eroded
+erodes <> b: erode, f: '3'
+eroding <> b: erode, f: i, i: eroding
+eros <> b: ero, f: s
+erosion <> s: erosions
+erosions <> b: erosion, f: s
+erotic <> s: erotics
+erotica <> s: erotica, b: erotica, f: s
+eroticise <> d: eroticised, i: eroticising, s: eroticises, '3': eroticises, p: eroticised
+eroticised <> b: eroticise, f: dp
+eroticises <> b: eroticise, f: s3
+eroticising <> b: eroticise, f: i
+eroticize <> d: eroticized, i: eroticizing, p: eroticized, '3': eroticizes
+eroticized <> b: eroticize, f: d, p: eroticized
+erotics <> b: erotic, f: s
+err <> d: erred, p: erred, '3': errs, i: erring
+errand <> s: errands
+errands <> b: errand, f: s
+erratic <> s: erratics
+erratics <> b: erratic, f: s
+erred <> b: err, f: dp
+erring <> i: erring, b: erring, f: i
+error <> s: errors
+errors <> b: error, f: s
+errs <> b: err, f: '3'
+eructation <> s: eructations
+eructations <> b: eructation, f: s
+erudition <> s: eruditions
+eruditions <> b: erudition, f: s
+erupt <> p: erupted, d: erupted, '3': erupts, i: erupting
+erupted <> b: erupt, f: pd
+erupting <> b: erupt, f: i, i: erupting
+eruption <> s: eruptions
+eruptions <> b: eruption, f: s
+eruptive <> s: eruptives
+eruptives <> b: eruptive, f: s
+erupts <> b: erupt, f: '3'
+eryngium <> s: eryngiums
+eryngiums <> b: eryngium, f: s
+erysipelas <> b: erysipela, f: s
+erythrocyte <> s: erythrocytes
+erythrocytes <> b: erythrocyte, f: s
+esa <> s: esas
+esas <> b: esa, f: s
+ESC <> s: escs
+escalade <> i: escalading, p: escaladed, '3': escalades, d: escaladed
+escaladed <> f: pd, b: escalade
+escalades <> f: '3', b: escalade
+escalading <> f: i, b: escalade
+escalate <> d: escalated, '3': escalates, p: escalated, i: escalating
+escalated <> b: escalate, f: dp
+escalates <> b: escalate, f: '3'
+escalating <> b: escalate, f: i, i: escalating
+escalation <> s: escalations
+escalations <> b: escalation, f: s
+escalator <> s: escalators
+escalators <> b: escalator, f: s
+escallop <> s: escallops, i: escalloping, p: escalloped, '3': escallops, d: escalloped
+escalloped <> f: pd, b: escallop
+escalloping <> f: i, b: escallop
+escallops <> f: s3, b: escallop
+escalope <> s: escalopes
+escalopes <> b: escalope, f: s
+escapade <> s: escapades, '3': escapades
+escapades <> b: escapade, f: s3
+escape <> p: escaped, d: escaped, i: escaping, '3': escapes, s: escapes
+escaped <> b: escape, f: pd, p: escaped, d: escaped
+escapee <> s: escapees
+escapees <> b: escapee, f: s
+escapement <> s: escapements
+escapements <> b: escapement, f: s
+escaper <> s: escapers
+escapers <> b: escaper, f: s
+escapes <> b: escape, f: 3s
+escaping <> b: escape, f: i, i: escaping
+escapist <> s: escapists
+escapists <> b: escapist, f: s
+escapologist <> s: escapologists
+escapologists <> b: escapologist, f: s
+escargot <> s: escargots
+escargots <> b: escargot, f: s
+escarpment <> s: escarpments
+escarpments <> b: escarpment, f: s
+eschar <> s: eschars
+eschars <> b: eschar, f: s
+eschatologies <> b: eschatology, f: s
+eschatology <> s: eschatologies
+escheat <> p: escheated, d: escheated, s: escheats
+escheated <> b: escheat, f: pd
+escheats <> b: escheat, f: s
+eschew <> i: eschewing, p: eschewed, '3': eschews, d: eschewed, s: eschews
+eschewed <> b: eschew, f: pd, p: eschewed
+eschewing <> b: eschew, f: i
+eschews <> b: eschew, f: 3s
+escort <> d: escorted, p: escorted, i: escorting, s: escorts, '3': escorts
+escorted <> b: escort, f: dp, d: escorted, p: escorted
+escorting <> b: escort, f: i, i: escorting
+escorts <> b: escort, f: s3
+escritoire <> s: escritoires
+escritoires <> b: escritoire, f: s
+escudo <> s: escudos
+escudos <> b: escudo, f: s
+escutcheon <> s: escutcheons
+escutcheons <> b: escutcheon, f: s
+Esk <> s: esks
+esker <> s: eskers
+eskers <> b: esker, f: s
+Eskimo <> s: eskimos
+eskimos <> b: eskimo, f: s
+esoteric <> s: esoterics
+esoterics <> b: esoteric, f: s
+ESP <> s: esps
+espadrille <> s: espadrilles
+espadrilles <> b: espadrille, f: s
+espalier <> s: espaliers, p: espaliered
+espaliered <> b: espalier, f: p
+espaliers <> b: espalier, f: s
+Esperantist <> s: esperantists
+espied <> b: espy, f: pd
+espies <> f: '3', b: espy
+espouse <> d: espoused, p: espoused, i: espousing, '3': espouses
+espoused <> b: espouse, f: dp, d: espoused, p: espoused
+espouses <> b: espouse, f: '3'
+espousing <> b: espouse, f: i
+espresso <> s: espressos
+espressos <> b: espresso, f: s
+esprit <> '3': esprits, s: esprits
+esprits <> b: esprit, f: 3s
+espy <> p: espied, d: espied, i: espying, '3': espies
+espying <> f: i, b: espy
+esquire <> s: esquires
+esquires <> b: esquire, f: s
+ess <> s: esses
+essay <> s: essays, p: essayed, d: essayed, i: essaying, '3': essays
+essayed <> b: essay, f: pd
+essaying <> b: essay, f: i
+essayist <> s: essayists
+essayists <> b: essayist, f: s
+essays <> f: s3, b: essay
+essence <> s: essences
+essences <> b: essence, f: s
+Essene <> s: essenes
+essenes <> b: essene, f: s
+essential <> s: essentials
+essentialism <> s: essentialisms
+essentialisms <> b: essentialism, f: s
+essentialist <> s: essentialists
+essentialists <> b: essentialist, f: s
+essentialize <> d: essentialized, p: essentialized
+essentialized <> b: essentialize, f: dp
+essentials <> b: essential, f: s
+esses <> b: ess, f: s
+EST <> r: ester
+establish <> d: established, i: establishing, p: established, '3': establishes
+established <> b: establish, f: dp, d: established, p: established
+establishes <> b: establish, f: '3'
+establishing <> b: establish, f: i, i: establishing
+establishment <> s: establishments
+establishments <> b: establishment, f: s
+estancia <> s: estancias
+estancias <> b: estancia, f: s
+estate <> s: estates
+estates <> b: estate, f: s
+este <> s: estes
+esteem <> d: esteemed, p: esteemed, '3': esteems, i: esteeming, s: esteems
+esteemed <> b: esteem, f: dp, p: esteemed, d: esteemed
+esteeming <> b: esteem, f: i
+esteems <> b: esteem, f: 3s
+ester <> b: est, f: r, s: esters
+esterase <> s: esterases
+esterases <> b: esterase, f: s
+esterified <> f: dp, b: esterify
+esterifies <> f: '3', b: esterify
+esterify <> d: esterified, i: esterifying, p: esterified, '3': esterifies
+esterifying <> f: i, b: esterify
+estes <> b: este, f: s
+esther <> s: esthers
+esthers <> b: esther, f: s
+estimate <> d: estimated, s: estimates, p: estimated, '3': estimates, i: estimating
+estimated <> b: estimate, f: dp, d: estimated, p: estimated
+estimates <> b: estimate, f: s3
+estimating <> b: estimate, f: i, i: estimating
+estimation <> s: estimations
+estimations <> b: estimation, f: s
+estimator <> s: estimators
+estimators <> b: estimator, f: s
+estivate <> i: estivating, p: estivated, '3': estivates, d: estivated
+estivated <> f: pd, b: estivate
+estivates <> f: '3', b: estivate
+estivating <> f: i, b: estivate
+Estonian <> s: estonians
+estop <> d: estopped, p: estopped
+estopped <> b: estop, f: dp, p: estopped
+estovers <> b: estover, f: s
+estrange <> i: estranging, p: estranged, '3': estranges, d: estranged
+estranged <> f: pd, b: estrange
+estrangement <> s: estrangements
+estrangements <> b: estrangement, f: s
+estrogen <> s: estrogens
+estrogens <> b: estrogen, f: s
+estuaries <> b: estuary, f: s
+estuary <> s: estuaries
+ETA <> s: etas
+etcetera <> s: etceteras
+etceteras <> b: etcetera, f: s
+etch <> d: etched, p: etched, i: etching, '3': etches, s: etches
+etched <> b: etch, f: dp
+etcher <> s: etchers
+etchers <> b: etcher, f: s
+etches <> b: etch, f: 3s
+etching <> b: etch, f: i, s: etchings, i: etching
+eternalize <> i: eternalizing, p: eternalized, '3': eternalizes, d: eternalized
+eternities <> b: eternity, f: s
+eternity <> s: eternities
+eternize <> i: eternizing, p: eternized, '3': eternizes, d: eternized
+eternized <> f: pd, b: eternize
+eternizes <> f: '3', b: eternize
+eternizing <> f: i, b: eternize
+eth <> '3': eth, b: eth, f: '3'
+ethanol <> s: ethanols
+ethanols <> b: ethanol, f: s
+ether <> s: ethers
+etherealize <> i: etherealizing, p: etherealized, '3': etherealizes, d: etherealized
+etherealized <> f: pd, b: etherealize
+etherealizes <> f: '3', b: etherealize
+etherealizing <> f: i, b: etherealize
+etherize <> i: etherizing, p: etherized, '3': etherizes, d: etherized
+etherized <> f: pd, b: etherize
+etherizes <> f: '3', b: etherize
+etherizing <> f: i, b: etherize
+Ethernet <> s: ethernets
+ethers <> b: ether, f: s
+ethicist <> s: ethicists
+ethicists <> b: ethicist, f: s
+Ethiopian <> s: ethiopians
+ethiopians <> b: ethiopian, f: s
+ethnicities <> b: ethnicity, f: s
+ethnicity <> s: ethnicities
+ethnographer <> s: ethnographers
+ethnographers <> b: ethnographer, f: s
+ethnographies <> b: ethnography, f: s
+ethnography <> s: ethnographies
+ethnologist <> s: ethnologists
+ethnologists <> b: ethnologist, f: s
+ethnomethodologist <> s: ethnomethodologists
+ethnomethodologists <> b: ethnomethodologist, f: s
+ethnomusicologist <> s: ethnomusicologists
+ethnomusicologists <> b: ethnomusicologist, f: s
+ethologist <> s: ethologists
+ethologists <> b: ethologist, f: s
+etiolate <> p: etiolated, i: etiolating, '3': etiolates, d: etiolated
+etiolated <> f: pd, b: etiolate
+etiologies <> b: etiology, f: s
+etiology <> s: etiologies
+etiquette <> s: etiquettes
+etiquettes <> b: etiquette, f: s
+etonian <> s: etonians
+etonians <> b: etonian, f: s
+Etruscan <> s: etruscans
+etude <> s: etudes
+etudes <> b: etude, f: s
+etymologies <> b: etymology, f: s
+etymologist <> s: etymologists
+etymologists <> b: etymologist, f: s
+etymologize <> i: etymologizing, p: etymologized, '3': etymologizes, d: etymologized
+etymologized <> f: pd, b: etymologize
+etymologizes <> f: '3', b: etymologize
+etymologizing <> f: i, b: etymologize
+etymology <> s: etymologies
+Eucharist <> s: eucharists
+eucrite <> s: eucrites
+eucrites <> b: eucrite, f: s
+eugenicist <> s: eugenicists
+eugenicists <> b: eugenicist, f: s
+eugenist <> s: eugenists
+eugenists <> b: eugenist, f: s
+eukaryote <> s: eukaryotes
+eukaryotes <> b: eukaryote, f: s
+eulogies <> b: eulogy, f: s
+eulogise <> p: eulogised, i: eulogising, '3': eulogises
+eulogised <> b: eulogise, f: p
+eulogises <> b: eulogise, f: '3'
+eulogising <> b: eulogise, f: i
+eulogize <> i: eulogizing, p: eulogized, '3': eulogizes, d: eulogized
+eulogized <> f: pd, b: eulogize
+eulogizes <> f: '3', b: eulogize
+eulogizing <> b: eulogize, f: i
+eulogy <> s: eulogies
+Eumenides <> s: eumenides, b: eumenides, f: s
+eunuch <> s: eunuchs
+eunuchs <> b: eunuch, f: s
+euphausiid <> s: euphausiids
+euphausiids <> b: euphausiid, f: s
+euphemism <> s: euphemisms
+euphemisms <> b: euphemism, f: s
+euphemize <> i: euphemizing, p: euphemized, '3': euphemizes, d: euphemized
+euphemized <> f: pd, b: euphemize
+euphemizes <> f: '3', b: euphemize
+euphemizing <> f: i, b: euphemize
+euphorbia <> s: euphorbias
+euphorbias <> b: euphorbia, f: s
+Eurasian <> s: eurasians
+euro <> s: euros
+eurobond <> s: eurobonds
+eurobonds <> b: eurobond, f: s
+Eurocheque <> s: eurocheques
+Eurocrat <> s: eurocrats
+eurocurrencies <> b: eurocurrency, f: s
+eurocurrency <> s: eurocurrencies
+Eurodollar <> s: eurodollars
+Euromarket <> s: euromarkets
+Europa <> s: europas
+European <> s: europeans
+Europeanize <> i: Europeanizing, p: Europeanized, '3': Europeanizes, d: Europeanized
+europeans <> b: european, f: s
+euros <> b: euro, f: s
+eurypterid <> s: eurypterids
+eurypterids <> b: eurypterid, f: s
+eutherian <> s: eutherians
+eutherians <> b: eutherian, f: s
+ev <> s: evs
+evacuate <> d: evacuated, i: evacuating, p: evacuated, '3': evacuates
+evacuated <> b: evacuate, f: dp, p: evacuated, d: evacuated
+evacuates <> b: evacuate, f: '3'
+evacuating <> b: evacuate, f: i
+evacuation <> s: evacuations
+evacuations <> b: evacuation, f: s
+evacuee <> s: evacuees
+evacuees <> b: evacuee, f: s
+evade <> i: evading, d: evaded, p: evaded, '3': evades
+evaded <> b: evade, f: dp
+evader <> s: evaders
+evaders <> b: evader, f: s
+evades <> b: evade, f: '3'
+evading <> b: evade, f: i
+evaluate <> d: evaluated, i: evaluating, p: evaluated, '3': evaluates
+evaluated <> b: evaluate, f: dp
+evaluates <> b: evaluate, f: '3'
+evaluating <> b: evaluate, f: i, i: evaluating
+evaluation <> s: evaluations
+evaluations <> b: evaluation, f: s
+evaluator <> s: evaluators
+evaluators <> b: evaluator, f: s
+evan <> s: evans
+evanesce <> i: evanescing, p: evanesced, '3': evanesces, d: evanesced
+evanesced <> f: pd, b: evanesce
+evanesces <> f: '3', b: evanesce
+evanescing <> f: i, b: evanesce
+evangelical <> s: evangelicals
+evangelicals <> b: evangelical, f: s
+evangelise <> i: evangelising, d: evangelised, p: evangelised
+evangelised <> b: evangelise, f: dp
+evangelising <> b: evangelise, f: i, i: evangelising
+evangelist <> s: evangelists
+evangelists <> b: evangelist, f: s
+evangelize <> i: evangelizing, d: evangelized, p: evangelized, '3': evangelizes
+evangelized <> b: evangelize, f: dp
+evangelizes <> f: '3', b: evangelize
+evangelizing <> b: evangelize, f: i
+evans <> b: evan, f: s
+evaporate <> d: evaporated, '3': evaporates, p: evaporated, i: evaporating, s: evaporates
+evaporated <> b: evaporate, f: dp, d: evaporated, p: evaporated
+evaporates <> b: evaporate, f: 3s
+evaporating <> b: evaporate, f: i
+evaporator <> s: evaporators
+evaporators <> b: evaporator, f: s
+evaporite <> s: evaporites
+evaporites <> b: evaporite, f: s
+evasion <> s: evasions
+evasions <> b: evasion, f: s
+eve <> s: eves
+even <> i: evening, p: evened, '3': evens, d: evened
+evened <> f: pd, b: even
+evening <> f: i, b: even, s: evenings
+evenings <> b: evening, f: s
+Evenki <> s: evenkis, b: evenki, f: s
+evens <> f: '3', b: even
+evensong <> s: evensongs
+evensongs <> b: evensong, f: s
+event <> s: events
+eventer <> s: eventers
+eventers <> b: eventer, f: s
+events <> b: event, f: s
+eventualities <> b: eventuality, f: s
+eventuality <> s: eventualities
+eventuate <> p: eventuated, s: eventuates, i: eventuating, '3': eventuates, d: eventuated
+eventuated <> f: pd, b: eventuate
+eventuates <> f: s3, b: eventuate
+eventuating <> f: i, b: eventuate
+evergreen <> s: evergreens
+evergreens <> b: evergreen, f: s
+everlasting <> s: everlastings
+everlastings <> b: everlasting, f: s
+evershed <> p: evershed, b: evershed, f: p
+evert <> d: everted, i: everting, p: everted, '3': everts
+everted <> f: dp, b: evert
+everting <> b: evert, f: i
+everts <> f: '3', b: evert
+Eves <> b: eve, f: s
+evict <> d: evicted, i: evicting, p: evicted, '3': evicts
+evicted <> b: evict, f: dp, d: evicted
+evicting <> b: evict, f: i
+eviction <> s: evictions
+evictions <> b: eviction, f: s
+evicts <> b: evict, f: '3'
+evidence <> d: evidenced, s: evidences, i: evidencing, p: evidenced, '3': evidences
+evidenced <> f: dp, b: evidence
+evidences <> f: s3, b: evidence
+evidencing <> f: i, b: evidence
+evil <> s: evils
+evil-doer <> s: evil-doers
+evil-doers <> b: evil-doer, f: s
+evils <> b: evil, f: s
+evince <> d: evinced, p: evinced, '3': evinces, i: evincing
+evinced <> b: evince, f: dp
+evinces <> b: evince, f: '3'
+evincing <> b: evince, f: i
+eviscerate <> p: eviscerated, d: eviscerated, i: eviscerating, '3': eviscerates
+eviscerated <> b: eviscerate, f: pd, p: eviscerated
+eviscerates <> f: '3', b: eviscerate
+eviscerating <> b: eviscerate, f: i
+evocation <> s: evocations
+evocations <> b: evocation, f: s
+evoke <> '3': evokes, d: evoked, p: evoked, i: evoking
+evoked <> b: evoke, f: dp
+evokes <> b: evoke, f: '3'
+evoking <> b: evoke, f: i, i: evoking
+evolution <> s: evolutions
+evolutionist <> s: evolutionists
+evolutionists <> b: evolutionist, f: s
+evolutions <> b: evolution, f: s
+evolve <> d: evolved, p: evolved, i: evolving, '3': evolves
+evolved <> b: evolve, f: dp, d: evolved, p: evolved
+evolves <> b: evolve, f: '3'
+evolving <> b: evolve, f: i, i: evolving
+evs <> b: ev, f: s
+ew <> '3': ews, s: ews
+Ewart <> s: ewarts
+ewe <> s: ewes
+ewer <> s: ewers
+ewers <> b: ewer, f: s
+ewes <> b: ewe, f: s
+ews <> b: ew, f: 3s
+ex <> s: exes
+ex-con <> s: ex-cons
+ex-cons <> b: ex-con, f: s
+ex-service <> s: ex-services
+ex-serviceman <> s: ex-servicemen
+ex-servicemen <> b: ex-serviceman, f: s
+ex-services <> b: ex-service, f: s
+exacerbate <> d: exacerbated, p: exacerbated, '3': exacerbates, i: exacerbating
+exacerbated <> b: exacerbate, f: dp
+exacerbates <> b: exacerbate, f: '3'
+exacerbating <> b: exacerbate, f: i
+exacerbation <> s: exacerbations
+exacerbations <> b: exacerbation, f: s
+exact <> d: exacted, p: exacted, '3': exacts, i: exacting
+exacted <> b: exact, f: dp
+exacting <> b: exact, f: i, i: exacting
+exaction <> s: exactions
+exactions <> b: exaction, f: s
+exactitude <> s: exactitudes
+exactitudes <> b: exactitude, f: s
+exacts <> b: exact, f: '3'
+exaggerate <> d: exaggerated, i: exaggerating, p: exaggerated, '3': exaggerates
+exaggerated <> b: exaggerate, f: dp, d: exaggerated, p: exaggerated
+exaggerates <> b: exaggerate, f: '3'
+exaggerating <> b: exaggerate, f: i
+exaggeration <> s: exaggerations
+exaggerations <> b: exaggeration, f: s
+exalt <> d: exalted, i: exalting, p: exalted, '3': exalts
+exaltation <> s: exaltations
+exaltations <> b: exaltation, f: s
+exalted <> d: exalted, b: exalted, f: dp, p: exalted
+exaltedness <> s: exaltednesses
+exaltednesses <> b: exaltedness, f: s
+exalting <> b: exalt, f: i
+exalts <> b: exalt, f: '3'
+exam <> s: exams
+examination <> s: examinations
+examinations <> b: examination, f: s
+examine <> d: examined, i: examining, p: examined, '3': examines
+examined <> b: examine, f: dp, p: examined
+examinee <> s: examinees
+examinees <> b: examinee, f: s
+examiner <> s: examiners
+examiners <> b: examiner, f: s
+examines <> b: examine, f: '3'
+examining <> b: examine, f: i, i: examining
+example <> s: examples
+examples <> b: example, f: s
+exams <> b: exam, f: s
+exasperate <> d: exasperated, p: exasperated, i: exasperating, '3': exasperates
+exasperated <> b: exasperate, f: dp, d: exasperated, p: exasperated
+exasperates <> b: exasperate, f: '3'
+exasperating <> b: exasperate, f: i, i: exasperating
+excavate <> d: excavated, p: excavated, i: excavating, '3': excavates
+excavated <> b: excavate, f: dp, d: excavated, p: excavated
+excavates <> b: excavate, f: '3'
+excavating <> b: excavate, f: i, i: excavating
+excavation <> s: excavations
+excavations <> b: excavation, f: s
+excavator <> s: excavators
+excavators <> b: excavator, f: s
+exceed <> '3': exceeds, i: exceeding, d: exceeded, p: exceeded
+exceeded <> b: exceed, f: dp, d: exceeded, p: exceeded
+exceeding <> b: exceed, f: i
+exceeds <> b: exceed, f: '3'
+excel <> p: excelled, '3': excels, d: excelled, i: excelling
+excelled <> b: excel, f: pd
+excellence <> s: excellences
+excellences <> b: excellence, f: s
+excellencies <> b: excellency, f: s
+Excellency <> s: excellencies
+excelling <> b: excel, f: i
+excels <> b: excel, f: '3'
+excelsior <> s: excelsiors
+excelsiors <> b: excelsior, f: s
+except <> i: excepting, p: excepted, d: excepted, '3': excepts
+excepted <> b: except, f: pd, p: excepted, d: excepted
+excepting <> b: except, f: i
+exception <> s: exceptions
+exceptional <> s: exceptionals
+exceptionals <> b: exceptional, f: s
+exceptions <> b: exception, f: s
+excepts <> f: '3', b: except
+excerpt <> s: excerpts, p: excerpted, d: excerpted, i: excerpting, '3': excerpts
+excerpted <> b: excerpt, f: pd
+excerpting <> b: excerpt, f: i
+excerpts <> f: s3, b: excerpt
+excess <> s: excesses
+excesses <> b: excess, f: s
+exchange <> s: exchanges, d: exchanged, p: exchanged, i: exchanging, '3': exchanges
+exchanged <> b: exchange, f: dp, p: exchanged, d: exchanged
+exchanger <> s: exchangers, '3': exchangers
+exchangers <> b: exchanger, f: s3
+exchanges <> b: exchange, f: s3
+exchanging <> b: exchange, f: i, i: exchanging
+exchequer <> s: exchequers
+exchequers <> b: exchequer, f: s
+excise <> d: excised, p: excised, i: excising, s: excises, '3': excises
+excised <> b: excise, f: dp, d: excised
+exciseman <> s: excisemen
+excisemen <> b: exciseman, f: s
+excises <> f: s3, b: excise
+excising <> b: excise, f: i
+excision <> s: excisions
+excisions <> b: excision, f: s
+excitation <> s: excitations
+excitations <> b: excitation, f: s
+excite <> d: excited, p: excited, '3': excites, i: exciting
+excited <> d: excited, b: excited, f: dp, p: excited
+excitement <> s: excitements
+excitements <> b: excitement, f: s
+excites <> b: excite, f: '3'
+exciting <> i: exciting, b: exciting, f: i
+exclaim <> p: exclaimed, i: exclaiming, '3': exclaims, d: exclaimed
+exclaimed <> b: exclaim, f: pd
+exclaiming <> b: exclaim, f: i, i: exclaiming
+exclaims <> b: exclaim, f: '3'
+exclamation <> s: exclamations
+exclamations <> b: exclamation, f: s
+exclude <> d: excluded, i: excluding, '3': excludes, p: excluded
+excluded <> b: exclude, f: dp, d: excluded, p: excluded
+excluder <> s: excluders
+excluders <> b: excluder, f: s
+excludes <> b: exclude, f: '3'
+excluding <> b: exclude, f: i
+exclusion <> s: exclusions
+exclusionist <> s: exclusionists
+exclusionists <> b: exclusionist, f: s
+exclusions <> b: exclusion, f: s
+exclusive <> s: exclusives
+exclusives <> b: exclusive, f: s
+excogitate <> i: excogitating, p: excogitated, '3': excogitates, d: excogitated
+excogitated <> f: pd, b: excogitate
+excogitates <> f: '3', b: excogitate
+excogitating <> f: i, b: excogitate
+excommunicate <> d: excommunicated, p: excommunicated, i: excommunicating, '3': excommunicates
+excommunicated <> b: excommunicate, f: dp
+excommunicates <> b: excommunicate, f: '3'
+excommunicating <> b: excommunicate, f: i
+excommunication <> s: excommunications
+excommunications <> b: excommunication, f: s
+excoriate <> p: excoriated, d: excoriated, i: excoriating, '3': excoriates
+excoriated <> b: excoriate, f: pd
+excoriates <> b: excoriate, f: '3'
+excoriating <> b: excoriate, f: i
+excoriation <> s: excoriations
+excoriations <> b: excoriation, f: s
+excrescence <> s: excrescences
+excrescences <> b: excrescence, f: s
+excreta <> s: excreta, b: excreta, f: s
+excrete <> d: excreted, p: excreted, i: excreting, '3': excretes
+excreted <> b: excrete, f: dp, d: excreted, p: excreted
+excretes <> b: excrete, f: '3'
+excreting <> b: excrete, f: i
+excretion <> s: excretions
+excretions <> b: excretion, f: s
+excruciate <> i: excruciating, p: excruciated, '3': excruciates, d: excruciated
+excruciating <> f: i, b: excruciate
+exculpate <> p: exculpated, '3': exculpates, i: exculpating, d: exculpated
+exculpated <> f: pd, b: exculpate
+exculpates <> b: exculpate, f: '3'
+exculpating <> b: exculpate, f: i
+excursion <> s: excursions
+excursionist <> s: excursionists
+excursionists <> b: excursionist, f: s
+excursions <> b: excursion, f: s
+excuse <> s: excuses, d: excused, p: excused, i: excusing, '3': excuses
+excused <> b: excuse, f: dp, d: excused, p: excused
+excuses <> b: excuse, f: s3
+excusing <> b: excuse, f: i
+exeat <> s: exeats
+exeats <> b: exeat, f: s
+exec <> s: execs
+execrate <> d: execrated, p: execrated, i: execrating, '3': execrates
+execrated <> b: execrate, f: dp
+execrates <> f: '3', b: execrate
+execrating <> f: i, b: execrate
+execration <> s: execrations
+execrations <> b: execration, f: s
+execs <> b: exec, f: s
+executable <> s: executables
+executables <> b: executable, f: s
+executant <> s: executants
+executants <> b: executant, f: s
+execute <> d: executed, p: executed, i: executing, '3': executes
+executed <> b: execute, f: dp, p: executed, d: executed
+executes <> b: execute, f: '3'
+executing <> b: execute, f: i
+execution <> s: executions
+executioner <> s: executioners
+executioners <> b: executioner, f: s
+executions <> b: execution, f: s
+executive <> s: executives
+executives <> b: executive, f: s
+executor <> s: executors
+executors <> b: executor, f: s
+executorship <> s: executorships
+executorships <> b: executorship, f: s
+exegete <> s: exegetes, '3': exegetes
+exegetes <> b: exegete, f: s3
+exemplar <> s: exemplars
+exemplars <> b: exemplar, f: s
+exemplification <> s: exemplifications
+exemplifications <> b: exemplification, f: s
+exemplified <> b: exemplify, f: dp
+exemplifies <> b: exemplify, f: '3'
+exemplify <> d: exemplified, '3': exemplifies, i: exemplifying, p: exemplified
+exemplifying <> b: exemplify, f: i
+exempt <> d: exempted, i: exempting, '3': exempts, p: exempted
+exempted <> b: exempt, f: dp
+exempting <> b: exempt, f: i, i: exempting
+exemption <> s: exemptions
+exemptions <> b: exemption, f: s
+exempts <> b: exempt, f: '3'
+exequies <> b: exequy, f: s
+exequy <> s: exequies
+exercise <> d: exercised, s: exercises, i: exercising, '3': exercises, p: exercised
+exercised <> b: exercise, f: dp
+exerciser <> s: exercisers
+exercisers <> b: exerciser, f: s
+exercises <> b: exercise, f: s3
+exercising <> b: exercise, f: i, i: exercising
+exert <> d: exerted, '3': exerts, p: exerted, i: exerting
+exerted <> b: exert, f: dp
+exerting <> b: exert, f: i
+exertion <> s: exertions
+exertions <> b: exertion, f: s
+exerts <> b: exert, f: '3'
+exes <> b: ex, f: s
+exfoliant <> s: exfoliants
+exfoliants <> b: exfoliant, f: s
+exfoliate <> p: exfoliated, i: exfoliating, '3': exfoliates, d: exfoliated
+exfoliating <> f: i, b: exfoliate
+exfoliator <> s: exfoliators
+exfoliators <> b: exfoliator, f: s
+exhalation <> s: exhalations
+exhalations <> b: exhalation, f: s
+exhale <> p: exhaled, i: exhaling, '3': exhales, d: exhaled, s: exhales
+exhaled <> b: exhale, f: pd, p: exhaled
+exhales <> b: exhale, f: 3s
+exhaling <> b: exhale, f: i
+exhaust <> d: exhausted, i: exhausting, s: exhausts, p: exhausted, '3': exhausts
+exhausted <> b: exhaust, f: dp, d: exhausted, p: exhausted
+exhausting <> b: exhaust, f: i, i: exhausting
+exhaustion <> s: exhaustions
+exhaustions <> b: exhaustion, f: s
+exhausts <> b: exhaust, f: s3
+exhibit <> d: exhibited, s: exhibits, i: exhibiting, p: exhibited, '3': exhibits
+exhibited <> b: exhibit, f: dp, p: exhibited
+exhibiting <> b: exhibit, f: i, i: exhibiting
+exhibition <> s: exhibitions
+exhibitionist <> s: exhibitionists
+exhibitionists <> b: exhibitionist, f: s
+exhibitions <> b: exhibition, f: s
+exhibitor <> s: exhibitors
+exhibitors <> b: exhibitor, f: s
+exhibits <> b: exhibit, f: s3
+exhilarate <> s: exhilarates, i: exhilarating, p: exhilarated, '3': exhilarates, d: exhilarated
+exhilarated <> f: pd, b: exhilarate
+exhilarating <> f: i, b: exhilarate
+exhort <> p: exhorted, i: exhorting, d: exhorted, '3': exhorts, s: exhorts
+exhortation <> s: exhortations
+exhortations <> b: exhortation, f: s
+exhorted <> b: exhort, f: pd
+exhorter <> s: exhorters
+exhorters <> b: exhorter, f: s
+exhorting <> b: exhort, f: i
+exhorts <> b: exhort, f: 3s
+exhumation <> s: exhumations
+exhumations <> b: exhumation, f: s
+exhume <> d: exhumed, i: exhuming, p: exhumed, '3': exhumes
+exhumed <> b: exhume, f: dp, d: exhumed
+exhumes <> b: exhume, f: '3'
+exhuming <> b: exhume, f: i
+exigence <> s: exigences
+exigences <> b: exigence, f: s
+exigencies <> b: exigency, f: s
+exigency <> s: exigencies
+exile <> s: exiles, d: exiled, i: exiling, p: exiled, '3': exiles
+exiled <> b: exile, f: dp, d: exiled
+exiles <> f: s3, b: exile
+exiling <> b: exile, f: i
+exist <> '3': exists, p: existed, d: existed, i: existing
+existed <> b: exist, f: pd
+existence <> s: existences
+existences <> b: existence, f: s
+existent <> s: existents
+existentialist <> s: existentialists
+existentialists <> b: existentialist, f: s
+existents <> b: existent, f: s
+existing <> b: exist, f: i, i: existing
+exists <> b: exist, f: '3'
+exit <> s: exits, i: exiting, p: exited, d: exited, '3': exits
+exited <> b: exit, f: pd, p: exited
+exiting <> b: exit, f: i
+exits <> b: exit, f: s3
+exocet <> s: exocets, '3': exocets
+exocets <> b: exocet, f: s3
+exon <> s: exons
+exonerate <> d: exonerated, p: exonerated, '3': exonerates, i: exonerating
+exonerated <> b: exonerate, f: dp, d: exonerated, p: exonerated
+exonerates <> b: exonerate, f: '3'
+exonerating <> b: exonerate, f: i
+exons <> b: exon, f: s
+exonuclease <> s: exonucleases
+exonucleases <> b: exonuclease, f: s
+exorcise <> d: exorcised, p: exorcised, i: exorcising, '3': exorcises
+exorcised <> b: exorcise, f: dp
+exorcises <> b: exorcise, f: '3'
+exorcising <> b: exorcise, f: i
+exorcism <> s: exorcisms
+exorcisms <> b: exorcism, f: s
+exorcist <> s: exorcists
+exorcists <> b: exorcist, f: s
+exorcize <> d: exorcized, p: exorcized, i: exorcizing, '3': exorcizes
+exorcized <> b: exorcize, f: dp
+exorcizes <> f: '3', b: exorcize
+exorcizing <> b: exorcize, f: i
+exoskeleton <> s: exoskeletons
+exoskeletons <> b: exoskeleton, f: s
+exosphere <> s: exospheres
+exospheres <> b: exosphere, f: s
+exotic <> s: exotics
+exotics <> b: exotic, f: s
+exotoxin <> s: exotoxins
+exotoxins <> b: exotoxin, f: s
+expand <> d: expanded, i: expanding, '3': expands, p: expanded
+expanded <> b: expand, f: dp, d: expanded, p: expanded
+expander <> s: expanders
+expanders <> b: expander, f: s
+expanding <> b: expand, f: i, i: expanding
+expands <> b: expand, f: '3'
+expanse <> s: expanses
+expanses <> b: expanse, f: s
+expansion <> s: expansions
+expansionist <> s: expansionists
+expansionists <> b: expansionist, f: s
+expansions <> b: expansion, f: s
+expansivities <> b: expansivity, f: s
+expansivity <> s: expansivities
+expat <> s: expats
+expatiate <> p: expatiated, d: expatiated, i: expatiating, '3': expatiates
+expatiated <> b: expatiate, f: pd
+expatiates <> f: '3', b: expatiate
+expatiating <> b: expatiate, f: i
+expatriate <> s: expatriates, p: expatriated, i: expatriating, '3': expatriates, d: expatriated
+expatriated <> f: pd, b: expatriate
+expatriates <> f: s3, b: expatriate
+expatriating <> f: i, b: expatriate
+expats <> b: expat, f: s
+expect <> d: expected, i: expecting, p: expected, '3': expects
+expectancies <> b: expectancy, f: s
+expectancy <> s: expectancies
+expectation <> s: expectations
+expectations <> b: expectation, f: s
+expected <> b: expect, f: dp, d: expected, p: expected
+expecting <> b: expect, f: i
+expectorant <> s: expectorants
+expectorants <> b: expectorant, f: s
+expectorate <> i: expectorating, d: expectorated, p: expectorated, '3': expectorates
+expectorated <> b: expectorate, f: dp
+expectorates <> f: '3', b: expectorate
+expectorating <> b: expectorate, f: i
+expects <> b: expect, f: '3'
+expediencies <> b: expediency, f: s
+expediency <> s: expediencies
+expedient <> s: expedients
+expedients <> b: expedient, f: s
+expedit <> i: expediting, d: expedited, p: expedited
+expedite <> i: expediting, p: expedited, '3': expedites, d: expedited
+expedited <> b: expedit, f: dp
+expediter <> s: expediters
+expediters <> b: expediter, f: s
+expedites <> f: '3', b: expedite
+expediting <> b: expedit, f: i
+expedition <> s: expeditions
+expeditions <> b: expedition, f: s
+expel <> d: expelled, p: expelled, i: expelling, '3': expels
+expelled <> b: expel, f: dp, p: expelled, d: expelled
+expellee <> s: expellees
+expellees <> b: expellee, f: s
+expelling <> b: expel, f: i
+expels <> b: expel, f: '3'
+expend <> d: expended, p: expended, i: expending, '3': expends
+expendable <> s: expendables
+expendables <> b: expendable, f: s
+expended <> b: expend, f: dp
+expending <> b: expend, f: i
+expenditure <> s: expenditures
+expenditures <> b: expenditure, f: s
+expends <> b: expend, f: '3'
+expense <> s: expenses
+expenses <> b: expense, f: s
+experience <> s: experiences, d: experienced, i: experiencing, p: experienced, '3': experiences
+experienced <> b: experience, f: dp, d: experienced, p: experienced
+experiences <> b: experience, f: s3
+experiencing <> b: experience, f: i
+experiment <> s: experiments, i: experimenting, d: experimented, p: experimented, '3': experiments
+experimentalist <> s: experimentalists
+experimentalists <> b: experimentalist, f: s
+experimentation <> s: experimentations
+experimentations <> b: experimentation, f: s
+experimented <> b: experiment, f: dp
+experimenter <> s: experimenters
+experimenters <> b: experimenter, f: s
+experimenting <> b: experiment, f: i, i: experimenting
+experiments <> b: experiment, f: s3
+expert <> s: experts
+expertise <> s: expertises
+expertises <> b: expertise, f: s
+experts <> b: expert, f: s
+expiate <> p: expiated, d: expiated, i: expiating, '3': expiates
+expiated <> b: expiate, f: pd
+expiates <> f: '3', b: expiate
+expiating <> b: expiate, f: i
+expire <> p: expired, '3': expires, d: expired, i: expiring
+expired <> b: expire, f: pd, d: expired, p: expired
+expires <> b: expire, f: '3'
+expiring <> b: expire, f: i, i: expiring
+explain <> p: explained, d: explained, '3': explains, i: explaining
+explained <> b: explain, f: pd, d: explained, p: explained
+explaining <> b: explain, f: i, i: explaining
+explains <> b: explain, f: '3'
+explanation <> s: explanations
+explanations <> b: explanation, f: s
+explant <> s: explants, d: explanted, p: explanted, i: explanting
+explanted <> b: explant, f: dp
+explanting <> b: explant, f: i
+explants <> b: explant, f: s
+expletive <> s: expletives
+expletives <> b: expletive, f: s
+explicans <> b: explican, f: s
+explicate <> d: explicated, i: explicating, '3': explicates, p: explicated, s: explicates
+explicated <> b: explicate, f: dp
+explicates <> b: explicate, f: 3s
+explicating <> b: explicate, f: i
+explication <> s: explications
+explications <> b: explication, f: s
+explode <> p: exploded, i: exploding, d: exploded, '3': explodes
+exploded <> b: explode, f: pd, p: exploded, d: exploded
+exploder <> s: exploders
+exploders <> b: exploder, f: s
+explodes <> b: explode, f: '3'
+exploding <> b: explode, f: i, i: exploding, s: explodings
+exploit <> d: exploited, i: exploiting, s: exploits, p: exploited, '3': exploits
+exploitation <> s: exploitations
+exploitations <> b: exploitation, f: s
+exploited <> b: exploit, f: dp, d: exploited, p: exploited
+exploiter <> s: exploiters
+exploiters <> b: exploiter, f: s
+exploiting <> b: exploit, f: i, i: exploiting
+exploits <> f: s3, b: exploit
+exploration <> s: explorations
+explorations <> b: exploration, f: s
+explore <> i: exploring, d: explored, '3': explores, p: explored
+explored <> b: explore, f: dp, d: explored
+explorer <> s: explorers
+explorers <> b: explorer, f: s
+explores <> b: explore, f: '3'
+exploring <> b: explore, f: i, i: exploring
+explosion <> s: explosions
+explosions <> b: explosion, f: s
+explosive <> s: explosives
+explosives <> b: explosive, f: s
+expo <> s: expos
+exponent <> s: exponents
+exponential <> s: exponentials
+exponentials <> b: exponential, f: s
+exponents <> b: exponent, f: s
+export <> s: exports, d: exported, '3': exports, i: exporting, p: exported
+exported <> b: export, f: dp, d: exported, p: exported
+exporter <> s: exporters
+exporters <> b: exporter, f: s
+exporting <> b: export, f: i, i: exporting
+exports <> b: export, f: s3
+expos <> b: expo, f: s
+expose <> d: exposed, i: exposing, p: exposed, '3': exposes
+exposed <> b: expose, f: dp, d: exposed, p: exposed
+exposer <> s: exposers
+exposers <> b: exposer, f: s
+exposes <> b: expose, f: '3'
+exposing <> b: expose, f: i
+exposition <> s: expositions
+expositions <> b: exposition, f: s
+expositor <> s: expositors
+expositors <> b: expositor, f: s
+expostulate <> p: expostulated, '3': expostulates, d: expostulated, i: expostulating
+expostulated <> b: expostulate, f: pd
+expostulates <> b: expostulate, f: '3'
+expostulating <> b: expostulate, f: i
+expostulation <> s: expostulations
+expostulations <> b: expostulation, f: s
+exposure <> s: exposures
+exposures <> b: exposure, f: s
+expound <> d: expounded, p: expounded, i: expounding, '3': expounds
+expounded <> b: expound, f: dp, p: expounded
+expounding <> b: expound, f: i
+expounds <> b: expound, f: '3'
+express <> d: expressed, i: expressing, p: expressed, '3': expresses
+expressed <> b: express, f: dp, p: expressed, d: expressed
+expresses <> b: express, f: '3'
+expressing <> b: express, f: i
+expression <> s: expressions
+expressionist <> s: expressionists
+expressionists <> b: expressionist, f: s
+expressions <> b: expression, f: s
+expressway <> s: expressways
+expressways <> b: expressway, f: s
+expropriate <> d: expropriated, p: expropriated, i: expropriating, '3': expropriates
+expropriated <> b: expropriate, f: dp, d: expropriated, p: expropriated
+expropriates <> b: expropriate, f: '3'
+expropriating <> b: expropriate, f: i
+expropriation <> s: expropriations
+expropriations <> b: expropriation, f: s
+expropriator <> s: expropriators
+expropriators <> b: expropriator, f: s
+expulsion <> s: expulsions
+expulsions <> b: expulsion, f: s
+expunge <> d: expunged, p: expunged, i: expunging, '3': expunges
+expunged <> b: expunge, f: dp
+expunges <> f: '3', b: expunge
+expunging <> b: expung, f: i
+expurgate <> d: expurgated, p: expurgated, i: expurgating, '3': expurgates
+expurgated <> b: expurgate, f: dp
+expurgates <> f: '3', b: expurgate
+expurgating <> f: i, b: expurgate
+exsert <> i: exserting, p: exserted, '3': exserts, d: exserted
+exserted <> f: pd, b: exsert
+exserting <> f: i, b: exsert
+exserts <> f: '3', b: exsert
+extemporization <> s: extemporizations
+extemporizations <> b: extemporization, f: s
+extemporize <> i: extemporizing, p: extemporized, '3': extemporizes, d: extemporized
+extemporized <> f: pd, b: extemporize
+extemporizes <> f: '3', b: extemporize
+extemporizing <> b: extemporize, f: i
+extend <> d: extended, i: extending, '3': extends, p: extended
+extended <> b: extend, f: dp, d: extended, p: extended
+extender <> s: extenders
+extenders <> b: extender, f: s
+extending <> b: extend, f: i, i: extending
+extends <> b: extend, f: '3'
+extension <> s: extensions
+extensions <> b: extension, f: s
+extensor <> s: extensors
+extensors <> b: extensor, f: s
+extent <> s: extents
+extents <> b: extent, f: s
+extenuate <> i: extenuating, s: extenuates, p: extenuated, '3': extenuates, d: extenuated
+extenuated <> f: pd, b: extenuate
+extenuates <> f: s3, b: extenuate
+extenuating <> b: extenuate, f: i, i: extenuating
+exterior <> s: exteriors
+exteriorize <> d: exteriorized, i: exteriorizing, p: exteriorized, '3': exteriorizes
+exteriorized <> b: exteriorize, f: dp
+exteriorizing <> b: exteriorize, f: i
+exteriors <> b: exterior, f: s
+exterminate <> d: exterminated, i: exterminating, p: exterminated, '3': exterminates
+exterminated <> b: exterminate, f: dp
+exterminates <> f: '3', b: exterminate
+exterminating <> b: exterminate, f: i
+extermination <> s: exterminations
+exterminations <> b: extermination, f: s
+exterminator <> s: exterminators
+exterminators <> b: exterminator, f: s
+external <> s: externals
+externalist <> s: externalists
+externalists <> b: externalist, f: s
+externalities <> b: externality, f: s
+externality <> s: externalities
+externalization <> s: externalizations
+externalizations <> b: externalization, f: s
+externalize <> p: externalized, d: externalized, i: externalizing, '3': externalizes
+externalized <> b: externalize, f: pd, p: externalized
+externalizes <> f: '3', b: externalize
+externalizing <> b: externalize, f: i
+externals <> b: external, f: s
+extinction <> s: extinctions
+extinctions <> b: extinction, f: s
+extinguish <> d: extinguished, i: extinguishing, p: extinguished, '3': extinguishes
+extinguished <> b: extinguish, f: dp, d: extinguished, p: extinguished
+extinguisher <> s: extinguishers
+extinguishers <> b: extinguisher, f: s
+extinguishes <> b: extinguish, f: '3'
+extinguishing <> b: extinguish, f: i, i: extinguishing
+extirpate <> d: extirpated, p: extirpated, i: extirpating, '3': extirpates
+extirpated <> b: extirpate, f: dp
+extirpates <> f: '3', b: extirpate
+extirpating <> b: extirpate, f: i
+extol <> i: extolling, d: extolled, p: extolled, '3': extols
+extolled <> b: extol, f: dp
+extolling <> b: extol, f: i
+extols <> b: extol, f: '3'
+extort <> d: extorted, i: extorting, p: extorted, '3': extorts
+extorted <> b: extort, f: dp, p: extorted
+extorting <> b: extort, f: i
+extortion <> s: extortions
+extortioner <> s: extortioners
+extortioners <> b: extortioner, f: s
+extortionist <> s: extortionists
+extortionists <> b: extortionist, f: s
+extortions <> b: extortion, f: s
+extorts <> b: extort, f: '3'
+extra <> s: extras
+extract <> s: extracts, d: extracted, i: extracting, p: extracted, '3': extracts
+extracted <> b: extract, f: dp, p: extracted, d: extracted
+extracting <> b: extract, f: i, i: extracting
+extraction <> s: extractions
+extractions <> b: extraction, f: s
+extractor <> s: extractors
+extractors <> b: extractor, f: s
+extracts <> b: extract, f: s3
+extraditable <> s: extraditables
+extraditables <> b: extraditable, f: s
+extradite <> i: extraditing, p: extradited, '3': extradites, d: extradited
+extradited <> b: extradit, f: dp
+extradites <> f: '3', b: extradite
+extraditing <> b: extradit, f: i
+extradition <> s: extraditions
+extraditions <> b: extradition, f: s
+extraordinaries <> b: extraordinary, f: s
+extraordinary <> s: extraordinaries
+extrapolate <> i: extrapolating, d: extrapolated, p: extrapolated, '3': extrapolates, s: extrapolates
+extrapolated <> b: extrapolate, f: dp
+extrapolates <> b: extrapolate, f: 3s
+extrapolating <> b: extrapolate, f: i
+extrapolation <> s: extrapolations
+extrapolations <> b: extrapolation, f: s
+extras <> b: extra, f: s
+extrasystole <> s: extrasystoles
+extrasystoles <> b: extrasystole, f: s
+extraterrestrial <> s: extraterrestrials
+extraterrestrials <> b: extraterrestrial, f: s
+extravagance <> s: extravagances
+extravagances <> b: extravagance, f: s
+extravagancies <> b: extravagancy, f: s
+extravagancy <> s: extravagancies
+extravaganza <> s: extravaganzas
+extravaganzas <> b: extravaganza, f: s
+extravasate <> p: extravasated, i: extravasating, '3': extravasates, d: extravasated
+extravasated <> f: pd, b: extravasate
+extravasates <> f: '3', b: extravasate
+extravasating <> f: i, b: extravasate
+extravert <> s: extraverts
+extraverts <> b: extravert, f: s
+extreme <> s: extremes, t: extremest
+extremes <> b: extreme, f: s
+extremest <> b: extreme, f: t
+extremist <> s: extremists
+extremists <> b: extremist, f: s
+extremities <> b: extremity, f: s
+extremity <> s: extremities
+extricate <> i: extricating, p: extricated, d: extricated, '3': extricates
+extricated <> b: extricate, f: pd
+extricates <> b: extricate, f: '3'
+extricating <> b: extricate, f: i
+extrovert <> s: extroverts, p: extroverted, d: extroverted
+extroverted <> b: extrovert, f: pd
+extroverts <> b: extrovert, f: s
+extrude <> d: extruded, p: extruded, '3': extrudes, i: extruding
+extruded <> b: extrude, f: dp, p: extruded
+extruder <> s: extruders
+extruders <> b: extruder, f: s
+extrudes <> b: extrude, f: '3'
+extruding <> b: extrude, f: i
+extrusion <> s: extrusions
+extrusions <> b: extrusion, f: s
+extrusive <> s: extrusives
+extrusives <> b: extrusive, f: s
+exuberant <> s: exuberants
+exuberants <> b: exuberant, f: s
+exudate <> s: exudates
+exudates <> b: exudate, f: s
+exude <> p: exuded, '3': exudes, i: exuding, d: exuded
+exuded <> b: exude, f: pd, p: exuded
+exudes <> b: exude, f: '3'
+exuding <> b: exude, f: i
+exult <> p: exulted, i: exulting, '3': exults, s: exults, d: exulted
+exultation <> s: exultations
+exultations <> b: exultation, f: s
+exulted <> b: exult, f: pd
+exulting <> b: exult, f: i
+exults <> b: exult, f: 3s
+exuviate <> i: exuviating, p: exuviated, '3': exuviates, d: exuviated
+exuviated <> f: pd, b: exuviate
+exuviates <> f: '3', b: exuviate
+exuviating <> f: i, b: exuviate
+ey <> s: eys
+eya <> s: eyas
+eyas <> b: eya, f: s
+eye <> s: eyes, p: eyed, i: eyeing, d: eyed, '3': eyes
+eye-catcher <> s: eye-catchers
+eye-catchers <> b: eye-catcher, f: s
+eye-opener <> s: eye-openers
+eye-openers <> b: eye-opener, f: s
+eyeball <> s: eyeballs, i: eyeballing, p: eyeballed, '3': eyeballs, d: eyeballed
+eyeballed <> b: eyebal, f: p
+eyeballing <> b: eyebal, f: i
+eyeballs <> f: s3, b: eyeball
+eyebath <> s: eyebaths
+eyebaths <> b: eyebath, f: s
+eyebright <> s: eyebrights
+eyebrights <> b: eyebright, f: s
+eyebrow <> s: eyebrows
+eyebrows <> b: eyebrow, f: s
+eyed <> b: eye, f: pd, p: eyed
+eyedrop <> s: eyedrops
+eyedrops <> b: eyedrop, f: s
+eyeglass <> s: eyeglasses
+eyeglasses <> b: eyeglass, f: s
+eyehole <> s: eyeholes
+eyeholes <> b: eyehole, f: s
+eyeing <> b: eye, f: i
+eyelash <> s: eyelashes, p: eyelashed
+eyelashed <> b: eyelash, f: p
+eyelashes <> b: eyelash, f: s
+eyelet <> s: eyelets
+eyelets <> b: eyelet, f: s
+eyelid <> s: eyelids
+eyelids <> b: eyelid, f: s
+eyeline <> s: eyelines
+eyeliner <> s: eyeliners
+eyeliners <> b: eyeliner, f: s
+eyelines <> b: eyeline, f: s
+eyepatch <> s: eyepatches
+eyepatches <> b: eyepatch, f: s
+eyepiece <> s: eyepieces
+eyepieces <> b: eyepiece, f: s
+eyes <> f: s3, b: eye
+eyeshadow <> s: eyeshadows
+eyeshadows <> b: eyeshadow, f: s
+eyesore <> s: eyesores
+eyesores <> b: eyesore, f: s
+eyewitness <> s: eyewitnesses
+eyewitnesses <> b: eyewitness, f: s
+eyot <> s: eyots
+eyots <> b: eyot, f: s
+eyre <> s: eyres
+EYRES <> b: eyre, f: s
+eys <> b: ey, f: s

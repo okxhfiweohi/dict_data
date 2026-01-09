@@ -1,0 +1,639 @@
+naan <> w: 122634, p: [27750]
+nab <> w: 122635, p: [46380]
+nabob <> w: 122640
+nacho <> w: 122650, p: [30958]
+nadir <> w: 122659
+nag <> w: 122669
+naga <> w: 122672
+nah <> w: 365635
+naif <> w: 122694, p: [49984]
+nail <> w: 122696, p: [46569, 22538, 50653]
+nail brush <> p: [35326]
+nail enamel <> p: [22858]
+nail file <> w: 122709, p: [22973]
+nail polish <> w: 122703, p: [22858]
+nail scissors <> w: 208481, p: [29868]
+nail varnish <> p: [22858]
+nail-biting <> w: 122697
+naive <> w: 122716, p: [49984]
+naively <> w: 122719, p: [49984]
+naked <> w: 122731, p: [29499]
+namby-pamby <> w: 122752
+name <> w: 122753, p: [29038, 21252]
+named <> w: 228311
+namely <> w: 122765
+nan <> w: 122782, p: [60859, 60859]
+nanna <> w: 122806, p: [60859]
+nanny <> w: 122808, p: [51610]
+nanosecond <> w: 122817
+nanotechnology <> w: 122818
+nanotube <> w: 122819
+nap <> w: 122828, p: [47184]
+nape <> w: 122833
+napery <> w: 122834, p: [41858]
+napkin <> w: 122845, p: [17180, 33434]
+napkin ring <> w: 122846, p: [38220]
+nappy <> w: 122858, p: [33434]
+narc <> w: 122868
+narcissism <> w: 122871
+narcissist <> w: 122872, p: [27303]
+narcissistic <> w: 122873, p: [60338]
+narcissus <> w: 122875, p: [21913]
+narcolepsy <> w: 122881
+narcotic <> w: 122885
+nark <> w: 123007
+narrate <> w: 123009, p: [55000]
+narration <> w: 123010
+narrative <> w: 123011
+narrator <> w: 123012
+narrow <> w: 123013, p: [45371, 29665, 54812]
+narrow gauge <> w: 123036
+narrow-minded <> w: 123028, p: [29665]
+narrowcast <> w: 209080
+narrowly <> w: 123045
+narthex <> w: 123050
+narwhal <> w: 123052, p: [34610]
+nary <> w: 123054
+nasal <> w: 123056, p: [50655]
+nasal concha <> p: [30367]
+nasalization <> w: 123073
+nasally <> w: 123075
+nascent <> w: 123078
+nasty <> w: 123101, p: [28732]
+natal <> w: 123105
+natatorium <> w: 123113, p: [18063]
+nates <> w: 123115, p: [33467]
+nation <> w: 123124
+national <> w: 123126, p: [43426, 48457, 19532]
+national costume <> w: 228618, p: [51200]
+national park <> w: 123159, p: [18940]
+nationalism <> w: 123177
+nationalist <> w: 123178
+nationality <> w: 123182, p: [17721]
+nationalization <> w: 123183
+nationally <> w: 123185, p: [48457]
+nationwide <> w: 123187, p: [48457, 48457]
+native <> w: 123188
+native speaker <> w: 123206
+natter <> w: 123223, p: [36880]
+natterjack <> w: 123224, p: [23831]
+natty <> w: 123227, p: [18437]
+natural <> w: 123228, p: [23977, 48485, 30715, 30715]
+natural childbirth <> w: 123231
+natural gas <> w: 123241, p: [33653]
+natural history <> w: 123243
+natural philosophy <> w: 123255, p: [29265]
+natural resources <> w: 123259
+natural science <> w: 123261
+natural selection <> w: 123263
+naturalism <> w: 123272, p: [20751]
+naturalist <> w: 123273
+naturalistic <> w: 123274, p: [20751]
+naturalization <> w: 123275
+naturalize <> w: 123276
+naturally <> w: 123278
+nature <> w: 123281, p: [48485]
+nature reserve <> w: 211463
+naturopath <> w: 123287
+naturopathic <> w: 209948
+naturopathy <> w: 123288
+naughtily <> w: 123295
+naughty <> w: 123297, p: [37045]
+nausea <> w: 123304
+nauseate <> w: 123306, p: [46493, 47965]
+nauseated <> w: 123307
+nauseating <> w: 123308
+nauseous <> w: 123310, p: [31209]
+nautch <> w: 123312
+nautical <> w: 123315
+nautilus <> w: 123321, p: [25739]
+naval <> w: 123324
+nave <> w: 123354
+navel <> w: 123355, p: [20715]
+navel orange <> p: [35138]
+navigable <> w: 123361
+navigate <> w: 123362, p: [21348]
+navigation <> w: 123502
+navy <> w: 123511, p: [23581, 22987]
+navy blue <> w: 123514, p: [22987, 22987]
+naysayer <> w: 123524
+ne'er <> w: 123546, p: [49846]
+near <> w: 123558, p: [48325, 48325, 48289, 47080]
+nearby <> w: 123567, p: [48409]
+nearly <> w: 123570, p: [48421]
+neat <> w: 123575, p: [19422, 17891, 32686, 17891]
+neatly <> w: 123578, p: [35637]
+neatness <> w: 123579, p: [27423]
+neb <> w: 123580, p: [30295, 29759]
+nebula <> w: 123596
+nebular <> w: 123597
+nebulous <> w: 123603, p: [45645]
+necessarily <> w: 123606
+necessary <> w: 123607, p: [17729, 45850]
+necessitate <> w: 123609
+necessitous <> w: 123610
+necessity <> w: 123611
+neck <> w: 123612, p: [60766, 25519, 36351, 30211]
+neck and neck <> p: [45090, 46754]
+neck of the woods <> p: [22560]
+neckband <> w: 123624, p: [18375, 34566]
+necking <> w: 123629
+necklace <> w: 123630, p: [28393]
+neckline <> w: 123636
+necktie <> w: 123638, p: [28796]
+neckwear <> w: 123639
+necrobiosis <> w: 123640
+necrology <> w: 123643
+necromancer <> w: 123645, p: [29641]
+necromancy <> w: 123646
+necropolis <> w: 123654, p: [29834]
+necrosis <> w: 123657
+nectar <> w: 123661
+nectarine <> w: 123664, p: [50477]
+nectarous <> w: 123666
+need <> w: 123672, p: [48669, 19334]
+needed <> w: 123673
+needle <> w: 123678, p: [25803, 29625]
+needlecraft <> w: 123693, p: [32608, 31313]
+needlepoint <> w: 123698
+needless <> w: 123700
+needlessly <> w: 123701
+needlework <> w: 123704, p: [32608, 31313]
+needy <> w: 123707, p: [60242]
+neem <> w: 123709, p: [35178]
+nefarious <> w: 123714
+neg <> w: 366359
+negate <> w: 123724, p: [45740]
+negation <> w: 123725
+negative <> w: 123726, p: [49970, 19274, 32996, 29761, 19618, 19274]
+negatively <> w: 123740, p: [49970]
+neglect <> w: 123751, p: [52153]
+neglected <> w: 123753, p: [20323]
+neglectful <> w: 123755
+negligee <> w: 123759
+negligence <> w: 123760
+negligent <> w: 123761, p: [45176]
+negligently <> w: 123762, p: [45176]
+negligible <> w: 123763, p: [45784]
+negotiable <> w: 123765
+negotiate <> w: 123768, p: [28121]
+negotiation <> w: 123769
+negro <> w: 123774
+negroni <> w: 218323
+negus <> w: 123780
+neigh <> w: 123784
+neighbor <> w: 123785, p: [22293]
+neighborhood <> w: 123786, p: [19238, 22293, 22560]
+neighboring <> w: 123787
+neither <> w: 123797, p: [22449, 22449]
+nematode <> w: 123818, p: [30834]
+nemesis <> w: 123828
+neo <> w: 123837
+neoclassicism <> w: 123849
+neolithic <> w: 124020
+neologism <> w: 124022
+neonatal <> w: 124033
+neonate <> w: 124040, p: [19817]
+neonatology <> w: 124041
+neophyte <> w: 124046
+neoplasia <> w: 124047
+neoprene <> w: 124054
+nephew <> w: 124088, p: [60871]
+nephritic <> w: 124094, p: [50721]
+nephrologist <> w: 218362
+nephrology <> w: 124106
+nepotism <> w: 124124
+nerd <> w: 124128
+nerdy <> w: 224466, p: [59642]
+nerve <> w: 124152, p: [32576]
+nerve gas <> w: 124168
+nerve-wracking <> w: 124154
+nerveless <> w: 124175
+nervelessly <> w: 124176
+nerves <> w: 124179
+nervily <> w: 124182
+nervous <> w: 124183, p: [52147, 52147]
+nervous breakdown <> w: 124184
+nervous system <> w: 124190
+nervous wreck <> p: [52147]
+nervously <> w: 124192, p: [42866]
+nervousness <> w: 124193
+nervy <> w: 124214
+nescient <> w: 124216
+nesh <> w: 367648
+nest <> w: 124222, p: [15635, 30836]
+nest egg <> w: 124223, p: [20768]
+nestle <> w: 124226, p: [59006, 35806]
+nestling <> w: 124228, p: [25571, 19819]
+net <> w: 124236, p: [17206, 29340]
+netball <> w: 124245
+nether <> w: 124246
+netizen <> w: 208641
+nettle <> w: 124263, p: [20259]
+nettle rash <> w: 124267
+nettled <> w: 124269, p: [42600]
+nettlesome <> w: 124271, p: [46127, 27309]
+network <> w: 124272, p: [19500, 19174, 19500, 19174]
+networking <> w: 228814
+neural <> w: 124279
+neuralgia <> w: 124286
+neuroanatomy <> w: 124299
+neurofibromatosis <> w: 124312
+neurogenesis <> w: 124313
+neurolinguistics <> w: 124327
+neurological <> w: 124329
+neurologically <> w: 225488
+neurologist <> w: 124332
+neurology <> w: 124333
+neuron <> w: 124342
+neuronal <> w: 124343
+neuropathology <> w: 209996
+neurophysiology <> w: 124348
+neuropsychiatry <> w: 124353
+neuroscience <> w: 124361
+neuroscientist <> w: 124362
+neurosis <> w: 124363
+neurosurgeon <> w: 124365
+neurosurgery <> w: 124366
+neurotic <> w: 124368
+neurotransmitter <> w: 124374
+neuter <> w: 124379
+neutral <> w: 124382, p: [28295, 31681]
+neutralisation <> w: 124386
+neutralization <> w: 124393
+neutralize <> w: 124396, p: [59369]
+neutrino <> w: 124503
+neutron <> w: 124504
+neutrophil <> w: 124510
+never <> w: 124520, p: [49846]
+never-ending <> w: 124521, p: [49986]
+nevermore <> w: 124526
+nevertheless <> w: 124527
+nevus <> w: 124534, p: [29926]
+new <> w: 124536, p: [17449]
+new moon <> w: 124579, p: [47218]
+new wave <> w: 124595
+newbie <> w: 124648
+newborn <> w: 124649, p: [19817, 19817]
+newcomer <> w: 124656
+newfangled <> w: 124659
+newly <> w: 124666, p: [48935]
+newlywed <> w: 124667, p: [29924]
+news <> w: 124673, p: [19552, 18095]
+news agency <> w: 124674, p: [19552]
+news bulletin <> w: 124676
+news conference <> w: 124677
+newsagent <> w: 124691, p: [22189]
+newscast <> w: 124694, p: [18095]
+newscaster <> w: 124695, p: [20299]
+newsflash <> w: 124697
+newsgroup <> w: 208643
+newsletter <> w: 124699
+newspaper <> w: 124702, p: [49199, 49199]
+newsprint <> w: 124718
+newsreader <> w: 124719, p: [20299]
+newsroom <> w: 124721
+newssheet <> w: 124722
+newsstand <> w: 124723, p: [22189]
+newsworthy <> w: 124728
+newt <> w: 124731, p: [23835]
+next <> w: 124748, p: [60873, 20816, 48999]
+next door <> w: 124750, p: [48815]
+next to <> p: [20816]
+next-door <> p: [48815]
+nexus <> w: 124753
+niacin <> w: 124774
+nib <> w: 124779, p: [30295, 29583]
+nibble <> w: 124781, p: [32018, 47186, 32018, 58895]
+nice <> w: 124797, p: [17549, 17879]
+nice one <> p: [48035]
+nice-looking <> w: 208443, p: [49083]
+nicely <> w: 124798
+niche <> w: 124803
+nick <> w: 124810, p: [59264, 46698]
+nickel <> w: 124811
+nickelodeon <> w: 124822, p: [30092]
+nickname <> w: 124828, p: [58125]
+niece <> w: 124866, p: [60875]
+nifty <> w: 124881
+niggardly <> w: 124899
+niggle <> w: 124901
+nigh <> w: 125004
+night <> w: 125007, p: [48493, 47769]
+night owl <> w: 125027
+night school <> w: 125031
+night table <> p: [50785]
+nightcap <> w: 125040, p: [25259]
+nightclothes <> w: 125041, p: [50964]
+nightclub <> w: 125042, p: [51757]
+nightdress <> w: 125044, p: [25018]
+nightfall <> w: 125046, p: [18431]
+nightgown <> w: 125047, p: [25018]
+nightie <> w: 125049, p: [25018]
+nightingale <> w: 125050, p: [24932]
+nightjar <> w: 125051, p: [24934]
+nightlife <> w: 125052, p: [37239]
+nightlong <> w: 125053
+nightly <> w: 125054, p: [49001, 49001]
+nightmare <> w: 125055
+nightshirt <> w: 125059, p: [25056]
+nightspot <> w: 125060, p: [51757]
+nightstand <> w: 216514, p: [50785]
+nighttime <> w: 125062, p: [48493]
+nightwear <> w: 125064, p: [50964]
+nihilism <> w: 125073
+nihilist <> w: 125074
+nihilistic <> w: 125075
+nil <> w: 125093, p: [40869]
+nilgai <> w: 125097, p: [34337]
+nimble <> w: 125107, p: [45892]
+nimbus <> w: 125113, p: [22552]
+nincompoop <> w: 125124
+nine <> w: 125125, p: [35976]
+nine times out of ten <> p: [43990]
+nineteen <> w: 125140, p: [36012]
+nineteenth <> w: 125141, p: [36513, 36513]
+ninetieth <> w: 125144
+ninety <> w: 125145, p: [36184]
+ninety-nine <> p: [36202]
+ninja <> w: 125164
+ninth <> w: 125171, p: [36491, 36491]
+nip <> w: 125183, p: [35896, 58897]
+nipper <> w: 125189, p: [30624, 19819]
+nipple <> w: 125191, p: [33442]
+nippy <> w: 125195, p: [17311]
+nirvana <> w: 125199
+nit <> w: 125207
+nitpick <> w: 125211
+nitpicking <> w: 228796
+nitrogen <> w: 125243
+nitty-gritty <> w: 125271
+nitwit <> w: 125273
+nitwitted <> w: 125274
+no <> w: 125290, p: [47442, 43566]
+no ball <> w: 125312
+no chance <> p: [49742]
+no dice <> p: [17455]
+no longer <> p: [43412]
+no more <> p: [43412]
+no one <> w: 210313
+no problem <> p: [49736]
+no strings attached <> p: [44710]
+no such luck <> p: [46243]
+no way <> w: 209686, p: [47276, 15953, 49742]
+no worries <> p: [49738]
+no-go area <> w: 125296, p: [46366]
+no-no <> w: 215321
+nobble <> w: 125332, p: [36997]
+nobility <> w: 125338
+noble <> w: 125339, p: [27305]
+nobleman <> w: 125345
+nobly <> w: 125350, p: [45255]
+nobody <> w: 125351
+nocturnal <> w: 125367, p: [46275]
+nocturnally <> w: 125369
+nocturne <> w: 125370
+nod <> w: 125371, p: [23009, 23009]
+nod off <> p: [44078]
+nodding <> w: 125374
+noggin <> w: 125505
+noise <> w: 125509, p: [17224]
+noise pollution <> w: 125512, p: [17224]
+noiseless <> w: 125513
+noisemaker <> w: 125516
+noisily <> w: 125517, p: [17061]
+noisome <> w: 125519
+noisy <> w: 125521, p: [17831]
+nom de plume <> w: 125531
+nomad <> w: 125533
+nomadic <> w: 125534
+nomenclature <> w: 125537
+nominal <> w: 125541
+nominalization <> w: 223137
+nominate <> w: 125551, p: [59834]
+nomination <> w: 125555
+nominative <> w: 125556
+nominee <> w: 125559, p: [20936]
+non compos mentis <> w: 125606
+non sequitur <> w: 125609
+non-fiction <> w: 210086
+non-smoking <> w: 209826, p: [35677]
+non-standard <> w: 126040
+non-stick <> w: 219702
+nonagenarian <> w: 125626
+nonagon <> w: 125629, p: [25992]
+nonalcoholic <> w: 125630, p: [19048]
+nonchalance <> w: 125660
+nonchalant <> w: 125661
+nonchalantly <> w: 125662, p: [42430]
+noncombatant <> w: 125674
+noncommittal <> w: 125681
+nonconformist <> w: 125696
+nonconformity <> w: 125697
+noncritical <> w: 125704
+nondescript <> w: 125713
+none <> w: 125722
+nonentity <> w: 125728
+nonet <> w: 209057, p: [30573]
+nonetheless <> w: 125736
+nonexistent <> w: 125740, p: [45605]
+nonfigurative <> w: 125753
+nonfunctional <> w: 125764
+noninvasive <> w: 125794
+nonlinear <> w: 125805
+nonmaterial <> w: 125819
+nonobjective <> w: 125840
+nonpareil <> w: 125853
+nonpartisan <> w: 125858
+nonplus <> w: 125870, p: [51947]
+nonplussed <> w: 125872, p: [52109]
+nonprofit <> w: 125882
+nonrenewable <> w: 125908, p: [21161]
+nonrepresentational <> w: 125910
+nonsense <> w: 126016, p: [48175]
+nonsensical <> w: 126018, p: [45627]
+nonstop <> w: 126047, p: [31466, 42268]
+nontraditional <> w: 126070
+noodle <> w: 126106, p: [38885]
+noodling <> w: 227302
+nook <> w: 126107, p: [20872]
+noon <> w: 126112, p: [51540]
+noonday <> w: 126114, p: [51540]
+noontide <> w: 126115, p: [51540]
+nopal <> w: 126119, p: [35059]
+nope <> w: 365634
+nor <> w: 208359
+norepinephrine <> w: 126132
+nori <> w: 217365, p: [36273]
+norm <> w: 126150
+normal <> w: 126153, p: [20483, 33042]
+normalcy <> w: 126160
+normalization <> w: 126165
+normalize <> w: 126166, p: [53190]
+normally <> w: 126168, p: [49038]
+normative <> w: 126181
+norse <> w: 126188, p: [38949]
+northbound <> w: 126251
+northeast <> w: 126252, p: [17613, 17613, 17613, 17613]
+northeasterly <> w: 126256, p: [17613, 17613]
+northeastern <> w: 126257, p: [17613]
+northeastward <> w: 126259, p: [17613, 17613, 17613]
+norther <> w: 126261
+northerly <> w: 126262, p: [49502]
+northern <> w: 126263, p: [49502]
+northern hemisphere <> w: 365750
+northernmost <> w: 126312
+northward <> w: 126321, p: [49502]
+northwest <> w: 126323, p: [17615, 17615, 17615, 17615]
+northwesterly <> w: 126330
+northwestern <> w: 126331, p: [17615]
+northwestward <> w: 126333, p: [17615, 17615, 17615]
+nose <> w: 126351, p: [50655]
+nose job <> w: 126358, p: [29906]
+nose ring <> p: [25331]
+nosebleed <> w: 126363, p: [27181]
+nosedive <> w: 126366
+nosegay <> w: 126367, p: [21991]
+nosey <> w: 126371
+nosh <> w: 126373, p: [47306]
+nosh-up <> w: 126374, p: [50353]
+nosing <> w: 222835
+nosology <> w: 126503
+nostalgia <> w: 126504
+nostalgic <> w: 126505, p: [46119]
+nostril <> w: 126510, p: [20757]
+nostrum <> w: 126511
+nosy <> w: 126512, p: [22522]
+not <> w: 126514
+not at all <> p: [49736]
+not have a prayer <> p: [17557]
+not know the meaning of the word <> p: [44878]
+not turn a hair <> p: [45880]
+notability <> w: 126524
+notable <> w: 126525, p: [45910]
+notably <> w: 126526
+notary <> w: 126529
+notation <> w: 126532, p: [30682]
+notch <> w: 126534, p: [58402]
+notchback <> w: 227659
+note <> w: 126536, p: [61236, 48551, 22267, 21380, 17493]
+notebook <> w: 126541, p: [23999, 54597]
+notecase <> w: 126544, p: [28992]
+noted <> w: 126547, p: [28447]
+notepad <> w: 126550, p: [23999]
+noteworthy <> w: 126552
+nothing <> w: 126553
+nothingness <> w: 126554
+notice <> w: 126566, p: [61236, 35603]
+noticeable <> w: 126569, p: [49754]
+noticeably <> w: 126571, p: [49754]
+noticed <> w: 126572
+notifiable <> w: 126574
+notification <> w: 126575
+notify <> w: 126576, p: [58008]
+notion <> w: 126577
+notional <> w: 126578
+notoriety <> w: 126587
+notorious <> w: 126588, p: [60380]
+notoriously <> w: 126589
+notornis <> w: 126590, p: [34558]
+notwithstanding <> w: 126600
+nougat <> w: 126602, p: [27776]
+nought <> w: 126604, p: [40869]
+noughts and crosses <> w: 126605, p: [22828]
+noumenon <> w: 126606
+noun <> w: 126607
+nourish <> w: 126609, p: [59054]
+nourished <> w: 126610, p: [60664]
+nourishing <> w: 126611, p: [60764]
+nourishment <> w: 126612, p: [60764]
+nov <> w: 126617, p: [60440]
+novel <> w: 126633, p: [16041]
+novelette <> w: 126634
+novelist <> w: 126637, p: [39197]
+novelization <> w: 126638
+novella <> w: 126640
+novelty <> w: 126641
+novice <> w: 126651, p: [16402]
+now <> w: 126660, p: [43344]
+now now <> p: [48283]
+now or never <> p: [40491]
+now-now <> p: [48283]
+nowadays <> w: 126664, p: [45539]
+nowhere <> w: 126665, p: [43538]
+nowt <> w: 367651
+noxious <> w: 126671
+nuance <> w: 126698
+nuanced <> w: 224465, p: [23697]
+nubile <> w: 126708
+nuclear <> w: 126714, p: [28367]
+nuclear energy <> w: 126722, p: [20418]
+nuclear family <> w: 126725, p: [60845]
+nuclear fusion <> w: 126728, p: [33699]
+nuclear power <> w: 126735, p: [20418]
+nuclear reactor <> w: 126738
+nuclear weapon <> w: 126747
+nucleic acid <> w: 126752
+nucleotide <> w: 126767
+nucleus <> w: 126768
+nude <> w: 126771, p: [29499]
+nudge <> w: 126779, p: [47302]
+nugatory <> w: 126789
+nugget <> w: 126790
+nuisance <> w: 126791
+nuke <> w: 126795, p: [20964]
+null <> w: 126796
+null and void <> w: 219467
+nullify <> w: 126804
+nullity <> w: 126806
+numb <> w: 126807, p: [60352, 59246]
+numbat <> w: 126808, p: [34371]
+number <> w: 126809, p: [61080, 23235, 48125, 61080, 22732]
+number cruncher <> w: 126812, p: [42388]
+number plate <> p: [21332]
+numberless <> w: 126820
+numbing <> w: 126827
+numbly <> w: 126828
+numeracy <> w: 126837
+numerate <> w: 126839, p: [22732]
+numeration <> w: 126840, p: [22732]
+numerator <> w: 126842
+numerical <> w: 126844
+numerous <> w: 126853, p: [51506]
+numismatist <> w: 126863
+numpty <> w: 367658
+nun <> w: 127003
+nunchaku <> w: 227581
+nunnery <> w: 127010
+nuptial <> w: 127016
+nurse <> w: 127022, p: [48571, 51610, 47859, 31719, 58853, 35451]
+nursemaid <> w: 127032, p: [51610]
+nursery <> w: 127034, p: [21082, 28640]
+nursery rhyme <> w: 127035, p: [33501]
+nursery school <> p: [49179]
+nursing <> w: 127038, p: [48571]
+nursing home <> w: 127042, p: [30094]
+nurture <> w: 127048, p: [19827]
+nut <> w: 127051, p: [15695, 22600, 17871, 38008]
+nutcase <> w: 127067
+nutcracker <> w: 127068, p: [37614]
+nuthatch <> w: 127070, p: [24936]
+nutmeg <> w: 127074, p: [31289]
+nutria <> w: 127084, p: [24042]
+nutrient <> w: 127085, p: [60764]
+nutriment <> w: 127089, p: [60764]
+nutrition <> w: 127090, p: [19400, 60764]
+nutritional <> w: 127091, p: [60764]
+nutritionally <> w: 127092, p: [60764]
+nutritionist <> w: 127094, p: [17633]
+nutritious <> w: 127096, p: [17543]
+nutritive <> w: 127098, p: [60764]
+nuts <> w: 127100, p: [42148, 48171]
+nutter <> w: 127106
+nutty <> w: 127108, p: [28636]
+nuzzle <> w: 127113
+nyala <> w: 127119, p: [34339]
+nylon <> w: 127144, p: [34879]
+nylons <> w: 127146, p: [34397]
+nymph <> w: 127147
+nymphet <> w: 127160

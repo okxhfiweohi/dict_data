@@ -1,0 +1,1206 @@
+gab <> w: 74180, p: [44138, 36880]
+gabardine <> w: 74183, p: [39633, 33942]
+gabble <> w: 74184
+gabby <> w: 74186, p: [17835]
+gaberdine <> w: 74187, p: [39633]
+gabfest <> w: 74188, p: [36880]
+gable <> w: 74189
+gabled <> w: 74193
+gadfly <> w: 74214, p: [34720]
+gadget <> w: 74215, p: [32006]
+gadroon <> w: 222016
+gaffe <> w: 74238
+gaffer <> w: 74239
+gag <> w: 74242, p: [26455, 35892, 47917, 60823]
+gaga <> w: 74248
+gage <> w: 74250, p: [21963]
+gagged <> w: 366578
+gaggle <> w: 74251
+gah <> w: 225915, p: [46191]
+gaia <> w: 74256
+gaiety <> w: 74257
+gaily <> w: 74260
+gain <> w: 74261, p: [26353, 27892, 17897]
+gain ground <> p: [23425]
+gain on <> p: [44184]
+gainfully <> w: 74267, p: [17897]
+gains <> w: 366470
+gainsay <> w: 74272
+gait <> w: 74275, p: [23023]
+gal <> w: 74290, p: [20307, 60919]
+gala <> w: 74291
+galactic <> w: 74294, p: [48921]
+galactose <> w: 74296
+galago <> w: 74299, p: [24070]
+galah <> w: 139013, p: [40275]
+galangal <> w: 74302, p: [34797]
+galaxy <> w: 74313, p: [21971]
+gale <> w: 74318, p: [18547]
+gall <> w: 74513, p: [32094, 48753, 20259]
+gall bladder <> w: 74515, p: [20844]
+gallant <> w: 74521
+gallbladder <> w: 74527, p: [20844]
+gallery <> w: 74532, p: [19194, 18103]
+galley <> w: 74533
+galliard <> w: 209056
+gallic <> w: 74539, p: [39237]
+galling <> w: 74554, p: [46127]
+gallivant <> w: 74561, p: [49908]
+gallon <> w: 74562, p: [20307, 32824]
+gallop <> w: 74563
+gallstone <> w: 74571
+gallus <> w: 74573, p: [50974]
+galore <> w: 74578
+galosh <> w: 74579, p: [25044]
+galvanic <> w: 74585
+galvanism <> w: 74594
+galvanize <> w: 74596, p: [59702]
+gambit <> w: 74616
+gamble <> w: 74617, p: [18864]
+gambler <> w: 74618, p: [23065]
+gambling <> w: 74619, p: [18864]
+gamboge <> w: 74627, p: [22983]
+gambol <> w: 74629
+game <> w: 74634, p: [49193, 18227, 61264, 24675]
+game bird <> p: [24675]
+game on <> p: [48885]
+game point <> w: 226863
+gamelan <> w: 74652
+gameplay <> w: 211426
+gamer <> w: 211958
+gamete <> w: 74659
+gamey <> w: 74665
+gamine <> w: 74667
+gaming <> w: 74669, p: [18864, 35780]
+gammon <> w: 74682, p: [18317, 31646]
+gammy <> w: 74684
+gamp <> w: 74687, p: [48511]
+gamut <> w: 74688
+gamy <> w: 74689
+ganache <> w: 217265, p: [35308]
+gander <> w: 74694, p: [24677]
+gang <> w: 74702, p: [20800, 19406]
+gang up <> p: [51773]
+gangland <> w: 74711
+gangling <> w: 74712, p: [26495]
+ganglion <> w: 74714
+gangly <> w: 74716, p: [26495]
+gangrene <> w: 74718
+gangster <> w: 74723
+gangway <> w: 74725, p: [31703]
+ganja <> w: 74726
+gannet <> w: 74727, p: [24679]
+gantry <> w: 74739
+gap <> w: 74746
+gape <> w: 74748, p: [45659]
+gapping <> w: 223475
+garage <> w: 74752, p: [50821, 29386]
+garb <> w: 74760, p: [26292]
+garbage <> w: 74761, p: [28039]
+garbage can <> w: 74762, p: [20857]
+garbage collector <> w: 74765, p: [36993]
+garbage disposal <> w: 74766, p: [50783]
+garbage man <> w: 74771, p: [36993]
+garbage truck <> w: 74773, p: [46950]
+garbanzo <> w: 74775, p: [26686, 26686]
+garble <> w: 74777
+garbled <> w: 74778
+garden <> w: 74792, p: [48531, 48617, 50615]
+garden spider <> p: [34650]
+garden-variety <> w: 225541
+gardener <> w: 74833, p: [50615]
+gardening <> w: 74839, p: [50615]
+gargantuan <> w: 74846, p: [28744]
+gargle <> w: 74848, p: [22937, 33392]
+gargoyle <> w: 74849
+garibaldi <> w: 74852
+garish <> w: 74853, p: [34089]
+garishly <> w: 74854
+garland <> w: 74856, p: [47130]
+garlic <> w: 74859, p: [38285]
+garlicky <> w: 75008
+garment <> w: 75009, p: [48557, 19318]
+garner <> w: 75018, p: [59533]
+garnet <> w: 75019, p: [34626]
+garnish <> w: 75025, p: [20952, 20952]
+garret <> w: 75032, p: [20976]
+garrison <> w: 75034
+garrote <> w: 75036
+garrulous <> w: 75042, p: [17835]
+garter <> w: 75047, p: [26216]
+garter belt <> w: 75048, p: [26216]
+garter snake <> w: 75049, p: [23767]
+garth <> w: 222017
+gas <> w: 75058
+gas chamber <> w: 75068
+gas meter <> w: 75093
+gas pedal <> w: 75097, p: [35633]
+gas station <> w: 75106, p: [17168]
+gasconade <> w: 75116, p: [42512]
+gaseous <> w: 75118
+gash <> w: 75123, p: [46692, 17725]
+gasify <> w: 75127
+gaslight <> w: 75131, p: [59210]
+gasoline <> w: 75136, p: [16710]
+gasp <> w: 75147, p: [37334, 37334]
+gassy <> w: 75150
+gaston <> w: 227194
+gastric <> w: 75164
+gastritis <> w: 75176
+gastroenteritis <> w: 75186
+gastroenterologist <> w: 75187
+gastroenterology <> w: 75188
+gastrointestinal <> w: 75194
+gastronomy <> w: 75206
+gastropod <> w: 75211
+gastropub <> w: 209325, p: [26527]
+gastroscopy <> w: 75214
+gate <> w: 75220, p: [50908, 38705]
+gateau <> w: 75222, p: [27133]
+gated <> w: 227886
+gatehouse <> w: 75225
+gatekeeper <> w: 75226, p: [19052]
+gateleg table <> p: [42080]
+gatepost <> w: 75228
+gateway <> w: 75231
+gather <> w: 75234, p: [18786, 48765, 44850]
+gathering <> w: 75240, p: [18732]
+gator <> w: 75245, p: [17969]
+gauche <> w: 75247
+gaudily <> w: 75256
+gaudy <> w: 75258, p: [34089]
+gauge <> w: 75261, p: [45066, 23561]
+gaunt <> w: 75271, p: [19795]
+gauntlet <> w: 75272
+gaur <> w: 75276, p: [33898]
+gauze <> w: 75287, p: [33249]
+gauzy <> w: 75290, p: [29876]
+gavial <> w: 75294, p: [50174]
+gavotte <> w: 75301
+gawk <> w: 75303, p: [45659]
+gawky <> w: 75306, p: [26407]
+gawp <> w: 75307
+gay <> w: 75308
+gaydar <> w: 366213
+gaze <> w: 75328, p: [51314, 51314]
+gazebo <> w: 75329, p: [31899]
+gazelle <> w: 75333, p: [24030]
+gazette <> w: 75335
+gazpacho <> w: 75338, p: [38329]
+gcse <> w: 75345
+gear <> w: 75351, p: [36451]
+gear up <> p: [46822]
+gearbox <> w: 75358
+gearing <> w: 75361
+gearshift <> w: 75363
+gecko <> w: 75372, p: [23715]
+gee <> w: 75373
+gee up <> p: [48941]
+geek <> w: 75376, p: [29657]
+geeky <> w: 229045
+gel <> w: 75505, p: [22846, 51834]
+gelatin <> w: 75506, p: [19112]
+gelatinous <> w: 75512
+gelato <> w: 217502, p: [38080]
+gelding <> w: 75516, p: [50136]
+gelid <> w: 75522, p: [18473]
+gelt <> w: 75529, p: [60778]
+gem <> w: 75530, p: [25623, 50373]
+gemsbok <> w: 75551, p: [34282]
+gemstone <> w: 75553, p: [25623]
+gendarme <> w: 75556
+gender <> w: 75559, p: [21179]
+gene <> w: 75563, p: [23419]
+gene pool <> w: 211220
+gene therapy <> w: 218581
+genealogist <> w: 75576
+genealogy <> w: 75577
+general <> w: 75578, p: [43270, 18814]
+general election <> w: 75596
+general practitioner <> w: 75605, p: [50501]
+generality <> w: 75620
+generalization <> w: 75621
+generalize <> w: 75622
+generalized <> w: 75623
+generally <> w: 75627
+generate <> w: 75630, p: [54565, 23301]
+generation <> w: 75631, p: [27894]
+generational <> w: 75634
+generative <> w: 75635
+generative grammar <> w: 75636
+generator <> w: 75637, p: [23589, 32008]
+generic <> w: 75638, p: [43270]
+generically <> w: 75642
+generosity <> w: 75643, p: [19661]
+generous <> w: 75644, p: [20253]
+generously <> w: 75645, p: [20253]
+generousness <> w: 75646, p: [19661]
+genesis <> w: 75647
+genet <> w: 75648, p: [24162]
+genetic <> w: 75649, p: [23417, 31590]
+genetic code <> w: 75651
+genetic engineering <> w: 75658, p: [32744]
+genetical <> w: 75668
+genetically <> w: 75669
+geneticist <> w: 75671
+genetics <> w: 75672, p: [23419]
+genial <> w: 75682
+geniality <> w: 75683
+genie <> w: 75689
+genip <> w: 75690, p: [34919, 35126]
+genital <> w: 75700
+genitals <> w: 75710
+genitive <> w: 75711
+genius <> w: 75717, p: [51510]
+genocide <> w: 75721
+genome <> w: 75724
+genomic <> w: 224423
+genotype <> w: 75726
+genre <> w: 75731, p: [19086, 37338]
+gent <> w: 75736, p: [60889, 60862]
+genteel <> w: 75738
+gentile <> w: 75770
+gentle <> w: 75772, p: [44590, 49532]
+gentleman <> w: 75776, p: [18455]
+gentleman's agreement <> w: 209350
+gently <> w: 75787, p: [49532]
+gentrification <> w: 75788
+genu <> w: 75791, p: [50685]
+genuine <> w: 75797, p: [28664]
+genuinely <> w: 75798, p: [49782]
+genus <> w: 75800
+geode <> w: 79612
+geodetic <> w: 79618
+geographer <> w: 79627
+geographical <> w: 79633
+geographically <> w: 79640
+geography <> w: 79642, p: [15479]
+geological <> w: 79646
+geologically <> w: 79656
+geologist <> w: 79657
+geology <> w: 79658, p: [31526]
+geometric <> w: 79662
+geometrically <> w: 79670
+geometry <> w: 79675, p: [37213]
+geomorphology <> w: 79679
+geophysics <> w: 79692
+geopolitical <> w: 79695
+geopolitics <> w: 79696
+geothermal <> w: 79821
+gerbil <> w: 79853, p: [29733]
+geriatric <> w: 79864
+geriatrics <> w: 79866
+germ <> w: 79867, p: [23271]
+germane <> w: 79904
+germinal <> w: 79916
+germinate <> w: 79919
+gerontologist <> w: 79925
+gerontology <> w: 79926
+gerrymander <> w: 79935
+gerund <> w: 79941
+gesso <> w: 79950, p: [48019]
+gestate <> w: 79956
+gestation <> w: 79957, p: [21997]
+gestational <> w: 80002
+gesticulate <> w: 80004, p: [51372]
+gesture <> w: 80008, p: [51372, 51372]
+gesundheit <> w: 214821
+get <> w: 80009, p: [48621, 26872, 61280, 49431, 31522, 48543, 22333]
+get a life <> p: [46133]
+get a move on <> p: [42926]
+get ahead <> p: [39235]
+get along <> p: [23643]
+get around <> p: [53087, 53224, 39607]
+get at <> p: [42710, 43202]
+get away <> p: [20684, 23125, 48317]
+get away with <> p: [47692]
+get back to <> p: [53196, 53230]
+get by <> p: [41792]
+get down <> p: [42624]
+get down to <> p: [46680]
+get hitched <> p: [40299]
+get in <> p: [52763, 22684, 19290]
+get in on <> p: [52743]
+get in with <> p: [52745]
+get into <> p: [43618, 43134, 22684, 48639]
+get lost <> p: [48479]
+get off <> p: [18589, 43074, 27770]
+get off on <> p: [15943]
+get on <> p: [22333, 23643, 19833]
+get on to <> p: [44062]
+get on top of <> p: [16389, 42710]
+get out <> p: [45036, 29402]
+get over <> p: [32618, 27700]
+get rid of <> p: [27628]
+get the best of <> p: [61046, 44310]
+get the bird <> p: [19380, 41608]
+get the hang of <> p: [23641]
+get the lead out <> p: [44178]
+get the picture <> p: [45018]
+get through <> p: [43080]
+get to <> p: [42800]
+get to first base <> p: [40555, 40319]
+get together <> p: [37239, 27590, 22520, 18732]
+get up <> p: [16634, 43358, 61068, 26292]
+get up to <> p: [43104]
+get wind of <> p: [45020]
+get-go <> w: 80011
+get-out <> p: [45036, 29402]
+get-together <> p: [37239, 27590, 22520, 18732]
+get-up <> p: [16634, 43358, 61068, 26292]
+getup <> w: 80088, p: [48603]
+geyser <> w: 80099
+gharara <> w: 216601, p: [34142]
+ghastly <> w: 80107
+ghee <> w: 80113, p: [34662]
+gherkin <> w: 80117, p: [19118]
+ghetto <> w: 80118, p: [19673]
+ghetto blaster <> w: 80119, p: [33661]
+ghost <> w: 80123, p: [48243]
+ghost town <> w: 80126
+ghostlike <> w: 80130
+ghostly <> w: 80132, p: [45447]
+ghostwriter <> w: 80134
+ghoul <> w: 80135
+ghoulish <> w: 80136
+giant <> w: 80157, p: [28744, 23499]
+giant panda <> w: 80184, p: [24164]
+giardiasis <> w: 80214
+gib <> w: 80215
+gibber <> w: 80216, p: [58001]
+gibbon <> w: 80221, p: [24166]
+gibe <> w: 80228
+giblets <> w: 80235
+giddily <> w: 80244, p: [23047]
+giddiness <> w: 80245, p: [60023]
+giddy <> w: 80246, p: [60023]
+giddy-up <> p: [48941]
+gift <> w: 80251, p: [18782, 61170, 49443]
+gift shop <> w: 80254, p: [23149]
+gift wrap <> p: [35742]
+gift-wrap <> w: 80252, p: [18788]
+gifted <> w: 80258, p: [46615]
+giftedness <> w: 229525
+gig <> w: 80259, p: [21467]
+gigabyte <> w: 80261
+gigahertz <> w: 80264
+gigantic <> w: 80265, p: [28744]
+gigantism <> w: 80266
+giggle <> w: 80268, p: [23005, 23005]
+gigot <> w: 80272, p: [27954]
+gigue <> w: 80273
+gilded <> w: 80290
+gilding <> w: 80294, p: [47610]
+gilet <> w: 220837, p: [39635]
+gill <> w: 80300, p: [30638]
+gillyflower <> w: 80508, p: [31950]
+gilt <> w: 80512
+gim <> w: 217366, p: [36273]
+gimlet <> w: 80519, p: [41216]
+gimmick <> w: 80520
+gimmicky <> w: 365703
+gin <> w: 80525, p: [21647]
+gin mill <> p: [51412]
+gin rummy <> w: 80530
+ginger <> w: 80533, p: [29639, 27277, 29639]
+ginger ale <> w: 80535, p: [21649]
+ginger beer <> w: 80536, p: [21649]
+ginger nut <> w: 80538, p: [31056]
+ginger snap <> p: [31056]
+ginger wine <> p: [21649]
+gingerbread <> w: 80543, p: [31069]
+gingerbread man <> p: [37694]
+gingerly <> w: 80545, p: [50066]
+gingerroot <> w: 80547, p: [27277]
+gingersnap <> w: 80548, p: [31056]
+gingery <> w: 80549, p: [29639, 27277]
+ginnel <> w: 367645
+ginormous <> w: 224493, p: [28744]
+giraffe <> w: 80603, p: [50168]
+girandole <> w: 80606, p: [41846]
+gird <> w: 80610, p: [59658]
+girder <> w: 80611
+girdle <> w: 80612, p: [34315]
+girl <> w: 80614, p: [60869, 60841, 60610, 47907, 60919]
+girlfriend <> w: 80619, p: [47907, 17653]
+girlhood <> w: 80620, p: [19971]
+girly <> w: 228951
+giro <> w: 80624
+girth <> w: 80633
+gismo <> w: 80635, p: [32006]
+gist <> w: 80636
+gittern <> w: 80641, p: [27989]
+give <> w: 80650, p: [49443, 48547]
+give and take <> p: [40061, 40059]
+give in <> p: [44422, 36295]
+give out <> p: [48297, 52445]
+give the devil his due <> p: [43484]
+give up <> p: [36295, 21278, 17837]
+give up on <> p: [43146]
+give up the ghost <> p: [17775, 49832, 43146]
+give way <> p: [36295]
+give-and-take <> p: [40061, 40059]
+giveaway <> w: 80690
+given <> w: 80691
+given name <> w: 80692, p: [29034]
+giving <> w: 80695, p: [49443]
+gizmo <> w: 80701, p: [32006]
+gizzard <> w: 80702
+glacial <> w: 80709, p: [31608, 18473]
+glaciation <> w: 80716
+glacier <> w: 80717, p: [31608]
+glacis <> w: 222119
+glad <> w: 80720, p: [60634]
+gladden <> w: 80722
+gladly <> w: 80734, p: [42562]
+gladness <> w: 80735
+glair <> w: 222031
+glam rock <> p: [28047]
+glamorous <> w: 80747, p: [46259]
+glamorously <> w: 208551
+glamour <> w: 80748
+glance <> w: 80754, p: [58621]
+gland <> w: 80756, p: [32096]
+glanders <> w: 80758
+glans <> w: 80769
+glare <> w: 80772, p: [17115, 58917]
+glaring <> w: 80776, p: [49740]
+glaringly <> w: 80777, p: [49740]
+glary <> w: 80778, p: [49740]
+glasgow <> w: 80780
+glass <> w: 80782, p: [17383, 26566, 28335]
+glass ceiling <> p: [43648]
+glasses <> w: 80798, p: [17001]
+glassful <> w: 80800
+glasshouse <> w: 80801, p: [19068]
+glassware <> w: 80804, p: [26566]
+glassy <> w: 80809
+glaucoma <> w: 80815
+glaucous <> w: 80820, p: [38437]
+glaze <> w: 80824, p: [25535, 37804, 37804]
+glazed <> w: 80826
+glazier <> w: 81003, p: [47704]
+glazing <> w: 222362
+gleam <> w: 81004, p: [54601]
+gleaming <> w: 81005, p: [45828]
+glean <> w: 81006
+glee <> w: 81016
+glee club <> w: 81017
+gleeful <> w: 81018, p: [42564]
+gleefully <> w: 81019, p: [42566]
+glengarry <> w: 81030, p: [25184]
+glial <> w: 81040
+glib <> w: 81042
+glide <> w: 81046, p: [51067]
+glider <> w: 81051
+gliding <> w: 81052
+glimmer <> w: 81055, p: [21046]
+glimmering <> w: 81056, p: [45457]
+glimpse <> w: 81058, p: [58673]
+glint <> w: 81060
+glinting <> w: 81061
+glissade <> w: 81069
+glissando <> w: 81070, p: [39541, 39541]
+glistening <> w: 81072
+glistering <> w: 81074
+glitch <> w: 81075
+glitter <> w: 81076, p: [45457, 47899]
+glittering <> w: 81077, p: [45457]
+glittery <> w: 81078
+glitz <> w: 81079
+gloaming <> w: 81081, p: [31928]
+gloat <> w: 81082
+global <> w: 81086, p: [28471]
+global warming <> w: 81091
+globalism <> w: 208845
+globalization <> w: 81094
+globally <> w: 81096, p: [28471]
+globe <> w: 81097, p: [17623, 22909]
+globe artichoke <> p: [26556]
+globefish <> w: 81106, p: [24839]
+globose <> w: 81114
+globular <> w: 81116
+glockenspiel <> w: 81124, p: [27640]
+glogg <> w: 81125
+gloom <> w: 81132
+gloomy <> w: 81137, p: [22552, 42592]
+glorification <> w: 81144, p: [18828]
+glorified <> w: 81145
+glorify <> w: 81146
+glorious <> w: 81150
+gloriously <> w: 81152, p: [18431]
+glory <> w: 81153, p: [18828]
+gloss over <> p: [53146]
+glossary <> w: 81163
+glossy <> w: 81178, p: [45547]
+glottal <> w: 81183
+glove <> w: 81194, p: [28391, 33815]
+glove compartment <> w: 81196
+glove puppet <> w: 81199, p: [31922]
+glow <> w: 81202, p: [50245]
+glower <> w: 81205, p: [17115, 17115]
+glowering <> w: 81206
+glowing <> w: 81208, p: [50245]
+glowworm <> w: 81210, p: [25251]
+glucagon <> w: 81214
+glucose <> w: 81220
+glue <> w: 81225, p: [22798, 46446]
+gluey <> w: 81227
+glug <> w: 81229
+glut <> w: 81236, p: [32531]
+glutamate <> w: 81237
+gluten <> w: 81250
+glutinous <> w: 81260
+glutton <> w: 81263, p: [24378]
+gluttonous <> w: 81266
+gluttonously <> w: 81267
+gluttony <> w: 81268, p: [32531]
+glycerine <> w: 81279
+glycerol <> w: 81283
+glycogen <> w: 81295
+glyph <> w: 81309
+gnarled <> w: 81320
+gnarly <> w: 81321
+gnash <> w: 81322
+gnat <> w: 81323, p: [25908]
+gnatcatcher <> w: 81324
+gnaw <> w: 81328, p: [59503]
+gnocchi <> w: 81340, p: [30906]
+gnome <> w: 81341, p: [32114]
+gnomic <> w: 81342
+gnu <> w: 81349, p: [34385]
+go <> w: 81351, p: [49445, 29398, 20221, 49864, 17837, 17775, 18613]
+go about <> p: [49431]
+go against <> p: [46366]
+go ahead <> p: [43104]
+go around <> p: [47064, 26413]
+go at <> p: [26429]
+go back <> p: [53260, 22692]
+go back on <> p: [53232]
+go ballistic <> p: [51198]
+go belly up <> p: [40821]
+go down <> p: [22943, 49431, 22335, 39611, 18493]
+go down a bomb <> p: [51340]
+go down with <> p: [26385]
+go for <> p: [43162, 35694, 27634]
+go for it <> p: [43104]
+go forward <> p: [40681, 42996]
+go from strength to strength <> p: [40393]
+go great guns <> p: [40603]
+go in for <> p: [52747]
+go into <> p: [53386, 53451]
+go off <> p: [26359]
+go on <> p: [22680]
+go out <> p: [29398, 22520, 47448]
+go over <> p: [23475]
+go overboard <> p: [43949]
+go pear-shaped <> p: [40893]
+go places <> p: [17905]
+go postal <> p: [42576]
+go south <> p: [22943, 44040]
+go spare <> p: [42528]
+go steady <> p: [22520]
+go the extra mile <> p: [43008]
+go through <> p: [43004, 53274, 26628]
+go through the motions <> p: [44374]
+go through the roof <> p: [42580]
+go to <> p: [23677, 46376]
+go to ground <> p: [44042]
+go to pieces <> p: [42614]
+go to sleep <> p: [21212]
+go to the dogs <> p: [40639]
+go to the wall <> p: [41768]
+go to town <> p: [42996, 43949, 40321]
+go too far <> p: [43949]
+go under <> p: [46980, 18493, 44378]
+go up <> p: [22945, 22337]
+go up in flames <> p: [40825]
+go up in smoke <> p: [41474]
+go with <> p: [43252, 20609]
+go without <> p: [44354]
+go without saying <> p: [46738]
+go-ahead <> w: 81352, p: [43104]
+go-between <> w: 81355
+go-by <> p: [51370, 26294]
+go-cart <> w: 81356, p: [22309]
+go-getter <> w: 81502
+go-go dancer <> w: 220718
+go-kart <> w: 81503, p: [20271]
+goad <> w: 81561
+goal <> w: 81564, p: [47935, 18551, 17216, 36896]
+goalball <> w: 226729
+goalie <> w: 81568, p: [18221]
+goalkeeper <> w: 81569, p: [18221]
+goalkeeping <> w: 226732
+goalless <> w: 81570
+goalpost <> w: 81572
+goaltender <> w: 81573, p: [18221]
+goanna <> w: 220434
+goat <> w: 81574, p: [50217]
+goatee <> w: 81584, p: [29858]
+goateed <> w: 81585, p: [29858]
+gobble <> w: 81595, p: [39143]
+gobbler <> w: 81598, p: [24737]
+goblet <> w: 81607, p: [38369]
+goblin <> w: 81610
+gobo <> w: 221174
+gobsmacked <> w: 81612, p: [52109]
+god-awful <> w: 81618
+god-fearing <> w: 81619, p: [49355]
+godchild <> w: 81625, p: [31630]
+goddammit <> w: 225927, p: [48183]
+goddamn <> w: 81627, p: [52109]
+goddaughter <> w: 81630
+goddess <> w: 81631
+godfather <> w: 81633, p: [31626]
+godforsaken <> w: 81634
+godless <> w: 81637
+godlike <> w: 81639
+godly <> w: 81641, p: [28722]
+godmother <> w: 81642, p: [31628]
+godparent <> w: 81644, p: [31462]
+godson <> w: 81646
+godspeed <> w: 81647, p: [48975]
+godwit <> w: 81650
+gogga <> w: 208427, p: [50080]
+goggle box <> w: 81667, p: [48539]
+goggle-box <> p: [48539]
+goggles <> w: 81668, p: [40611]
+going concern <> p: [40651]
+gold <> w: 81685, p: [61132, 13971, 13971]
+gold leaf <> w: 81701
+gold medal <> w: 81702
+gold rush <> w: 81708
+gold standard <> w: 81709
+gold-digger <> p: [40301]
+goldcrest <> w: 81715, p: [24681]
+golden <> w: 81717, p: [13971]
+golden age <> w: 81724
+golden brown <> w: 217466, p: [38513]
+golden eagle <> w: 81741, p: [24683]
+golden handcuffs <> p: [41878]
+golden handshake <> w: 81753, p: [41898]
+golden parachute <> w: 81766, p: [41900]
+golden retriever <> w: 81776, p: [24138]
+golden rule <> w: 81777
+golden syrup <> w: 81787, p: [31179]
+goldenrod <> w: 81800, p: [38835]
+goldfinch <> w: 81804, p: [24685]
+goldfish <> w: 81805, p: [17983]
+goldfish bowl <> w: 81806, p: [30822]
+goldwasser <> w: 209306, p: [31964]
+goldwork <> w: 222632
+golem <> w: 81824, p: [32058]
+golf <> w: 81825, p: [39175, 39175]
+golf ball <> w: 81829, p: [51352]
+golf club <> w: 81833, p: [51354]
+golf course <> w: 81834, p: [33014]
+golfer <> w: 81850, p: [39177]
+golliwog <> w: 82009
+golly <> w: 225847
+gombeen <> w: 367694
+gonad <> w: 82025
+gondola <> w: 82038
+gone <> w: 82043, p: [17775, 49223]
+gong <> w: 82045, p: [37948]
+gonorrhea <> w: 82061
+gonzo <> w: 82063, p: [29657]
+gonzo journalism <> w: 223814
+goo-goo eyes <> w: 213194, p: [40199]
+goober <> w: 82065, p: [14641]
+good <> w: 82067, p: [48507, 27511, 50001, 60632, 48507]
+good afternoon <> w: 82087, p: [47596]
+good day <> w: 82091, p: [35657]
+good evening <> w: 208327, p: [47728]
+good for <> p: [27325]
+good looks <> w: 82105
+good morning <> w: 82109, p: [47524]
+good night <> w: 82111, p: [47769]
+good riddance <> p: [48345]
+good-for-nothing <> w: 82071
+good-hearted <> w: 82072, p: [17879]
+good-looking <> w: 82078, p: [49083]
+good-natured <> w: 82079, p: [17879]
+good-tempered <> w: 82084, p: [31261]
+good-time <> p: [52115]
+goodbye <> w: 82132, p: [35655]
+goodness <> w: 82139
+goods <> w: 208369, p: [18411]
+goody <> w: 82141, p: [19793]
+gooey <> w: 82145
+goof <> w: 82146, p: [17871, 19078]
+goof off <> p: [44154]
+goof-off <> p: [44154]
+goofball <> w: 82149, p: [17871, 19078]
+goofy <> w: 82152, p: [17871]
+google <> w: 82153, p: [51596, 51596]
+googly <> w: 82154
+goon <> w: 82158
+goose <> w: 82166, p: [18019, 18205, 17871]
+goose egg <> p: [40869]
+gooseberry <> w: 82179, p: [50459]
+gopak <> w: 220919
+goral <> w: 82205, p: [39989]
+gordian <> w: 82207
+gore <> w: 82214
+gorge <> w: 82217, p: [32531, 51120]
+gorgeous <> w: 82218, p: [60584]
+gorgeously <> w: 82219, p: [46259]
+gorget <> w: 82222
+gorgon <> w: 82223
+gorilla <> w: 82230, p: [50203]
+gormless <> w: 82241
+gory <> w: 82243
+gosh <> w: 210483
+goshawk <> w: 82246, p: [24687]
+gosling <> w: 82247, p: [24689]
+gospel <> w: 82249, p: [23971, 28045]
+gospels <> w: 82259, p: [23971]
+gossamer <> w: 82260, p: [29876, 29876]
+gossip <> w: 82261, p: [57909, 36880, 36880, 57909]
+gossip column <> w: 209123
+gotcha <> w: 225903, p: [35694]
+gothic <> w: 82279
+gouache <> w: 82290, p: [47901]
+gouge <> w: 82294, p: [58396]
+gouger <> w: 82296
+goujon <> w: 82297
+goulash <> w: 82298, p: [31067]
+gourd <> w: 82301
+gourmand <> w: 82305
+gourmandize <> w: 82307, p: [32531]
+gourmet <> w: 82309
+gout <> w: 82310
+govern <> w: 82314
+governess <> w: 82319, p: [51610]
+government <> w: 82323, p: [27327]
+governmental <> w: 82342
+governor <> w: 82344
+gown <> w: 82351, p: [24920, 26268, 25717, 25018]
+grab <> w: 82362, p: [47048]
+grabby <> w: 82504, p: [22033]
+grace <> w: 82505, p: [61294, 23603, 20187]
+grace note <> p: [39543]
+graceful <> w: 82513, p: [26397]
+gracefully <> w: 82514, p: [26397]
+graceless <> w: 82516
+gracious <> w: 82527, p: [17879]
+graciously <> w: 82528
+graciousness <> w: 82529
+grackle <> w: 82530, p: [24691, 24930]
+grad <> w: 82533, p: [29404]
+grad school <> w: 82534
+gradation <> w: 82539
+grade <> w: 82542, p: [22263, 22263, 23247]
+grade crossing <> w: 82545, p: [23873]
+grade point average <> w: 82358
+grade school <> w: 82549, p: [28770]
+grader <> w: 82552
+gradient <> w: 82553
+gradual <> w: 82555, p: [45581]
+gradually <> w: 82557, p: [45581]
+graduate <> w: 82559, p: [29404, 29404, 31592]
+graduate school <> w: 82561, p: [48963]
+graduation <> w: 82568, p: [29404, 44516]
+graffiti <> w: 82576
+graffito <> w: 82577, p: [52013]
+graft <> w: 82578, p: [27245]
+grain <> w: 82587, p: [19446, 36056, 37375]
+grainy <> w: 82598
+gram <> w: 82601, p: [37686]
+grammar <> w: 82624
+grammar school <> w: 82625
+grammatical <> w: 82628
+grammaticalization <> w: 223300
+grammatically <> w: 82637
+gramophone <> w: 82641, p: [21382]
+gramps <> w: 82642, p: [60855]
+gran <> w: 82645, p: [60859]
+granary <> w: 82653
+grand <> w: 82654
+grand larceny <> w: 82671
+grand piano <> w: 82678, p: [21475]
+grand prix <> w: 82679
+grand slam <> w: 82682
+grandad <> w: 82689, p: [60855]
+grandad shirt <> w: 220884
+grandchild <> w: 82691, p: [60853]
+granddad <> w: 82692, p: [60855]
+granddaddy <> w: 82693, p: [60855]
+granddaughter <> w: 82694, p: [29074]
+grandeur <> w: 82697
+grandfather <> w: 82698, p: [60855]
+grandfather clock <> w: 82700, p: [41960]
+grandiloquence <> w: 82701
+grandiloquent <> w: 82702
+grandiose <> w: 82704
+grandly <> w: 82707
+grandma <> w: 82708, p: [60859]
+grandmaster <> w: 82710
+grandmother <> w: 82711, p: [60859]
+grandmother clock <> p: [41962]
+grandpa <> w: 82715, p: [60855]
+grandparent <> w: 82716, p: [28127]
+grandson <> w: 82717, p: [29076]
+granita <> w: 209211, p: [31421]
+granite <> w: 82724
+grannie <> w: 82730, p: [60859]
+granny <> w: 82731, p: [60859, 30201]
+grant <> w: 82737, p: [31528, 31528]
+grantee <> w: 82741
+grantor <> w: 82746
+granular <> w: 82748
+granulate <> w: 82751, p: [54221]
+granulated sugar <> w: 82753, p: [27183]
+granule <> w: 82756
+granulocyte <> w: 82758
+grape <> w: 82770, p: [48691, 21939]
+grapefruit <> w: 82783, p: [50435]
+grapevine <> w: 82788, p: [21939]
+graph <> w: 82791, p: [23227]
+graph paper <> w: 82792
+grapheme <> w: 82793
+graphemics <> w: 223091
+graphic <> w: 82794, p: [50126]
+graphic arts <> p: [51931]
+graphic design <> w: 82797, p: [51931]
+graphic designer <> p: [50499]
+graphical <> w: 82801, p: [50126]
+graphically <> w: 82805, p: [50126]
+graphics <> w: 82806, p: [18758]
+graphics card <> p: [37063]
+graphite <> w: 82807, p: [29507]
+grappa <> w: 82814, p: [50401]
+grapple <> w: 82816, p: [54317]
+grapple with <> p: [53246]
+grappling <> w: 82818, p: [33894]
+grasp <> w: 82824, p: [47050, 61086]
+grasp at <> p: [43050]
+grasp the nettle <> p: [43138]
+graspable <> w: 82825
+grasping <> w: 82826, p: [22033]
+grass <> w: 82827, p: [15917, 48617, 21963]
+grass roots <> w: 83010, p: [47911]
+grass skirt <> p: [42934]
+grass snake <> w: 83012, p: [23717, 23717]
+grasshopper <> w: 83022, p: [50259]
+grassland <> w: 83024, p: [51138]
+grassroots <> w: 83027
+grassy <> w: 83028
+grate <> w: 83032, p: [29613]
+grated <> w: 224509, p: [45567]
+grateful <> w: 83034, p: [20209]
+gratefully <> w: 83035
+gratefulness <> w: 83036, p: [20209]
+grater <> w: 83037, p: [26552]
+gratification <> w: 83039
+gratified <> w: 83040
+gratify <> w: 83041, p: [48301]
+gratifying <> w: 83042
+gratifyingly <> w: 83043
+gratin <> w: 209245, p: [31243]
+grating <> w: 83044
+gratingly <> w: 83045
+gratis <> w: 83046, p: [22323, 22323]
+gratitude <> w: 83047, p: [52017]
+gratuitous <> w: 83048
+gratuitously <> w: 83049
+gratuity <> w: 83050, p: [15845]
+grave <> w: 83052, p: [20491, 43432, 49674, 51668]
+gravel <> w: 83056, p: [20259]
+gravelly <> w: 83058
+gravely <> w: 83060, p: [49299, 49674]
+graven image <> p: [31610]
+gravestone <> w: 83068, p: [35728]
+graveyard <> w: 83069, p: [29834]
+gravid <> w: 83072, p: [21997]
+gravimetry <> w: 83083
+gravitas <> w: 83086
+gravitate <> w: 83087
+gravitational <> w: 83090
+gravity <> w: 83102, p: [49441]
+gravy <> w: 83110, p: [30974]
+gravy boat <> w: 83111, p: [38218]
+gravy train <> w: 83113, p: [40363]
+gray <> w: 83114, p: [47829, 19783, 47829]
+graying <> w: 224475, p: [60586]
+graze <> w: 83165, p: [19697, 19697]
+grazing <> w: 83168
+gre <> w: 210221
+grease <> w: 83171
+grease monkey <> w: 83173, p: [50753]
+grease the skids <> p: [40373]
+greasepaint <> w: 83177
+greaseproof paper <> w: 83179, p: [30760]
+greasy <> w: 83184, p: [29615]
+greasy spoon <> w: 83185, p: [21613]
+great <> w: 83186, p: [22447, 17891, 49752]
+great auk <> p: [34550]
+greatcoat <> w: 83285, p: [39637]
+greatly <> w: 83315, p: [43462]
+grebe <> w: 83319, p: [24693]
+greed <> w: 83327, p: [23171, 31263]
+greedily <> w: 83328, p: [45253]
+greedy <> w: 83330, p: [60376]
+green <> w: 83354, p: [47837, 47837, 49291, 27135]
+green algae <> p: [36275]
+green bean <> w: 83369, p: [50483]
+green belt <> w: 208741
+green card <> w: 83373, p: [31743]
+green fingers <> p: [42316]
+green light <> w: 83516, p: [43252, 43252]
+green onion <> w: 83529, p: [26698]
+green pepper <> w: 83536, p: [21292]
+green salad <> w: 83540, p: [48675]
+green tea <> w: 83548, p: [21881, 38036]
+green thumb <> p: [42316]
+green-eyed monster <> p: [17877]
+greenback <> w: 83553, p: [17493]
+greenbottle <> w: 83557, p: [34704]
+greenery <> w: 83561, p: [17617]
+greenfly <> w: 83563, p: [25285]
+greengage <> w: 83564, p: [26377]
+greengrocer <> w: 83566
+greenhouse <> w: 83570, p: [19068]
+greenhouse effect <> w: 83571
+greenish <> w: 83577
+greenness <> w: 83594
+greens <> w: 83598, p: [27135]
+greenwashing <> w: 225102
+greenway <> w: 83609
+greet <> w: 83618, p: [47522]
+greeter <> w: 83619, p: [26473]
+greeting <> w: 83620, p: [26473]
+gregarious <> w: 83625
+gremlin <> w: 229241
+grenade <> w: 83651, p: [29836]
+grenadier <> w: 83654
+greyhound <> w: 83712, p: [24134]
+grid <> w: 83729
+griddle <> w: 83731, p: [30870]
+griddlecake <> w: 83732, p: [19132]
+gridiron <> w: 83733
+gridlock <> w: 83735, p: [17833]
+grief <> w: 83736, p: [52151]
+grief-stricken <> w: 83737
+grievance <> w: 83739
+grieve <> w: 83740, p: [47182]
+grievous <> w: 83743, p: [49674]
+grievously <> w: 83745, p: [49299]
+griffin <> w: 83746
+grill <> w: 83757, p: [20954, 20954, 55230]
+grille <> w: 83758
+grilled <> w: 83759, p: [20954]
+grillwork <> w: 83762, p: [20954]
+grim <> w: 83763, p: [42590]
+grimace <> w: 83765, p: [30221, 17115]
+grime <> w: 83766, p: [59822]
+grimly <> w: 83769, p: [49642]
+grimy <> w: 83774, p: [45808]
+grin <> w: 83775, p: [19785, 19785]
+grind <> w: 83776, p: [47052]
+grinder <> w: 83785, p: [40723, 30872, 30493, 31117]
+grinding wheel <> p: [40937]
+gringo <> w: 83790
+grinning <> w: 83792, p: [19785]
+grip <> w: 83794, p: [47054, 35834, 36952]
+gripe <> w: 83795, p: [46358]
+griping <> w: 83797
+grippe <> w: 83798, p: [17637]
+gripper <> w: 366465
+gripping <> w: 83799
+grisaille <> w: 83802, p: [47618]
+grisly <> w: 83807
+grison <> w: 83808
+grist to the mill <> p: [40645]
+gristle <> w: 83812, p: [30511, 32648]
+grit <> w: 83815
+gritty <> w: 83819, p: [45541]
+grizzled <> w: 83822, p: [19973]
+grizzly <> w: 83823, p: [19783]
+grizzly bear <> w: 83824, p: [27195]
+groan <> w: 83826, p: [47562]
+grocer <> w: 83830, p: [29004]
+grocers <> w: 219283, p: [18712]
+grocery <> w: 83831, p: [49177, 17017]
+grog <> w: 83838
+groggy <> w: 83840
+groin <> w: 83842, p: [48349]
+grok <> w: 83844, p: [46487]
+groom <> w: 83849, p: [19348, 26128]
+groomed <> w: 83851
+grooming <> w: 83852, p: [26128]
+groove <> w: 83854, p: [28211]
+grooved <> w: 83855
+grope <> w: 83859, p: [49518]
+gross <> w: 83869, p: [28732, 19252, 49922, 60043]
+gross domestic product <> w: 84003
+gross-out <> p: [49522, 59598]
+grossly <> w: 84014, p: [45774]
+grotesque <> w: 84019, p: [48165]
+grotesquely <> w: 84020, p: [49560]
+grotto <> w: 84025
+grouch <> w: 84027, p: [55020]
+grouchy <> w: 84030, p: [26776]
+ground <> w: 84031, p: [17609, 51747, 51108, 60230, 53585]
+ground beef <> p: [31193]
+ground cherry <> p: [35086]
+ground floor <> w: 84057, p: [28189]
+ground level <> w: 84061, p: [28195]
+ground plan <> w: 84067
+ground stroke <> w: 84077
+groundbreaking <> w: 84087
+groundhog <> w: 84092, p: [24170]
+groundless <> w: 84096
+groundnut <> w: 84100, p: [14641]
+grounds <> w: 84103, p: [38010]
+groundskeeper <> w: 84108
+groundwater <> w: 84081
+group <> w: 84113, p: [26096, 59086]
+group therapy <> w: 84132
+grouping <> w: 84136, p: [26096]
+grouse <> w: 84139, p: [24404, 28013, 41348]
+grove <> w: 84144, p: [19212]
+grovel <> w: 84145
+grow <> w: 84152, p: [22291, 19158, 14651, 22463]
+grow apart <> p: [53433]
+grow on <> p: [52795]
+grow out of <> p: [52287, 58996]
+grow up <> p: [22291, 48463]
+growbag <> w: 211969, p: [42336]
+grower <> w: 84155
+growing <> w: 84156
+growing pains <> w: 84157
+growl <> w: 84159, p: [28962, 28962]
+growling <> w: 84161, p: [28962]
+grown <> w: 84162
+grownup <> w: 84163, p: [60843, 60843]
+growth <> w: 84164, p: [22291]
+groyne <> w: 84174, p: [48349]
+grub <> w: 84177, p: [30648, 46688]
+grubby <> w: 84183
+grudge <> w: 84185
+grudgingly <> w: 84187, p: [49660]
+gruel <> w: 84188
+grueling <> w: 84189
+gruesome <> w: 84191, p: [45816]
+gruff <> w: 84194
+gruffly <> w: 84195
+grumble <> w: 84202, p: [55020, 51098]
+grumbling <> w: 84204
+grumpy <> w: 84212, p: [26776]
+grunge <> w: 84214
+grungy <> w: 84216, p: [34091]
+grunt <> w: 84217, p: [58831]
+grunter <> w: 84219, p: [24484]
+grunts <> w: 229203
+guacamole <> w: 84230, p: [31183]
+guarantee <> w: 84267, p: [58277]
+guaranteed <> w: 224458
+guarantor <> w: 84268
+guard <> w: 84270, p: [51614, 18822]
+guard dog <> w: 84273, p: [24142]
+guarded <> w: 84279
+guardian <> w: 84282
+guardrail <> w: 84286, p: [32974]
+guardroom <> w: 84287
+guava <> w: 84296, p: [26379]
+gucci <> w: 366498
+guerrilla <> w: 84316
+guess <> w: 84319, p: [45830, 59418, 60847, 60847]
+guesstimate <> w: 84323, p: [59517]
+guesswork <> w: 84324
+guest <> w: 84325, p: [20297, 19691]
+guest house <> p: [19540]
+guffaw <> w: 84503, p: [61298]
+gui <> w: 84507
+guidance <> w: 84512, p: [60752]
+guidance counselor <> w: 210293
+guide <> w: 84515, p: [48247, 16055, 37314]
+guide dog <> w: 84516, p: [24140]
+guided <> w: 84522
+guideline <> w: 84528
+guidepost <> w: 84529
+guideway <> w: 365565
+guiding <> w: 84531
+guild <> w: 84533
+guile <> w: 84537
+guileful <> w: 84538
+guileless <> w: 84539
+guillemot <> w: 84543, p: [24695]
+guillotine <> w: 84545
+guilt <> w: 84546
+guiltily <> w: 84552
+guilty <> w: 84556, p: [60328]
+guimpe <> w: 84558
+guinea <> w: 84560
+guinea fowl <> w: 84567, p: [24669, 28015]
+guinea pig <> w: 84573, p: [17995, 44722]
+guiro <> w: 209012, p: [27642]
+guise <> w: 84581
+guitar <> w: 84584, p: [51550]
+guitarist <> w: 84589, p: [39015]
+gulab jamun <> p: [31127]
+gulf <> w: 84598, p: [31711]
+gulfweed <> w: 84631
+gull <> w: 84632, p: [44676, 25585]
+gullet <> w: 84633
+gullibility <> w: 84634
+gullible <> w: 84635, p: [49984]
+gully <> w: 84637
+gulp <> w: 84641, p: [47260]
+gum <> w: 84646, p: [17685, 21304, 22798]
+gumbo <> w: 84675
+gumdrop <> w: 84679, p: [27724]
+gummy <> w: 84687
+gumption <> w: 84688
+gumshoe <> w: 84691, p: [25044]
+gun <> w: 84694, p: [18838, 35633, 18838]
+gun dog <> w: 84702, p: [24056]
+gun for <> p: [43056]
+gunboat <> w: 84717
+gunfight <> w: 84720
+gunfire <> w: 84721
+gunner <> w: 84731
+gunpoint <> w: 84738
+gunpowder <> w: 84739
+gunshot <> w: 84743
+gunslinger <> w: 84745
+guppy <> w: 84753, p: [24647]
+gurgle <> w: 84755
+guru <> w: 84759
+gush <> w: 84761, p: [47536]
+gusset <> w: 84766
+gust <> w: 84770, p: [18547]
+gustation <> w: 84771, p: [18611]
+gustatory <> w: 84774
+gusto <> w: 84797
+gusty <> w: 84798
+gut <> w: 84799, p: [50715, 37820]
+gutless <> w: 84807
+guts <> w: 227277
+gutsy <> w: 84811
+gutta <> w: 222153
+gutted <> w: 217251
+gutter <> w: 84815, p: [50823]
+guttural <> w: 84821
+guy <> w: 84825, p: [60877]
+guzzle <> w: 84838, p: [47260]
+gym <> w: 84846, p: [20481]
+gym shoe <> w: 84849, p: [24963]
+gymkhana <> w: 84851
+gymnasium <> w: 84856, p: [28776]
+gymnast <> w: 84857, p: [33882]
+gymnastic <> w: 84858, p: [33882]
+gymnastics <> w: 84862, p: [33882]
+gymslip <> w: 85020, p: [39787]
+gynecologic <> w: 85030, p: [32574]
+gynecological <> w: 85031, p: [32574]
+gynecologist <> w: 85032, p: [32574]
+gynecology <> w: 85033, p: [32574]
+gypsum <> w: 85052
+gypsy moth <> p: [25287]
+gyrate <> w: 85062, p: [46830, 27981]
+gyro <> w: 229394
+gyroscope <> w: 85079
+gyrus <> w: 85083

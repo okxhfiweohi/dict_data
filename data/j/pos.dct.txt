@@ -1,0 +1,312 @@
+jab <> V: {rk: 12238, frq: 1233}, N: {rk: 15442, frq: 774}
+jabber <> V: {rk: 27276, frq: 211}, N: {rk: 45357, frq: 50}
+jacaranda <> N: {rk: 38117, frq: 96}
+jack <> V: {rk: 12090, frq: 1274}
+jack-in-the-box <> N: {rk: 43012, frq: 69}
+jackal <> N: {rk: 21300, frq: 384}
+jackalope <> N: {rk: 52455, frq: 72}
+jackass <> N: {rk: 24180, frq: 384}
+jackboot <> N: {rk: 45010, frq: 46}
+jackbooted <> J: {rk: 45219, frq: 49}
+jackdaw <> N: {rk: 52714, frq: 33}
+jacket <> N: {rk: 2281, frq: 17269}
+jacketed <> J: {rk: 52103, frq: 32}
+jackfruit <> N: {rk: 53164, frq: 31}
+jackhammer <> N: {rk: 26215, frq: 230}
+jackknife <> N: {rk: 32900, frq: 134}, V: {rk: 48250, frq: 36}
+jackpot <> N: {rk: 17317, frq: 633}
+jackrabbit <> N: {rk: 31762, frq: 155}
+jackscrew <> N: {rk: 60018, frq: 21}
+jacksonian <> J: {rk: 36536, frq: 128}
+jacquard <> N: {rk: 35390, frq: 147}
+jacuzzi <> N: {rk: 25497, frq: 321}, J: {rk: 42341, frq: 55}
+jaded <> J: {rk: 16929, frq: 619}
+jadeite <> N: {rk: 60009, frq: 27}
+jag <> V: {rk: 48966, frq: 40}
+jagged <> J: {rk: 9655, frq: 1829}
+jaggedly <> R: {rk: 51699, frq: 29}
+jail <> N: {rk: 2544, frq: 14380}, V: {rk: 5754, frq: 4296}
+jailbird <> N: {rk: 42042, frq: 61}
+jailbreak <> N: {rk: 54370, frq: 26}
+jailed <> J: {rk: 22465, frq: 348}
+jailer <> N: {rk: 21804, frq: 370}
+jailhouse <> N: {rk: 21664, frq: 370}
+jailing <> N: {rk: 37962, frq: 77}
+jalapeno <> N: {rk: 15482, frq: 840}
+jalopy <> N: {rk: 38235, frq: 75}
+jam <> N: {rk: 5533, frq: 4581}, V: {rk: 5979, frq: 4088}
+jam-packed <> J: {rk: 25821, frq: 249}
+jamaican <> J: {rk: 13527, frq: 1068}, N: {rk: 22120, frq: 359}
+jamb <> N: {rk: 24703, frq: 275}
+jambalaya <> N: {rk: 34036, frq: 151}
+jamboree <> N: {rk: 32496, frq: 163}
+jammed <> J: {rk: 31772, frq: 135}
+jammer <> N: {rk: 32463, frq: 139}
+jammies <> N: {rk: 43693, frq: 56}
+jamming <> N: {rk: 26878, frq: 215}
+jammy <> J: {rk: 57729, frq: 23}
+jangle <> V: {rk: 22227, frq: 368}, N: {rk: 34319, frq: 118}
+jangled <> J: {rk: 52974, frq: 26}
+jangling <> J: {rk: 47256, frq: 41}, N: {rk: 53446, frq: 24}
+jangly <> J: {rk: 53417, frq: 28}
+janitor <> N: {rk: 11631, frq: 1281}
+janitorial <> J: {rk: 28255, frq: 183}
+jape <> N: {rk: 53695, frq: 30}
+jar <> N: {rk: 4299, frq: 6910}, V: {rk: 14171, frq: 954}
+jargon <> N: {rk: 12796, frq: 1055}
+jarred <> J: {rk: 36757, frq: 115}
+jarring <> J: {rk: 24367, frq: 277}, N: {rk: 44218, frq: 54}
+jarringly <> R: {rk: 41444, frq: 55}
+jaundice <> N: {rk: 27217, frq: 203}
+jaundiced <> J: {rk: 27248, frq: 213}
+jaunt <> N: {rk: 19221, frq: 492}, V: {rk: 42184, frq: 55}
+jauntily <> R: {rk: 31962, frq: 135}
+jaunty <> J: {rk: 19582, frq: 460}
+javelin <> N: {rk: 22443, frq: 329}
+javelina <> N: {rk: 37622, frq: 127}
+jaw <> N: {rk: 4119, frq: 7562}, V: {rk: 37486, frq: 80}
+jaw-dropping <> J: {rk: 30997, frq: 174}, N: {rk: 55196, frq: 28}
+jawbone <> N: {rk: 29760, frq: 172}, V: {rk: 41323, frq: 61}
+jawbreaker <> N: {rk: 46337, frq: 50}
+jawline <> N: {rk: 30307, frq: 174}
+jaybird <> N: {rk: 54723, frq: 33}
+jaywalk <> V: {rk: 42278, frq: 54}
+jaywalker <> N: {rk: 50446, frq: 37}
+jazz <> N: {rk: 3878, frq: 10945}, V: {rk: 53425, frq: 26}
+jazzed <> J: {rk: 56672, frq: 22}
+jazzman <> N: {rk: 52500, frq: 28}
+jazzy <> J: {rk: 21259, frq: 366}
+jealous <> J: {rk: 6407, frq: 3622}
+jealously <> R: {rk: 23592, frq: 282}
+jealousy <> N: {rk: 8260, frq: 2338}
+jeans <> N: {rk: 3444, frq: 9793}
+jeer <> V: {rk: 21181, frq: 373}, N: {rk: 28569, frq: 184}
+jeering <> J: {rk: 39044, frq: 73}, N: {rk: 45142, frq: 44}
+jeez <> U: {rk: 17774, frq: 592}
+jefe <> N: {rk: 39646, frq: 129}
+jell <> V: {rk: 30969, frq: 146}
+jellied <> J: {rk: 44235, frq: 49}
+jello <> N: {rk: 36672, frq: 155}
+jelly <> N: {rk: 9212, frq: 2672}
+jellyfish <> N: {rk: 19759, frq: 477}
+jellyroll <> N: {rk: 42863, frq: 65}
+jeopardize <> V: {rk: 8121, frq: 2345}
+jeopardy <> N: {rk: 8553, frq: 2229}
+jeremiad <> N: {rk: 39591, frq: 76}
+jerk <> V: {rk: 5774, frq: 4714}, N: {rk: 8587, frq: 2267}
+jerkily <> R: {rk: 40708, frq: 66}
+jerkin <> N: {rk: 34616, frq: 111}
+jerking <> N: {rk: 49257, frq: 35}
+jerky <> J: {rk: 15884, frq: 715}
+jerry-built <> J: {rk: 44724, frq: 43}
+jessamine <> N: {rk: 51251, frq: 43}
+jest <> N: {rk: 20458, frq: 400}, V: {rk: 29585, frq: 169}
+jester <> N: {rk: 26516, frq: 412}
+jesuit <> J: {rk: 12359, frq: 1299}, N: {rk: 13011, frq: 1140}
+jet <> N: {rk: 3163, frq: 14708}, V: {rk: 23204, frq: 312}
+jet-black <> J: {rk: 26701, frq: 225}
+jet-lagged <> J: {rk: 39762, frq: 72}
+jet-setting <> J: {rk: 45034, frq: 45}
+jetliner <> N: {rk: 19910, frq: 442}
+jetsam <> N: {rk: 39976, frq: 68}
+jettison <> V: {rk: 16791, frq: 619}
+jetty <> N: {rk: 19649, frq: 479}
+jetway <> N: {rk: 41268, frq: 64}
+jewel <> N: {rk: 6153, frq: 3921}
+jeweled <> J: {rk: 24004, frq: 296}
+jeweler <> N: {rk: 13983, frq: 1010}
+jewelled <> J: {rk: 56258, frq: 26}
+jeweller <> N: {rk: 56565, frq: 29}
+jewellery <> N: {rk: 39025, frq: 75}
+jewelry <> N: {rk: 4220, frq: 7198}
+jewelweed <> N: {rk: 56263, frq: 32}
+jib <> N: {rk: 32753, frq: 129}
+jibe <> V: {rk: 25104, frq: 246}, N: {rk: 32858, frq: 121}
+jicama <> N: {rk: 30069, frq: 203}
+jiffy <> N: {rk: 31738, frq: 149}
+jig <> N: {rk: 11554, frq: 1347}, V: {rk: 29248, frq: 176}
+jigger <> N: {rk: 40451, frq: 94}
+jigging <> J: {rk: 47637, frq: 39}
+jiggle <> V: {rk: 16317, frq: 698}, N: {rk: 33322, frq: 121}
+jiggling <> N: {rk: 57703, frq: 23}
+jigsaw <> N: {rk: 16395, frq: 660}
+jihad <> N: {rk: 10588, frq: 2331}
+jihadi <> J: {rk: 36889, frq: 134}, N: {rk: 39204, frq: 117}
+jihadist <> N: {rk: 18547, frq: 736}
+jillion <> N: {rk: 49482, frq: 31}
+jilt <> V: {rk: 34861, frq: 103}
+jilted <> J: {rk: 36982, frq: 84}
+jimmies <> N: {rk: 46052, frq: 47}
+jingle <> N: {rk: 15529, frq: 737}, V: {rk: 21493, frq: 377}
+jingling <> N: {rk: 48726, frq: 34}, J: {rk: 54714, frq: 25}
+jingoism <> N: {rk: 38003, frq: 74}
+jingoistic <> J: {rk: 34802, frq: 94}
+jinks <> N: {rk: 33483, frq: 145}
+jinx <> V: {rk: 32478, frq: 143}
+jitney <> N: {rk: 45493, frq: 76}
+jitterbug <> N: {rk: 37514, frq: 110}, V: {rk: 43915, frq: 49}
+jitters <> N: {rk: 18414, frq: 503}
+jittery <> J: {rk: 17641, frq: 555}
+jive <> N: {rk: 31776, frq: 189}, V: {rk: 32628, frq: 121}
+job <> N: {rk: 243, frq: 169801}
+jobless <> J: {rk: 15180, frq: 954}
+joblessness <> N: {rk: 25517, frq: 293}
+jock <> N: {rk: 13824, frq: 1225}
+jockey <> N: {rk: 9723, frq: 1775}, V: {rk: 19104, frq: 469}
+jockeying <> N: {rk: 34789, frq: 102}
+jockstrap <> N: {rk: 41363, frq: 65}
+jocular <> J: {rk: 34760, frq: 96}
+jocularity <> N: {rk: 50725, frq: 30}
+jocularly <> R: {rk: 54368, frq: 24}
+jodhpur <> N: {rk: 42285, frq: 74}
+jog <> V: {rk: 8489, frq: 2242}, N: {rk: 19335, frq: 495}
+jogger <> N: {rk: 16737, frq: 631}
+jogging <> N: {rk: 15499, frq: 715}
+joggle <> V: {rk: 58599, frq: 19}
+johnboat <> N: {rk: 44067, frq: 62}
+join <> V: {rk: 505, frq: 87210}, N: {rk: 28886, frq: 175}
+joined <> J: {rk: 23182, frq: 312}
+joiner <> N: {rk: 24112, frq: 314}
+joinery <> N: {rk: 36278, frq: 93}
+joining <> N: {rk: 25158, frq: 243}
+joint <> J: {rk: 2232, frq: 16656}, N: {rk: 5136, frq: 5095}, V: {rk: 31384, frq: 140}
+jointly <> R: {rk: 9085, frq: 1975}
+joist <> N: {rk: 20218, frq: 480}
+jojoba <> N: {rk: 40986, frq: 69}
+joke <> N: {rk: 2260, frq: 16501}, V: {rk: 4585, frq: 6061}
+joker <> N: {rk: 22551, frq: 491}
+jokester <> N: {rk: 37882, frq: 88}
+jokey <> J: {rk: 36271, frq: 95}
+joking <> J: {rk: 34399, frq: 97}, N: {rk: 40230, frq: 63}
+jokingly <> R: {rk: 15145, frq: 767}
+jollity <> N: {rk: 53673, frq: 27}
+jolly <> J: {rk: 13584, frq: 1016}, R: {rk: 34436, frq: 100}, V: {rk: 35866, frq: 91}
+jolt <> N: {rk: 11111, frq: 1429}, V: {rk: 12398, frq: 1127}
+jolting <> J: {rk: 38412, frq: 74}
+jongleur <> N: {rk: 59922, frq: 28}
+jonquil <> N: {rk: 45313, frq: 58}
+josh <> V: {rk: 36772, frq: 89}
+jostle <> V: {rk: 13622, frq: 989}, N: {rk: 50727, frq: 31}
+jostling <> N: {rk: 36993, frq: 83}, J: {rk: 44599, frq: 47}
+jot <> V: {rk: 14218, frq: 887}, N: {rk: 36101, frq: 89}
+jounce <> V: {rk: 36279, frq: 89}
+journal <> N: {rk: 2797, frq: 25363}
+journaling <> N: {rk: 58367, frq: 30}
+journalism <> N: {rk: 4565, frq: 6210}
+journalist <> N: {rk: 2111, frq: 18327}
+journalistic <> J: {rk: 10214, frq: 1574}
+journalistically <> R: {rk: 40288, frq: 68}
+journey <> N: {rk: 2425, frq: 14998}, V: {rk: 13359, frq: 972}
+journeying <> N: {rk: 52349, frq: 32}
+journeyman <> N: {rk: 23128, frq: 302}
+joust <> V: {rk: 30198, frq: 155}, N: {rk: 39546, frq: 74}
+jousting <> N: {rk: 44157, frq: 46}, J: {rk: 49862, frq: 34}
+jovial <> J: {rk: 21176, frq: 385}
+joviality <> N: {rk: 46370, frq: 41}
+jovially <> R: {rk: 42440, frq: 55}
+jovian <> J: {rk: 26880, frq: 229}
+jowl <> N: {rk: 22409, frq: 358}
+jowly <> R: {rk: 40452, frq: 63}, J: {rk: 50432, frq: 33}
+joy <> N: {rk: 2833, frq: 15338}
+joyful <> J: {rk: 11729, frq: 1273}
+joyfully <> R: {rk: 22649, frq: 320}
+joyfulness <> N: {rk: 54335, frq: 24}
+joyless <> J: {rk: 30598, frq: 154}
+joyous <> J: {rk: 12567, frq: 1080}
+joyously <> R: {rk: 28445, frq: 180}
+joyride <> N: {rk: 37101, frq: 91}, V: {rk: 46452, frq: 38}
+joyriding <> N: {rk: 57439, frq: 19}
+joystick <> N: {rk: 19902, frq: 495}
+jubilant <> J: {rk: 19179, frq: 474}
+jubilantly <> R: {rk: 38738, frq: 71}
+jubilation <> N: {rk: 24236, frq: 276}
+judge <> N: {rk: 1116, frq: 43496}, V: {rk: 1760, frq: 24612}
+judge-made <> J: {rk: 56038, frq: 23}
+judged <> J: {rk: 52556, frq: 27}
+judgement <> N: {rk: 15213, frq: 815}
+judgeship <> N: {rk: 26769, frq: 222}
+judging <> N: {rk: 22603, frq: 350}
+judgment <> N: {rk: 1910, frq: 20548}
+judgmental <> J: {rk: 16827, frq: 609}
+judgmentalism <> N: {rk: 58395, frq: 21}
+judicial <> J: {rk: 3960, frq: 7728}
+judicially <> R: {rk: 32281, frq: 138}
+judiciary <> N: {rk: 10190, frq: 2826}
+judicious <> J: {rk: 17667, frq: 560}
+judiciously <> R: {rk: 23853, frq: 287}
+judo <> N: {rk: 24262, frq: 439}
+jug <> N: {rk: 9832, frq: 1753}
+juggernaut <> N: {rk: 19212, frq: 493}
+juggle <> V: {rk: 9798, frq: 1727}
+juggler <> N: {rk: 23280, frq: 334}
+juggling <> J: {rk: 30698, frq: 152}, N: {rk: 36744, frq: 100}
+jugular <> N: {rk: 28395, frq: 178}, J: {rk: 28472, frq: 280}
+juice <> N: {rk: 2324, frq: 17346}
+juiced <> J: {rk: 50509, frq: 35}
+juicer <> N: {rk: 34563, frq: 114}
+juiciness <> N: {rk: 50348, frq: 33}
+juicy <> J: {rk: 8914, frq: 2119}
+jujitsu <> N: {rk: 41633, frq: 67}
+juju <> N: {rk: 37046, frq: 198}
+juke <> N: {rk: 29729, frq: 175}
+jukebox <> N: {rk: 14996, frq: 863}
+julep <> N: {rk: 35268, frq: 117}
+julienne <> N: {rk: 33848, frq: 155}
+jumble <> N: {rk: 14399, frq: 876}, V: {rk: 24556, frq: 270}
+jumbled <> J: {rk: 24661, frq: 268}
+jumbo <> J: {rk: 16137, frq: 688}, N: {rk: 22885, frq: 316}
+jump <> V: {rk: 1350, frq: 30778}, N: {rk: 4312, frq: 6552}
+jump-off <> J: {rk: 52970, frq: 25}
+jump-start <> N: {rk: 19310, frq: 509}
+jumper <> N: {rk: 9360, frq: 1902}
+jumping <> N: {rk: 13249, frq: 998}, J: {rk: 14114, frq: 875}
+jumpstart <> V: {rk: 34350, frq: 109}
+jumpsuit <> N: {rk: 16506, frq: 734}
+jumpy <> J: {rk: 21827, frq: 370}
+junction <> N: {rk: 13620, frq: 1781}
+juncture <> N: {rk: 11808, frq: 1214}
+jungian <> J: {rk: 26521, frq: 243}, N: {rk: 58732, frq: 21}
+jungle <> N: {rk: 4548, frq: 6033}
+jungly <> J: {rk: 57682, frq: 19}
+junior <> J: {rk: 2467, frq: 14954}, N: {rk: 10761, frq: 2179}
+juniper <> N: {rk: 13839, frq: 1009}
+junk <> N: {rk: 5184, frq: 5010}, V: {rk: 27985, frq: 183}, J: {rk: 46809, frq: 42}
+junked <> J: {rk: 42074, frq: 57}
+junket <> N: {rk: 23961, frq: 288}, V: {rk: 49261, frq: 39}
+junkie <> N: {rk: 12023, frq: 1372}
+junkman <> N: {rk: 55254, frq: 33}
+junky <> J: {rk: 32901, frq: 123}
+junkyard <> N: {rk: 19525, frq: 488}
+junta <> N: {rk: 16718, frq: 745}
+junto <> N: {rk: 49105, frq: 41}
+jural <> J: {rk: 59517, frq: 20}
+juridical <> J: {rk: 25015, frq: 299}
+juried <> J: {rk: 23392, frq: 328}
+jurisdiction <> N: {rk: 4695, frq: 6102}
+jurisdictional <> J: {rk: 20243, frq: 467}
+jurisprudence <> N: {rk: 15375, frq: 987}
+jurisprudential <> J: {rk: 37793, frq: 85}
+jurist <> N: {rk: 17987, frq: 565}
+juror <> N: {rk: 4102, frq: 9003}
+jury <> N: {rk: 1656, frq: 25056}
+jury-rigged <> J: {rk: 39482, frq: 67}
+jus <> N: {rk: 20139, frq: 1124}
+just <> R: {rk: 66, frq: 741437}, J: {rk: 1819, frq: 22042}
+just-in-time <> J: {rk: 29365, frq: 166}
+justice <> N: {rk: 1486, frq: 43131}
+justifiable <> J: {rk: 16055, frq: 699}
+justifiably <> R: {rk: 18469, frq: 495}
+justification <> N: {rk: 5890, frq: 4214}
+justificatory <> J: {rk: 55031, frq: 38}
+justified <> J: {rk: 15658, frq: 724}
+justify <> V: {rk: 2851, frq: 12150}
+justifying <> J: {rk: 52149, frq: 30}
+justly <> R: {rk: 17782, frq: 560}
+justness <> N: {rk: 50520, frq: 32}
+jut <> V: {rk: 11462, frq: 1390}, N: {rk: 35682, frq: 103}
+jute <> N: {rk: 35623, frq: 128}
+jutting <> J: {rk: 32327, frq: 134}
+juvenile <> J: {rk: 5319, frq: 4887}, N: {rk: 13286, frq: 1046}
+juxtapose <> V: {rk: 13857, frq: 920}
+juxtaposed <> J: {rk: 39258, frq: 67}
+juxtaposition <> N: {rk: 12730, frq: 1082}

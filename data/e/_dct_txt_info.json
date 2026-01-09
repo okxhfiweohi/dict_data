@@ -1,0 +1,52 @@
+{
+    "phonetic": {
+        "start": "E",
+        "end": "ezra",
+        "total": 4173
+    },
+    "bnc": {
+        "start": "E",
+        "end": "ezra",
+        "total": 1820
+    },
+    "explain": {
+        "start": "E",
+        "end": "exiguousness",
+        "total": 5000
+    },
+    "explain__1": {
+        "start": "exile",
+        "end": "ezra",
+        "total": 810
+    },
+    "exchange": {
+        "start": "E-boat",
+        "end": "eys",
+        "total": 2995
+    },
+    "freq": {
+        "start": "each",
+        "end": "eyrie",
+        "total": 1819
+    },
+    "collins": {
+        "start": "each",
+        "end": "eyewitness",
+        "total": 545
+    },
+    "redirect": {
+        "start": "e-boats",
+        "end": "eyres",
+        "total": 51
+    },
+    "lgk_id": {
+        "start": "e'er",
+        "end": "eyewitness",
+        "total": 1370
+    },
+    "pos": {
+        "start": "e-book",
+        "end": "eyrie",
+        "total": 1796
+    }
+}

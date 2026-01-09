@@ -1,0 +1,2246 @@
+m <> J: {rk: 38931, frq: 80}
+macabre <> J: {rk: 19555, frq: 446}
+macadam <> N: {rk: 35026, frq: 134}
+macadamia <> N: {rk: 27929, frq: 247}
+macaque <> N: {rk: 38689, frq: 89}
+macaroni <> N: {rk: 13234, frq: 1014}
+macaroon <> N: {rk: 34039, frq: 136}
+macaw <> N: {rk: 26707, frq: 258}
+mace <> N: {rk: 25211, frq: 694}
+macerate <> V: {rk: 50589, frq: 36}
+mache <> N: {rk: 37959, frq: 83}
+machete <> N: {rk: 16514, frq: 691}
+machination <> N: {rk: 20557, frq: 395}
+machine <> N: {rk: 1023, frq: 40938}, V: {rk: 9088, frq: 1954}
+machine-gun <> J: {rk: 22900, frq: 324}, N: {rk: 32464, frq: 163}
+machine-gunner <> N: {rk: 55761, frq: 22}
+machine-made <> J: {rk: 34489, frq: 106}
+machine-readable <> J: {rk: 55910, frq: 24}
+machined <> J: {rk: 35108, frq: 102}
+machinery <> N: {rk: 5846, frq: 3976}
+machining <> J: {rk: 38437, frq: 86}, N: {rk: 40469, frq: 102}
+machinist <> N: {rk: 19409, frq: 497}
+machismo <> N: {rk: 23253, frq: 314}
+macho <> J: {rk: 11043, frq: 1334}
+mackerel <> N: {rk: 17192, frq: 632}
+mackinaw <> N: {rk: 47554, frq: 85}
+macrame <> N: {rk: 41247, frq: 63}
+macro <> J: {rk: 17024, frq: 685}, N: {rk: 18529, frq: 641}
+macrobiotic <> J: {rk: 38189, frq: 77}
+macrocosm <> N: {rk: 43270, frq: 56}
+macrocosmic <> J: {rk: 54698, frq: 26}
+macroeconomic <> J: {rk: 15477, frq: 831}
+macroeconomics <> N: {rk: 39923, frq: 85}
+macroeconomist <> N: {rk: 59432, frq: 22}
+macromolecular <> J: {rk: 59466, frq: 27}
+macrophage <> N: {rk: 27174, frq: 231}
+macrophyte <> N: {rk: 49709, frq: 58}
+macroscopic <> J: {rk: 26531, frq: 258}
+macroscopically <> R: {rk: 57783, frq: 26}
+macula <> N: {rk: 42995, frq: 67}
+mad <> J: {rk: 2588, frq: 13997}
+madam <> N: {rk: 17770, frq: 1284}
+madame <> N: {rk: 7546, frq: 2919}
+madcap <> N: {rk: 35157, frq: 102}
+madden <> V: {rk: 11569, frq: 1445}
+maddened <> J: {rk: 44636, frq: 47}
+maddening <> J: {rk: 25394, frq: 237}, N: {rk: 47658, frq: 47}
+maddeningly <> R: {rk: 26760, frq: 207}
+madder <> N: {rk: 42875, frq: 52}
+madding <> J: {rk: 41441, frq: 55}
+made-to-order <> J: {rk: 36947, frq: 93}
+made-up <> J: {rk: 20662, frq: 415}
+madhouse <> N: {rk: 30869, frq: 157}
+madly <> R: {rk: 14107, frq: 911}
+madman <> N: {rk: 14400, frq: 887}
+madness <> N: {rk: 6658, frq: 3467}
+madrasa <> N: {rk: 43206, frq: 75}
+madrigal <> N: {rk: 33016, frq: 139}
+madwoman <> N: {rk: 33405, frq: 116}
+maelstrom <> N: {rk: 20438, frq: 411}
+maestro <> N: {rk: 17926, frq: 740}
+magazine <> N: {rk: 1002, frq: 42662}
+magenta <> N: {rk: 18760, frq: 528}
+maggot <> N: {rk: 18303, frq: 1083}
+magi <> N: {rk: 32546, frq: 184}
+magic <> J: {rk: 3434, frq: 9196}, N: {rk: 3871, frq: 8143}
+magical <> J: {rk: 5649, frq: 4339}
+magically <> R: {rk: 13670, frq: 952}
+magician <> N: {rk: 9623, frq: 1996}
+magisterial <> J: {rk: 26023, frq: 252}
+magisterium <> N: {rk: 23882, frq: 409}
+magistrate <> N: {rk: 11333, frq: 1497}
+maglev <> J: {rk: 35330, frq: 120}, N: {rk: 44481, frq: 102}
+magma <> N: {rk: 20982, frq: 472}
+magnanimity <> N: {rk: 31984, frq: 133}
+magnanimous <> J: {rk: 25515, frq: 233}
+magnanimously <> R: {rk: 42408, frq: 55}
+magnate <> N: {rk: 16949, frq: 622}
+magnesium <> N: {rk: 12516, frq: 1266}
+magnet <> N: {rk: 6356, frq: 3771}
+magnetar <> N: {rk: 38542, frq: 152}
+magnetic <> J: {rk: 4876, frq: 5774}
+magnetically <> R: {rk: 29900, frq: 162}
+magnetics <> N: {rk: 50232, frq: 49}
+magnetism <> N: {rk: 18684, frq: 529}
+magnetite <> N: {rk: 42809, frq: 66}
+magnetization <> N: {rk: 35747, frq: 113}
+magnetize <> V: {rk: 35511, frq: 101}
+magnetized <> J: {rk: 42592, frq: 59}
+magneto <> N: {rk: 50280, frq: 69}
+magneto-optical <> J: {rk: 56009, frq: 26}
+magnetometer <> N: {rk: 33718, frq: 115}
+magnetosphere <> N: {rk: 33700, frq: 138}
+magnetron <> N: {rk: 50143, frq: 48}
+magnification <> N: {rk: 13278, frq: 1103}
+magnificence <> N: {rk: 23153, frq: 307}
+magnificent <> J: {rk: 5556, frq: 4365}
+magnificently <> R: {rk: 21304, frq: 359}
+magnifico <> N: {rk: 58800, frq: 45}
+magnified <> J: {rk: 30530, frq: 148}
+magnifier <> N: {rk: 31689, frq: 181}
+magnify <> V: {rk: 9782, frq: 1714}
+magnifying <> J: {rk: 19162, frq: 470}
+magnitude <> N: {rk: 4002, frq: 7667}
+magnolia <> N: {rk: 18135, frq: 1263}
+magpie <> N: {rk: 29163, frq: 212}
+maguey <> N: {rk: 55430, frq: 51}
+magus <> N: {rk: 48736, frq: 94}
+maharaja <> N: {rk: 52790, frq: 54}
+maharajah <> N: {rk: 40421, frq: 68}
+maharishi <> N: {rk: 51712, frq: 94}
+mahogany <> N: {rk: 10006, frq: 1735}
+mahonia <> N: {rk: 56458, frq: 25}
+mahout <> N: {rk: 40067, frq: 79}
+maid <> N: {rk: 6123, frq: 3965}
+maiden <> J: {rk: 14872, frq: 785}, N: {rk: 15832, frq: 1134}
+maidenhair <> N: {rk: 55273, frq: 23}
+maidenhead <> N: {rk: 53822, frq: 42}
+maidenly <> R: {rk: 54348, frq: 25}
+maidservant <> N: {rk: 38514, frq: 81}
+mail <> N: {rk: 2524, frq: 14034}, V: {rk: 5996, frq: 3786}
+mailbag <> N: {rk: 33365, frq: 150}
+mailbox <> N: {rk: 9191, frq: 1988}
+mailed <> J: {rk: 35138, frq: 106}
+mailer <> N: {rk: 26727, frq: 872}
+mailing <> N: {rk: 9779, frq: 1695}
+mailman <> N: {rk: 20004, frq: 636}
+mailroom <> N: {rk: 30087, frq: 182}
+maim <> V: {rk: 17569, frq: 546}
+maimed <> J: {rk: 25743, frq: 222}
+maiming <> N: {rk: 49622, frq: 34}
+main <> J: {rk: 889, frq: 47492}, R: {rk: 29583, frq: 162}
+mainframe <> N: {rk: 15321, frq: 763}
+mainland <> N: {rk: 6291, frq: 3776}
+mainline <> J: {rk: 14416, frq: 817}, V: {rk: 52817, frq: 27}
+mainly <> R: {rk: 2822, frq: 12145}
+mainmast <> N: {rk: 53303, frq: 30}
+mainsail <> N: {rk: 37847, frq: 78}
+mainspring <> N: {rk: 47295, frq: 36}
+mainstay <> N: {rk: 13705, frq: 943}
+mainstream <> J: {rk: 3554, frq: 8924}, N: {rk: 14332, frq: 866}
+mainstreamed <> J: {rk: 42200, frq: 74}
+mainstreaming <> N: {rk: 38043, frq: 125}, J: {rk: 58142, frq: 26}
+maintain <> V: {rk: 923, frq: 46609}
+maintained <> J: {rk: 29348, frq: 171}
+maintainer <> N: {rk: 48787, frq: 43}
+maintenance <> N: {rk: 3086, frq: 10835}
+maiolica <> N: {rk: 58953, frq: 28}
+maize <> N: {rk: 14311, frq: 1126}
+majestic <> J: {rk: 10793, frq: 1450}
+majestically <> R: {rk: 25786, frq: 226}
+majolica <> N: {rk: 42259, frq: 63}
+major <> J: {rk: 444, frq: 93689}, N: {rk: 4579, frq: 12134}, V: {rk: 13304, frq: 1005}
+major-league <> J: {rk: 13861, frq: 988}, N: {rk: 43599, frq: 52}
+majordomo <> N: {rk: 40303, frq: 74}
+majorette <> N: {rk: 44176, frq: 47}
+majoritarian <> J: {rk: 32876, frq: 150}
+majority <> N: {rk: 1086, frq: 40198}
+majorly <> R: {rk: 50167, frq: 36}
+make <> V: {rk: 45, frq: 932443}, N: {rk: 9090, frq: 1993}
+make-believe <> J: {rk: 22328, frq: 330}, N: {rk: 26885, frq: 224}
+make-work <> J: {rk: 42588, frq: 53}
+makeable <> J: {rk: 54418, frq: 29}
+makeover <> V: {rk: 10751, frq: 1593}
+maker <> N: {rk: 2358, frq: 15496}
+makeshift <> J: {rk: 8939, frq: 2081}
+makeup <> N: {rk: 3388, frq: 10176}
+making <> N: {rk: 5094, frq: 5217}
+mako <> N: {rk: 39548, frq: 105}
+malabsorption <> N: {rk: 58770, frq: 27}
+malachite <> N: {rk: 36544, frq: 94}
+maladaptive <> J: {rk: 22843, frq: 399}
+maladjusted <> J: {rk: 37721, frq: 81}
+maladjustment <> N: {rk: 28525, frq: 242}
+maladroit <> J: {rk: 50262, frq: 31}
+malady <> N: {rk: 16203, frq: 666}
+malaise <> N: {rk: 15992, frq: 694}
+malamute <> N: {rk: 52017, frq: 31}
+malanga <> N: {rk: 57569, frq: 39}
+malapropism <> N: {rk: 47532, frq: 36}
+malaria <> N: {rk: 9329, frq: 2013}
+malarial <> J: {rk: 34549, frq: 113}
+malarkey <> N: {rk: 37175, frq: 103}
+malathion <> N: {rk: 36871, frq: 122}
+malcontent <> N: {rk: 27532, frq: 229}, J: {rk: 49176, frq: 36}
+maldistribution <> N: {rk: 52569, frq: 30}
+male <> J: {rk: 1535, frq: 26809}, N: {rk: 1717, frq: 29052}
+malediction <> N: {rk: 53842, frq: 26}
+malefactor <> N: {rk: 35209, frq: 99}
+maleficent <> J: {rk: 56755, frq: 31}
+maleness <> N: {rk: 25897, frq: 238}
+malevolence <> N: {rk: 30804, frq: 145}
+malevolent <> J: {rk: 17449, frq: 577}
+malevolently <> R: {rk: 45150, frq: 45}
+malfeasance <> N: {rk: 24663, frq: 293}
+malformation <> N: {rk: 25033, frq: 301}
+malformed <> J: {rk: 34057, frq: 109}
+malfunction <> N: {rk: 15355, frq: 788}, V: {rk: 23885, frq: 277}
+malfunctioning <> J: {rk: 32317, frq: 132}
+malice <> N: {rk: 14026, frq: 888}
+malicious <> J: {rk: 13539, frq: 951}
+maliciously <> R: {rk: 28704, frq: 168}
+maliciousness <> N: {rk: 52490, frq: 25}
+malign <> V: {rk: 20768, frq: 392}, J: {rk: 31407, frq: 135}
+malignancy <> N: {rk: 19856, frq: 525}
+malignant <> J: {rk: 12648, frq: 1185}
+maligned <> J: {rk: 36332, frq: 85}
+mall <> N: {rk: 3069, frq: 10935}
+malleability <> N: {rk: 33957, frq: 110}
+malleable <> J: {rk: 19393, frq: 456}
+malleolus <> N: {rk: 59024, frq: 23}
+mallet <> N: {rk: 18332, frq: 589}
+malleus <> N: {rk: 40476, frq: 119}
+mallow <> N: {rk: 34728, frq: 105}
+malnourished <> J: {rk: 21018, frq: 374}
+malnourishment <> N: {rk: 46781, frq: 46}
+malnutrition <> N: {rk: 14337, frq: 874}
+malodorous <> J: {rk: 34051, frq: 126}
+malpractice <> N: {rk: 9786, frq: 1837}
+malt <> N: {rk: 17766, frq: 582}, V: {rk: 43019, frq: 51}
+malted <> J: {rk: 37981, frq: 85}
+maltreat <> V: {rk: 42580, frq: 53}
+maltreatment <> N: {rk: 22872, frq: 439}
+malty <> J: {rk: 54808, frq: 32}
+mambo <> N: {rk: 27495, frq: 282}
+mammal <> N: {rk: 6228, frq: 3772}
+mammalian <> J: {rk: 19446, frq: 492}
+mammary <> J: {rk: 33393, frq: 117}
+mammogram <> N: {rk: 12441, frq: 1380}
+mammography <> N: {rk: 19880, frq: 556}
+mammon <> N: {rk: 44843, frq: 70}
+mammoth <> J: {rk: 11307, frq: 1374}, N: {rk: 17262, frq: 676}
+man <> N: {rk: 94, frq: 459435}, V: {rk: 11357, frq: 1383}
+man-child <> N: {rk: 35338, frq: 97}
+man-eater <> N: {rk: 34462, frq: 116}
+man-eating <> J: {rk: 34829, frq: 101}
+man-hour <> N: {rk: 32424, frq: 122}
+man-made <> J: {rk: 9614, frq: 1769}
+man-of-war <> N: {rk: 37984, frq: 84}
+man-sized <> J: {rk: 45029, frq: 46}
+man-to-man <> J: {rk: 30334, frq: 151}
+manacle <> N: {rk: 37220, frq: 89}, V: {rk: 40015, frq: 67}
+manage <> V: {rk: 946, frq: 44315}
+manageability <> N: {rk: 54500, frq: 25}
+manageable <> J: {rk: 10866, frq: 1438}
+managed <> J: {rk: 9863, frq: 1721}
+management <> N: {rk: 907, frq: 48738}
+manager <> N: {rk: 878, frq: 49719}
+managerial <> J: {rk: 10070, frq: 1791}
+managing <> J: {rk: 4954, frq: 5580}, N: {rk: 18066, frq: 549}
+mandala <> N: {rk: 36169, frq: 148}
+mandamus <> N: {rk: 58933, frq: 23}
+mandate <> N: {rk: 3752, frq: 8579}, V: {rk: 7424, frq: 2838}
+mandated <> J: {rk: 17359, frq: 603}
+mandatory <> J: {rk: 5173, frq: 4996}
+mandible <> N: {rk: 23105, frq: 372}
+mandibular <> J: {rk: 35471, frq: 139}
+mandir <> N: {rk: 59294, frq: 53}
+mandolin <> N: {rk: 24962, frq: 308}
+mandoline <> N: {rk: 45906, frq: 77}
+mandrel <> N: {rk: 41626, frq: 64}
+mane <> N: {rk: 13408, frq: 1058}
+maneuver <> V: {rk: 7314, frq: 2786}, N: {rk: 7683, frq: 2605}
+maneuverability <> N: {rk: 25827, frq: 242}
+maneuverable <> J: {rk: 30260, frq: 159}
+maneuvering <> N: {rk: 17080, frq: 601}, J: {rk: 35773, frq: 94}
+manfully <> R: {rk: 40430, frq: 60}
+manga <> N: {rk: 36247, frq: 180}
+manganese <> N: {rk: 23247, frq: 329}
+mange <> N: {rk: 46509, frq: 51}
+manger <> N: {rk: 21791, frq: 432}
+mangle <> V: {rk: 20260, frq: 412}, N: {rk: 47307, frq: 53}
+mangled <> J: {rk: 20671, frq: 401}
+mango <> N: {rk: 9705, frq: 2109}
+mangosteen <> N: {rk: 53699, frq: 35}
+mangrove <> N: {rk: 16162, frq: 737}
+mangy <> J: {rk: 28483, frq: 189}
+manhandle <> V: {rk: 26576, frq: 222}
+manhole <> N: {rk: 21434, frq: 377}
+manhood <> N: {rk: 12140, frq: 1175}
+manhunt <> N: {rk: 19072, frq: 525}
+mania <> N: {rk: 12786, frq: 1057}
+maniac <> N: {rk: 15624, frq: 782}
+maniacal <> J: {rk: 25071, frq: 250}
+maniacally <> R: {rk: 30781, frq: 148}
+manic <> J: {rk: 13564, frq: 931}
+manic-depressive <> J: {rk: 32921, frq: 118}, N: {rk: 40510, frq: 78}
+manically <> R: {rk: 47721, frq: 37}
+manicotti <> N: {rk: 46769, frq: 45}
+manicure <> N: {rk: 16953, frq: 806}, V: {rk: 42733, frq: 50}
+manicured <> J: {rk: 15720, frq: 746}
+manicurist <> N: {rk: 30532, frq: 175}
+manifest <> V: {rk: 6009, frq: 4144}, J: {rk: 11781, frq: 1270}, N: {rk: 39272, frq: 76}
+manifestation <> N: {rk: 6685, frq: 3506}
+manifestly <> R: {rk: 21573, frq: 372}
+manifesto <> N: {rk: 12917, frq: 1119}
+manifold <> J: {rk: 22935, frq: 321}, N: {rk: 23540, frq: 319}
+manikin <> N: {rk: 38017, frq: 97}
+manioc <> N: {rk: 30239, frq: 245}
+manipulable <> J: {rk: 43104, frq: 52}
+manipulate <> V: {rk: 4284, frq: 6611}
+manipulated <> J: {rk: 33055, frq: 120}
+manipulation <> N: {rk: 5826, frq: 4348}
+manipulative <> J: {rk: 14471, frq: 829}
+manipulator <> N: {rk: 20575, frq: 401}
+mankind <> N: {rk: 7401, frq: 2760}
+manliness <> N: {rk: 27226, frq: 227}
+manly <> J: {rk: 14559, frq: 834}
+manna <> N: {rk: 27153, frq: 322}
+manned <> J: {rk: 14714, frq: 847}
+mannequin <> N: {rk: 15468, frq: 786}
+manner <> N: {rk: 1828, frq: 21529}
+mannered <> J: {rk: 28199, frq: 182}
+mannerism <> N: {rk: 18774, frq: 467}
+mannerly <> R: {rk: 41579, frq: 54}, J: {rk: 53932, frq: 27}
+mannish <> J: {rk: 36317, frq: 93}
+mannitol <> N: {rk: 58016, frq: 33}
+manoeuvre <> V: {rk: 50161, frq: 34}, N: {rk: 50323, frq: 39}
+manorial <> J: {rk: 59877, frq: 23}
+manpower <> N: {rk: 11799, frq: 1279}
+mansard <> N: {rk: 48321, frq: 46}
+manse <> N: {rk: 32625, frq: 142}
+manservant <> N: {rk: 29864, frq: 180}
+mansion <> N: {rk: 4806, frq: 5727}
+manslaughter <> N: {rk: 13587, frq: 1094}
+manta <> N: {rk: 33753, frq: 174}
+mantel <> N: {rk: 13909, frq: 1202}
+mantelpiece <> N: {rk: 25559, frq: 254}
+mantilla <> N: {rk: 45988, frq: 51}
+mantis <> N: {rk: 30583, frq: 188}
+mantle <> N: {rk: 10049, frq: 2326}, V: {rk: 48568, frq: 35}
+mantlepiece <> N: {rk: 57166, frq: 22}
+mantra <> N: {rk: 10273, frq: 1683}
+manual <> N: {rk: 4985, frq: 5511}, J: {rk: 7162, frq: 3061}
+manually <> R: {rk: 13289, frq: 1021}
+manufactory <> N: {rk: 40382, frq: 73}
+manufacturable <> J: {rk: 58613, frq: 19}
+manufacture <> V: {rk: 5188, frq: 4951}, N: {rk: 10475, frq: 1527}
+manufactured <> J: {rk: 11817, frq: 1218}
+manufacturer <> N: {rk: 2265, frq: 16726}
+manufacturing <> N: {rk: 3181, frq: 10551}
+manumission <> N: {rk: 48816, frq: 51}
+manure <> N: {rk: 10031, frq: 1750}, V: {rk: 23905, frq: 311}
+manus <> N: {rk: 55529, frq: 94}
+manuscript <> N: {rk: 5168, frq: 5387}
+many <> D: {rk: 99, frq: 415218}
+many-sided <> J: {rk: 52712, frq: 31}
+manzanilla <> N: {rk: 59582, frq: 30}
+manzanita <> N: {rk: 39141, frq: 105}
+map <> N: {rk: 1547, frq: 25533}, V: {rk: 6431, frq: 3586}
+maple <> N: {rk: 5636, frq: 4853}
+mapmaker <> N: {rk: 32199, frq: 135}
+mapped <> J: {rk: 48052, frq: 38}
+mapper <> N: {rk: 41720, frq: 64}
+mapping <> N: {rk: 10403, frq: 1695}
+maquette <> N: {rk: 38623, frq: 81}
+maquiladora <> N: {rk: 24350, frq: 304}
+mar <> V: {rk: 8733, frq: 2072}
+marabou <> N: {rk: 43221, frq: 64}
+marabout <> N: {rk: 42776, frq: 61}
+maraca <> N: {rk: 37997, frq: 80}
+maraschino <> N: {rk: 36065, frq: 104}
+marathon <> N: {rk: 6539, frq: 3520}
+marathoner <> N: {rk: 29243, frq: 169}
+marauder <> N: {rk: 27901, frq: 205}
+marauding <> J: {rk: 26722, frq: 217}
+maravilla <> N: {rk: 58117, frq: 39}
+marble <> N: {rk: 4865, frq: 5683}
+marbled <> J: {rk: 21847, frq: 349}
+marbleized <> J: {rk: 57423, frq: 19}
+marcel <> V: {rk: 31374, frq: 209}
+march <> V: {rk: 3506, frq: 8898}
+marcher <> N: {rk: 18334, frq: 593}
+marchese <> N: {rk: 47999, frq: 90}
+marching <> J: {rk: 13346, frq: 959}, N: {rk: 22094, frq: 333}
+marchioness <> N: {rk: 43400, frq: 64}
+mare <> N: {rk: 11018, frq: 1948}
+margarine <> N: {rk: 10738, frq: 1615}
+margarita <> N: {rk: 16571, frq: 1207}
+margin <> N: {rk: 3329, frq: 9600}
+marginal <> J: {rk: 6176, frq: 3894}
+marginalia <> N: {rk: 39575, frq: 76}
+marginality <> N: {rk: 25289, frq: 297}
+marginalization <> N: {rk: 17627, frq: 637}
+marginalize <> V: {rk: 11264, frq: 1445}
+marginalized <> J: {rk: 17762, frq: 635}
+marginally <> R: {rk: 12757, frq: 1086}
+mariachi <> N: {rk: 25777, frq: 323}
+marigold <> N: {rk: 18983, frq: 473}
+marijuana <> N: {rk: 5047, frq: 5923}
+marimba <> N: {rk: 34724, frq: 148}
+marinade <> N: {rk: 12782, frq: 1291}, V: {rk: 36880, frq: 93}
+marinara <> N: {rk: 25645, frq: 298}
+marinate <> V: {rk: 13668, frq: 1014}
+marinated <> J: {rk: 21012, frq: 405}
+marine <> J: {rk: 4964, frq: 11102}
+marionette <> N: {rk: 25011, frq: 268}
+marital <> J: {rk: 6329, frq: 3768}
+maritime <> J: {rk: 9841, frq: 1895}
+marjoram <> N: {rk: 29594, frq: 181}
+mark <> V: {rk: 1689, frq: 22858}
+markdown <> N: {rk: 37735, frq: 82}
+marked <> J: {rk: 6573, frq: 3356}
+markedly <> R: {rk: 10196, frq: 1630}
+marker <> N: {rk: 4857, frq: 5680}
+market <> N: {rk: 402, frq: 108070}, V: {rk: 2788, frq: 12537}
+market-maker <> N: {rk: 59686, frq: 24}
+marketability <> N: {rk: 29075, frq: 172}
+marketable <> J: {rk: 15421, frq: 729}
+marketed <> J: {rk: 56275, frq: 26}
+marketeer <> N: {rk: 32974, frq: 121}
+marketer <> N: {rk: 9886, frq: 1721}
+marketing <> N: {rk: 2306, frq: 16394}
+marketization <> N: {rk: 37255, frq: 97}
+marketplace <> N: {rk: 4531, frq: 6067}
+marking <> N: {rk: 10168, frq: 1570}
+marksman <> N: {rk: 25588, frq: 254}
+marksmanship <> N: {rk: 28224, frq: 189}
+markup <> N: {rk: 18043, frq: 1126}
+marl <> N: {rk: 37573, frq: 78}
+marmalade <> N: {rk: 24731, frq: 363}
+marmoset <> N: {rk: 51487, frq: 34}
+marmot <> N: {rk: 27284, frq: 342}
+maroon <> J: {rk: 15194, frq: 775}, N: {rk: 33802, frq: 134}, V: {rk: 38385, frq: 76}
+marooned <> J: {rk: 25622, frq: 237}
+marquee <> N: {rk: 13492, frq: 1009}
+marquess <> N: {rk: 33318, frq: 161}
+marquetry <> N: {rk: 34539, frq: 122}
+marquise <> N: {rk: 40758, frq: 79}
+marred <> J: {rk: 51479, frq: 31}
+marriage <> N: {rk: 1012, frq: 42001}
+marriageable <> J: {rk: 31504, frq: 138}
+married <> J: {rk: 1615, frq: 24072}
+marrow <> N: {rk: 9955, frq: 1690}
+marry <> V: {rk: 1337, frq: 31149}
+marrying <> J: {rk: 43575, frq: 54}
+marsh <> N: {rk: 6893, frq: 5474}
+marshal <> N: {rk: 11206, frq: 2116}, V: {rk: 12473, frq: 1117}
+marshland <> N: {rk: 24055, frq: 306}
+marshmallow <> N: {rk: 15744, frq: 817}
+marshy <> J: {rk: 24282, frq: 279}
+marsupial <> N: {rk: 28659, frq: 189}
+martial <> J: {rk: 8110, frq: 2436}
+martinet <> N: {rk: 44001, frq: 66}
+martini <> N: {rk: 10434, frq: 1746}
+martyr <> N: {rk: 8532, frq: 2232}
+martyrdom <> N: {rk: 15206, frq: 796}
+martyred <> J: {rk: 29937, frq: 153}
+marvel <> V: {rk: 7943, frq: 2482}, N: {rk: 9749, frq: 1770}
+marvellous <> J: {rk: 34902, frq: 110}
+marvelous <> J: {rk: 7040, frq: 2890}
+marvelously <> R: {rk: 21984, frq: 341}
+marzipan <> N: {rk: 31990, frq: 137}
+masa <> N: {rk: 27527, frq: 347}
+masala <> N: {rk: 34005, frq: 161}
+mascara <> N: {rk: 14273, frq: 999}
+mascarpone <> N: {rk: 32790, frq: 173}
+mascot <> N: {rk: 14552, frq: 874}
+masculine <> J: {rk: 7333, frq: 2900}, N: {rk: 52598, frq: 33}
+masculinity <> N: {rk: 11567, frq: 1447}
+masculinization <> N: {rk: 46975, frq: 43}
+masculinize <> V: {rk: 46645, frq: 43}
+masculinized <> J: {rk: 49598, frq: 46}
+maser <> N: {rk: 33477, frq: 185}
+mash <> V: {rk: 12276, frq: 1233}, N: {rk: 21461, frq: 405}
+mash-up <> N: {rk: 50042, frq: 66}
+mashed <> J: {rk: 10258, frq: 1695}
+masher <> N: {rk: 30574, frq: 174}
+mask <> N: {rk: 2910, frq: 12004}, V: {rk: 8433, frq: 2190}
+masked <> J: {rk: 12411, frq: 1148}
+masker <> N: {rk: 35776, frq: 141}
+masking <> N: {rk: 14348, frq: 906}
+masochism <> N: {rk: 29738, frq: 219}
+masochist <> N: {rk: 31805, frq: 146}
+masochistic <> J: {rk: 31068, frq: 147}
+masonic <> J: {rk: 21807, frq: 391}
+masonry <> N: {rk: 15431, frq: 754}
+masque <> N: {rk: 28646, frq: 205}
+masquerade <> N: {rk: 16520, frq: 854}, V: {rk: 16646, frq: 624}
+masquerader <> N: {rk: 39651, frq: 78}
+mass <> N: {rk: 1999, frq: 25704}, J: {rk: 2197, frq: 16938}, V: {rk: 17758, frq: 562}
+mass-produced <> J: {rk: 18967, frq: 491}
+massacre <> N: {rk: 6548, frq: 3395}, V: {rk: 15285, frq: 749}
+massacred <> J: {rk: 53968, frq: 27}
+massage <> N: {rk: 7158, frq: 3077}, V: {rk: 9530, frq: 1839}
+massaged <> J: {rk: 56984, frq: 22}
+massager <> N: {rk: 44275, frq: 56}
+massaging <> N: {rk: 39565, frq: 76}
+massed <> J: {rk: 25303, frq: 251}
+masseur <> N: {rk: 35534, frq: 103}
+masseuse <> N: {rk: 29464, frq: 177}
+massif <> N: {rk: 34889, frq: 176}
+massing <> N: {rk: 39200, frq: 88}
+massive <> J: {rk: 2006, frq: 19360}
+massively <> R: {rk: 17329, frq: 589}
+massiveness <> N: {rk: 50885, frq: 29}
+massless <> J: {rk: 40203, frq: 71}
+mast <> N: {rk: 12069, frq: 1256}
+mastectomy <> N: {rk: 17733, frq: 590}
+master <> N: {rk: 1893, frq: 28305}, V: {rk: 5269, frq: 4906}
+masterful <> J: {rk: 15675, frq: 705}
+masterfully <> R: {rk: 27092, frq: 206}
+masterly <> J: {rk: 30252, frq: 159}
+mastermind <> N: {rk: 16643, frq: 711}, V: {rk: 20744, frq: 412}
+masterpiece <> N: {rk: 7819, frq: 2575}
+masterstroke <> N: {rk: 44827, frq: 47}
+masterwork <> N: {rk: 23188, frq: 308}
+mastery <> N: {rk: 7726, frq: 2804}
+masthead <> N: {rk: 30710, frq: 149}
+mastic <> N: {rk: 40985, frq: 98}
+masticate <> V: {rk: 49483, frq: 34}
+mastication <> N: {rk: 58318, frq: 21}
+mastiff <> N: {rk: 32117, frq: 162}
+mastitis <> N: {rk: 42828, frq: 65}
+mastodon <> N: {rk: 30775, frq: 171}
+mastoid <> J: {rk: 29301, frq: 221}, N: {rk: 37278, frq: 110}
+mastoidectomy <> N: {rk: 38225, frq: 94}
+mastoiditis <> N: {rk: 50457, frq: 63}
+masturbate <> V: {rk: 18349, frq: 539}
+masturbation <> N: {rk: 15873, frq: 733}
+masturbator <> N: {rk: 53291, frq: 33}
+masturbatory <> J: {rk: 42361, frq: 57}
+mat <> N: {rk: 5707, frq: 4533}, V: {rk: 18324, frq: 545}, J: {rk: 48408, frq: 40}
+matador <> N: {rk: 28166, frq: 248}
+match <> V: {rk: 1982, frq: 19248}, N: {rk: 2697, frq: 13085}
+matchbook <> N: {rk: 30604, frq: 170}
+matchbox <> N: {rk: 28436, frq: 220}
+matched <> J: {rk: 18263, frq: 560}
+matching <> J: {rk: 6688, frq: 3297}, N: {rk: 15850, frq: 717}
+matchless <> J: {rk: 35048, frq: 95}
+matchmaker <> N: {rk: 23067, frq: 362}
+matchmaking <> J: {rk: 35327, frq: 105}, N: {rk: 47764, frq: 45}
+matchstick <> N: {rk: 26285, frq: 238}
+matchup <> N: {rk: 12013, frq: 1530}
+mate <> N: {rk: 4093, frq: 7285}, V: {rk: 11176, frq: 1344}
+mated <> J: {rk: 52627, frq: 29}
+mater <> N: {rk: 13833, frq: 1121}
+material <> N: {rk: 641, frq: 66113}, J: {rk: 14155, frq: 907}
+materialism <> N: {rk: 13192, frq: 1056}
+materialist <> N: {rk: 21996, frq: 373}, J: {rk: 49520, frq: 34}
+materialistic <> J: {rk: 17784, frq: 566}
+materiality <> N: {rk: 21986, frq: 394}
+materialization <> N: {rk: 43580, frq: 57}
+materialize <> V: {rk: 8563, frq: 2142}
+materially <> R: {rk: 18159, frq: 550}
+materiel <> N: {rk: 26549, frq: 251}
+maternal <> J: {rk: 7156, frq: 3168}
+maternally <> R: {rk: 46536, frq: 46}
+maternity <> N: {rk: 11683, frq: 1278}
+matey <> N: {rk: 57189, frq: 26}
+math <> N: {rk: 3002, frq: 11489}
+mathematic <> J: {rk: 55020, frq: 39}
+mathematical <> J: {rk: 6605, frq: 3671}
+mathematically <> R: {rk: 17860, frq: 575}
+mathematician <> N: {rk: 10795, frq: 1453}
+mathematics <> N: {rk: 4293, frq: 7880}
+maths <> N: {rk: 45766, frq: 55}
+matinee <> N: {rk: 17845, frq: 576}
+mating <> J: {rk: 13177, frq: 1006}, N: {rk: 18189, frq: 525}
+matriarch <> N: {rk: 20347, frq: 878}
+matriarchal <> J: {rk: 33460, frq: 111}
+matriarchy <> N: {rk: 42964, frq: 58}
+matricide <> N: {rk: 55721, frq: 31}
+matriculate <> V: {rk: 31325, frq: 151}
+matriculation <> N: {rk: 29438, frq: 222}
+matrilateral <> J: {rk: 58861, frq: 27}
+matrilineage <> N: {rk: 45053, frq: 78}
+matrilineal <> J: {rk: 30971, frq: 200}
+matrilocal <> J: {rk: 59903, frq: 23}
+matrimonial <> J: {rk: 26655, frq: 218}
+matrimony <> N: {rk: 25116, frq: 263}
+matrix <> N: {rk: 5949, frq: 4544}
+matron <> N: {rk: 17209, frq: 616}
+matronly <> R: {rk: 31294, frq: 138}
+matt <> J: {rk: 46148, frq: 46}
+matte <> N: {rk: 17203, frq: 744}
+matted <> J: {rk: 26303, frq: 237}
+matter <> N: {rk: 528, frq: 74795}, V: {rk: 1758, frq: 22610}, D: {rk: 3761, frq: 8044}
+matter-of-fact <> J: {rk: 18392, frq: 507}
+matter-of-factly <> R: {rk: 16758, frq: 622}
+matter-of-factness <> N: {rk: 47711, frq: 36}
+matting <> N: {rk: 33973, frq: 119}
+mattock <> N: {rk: 47300, frq: 40}
+mattress <> N: {rk: 6080, frq: 4050}
+maturation <> N: {rk: 16285, frq: 711}
+maturational <> J: {rk: 48306, frq: 40}
+mature <> J: {rk: 5187, frq: 4962}, V: {rk: 6509, frq: 3413}
+matured <> J: {rk: 54764, frq: 27}
+maturely <> R: {rk: 49673, frq: 37}
+maturing <> J: {rk: 21705, frq: 359}
+maturity <> N: {rk: 6502, frq: 3457}
+matzah <> N: {rk: 59095, frq: 24}
+matzo <> N: {rk: 27996, frq: 217}
+matzoh <> N: {rk: 44808, frq: 54}
+maudlin <> J: {rk: 26913, frq: 208}
+maul <> V: {rk: 23017, frq: 314}, N: {rk: 41485, frq: 124}
+mauling <> N: {rk: 41806, frq: 59}
+mausoleum <> N: {rk: 19003, frq: 575}
+mauve <> J: {rk: 21370, frq: 362}, N: {rk: 44738, frq: 46}
+maven <> N: {rk: 22555, frq: 369}
+maw <> N: {rk: 22319, frq: 407}
+mawkish <> J: {rk: 42275, frq: 59}
+maxi <> J: {rk: 47056, frq: 46}
+maxilla <> N: {rk: 42179, frq: 74}
+maxillary <> J: {rk: 27181, frq: 291}
+maxillofacial <> J: {rk: 49101, frq: 43}
+maximal <> J: {rk: 17970, frq: 628}
+maximalist <> N: {rk: 45198, frq: 44}
+maximally <> R: {rk: 31354, frq: 149}
+maximization <> N: {rk: 30367, frq: 176}
+maximize <> V: {rk: 5971, frq: 4190}
+maximum <> J: {rk: 3629, frq: 8635}
+may <> V: {rk: 119, frq: 345687}
+maybe <> R: {rk: 383, frq: 118492}
+mayday <> N: {rk: 33265, frq: 195}
+mayfly <> N: {rk: 31264, frq: 147}
+mayhem <> N: {rk: 12662, frq: 1085}
+mayonnaise <> N: {rk: 12061, frq: 1462}
+mayor <> N: {rk: 2502, frq: 22300}
+mayoral <> J: {rk: 14958, frq: 895}
+mayoralty <> N: {rk: 39407, frq: 77}
+mayorship <> N: {rk: 54099, frq: 28}
+maypole <> N: {rk: 48690, frq: 40}
+maze <> N: {rk: 7823, frq: 2857}
+mazurka <> N: {rk: 50961, frq: 48}
+mazy <> J: {rk: 53494, frq: 32}
+me <> P: {rk: 61, frq: 775446}
+meadow <> N: {rk: 5646, frq: 5069}
+meadowlark <> N: {rk: 41583, frq: 98}
+meager <> J: {rk: 9821, frq: 1672}
+meagerly <> R: {rk: 54916, frq: 22}
+meagre <> J: {rk: 44972, frq: 50}
+meal <> N: {rk: 1718, frq: 23544}
+mealie <> N: {rk: 51385, frq: 34}
+mealtime <> N: {rk: 22028, frq: 364}
+mealworm <> N: {rk: 55458, frq: 26}
+mealy <> J: {rk: 32023, frq: 130}
+mealybug <> N: {rk: 42088, frq: 84}
+mean <> V: {rk: 154, frq: 269180}, N: {rk: 1371, frq: 31073}, J: {rk: 1906, frq: 16462}
+mean-spirited <> J: {rk: 18091, frq: 525}
+meander <> V: {rk: 13207, frq: 1032}, N: {rk: 33829, frq: 123}
+meandering <> J: {rk: 24299, frq: 265}, N: {rk: 44849, frq: 49}
+meanderings <> N: {rk: 38356, frq: 77}
+meanie <> N: {rk: 52656, frq: 31}
+meaning <> N: {rk: 1613, frq: 25857}
+meaningful <> J: {rk: 3798, frq: 8504}
+meaningfully <> R: {rk: 18921, frq: 503}
+meaningfulness <> N: {rk: 29186, frq: 186}
+meaningless <> J: {rk: 8141, frq: 2291}
+meaninglessness <> N: {rk: 29891, frq: 169}
+meanly <> R: {rk: 44380, frq: 52}
+meanness <> N: {rk: 20434, frq: 403}
+meantime <> N: {rk: 4859, frq: 5875}, R: {rk: 46519, frq: 51}
+meanwhile <> R: {rk: 1857, frq: 21647}
+measles <> N: {rk: 18821, frq: 494}
+measly <> R: {rk: 24958, frq: 254}
+measurable <> J: {rk: 11705, frq: 1293}
+measurably <> R: {rk: 30244, frq: 148}
+measure <> N: {rk: 942, frq: 47778}, V: {rk: 1381, frq: 30969}
+measured <> J: {rk: 10841, frq: 1475}
+measureless <> J: {rk: 56131, frq: 24}
+measurement <> N: {rk: 3248, frq: 11093}
+measurer <> N: {rk: 48754, frq: 38}
+measuring <> J: {rk: 15517, frq: 735}, N: {rk: 54807, frq: 25}
+meat <> N: {rk: 1798, frq: 22210}
+meat-packing <> J: {rk: 26724, frq: 230}
+meatball <> N: {rk: 15699, frq: 911}
+meathead <> N: {rk: 55136, frq: 49}
+meatless <> J: {rk: 28597, frq: 187}
+meatloaf <> N: {rk: 24027, frq: 320}
+meatus <> N: {rk: 43055, frq: 79}
+meaty <> J: {rk: 15340, frq: 790}
+mechanic <> N: {rk: 4297, frq: 6644}
+mechanical <> J: {rk: 3757, frq: 8409}, N: {rk: 48398, frq: 45}
+mechanically <> R: {rk: 14408, frq: 828}
+mechanism <> N: {rk: 2693, frq: 14048}
+mechanistic <> J: {rk: 23021, frq: 354}
+mechanization <> N: {rk: 26164, frq: 243}
+mechanize <> V: {rk: 27785, frq: 192}
+mechanized <> J: {rk: 21305, frq: 375}
+meconium <> N: {rk: 56019, frq: 25}
+medal <> N: {rk: 3474, frq: 9450}
+medalist <> N: {rk: 12122, frq: 1313}
+medallion <> N: {rk: 15348, frq: 787}
+meddle <> V: {rk: 17396, frq: 573}
+meddler <> N: {rk: 45746, frq: 43}
+meddlesome <> J: {rk: 33676, frq: 107}
+meddling <> N: {rk: 23484, frq: 294}, J: {rk: 35147, frq: 93}
+medevac <> J: {rk: 39705, frq: 77}, N: {rk: 53349, frq: 53}
+media <> N: {rk: 757, frq: 56213}
+mediaeval <> J: {rk: 44065, frq: 52}
+mediagenic <> J: {rk: 57867, frq: 22}
+medial <> J: {rk: 19088, frq: 543}
+medially <> R: {rk: 44456, frq: 59}
+median <> J: {rk: 6905, frq: 3359}, N: {rk: 12160, frq: 1290}
+mediastinal <> J: {rk: 37482, frq: 128}
+mediastinum <> N: {rk: 40877, frq: 106}
+mediate <> V: {rk: 7491, frq: 2939}
+mediated <> J: {rk: 26827, frq: 234}
+mediating <> J: {rk: 21748, frq: 404}
+mediation <> N: {rk: 8471, frq: 2442}
+mediational <> J: {rk: 42948, frq: 65}
+mediator <> N: {rk: 9279, frq: 1995}
+medic <> N: {rk: 11996, frq: 1266}
+medical <> J: {rk: 646, frq: 65117}, N: {rk: 57715, frq: 21}
+medicalization <> N: {rk: 44064, frq: 62}
+medically <> R: {rk: 11638, frq: 1265}
+medicament <> N: {rk: 55048, frq: 39}
+medicate <> V: {rk: 22974, frq: 305}
+medicated <> J: {rk: 35726, frq: 98}
+medication <> N: {rk: 3168, frq: 10714}
+medicinal <> J: {rk: 12008, frq: 1210}
+medicinally <> R: {rk: 43138, frq: 55}
+medicine <> N: {rk: 1477, frq: 27859}
+medico <> N: {rk: 38164, frq: 80}
+medieval <> J: {rk: 5125, frq: 5273}, N: {rk: 58920, frq: 24}
+medievalism <> N: {rk: 51300, frq: 34}
+medievalist <> N: {rk: 45071, frq: 54}
+medigap <> N: {rk: 36991, frq: 126}
+mediocre <> J: {rk: 10689, frq: 1466}
+mediocrity <> N: {rk: 17292, frq: 599}
+meditate <> V: {rk: 12747, frq: 1099}
+meditation <> N: {rk: 6278, frq: 3677}
+meditational <> J: {rk: 52932, frq: 27}
+meditative <> J: {rk: 18673, frq: 502}
+meditatively <> R: {rk: 41558, frq: 57}
+meditator <> N: {rk: 34518, frq: 129}
+medium <> N: {rk: 3262, frq: 10232}, J: {rk: 3641, frq: 10059}
+medium-range <> J: {rk: 32480, frq: 126}
+medlar <> N: {rk: 58590, frq: 23}
+medley <> N: {rk: 14418, frq: 998}
+medulla <> N: {rk: 46297, frq: 54}
+medullary <> J: {rk: 44966, frq: 57}
+meek <> J: {rk: 14567, frq: 843}
+meekly <> R: {rk: 22167, frq: 351}
+meekness <> N: {rk: 46752, frq: 49}
+meerkat <> N: {rk: 40588, frq: 150}
+meerschaum <> N: {rk: 56032, frq: 25}
+meet <> V: {rk: 288, frq: 140040}, N: {rk: 15914, frq: 727}
+meeting <> N: {rk: 772, frq: 54143}
+meetinghouse <> N: {rk: 41636, frq: 82}
+mega <> J: {rk: 18667, frq: 531}
+megabuck <> N: {rk: 38037, frq: 73}
+megachurch <> N: {rk: 24141, frq: 316}
+megacity <> N: {rk: 29980, frq: 216}
+megadeal <> N: {rk: 55497, frq: 20}
+megadose <> N: {rk: 42425, frq: 55}
+megafauna <> N: {rk: 41148, frq: 69}
+megalith <> N: {rk: 39797, frq: 81}
+megalithic <> J: {rk: 41940, frq: 73}
+megalomania <> N: {rk: 38168, frq: 73}
+megalomaniac <> N: {rk: 35703, frq: 91}
+megalomaniacal <> J: {rk: 43970, frq: 48}
+megalopolis <> N: {rk: 37548, frq: 90}
+megaparsec <> N: {rk: 47107, frq: 46}
+megaphone <> N: {rk: 23143, frq: 319}
+megapixel <> N: {rk: 36466, frq: 110}
+megaplex <> N: {rk: 54119, frq: 27}
+megastar <> N: {rk: 31729, frq: 144}
+megastore <> N: {rk: 38204, frq: 88}
+megaton <> N: {rk: 33655, frq: 117}
+megawatt <> N: {rk: 16196, frq: 719}
+meiosis <> N: {rk: 43904, frq: 60}
+melamine <> N: {rk: 45846, frq: 67}
+melancholia <> N: {rk: 35650, frq: 129}
+melancholic <> J: {rk: 26944, frq: 234}
+melancholy <> N: {rk: 14064, frq: 930}, J: {rk: 14136, frq: 878}
+melange <> N: {rk: 25155, frq: 244}
+melanin <> N: {rk: 30044, frq: 171}
+melanocyte <> N: {rk: 49961, frq: 40}
+melanoma <> N: {rk: 15975, frq: 893}
+melatonin <> N: {rk: 21883, frq: 488}
+meld <> V: {rk: 15052, frq: 789}, N: {rk: 37040, frq: 100}
+melding <> N: {rk: 27654, frq: 202}
+melee <> N: {rk: 20242, frq: 402}
+mellifluous <> J: {rk: 33729, frq: 112}
+mellow <> J: {rk: 13986, frq: 920}, V: {rk: 16662, frq: 643}
+mellowing <> N: {rk: 56200, frq: 21}
+mellowness <> N: {rk: 53507, frq: 26}
+melodic <> J: {rk: 14030, frq: 910}
+melodically <> R: {rk: 44533, frq: 45}
+melodious <> J: {rk: 26172, frq: 222}
+melodrama <> N: {rk: 14206, frq: 891}
+melodramatic <> J: {rk: 18127, frq: 526}
+melodramatically <> R: {rk: 46868, frq: 44}
+melody <> N: {rk: 5630, frq: 4349}
+melon <> N: {rk: 10113, frq: 1713}
+melt <> V: {rk: 3483, frq: 9662}, N: {rk: 32396, frq: 132}
+meltdown <> N: {rk: 12546, frq: 1534}
+melted <> J: {rk: 12983, frq: 1136}
+melting <> N: {rk: 10721, frq: 1440}
+meltingly <> R: {rk: 46993, frq: 39}
+meltwater <> N: {rk: 39675, frq: 81}
+member <> N: {rk: 285, frq: 148448}
+membership <> N: {rk: 3104, frq: 11094}
+membrane <> N: {rk: 7188, frq: 3089}
+membranous <> J: {rk: 40994, frq: 67}
+memento <> N: {rk: 13635, frq: 930}
+memo <> N: {rk: 5183, frq: 5102}
+memoir <> N: {rk: 5637, frq: 4660}
+memoirist <> N: {rk: 41389, frq: 77}
+memorabilia <> N: {rk: 10943, frq: 1428}
+memorable <> J: {rk: 6092, frq: 3888}
+memorably <> R: {rk: 25841, frq: 239}
+memorandum <> N: {rk: 11246, frq: 1907}
+memorialization <> N: {rk: 49216, frq: 40}
+memorialize <> V: {rk: 18053, frq: 536}
+memorization <> N: {rk: 21895, frq: 372}
+memorize <> V: {rk: 8429, frq: 2254}
+memorized <> J: {rk: 34306, frq: 99}
+memory <> N: {rk: 892, frq: 47001}
+menace <> N: {rk: 9514, frq: 1776}, V: {rk: 21941, frq: 335}
+menacing <> J: {rk: 11709, frq: 1245}
+menacingly <> R: {rk: 24896, frq: 260}
+menage <> N: {rk: 42093, frq: 60}
+menagerie <> N: {rk: 23662, frq: 376}
+menarche <> N: {rk: 38484, frq: 87}
+mend <> V: {rk: 11122, frq: 1392}, N: {rk: 26208, frq: 246}
+mendacious <> J: {rk: 38157, frq: 75}
+mendacity <> N: {rk: 40641, frq: 59}
+mender <> N: {rk: 55954, frq: 25}
+mendicant <> N: {rk: 43798, frq: 49}, J: {rk: 53698, frq: 47}
+mending <> N: {rk: 38949, frq: 69}
+menfolk <> N: {rk: 41802, frq: 60}
+menial <> J: {rk: 19716, frq: 434}
+meningeal <> J: {rk: 55033, frq: 38}
+meninges <> N: {rk: 58761, frq: 25}
+meningitis <> N: {rk: 17708, frq: 643}
+meningococcal <> J: {rk: 42985, frq: 101}
+meniscus <> N: {rk: 39773, frq: 70}
+menopausal <> J: {rk: 21665, frq: 383}
+menopause <> N: {rk: 10844, frq: 1574}
+menorah <> N: {rk: 23175, frq: 361}
+mensch <> N: {rk: 37387, frq: 110}
+menses <> N: {rk: 41547, frq: 62}
+menstrual <> J: {rk: 14363, frq: 896}
+menstruate <> V: {rk: 29589, frq: 158}
+menstruating <> J: {rk: 58719, frq: 19}
+menstruation <> N: {rk: 21775, frq: 393}
+mensuration <> N: {rk: 59677, frq: 20}
+menswear <> N: {rk: 32087, frq: 177}
+mental <> J: {rk: 1589, frq: 26472}
+mentality <> N: {rk: 6638, frq: 3312}
+mentally <> R: {rk: 4404, frq: 6241}
+mentation <> N: {rk: 53503, frq: 25}
+mentee <> N: {rk: 36300, frq: 163}
+menthol <> N: {rk: 35927, frq: 106}
+mention <> V: {rk: 972, frq: 43285}, N: {rk: 4802, frq: 5577}
+mentor <> N: {rk: 4603, frq: 6554}, V: {rk: 11475, frq: 1613}
+mentoring <> J: {rk: 20663, frq: 488}, N: {rk: 27452, frq: 346}
+mentorship <> N: {rk: 30762, frq: 177}
+menu <> N: {rk: 3105, frq: 11606}
+menu-driven <> J: {rk: 50761, frq: 32}
+meow <> V: {rk: 26818, frq: 216}, N: {rk: 29399, frq: 225}
+mercantile <> J: {rk: 20887, frq: 414}
+mercantilism <> N: {rk: 41451, frq: 67}
+mercenary <> N: {rk: 15395, frq: 785}, J: {rk: 22518, frq: 324}
+merchandise <> N: {rk: 7153, frq: 2926}
+merchandiser <> N: {rk: 45008, frq: 50}
+merchandising <> J: {rk: 30759, frq: 149}, N: {rk: 32566, frq: 162}
+merchant <> N: {rk: 4159, frq: 7000}
+merchantman <> N: {rk: 43424, frq: 57}
+merciful <> J: {rk: 18483, frq: 531}
+mercifully <> R: {rk: 17500, frq: 584}
+merciless <> J: {rk: 17675, frq: 566}
+mercilessly <> R: {rk: 20439, frq: 397}
+mercurial <> J: {rk: 23315, frq: 309}
+mercuric <> J: {rk: 59372, frq: 33}
+mercy <> N: {rk: 5302, frq: 5027}
+mere <> J: {rk: 2942, frq: 11584}
+merely <> R: {rk: 1998, frq: 19230}
+merengue <> N: {rk: 40151, frq: 121}
+meretricious <> J: {rk: 43329, frq: 49}
+merganser <> N: {rk: 51033, frq: 33}
+merge <> V: {rk: 5425, frq: 4598}
+merged <> J: {rk: 23763, frq: 288}
+merger <> N: {rk: 5063, frq: 5331}
+merging <> N: {rk: 20240, frq: 410}
+meridian <> N: {rk: 23682, frq: 729}
+meridional <> J: {rk: 52030, frq: 42}
+meringue <> N: {rk: 16862, frq: 680}
+merino <> N: {rk: 37016, frq: 150}
+meristem <> N: {rk: 59505, frq: 34}
+merit <> N: {rk: 4542, frq: 6089}, V: {rk: 10014, frq: 1663}
+meritocracy <> N: {rk: 27777, frq: 214}
+meritocratic <> J: {rk: 34843, frq: 112}
+meritorious <> J: {rk: 25975, frq: 241}
+merlot <> N: {rk: 26400, frq: 391}
+mermaid <> N: {rk: 18577, frq: 828}
+merrily <> R: {rk: 19500, frq: 459}
+merriment <> N: {rk: 24875, frq: 263}
+merry <> J: {rk: 7542, frq: 2872}
+merry-go-round <> N: {rk: 24166, frq: 286}, J: {rk: 46778, frq: 43}
+merrymaker <> N: {rk: 55148, frq: 30}
+merrymaking <> N: {rk: 48874, frq: 35}
+mescal <> N: {rk: 37602, frq: 80}
+mescaline <> N: {rk: 47026, frq: 46}
+mesclun <> N: {rk: 36033, frq: 116}
+mesenchymal <> J: {rk: 43054, frq: 64}
+mesh <> N: {rk: 7845, frq: 2562}, V: {rk: 23141, frq: 301}
+meshing <> N: {rk: 49570, frq: 35}
+mesic <> J: {rk: 50224, frq: 85}
+mesmeric <> J: {rk: 56660, frq: 22}
+mesmerize <> V: {rk: 12087, frq: 1194}
+mesmerized <> J: {rk: 38504, frq: 75}
+mesmerizing <> J: {rk: 29315, frq: 173}
+mesomorph <> N: {rk: 57444, frq: 28}
+meson <> N: {rk: 39412, frq: 99}
+mesophilic <> J: {rk: 59191, frq: 26}
+mesoscopic <> J: {rk: 50176, frq: 36}
+mesothelioma <> N: {rk: 38746, frq: 85}
+mesquite <> N: {rk: 19109, frq: 495}
+mess <> N: {rk: 3404, frq: 9731}, V: {rk: 5753, frq: 4334}
+mess-up <> N: {rk: 56001, frq: 24}
+message <> N: {rk: 807, frq: 51883}, V: {rk: 31988, frq: 164}
+messaging <> N: {rk: 16683, frq: 728}
+messenger <> N: {rk: 6631, frq: 3331}
+messianism <> N: {rk: 53608, frq: 30}
+messiest <> J: {rk: 48240, frq: 36}
+messily <> R: {rk: 42379, frq: 53}
+messiness <> N: {rk: 32556, frq: 130}
+messy <> J: {rk: 6747, frq: 3254}
+mestiza <> N: {rk: 43978, frq: 61}
+mestizo <> N: {rk: 20531, frq: 470}
+metabolic <> J: {rk: 11245, frq: 1450}
+metabolically <> R: {rk: 39733, frq: 66}
+metabolism <> N: {rk: 9775, frq: 1892}
+metabolite <> N: {rk: 28236, frq: 211}
+metabolize <> V: {rk: 21698, frq: 364}
+metacarpal <> J: {rk: 56959, frq: 24}
+metacognition <> N: {rk: 30218, frq: 195}
+metacognitive <> J: {rk: 25093, frq: 338}
+metafiction <> N: {rk: 33686, frq: 152}
+metafictional <> J: {rk: 36856, frq: 118}
+metal <> N: {rk: 1579, frq: 25132}
+metalanguage <> N: {rk: 50018, frq: 43}
+metaleptic <> J: {rk: 58576, frq: 42}
+metalhead <> N: {rk: 50162, frq: 31}
+metalinguistic <> J: {rk: 49599, frq: 48}
+metallic <> J: {rk: 8670, frq: 2220}, N: {rk: 47376, frq: 52}
+metallicity <> N: {rk: 47395, frq: 46}
+metallurgical <> J: {rk: 34433, frq: 110}
+metallurgist <> N: {rk: 39268, frq: 81}
+metallurgy <> N: {rk: 29687, frq: 176}
+metalsmith <> N: {rk: 37067, frq: 111}
+metalware <> N: {rk: 51301, frq: 34}
+metalwork <> N: {rk: 28139, frq: 206}
+metalworker <> N: {rk: 38224, frq: 87}
+metalworking <> N: {rk: 34116, frq: 119}
+metamaterial <> N: {rk: 59817, frq: 30}
+metamorphic <> J: {rk: 38820, frq: 76}
+metamorphose <> V: {rk: 21598, frq: 357}
+metamorphosed <> J: {rk: 53391, frq: 26}
+metamorphoses <> N: {rk: 33436, frq: 153}
+metamorphosis <> N: {rk: 15000, frq: 934}
+metanarrative <> N: {rk: 34141, frq: 116}
+metaphor <> N: {rk: 3957, frq: 7943}
+metaphoric <> J: {rk: 20288, frq: 442}
+metaphorical <> J: {rk: 12942, frq: 1120}
+metaphorically <> R: {rk: 17183, frq: 614}
+metaphysical <> J: {rk: 11124, frq: 1540}
+metaphysically <> R: {rk: 38324, frq: 91}
+metaphysician <> N: {rk: 43995, frq: 80}
+metaphysics <> N: {rk: 15495, frq: 856}
+metaplasia <> N: {rk: 57483, frq: 42}
+metastable <> J: {rk: 53955, frq: 30}
+metastasis <> N: {rk: 19543, frq: 622}
+metastasize <> V: {rk: 26735, frq: 223}
+metastatic <> J: {rk: 22458, frq: 364}
+metatarsal <> N: {rk: 34682, frq: 116}
+mete <> V: {rk: 19765, frq: 428}
+meteor <> N: {rk: 8790, frq: 2303}
+meteoric <> J: {rk: 23552, frq: 286}
+meteorite <> N: {rk: 12363, frq: 1314}
+meteoritic <> J: {rk: 49319, frq: 40}
+meteoroid <> N: {rk: 31480, frq: 181}, J: {rk: 49763, frq: 38}
+meteorological <> J: {rk: 18166, frq: 561}
+meteorologist <> N: {rk: 15808, frq: 913}
+meteorology <> N: {rk: 24844, frq: 290}
+meter <> N: {rk: 3043, frq: 11410}, V: {rk: 36914, frq: 102}
+metered <> J: {rk: 38070, frq: 86}
+meth <> N: {rk: 17661, frq: 505}
+methadone <> N: {rk: 20171, frq: 502}
+methamphetamine <> N: {rk: 17099, frq: 810}
+methane <> N: {rk: 11470, frq: 1400}
+methanol <> N: {rk: 20658, frq: 449}
+methicillin <> N: {rk: 57587, frq: 25}
+methionine <> N: {rk: 47110, frq: 53}
+method <> N: {rk: 999, frq: 46594}
+methodical <> J: {rk: 15316, frq: 751}
+methodically <> R: {rk: 14069, frq: 880}
+methodist <> J: {rk: 7793, frq: 2725}, N: {rk: 13807, frq: 944}
+methodological <> J: {rk: 11249, frq: 1596}
+methodologically <> R: {rk: 29299, frq: 199}
+methodology <> N: {rk: 5750, frq: 4880}
+methotrexate <> N: {rk: 43342, frq: 72}
+methyl <> N: {rk: 21945, frq: 393}
+methylene <> N: {rk: 44586, frq: 49}
+methylmercury <> N: {rk: 39760, frq: 131}
+methylphenidate <> N: {rk: 46341, frq: 48}
+meticulous <> J: {rk: 11393, frq: 1314}
+meticulously <> R: {rk: 12245, frq: 1158}
+meticulousness <> N: {rk: 53740, frq: 27}
+metier <> N: {rk: 40957, frq: 61}
+metonym <> N: {rk: 46811, frq: 48}
+metonymic <> J: {rk: 30629, frq: 193}
+metonymical <> J: {rk: 54888, frq: 30}
+metonymically <> R: {rk: 42801, frq: 60}
+metonymy <> N: {rk: 30122, frq: 203}
+metric <> J: {rk: 10402, frq: 1677}
+metrical <> J: {rk: 35169, frq: 110}
+metrically <> R: {rk: 57995, frq: 23}
+metrics <> N: {rk: 23785, frq: 397}
+metro <> N: {rk: 7222, frq: 7007}
+metrology <> N: {rk: 42091, frq: 66}
+metronome <> N: {rk: 27064, frq: 220}
+metronomic <> J: {rk: 49396, frq: 36}
+metroplex <> N: {rk: 44242, frq: 74}
+metropole <> N: {rk: 44563, frq: 92}
+metropolis <> N: {rk: 12449, frq: 1140}
+metropolitan <> J: {rk: 4331, frq: 6511}
+metrosexual <> J: {rk: 52340, frq: 37}
+mettle <> N: {rk: 21743, frq: 358}
+mew <> V: {rk: 36420, frq: 97}, N: {rk: 36954, frq: 124}
+mewing <> N: {rk: 54497, frq: 24}
+mewl <> V: {rk: 40692, frq: 73}
+mexicano <> N: {rk: 34341, frq: 198}
+mezuzah <> N: {rk: 53073, frq: 33}
+mezzanine <> J: {rk: 26993, frq: 292}, N: {rk: 46506, frq: 43}
+mezzo <> N: {rk: 38208, frq: 82}
+mezzo-soprano <> N: {rk: 32936, frq: 137}
+mezzotint <> N: {rk: 52097, frq: 35}
+miasma <> N: {rk: 29434, frq: 165}
+miasmic <> J: {rk: 55398, frq: 23}
+mica <> N: {rk: 28404, frq: 337}
+micro <> N: {rk: 15195, frq: 1415}
+microarray <> N: {rk: 36846, frq: 191}
+microbe <> N: {rk: 10363, frq: 1639}
+microbial <> J: {rk: 13276, frq: 1153}
+microbiological <> J: {rk: 28945, frq: 218}
+microbiologist <> N: {rk: 19448, frq: 501}
+microbiology <> N: {rk: 21969, frq: 436}
+microbrew <> N: {rk: 37670, frq: 93}
+microbrewery <> N: {rk: 48898, frq: 37}, J: {rk: 53158, frq: 26}
+microbus <> N: {rk: 55117, frq: 27}
+microcassette <> N: {rk: 45818, frq: 43}
+microcellular <> J: {rk: 58683, frq: 23}
+microcephaly <> N: {rk: 59940, frq: 22}
+microchip <> N: {rk: 18319, frq: 524}
+microclimate <> N: {rk: 30215, frq: 188}
+microcode <> N: {rk: 56343, frq: 27}
+microcomputer <> N: {rk: 24122, frq: 314}
+microcontroller <> N: {rk: 42041, frq: 82}
+microcosm <> N: {rk: 14982, frq: 826}
+microcosmic <> J: {rk: 45949, frq: 42}
+microeconomic <> J: {rk: 35239, frq: 104}
+microeconomics <> N: {rk: 55718, frq: 30}
+microelectronic <> J: {rk: 45821, frq: 45}
+microelectronics <> N: {rk: 28026, frq: 190}
+microenvironment <> N: {rk: 50903, frq: 34}
+microfabrication <> N: {rk: 59786, frq: 23}
+microfiber <> N: {rk: 33192, frq: 155}
+microfiche <> N: {rk: 36513, frq: 87}
+microfilm <> N: {rk: 24056, frq: 339}, V: {rk: 41556, frq: 78}
+microflora <> N: {rk: 52930, frq: 28}
+microfluidic <> J: {rk: 55680, frq: 42}
+microgram <> N: {rk: 25322, frq: 264}
+micrograph <> N: {rk: 31792, frq: 141}
+microgravity <> N: {rk: 31170, frq: 160}
+microhabitat <> N: {rk: 50524, frq: 41}
+micromachine <> N: {rk: 48300, frq: 62}
+micromanage <> V: {rk: 23887, frq: 292}
+micromechanics <> N: {rk: 55886, frq: 25}
+micrometeorite <> N: {rk: 50328, frq: 60}
+micrometer <> N: {rk: 24594, frq: 283}
+micron <> N: {rk: 17514, frq: 709}
+micronutrient <> N: {rk: 34555, frq: 118}
+microorganism <> N: {rk: 11786, frq: 1307}
+micropayment <> N: {rk: 55246, frq: 41}
+microphone <> N: {rk: 5642, frq: 4316}
+microprobe <> N: {rk: 53209, frq: 31}
+microprocessor <> N: {rk: 13113, frq: 1080}
+microscope <> N: {rk: 8462, frq: 2218}
+microscopic <> J: {rk: 9795, frq: 1702}
+microscopically <> R: {rk: 34863, frq: 101}
+microscopist <> N: {rk: 53361, frq: 27}
+microscopy <> N: {rk: 20947, frq: 477}
+microsecond <> N: {rk: 31468, frq: 136}
+microsphere <> N: {rk: 58647, frq: 24}
+microstructural <> J: {rk: 56764, frq: 32}
+microstructure <> N: {rk: 34504, frq: 113}
+microsurgery <> N: {rk: 41662, frq: 62}
+microsurgical <> J: {rk: 49530, frq: 37}
+microswitch <> N: {rk: 59696, frq: 20}
+microtubule <> N: {rk: 43908, frq: 109}
+microvascular <> J: {rk: 50846, frq: 47}
+microwave <> N: {rk: 5921, frq: 4175}, V: {rk: 32777, frq: 116}
+microwaveable <> J: {rk: 43788, frq: 53}
+microwaved <> J: {rk: 45098, frq: 46}
+microworld <> N: {rk: 54570, frq: 31}
+mid <> J: {rk: 7467, frq: 2742}
+mid-air <> J: {rk: 13267, frq: 885}
+midbrain <> N: {rk: 50527, frq: 33}
+midday <> N: {rk: 9321, frq: 1884}
+midden <> N: {rk: 29480, frq: 178}
+middle <> J: {rk: 989, frq: 43573}, N: {rk: 1266, frq: 32971}
+middle-aged <> J: {rk: 6449, frq: 3492}
+middle-class <> J: {rk: 4882, frq: 5503}
+middle-distance <> J: {rk: 46700, frq: 41}
+middle-of-the-road <> J: {rk: 28970, frq: 171}
+middle-sized <> J: {rk: 43827, frq: 47}
+middlebrow <> N: {rk: 45840, frq: 43}
+middleman <> N: {rk: 20713, frq: 424}
+middleware <> N: {rk: 51325, frq: 40}
+middleweight <> N: {rk: 24495, frq: 291}
+middling <> J: {rk: 24374, frq: 364}, R: {rk: 44183, frq: 47}
+midfield <> N: {rk: 26867, frq: 259}
+midfielder <> N: {rk: 23727, frq: 412}
+midge <> N: {rk: 29717, frq: 286}
+midget <> N: {rk: 18742, frq: 547}
+midlife <> J: {rk: 13300, frq: 854}
+midline <> N: {rk: 28196, frq: 212}
+midnight <> N: {rk: 3484, frq: 9094}
+midocean <> J: {rk: 57779, frq: 24}
+midpoint <> N: {rk: 16828, frq: 658}
+midrange <> N: {rk: 27399, frq: 220}
+midriff <> N: {rk: 25312, frq: 250}
+midsection <> N: {rk: 18118, frq: 1136}
+midshipman <> N: {rk: 26691, frq: 258}
+midst <> N: {rk: 4380, frq: 6239}
+midstream <> R: {rk: 29340, frq: 158}, J: {rk: 45482, frq: 44}
+midsummer <> N: {rk: 13115, frq: 2060}
+midterm <> N: {rk: 14898, frq: 1244}
+midtown <> J: {rk: 10223, frq: 1436}
+midwater <> N: {rk: 45190, frq: 69}
+midway <> R: {rk: 12293, frq: 1602}
+midweek <> J: {rk: 19527, frq: 378}
+midwestern <> J: {rk: 9226, frq: 1866}
+midwife <> N: {rk: 12089, frq: 1264}
+midwifery <> N: {rk: 30555, frq: 206}
+midwinter <> N: {rk: 24272, frq: 308}
+mien <> N: {rk: 28003, frq: 296}
+mifepristone <> N: {rk: 35435, frq: 122}
+miffed <> J: {rk: 45664, frq: 43}
+might <> V: {rk: 175, frq: 226672}, N: {rk: 9830, frq: 1682}
+might-have-been <> N: {rk: 55667, frq: 22}
+mightily <> R: {rk: 16225, frq: 665}
+mighty <> J: {rk: 6021, frq: 3924}, R: {rk: 17816, frq: 564}
+mignon <> N: {rk: 26607, frq: 276}
+mignonette <> N: {rk: 58659, frq: 28}
+migraine <> N: {rk: 13582, frq: 1180}
+migrant <> N: {rk: 5244, frq: 5358}
+migrate <> V: {rk: 6597, frq: 3398}
+migrating <> J: {rk: 31459, frq: 138}
+migration <> N: {rk: 4550, frq: 6615}
+migratory <> J: {rk: 12532, frq: 1113}
+mil <> N: {rk: 20979, frq: 504}
+milady <> N: {rk: 36371, frq: 286}
+mild <> J: {rk: 3849, frq: 7778}
+mild-mannered <> J: {rk: 21925, frq: 347}
+mildew <> N: {rk: 18656, frq: 519}, V: {rk: 49629, frq: 37}
+mildewed <> J: {rk: 40414, frq: 69}
+mildewy <> J: {rk: 56429, frq: 21}
+mildly <> R: {rk: 8601, frq: 2163}
+mildness <> N: {rk: 39582, frq: 69}
+mileage <> N: {rk: 9906, frq: 1722}
+milepost <> N: {rk: 40196, frq: 83}
+miler <> N: {rk: 44755, frq: 71}
+milestone <> N: {rk: 9228, frq: 2066}
+milfoil <> N: {rk: 48149, frq: 39}
+milieu <> N: {rk: 11872, frq: 1282}
+militancy <> N: {rk: 19413, frq: 476}
+militant <> N: {rk: 7294, frq: 3144}, J: {rk: 7828, frq: 2611}
+militantly <> R: {rk: 33347, frq: 112}
+militarily <> R: {rk: 11410, frq: 1382}
+militarism <> N: {rk: 21725, frq: 434}
+militarist <> N: {rk: 34384, frq: 130}
+militaristic <> J: {rk: 25792, frq: 246}
+militarization <> N: {rk: 27484, frq: 265}
+militarize <> V: {rk: 32343, frq: 136}
+militarized <> J: {rk: 34745, frq: 118}
+military <> J: {rk: 474, frq: 92102}, N: {rk: 3317, frq: 10271}
+militate <> V: {rk: 29932, frq: 165}
+militia <> N: {rk: 5049, frq: 5606}
+militiaman <> N: {rk: 17858, frq: 605}
+milk <> N: {rk: 2044, frq: 19500}, V: {rk: 16372, frq: 651}
+milk-white <> J: {rk: 43318, frq: 57}
+milker <> N: {rk: 50051, frq: 36}
+milking <> N: {rk: 21742, frq: 357}
+milkmaid <> N: {rk: 38355, frq: 77}
+milkman <> N: {rk: 29331, frq: 212}
+milkshake <> N: {rk: 26030, frq: 279}
+milkweed <> N: {rk: 27723, frq: 232}
+milky <> J: {rk: 7287, frq: 3004}
+mill <> N: {rk: 4479, frq: 9036}, V: {rk: 13378, frq: 999}
+millage <> N: {rk: 43748, frq: 80}
+milled <> J: {rk: 37554, frq: 87}
+millenarian <> J: {rk: 40537, frq: 68}, N: {rk: 59682, frq: 20}
+millenium <> N: {rk: 32346, frq: 147}
+millennial <> J: {rk: 21339, frq: 403}
+millennialism <> N: {rk: 53374, frq: 50}
+millennium <> N: {rk: 5736, frq: 5598}
+millibar <> N: {rk: 50000, frq: 39}
+milliliter <> N: {rk: 30733, frq: 156}
+millimeter <> N: {rk: 13023, frq: 1079}
+milliner <> N: {rk: 37495, frq: 97}
+millinery <> N: {rk: 41220, frq: 72}
+milling <> N: {rk: 17115, frq: 611}, J: {rk: 57498, frq: 21}
+million <> M: {rk: 222, frq: 176204}
+millionaire <> N: {rk: 6868, frq: 3128}
+millionth <> N: {rk: 25522, frq: 234}
+millipede <> N: {rk: 37807, frq: 85}
+millisecond <> N: {rk: 17811, frq: 585}
+millivolt <> N: {rk: 59550, frq: 21}
+millstone <> N: {rk: 32684, frq: 204}
+millwork <> N: {rk: 44556, frq: 51}
+millwright <> N: {rk: 52182, frq: 31}
+milquetoast <> N: {rk: 46521, frq: 59}
+mime <> V: {rk: 21543, frq: 379}, N: {rk: 22564, frq: 375}
+mimeograph <> N: {rk: 50350, frq: 33}
+mimeographed <> J: {rk: 40257, frq: 65}
+mimesis <> N: {rk: 25941, frq: 333}
+mimetic <> J: {rk: 19672, frq: 510}
+mimetically <> R: {rk: 47377, frq: 42}
+mimic <> V: {rk: 6933, frq: 3154}, N: {rk: 26424, frq: 228}
+mimicry <> N: {rk: 23659, frq: 317}, J: {rk: 50248, frq: 33}
+mimosa <> N: {rk: 32553, frq: 205}
+minaret <> N: {rk: 24297, frq: 291}
+mince <> V: {rk: 8303, frq: 2612}, N: {rk: 30487, frq: 156}
+minced <> J: {rk: 10395, frq: 1912}
+mincemeat <> N: {rk: 36486, frq: 95}
+mind <> N: {rk: 469, frq: 89729}, V: {rk: 2078, frq: 18947}
+mind-altering <> J: {rk: 37837, frq: 76}
+mind-bending <> J: {rk: 38199, frq: 78}
+mind-blowing <> J: {rk: 30887, frq: 177}
+mind-boggling <> J: {rk: 18997, frq: 490}
+mind-numbing <> J: {rk: 27914, frq: 193}
+minded <> J: {rk: 29094, frq: 174}
+minder <> N: {rk: 26995, frq: 226}
+mindful <> J: {rk: 11091, frq: 1409}
+mindfully <> R: {rk: 42611, frq: 55}
+mindfulness <> N: {rk: 26617, frq: 265}
+mindless <> J: {rk: 13482, frq: 951}
+mindlessly <> R: {rk: 25590, frq: 232}
+mindlessness <> N: {rk: 47288, frq: 36}
+mine <> P: {rk: 2250, frq: 17218}, N: {rk: 2567, frq: 13926}, V: {rk: 7082, frq: 2917}, A: {rk: 28397, frq: 191}
+mined <> J: {rk: 35778, frq: 91}
+minefield <> N: {rk: 18314, frq: 554}
+miner <> N: {rk: 5764, frq: 4774}
+mineral <> N: {rk: 4627, frq: 6332}
+mineralized <> J: {rk: 50387, frq: 31}
+mineralogical <> J: {rk: 45799, frq: 43}
+mineralogy <> N: {rk: 45334, frq: 47}
+mineshaft <> N: {rk: 54439, frq: 26}
+minestrone <> N: {rk: 34990, frq: 109}
+minesweeper <> N: {rk: 41150, frq: 68}
+mineworker <> N: {rk: 43943, frq: 54}
+mingle <> V: {rk: 8505, frq: 2223}
+mingled <> J: {rk: 28079, frq: 200}
+mingling <> N: {rk: 30164, frq: 163}
+mini <> J: {rk: 11547, frq: 1462}
+mini-mall <> N: {rk: 35675, frq: 93}
+miniature <> J: {rk: 6140, frq: 3791}, N: {rk: 18317, frq: 532}
+miniaturist <> N: {rk: 46612, frq: 42}
+miniaturization <> N: {rk: 32548, frq: 124}
+miniaturize <> V: {rk: 33260, frq: 119}
+miniaturized <> J: {rk: 34183, frq: 111}
+minibar <> N: {rk: 33496, frq: 120}
+minibus <> N: {rk: 30623, frq: 150}
+minicam <> N: {rk: 48712, frq: 40}
+minicar <> N: {rk: 58887, frq: 25}
+minicomputer <> N: {rk: 33382, frq: 126}
+minidisc <> N: {rk: 56082, frq: 40}
+minidress <> N: {rk: 36104, frq: 103}
+minimal <> J: {rk: 4351, frq: 6651}
+minimalism <> N: {rk: 23075, frq: 349}
+minimalist <> N: {rk: 16228, frq: 734}, J: {rk: 29517, frq: 174}
+minimalistic <> J: {rk: 58743, frq: 19}
+minimally <> R: {rk: 13814, frq: 975}
+minimization <> N: {rk: 27709, frq: 222}
+minimize <> V: {rk: 3972, frq: 7705}
+minimized <> J: {rk: 46748, frq: 39}
+minimum <> J: {rk: 3660, frq: 8548}, N: {rk: 4422, frq: 6316}
+minimus <> N: {rk: 46813, frq: 44}
+mining <> N: {rk: 5653, frq: 4408}
+minion <> N: {rk: 21217, frq: 417}
+miniscule <> J: {rk: 28415, frq: 186}
+miniseries <> N: {rk: 13495, frq: 1014}
+miniskirt <> N: {rk: 21538, frq: 370}
+minister <> N: {rk: 1920, frq: 29731}, V: {rk: 13819, frq: 976}
+ministerial <> J: {rk: 16928, frq: 622}
+ministration <> N: {rk: 30442, frq: 159}
+ministry <> N: {rk: 4277, frq: 12181}
+minivan <> N: {rk: 9888, frq: 1777}
+mink <> N: {rk: 17159, frq: 864}
+minnow <> N: {rk: 15302, frq: 853}
+minor <> J: {rk: 2626, frq: 13317}, N: {rk: 8663, frq: 2502}
+minor-leaguer <> N: {rk: 48813, frq: 39}
+minority <> N: {rk: 1638, frq: 26467}
+minoxidil <> N: {rk: 52485, frq: 44}
+minster <> N: {rk: 40872, frq: 62}
+minstrel <> N: {rk: 20556, frq: 443}
+minstrelsy <> N: {rk: 56510, frq: 23}
+mint <> N: {rk: 8842, frq: 2233}, J: {rk: 11145, frq: 1520}, V: {rk: 21024, frq: 397}
+minty <> J: {rk: 30715, frq: 182}
+minuet <> N: {rk: 34377, frq: 106}
+minus <> I: {rk: 8792, frq: 2102}, N: {rk: 12916, frq: 1030}
+minuscule <> J: {rk: 13696, frq: 926}, N: {rk: 59189, frq: 23}
+minute <> N: {rk: 308, frq: 141846}, J: {rk: 10218, frq: 1537}, V: {rk: 26361, frq: 246}
+minutely <> R: {rk: 26903, frq: 207}
+minuteman <> N: {rk: 23751, frq: 378}
+minutia <> N: {rk: 19703, frq: 445}
+minx <> N: {rk: 51197, frq: 41}
+minyan <> N: {rk: 41360, frq: 82}
+miracle <> N: {rk: 3300, frq: 9756}
+miraculous <> J: {rk: 9536, frq: 1776}
+miraculously <> R: {rk: 12006, frq: 1182}
+mirage <> N: {rk: 16592, frq: 1207}
+mire <> V: {rk: 13486, frq: 971}, N: {rk: 28934, frq: 197}
+mired <> J: {rk: 39110, frq: 82}
+mirin <> N: {rk: 38343, frq: 88}
+mirror <> N: {rk: 1863, frq: 21572}, V: {rk: 7758, frq: 2586}
+mirrored <> J: {rk: 17482, frq: 604}
+mirroring <> N: {rk: 43242, frq: 69}
+mirth <> N: {rk: 22691, frq: 324}
+mirthful <> J: {rk: 43773, frq: 47}
+mirthless <> J: {rk: 39896, frq: 76}
+mirthlessly <> R: {rk: 51433, frq: 32}
+misadventure <> N: {rk: 22304, frq: 324}
+misaligned <> J: {rk: 46186, frq: 42}
+misalignment <> N: {rk: 30190, frq: 163}
+misallocation <> N: {rk: 47123, frq: 40}
+misanthrope <> N: {rk: 37436, frq: 94}
+misanthropic <> J: {rk: 37319, frq: 83}
+misanthropy <> N: {rk: 50872, frq: 33}
+misapplication <> N: {rk: 41922, frq: 57}
+misapply <> V: {rk: 38426, frq: 75}
+misapprehension <> N: {rk: 34688, frq: 103}
+misappropriate <> V: {rk: 37163, frq: 86}
+misappropriation <> N: {rk: 36054, frq: 94}
+misattribution <> N: {rk: 59058, frq: 24}
+misbegotten <> J: {rk: 34641, frq: 103}
+misbehave <> V: {rk: 18283, frq: 515}
+misbehaving <> J: {rk: 44890, frq: 52}
+misbehavior <> N: {rk: 17678, frq: 605}
+miscalculate <> V: {rk: 22713, frq: 317}
+miscalculation <> N: {rk: 18165, frq: 528}
+miscarriage <> N: {rk: 13461, frq: 1007}
+miscarry <> V: {rk: 26611, frq: 220}
+miscast <> V: {rk: 39386, frq: 70}
+miscegenation <> N: {rk: 33912, frq: 112}
+miscellaneous <> J: {rk: 16246, frq: 663}
+miscellany <> N: {rk: 33809, frq: 112}
+mischance <> N: {rk: 51944, frq: 29}
+mischief <> N: {rk: 12137, frq: 1196}
+mischievous <> J: {rk: 14401, frq: 842}
+mischievously <> R: {rk: 28407, frq: 193}
+mischievousness <> N: {rk: 57357, frq: 19}
+misclassification <> N: {rk: 37124, frq: 102}
+miscommunication <> N: {rk: 25749, frq: 240}
+misconceive <> V: {rk: 42178, frq: 58}
+misconceived <> J: {rk: 52131, frq: 27}
+misconception <> N: {rk: 9641, frq: 1900}
+misconduct <> N: {rk: 9110, frq: 2067}
+misconstrue <> V: {rk: 23781, frq: 282}
+misconstrued <> J: {rk: 56437, frq: 19}
+miscreant <> N: {rk: 28379, frq: 222}
+miscue <> N: {rk: 32128, frq: 179}
+misdeed <> N: {rk: 18407, frq: 506}
+misdemeanor <> N: {rk: 11021, frq: 1570}
+misdiagnosed <> J: {rk: 53552, frq: 27}
+misdiagnosis <> N: {rk: 31970, frq: 157}
+misdirect <> V: {rk: 27911, frq: 193}
+misdirected <> J: {rk: 34104, frq: 103}
+misdirection <> N: {rk: 33113, frq: 121}
+miseducation <> N: {rk: 42693, frq: 56}
+miser <> N: {rk: 29734, frq: 180}
+miserable <> J: {rk: 5841, frq: 4132}
+miserably <> R: {rk: 14519, frq: 827}
+miserliness <> N: {rk: 54777, frq: 23}
+miserly <> J: {rk: 30127, frq: 161}
+misery <> N: {rk: 6169, frq: 3768}
+misfeasance <> N: {rk: 54143, frq: 24}
+misfire <> N: {rk: 29407, frq: 181}, V: {rk: 33524, frq: 112}
+misfit <> N: {rk: 19269, frq: 485}
+misfortune <> N: {rk: 10571, frq: 1464}
+misgiving <> N: {rk: 13758, frq: 888}
+misguided <> J: {rk: 9787, frq: 1719}
+mishandle <> V: {rk: 19877, frq: 447}
+mishandled <> J: {rk: 50353, frq: 34}
+mishandling <> N: {rk: 32481, frq: 124}
+mishap <> N: {rk: 14568, frq: 845}
+mishear <> V: {rk: 58064, frq: 20}
+mishmash <> N: {rk: 27328, frq: 205}
+misidentification <> N: {rk: 40651, frq: 67}
+misidentify <> V: {rk: 24298, frq: 278}
+misimpression <> N: {rk: 44770, frq: 45}
+misinform <> V: {rk: 24012, frq: 286}
+misinformation <> N: {rk: 15377, frq: 797}
+misinformed <> J: {rk: 45458, frq: 49}
+misinterpret <> V: {rk: 14933, frq: 762}
+misinterpretation <> N: {rk: 22015, frq: 346}
+misjudge <> V: {rk: 19140, frq: 468}
+misjudgment <> N: {rk: 26111, frq: 222}
+mislabeled <> J: {rk: 56915, frq: 25}
+mislay <> V: {rk: 38277, frq: 74}
+mislead <> V: {rk: 8838, frq: 2047}
+misleading <> J: {rk: 6668, frq: 3269}
+misleadingly <> R: {rk: 35815, frq: 90}
+misled <> J: {rk: 49843, frq: 27}
+mismanage <> V: {rk: 23237, frq: 304}
+mismanaged <> J: {rk: 43503, frq: 60}
+mismanagement <> N: {rk: 13664, frq: 933}
+mismatch <> N: {rk: 16644, frq: 659}, V: {rk: 29005, frq: 180}
+mismatched <> J: {rk: 21482, frq: 392}
+misname <> V: {rk: 45612, frq: 41}
+misnamed <> J: {rk: 46732, frq: 38}
+misnomer <> N: {rk: 21174, frq: 363}
+miso <> N: {rk: 23342, frq: 420}
+misogynist <> N: {rk: 27758, frq: 198}
+misogynistic <> J: {rk: 32200, frq: 131}
+misogynous <> J: {rk: 58884, frq: 22}
+misogyny <> N: {rk: 23932, frq: 290}
+misperceive <> V: {rk: 38246, frq: 78}
+misperception <> N: {rk: 19102, frq: 490}
+misplace <> V: {rk: 15185, frq: 764}
+misplaced <> J: {rk: 16674, frq: 623}
+misplacement <> N: {rk: 51950, frq: 28}
+misprint <> N: {rk: 41199, frq: 63}
+mispronounce <> V: {rk: 28180, frq: 182}
+mispronunciation <> N: {rk: 45349, frq: 46}
+misquote <> V: {rk: 28277, frq: 185}, N: {rk: 50897, frq: 32}
+misread <> V: {rk: 16490, frq: 646}
+misreading <> N: {rk: 26191, frq: 226}
+misrecognition <> N: {rk: 55452, frq: 27}
+misremember <> V: {rk: 47582, frq: 45}
+misreport <> V: {rk: 38039, frq: 80}
+misrepresent <> V: {rk: 16958, frq: 601}
+misrepresentation <> N: {rk: 17268, frq: 613}
+misrule <> N: {rk: 39676, frq: 75}
+miss <> V: {rk: 834, frq: 52940}
+missal <> N: {rk: 38242, frq: 112}
+missed <> J: {rk: 12765, frq: 1140}
+misshapen <> J: {rk: 20932, frq: 405}
+missile <> N: {rk: 2382, frq: 16162}
+missing <> J: {rk: 3523, frq: 9189}
+missiology <> N: {rk: 58921, frq: 23}
+mission <> N: {rk: 1096, frq: 38949}
+mission-critical <> J: {rk: 44213, frq: 49}
+missionary <> N: {rk: 4959, frq: 5792}, J: {rk: 32809, frq: 125}
+missionization <> N: {rk: 44920, frq: 63}
+missive <> N: {rk: 22560, frq: 328}
+misspeak <> V: {rk: 56077, frq: 24}
+misspell <> V: {rk: 49391, frq: 34}
+misspelled <> J: {rk: 41717, frq: 60}
+misspelling <> N: {rk: 31633, frq: 135}
+misspend <> V: {rk: 56407, frq: 20}
+misspent <> J: {rk: 36501, frq: 87}
+misstate <> V: {rk: 21137, frq: 396}
+misstatement <> N: {rk: 26875, frq: 211}
+misstep <> N: {rk: 15619, frq: 768}
+missus <> N: {rk: 26010, frq: 270}
+mist <> N: {rk: 6046, frq: 4191}, V: {rk: 22122, frq: 355}
+mistake <> N: {rk: 1434, frq: 28336}, V: {rk: 5545, frq: 4452}
+mistaken <> J: {rk: 13103, frq: 990}
+mistakenly <> R: {rk: 11367, frq: 1309}
+mistaking <> N: {rk: 54778, frq: 24}
+misted <> J: {rk: 51781, frq: 28}
+mistime <> V: {rk: 52678, frq: 27}
+misting <> J: {rk: 55664, frq: 24}
+mistletoe <> N: {rk: 29637, frq: 193}
+mistral <> N: {rk: 32755, frq: 142}
+mistranslation <> N: {rk: 56619, frq: 24}
+mistreat <> V: {rk: 15098, frq: 765}
+mistreated <> J: {rk: 46349, frq: 43}
+mistreatment <> N: {rk: 18176, frq: 562}
+mistress <> N: {rk: 7302, frq: 3081}
+mistrial <> N: {rk: 24149, frq: 303}
+mistrust <> N: {rk: 14327, frq: 874}, V: {rk: 20269, frq: 403}
+mistrustful <> J: {rk: 40030, frq: 65}
+misty <> J: {rk: 11381, frq: 1483}
+misunderstand <> V: {rk: 8440, frq: 2169}
+misunderstanding <> N: {rk: 8252, frq: 2341}
+misunderstood <> J: {rk: 25793, frq: 225}
+misuse <> N: {rk: 12377, frq: 1216}, V: {rk: 14229, frq: 839}
+misused <> J: {rk: 37803, frq: 81}
+mite <> N: {rk: 12455, frq: 1164}
+miter <> N: {rk: 28992, frq: 213}
+mitered <> J: {rk: 52273, frq: 31}
+mitigate <> V: {rk: 9178, frq: 2077}
+mitigating <> J: {rk: 21056, frq: 400}
+mitigation <> N: {rk: 12285, frq: 1582}
+mitochondria <> N: {rk: 23824, frq: 315}
+mitochondrial <> J: {rk: 22405, frq: 382}
+mitochondrion <> N: {rk: 53635, frq: 35}
+mitomycin <> N: {rk: 59709, frq: 50}
+mitosis <> N: {rk: 44999, frq: 71}
+mitotic <> J: {rk: 41572, frq: 104}
+mitral <> J: {rk: 40613, frq: 179}
+mitre <> N: {rk: 38085, frq: 91}
+mitt <> N: {rk: 16728, frq: 1552}
+mitten <> N: {rk: 17273, frq: 661}
+mittened <> J: {rk: 44078, frq: 54}
+mitzvah <> N: {rk: 21073, frq: 398}
+mix <> V: {rk: 1769, frq: 22565}, N: {rk: 2875, frq: 12599}
+mix-up <> N: {rk: 25022, frq: 269}
+mixed <> J: {rk: 4207, frq: 6848}
+mixed-media <> J: {rk: 33356, frq: 140}
+mixed-up <> J: {rk: 31830, frq: 130}
+mixer <> N: {rk: 9174, frq: 2225}
+mixing <> N: {rk: 8607, frq: 2180}
+mixture <> N: {rk: 2429, frq: 17154}
+mm <> U: {rk: 16501, frq: 1170}
+mmm <> U: {rk: 13518, frq: 1020}
+mmmm <> U: {rk: 25990, frq: 249}
+mnemonic <> J: {rk: 24746, frq: 277}, N: {rk: 30396, frq: 166}
+moan <> V: {rk: 7783, frq: 2758}, N: {rk: 12320, frq: 1243}
+moaning <> N: {rk: 26636, frq: 232}, J: {rk: 42936, frq: 54}
+moat <> N: {rk: 17591, frq: 605}
+mob <> N: {rk: 5778, frq: 4251}, V: {rk: 20739, frq: 418}, J: {rk: 33868, frq: 119}
+mobbed <> J: {rk: 52263, frq: 28}
+mobile <> J: {rk: 4730, frq: 5970}
+mobility <> N: {rk: 5772, frq: 4640}
+mobilization <> N: {rk: 10264, frq: 1726}
+mobilize <> V: {rk: 6318, frq: 3691}
+mobilized <> J: {rk: 50203, frq: 32}
+mobilizing <> J: {rk: 45768, frq: 46}
+mobster <> N: {rk: 17125, frq: 647}
+moccasin <> N: {rk: 20025, frq: 491}
+mocha <> N: {rk: 22614, frq: 349}
+mochi <> N: {rk: 57295, frq: 36}
+mock <> V: {rk: 7673, frq: 2622}, J: {rk: 8848, frq: 2029}
+mock-heroic <> J: {rk: 58524, frq: 19}
+mock-up <> N: {rk: 23835, frq: 279}
+mockery <> N: {rk: 14357, frq: 845}
+mocking <> J: {rk: 14779, frq: 851}, N: {rk: 50722, frq: 36}
+mockingbird <> N: {rk: 26021, frq: 417}
+mockingly <> R: {rk: 26842, frq: 210}
+modal <> J: {rk: 24816, frq: 303}, N: {rk: 47255, frq: 39}
+modality <> N: {rk: 13159, frq: 1165}
+mode <> N: {rk: 2810, frq: 13278}
+model <> N: {rk: 504, frq: 91260}, V: {rk: 4516, frq: 6589}, J: {rk: 42843, frq: 55}
+modeled <> J: {rk: 30914, frq: 153}
+modeler <> N: {rk: 27727, frq: 212}
+modeling <> N: {rk: 6801, frq: 3610}
+modelling <> N: {rk: 32916, frq: 149}
+modem <> N: {rk: 5581, frq: 4650}
+moderate <> J: {rk: 3285, frq: 10106}, V: {rk: 8368, frq: 2343}, N: {rk: 11052, frq: 1463}
+moderately <> R: {rk: 8282, frq: 2298}
+moderating <> J: {rk: 28531, frq: 208}
+moderation <> N: {rk: 11231, frq: 1352}
+moderator <> N: {rk: 12807, frq: 1161}
+modern <> J: {rk: 1047, frq: 41575}, N: {rk: 29982, frq: 169}
+modern-day <> J: {rk: 10783, frq: 1494}
+modernism <> N: {rk: 10411, frq: 1772}
+modernist <> J: {rk: 9813, frq: 1834}, N: {rk: 21967, frq: 392}
+modernistic <> J: {rk: 41366, frq: 59}
+modernity <> N: {rk: 8444, frq: 2603}
+modernization <> N: {rk: 8538, frq: 2379}
+modernize <> V: {rk: 10621, frq: 1486}
+modernized <> J: {rk: 30903, frq: 145}
+modernizer <> N: {rk: 41166, frq: 70}
+modernizing <> J: {rk: 34792, frq: 106}, N: {rk: 51223, frq: 35}
+modest <> J: {rk: 3120, frq: 10544}
+modestly <> R: {rk: 11749, frq: 1220}
+modesty <> N: {rk: 12175, frq: 1179}
+modicum <> N: {rk: 20851, frq: 371}
+modifiable <> J: {rk: 42206, frq: 67}
+modification <> N: {rk: 5586, frq: 4874}
+modified <> J: {rk: 7026, frq: 3117}
+modifier <> N: {rk: 27565, frq: 212}
+modify <> V: {rk: 3713, frq: 7053}
+modish <> J: {rk: 41536, frq: 60}
+modular <> J: {rk: 15117, frq: 792}
+modulate <> V: {rk: 17141, frq: 617}
+modulated <> J: {rk: 38359, frq: 75}
+modulation <> N: {rk: 21136, frq: 419}
+modulator <> N: {rk: 31261, frq: 160}
+module <> N: {rk: 6372, frq: 3794}
+modulus <> N: {rk: 26953, frq: 275}
+modus <> N: {rk: 20674, frq: 398}
+mogul <> N: {rk: 9066, frq: 2096}
+mohair <> N: {rk: 31292, frq: 175}
+moiety <> N: {rk: 42569, frq: 72}
+moire <> N: {rk: 37117, frq: 88}
+moist <> J: {rk: 6635, frq: 3364}
+moisten <> V: {rk: 15738, frq: 739}
+moistened <> J: {rk: 37434, frq: 84}
+moistly <> R: {rk: 57199, frq: 22}
+moistness <> N: {rk: 39802, frq: 68}
+moisture <> N: {rk: 5507, frq: 4752}
+moisturize <> V: {rk: 27391, frq: 235}
+moisturizer <> N: {rk: 15920, frq: 970}
+moisturizing <> J: {rk: 24014, frq: 347}
+mojo <> N: {rk: 24982, frq: 482}
+mol <> N: {rk: 35556, frq: 120}
+molar <> N: {rk: 23100, frq: 324}, J: {rk: 39836, frq: 77}
+molasses <> N: {rk: 15334, frq: 808}
+mold <> N: {rk: 6168, frq: 3935}, V: {rk: 7148, frq: 2946}
+moldable <> J: {rk: 50867, frq: 34}
+molded <> J: {rk: 18752, frq: 513}
+molder <> V: {rk: 32730, frq: 128}, N: {rk: 40471, frq: 85}
+moldering <> J: {rk: 51157, frq: 35}
+molding <> N: {rk: 16691, frq: 716}, J: {rk: 39029, frq: 75}
+moldy <> J: {rk: 22976, frq: 325}
+mole <> N: {rk: 8963, frq: 2059}
+molecular <> J: {rk: 6408, frq: 3763}
+molecule <> N: {rk: 4830, frq: 5838}
+molehill <> N: {rk: 38815, frq: 73}
+moleskin <> N: {rk: 40200, frq: 84}
+molest <> V: {rk: 10082, frq: 1664}
+molestation <> N: {rk: 15825, frq: 770}
+molested <> J: {rk: 51745, frq: 28}
+molester <> N: {rk: 18128, frq: 567}
+mollify <> V: {rk: 22932, frq: 311}
+mollusk <> N: {rk: 23596, frq: 302}
+molt <> V: {rk: 28680, frq: 186}, N: {rk: 37014, frq: 106}
+molten <> J: {rk: 13714, frq: 999}
+molting <> J: {rk: 56205, frq: 20}
+molybdenum <> N: {rk: 34262, frq: 113}
+mom <> N: {rk: 1614, frq: 42329}
+moment <> N: {rk: 369, frq: 119290}
+momentarily <> R: {rk: 8625, frq: 2249}
+momentary <> J: {rk: 12374, frq: 1161}
+momentous <> J: {rk: 13022, frq: 1014}
+momentum <> N: {rk: 4373, frq: 6476}
+monarch <> N: {rk: 8806, frq: 2111}
+monarchic <> J: {rk: 47396, frq: 47}
+monarchical <> J: {rk: 33817, frq: 130}
+monarchist <> N: {rk: 35045, frq: 101}
+monarchy <> N: {rk: 9772, frq: 1786}
+monastery <> N: {rk: 8219, frq: 2458}
+monastic <> J: {rk: 16760, frq: 684}, N: {rk: 56181, frq: 27}
+monasticism <> N: {rk: 38124, frq: 99}
+monetarily <> R: {rk: 37629, frq: 79}
+monetarism <> N: {rk: 54252, frq: 36}
+monetarist <> N: {rk: 38679, frq: 97}
+monetary <> J: {rk: 5129, frq: 5448}
+monetization <> N: {rk: 58934, frq: 31}
+monetize <> V: {rk: 39320, frq: 81}
+money <> N: {rk: 232, frq: 178555}
+money-grubbing <> J: {rk: 44782, frq: 45}
+moneybags <> N: {rk: 55184, frq: 24}
+moneyed <> J: {rk: 31371, frq: 138}
+moneylender <> N: {rk: 38558, frq: 76}
+moneymaker <> N: {rk: 23948, frq: 299}
+moneyman <> N: {rk: 50160, frq: 44}
+monger <> N: {rk: 33953, frq: 122}
+mongol <> N: {rk: 21862, frq: 425}, J: {rk: 24845, frq: 306}
+mongoose <> N: {rk: 22353, frq: 354}
+mongrel <> N: {rk: 26306, frq: 230}
+monied <> J: {rk: 35980, frq: 90}
+moniker <> N: {rk: 18126, frq: 558}
+monism <> N: {rk: 37249, frq: 104}
+monistic <> J: {rk: 48487, frq: 39}
+monitor <> V: {rk: 2364, frq: 15660}, N: {rk: 3650, frq: 12423}
+monitored <> J: {rk: 36718, frq: 89}
+monitoring <> N: {rk: 5204, frq: 5361}
+monk <> N: {rk: 5931, frq: 5401}
+monkey <> N: {rk: 4600, frq: 6182}, V: {rk: 39162, frq: 69}
+monkfish <> N: {rk: 39509, frq: 84}
+monkish <> J: {rk: 44284, frq: 46}
+mono <> N: {rk: 21307, frq: 656}
+monoamine <> N: {rk: 54584, frq: 24}
+monochromatic <> J: {rk: 21802, frq: 374}
+monochrome <> J: {rk: 19752, frq: 494}, N: {rk: 27842, frq: 220}
+monocle <> N: {rk: 36357, frq: 99}
+monoclonal <> J: {rk: 27074, frq: 236}
+monocoque <> J: {rk: 45226, frq: 49}
+monocular <> J: {rk: 39759, frq: 144}
+monocultural <> J: {rk: 43281, frq: 52}
+monoculture <> N: {rk: 31074, frq: 164}
+monoecious <> J: {rk: 60007, frq: 24}
+monofilament <> N: {rk: 25111, frq: 287}
+monogamous <> J: {rk: 19115, frq: 483}
+monogamy <> N: {rk: 21927, frq: 381}
+monogram <> N: {rk: 28342, frq: 244}
+monogrammed <> J: {rk: 27550, frq: 213}
+monograph <> N: {rk: 14861, frq: 861}
+monographic <> J: {rk: 47622, frq: 38}
+monolayer <> N: {rk: 48394, frq: 45}
+monolingual <> J: {rk: 36312, frq: 112}
+monolith <> N: {rk: 19576, frq: 465}
+monolithic <> J: {rk: 14885, frq: 804}
+monologic <> J: {rk: 41632, frq: 66}
+monological <> J: {rk: 56560, frq: 24}
+monologist <> N: {rk: 58232, frq: 20}
+monologue <> N: {rk: 10595, frq: 1467}
+monomaniacal <> J: {rk: 47712, frq: 38}
+monomer <> N: {rk: 45987, frq: 51}
+mononuclear <> J: {rk: 47619, frq: 63}
+mononucleosis <> N: {rk: 36128, frq: 94}
+monophyletic <> J: {rk: 59391, frq: 26}
+monoplane <> N: {rk: 52601, frq: 41}
+monopole <> N: {rk: 44241, frq: 60}
+monopolist <> N: {rk: 30222, frq: 166}
+monopolistic <> J: {rk: 24873, frq: 259}
+monopolization <> N: {rk: 39597, frq: 96}
+monopolize <> V: {rk: 18228, frq: 528}
+monopolized <> J: {rk: 58496, frq: 19}
+monopoly <> N: {rk: 5757, frq: 4228}
+monopsony <> N: {rk: 50555, frq: 35}
+monorail <> N: {rk: 26915, frq: 282}
+monosyllabic <> J: {rk: 31901, frq: 138}
+monosyllable <> N: {rk: 41350, frq: 62}
+monotheism <> N: {rk: 27736, frq: 211}
+monotheist <> N: {rk: 47507, frq: 41}
+monotheistic <> J: {rk: 28831, frq: 190}
+monotone <> N: {rk: 20846, frq: 396}
+monotonic <> J: {rk: 46319, frq: 45}
+monotonically <> R: {rk: 53461, frq: 34}
+monotonous <> J: {rk: 17578, frq: 563}
+monotonously <> R: {rk: 42783, frq: 52}
+monotony <> N: {rk: 21045, frq: 396}
+monotype <> N: {rk: 37801, frq: 114}
+monounsaturated <> J: {rk: 32854, frq: 143}
+monoxide <> N: {rk: 13777, frq: 987}
+monozygotic <> J: {rk: 43865, frq: 60}
+monsoon <> N: {rk: 17255, frq: 753}
+monster <> N: {rk: 3591, frq: 9049}, J: {rk: 28640, frq: 189}
+monstrance <> N: {rk: 47892, frq: 40}
+monstrosity <> N: {rk: 21343, frq: 392}
+monstrous <> J: {rk: 10582, frq: 1518}
+monstrously <> R: {rk: 33214, frq: 114}
+montage <> N: {rk: 16179, frq: 1136}
+montane <> J: {rk: 38293, frq: 81}
+month <> N: {rk: 236, frq: 177639}
+monthly <> J: {rk: 3544, frq: 9006}, N: {rk: 22914, frq: 322}, R: {rk: 27934, frq: 211}
+monument <> N: {rk: 4098, frq: 7126}
+monumental <> J: {rk: 8428, frq: 2212}
+monumentality <> N: {rk: 37219, frq: 95}
+monumentally <> R: {rk: 36316, frq: 85}
+moo <> N: {rk: 23934, frq: 498}, V: {rk: 38662, frq: 75}
+mooch <> N: {rk: 44834, frq: 65}, V: {rk: 50149, frq: 29}
+moocher <> N: {rk: 49452, frq: 46}
+mood <> N: {rk: 2359, frq: 15415}
+mood-altering <> J: {rk: 42784, frq: 55}
+moodily <> R: {rk: 38076, frq: 80}
+moodiness <> N: {rk: 37260, frq: 82}
+moody <> J: {rk: 12129, frq: 1281}
+moolah <> N: {rk: 53177, frq: 28}
+moon <> N: {rk: 2466, frq: 24158}, V: {rk: 22962, frq: 314}
+moon-faced <> J: {rk: 54271, frq: 26}
+moonbeam <> N: {rk: 37367, frq: 111}
+moonflower <> N: {rk: 56047, frq: 38}
+moonglow <> N: {rk: 58248, frq: 27}
+moonless <> J: {rk: 25178, frq: 259}
+moonlet <> N: {rk: 48671, frq: 40}
+moonlight <> N: {rk: 8086, frq: 2599}, V: {rk: 20130, frq: 435}
+moonlighting <> J: {rk: 47249, frq: 39}
+moonlit <> J: {rk: 19227, frq: 484}
+moonrise <> N: {rk: 42162, frq: 77}
+moonscape <> N: {rk: 31855, frq: 134}
+moonshine <> N: {rk: 28849, frq: 222}, V: {rk: 50258, frq: 33}
+moonshiner <> N: {rk: 42661, frq: 58}
+moonshot <> N: {rk: 58534, frq: 21}
+moonstone <> N: {rk: 40899, frq: 101}
+moonwalk <> N: {rk: 37012, frq: 109}
+moony <> J: {rk: 53873, frq: 28}
+moor <> V: {rk: 18751, frq: 519}, N: {rk: 23866, frq: 676}
+mooring <> N: {rk: 21609, frq: 382}, J: {rk: 38472, frq: 79}
+moorland <> N: {rk: 51936, frq: 32}
+moose <> N: {rk: 8142, frq: 2589}
+moot <> J: {rk: 16823, frq: 611}, V: {rk: 24586, frq: 258}
+mop <> V: {rk: 12674, frq: 1120}, N: {rk: 14784, frq: 860}
+mope <> V: {rk: 27361, frq: 212}, N: {rk: 46784, frq: 37}
+moped <> N: {rk: 38733, frq: 76}
+moppet <> N: {rk: 54186, frq: 25}
+mopping <> N: {rk: 59264, frq: 34}
+moraine <> N: {rk: 32891, frq: 241}
+moral <> J: {rk: 1463, frq: 28851}, N: {rk: 9055, frq: 1940}
+morale <> N: {rk: 7635, frq: 3711}
+moralism <> N: {rk: 29852, frq: 167}
+moralist <> N: {rk: 23095, frq: 308}
+moralistic <> J: {rk: 22141, frq: 343}
+morality <> N: {rk: 5169, frq: 5256}
+moralize <> V: {rk: 29545, frq: 163}
+moralizing <> N: {rk: 38611, frq: 75}, J: {rk: 40980, frq: 60}
+morally <> R: {rk: 6485, frq: 3481}
+morass <> N: {rk: 20548, frq: 390}
+moratorium <> N: {rk: 10589, frq: 1620}
+moray <> N: {rk: 32815, frq: 143}
+morbid <> J: {rk: 16245, frq: 664}
+morbidity <> N: {rk: 16057, frq: 882}
+morbidly <> R: {rk: 29059, frq: 175}
+mordant <> J: {rk: 36886, frq: 91}
+more <> R: {rk: 81, frq: 560978}, D: {rk: 91, frq: 457736}, N: {rk: 15620, frq: 882}
+morel <> N: {rk: 26098, frq: 381}
+moreover <> R: {rk: 2296, frq: 17171}
+morgue <> N: {rk: 12460, frq: 1140}
+morn <> N: {rk: 24017, frq: 557}
+morning <> N: {rk: 357, frq: 124560}
+moron <> N: {rk: 15826, frq: 796}
+moronic <> J: {rk: 32136, frq: 131}
+morose <> J: {rk: 22991, frq: 329}
+morosely <> R: {rk: 32349, frq: 134}
+morph <> V: {rk: 14532, frq: 953}, N: {rk: 22860, frq: 331}
+morpheme <> N: {rk: 44741, frq: 51}
+morphine <> N: {rk: 14111, frq: 981}
+morphing <> N: {rk: 57639, frq: 23}
+morpho <> N: {rk: 59154, frq: 25}
+morphogenesis <> N: {rk: 56584, frq: 27}
+morphologic <> J: {rk: 49856, frq: 42}
+morphological <> J: {rk: 21614, frq: 410}
+morphologically <> R: {rk: 39160, frq: 78}
+morphologist <> N: {rk: 59267, frq: 21}
+morphology <> N: {rk: 19165, frq: 527}
+morsel <> N: {rk: 16237, frq: 701}
+mortadella <> N: {rk: 56884, frq: 26}
+mortal <> J: {rk: 9728, frq: 1801}, N: {rk: 13707, frq: 996}
+mortality <> N: {rk: 4706, frq: 6484}
+mortally <> R: {rk: 23116, frq: 306}
+mortar <> N: {rk: 8456, frq: 2238}, V: {rk: 21450, frq: 357}
+mortarboard <> N: {rk: 49279, frq: 35}
+mortared <> J: {rk: 55256, frq: 23}
+mortgage <> N: {rk: 3236, frq: 11570}, V: {rk: 25629, frq: 236}
+mortgaged <> J: {rk: 51992, frq: 31}
+mortician <> N: {rk: 27272, frq: 215}
+mortification <> N: {rk: 31145, frq: 148}
+mortified <> J: {rk: 38132, frq: 80}
+mortify <> V: {rk: 19079, frq: 485}
+mortifying <> J: {rk: 51354, frq: 31}
+mortise <> N: {rk: 30411, frq: 195}, V: {rk: 54407, frq: 26}
+mortuary <> N: {rk: 19167, frq: 492}
+mosaic <> N: {rk: 10339, frq: 1579}, J: {rk: 16321, frq: 676}
+mosaicist <> N: {rk: 59488, frq: 26}
+mosey <> V: {rk: 31463, frq: 150}
+mosh <> V: {rk: 56359, frq: 26}
+moshav <> N: {rk: 47331, frq: 88}
+mosque <> N: {rk: 5874, frq: 4665}
+mosquito <> N: {rk: 5737, frq: 4480}
+mossy <> J: {rk: 19480, frq: 480}
+most <> R: {rk: 144, frq: 265879}, D: {rk: 187, frq: 211650}
+mostly <> R: {rk: 1328, frq: 30731}
+mote <> N: {rk: 23523, frq: 506}
+motel <> N: {rk: 5309, frq: 4896}
+motet <> N: {rk: 46701, frq: 39}
+moth <> N: {rk: 8740, frq: 2167}
+moth-eaten <> J: {rk: 41527, frq: 66}
+mothball <> N: {rk: 47606, frq: 39}
+mothballed <> J: {rk: 49233, frq: 32}
+mother <> N: {rk: 229, frq: 182856}, V: {rk: 26620, frq: 210}
+mother-in-law <> N: {rk: 10905, frq: 1430}
+mother-of-pearl <> N: {rk: 26584, frq: 226}
+mother-to-be <> J: {rk: 45673, frq: 43}, N: {rk: 47880, frq: 38}
+motherboard <> N: {rk: 23475, frq: 353}
+motherfucker <> N: {rk: 16926, frq: 750}
+motherfucking <> J: {rk: 44680, frq: 50}
+motherhood <> N: {rk: 9397, frq: 1938}
+motherland <> N: {rk: 25156, frq: 323}
+motherless <> J: {rk: 30501, frq: 152}
+motherly <> J: {rk: 21865, frq: 348}
+mothership <> N: {rk: 40416, frq: 92}
+motif <> N: {rk: 6640, frq: 3395}
+motile <> J: {rk: 49701, frq: 41}
+motility <> N: {rk: 40604, frq: 69}
+motion <> N: {rk: 1832, frq: 21014}, V: {rk: 9925, frq: 1885}
+motionless <> J: {rk: 9708, frq: 1907}
+motionlessly <> R: {rk: 53498, frq: 25}
+motivate <> V: {rk: 3560, frq: 9087}
+motivated <> J: {rk: 9922, frq: 1716}
+motivating <> J: {rk: 20603, frq: 410}
+motivation <> N: {rk: 3145, frq: 11842}
+motivational <> J: {rk: 9417, frq: 2150}
+motivator <> N: {rk: 15896, frq: 738}
+motive <> N: {rk: 3604, frq: 8535}
+motivic <> J: {rk: 58278, frq: 21}
+motley <> J: {rk: 16834, frq: 638}, N: {rk: 28767, frq: 197}
+motocross <> N: {rk: 40811, frq: 67}
+motor <> N: {rk: 3157, frq: 15400}, V: {rk: 16518, frq: 656}
+motorbike <> N: {rk: 23938, frq: 292}
+motorboat <> N: {rk: 24250, frq: 267}
+motorcade <> N: {rk: 17357, frq: 608}
+motorcar <> N: {rk: 31489, frq: 154}
+motorcoach <> N: {rk: 59028, frq: 22}
+motorcycle <> N: {rk: 6138, frq: 3849}, V: {rk: 34784, frq: 102}
+motorcycling <> N: {rk: 46416, frq: 41}
+motorcyclist <> N: {rk: 27269, frq: 225}
+motorhome <> N: {rk: 41484, frq: 66}
+motoric <> J: {rk: 58284, frq: 22}
+motoring <> N: {rk: 31464, frq: 140}
+motorist <> N: {rk: 9618, frq: 1836}
+motorized <> J: {rk: 16323, frq: 677}
+motorman <> N: {rk: 47520, frq: 61}
+motormouth <> N: {rk: 56367, frq: 27}
+motorsport <> N: {rk: 22988, frq: 353}
+motorway <> N: {rk: 34163, frq: 115}
+mottle <> V: {rk: 51782, frq: 30}
+mottled <> J: {rk: 15915, frq: 712}
+mottling <> N: {rk: 47382, frq: 38}
+motto <> N: {rk: 9237, frq: 1872}
+moue <> N: {rk: 45512, frq: 48}
+mould <> N: {rk: 26090, frq: 267}, V: {rk: 35572, frq: 111}
+moulding <> N: {rk: 54668, frq: 24}
+mound <> N: {rk: 5119, frq: 5201}, V: {rk: 29975, frq: 156}
+mounded <> J: {rk: 43571, frq: 49}
+mounding <> N: {rk: 53187, frq: 27}
+mount <> V: {rk: 3006, frq: 11575}
+mountain <> N: {rk: 1244, frq: 50025}
+mountaineer <> N: {rk: 23418, frq: 473}, V: {rk: 49087, frq: 36}
+mountaineering <> N: {rk: 20476, frq: 443}
+mountainous <> J: {rk: 12706, frq: 1062}
+mountainside <> N: {rk: 14817, frq: 848}
+mountaintop <> N: {rk: 14598, frq: 860}
+mountebank <> N: {rk: 48546, frq: 37}
+mounted <> J: {rk: 12719, frq: 1095}
+mounting <> J: {rk: 13508, frq: 964}, N: {rk: 24878, frq: 270}
+mourn <> V: {rk: 6867, frq: 3051}
+mourner <> N: {rk: 13121, frq: 1070}
+mournful <> J: {rk: 16394, frq: 689}
+mournfully <> R: {rk: 26382, frq: 231}
+mourning <> N: {rk: 9419, frq: 1853}
+mouse <> N: {rk: 3326, frq: 10804}
+mousetrap <> N: {rk: 26750, frq: 251}
+moussaka <> N: {rk: 52316, frq: 33}
+mousse <> N: {rk: 15921, frq: 760}
+moustache <> N: {rk: 17030, frq: 649}
+mousy <> J: {rk: 32630, frq: 128}
+mouth <> N: {rk: 1061, frq: 43369}, V: {rk: 13937, frq: 972}
+mouth-to-mouth <> J: {rk: 40136, frq: 68}, N: {rk: 48831, frq: 36}
+mouth-watering <> J: {rk: 30610, frq: 154}
+mouthful <> N: {rk: 13609, frq: 994}
+mouthing <> N: {rk: 55165, frq: 24}
+mouthpart <> N: {rk: 39325, frq: 68}
+mouthpiece <> N: {rk: 14373, frq: 872}
+mouthwash <> N: {rk: 28961, frq: 188}
+mouthy <> J: {rk: 46744, frq: 42}
+movable <> J: {rk: 17593, frq: 583}
+move <> V: {rk: 207, frq: 193904}, N: {rk: 1403, frq: 29235}
+moveable <> J: {rk: 28620, frq: 180}
+moved <> J: {rk: 42367, frq: 50}
+movement <> N: {rk: 707, frq: 60998}
+mover <> N: {rk: 11253, frq: 1397}
+movie <> N: {rk: 576, frq: 74861}
+moviegoer <> N: {rk: 17327, frq: 607}
+moviemaker <> N: {rk: 29324, frq: 168}
+moving <> J: {rk: 6214, frq: 3617}, N: {rk: 20465, frq: 625}
+movingly <> R: {rk: 31324, frq: 141}
+mow <> V: {rk: 9878, frq: 1695}
+mowed <> J: {rk: 37215, frq: 86}
+mower <> N: {rk: 9793, frq: 1789}
+moxie <> N: {rk: 33555, frq: 177}
+mozzarella <> N: {rk: 15056, frq: 1062}
+mp <> N: {rk: 14456, frq: 1093}
+mri <> N: {rk: 17082, frq: 1192}
+msec <> N: {rk: 36717, frq: 102}
+much <> D: {rk: 146, frq: 265384}, R: {rk: 297, frq: 136505}, C: {rk: 33605, frq: 144}
+muchacha <> N: {rk: 41902, frq: 84}
+muchacho <> N: {rk: 40082, frq: 70}
+mucilage <> N: {rk: 54216, frq: 38}
+mucin <> N: {rk: 49239, frq: 39}
+muck <> N: {rk: 13661, frq: 976}, V: {rk: 29949, frq: 163}
+muckraker <> N: {rk: 41436, frq: 69}
+muckraking <> J: {rk: 44196, frq: 50}
+mucky <> J: {rk: 31153, frq: 150}
+mucociliary <> J: {rk: 59423, frq: 26}
+mucormycosis <> N: {rk: 49611, frq: 54}
+mucosa <> N: {rk: 21610, frq: 449}
+mucosal <> J: {rk: 23344, frq: 355}
+mucus <> N: {rk: 18772, frq: 517}
+mud <> N: {rk: 3636, frq: 8701}
+muddied <> J: {rk: 38988, frq: 71}
+muddle <> V: {rk: 19978, frq: 446}, N: {rk: 26743, frq: 210}
+muddle-headed <> J: {rk: 58901, frq: 22}
+muddled <> J: {rk: 20264, frq: 420}
+muddy <> J: {rk: 6576, frq: 3461}, V: {rk: 25861, frq: 223}
+mudflat <> N: {rk: 32011, frq: 134}
+mudflow <> N: {rk: 52099, frq: 37}
+mudhole <> N: {rk: 38781, frq: 79}
+mudroom <> N: {rk: 36953, frq: 119}
+mudslide <> N: {rk: 27203, frq: 236}
+mudstone <> N: {rk: 57318, frq: 22}
+muesli <> N: {rk: 56799, frq: 28}
+muezzin <> N: {rk: 36028, frq: 106}
+muff <> N: {rk: 29377, frq: 165}, V: {rk: 49664, frq: 35}
+muffin <> N: {rk: 8726, frq: 2492}
+muffle <> V: {rk: 13752, frq: 996}
+muffled <> J: {rk: 12364, frq: 1250}
+muffler <> N: {rk: 19663, frq: 457}
+mufti <> N: {rk: 29804, frq: 166}
+mug <> N: {rk: 6180, frq: 3905}, V: {rk: 15994, frq: 677}
+mugger <> N: {rk: 20868, frq: 402}
+mugging <> N: {rk: 27360, frq: 218}
+muggy <> J: {rk: 23608, frq: 299}
+mugshot <> N: {rk: 55534, frq: 25}
+mujaheddin <> N: {rk: 38027, frq: 128}
+mujahedeen <> N: {rk: 38655, frq: 98}, J: {rk: 49951, frq: 35}
+mujahedin <> N: {rk: 40697, frq: 98}
+mujahideen <> N: {rk: 28487, frq: 276}, J: {rk: 37849, frq: 92}
+mujahidin <> N: {rk: 52696, frq: 50}
+mulatto <> N: {rk: 23890, frq: 311}
+mulberry <> N: {rk: 23943, frq: 517}
+mulch <> N: {rk: 11266, frq: 1430}, V: {rk: 22813, frq: 338}
+mulching <> J: {rk: 46721, frq: 58}
+mule <> N: {rk: 6700, frq: 3393}
+muleta <> N: {rk: 60001, frq: 21}
+muley <> N: {rk: 34589, frq: 214}
+mulish <> J: {rk: 54135, frq: 29}
+mull <> V: {rk: 13680, frq: 958}
+mullah <> N: {rk: 21819, frq: 874}
+mulled <> J: {rk: 43152, frq: 58}
+mullein <> N: {rk: 47386, frq: 60}
+mullet <> N: {rk: 24426, frq: 386}
+mullion <> N: {rk: 47632, frq: 42}
+mullioned <> J: {rk: 50468, frq: 32}
+multi <> J: {rk: 23388, frq: 305}
+multi-ethnic <> J: {rk: 14707, frq: 828}
+multi-user <> J: {rk: 48575, frq: 38}
+multicellular <> J: {rk: 35897, frq: 98}
+multicenter <> J: {rk: 40028, frq: 76}
+multicolored <> J: {rk: 15400, frq: 732}
+multicomponent <> J: {rk: 43423, frq: 55}
+multicultural <> J: {rk: 6891, frq: 3406}
+multiculturalism <> N: {rk: 11370, frq: 1432}
+multiculturalist <> N: {rk: 29085, frq: 194}
+multidimensional <> J: {rk: 13631, frq: 1102}
+multidimensionality <> N: {rk: 47402, frq: 44}
+multidirectional <> J: {rk: 42193, frq: 61}
+multidisciplinary <> J: {rk: 15472, frq: 821}
+multifaceted <> J: {rk: 16176, frq: 714}
+multifactor <> N: {rk: 54995, frq: 31}
+multifactorial <> J: {rk: 41338, frq: 64}
+multifarious <> J: {rk: 33431, frq: 111}
+multiform <> J: {rk: 57566, frq: 21}
+multifunctional <> J: {rk: 34624, frq: 104}
+multilane <> J: {rk: 57821, frq: 20}
+multilateral <> J: {rk: 9556, frq: 1948}
+multilateralism <> N: {rk: 25899, frq: 267}
+multilayered <> J: {rk: 25785, frq: 238}
+multilevel <> N: {rk: 24545, frq: 362}
+multileveled <> J: {rk: 48797, frq: 35}
+multilingual <> J: {rk: 24386, frq: 270}
+multimedia <> N: {rk: 7483, frq: 2872}
+multimillionaire <> N: {rk: 18424, frq: 516}
+multimodal <> J: {rk: 36615, frq: 95}
+multimode <> J: {rk: 59184, frq: 24}
+multinational <> J: {rk: 7833, frq: 2538}, N: {rk: 22338, frq: 356}
+multinomial <> J: {rk: 57581, frq: 35}
+multiple <> J: {rk: 1958, frq: 21937}, N: {rk: 9469, frq: 1868}
+multiple-choice <> J: {rk: 18006, frq: 556}
+multiplex <> N: {rk: 23163, frq: 323}
+multiplexer <> N: {rk: 53358, frq: 26}
+multiplication <> N: {rk: 17163, frq: 646}
+multiplicative <> J: {rk: 43158, frq: 60}
+multiplicity <> N: {rk: 14883, frq: 855}
+multiplier <> N: {rk: 20830, frq: 428}
+multiply <> V: {rk: 6230, frq: 3662}, R: {rk: 40919, frq: 63}
+multiplying <> J: {rk: 49904, frq: 32}
+multipoint <> N: {rk: 55407, frq: 23}
+multipolar <> J: {rk: 30586, frq: 183}
+multiprocessor <> N: {rk: 49455, frq: 88}
+multipurpose <> J: {rk: 19454, frq: 458}
+multiracial <> J: {rk: 16807, frq: 635}
+multisensory <> J: {rk: 33283, frq: 120}
+multispectral <> J: {rk: 46950, frq: 44}
+multistage <> N: {rk: 36505, frq: 106}
+multitalented <> J: {rk: 33300, frq: 110}
+multitasking <> N: {rk: 47153, frq: 74}
+multitude <> N: {rk: 8590, frq: 2149}
+multitudinous <> J: {rk: 36932, frq: 82}
+multivalent <> J: {rk: 40722, frq: 70}
+multivariate <> J: {rk: 12795, frq: 1407}
+multiverse <> N: {rk: 35745, frq: 94}
+multivitamin <> N: {rk: 23091, frq: 348}
+multivocal <> J: {rk: 49940, frq: 34}
+mum <> N: {rk: 14589, frq: 1671}
+mumble <> V: {rk: 7604, frq: 2936}, N: {rk: 31133, frq: 151}
+mumbled <> J: {rk: 37458, frq: 84}
+mumbling <> N: {rk: 56621, frq: 22}, J: {rk: 58518, frq: 21}
+mumbo-jumbo <> N: {rk: 41682, frq: 58}
+mummer <> N: {rk: 54800, frq: 25}
+mummification <> N: {rk: 41696, frq: 70}
+mummified <> J: {rk: 26018, frq: 233}
+mummify <> V: {rk: 53276, frq: 29}
+mummy <> N: {rk: 13835, frq: 1656}
+mumps <> N: {rk: 33533, frq: 140}
+munch <> V: {rk: 12290, frq: 1164}
+muncher <> N: {rk: 56929, frq: 22}
+munching <> N: {rk: 50978, frq: 44}
+munchkin <> N: {rk: 37623, frq: 106}
+mundane <> J: {rk: 8995, frq: 1972}
+mundanity <> N: {rk: 51666, frq: 28}
+municipal <> J: {rk: 4710, frq: 5834}
+municipality <> N: {rk: 8856, frq: 2210}
+municipally <> R: {rk: 46418, frq: 42}
+munificence <> N: {rk: 48231, frq: 39}
+munificent <> J: {rk: 44777, frq: 45}
+munitions <> N: {rk: 14937, frq: 803}
+muon <> N: {rk: 25180, frq: 283}
+mural <> N: {rk: 7384, frq: 2876}
+muralist <> N: {rk: 35150, frq: 111}
+murder <> N: {rk: 1385, frq: 30822}, V: {rk: 3503, frq: 9242}
+murdered <> J: {rk: 13917, frq: 935}
+murderer <> N: {rk: 5483, frq: 4600}
+murderess <> N: {rk: 40513, frq: 65}
+murdering <> J: {rk: 24078, frq: 279}
+murderous <> J: {rk: 11489, frq: 1280}
+murderously <> R: {rk: 41779, frq: 53}
+murine <> J: {rk: 57473, frq: 22}
+murk <> N: {rk: 25980, frq: 251}
+murkily <> R: {rk: 55506, frq: 23}
+murkiness <> N: {rk: 46785, frq: 41}
+murky <> J: {rk: 9265, frq: 1882}
+murmur <> V: {rk: 6118, frq: 4335}, N: {rk: 11150, frq: 1480}
+murmured <> J: {rk: 36971, frq: 89}
+murmuring <> N: {rk: 30178, frq: 174}, J: {rk: 38282, frq: 76}
+murmurous <> J: {rk: 52534, frq: 27}
+murre <> N: {rk: 46112, frq: 48}
+muscadine <> N: {rk: 43121, frq: 96}
+muscatel <> N: {rk: 58185, frq: 20}
+muscle <> N: {rk: 1721, frq: 23211}, V: {rk: 19159, frq: 500}
+muscle-bound <> J: {rk: 36895, frq: 84}
+muscled <> J: {rk: 28796, frq: 197}
+muscleman <> N: {rk: 49837, frq: 34}
+muscular <> J: {rk: 6966, frq: 3056}
+muscularity <> N: {rk: 36681, frq: 95}
+musculature <> N: {rk: 24599, frq: 268}
+musculoskeletal <> J: {rk: 24356, frq: 346}
+muse <> V: {rk: 9054, frq: 1998}, N: {rk: 12755, frq: 1699}
+museology <> N: {rk: 58114, frq: 24}
+museum <> N: {rk: 1732, frq: 43485}
+mush <> N: {rk: 20977, frq: 408}, V: {rk: 24443, frq: 259}
+musher <> N: {rk: 31603, frq: 159}
+mushroom <> N: {rk: 4292, frq: 7213}, V: {rk: 18915, frq: 485}
+mushrooming <> J: {rk: 38452, frq: 73}, N: {rk: 53827, frq: 24}
+mushy <> J: {rk: 18444, frq: 519}
+music <> N: {rk: 392, frq: 110990}
+musical <> J: {rk: 2109, frq: 18238}, N: {rk: 8772, frq: 2321}
+musicale <> N: {rk: 53754, frq: 32}
+musicality <> N: {rk: 28665, frq: 195}
+musically <> R: {rk: 13825, frq: 917}
+musician <> N: {rk: 2953, frq: 11609}
+musicianship <> N: {rk: 21377, frq: 399}
+musicological <> J: {rk: 55215, frq: 26}
+musicologist <> N: {rk: 29533, frq: 164}
+musicology <> N: {rk: 35516, frq: 100}
+musing <> N: {rk: 18153, frq: 523}
+musk <> N: {rk: 22439, frq: 402}
+muskeg <> N: {rk: 50452, frq: 45}
+musket <> N: {rk: 15651, frq: 817}
+musketeer <> N: {rk: 27788, frq: 314}
+musketry <> N: {rk: 47924, frq: 45}
+muskie <> N: {rk: 27237, frq: 558}
+muskmelon <> N: {rk: 52374, frq: 30}
+muskrat <> N: {rk: 26863, frq: 244}
+musky <> J: {rk: 27232, frq: 223}
+muslin <> N: {rk: 23399, frq: 309}
+muss <> V: {rk: 30354, frq: 160}, N: {rk: 47734, frq: 53}
+mussed <> J: {rk: 51330, frq: 31}
+mussels <> N: {rk: 11095, frq: 1458}
+must <> V: {rk: 223, frq: 182442}, N: {rk: 13924, frq: 958}
+must-read <> J: {rk: 45331, frq: 48}
+mustache <> N: {rk: 8253, frq: 2445}
+mustached <> J: {rk: 47951, frq: 38}
+mustachioed <> J: {rk: 31086, frq: 149}
+mustard <> N: {rk: 6177, frq: 4162}
+mustardy <> J: {rk: 55632, frq: 27}
+mustelid <> N: {rk: 59706, frq: 19}
+muster <> V: {rk: 8581, frq: 2171}, N: {rk: 24446, frq: 282}
+mustiness <> N: {rk: 46557, frq: 42}
+musty <> J: {rk: 16075, frq: 732}
+mutability <> N: {rk: 38420, frq: 78}
+mutable <> J: {rk: 31522, frq: 133}
+mutagen <> N: {rk: 51349, frq: 43}
+mutagenesis <> N: {rk: 59518, frq: 23}
+mutagenic <> J: {rk: 51870, frq: 27}
+mutant <> N: {rk: 13180, frq: 990}
+mutate <> V: {rk: 17000, frq: 599}
+mutated <> J: {rk: 31191, frq: 135}
+mutation <> N: {rk: 8786, frq: 2130}
+mute <> J: {rk: 11214, frq: 1389}, V: {rk: 20377, frq: 417}, N: {rk: 35977, frq: 90}
+muted <> J: {rk: 9562, frq: 1830}
+mutely <> R: {rk: 30779, frq: 154}
+muteness <> N: {rk: 38502, frq: 77}
+mutilate <> V: {rk: 22361, frq: 321}
+mutilated <> J: {rk: 19089, frq: 474}
+mutilation <> N: {rk: 17936, frq: 551}
+mutineer <> N: {rk: 33749, frq: 130}
+mutinous <> J: {rk: 33058, frq: 120}
+mutiny <> N: {rk: 17056, frq: 660}, V: {rk: 41229, frq: 60}
+mutism <> N: {rk: 48222, frq: 54}
+mutt <> N: {rk: 16904, frq: 654}
+mutter <> V: {rk: 4884, frq: 6207}, N: {rk: 36702, frq: 191}
+muttered <> J: {rk: 34527, frq: 125}
+muttering <> N: {rk: 29142, frq: 176}, J: {rk: 57726, frq: 20}
+mutton <> N: {rk: 23746, frq: 311}
+mutual <> J: {rk: 2816, frq: 12131}
+mutualism <> N: {rk: 47328, frq: 43}
+mutualistic <> J: {rk: 47933, frq: 48}
+mutuality <> N: {rk: 25968, frq: 250}
+mutually <> R: {rk: 8132, frq: 2497}
+muumuu <> N: {rk: 40824, frq: 68}
+muzzle <> N: {rk: 12825, frq: 1149}, V: {rk: 26437, frq: 228}
+muzzleloader <> N: {rk: 30537, frq: 208}
+muzzy <> J: {rk: 53357, frq: 30}
+my <> A: {rk: 44, frq: 1007382}
+myalgia <> N: {rk: 55715, frq: 26}
+myasthenia <> N: {rk: 59871, frq: 25}
+mycelium <> N: {rk: 50158, frq: 41}
+mycobacteria <> N: {rk: 51086, frq: 39}
+mycobacterial <> J: {rk: 47278, frq: 56}
+mycologist <> N: {rk: 44450, frq: 61}
+mycology <> N: {rk: 57938, frq: 35}
+mycotoxin <> N: {rk: 43367, frq: 72}
+myelin <> N: {rk: 30921, frq: 171}
+myelogenous <> J: {rk: 52726, frq: 35}
+myeloma <> N: {rk: 36032, frq: 118}
+mylar <> J: {rk: 29401, frq: 171}
+mynah <> N: {rk: 55851, frq: 28}
+myocardial <> J: {rk: 21846, frq: 500}
+myocardium <> N: {rk: 51741, frq: 40}
+myoclonus <> N: {rk: 59905, frq: 39}
+myocyte <> N: {rk: 54399, frq: 38}
+myoelectric <> J: {rk: 46096, frq: 60}
+myoglobin <> N: {rk: 48847, frq: 48}
+myopia <> N: {rk: 25285, frq: 255}
+myopic <> J: {rk: 21900, frq: 352}
+myopically <> R: {rk: 50475, frq: 32}
+myosin <> N: {rk: 50324, frq: 65}
+myriad <> N: {rk: 7218, frq: 2877}
+myringotomy <> N: {rk: 52280, frq: 49}
+myrrh <> N: {rk: 32949, frq: 137}
+myself <> P: {rk: 662, frq: 65113}
+mysterious <> J: {rk: 4125, frq: 7010}
+mysteriously <> R: {rk: 12201, frq: 1139}
+mystery <> N: {rk: 2346, frq: 15507}
+mystic <> N: {rk: 14815, frq: 960}, J: {rk: 18074, frq: 537}
+mystical <> J: {rk: 8666, frq: 2198}
+mystically <> R: {rk: 38667, frq: 74}
+mysticism <> N: {rk: 17448, frq: 600}
+mystification <> N: {rk: 32348, frq: 136}
+mystified <> J: {rk: 22452, frq: 326}
+mystify <> V: {rk: 18665, frq: 475}
+mystifying <> J: {rk: 40077, frq: 64}
+mystique <> N: {rk: 13344, frq: 980}
+myth <> N: {rk: 3095, frq: 10768}
+mythic <> J: {rk: 12391, frq: 1130}
+mythical <> J: {rk: 11262, frq: 1331}
+mythological <> J: {rk: 16800, frq: 644}
+mythologist <> N: {rk: 51313, frq: 41}
+mythologize <> V: {rk: 33998, frq: 106}
+mythology <> N: {rk: 8861, frq: 2063}
+mythopoeic <> J: {rk: 59230, frq: 19}
+mythopoetic <> J: {rk: 58601, frq: 20}
+mythos <> N: {rk: 36258, frq: 112}
+myxoid <> J: {rk: 57482, frq: 30}

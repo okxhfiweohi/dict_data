@@ -1,0 +1,525 @@
+vac <> w: 198149, p: [28922]
+vacancy <> w: 198150, p: [28413, 15859]
+vacant <> w: 198152
+vacantly <> w: 198154
+vacate <> w: 198155, p: [17837, 16159]
+vacation <> w: 198156, p: [17767, 17767]
+vacationer <> w: 198159, p: [23129]
+vacationist <> w: 198161, p: [23129]
+vaccinate <> w: 198167, p: [21404]
+vaccinated <> w: 198168, p: [21404]
+vaccinating <> w: 198169, p: [21404]
+vaccination <> w: 198170, p: [21404]
+vaccine <> w: 198172, p: [21404]
+vacillate <> w: 198195
+vacillating <> w: 198196
+vacillation <> w: 198197
+vacuity <> w: 198200
+vacuole <> w: 198204
+vacuous <> w: 198207
+vacuum <> w: 198210, p: [21116, 23951, 28413]
+vacuum cleaner <> w: 198217, p: [50763]
+vacuum-clean <> p: [21116]
+vacuum-packed <> w: 219623
+vagabond <> w: 198225, p: [20229]
+vagary <> w: 198228
+vagina <> w: 198230
+vaginoplasty <> w: 218656
+vagrancy <> w: 198240, p: [20231]
+vagrant <> w: 198241, p: [20229]
+vague <> w: 198242, p: [45645]
+vaguely <> w: 198243
+vagueness <> w: 198244
+vain <> w: 198247, p: [42486, 48835]
+vainglorious <> w: 198248
+vainglory <> w: 198249
+vainly <> w: 198250, p: [48835]
+valance <> w: 198257, p: [41890]
+vale <> w: 198262, p: [51302]
+valediction <> w: 198263
+valedictorian <> w: 198264
+valedictory <> w: 198265
+valency <> w: 198275
+valentine <> w: 198279, p: [19370, 18746]
+valet <> w: 198291, p: [26483]
+valetudinarian <> w: 198295
+valiant <> w: 198303
+valiantly <> w: 198304, p: [42438]
+valid <> w: 198305
+validate <> w: 198306, p: [59470]
+validation <> w: 198309
+validity <> w: 198311
+validly <> w: 198312
+valium <> w: 198316
+valkyrie <> w: 198317
+valley <> w: 198321, p: [51302]
+valor <> w: 198331
+valorous <> w: 198332
+valuable <> w: 198340, p: [26196]
+valuably <> w: 225479
+valuate <> w: 198342, p: [59608]
+value <> w: 198347, p: [26196, 59608]
+value-added tax <> w: 198348
+valued <> w: 198354
+valueless <> w: 198355
+valve <> w: 198359, p: [30285]
+vamp <> w: 198374
+vampire bat <> w: 198504, p: [24769]
+van <> w: 198506, p: [51162, 23109]
+vandal <> w: 198536
+vandalism <> w: 198538, p: [20802]
+vandalize <> w: 198539, p: [20802]
+vane <> w: 198544, p: [32529]
+vanguard <> w: 198553
+vanilla <> w: 198558, p: [28968, 38817]
+vanish <> w: 198568, p: [27792]
+vanished <> w: 198569, p: [20621]
+vanishing cream <> p: [22965]
+vanishingly <> w: 198574
+vanity <> w: 198575, p: [28309]
+vanity press <> w: 221457
+vanquish <> w: 198578, p: [61046]
+vantage <> w: 198581
+vantage point <> w: 198582
+vapid <> w: 198586, p: [32640]
+vapor <> w: 198590
+vaporize <> w: 198603, p: [47386]
+vaporizer <> w: 198605
+vaporous <> w: 198606, p: [29876]
+vapors <> w: 198608
+variable <> w: 198636
+variance <> w: 198643
+variant <> w: 198644
+variation <> w: 198646
+variational <> w: 224421
+varied <> w: 198657, p: [43434]
+variegated <> w: 198661
+variety <> w: 198667
+various <> w: 198688, p: [43434]
+variously <> w: 198689, p: [43564]
+varmint <> w: 198694
+varnish <> w: 198696, p: [48011, 47166]
+varsity <> w: 198701
+vary <> w: 198706, p: [48167, 23783]
+varying <> w: 198707
+vascular <> w: 198718
+vase <> w: 198734, p: [19040]
+vasectomy <> w: 198740
+vaseline <> w: 198741
+vassal <> w: 198759
+vast <> w: 198761, p: [23249]
+vastly <> w: 198762, p: [43462]
+vastness <> w: 198763
+vatic <> w: 198767
+vaticinate <> w: 198775, p: [61168]
+vaudeville <> w: 198778
+vaudevillian <> w: 198781
+vault <> w: 198785, p: [36908]
+vaulted <> w: 198787
+vaulter <> w: 198788, p: [36908]
+vaulting <> w: 198789
+vaulting horse <> w: 198790
+vaunt <> w: 198791
+vauntingly <> w: 198793
+veal <> w: 198800, p: [18283]
+vector <> w: 198808
+veena <> w: 219694
+veer <> w: 198822, p: [46948]
+veery <> w: 198824
+vegan <> w: 198827, p: [17529]
+vegetable <> w: 198829, p: [27135]
+vegetable oil <> p: [34967]
+vegetal <> w: 198844
+vegetarian <> w: 198845, p: [48915, 48915]
+vegetarianism <> w: 198846, p: [48915]
+vegetate <> w: 198847
+vegetation <> w: 198848, p: [32572]
+vegetative <> w: 198850
+veggie <> w: 198853, p: [27135]
+veggie burger <> p: [37535]
+vehemence <> w: 198854
+vehement <> w: 198855
+vehemently <> w: 198856
+vehicle <> w: 198857, p: [19044]
+veil <> w: 199003, p: [54513, 22003]
+veiled <> w: 199004
+vein <> w: 199007, p: [50755]
+velar <> w: 199013
+velcro <> w: 199017, p: [33212, 33212]
+vellum <> w: 199023, p: [47216]
+velocipede <> w: 199024, p: [50269]
+velocity <> w: 199026
+velodrome <> w: 199027
+velvet <> w: 199033, p: [29455]
+velvety <> w: 199049
+vena <> w: 199054, p: [30483]
+venal <> w: 199207
+venality <> w: 199208
+vend <> w: 199211, p: [37107]
+vendetta <> w: 199216
+vendible <> w: 199217
+vending machine <> w: 199219
+vendor <> w: 199221, p: [37107, 50629]
+veneer <> w: 199223, p: [54523]
+venerable <> w: 199226, p: [45375]
+venerate <> w: 199228, p: [58802]
+veneration <> w: 199230
+venereal <> w: 199232
+venereal disease <> w: 199233
+venereology <> w: 210007
+venetian blind <> p: [19452]
+vengeance <> w: 199251
+vengeful <> w: 199252
+venial <> w: 199255
+venison <> w: 199261, p: [32126]
+venom <> w: 199267, p: [20625]
+venomous <> w: 199269, p: [23911]
+venomously <> w: 199271
+venous <> w: 199273
+vent <> w: 199280, p: [42582, 51100]
+venter <> w: 199284, p: [50633]
+ventilate <> w: 199286
+ventilated <> w: 199287
+ventilation <> w: 199289, p: [17779]
+ventilator <> w: 199292, p: [25799]
+ventrally <> w: 199303
+ventricle <> w: 199304, p: [30455, 30419]
+ventricular <> w: 199307
+ventriloquism <> w: 199313
+ventriloquist <> w: 199314
+venture <> w: 199317, p: [47817, 59610]
+venturesome <> w: 199322, p: [27285]
+venturous <> w: 199326, p: [27285]
+venue <> w: 199327
+venule <> w: 199329
+veracious <> w: 199346
+veracity <> w: 199347
+veranda <> w: 199349, p: [18103]
+verb <> w: 199354
+verbal <> w: 199356
+verbal noun <> w: 199361
+verbalize <> w: 199368
+verbally <> w: 199371
+verbatim <> w: 199377, p: [50084]
+verbiage <> w: 199386
+verbose <> w: 199389, p: [49894]
+verbosely <> w: 199390, p: [49894]
+verbosity <> w: 199392
+verboten <> w: 199393
+verdant <> w: 199397
+verdict <> w: 199401, p: [20694]
+verdigris <> w: 199402, p: [38475]
+verdin <> w: 199403
+verdure <> w: 199406, p: [17617]
+verge <> w: 199408
+veridical <> w: 199504, p: [60716]
+verifiable <> w: 199505
+verification <> w: 199506
+verify <> w: 199510, p: [55345]
+verisimilitude <> w: 199514
+verismo <> w: 220197
+veritable <> w: 199515
+verity <> w: 199516
+vermicelli <> w: 199519, p: [31297]
+vermilion <> w: 199530, p: [39427]
+vermin <> w: 199534, p: [30798]
+vermouth <> w: 199540
+vernacular <> w: 199541
+vernal <> w: 199543, p: [60642]
+vers <> w: 366220
+versatile <> w: 199587
+versatility <> w: 199588
+verse <> w: 199589
+versed <> w: 199592
+version <> w: 199597, p: [32492]
+verso <> w: 199598
+versus <> w: 208553
+vertebra <> w: 199600, p: [17771]
+vertebral <> w: 199601, p: [17771]
+vertebral column <> p: [17771]
+vertebrate <> w: 199608, p: [40233]
+vertex <> w: 199611
+vertical <> w: 199613, p: [22915]
+vertically <> w: 199629, p: [48459]
+vertiginous <> w: 199636, p: [60023]
+vertigo <> w: 199637, p: [60023]
+verve <> w: 199642
+very <> w: 199646, p: [43466]
+very well <> p: [47440]
+vesication <> w: 199669
+vesicle <> w: 199671
+vesiculation <> w: 199678
+vessel <> w: 199701, p: [49508]
+vest <> w: 199702, p: [50976, 34325, 59184]
+vested interest <> w: 199708
+vestibule <> w: 199717, p: [18161]
+vestige <> w: 199721
+vestigial <> w: 199722
+vestment <> w: 199724
+vet <> w: 199735, p: [53274]
+veteran <> w: 199739
+veterinarian <> w: 199744, p: [50667]
+veterinary <> w: 199745, p: [50667]
+veterinary surgeon <> w: 199748, p: [50667]
+veto <> w: 199751, p: [58619]
+vex <> w: 199752, p: [20259]
+vexation <> w: 199753, p: [52145]
+vexatious <> w: 199754, p: [46127]
+vexed <> w: 199757
+vexing <> w: 199759, p: [46127]
+vhs <> w: 221208
+vi <> w: 199762, p: [35950]
+via <> w: 210171
+viability <> w: 199764
+viable <> w: 199765, p: [17453]
+viaduct <> w: 199766
+vial <> w: 199768
+viands <> w: 199770
+vibe <> w: 199776, p: [52021]
+vibes <> w: 199777, p: [28239]
+vibrancy <> w: 199782
+vibrant <> w: 199783, p: [31452]
+vibrantly <> w: 225442, p: [23047]
+vibraphone <> w: 199784, p: [28239]
+vibrate <> w: 199786, p: [46904]
+vibration <> w: 199788
+vibrational <> w: 199789
+vibrato <> w: 199790
+viburnum <> w: 199799
+vic <> w: 366834
+vicar <> w: 199806, p: [51616]
+vicarious <> w: 199813
+vice <> w: 199818
+vice president <> w: 199827
+vice versa <> w: 199830
+viceroy <> w: 199837
+vichyssoise <> w: 199842, p: [38415]
+vicinity <> w: 199851
+vicious <> w: 199852, p: [27283]
+vicious circle <> w: 199853
+viciously <> w: 199855, p: [19414]
+vicissitude <> w: 199857
+victim <> w: 199861, p: [31616]
+victimization <> w: 199866
+victimize <> w: 199867, p: [59379]
+victor <> w: 199871, p: [14083]
+victoria <> w: 200009
+victorious <> w: 200024, p: [28465]
+victory <> w: 200026, p: [18828]
+victuals <> w: 200035
+vicuna <> w: 200038, p: [40091]
+video <> w: 200044, p: [17795]
+video camera <> w: 221177
+video game <> w: 200048, p: [49469]
+video jockey <> w: 209045
+video recording <> p: [17795]
+videodisc <> w: 200053, p: [15547]
+videophone <> w: 208587
+vie <> w: 200057, p: [61264]
+vietnamese <> w: 200068, p: [36567, 39253, 39253]
+view <> w: 200070, p: [17611, 17611, 48665, 22363]
+viewer <> w: 200075, p: [19190]
+viewership <> w: 209116
+viewfinder <> w: 200077
+viewgraph <> w: 200078
+viewing <> w: 200079
+viewpoint <> w: 200082
+vigil <> w: 200086
+vigilance <> w: 200089
+vigilant <> w: 200092, p: [44252]
+vigilante <> w: 200093
+vigilantly <> w: 200095, p: [49720]
+vignette <> w: 200105
+vigor <> w: 200106
+vigorous <> w: 200108
+vigorously <> w: 200109, p: [49704]
+vii <> w: 200111, p: [35952, 35952]
+viii <> w: 200112, p: [35954, 35954]
+viking <> w: 200113
+vile <> w: 200118, p: [28732]
+vilification <> w: 200122
+vilify <> w: 200124
+villa <> w: 200126, p: [21080, 21080]
+village <> w: 200129, p: [17151]
+villager <> w: 200131
+villain <> w: 200133, p: [19797]
+villainous <> w: 200136, p: [60262]
+villus <> w: 200144
+vinaigrette <> w: 200155, p: [35208]
+vincible <> w: 200168
+vindaloo <> w: 209267, p: [31251]
+vindicate <> w: 200170, p: [55158]
+vindicatory <> w: 200174
+vindictive <> w: 200175, p: [49542]
+vine <> w: 200178, p: [21939]
+vinegar <> w: 200182, p: [21318]
+vinegary <> w: 200193
+vinery <> w: 200194, p: [19177]
+vineyard <> w: 200195, p: [19177]
+vino <> w: 200202, p: [18365]
+vintage <> w: 200206
+vinyl <> w: 200209, p: [16045]
+viol <> w: 200219, p: [51822]
+viola <> w: 200220, p: [51822]
+violate <> w: 200243, p: [46511]
+violation <> w: 200245
+violator <> w: 200247
+violence <> w: 200248, p: [20934]
+violent <> w: 200249, p: [60264, 54374]
+violently <> w: 200254, p: [22103]
+violet <> w: 200255, p: [21961, 47833]
+violin <> w: 200271, p: [51822]
+violinist <> w: 200277, p: [18511]
+violoncello <> w: 200280, p: [18441]
+viper <> w: 200286, p: [23745]
+virago <> w: 200296
+viral <> w: 200297, p: [16226]
+virgin <> w: 200321
+virgule <> w: 200364
+viridian <> w: 208509, p: [38477]
+virile <> w: 200368
+virion <> w: 200377
+virology <> w: 200503
+virtu <> w: 200504
+virtual <> w: 200505
+virtual reality <> w: 200508
+virtually <> w: 200510
+virtue <> w: 200511
+virtuosity <> w: 200512
+virtuoso <> w: 200513, p: [49948]
+virtuous <> w: 200514, p: [60384]
+virtuously <> w: 200515
+virulence <> w: 200519
+virulent <> w: 200521
+virus <> w: 200523, p: [16226]
+visa <> w: 200528, p: [49999]
+visage <> w: 200529, p: [60750, 60750]
+viscacha <> w: 200534, p: [40093]
+viscera <> w: 200535, p: [50715]
+visceral <> w: 200536
+viscid <> w: 200542
+viscosity <> w: 200557
+viscount <> w: 200558
+viscous <> w: 200566, p: [46221]
+vise <> w: 200571, p: [41744]
+visibility <> w: 200575
+visible <> w: 200576, p: [28644]
+visibly <> w: 200584, p: [49634]
+vision <> w: 200586, p: [18531]
+visionary <> w: 200588, p: [61168]
+visit <> w: 200589, p: [49141, 19665, 17809, 36880, 19665, 49141]
+visit with <> p: [23471]
+visiting <> w: 200593
+visitor <> w: 200598, p: [15855]
+visor <> w: 200600, p: [25204]
+vista <> w: 200602, p: [17611]
+visual <> w: 200606, p: [29072]
+visual arts <> w: 208810, p: [23861]
+visualisation <> w: 200634
+visualize <> w: 200639, p: [28073]
+visually <> w: 200642, p: [49722]
+visually impaired <> p: [23685]
+vital <> w: 200647, p: [45850]
+vitality <> w: 200659
+vitally <> w: 200664
+vitamin <> w: 200667, p: [30926]
+vitiate <> w: 200698
+viticulture <> w: 200701
+vitiligo <> w: 200705
+vitreous <> w: 200711
+vitriol <> w: 200720
+vitriolic <> w: 200721
+vituperation <> w: 200728
+vituperative <> w: 200729
+viva <> w: 200733, p: [17523]
+viva voce <> w: 200735
+vivace <> w: 200736
+vivacious <> w: 200737
+vivacity <> w: 200739
+vivid <> w: 200751, p: [31452]
+vividly <> w: 200752
+vivify <> w: 200756
+viviparous <> w: 200757
+vivisection <> w: 200760
+vixen <> w: 200762, p: [50078]
+vizor <> w: 200769
+vocable <> w: 200787
+vocabulary <> w: 200788
+vocal <> w: 200789
+vocal cords <> w: 200791
+vocalisation <> w: 200796, p: [26198]
+vocalise <> w: 200797
+vocalism <> w: 200799, p: [26198]
+vocalist <> w: 200800, p: [50595]
+vocalization <> w: 200801, p: [26198]
+vocalize <> w: 200802, p: [26198]
+vocally <> w: 200805
+vocation <> w: 200806
+vocational <> w: 200807
+vocative <> w: 200815
+vociferate <> w: 200817
+vociferous <> w: 200820, p: [49636]
+vociferously <> w: 200821, p: [49636]
+vocoder <> w: 219833
+vodka <> w: 200822, p: [50401]
+vogue <> w: 200825, p: [33960]
+voguish <> w: 200826, p: [33995]
+voice <> w: 200828, p: [26198, 27524, 55318]
+voice box <> w: 200829, p: [30373]
+voiced <> w: 200835
+voicemail <> w: 200840, p: [29916]
+void <> w: 200844, p: [28413, 53429, 14958]
+voila <> w: 225706, p: [48395]
+vol-au-vent <> p: [37912]
+volant <> w: 201005
+volatile <> w: 201009
+volcanic <> w: 201020
+volcano <> w: 201027, p: [51100]
+volcanology <> w: 201029
+vole <> w: 201030, p: [24344]
+volition <> w: 201035
+volitional <> w: 201036
+volitionally <> w: 201037
+volley <> w: 201040
+volleyball <> w: 201041, p: [60786, 51276]
+volt <> w: 201046
+volta <> w: 201048
+voltage <> w: 201049
+volte-face <> w: 201061
+voltmeter <> w: 201062
+voluble <> w: 201064
+volume <> w: 201066, p: [23251, 21386]
+voluminous <> w: 201076
+volumize <> w: 208455, p: [26136]
+voluntarily <> w: 201080, p: [49686]
+voluntary <> w: 201081, p: [49686]
+volunteer <> w: 201083, p: [49686]
+volunteering <> w: 218534
+voluptuous <> w: 201086, p: [29206]
+volute <> w: 201089, p: [31502]
+voluted <> w: 201091, p: [31502]
+volvulus <> w: 201104
+vomit <> w: 201107, p: [26300]
+voodoo <> w: 201126
+voracious <> w: 201128, p: [39143]
+voraciously <> w: 201129, p: [39143]
+vortex <> w: 201132
+votary <> w: 201136
+vote <> w: 201137, p: [20792, 20792]
+voter <> w: 201144
+voting <> w: 201146, p: [20792]
+votive <> w: 201155
+voucher <> w: 201159, p: [37146, 17509]
+vouchsafe <> w: 201160, p: [59074]
+voussoir <> w: 201162
+vow <> w: 201164, p: [51498, 51498]
+vowel <> w: 201165
+vox <> w: 201174, p: [26198]
+voyage <> w: 201178, p: [51516, 51516]
+voyager <> w: 201179
+vulgar <> w: 201203, p: [49922]
+vulgarity <> w: 201210
+vulnerability <> w: 201216
+vulnerable <> w: 201217, p: [28275]
+vulture <> w: 201229, p: [25080]
+vulva <> w: 201232

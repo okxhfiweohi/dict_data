@@ -1,0 +1,57 @@
+{
+    "collins": {
+        "start": "a",
+        "end": "aye",
+        "total": 819
+    },
+    "explain": {
+        "start": "a",
+        "end": "anthologists",
+        "total": 5000
+    },
+    "explain__1": {
+        "start": "anthologize",
+        "end": "azygous",
+        "total": 3594
+    },
+    "phonetic": {
+        "start": "a",
+        "end": "atap",
+        "total": 5000
+    },
+    "phonetic__1": {
+        "start": "ataractic",
+        "end": "azygous",
+        "total": 759
+    },
+    "exchange": {
+        "start": "A-bomb",
+        "end": "azulejos",
+        "total": 4099
+    },
+    "bnc": {
+        "start": "a",
+        "end": "azure",
+        "total": 2787
+    },
+    "freq": {
+        "start": "a",
+        "end": "azure",
+        "total": 2554
+    },
+    "redirect": {
+        "start": "a-bombs",
+        "end": "azerbaijanis",
+        "total": 140
+    },
+    "lgk_id": {
+        "start": "a",
+        "end": "azure",
+        "total": 2015
+    },
+    "pos": {
+        "start": "a",
+        "end": "azure",
+        "total": 2518
+    }
+}

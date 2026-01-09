@@ -1,0 +1,2020 @@
+d <> w: 46572, p: [30650]
+dab <> w: 46590, p: [54288, 24635]
+dab hand <> w: 212837, p: [42364]
+dabble <> w: 46592, p: [48779]
+dabchick <> w: 46596
+dachshund <> w: 46605, p: [24120]
+dad <> w: 46642, p: [60849]
+dada <> w: 46643, p: [25371, 60849]
+daddy <> w: 46645, p: [60849]
+daddy longlegs <> w: 46646, p: [25235, 30632]
+daemon <> w: 46652, p: [27509]
+daffodil <> w: 46654, p: [21913]
+dagger <> w: 46668, p: [29781]
+dahlia <> w: 46678, p: [29812]
+daikon <> w: 46682, p: [26690]
+daily <> w: 46685, p: [45641]
+daimon <> w: 46691, p: [27509]
+daintily <> w: 46692
+dainty <> w: 46694, p: [34011]
+daiquiri <> w: 46695
+dairy <> w: 46697, p: [27151]
+dairy cattle <> w: 46698, p: [39809]
+dais <> w: 46707, p: [35641]
+daisy <> w: 46709, p: [21915]
+dal <> w: 46728
+dale <> w: 46738, p: [51302]
+dalliance <> w: 46749, p: [19600]
+dally <> w: 46753, p: [19600]
+dalmatian <> w: 46757, p: [24122]
+dam <> w: 46767, p: [19202]
+damage <> w: 46771, p: [18882, 18882]
+damaged <> w: 46773
+damaging <> w: 46775, p: [23093]
+damask <> w: 46783
+dame <> w: 46787
+dammit <> w: 225926, p: [48183]
+damn <> w: 46813, p: [46191, 52109]
+damning <> w: 46819
+damp <> w: 46828, p: [45511]
+damp squib <> p: [45840]
+dampen <> w: 46831, p: [47454]
+dampener <> w: 46832
+damper <> w: 46834, p: [30219]
+dampish <> w: 46838, p: [18459]
+dampness <> w: 46840
+damsel <> w: 46841, p: [60869]
+damselfly <> w: 46843, p: [25237]
+damson <> w: 46844, p: [26676]
+dance <> w: 46855, p: [51640, 51640]
+dance floor <> p: [51492]
+dance hall <> w: 46858, p: [28596]
+dancer <> w: 46868, p: [26800, 17040]
+dancing <> w: 46870, p: [51640]
+dandelion <> w: 46875, p: [51130]
+dander <> w: 46877
+dandle <> w: 46883
+dandruff <> w: 46885, p: [30239]
+dandy <> w: 46886, p: [17891]
+dang <> w: 225918, p: [46191]
+danger <> w: 46893, p: [28636]
+dangerous <> w: 47003, p: [45962]
+dangerously <> w: 47005, p: [49217]
+dangle <> w: 47008
+dangler <> w: 221917
+dank <> w: 47034
+dap <> w: 366310
+daphne <> w: 47055
+dapper <> w: 47062, p: [27564]
+dapple <> w: 47064, p: [26533]
+dappled <> w: 47067
+dare <> w: 47084
+daredevil <> w: 47085, p: [19262, 19262]
+daresay <> w: 228961
+daring <> w: 47093, p: [60278]
+daringly <> w: 47094
+dark <> w: 47100, p: [17319, 47845, 60610, 17319, 48493]
+dark chocolate <> p: [50343]
+dark glasses <> p: [40609]
+dark horse <> p: [40637]
+darken <> w: 47129, p: [54808, 54808]
+darkened <> w: 47130
+darkling beetle <> p: [36375]
+darkly <> w: 47136, p: [17319]
+darkness <> w: 47137, p: [17319, 14536]
+darkroom <> w: 47138
+darling <> w: 47139
+darn <> w: 47147, p: [37379, 37379, 46191]
+darning <> w: 47151
+dart <> w: 47158, p: [22339]
+dartboard <> w: 47162, p: [23887]
+darter <> w: 47163
+darts <> w: 47166, p: [18617]
+dash <> w: 47175, p: [22339, 22674, 27467]
+dashboard <> w: 47179, p: [35720]
+dasheen <> w: 47181, p: [26375, 26375]
+dashing <> w: 47184, p: [60516]
+dassie <> w: 47189, p: [24186]
+dastard <> w: 47190
+dastardly <> w: 47192
+data <> w: 47211, p: [61184, 61184]
+data processing <> w: 47227
+database <> w: 47233
+datable <> w: 47236
+date <> w: 47237, p: [22520, 21282, 50449, 22520]
+datebook <> w: 228492
+dated <> w: 47251, p: [17447]
+dateline <> w: 47253
+datum <> w: 47260
+daub <> w: 47266, p: [54424]
+daughter <> w: 47276, p: [60841]
+daughter-in-law <> w: 47277, p: [29060]
+daunt <> w: 47281, p: [46410]
+daunted <> w: 47282, p: [46125]
+daunting <> w: 47283
+dauntless <> w: 47285, p: [19262]
+dauntlessly <> w: 47286
+davenport <> w: 47296, p: [42072]
+daw <> w: 47341, p: [24787]
+dawdle <> w: 47343
+dawn <> w: 47347
+day <> w: 47354, p: [51576, 48049]
+day and night <> p: [43979]
+day off <> p: [37310]
+day return <> w: 47508, p: [17325]
+day room <> w: 218385
+day school <> w: 47509
+day trip <> w: 210095, p: [17471]
+day-to-day <> w: 47359
+daybreak <> w: 47516
+daycare <> w: 47517
+daydream <> w: 47518, p: [44974]
+daydreaming <> w: 47520
+daylight <> w: 47524, p: [48049]
+daylight robbery <> p: [41876]
+daypack <> w: 216635, p: [18371]
+dayroom <> w: 366540
+daytime <> w: 47536, p: [48049]
+dazed <> w: 47542
+dazzle <> w: 47544, p: [48057]
+dazzling <> w: 47546, p: [45497]
+dazzlingly <> w: 47547, p: [49740]
+dc <> w: 47551
+de jure <> w: 47583
+de rigueur <> w: 47593
+de-ice <> w: 47568, p: [32736]
+deactivate <> w: 47604, p: [59505]
+deactivation <> w: 47605
+dead <> w: 47606, p: [17775, 51392, 51206, 17775, 45730]
+dead duck <> p: [40873]
+dead end <> w: 47622, p: [40875]
+dead heat <> w: 47625
+dead in the water <> p: [41148]
+dead loss <> p: [40835, 40949]
+dead set <> p: [42916]
+deadbolt <> w: 47645, p: [32688]
+deaden <> w: 47646
+deadened <> w: 47647
+deadening <> w: 47648
+deadline <> w: 47652
+deadlock <> w: 47654
+deadlocked <> w: 47655
+deadly <> w: 47656, p: [23093]
+deadpan <> w: 47660, p: [39875]
+deaf <> w: 47664, p: [28624, 28624]
+deaf-aid <> w: 47665, p: [33336]
+deafen <> w: 47673, p: [59238]
+deafening <> w: 47675
+deafness <> w: 47676, p: [28624]
+deal <> w: 47677, p: [20770, 31831, 20770, 26806]
+deal with <> p: [43614]
+dealer <> w: 47679, p: [20679, 31833]
+dealership <> w: 47680
+dealing <> w: 229235
+dean <> w: 47690
+dear <> w: 47697, p: [48925, 28329]
+dearly <> w: 47700, p: [48925, 48925]
+dearth <> w: 47703
+death <> w: 47705, p: [17775]
+death penalty <> w: 47724
+death squad <> w: 47728
+deathly <> w: 47738
+deathwatch <> w: 47741, p: [25922]
+debacle <> w: 47744
+debase <> w: 47749
+debasing <> w: 47753
+debatable <> w: 47754, p: [46181]
+debate <> w: 47755, p: [20936, 20936]
+debauch <> w: 47757
+debauched <> w: 47758
+debauchery <> w: 47761
+debenture <> w: 47762
+debilitate <> w: 47765, p: [40839]
+debilitated <> w: 47766
+debilitating <> w: 47767
+debilitative <> w: 47769
+debility <> w: 47770
+debit <> w: 47771
+debit card <> w: 47772, p: [17499]
+debonair <> w: 47776, p: [18455]
+debone <> w: 47778
+debris <> w: 47785
+debt <> w: 47789, p: [18663, 18663]
+debtor <> w: 47793
+debug <> w: 47794, p: [59814]
+debugger <> w: 47795
+debunk <> w: 47796, p: [59357]
+debunking <> w: 47797
+debut <> w: 47799, p: [52417]
+debutant <> w: 208901
+debutante <> w: 47800
+decade <> w: 47804, p: [17358, 35982]
+decadence <> w: 47805
+decadent <> w: 47807, p: [60360]
+decaffeinated <> w: 209318
+decagon <> w: 47812, p: [25936]
+decahedron <> w: 47814, p: [25936]
+decalitre <> w: 47822
+decalogue <> w: 47823
+decamp <> w: 47826
+decant <> w: 48005
+decapitate <> w: 48008
+decapod <> w: 48011
+decastyle <> w: 222210
+decathlon <> w: 48027
+decay <> w: 48029, p: [29485]
+decayed <> w: 48031
+decease <> w: 48033, p: [17775, 17775]
+deceased <> w: 48034, p: [17775]
+deceit <> w: 48037
+deceitful <> w: 48038, p: [43714]
+deceitfulness <> w: 48040
+deceive <> w: 48041, p: [20117]
+deceiver <> w: 48042
+decelerate <> w: 48044, p: [21491]
+decency <> w: 48049
+decennium <> w: 48051, p: [17358]
+decent <> w: 48052, p: [42476, 48507]
+decentering <> w: 365613
+decently <> w: 48054, p: [46085]
+decentralize <> w: 48060
+decentralized <> w: 48061
+deception <> w: 48063, p: [19438]
+deceptive <> w: 48064, p: [22027]
+deceptively <> w: 48065, p: [46507]
+decide <> w: 48071, p: [27634]
+decided <> w: 48072
+decidedly <> w: 48073
+deciding <> w: 48074
+deciduous <> w: 48076, p: [31769]
+decimal <> w: 48084
+decimate <> w: 48097, p: [53519]
+decipher <> w: 48102, p: [44976]
+decision <> w: 48108, p: [27634, 27634]
+decisive <> w: 48112
+decisively <> w: 48114, p: [48979]
+deck <> w: 48117, p: [37330, 26806, 51084, 30267, 26236, 20187]
+deck shoe <> p: [25030]
+declaim <> w: 48130
+declamation <> w: 48131
+declamatory <> w: 48132
+declaration <> w: 48134
+declarative <> w: 48137
+declare <> w: 48142, p: [49938]
+declared <> w: 48144
+declarer <> w: 48145
+declassify <> w: 48148
+declension <> w: 48150
+decline <> w: 48152, p: [33057, 28035, 27295, 22943]
+declining <> w: 225578
+declivitous <> w: 48155
+declivity <> w: 48156
+decode <> w: 48165, p: [54615]
+decolonization <> w: 48174
+decompose <> w: 48184, p: [47384]
+decomposition <> w: 48185
+decompress <> w: 48190, p: [44294]
+decompression sickness <> w: 48193
+decongestant <> w: 48195
+deconstruction <> w: 48199
+decontaminate <> w: 48203, p: [59850]
+decor <> w: 48206, p: [28708]
+decorate <> w: 48207, p: [20187]
+decorating <> w: 228616
+decoration <> w: 48209, p: [20189, 39093]
+decorative <> w: 48211
+decorator <> w: 48214
+decorous <> w: 48215
+decorum <> w: 48220
+decoupage <> w: 48221
+decoy <> w: 48223
+decrease <> w: 48224, p: [27794, 60782, 27794]
+decreased <> w: 48225, p: [19610]
+decree <> w: 48228, p: [58049]
+decrement <> w: 48231, p: [55146]
+decrepit <> w: 48232
+decry <> w: 48241
+decrypt <> w: 48242
+decussate <> w: 48252
+dedicate <> w: 48255, p: [59068]
+dedicated <> w: 48256, p: [17155]
+dedication <> w: 48258
+deduce <> w: 48262, p: [46487]
+deduct <> w: 48264, p: [61248]
+deduction <> w: 48266, p: [23221, 19610]
+deductive <> w: 48267
+deed <> w: 48269
+deem <> w: 48276, p: [59474]
+deep <> w: 48278, p: [28445, 23095, 22995, 43532]
+deep-fried <> p: [20942]
+deep-fry <> p: [20942]
+deep-rooted <> w: 48291
+deep-seated <> w: 48294
+deepen <> w: 48314, p: [53256]
+deeply <> w: 48504, p: [43466]
+deepness <> w: 48505, p: [29727]
+deer <> w: 48508, p: [50166]
+deerhound <> w: 48523, p: [24124]
+deerstalker <> w: 48525, p: [36945]
+deface <> w: 48527
+defalcate <> w: 48529
+defamation <> w: 48532
+defamatory <> w: 48533
+defame <> w: 48534
+defamiliarization <> w: 221925
+default <> w: 48538, p: [59832]
+defeat <> w: 48545, p: [61046, 52129]
+defeated <> w: 48546, p: [39611]
+defecation <> w: 48550
+defect <> w: 48553
+defective <> w: 48556
+defector <> w: 48560
+defend <> w: 48573, p: [47292, 31689]
+defendant <> w: 48575
+defender <> w: 48576
+defenestrate <> w: 48580
+defense <> w: 48582, p: [31691]
+defenseless <> w: 48603
+defenseman <> w: 227391
+defensible <> w: 48607
+defensive <> w: 48608
+defer <> w: 48614, p: [53278]
+deference <> w: 48615
+deferential <> w: 48617
+deferentially <> w: 48618
+defiance <> w: 48625
+defiant <> w: 48626
+defiantly <> w: 48627, p: [46511]
+defibrillator <> w: 48630, p: [25709]
+deficiency <> w: 48632
+deficient <> w: 48634, p: [51390]
+deficit <> w: 48635
+defile <> w: 48638
+definable <> w: 48642
+define <> w: 48643, p: [55064]
+defined <> w: 48644
+defining <> w: 48645
+definite <> w: 48646
+definite article <> w: 48647
+definitely <> w: 48650, p: [43400]
+definition <> w: 48652
+definitive <> w: 48653
+definitively <> w: 225478
+deflate <> w: 48657, p: [54910]
+deflated <> w: 48658
+deflation <> w: 48659
+deflect <> w: 48663, p: [53581]
+defoliate <> w: 48673
+deforest <> w: 48677
+deforestation <> w: 48678, p: [21038]
+deform <> w: 48679, p: [46782]
+deformity <> w: 48683
+defraud <> w: 48684, p: [44676]
+defray <> w: 48686
+defrost <> w: 48690, p: [32736]
+deft <> w: 48692, p: [51092]
+deftly <> w: 48693, p: [49900]
+defunct <> w: 48695
+defuse <> w: 48697
+defy <> w: 48699, p: [59698]
+degeneracy <> w: 48704
+degenerate <> w: 48705
+degenerative <> w: 48707
+deglaze <> w: 48711, p: [37740]
+degradation <> w: 48715
+degrade <> w: 48716, p: [22658]
+degraded <> w: 48717
+degrading <> w: 48719
+degrease <> w: 48720, p: [37742]
+degree <> w: 48721, p: [23567, 29410, 23555]
+degust <> w: 48732, p: [27596]
+dehumanization <> w: 48742
+dehumidifier <> w: 48745, p: [42544]
+dehydrate <> w: 48747, p: [47452, 37966]
+dehydrated <> w: 48748, p: [37966]
+dehydration <> w: 48751
+deictic <> w: 48756
+deify <> w: 48760
+deign <> w: 48761
+deist <> w: 48768
+deity <> w: 48770
+deixis <> w: 48771
+deject <> w: 48773, p: [58206]
+dejected <> w: 48774, p: [42590]
+dejection <> w: 48777
+deke <> w: 226961
+delay <> w: 48798, p: [59578, 23123, 44236, 23123]
+delayed <> w: 48800, p: [23123]
+delectable <> w: 48806, p: [16023]
+delectation <> w: 48807
+delegacy <> w: 48808
+delegate <> w: 48809, p: [59912]
+delegating <> w: 48810
+delegation <> w: 48811
+delete <> w: 48812, p: [20163, 47638]
+deleterious <> w: 48813
+deletion <> w: 48814
+delhi <> w: 48817
+deli <> w: 48819, p: [29465]
+deliberate <> w: 48820, p: [49678, 42368]
+deliberately <> w: 49004, p: [49678]
+deliberation <> w: 49006
+delicacy <> w: 49011
+delicate <> w: 49012, p: [26397, 46099, 49952]
+delicately <> w: 49013, p: [49952]
+delicatessen <> w: 49014, p: [29465]
+delicious <> w: 49018, p: [16023]
+deliciously <> w: 49019, p: [49219]
+delight <> w: 49021, p: [52051, 47959]
+delight in <> p: [48063]
+delighted <> w: 49022, p: [23501]
+delightedly <> w: 49023
+delightful <> w: 49024, p: [17549]
+delightfully <> w: 49025, p: [52033]
+delightfulness <> w: 225503
+delimitation <> w: 49029, p: [37179]
+delineate <> w: 49031
+delineation <> w: 49033, p: [51330]
+delinquency <> w: 49035
+delinquent <> w: 49036
+deliquesce <> w: 49037
+delirious <> w: 49040
+delirium <> w: 49042
+delirium tremens <> w: 49043
+deliver <> w: 49046, p: [53674, 44372]
+deliverer <> w: 49050
+delivery <> w: 49051, p: [51470, 18694]
+deliveryman <> w: 49055, p: [51470]
+delouse <> w: 49062
+delta <> w: 49074
+deltoid <> w: 49082
+delude <> w: 49087, p: [47234]
+deluded <> w: 365529
+deluge <> w: 49088, p: [18479, 36315, 36315]
+delusion <> w: 49089
+delusional <> w: 49090
+delusive <> w: 49094
+deluxe <> w: 49097, p: [45844]
+delve <> w: 49098, p: [22670, 44842]
+demagnetize <> w: 49102
+demagogue <> w: 49106
+demand <> w: 49109, p: [23881, 23881]
+demanding <> w: 49118, p: [46265]
+demarcate <> w: 49121
+demarcation <> w: 49122
+demean <> w: 49131
+demeanor <> w: 49134
+demented <> w: 49137, p: [18091]
+dementedly <> w: 49138
+dementia <> w: 49140
+demerara <> w: 49142, p: [35218]
+demerit <> w: 49145
+demeter <> w: 49148
+demigod <> w: 49154
+demilitarize <> w: 49157
+demise <> w: 49166
+demitasse <> w: 49170, p: [50369]
+demobilize <> w: 49177
+democracy <> w: 49178
+democrat <> w: 49179
+democratic <> w: 49180, p: [28257]
+democratically <> w: 49189
+democratize <> w: 49193, p: [60087]
+demographic <> w: 49201, p: [27311, 27311]
+demography <> w: 49203
+demoiselle <> w: 49204, p: [60879]
+demolish <> w: 49205, p: [47736, 26628]
+demolition <> w: 49208
+demon <> w: 49209, p: [27509]
+demonetize <> w: 49214
+demonic <> w: 49218, p: [23489]
+demonstrable <> w: 49226
+demonstrably <> w: 49227
+demonstrate <> w: 49228, p: [43058, 19260]
+demonstration <> w: 49230, p: [19260]
+demonstrative <> w: 49231
+demonstrative pronoun <> w: 49233
+demonstrator <> w: 49236
+demoralize <> w: 49242, p: [58275]
+demoralized <> w: 49243
+demoralizing <> w: 49244
+demote <> w: 49247
+demotic <> w: 49248
+demotion <> w: 49250
+demotivate <> w: 228781
+demulcent <> w: 49252
+demur <> w: 49255, p: [52587]
+demure <> w: 49256
+demurrage <> w: 49259
+den <> w: 49271, p: [29376]
+denary <> w: 49277
+dendroid <> w: 49314
+dendrology <> w: 49317
+denial <> w: 49325
+denigrate <> w: 49502, p: [46726]
+denim <> w: 49507, p: [20511, 51454, 34837]
+denizen <> w: 49512
+denominate <> w: 49519, p: [58271]
+denomination <> w: 49520, p: [29038]
+denominator <> w: 49524
+denotation <> w: 49525
+denote <> w: 49528, p: [27888]
+denouement <> w: 49530
+denounce <> w: 49531, p: [55025]
+dense <> w: 49533, p: [28259, 24015, 17515]
+densely <> w: 49536, p: [49321]
+denseness <> w: 49537, p: [37684]
+densitometry <> w: 49541
+density <> w: 49542, p: [37684]
+dent <> w: 49543
+dental <> w: 49545
+dental floss <> w: 49553, p: [51804]
+dental hygienist <> w: 49555
+dental surgeon <> w: 49566, p: [50571]
+dented <> w: 49575
+dentifrice <> w: 49579
+dentil <> w: 222149
+dentist <> w: 49582, p: [50571]
+dentistry <> w: 49584, p: [50571]
+denture <> w: 49586, p: [31618]
+denude <> w: 49590, p: [58790]
+denunciation <> w: 49593
+deny <> w: 49597, p: [46720, 47442, 46820, 46436]
+deodorant <> w: 49600, p: [22935]
+deodorize <> w: 49602, p: [47654]
+depart <> w: 49624, p: [17847, 18595]
+departed <> w: 49625, p: [17775, 17775]
+department <> w: 49627
+department store <> w: 49666, p: [27045]
+departure <> w: 49669, p: [18595]
+departures <> w: 228422
+depend <> w: 49674, p: [61114]
+dependability <> w: 49677, p: [61114]
+dependable <> w: 49678, p: [19430]
+dependably <> w: 49680
+dependence <> w: 49685, p: [46483]
+dependency <> w: 49686, p: [46483]
+dependent <> w: 49687, p: [19410]
+dependent clause <> w: 49688
+depict <> w: 49701, p: [27586]
+depiction <> w: 49705, p: [51330, 51330]
+depilator <> w: 49710, p: [26108]
+depilatory <> w: 49711, p: [29854, 29854]
+deplane <> w: 49713
+deplete <> w: 49715, p: [27790]
+depleted <> w: 49716
+depletion <> w: 49717
+deplorable <> w: 49718
+deplorably <> w: 49719, p: [19380]
+deplore <> w: 49720, p: [52323]
+deploy <> w: 49721, p: [54561]
+deponent <> w: 49731
+depopulate <> w: 49732
+deport <> w: 49735, p: [58006]
+deportation <> w: 49736
+deportment <> w: 49738
+depose <> w: 49739, p: [59880]
+deposit <> w: 49741, p: [54605]
+deposition <> w: 49745
+depositor <> w: 49746
+depository <> w: 49747
+depot <> w: 49750, p: [18059, 49548]
+deprave <> w: 49752
+depraved <> w: 49753
+depravity <> w: 49754
+deprecate <> w: 49755
+deprecatory <> w: 49760
+depreciate <> w: 49761
+depreciation <> w: 49763
+depredation <> w: 49770
+depress <> w: 49771, p: [48061]
+depressant <> w: 49772
+depressed <> w: 49773, p: [42592]
+depressing <> w: 49775, p: [52047]
+depressingly <> w: 49776, p: [52047]
+depression <> w: 49777, p: [42592]
+depressive <> w: 49778, p: [52047]
+deprivation <> w: 49785, p: [19334]
+deprive <> w: 49786, p: [26395, 26395]
+deprived <> w: 49787
+depth <> w: 49788, p: [29727]
+depths <> w: 49795
+deputation <> w: 49796
+deputy <> w: 49800, p: [21066]
+deracinate <> w: 49803, p: [22796]
+derail <> w: 49805, p: [46766]
+deranged <> w: 49809
+derangement <> w: 49810
+derby <> w: 49812, p: [25607, 34474]
+deregulate <> w: 49816
+deregulation <> w: 49818
+deregulatory <> w: 209836
+derelict <> w: 49819
+dereliction <> w: 49820
+deride <> w: 49823
+derision <> w: 49824
+derisively <> w: 49826, p: [50035]
+derivation <> w: 49830
+derivational <> w: 50002
+derivative <> w: 50004
+derive <> w: 50006, p: [27892]
+derive from <> p: [53495]
+dermabrasion <> w: 50011
+dermatitis <> w: 50016
+dermatologist <> w: 50023
+dermatology <> w: 50024
+dermatomyositis <> w: 50027
+dermis <> w: 50033
+derogation <> w: 50040
+derogatory <> w: 50042
+derrick <> w: 50043
+derriere <> w: 50045, p: [33467]
+derring-do <> w: 50046
+desalination <> w: 50057
+descant <> w: 50064
+descant recorder <> p: [27542]
+descend <> w: 50067, p: [22335]
+descend to <> p: [42630]
+descendant <> w: 50068
+descender <> w: 50071
+descending <> w: 50072
+descent <> w: 50078
+describe <> w: 50080, p: [27586]
+description <> w: 50082
+descriptive <> w: 50083
+descriptor <> w: 50092
+descry <> w: 50093, p: [58671]
+desecrate <> w: 50096
+desecration <> w: 50098
+deseed <> w: 219587, p: [37794]
+desegregation <> w: 50101
+desert <> w: 50112, p: [20327, 26302, 26978]
+desert boot <> p: [34417]
+desert rat <> p: [34369]
+deserted <> w: 50134, p: [46093, 20323]
+deserve <> w: 50139, p: [43494]
+deserved <> w: 50140, p: [49954]
+deservedly <> w: 50141, p: [49954]
+deserving <> w: 50142
+desiccant <> w: 50148
+desiccate <> w: 50149, p: [37966]
+desiccated <> w: 50150, p: [37966]
+desideratum <> w: 50152
+design <> w: 50154, p: [51680, 52305, 59488, 51680, 18383, 51682]
+designate <> w: 50156, p: [59916]
+designated <> w: 365701
+designated hitter <> w: 50158
+designation <> w: 50159
+designed <> w: 50162
+designedly <> w: 50163
+designer <> w: 50164, p: [50499, 50493, 16362, 51931]
+designing <> w: 50166, p: [51680]
+desirable <> w: 50169, p: [45902]
+desire <> w: 50171, p: [48807, 19376]
+desired <> w: 50173
+desist <> w: 50175, p: [28037]
+desk <> w: 50176, p: [17381]
+desk clerk <> w: 50178, p: [29725]
+desktop <> w: 50185, p: [20193]
+desolate <> w: 50203, p: [48061]
+desolately <> w: 50204, p: [44988]
+desolation <> w: 50205, p: [42592]
+despair <> w: 50209
+desperado <> w: 50213
+desperate <> w: 50214, p: [42620]
+desperately <> w: 50218, p: [49221, 49902]
+desperation <> w: 50219
+despicable <> w: 50221
+despise <> w: 50225, p: [48721]
+despised <> w: 50226, p: [17517]
+despite <> w: 50228
+despiteful <> w: 50229, p: [49542]
+despoil <> w: 50231
+despond <> w: 50238
+despondency <> w: 50240, p: [42592]
+despondent <> w: 50241
+despot <> w: 50243
+despotic <> w: 50244
+despotism <> w: 50246
+dessert <> w: 50249, p: [23843]
+destabilize <> w: 50260, p: [46992]
+destination <> w: 50266, p: [18551]
+destined <> w: 50268
+destiny <> w: 50269
+destitute <> w: 50270, p: [47761]
+destitution <> w: 50271, p: [19334]
+destroy <> w: 50273, p: [18882]
+destroyed <> w: 50275
+destruction <> w: 50282, p: [18882]
+destructive <> w: 50284, p: [45966]
+destructively <> w: 50288, p: [49750]
+desuetude <> w: 50290
+desultory <> w: 50293
+detach <> w: 50300, p: [47154]
+detachable <> w: 50301, p: [46382]
+detached <> w: 50302
+detail <> w: 50307, p: [47468]
+detailed <> w: 50309, p: [23697]
+detain <> w: 50312, p: [47472]
+detect <> w: 50315, p: [46487]
+detectable <> w: 50316, p: [49754]
+detection <> w: 50319
+detective <> w: 50320, p: [16318]
+detective story <> p: [22403]
+detention <> w: 50328, p: [20436]
+deter <> w: 50502, p: [59594]
+detergent <> w: 50506, p: [33410]
+deteriorate <> w: 50508, p: [52675]
+determinant <> w: 50512
+determinate <> w: 50513
+determination <> w: 50515, p: [27634]
+determine <> w: 50517, p: [59490, 27634]
+determined <> w: 50518, p: [17869]
+determiner <> w: 50520
+determining <> w: 50521
+determinism <> w: 50523
+deterministic <> w: 50525
+deterrent <> w: 50527
+detest <> w: 50530, p: [52101]
+detestable <> w: 50531
+detestation <> w: 50533, p: [52101]
+detonate <> w: 50539, p: [19584, 18892]
+detour <> w: 50545
+detox <> w: 50546
+detoxification <> w: 50548
+detoxify <> w: 50549, p: [59335]
+detract <> w: 50550
+detract from <> p: [47953]
+detraction <> w: 50551
+detractor <> w: 50553
+detrain <> w: 50554
+detriment <> w: 50561
+detrimental <> w: 50562, p: [23093]
+detrition <> w: 50564, p: [35900]
+detritivore <> w: 227112
+detritus <> w: 50565
+detumescence <> w: 50568
+deuce <> w: 50570, p: [35970]
+deucedly <> w: 50573
+deuces <> w: 367553
+deuteragonist <> w: 221946
+devalue <> w: 50590
+devastate <> w: 50594, p: [46585]
+devastated <> w: 211830, p: [20213]
+devastating <> w: 50595
+devastatingly <> w: 225430, p: [47801]
+devastation <> w: 50596
+develop <> w: 50598, p: [61064, 47282]
+developed <> w: 50599
+developer <> w: 50600
+developing <> w: 50601
+development <> w: 50603, p: [61278, 23425]
+developmental <> w: 50604
+developmentally <> w: 50609
+deviance <> w: 50613
+deviant <> w: 50614, p: [46219]
+deviate <> w: 50615, p: [48893, 46946]
+deviation <> w: 50618
+device <> w: 50621, p: [32006, 49820]
+devil <> w: 50625, p: [23599, 20259]
+devil's food cake <> w: 50634, p: [37734]
+devilfish <> w: 50651, p: [17991]
+devilishly <> w: 50654, p: [42016]
+devilled <> w: 219617
+devilry <> w: 50657
+deviltry <> w: 50658
+devious <> w: 50660
+devise <> w: 50664, p: [61204]
+devitalize <> w: 50672
+devoid <> w: 50675
+devolve <> w: 50678
+devote <> w: 50686, p: [59112]
+devoted <> w: 50687, p: [27305]
+devotee <> w: 50690
+devotion <> w: 50691
+devour <> w: 50693, p: [47254]
+devout <> w: 50696, p: [23583]
+devoutly <> w: 50697, p: [49355]
+dew <> w: 50700, p: [31871]
+dewater <> w: 365417
+dewberry <> w: 50705, p: [50455]
+dexterity <> w: 50721
+dexterous <> w: 50722, p: [49900]
+dexterously <> w: 50723
+dextrose <> w: 50735
+dhole <> w: 50751, p: [34027]
+diabetes <> w: 50764, p: [31562]
+diabetic <> w: 50767, p: [31562, 31562]
+diabolic <> w: 50773, p: [23489, 27283]
+diabolical <> w: 50774, p: [23489]
+diabolically <> w: 50775
+diabolo <> w: 220789
+diachronic <> w: 50782
+diacritic <> w: 50785
+diacritical <> w: 50786
+diagenesis <> w: 225076
+diagnose <> w: 50795, p: [23649]
+diagnosis <> w: 50797, p: [23649]
+diagnostic <> w: 50798
+diagnostics <> w: 50805
+diagonal <> w: 50806, p: [25940, 48811, 25940]
+diagonally <> w: 50813, p: [48811]
+diagram <> w: 50814, p: [37037]
+diagrammatically <> w: 50817, p: [50126]
+dial <> w: 50820, p: [35836]
+dial-in <> p: [42992]
+dialect <> w: 50823
+dialectal <> w: 50826
+dialectic <> w: 51002
+dialectical <> w: 51003
+dialectician <> w: 51006
+dialectology <> w: 51008
+dialogue <> w: 51013
+diamante <> w: 51023, p: [25473]
+diameter <> w: 51025, p: [31488]
+diametric <> w: 51027
+diametrical <> w: 51028
+diamond <> w: 51032, p: [25319, 22814, 22814, 14584, 33757]
+diamond in the rough <> w: 219749, p: [42184]
+diamondback <> w: 51041
+diaper <> w: 51064, p: [33434]
+diaphanous <> w: 51067, p: [29876]
+diaphragm <> w: 51073, p: [32046]
+diaphragmatic <> w: 224415
+diarist <> w: 51084
+diarrhea <> w: 51085
+diary <> w: 51094, p: [20241]
+diatom <> w: 51108
+diatomic <> w: 51110
+diatonic scale <> w: 51114
+diatribe <> w: 51115
+diazepam <> w: 51117
+dibs <> w: 51133
+dice <> w: 51140, p: [26934, 26934, 20950]
+dichotomous <> w: 51162
+dichotomy <> w: 51164
+dick <> w: 51175
+dicker <> w: 51181, p: [46426]
+dicky <> w: 51193
+dictate <> w: 51218, p: [58115]
+dictation <> w: 51220
+dictator <> w: 51221
+dictatorially <> w: 51223
+dictatorship <> w: 51224
+diction <> w: 51225
+dictionary <> w: 51226, p: [14800]
+dictum <> w: 51230
+didactic <> w: 51239
+diddle <> w: 51246, p: [44676]
+didgeridoo <> w: 209008, p: [27544]
+dido <> w: 51261
+didy <> w: 229065
+die <> w: 51263, p: [17775, 26934]
+die off <> p: [20621]
+die out <> p: [20621, 54742]
+dielectric <> w: 51280, p: [31954]
+diesel <> w: 51291
+diet <> w: 51308, p: [32582, 17633, 31151]
+dietary <> w: 51309, p: [17633]
+dieter <> w: 51311, p: [31151]
+dietetics <> w: 51314
+dietician <> w: 51322, p: [17633]
+dietitian <> w: 51324, p: [17633]
+differ <> w: 51327, p: [47985]
+difference <> w: 51328, p: [26178]
+different <> w: 51332, p: [47795]
+differentia <> w: 51333
+differential <> w: 51335, p: [50005]
+differential calculus <> w: 51338
+differentially <> w: 51347, p: [50005]
+differentiate <> w: 51348, p: [48767]
+differentiation <> w: 51350
+differently <> w: 51352, p: [43564]
+differing <> w: 229559
+difficult <> w: 51353, p: [48609]
+difficulty <> w: 51355
+diffidence <> w: 51356, p: [52141]
+diffident <> w: 51357, p: [52141]
+diffraction <> w: 51361
+diffuse <> w: 51363, p: [59212]
+diffuser <> w: 51368
+diffusion <> w: 51371
+dig <> w: 51376, p: [22670, 22670]
+dig in <> p: [48579, 22670]
+dig into <> p: [44472]
+digest <> w: 51507, p: [59050, 48105]
+digestible <> w: 51510
+digestion <> w: 51512
+digestive <> w: 51513
+digestive biscuit <> w: 209210, p: [48637]
+digestive system <> w: 51517, p: [20727]
+digger <> w: 51520, p: [47372]
+digit <> w: 51526, p: [50677]
+digital <> w: 51527, p: [28355]
+digital camera <> w: 51532, p: [33711]
+digitally <> w: 51554, p: [50052]
+digitize <> w: 51566, p: [59763]
+diglossia <> w: 223549
+dignified <> w: 51569, p: [27564]
+dignify <> w: 51570
+dignitary <> w: 51572
+dignity <> w: 51573
+digraph <> w: 51576
+digress <> w: 51577
+digression <> w: 51578
+dik-dik <> p: [34256]
+dike <> w: 51591, p: [19202]
+diktat <> w: 209837
+dilapidate <> w: 51593, p: [29485]
+dilapidated <> w: 51594
+dilapidation <> w: 51595
+dilate <> w: 51598, p: [54692]
+dilatory <> w: 51604
+dilemma <> w: 51608, p: [32568]
+dilettante <> w: 51609
+diligence <> w: 51612, p: [17155]
+diligent <> w: 51613, p: [46436, 17155]
+diligently <> w: 51614, p: [42952]
+dill <> w: 51615, p: [31279]
+dill pickle <> w: 51616, p: [19118]
+dilute <> w: 51631, p: [47294]
+dim <> w: 51636, p: [45515, 17515, 43602]
+dim sum <> p: [30990]
+dime <> w: 51642
+dime novel <> w: 51644
+dimension <> w: 51646, p: [38431]
+dimensional <> w: 51647
+diminish <> w: 51656, p: [27794]
+diminished <> w: 51657
+diminishment <> w: 225388
+diminuendo <> w: 51660
+diminution <> w: 51661
+diminutive <> w: 51662, p: [45521]
+dimly <> w: 51665, p: [44090]
+dimple <> w: 51676, p: [30016]
+dimpled <> w: 216772, p: [30016]
+din <> w: 51679
+dine <> w: 51683, p: [48641]
+dine out <> p: [23431]
+diner <> w: 51686, p: [51294, 37111]
+dinero <> w: 51687, p: [60778]
+ding <> w: 51690
+ding-dong <> w: 51691
+dinghy <> w: 51695, p: [36894]
+dingo <> w: 51699, p: [24106]
+dingy <> w: 51700
+dining car <> w: 51710, p: [37111]
+dining room <> w: 51713, p: [50797]
+dining table <> w: 51716, p: [50707]
+dinky <> w: 51720
+dinner <> w: 51721, p: [48641]
+dinner jacket <> w: 51726, p: [22001]
+dinner party <> w: 51729
+dinner service <> w: 51731, p: [26544]
+dinner table <> w: 51733
+dinner theater <> w: 51734, p: [31602]
+dinnerware <> w: 51737, p: [26544]
+dinosaur <> w: 51748, p: [23713]
+diode <> w: 51753, p: [31787]
+diorama <> w: 51780
+dioxin <> w: 51798
+dip <> w: 51799, p: [29440, 23009, 24026, 20850]
+dip into <> p: [46350]
+diphtheria <> w: 51807
+diphthong <> w: 51808
+diploma <> w: 51823, p: [29412]
+diplomacy <> w: 51824
+diplomat <> w: 51825
+diplomatic <> w: 51827
+diplomatically <> w: 51837
+diplomatist <> w: 51838
+dipole <> w: 52003
+dipper <> w: 52009, p: [24613, 50805, 47108]
+dipsomaniac <> w: 52017, p: [18291]
+dipstick <> w: 52020
+diptych <> w: 52031, p: [31365]
+dire <> w: 52038, p: [43432]
+direct <> w: 52040, p: [28357, 49708, 59882, 50581, 23779]
+direct debit <> w: 228861
+direct mail <> w: 52055
+direct object <> w: 52058
+direct speech <> w: 208729
+directed <> w: 52068
+direction <> w: 52072, p: [29040, 19166, 50581]
+directionless <> w: 52079, p: [49670]
+directive <> w: 52080
+directly <> w: 52083, p: [14434, 49708]
+director <> w: 52085, p: [40741, 50581, 18573]
+directorial <> w: 221316
+directory <> w: 52092
+dirge <> w: 52095
+dirndl <> w: 52100, p: [39725, 42924]
+dirt <> w: 52101, p: [51108]
+dirt bike <> w: 52103
+dirt cheap <> w: 52104, p: [28327]
+dirt poor <> w: 218588, p: [41808]
+dirtbag <> w: 218586
+dirty <> w: 52108, p: [60618]
+dis <> w: 229179
+disability <> w: 52128, p: [31564]
+disable <> w: 52134, p: [52576]
+disabled <> w: 52135, p: [31564, 31564]
+disablement <> w: 52136, p: [31564]
+disabuse <> w: 52138
+disaccharide <> w: 52141
+disadvantage <> w: 52143
+disadvantaged <> w: 52144, p: [45361]
+disadvantageously <> w: 52146
+disaffection <> w: 52149
+disagree <> w: 52152, p: [22271]
+disagree with <> p: [46169]
+disagreeable <> w: 52154
+disagreeably <> w: 52158
+disagreement <> w: 52159
+disallow <> w: 52160, p: [58589]
+disappear <> w: 52164, p: [27792]
+disappearance <> w: 52165
+disappearing act <> p: [44036]
+disappoint <> w: 52167, p: [46386]
+disappointed <> w: 52168, p: [46384]
+disappointing <> w: 52170, p: [46386]
+disappointingly <> w: 52171, p: [49626]
+disappointment <> w: 52172
+disapprobation <> w: 52173
+disapproval <> w: 52174
+disapprove <> w: 52175
+disapproving <> w: 52176
+disarm <> w: 52178, p: [48025]
+disarrange <> w: 52182
+disarray <> w: 52185, p: [61270]
+disarrayed <> w: 52186, p: [61270]
+disassemble <> w: 52188, p: [46565]
+disassociate <> w: 52190
+disaster <> w: 52193, p: [17603]
+disastrous <> w: 52195, p: [48831]
+disastrously <> w: 52196, p: [48831]
+disavow <> w: 52197
+disavowal <> w: 52199
+disband <> w: 52200
+disbar <> w: 52202, p: [52289]
+disbelief <> w: 52204
+disburden <> w: 52209
+disburse <> w: 52211, p: [59938]
+disc <> w: 52214, p: [15547]
+disc drive <> p: [37065]
+disc jockey <> w: 52220, p: [18501]
+discard <> w: 52226, p: [22347, 22347]
+discarded <> w: 52227
+discern <> w: 52230, p: [50003]
+discernible <> w: 52233
+discernibly <> w: 225470, p: [49285]
+discerning <> w: 52234, p: [42304]
+discharge <> w: 52237, p: [20932, 26359, 58273, 31741]
+disciple <> w: 52245
+disciplinary <> w: 52250
+discipline <> w: 52251, p: [58796, 31586]
+disciplined <> w: 52252, p: [51900]
+disclaim <> w: 52253
+disclose <> w: 52256, p: [58627]
+disclosed <> w: 52257
+disclosure <> w: 52258
+disco <> w: 52259, p: [51757, 28163, 51670]
+disco music <> p: [28163]
+discography <> w: 52264
+discolor <> w: 52268
+discombobulate <> w: 52275, p: [49594]
+discomfit <> w: 52278, p: [47953]
+discomfort <> w: 52281, p: [51600, 52031]
+disconcert <> w: 52289
+disconcerting <> w: 52291
+disconfirm <> w: 225355, p: [59910]
+disconfirming <> w: 52295, p: [32996]
+disconnect <> w: 52296, p: [45968, 32004, 29487]
+disconnected <> w: 52297, p: [45968]
+disconsolate <> w: 52300
+disconsolately <> w: 52301
+discontent <> w: 52303, p: [44856]
+discontented <> w: 52304
+discontinuance <> w: 52308
+discontinue <> w: 52310, p: [21278]
+discord <> w: 52505
+discordant <> w: 52507
+discotheque <> w: 52510, p: [51757]
+discount <> w: 52511, p: [52153, 19610, 19610]
+discountenance <> w: 52517
+discourage <> w: 52519, p: [53051]
+discouraged <> w: 52520, p: [45970]
+discouraging <> w: 52522
+discourse <> w: 52524
+discourteous <> w: 52525, p: [17545]
+discourteously <> w: 52526
+discover <> w: 52528, p: [61202, 52887]
+discovered <> w: 52530
+discoverer <> w: 52532, p: [61188]
+discovery <> w: 52533, p: [61202]
+discredit <> w: 52535, p: [46726]
+discreditably <> w: 52537
+discreet <> w: 52539, p: [59874]
+discreetly <> w: 52540, p: [28371]
+discrepancy <> w: 52542
+discrepant <> w: 52543
+discrete <> w: 52544
+discretely <> w: 226097, p: [29599]
+discretion <> w: 52546
+discriminate <> w: 52551, p: [45265]
+discriminating <> w: 52552
+discrimination <> w: 52553
+discriminatory <> w: 52557
+discursive <> w: 52558
+discursiveness <> w: 52560
+discus <> w: 52561
+discuss <> w: 52562, p: [60730]
+discussion <> w: 52564, p: [51502, 28121]
+disdain <> w: 52566
+disdainful <> w: 52567
+disease <> w: 52570, p: [16224]
+diseased <> w: 52573, p: [39779]
+disembark <> w: 52575
+disembodied <> w: 52580
+disenchanted <> w: 52588
+disencumber <> w: 52591
+disenfranchise <> w: 52592
+disenfranchisement <> w: 52594
+disengage <> w: 52595
+disengaged <> w: 225497
+disentangle <> w: 52597
+disfavor <> w: 52605, p: [46525]
+disfigure <> w: 52608
+disforestation <> w: 52613, p: [21038]
+disgorge <> w: 52618, p: [26300]
+disgrace <> w: 52620, p: [47869]
+disgraceful <> w: 52622
+disgracefully <> w: 52623
+disgruntled <> w: 52626, p: [31448]
+disguise <> w: 52628, p: [58792, 59024]
+disgust <> w: 52630, p: [52101, 28732]
+disgusted <> w: 52631, p: [28732]
+disgustful <> w: 52633, p: [49522]
+disgusting <> w: 52634, p: [23433]
+disgustingly <> w: 52635, p: [49522]
+dish <> w: 52637, p: [48919, 48667, 26660]
+dish towel <> w: 52644, p: [32954]
+disharmonious <> w: 52648
+disharmony <> w: 52650
+dishearten <> w: 52653, p: [58206]
+disheartened <> w: 52654
+disheartening <> w: 52655
+disheveled <> w: 52659
+dishonest <> w: 52662, p: [22027]
+dishonestly <> w: 52663
+dishonesty <> w: 52664
+dishonor <> w: 52665
+dishonorable <> w: 52666, p: [49357]
+dishonorably <> w: 52669, p: [49357]
+dishtowel <> w: 52677, p: [32954]
+dishware <> w: 52678, p: [26544]
+dishwasher <> w: 52679, p: [26499, 49822]
+dishwashing <> w: 52681, p: [42816]
+dishy <> w: 52686
+disillusion <> w: 52687
+disillusioned <> w: 52688
+disincentive <> w: 52692
+disinclination <> w: 52693
+disinclined <> w: 52695, p: [29671]
+disinfect <> w: 52696, p: [60800]
+disinfectant <> w: 52697
+disinformation <> w: 52703
+disingenuous <> w: 52704
+disinherit <> w: 52707
+disintegrate <> w: 52711, p: [58557]
+disintegration <> w: 52712
+disinter <> w: 52714
+disinterested <> w: 52716
+disinvest <> w: 52720, p: [34963]
+disjointed <> w: 52726
+disjunct <> w: 52729
+disjunctive <> w: 52731
+disk <> w: 52734, p: [15547]
+disk drive <> w: 52742, p: [37065]
+diskette <> w: 52752, p: [29629]
+dislike <> w: 52755, p: [43726, 19380]
+disliked <> w: 52756, p: [17517]
+dislocate <> w: 52757
+dislocation <> w: 52759
+dislodge <> w: 52760
+disloyal <> w: 52764, p: [45271]
+dismal <> w: 52767, p: [52047]
+dismally <> w: 52768
+dismantle <> w: 52769, p: [46565]
+dismay <> w: 52773, p: [48719]
+dismayed <> w: 52774
+dismaying <> w: 52775
+dismiss <> w: 52778, p: [46163, 16395]
+dismissal <> w: 52779
+dismissive <> w: 52783
+dismount <> w: 52784
+disobedience <> w: 52787
+disobedient <> w: 52788
+disobey <> w: 52790, p: [59700]
+disorder <> w: 52793
+disordered <> w: 52794
+disorderly <> w: 52796
+disorganized <> w: 52804, p: [36038]
+disorient <> w: 52807, p: [49594]
+disorientation <> w: 52809, p: [61270]
+disoriented <> w: 52810, p: [61270]
+disown <> w: 53003, p: [40235]
+disparage <> w: 53006
+disparate <> w: 53011, p: [45898]
+disparity <> w: 53013
+dispassionate <> w: 53015
+dispatch <> w: 53018, p: [52443, 61262]
+dispel <> w: 53023, p: [59416]
+dispensary <> w: 53027, p: [51544]
+dispensation <> w: 53028
+dispense <> w: 53029, p: [48297, 51544]
+dispenser <> w: 53032
+disperse <> w: 53034, p: [26411]
+dispersed <> w: 53035
+disperser <> w: 365400
+dispirit <> w: 53043, p: [58275]
+dispirited <> w: 53044, p: [23503]
+dispiritedly <> w: 53045
+dispiriting <> w: 53047
+displace <> w: 53048, p: [53676]
+displacement <> w: 53051
+display <> w: 53054, p: [20780, 15797]
+displeased <> w: 53063
+displeasing <> w: 53064, p: [17559]
+displeasure <> w: 53066
+disposable <> w: 53069, p: [32714]
+disposable income <> w: 53070
+disposal <> w: 53071, p: [22347, 50783]
+dispose <> w: 53073, p: [22347, 50084]
+disposed <> w: 53075
+disposition <> w: 53076, p: [22347]
+dispossess <> w: 53077, p: [59985]
+dispossession <> w: 53079
+disproportionate <> w: 53085
+disprove <> w: 53087, p: [59456]
+disputable <> w: 53089
+disputation <> w: 53091
+disputatious <> w: 53092
+dispute <> w: 53095, p: [54992]
+disputed <> w: 53096
+disqualify <> w: 53099, p: [59507]
+disquiet <> w: 53101
+disquieting <> w: 53103
+disquietude <> w: 53105
+disregard <> w: 53108, p: [52153]
+disregarded <> w: 53109
+disrepair <> w: 53112
+disreputable <> w: 53114
+disrepute <> w: 53118
+disrespect <> w: 53119
+disrespectful <> w: 53120, p: [17545]
+disrobe <> w: 53122, p: [39244]
+disrupt <> w: 53123, p: [46531]
+disruption <> w: 53126
+disruptive <> w: 53127
+dissatisfied <> w: 53132, p: [31448]
+dissatisfy <> w: 53133
+dissect <> w: 53134, p: [47871]
+dissection <> w: 53136
+dissemble <> w: 53137, p: [51808, 19436]
+disseminate <> w: 53140, p: [59260]
+dissemination <> w: 53144
+dissension <> w: 53147
+dissent <> w: 53148
+dissenter <> w: 53149
+dissentient <> w: 53150
+dissenting <> w: 53151
+dissertation <> w: 53155
+disservice <> w: 53156
+dissever <> w: 53157, p: [27764]
+dissidence <> w: 53158
+dissident <> w: 53159
+dissimilar <> w: 53163, p: [20475]
+dissimilarity <> w: 53164, p: [20475]
+dissimilarly <> w: 225476, p: [43564]
+dissimilation <> w: 53166
+dissimulate <> w: 53168, p: [53513]
+dissipate <> w: 53172, p: [44042]
+dissipation <> w: 53174
+dissociate <> w: 53176
+dissociation <> w: 53177
+dissolute <> w: 53183
+dissolution <> w: 53186
+dissolve <> w: 53189, p: [46111, 29531]
+dissonance <> w: 53195
+dissonant <> w: 53196
+dissuade <> w: 53198, p: [58209]
+dissuasion <> w: 53199
+dissymmetry <> w: 53202, p: [31450]
+distaff <> w: 53203
+distance <> w: 53207, p: [26337, 58425]
+distant <> w: 53209, p: [48365, 17553]
+distantly <> w: 53210, p: [48365]
+distaste <> w: 53211, p: [19380]
+distasteful <> w: 53212, p: [23433, 31211]
+distastefully <> w: 53213
+distemper <> w: 53215
+distend <> w: 53216
+distensible <> w: 53217
+distention <> w: 53219
+distich <> w: 53220, p: [37451]
+distill <> w: 53222, p: [54994]
+distillate <> w: 53223
+distillation <> w: 53224
+distiller <> w: 53226
+distillery <> w: 53227
+distinct <> w: 53229, p: [47795]
+distinction <> w: 53230
+distinctive <> w: 53231, p: [49285]
+distinctively <> w: 53233, p: [49285]
+distinctly <> w: 53235
+distinguish <> w: 53237, p: [59884]
+distinguishable <> w: 53238
+distinguished <> w: 53239
+distinguishing <> w: 229186
+distort <> w: 53247, p: [51184]
+distorted <> w: 53249, p: [51184]
+distortion <> w: 53251
+distract <> w: 53253, p: [59420]
+distracted <> w: 53254, p: [60390]
+distraction <> w: 53256
+distrain <> w: 53257
+distrait <> w: 53259
+distraught <> w: 53260, p: [20213]
+distress <> w: 53261, p: [42834]
+distressed <> w: 53264, p: [52147]
+distressing <> w: 53268, p: [17559]
+distressingly <> w: 53269
+distribute <> w: 53272, p: [47987]
+distributed <> w: 53502
+distribution <> w: 53506
+distributor <> w: 53517
+district <> w: 53522, p: [17164]
+distrust <> w: 53527
+distrustful <> w: 53528
+distrustfully <> w: 53529
+disturb <> w: 53531, p: [20259, 46992]
+disturbance <> w: 53532
+disturbed <> w: 53534, p: [52147, 18091]
+disturbing <> w: 53536, p: [45972]
+disturbingly <> w: 53537, p: [45972]
+disunion <> w: 53540
+disunite <> w: 53541
+disunity <> w: 53543
+disuse <> w: 53544
+disused <> w: 53545
+disyllable <> w: 53547
+ditch <> w: 53551, p: [47807]
+dither <> w: 53557
+ditto <> w: 53565, p: [27469, 48173]
+ditty <> w: 53567
+ditz <> w: 229155
+diurnal <> w: 53573
+diva <> w: 53576
+divagation <> w: 53578
+divan <> w: 53580, p: [42242]
+dive <> w: 53584, p: [51049, 51049]
+diver <> w: 53589, p: [39165, 24877]
+diverge <> w: 53590, p: [46934]
+divergence <> w: 53591
+divergent <> w: 53593, p: [49271]
+divergently <> w: 225475, p: [49271]
+diverging <> w: 53597
+diverse <> w: 53600, p: [49273]
+diversely <> w: 53601, p: [49273]
+diversified <> w: 53604
+diversify <> w: 53605, p: [54672]
+diversion <> w: 53606, p: [18910]
+diversity <> w: 53611, p: [17721]
+divert <> w: 53612, p: [46942, 18744]
+diverted <> w: 53613, p: [35724]
+divertimento <> w: 53617
+divertingly <> w: 53619
+divertissement <> w: 220795
+divest <> w: 53620, p: [26395, 34963]
+divestment <> w: 225002
+divide <> w: 53624, p: [20065, 27764, 61222]
+divided <> w: 53625, p: [45768]
+divided highway <> w: 53626, p: [37332]
+divided skirt <> p: [42938]
+dividend <> w: 53628
+divider <> w: 53630
+divination <> w: 53633
+divine <> w: 53635, p: [28722]
+divine service <> p: [31727]
+divinely <> w: 53646
+diving <> w: 53648, p: [51049, 46008]
+diving board <> w: 53650
+diving suit <> w: 53655
+divinity <> w: 53657, p: [29477]
+divisible <> w: 53661
+division <> w: 53662, p: [61222]
+divisive <> w: 53688
+divisively <> w: 209439
+divisiveness <> w: 209440
+divisor <> w: 53689
+divorce <> w: 53690, p: [16477, 16477]
+divorced <> w: 53693, p: [46346]
+divorcee <> w: 53695, p: [16477]
+divot <> w: 53697
+divulge <> w: 53698, p: [45028]
+divulgence <> w: 53700
+divvy <> w: 53701
+dizzily <> w: 53713, p: [49658]
+dizziness <> w: 53714, p: [60023]
+dizzy <> w: 53715, p: [49658]
+do <> w: 53749, p: [42358, 61054]
+do a number on <> p: [44548]
+do away with <> p: [47809, 61262]
+do for <> p: [20055]
+do good <> p: [40597]
+do the job <> p: [40601]
+do the trick <> p: [40601]
+do up <> p: [18393, 26128]
+do-good <> p: [40597]
+do-si-do <> w: 53754
+doable <> w: 53770, p: [17453]
+doberman <> w: 53772, p: [39753]
+dobsonfly <> w: 53778, p: [34714]
+docile <> w: 53782, p: [60346]
+dock <> w: 53784, p: [33839, 48727]
+docker <> w: 53788, p: [33563]
+docket <> w: 53789
+dockworker <> w: 53795, p: [33563]
+doctor <> w: 53798, p: [50501]
+doctoral <> w: 53824
+doctorate <> w: 54002, p: [31584]
+doctrinaire <> w: 54007
+doctrine <> w: 54010, p: [31530]
+docudrama <> w: 54012
+document <> w: 54013, p: [26246, 17813, 47468]
+documentary <> w: 54015, p: [22413]
+documented <> w: 54018
+doddering <> w: 54022
+dodecagon <> w: 54025, p: [25942]
+dodecahedron <> w: 54026, p: [35491]
+dodge <> w: 54029, p: [53101]
+dodgeball <> w: 211444, p: [32028]
+dodgy <> w: 54035
+dodo <> w: 54036, p: [34498]
+doe <> w: 54039, p: [30549]
+doff <> w: 54043, p: [54426]
+dog <> w: 54044, p: [50082, 27952]
+dog collar <> w: 54061, p: [34566]
+dog days <> w: 54062, p: [40825]
+dog eat dog <> p: [41369]
+dog paddle <> w: 54074
+dog-and-pony show <> p: [43931]
+dog-eared <> w: 54052
+dog-tired <> w: 54055
+dogfight <> w: 54092
+dogfighter <> w: 54093
+dogfish <> w: 54094, p: [24637]
+dogged <> w: 54095
+doggedly <> w: 54096, p: [42958]
+doggerel <> w: 54098
+doggie <> w: 54100
+doggo <> w: 54103
+doggy bag <> w: 54105, p: [31490]
+doghouse <> w: 54107, p: [34504]
+dogie <> w: 54108, p: [22756]
+dogleg <> w: 54109
+dogma <> w: 54111
+dogmatic <> w: 54112
+dogmatically <> w: 54114
+dogmatize <> w: 54118
+dogwood <> w: 54128, p: [29898]
+doily <> w: 54135, p: [31103]
+dojo <> w: 226649
+doldrums <> w: 54146
+doleful <> w: 54150
+dolefully <> w: 54151
+doll <> w: 54168, p: [48647]
+doll's house <> w: 54170, p: [18579]
+dollar <> w: 54172, p: [26944, 36281]
+dollars to doughnuts <> p: [46736]
+dollhouse <> w: 54180, p: [18579]
+dolly <> w: 54182, p: [48647, 40843]
+dolma <> w: 218185
+dolman <> w: 54183, p: [39629]
+dolor <> w: 54193
+dolorous <> w: 54194
+dolphin <> w: 54197, p: [29218]
+dolphinarium <> w: 208373, p: [30818]
+dolt <> w: 54202
+doltishly <> w: 54204
+domain <> w: 54206
+dome <> w: 54211, p: [31897]
+domestic <> w: 54217, p: [48433, 19532, 20537, 19314]
+domestic pigeon <> p: [18023]
+domestically <> w: 54237, p: [48433]
+domesticate <> w: 54238, p: [30768]
+domesticated <> w: 54239, p: [20537]
+domestication <> w: 54242
+domesticity <> w: 54244, p: [42818]
+domicile <> w: 54246, p: [22179]
+dominance <> w: 54250
+dominant <> w: 54251, p: [28261]
+dominantly <> w: 225417
+dominate <> w: 54254, p: [59806]
+dominating <> w: 54256
+domination <> w: 54257
+domineer <> w: 54261
+domineering <> w: 54262
+dominion <> w: 54280
+domino <> w: 54283, p: [51729, 20888]
+dominoes <> w: 54286, p: [51729]
+don <> w: 54291, p: [48639]
+donate <> w: 54306, p: [18667]
+donation <> w: 54308, p: [20263]
+done <> w: 54317, p: [37692]
+donee <> w: 54320
+doner kebab <> p: [31063]
+dongle <> w: 54325
+donkey <> w: 54328, p: [50209]
+donor <> w: 54342
+donut <> w: 54344, p: [50345]
+doodle <> w: 54349, p: [18866, 18866]
+doodlebug <> w: 54350, p: [25217]
+doofus <> w: 54352
+doom <> w: 54356, p: [59337]
+doomed <> w: 54357
+doomsday <> w: 54502
+door <> w: 54504, p: [20810, 21098]
+door-to-door <> w: 54505
+doorbell <> w: 54509, p: [39085]
+doorjamb <> w: 54513
+doorkeeper <> w: 54514, p: [19052]
+doorknob <> w: 54515, p: [32692]
+doorman <> w: 54518, p: [19052]
+doormat <> w: 54519, p: [50709]
+doorplate <> w: 54521
+doorpost <> w: 54522
+doorsill <> w: 54523, p: [50906]
+doorstep <> w: 54524, p: [50906]
+doorstop <> w: 54525
+doorway <> w: 54527, p: [21098]
+dope <> w: 54532, p: [21963, 27389, 17871, 40837]
+dopester <> w: 366873
+dopiaza <> w: 209243, p: [31065]
+doping <> w: 210203
+doppelganger <> w: 54538
+doric <> w: 54549
+dork <> w: 54556
+dormant <> w: 54561
+dormer <> w: 54563
+dormitory <> w: 54567, p: [27235, 32802]
+dormouse <> w: 54569, p: [24108]
+dorsally <> w: 54592
+dorsum <> w: 54596, p: [50719]
+dory <> w: 54598, p: [24639, 36894]
+dosa <> w: 209184, p: [37656]
+dosage <> w: 54604
+dose <> w: 54605, p: [21390]
+dosh <> w: 228755, p: [42728]
+dot <> w: 54623, p: [15773, 30652, 54366]
+dotard <> w: 54632
+dote <> w: 54633
+doting <> w: 54634
+dotted <> w: 54636, p: [33679]
+dotted note <> p: [39503]
+double <> w: 54648, p: [15859, 28117, 45441, 20235, 20235]
+double bar <> p: [30269]
+double bass <> w: 54694, p: [27991]
+double bassoon <> p: [38309]
+double bed <> w: 54696, p: [15859]
+double boiler <> w: 54701, p: [32782]
+double chin <> w: 54704
+double cream <> w: 54706, p: [34766]
+double date <> w: 54712, p: [19364]
+double entendre <> w: 54723
+double fault <> w: 54725
+double feature <> w: 54726
+double flat <> p: [39505]
+double negative <> w: 54737
+double play <> w: 54740
+double saucepan <> p: [32782]
+double sharp <> p: [39507]
+double take <> p: [47374]
+double time <> w: 54759, p: [43082]
+double up <> p: [51824, 53341]
+double whammy <> p: [41342]
+double-book <> w: 220175
+double-breasted <> w: 54659, p: [33940]
+double-cross <> w: 54709, p: [59363]
+double-decker <> w: 54669, p: [29547]
+double-edged <> w: 54671
+double-glazed <> w: 222942
+double-park <> w: 54680
+double-time <> p: [43082]
+doubled <> w: 54763
+doublet <> w: 54768, p: [34231]
+doublethink <> w: 54769
+doubly <> w: 54774, p: [20235]
+doubt <> w: 54777, p: [46229]
+doubtful <> w: 54779, p: [47771]
+doubtless <> w: 54784
+doubtlessly <> w: 54785
+douche <> w: 54786, p: [34921]
+dough <> w: 54788, p: [27676, 60778]
+doughty <> w: 210470
+doughy <> w: 54792
+doula <> w: 54805
+dour <> w: 54806
+douroucouli <> w: 54810
+douse <> w: 54811, p: [47528, 29440]
+dove <> w: 54813, p: [50229, 36238]
+dovetail <> w: 54819
+dovetail saw <> p: [41025]
+dowdy <> w: 54834, p: [31141, 34087]
+dower <> w: 54838
+dowitcher <> w: 54842
+down <> w: 54844, p: [22335, 22335, 42592, 22335, 26628]
+down at heel <> p: [39663, 39771]
+down in the mouth <> p: [23503]
+down the road <> p: [44020]
+down to the wire <> p: [44096]
+down-at-heel <> w: 216790
+downbeat <> w: 55011
+downcast <> w: 55013, p: [30074, 42592]
+downer <> w: 55015
+downfall <> w: 55016, p: [31966]
+downgrade <> w: 55018, p: [45770]
+downhearted <> w: 55019, p: [23503]
+downhill <> w: 55021, p: [48899, 41152, 61156]
+downland <> w: 365610
+download <> w: 55026, p: [15775, 15775]
+downplay <> w: 55028, p: [60113]
+downpour <> w: 55029, p: [60690]
+downright <> w: 55030
+downriver <> w: 55032
+downshift <> w: 55034
+downside <> w: 55035
+downsize <> w: 55036
+downslope <> w: 55038
+downspout <> w: 211340
+downstage <> w: 55040
+downstairs <> w: 55042, p: [48535, 48535, 48535]
+downstream <> w: 55043
+downswing <> w: 55045
+downtime <> w: 55047
+downtown <> w: 55048, p: [51684, 51684]
+downtrodden <> w: 55049
+downturn <> w: 55050
+downward <> w: 55051, p: [22335, 23699, 23699]
+downwardly <> w: 55054
+downwards <> w: 55055, p: [22335]
+downy <> w: 55057
+dowry <> w: 55072
+doze <> w: 55089, p: [47184]
+doze off <> p: [47184]
+dozen <> w: 55091, p: [20021, 20021, 20021]
+dozer <> w: 55093, p: [31779]
+drab <> w: 55104, p: [34099]
+drachma <> w: 55114
+draconian <> w: 55118
+draft <> w: 55126, p: [51432]
+drafting <> w: 55136
+draftsman <> w: 55140, p: [47676]
+drag <> w: 55144, p: [22927, 20165, 22927]
+drag on <> p: [44200]
+drag queen <> w: 366224
+dragging <> w: 55157
+dragnet <> w: 55161
+dragon <> w: 55163, p: [29783]
+dragonfly <> w: 55172, p: [25241]
+dragoon <> w: 55174, p: [57897]
+dragster <> w: 227600
+drain <> w: 55176, p: [47046, 18051]
+drainage <> w: 55179
+drained <> w: 55185, p: [51206, 51392]
+draining <> w: 55186
+drainpipe <> w: 55188, p: [18051]
+drake <> w: 55190, p: [24617]
+dram <> w: 55191
+drama <> w: 55192, p: [22419]
+dramatic <> w: 55195, p: [22419]
+dramatic irony <> w: 55199
+dramatically <> w: 55204, p: [45770]
+dramatis personae <> w: 55206
+dramatist <> w: 55209, p: [19090]
+dramatize <> w: 55211
+dramaturgy <> w: 55214
+drape <> w: 55216, p: [50749]
+draper <> w: 55218
+drapery <> w: 55219, p: [50749]
+drastic <> w: 55220, p: [45770]
+drastically <> w: 55221, p: [58675]
+draught <> w: 55222, p: [31305]
+draughts <> w: 55225, p: [31305]
+draw <> w: 55231, p: [51686, 49427, 27586, 33473]
+draw a blank <> p: [29665, 40909]
+draw back <> p: [44518]
+draw in <> p: [47993, 20467, 19290, 52761, 52699]
+draw on <> p: [43204]
+draw out <> p: [52175]
+draw up <> p: [51753, 21493]
+drawback <> w: 55249
+drawbridge <> w: 55251, p: [27129]
+drawer <> w: 55253, p: [39065]
+drawers <> w: 55254, p: [18335, 25411]
+drawing <> w: 55255, p: [18762, 51686, 35876]
+drawing board <> p: [41311]
+drawing paper <> p: [31311]
+drawing pin <> p: [29563]
+drawing room <> p: [28600]
+drawing-board <> p: [41311]
+drawing-pin <> p: [29563]
+drawing-room <> p: [28600]
+drawl <> w: 55270
+drawn <> w: 55272
+drawn butter <> p: [34793]
+drawn-out <> w: 55273
+drawstring <> w: 55277
+dread <> w: 55282, p: [52103, 44140]
+dreadful <> w: 55284, p: [27295]
+dreadfully <> w: 55285, p: [49119]
+dreadlock <> w: 55502, p: [30395]
+dream <> w: 55505, p: [26260, 26260, 42668]
+dream ticket <> p: [43598]
+dreamboat <> w: 208439, p: [49083]
+dreamlike <> w: 55515
+dreamy <> w: 55517
+dreary <> w: 55521
+dredge <> w: 55524, p: [37900]
+dregs <> w: 55529
+dreich <> w: 367659
+drench <> w: 55533, p: [47528]
+drenched <> w: 55534
+dress <> w: 55542, p: [50958, 48557, 19316, 19318, 18974, 26128, 20952]
+dress down <> p: [34865]
+dress rehearsal <> w: 55551
+dress shirt <> w: 55553, p: [35623]
+dress uniform <> w: 55556, p: [34274]
+dress up <> p: [26292]
+dressage <> w: 55559
+dressed <> w: 55560, p: [23671, 32642]
+dressed to kill <> p: [35794]
+dresser <> w: 55565, p: [22113, 28309]
+dressing <> w: 55566, p: [51560, 18974, 31059]
+dressing gown <> w: 55569, p: [50950]
+dressing room <> w: 55570, p: [29513, 28602, 21895]
+dressing table <> w: 55574, p: [28309]
+dressmaker <> w: 55575, p: [16362]
+dressy <> w: 55578, p: [18455, 27564]
+drey <> w: 55580, p: [30551]
+drib <> w: 55582, p: [35782]
+dribble <> w: 55583, p: [35782, 47540, 35782]
+driblet <> w: 55586, p: [35782]
+dried <> w: 55587, p: [37966]
+dried milk <> w: 55592, p: [26996]
+drift <> w: 55594, p: [21126, 17811]
+drifter <> w: 55601, p: [20229]
+drifting <> w: 55603
+drill <> w: 55605, p: [22530, 46690]
+drill down <> p: [44842]
+drill press <> p: [41620]
+drilling <> w: 55618
+drilling rig <> p: [21163]
+drink <> w: 55628, p: [48573, 18307, 21999, 27391, 19050, 18291]
+drink up <> p: [52019]
+drinkable <> w: 55632, p: [27391, 45934]
+drinker <> w: 55633, p: [48573, 18291]
+drinking <> w: 55634, p: [48573, 18291]
+drinking chocolate <> p: [27103]
+drinking fountain <> w: 55638, p: [33773]
+drinking water <> w: 55643
+drip <> w: 55644, p: [33922, 35782, 35782, 33922]
+drip-dry <> w: 55645, p: [33922]
+drippily <> w: 55657
+drippings <> w: 55661, p: [27943]
+drive <> w: 55664, p: [48541, 48541, 48541, 46894, 29354, 29364, 51526]
+drive a hard bargain <> p: [46426]
+drive shaft <> w: 55686
+drive-through <> p: [26475]
+drivel <> w: 55678
+driven <> w: 55680
+driver <> w: 55682, p: [60754]
+driver's license <> w: 55684, p: [14258]
+driveway <> w: 55687, p: [29354]
+driving <> w: 55688, p: [48541]
+driving licence <> w: 55693, p: [14258]
+driving range <> w: 55695
+driving under the influence <> w: 220200
+drizzle <> w: 55699, p: [31930, 37816, 31930]
+drizzling <> w: 55700, p: [31930]
+droll <> w: 55707
+drome <> w: 55713, p: [49480]
+dromedary <> w: 55714, p: [51356]
+drone <> w: 55716, p: [20615]
+drongo <> w: 208413, p: [24619]
+drool <> w: 55720, p: [47256]
+droop <> w: 55723
+drop <> w: 55729, p: [22682, 22943, 53003, 35782, 34053, 22682, 51110]
+drop cloth <> w: 55747
+drop dead <> p: [17775]
+drop off <> p: [52644, 35844]
+drop out <> p: [52193]
+drop shot <> w: 55764
+drop-in <> p: [52741]
+drop-off <> p: [51110]
+dropkick <> w: 55768
+dropout <> w: 56005
+dropper <> w: 56007
+droppings <> w: 56010
+drops <> w: 218391
+dross <> w: 56023
+drought <> w: 56024, p: [39613]
+drouth <> w: 56025, p: [39613]
+drove <> w: 56026
+drown <> w: 56029, p: [46980]
+drowning <> w: 366459
+drowse <> w: 56031, p: [47184]
+drowsing <> w: 56035, p: [35912]
+drowsy <> w: 56036, p: [35912]
+drub <> w: 56037, p: [46918]
+drudgery <> w: 56040
+drug <> w: 56042, p: [39069, 26236, 21404]
+druggist <> w: 56068, p: [50589]
+drugstore <> w: 56071, p: [51544]
+druid <> w: 56072
+drum <> w: 56074, p: [51818]
+drum machine <> p: [27993]
+drum major <> w: 56078
+drum pad <> p: [27995]
+drumhead <> w: 56089, p: [30199]
+drumlin <> w: 56091
+drummer <> w: 56092, p: [18575]
+drumstick <> w: 56094, p: [21364, 27945]
+drunk <> w: 56096, p: [18291]
+drunk-driving <> p: [20760]
+drunkard <> w: 56098
+drunken <> w: 56099, p: [18291]
+drunkenly <> w: 56103, p: [49223]
+drunkenness <> w: 56104, p: [18291]
+drupe <> w: 56106, p: [36042]
+dry <> w: 56112, p: [22329, 32672, 32644, 61112, 33922]
+dry cleaner's <> w: 56129
+dry fly <> p: [34716]
+dry land <> w: 56136, p: [19588]
+dry milk <> p: [26996]
+dry out <> p: [47452]
+dry run <> w: 56151
+dry up <> p: [47452]
+dry-clean <> w: 56127, p: [33565]
+dry-cleaner <> p: [33565]
+dry-cleaners <> p: [33565]
+dryer <> w: 56166, p: [50801]
+drysuit <> w: 227515
+drywall <> w: 56199, p: [22317]
+dual <> w: 56209, p: [45441]
+dual carriageway <> w: 56213, p: [37332]
+dualism <> w: 56216
+dub <> w: 56220, p: [58125, 47584]
+dubai <> w: 56221
+dubbing <> w: 56223
+dubious <> w: 56225, p: [45822]
+dubitable <> w: 56228
+dubstep <> w: 219878
+duchess <> w: 56246
+duck <> w: 56251, p: [28746, 18315, 46970]
+duck-billed platypus <> p: [24110]
+duckling <> w: 56268, p: [24621, 18315]
+duct <> w: 56275
+duct tape <> p: [22644]
+ductile <> w: 56278
+ducting <> w: 222487
+dude <> w: 56288, p: [49083]
+due <> w: 56295
+duel <> w: 56304, p: [19809, 19809]
+duelist <> w: 56306
+duet <> w: 56310, p: [30271, 15961, 37451]
+duff <> w: 56312
+duffel <> w: 56313, p: [34482]
+duffel bag <> p: [34482]
+duffel coat <> p: [24914]
+duffle <> w: 56317, p: [34482]
+duffle bag <> w: 56318, p: [34482]
+duffle coat <> w: 56319, p: [24914]
+dugong <> w: 56323, p: [24112]
+dugout <> w: 56326
+duh <> w: 218068, p: [48475]
+duiker <> w: 216545, p: [34258]
+duke <> w: 56329
+duke it out <> p: [44630]
+dulcet <> w: 56341
+dulcimer <> w: 56344, p: [27997]
+dulcitone <> w: 219790
+dull <> w: 56347, p: [49225, 28618, 31460, 17515, 22552]
+dullness <> w: 56353, p: [31460]
+dully <> w: 56502, p: [49225]
+dulse <> w: 56503
+duly <> w: 56505
+dumb <> w: 56508, p: [46312]
+dumb down <> p: [44876]
+dumb show <> w: 56511, p: [37113]
+dumbbell <> w: 56513, p: [21679, 17871]
+dumbfound <> w: 56514, p: [52109]
+dumbfounded <> w: 56515, p: [52109]
+dumbstruck <> w: 56520
+dumbwaiter <> w: 56521
+dummy <> w: 56529, p: [33293, 17871]
+dummy up <> p: [26317]
+dump <> w: 56532, p: [22347, 23575]
+dump truck <> w: 56534, p: [33539]
+dumper <> w: 56536, p: [33539]
+dumpling <> w: 56539, p: [30990]
+dumpy <> w: 56544, p: [60522]
+dun <> w: 56547
+dunce <> w: 56553
+dunce's cap <> w: 56554, p: [25186]
+dune <> w: 56560
+dune buggy <> w: 56561
+dung <> w: 56563
+dungaree <> w: 56565, p: [20511, 25058]
+dungeon <> w: 56567
+dunk <> w: 56569, p: [29440]
+dunlin <> w: 56576, p: [24623]
+dunnock <> w: 56577, p: [24625]
+duo <> w: 56579, p: [15961, 37451]
+duodecimo <> w: 221400
+duodenal <> w: 56585
+duodenum <> w: 56588, p: [30387]
+dupe <> w: 56591, p: [44694]
+duple <> w: 56593
+duplex <> w: 56595, p: [20978, 20978]
+duplicate <> w: 56601, p: [17819]
+duplicitous <> w: 56605, p: [19436]
+duplicity <> w: 56606
+durability <> w: 56609
+durable <> w: 56610
+durance <> w: 56618
+duration <> w: 56622
+duress <> w: 56629
+durian <> w: 56632, p: [26355]
+during <> w: 208355
+durum <> w: 56642, p: [31331]
+dusk <> w: 56649, p: [31928]
+duskily <> w: 225473, p: [44090]
+dusky <> w: 56651, p: [31928]
+dust <> w: 56659, p: [36305, 37902]
+dust jacket <> w: 56668
+dust storm <> w: 56671, p: [22610]
+dustbin <> w: 56673, p: [28437]
+dustcart <> w: 56674, p: [46950]
+duster <> w: 56676, p: [39633, 18483]
+dusting powder <> p: [33645]
+dustman <> w: 56681, p: [36993]
+dustpan <> w: 56683, p: [32904]
+dustup <> w: 56686
+dusty <> w: 56687, p: [45808]
+duteous <> w: 56715
+dutiable <> w: 56716
+dutiful <> w: 56717
+dutifully <> w: 56718, p: [44372]
+duty <> w: 56720
+duty-free <> w: 56722
+duvet <> w: 56727, p: [32962]
+dw <> w: 208701
+dwarf <> w: 56730, p: [29920]
+dwarfed <> w: 224495
+dwarfish <> w: 56769
+dwarfism <> w: 56771, p: [29920]
+dweeb <> w: 56772
+dwell <> w: 56773
+dweller <> w: 56775
+dwelling <> w: 56776, p: [22179]
+dwelling house <> w: 56777, p: [22179]
+dwindle <> w: 56784, p: [54810]
+dwindling <> w: 56787
+dyad <> w: 56790, p: [37451]
+dye <> w: 56797, p: [22993]
+dyed <> w: 56799
+dyeing <> w: 56800
+dyer <> w: 56801
+dyestuff <> w: 56810, p: [22834]
+dying <> w: 56813
+dynamic <> w: 56819, p: [42612, 23047]
+dynamically <> w: 56826, p: [50015]
+dynamics <> w: 56827
+dynamite <> w: 56830
+dynasty <> w: 56839
+dyne <> w: 56840
+dyno <> w: 227193
+dysarthria <> w: 56842
+dyscalculia <> w: 56843
+dysentery <> w: 56847
+dysfunction <> w: 56848
+dysfunctional <> w: 56849
+dysgraphia <> w: 56853
+dyslexia <> w: 56856
+dyslexic <> w: 56857
+dyspepsia <> w: 56864, p: [17893]
+dyspraxia <> w: 226586
+dystopian <> w: 57020
+dystrophy <> w: 57021

@@ -1,0 +1,62 @@
+zabaglione <> w: 207803
+zaffre <> w: 217293, p: [34903]
+zany <> w: 207855, p: [17871, 17871]
+zap <> w: 207858, p: [53011, 20964]
+zapper <> w: 207863, p: [49852]
+zeal <> w: 208012
+zealot <> w: 208015
+zealous <> w: 208017, p: [49792]
+zebra <> w: 208022, p: [18011]
+zebra crossing <> w: 208024, p: [28762]
+zebu <> w: 208031, p: [24490]
+zeitgeist <> w: 208037
+zenith <> w: 208047
+zephyr <> w: 208056, p: [17269]
+zeppelin <> w: 208057
+zero <> w: 208059, p: [40869]
+zero hour <> w: 208066, p: [44106]
+zero-sum game <> w: 208062, p: [41377]
+zest <> w: 208072, p: [36244, 37830]
+zester <> w: 218515, p: [37624]
+zestful <> w: 208073
+zesty <> w: 208078
+zeugma <> w: 208083
+zidovudine <> w: 208094
+zigzag <> w: 208108, p: [25988]
+zigzagged <> w: 225386
+zillion <> w: 208114
+zimmer <> w: 208119, p: [33358]
+zimmer frame <> w: 208120, p: [33358]
+zinc <> w: 208122
+zion <> w: 208149, p: [18964]
+zip <> w: 208154, p: [33926, 21438, 25495]
+zip code <> w: 208156, p: [16077]
+zip line <> p: [45014]
+zip-up <> p: [33926]
+zipper <> w: 208161, p: [20531, 33926]
+zipperhead <> w: 367591
+zippy <> w: 208163, p: [48413]
+zit <> w: 208171, p: [29677]
+zither <> w: 208172, p: [28243]
+zodiac <> w: 208189, p: [37199]
+zodiacal <> w: 208190
+zokor <> w: 220276
+zombie <> w: 208202
+zone <> w: 208209, p: [17164, 23883]
+zone out <> p: [48615]
+zoned <> w: 229348
+zoo <> w: 208221, p: [27443]
+zoological <> w: 208228
+zoologist <> w: 208231
+zoology <> w: 208232, p: [29501]
+zoom <> w: 208233, p: [44230]
+zoom lens <> w: 208236, p: [33733]
+zooplankton <> w: 208248, p: [25727]
+zorbing <> w: 219999
+zowie <> w: 229061
+zucchini <> w: 208271, p: [21300]
+zugzwang <> w: 223693
+zulu <> w: 208274, p: [36796]
+zygoma <> w: 208294
+zygomatic <> w: 208295, p: [29463]
+zygomatic bone <> p: [29463]

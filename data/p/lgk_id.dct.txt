@@ -1,0 +1,2740 @@
+paca <> w: 132222, p: [40085]
+pace <> w: 132223, p: [23023, 46976]
+pacemaker <> w: 132226, p: [25805]
+pacesetter <> w: 132228
+pachinko <> w: 132230
+pachisi <> w: 132231
+pachyderm <> w: 132238, p: [24350]
+pacific <> w: 132251
+pacifier <> w: 132279, p: [33503]
+pacifism <> w: 132280
+pacifist <> w: 132281
+pacify <> w: 132284, p: [47967]
+pack <> w: 132287, p: [61164, 20039, 20623, 20800]
+pack animal <> w: 132288, p: [24498]
+pack rat <> w: 132292, p: [25679]
+pack up <> p: [61164]
+package <> w: 132297, p: [20077, 20081, 36935]
+package holiday <> w: 132299
+package store <> w: 132300, p: [21651]
+package tour <> w: 132301, p: [15853]
+packaged <> w: 132302
+packaging <> w: 132304, p: [36935]
+packed <> w: 132307
+packed lunch <> w: 209272, p: [30880]
+packer <> w: 132310
+packet <> w: 132313, p: [20081, 20081]
+packhorse <> w: 132315, p: [24478]
+packing <> w: 132316, p: [36935]
+packman <> w: 132324, p: [37107]
+packsack <> w: 132326, p: [34570]
+pact <> w: 132329
+pacy <> w: 208944
+pad <> w: 132330, p: [33133]
+pad thai <> p: [31079]
+padded <> w: 132335
+padded cell <> w: 218387
+padding <> w: 132337
+paddle <> w: 132338, p: [36906, 36906]
+paddle tennis <> w: 227751
+paddleball <> w: 224157
+paddler <> w: 132346, p: [29545]
+paddock <> w: 132348
+paddy field <> w: 132350
+paddy wagon <> w: 132351
+paddymelon <> w: 132352, p: [39993]
+pademelon <> w: 132353, p: [39993]
+padlock <> w: 132355
+padre <> w: 132358
+paean <> w: 132362
+paella <> w: 132507, p: [31081]
+pagan <> w: 132512, p: [23185]
+paganism <> w: 132516
+page <> w: 132518, p: [22201, 20309]
+pageant <> w: 132522
+pageantry <> w: 132523
+pageboy <> w: 132524
+pagoda <> w: 132534
+paid <> w: 132549
+pail <> w: 132554, p: [20049]
+pain <> w: 132557, p: [51600, 61082, 59226]
+painful <> w: 132567, p: [23521, 49932]
+painfully <> w: 132569, p: [49932]
+painkiller <> w: 132571, p: [21507]
+painkilling <> w: 209980, p: [21507]
+painless <> w: 132572
+painlessly <> w: 132573, p: [46593]
+painstaking <> w: 132575
+painstakingly <> w: 132576, p: [50029]
+paint <> w: 132578, p: [22317, 14067, 22237, 22830]
+paint stripper <> w: 222058, p: [47949]
+paintball <> w: 132584, p: [29818]
+paintbox <> w: 132586, p: [25543]
+paintbrush <> w: 132587, p: [23899]
+painter <> w: 132602, p: [43396, 22317]
+painterly <> w: 132604
+painting <> w: 132605, p: [36892, 44270]
+paintwork <> w: 227950
+pair <> w: 132606, p: [37451]
+paisley <> w: 132621, p: [46145, 46145]
+pajamas <> w: 132624, p: [50964, 34150]
+pakora <> w: 217763
+pal <> w: 132631
+palace <> w: 132633, p: [18261, 21080]
+palatable <> w: 132667, p: [16023]
+palatal <> w: 132670
+palatalization <> w: 223359
+palate <> w: 132675
+palatial <> w: 132676
+palaver <> w: 132688
+palazzo pants <> p: [39735]
+pale <> w: 132689, p: [47843, 19791]
+pale ale <> w: 132693
+paleness <> w: 132703, p: [49127, 22989]
+paleontologist <> w: 132735
+paleontology <> w: 132736
+palette <> w: 132758, p: [25651]
+palette knife <> w: 132759, p: [25649]
+palimpsest <> w: 132765
+palindrome <> w: 132766
+paling <> w: 132767
+palinode <> w: 221990
+palisade <> w: 132772
+pall <> w: 132776, p: [50749]
+pallet <> w: 132789
+palliate <> w: 132792
+palliative <> w: 132794
+pallid <> w: 132795, p: [19791]
+pallidness <> w: 132799, p: [22989]
+pallium <> w: 132801
+pallor <> w: 132803, p: [22989]
+palm <> w: 132805, p: [50691, 39093, 21923]
+palm oil <> w: 132814, p: [34955]
+palm reading <> w: 132815, p: [29820]
+palm tree <> w: 132817, p: [21923]
+palmier <> w: 217548, p: [37844]
+palmistry <> w: 132836, p: [29820]
+palmtop <> w: 225121
+palmy <> w: 132840
+palomino <> w: 132848, p: [24438]
+palpable <> w: 132852, p: [48385]
+palpably <> w: 132853, p: [49606]
+palpate <> w: 132854
+palpation <> w: 132855
+palpitate <> w: 133003
+palpitation <> w: 133005
+palsy <> w: 133008, p: [32054]
+palsy-walsy <> w: 229129
+paltry <> w: 133013
+pamper <> w: 133019
+pamphlet <> w: 133022
+pamphleteer <> w: 133023
+pan <> w: 133024, p: [20990, 27057, 55033]
+pan out <> p: [44232]
+panacea <> w: 133039
+panache <> w: 133040
+panada <> w: 220678
+pancake <> w: 133061, p: [19132]
+pancetta <> w: 209230, p: [32020]
+pancreas <> w: 133074, p: [30393]
+pancreatic <> w: 133076
+pancreatitis <> w: 133084
+panda <> w: 133086, p: [24164]
+pandemic <> w: 133096, p: [45748]
+pandemonium <> w: 133097
+pander <> w: 133098
+pandowdy <> w: 133106, p: [31101]
+pane <> w: 133111
+paneer <> w: 209171, p: [26958]
+panegyric <> w: 133113
+panel <> w: 133116, p: [39255]
+panel truck <> w: 133120
+paneling <> w: 133124
+panelist <> w: 133123
+pang <> w: 133131
+panga <> w: 133132, p: [32988]
+pangolin <> w: 133137, p: [24302]
+panic <> w: 133142, p: [23507, 48141]
+panic stations <> p: [42874]
+panic-stricken <> w: 133143, p: [52103]
+panicked <> w: 133149, p: [52147]
+panicky <> w: 133150, p: [23507]
+panini <> w: 133160, p: [30960]
+panna cotta <> p: [38136]
+pannier <> w: 133164, p: [34532]
+panning <> w: 222816
+panoply <> w: 133172
+panoptic <> w: 133173
+panorama <> w: 133176, p: [17611]
+panoramic <> w: 133177
+pansexual <> w: 133183
+pant <> w: 133188, p: [59008, 37334]
+pantaloons <> w: 221201
+pantheism <> w: 133194
+pantheon <> w: 133197
+panther <> w: 133198, p: [24763, 25673]
+panties <> w: 210042, p: [18335]
+pantograph <> w: 133211
+pantomime <> w: 133212, p: [37113, 37113]
+pantry <> w: 133220
+pants <> w: 133222, p: [50966, 21625]
+pantsuit <> w: 133225, p: [34075]
+pantyhose <> w: 133228, p: [49888]
+panzanella <> w: 217717
+pap <> w: 133233
+papa <> w: 133236, p: [60849]
+papacy <> w: 133238
+paparazzi <> w: 133249, p: [51210]
+papaw <> w: 133262, p: [26858]
+papaya <> w: 133264, p: [18189]
+paper <> w: 133269, p: [26242, 49199, 35740]
+paper clip <> p: [29539]
+paper doll <> w: 133282
+paper over <> p: [46322]
+paper towel <> w: 133303, p: [26505]
+paper trail <> p: [26246]
+paper-thin <> w: 225385
+paperback <> w: 133308, p: [16041]
+paperboard <> w: 133312, p: [47028]
+paperwork <> w: 133324
+papoose <> w: 133347
+pappardelle <> w: 217353, p: [37465]
+paprika <> w: 133356, p: [31337]
+papyrus <> w: 133367
+par <> w: 133368
+par for the course <> p: [47380]
+parable <> w: 133377
+parabola <> w: 133378, p: [25962]
+parabolic <> w: 133379
+paracetamol <> w: 210008
+parachute <> w: 133393, p: [18916, 18916]
+parachuting <> w: 133503, p: [18916]
+parachutist <> w: 133504
+parade <> w: 133507, p: [33677]
+paradigm <> w: 133511
+paradigmatic <> w: 133512
+paradise <> w: 133517
+paradox <> w: 133523
+paradoxical <> w: 133524
+paradoxically <> w: 133526, p: [48801]
+paraglider <> w: 225532, p: [45004]
+paragliding <> w: 133536, p: [18916]
+paragon <> w: 133537
+paragraph <> w: 133539
+parakeet <> w: 133546, p: [23195]
+parallax <> w: 133560
+parallel <> w: 133561, p: [22899, 22899, 48207]
+parallel bars <> w: 133565
+parallelepiped <> w: 133573, p: [35573]
+parallelogram <> w: 133577, p: [25964]
+paralympics <> w: 209940
+paralysis <> w: 133582, p: [32054]
+paralytic <> w: 133584, p: [32054, 32054]
+paralyze <> w: 133587, p: [59248]
+paralyzed <> w: 133588, p: [32054]
+paramedic <> w: 133595, p: [21444]
+paramedical <> w: 133596, p: [21444, 21444]
+parameter <> w: 133597
+paramotor <> w: 227587
+paramotoring <> w: 227318
+paramount <> w: 133608, p: [43368]
+paramour <> w: 133611
+paranoia <> w: 133618
+paranoiac <> w: 133619
+paranoid <> w: 133621, p: [45226]
+paranormal <> w: 133623, p: [45679]
+parapet <> w: 133628
+paraphernalia <> w: 133630
+paraphrase <> w: 133632, p: [49712]
+paraplegia <> w: 133638, p: [32054]
+paraprofessional <> w: 133642
+parasailing <> w: 133650, p: [18916]
+parasite <> w: 133657
+parasitic <> w: 133660
+parasol <> w: 133668, p: [26610]
+parasympathetic <> w: 133670
+paratha <> w: 209186, p: [27750]
+paratrooper <> w: 133682
+parboil <> w: 133689, p: [32539]
+parcel <> w: 133691, p: [20077]
+parch <> w: 133700
+parched <> w: 133701, p: [49862]
+parching <> w: 225561
+parchment <> w: 133705, p: [38811]
+pardon <> w: 133707, p: [59718, 48945, 27890]
+pare <> w: 133711, p: [20966]
+parent <> w: 133716, p: [60883, 19827]
+parentage <> w: 133717
+parental <> w: 133718, p: [19827]
+parenthesis <> w: 133724, p: [27477]
+parenting <> w: 210131, p: [19827]
+parer <> w: 133732, p: [43178]
+parfait <> w: 133738, p: [38138]
+pargeting <> w: 133741
+pariah <> w: 133751
+parietal lobe <> p: [30435]
+parish <> w: 133778
+parity <> w: 133783
+park <> w: 133788, p: [49291, 61166, 61166]
+park and ride <> w: 227884
+parka <> w: 133793, p: [33121]
+parking <> w: 133802, p: [19224]
+parking garage <> w: 210454, p: [19224]
+parking lot <> w: 133805, p: [19224]
+parking meter <> w: 133806, p: [37217]
+parking ticket <> w: 133808, p: [31468]
+parkland <> w: 133819
+parkour <> w: 210189, p: [51092]
+parkway <> w: 133821
+parky <> w: 133822, p: [17271]
+parlance <> w: 133823
+parlay <> w: 133824
+parley <> w: 133825, p: [55152]
+parliament <> w: 133826
+parliamentarian <> w: 133827
+parliamentary <> w: 133828
+parlor <> w: 133834, p: [50809]
+parlour <> w: 133840, p: [50809]
+parlous <> w: 133846
+parochial <> w: 133860
+parody <> w: 133865
+parole <> w: 133868
+paroxysm <> w: 133884
+parquet <> w: 134004
+parr <> w: 134009
+parricide <> w: 134011
+parrot <> w: 134015, p: [50223]
+parry <> w: 134024
+parse <> w: 134032
+parsec <> w: 134033
+parsimonious <> w: 134039
+parsimony <> w: 134041
+parsley <> w: 134042, p: [50519]
+parsnip <> w: 134045, p: [26828]
+parson's nose <> w: 134047
+part <> w: 134051, p: [20023, 26088, 19468, 26088, 22253, 47136, 17847]
+part of speech <> w: 134059
+part of the furniture <> p: [19578]
+part with <> p: [53214]
+part-time <> w: 134055, p: [17907]
+partake <> w: 134063, p: [48579]
+partial <> w: 134086, p: [17539]
+partiality <> w: 134097
+partially <> w: 134098, p: [17539]
+partible <> w: 134100
+participant <> w: 134101, p: [49806]
+participate <> w: 134103, p: [60819]
+participating <> w: 134104, p: [49638]
+participation <> w: 134105
+participatory <> w: 134108
+participle <> w: 134110
+particle <> w: 134111
+particular <> w: 134120, p: [43288]
+particularly <> w: 134132
+particulate <> w: 134133
+parting <> w: 134136, p: [26088]
+partisan <> w: 134137
+partita <> w: 229089
+partition <> w: 134140, p: [46872]
+partly <> w: 134147, p: [49375]
+partner <> w: 134148, p: [28159, 32028, 20770, 52511]
+partnership <> w: 134152, p: [20766]
+partridge <> w: 134154, p: [24967, 36234]
+partridgeberry <> w: 134156, p: [35180]
+parturition <> w: 134167, p: [18694]
+party <> w: 134168, p: [14071, 14071]
+party wall <> w: 134184
+parvenu <> w: 134198
+pas <> w: 134203
+pas de deux <> w: 134205
+paseo <> w: 134221, p: [18165]
+pashmina <> w: 220847
+pass <> w: 134237, p: [26294, 53085, 51370, 19965, 22251, 17775, 33046, 48123, 33046]
+pass off <> p: [44676]
+pass out <> p: [21459, 52277]
+pass the buck <> p: [43610]
+passable <> w: 134256
+passably <> w: 134257
+passage <> w: 134259, p: [26278, 18049]
+passageway <> w: 134260, p: [18049]
+passe <> w: 134265, p: [17447]
+passenger <> w: 134271, p: [36904]
+passenger seat <> w: 227798
+passepied <> w: 220514
+passing <> w: 134303, p: [49614]
+passion <> w: 134509
+passion fruit <> w: 134510, p: [26922]
+passionate <> w: 134515, p: [23047, 60216]
+passionately <> w: 134516, p: [45236]
+passionless <> w: 134521
+passive <> w: 134522
+passive smoking <> w: 210323
+passive voice <> w: 134531
+passively <> w: 134532, p: [49646]
+passport <> w: 134539, p: [48123]
+password <> w: 134540, p: [15791]
+past <> w: 134541, p: [17362, 45535, 48439]
+past master <> p: [19578]
+past participle <> w: 134543
+pasta <> w: 134550, p: [27678, 50357]
+paste <> w: 134553, p: [31109, 25473, 46446, 54515]
+pastel <> w: 134557, p: [35511, 25653]
+pastern <> w: 134561, p: [30754]
+pasteurize <> w: 134570
+pastiche <> w: 134573
+pastille <> w: 134575, p: [27778]
+pastime <> w: 134576, p: [18910]
+pastor <> w: 134582, p: [51616]
+pastoral <> w: 134585
+pastrami <> w: 134589, p: [37503]
+pastry <> w: 134590, p: [27676, 21420]
+pasture <> w: 134595, p: [27165, 19697]
+pastureland <> w: 134597, p: [27165]
+pasty <> w: 134598, p: [30916]
+pat <> w: 134599, p: [54294]
+patch <> w: 134605, p: [37379, 18974, 46467]
+patch pocket <> w: 134606
+patched <> w: 134611, p: [26533]
+patchwork <> w: 134617
+patchy <> w: 134619
+pate <> w: 134620, p: [30401, 32022]
+patella <> w: 134624
+patent <> w: 134631, p: [59852, 48399]
+patent leather <> w: 134637, p: [34630]
+patent medicine <> w: 134639
+patently <> w: 134646, p: [48399]
+paternal <> w: 134649, p: [19346]
+paternity <> w: 134654, p: [19346]
+path <> w: 134659, p: [23449, 31932]
+pathetic <> w: 134662, p: [60548]
+pathetic fallacy <> w: 134663
+pathetically <> w: 134664, p: [49251]
+pathogen <> w: 134667, p: [16226]
+pathogenesis <> w: 134668
+pathogenic <> w: 134669
+pathological <> w: 134673
+pathologically <> w: 134676
+pathologist <> w: 134677
+pathology <> w: 134678
+pathos <> w: 134679, p: [23509]
+pathway <> w: 134680, p: [15927]
+patience <> w: 134681
+patient <> w: 134682, p: [16244, 60458]
+patiently <> w: 134685, p: [19276]
+patina <> w: 134686
+patio <> w: 134690, p: [51122]
+patisserie <> w: 134691
+patissier <> w: 219640
+patois <> w: 134694
+patriarch <> w: 134699
+patriarchal <> w: 134700, p: [27317]
+patriarchy <> w: 134704, p: [27317]
+patrician <> w: 134706
+patrilineal <> w: 134714
+patrimony <> w: 134720
+patriotic <> w: 134724
+patriotism <> w: 134726
+patrol <> w: 134732, p: [18822]
+patrol car <> w: 134734
+patrol wagon <> w: 134736
+patron <> w: 134740
+patronage <> w: 134742, p: [32660]
+patronize <> w: 134748, p: [48255, 32660]
+patronizing <> w: 134750
+patronymic <> w: 134755
+patter <> w: 134758
+pattern <> w: 134759, p: [18383, 54372]
+patterned <> w: 134761, p: [29870]
+patty <> w: 134764, p: [36399]
+paucity <> w: 134770
+paunch <> w: 134810
+pauper <> w: 134813
+pauperism <> w: 134816
+pause <> w: 134820, p: [59434]
+pavane <> w: 134823
+pave <> w: 134825, p: [46876]
+paved <> w: 134826
+pavement <> w: 134828, p: [51526, 28760]
+pavement artist <> w: 134829, p: [47720]
+paver <> w: 228027
+pavilion <> w: 134830
+paving stone <> w: 135004, p: [32515]
+paw <> w: 135017, p: [29888, 50683]
+pawn <> w: 135021, p: [30002]
+pawnshop <> w: 135026
+pawpaw <> w: 135027, p: [26858]
+pay <> w: 135033, p: [48547, 17903]
+pay dirt <> p: [16389]
+pay off <> p: [26353]
+pay rise <> w: 218489, p: [17905]
+pay-off <> p: [26353]
+payable <> w: 135050
+payday <> w: 135054
+payload <> w: 135063
+payment <> w: 135065, p: [17903, 48547]
+payoff <> w: 135070, p: [27245]
+payphone <> w: 210234, p: [29394]
+pea <> w: 135091, p: [50521]
+pea jacket <> p: [39647]
+peace <> w: 135108, p: [26331, 48949]
+peace offering <> w: 135118
+peaceable <> w: 135123
+peaceful <> w: 135126, p: [46344]
+peacefully <> w: 135127
+peacefulness <> w: 135128
+peacekeeper <> w: 135129
+peacekeeping <> w: 135130
+peacemaker <> w: 135133
+peach <> w: 135136, p: [48693, 38735]
+peach fuzz <> p: [39597]
+peachick <> w: 135150
+peachy <> w: 135153, p: [26726]
+peacoat <> w: 135156, p: [39647]
+peacock <> w: 135157, p: [50211, 34762]
+peacock blue <> w: 135160, p: [34855, 34855]
+peacock butterfly <> p: [34762]
+peafowl <> w: 135165, p: [50211]
+peahen <> w: 135167, p: [24971]
+peak <> w: 135168, p: [20283, 54752, 17335]
+peaked <> w: 135170
+peaky <> w: 135172
+peanut <> w: 135176, p: [14641]
+peanut butter <> w: 135179, p: [19134]
+peanut oil <> p: [34801]
+pear <> w: 135185, p: [35918]
+pear-shaped <> w: 135186, p: [31439]
+pearl <> w: 135191, p: [25431, 34053, 38813]
+pearl millet <> p: [35463]
+pearl onion <> p: [35076]
+pearly <> w: 135216, p: [48525]
+peasant <> w: 135225
+peat <> w: 135231
+peatland <> w: 229553
+pebble <> w: 135238
+pebbly <> w: 135241
+pecan <> w: 135244, p: [14649]
+peccable <> w: 135247
+peccadillo <> w: 135248
+peccant <> w: 135249
+peccary <> w: 135251, p: [24304]
+peck <> w: 135252, p: [30660, 19368]
+pecker <> w: 135254, p: [25086, 30295]
+peckerwood <> w: 135255, p: [25086]
+peckish <> w: 135257, p: [27309]
+pectin <> w: 135266
+pectoral <> w: 135271
+pectoral fin <> w: 135273
+peculate <> w: 135283
+peculiar <> w: 135286, p: [49147]
+peculiarity <> w: 135288
+peculiarly <> w: 135289, p: [49147]
+pecuniary <> w: 135290
+pedagogical <> w: 135294
+pedagogics <> w: 135296
+pedagogy <> w: 135298, p: [19989]
+pedal <> w: 135299, p: [37083, 38012, 51065]
+pedal pushers <> p: [39737]
+pedant <> w: 135306
+pedantic <> w: 135307
+pedantry <> w: 135309
+peddle <> w: 135312, p: [60057]
+peddler <> w: 135313, p: [37107, 20679]
+pedestal <> w: 135319
+pedestrian <> w: 135321, p: [27125]
+pedestrian crossing <> w: 135323, p: [28762]
+pedestrianize <> w: 227989
+pediatric <> w: 135327, p: [21455]
+pediatrician <> w: 135329, p: [21455]
+pediatrics <> w: 135330, p: [21455]
+pedicure <> w: 135346
+pedigree <> w: 135347
+pediment <> w: 135353
+pedlar <> w: 135361, p: [37107]
+pee <> w: 135506, p: [58899]
+peeing <> w: 135510
+peek <> w: 135511, p: [58625]
+peekaboo <> w: 135512, p: [31861]
+peel <> w: 135513, p: [58400, 39244, 36060, 37616]
+peel out <> p: [21487]
+peeled <> w: 135515, p: [39773, 20966]
+peeler <> w: 135516, p: [26624]
+peep <> w: 135519, p: [58625]
+peeper <> w: 135521
+peephole <> w: 135522, p: [32610]
+peeps <> w: 366342
+peer <> w: 135526, p: [27772, 19406]
+peer group <> w: 135527
+peer pressure <> p: [19254]
+peerage <> w: 135530
+peerless <> w: 135532
+peeve <> w: 135533, p: [20259]
+peeved <> w: 135534, p: [42600]
+peevish <> w: 135535, p: [27309]
+peewit <> w: 135539, p: [24973]
+peg <> w: 135540, p: [33404, 30273, 46571]
+pegasus <> w: 135544
+pegboard <> w: 135545, p: [41850]
+peignoir <> w: 135551
+pejorative <> w: 135555
+pelage <> w: 135565, p: [30896]
+pelf <> w: 135587, p: [60778]
+pelican <> w: 135590, p: [50265]
+pelisse <> w: 135594, p: [43024]
+pellagra <> w: 135602
+pellet <> w: 135603
+pellucid <> w: 135611
+peloton <> w: 227477
+pelt <> w: 135623, p: [59250, 22339]
+pelt down <> p: [18475]
+pelvic <> w: 135634
+pelvic girdle <> p: [18523]
+pelvis <> w: 135642, p: [18523]
+pemphigus <> w: 135651
+pen <> w: 135652, p: [24005, 53053]
+pen name <> w: 135657
+pen pal <> w: 135659
+penal <> w: 135661
+penalize <> w: 135669, p: [47861]
+penalty <> w: 135671, p: [31695, 20177]
+penalty area <> w: 365657
+penalty kick <> w: 226754
+penance <> w: 135674
+penchant <> w: 135676
+pencil <> w: 135677, p: [49197, 54319]
+pencil sharpener <> w: 135685, p: [29541]
+pencil skirt <> p: [34073]
+pendant <> w: 135688, p: [37061, 25453]
+pendent <> w: 135690, p: [37061]
+pending <> w: 135691
+pendulum <> w: 135694
+penetrable <> w: 135702
+penetrate <> w: 135704, p: [51192]
+penetrating <> w: 135705
+penetration <> w: 135709
+penetrative <> w: 135711
+penetrometer <> w: 222916
+peng <> w: 366399
+penguin <> w: 135716, p: [50267]
+penicillin <> w: 135719
+peninsula <> w: 135732
+penis <> w: 135735
+penitence <> w: 135737
+penitent <> w: 135738
+penitential <> w: 135739
+penitentiary <> w: 135741
+penknife <> w: 135743
+penmanship <> w: 135746, p: [26900]
+pennant <> w: 135749
+penne <> w: 135753, p: [37471]
+penniless <> w: 135755, p: [47761]
+penny <> w: 135774, p: [17505]
+penny whistle <> w: 209017, p: [27958]
+penny-farthing <> w: 365578
+penny-pinching <> w: 135776
+pennyroyal <> w: 135787, p: [35342]
+pension <> w: 135801, p: [19020]
+pension plan <> w: 135805
+pensioner <> w: 135808, p: [39261]
+pensive <> w: 135809, p: [45487]
+pensively <> w: 135810
+pentad <> w: 135832, p: [35948]
+pentagon <> w: 135834, p: [22901]
+pentagonal <> w: 135836, p: [22901]
+pentagram <> w: 135837, p: [26080]
+pentahedron <> w: 135838, p: [25968]
+pentameter <> w: 135841
+pentathlon <> w: 135851
+pentavalent <> w: 135855
+penthouse <> w: 135862, p: [21084]
+penultimate <> w: 135877
+penurious <> w: 135880
+penury <> w: 136004, p: [19334]
+peony <> w: 136008, p: [51152]
+people <> w: 136010, p: [47911]
+pep pill <> w: 136023
+pep rally <> w: 136024
+pep talk <> w: 136025, p: [44538]
+peplos <> w: 136034
+peplum <> w: 136035
+pepper <> w: 136037, p: [19100, 34999, 34999, 37828]
+pepper mill <> w: 136044, p: [37618]
+pepper pot <> w: 136045, p: [42702]
+pepper-and-salt <> w: 136038, p: [30179]
+peppermint <> w: 136059, p: [27786, 19116]
+pepperoni <> w: 136064, p: [37505]
+peppery <> w: 136068
+peppy <> w: 136070
+pepsin <> w: 136073
+peptic ulcer <> w: 136076
+peptide <> w: 136079
+per <> w: 210168
+per annum <> w: 136089
+per capita <> w: 136090
+per diem <> w: 136093
+per se <> w: 136094
+perambulate <> w: 136098
+perceivable <> w: 136108
+perceive <> w: 136109, p: [53505]
+percent <> w: 136112, p: [61240, 61240, 61240]
+percentage <> w: 136114, p: [23241]
+perceptible <> w: 136120, p: [49754]
+perceptibly <> w: 136121
+perception <> w: 136122
+perceptive <> w: 136123, p: [42304]
+perch <> w: 136131, p: [34508, 59127, 34508, 24719]
+percipient <> w: 136144
+percolate <> w: 136150, p: [38032]
+percolator <> w: 136152
+percussion <> w: 136156, p: [30096]
+percussionist <> w: 136160, p: [30323]
+percussive <> w: 136161
+perdition <> w: 136171, p: [23175]
+peregrinate <> w: 136178, p: [49459]
+peregrination <> w: 136179
+peregrine <> w: 136180, p: [25581]
+peregrine falcon <> w: 136181, p: [25581]
+peremptory <> w: 136184
+perennial <> w: 136187, p: [45589]
+perennially <> w: 136192
+perfect <> w: 136196, p: [45812, 51900, 26098]
+perfect participle <> w: 136199
+perfectible <> w: 136206
+perfection <> w: 136207
+perfectionism <> w: 136208
+perfectionist <> w: 136209
+perfectly <> w: 136213, p: [43540]
+perfidious <> w: 136215
+perfidy <> w: 136218
+perforate <> w: 136222, p: [59060]
+perform <> w: 136228, p: [15961, 19528]
+performance <> w: 136229, p: [15961, 15961]
+performance art <> p: [52035]
+performer <> w: 136232, p: [18577]
+performing <> w: 136233, p: [51866]
+performing arts <> w: 136235, p: [52035]
+perfume <> w: 136236, p: [14566]
+perfumed <> w: 136237
+perfumery <> w: 136239
+perfunctory <> w: 136241
+perfuse <> w: 136242
+pergola <> w: 136245
+perhaps <> w: 136246, p: [43340]
+pericardium <> w: 136265, p: [30457]
+pericarp <> w: 136266
+peridot <> w: 136274, p: [34580]
+peridotite <> w: 136275, p: [34580]
+perigee <> w: 136276
+peril <> w: 136283, p: [47602]
+perilous <> w: 136286, p: [45962]
+perilously <> w: 136287, p: [49217]
+perilousness <> w: 136288
+perimeter <> w: 136291, p: [38429, 38449]
+period <> w: 136302, p: [27479, 48181]
+period piece <> w: 136305, p: [26415]
+periodic <> w: 136306
+periodic table <> w: 136316
+periodical <> w: 136317
+periodically <> w: 136319, p: [49698]
+periodicity <> w: 136320
+periodontics <> w: 136325
+peripatetic <> w: 136330
+peripheral <> w: 136339
+peripherally <> w: 136343
+periphery <> w: 136344
+periphrasis <> w: 136345
+perish <> w: 136356, p: [17775]
+perish the thought <> p: [46169]
+perishable <> w: 136358, p: [35639]
+peristyle <> w: 136374
+perjure <> w: 136514
+perjury <> w: 136516
+perk <> w: 136517
+perm <> w: 136525, p: [26090]
+permafrost <> w: 136526
+permanence <> w: 136528
+permanent <> w: 136530, p: [28872]
+permanent wave <> w: 136536
+permanently <> w: 136537, p: [49934]
+permeable <> w: 136542
+permeate <> w: 136545, p: [46844]
+permissible <> w: 136554
+permission <> w: 136556, p: [35792]
+permissively <> w: 136559
+permit <> w: 136561, p: [60714]
+permutation <> w: 136565
+permute <> w: 136566, p: [53130]
+pernicious <> w: 136569, p: [23093]
+peroxide <> w: 136604, p: [26154]
+perpend <> w: 222247
+perpendicular <> w: 136607, p: [22915]
+perpendicularly <> w: 136610
+perpetrate <> w: 136611
+perpetrator <> w: 136613
+perpetual <> w: 136614, p: [49986]
+perpetually <> w: 136619, p: [43404]
+perpetuate <> w: 136620, p: [59682]
+perpetuation <> w: 136621
+perpetuity <> w: 136622
+perplex <> w: 136624
+perplexed <> w: 136625
+perplexing <> w: 136627, p: [48609]
+perplexity <> w: 136628, p: [61270]
+perquisite <> w: 136629
+perron <> w: 222815
+perry <> w: 136630
+persecute <> w: 136635, p: [45267]
+persecution <> w: 136636
+persecution complex <> w: 209924
+perseverance <> w: 136641
+persevere <> w: 136644, p: [52817]
+persiflage <> w: 136662
+persimmon <> w: 136663, p: [26924, 39365]
+persist <> w: 136665, p: [52805]
+persistence <> w: 136667
+persistency <> w: 136668
+persistent <> w: 136669, p: [49872, 59868]
+persistently <> w: 136670, p: [49872]
+persnickety <> w: 136672
+person <> w: 136673, p: [47909]
+persona <> w: 136679
+personable <> w: 136682
+personage <> w: 136684
+personal <> w: 136685, p: [43284]
+personal assistant <> w: 219309, p: [16740]
+personal column <> w: 209129
+personal computer <> w: 135081, p: [51558]
+personal pronoun <> w: 136714
+personality <> w: 136721
+personalize <> w: 136726, p: [54621]
+personalized <> w: 136727
+personally <> w: 136728, p: [43572]
+personification <> w: 136733
+personify <> w: 136734
+personnel <> w: 136735, p: [39255]
+perspective <> w: 136742, p: [32106]
+perspicacious <> w: 136744
+perspicacity <> w: 136746
+perspicuous <> w: 136748
+perspiration <> w: 136751, p: [21855]
+perspire <> w: 136752, p: [21855]
+persuadable <> w: 136754
+persuade <> w: 136755, p: [52709]
+persuasion <> w: 136758
+persuasive <> w: 136759, p: [60304]
+persuasively <> w: 136760, p: [48957]
+pert <> w: 136762
+pertain <> w: 136763
+pertinacious <> w: 136766
+pertinacity <> w: 136768
+pertinent <> w: 136771
+pertinently <> w: 136772
+perturb <> w: 136775, p: [46410]
+perturbation <> w: 136776
+perturbed <> w: 136777
+perturbing <> w: 136778
+pertussis <> w: 136781
+perusal <> w: 136785
+peruse <> w: 136786
+perv <> w: 366538
+pervade <> w: 136797, p: [46844]
+pervasive <> w: 136801
+perverse <> w: 136804
+perversely <> w: 136805
+perversion <> w: 136807
+perversity <> w: 136808
+pervert <> w: 136810
+perverted <> w: 136811
+pervious <> w: 136812
+pes <> w: 136814, p: [50679]
+pesky <> w: 136826, p: [46127]
+pessary <> w: 136828
+pessimism <> w: 136830
+pessimist <> w: 136831, p: [19618]
+pessimistic <> w: 136832, p: [19618]
+pest <> w: 136835, p: [30838]
+pester <> w: 136836, p: [53138]
+pestering <> w: 136839, p: [46127]
+pesticide <> w: 136842, p: [22784]
+pestiferous <> w: 136844, p: [46127]
+pestilence <> w: 136845
+pestilent <> w: 136846
+pestle <> w: 136851, p: [30772]
+pesto <> w: 136852, p: [30982]
+pet <> w: 136853, p: [28792, 30557]
+petal <> w: 137009, p: [29910]
+peter <> w: 229375
+petit four <> p: [31417]
+petite <> w: 137075, p: [34011, 34011]
+petition <> w: 137081, p: [59816]
+petrel <> w: 137087, p: [24977]
+petrified <> w: 211829, p: [20205]
+petrify <> w: 137092, p: [47652]
+petrifying <> w: 137093
+petrol <> w: 137100, p: [16710]
+petrol station <> w: 137107, p: [17168]
+petroleum <> w: 137111, p: [20430]
+petroleum jelly <> w: 137115
+petrology <> w: 137117
+petrous <> w: 137129
+petticoat <> w: 137134, p: [25419]
+pettish <> w: 137143, p: [27309]
+pettishly <> w: 137144
+petty <> w: 137146, p: [17731]
+petulance <> w: 137158
+petulant <> w: 137159, p: [27309]
+petulantly <> w: 137160
+pew <> w: 137166, p: [23433]
+pewter <> w: 137170
+phaeton <> w: 137202
+phagocyte <> w: 137204
+phalarope <> w: 137232
+phallus <> w: 137243
+phantasmagorical <> w: 137257
+phantasmal <> w: 137258
+phantasy <> w: 137259, p: [22405]
+phantom <> w: 137262
+pharaoh <> w: 137267
+pharmaceutical <> w: 137278, p: [51544, 51544]
+pharmacist <> w: 137282, p: [50589]
+pharmacological <> w: 137286
+pharmacologist <> w: 137289
+pharmacology <> w: 137290
+pharmacopoeia <> w: 137292
+pharmacy <> w: 137293, p: [51634]
+pharyngitis <> w: 137304, p: [16236]
+pharynx <> w: 137305, p: [50733]
+phase <> w: 137309
+phasmid <> w: 137345, p: [25343]
+pheasant <> w: 137353, p: [24987, 32588]
+phenology <> w: 365407
+phenomenal <> w: 137384, p: [49588]
+phenomenally <> w: 137385, p: [49588]
+phenomenological <> w: 224419
+phenomenology <> w: 137386
+phenomenon <> w: 137387
+phenotype <> w: 137390
+phew <> w: 218066, p: [45335]
+philander <> w: 137425, p: [19600]
+philanthropic <> w: 137427
+philanthropist <> w: 137431
+philanthropy <> w: 137432
+philatelist <> w: 137436
+philately <> w: 137437
+philharmonic <> w: 137439
+philistine <> w: 137540
+philologist <> w: 137553
+philology <> w: 137555
+philosopher <> w: 137560
+philosophical <> w: 137566
+philosophically <> w: 137570
+philosophy <> w: 137576, p: [19168, 31530]
+phishing <> w: 210368
+phiz <> w: 137583, p: [60750]
+phlebotomist <> w: 137591, p: [33151]
+phlegm <> w: 137596
+phlegmatic <> w: 137598
+phobia <> w: 137615, p: [21509]
+phoenix <> w: 137640, p: [29940]
+phonate <> w: 137662
+phonation <> w: 137663, p: [26198]
+phone <> w: 137664, p: [27123, 29406, 48703]
+phone book <> w: 137667, p: [37069]
+phone booth <> w: 137668
+phone box <> w: 216565, p: [29394]
+phone card <> w: 137670, p: [36064]
+phoneme <> w: 137682
+phonemic <> w: 137683
+phonetic <> w: 137688
+phonetically <> w: 137692
+phonetics <> w: 137694
+phonic <> w: 137696
+phonics <> w: 137697
+phonogram <> w: 137698
+phonograph <> w: 137700, p: [21382]
+phonograph record <> p: [23959]
+phonological <> w: 137708
+phonology <> w: 137711
+phonotactics <> w: 223338
+phony <> w: 137713, p: [45671]
+phosphate <> w: 137722
+phosphorescence <> w: 137731
+phosphorous <> w: 137735
+phosphorus <> w: 137737
+photo finish <> w: 137748
+photocell <> w: 137754
+photocopier <> w: 137765
+photocopy <> w: 137766, p: [17819]
+photoelectric <> w: 137767
+photogenic <> w: 137780
+photogram <> w: 222817
+photogrammetry <> w: 222834
+photograph <> w: 137782, p: [17815, 47430]
+photographer <> w: 137784, p: [47436]
+photographic <> w: 137786
+photography <> w: 137797, p: [51935]
+photojournalism <> w: 137799
+photojournalist <> w: 137800, p: [47724]
+photometer <> w: 137805
+photometry <> w: 137811
+photomicrography <> w: 222837
+photomontage <> w: 137813
+photon <> w: 137815
+photophore <> w: 220271
+photorealism <> w: 208815
+photoreceptor <> w: 365619
+photoshop <> w: 218576
+photosphere <> w: 137825
+photosynthesis <> w: 137828
+photosynthetic <> w: 137829
+phototherapy <> w: 137830
+phototropism <> w: 137833
+photovoltaic <> w: 137834
+phrasal verb <> w: 137845
+phrase <> w: 137846, p: [52725]
+phraseology <> w: 137849
+phrasing <> w: 137850
+phylogenesis <> w: 137922, p: [23299]
+phylogenetic <> w: 137923
+phylogeny <> w: 137926, p: [23299]
+phylum <> w: 137927
+physiatrist <> w: 218365
+physical <> w: 138036, p: [28459, 17635]
+physical education <> w: 138046, p: [51548]
+physical science <> w: 138059, p: [29265]
+physical therapist <> p: [29709]
+physical therapy <> p: [29709]
+physicalism <> w: 138064, p: [31263]
+physically <> w: 138066, p: [28459]
+physician <> w: 138068, p: [50501]
+physicist <> w: 138071
+physics <> w: 138073, p: [29265]
+physiognomy <> w: 138078, p: [60750]
+physiography <> w: 138079
+physiologically <> w: 138091
+physiologist <> w: 138092
+physiology <> w: 138093
+physiotherapist <> w: 138095, p: [29709]
+physiotherapy <> w: 138096
+physique <> w: 138097, p: [60746, 60746]
+phytochemical <> w: 138105
+phytochrome <> w: 365618
+phytoplankton <> w: 138124
+pi <> w: 138127
+pianissimo <> w: 138136
+pianist <> w: 138138, p: [42408]
+piano <> w: 138140, p: [21477]
+piano accordion <> p: [38405]
+pianoforte <> w: 138154, p: [21477]
+piazza <> w: 138159, p: [52049]
+pica <> w: 138165, p: [24887]
+picante <> w: 209299, p: [15841]
+picaresque <> w: 138174
+picayune <> w: 138177
+piccalilli <> w: 138178, p: [35194]
+piccolo <> w: 138180, p: [27985]
+pick <> w: 138198, p: [60720, 14681, 30660, 27634, 33581, 30275]
+pick and choose <> p: [43070]
+pick holes in <> p: [41042]
+pick on <> p: [42234]
+pick up <> p: [40703, 35864, 51761, 45202]
+pick up the pieces <> p: [40531]
+pick-me-up <> w: 138200
+pick-up <> p: [40703, 35864, 51761, 45202]
+pickax <> w: 138212, p: [33581]
+pickaxe <> w: 138213, p: [33581]
+picket <> w: 138223, p: [42498]
+pickle <> w: 138232, p: [19118, 37752]
+pickled <> w: 138235, p: [37752]
+pickpocket <> w: 138239, p: [20850]
+pickup <> w: 138240, p: [33545, 38022]
+picky <> w: 138243, p: [60180]
+picnic <> w: 138244, p: [27447, 31249, 27447]
+pictograph <> w: 138265
+pictorially <> w: 138271
+picture <> w: 138273, p: [26184, 36892, 49461, 28073, 59824]
+picture book <> w: 138274
+picture rail <> w: 138283
+picture-perfect <> w: 216749
+picturesque <> w: 138290, p: [49005]
+picturesquely <> w: 138291, p: [49005]
+piddle <> w: 138300
+piddling <> w: 138302
+pidgin <> w: 138304
+pie <> w: 138306, p: [50377]
+pie chart <> w: 138309, p: [23237]
+pie in the sky <> p: [46661]
+pie-eyed <> w: 138308
+piece <> w: 138314, p: [31147, 20023, 18838, 23861, 29840]
+piece de resistance <> w: 138316
+piece of work <> p: [42028]
+piecemeal <> w: 138332
+piecrust table <> p: [42086]
+pied <> w: 138334
+pied-a-terre <> w: 138335
+pier <> w: 138345, p: [33839]
+pierce <> w: 138351, p: [51192]
+piercing <> w: 138353, p: [25561, 46277]
+piercingly <> w: 138354
+pierid <> w: 138502, p: [34925]
+piety <> w: 138539
+piffling <> w: 138547
+pig <> w: 138548, p: [50170, 50625, 39143]
+pig-out <> p: [32531]
+pigeon <> w: 138561, p: [18023]
+pigeon pair <> p: [40217]
+pigeon pea <> p: [35601]
+pigeonhole <> w: 138573
+piggy <> w: 138580, p: [24480]
+piggyback <> w: 138582, p: [59104, 59104]
+pigheaded <> w: 138584
+piglet <> w: 138586, p: [24480]
+pigment <> w: 138588, p: [25655, 47634]
+pigmentation <> w: 138589
+pignut <> w: 138593, p: [35140]
+pigskin <> w: 138599
+pigtail <> w: 138603, p: [30181]
+pika <> w: 138607, p: [40087]
+pike <> w: 138608, p: [24721]
+pike on <> p: [52997]
+pilaf <> w: 138616
+pilaster <> w: 138621
+pilchard <> w: 138625, p: [24723]
+pile <> w: 138626, p: [20085, 22794]
+pile into <> p: [53441]
+pile-up <> w: 227858
+pileup <> w: 138635
+pilfer <> w: 138638
+pilgrim <> w: 138641, p: [31697]
+pilgrimage <> w: 138645, p: [31697]
+pill <> w: 138647, p: [16718]
+pillage <> w: 138653
+pillar <> w: 138657, p: [50904]
+pillion <> w: 138665
+pillory <> w: 138667
+pillow <> w: 138668, p: [27036, 16517]
+pillowcase <> w: 138676, p: [32958]
+pilot <> w: 138686, p: [50591, 37035, 16055]
+pimento <> w: 138725, p: [35007]
+pimpernel <> w: 138732, p: [35358]
+pimple <> w: 138735, p: [29677]
+pimpled <> w: 138736
+pimply <> w: 138737
+pin <> w: 138738, p: [25279, 33295, 46573]
+pina colada <> p: [50389]
+pinafore <> w: 138760, p: [25014]
+pinata <> w: 138761, p: [59220]
+pinball <> w: 138763, p: [32080]
+pincer <> w: 138767, p: [30624]
+pinch <> w: 138768, p: [35896, 35896, 21050]
+pinched <> w: 138774
+pincushion <> w: 138782, p: [33313]
+pine <> w: 138789, p: [21925, 61304]
+pine marten <> w: 138804, p: [24306]
+pine nut <> p: [35433]
+pineal gland <> w: 138818, p: [30439]
+pineapple <> w: 138820, p: [38070]
+pinecone <> w: 138826, p: [33605]
+piney <> w: 225559
+ping <> w: 138834, p: [58798]
+ping-pong <> w: 138835, p: [51073]
+pinhead <> w: 138846, p: [17871]
+pinion <> w: 138851
+pink <> w: 138856, p: [47831, 47831]
+pink elephants <> p: [43446]
+pink slip <> p: [41612]
+pinkie <> w: 139029, p: [20733]
+pinking shears <> w: 217138, p: [34881]
+pinko <> w: 139037
+pinky <> w: 139039, p: [20733]
+pinnacle <> w: 139042, p: [20283]
+pinniped <> w: 139054
+pinny <> w: 139061
+pinochle <> w: 139062
+pinpoint <> w: 139076, p: [43680]
+pins and needles <> w: 139078, p: [39393]
+pinstripe <> w: 139081, p: [34670]
+pinstriped <> w: 139082, p: [34670]
+pint <> w: 139083, p: [32830]
+pint-size <> w: 139084
+pinto <> w: 139090
+pinwheel <> w: 139131
+pioneer <> w: 139140, p: [59386]
+pioneering <> w: 225529
+pious <> w: 139141
+piously <> w: 139143
+pip <> w: 139145, p: [26860, 20786]
+pipa <> w: 139148
+pipe <> w: 139154, p: [36976, 30333, 27958]
+pipe down <> p: [26317]
+pipe dream <> p: [47232]
+pipe fitter <> w: 139163, p: [21064]
+pipe organ <> p: [21481]
+pipeline <> w: 139179
+piper <> w: 139181, p: [39191]
+pipette <> w: 139196
+pipework <> w: 139197
+piping hot <> p: [37970]
+pipistrelle <> w: 139210
+pipit <> w: 139214, p: [25837]
+piquancy <> w: 139227
+piquant <> w: 139228, p: [15841]
+pique <> w: 139231
+piquet <> w: 139233
+piracy <> w: 139234
+piranha <> w: 139242, p: [50315]
+pirate <> w: 139243, p: [36459]
+piri-piri <> p: [30984]
+pirouette <> w: 139254
+piscina <> w: 222168
+piscivorous <> w: 139271
+piss <> w: 139278, p: [58901, 58901]
+piss off <> p: [42850, 48479]
+pissed <> w: 139281, p: [42850, 18291]
+pissed off <> p: [43612]
+pissing <> w: 139284
+pistachio <> w: 139286, p: [14647]
+piste <> w: 139293
+pistol <> w: 139300, p: [18838]
+piston <> w: 139305
+pit <> w: 139314, p: [26860, 23175, 37552, 59767, 29428]
+pit stop <> w: 139320
+pit viper <> p: [23837]
+pita <> w: 139322, p: [27750]
+pitch <> w: 139326, p: [17579, 17579, 16071]
+pitch in <> p: [47254, 48249]
+pitch-black <> w: 139327
+pitcher <> w: 139342, p: [20071]
+pitchfork <> w: 139349, p: [22598]
+pitchman <> w: 139354, p: [37107]
+pitchout <> w: 226818
+pitchy <> w: 139356, p: [20422]
+piteous <> w: 139357
+pitfall <> w: 139359
+pith <> w: 139360
+pith helmet <> w: 139362, p: [25198]
+pithily <> w: 139371, p: [49712]
+pithy <> w: 139503, p: [49712]
+pitiable <> w: 139504, p: [49251]
+pitiably <> w: 139505
+pitiful <> w: 139506
+pitiless <> w: 139508
+pitilessly <> w: 139509
+pitta <> w: 139524, p: [27750]
+pittance <> w: 139525
+pitted <> w: 139526
+pitter-patter <> w: 139527
+pituitary <> w: 139535
+pity <> w: 139541, p: [23509, 44620]
+pityingly <> w: 139542
+pityriasis <> w: 139545
+pivot <> w: 139562, p: [47064]
+pivotable <> w: 365685
+pivotal <> w: 139566, p: [45734]
+pixel <> w: 139570
+pixie <> w: 139571, p: [18722]
+pixilation <> w: 221267
+pizza <> w: 139575, p: [50355]
+pizza parlor <> w: 139576, p: [21324]
+pizzeria <> w: 139581, p: [21324]
+pizzicato <> w: 139582
+placard <> w: 139588, p: [35603]
+placate <> w: 139589, p: [47967]
+place <> w: 139595, p: [21224, 23247, 23779, 27768, 49504, 49504, 48505, 36900, 52049]
+place kick <> w: 139602
+place mat <> w: 139603, p: [26507]
+place setting <> w: 139609, p: [32720]
+placebo <> w: 139612
+placement <> w: 139618
+placenta <> w: 139621
+placid <> w: 139630, p: [31261]
+placket <> w: 139636
+plagiarism <> w: 139651
+plagiarize <> w: 139655, p: [47646]
+plague <> w: 139661, p: [44790]
+plaguy <> w: 139666, p: [46127]
+plaice <> w: 139667, p: [24727]
+plaid <> w: 139668, p: [28850, 34123]
+plain <> w: 139669, p: [28612, 20605, 28830, 19270, 49708, 27163, 34041, 28065]
+plain clothes <> p: [34885]
+plain flour <> w: 139672, p: [27738]
+plain-clothes <> w: 218952
+plainly <> w: 139680, p: [49285]
+plaintiff <> w: 139691
+plaintive <> w: 139693
+plait <> w: 139696, p: [26112, 29872, 26092]
+plan <> w: 139698, p: [20924, 23883, 20924]
+planar <> w: 139701
+plane <> w: 139712, p: [49478]
+plane geometry <> w: 139717
+planer <> w: 139724, p: [41718]
+planet <> w: 139726, p: [20432]
+planetarium <> w: 139730, p: [37401]
+planetary <> w: 139731, p: [28471]
+plank <> w: 139742
+planking <> w: 139746
+plankton <> w: 139747, p: [50299]
+planner <> w: 139753
+planning <> w: 139754, p: [51666]
+planning permission <> w: 211355
+plant <> w: 139765, p: [17617, 20418, 14651, 47262]
+plant hopper <> p: [36461]
+plantain <> w: 139806, p: [26912]
+plantar <> w: 139812
+plantation <> w: 139815, p: [22664, 19212]
+planter <> w: 139819, p: [41854]
+plaque <> w: 139829
+plasma <> w: 139833
+plasmapheresis <> w: 140003
+plaster <> w: 140017, p: [18976, 21392, 21392, 54535]
+plaster cast <> w: 140019, p: [21392]
+plastered <> w: 140024, p: [26132]
+plasterwork <> w: 140029
+plastic <> w: 140030, p: [61124, 17497, 61124]
+plastic surgeon <> p: [21394]
+plastic surgery <> w: 140038, p: [23955]
+plastic wrap <> w: 140039, p: [26517]
+plasticity <> w: 140044
+plastron <> w: 140052
+plate <> w: 140072, p: [50631, 21332, 31618, 47975]
+plate glass <> w: 140075
+plate tectonics <> w: 140080
+plateau <> w: 140081, p: [31940]
+platelet <> w: 140085
+platform <> w: 140090, p: [17364, 36983, 36365, 26226]
+platform game <> w: 211432
+platinum <> w: 140098, p: [25471, 38559]
+platinum blonde <> w: 140102, p: [29958, 29958]
+platitude <> w: 140104
+platonic <> w: 140111
+platoon <> w: 140118
+platter <> w: 140125, p: [32856]
+platypus <> w: 140144, p: [24110]
+plaudit <> w: 140154
+plausible <> w: 140157, p: [17453]
+plausibly <> w: 140159
+play <> w: 140164, p: [48553, 51731, 29366, 22307, 27239, 49193, 18864, 22361]
+play along <> p: [53174, 44694]
+play at <> p: [44238]
+play ducks and drakes with <> p: [41838]
+play for time <> p: [44262]
+play games <> p: [43714]
+play hard to get <> p: [40127, 46527]
+play off <> p: [50759]
+play on <> p: [44670]
+play out <> p: [45094]
+play the game <> p: [43973]
+play the market <> p: [41902]
+play up <> p: [51884]
+play with <> p: [60847]
+play-off <> p: [50759]
+playa <> w: 227154
+playable <> w: 140185
+playacting <> w: 140187, p: [51866]
+playback <> w: 140189
+playbill <> w: 140190
+playdate <> w: 217732, p: [22822]
+played <> w: 229182
+player <> w: 140197, p: [49806, 50617, 18577]
+player piano <> w: 140198
+playfellow <> w: 140199, p: [22822]
+playful <> w: 140200, p: [60284]
+playfully <> w: 140201, p: [44738]
+playfulness <> w: 140202
+playgoer <> w: 140203
+playground <> w: 140204, p: [19196]
+playhouse <> w: 140207
+playing <> w: 140208, p: [44894, 51866]
+playing card <> w: 140210, p: [51664]
+playing field <> w: 140211, p: [16071, 41375]
+playlist <> w: 140214
+playmate <> w: 140217, p: [22822]
+playoff <> w: 140218
+playpen <> w: 140220
+playroom <> w: 140221, p: [28712]
+plaything <> w: 140225, p: [48913]
+playtime <> w: 140226
+playwright <> w: 140227, p: [19090]
+plaza <> w: 140228, p: [51632, 52049]
+plea <> w: 140229
+pleach <> w: 140234, p: [26092]
+plead <> w: 140235, p: [19659, 55214]
+pleading <> w: 140237
+pleasant <> w: 140241, p: [17549, 17653]
+pleasantly <> w: 140245, p: [17311]
+pleasantry <> w: 140247
+please <> w: 140248, p: [47520, 48301, 47520]
+pleased <> w: 140249, p: [38713]
+pleasing <> w: 140251, p: [17549]
+pleasurable <> w: 140254, p: [17549]
+pleasurably <> w: 140255
+pleasure <> w: 140256, p: [52021, 52115]
+pleat <> w: 140265, p: [29872]
+pleated <> w: 224490
+plebeian <> w: 140269
+plecopteran <> w: 140272, p: [36467]
+plectrum <> w: 140287, p: [30275]
+pledge <> w: 140288, p: [57999, 21999]
+pledgee <> w: 140291
+plenary <> w: 140299
+plenitude <> w: 140301
+plenteous <> w: 140302
+plenteousness <> w: 140304
+plentiful <> w: 140305, p: [23235]
+plentifulness <> w: 140307
+plentitude <> w: 140308
+plenty <> w: 140309
+pleonasm <> w: 140317
+pleonastic <> w: 140319
+plethora <> w: 140504
+plethoric <> w: 140505
+pleura <> w: 140507
+plexus <> w: 140538
+pliable <> w: 140557, p: [23709]
+pliant <> w: 140559
+pliers <> w: 140568, p: [46732]
+plight <> w: 140569, p: [58214]
+plimsoll <> w: 140570, p: [26878]
+plinth <> w: 140574
+plod <> w: 140585
+plodder <> w: 140586
+plodding <> w: 140587, p: [48411]
+plonk <> w: 140589, p: [54517]
+plop <> w: 140591, p: [47534]
+plosive <> w: 140593
+plot <> w: 140596, p: [59436, 53655]
+ploughland <> w: 140611, p: [19204]
+ploughman's lunch <> w: 140613, p: [30962]
+plover <> w: 140617, p: [24981]
+plow <> w: 140618, p: [20301, 20303]
+pluck <> w: 140630, p: [46878, 39015, 14681]
+plucky <> w: 140635
+plug <> w: 140636, p: [32002, 33567, 46774, 21230]
+plug into <> p: [32002]
+plug-in <> p: [32002]
+plugged <> w: 140645
+plughole <> w: 140647, p: [18051]
+plum <> w: 140648, p: [18137, 38761]
+plum pudding <> w: 140653, p: [31044]
+plum tomato <> w: 140655, p: [35009]
+plumage <> w: 140657, p: [20539]
+plumb <> w: 140660
+plumb line <> w: 140663
+plumber <> w: 140671, p: [21064]
+plumbic <> w: 140675
+plumbing <> w: 140676
+plume <> w: 140683, p: [20539, 26128, 34361]
+plummet <> w: 140698, p: [49441, 22943]
+plump <> w: 140701, p: [29206]
+plump for <> p: [46651]
+plump up <> p: [52059]
+plunder <> w: 140711, p: [47696]
+plunge <> w: 140716, p: [48729, 29440, 22943, 51049]
+plunger <> w: 140717, p: [22648, 39165]
+plunging <> w: 208558, p: [34095]
+plunk <> w: 140718, p: [14681]
+pluperfect <> w: 140722
+plural <> w: 140724
+pluralism <> w: 140728
+pluralistic <> w: 140730
+plurality <> w: 140731
+plus <> w: 140734, p: [61214, 61242]
+plus fours <> w: 140735, p: [34321]
+plus sign <> w: 140736, p: [61242]
+plush <> w: 140737, p: [45844]
+plutocracy <> w: 140747
+pluton <> w: 140751
+ply <> w: 140765
+plywood <> w: 140772, p: [33583]
+pm <> w: 140774, p: [17783, 17783]
+pneumatic <> w: 140776
+pneumatics <> w: 140783
+pneumonia <> w: 140797
+png <> w: 222993
+poach <> w: 140816, p: [47682, 21074]
+poacher <> w: 140819
+poaching <> w: 140820
+pochette <> w: 216637, p: [34582]
+pock <> w: 140827, p: [29428]
+pocket <> w: 140829, p: [49886, 30589, 49886]
+pocket calculator <> w: 141010
+pocket gopher <> p: [24168]
+pocket money <> w: 141019
+pocketable <> w: 141024, p: [37243]
+pocketbook <> w: 141025, p: [48575, 28992]
+pod <> w: 141034, p: [30688]
+podcast <> w: 141040
+podcaster <> w: 208646
+podcasting <> w: 208647
+podgy <> w: 141042, p: [26782]
+podiatrist <> w: 141043
+podiatry <> w: 141044
+podium <> w: 141056, p: [35641]
+poem <> w: 141087
+poesy <> w: 141091
+poet <> w: 141092, p: [44996]
+poetic <> w: 141096
+poetic justice <> w: 141097, p: [43490]
+poetic license <> w: 141098
+poetically <> w: 141101
+poetry <> w: 141107, p: [44998]
+poignancy <> w: 141124
+poignant <> w: 141125
+poignantly <> w: 141126, p: [45960]
+poinsettia <> w: 141135, p: [33651]
+point <> w: 141137, p: [23253, 29046, 27479, 27479, 27479, 18117, 23779]
+point duty <> w: 141143
+point of sale <> w: 221439
+point of view <> w: 141159
+point to <> p: [53415]
+point-to-point <> w: 227257
+pointe <> w: 220706
+pointed <> w: 141166, p: [22903, 49936]
+pointedly <> w: 141170, p: [49936]
+pointer <> w: 141173, p: [25128, 29483]
+pointillism <> w: 141174, p: [25447]
+pointing <> w: 222357
+pointless <> w: 141179, p: [45750]
+pointy <> w: 224489, p: [22903]
+poise <> w: 141185
+poised <> w: 141186
+poison <> w: 141187, p: [20824, 47336]
+poison ivy <> w: 141196, p: [33641]
+poisonous <> w: 141207, p: [23911, 20824]
+poke <> w: 141220, p: [46914]
+poke fun at <> p: [44740]
+poker <> w: 141228, p: [44992, 32560]
+poker face <> w: 141232, p: [30084]
+polar <> w: 141249, p: [18998, 18473]
+polar bear <> w: 141250, p: [50225]
+polarity <> w: 141266
+polarization <> w: 141267
+polarize <> w: 141268
+polarized <> w: 210465
+pole vault <> w: 141284, p: [36908]
+pole-vaulter <> p: [36908]
+polecat <> w: 141289, p: [24757, 24336]
+polemic <> w: 141291
+polemical <> w: 141292
+polemicize <> w: 141296
+polemics <> w: 141297
+polenta <> w: 141310, p: [31169]
+police <> w: 141315, p: [60780, 60780, 18822]
+police department <> w: 141327
+police dog <> w: 141329, p: [25130]
+police force <> w: 141330, p: [60780]
+police officer <> w: 141336, p: [50625]
+police station <> w: 141341, p: [51636]
+policeman <> w: 141345, p: [50625]
+policewoman <> w: 141503, p: [36367]
+policing <> w: 209847
+policy <> w: 141504
+polio <> w: 141509
+polished <> w: 141520, p: [45547]
+polite <> w: 141527, p: [60306]
+politely <> w: 141528, p: [17551]
+politic <> w: 141531
+political <> w: 141532, p: [28734]
+political asylum <> w: 211329
+political economy <> w: 141544, p: [36948]
+political science <> w: 141558
+politically <> w: 141565
+politically correct <> w: 141566, p: [17551]
+politician <> w: 141568, p: [16375]
+politics <> w: 141573
+polity <> w: 141574
+polka <> w: 141576
+polka dot <> w: 141577, p: [33679]
+polka-dotted <> p: [33679]
+poll <> w: 141578, p: [59662, 30401]
+pollen <> w: 141586
+pollex <> w: 141591, p: [50695]
+pollinate <> w: 141592, p: [51278]
+pollination <> w: 141593, p: [51278]
+pollinator <> w: 141594, p: [51278]
+polling station <> w: 141598
+polliwog <> w: 141601, p: [23839]
+pollock <> w: 141602, p: [24729]
+pollutant <> w: 141606
+pollute <> w: 141607, p: [17228]
+polluted <> w: 141608, p: [17228]
+pollution <> w: 141610, p: [17228]
+polo <> w: 141616
+polo neck <> w: 365533
+polo shirt <> w: 141622, p: [33289]
+polonaise <> w: 141624, p: [39799]
+poltroon <> w: 141629
+poly <> w: 220396
+polyamory <> w: 224701
+polyandry <> w: 141634
+polycarbonate <> w: 222354
+polyclinic <> w: 210015
+polyester <> w: 141676, p: [34957]
+polygamist <> w: 141688
+polygamy <> w: 141690
+polyglot <> w: 141695
+polygon <> w: 141696, p: [25970]
+polygonal <> w: 141698
+polygyny <> w: 141714
+polyhedron <> w: 141717, p: [25938]
+polymath <> w: 141722
+polymer <> w: 141723
+polymorph <> w: 141733
+polymorphous <> w: 141737
+polymyositis <> w: 141739
+polynomial <> w: 141747
+polyp <> w: 141759, p: [25743]
+polypeptide <> w: 141763
+polysaccharide <> w: 141804
+polysemy <> w: 141810
+polystyrene <> w: 141820
+polysyllabic <> w: 141821
+polysyllable <> w: 141824
+polytechnic <> w: 141827
+polytheism <> w: 141830
+polythene <> w: 141833, p: [37670]
+pomade <> w: 141860, p: [51854, 26164]
+pomatum <> w: 141867, p: [51854]
+pome <> w: 141868
+pomegranate <> w: 141869, p: [44204]
+pomelo <> w: 141871, p: [26910]
+pomfret <> w: 141874, p: [24843]
+pommel <> w: 141877
+pommel horse <> w: 141878, p: [21849]
+pomposity <> w: 141895
+pompous <> w: 141896
+pompously <> w: 141897
+poncho <> w: 141902, p: [33123]
+pond <> w: 141905, p: [46016]
+pond skater <> p: [25349]
+ponder <> w: 142009, p: [60847]
+ponderous <> w: 142016
+ponderously <> w: 142017
+pone <> w: 142021, p: [31157]
+pong <> w: 142022, p: [45459]
+pons <> w: 142032
+pontiff <> w: 142043
+pontificate <> w: 142045
+pontoon bridge <> w: 142048
+pony <> w: 142052, p: [22762, 38457]
+ponytail <> w: 142058, p: [29960]
+poo-poo <> w: 229079
+poodle <> w: 142062, p: [25132]
+pooh-pooh <> w: 142068, p: [27413]
+pool <> w: 142069, p: [18063, 46016, 18233]
+poolroom <> w: 142077
+poolside <> w: 226646
+pooper scooper <> w: 229131
+poor <> w: 142082, p: [47761, 51390]
+poor boy <> w: 142085, p: [31117]
+poor-spirited <> w: 142083
+poorly <> w: 142098, p: [48509, 17519]
+pop <> w: 142102, p: [47648, 60849, 50397]
+pop art <> w: 142106, p: [25449]
+pop fly <> w: 142108
+pop music <> w: 142111, p: [17044]
+pop off <> p: [17775]
+pop the question <> p: [23189]
+pop up <> p: [18119]
+pop-eyed <> w: 216771
+pop-up <> w: 142104
+popcorn <> w: 142118, p: [50351]
+pope <> w: 142120
+poppadom <> w: 209187, p: [31217]
+poppet <> w: 142140
+popping <> w: 142142
+popsicle <> w: 142149, p: [21314]
+populace <> w: 142150, p: [47911]
+popular <> w: 142151, p: [17513]
+popularity <> w: 142164, p: [17513]
+popularize <> w: 142167, p: [59058]
+popularly <> w: 142169
+populate <> w: 142170
+populated <> w: 142171
+population <> w: 142173, p: [27311]
+populous <> w: 142183
+porcelain <> w: 142198
+porch <> w: 142203, p: [18103]
+porcupine <> w: 142205, p: [17993]
+pore <> w: 142211, p: [27690]
+pork <> w: 142219, p: [14019]
+pork pie <> w: 142228
+porky <> w: 208446, p: [60630]
+porous <> w: 142250, p: [45571]
+porpoise <> w: 142262, p: [24308]
+porridge <> w: 142264, p: [31219]
+port <> w: 142266, p: [19542, 37340, 18365, 61072, 37340, 37340]
+portable <> w: 142288, p: [45820]
+portal <> w: 142294
+portcullis <> w: 142300
+portend <> w: 142303, p: [52739]
+portent <> w: 142304
+portentous <> w: 142305
+porter <> w: 142307, p: [29711, 19052, 29711]
+portfolio <> w: 142312
+portico <> w: 142315
+portion <> w: 142318, p: [21326]
+portly <> w: 142322, p: [60526]
+portrait <> w: 142328, p: [18776]
+portraiture <> w: 142333, p: [18776]
+portray <> w: 142334, p: [55035, 22588]
+portrayal <> w: 142335, p: [51332, 51332]
+pose <> w: 142520, p: [21224]
+poseur <> w: 142524
+posh <> w: 142526
+posit <> w: 142528, p: [58563]
+position <> w: 142529, p: [21224]
+positional <> w: 142533
+positioned <> w: 365617
+positive <> w: 142538, p: [19278, 32998, 29765, 19616]
+positive discrimination <> w: 211202
+positively <> w: 142552
+positivism <> w: 142555
+positivity <> w: 142558
+posology <> w: 142562
+posse <> w: 142563
+possess <> w: 142566, p: [48601]
+possessed <> w: 142567
+possession <> w: 142568, p: [48601]
+possessive <> w: 142569, p: [60121]
+possessor <> w: 142573
+posset <> w: 142574
+possibility <> w: 142575
+possible <> w: 142576, p: [17453]
+possibly <> w: 142579, p: [43340]
+possum <> w: 142580, p: [24278]
+post <> w: 142584, p: [49187, 51320, 29212, 29212, 27770]
+post office <> w: 142614, p: [49187]
+post-haste <> w: 142587, p: [41708]
+postage <> w: 142616, p: [35609]
+postage meter <> w: 142617
+postage stamp <> w: 142618, p: [35609]
+postal card <> p: [16147]
+postal code <> p: [16077]
+postbox <> w: 142628, p: [40615]
+postcard <> w: 142629, p: [16147]
+postcode <> w: 142632, p: [16077]
+postdate <> w: 142633
+poster <> w: 142639, p: [35603]
+posterior <> w: 142648, p: [33467]
+posterity <> w: 142665
+postern <> w: 142666
+postgraduate <> w: 142672, p: [31592, 31592]
+posthumous <> w: 142677, p: [48823]
+posthumously <> w: 142679, p: [48823]
+posting <> w: 142688, p: [35603]
+postman <> w: 142690, p: [49203]
+postmark <> w: 142691
+postmodernism <> w: 142700
+postmortem <> w: 142703
+postnatal <> w: 142706
+postnatal depression <> w: 209925
+postoperative <> w: 142708
+postpone <> w: 142712, p: [44236]
+postposition <> w: 142716
+postscript <> w: 142719
+postulate <> w: 142724
+posture <> w: 142731, p: [51250]
+postwar <> w: 142734
+postwoman <> w: 228455
+posy <> w: 142735, p: [21991]
+pot <> w: 142736, p: [27087, 27203, 21963]
+pot cheese <> p: [26888]
+pot roast <> w: 142747
+pot-au-feu <> p: [38927]
+potable <> w: 142748, p: [27391]
+potage <> w: 142749, p: [39041]
+potassium <> w: 142765
+potato <> w: 142787, p: [27077]
+potato chip <> w: 142792, p: [15681]
+potato salad <> p: [32794]
+potbellied <> w: 142820
+potbelly <> w: 142821
+potboiler <> w: 142823
+poteen <> w: 142826
+potency <> w: 142830
+potent <> w: 142831
+potentate <> w: 142832
+potential <> w: 142833, p: [46326]
+potentiality <> w: 143007
+potentially <> w: 143008, p: [48303]
+potentiometer <> w: 143013, p: [38092]
+potently <> w: 143014, p: [45842]
+pothead <> w: 143018
+potholder <> w: 143021, p: [32792]
+pothole <> w: 143022
+potion <> w: 143029
+potluck <> w: 143031
+potoroo <> w: 143037
+potpie <> w: 143042, p: [30920]
+potpourri <> w: 143043
+pottage <> w: 143049, p: [38929]
+potted <> w: 143050
+potter <> w: 143051, p: [47726]
+potter's wheel <> w: 143055
+pottery <> w: 143060, p: [51690, 36415]
+potto <> w: 143062, p: [24310]
+potty <> w: 143063, p: [27203]
+pouch <> w: 143068, p: [30589, 34536]
+pouf <> w: 143077
+poultice <> w: 143084
+poultry <> w: 143085, p: [22786, 18207]
+pounce <> w: 143087
+pouncing <> w: 222152
+pound <> w: 143088, p: [35880, 17507, 27481, 21230]
+pound cake <> w: 143090, p: [37868]
+pound sign <> p: [27481]
+pounder <> w: 143098, p: [30772]
+pour <> w: 143101, p: [48827, 60690]
+pour oil on troubled waters <> p: [44258]
+pourable <> w: 365486
+pourboire <> w: 143106, p: [15845]
+pouring <> w: 143107, p: [22620]
+pout <> w: 143110, p: [37342]
+pouter <> w: 143111, p: [37342]
+poutine <> w: 209257, p: [30964]
+poverty <> w: 143117, p: [19334]
+poverty-stricken <> w: 143118
+pow <> w: 229059
+powder <> w: 143125
+powder blue <> w: 143129, p: [34863, 34863]
+powder puff <> w: 143151, p: [22842]
+powder room <> w: 143139
+powdered <> w: 143142
+powdered sugar <> p: [35226]
+powdery <> w: 143152
+power <> w: 143156, p: [26461, 26461, 22427, 20497]
+power cut <> w: 228584
+power plant <> w: 143186, p: [47819]
+power point <> w: 143188, p: [38887]
+power politics <> w: 143189
+power shovel <> p: [47372]
+power station <> w: 143195
+power steering <> w: 143196
+power tool <> w: 143200
+powerboat <> w: 143207, p: [49482]
+powered <> w: 143209
+powerful <> w: 143210, p: [49139]
+powerfully <> w: 143211, p: [49632]
+powerfulness <> w: 143212, p: [26461]
+powerhouse <> w: 143213
+powerless <> w: 143214
+powerlifting <> w: 225052
+powwow <> w: 143219
+practicable <> w: 143232, p: [22035]
+practical <> w: 143235, p: [23877]
+practical joke <> w: 143237, p: [27898]
+practicality <> w: 143241
+practically <> w: 143242, p: [48421]
+practice <> w: 143243, p: [17525, 17525]
+practicum <> w: 225021
+practise <> w: 229493
+practitioner <> w: 143255
+pragmatic <> w: 143265, p: [60382]
+pragmatics <> w: 143269
+pragmatism <> w: 143270
+pragmatist <> w: 143271
+prairie <> w: 143277, p: [18948]
+prairie dog <> w: 143287, p: [24759]
+praise <> w: 143322, p: [19374, 19374]
+praiseful <> w: 143323
+praiseworthily <> w: 143324
+praiseworthy <> w: 143326
+praising <> w: 143327
+praline <> w: 143332, p: [27907]
+pram <> w: 143333, p: [33497]
+prance <> w: 143334
+prank <> w: 143339, p: [59098]
+prat <> w: 143504, p: [33467]
+prate <> w: 143505
+pratincole <> w: 143508
+prattle <> w: 143509, p: [42264]
+prawn <> w: 143514, p: [25749, 25749]
+pray <> w: 143517, p: [18752, 19659]
+prayer <> w: 143519, p: [18752, 18752]
+prayer shawl <> p: [39883]
+praying mantis <> w: 143532, p: [50297]
+pre <> w: 225598
+preach <> w: 143549, p: [47586, 49766]
+preacher <> w: 143550
+preachy <> w: 143556
+preamble <> w: 143559
+precarious <> w: 143571, p: [49253]
+precariously <> w: 143572, p: [49253]
+precaution <> w: 143577
+precautionary <> w: 143579
+precede <> w: 143581, p: [59616]
+precedence <> w: 143582
+precedent <> w: 143584
+preceding <> w: 143588
+precept <> w: 143592
+preceptor <> w: 143593
+precession <> w: 143596
+precinct <> w: 143599
+precious <> w: 143601, p: [26196]
+precious coral <> p: [25563]
+precious metal <> w: 143603, p: [61126]
+precious stone <> w: 143604, p: [25627]
+precipice <> w: 143607
+precipitant <> w: 143610
+precipitate <> w: 143611
+precipitately <> w: 143612
+precipitation <> w: 143615, p: [31966]
+precipitous <> w: 143618
+precis <> w: 143621
+precise <> w: 143622, p: [28742]
+precisely <> w: 143623, p: [43458]
+precision <> w: 143625
+preclude <> w: 143632, p: [52289]
+precocious <> w: 143636
+precolonial <> w: 227191
+preconceived <> w: 143644
+preconception <> w: 143648
+precondition <> w: 143650
+preconize <> w: 225349, p: [55218]
+precooked <> w: 143653, p: [31107]
+precursor <> w: 143657
+predate <> w: 143661, p: [52675]
+predator <> w: 143663, p: [24154]
+predatory <> w: 143664, p: [24154]
+predecessor <> w: 143667
+predestination <> w: 143671
+predetermined <> w: 143677
+predeterminer <> w: 208735
+predicament <> w: 143678
+predicate <> w: 143679
+predicative <> w: 143682
+predict <> w: 143685, p: [61168]
+predictable <> w: 143687, p: [45752]
+predictably <> w: 143688, p: [45752]
+prediction <> w: 143689
+predictive <> w: 143690
+predilection <> w: 143695
+predispose <> w: 143696
+predisposed <> w: 143697
+predominance <> w: 143701
+predominant <> w: 143702
+predominantly <> w: 143703, p: [43468]
+preeclampsia <> w: 143537
+preeminence <> w: 143708
+preeminent <> w: 143709
+preempt <> w: 143712
+preemptively <> w: 229483
+preen <> w: 143718, p: [34361, 26128]
+preexist <> w: 143720
+prefabricated <> w: 211356
+preface <> w: 143727, p: [54453]
+prefatory <> w: 143730
+prefer <> w: 143734, p: [61288]
+preferable <> w: 143735
+preferably <> w: 143736
+preference <> w: 143737
+preferential <> w: 143740
+preferentially <> w: 143741
+preferred <> w: 143743
+prefigure <> w: 143748, p: [52739]
+prefix <> w: 143749
+prefrontal <> w: 143754
+pregame <> w: 366888
+pregnancy <> w: 143760, p: [21997]
+pregnant <> w: 143763, p: [21997]
+preheat <> w: 143765, p: [32836]
+prehensile <> w: 143767, p: [22033]
+prehension <> w: 143768
+prehistoric <> w: 143770, p: [45595]
+prehistory <> w: 143773
+prejudice <> w: 143780, p: [59535]
+prejudiced <> w: 143781, p: [60544]
+prelacy <> w: 143784
+prelim <> w: 143788
+preliminary <> w: 143789, p: [45621]
+prelims <> w: 143793
+prelude <> w: 143796
+premature <> w: 143798
+prematurely <> w: 143805
+premedical <> w: 143808
+premeditate <> w: 143809
+premeditated <> w: 143810
+premier <> w: 143816
+premiere <> w: 143817, p: [32048, 59922]
+premiership <> w: 143818
+premise <> w: 143819
+premises <> w: 143820
+premium <> w: 143822, p: [46012]
+premium bond <> w: 144002
+premolar <> w: 144004, p: [30495]
+premonition <> w: 144005
+prenatal <> w: 144011
+preoccupation <> w: 144017
+preoccupy <> w: 144019, p: [44790]
+preordain <> w: 144021
+prep <> w: 144023, p: [49183]
+prepaid <> w: 144027
+preparation <> w: 144028, p: [49183, 51638]
+preparative <> w: 144030
+preparatory <> w: 144031
+preparatory school <> w: 144032
+prepare <> w: 144033, p: [48871, 27059, 26248]
+prepared <> w: 144035, p: [28265]
+preponderance <> w: 144039
+preponderant <> w: 144040
+preponderantly <> w: 144041
+preposition <> w: 144045
+prepositional <> w: 144046
+prepositional phrase <> w: 144048
+prepossessing <> w: 144051
+preposterous <> w: 144053
+preposterously <> w: 144054
+preppy <> w: 219851
+prepuce <> w: 144060
+prequel <> w: 208882
+prerecord <> w: 144063
+prerequisite <> w: 144065
+prerogative <> w: 144066
+presage <> w: 144068, p: [52739]
+preschool <> w: 144079, p: [49179]
+prescience <> w: 144081
+prescient <> w: 144082
+prescribe <> w: 144085, p: [17643]
+prescript <> w: 144087
+prescription <> w: 144088, p: [20465, 37299]
+prescriptive <> w: 144091
+preseason <> w: 144095
+presence <> w: 144096
+present <> w: 144100, p: [18782, 22231, 45539, 20780, 22363, 20299, 61136, 61170, 49423]
+present participle <> w: 144103
+present perfect <> w: 144104
+present-day <> w: 144101
+presentable <> w: 144110, p: [18455]
+presentation <> w: 144112, p: [36886]
+presenter <> w: 144114, p: [20299]
+presentiment <> w: 144115
+presently <> w: 144118, p: [43344]
+presentment <> w: 144119
+preservation <> w: 144122
+preservationist <> w: 144123, p: [21044]
+preservative <> w: 144124
+preserve <> w: 144125, p: [21167, 31327]
+preserved <> w: 144126
+preside <> w: 144130
+preside over <> p: [50585]
+presidency <> w: 144131
+president <> w: 144132, p: [51436, 40741]
+presidential <> w: 144181
+press <> w: 144192, p: [26463, 32086, 33309, 21905, 20611]
+press agent <> w: 144195
+press conference <> w: 144199
+press release <> w: 144213
+press stud <> p: [33233]
+press-stud <> p: [33233]
+press-up <> w: 144193, p: [21687]
+pressed <> w: 144217
+presser foot <> p: [33219]
+pressing <> w: 144218, p: [46261, 26463]
+pressingly <> w: 144219
+pressman <> w: 144220, p: [33685]
+pressure <> w: 144223, p: [26463, 27692]
+pressure cooker <> w: 144228, p: [50767]
+pressure group <> w: 144233
+pressurize <> w: 144241
+pressurized <> w: 365455
+prestidigitator <> w: 144244, p: [23577]
+prestige <> w: 144245
+prestigious <> w: 144246
+presto <> w: 144249
+presumable <> w: 144250
+presumably <> w: 144251
+presume <> w: 144252, p: [59525]
+presumption <> w: 144253
+presumptive <> w: 144254
+presumptuous <> w: 144256
+presupposition <> w: 144260
+preteen <> w: 144262, p: [19979]
+pretend <> w: 144265, p: [19436]
+pretended <> w: 144266
+pretender <> w: 144267
+pretending <> w: 144268, p: [19436]
+pretense <> w: 144269, p: [19436]
+pretentious <> w: 144271
+pretentiously <> w: 144272
+preterite <> w: 144276
+preterm <> w: 228338
+preternatural <> w: 144282
+pretext <> w: 144284
+prettify <> w: 144292
+prettily <> w: 144293
+pretty <> w: 144295, p: [43352, 60610]
+pretzel <> w: 144299
+prevail <> w: 144302, p: [40035]
+prevailing <> w: 144502
+prevalence <> w: 144506
+prevalent <> w: 144507, p: [45788]
+prevaricate <> w: 144508
+prevarication <> w: 144509
+prevaricator <> w: 144510, p: [22027]
+prevenient <> w: 144511
+prevent <> w: 144512, p: [61172]
+preventable <> w: 144513
+preventative <> w: 144514
+prevention <> w: 144515
+preview <> w: 144520, p: [59900]
+previous <> w: 144521, p: [43460]
+previously <> w: 144523, p: [49117]
+previse <> w: 144524, p: [48393]
+prexy <> w: 144528
+prey <> w: 144529, p: [24675]
+price <> w: 144537, p: [17487, 60047]
+price fixing <> w: 144539
+price tag <> w: 144556, p: [17487]
+priceless <> w: 144558, p: [45854]
+pricey <> w: 144560, p: [28329]
+prick <> w: 144563, p: [58404]
+pricker <> w: 144565, p: [21930]
+prickle <> w: 144568, p: [21930]
+prickleback <> w: 144571, p: [24821]
+prickly <> w: 144574
+prickly pear <> w: 144583, p: [26914]
+pride <> w: 144590, p: [44942]
+priest <> w: 144600, p: [51616]
+prig <> w: 144609
+priggish <> w: 144610
+prim <> w: 144614
+prima <> w: 144617
+prima ballerina <> w: 144618
+prima donna <> w: 144619
+primacy <> w: 144621
+primal <> w: 144623, p: [43570]
+primarily <> w: 144626
+primary <> w: 144627, p: [43368]
+primary health care <> w: 144646
+primary school <> p: [28770]
+primary stress <> w: 208783
+primate <> w: 144658, p: [20591]
+prime <> w: 144663, p: [43368]
+prime number <> w: 144669
+prime time <> w: 144672
+primer <> w: 144674, p: [48003]
+primeval <> w: 144676
+primitive <> w: 144683, p: [43570, 28740]
+primitivism <> w: 144688
+primordial <> w: 144694
+primp <> w: 144697, p: [26128]
+primping <> w: 144698, p: [26128]
+prince <> w: 144715, p: [30054]
+princely <> w: 144746
+princess <> w: 144747, p: [29789]
+principal <> w: 144758
+principal parts <> w: 208736
+principality <> w: 144763
+principally <> w: 144767, p: [49377]
+principle <> w: 144771
+principled <> w: 144777
+prink <> w: 144780, p: [26292]
+print <> w: 144781, p: [27971, 61174, 61174, 29870]
+printable <> w: 144788
+printer <> w: 144791, p: [15795, 33685]
+printer's ink <> w: 144793, p: [36985]
+printing <> w: 144795, p: [61174]
+printing press <> w: 144802
+printmaker <> w: 144806, p: [47781]
+printmaking <> w: 144807, p: [44958]
+printout <> w: 144808
+prion <> w: 144811
+prior <> w: 144816
+prioritize <> w: 144819, p: [59438]
+priority <> w: 144820
+priory <> w: 144823
+prise <> w: 144827, p: [27979]
+prism <> w: 144828, p: [25972]
+prismatic <> w: 144830
+prison <> w: 144833, p: [20682]
+prison camp <> w: 144835
+prisoner <> w: 144843
+prisoner of war <> w: 144845
+pristine <> w: 145006, p: [48619]
+privacy <> w: 145011
+private <> w: 145012, p: [37247, 50090]
+private detective <> w: 145016, p: [16318]
+private eye <> w: 145018
+private investigator <> w: 145021, p: [16318]
+private school <> w: 145028
+private sector <> w: 228676
+private view <> w: 208823
+privateer <> w: 145031
+privately <> w: 145033, p: [50090]
+privation <> w: 145037
+privatize <> w: 145041
+privilege <> w: 145045, p: [59174]
+privileged <> w: 145048, p: [31759]
+privy <> w: 145051, p: [27203]
+prize <> w: 145057, p: [17569, 22359, 27979]
+prize ring <> p: [37201]
+prized <> w: 224451, p: [26196]
+prizefight <> w: 145062
+pro <> w: 145066
+proactive <> w: 145081
+proactively <> w: 225445
+probabilistic <> w: 145083
+probability <> w: 145085
+probable <> w: 145088, p: [43340]
+probably <> w: 145090, p: [43340]
+probate <> w: 145091
+probation <> w: 145094
+probationary <> w: 145096
+probe <> w: 145100, p: [26365, 25807]
+probiotic <> w: 145103
+probity <> w: 145107
+problem <> w: 145108
+problematic <> w: 145112, p: [45623]
+problematical <> w: 145113
+problematically <> w: 145114
+proboscis <> w: 145121, p: [28942]
+proboscis monkey <> p: [34215]
+procedural <> w: 145134
+procedure <> w: 145135, p: [18980]
+proceed <> w: 145136, p: [43104, 22680]
+proceeding <> w: 145137
+proceedings <> w: 145138
+proceeds <> w: 145139
+process <> w: 145145, p: [20772, 54903]
+processed <> w: 145150
+processing <> w: 145152
+procession <> w: 145154
+processor <> w: 145157
+proclaim <> w: 145162, p: [43142]
+proclamation <> w: 145164
+proclivity <> w: 145165
+procrastinate <> w: 145172, p: [44238]
+procrastinator <> w: 145174
+procreate <> w: 145175, p: [58921]
+proctologist <> w: 145186
+proctology <> w: 145187
+proctor <> w: 145189
+procure <> w: 145198, p: [53889, 50084]
+prod <> w: 145209
+prodigal <> w: 145211
+prodigally <> w: 145213
+prodigious <> w: 145214, p: [45866]
+prodigy <> w: 145216
+produce <> w: 145221, p: [20772, 22788, 19094, 22788]
+producer <> w: 145222
+product <> w: 145225, p: [18415, 19064]
+production <> w: 145231, p: [20772]
+production line <> w: 145233
+productive <> w: 145235, p: [45856]
+productively <> w: 145236, p: [45856]
+productivity <> w: 145238
+proem <> w: 221373
+profane <> w: 145243
+profanity <> w: 145247
+profess <> w: 145248, p: [55222]
+profession <> w: 145252, p: [61228]
+professional <> w: 145253
+professionally <> w: 145275, p: [46619]
+professor <> w: 145276, p: [50529, 27089]
+proffer <> w: 145280, p: [27670]
+proficient <> w: 145282, p: [50001]
+proficiently <> w: 145283, p: [50001]
+profile <> w: 145284, p: [55016]
+profit <> w: 145286, p: [41968]
+profit margin <> w: 145292
+profit sharing <> w: 145293
+profitable <> w: 145296
+profitably <> w: 145298, p: [17897]
+profiteer <> w: 145299
+profligacy <> w: 145304
+profligate <> w: 145305
+profound <> w: 145307, p: [22447, 22463]
+profoundly <> w: 145308, p: [43462]
+profundity <> w: 145503
+profuse <> w: 145504, p: [49007]
+profusely <> w: 145505, p: [49007]
+profuseness <> w: 145506
+profusion <> w: 145507
+progenitor <> w: 145508
+progeny <> w: 145509, p: [60837]
+progesterone <> w: 145512
+prognosis <> w: 145520, p: [18463]
+prognosticate <> w: 145522, p: [44202]
+prognostication <> w: 145523
+program <> w: 145526, p: [19174, 51324, 20924, 20924, 20139]
+programmable <> w: 224432
+programmed learning <> w: 226529
+programmer <> w: 145537, p: [51444]
+programming <> w: 145538
+progress <> w: 145541, p: [23425, 21485, 23425, 21485]
+progress report <> w: 145542
+progression <> w: 145544
+progressive <> w: 145545, p: [60740]
+progressively <> w: 145553, p: [50068]
+prohibit <> w: 145558, p: [47278]
+prohibited <> w: 145559
+prohibition <> w: 145560
+prohibitionist <> w: 145563
+prohibitive <> w: 145564, p: [49046]
+prohibitively <> w: 145565, p: [49046]
+prohibitory <> w: 145566, p: [49046]
+project <> w: 145568, p: [59517]
+projectile <> w: 145570, p: [36812, 22075]
+projection <> w: 145572, p: [47356]
+projectionist <> w: 145574
+projector <> w: 145579, p: [35679]
+prokaryote <> w: 145580
+prolactin <> w: 145585
+prolate <> w: 145589, p: [22897]
+prolegomenon <> w: 145592
+proletarian <> w: 145594
+proletariat <> w: 145595
+proliferate <> w: 145596, p: [52871]
+proliferation <> w: 145597
+prolific <> w: 145598, p: [45856]
+prolix <> w: 145601
+prolixity <> w: 145602
+prologue <> w: 145607
+prolong <> w: 145609, p: [52167]
+prolonged <> w: 145613
+prom <> w: 145617
+promenade <> w: 145618
+promenade concert <> w: 220221
+prominence <> w: 145623
+prominent <> w: 145624, p: [49700]
+prominently <> w: 145625, p: [49700]
+promiscuous <> w: 145627
+promiscuously <> w: 145628
+promise <> w: 145630, p: [61176, 61176]
+promising <> w: 145634
+promissory <> w: 145637
+promo <> w: 145639
+promontory <> w: 145640, p: [31968]
+promote <> w: 145641, p: [23425, 55218]
+promoter <> w: 145642
+promotion <> w: 145643, p: [17905]
+promotional <> w: 145645
+prompt <> w: 145649
+prompter <> w: 145653
+promptly <> w: 145657, p: [43408]
+promulgate <> w: 145659
+prone <> w: 145667
+prong <> w: 145670
+pronghorn <> w: 145673, p: [39995]
+pronoun <> w: 145679
+pronounce <> w: 145680, p: [27999]
+pronounce on <> p: [61136]
+pronounced <> w: 145682
+pronouncement <> w: 145683
+pronto <> w: 145684
+pronunciation <> w: 145687, p: [27999]
+proof <> w: 145688, p: [35882]
+proofread <> w: 145691, p: [35882]
+proofreader <> w: 145692
+proofreading <> w: 221444
+prop <> w: 145693, p: [51898]
+propaganda <> w: 145698
+propagate <> w: 145703, p: [27694]
+propagation <> w: 145704
+propane <> w: 145709
+propel <> w: 145716, p: [46894]
+propellant <> w: 145717
+propeller <> w: 145720
+propelling pencil <> w: 226106, p: [29537]
+propensity <> w: 145729
+proper <> w: 145731, p: [35794]
+proper noun <> w: 145734
+properly <> w: 145735
+property <> w: 145739, p: [21112]
+prophase <> w: 145749
+prophecy <> w: 145750
+prophesy <> w: 145752, p: [61168]
+prophet <> w: 145753, p: [23613]
+prophetic <> w: 145755
+prophylactic <> w: 145759
+prophylaxis <> w: 145761
+propinquity <> w: 145763
+propitiate <> w: 145766
+propitious <> w: 145770
+proponent <> w: 145775
+proportion <> w: 145776
+proportional <> w: 145778
+proportional representation <> w: 145782
+proportionate <> w: 145788
+proposal <> w: 145791, p: [23189]
+propose <> w: 145793, p: [27696, 23189]
+proposer <> w: 146002
+proposition <> w: 146003
+propound <> w: 146007
+proprietary <> w: 146011
+proprietor <> w: 146014
+propriety <> w: 146018
+propulsion <> w: 146024
+propylaeum <> w: 222799
+prorogue <> w: 146037
+prosaic <> w: 146038
+proscenium <> w: 146042
+prosciutto <> w: 146045, p: [32024]
+proscribe <> w: 146046, p: [58589]
+proscribed <> w: 146047
+prose <> w: 146049
+prosecutable <> w: 224427
+prosecute <> w: 146051, p: [47793]
+prosecution <> w: 146054
+prosecutor <> w: 146055
+proselyte <> w: 146056
+proselytize <> w: 146059
+prosody <> w: 146070
+prospect <> w: 146081, p: [17611]
+prospecting <> w: 365414
+prospective <> w: 146082, p: [46326]
+prospectively <> w: 225461
+prospector <> w: 146083
+prospectus <> w: 146084
+prosper <> w: 146085, p: [23425]
+prospering <> w: 146087
+prosperity <> w: 146088
+prosperous <> w: 146090, p: [60616]
+prostate <> w: 146095
+prosthesis <> w: 146104
+prosthetic <> w: 146105
+prosthodontics <> w: 146112
+prostitution <> w: 146116
+prostrate <> w: 146117
+prostration <> w: 146118
+protagonist <> w: 146123, p: [19793]
+protean <> w: 146133
+protect <> w: 146136, p: [43682]
+protected <> w: 146137, p: [43682]
+protection <> w: 146139
+protective <> w: 146142, p: [17533]
+protege <> w: 146156
+protein <> w: 146159, p: [30882]
+proteome <> w: 146170
+protest <> w: 146178, p: [19260, 19260]
+protestation <> w: 146187
+protester <> w: 146188
+prothesis <> w: 223353
+prothorax <> w: 146193
+protist <> w: 146198
+protocol <> w: 146214
+proton <> w: 146227
+protoplasm <> w: 146230
+prototype <> w: 146236
+protract <> w: 146248, p: [44200]
+protracted <> w: 146249
+protractor <> w: 146254, p: [41330]
+protrude <> w: 146257
+protruding <> w: 146258
+protrusion <> w: 146261
+protuberant <> w: 146264
+proud <> w: 146268, p: [19612, 22025]
+proudly <> w: 146272, p: [19612]
+provable <> w: 146276
+prove <> w: 146278, p: [59408, 37802, 27664]
+proved <> w: 146280
+proven <> w: 146281
+provenance <> w: 146282
+provender <> w: 146285
+proventriculus <> w: 220266
+proverb <> w: 146289
+provide <> w: 146293, p: [43624]
+provide for <> p: [53343]
+provided <> w: 209848
+providence <> w: 146294
+provident <> w: 146295
+providential <> w: 146296
+provider <> w: 146299
+providing <> w: 209849
+province <> w: 146300, p: [19671]
+provincial <> w: 146301
+provision <> w: 146307
+provisional <> w: 146308
+provisionally <> w: 146311
+provisions <> w: 146314
+proviso <> w: 146315
+provisory <> w: 146316
+provocation <> w: 146321
+provocative <> w: 146322, p: [49610]
+provocatively <> w: 146323, p: [49610]
+provoke <> w: 146324
+provokingly <> w: 146328
+provolone <> w: 229395
+provost <> w: 146330
+prow <> w: 146334
+prowess <> w: 146335
+prowl <> w: 146336
+prowler <> w: 146338, p: [21070]
+proximal <> w: 146343
+proximate <> w: 146344
+proximity <> w: 146345
+proxy <> w: 146347
+prudence <> w: 146352
+prudent <> w: 146353, p: [49411]
+prudently <> w: 146355, p: [49411]
+prudery <> w: 146356
+prune <> w: 146367, p: [50743, 50615]
+prurient <> w: 146566
+pry <> w: 146577, p: [59343]
+pry bar <> p: [22746]
+prying <> w: 146579, p: [22522]
+psalm <> w: 146586
+psaltery <> w: 146592, p: [37886]
+psephology <> w: 146597
+pseudo <> w: 146615, p: [28662]
+pseudocarp <> w: 146619, p: [36024]
+pseudonym <> w: 146641
+pseudoscience <> w: 146653
+psittacosis <> w: 146695
+psoriasis <> w: 146712
+psych <> w: 229164
+psyche <> w: 146716
+psychedelic <> w: 146718
+psychiatric <> w: 146721, p: [27243]
+psychiatrist <> w: 146724, p: [27241]
+psychiatry <> w: 146725, p: [27243]
+psychic <> w: 146726
+psychically <> w: 146734
+psychoactive <> w: 146736
+psychoanalysis <> w: 146740, p: [51604]
+psychoanalytic <> w: 146742, p: [27243]
+psycholinguistic <> w: 146759
+psycholinguistics <> w: 146760
+psychological <> w: 146761, p: [19170]
+psychologically <> w: 146771
+psychologist <> w: 146772, p: [50579]
+psychology <> w: 146773, p: [19170]
+psychopath <> w: 146786
+psychopathic <> w: 146787
+psychopathology <> w: 146791, p: [27243]
+psychopathy <> w: 146792
+psychosis <> w: 146805
+psychosomatic <> w: 146806
+psychotherapeutic <> w: 146809, p: [23465]
+psychotherapist <> w: 146811, p: [21400]
+psychotherapy <> w: 146812, p: [23465, 51604]
+psychotic <> w: 146814
+ptarmigan <> w: 146831, p: [24983]
+pub <> w: 146919, p: [51412]
+pubescent <> w: 146927
+pubic <> w: 146928
+public <> w: 146934, p: [37249, 18657, 47911]
+public convenience <> w: 146941, p: [37251]
+public library <> w: 147006, p: [46294]
+public opinion <> w: 147011
+public prosecutor <> w: 147016
+public relations <> w: 147017
+public school <> w: 147020
+public sector <> w: 228675
+public transport <> w: 147029, p: [16065]
+publication <> w: 147038
+publicist <> w: 147042
+publicity <> w: 147043
+publicize <> w: 147045, p: [59042]
+publicized <> w: 147046
+publicly <> w: 147049, p: [49938]
+publish <> w: 147050, p: [27971]
+publisher <> w: 147053
+puce <> w: 147073, p: [38763, 38763]
+puck <> w: 147074, p: [36912]
+puckish <> w: 147078
+pud <> w: 147081, p: [23843]
+pudding <> w: 147083, p: [21328, 23843]
+puddle <> w: 147093
+pudendum <> w: 147102
+pudginess <> w: 147104, p: [51230]
+pudgy <> w: 147105, p: [60476]
+puerile <> w: 147111
+puerility <> w: 147112, p: [19819]
+puff <> w: 147119, p: [38703, 37334, 32962]
+puff adder <> p: [25914]
+puff pastry <> w: 217543, p: [37852]
+puffbird <> w: 147127
+puffed <> w: 147128
+puffer <> w: 147131, p: [24839]
+pufferfish <> w: 147132, p: [24839]
+puffin <> w: 147134, p: [24985]
+puffy <> w: 147139, p: [30112]
+pug <> w: 147140, p: [25643]
+pugnacious <> w: 147152
+pugnaciously <> w: 147153
+pugnacity <> w: 147154
+puissance <> w: 147155
+puissant <> w: 147156
+puke <> w: 147160, p: [26300]
+pulaski <> w: 222864, p: [41068]
+pulchritude <> w: 147169
+pulchritudinous <> w: 147170
+pull <> w: 147178, p: [49427, 28025, 46878]
+pull in <> p: [52701, 19290, 21493]
+pull out <> p: [22796]
+pull out all the stops <> p: [43018]
+pull over <> p: [21493, 21493]
+pull strings <> p: [40695]
+pull together <> p: [49904, 40105]
+pull up <> p: [49457, 21493]
+pull-apart <> p: [53499]
+pull-down <> p: [51112, 26252]
+pull-in <> p: [52701, 19290, 21493]
+pull-off <> p: [43080, 52580]
+pull-on <> p: [52829]
+pull-out <> w: 209147
+pull-up <> w: 147182, p: [21845]
+pullet <> w: 147213, p: [18315]
+pulley <> w: 147214
+pullover <> w: 147224, p: [48591]
+pulmonary <> w: 147228
+pulmonary artery <> p: [30453]
+pulmonologist <> w: 218363
+pulp <> w: 147245
+pulpit <> w: 147249
+pulpwood <> w: 147250
+pulpy <> w: 147251
+pulque <> w: 147252
+pulsar <> w: 147253
+pulse <> w: 147260, p: [22662, 46904]
+pulverize <> w: 147275
+puma <> w: 147277, p: [24761]
+pumice <> w: 147278, p: [29878, 29878]
+pummel <> w: 147280, p: [59228]
+pump <> w: 147282, p: [52061, 25036, 50713, 26878]
+pumped <> w: 147290
+pumpernickel <> w: 147293, p: [31223]
+pumpkin <> w: 147295, p: [50471]
+pun <> w: 147302
+punch <> w: 147303, p: [21230, 29543, 50419]
+punch bowl <> w: 147307, p: [23953]
+punch line <> w: 147310
+punchball <> w: 147315, p: [21685]
+puncher <> w: 147318, p: [29918, 29543]
+punching bag <> p: [21685]
+punchy <> w: 224443, p: [45842]
+punctilio <> w: 147321
+punctilious <> w: 147322, p: [50029]
+punctiliously <> w: 147323, p: [50029]
+punctual <> w: 147325, p: [22451]
+punctuality <> w: 147326, p: [22451]
+punctually <> w: 147327
+punctuate <> w: 147328
+punctuation <> w: 147503, p: [27489]
+punctuation mark <> w: 147504, p: [27489]
+puncture <> w: 147507, p: [51192]
+pundit <> w: 147510
+pungency <> w: 147513
+pungent <> w: 147514, p: [32541]
+punish <> w: 147523, p: [47861]
+punishable <> w: 147524
+punishing <> w: 147526
+punishment <> w: 147528
+punitive <> w: 147529
+punjabi <> w: 147535, p: [36599, 29350]
+punk <> w: 147536, p: [59098]
+punky <> w: 147543
+punnet <> w: 147544
+punt <> w: 147547, p: [53589]
+punter <> w: 147549
+puny <> w: 147551, p: [48163]
+pup <> w: 147552, p: [20549]
+pupa <> w: 147554
+pupate <> w: 147556
+pupil <> w: 147558, p: [49061, 29444, 17161]
+puppet <> w: 147562, p: [32040]
+puppeteer <> w: 147569
+puppetry <> w: 147570, p: [44898]
+puppy <> w: 147572, p: [20549]
+puppy fat <> w: 147573
+puppy love <> w: 147574, p: [40327]
+puppyish <> w: 147575
+purchase <> w: 147584, p: [48543]
+purchaser <> w: 147589, p: [18403]
+purchasing power <> w: 228789
+pure <> w: 147594, p: [28632]
+purebred <> w: 147603
+puree <> w: 147604, p: [30918]
+purely <> w: 147605
+purgative <> w: 147608
+purgatory <> w: 147610
+purge <> w: 147611, p: [26300, 59426]
+purifier <> w: 147615
+purify <> w: 147616, p: [45944]
+purism <> w: 147621
+purist <> w: 147622
+puritan <> w: 147623
+purl <> w: 147635
+purloin <> w: 147638
+purple <> w: 147640, p: [47833, 47833]
+purple heart <> w: 147679
+purport <> w: 147716, p: [55162]
+purportedly <> w: 147717
+purpose <> w: 147718
+purpose-built <> w: 147719
+purposeful <> w: 147721, p: [49682]
+purposefully <> w: 147722, p: [49682]
+purposeless <> w: 147724
+purposely <> w: 147727, p: [49678]
+purr <> w: 147732, p: [58097]
+purse <> w: 147733, p: [48575, 28992, 37344]
+purslane <> w: 147740, p: [35348]
+pursuant <> w: 147745
+pursuant to <> p: [55316]
+pursue <> w: 147746, p: [20692]
+pursuer <> w: 147748
+pursuit <> w: 147750, p: [18910, 49169]
+purvey <> w: 147758, p: [47971]
+purveyor <> w: 147760
+purview <> w: 147761
+push <> w: 147767, p: [49429, 27692, 19320]
+push in <> p: [43444]
+push on <> p: [42968]
+push-button <> p: [19320]
+push-buttons <> p: [20259]
+push-start <> w: 227834
+push-up <> w: 210114, p: [21687]
+pushcart <> w: 147789, p: [22309]
+pushchair <> w: 147790, p: [33497]
+pusher <> w: 147791, p: [20679]
+pushpin <> w: 147797, p: [29563]
+pushy <> w: 147800, p: [49125]
+pusillanimous <> w: 147802
+puss <> w: 147805, p: [50132]
+pussy <> w: 147808, p: [50132]
+pussycat <> w: 147813, p: [50132]
+pussyfoot <> w: 229287
+put <> w: 147818, p: [21224, 52648, 48551]
+put a sock in it <> p: [44828]
+put in <> p: [23651, 27802]
+put the bite on <> p: [41704]
+put the cart before the horse <> p: [46328]
+put the squeeze on <> p: [41704]
+put two and two together <> p: [44770]
+put up <> p: [21224, 49453]
+put up a fight <> p: [43112]
+put up with <> p: [46430]
+put-down <> p: [22345, 53007, 35888, 53053]
+put-in <> p: [23651, 27802]
+put-off <> p: [44244, 44236]
+put-on <> p: [14174]
+put-up <> p: [21224, 49453]
+putamen <> w: 148027
+putative <> w: 148028
+putrefy <> w: 148038, p: [47384]
+putrescent <> w: 148040
+putrid <> w: 148043
+putt <> w: 148048
+putter <> w: 148050
+putting <> w: 148053
+putting green <> w: 148054
+putty <> w: 148058
+putz <> w: 148061
+puzzle <> w: 148062, p: [48333, 51694]
+puzzled <> w: 148065
+puzzling <> w: 148068, p: [48609]
+pygmy chimpanzee <> p: [39623]
+pylon <> w: 148112
+pyramid <> w: 148137, p: [27217, 22905]
+pyramid selling <> w: 225155
+pyramidal <> w: 148141
+pyre <> w: 148153
+pyrexia <> w: 148162, p: [39781]
+pyrography <> w: 148193
+pyromania <> w: 148211
+pyrotechnic <> w: 148227
+pyroxene <> w: 148231
+pyrrhic <> w: 148234
+python <> w: 148261, p: [23841]
+pyx <> w: 148270

@@ -1,0 +1,1292 @@
+n-tuple <> s: n-tuples
+n-tuples <> b: n-tuple, f: s
+NAA <> s: naas
+naan <> s: naans
+naans <> b: naan, f: s
+Naas <> b: naa, f: s
+nab <> p: nabbed, d: nabbed, '3': nabs, i: nabbing, s: nabs
+nabbed <> b: nab, f: pd
+nabbing <> b: nab, f: i
+nabob <> s: nabobs
+nabobs <> b: nabob, f: s
+nabs <> b: nab, f: 3s
+nacelle <> s: nacelles
+nacelles <> b: nacelle, f: s
+nacho <> s: nachos
+nachos <> b: nacho, f: s
+nadir <> s: nadirs
+nadirs <> b: nadir, f: s
+naff <> p: naffed, t: naffest, '3': naffs
+naffed <> b: naff, f: p
+naffest <> b: naff, f: t
+naffs <> b: naff, f: '3'
+nag <> i: nagging, p: nagged, d: nagged, s: nags, '3': nags
+naga <> s: nagas
+nagas <> b: naga, f: s
+nagged <> b: nag, f: pd
+nagger <> s: naggers
+naggers <> b: nagger, f: s
+nagging <> b: nag, f: i, i: nagging, s: naggings
+nags <> b: nag, f: s3
+nai <> s: nai, b: nai, f: s
+naiad <> s: naiads
+naiads <> b: naiad, f: s
+nail <> s: nails, d: nailed, i: nailing, p: nailed, '3': nails
+nailed <> b: nail, f: dp, d: nailed
+nailer <> s: nailers
+nailers <> b: nailer, f: s
+nailing <> b: nail, f: i
+nails <> b: nail, f: s3
+naiveties <> b: naivety, f: s
+naivety <> s: naiveties
+name <> s: names, d: named, p: named, i: naming, '3': names
+name-dropper <> s: name-droppers
+name-droppers <> b: name-dropper, f: s
+namecheck <> d: namechecked, p: namechecked, s: namechecks
+namechecked <> b: namecheck, f: dp
+namechecks <> b: namecheck, f: s
+named <> b: name, f: dp, p: named, d: named
+nameplate <> s: nameplates
+nameplates <> b: nameplate, f: s
+names <> b: name, f: s3
+namesake <> s: namesakes
+namesakes <> b: namesake, f: s
+nametag <> s: nametags
+nametags <> b: nametag, f: s
+Namibian <> s: namibians
+naming <> b: name, f: i, i: naming, s: namings
+nan <> s: nans, i: nanning
+NANA <> s: nanas
+nannied <> b: nanny, f: d
+nannies <> b: nanny, f: s
+Nanning <> b: nan, f: i
+nannofossil <> s: nannofossils
+nannofossils <> b: nannofossil, f: s
+nanny <> s: nannies, i: nannying, d: nannied
+nannying <> b: nanny, f: i
+nanocomposite <> s: nanocomposites
+nanocomposites <> b: nanocomposite, f: s
+nanogram <> s: nanograms
+nanograms <> b: nanogram, f: s
+nanometre <> s: nanometres
+nanometres <> b: nanometre, f: s
+nanosecond <> s: nanoseconds
+nanoseconds <> b: nanosecond, f: s
+nanotube <> s: nanotubes
+nanotubes <> b: nanotube, f: s
+nans <> b: nan, f: s
+nao <> s: naos
+naos <> b: nao, f: s
+nap <> i: napping, s: naps, d: napped, p: napped, '3': naps
+napalm <> '3': napalms, p: napalmed
+napalmed <> b: napalm, f: p
+napalms <> b: napalm, f: '3'
+nape <> s: napes
+napes <> b: nape, f: s
+napkin <> s: napkins
+napkins <> b: napkin, f: s
+Napoli <> s: napoli, b: napoli, f: s
+nappe <> s: nappes
+napped <> b: nap, f: dp
+nappes <> b: nappe, f: s
+nappies <> b: nappy, f: s
+napping <> b: nap, f: i
+nappy <> s: nappies
+naps <> f: s3, b: nap
+narcissist <> s: narcissists
+narcissists <> b: narcissist, f: s
+narcotic <> s: narcotics
+narcotics <> b: narcotic, f: s
+narcotize <> i: narcotizing, p: narcotized, '3': narcotizes, d: narcotized
+narcotized <> f: pd, b: narcotize
+narcotizes <> f: '3', b: narcotize
+narcotizing <> f: i, b: narcotize
+nare <> s: nares
+nares <> b: nare, f: s
+nark <> d: narked, s: narks, i: narking, '3': narks, p: narked
+narked <> b: nark, f: dp, p: narked
+narking <> b: nark, f: i
+narks <> b: nark, f: s3
+narrate <> d: narrated, '3': narrates, i: narrating, p: narrated, s: narrates
+narrated <> b: narrate, f: dp
+narrates <> b: narrate, f: 3s
+narrating <> b: narrate, f: i, i: narrating
+narration <> s: narrations
+narrations <> b: narration, f: s
+narrative <> s: narratives
+narratives <> b: narrative, f: s
+narrator <> s: narrators
+narrators <> b: narrator, f: s
+narrow <> r: narrower, p: narrowed, d: narrowed, i: narrowing, '3': narrows, t: narrowest
+narrowboat <> s: narrowboats, i: narrowboating
+narrowboating <> b: narrowboat, f: i
+narrowboats <> b: narrowboat, f: s
+narrowcast <> i: narrowcasting, d: narrowcast, b: narrowcast, f: d
+narrowcasting <> b: narrowcast, f: i
+narrowed <> b: narrow, f: pd, d: narrowed, p: narrowed
+narrower <> b: narrow, f: r
+narrowest <> b: narrow, f: t
+narrowing <> b: narrow, f: i, i: narrowing, s: narrowings
+narrows <> b: narrow, f: '3', s: narrows
+narwhal <> s: narwhals
+narwhals <> b: narwhal, f: s
+nasal <> s: nasals
+nasalize <> i: nasalizing, p: nasalized, '3': nasalizes, d: nasalized
+nasalized <> f: pd, b: nasalize
+nasalizes <> f: '3', b: nasalize
+nasalizing <> f: i, b: nasalize
+nasals <> b: nasal, f: s
+nastier <> b: nasty, f: r
+nasties <> b: nasty, f: s3
+nastiest <> b: nasty, f: t
+nasturtium <> s: nasturtiums
+nasturtiums <> b: nasturtium, f: s
+nasty <> s: nasties, r: nastier, t: nastiest, '3': nasties
+nat <> r: natter
+nate <> s: nates, i: nating
+nates <> b: nate, f: s
+nating <> b: nate, f: i
+nation <> s: nations
+national <> s: nationals
+nationalisation <> s: nationalisations
+nationalisations <> b: nationalisation, f: s
+nationalise <> d: nationalised, i: nationalising, p: nationalised
+nationalised <> d: nationalised, b: nationalised, f: d
+nationalising <> b: nationalise, f: i, i: nationalising
+nationalism <> s: nationalisms
+nationalisms <> b: nationalism, f: s
+nationalist <> s: nationalists
+nationalists <> b: nationalist, f: s
+nationalities <> b: nationality, f: s
+nationality <> s: nationalities
+nationalization <> s: nationalizations
+nationalizations <> b: nationalization, f: s
+nationalize <> d: nationalized, i: nationalizing, p: nationalized, '3': nationalizes
+nationalized <> d: nationalized, b: nationalized, f: dp, p: nationalized
+nationalizes <> f: '3', b: nationalize
+nationalizing <> b: nationalize, f: i
+nationals <> b: national, f: s
+nations <> b: nation, f: s
+native <> s: natives
+natives <> b: native, f: s
+nativist <> s: nativists
+nativists <> b: nativist, f: s
+natter <> b: nat, f: r, i: nattering, p: nattered, d: nattered, '3': natters
+nattier <> b: natty, f: r
+natty <> r: nattier
+naturalise <> d: naturalised, i: naturalising, '3': naturalises, p: naturalised
+naturalised <> b: naturalise, f: dp, d: naturalised
+naturalises <> b: naturalise, f: '3'
+naturalising <> b: naturalise, f: i
+naturalist <> s: naturalists
+naturalists <> b: naturalist, f: s
+naturalization <> s: naturalizations
+naturalizations <> b: naturalization, f: s
+naturalize <> '3': naturalizes, i: naturalizing, d: naturalized, p: naturalized
+naturalized <> d: naturalized, b: naturalized, f: d
+naturalizes <> b: naturalize, f: '3'
+naturalizing <> b: naturalize, f: i
+nature <> s: natures
+natures <> b: nature, f: s
+naturist <> s: naturists
+naturists <> b: naturist, f: s
+naturopath <> s: naturopaths
+naturopaths <> b: naturopath, f: s
+naughtier <> b: naughty, f: r
+naughties <> b: naughty, f: s
+naughtiest <> b: naughty, f: t
+naughty <> t: naughtiest, r: naughtier, s: naughties
+nauseate <> p: nauseated, d: nauseated, '3': nauseates, i: nauseating
+nauseated <> b: nauseate, f: pd, p: nauseated
+nauseates <> b: nauseate, f: '3'
+nauseating <> f: i, b: nauseate
+nautiloid <> s: nautiloids
+nautiloids <> b: nautiloid, f: s
+nav <> s: navs
+navaid <> s: navaids
+navaids <> b: navaid, f: s
+navajo <> s: navajos
+navajos <> b: navajo, f: s
+nave <> s: naves
+navel <> s: navels
+navels <> b: navel, f: s
+naves <> b: nave, f: s
+navies <> b: navy, f: s
+navigate <> i: navigating, p: navigated, d: navigated, '3': navigates
+navigated <> b: navigate, f: pd
+navigates <> b: navigate, f: '3'
+navigating <> b: navigate, f: i
+navigation <> s: navigations
+navigations <> b: navigation, f: s
+navigator <> s: navigators
+navigators <> b: navigator, f: s
+navs <> b: nav, f: s
+navvies <> b: navvy, f: s
+navvy <> s: navvies, i: navvying
+navvying <> b: navvy, f: i
+navy <> s: navies
+Nawab <> s: nawabs
+Naxalite <> s: naxalites
+Naxos <> b: naxo, f: s
+naysayer <> s: naysayers
+naysayers <> b: naysayer, f: s
+Nazareth <> '3': nazareth, b: nazareth, f: '3'
+Nazi <> s: nazis
+nazified <> p: nazified, b: nazified, f: p
+Nazify <> p: nazified, i: nazifying, '3': Nazifies, d: nazified
+nazis <> b: nazi, f: s
+ne <> s: nes
+Neanderthal <> s: neanderthals
+neap <> s: neaps
+Neapolitan <> s: neapolitans
+neaps <> b: neap, f: s
+near <> t: nearest, r: nearer, i: nearing, p: neared, '3': nears, d: neared
+neared <> f: pd, b: near
+nearer <> b: near, f: r
+nearest <> b: near, f: t
+nearing <> b: near, f: i, i: nearing
+nearness <> s: nearnesses
+nearnesses <> b: nearness, f: s
+nears <> b: near, f: '3'
+neat <> r: neater, t: neatest
+neaten <> p: neatened, d: neatened, i: neatening, '3': neatens
+neatened <> b: neaten, f: pd
+neatening <> b: neaten, f: i
+neatens <> f: '3', b: neaten
+neater <> b: neat, f: r
+neatest <> b: neat, f: t
+Neave <> '3': neaves
+neb <> s: nebs
+nebbish <> s: nebbishes
+nebbishes <> b: nebbish, f: s
+nebs <> b: neb, f: s
+nebula <> s: nebulae
+nebulae <> b: nebula, f: s
+nebulosities <> b: nebulosity, f: s
+nebulosity <> s: nebulosities
+necessaries <> b: necessary, f: s
+necessary <> s: necessaries
+necessitate <> p: necessitated, '3': necessitates, d: necessitated, i: necessitating
+necessitated <> b: necessitate, f: pd
+necessitates <> b: necessitate, f: '3'
+necessitating <> b: necessitate, f: i, i: necessitating
+necessities <> b: necessity, f: s
+necessity <> s: necessities
+neck <> s: necks, i: necking, p: necked, '3': necks, d: necked
+neckband <> s: neckbands, '3': neckbands
+neckbands <> b: neckband, f: s3
+neckcloth <> s: neckcloths
+neckcloths <> b: neckcloth, f: s
+necked <> f: pd, b: neck, p: necked
+neckerchief <> s: neckerchiefs
+neckerchiefs <> b: neckerchief, f: s
+necking <> b: neck, f: i
+necklace <> s: necklaces, p: necklaced, i: necklacing
+necklaced <> b: necklace, f: p
+necklaces <> b: necklace, f: s
+necklacing <> b: necklace, f: i
+necklet <> s: necklets
+necklets <> b: necklet, f: s
+neckline <> s: necklines
+necklines <> b: neckline, f: s
+necks <> f: s3, b: neck
+necromancer <> s: necromancers
+necromancers <> b: necromancer, f: s
+necropsies <> b: necropsy, f: s
+necropsy <> s: necropsies
+nectar <> s: nectars
+nectaries <> b: nectary, f: s
+nectarine <> s: nectarines
+nectarines <> b: nectarine, f: s
+nectars <> b: nectar, f: s
+nectary <> s: nectaries
+NED <> s: neds
+nee <> s: nees
+need <> s: needs, '3': needs, d: needed, p: needed, i: needing
+needed <> b: need, f: dp, d: needed, p: needed
+neediest <> b: needy, f: t
+needing <> b: need, f: i
+needle <> s: needles, i: needling, p: needled, '3': needles, d: needled
+needled <> f: pd, b: needle
+needlepoint <> s: needlepoints
+needlepoints <> b: needlepoint, f: s
+needler <> s: needlers
+needlers <> b: needler, f: s
+needles <> f: s3, b: needle
+needlewoman <> s: needlewomen
+needlewomen <> b: needlewoman, f: s
+needleworker <> s: needleworkers
+needleworkers <> b: needleworker, f: s
+needling <> b: needle, f: i, i: needling
+needs <> b: need, f: s3
+needy <> t: neediest
+neep <> s: neeps
+neeps <> b: neep, f: s
+nees <> b: nee, f: s
+nef <> s: nefs
+nefs <> b: nef, f: s
+neg <> s: negs
+negate <> d: negated, p: negated, '3': negates, i: negating, s: negates
+negated <> b: negate, f: dp, d: negated, p: negated
+negates <> b: negate, f: 3s
+negating <> b: negate, f: i
+negation <> s: negations
+negations <> b: negation, f: s
+negative <> s: negatives, d: negatived, p: negatived, i: negativing, '3': negatives
+negatived <> b: negative, f: dp
+negatives <> b: negative, f: s
+neglect <> d: neglected, i: neglecting, '3': neglects, p: neglected
+neglected <> b: neglect, f: dp, d: neglected, p: neglected
+neglecting <> b: neglect, f: i
+neglects <> b: neglect, f: '3'
+negligee <> s: negligees
+negligees <> b: negligee, f: s
+negligent <> r: negligenter
+negligenter <> b: negligent, f: r
+negotiate <> i: negotiating, d: negotiated, p: negotiated, '3': negotiates
+negotiated <> b: negotiate, f: dp, d: negotiated, p: negotiated
+negotiates <> b: negotiate, f: '3'
+negotiating <> b: negotiate, f: i, i: negotiating
+negotiation <> s: negotiations
+negotiations <> b: negotiation, f: s
+negotiator <> s: negotiators
+negotiators <> b: negotiator, f: s
+negress <> s: negresses
+negresses <> b: negress, f: s
+Negrito <> s: negritos
+negritos <> b: negrito, f: s
+negro <> s: negros
+negros <> b: negro, f: s
+negs <> b: neg, f: s
+neigh <> p: neighed, i: neighing, s: neighs, '3': neighs, d: neighed
+neighbor <> s: neighbors, i: neighboring, p: neighbored, '3': neighbors, d: neighbored
+neighborhood <> s: neighborhoods
+neighborhoods <> b: neighborhood, f: s
+neighboring <> b: neighbore, f: i, i: neighboring
+neighbors <> b: neighbor, f: s
+neighbour <> s: neighbours, i: neighbouring, p: neighboured, '3': neighbours, d: neighboured
+neighboured <> f: pd, b: neighbour
+neighbourhood <> s: neighbourhoods
+neighbourhoods <> b: neighbourhood, f: s
+neighbouring <> f: i, b: neighbour
+neighbours <> f: s3, b: neighbour
+neighed <> f: pd, b: neigh
+neighing <> b: neigh, f: i
+neighs <> b: neigh, f: s3
+Nelly <> s: nellies
+nematocyst <> s: nematocysts
+nematocysts <> b: nematocyst, f: s
+nematode <> s: nematodes, '3': nematodes
+nematodes <> b: nematode, f: s3
+nemertean <> s: nemerteans
+nemerteans <> b: nemertean, f: s
+nemesia <> s: nemesias
+nemesias <> b: nemesia, f: s
+neo <> s: neos
+neo-fascist <> s: neo-fascists
+neo-fascists <> b: neo-fascist, f: s
+neo-liberal <> s: neo-liberals
+neo-liberals <> b: neo-liberal, f: s
+neoclassicist <> s: neoclassicists
+neoclassicists <> b: neoclassicist, f: s
+neoliberal <> s: neoliberals
+neoliberals <> b: neoliberal, f: s
+neologism <> s: neologisms
+neologisms <> b: neologism, f: s
+neon <> s: neons
+neonate <> s: neonates, '3': neonates
+neonates <> b: neonate, f: s3
+neonatologist <> s: neonatologists
+neonatologists <> b: neonatologist, f: s
+neons <> b: neon, f: s
+neophyte <> s: neophytes
+neophytes <> b: neophyte, f: s
+neoplasia <> s: neoplasias
+neoplasias <> b: neoplasia, f: s
+neoplasm <> s: neoplasms
+neoplasms <> b: neoplasm, f: s
+neos <> b: neo, f: s
+neotropic <> s: neotropics
+neotropics <> b: neotropic, f: s
+nepeta <> s: nepetas
+nepetas <> b: nepeta, f: s
+nephelinite <> s: nephelinites
+nephelinites <> b: nephelinite, f: s
+nephew <> s: nephews
+nephews <> b: nephew, f: s
+nephrologist <> s: nephrologists
+nephrologists <> b: nephrologist, f: s
+nerd <> s: nerds
+nerds <> b: nerd, f: s
+Nereid <> s: nereids
+nereids <> b: nereid, f: s
+nerine <> s: nerines
+nerines <> b: nerine, f: s
+nerve <> s: nerves, p: nerved, i: nerving, d: nerved, '3': nerves
+nerve-wracking <> b: nerve-wrack, f: i
+nerved <> b: nerve, f: pd
+nerves <> f: s3, b: nerve
+nerving <> b: nerve, f: i
+nes <> b: ne, f: s
+ness <> s: nesses
+nesses <> b: ness, f: s
+nest <> s: nests, i: nesting, d: nested, '3': nests, p: nested
+nested <> b: nest, f: dp, d: nested, p: nested
+nester <> s: nesters
+nesters <> b: nester, f: s
+nesting <> b: nest, f: i, i: nesting, s: nestings
+nestle <> i: nestling, p: nestled, '3': nestles, d: nestled
+nestled <> b: nestle, f: pd, p: nestled
+nestles <> b: nestle, f: '3'
+nestling <> b: nestle, f: i, s: nestlings
+Nestorian <> s: nestorians
+nests <> b: nest, f: s3
+net <> s: nets, p: netted, d: netted, i: netting, '3': nets
+neta <> s: netas
+netas <> b: neta, f: s
+nether <> '3': nethers
+Netherlander <> s: netherlanders, '3': netherlanders
+nethers <> b: nether, f: '3'
+nets <> f: s3, b: net
+netsuke <> s: netsukes
+netsukes <> b: netsuke, f: s
+netted <> b: net, f: pd, p: netted
+netter <> s: netters
+netters <> b: netter, f: s
+netties <> b: netty, f: s
+netting <> b: net, f: i, i: netting, s: nettings
+nettle <> s: nettles, p: nettled, d: nettled, i: nettling, '3': nettles
+nettled <> b: nettle, f: pd, d: nettled, p: nettled
+nettles <> f: s3, b: nettle
+nettling <> f: i, b: nettle
+netty <> s: netties
+network <> s: networks, i: networking, d: networked, p: networked, '3': networks
+networked <> f: dp, b: network, d: networked
+networking <> b: network, f: i, i: networking
+networks <> f: s3, b: network
+neuralgia <> s: neuralgias
+neuralgias <> b: neuralgia, f: s
+neuroanatomist <> s: neuroanatomists
+neuroanatomists <> b: neuroanatomist, f: s
+neurobiologies <> b: neurobiology, f: s
+neurobiologist <> s: neurobiologists
+neurobiologists <> b: neurobiologist, f: s
+neurobiology <> s: neurobiologies
+neuroblast <> s: neuroblasts
+neuroblasts <> b: neuroblast, f: s
+neurochemist <> s: neurochemists
+neurochemists <> b: neurochemist, f: s
+neuroleptic <> s: neuroleptics
+neuroleptics <> b: neuroleptic, f: s
+neurologist <> s: neurologists
+neurologists <> b: neurologist, f: s
+neuron <> s: neurons
+neurone <> s: neurones, '3': neurones
+neurones <> b: neurone, f: s3
+neurons <> b: neuron, f: s
+neuropathies <> b: neuropathy, f: s
+neuropathy <> s: neuropathies
+neuropeptide <> s: neuropeptides
+neuropeptides <> b: neuropeptide, f: s
+neurophysiologist <> s: neurophysiologists
+neurophysiologists <> b: neurophysiologist, f: s
+neuropsychologist <> s: neuropsychologists
+neuropsychologists <> b: neuropsychologist, f: s
+neuroscience <> s: neurosciences
+neurosciences <> b: neuroscience, f: s
+neuroscientist <> s: neuroscientists
+neuroscientists <> b: neuroscientist, f: s
+neuroses <> b: neurosis, f: s
+neurosis <> s: neuroses
+neurosurgeon <> s: neurosurgeons
+neurosurgeons <> b: neurosurgeon, f: s
+neurotic <> s: neurotics
+neurotics <> b: neurotic, f: s
+neurotoxin <> s: neurotoxins
+neurotoxins <> b: neurotoxin, f: s
+neurotransmitter <> s: neurotransmitters, '3': neurotransmitters
+neurotransmitters <> b: neurotransmitter, f: s3
+neuter <> d: neutered, p: neutered, i: neutering, s: neuters, '3': neuters
+neutered <> b: neuter, f: dp, p: neutered
+neutering <> b: neuter, f: i, i: neutering
+neuters <> f: s3, b: neuter
+neutral <> s: neutrals
+neutralisation <> s: neutralisations
+neutralisations <> b: neutralisation, f: s
+neutralise <> d: neutralised, i: neutralising, '3': neutralises, p: neutralised, s: neutralises
+neutralised <> b: neutralise, f: dp, d: neutralised, p: neutralised
+neutralises <> b: neutralise, f: 3s
+neutralising <> b: neutralise, f: i
+neutralist <> s: neutralists
+neutralists <> b: neutralist, f: s
+neutralization <> s: neutralizations
+neutralizations <> b: neutralization, f: s
+neutralize <> d: neutralized, i: neutralizing, p: neutralized, '3': neutralizes
+neutralized <> b: neutralize, f: dp
+neutralizes <> b: neutralize, f: '3'
+neutralizing <> b: neutralize, f: i, i: neutralizing
+neutrals <> b: neutral, f: s
+neutrino <> s: neutrinos
+neutrinos <> b: neutrino, f: s
+neutron <> s: neutrons
+neutrons <> b: neutron, f: s
+neutrophil <> s: neutrophils, '3': neutrophils
+neutrophils <> b: neutrophil, f: s3
+new <> r: newer, t: newest
+newborn <> s: newborns
+newborns <> b: newborn, f: s
+newcomer <> s: newcomers
+newcomers <> b: newcomer, f: s
+newel <> s: newels
+newels <> b: newel, f: s
+newer <> b: new, f: r
+newest <> b: new, f: t
+newfangled <> p: newfangled, b: newfangled, f: p
+Newland <> s: newlands
+Newlands <> b: newland, f: s
+newly-wed <> s: newly-weds
+newly-weds <> b: newly-wed, f: s
+newlywed <> s: newlyweds
+newlyweds <> b: newlywed, f: s
+news-sheet <> s: news-sheets
+news-sheets <> b: news-sheet, f: s
+news-stand <> s: news-stands
+news-stands <> b: news-stand, f: s
+newsagent <> s: newsagents
+newsagents <> b: newsagent, f: s
+newsboy <> s: newsboys
+newsboys <> b: newsboy, f: s
+newscast <> s: newscasts, '3': newscasts, p: newscast, b: newscast, f: p
+newscaster <> s: newscasters
+newscasters <> b: newscaster, f: s
+newscasts <> b: newscast, f: s3
+newsdesk <> s: newsdesks
+newsdesks <> b: newsdesk, f: s
+newsflash <> s: newsflashes
+newsflashes <> b: newsflash, f: s
+newshound <> s: newshounds
+newshounds <> b: newshound, f: s
+newsletter <> s: newsletters
+newsletters <> b: newsletter, f: s
+newsman <> s: newsmen
+newsmen <> b: newsman, f: s
+Newsome <> s: newsomes
+newspaper <> s: newspapers
+newspaperman <> s: newspapermen
+newspapermen <> b: newspaperman, f: s
+newspapers <> b: newspaper, f: s
+newsreader <> s: newsreaders
+newsreaders <> b: newsreader, f: s
+newsreel <> s: newsreels
+newsreels <> b: newsreel, f: s
+newsroom <> s: newsrooms
+newsrooms <> b: newsroom, f: s
+newssheet <> s: newssheets
+newssheets <> b: newssheet, f: s
+newsstand <> s: newsstands
+newsstands <> b: newsstand, f: s
+newt <> s: newts, '3': newts
+newton <> s: newtons
+Newtonian <> s: newtonians
+newtons <> b: newton, f: s
+newts <> b: newt, f: s3
+nf <> r: nfer, s: nfs
+nfer <> b: nf, f: r
+NFS <> b: nf, f: s
+nh <> r: nher
+nher <> b: nh, f: r
+Ni <> s: ni, b: ni, f: s
+nib <> s: nibs
+nibble <> i: nibbling, p: nibbled, s: nibbles, d: nibbled, '3': nibbles
+nibbled <> b: nibble, f: pd, p: nibbled
+nibbler <> s: nibblers
+nibblers <> b: nibbler, f: s
+nibbles <> b: nibble, f: s3
+nibbling <> b: nibble, f: i, s: nibblings, i: nibbling
+niblick <> s: niblicks
+niblicks <> b: niblick, f: s
+nibs <> b: nib, f: s
+Nicaraguan <> s: nicaraguans
+nice <> r: nicer, t: nicest
+nicer <> b: nice, f: r
+nicest <> b: nice, f: t
+niceties <> b: nicety, f: s
+nicety <> s: niceties
+nich <> s: niches, p: niched
+niched <> b: nich, f: p
+niches <> b: nich, f: s
+Nicholl <> s: nicholls
+Nicholls <> b: nicholl, f: s
+nick <> d: nicked, p: nicked, i: nicking, s: nicks, '3': nicks
+nick-nack <> s: nick-nacks
+nick-nacks <> b: nick-nack, f: s
+nicked <> b: nick, f: dp, d: nicked
+nickel <> s: nickels, i: nickelling, p: nickelled, '3': nickels, d: nickelled
+nickelled <> f: pd, b: nickel
+nickelling <> f: i, b: nickel
+nickelodeon <> s: nickelodeons
+nickelodeons <> b: nickelodeon, f: s
+nickels <> f: s3, b: nickel
+nicker <> i: nickering, p: nickered, '3': nickers, d: nickered
+nickered <> f: pd, b: nicker
+nickering <> b: nicker, f: i
+nickers <> f: '3', b: nicker
+nicking <> b: nick, f: i, i: nicking
+Nicklaus <> b: nicklau, f: s
+nickname <> d: nicknamed, s: nicknames, p: nicknamed, i: nicknaming, '3': nicknames
+nicknamed <> b: nickname, f: dp
+nicknames <> f: s3, b: nickname
+nicknaming <> b: nickname, f: i
+nicks <> b: nick, f: s3
+Nico <> s: nicos
+Nicol <> s: nicols
+nicotine <> p: nicotined
+nicotined <> b: nicotine, f: p
+niece <> s: nieces
+nieces <> b: niece, f: s
+Niel <> s: niels
+niff <> p: niffed
+niffed <> b: niff, f: p
+niftiest <> b: nifty, f: t
+nifty <> t: niftiest
+nig-nog <> s: nig-nogs
+nig-nogs <> b: nig-nog, f: s
+Nigerian <> s: nigerians
+nigerians <> b: nigerian, f: s
+nigger <> s: niggers, '3': niggers
+niggers <> b: nigger, f: s3
+niggle <> s: niggles, p: niggled, i: niggling, d: niggled, '3': niggles
+niggled <> b: niggle, f: pd
+niggles <> b: niggle, f: s3
+niggling <> b: niggle, f: i, i: niggling
+night <> s: nights
+night-time <> s: night-times
+night-times <> b: night-time, f: s
+nightbird <> s: nightbirds
+nightbirds <> b: nightbird, f: s
+nightcap <> s: nightcaps
+nightcaps <> b: nightcap, f: s
+nightclothes <> b: nightclothe, f: s
+nightclub <> s: nightclubs, i: nightclubbing
+nightclubber <> s: nightclubbers
+nightclubbers <> b: nightclubber, f: s
+nightclubbing <> b: nightclub, f: i, i: nightclubbing
+nightclubs <> b: nightclub, f: s
+nightdress <> s: nightdresses
+nightdresses <> b: nightdress, f: s
+nightgown <> s: nightgowns
+nightgowns <> b: nightgown, f: s
+nighthawk <> s: nighthawks
+nighthawks <> b: nighthawk, f: s
+nightie <> s: nighties
+nighties <> b: nightie, f: s
+nightingale <> s: nightingales
+nightingales <> b: nightingale, f: s
+nightjar <> s: nightjars, '3': nightjars
+nightjars <> b: nightjar, f: s3
+nightmare <> s: nightmares
+nightmares <> b: nightmare, f: s
+nights <> b: night, f: s
+nightshade <> s: nightshades
+nightshades <> b: nightshade, f: s
+nightshift <> s: nightshifts
+nightshifts <> b: nightshift, f: s
+nightshirt <> s: nightshirts
+nightshirts <> b: nightshirt, f: s
+nightspot <> s: nightspots
+nightspots <> b: nightspot, f: s
+nightstick <> s: nightsticks
+nightsticks <> b: nightstick, f: s
+nightwatchman <> s: nightwatchmen
+nightwatchmen <> b: nightwatchman, f: s
+nihilist <> s: nihilists
+nihilists <> b: nihilist, f: s
+Nike <> s: nikes
+niki <> s: niki, b: niki, f: s
+niko <> s: nikos
+nikon <> s: nikons
+nikons <> b: nikon, f: s
+NIKOS <> b: niko, f: s
+nil <> s: nils, '3': nils
+nilgai <> s: nilgai, b: nilgai, f: s
+nils <> b: nil, f: s3
+nimble <> p: nimbled
+nimbled <> b: nimble, f: p
+nimbler <> b: nimbl, f: r
+nimblest <> b: nimbl, f: t
+nimby <> s: nimbys
+nimbys <> b: nimby, f: s
+nincompoop <> s: nincompoops
+nincompoops <> b: nincompoop, f: s
+nine-to-fiver <> s: nine-to-fivers
+nine-to-fivers <> b: nine-to-fiver, f: s
+ninepin <> s: ninepins
+ninepins <> b: ninepin, f: s
+ninnies <> b: ninny, f: s
+ninny <> s: ninnies
+nip <> p: nipped, i: nipping, d: nipped, '3': nips, s: nips
+nipped <> b: nip, f: pd, p: nipped
+nipper <> s: nippers
+nippers <> b: nipper, f: s
+nippier <> b: nippy, f: r
+nipping <> b: nip, f: i
+nipple <> s: nipples, '3': nipples, p: nippled
+nippled <> b: nipple, f: p
+nipples <> b: nipple, f: s3
+nippy <> r: nippier
+nips <> b: nip, f: 3s
+nirvana <> s: nirvanas
+nirvanas <> b: nirvana, f: s
+nit <> s: nits
+nit-pick <> i: nit-picking
+nit-picker <> s: nit-pickers
+nit-pickers <> b: nit-picker, f: s
+nit-picking <> i: nit-picking, b: nit-picking, f: i
+nitpick <> i: nitpicking
+nitpicking <> b: nitpick, f: i
+nitrate <> s: nitrates, i: nitrating, p: nitrated, '3': nitrates, d: nitrated
+nitrates <> b: nitrate, f: s
+nitride <> i: nitriding
+nitriding <> b: nitride, f: i
+nitrified <> f: pd, b: nitrify
+nitrifies <> f: '3', b: nitrify
+nitrify <> i: nitrifying, p: nitrified, '3': nitrifies, d: nitrified
+nitrile <> s: nitriles
+nitriles <> b: nitrile, f: s
+nitrite <> s: nitrites
+nitrites <> b: nitrite, f: s
+nitrogen <> s: nitrogens
+nitrogens <> b: nitrogen, f: s
+nitrosamine <> s: nitrosamines
+nitrosamines <> b: nitrosamine, f: s
+nits <> b: nit, f: s
+nitty-gritties <> b: nitty-gritty, f: s
+nitty-gritty <> s: nitty-gritties
+nitwit <> s: nitwits
+nitwits <> b: nitwit, f: s
+nix <> p: nixed, '3': nixes
+nixed <> b: nix, f: p
+nixes <> b: nix, f: '3'
+no-ball <> s: no-balls
+no-balls <> b: no-ball, f: s
+no-frills <> b: no-frill, f: s
+no-hoper <> s: no-hopers
+no-hopers <> b: no-hoper, f: s
+no-name <> s: no-names
+no-names <> b: no-name, f: s
+no-show <> s: no-shows
+no-shows <> b: no-show, f: s
+no-trump <> s: no-trumps
+no-trumps <> b: no-trump, f: s
+noake <> s: noakes, '3': noakes
+noakes <> b: noake, f: s3
+nob <> s: nobs
+nobble <> d: nobbled, p: nobbled, i: nobbling, s: nobbles, '3': nobbles
+nobbled <> b: nobble, f: dp
+nobbles <> f: s3, b: nobble
+nobbling <> b: nobble, f: i, i: nobbling
+nobilities <> b: nobility, f: s
+nobility <> s: nobilities
+noble <> s: nobles
+nobleman <> s: noblemen
+noblemen <> b: nobleman, f: s
+nobles <> b: noble, f: s
+nobodies <> b: nobody, f: s
+nobody <> s: nobodies
+nobs <> b: nob, f: s
+nociceptor <> s: nociceptors
+nociceptors <> b: nociceptor, f: s
+nock <> p: nocked, s: nocks, d: nocked, i: nocking, '3': nocks
+nocked <> b: nock, f: pd
+nocking <> f: i, b: nock
+nocks <> f: s3, b: nock
+nocturnal <> s: nocturnals
+nocturnals <> b: nocturnal, f: s
+nocturne <> s: nocturnes
+nocturnes <> b: nocturne, f: s
+nod <> p: nodded, i: nodding, '3': nods, s: nods, d: nodded
+nodded <> b: nod, f: pd
+noddies <> b: noddy, f: s
+nodding <> b: nod, f: i, i: nodding, s: noddings
+noddle <> s: noddles
+noddles <> b: noddle, f: s
+noddy <> s: noddies
+node <> s: nodes, d: noded, p: noded
+noded <> b: node, f: dp, d: noded, p: noded
+nodes <> b: node, f: s
+nods <> b: nod, f: 3s
+nodule <> s: nodules
+nodules <> b: nodule, f: s
+NOE <> s: noes, '3': noes
+noes <> b: noe, f: s3
+nog <> s: nogs
+Nogai <> s: nogai, b: nogai, f: s
+noggin <> s: noggins
+noggins <> b: noggin, f: s
+nogs <> b: nog, f: s
+noir <> s: noirs
+noirs <> b: noir, f: s
+noise <> s: noises, i: noising, p: noised, '3': noises, d: noised
+noised <> f: pd, b: noise
+noises <> f: s3, b: noise
+noisette <> s: noisettes
+noisettes <> b: noisette, f: s
+noisier <> b: noisy, f: r
+noisiest <> b: noisy, f: t
+noising <> f: i, b: noise
+noisy <> r: noisier, t: noisiest
+nomad <> s: nomads
+nomads <> b: nomad, f: s
+noman <> s: nomen
+nome <> s: nomes
+nomen <> b: noman, f: s
+nomes <> b: nome, f: s
+nominal <> s: nominals
+nominalization <> s: nominalizations
+nominalizations <> b: nominalization, f: s
+nominals <> b: nominal, f: s
+nominate <> d: nominated, p: nominated, i: nominating, '3': nominates
+nominated <> b: nominate, f: dp, p: nominated, d: nominated
+nominates <> b: nominate, f: '3'
+nominating <> b: nominate, f: i
+nomination <> s: nominations
+nominations <> b: nomination, f: s
+nominator <> s: nominators
+nominators <> b: nominator, f: s
+nominee <> s: nominees
+nominees <> b: nominee, f: s
+nomogram <> s: nomograms
+nomograms <> b: nomogram, f: s
+non-alcoholic <> s: non-alcoholics
+non-alcoholics <> b: non-alcoholic, f: s
+non-bank <> s: non-banks
+non-banks <> b: non-bank, f: s
+non-believer <> s: non-believers
+non-believers <> b: non-believer, f: s
+non-citizen <> s: non-citizens
+non-citizens <> b: non-citizen, f: s
+non-combatant <> s: non-combatants
+non-combatants <> b: non-combatant, f: s
+non-commissioned <> p: non-commissioned, b: non-commissioned, f: p
+non-conductor <> s: non-conductors
+non-conductors <> b: non-conductor, f: s
+non-drinker <> s: non-drinkers
+non-drinkers <> b: non-drinker, f: s
+non-driver <> s: non-drivers
+non-drivers <> b: non-driver, f: s
+non-essential <> s: non-essentials
+non-essentials <> b: non-essential, f: s
+non-event <> s: non-events
+non-events <> b: non-event, f: s
+non-executive <> s: non-executives
+non-executives <> b: non-executive, f: s
+non-existent <> s: non-existents
+non-existents <> b: non-existent, f: s
+non-factive <> s: non-factives
+non-factives <> b: non-factive, f: s
+non-human <> s: non-humans
+non-humans <> b: non-human, f: s
+non-issue <> s: non-issues
+non-issues <> b: non-issue, f: s
+non-linearities <> b: non-linearity, f: s
+non-linearity <> s: non-linearities
+non-member <> s: non-members
+non-members <> b: non-member, f: s
+non-metal <> s: non-metals
+non-metallic <> s: non-metallics
+non-metallics <> b: non-metallic, f: s
+non-metals <> b: non-metal, f: s
+non-native <> s: non-natives
+non-natives <> b: non-native, f: s
+non-negotiable <> s: non-negotiables
+non-negotiables <> b: non-negotiable, f: s
+non-parties <> b: non-party, f: s
+non-party <> s: non-parties
+non-payment <> s: non-payments
+non-payments <> b: non-payment, f: s
+non-person <> s: non-persons
+non-persons <> b: non-person, f: s
+non-professional <> s: non-professionals
+non-professionals <> b: non-professional, f: s
+non-profit <> s: non-profits
+non-profits <> b: non-profit, f: s
+non-reader <> s: non-readers
+non-readers <> b: non-reader, f: s
+non-resident <> s: non-residents
+non-residents <> b: non-resident, f: s
+non-smoker <> s: non-smokers
+non-smokers <> b: non-smoker, f: s
+non-standard <> s: non-standards
+non-standards <> b: non-standard, f: s
+non-starter <> s: non-starters
+non-starters <> b: non-starter, f: s
+non-swimmer <> s: non-swimmers
+non-swimmers <> b: non-swimmer, f: s
+non-user <> s: non-users
+non-users <> b: non-user, f: s
+non-verbal <> s: non-verbals
+non-verbals <> b: non-verbal, f: s
+non-white <> s: non-whites
+non-whites <> b: non-white, f: s
+non-word <> s: non-words
+non-words <> b: non-word, f: s
+nonagenarian <> s: nonagenarians
+nonagenarians <> b: nonagenarian, f: s
+nonce <> s: nonces
+nonces <> b: nonce, f: s
+nonconformist <> s: nonconformists
+nonconformists <> b: nonconformist, f: s
+nondescript <> s: nondescripts
+nondescripts <> b: nondescript, f: s
+nonentities <> b: nonentity, f: s
+nonentity <> s: nonentities
+nonmember <> s: nonmembers
+nonmembers <> b: nonmember, f: s
+nonplus <> i: nonplussing, p: nonplussed, '3': nonplusses, d: nonplussed
+nonplussed <> f: pd, b: nonplus
+nonplussing <> f: i, b: nonplus
+nonsense <> s: nonsenses
+nonsenses <> b: nonsense, f: s
+nonsmoker <> s: nonsmokers
+nonsmokers <> b: nonsmoker, f: s
+nonstop <> s: nonstops
+nonstops <> b: nonstop, f: s
+nonsuit <> d: nonsuited, i: nonsuiting
+nonsuited <> b: nonsuit, f: d
+nonsuiting <> b: nonsuit, f: i
+noodle <> s: noodles, '3': noodles, i: noodling, p: noodled
+noodled <> b: noodle, f: p
+noodles <> b: noodle, f: s3
+noodling <> b: noodle, f: i, s: noodlings
+nook <> s: nooks
+nooks <> b: nook, f: s
+noon <> s: noons
+noone <> s: noones
+noones <> b: noone, f: s
+noons <> b: noon, f: s
+noose <> s: nooses, d: noosed, i: noosing, p: noosed, '3': nooses
+noosed <> b: noose, f: d
+nooses <> b: noose, f: s
+Nordic <> s: nordics
+nori <> s: nori, b: nori, f: s
+norite <> s: norites
+norites <> b: norite, f: s
+norm <> s: norms
+normal <> s: normals
+normalise <> d: normalised, i: normalising, p: normalised, '3': normalises, s: normalises
+normalised <> b: normalise, f: dp
+normalises <> b: normalise, f: 3s
+normalising <> b: normalise, f: i
+normalities <> b: normality, f: s
+normality <> s: normalities
+normalize <> d: normalized, i: normalizing, p: normalized, '3': normalizes
+normalized <> b: normalize, f: dp, p: normalized, d: normalized
+normalizes <> f: '3', b: normalize
+normalizing <> b: normalize, f: i
+normals <> b: normal, f: s
+norman <> s: normans
+norming <> i: norming, b: norming, f: i
+norms <> b: norm, f: s
+Norseman <> s: norsemen
+norsemen <> b: norseman, f: s
+north-easterlies <> b: north-easterly, f: s
+north-easterly <> s: north-easterlies
+north-north-west <> b: north-north-w, f: t
+northerner <> s: northerners
+northerners <> b: northerner, f: s
+northing <> s: northings, i: northing, b: northing, f: i
+northings <> b: northing, f: s
+northland <> s: northlands
+northlands <> b: northland, f: s
+Northman <> s: northmen
+northmen <> b: northman, f: s
+northumbrian <> s: northumbrians
+northumbrians <> b: northumbrian, f: s
+Norway <> s: norways
+Norwegian <> s: norwegians
+nose <> s: noses, i: nosing, p: nosed, d: nosed, '3': noses
+nosebag <> s: nosebags
+nosebags <> b: nosebag, f: s
+noseband <> s: nosebands
+nosebands <> b: noseband, f: s
+nosebleed <> s: nosebleeds, '3': nosebleeds
+nosebleeds <> b: nosebleed, f: s3
+nosecone <> s: nosecones
+nosecones <> b: nosecone, f: s
+nosed <> b: nose, f: pd
+nosedive <> p: nosedived, d: nosedived, s: nosedives, i: nosediving, '3': nosedives
+nosedived <> b: nosedive, f: pd
+nosedives <> f: s3, b: nosedive
+nosediving <> f: i, b: nosedive
+nosegay <> s: nosegays
+nosegays <> b: nosegay, f: s
+noses <> f: s3, b: nose
+nosey <> p: noseyed
+noseyed <> b: nosey, f: p
+nosh <> i: noshing, p: noshed, '3': noshes, d: noshed
+noshed <> f: pd, b: nosh
+noshes <> f: '3', b: nosh
+noshing <> b: nosh, f: i
+nosing <> b: nose, f: i, s: nosings, i: nosing
+nosode <> s: nosodes
+nosodes <> b: nosode, f: s
+nostalgia <> s: nostalgias
+nostalgias <> b: nostalgia, f: s
+nostril <> s: nostrils, i: nostrilling
+nostrilling <> b: nostril, f: i
+nostrils <> b: nostril, f: s
+nostrum <> s: nostrums
+nostrums <> b: nostrum, f: s
+notabilities <> b: notability, f: s
+notability <> s: notabilities
+notable <> s: notables, '3': notables
+notables <> b: notable, f: s3
+notam <> s: notams
+notams <> b: notam, f: s
+notaries <> b: notary, f: s
+notarize <> i: notarizing, p: notarized, '3': notarizes, d: notarized
+notarized <> f: pd, b: notarize
+notarizes <> f: '3', b: notarize
+notarizing <> f: i, b: notarize
+notary <> s: notaries
+notate <> d: notated, i: notating, p: notated, '3': notates
+notated <> f: dp, b: notate, d: notated
+notates <> f: '3', b: notate
+notating <> b: notate, f: i
+notation <> s: notations
+notations <> b: notation, f: s
+notch <> p: notched, i: notching, d: notched, s: notches, '3': notches
+notched <> b: notch, f: pd, d: notched, p: notched
+notches <> b: notch, f: s3
+notching <> b: notch, f: i
+note <> s: notes, d: noted, p: noted, i: noting, '3': notes
+notebook <> s: notebooks
+notebooks <> b: notebook, f: s
+notecard <> s: notecards
+notecards <> b: notecard, f: s
+noted <> b: note, f: dp, d: noted, p: noted
+notelet <> s: notelets
+notelets <> b: notelet, f: s
+notepad <> s: notepads
+notepads <> b: notepad, f: s
+notepaper <> s: notepapers
+notepapers <> b: notepaper, f: s
+notes <> b: note, f: s3
+notice <> p: noticed, d: noticed, i: noticing, s: notices, '3': notices
+noticeboard <> s: noticeboards
+noticeboards <> b: noticeboard, f: s
+noticed <> b: notice, f: pd
+notices <> b: notice, f: s3
+noticing <> b: notice, f: i, i: noticing
+notification <> s: notifications
+notifications <> b: notification, f: s
+notified <> b: notify, f: dp, p: notified, d: notified
+notify <> d: notified, i: notifying, p: notified, '3': notifies
+noting <> b: note, f: i
+notion <> s: notions
+notions <> b: notion, f: s
+nought <> s: noughts, '3': noughts
+noughts <> b: nought, f: s3
+noun <> s: nouns
+nouns <> b: noun, f: s
+nourish <> d: nourished, '3': nourishes, i: nourishing, p: nourished
+nourished <> b: nourish, f: dp
+nourishes <> b: nourish, f: '3'
+nourishing <> b: nourish, f: i, i: nourishing
+nouvelle <> s: nouvelles
+nouvelles <> b: nouvelle, f: s
+nova <> s: novas
+novas <> b: nova, f: s
+novate <> d: novated, p: novated
+novated <> b: novate, f: dp
+novel <> s: novels
+novelette <> s: novelettes
+novelettes <> b: novelette, f: s
+novelist <> s: novelists
+novelists <> b: novelist, f: s
+novelize <> i: novelizing, p: novelized, '3': novelizes, d: novelized
+novelized <> f: pd, b: novelize
+novelizes <> f: '3', b: novelize
+novelizing <> f: i, b: novelize
+novella <> s: novellas
+novellas <> b: novella, f: s
+novels <> b: novel, f: s
+novelties <> b: novelty, f: s
+novelty <> s: novelties
+novena <> s: novenas
+novenas <> b: novena, f: s
+novice <> s: novices
+novices <> b: novice, f: s
+novitiate <> s: novitiates
+novitiates <> b: novitiate, f: s
+novo <> s: novos
+novos <> b: novo, f: s
+nozzle <> s: nozzles
+nozzles <> b: nozzle, f: s
+nsa <> s: nsas
+NSAID <> d: nsaid, b: nsaid, f: d
+nsas <> b: nsa, f: s
+nu <> s: nus, r: nuer
+nuance <> s: nuances, d: nuanced, i: nuancing
+nuanced <> b: nuance, f: d, d: nuanced
+nuances <> b: nuance, f: s
+nuancing <> b: nuance, f: i
+nub <> s: nubs
+nubbin <> s: nubbins
+nubbins <> b: nubbin, f: s
+Nubian <> s: nubians
+nubile <> s: nubiles
+nubiles <> b: nubile, f: s
+nubs <> b: nub, f: s
+nuclease <> s: nucleases
+nucleases <> b: nuclease, f: s
+nucleate <> i: nucleating, p: nucleated, '3': nucleates, d: nucleated
+nucleated <> p: nucleated, b: nucleated, f: p
+nucleates <> f: '3', b: nucleate
+nucleating <> b: nucleat, f: i
+nucleation <> s: nucleations
+nucleations <> b: nucleation, f: s
+nuclei <> b: nucleus, f: s
+nucleon <> s: nucleons
+nucleons <> b: nucleon, f: s
+nucleoprotein <> s: nucleoproteins
+nucleoproteins <> b: nucleoprotein, f: s
+nucleoside <> s: nucleosides
+nucleosides <> b: nucleoside, f: s
+nucleosome <> s: nucleosomes
+nucleosomes <> b: nucleosome, f: s
+nucleotide <> s: nucleotides
+nucleotides <> b: nucleotide, f: s
+nucleus <> s: nuclei
+nuclide <> s: nuclides
+nuclides <> b: nuclide, f: s
+nude <> s: nudes, r: nuder
+nuder <> b: nude, f: r
+nudes <> b: nude, f: s
+nudge <> p: nudged, i: nudging, d: nudged, '3': nudges, s: nudges
+nudged <> b: nudge, f: pd
+nudges <> b: nudge, f: 3s
+nudging <> b: nudge, f: i, s: nudgings
+nudibranch <> s: nudibranchs, '3': nudibranchs
+nudibranchs <> b: nudibranch, f: s3
+nudist <> s: nudists
+nudists <> b: nudist, f: s
+Nuer <> b: nu, f: r
+nuff <> i: nuffing
+nuffing <> b: nuff, f: i
+nugget <> s: nuggets, '3': nuggets
+nuggets <> b: nugget, f: s3
+nuisance <> s: nuisances
+nuisances <> b: nuisance, f: s
+nuit <> s: nuits
+nuke <> s: nukes, d: nuked, i: nuking, p: nuked, '3': nukes
+nuked <> b: nuke, f: dp
+nukes <> b: nuke, f: s
+nuking <> b: nuke, f: i
+null <> i: nulling, d: nulled, p: nulled, s: nulls, '3': nulls
+nulled <> b: 'null', f: dp
+nullified <> b: nullify, f: dp
+nullifies <> b: nullify, f: '3'
+nullify <> d: nullified, i: nullifying, p: nullified, '3': nullifies
+nullifying <> b: nullify, f: i
+nulling <> b: 'null', f: i
+nulls <> b: 'null', f: s
+numan <> s: numen
+numb <> d: numbed, i: numbing, '3': numbs, p: numbed, r: number
+numbed <> b: numb, f: dp, d: numbed, p: numbed
+number <> s: numbers, d: numbered, p: numbered, i: numbering, b: numb, f: r, '3': numbs
+numbered <> b: number, f: dp, d: numbered, p: numbered
+numbering <> b: number, f: i, i: numbering
+numberplate <> s: numberplates
+numberplates <> b: numberplate, f: s
+numbers <> b: number, f: s
+numbing <> b: numb, f: i, i: numbing
+numbs <> b: numb, f: '3'
+numbskull <> s: numbskulls
+numbskulls <> b: numbskull, f: s
+numen <> b: numan, f: s
+numeral <> s: numerals
+numerals <> b: numeral, f: s
+numerate <> i: numerating, p: numerated, '3': numerates, d: numerated
+numerated <> f: pd, b: numerate
+numerates <> f: '3', b: numerate
+numerating <> f: i, b: numerate
+numerator <> s: numerators
+numerators <> b: numerator, f: s
+numeric <> s: numerics
+numerics <> b: numeric, f: s
+numismatist <> s: numismatists
+numismatists <> b: numismatist, f: s
+nummulite <> s: nummulites
+nummulites <> b: nummulite, f: s
+numnah <> s: numnahs
+numnahs <> b: numnah, f: s
+numskull <> s: numskulls
+numskulls <> b: numskull, f: s
+nun <> s: nuns
+nunatak <> s: nunataks
+nunataks <> b: nunatak, f: s
+nuncio <> s: nuncios
+nuncios <> b: nuncio, f: s
+nunneries <> b: nunnery, f: s
+nunnery <> s: nunneries
+nuns <> b: nun, f: s
+nuptial <> s: nuptials
+nuptials <> b: nuptial, f: s
+nurse <> s: nurses, i: nursing, p: nursed, d: nursed, '3': nurses
+nursed <> b: nurse, f: pd
+nursemaid <> s: nursemaids, i: nursemaiding
+nursemaiding <> b: nursemaid, f: i
+nursemaids <> b: nursemaid, f: s
+nurseries <> b: nursery, f: s
+nursery <> s: nurseries
+nurseryman <> s: nurserymen
+nurserymen <> b: nurseryman, f: s
+nurses <> b: nurse, f: s3
+nursing <> b: nurse, f: i, i: nursing
+nurture <> d: nurtured, i: nurturing, p: nurtured, '3': nurtures, s: nurtures
+nurtured <> b: nurture, f: dp
+nurturer <> s: nurturers
+nurturers <> b: nurturer, f: s
+nurtures <> b: nurture, f: 3s
+nurturing <> b: nurture, f: i, i: nurturing
+nus <> b: nu, f: s
+nut <> s: nuts, i: nutting, '3': nuts, p: nutted, d: nutted
+nutcase <> s: nutcases
+nutcases <> b: nutcase, f: s
+nutcracker <> s: nutcrackers
+nutcrackers <> b: nutcracker, f: s
+nuthatch <> s: nuthatches
+nuthatches <> b: nuthatch, f: s
+nutmeg <> s: nutmegs, p: nutmegged
+nutmegged <> b: nutmeg, f: p
+nutmegs <> b: nutmeg, f: s
+nutrient <> s: nutrients
+nutrients <> b: nutrient, f: s
+nutritionist <> s: nutritionists
+nutritionists <> b: nutritionist, f: s
+nuts <> b: nut, f: s3
+nutshell <> s: nutshells
+nutshells <> b: nutshell, f: s
+nutted <> f: pd, b: nut
+nutter <> s: nutters
+nutters <> b: nutter, f: s
+nutties <> b: nutty, f: s
+Nutting <> b: nut, f: i
+nutty <> s: nutties
+nuzzle <> p: nuzzled, i: nuzzling, '3': nuzzles, d: nuzzled, s: nuzzles
+nuzzled <> b: nuzzle, f: pd
+nuzzles <> b: nuzzle, f: 3s
+nuzzling <> b: nuzzle, f: i, i: nuzzling
+nvq <> s: nvqs
+nvqs <> b: nvq, f: s
+nylon <> s: nylons
+nylons <> b: nylon, f: s
+nymph <> s: nymphs
+nymphet <> s: nymphets
+nymphets <> b: nymphet, f: s
+nympho <> s: nymphos
+nymphomaniac <> s: nymphomaniacs
+nymphomaniacs <> b: nymphomaniac, f: s
+nymphos <> b: nympho, f: s
+nymphs <> b: nymph, f: s

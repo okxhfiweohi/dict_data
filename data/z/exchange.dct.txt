@@ -1,0 +1,125 @@
+zag <> s: zags, '3': zags, i: zagging, p: zagged
+zagged <> b: zag, f: p
+zagging <> b: zag, f: i
+zags <> b: zag, f: s3
+zambezi <> s: zambezi, b: zambezi, f: s
+Zambian <> s: zambians
+ZANDER <> i: zandering
+zanier <> b: zany, f: r
+zaniest <> b: zany, f: t
+zany <> t: zaniest, r: zanier
+zap <> i: zapping, d: zapped, p: zapped, '3': zaps
+zapped <> b: zap, f: dp, d: zapped
+zappiest <> b: zappy, f: t
+zapping <> b: zap, f: i
+zappy <> t: zappiest
+zaps <> b: zap, f: '3'
+zarzuela <> s: zarzuelas
+zarzuelas <> b: zarzuela, f: s
+ze <> i: zing, p: zed
+zealander <> s: zealanders
+zealanders <> b: zealander, f: s
+zealot <> s: zealots
+zealots <> b: zealot, f: s
+zebra <> s: zebras
+zebras <> b: zebra, f: s
+zed <> b: ze, f: p, p: zed, s: zeds
+zemindar <> s: zemindars
+zemindars <> b: zemindar, f: s
+Zen <> s: zens
+zenana <> s: zenanas
+zenanas <> b: zenana, f: s
+Zener <> s: zeners
+zeolite <> s: zeolites
+zeolites <> b: zeolite, f: s
+zephyr <> s: zephyrs
+zephyrs <> b: zephyr, f: s
+zeppelin <> s: zeppelins
+zeppelins <> b: zeppelin, f: s
+zero <> s: zeros, i: zeroing, p: zeroed, '3': zeroes, d: zeroed
+zeroed <> b: zeroe, f: pd
+zeroes <> b: zeroe, f: s3
+zeroing <> b: zero, f: i
+zeros <> b: zero, f: s
+zest <> i: zesting, p: zested, '3': zests, d: zested
+zested <> f: pd, b: zest
+zesting <> f: i, b: zest
+zests <> f: '3', b: zest
+zig <> p: zigged, s: zigs
+zigged <> b: zig, f: p
+ziggurat <> s: ziggurats
+ziggurats <> b: ziggurat, f: s
+zigs <> b: zig, f: s
+zigzag <> p: zigzagged, s: zigzags, i: zigzagging, '3': zigzags, d: zigzagged
+zigzagged <> b: zigzag, f: pd
+zigzagging <> b: zigzag, f: i
+zigzags <> b: zigzag, f: s3
+zillion <> s: zillions
+zillions <> b: zillion, f: s
+Zimbabwean <> s: zimbabweans
+zimmer <> p: zimmered
+zimmered <> b: zimmer, f: p
+zinc <> s: zincs, i: zincing, p: zinced, '3': zincs, d: zinced
+zincs <> b: zinc, f: s
+zing <> b: ze, f: i, i: zinging, s: zings
+zinnia <> s: zinnias
+zinnias <> b: zinnia, f: s
+Zionist <> s: zionists
+zionists <> b: zionist, f: s
+zip <> p: zipped, s: zips, i: zipping, d: zipped, '3': zips
+zipped <> b: zip, f: pd, p: zipped
+zipper <> s: zippers, p: zippered
+zippered <> b: zipper, f: p, p: zippered
+zippers <> b: zipper, f: s
+zippier <> b: zippy, f: r
+zipping <> b: zip, f: i
+zippy <> r: zippier
+zips <> b: zip, f: s3
+zircon <> s: zircons
+zircons <> b: zircon, f: s
+zit <> s: zits
+zits <> b: zit, f: s
+zloty <> s: zlotys
+zlotys <> b: zloty, f: s
+zodiac <> s: zodiacs
+zodiacs <> b: zodiac, f: s
+zoetrope <> s: zoetropes
+zoetropes <> b: zoetrope, f: s
+zombies <> b: zomby, f: s
+zombified <> b: zombify, f: d
+zombify <> i: zombifying, d: zombified
+zombifying <> b: zombify, f: i
+zomby <> s: zombies
+zon <> d: zoned
+zonal <> s: zonals
+zonals <> b: zonal, f: s
+zone <> s: zones, i: zoning, p: zoned, '3': zones, d: zoned
+zoned <> d: zoned, b: zoned, f: d
+zones <> f: s3, b: zone
+zoning <> i: zoning, b: zoning, f: i
+zonk <> d: zonked, p: zonked
+zonked <> b: zonk, f: dp, p: zonked
+zoo <> s: zoos
+zoo-keeper <> s: zoo-keepers
+zoo-keepers <> b: zoo-keeper, f: s
+zooid <> s: zooids
+zooids <> b: zooid, f: s
+zoologist <> s: zoologists
+zoologists <> b: zoologist, f: s
+zoom <> p: zoomed, i: zooming, '3': zooms, d: zoomed, s: zooms
+zoomed <> b: zoom, f: pd
+zooming <> b: zoom, f: i, s: zoomings
+zooms <> b: zoom, f: 3s
+zoos <> b: zoo, f: s
+Zoroastrian <> s: zoroastrians
+Zoser <> s: zosers
+Zouave <> s: zouaves
+zulu <> s: zulus
+zulus <> b: zulu, f: s
+zur <> s: zurs
+zurs <> b: zur, f: s
+Zwingli <> s: zwingli, b: zwingli, f: s
+zygote <> s: zygotes, '3': zygotes
+zygotes <> b: zygote, f: s3
+zymogen <> s: zymogens
+zymogens <> b: zymogen, f: s

@@ -1,0 +1,9 @@
+/process/
+/temp/
+
+
+# python
+.venv/
+dist/
+*.egg-info
+*.whl

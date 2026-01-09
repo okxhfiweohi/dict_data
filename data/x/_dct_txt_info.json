@@ -1,0 +1,47 @@
+{
+    "phonetic": {
+        "start": "x",
+        "end": "xystus",
+        "total": 65
+    },
+    "explain": {
+        "start": "x",
+        "end": "xystus",
+        "total": 111
+    },
+    "exchange": {
+        "start": "xanthine",
+        "end": "xylophones",
+        "total": 27
+    },
+    "bnc": {
+        "start": "x",
+        "end": "xylophone",
+        "total": 34
+    },
+    "lgk_id": {
+        "start": "x",
+        "end": "xylophone",
+        "total": 22
+    },
+    "pos": {
+        "start": "x-axis",
+        "end": "xylophone",
+        "total": 9
+    },
+    "freq": {
+        "start": "xenon",
+        "end": "xylophone",
+        "total": 9
+    },
+    "redirect": {
+        "start": "xenophons",
+        "end": "xmas",
+        "total": 2
+    },
+    "collins": {
+        "start": "xerox",
+        "end": "xerox",
+        "total": 1
+    }
+}

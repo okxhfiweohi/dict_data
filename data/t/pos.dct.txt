@@ -1,0 +1,2171 @@
+ta <> U: {rk: 12943, frq: 1242}
+tab <> N: {rk: 6728, frq: 3402}
+tabbouleh <> N: {rk: 43399, frq: 64}
+tabernacle <> N: {rk: 23639, frq: 526}
+tabla <> N: {rk: 39522, frq: 109}
+tablature <> N: {rk: 52469, frq: 51}
+table <> N: {rk: 539, frq: 134109}, V: {rk: 26288, frq: 245}
+tableau <> N: {rk: 13446, frq: 986}
+tablecloth <> N: {rk: 11735, frq: 1299}
+tableland <> N: {rk: 44638, frq: 56}
+tablespoon <> N: {rk: 2407, frq: 22696}
+tablespoonful <> N: {rk: 42637, frq: 82}
+tablet <> N: {rk: 8003, frq: 2638}
+tabletop <> N: {rk: 13204, frq: 1053}
+tableware <> N: {rk: 27034, frq: 216}
+tabloid <> N: {rk: 8885, frq: 2072}, J: {rk: 11690, frq: 1258}
+taboo <> N: {rk: 11599, frq: 1306}, J: {rk: 15128, frq: 781}
+tabu <> N: {rk: 47218, frq: 68}
+tabular <> J: {rk: 37200, frq: 113}
+tabulate <> V: {rk: 19308, frq: 468}
+tabulated <> J: {rk: 42372, frq: 54}
+tabulation <> N: {rk: 26093, frq: 252}
+tach <> N: {rk: 52211, frq: 48}
+tachometer <> N: {rk: 37302, frq: 96}
+tachycardia <> N: {rk: 36391, frq: 97}
+tachyon <> N: {rk: 43966, frq: 74}
+tacit <> J: {rk: 14110, frq: 886}
+tacitly <> R: {rk: 20554, frq: 406}
+taciturnity <> N: {rk: 53560, frq: 24}
+tack <> V: {rk: 10246, frq: 1611}, N: {rk: 12095, frq: 1180}
+tackiness <> N: {rk: 49897, frq: 32}
+tacking <> N: {rk: 37150, frq: 82}
+tackle <> V: {rk: 4128, frq: 7518}, N: {rk: 6645, frq: 3565}
+tackler <> N: {rk: 28738, frq: 196}
+tackling <> N: {rk: 31272, frq: 161}
+tacky <> J: {rk: 14925, frq: 802}
+taco <> N: {rk: 12726, frq: 1765}
+taconite <> N: {rk: 56783, frq: 25}
+tact <> N: {rk: 18348, frq: 508}
+tactful <> J: {rk: 26160, frq: 230}
+tactfully <> R: {rk: 27101, frq: 212}
+tactic <> N: {rk: 3309, frq: 9823}
+tactical <> J: {rk: 7307, frq: 2837}
+tactically <> R: {rk: 27573, frq: 199}
+tactician <> N: {rk: 28022, frq: 194}
+tactile <> J: {rk: 14336, frq: 1088}
+tactility <> N: {rk: 41761, frq: 69}
+tactless <> J: {rk: 39890, frq: 65}
+tactual <> J: {rk: 51348, frq: 48}
+tad <> N: {rk: 15004, frq: 1128}
+tadpole <> N: {rk: 21680, frq: 405}
+tae <> T: {rk: 41997, frq: 59}
+taffeta <> N: {rk: 23203, frq: 310}
+taffy <> N: {rk: 31637, frq: 184}, J: {rk: 47193, frq: 38}
+tag <> N: {rk: 4482, frq: 6298}, V: {rk: 6473, frq: 3657}
+tagged <> J: {rk: 37563, frq: 86}
+tagger <> N: {rk: 45874, frq: 50}
+tagging <> J: {rk: 37560, frq: 93}, N: {rk: 42779, frq: 90}
+tagine <> N: {rk: 58739, frq: 28}
+tagliatelle <> N: {rk: 54219, frq: 31}
+tagline <> N: {rk: 39853, frq: 85}
+tahini <> N: {rk: 34600, frq: 121}
+tai <> N: {rk: 21667, frq: 718}, J: {rk: 33988, frq: 151}
+taiga <> N: {rk: 38249, frq: 82}
+tail <> N: {rk: 3004, frq: 11516}, V: {rk: 19026, frq: 486}
+tailback <> N: {rk: 17814, frq: 684}
+tailbone <> N: {rk: 33804, frq: 119}
+tailcoat <> N: {rk: 48561, frq: 38}
+tailed <> J: {rk: 43968, frq: 53}
+tailfin <> N: {rk: 55177, frq: 23}
+tailgate <> N: {rk: 20408, frq: 417}, V: {rk: 27303, frq: 219}
+tailgater <> N: {rk: 42768, frq: 74}
+tailgating <> J: {rk: 57291, frq: 27}
+tailing <> N: {rk: 28281, frq: 182}
+tailless <> J: {rk: 46274, frq: 46}
+taillight <> N: {rk: 22152, frq: 360}
+tailor <> V: {rk: 7944, frq: 2544}, N: {rk: 13418, frq: 986}
+tailor-made <> J: {rk: 22965, frq: 314}
+tailored <> J: {rk: 14571, frq: 902}
+tailoring <> N: {rk: 35694, frq: 103}
+tailpiece <> N: {rk: 59485, frq: 23}
+tailpipe <> N: {rk: 25308, frq: 251}
+tailspin <> N: {rk: 26873, frq: 231}
+tailwater <> N: {rk: 43647, frq: 59}
+tailwind <> N: {rk: 38028, frq: 83}
+taint <> V: {rk: 11586, frq: 1252}, N: {rk: 22303, frq: 331}
+tainted <> J: {rk: 16822, frq: 627}
+taiwanese <> J: {rk: 11346, frq: 1477}
+take <> V: {rk: 63, frq: 726578}, N: {rk: 8498, frq: 2253}
+take-out <> N: {rk: 14116, frq: 954}
+take-up <> N: {rk: 49740, frq: 44}
+takeaway <> N: {rk: 26312, frq: 331}
+takedown <> N: {rk: 34858, frq: 130}
+taken <> J: {rk: 25201, frq: 273}
+takeoff <> N: {rk: 10723, frq: 2952}
+takeover <> N: {rk: 7284, frq: 3015}
+taker <> N: {rk: 12158, frq: 1194}
+taking <> N: {rk: 10397, frq: 1693}, J: {rk: 25121, frq: 260}
+talc <> N: {rk: 37242, frq: 90}
+talcum <> N: {rk: 29904, frq: 160}
+tale <> N: {rk: 2253, frq: 16223}
+talent <> N: {rk: 2041, frq: 18937}
+talented <> J: {rk: 4112, frq: 7084}
+talentless <> J: {rk: 50358, frq: 32}
+talisman <> N: {rk: 20620, frq: 441}
+talismanic <> J: {rk: 48354, frq: 37}
+talk <> V: {rk: 168, frq: 248986}, N: {rk: 918, frq: 47414}
+talkative <> J: {rk: 18540, frq: 504}
+talkativeness <> N: {rk: 58984, frq: 25}
+talker <> N: {rk: 16248, frq: 711}
+talkie <> N: {rk: 32092, frq: 144}
+talking <> N: {rk: 6774, frq: 3330}, J: {rk: 19782, frq: 429}
+talking-to <> N: {rk: 52523, frq: 28}
+talky <> J: {rk: 44210, frq: 51}
+tall <> J: {rk: 1529, frq: 27360}
+tallgrass <> N: {rk: 33924, frq: 127}
+tallish <> J: {rk: 57269, frq: 24}
+tallness <> N: {rk: 57521, frq: 20}
+tallow <> N: {rk: 33906, frq: 160}
+tally <> N: {rk: 11905, frq: 1301}, V: {rk: 12047, frq: 1195}
+talon <> N: {rk: 17083, frq: 788}
+taloned <> J: {rk: 50375, frq: 35}
+talus <> N: {rk: 27846, frq: 235}
+tamale <> N: {rk: 19532, frq: 564}
+tamarack <> N: {rk: 48753, frq: 99}
+tamarin <> N: {rk: 46472, frq: 53}
+tamarind <> N: {rk: 29169, frq: 207}
+tamarisk <> N: {rk: 37148, frq: 107}
+tambour <> N: {rk: 58751, frq: 23}
+tambourine <> N: {rk: 25672, frq: 251}
+tame <> V: {rk: 11089, frq: 1428}, J: {rk: 12961, frq: 1022}
+tamed <> J: {rk: 36697, frq: 83}
+tamely <> R: {rk: 52514, frq: 27}
+tamer <> N: {rk: 37605, frq: 100}
+taming <> N: {rk: 33927, frq: 132}
+tamoxifen <> N: {rk: 25833, frq: 331}, J: {rk: 34962, frq: 131}
+tamp <> V: {rk: 22391, frq: 357}
+tamper <> V: {rk: 12268, frq: 1148}
+tamper-proof <> J: {rk: 41525, frq: 64}
+tamper-resistant <> J: {rk: 59651, frq: 21}
+tampering <> N: {rk: 35019, frq: 107}
+tampon <> N: {rk: 25597, frq: 270}
+tamponade <> N: {rk: 59417, frq: 20}
+tan <> J: {rk: 9850, frq: 1768}, N: {rk: 10929, frq: 2122}, V: {rk: 14574, frq: 882}
+tanager <> N: {rk: 37846, frq: 91}
+tandem <> N: {rk: 11589, frq: 1481}
+tandoori <> N: {rk: 43497, frq: 74}
+tangent <> N: {rk: 26397, frq: 226}, J: {rk: 46460, frq: 52}
+tangential <> J: {rk: 27433, frq: 199}
+tangentially <> R: {rk: 32970, frq: 117}
+tangerine <> J: {rk: 20547, frq: 438}
+tangible <> J: {rk: 7291, frq: 2837}
+tangibly <> R: {rk: 38013, frq: 76}
+tangle <> N: {rk: 9647, frq: 1836}, V: {rk: 11446, frq: 1367}
+tangled <> J: {rk: 9687, frq: 1803}
+tango <> N: {rk: 12477, frq: 1220}, V: {rk: 40645, frq: 67}
+tangy <> J: {rk: 17342, frq: 628}
+tank <> N: {rk: 1884, frq: 20540}, V: {rk: 18465, frq: 541}
+tanka <> N: {rk: 57988, frq: 35}
+tankard <> N: {rk: 31471, frq: 164}
+tanker <> N: {rk: 9474, frq: 1892}
+tankful <> N: {rk: 56605, frq: 24}
+tankini <> N: {rk: 53639, frq: 38}
+tankless <> J: {rk: 56062, frq: 26}
+tanned <> J: {rk: 16744, frq: 695}
+tannery <> N: {rk: 35737, frq: 103}
+tannic <> J: {rk: 38541, frq: 90}
+tannin <> N: {rk: 24064, frq: 359}
+tanning <> J: {rk: 28904, frq: 195}, N: {rk: 51615, frq: 86}
+tansy <> N: {rk: 45845, frq: 110}
+tantalize <> V: {rk: 16595, frq: 640}
+tantalizing <> J: {rk: 18206, frq: 517}, N: {rk: 53856, frq: 32}
+tantalizingly <> R: {rk: 28770, frq: 171}
+tantalum <> N: {rk: 52277, frq: 37}
+tantamount <> J: {rk: 15721, frq: 691}
+tantric <> J: {rk: 36508, frq: 96}
+tantrum <> N: {rk: 12911, frq: 1091}
+tap <> V: {rk: 2860, frq: 12428}, N: {rk: 6311, frq: 3820}
+tap-dancing <> J: {rk: 42100, frq: 55}
+tap-in <> N: {rk: 51155, frq: 35}
+tapa <> N: {rk: 23055, frq: 408}
+tape <> N: {rk: 1495, frq: 26497}, V: {rk: 5419, frq: 4595}
+taped <> J: {rk: 12270, frq: 1136}
+tapenade <> N: {rk: 37166, frq: 118}
+taper <> V: {rk: 17825, frq: 549}, N: {rk: 18463, frq: 621}
+tapered <> J: {rk: 23309, frq: 317}
+tapering <> J: {rk: 33571, frq: 114}
+tapestry <> N: {rk: 10560, frq: 1494}
+tapeworm <> N: {rk: 37556, frq: 79}
+taping <> N: {rk: 21560, frq: 388}, J: {rk: 42386, frq: 56}
+tapioca <> N: {rk: 26481, frq: 254}
+tapir <> N: {rk: 38723, frq: 73}
+tapped <> J: {rk: 58056, frq: 19}
+tapping <> N: {rk: 24170, frq: 287}
+taproom <> N: {rk: 47689, frq: 47}
+taproot <> N: {rk: 37688, frq: 81}
+tar <> N: {rk: 12237, frq: 1831}, V: {rk: 17425, frq: 572}
+tarantula <> N: {rk: 27094, frq: 262}
+tardiness <> N: {rk: 26859, frq: 215}
+tardy <> J: {rk: 26653, frq: 223}, N: {rk: 46406, frq: 59}
+target <> N: {rk: 1285, frq: 32386}, V: {rk: 2911, frq: 12161}
+targeted <> J: {rk: 11698, frq: 1368}
+targeting <> N: {rk: 25101, frq: 252}
+tariff <> N: {rk: 7475, frq: 2762}
+tarmac <> N: {rk: 15058, frq: 797}
+tarn <> N: {rk: 37021, frq: 102}
+tarnish <> V: {rk: 14104, frq: 877}
+tarnished <> J: {rk: 21290, frq: 372}
+taro <> N: {rk: 27318, frq: 303}
+tarot <> N: {rk: 27588, frq: 232}
+tarp <> N: {rk: 12822, frq: 1422}
+tarpaper <> N: {rk: 45914, frq: 43}
+tarpaulin <> N: {rk: 28502, frq: 201}
+tarpon <> N: {rk: 20818, frq: 494}
+tarragon <> N: {rk: 18777, frq: 622}
+tarred <> J: {rk: 42785, frq: 54}
+tarry <> V: {rk: 34368, frq: 110}
+tarsal <> N: {rk: 43716, frq: 55}
+tart <> N: {rk: 10150, frq: 1740}, J: {rk: 14814, frq: 896}
+tartan <> J: {rk: 24897, frq: 276}
+tartar <> N: {rk: 23603, frq: 371}, J: {rk: 28212, frq: 222}
+tartlet <> N: {rk: 37435, frq: 120}
+tartly <> R: {rk: 32728, frq: 124}
+tartness <> N: {rk: 37269, frq: 80}
+task <> N: {rk: 1048, frq: 42249}, V: {rk: 24114, frq: 347}
+taskbar <> N: {rk: 35463, frq: 155}
+taskmaster <> N: {rk: 32352, frq: 124}
+tassel <> N: {rk: 20811, frq: 466}
+tasseled <> J: {rk: 35094, frq: 100}
+taste <> N: {rk: 2042, frq: 18798}, V: {rk: 2689, frq: 13842}
+tastebud <> N: {rk: 44125, frq: 49}
+tasteful <> J: {rk: 18265, frq: 517}
+tastefully <> R: {rk: 24810, frq: 253}
+tasteless <> J: {rk: 18611, frq: 493}
+tastelessness <> N: {rk: 54493, frq: 24}
+tastemaker <> N: {rk: 40831, frq: 73}
+taster <> N: {rk: 23376, frq: 341}
+tasting <> N: {rk: 12696, frq: 1269}, J: {rk: 16830, frq: 709}
+tasty <> J: {rk: 8628, frq: 2273}
+tatami <> N: {rk: 33685, frq: 122}
+tater <> N: {rk: 42728, frq: 109}
+tattered <> J: {rk: 10699, frq: 1513}
+tatters <> N: {rk: 22548, frq: 333}
+tattle <> V: {rk: 35521, frq: 104}
+tattletale <> N: {rk: 45858, frq: 48}
+tattoo <> N: {rk: 6112, frq: 4093}, V: {rk: 14368, frq: 878}
+tattooed <> J: {rk: 22163, frq: 353}
+tattooing <> N: {rk: 49487, frq: 43}
+tattooist <> N: {rk: 46618, frq: 62}
+tatty <> J: {rk: 41907, frq: 60}
+taught <> J: {rk: 27715, frq: 186}
+taunt <> V: {rk: 10911, frq: 1404}, N: {rk: 19064, frq: 477}
+taunting <> J: {rk: 36152, frq: 87}, N: {rk: 38527, frq: 74}
+tauntingly <> R: {rk: 52128, frq: 27}
+taupe <> N: {rk: 27545, frq: 222}
+taurine <> J: {rk: 57012, frq: 27}
+taut <> J: {rk: 10669, frq: 1568}
+tautly <> R: {rk: 39991, frq: 67}
+tautness <> N: {rk: 46060, frq: 43}
+tautological <> J: {rk: 41604, frq: 61}
+tautology <> N: {rk: 35104, frq: 99}
+tavern <> N: {rk: 9003, frq: 2466}
+taverna <> N: {rk: 45359, frq: 77}
+tawdry <> J: {rk: 22634, frq: 319}, N: {rk: 42881, frq: 53}
+tawny <> J: {rk: 19974, frq: 464}
+tax <> N: {rk: 509, frq: 88738}, V: {rk: 5544, frq: 4690}
+tax-deductible <> J: {rk: 26493, frq: 221}
+tax-deferred <> J: {rk: 24104, frq: 304}
+tax-free <> J: {rk: 13998, frq: 932}
+taxable <> J: {rk: 12930, frq: 1127}
+taxation <> N: {rk: 9843, frq: 1743}
+taxed <> J: {rk: 53497, frq: 25}
+taxer <> N: {rk: 50543, frq: 34}
+taxi <> N: {rk: 5215, frq: 5104}, V: {rk: 36909, frq: 85}
+taxicab <> N: {rk: 23786, frq: 324}
+taxidermist <> N: {rk: 32211, frq: 134}
+taxidermy <> N: {rk: 41459, frq: 62}, J: {rk: 43923, frq: 57}
+taxing <> J: {rk: 16847, frq: 645}
+taxiway <> N: {rk: 36111, frq: 116}
+taxman <> N: {rk: 46823, frq: 72}
+taxon <> N: {rk: 41228, frq: 100}
+taxonomic <> J: {rk: 22844, frq: 448}
+taxonomically <> R: {rk: 48466, frq: 37}
+taxonomist <> N: {rk: 35640, frq: 179}
+taxonomy <> N: {rk: 14650, frq: 1183}
+taxpayer <> N: {rk: 3141, frq: 11210}
+tea <> N: {rk: 2177, frq: 19429}
+teabag <> N: {rk: 47645, frq: 38}
+teach <> V: {rk: 545, frq: 78952}
+teach-in <> N: {rk: 38126, frq: 126}
+teachable <> J: {rk: 28084, frq: 222}
+teacher <> N: {rk: 371, frq: 126709}
+teacherly <> J: {rk: 49229, frq: 33}
+teaching <> N: {rk: 1643, frq: 26703}
+teacup <> N: {rk: 18360, frq: 565}
+teahouse <> N: {rk: 29587, frq: 204}
+teak <> N: {rk: 18187, frq: 608}
+teakettle <> N: {rk: 32773, frq: 138}
+teakwood <> N: {rk: 46677, frq: 48}
+teal <> N: {rk: 21630, frq: 680}
+team <> N: {rk: 307, frq: 144261}, V: {rk: 6417, frq: 3696}
+teaming <> J: {rk: 46761, frq: 45}
+teammate <> N: {rk: 4273, frq: 7245}
+teamwork <> N: {rk: 12126, frq: 1208}
+teapot <> N: {rk: 13257, frq: 1029}
+tear <> N: {rk: 1915, frq: 21469}, V: {rk: 2242, frq: 16806}
+tear-stained <> J: {rk: 38500, frq: 77}
+teardown <> N: {rk: 46237, frq: 47}
+teardrop <> N: {rk: 24818, frq: 268}
+tearful <> J: {rk: 17311, frq: 593}
+tearfully <> R: {rk: 24369, frq: 269}
+tearing <> J: {rk: 40345, frq: 67}
+tearless <> J: {rk: 52031, frq: 31}
+tearoom <> N: {rk: 34634, frq: 103}
+teary <> J: {rk: 28259, frq: 195}
+tease <> V: {rk: 5520, frq: 4690}, N: {rk: 21840, frq: 363}
+teased <> J: {rk: 37944, frq: 82}
+teaser <> N: {rk: 23037, frq: 360}
+teasing <> N: {rk: 16734, frq: 689}, J: {rk: 19659, frq: 467}
+teasingly <> R: {rk: 28763, frq: 184}
+teaspoon <> N: {rk: 2448, frq: 26340}
+teaspoonful <> N: {rk: 42846, frq: 92}
+teat <> N: {rk: 28624, frq: 182}
+teatime <> N: {rk: 35587, frq: 94}
+techie <> N: {rk: 23687, frq: 329}
+technetium <> N: {rk: 47825, frq: 53}
+technical <> J: {rk: 2075, frq: 18829}, N: {rk: 47690, frq: 64}
+technicality <> N: {rk: 18026, frq: 550}
+technically <> R: {rk: 5923, frq: 3952}
+technician <> N: {rk: 4877, frq: 5754}
+technicolor <> N: {rk: 25868, frq: 371}
+technics <> N: {rk: 48013, frq: 56}
+technique <> N: {rk: 1339, frq: 32005}
+techno <> N: {rk: 23152, frq: 353}
+technocracy <> N: {rk: 51718, frq: 37}
+technocrat <> N: {rk: 21621, frq: 374}
+technocratic <> J: {rk: 25646, frq: 253}
+technologic <> J: {rk: 43996, frq: 50}
+technological <> J: {rk: 3800, frq: 8347}
+technologically <> R: {rk: 12837, frq: 1067}
+technologist <> N: {rk: 20299, frq: 457}
+technology <> N: {rk: 585, frq: 76192}
+technophile <> N: {rk: 46562, frq: 45}
+technophobe <> N: {rk: 51343, frq: 35}
+techy <> J: {rk: 54132, frq: 26}
+tectonic <> J: {rk: 20666, frq: 419}
+tectonics <> N: {rk: 27814, frq: 212}
+tedious <> J: {rk: 10758, frq: 1411}
+tediously <> R: {rk: 37060, frq: 76}
+tedium <> N: {rk: 22505, frq: 324}
+tee <> N: {rk: 6384, frq: 3771}, V: {rk: 25657, frq: 245}
+teem <> V: {rk: 22633, frq: 318}
+teeming <> J: {rk: 14260, frq: 859}
+teen <> N: {rk: 2636, frq: 14494}
+teenage <> J: {rk: 3898, frq: 7666}
+teenaged <> J: {rk: 19436, frq: 453}
+teenager <> N: {rk: 2456, frq: 14824}
+teensy <> J: {rk: 39634, frq: 79}
+teeny <> J: {rk: 23524, frq: 292}
+teeny-weeny <> J: {rk: 53433, frq: 24}
+teenybopper <> N: {rk: 51768, frq: 28}
+teepee <> N: {rk: 31303, frq: 145}
+teeter <> V: {rk: 11765, frq: 1350}
+teetering <> J: {rk: 33873, frq: 114}, N: {rk: 44311, frq: 48}
+teething <> J: {rk: 36693, frq: 94}, N: {rk: 37334, frq: 82}
+teetotaler <> N: {rk: 37559, frq: 83}
+teff <> N: {rk: 59332, frq: 34}
+tefillin <> N: {rk: 55083, frq: 29}
+tegmen <> N: {rk: 59198, frq: 23}
+telco <> N: {rk: 39247, frq: 92}
+telecast <> N: {rk: 19772, frq: 462}, V: {rk: 26551, frq: 219}
+telecom <> N: {rk: 16741, frq: 1312}
+telecommunications <> N: {rk: 6117, frq: 3812}
+telecommute <> V: {rk: 38694, frq: 78}
+telecommuting <> N: {rk: 22197, frq: 374}
+teleconference <> N: {rk: 28555, frq: 187}
+teleconferencing <> N: {rk: 35663, frq: 98}
+telegenic <> J: {rk: 30151, frq: 155}
+telegram <> N: {rk: 12580, frq: 1081}
+telegraph <> V: {rk: 28581, frq: 182}
+telegrapher <> N: {rk: 58180, frq: 21}
+telegraphic <> J: {rk: 45437, frq: 44}
+telegraphy <> N: {rk: 50565, frq: 34}
+telekinesis <> N: {rk: 54045, frq: 29}
+telekinetic <> J: {rk: 56384, frq: 25}
+telemark <> N: {rk: 33974, frq: 139}
+telemarketer <> N: {rk: 20927, frq: 506}
+telemarketing <> J: {rk: 29327, frq: 173}, N: {rk: 50949, frq: 58}
+telematics <> N: {rk: 59760, frq: 24}
+telemedicine <> N: {rk: 46403, frq: 64}
+telemetry <> N: {rk: 24206, frq: 278}
+telenovela <> N: {rk: 26344, frq: 324}
+teleological <> J: {rk: 29471, frq: 186}
+teleology <> N: {rk: 34898, frq: 109}
+telepath <> N: {rk: 48172, frq: 65}
+telepathic <> J: {rk: 28463, frq: 205}
+telepathically <> R: {rk: 41079, frq: 67}
+telepathy <> N: {rk: 29342, frq: 181}
+telephone <> N: {rk: 1875, frq: 20224}, V: {rk: 7550, frq: 2625}
+telephonic <> J: {rk: 48996, frq: 33}
+telephony <> N: {rk: 31982, frq: 172}
+telephoto <> N: {rk: 25261, frq: 273}
+telepresence <> N: {rk: 38370, frq: 118}
+teleprompter <> N: {rk: 28818, frq: 230}
+telescope <> N: {rk: 2776, frq: 13330}, V: {rk: 25892, frq: 220}
+telescopic <> J: {rk: 20214, frq: 444}
+telescopically <> R: {rk: 56034, frq: 23}
+telescoping <> J: {rk: 40052, frq: 73}
+telescreen <> N: {rk: 59731, frq: 26}
+telethon <> N: {rk: 29425, frq: 211}
+teletype <> N: {rk: 40390, frq: 67}
+televangelist <> N: {rk: 28138, frq: 214}
+televise <> V: {rk: 17367, frq: 582}
+televised <> J: {rk: 9699, frq: 1759}
+television <> N: {rk: 794, frq: 52510}
+televisual <> J: {rk: 55240, frq: 30}
+telex <> N: {rk: 37522, frq: 108}, V: {rk: 53367, frq: 26}
+tell <> V: {rk: 103, frq: 420804}
+teller <> N: {rk: 11125, frq: 2090}
+tellin <> N: {rk: 24439, frq: 297}
+telling <> N: {rk: 10578, frq: 1470}, J: {rk: 11267, frq: 1324}
+tellingly <> R: {rk: 25531, frq: 242}
+telltale <> N: {rk: 13469, frq: 1016}
+telluric <> J: {rk: 58859, frq: 26}
+telly <> N: {rk: 27388, frq: 228}
+telomerase <> N: {rk: 35578, frq: 140}
+telomere <> N: {rk: 31119, frq: 189}
+temblor <> N: {rk: 33114, frq: 129}
+temerity <> N: {rk: 28539, frq: 186}
+temp <> N: {rk: 12277, frq: 1267}, V: {rk: 51463, frq: 36}
+temper <> N: {rk: 6525, frq: 3399}, V: {rk: 10117, frq: 1619}
+tempera <> N: {rk: 25780, frq: 263}
+temperament <> N: {rk: 8578, frq: 2684}
+temperamental <> J: {rk: 19374, frq: 515}
+temperamentally <> R: {rk: 35310, frq: 105}
+temperance <> N: {rk: 22903, frq: 592}
+temperate <> J: {rk: 12818, frq: 1109}
+temperature <> N: {rk: 1627, frq: 25097}
+tempered <> J: {rk: 31229, frq: 146}
+tempering <> N: {rk: 55590, frq: 24}
+tempest <> N: {rk: 23848, frq: 543}
+tempestuous <> J: {rk: 27212, frq: 203}
+template <> N: {rk: 10221, frq: 1796}
+temple <> N: {rk: 3642, frq: 13053}
+tempo <> N: {rk: 10230, frq: 1594}
+temporal <> J: {rk: 6970, frq: 3506}
+temporalis <> N: {rk: 50893, frq: 39}
+temporality <> N: {rk: 25415, frq: 298}
+temporally <> R: {rk: 26638, frq: 237}
+temporarily <> R: {rk: 5268, frq: 4846}
+temporary <> J: {rk: 3169, frq: 10275}, N: {rk: 49775, frq: 35}
+temporize <> V: {rk: 42136, frq: 55}
+temporomandibular <> J: {rk: 42107, frq: 68}
+tempt <> V: {rk: 5657, frq: 4322}
+temptation <> N: {rk: 5983, frq: 3915}
+tempter <> N: {rk: 56193, frq: 30}
+tempting <> J: {rk: 8716, frq: 2092}
+temptingly <> R: {rk: 43517, frq: 50}
+temptress <> N: {rk: 34580, frq: 105}
+tempura <> N: {rk: 37736, frq: 98}
+ten <> M: {rk: 839, frq: 48403}
+tenable <> J: {rk: 29577, frq: 161}
+tenacious <> J: {rk: 15181, frq: 740}
+tenaciously <> R: {rk: 26999, frq: 204}
+tenacity <> N: {rk: 15175, frq: 765}
+tenancy <> N: {rk: 33616, frq: 113}
+tenant <> N: {rk: 5606, frq: 4682}
+tend <> V: {rk: 1040, frq: 41026}
+tended <> J: {rk: 49287, frq: 32}
+tendency <> N: {rk: 3059, frq: 11259}
+tendentious <> J: {rk: 31266, frq: 145}
+tender <> J: {rk: 4258, frq: 7934}, N: {rk: 21076, frq: 420}, V: {rk: 22806, frq: 312}
+tender-hearted <> J: {rk: 47883, frq: 38}
+tenderfoot <> N: {rk: 40492, frq: 105}
+tenderize <> V: {rk: 33008, frq: 123}
+tenderizer <> N: {rk: 49934, frq: 32}
+tenderloin <> N: {rk: 16480, frq: 1052}
+tenderly <> R: {rk: 15656, frq: 765}
+tenderness <> N: {rk: 11293, frq: 1358}
+tending <> N: {rk: 50256, frq: 31}
+tendinitis <> N: {rk: 25124, frq: 266}
+tendon <> N: {rk: 10623, frq: 1557}
+tendonitis <> N: {rk: 42723, frq: 57}
+tendril <> N: {rk: 16261, frq: 743}
+tenement <> N: {rk: 14894, frq: 851}
+tenet <> N: {rk: 10032, frq: 2137}
+tenfold <> R: {rk: 23464, frq: 299}, J: {rk: 29450, frq: 160}
+tenia <> N: {rk: 43750, frq: 59}
+tennis <> N: {rk: 3101, frq: 10726}
+tenon <> N: {rk: 30529, frq: 212}
+tenor <> N: {rk: 9590, frq: 1777}
+tenpin <> N: {rk: 57378, frq: 18}
+tenrec <> N: {rk: 60017, frq: 24}
+tense <> J: {rk: 6347, frq: 3547}, V: {rk: 9113, frq: 2075}, N: {rk: 22731, frq: 373}
+tensely <> R: {rk: 29809, frq: 173}
+tenseness <> N: {rk: 46789, frq: 37}
+tensile <> J: {rk: 27036, frq: 228}
+tension <> N: {rk: 2200, frq: 16860}
+tensor <> N: {rk: 36940, frq: 106}
+tent <> N: {rk: 3090, frq: 11006}, V: {rk: 35050, frq: 107}
+tentacle <> N: {rk: 12802, frq: 1164}
+tentacled <> J: {rk: 55695, frq: 24}
+tentative <> J: {rk: 7858, frq: 2428}
+tentatively <> R: {rk: 10859, frq: 1421}
+tentativeness <> N: {rk: 37492, frq: 76}
+tented <> J: {rk: 36922, frq: 90}
+tenth <> M: {rk: 7698, frq: 2581}
+tenths <> M: {rk: 29495, frq: 162}
+tenuous <> J: {rk: 11379, frq: 1303}
+tenuously <> R: {rk: 34187, frq: 104}
+tenuousness <> N: {rk: 49571, frq: 31}
+tenure <> N: {rk: 5055, frq: 5549}, V: {rk: 29958, frq: 168}
+tenured <> J: {rk: 19503, frq: 468}
+teosinte <> N: {rk: 59679, frq: 20}
+tepee <> N: {rk: 22684, frq: 347}
+tepid <> J: {rk: 16603, frq: 638}
+tepidly <> R: {rk: 56505, frq: 21}
+tequila <> N: {rk: 14263, frq: 981}
+terabyte <> N: {rk: 38647, frq: 84}
+teratogenic <> J: {rk: 59272, frq: 20}
+tercet <> N: {rk: 45259, frq: 67}
+teriyaki <> N: {rk: 29402, frq: 189}
+term <> N: {rk: 626, frq: 65194}, V: {rk: 6675, frq: 3314}
+terminal <> N: {rk: 5849, frq: 4132}, J: {rk: 8876, frq: 2025}
+terminally <> R: {rk: 14791, frq: 812}
+terminate <> V: {rk: 7304, frq: 2765}
+terminated <> J: {rk: 36066, frq: 87}
+terminating <> J: {rk: 37692, frq: 81}
+termination <> N: {rk: 10253, frq: 1652}
+terminological <> J: {rk: 39280, frq: 78}
+terminology <> N: {rk: 9506, frq: 1934}
+terminus <> N: {rk: 22367, frq: 334}
+termite <> N: {rk: 12156, frq: 1289}
+terms <> I: {rk: 1289, frq: 33516}
+tern <> N: {rk: 19129, frq: 547}
+ternary <> J: {rk: 55868, frq: 29}
+terpene <> N: {rk: 53616, frq: 26}
+terrace <> N: {rk: 6520, frq: 3561}
+terraced <> J: {rk: 21666, frq: 349}
+terracing <> N: {rk: 36024, frq: 125}
+terrain <> N: {rk: 4533, frq: 6416}
+terrapin <> N: {rk: 45052, frq: 68}
+terrarium <> N: {rk: 36678, frq: 141}
+terrazzo <> N: {rk: 38459, frq: 74}
+terrestrial <> J: {rk: 9829, frq: 1884}
+terrible <> J: {rk: 1954, frq: 20213}
+terribly <> R: {rk: 4920, frq: 5428}
+terrier <> N: {rk: 16163, frq: 701}
+terrific <> J: {rk: 4272, frq: 6875}
+terrifically <> R: {rk: 27053, frq: 204}
+terrified <> J: {rk: 9760, frq: 1808}
+terrify <> V: {rk: 5903, frq: 4154}
+terrifying <> J: {rk: 8745, frq: 2092}
+terrifyingly <> R: {rk: 33671, frq: 109}
+terrine <> N: {rk: 31826, frq: 158}
+territorial <> J: {rk: 6889, frq: 3240}
+territoriality <> N: {rk: 32956, frq: 135}
+territorially <> R: {rk: 40448, frq: 65}
+territory <> N: {rk: 2192, frq: 17219}
+terror <> N: {rk: 2749, frq: 13509}
+terrorism <> N: {rk: 2614, frq: 14794}
+terrorist <> N: {rk: 2858, frq: 13348}, J: {rk: 3198, frq: 11228}
+terroristic <> J: {rk: 37204, frq: 83}
+terrorize <> V: {rk: 11682, frq: 1248}
+terrorized <> J: {rk: 46125, frq: 41}
+terrycloth <> N: {rk: 37515, frq: 86}
+terse <> J: {rk: 18824, frq: 473}
+tersely <> R: {rk: 27561, frq: 202}
+tertiary <> J: {rk: 19305, frq: 516}
+tessitura <> N: {rk: 54876, frq: 27}
+test <> N: {rk: 575, frq: 75273}, V: {rk: 1031, frq: 41830}
+test-drive <> J: {rk: 48345, frq: 37}
+testable <> J: {rk: 27050, frq: 213}
+testamentary <> J: {rk: 55624, frq: 22}
+testbed <> N: {rk: 57193, frq: 27}
+tested <> J: {rk: 19236, frq: 468}
+tester <> N: {rk: 7145, frq: 3626}
+testicle <> N: {rk: 16417, frq: 714}
+testicular <> J: {rk: 26599, frq: 322}
+testify <> V: {rk: 2807, frq: 12478}
+testily <> R: {rk: 32225, frq: 134}
+testimonial <> N: {rk: 16290, frq: 687}
+testimony <> N: {rk: 2677, frq: 13327}
+testiness <> N: {rk: 54780, frq: 24}
+testing <> N: {rk: 2517, frq: 14946}, J: {rk: 33178, frq: 122}
+testis <> N: {rk: 45385, frq: 56}
+testosterone <> N: {rk: 10653, frq: 1636}
+tetanus <> N: {rk: 23489, frq: 305}
+tether <> V: {rk: 12161, frq: 1268}
+tethered <> J: {rk: 30624, frq: 152}
+tetra <> N: {rk: 55025, frq: 60}
+tetrachloride <> N: {rk: 57194, frq: 22}
+tetracycline <> N: {rk: 31823, frq: 167}
+tetrahedral <> J: {rk: 51978, frq: 31}
+tetrahedron <> N: {rk: 51887, frq: 36}
+tetrapod <> N: {rk: 46876, frq: 74}
+text <> N: {rk: 1293, frq: 33674}
+textbook <> N: {rk: 4514, frq: 6411}
+textile <> N: {rk: 5688, frq: 4446}
+textual <> J: {rk: 9428, frq: 2098}
+textualism <> N: {rk: 56346, frq: 31}
+textuality <> N: {rk: 34424, frq: 125}
+textualized <> J: {rk: 56981, frq: 28}
+textural <> J: {rk: 27539, frq: 205}
+texture <> N: {rk: 4453, frq: 6513}
+textured <> J: {rk: 14962, frq: 816}
+thai <> J: {rk: 8614, frq: 2304}
+thalamus <> N: {rk: 40182, frq: 80}
+thalassemia <> N: {rk: 58144, frq: 40}
+thali <> N: {rk: 58847, frq: 24}
+thalidomide <> N: {rk: 35948, frq: 133}
+thallium <> N: {rk: 53079, frq: 30}
+than <> C: {rk: 73, frq: 627735}, I: {rk: 712, frq: 59985}
+thane <> N: {rk: 51796, frq: 67}
+thank <> V: {rk: 498, frq: 97295}
+thank-you <> N: {rk: 17441, frq: 615}
+thankful <> J: {rk: 8579, frq: 2286}
+thankfully <> R: {rk: 12214, frq: 1266}
+thankfulness <> N: {rk: 40805, frq: 67}
+thankless <> J: {rk: 26109, frq: 225}
+thanks <> N: {rk: 1667, frq: 32284}
+thanksgiving <> N: {rk: 4505, frq: 6648}
+that <> C: {rk: 12, frq: 3709830}, D: {rk: 27, frq: 1853584}, R: {rk: 901, frq: 46652}, P: {rk: 53664, frq: 25}
+thatch <> N: {rk: 21340, frq: 387}, V: {rk: 40284, frq: 64}
+thatched <> J: {rk: 20596, frq: 399}
+thaw <> V: {rk: 10638, frq: 1618}, N: {rk: 18108, frq: 545}
+thawed <> J: {rk: 38787, frq: 84}
+thawing <> N: {rk: 41115, frq: 66}, J: {rk: 46182, frq: 40}
+the <> A: {rk: 1, frq: 23782115}
+theater <> N: {rk: 1540, frq: 35604}
+theatergoer <> N: {rk: 29621, frq: 174}
+theatrical <> J: {rk: 7396, frq: 2775}, N: {rk: 50814, frq: 31}
+theatricality <> N: {rk: 28516, frq: 187}
+theatrically <> R: {rk: 26048, frq: 231}
+theatrics <> N: {rk: 24513, frq: 281}
+thee <> P: {rk: 10827, frq: 1537}
+theft <> N: {rk: 5427, frq: 4746}
+their <> A: {rk: 36, frq: 1170105}
+theirs <> P: {rk: 5481, frq: 4482}
+theism <> N: {rk: 35782, frq: 111}
+theist <> N: {rk: 45430, frq: 55}
+theistic <> J: {rk: 38194, frq: 84}
+them <> P: {rk: 59, frq: 735837}
+thematic <> J: {rk: 11897, frq: 1386}
+thematically <> R: {rk: 25613, frq: 258}
+thematics <> N: {rk: 39850, frq: 78}
+theme <> N: {rk: 1661, frq: 24375}
+themed <> J: {rk: 28345, frq: 193}
+themselves <> P: {rk: 449, frq: 91662}
+then <> R: {rk: 77, frq: 589713}, J: {rk: 9789, frq: 1664}
+thence <> R: {rk: 26705, frq: 216}
+thenceforth <> R: {rk: 44947, frq: 43}
+theocentric <> J: {rk: 54412, frq: 28}
+theocracy <> N: {rk: 22260, frq: 349}
+theocrat <> N: {rk: 44354, frq: 110}
+theocratic <> J: {rk: 29128, frq: 188}
+theodicy <> N: {rk: 45375, frq: 61}
+theodolite <> N: {rk: 53693, frq: 30}
+theologian <> N: {rk: 6920, frq: 3408}
+theological <> J: {rk: 4776, frq: 6438}
+theologically <> R: {rk: 19223, frq: 533}
+theology <> N: {rk: 3863, frq: 9154}
+theophylline <> N: {rk: 42081, frq: 84}
+theorem <> N: {rk: 17969, frq: 744}
+theoretic <> J: {rk: 41160, frq: 78}
+theoretical <> J: {rk: 3811, frq: 8934}
+theoretically <> R: {rk: 8149, frq: 2408}
+theoretician <> N: {rk: 24450, frq: 266}
+theorist <> N: {rk: 6375, frq: 3753}
+theorization <> N: {rk: 39413, frq: 76}
+theorize <> V: {rk: 10919, frq: 1458}
+theorized <> J: {rk: 52640, frq: 28}
+theorizing <> N: {rk: 21516, frq: 415}
+theory <> N: {rk: 919, frq: 49179}
+therapeutic <> J: {rk: 6840, frq: 3258}
+therapeutically <> R: {rk: 38266, frq: 76}
+therapeutics <> N: {rk: 28161, frq: 207}
+therapist <> N: {rk: 3946, frq: 7894}
+therapy <> N: {rk: 2155, frq: 17793}
+there <> E: {rk: 53, frq: 846483}, R: {rk: 116, frq: 359766}
+thereabouts <> R: {rk: 29141, frq: 175}
+thereafter <> R: {rk: 6590, frq: 3307}
+thereby <> R: {rk: 3921, frq: 8046}
+therefor <> R: {rk: 49668, frq: 39}
+therefore <> R: {rk: 1162, frq: 38371}
+therefrom <> R: {rk: 41736, frq: 57}
+therein <> R: {rk: 13341, frq: 982}
+thereof <> R: {rk: 12899, frq: 1070}
+thereon <> R: {rk: 39837, frq: 67}
+thereto <> R: {rk: 37897, frq: 75}
+theretofore <> R: {rk: 54415, frq: 27}
+thereupon <> R: {rk: 35602, frq: 92}
+therewith <> R: {rk: 48790, frq: 36}
+thermal <> J: {rk: 7262, frq: 2923}
+thermally <> R: {rk: 36878, frq: 91}
+thermals <> N: {rk: 31528, frq: 139}
+thermistor <> N: {rk: 48151, frq: 47}
+thermocline <> N: {rk: 50648, frq: 37}
+thermocouple <> N: {rk: 37371, frq: 99}
+thermodynamic <> J: {rk: 32488, frq: 145}
+thermodynamics <> N: {rk: 25932, frq: 249}
+thermoelectric <> J: {rk: 43997, frq: 51}
+thermographic <> J: {rk: 59611, frq: 24}
+thermography <> N: {rk: 53445, frq: 36}
+thermoluminescence <> N: {rk: 57161, frq: 22}
+thermomechanical <> J: {rk: 55877, frq: 29}
+thermometer <> N: {rk: 9867, frq: 1794}
+thermonuclear <> J: {rk: 24319, frq: 315}
+thermophilic <> J: {rk: 42826, frq: 70}
+thermoplastic <> J: {rk: 37879, frq: 83}
+thermoregulation <> N: {rk: 55251, frq: 28}
+thermos <> N: {rk: 17900, frq: 587}
+thermostat <> N: {rk: 16255, frq: 721}
+theropod <> N: {rk: 44048, frq: 60}
+thesaurus <> N: {rk: 24009, frq: 285}
+these <> D: {rk: 82, frq: 554163}
+thesis <> N: {rk: 6053, frq: 4129}
+theta <> N: {rk: 21488, frq: 385}
+they <> P: {rk: 21, frq: 2014769}
+thiamin <> N: {rk: 42879, frq: 63}
+thiamine <> N: {rk: 52703, frq: 34}
+thick <> J: {rk: 1730, frq: 23863}, R: {rk: 13879, frq: 922}
+thick-skinned <> J: {rk: 38720, frq: 77}
+thicken <> V: {rk: 8642, frq: 2282}
+thickened <> J: {rk: 33619, frq: 118}
+thickener <> N: {rk: 37902, frq: 84}
+thickening <> N: {rk: 29668, frq: 171}, J: {rk: 33143, frq: 119}
+thicket <> N: {rk: 11326, frq: 1357}
+thickly <> R: {rk: 15467, frq: 756}
+thickness <> N: {rk: 8711, frq: 2171}
+thickset <> J: {rk: 41346, frq: 60}
+thief <> N: {rk: 5058, frq: 5339}
+thievery <> N: {rk: 28476, frq: 178}
+thieving <> J: {rk: 36012, frq: 96}, N: {rk: 44015, frq: 47}
+thigh <> N: {rk: 4242, frq: 7129}
+thighbone <> N: {rk: 40848, frq: 62}
+thimble <> N: {rk: 25790, frq: 267}
+thimbleful <> N: {rk: 49388, frq: 32}
+thimerosal <> N: {rk: 43679, frq: 112}
+thin <> J: {rk: 1626, frq: 25212}, V: {rk: 7669, frq: 2677}, R: {rk: 32264, frq: 124}
+thin-film <> J: {rk: 27863, frq: 261}
+thin-skinned <> J: {rk: 28383, frq: 184}
+thine <> A: {rk: 30563, frq: 175}, P: {rk: 42066, frq: 60}
+thing <> N: {rk: 97, frq: 438886}
+thingamajig <> N: {rk: 55347, frq: 43}
+thingy <> N: {rk: 39568, frq: 73}
+think <> V: {rk: 56, frq: 838695}, N: {rk: 7320, frq: 2904}
+thinkable <> J: {rk: 39499, frq: 66}
+thinker <> N: {rk: 6494, frq: 3567}
+thinking <> N: {rk: 1703, frq: 23374}
+thinly <> R: {rk: 7856, frq: 2994}
+thinned <> J: {rk: 43332, frq: 50}
+thinness <> N: {rk: 21472, frq: 398}
+thinning <> J: {rk: 23805, frq: 292}, N: {rk: 28976, frq: 175}
+third <> M: {rk: 584, frq: 72864}
+third-degree <> J: {rk: 30602, frq: 154}
+third-rate <> J: {rk: 27977, frq: 180}
+thirdhand <> J: {rk: 44653, frq: 50}
+thirdly <> R: {rk: 20527, frq: 407}
+thirds <> M: {rk: 12020, frq: 1217}
+thirst <> N: {rk: 11086, frq: 1386}, V: {rk: 23913, frq: 286}
+thirstily <> R: {rk: 53370, frq: 27}
+thirsty <> J: {rk: 10556, frq: 1562}
+thirteen <> M: {rk: 5717, frq: 4347}
+thirteenth <> M: {rk: 14458, frq: 849}
+thirtieth <> M: {rk: 27447, frq: 209}
+thirty <> M: {rk: 2850, frq: 12702}
+thirty-eight <> M: {rk: 16212, frq: 689}
+thirtyish <> J: {rk: 47340, frq: 39}
+thirtysomething <> N: {rk: 36985, frq: 97}, J: {rk: 39138, frq: 68}
+this <> D: {rk: 20, frq: 2047852}, R: {rk: 4653, frq: 6016}
+this-worldly <> J: {rk: 49276, frq: 39}
+thistle <> N: {rk: 18209, frq: 568}
+thither <> R: {rk: 38737, frq: 73}
+thong <> N: {rk: 17179, frq: 678}
+thoracic <> J: {rk: 25279, frq: 293}
+thoracotomy <> N: {rk: 59244, frq: 35}
+thorax <> N: {rk: 29256, frq: 178}
+thorium <> N: {rk: 40300, frq: 97}
+thorn <> N: {rk: 11447, frq: 1989}
+thornbush <> N: {rk: 49555, frq: 37}
+thornless <> J: {rk: 40798, frq: 94}
+thorny <> J: {rk: 13634, frq: 927}
+thorough <> J: {rk: 5927, frq: 4006}
+thoroughbred <> J: {rk: 23145, frq: 299}, N: {rk: 24116, frq: 396}
+thoroughfare <> N: {rk: 15689, frq: 723}
+thoroughgoing <> J: {rk: 29036, frq: 182}
+thoroughly <> R: {rk: 4168, frq: 6930}
+thoroughness <> N: {rk: 24352, frq: 259}
+those <> D: {rk: 102, frq: 410262}
+thou <> P: {rk: 8831, frq: 2208}
+though <> C: {rk: 245, frq: 165349}, R: {rk: 2750, frq: 13323}
+thought <> N: {rk: 760, frq: 55123}
+thought-out <> J: {rk: 34230, frq: 101}
+thought-provoking <> J: {rk: 24066, frq: 271}
+thoughtful <> J: {rk: 5745, frq: 4178}
+thoughtfully <> R: {rk: 10584, frq: 1591}
+thoughtfulness <> N: {rk: 26045, frq: 230}
+thoughtless <> J: {rk: 21209, frq: 374}
+thoughtlessly <> R: {rk: 37145, frq: 86}
+thoughtlessness <> N: {rk: 44331, frq: 47}
+thousand <> M: {rk: 651, frq: 49405}
+thousandfold <> N: {rk: 39313, frq: 70}
+thousandth <> M: {rk: 27560, frq: 205}
+thousandths <> M: {rk: 40611, frq: 63}
+thrall <> N: {rk: 22933, frq: 318}
+thralldom <> N: {rk: 55114, frq: 23}
+thrash <> V: {rk: 11751, frq: 1309}, N: {rk: 36229, frq: 171}
+thrashing <> N: {rk: 25323, frq: 250}
+thread <> N: {rk: 4758, frq: 5723}, V: {rk: 8701, frq: 2182}
+threadbare <> J: {rk: 20134, frq: 446}
+threaded <> J: {rk: 24834, frq: 274}
+threading <> N: {rk: 45956, frq: 49}
+threadless <> J: {rk: 58573, frq: 21}
+thready <> J: {rk: 53669, frq: 27}
+threat <> N: {rk: 1067, frq: 40232}
+threaten <> V: {rk: 1399, frq: 28578}
+threatened <> J: {rk: 11921, frq: 1238}
+threatening <> J: {rk: 11364, frq: 1270}
+threateningly <> R: {rk: 31437, frq: 141}
+three <> M: {rk: 135, frq: 288953}
+three-cornered <> J: {rk: 48783, frq: 34}
+three-dimensional <> J: {rk: 8956, frq: 2010}
+three-dimensionality <> N: {rk: 42331, frq: 54}
+three-peat <> N: {rk: 44655, frq: 50}
+three-phase <> J: {rk: 37967, frq: 81}
+three-piece <> J: {rk: 22587, frq: 315}, N: {rk: 44929, frq: 49}
+three-pronged <> J: {rk: 29754, frq: 164}
+three-quarter <> J: {rk: 28336, frq: 182}, M: {rk: 44387, frq: 44}
+three-quarters <> M: {rk: 8801, frq: 2023}
+three-way <> J: {rk: 14966, frq: 777}
+three-wheeler <> N: {rk: 51706, frq: 38}
+threefold <> R: {rk: 26440, frq: 220}
+threesome <> N: {rk: 22207, frq: 354}
+threnody <> N: {rk: 57838, frq: 22}
+thresh <> V: {rk: 33596, frq: 108}
+thresher <> N: {rk: 46400, frq: 77}
+threshhold <> N: {rk: 50422, frq: 31}
+threshing <> N: {rk: 37591, frq: 85}
+threshold <> N: {rk: 4768, frq: 5945}
+thrice <> R: {rk: 26807, frq: 221}
+thrift <> N: {rk: 10474, frq: 1907}
+thriftiness <> N: {rk: 48445, frq: 34}
+thrifty <> J: {rk: 22882, frq: 338}
+thrill <> V: {rk: 5933, frq: 4072}, N: {rk: 6058, frq: 3890}
+thrilled <> J: {rk: 17652, frq: 565}
+thriller <> N: {rk: 8808, frq: 2216}
+thrilling <> J: {rk: 10886, frq: 1464}
+thrillingly <> R: {rk: 37103, frq: 83}
+thrive <> V: {rk: 4672, frq: 5966}
+thriving <> J: {rk: 10263, frq: 1582}
+throat <> N: {rk: 2470, frq: 15860}
+throaty <> J: {rk: 21187, frq: 399}
+throb <> V: {rk: 15351, frq: 810}, N: {rk: 24467, frq: 288}
+throbbing <> J: {rk: 15243, frq: 799}, N: {rk: 33540, frq: 119}
+throes <> N: {rk: 15263, frq: 749}
+thrombin <> N: {rk: 58330, frq: 23}
+thrombocytopenia <> N: {rk: 53475, frq: 32}
+thromboembolism <> N: {rk: 50127, frq: 47}
+thrombophlebitis <> N: {rk: 55861, frq: 28}
+thrombosis <> N: {rk: 23815, frq: 359}
+thrombotic <> J: {rk: 50325, frq: 36}
+thrombus <> N: {rk: 48820, frq: 59}
+throne <> N: {rk: 7371, frq: 2871}
+throng <> N: {rk: 11296, frq: 1346}, V: {rk: 26198, frq: 227}
+throttle <> N: {rk: 11469, frq: 1443}, V: {rk: 18993, frq: 504}
+through <> I: {rk: 112, frq: 372049}, R: {rk: 1214, frq: 34971}, J: {rk: 17854, frq: 529}
+throughout <> I: {rk: 984, frq: 42984}, R: {rk: 9726, frq: 1814}
+throughput <> N: {rk: 22485, frq: 400}
+throughway <> N: {rk: 57429, frq: 23}
+throw <> V: {rk: 677, frq: 62663}, N: {rk: 6379, frq: 3664}
+throw-in <> N: {rk: 39908, frq: 66}
+throwaway <> N: {rk: 21547, frq: 363}
+throwback <> N: {rk: 16656, frq: 653}
+thrower <> N: {rk: 21160, frq: 401}
+thru <> I: {rk: 20745, frq: 439}
+thrum <> V: {rk: 31433, frq: 159}, N: {rk: 31457, frq: 158}
+thrumming <> N: {rk: 51567, frq: 36}, J: {rk: 55962, frq: 22}
+thrush <> N: {rk: 26514, frq: 254}
+thrust <> V: {rk: 5980, frq: 4182}, N: {rk: 7951, frq: 2417}
+thruster <> N: {rk: 20960, frq: 457}
+thrusting <> J: {rk: 24927, frq: 261}
+thruway <> N: {rk: 46190, frq: 79}
+thud <> N: {rk: 13135, frq: 1123}, V: {rk: 19934, frq: 476}, U: {rk: 36974, frq: 104}
+thudding <> N: {rk: 42003, frq: 61}, J: {rk: 45897, frq: 42}
+thug <> N: {rk: 8248, frq: 2337}
+thuggery <> N: {rk: 40715, frq: 66}
+thuggish <> J: {rk: 38302, frq: 81}
+thumb <> N: {rk: 3777, frq: 8265}, V: {rk: 12910, frq: 1071}
+thumbnail <> N: {rk: 15706, frq: 724}
+thumbprint <> N: {rk: 28363, frq: 199}
+thumbscrew <> N: {rk: 38351, frq: 77}
+thumbtack <> N: {rk: 41740, frq: 59}
+thump <> V: {rk: 10227, frq: 1713}, N: {rk: 13820, frq: 998}
+thumper <> N: {rk: 38887, frq: 167}
+thumping <> N: {rk: 27717, frq: 201}, J: {rk: 31864, frq: 139}
+thunder <> N: {rk: 8237, frq: 3476}, V: {rk: 12896, frq: 1076}
+thunderbolt <> N: {rk: 21615, frq: 363}
+thunderclap <> N: {rk: 29502, frq: 171}
+thundercloud <> N: {rk: 36439, frq: 103}
+thunderhead <> N: {rk: 28089, frq: 217}
+thundering <> J: {rk: 26480, frq: 222}, N: {rk: 45609, frq: 58}
+thunderous <> J: {rk: 17352, frq: 588}
+thundershower <> N: {rk: 47417, frq: 55}
+thunderstorm <> N: {rk: 10883, frq: 1484}
+thunderstruck <> J: {rk: 36541, frq: 92}
+thunk <> N: {rk: 29560, frq: 181}
+thus <> R: {rk: 744, frq: 60363}
+thusly <> R: {rk: 34776, frq: 97}
+thwack <> V: {rk: 34243, frq: 117}, N: {rk: 37565, frq: 100}
+thwart <> V: {rk: 8481, frq: 2175}
+thwarted <> J: {rk: 28028, frq: 184}
+thy <> A: {rk: 10237, frq: 1697}
+thyme <> N: {rk: 8431, frq: 2635}
+thymine <> N: {rk: 55205, frq: 27}
+thymus <> N: {rk: 40132, frq: 101}
+thyroid <> J: {rk: 12745, frq: 1126}, N: {rk: 20059, frq: 457}
+thyroidectomy <> N: {rk: 41094, frq: 105}
+thyroiditis <> N: {rk: 57306, frq: 28}
+thyself <> P: {rk: 30115, frq: 172}
+tian <> N: {rk: 48436, frq: 81}
+tiara <> N: {rk: 24173, frq: 506}
+tibia <> N: {rk: 22209, frq: 401}
+tibial <> J: {rk: 26644, frq: 268}
+tibialis <> N: {rk: 55607, frq: 31}
+tic <> N: {rk: 15809, frq: 735}
+tic-tac-toe <> J: {rk: 50495, frq: 30}, N: {rk: 53846, frq: 30}
+tick <> V: {rk: 7479, frq: 2789}, N: {rk: 9044, frq: 1998}
+ticker <> N: {rk: 19568, frq: 749}
+tickertape <> N: {rk: 57183, frq: 23}
+ticket <> N: {rk: 1581, frq: 25996}
+ticketed <> J: {rk: 44856, frq: 49}
+ticketing <> J: {rk: 42714, frq: 56}, N: {rk: 51912, frq: 51}
+ticketless <> J: {rk: 51911, frq: 32}
+ticking <> N: {rk: 15670, frq: 751}
+tickle <> V: {rk: 9709, frq: 1815}, N: {rk: 24461, frq: 310}
+tickler <> N: {rk: 47842, frq: 44}
+tickling <> N: {rk: 48630, frq: 40}, J: {rk: 52043, frq: 31}
+ticklish <> J: {rk: 31361, frq: 142}
+tidal <> J: {rk: 9175, frq: 1937}
+tidbit <> N: {rk: 17173, frq: 625}
+tide <> N: {rk: 4041, frq: 7249}
+tidepool <> N: {rk: 51767, frq: 28}
+tidewater <> J: {rk: 35842, frq: 94}, N: {rk: 43589, frq: 101}
+tidily <> R: {rk: 41918, frq: 59}
+tidiness <> N: {rk: 39440, frq: 67}
+tiding <> N: {rk: 24883, frq: 257}
+tidy <> J: {rk: 10093, frq: 1682}, V: {rk: 17592, frq: 585}
+tie <> V: {rk: 1506, frq: 26498}, N: {rk: 1971, frq: 19235}
+tie-down <> N: {rk: 41097, frq: 65}, J: {rk: 51755, frq: 30}
+tie-dye <> J: {rk: 43912, frq: 50}, N: {rk: 46932, frq: 41}
+tie-dyed <> J: {rk: 32074, frq: 133}
+tie-in <> N: {rk: 30053, frq: 269}
+tie-up <> N: {rk: 36921, frq: 86}
+tieback <> N: {rk: 58252, frq: 21}
+tiebreaker <> N: {rk: 27516, frq: 220}
+tied <> J: {rk: 27102, frq: 207}
+tier <> N: {rk: 8895, frq: 2180}
+tiered <> J: {rk: 23482, frq: 310}
+tight <> J: {rk: 2758, frq: 12692}, R: {rk: 3425, frq: 9714}
+tight-fisted <> J: {rk: 34232, frq: 100}
+tight-fitting <> J: {rk: 25867, frq: 242}
+tight-knit <> J: {rk: 25403, frq: 251}
+tight-lipped <> J: {rk: 22266, frq: 340}
+tighten <> V: {rk: 4577, frq: 6147}
+tightened <> J: {rk: 34878, frq: 104}
+tightening <> N: {rk: 18087, frq: 524}, J: {rk: 21130, frq: 366}
+tightly <> R: {rk: 4139, frq: 7241}
+tightness <> N: {rk: 19068, frq: 500}
+tightrope <> N: {rk: 19113, frq: 504}
+tights <> N: {rk: 14825, frq: 909}
+tightwad <> N: {rk: 41161, frq: 100}
+tigress <> N: {rk: 41915, frq: 73}
+tike <> N: {rk: 54732, frq: 40}
+tiki <> N: {rk: 29058, frq: 347}
+tilapia <> N: {rk: 28264, frq: 238}
+tilde <> N: {rk: 58819, frq: 21}
+tile <> N: {rk: 4928, frq: 5579}, V: {rk: 25698, frq: 240}
+tiled <> J: {rk: 19161, frq: 503}
+tiling <> N: {rk: 29226, frq: 204}
+till <> C: {rk: 4945, frq: 5623}, I: {rk: 4993, frq: 5440}, V: {rk: 20645, frq: 397}, N: {rk: 23790, frq: 419}
+tillage <> N: {rk: 29866, frq: 199}
+tilled <> J: {rk: 42503, frq: 56}
+tiller <> N: {rk: 21608, frq: 562}
+tilling <> N: {rk: 55577, frq: 28}
+tilt <> V: {rk: 5122, frq: 5337}, N: {rk: 11261, frq: 1311}
+tilted <> J: {rk: 24611, frq: 260}
+tilth <> N: {rk: 47850, frq: 47}
+tilting <> J: {rk: 35858, frq: 86}, N: {rk: 52305, frq: 33}
+timbale <> N: {rk: 42915, frq: 63}
+timber <> N: {rk: 4944, frq: 5506}
+timbered <> J: {rk: 37530, frq: 89}
+timberland <> N: {rk: 30369, frq: 257}
+timberline <> N: {rk: 34453, frq: 189}
+timbre <> N: {rk: 19277, frq: 485}
+time <> N: {rk: 52, frq: 832974}, V: {rk: 5139, frq: 5002}
+time-consuming <> J: {rk: 10547, frq: 1479}
+time-lapse <> J: {rk: 34922, frq: 104}
+time-limited <> J: {rk: 41061, frq: 67}
+time-release <> J: {rk: 45453, frq: 44}
+time-saving <> J: {rk: 32174, frq: 127}
+time-wasting <> J: {rk: 54814, frq: 23}
+time-worn <> J: {rk: 32249, frq: 126}
+timecard <> N: {rk: 50529, frq: 32}
+timed <> J: {rk: 25546, frq: 254}
+timeframe <> N: {rk: 27698, frq: 227}
+timekeeper <> N: {rk: 35799, frq: 102}
+timekeeping <> N: {rk: 37744, frq: 87}
+timeless <> J: {rk: 9945, frq: 1668}
+timelessly <> R: {rk: 57335, frq: 22}
+timelessness <> N: {rk: 26614, frq: 213}
+timeline <> N: {rk: 12676, frq: 1336}
+timeliness <> N: {rk: 25934, frq: 238}
+timely <> J: {rk: 7587, frq: 2726}
+timepiece <> N: {rk: 28033, frq: 214}
+timer <> N: {rk: 11360, frq: 1333}
+timescale <> N: {rk: 30039, frq: 186}
+timeshare <> N: {rk: 46326, frq: 98}
+timetable <> N: {rk: 8994, frq: 1998}
+timid <> J: {rk: 11594, frq: 1266}
+timidity <> N: {rk: 24142, frq: 276}
+timidly <> R: {rk: 22956, frq: 323}
+timing <> N: {rk: 3838, frq: 7945}
+timorous <> J: {rk: 40578, frq: 60}
+timpani <> N: {rk: 38602, frq: 79}
+timpanist <> N: {rk: 59935, frq: 20}
+tin <> N: {rk: 5484, frq: 4691}
+tincture <> N: {rk: 26572, frq: 266}, V: {rk: 51173, frq: 31}
+tinder <> N: {rk: 28573, frq: 224}
+tinderbox <> N: {rk: 34618, frq: 114}
+tine <> N: {rk: 33886, frq: 145}
+tinea <> N: {rk: 60002, frq: 25}
+tines <> N: {rk: 23205, frq: 331}
+tinfoil <> N: {rk: 30308, frq: 172}
+ting <> N: {rk: 23093, frq: 388}
+tinge <> V: {rk: 15173, frq: 763}, N: {rk: 18352, frq: 535}
+tingle <> V: {rk: 15116, frq: 827}, N: {rk: 21159, frq: 423}
+tingling <> N: {rk: 29161, frq: 185}, J: {rk: 33332, frq: 121}
+tink <> V: {rk: 47599, frq: 43}
+tinker <> V: {rk: 11576, frq: 1406}
+tinkerer <> N: {rk: 32434, frq: 143}
+tinkering <> N: {rk: 27242, frq: 223}, J: {rk: 56296, frq: 22}
+tinkle <> V: {rk: 26945, frq: 221}, N: {rk: 31350, frq: 154}
+tinkling <> J: {rk: 24529, frq: 286}
+tinkly <> R: {rk: 53658, frq: 26}
+tinned <> J: {rk: 38046, frq: 80}
+tinny <> J: {rk: 22588, frq: 352}
+tinsel <> N: {rk: 27112, frq: 260}, V: {rk: 44324, frq: 49}
+tinsmith <> N: {rk: 50711, frq: 29}
+tint <> N: {rk: 15583, frq: 776}, V: {rk: 17620, frq: 586}
+tinted <> J: {rk: 17232, frq: 631}
+tinting <> N: {rk: 38979, frq: 73}
+tintype <> N: {rk: 42757, frq: 55}
+tinware <> N: {rk: 58646, frq: 21}
+tiny <> J: {rk: 1317, frq: 32118}
+tip <> N: {rk: 1938, frq: 20813}, V: {rk: 3541, frq: 9091}
+tip-off <> N: {rk: 21717, frq: 385}
+tip-top <> J: {rk: 36483, frq: 94}
+tip-up <> J: {rk: 58350, frq: 21}
+tipi <> N: {rk: 40900, frq: 90}
+tippet <> N: {rk: 32996, frq: 152}
+tipple <> N: {rk: 49605, frq: 35}, V: {rk: 53913, frq: 26}
+tippy <> J: {rk: 41271, frq: 63}
+tipster <> N: {rk: 40285, frq: 73}
+tipsy <> J: {rk: 22983, frq: 329}
+tiptoe <> V: {rk: 14003, frq: 943}, N: {rk: 18194, frq: 566}
+tiptop <> N: {rk: 53302, frq: 29}
+tirade <> N: {rk: 17544, frq: 575}
+tiramisu <> N: {rk: 32605, frq: 152}
+tire <> V: {rk: 2867, frq: 12248}
+tired <> J: {rk: 1969, frq: 19931}
+tiredly <> R: {rk: 31101, frq: 152}
+tiredness <> N: {rk: 24280, frq: 289}
+tireless <> J: {rk: 15493, frq: 714}
+tirelessly <> R: {rk: 18513, frq: 522}
+tiresome <> J: {rk: 18856, frq: 503}
+tiring <> J: {rk: 16743, frq: 620}
+tisane <> N: {rk: 57973, frq: 23}
+tissue <> N: {rk: 2704, frq: 13172}
+tit <> N: {rk: 14629, frq: 930}
+titanium <> N: {rk: 11525, frq: 1372}
+titer <> N: {rk: 44951, frq: 69}
+tithe <> N: {rk: 31562, frq: 135}, V: {rk: 43164, frq: 55}
+tithing <> N: {rk: 36517, frq: 95}
+titillate <> V: {rk: 23874, frq: 268}
+titillating <> J: {rk: 36537, frq: 86}
+titillation <> N: {rk: 31404, frq: 138}
+title <> N: {rk: 1327, frq: 31719}, V: {rk: 5387, frq: 4759}
+titled <> J: {rk: 32230, frq: 126}
+titling <> N: {rk: 56080, frq: 42}
+titlist <> N: {rk: 51008, frq: 36}
+titmouse <> N: {rk: 58163, frq: 29}
+titration <> N: {rk: 48059, frq: 48}
+titre <> N: {rk: 41499, frq: 90}
+titter <> V: {rk: 28998, frq: 182}, N: {rk: 39490, frq: 79}
+titty <> N: {rk: 37113, frq: 93}, J: {rk: 49102, frq: 50}
+titular <> J: {rk: 28183, frq: 189}
+to <> T: {rk: 7, frq: 6868227}, I: {rk: 9, frq: 4176664}
+to-do <> N: {rk: 18501, frq: 590}
+toad <> N: {rk: 12784, frq: 1264}
+toadstool <> N: {rk: 40346, frq: 66}
+toady <> N: {rk: 37630, frq: 82}, V: {rk: 47941, frq: 36}
+toast <> N: {rk: 6245, frq: 3792}, V: {rk: 8405, frq: 2476}
+toasted <> J: {rk: 11805, frq: 1542}
+toaster <> N: {rk: 15535, frq: 766}
+toasting <> N: {rk: 53500, frq: 29}
+toastmaster <> N: {rk: 50321, frq: 39}
+toasty <> J: {rk: 25226, frq: 279}
+tobacco <> N: {rk: 3029, frq: 11868}
+tobacconist <> N: {rk: 47509, frq: 40}
+toboggan <> N: {rk: 29538, frq: 191}, V: {rk: 51001, frq: 28}
+tocopherol <> N: {rk: 55702, frq: 47}
+today <> R: {rk: 214, frq: 199257}
+toddle <> V: {rk: 28664, frq: 181}
+toddler <> N: {rk: 5993, frq: 4186}
+toddy <> N: {rk: 28739, frq: 225}
+toe <> N: {rk: 3382, frq: 10088}, V: {rk: 30267, frq: 153}
+toe-tapping <> J: {rk: 50757, frq: 32}
+toehold <> N: {rk: 28649, frq: 173}
+toenail <> N: {rk: 16093, frq: 693}
+toepiece <> N: {rk: 39182, frq: 101}
+toff <> N: {rk: 53157, frq: 30}
+toffee <> N: {rk: 29009, frq: 221}
+tofu <> N: {rk: 10554, frq: 1826}
+toga <> N: {rk: 27690, frq: 228}
+together <> R: {rk: 324, frq: 129820}
+togetherness <> N: {rk: 20573, frq: 411}
+toggle <> N: {rk: 26425, frq: 236}, V: {rk: 34164, frq: 123}
+toil <> V: {rk: 13429, frq: 961}, N: {rk: 20538, frq: 394}
+toile <> N: {rk: 35189, frq: 114}, J: {rk: 45281, frq: 52}
+toiler <> N: {rk: 51871, frq: 29}
+toilet <> N: {rk: 4014, frq: 7551}
+toiletry <> N: {rk: 22450, frq: 356}
+toilette <> N: {rk: 35400, frq: 123}
+toiling <> J: {rk: 30652, frq: 144}
+toilsome <> J: {rk: 57513, frq: 21}
+toke <> N: {rk: 36477, frq: 154}
+token <> N: {rk: 9107, frq: 1888}, J: {rk: 14109, frq: 889}
+tokenism <> N: {rk: 39667, frq: 69}
+tole <> N: {rk: 40735, frq: 84}
+tolerability <> N: {rk: 51182, frq: 34}
+tolerable <> J: {rk: 16378, frq: 667}
+tolerably <> R: {rk: 38485, frq: 73}
+tolerance <> N: {rk: 4714, frq: 5905}
+tolerant <> J: {rk: 9361, frq: 1856}
+tolerantly <> R: {rk: 46503, frq: 40}
+tolerate <> V: {rk: 4357, frq: 6282}
+toleration <> N: {rk: 20391, frq: 643}
+toll <> N: {rk: 4643, frq: 6198}, V: {rk: 16648, frq: 643}
+tollbooth <> N: {rk: 33121, frq: 127}
+tolling <> N: {rk: 44919, frq: 54}, J: {rk: 52344, frq: 28}
+tollway <> N: {rk: 37348, frq: 169}
+toluene <> N: {rk: 37914, frq: 86}
+tom-tom <> N: {rk: 43725, frq: 104}
+tomahawk <> N: {rk: 22797, frq: 478}, V: {rk: 42741, frq: 51}
+tomatillo <> N: {rk: 26194, frq: 334}
+tomato <> N: {rk: 2416, frq: 16639}
+tomb <> N: {rk: 6265, frq: 4029}
+tomboy <> N: {rk: 23976, frq: 294}
+tomboyish <> J: {rk: 49979, frq: 36}
+tombstone <> N: {rk: 14060, frq: 924}
+tomcat <> N: {rk: 30493, frq: 157}
+tome <> N: {rk: 15792, frq: 848}
+tomfoolery <> N: {rk: 46389, frq: 41}
+tommy <> J: {rk: 48683, frq: 40}
+tomographic <> J: {rk: 50650, frq: 37}
+tomography <> N: {rk: 18649, frq: 584}
+tomorrow <> R: {rk: 1338, frq: 32726}
+tonal <> J: {rk: 15910, frq: 705}
+tonality <> N: {rk: 24540, frq: 274}
+tondo <> N: {rk: 58695, frq: 27}
+tone <> N: {rk: 2005, frq: 19744}, V: {rk: 10459, frq: 1566}
+tone-deaf <> J: {rk: 37832, frq: 84}
+tone-on-tone <> J: {rk: 55352, frq: 26}
+toned <> J: {rk: 34423, frq: 117}
+toneless <> J: {rk: 43753, frq: 51}
+tonelessly <> R: {rk: 45396, frq: 48}
+toner <> N: {rk: 26820, frq: 372}
+tongs <> N: {rk: 15923, frq: 1088}
+tongue <> N: {rk: 2888, frq: 12650}, V: {rk: 43065, frq: 57}
+tongue-in-cheek <> J: {rk: 25984, frq: 233}
+tongue-lashing <> N: {rk: 44601, frq: 47}
+tongue-tied <> J: {rk: 30726, frq: 151}
+tongue-twisting <> J: {rk: 57138, frq: 19}
+tongued <> J: {rk: 57280, frq: 20}
+tongueless <> J: {rk: 56960, frq: 24}
+tonic <> N: {rk: 12439, frq: 1141}
+tonier <> J: {rk: 49281, frq: 34}
+toniest <> J: {rk: 48125, frq: 37}
+tonight <> R: {rk: 911, frq: 52781}
+toning <> J: {rk: 30894, frq: 167}
+tonnage <> N: {rk: 23861, frq: 287}
+tonneau <> N: {rk: 53748, frq: 28}
+tonsil <> N: {rk: 23469, frq: 380}
+tonsillectomy <> N: {rk: 27041, frq: 411}
+tonsillitis <> N: {rk: 43171, frq: 68}
+tonsure <> N: {rk: 58026, frq: 20}
+tonus <> N: {rk: 60024, frq: 21}
+too <> R: {rk: 133, frq: 303970}
+tool <> N: {rk: 1295, frq: 33655}, V: {rk: 20863, frq: 386}
+toolbar <> N: {rk: 24743, frq: 367}
+toolbox <> N: {rk: 18107, frq: 590}
+tooled <> J: {rk: 42317, frq: 56}
+tooling <> N: {rk: 39982, frq: 81}, J: {rk: 51640, frq: 32}
+toolkit <> N: {rk: 32379, frq: 173}
+toolmaker <> N: {rk: 43007, frq: 65}
+toolshed <> N: {rk: 38222, frq: 73}
+toon <> N: {rk: 36185, frq: 166}
+toot <> V: {rk: 24605, frq: 261}, N: {rk: 27828, frq: 252}
+tooth <> N: {rk: 1864, frq: 22223}
+toothache <> N: {rk: 26311, frq: 227}
+toothbrush <> N: {rk: 14380, frq: 878}
+toothed <> J: {rk: 32342, frq: 129}
+toothless <> J: {rk: 19747, frq: 448}
+toothpaste <> N: {rk: 14678, frq: 866}
+toothpick <> N: {rk: 14163, frq: 924}
+toothsome <> J: {rk: 44830, frq: 46}
+toothy <> J: {rk: 23155, frq: 319}
+tootle <> V: {rk: 46247, frq: 39}
+top <> N: {rk: 678, frq: 63840}, J: {rk: 959, frq: 45439}, I: {rk: 2815, frq: 12491}, V: {rk: 3605, frq: 9201}
+top-down <> J: {rk: 16491, frq: 698}
+top-drawer <> J: {rk: 36265, frq: 86}
+top-end <> J: {rk: 32243, frq: 151}
+top-flight <> J: {rk: 27533, frq: 210}
+top-heavy <> J: {rk: 27983, frq: 193}
+top-level <> J: {rk: 21273, frq: 370}
+top-line <> J: {rk: 39179, frq: 70}
+top-notch <> J: {rk: 16406, frq: 698}
+top-ranking <> J: {rk: 34314, frq: 106}
+top-rated <> J: {rk: 19204, frq: 472}
+top-secret <> J: {rk: 21714, frq: 349}, N: {rk: 56870, frq: 22}
+top-shelf <> J: {rk: 38128, frq: 82}
+topaz <> N: {rk: 26324, frq: 369}
+topcoat <> N: {rk: 29028, frq: 189}
+topiary <> N: {rk: 29570, frq: 183}, J: {rk: 37017, frq: 94}
+topic <> N: {rk: 1870, frq: 20085}
+topical <> J: {rk: 11875, frq: 1334}
+topicality <> N: {rk: 49633, frq: 34}
+topically <> R: {rk: 36801, frq: 96}
+topknot <> N: {rk: 43551, frq: 52}
+topless <> J: {rk: 17113, frq: 617}
+topmost <> J: {rk: 26952, frq: 215}
+topo <> N: {rk: 22952, frq: 389}
+topographer <> N: {rk: 57979, frq: 24}
+topographic <> J: {rk: 21498, frq: 369}
+topographical <> J: {rk: 23133, frq: 310}
+topographically <> R: {rk: 47611, frq: 35}
+topography <> N: {rk: 13477, frq: 990}
+topological <> J: {rk: 32552, frq: 151}
+topology <> N: {rk: 26118, frq: 275}
+toponym <> N: {rk: 53644, frq: 28}
+topos <> N: {rk: 43816, frq: 60}
+topper <> N: {rk: 30080, frq: 255}
+topping <> N: {rk: 11479, frq: 1560}, J: {rk: 31612, frq: 150}
+topple <> V: {rk: 7631, frq: 2615}
+toppled <> J: {rk: 33191, frq: 118}
+toppling <> N: {rk: 33947, frq: 110}
+topsail <> N: {rk: 57898, frq: 32}
+topside <> N: {rk: 29901, frq: 195}
+topsoil <> N: {rk: 17662, frq: 575}
+topspin <> N: {rk: 46678, frq: 43}
+topsy <> J: {rk: 58749, frq: 19}
+topsy-turvy <> J: {rk: 25294, frq: 249}
+toque <> N: {rk: 35341, frq: 138}
+torch <> N: {rk: 7297, frq: 2924}, V: {rk: 18879, frq: 495}
+torchbearer <> N: {rk: 42858, frq: 63}
+torched <> J: {rk: 51934, frq: 29}
+torching <> N: {rk: 57256, frq: 24}
+torchlight <> N: {rk: 29646, frq: 176}
+toreador <> N: {rk: 43632, frq: 52}
+torero <> N: {rk: 56017, frq: 35}
+torment <> V: {rk: 12357, frq: 1145}, N: {rk: 14180, frq: 874}
+tormented <> J: {rk: 22041, frq: 337}
+tormenter <> N: {rk: 55793, frq: 30}
+tormenting <> J: {rk: 47567, frq: 42}
+tormentor <> N: {rk: 22417, frq: 333}
+torn <> J: {rk: 10067, frq: 1694}
+tornadic <> J: {rk: 57585, frq: 26}
+tornado <> N: {rk: 7057, frq: 3547}
+toroidal <> J: {rk: 48283, frq: 38}
+torpedo <> N: {rk: 13404, frq: 1045}, V: {rk: 24416, frq: 269}
+torpid <> J: {rk: 36427, frq: 88}
+torpor <> N: {rk: 30515, frq: 152}
+torque <> N: {rk: 10468, frq: 1662}
+torrent <> N: {rk: 12050, frq: 1202}
+torrential <> J: {rk: 22685, frq: 327}
+torrid <> J: {rk: 24024, frq: 272}
+torsion <> N: {rk: 30253, frq: 164}
+torsional <> J: {rk: 31465, frq: 147}
+torso <> N: {rk: 7437, frq: 2867}
+tort <> N: {rk: 12051, frq: 1326}
+torte <> N: {rk: 26774, frq: 269}
+tortellini <> N: {rk: 30811, frq: 165}
+tortilla <> N: {rk: 8198, frq: 2651}
+tortious <> J: {rk: 52212, frq: 29}
+tortoise <> N: {rk: 13742, frq: 989}
+tortoiseshell <> N: {rk: 33799, frq: 120}
+tortuous <> J: {rk: 22095, frq: 322}
+tortuously <> R: {rk: 53269, frq: 27}
+torture <> N: {rk: 5330, frq: 4942}, V: {rk: 5883, frq: 4059}
+tortured <> J: {rk: 15848, frq: 686}
+torturer <> N: {rk: 24328, frq: 283}
+torturing <> N: {rk: 52797, frq: 31}
+torturous <> J: {rk: 24983, frq: 250}
+torus <> N: {rk: 33024, frq: 153}
+toss <> V: {rk: 2412, frq: 16252}, N: {rk: 13818, frq: 980}
+toss-up <> N: {rk: 26502, frq: 243}
+tosser <> N: {rk: 51152, frq: 31}
+tossing <> N: {rk: 37297, frq: 81}
+tostada <> N: {rk: 40087, frq: 91}
+tot <> N: {rk: 19515, frq: 684}, V: {rk: 39306, frq: 67}
+total <> J: {rk: 1039, frq: 42664}, N: {rk: 2374, frq: 15887}, V: {rk: 5610, frq: 4874}
+totaled <> J: {rk: 50956, frq: 32}
+totalitarian <> J: {rk: 11849, frq: 1226}, N: {rk: 48589, frq: 40}
+totalitarianism <> N: {rk: 17518, frq: 603}
+totality <> N: {rk: 11930, frq: 1264}
+totalize <> V: {rk: 35533, frq: 100}
+totalizing <> J: {rk: 36685, frq: 93}
+totally <> R: {rk: 1921, frq: 20230}
+tote <> V: {rk: 13768, frq: 956}, N: {rk: 16970, frq: 802}
+totem <> N: {rk: 17272, frq: 639}
+totemic <> J: {rk: 32802, frq: 146}
+totter <> V: {rk: 21258, frq: 389}
+tottering <> J: {rk: 35333, frq: 94}
+toucan <> N: {rk: 38824, frq: 73}
+touch <> V: {rk: 1167, frq: 37445}, N: {rk: 2290, frq: 16474}
+touch-and-go <> J: {rk: 47700, frq: 39}
+touch-tone <> J: {rk: 39645, frq: 67}
+touch-up <> N: {rk: 29188, frq: 181}
+touchable <> J: {rk: 40501, frq: 73}
+touchback <> N: {rk: 47634, frq: 43}
+touchdown <> N: {rk: 4323, frq: 7911}
+touched <> J: {rk: 29586, frq: 169}
+touching <> J: {rk: 9308, frq: 1824}, I: {rk: 53396, frq: 27}
+touchingly <> R: {rk: 36621, frq: 83}
+touchpad <> N: {rk: 38580, frq: 97}
+touchscreen <> N: {rk: 38888, frq: 106}
+touchstone <> N: {rk: 18484, frq: 715}
+touchy <> J: {rk: 16870, frq: 624}
+touchy-feely <> R: {rk: 27826, frq: 188}
+tough <> J: {rk: 1013, frq: 43362}, N: {rk: 18423, frq: 495}
+tough-minded <> J: {rk: 27779, frq: 189}
+toughen <> V: {rk: 16115, frq: 676}
+toughened <> J: {rk: 49853, frq: 36}
+toughie <> N: {rk: 53314, frq: 26}
+toughly <> R: {rk: 53884, frq: 25}
+toughness <> N: {rk: 12571, frq: 1143}
+toupee <> N: {rk: 28744, frq: 182}
+tour <> N: {rk: 1478, frq: 33877}, V: {rk: 6672, frq: 3325}
+tourer <> N: {rk: 53369, frq: 28}
+touring <> N: {rk: 11935, frq: 1254}, J: {rk: 46438, frq: 41}
+tourism <> N: {rk: 4765, frq: 5847}
+tourist <> N: {rk: 2410, frq: 14902}
+touristic <> J: {rk: 41965, frq: 69}
+touristy <> J: {rk: 35840, frq: 91}
+tourmaline <> N: {rk: 49204, frq: 53}
+tournament <> N: {rk: 2778, frq: 13684}
+tournedos <> N: {rk: 57499, frq: 20}
+tourney <> N: {rk: 23568, frq: 347}
+tourniquet <> N: {rk: 24727, frq: 278}
+tousle <> V: {rk: 26819, frq: 243}, N: {rk: 37722, frq: 94}
+tousled <> J: {rk: 29722, frq: 170}
+tout <> V: {rk: 6987, frq: 3118}, N: {rk: 17757, frq: 702}
+tow <> N: {rk: 9187, frq: 1949}, V: {rk: 9993, frq: 1653}
+tow-headed <> J: {rk: 40780, frq: 58}
+toward <> I: {rk: 384, frq: 114213}
+towards <> I: {rk: 2014, frq: 19763}
+towboat <> N: {rk: 42289, frq: 72}
+towed <> J: {rk: 55270, frq: 26}
+towel <> N: {rk: 3710, frq: 8772}, V: {rk: 27860, frq: 210}
+towelette <> N: {rk: 41473, frq: 66}
+toweling <> N: {rk: 37812, frq: 76}
+tower <> N: {rk: 2428, frq: 15200}, V: {rk: 11929, frq: 1262}
+towering <> J: {rk: 9501, frq: 1835}
+towhead <> N: {rk: 55095, frq: 26}
+towing <> J: {rk: 32393, frq: 134}
+towline <> N: {rk: 51888, frq: 32}
+town <> N: {rk: 488, frq: 87755}
+townhome <> N: {rk: 29889, frq: 199}
+townhouse <> N: {rk: 14282, frq: 949}
+townie <> N: {rk: 50717, frq: 36}
+townscape <> N: {rk: 51810, frq: 32}
+townsfolk <> N: {rk: 25426, frq: 258}
+township <> N: {rk: 10508, frq: 2293}
+townsite <> N: {rk: 56558, frq: 42}
+townsman <> N: {rk: 39032, frq: 67}
+townspeople <> N: {rk: 14369, frq: 827}
+towny <> N: {rk: 47009, frq: 45}
+towpath <> N: {rk: 38934, frq: 81}
+toxaphene <> N: {rk: 59952, frq: 21}
+toxemia <> N: {rk: 54363, frq: 23}
+toxic <> J: {rk: 4122, frq: 7194}
+toxicant <> N: {rk: 43871, frq: 55}
+toxicity <> N: {rk: 12686, frq: 1128}
+toxicological <> J: {rk: 34449, frq: 113}
+toxicologist <> N: {rk: 26851, frq: 221}
+toxicology <> N: {rk: 20386, frq: 499}
+toxics <> N: {rk: 23686, frq: 347}
+toxin <> N: {rk: 8723, frq: 2177}
+toxoid <> N: {rk: 59327, frq: 29}
+toxoplasmosis <> N: {rk: 45924, frq: 53}
+toy <> N: {rk: 2434, frq: 15082}, V: {rk: 16435, frq: 648}, J: {rk: 22848, frq: 326}
+toymaker <> N: {rk: 33875, frq: 134}
+trabecular <> J: {rk: 46534, frq: 71}
+trace <> V: {rk: 3039, frq: 10785}, N: {rk: 4226, frq: 6837}
+traceable <> J: {rk: 23410, frq: 289}
+tracer <> N: {rk: 19407, frq: 613}
+tracery <> N: {rk: 37747, frq: 79}
+trachea <> N: {rk: 27851, frq: 215}
+tracheal <> J: {rk: 33410, frq: 152}
+tracheostomy <> N: {rk: 36649, frq: 99}
+tracheotomy <> N: {rk: 30794, frq: 184}
+trachoma <> N: {rk: 44117, frq: 102}
+tracing <> N: {rk: 20805, frq: 382}
+track <> N: {rk: 1144, frq: 36296}, V: {rk: 2714, frq: 12916}
+trackball <> N: {rk: 39303, frq: 94}
+tracked <> J: {rk: 37254, frq: 89}
+tracker <> N: {rk: 16831, frq: 862}
+tracking <> J: {rk: 7982, frq: 2425}, N: {rk: 10024, frq: 1701}
+trackless <> J: {rk: 34140, frq: 109}
+trackside <> N: {rk: 51716, frq: 34}
+tracksuit <> N: {rk: 44818, frq: 54}
+tract <> N: {rk: 6215, frq: 3968}
+tractable <> J: {rk: 33810, frq: 113}
+tractate <> N: {rk: 59889, frq: 23}
+traction <> N: {rk: 10208, frq: 1737}
+tractor <> N: {rk: 6642, frq: 3336}
+tradable <> J: {rk: 32594, frq: 132}
+trade <> N: {rk: 800, frq: 52781}, V: {rk: 2356, frq: 15608}
+trade-in <> N: {rk: 33628, frq: 143}
+trade-off <> N: {rk: 8724, frq: 2173}
+trade-up <> N: {rk: 53858, frq: 29}
+tradecraft <> N: {rk: 49339, frq: 35}
+traded <> J: {rk: 32282, frq: 129}
+trademark <> N: {rk: 6886, frq: 3115}
+trademarked <> J: {rk: 45425, frq: 45}
+trader <> N: {rk: 5072, frq: 5389}
+tradesman <> N: {rk: 24249, frq: 274}
+trading <> N: {rk: 3431, frq: 9358}
+tradition <> N: {rk: 1247, frq: 34562}
+traditional <> J: {rk: 926, frq: 46771}
+traditionalism <> N: {rk: 27487, frq: 216}
+traditionalist <> N: {rk: 14246, frq: 872}, J: {rk: 24480, frq: 276}
+traditionally <> R: {rk: 3733, frq: 8189}
+traffic <> N: {rk: 1720, frq: 22917}, V: {rk: 14625, frq: 856}
+trafficker <> N: {rk: 11185, frq: 1430}
+trafficking <> N: {rk: 9893, frq: 1868}
+tragedian <> N: {rk: 50716, frq: 32}
+tragedy <> N: {rk: 2900, frq: 11953}
+tragic <> J: {rk: 4296, frq: 6477}
+tragically <> R: {rk: 12879, frq: 1032}
+tragicomedy <> N: {rk: 43440, frq: 54}
+tragicomic <> J: {rk: 39466, frq: 66}
+trail <> N: {rk: 1652, frq: 24988}, V: {rk: 3976, frq: 7661}
+trailblazer <> N: {rk: 26622, frq: 246}
+trailblazing <> J: {rk: 40881, frq: 64}
+trailer <> N: {rk: 4094, frq: 7210}
+trailerable <> J: {rk: 57088, frq: 24}
+trailhead <> N: {rk: 15346, frq: 944}
+trailing <> J: {rk: 15041, frq: 775}
+train <> V: {rk: 1521, frq: 25990}, N: {rk: 1697, frq: 23498}
+trained <> J: {rk: 7871, frq: 2535}
+trainee <> N: {rk: 11208, frq: 1510}
+trainer <> N: {rk: 4498, frq: 6458}
+training <> N: {rk: 796, frq: 54304}
+trainload <> N: {rk: 40072, frq: 64}
+traipse <> V: {rk: 22000, frq: 343}
+trait <> N: {rk: 3765, frq: 8775}
+traitor <> N: {rk: 10194, frq: 1582}
+traitorous <> J: {rk: 32465, frq: 129}
+trajectory <> N: {rk: 7865, frq: 3216}
+tram <> N: {rk: 15446, frq: 740}
+tramp <> N: {rk: 16833, frq: 628}, V: {rk: 19796, frq: 456}
+trample <> V: {rk: 11591, frq: 1249}
+trampled <> J: {rk: 28723, frq: 180}
+trampling <> N: {rk: 46161, frq: 47}
+trampoline <> N: {rk: 21779, frq: 412}
+tramway <> N: {rk: 40597, frq: 75}
+trance <> N: {rk: 12803, frq: 1107}
+tranche <> N: {rk: 40608, frq: 78}
+tranquil <> J: {rk: 13460, frq: 958}
+tranquility <> N: {rk: 15592, frq: 742}
+tranquilize <> V: {rk: 34833, frq: 98}
+tranquilizer <> N: {rk: 18506, frq: 508}
+tranquilizing <> J: {rk: 52536, frq: 29}
+tranquillity <> N: {rk: 20785, frq: 397}
+tranquilly <> R: {rk: 47668, frq: 40}
+trans-fat <> J: {rk: 56349, frq: 34}
+transact <> V: {rk: 28316, frq: 187}
+transaction <> N: {rk: 3843, frq: 7930}
+transactional <> J: {rk: 24215, frq: 326}
+transatlantic <> J: {rk: 12945, frq: 1072}
+transaxle <> N: {rk: 48017, frq: 43}
+transboundary <> J: {rk: 25798, frq: 289}
+transceiver <> N: {rk: 25574, frq: 281}
+transcend <> V: {rk: 6757, frq: 3228}
+transcendence <> N: {rk: 14185, frq: 983}
+transcendent <> J: {rk: 11946, frq: 1244}
+transcendental <> J: {rk: 17320, frq: 620}
+transcendentalism <> N: {rk: 40804, frq: 74}
+transcendentalist <> N: {rk: 39887, frq: 84}
+transcendentally <> R: {rk: 53872, frq: 24}
+transcending <> J: {rk: 57061, frq: 20}
+transcontinental <> J: {rk: 22482, frq: 323}
+transcribe <> V: {rk: 9676, frq: 1807}
+transcribed <> J: {rk: 40953, frq: 77}
+transcriber <> N: {rk: 37507, frq: 145}
+transcript <> N: {rk: 6287, frq: 3306}
+transcriptase <> N: {rk: 42870, frq: 57}
+transcription <> N: {rk: 14690, frq: 1042}
+transcriptional <> J: {rk: 58863, frq: 43}
+transcultural <> J: {rk: 35216, frq: 117}
+transcutaneous <> J: {rk: 43758, frq: 55}
+transdermal <> J: {rk: 51376, frq: 33}
+transdisciplinary <> J: {rk: 44817, frq: 74}
+transducer <> N: {rk: 17433, frq: 683}
+transduction <> N: {rk: 45287, frq: 52}
+transect <> N: {rk: 32853, frq: 149}, V: {rk: 48137, frq: 37}
+transection <> N: {rk: 50844, frq: 39}
+transept <> N: {rk: 35344, frq: 117}
+transfemoral <> J: {rk: 57307, frq: 29}
+transfer <> V: {rk: 2329, frq: 16400}, N: {rk: 2849, frq: 12781}
+transferability <> N: {rk: 34297, frq: 128}
+transferable <> J: {rk: 22922, frq: 321}
+transferee <> N: {rk: 49312, frq: 49}
+transference <> N: {rk: 25089, frq: 276}
+transferral <> N: {rk: 58454, frq: 20}
+transferred <> J: {rk: 23765, frq: 288}
+transfiguration <> N: {rk: 30860, frq: 162}
+transfigure <> V: {rk: 31496, frq: 139}
+transfigured <> J: {rk: 48656, frq: 37}
+transfix <> V: {rk: 14308, frq: 887}
+transform <> V: {rk: 2199, frq: 17260}
+transformation <> N: {rk: 3311, frq: 10344}
+transformational <> J: {rk: 20878, frq: 616}
+transformative <> J: {rk: 15852, frq: 828}
+transformed <> J: {rk: 22710, frq: 333}
+transformer <> N: {rk: 18403, frq: 554}
+transfrontier <> J: {rk: 59605, frq: 21}
+transfuse <> V: {rk: 44765, frq: 53}
+transfused <> J: {rk: 54651, frq: 32}
+transfusion <> N: {rk: 13567, frq: 995}
+transgendered <> J: {rk: 39592, frq: 94}
+transgene <> N: {rk: 45018, frq: 114}
+transgenic <> J: {rk: 21951, frq: 382}
+transgress <> V: {rk: 22226, frq: 351}
+transgression <> N: {rk: 12871, frq: 1093}
+transgressive <> J: {rk: 27845, frq: 203}
+transgressor <> N: {rk: 33777, frq: 115}
+transhistorical <> J: {rk: 43829, frq: 55}
+transience <> N: {rk: 30149, frq: 201}
+transient <> J: {rk: 11006, frq: 1430}, N: {rk: 28060, frq: 186}
+transiently <> R: {rk: 54498, frq: 23}
+transistor <> N: {rk: 13454, frq: 1062}
+transit <> N: {rk: 4906, frq: 5549}, V: {rk: 24632, frq: 269}
+transition <> N: {rk: 2226, frq: 17588}
+transitional <> J: {rk: 8569, frq: 2236}
+transitive <> J: {rk: 43224, frq: 68}
+transitivity <> N: {rk: 59459, frq: 39}
+transitory <> J: {rk: 20016, frq: 425}
+translatable <> J: {rk: 42281, frq: 53}
+translate <> V: {rk: 2746, frq: 12720}
+translated <> J: {rk: 27106, frq: 249}
+translation <> N: {rk: 4328, frq: 6848}
+translational <> J: {rk: 39730, frq: 77}
+translator <> N: {rk: 6884, frq: 5462}
+transliteration <> N: {rk: 50215, frq: 35}
+translocate <> V: {rk: 58699, frq: 23}
+translocation <> N: {rk: 46984, frq: 47}
+translucence <> N: {rk: 43192, frq: 53}
+translucency <> N: {rk: 39226, frq: 74}
+translucent <> J: {rk: 10320, frq: 1642}
+transmigration <> N: {rk: 44578, frq: 54}
+transmissibility <> N: {rk: 53923, frq: 29}
+transmissible <> J: {rk: 36173, frq: 87}
+transmission <> N: {rk: 3692, frq: 8433}
+transmit <> V: {rk: 4883, frq: 5422}
+transmittable <> J: {rk: 49920, frq: 31}
+transmittal <> N: {rk: 46254, frq: 43}
+transmittance <> N: {rk: 58471, frq: 25}
+transmitted <> J: {rk: 12849, frq: 1057}
+transmitter <> N: {rk: 10517, frq: 1482}
+transmitting <> J: {rk: 44342, frq: 50}
+transmogrify <> V: {rk: 37769, frq: 79}
+transmutation <> N: {rk: 33222, frq: 123}
+transmute <> V: {rk: 23664, frq: 282}
+transnational <> J: {rk: 9959, frq: 1904}, N: {rk: 58140, frq: 39}
+transnationally <> R: {rk: 55690, frq: 24}
+transoceanic <> J: {rk: 40223, frq: 68}
+transom <> N: {rk: 18552, frq: 615}
+transparency <> N: {rk: 8689, frq: 2495}
+transparent <> J: {rk: 5960, frq: 4046}
+transparently <> R: {rk: 28921, frq: 175}
+transpersonal <> J: {rk: 27081, frq: 320}
+transpiration <> N: {rk: 41739, frq: 84}
+transpire <> V: {rk: 12734, frq: 1048}
+transplant <> N: {rk: 5446, frq: 4632}, V: {rk: 10680, frq: 1468}
+transplantation <> N: {rk: 16029, frq: 750}
+transplanted <> J: {rk: 23084, frq: 302}
+transplanting <> N: {rk: 54753, frq: 27}
+transponder <> N: {rk: 25502, frq: 250}
+transport <> V: {rk: 4684, frq: 5743}, N: {rk: 4874, frq: 5770}
+transportable <> J: {rk: 37344, frq: 87}
+transportation <> N: {rk: 2389, frq: 15648}
+transported <> J: {rk: 53921, frq: 35}
+transporter <> N: {rk: 22043, frq: 391}
+transposable <> J: {rk: 54735, frq: 50}
+transpose <> V: {rk: 20305, frq: 439}
+transposed <> J: {rk: 56521, frq: 33}
+transposition <> N: {rk: 27054, frq: 240}
+transposon <> N: {rk: 55040, frq: 32}
+transsexual <> J: {rk: 29400, frq: 177}, N: {rk: 32812, frq: 169}
+transshipment <> N: {rk: 38032, frq: 81}
+transubstantiation <> N: {rk: 40121, frq: 72}
+transvaluation <> N: {rk: 59543, frq: 24}
+transverse <> J: {rk: 22342, frq: 347}, N: {rk: 41513, frq: 59}
+transversely <> R: {rk: 50319, frq: 33}
+transvestism <> N: {rk: 45237, frq: 62}
+transvestite <> N: {rk: 26504, frq: 225}, J: {rk: 35328, frq: 91}
+trap <> V: {rk: 3564, frq: 8753}, N: {rk: 4061, frq: 7287}
+trapdoor <> N: {rk: 25665, frq: 267}
+trapeze <> N: {rk: 24015, frq: 302}
+trapezius <> N: {rk: 37396, frq: 99}
+trapezoid <> N: {rk: 41274, frq: 66}
+trapezoidal <> J: {rk: 37379, frq: 83}
+trapline <> N: {rk: 45228, frq: 46}
+trapped <> J: {rk: 16941, frq: 651}
+trapper <> N: {rk: 16509, frq: 868}
+trappings <> N: {rk: 11292, frq: 1311}
+trash <> N: {rk: 4448, frq: 6526}, V: {rk: 9238, frq: 1887}
+trashcan <> N: {rk: 34544, frq: 119}
+trashed <> J: {rk: 36075, frq: 90}
+trashing <> N: {rk: 41962, frq: 56}
+trashy <> J: {rk: 22732, frq: 320}
+trattoria <> N: {rk: 35042, frq: 174}
+trauma <> N: {rk: 4870, frq: 6808}
+traumatic <> J: {rk: 7421, frq: 3109}
+traumatize <> V: {rk: 15580, frq: 735}
+traumatized <> J: {rk: 26866, frq: 241}
+travail <> N: {rk: 18472, frq: 514}, V: {rk: 51408, frq: 28}
+travel <> V: {rk: 1082, frq: 38998}, N: {rk: 1928, frq: 20417}
+traveled <> J: {rk: 23628, frq: 286}
+traveler <> N: {rk: 3825, frq: 8583}
+traveling <> J: {rk: 9716, frq: 1707}, N: {rk: 22030, frq: 533}
+travelling <> N: {rk: 30905, frq: 145}
+travelogue <> N: {rk: 27562, frq: 200}
+traversal <> N: {rk: 52419, frq: 54}
+traverse <> V: {rk: 9865, frq: 1689}, N: {rk: 25410, frq: 460}
+travertine <> N: {rk: 48887, frq: 47}, J: {rk: 50272, frq: 40}
+travesty <> N: {rk: 18960, frq: 478}
+travois <> N: {rk: 52163, frq: 49}
+trawl <> N: {rk: 18545, frq: 718}, V: {rk: 23957, frq: 343}
+trawler <> N: {rk: 19045, frq: 555}
+trawling <> N: {rk: 45511, frq: 92}, J: {rk: 55567, frq: 28}
+tray <> N: {rk: 4510, frq: 6487}
+treacherous <> J: {rk: 11223, frq: 1362}
+treacherously <> R: {rk: 42366, frq: 56}
+treachery <> N: {rk: 18142, frq: 527}
+treacle <> N: {rk: 42926, frq: 52}
+tread <> V: {rk: 8415, frq: 2252}, N: {rk: 18374, frq: 524}
+treadle <> N: {rk: 42538, frq: 53}
+treadmill <> N: {rk: 9894, frq: 1787}
+treason <> N: {rk: 13339, frq: 968}
+treasonable <> J: {rk: 52399, frq: 26}
+treasonous <> J: {rk: 32950, frq: 118}
+treasure <> N: {rk: 4106, frq: 7487}, V: {rk: 13008, frq: 1011}
+treasured <> J: {rk: 17505, frq: 567}
+treasurer <> N: {rk: 11301, frq: 1412}
+treat <> V: {rk: 961, frq: 43392}, N: {rk: 5937, frq: 4225}
+treatable <> J: {rk: 20180, frq: 433}
+treated <> J: {rk: 16467, frq: 671}
+treater <> N: {rk: 47325, frq: 38}
+treatise <> N: {rk: 11816, frq: 1299}
+treatment <> N: {rk: 745, frq: 58332}
+treaty <> N: {rk: 2853, frq: 12483}
+treble <> J: {rk: 27493, frq: 206}, N: {rk: 30197, frq: 153}, V: {rk: 40473, frq: 66}
+trebuchet <> N: {rk: 49962, frq: 63}
+trecento <> N: {rk: 52483, frq: 36}
+tree <> N: {rk: 596, frq: 72456}
+tree-hugger <> N: {rk: 47221, frq: 39}
+tree-lined <> J: {rk: 18675, frq: 496}
+treehouse <> N: {rk: 27146, frq: 282}
+treeless <> J: {rk: 23742, frq: 288}
+treelike <> J: {rk: 44370, frq: 50}
+treeline <> N: {rk: 27618, frq: 209}
+treetop <> N: {rk: 15937, frq: 755}
+trefoil <> N: {rk: 51192, frq: 51}
+trek <> N: {rk: 9292, frq: 3638}, V: {rk: 12622, frq: 1138}
+trekker <> N: {rk: 29728, frq: 184}
+trekking <> J: {rk: 39947, frq: 74}, N: {rk: 48029, frq: 52}
+trellis <> N: {rk: 17604, frq: 1186}
+trellised <> J: {rk: 52864, frq: 30}
+tremble <> V: {rk: 5291, frq: 5396}
+trembling <> J: {rk: 16706, frq: 696}, N: {rk: 35420, frq: 98}
+tremendous <> J: {rk: 2785, frq: 12343}
+tremendously <> R: {rk: 9034, frq: 1962}
+tremolite <> N: {rk: 59843, frq: 20}
+tremolo <> N: {rk: 37965, frq: 76}
+tremor <> N: {rk: 11947, frq: 1247}
+tremulous <> J: {rk: 26490, frq: 230}
+tremulously <> R: {rk: 48801, frq: 35}
+trench <> N: {rk: 6550, frq: 3639}, V: {rk: 47804, frq: 39}
+trenchant <> J: {rk: 30989, frq: 149}
+trenchantly <> R: {rk: 54935, frq: 24}
+trencher <> N: {rk: 47626, frq: 84}
+trend <> N: {rk: 1705, frq: 23855}, V: {rk: 30615, frq: 173}
+trendiness <> N: {rk: 43651, frq: 47}
+trendsetter <> N: {rk: 28543, frq: 183}
+trendy <> J: {rk: 9628, frq: 1806}
+trepidation <> N: {rk: 16253, frq: 649}
+trespass <> V: {rk: 16654, frq: 643}, N: {rk: 22954, frq: 320}
+trespasser <> N: {rk: 26954, frq: 220}
+trespassing <> J: {rk: 38528, frq: 79}
+tress <> N: {rk: 20708, frq: 429}
+trestle <> N: {rk: 23515, frq: 319}
+triad <> N: {rk: 14428, frq: 926}
+triadic <> J: {rk: 37708, frq: 88}
+triage <> N: {rk: 21755, frq: 399}
+trial <> N: {rk: 899, frq: 47705}, V: {rk: 47075, frq: 46}
+triangle <> N: {rk: 5672, frq: 4370}
+triangular <> J: {rk: 12619, frq: 1085}
+triangulate <> V: {rk: 30561, frq: 163}
+triangulated <> J: {rk: 53697, frq: 48}
+triangulation <> N: {rk: 23030, frq: 367}
+triathlon <> N: {rk: 19041, frq: 548}
+tribal <> J: {rk: 4074, frq: 7655}
+tribalism <> N: {rk: 27970, frq: 209}
+tribe <> N: {rk: 2966, frq: 11703}
+tribesman <> N: {rk: 18900, frq: 520}
+tribology <> N: {rk: 46958, frq: 54}
+tribulation <> N: {rk: 17922, frq: 529}
+tribunal <> N: {rk: 7273, frq: 2950}
+tributary <> N: {rk: 11731, frq: 1216}
+tribute <> N: {rk: 5001, frq: 5356}
+triceps <> N: {rk: 21054, frq: 471}
+triceratops <> N: {rk: 38390, frq: 146}
+trichloroethylene <> N: {rk: 45278, frq: 54}
+trichotillomania <> N: {rk: 59147, frq: 38}
+trick <> N: {rk: 3087, frq: 11045}, V: {rk: 8189, frq: 2391}
+trick-or-treat <> J: {rk: 49844, frq: 39}
+trick-or-treater <> N: {rk: 42799, frq: 60}
+trickery <> N: {rk: 22585, frq: 324}
+trickle <> V: {rk: 9043, frq: 2025}, N: {rk: 11725, frq: 1265}
+trickle-down <> J: {rk: 26467, frq: 229}, N: {rk: 38338, frq: 74}
+trickling <> J: {rk: 39432, frq: 68}
+trickster <> N: {rk: 18595, frq: 597}
+tricky <> J: {rk: 6480, frq: 3556}
+tricolor <> N: {rk: 29394, frq: 188}
+tricorder <> N: {rk: 37233, frq: 124}
+tricuspid <> J: {rk: 59670, frq: 23}
+tricycle <> N: {rk: 22789, frq: 338}
+tricyclic <> J: {rk: 47746, frq: 43}
+tried <> J: {rk: 17596, frq: 555}
+triennial <> J: {rk: 35491, frq: 110}
+trier <> N: {rk: 23500, frq: 447}
+trifecta <> N: {rk: 36045, frq: 123}
+trifle <> N: {rk: 17154, frq: 635}, V: {rk: 36795, frq: 85}
+trifling <> J: {rk: 27096, frq: 212}
+trig <> N: {rk: 43198, frq: 107}
+trigeminal <> J: {rk: 45915, frq: 66}
+trigger <> V: {rk: 3693, frq: 8364}, N: {rk: 5290, frq: 5120}
+trigger-happy <> J: {rk: 37521, frq: 76}
+triggered <> J: {rk: 56624, frq: 22}
+triggerman <> N: {rk: 43053, frq: 55}
+triglyceride <> N: {rk: 22689, frq: 356}
+trigonometry <> N: {rk: 32983, frq: 117}
+trike <> N: {rk: 50860, frq: 34}
+trilateral <> J: {rk: 30345, frq: 160}
+trilby <> N: {rk: 49696, frq: 106}
+trilingual <> J: {rk: 46661, frq: 38}
+trill <> V: {rk: 25205, frq: 258}, N: {rk: 26902, frq: 229}
+trilling <> J: {rk: 51943, frq: 29}
+trillion <> M: {rk: 5221, frq: 5121}
+trillionth <> N: {rk: 41543, frq: 62}
+trillium <> N: {rk: 37797, frq: 115}
+trilobite <> N: {rk: 32468, frq: 189}
+trilogy <> N: {rk: 13455, frq: 1094}
+trim <> V: {rk: 4968, frq: 5633}, N: {rk: 8618, frq: 2256}, J: {rk: 10612, frq: 1569}
+trimaran <> N: {rk: 56724, frq: 23}
+trimester <> N: {rk: 18775, frq: 556}
+trimmed <> J: {rk: 32293, frq: 138}
+trimmer <> N: {rk: 25188, frq: 284}
+trimming <> N: {rk: 12323, frq: 1403}
+trinket <> N: {rk: 18619, frq: 507}
+trio <> N: {rk: 6584, frq: 3542}
+trip <> N: {rk: 963, frq: 44342}, V: {rk: 5356, frq: 4796}
+tripartite <> J: {rk: 22931, frq: 336}
+tripe <> N: {rk: 31398, frq: 147}
+triphosphate <> N: {rk: 49083, frq: 37}
+triple <> V: {rk: 7172, frq: 2945}, J: {rk: 7339, frq: 2792}, N: {rk: 13731, frq: 995}
+tripled <> J: {rk: 51544, frq: 30}
+triplet <> N: {rk: 16483, frq: 834}
+triplex <> N: {rk: 43289, frq: 57}
+triplicate <> N: {rk: 34491, frq: 115}
+tripling <> N: {rk: 30872, frq: 145}
+triploid <> J: {rk: 56217, frq: 27}
+triply <> R: {rk: 51010, frq: 45}
+tripod <> N: {rk: 12000, frq: 1313}
+tripper <> N: {rk: 42397, frq: 81}
+trippy <> J: {rk: 36218, frq: 100}
+triptych <> N: {rk: 24762, frq: 321}
+tripwire <> N: {rk: 41767, frq: 69}
+trismus <> N: {rk: 58930, frq: 24}
+trite <> J: {rk: 22157, frq: 322}
+tritium <> N: {rk: 32383, frq: 142}
+triumph <> N: {rk: 4682, frq: 5724}, V: {rk: 11800, frq: 1200}
+triumphal <> J: {rk: 26347, frq: 223}
+triumphalism <> N: {rk: 33151, frq: 118}
+triumphalist <> J: {rk: 39176, frq: 72}
+triumphant <> J: {rk: 10322, frq: 1558}
+triumphantly <> R: {rk: 16343, frq: 664}
+triumvirate <> N: {rk: 30324, frq: 156}
+triune <> J: {rk: 31953, frq: 171}
+trivet <> N: {rk: 47536, frq: 46}
+trivia <> N: {rk: 13954, frq: 920}
+trivial <> J: {rk: 8331, frq: 2237}
+triviality <> N: {rk: 30246, frq: 151}
+trivialization <> N: {rk: 36428, frq: 86}
+trivialize <> V: {rk: 18019, frq: 519}
+trivially <> R: {rk: 53801, frq: 30}
+trochanter <> N: {rk: 53928, frq: 31}
+trodden <> J: {rk: 56963, frq: 24}
+troglodyte <> N: {rk: 38140, frq: 82}
+troika <> N: {rk: 32333, frq: 123}
+troll <> N: {rk: 11577, frq: 1421}, V: {rk: 16757, frq: 656}
+troller <> N: {rk: 42077, frq: 61}
+trolley <> N: {rk: 12485, frq: 1165}
+trolling <> J: {rk: 33463, frq: 121}
+trollop <> N: {rk: 50421, frq: 36}
+trombone <> N: {rk: 21553, frq: 370}
+trombonist <> N: {rk: 34791, frq: 101}
+trommel <> N: {rk: 41978, frq: 72}
+tromp <> V: {rk: 41949, frq: 57}
+troop <> N: {rk: 1138, frq: 38823}, V: {rk: 24719, frq: 259}
+trooper <> N: {rk: 8371, frq: 2363}
+troopship <> N: {rk: 50066, frq: 35}
+trope <> N: {rk: 15783, frq: 835}
+trophic <> J: {rk: 26581, frq: 320}
+trophoblast <> N: {rk: 59772, frq: 46}
+trophy <> N: {rk: 5508, frq: 4783}
+tropic <> J: {rk: 28717, frq: 199}
+tropical <> J: {rk: 4215, frq: 6970}, N: {rk: 49091, frq: 37}
+tropics <> N: {rk: 13708, frq: 949}
+tropological <> J: {rk: 55514, frq: 46}
+troposphere <> N: {rk: 38788, frq: 84}
+tropospheric <> J: {rk: 53790, frq: 29}
+trot <> V: {rk: 8502, frq: 2305}, N: {rk: 18575, frq: 538}
+troth <> N: {rk: 35073, frq: 100}
+trotline <> N: {rk: 49432, frq: 73}
+trotting <> J: {rk: 50990, frq: 28}
+troubadour <> N: {rk: 28275, frq: 193}
+trouble <> N: {rk: 982, frq: 42838}, V: {rk: 4750, frq: 5536}
+troubled <> J: {rk: 4930, frq: 5412}
+troublemaker <> N: {rk: 16410, frq: 682}
+troubleshoot <> V: {rk: 25584, frq: 256}
+troubleshooter <> N: {rk: 32054, frq: 132}
+troubleshooting <> J: {rk: 42067, frq: 62}
+troublesome <> J: {rk: 10062, frq: 1597}
+troubling <> J: {rk: 7693, frq: 2580}
+troublingly <> R: {rk: 55733, frq: 22}
+trough <> N: {rk: 11288, frq: 1317}
+trounce <> V: {rk: 23549, frq: 292}
+trouncing <> N: {rk: 58046, frq: 19}
+troupe <> N: {rk: 11851, frq: 1359}
+trouper <> N: {rk: 38920, frq: 73}
+trousers <> N: {rk: 7236, frq: 3104}
+trousseau <> N: {rk: 36592, frq: 103}
+trout <> N: {rk: 5098, frq: 5487}
+trove <> N: {rk: 17227, frq: 622}
+trowel <> N: {rk: 20683, frq: 398}
+truancy <> N: {rk: 25539, frq: 251}
+truant <> J: {rk: 29989, frq: 168}, N: {rk: 47732, frq: 39}
+truce <> N: {rk: 11355, frq: 1309}
+truck <> N: {rk: 1241, frq: 33668}, V: {rk: 14697, frq: 823}
+trucker <> N: {rk: 13254, frq: 1085}
+trucking <> J: {rk: 19548, frq: 470}
+truckload <> N: {rk: 17381, frq: 580}
+truculence <> N: {rk: 57633, frq: 22}
+truculent <> J: {rk: 39221, frq: 74}
+trudge <> V: {rk: 10972, frq: 1505}, N: {rk: 42520, frq: 59}
+true <> J: {rk: 492, frq: 86055}, R: {rk: 29613, frq: 175}, V: {rk: 35132, frq: 103}
+true-blue <> J: {rk: 40189, frq: 64}
+true-life <> J: {rk: 41931, frq: 67}
+truffle <> N: {rk: 15643, frq: 830}
+truffled <> J: {rk: 49358, frq: 50}
+truism <> N: {rk: 20972, frq: 371}
+truly <> R: {rk: 1727, frq: 22424}
+trump <> V: {rk: 13003, frq: 1358}
+trumped-up <> J: {rk: 35232, frq: 96}
+trumpet <> N: {rk: 9120, frq: 1932}, V: {rk: 13484, frq: 962}
+trumpeted <> J: {rk: 54626, frq: 21}
+trumpeter <> N: {rk: 20795, frq: 415}
+trumpeting <> N: {rk: 45883, frq: 45}
+truncate <> V: {rk: 27158, frq: 200}
+truncated <> J: {rk: 22904, frq: 327}
+truncation <> N: {rk: 44313, frq: 51}
+truncheon <> N: {rk: 34790, frq: 106}
+trundle <> V: {rk: 22071, frq: 346}, N: {rk: 44820, frq: 60}
+trunk <> N: {rk: 3559, frq: 8990}
+trunkful <> N: {rk: 55455, frq: 26}
+trunnion <> N: {rk: 58830, frq: 20}
+truss <> N: {rk: 21121, frq: 419}, V: {rk: 29006, frq: 179}
+trust <> V: {rk: 1851, frq: 21363}, N: {rk: 2246, frq: 16494}
+trusted <> J: {rk: 10631, frq: 1501}
+trustee <> N: {rk: 6200, frq: 4133}
+trusteeship <> N: {rk: 31214, frq: 152}
+trustful <> J: {rk: 46018, frq: 45}
+trusting <> J: {rk: 15241, frq: 751}
+trustingly <> R: {rk: 52310, frq: 29}
+trustworthiness <> N: {rk: 22435, frq: 388}
+trustworthy <> J: {rk: 13496, frq: 955}
+trusty <> J: {rk: 20153, frq: 453}
+truth <> N: {rk: 851, frq: 48995}
+truthful <> J: {rk: 11582, frq: 1252}
+truthfully <> R: {rk: 14929, frq: 799}
+truthfulness <> N: {rk: 21342, frq: 384}
+truthiness <> N: {rk: 59673, frq: 23}
+try <> V: {rk: 127, frq: 319415}, N: {rk: 5591, frq: 4399}
+trying <> J: {rk: 17052, frq: 605}
+tryout <> N: {rk: 16885, frq: 665}
+trypsin <> N: {rk: 56767, frq: 25}
+tryptophan <> N: {rk: 35155, frq: 108}
+tryst <> N: {rk: 23308, frq: 299}
+tsar <> N: {rk: 26053, frq: 271}
+tsarist <> J: {rk: 42031, frq: 67}
+tsetse <> N: {rk: 51195, frq: 62}
+tsunami <> N: {rk: 11213, frq: 2323}
+tub <> N: {rk: 5478, frq: 4779}
+tuba <> N: {rk: 21728, frq: 365}
+tubal <> J: {rk: 30102, frq: 157}
+tubby <> J: {rk: 35241, frq: 103}
+tube <> N: {rk: 2536, frq: 14434}
+tubeless <> J: {rk: 40244, frq: 107}
+tuber <> N: {rk: 18768, frq: 532}
+tubercle <> N: {rk: 45217, frq: 53}
+tubercular <> J: {rk: 39362, frq: 72}
+tuberculin <> N: {rk: 55091, frq: 40}
+tuberculosis <> N: {rk: 9274, frq: 2066}
+tuberculous <> J: {rk: 42382, frq: 87}
+tuberose <> N: {rk: 47897, frq: 48}
+tuberosity <> N: {rk: 51201, frq: 45}
+tuberous <> J: {rk: 44219, frq: 50}
+tubing <> N: {rk: 12530, frq: 1157}
+tubular <> J: {rk: 17792, frq: 554}
+tubule <> N: {rk: 45355, frq: 59}
+tuck <> V: {rk: 4147, frq: 8095}
+tucked <> J: {rk: 57404, frq: 23}
+tufa <> N: {rk: 51773, frq: 41}
+tufted <> J: {rk: 28918, frq: 194}
+tug <> V: {rk: 6293, frq: 4002}, N: {rk: 9492, frq: 1945}
+tug-of-war <> N: {rk: 23097, frq: 306}
+tugboat <> N: {rk: 25443, frq: 277}
+tugging <> N: {rk: 45115, frq: 53}
+tuition <> N: {rk: 5891, frq: 4292}
+tularemia <> N: {rk: 56939, frq: 39}
+tulip <> N: {rk: 12618, frq: 1446}
+tulle <> N: {rk: 26978, frq: 268}
+tum <> N: {rk: 28067, frq: 201}
+tumble <> V: {rk: 5535, frq: 4655}, N: {rk: 16548, frq: 655}
+tumbled <> J: {rk: 33305, frq: 117}
+tumbler <> N: {rk: 17902, frq: 601}
+tumbleweed <> N: {rk: 28373, frq: 223}
+tumbling <> J: {rk: 18944, frq: 484}
+tumescence <> N: {rk: 50329, frq: 47}
+tumescent <> J: {rk: 54847, frq: 24}
+tummy <> N: {rk: 14443, frq: 882}
+tumor <> N: {rk: 4195, frq: 7591}
+tumult <> N: {rk: 18759, frq: 497}
+tumultuous <> J: {rk: 12964, frq: 1017}
+tun <> N: {rk: 51602, frq: 52}
+tuna <> N: {rk: 6072, frq: 4000}
+tunable <> J: {rk: 42878, frq: 53}
+tundra <> N: {rk: 12865, frq: 1066}
+tune <> V: {rk: 3673, frq: 8546}, N: {rk: 3933, frq: 7419}
+tune-up <> N: {rk: 21824, frq: 369}
+tuned <> J: {rk: 42749, frq: 56}
+tuneful <> J: {rk: 37800, frq: 83}
+tuneless <> J: {rk: 40559, frq: 66}
+tunelessly <> R: {rk: 49861, frq: 35}
+tuner <> N: {rk: 21512, frq: 402}
+tunesmith <> N: {rk: 49406, frq: 35}
+tungsten <> N: {rk: 25591, frq: 275}
+tunic <> N: {rk: 12297, frq: 1311}
+tuning <> N: {rk: 18899, frq: 484}
+tunnel <> N: {rk: 3377, frq: 9630}, V: {rk: 18122, frq: 541}
+tunneling <> J: {rk: 34850, frq: 109}, N: {rk: 41336, frq: 98}
+tuppence <> N: {rk: 59400, frq: 23}
+turban <> N: {rk: 15209, frq: 768}
+turbaned <> J: {rk: 40829, frq: 63}
+turbid <> J: {rk: 32007, frq: 132}
+turbidity <> N: {rk: 29849, frq: 197}
+turbinate <> N: {rk: 29496, frq: 249}, J: {rk: 46649, frq: 68}
+turbine <> N: {rk: 7397, frq: 3219}
+turbocharged <> J: {rk: 28973, frq: 181}
+turbocharger <> N: {rk: 37181, frq: 88}
+turbofan <> N: {rk: 48293, frq: 58}, J: {rk: 56738, frq: 39}
+turbojet <> N: {rk: 54892, frq: 47}
+turboprop <> N: {rk: 33280, frq: 144}
+turbot <> N: {rk: 42896, frq: 54}
+turbulence <> N: {rk: 10760, frq: 1408}
+turbulent <> J: {rk: 10027, frq: 1582}
+turd <> N: {rk: 25300, frq: 271}
+tureen <> N: {rk: 27847, frq: 208}
+turf <> N: {rk: 6705, frq: 3215}, V: {rk: 42142, frq: 57}
+turgid <> J: {rk: 31906, frq: 131}
+turmoil <> N: {rk: 6595, frq: 3329}
+turn <> V: {rk: 170, frq: 239636}, N: {rk: 1174, frq: 35272}
+turn-on <> N: {rk: 27462, frq: 235}
+turnabout <> N: {rk: 27258, frq: 204}
+turnaround <> N: {rk: 8452, frq: 2361}
+turnbuckle <> N: {rk: 50332, frq: 32}
+turncoat <> N: {rk: 30375, frq: 161}
+turndown <> N: {rk: 44523, frq: 48}
+turned <> J: {rk: 27471, frq: 208}
+turning <> N: {rk: 6298, frq: 3552}, J: {rk: 12145, frq: 1163}
+turnip <> N: {rk: 15831, frq: 804}
+turnkey <> N: {rk: 33681, frq: 108}
+turnoff <> N: {rk: 21982, frq: 358}
+turnout <> N: {rk: 8157, frq: 2472}
+turnover <> N: {rk: 6207, frq: 4164}
+turnstile <> N: {rk: 22059, frq: 350}
+turntable <> N: {rk: 19062, frq: 491}
+turpentine <> N: {rk: 19460, frq: 480}
+turpitude <> N: {rk: 44891, frq: 47}
+turquoise <> J: {rk: 14512, frq: 882}, N: {rk: 18499, frq: 566}
+turret <> N: {rk: 14796, frq: 872}
+turreted <> J: {rk: 39559, frq: 66}
+turtle <> N: {rk: 6583, frq: 5091}
+turtledove <> N: {rk: 56182, frq: 39}
+turtleneck <> N: {rk: 17338, frq: 628}
+tush <> N: {rk: 34692, frq: 169}
+tusk <> N: {rk: 17734, frq: 698}, V: {rk: 40389, frq: 73}
+tussle <> N: {rk: 24501, frq: 263}, V: {rk: 31447, frq: 138}
+tussock <> N: {rk: 39375, frq: 70}
+tut <> V: {rk: 54858, frq: 30}
+tutee <> N: {rk: 44289, frq: 89}
+tutelage <> N: {rk: 19211, frq: 474}
+tutelary <> J: {rk: 39553, frq: 94}
+tutor <> N: {rk: 9285, frq: 1916}, V: {rk: 15693, frq: 685}
+tutorial <> N: {rk: 16637, frq: 674}
+tutoring <> J: {rk: 11020, frq: 1459}
+tutti <> N: {rk: 41180, frq: 87}
+tutu <> N: {rk: 24330, frq: 537}
+tux <> N: {rk: 20341, frq: 926}
+tuxedo <> N: {rk: 12399, frq: 1230}
+tuxedoed <> J: {rk: 41539, frq: 55}
+twaddle <> N: {rk: 50291, frq: 37}
+twang <> N: {rk: 21647, frq: 366}, V: {rk: 34685, frq: 101}
+twangy <> J: {rk: 40546, frq: 65}
+twat <> N: {rk: 55906, frq: 24}
+tweak <> V: {rk: 11128, frq: 1481}, N: {rk: 22117, frq: 402}
+tweaking <> N: {rk: 38613, frq: 85}
+twee <> J: {rk: 47519, frq: 85}
+tweed <> N: {rk: 14259, frq: 1173}
+tweedy <> J: {rk: 34607, frq: 104}
+tween <> J: {rk: 30067, frq: 181}
+tweeter <> N: {rk: 44789, frq: 71}
+tweeze <> V: {rk: 41075, frq: 69}
+tweezers <> N: {rk: 21806, frq: 369}
+twelfth <> M: {rk: 12975, frq: 1063}
+twelve <> M: {rk: 3239, frq: 10475}
+twentieth <> M: {rk: 4937, frq: 5679}
+twenty <> M: {rk: 2098, frq: 18972}
+twenty-eight <> M: {rk: 12483, frq: 1174}
+twenty-first <> M: {rk: 9902, frq: 1763}
+twenty-one <> M: {rk: 9565, frq: 1809}
+twenty-two <> M: {rk: 9446, frq: 1840}
+twentysomething <> N: {rk: 27290, frq: 212}, J: {rk: 35384, frq: 97}
+twerp <> N: {rk: 37767, frq: 78}
+twice <> R: {rk: 1414, frq: 28451}
+twiddle <> V: {rk: 30415, frq: 159}
+twig <> N: {rk: 9733, frq: 1822}
+twiggy <> J: {rk: 43339, frq: 51}
+twilight <> N: {rk: 6999, frq: 3228}
+twilit <> J: {rk: 41945, frq: 56}
+twill <> N: {rk: 29160, frq: 172}
+twin <> N: {rk: 2391, frq: 15713}, J: {rk: 15496, frq: 753}, V: {rk: 22944, frq: 332}
+twin-screw <> J: {rk: 59770, frq: 23}
+twine <> N: {rk: 15813, frq: 760}, V: {rk: 26323, frq: 241}
+twinge <> N: {rk: 16703, frq: 685}, V: {rk: 50583, frq: 36}
+twining <> J: {rk: 42642, frq: 54}
+twinkie <> N: {rk: 41301, frq: 117}
+twinkle <> V: {rk: 13169, frq: 1071}, N: {rk: 17286, frq: 588}
+twinkling <> J: {rk: 29599, frq: 165}, N: {rk: 42885, frq: 50}
+twinkly <> J: {rk: 41442, frq: 61}
+twinned <> J: {rk: 51242, frq: 34}
+twirl <> V: {rk: 11053, frq: 1472}, N: {rk: 30204, frq: 169}
+twirler <> N: {rk: 48999, frq: 40}
+twirling <> J: {rk: 42398, frq: 59}
+twist <> V: {rk: 3788, frq: 8555}, N: {rk: 4868, frq: 6053}
+twisted <> J: {rk: 8159, frq: 2410}
+twister <> N: {rk: 21796, frq: 589}
+twisting <> J: {rk: 13188, frq: 1022}
+twisty <> J: {rk: 30856, frq: 181}
+twit <> N: {rk: 32055, frq: 136}
+twitch <> V: {rk: 9480, frq: 2019}, N: {rk: 16240, frq: 726}
+twitching <> J: {rk: 34444, frq: 106}, N: {rk: 36232, frq: 103}
+twitchy <> J: {rk: 32878, frq: 127}
+twitter <> V: {rk: 32356, frq: 208}
+twittering <> N: {rk: 45781, frq: 43}
+two <> M: {rk: 80, frq: 552785}
+two-bit <> J: {rk: 34082, frq: 107}
+two-by-four <> M: {rk: 23401, frq: 296}
+two-cycle <> J: {rk: 52115, frq: 33}
+two-dimensional <> J: {rk: 13638, frq: 977}
+two-edged <> J: {rk: 34684, frq: 101}
+two-faced <> J: {rk: 35549, frq: 94}
+two-fisted <> J: {rk: 41719, frq: 57}
+two-handed <> J: {rk: 32473, frq: 151}, R: {rk: 52956, frq: 29}
+two-horse <> J: {rk: 54904, frq: 27}
+two-man <> J: {rk: 21987, frq: 346}, N: {rk: 50636, frq: 46}
+two-phase <> J: {rk: 37330, frq: 85}
+two-piece <> J: {rk: 27648, frq: 203}, N: {rk: 39599, frq: 72}
+two-seater <> N: {rk: 30689, frq: 151}, J: {rk: 41113, frq: 62}
+two-sided <> J: {rk: 29332, frq: 166}
+two-state <> J: {rk: 29380, frq: 230}
+two-step <> J: {rk: 26235, frq: 232}, N: {rk: 30004, frq: 169}
+two-stroke <> J: {rk: 28688, frq: 185}, N: {rk: 37307, frq: 95}
+two-tailed <> J: {rk: 29674, frq: 180}
+two-time <> J: {rk: 12421, frq: 1237}
+two-tone <> J: {rk: 30673, frq: 150}
+two-toned <> J: {rk: 40110, frq: 62}
+two-way <> J: {rk: 9750, frq: 1738}
+two-wheeler <> N: {rk: 42989, frq: 58}
+twofer <> N: {rk: 43073, frq: 59}
+twofold <> R: {rk: 18406, frq: 523}
+twoness <> N: {rk: 56156, frq: 28}
+twosome <> N: {rk: 28319, frq: 196}
+tycoon <> N: {rk: 15323, frq: 742}
+tying <> N: {rk: 21902, frq: 360}
+tyke <> N: {rk: 29437, frq: 184}
+tympani <> N: {rk: 45692, frq: 55}
+tympanic <> J: {rk: 23513, frq: 361}
+tympanoplasty <> N: {rk: 42955, frq: 79}
+tympanum <> N: {rk: 45394, frq: 57}
+type <> N: {rk: 590, frq: 73550}, V: {rk: 6621, frq: 3338}
+typecast <> V: {rk: 29643, frq: 161}
+typecasting <> N: {rk: 57702, frq: 22}
+typed <> J: {rk: 23347, frq: 302}
+typeface <> N: {rk: 27804, frq: 218}
+typescript <> N: {rk: 33500, frq: 135}
+typesetter <> N: {rk: 44344, frq: 49}
+typesetting <> N: {rk: 43362, frq: 53}
+typewriter <> N: {rk: 10096, frq: 1609}
+typewritten <> J: {rk: 30768, frq: 143}
+typhoid <> J: {rk: 31037, frq: 145}, N: {rk: 32315, frq: 158}
+typhoon <> N: {rk: 23349, frq: 397}
+typhus <> N: {rk: 33187, frq: 130}
+typical <> J: {rk: 1845, frq: 21020}
+typicality <> N: {rk: 56399, frq: 26}
+typically <> R: {rk: 2024, frq: 19866}
+typify <> V: {rk: 14344, frq: 853}
+typing <> N: {rk: 14201, frq: 855}
+typist <> N: {rk: 24523, frq: 263}
+typo <> N: {rk: 27794, frq: 218}
+typographer <> N: {rk: 54382, frq: 29}
+typographic <> J: {rk: 55560, frq: 26}
+typographical <> J: {rk: 32993, frq: 116}
+typography <> N: {rk: 35474, frq: 105}
+typological <> J: {rk: 32863, frq: 132}
+typology <> N: {rk: 17326, frq: 713}
+tyrannical <> J: {rk: 20570, frq: 407}
+tyrannize <> V: {rk: 44262, frq: 47}
+tyrannosaur <> N: {rk: 36246, frq: 147}
+tyrannosaurus <> N: {rk: 32720, frq: 237}
+tyrannous <> J: {rk: 57224, frq: 22}
+tyranny <> N: {rk: 9546, frq: 1797}
+tyrant <> N: {rk: 11940, frq: 1188}
+tyro <> N: {rk: 47566, frq: 43}
+tyrosinase <> N: {rk: 59939, frq: 27}
+tyrosine <> N: {rk: 46026, frq: 52}

@@ -1,0 +1,1650 @@
+ha <> U: {rk: 4843, frq: 5811}
+ha-ha <> U: {rk: 28550, frq: 202}
+haberdasher <> N: {rk: 42295, frq: 62}
+haberdashery <> N: {rk: 40400, frq: 70}
+habit <> N: {rk: 2322, frq: 15740}
+habit-forming <> J: {rk: 45315, frq: 45}
+habitability <> N: {rk: 40844, frq: 75}
+habitable <> J: {rk: 19466, frq: 553}
+habitat <> N: {rk: 3242, frq: 10597}
+habitation <> N: {rk: 18762, frq: 515}
+habitual <> J: {rk: 13906, frq: 908}
+habitually <> R: {rk: 18578, frq: 508}
+habituate <> V: {rk: 30893, frq: 149}
+habituated <> J: {rk: 52996, frq: 30}
+habituation <> N: {rk: 32388, frq: 146}
+habitue <> N: {rk: 41394, frq: 63}
+habitus <> N: {rk: 36373, frq: 109}
+hacendado <> N: {rk: 49147, frq: 44}
+hacienda <> N: {rk: 20102, frq: 629}
+hack <> V: {rk: 8379, frq: 2343}, N: {rk: 12373, frq: 1328}
+hackberry <> N: {rk: 43199, frq: 73}
+hacker <> N: {rk: 10520, frq: 1824}
+hacking <> N: {rk: 26721, frq: 229}
+hackle <> N: {rk: 24094, frq: 278}
+hackneyed <> J: {rk: 28794, frq: 178}
+hacksaw <> N: {rk: 32198, frq: 130}
+haddock <> N: {rk: 26676, frq: 229}
+hadron <> N: {rk: 32156, frq: 205}
+hadronic <> J: {rk: 56482, frq: 24}
+hadrosaur <> N: {rk: 49245, frq: 47}
+haematological <> J: {rk: 52111, frq: 39}
+haemodialysis <> N: {rk: 50069, frq: 51}
+haemoglobin <> N: {rk: 35306, frq: 206}
+haemolytic <> J: {rk: 59757, frq: 20}
+haemorrhage <> N: {rk: 34930, frq: 133}
+haemorrhagic <> J: {rk: 46174, frq: 60}
+hafnium <> N: {rk: 57980, frq: 26}
+haft <> N: {rk: 35120, frq: 155}
+hag <> N: {rk: 23218, frq: 370}
+haggard <> J: {rk: 20976, frq: 410}
+haggis <> N: {rk: 34816, frq: 110}
+haggle <> V: {rk: 17537, frq: 583}, N: {rk: 53702, frq: 27}
+haggling <> N: {rk: 35273, frq: 99}
+hagiographer <> N: {rk: 52466, frq: 55}
+hagiographic <> J: {rk: 49294, frq: 37}
+hagiography <> N: {rk: 33716, frq: 114}
+hah <> U: {rk: 17863, frq: 592}
+haiku <> N: {rk: 27224, frq: 250}
+hail <> V: {rk: 6187, frq: 3768}, N: {rk: 14540, frq: 1214}
+hailstone <> N: {rk: 38821, frq: 77}
+hailstorm <> N: {rk: 30904, frq: 170}
+hair <> N: {rk: 602, frq: 76257}
+hair-raising <> J: {rk: 27900, frq: 187}
+hairball <> N: {rk: 41095, frq: 73}
+hairbreadth <> N: {rk: 57653, frq: 22}
+hairbrush <> N: {rk: 28580, frq: 205}
+haircut <> N: {rk: 8633, frq: 2180}
+hairdo <> N: {rk: 17389, frq: 570}
+hairdresser <> N: {rk: 15387, frq: 741}
+hairdressing <> N: {rk: 43389, frq: 53}
+hairdryer <> N: {rk: 53802, frq: 26}
+hairiness <> N: {rk: 55640, frq: 23}
+hairless <> J: {rk: 21025, frq: 410}
+hairlessness <> N: {rk: 57765, frq: 22}
+hairlike <> J: {rk: 41197, frq: 61}
+hairline <> N: {rk: 16324, frq: 698}
+hairnet <> N: {rk: 35986, frq: 94}
+hairpiece <> N: {rk: 33398, frq: 129}
+hairpin <> N: {rk: 21861, frq: 370}
+hairstreak <> N: {rk: 56471, frq: 26}
+hairstyle <> N: {rk: 15286, frq: 754}
+hairstylist <> N: {rk: 26967, frq: 279}
+hairy <> J: {rk: 9926, frq: 1728}
+hake <> N: {rk: 30024, frq: 187}
+halal <> J: {rk: 44794, frq: 60}
+halberd <> N: {rk: 53299, frq: 30}
+halcyon <> N: {rk: 30908, frq: 200}
+half <> D: {rk: 547, frq: 76968}, N: {rk: 1632, frq: 23880}, R: {rk: 5844, frq: 4028}
+half-and-half <> M: {rk: 22496, frq: 401}
+half-baked <> J: {rk: 28000, frq: 189}
+half-breed <> N: {rk: 33210, frq: 209}, J: {rk: 44462, frq: 59}
+half-brother <> N: {rk: 20955, frq: 382}
+half-century <> N: {rk: 14531, frq: 840}, J: {rk: 34851, frq: 102}
+half-cocked <> J: {rk: 54893, frq: 23}
+half-dozen <> M: {rk: 9031, frq: 1961}
+half-hearted <> J: {rk: 19364, frq: 458}
+half-heartedly <> R: {rk: 25351, frq: 257}
+half-hour <> N: {rk: 7569, frq: 2639}
+half-length <> J: {rk: 45595, frq: 42}, N: {rk: 45979, frq: 47}
+half-life <> N: {rk: 23094, frq: 332}
+half-light <> N: {rk: 27731, frq: 213}
+half-moon <> J: {rk: 27500, frq: 202}
+half-price <> J: {rk: 30747, frq: 152}
+half-timbered <> J: {rk: 43879, frq: 51}
+half-track <> N: {rk: 59630, frq: 20}
+half-truth <> N: {rk: 25853, frq: 227}
+half-wit <> N: {rk: 39790, frq: 75}
+half-witted <> J: {rk: 55557, frq: 24}
+halfback <> N: {rk: 28265, frq: 194}
+halftime <> N: {rk: 10846, frq: 3100}
+halftone <> N: {rk: 39521, frq: 82}
+halfway <> R: {rk: 4631, frq: 6263}, J: {rk: 10791, frq: 1444}
+halibut <> N: {rk: 17794, frq: 613}
+halide <> N: {rk: 52867, frq: 30}
+halitosis <> N: {rk: 46028, frq: 54}
+hall <> N: {rk: 1849, frq: 41157}
+hallelujah <> U: {rk: 23569, frq: 332}, N: {rk: 28676, frq: 167}
+hallmark <> N: {rk: 8445, frq: 2234}
+hallo <> U: {rk: 47562, frq: 39}
+halloo <> V: {rk: 59710, frq: 36}, N: {rk: 59839, frq: 27}
+hallowed <> J: {rk: 17101, frq: 601}
+hallucinate <> V: {rk: 21644, frq: 355}
+hallucinated <> J: {rk: 59100, frq: 20}
+hallucination <> N: {rk: 12912, frq: 1075}
+hallucinatory <> J: {rk: 26937, frq: 216}
+hallucinogen <> N: {rk: 29473, frq: 176}
+hallucinogenic <> J: {rk: 29765, frq: 159}
+hallway <> N: {rk: 3585, frq: 9315}
+halo <> N: {rk: 9748, frq: 1764}
+haloed <> J: {rk: 56506, frq: 21}
+halogen <> N: {rk: 21932, frq: 405}
+halon <> N: {rk: 50552, frq: 46}
+haloperidol <> N: {rk: 55432, frq: 31}
+halt <> V: {rk: 5325, frq: 4802}, N: {rk: 7109, frq: 2959}
+halter <> N: {rk: 17690, frq: 653}
+halting <> J: {rk: 18712, frq: 500}
+haltingly <> R: {rk: 26438, frq: 220}
+halve <> V: {rk: 10330, frq: 1840}
+halved <> J: {rk: 33786, frq: 130}
+halyard <> N: {rk: 43738, frq: 60}
+ham <> N: {rk: 6252, frq: 3823}, V: {rk: 36698, frq: 83}
+ham-fisted <> J: {rk: 47308, frq: 42}
+ham-handed <> J: {rk: 42132, frq: 56}
+hamburger <> N: {rk: 7608, frq: 2878}
+hammer <> N: {rk: 6314, frq: 5386}, V: {rk: 6474, frq: 3458}
+hammered <> J: {rk: 29970, frq: 164}
+hammerhead <> N: {rk: 29913, frq: 212}
+hammering <> N: {rk: 27055, frq: 210}
+hammerlock <> N: {rk: 46210, frq: 42}
+hammermill <> N: {rk: 59130, frq: 25}
+hammock <> N: {rk: 14431, frq: 995}
+hammy <> J: {rk: 45716, frq: 44}
+hamper <> V: {rk: 9233, frq: 1921}, N: {rk: 19464, frq: 473}
+hampered <> J: {rk: 52491, frq: 25}
+hamster <> N: {rk: 20232, frq: 444}
+hamstring <> N: {rk: 11341, frq: 1503}
+hand <> N: {rk: 174, frq: 242773}, V: {rk: 2036, frq: 19733}
+hand-held <> J: {rk: 8774, frq: 2126}
+hand-holding <> N: {rk: 34105, frq: 109}, J: {rk: 45204, frq: 42}
+hand-me-down <> N: {rk: 29750, frq: 170}, J: {rk: 34567, frq: 110}
+hand-picked <> J: {rk: 21004, frq: 376}
+hand-to-hand <> J: {rk: 25326, frq: 250}
+hand-wringing <> N: {rk: 29534, frq: 173}, J: {rk: 48087, frq: 33}
+handbag <> N: {rk: 12117, frq: 1267}
+handball <> N: {rk: 26304, frq: 241}
+handbasket <> N: {rk: 36671, frq: 90}
+handbell <> N: {rk: 50803, frq: 41}
+handbill <> N: {rk: 32549, frq: 126}
+handbook <> N: {rk: 13437, frq: 2066}
+handcart <> N: {rk: 36666, frq: 90}
+handclasp <> N: {rk: 57554, frq: 21}
+handcraft <> V: {rk: 28121, frq: 206}
+handcrafted <> J: {rk: 22136, frq: 356}
+handcuff <> N: {rk: 11503, frq: 1320}, V: {rk: 13684, frq: 940}
+handcuffed <> J: {rk: 39580, frq: 70}
+handedness <> N: {rk: 36849, frq: 105}
+handful <> N: {rk: 3128, frq: 10634}
+handgrip <> N: {rk: 39470, frq: 70}
+handgun <> N: {rk: 8959, frq: 2170}
+handhold <> N: {rk: 23857, frq: 315}
+handicap <> N: {rk: 8749, frq: 2119}, V: {rk: 16489, frq: 641}
+handicapped <> J: {rk: 10465, frq: 1568}
+handicapper <> N: {rk: 29225, frq: 183}
+handicapping <> J: {rk: 32883, frq: 127}
+handicraft <> N: {rk: 25282, frq: 285}
+handiest <> J: {rk: 50261, frq: 31}
+handily <> R: {rk: 20188, frq: 424}
+handiwork <> N: {rk: 16726, frq: 633}
+handkerchief <> N: {rk: 8644, frq: 2302}
+handle <> V: {rk: 1242, frq: 33146}, N: {rk: 3959, frq: 7735}
+handlebar <> N: {rk: 12723, frq: 1146}
+handler <> N: {rk: 9053, frq: 2012}
+handling <> N: {rk: 5495, frq: 4691}
+handmade <> J: {rk: 10464, frq: 1617}
+handmaid <> N: {rk: 41384, frq: 91}
+handmaiden <> N: {rk: 28442, frq: 187}
+handoff <> N: {rk: 26407, frq: 214}
+handout <> N: {rk: 12397, frq: 1152}
+handover <> N: {rk: 25048, frq: 292}
+handpick <> V: {rk: 25402, frq: 254}
+handpiece <> N: {rk: 43408, frq: 93}
+handprint <> N: {rk: 27423, frq: 206}
+handrail <> N: {rk: 25273, frq: 251}
+hands-free <> J: {rk: 30355, frq: 191}
+hands-off <> J: {rk: 22727, frq: 313}
+hands-on <> J: {rk: 7627, frq: 3250}
+handsaw <> N: {rk: 38368, frq: 78}
+handset <> N: {rk: 19036, frq: 567}
+handshake <> N: {rk: 10918, frq: 1424}
+handshaking <> N: {rk: 39816, frq: 66}
+handsome <> J: {rk: 3868, frq: 8122}
+handsomely <> R: {rk: 16249, frq: 664}
+handsomeness <> N: {rk: 43067, frq: 55}
+handspring <> N: {rk: 30773, frq: 177}
+handstand <> N: {rk: 38122, frq: 80}
+handwash <> V: {rk: 49428, frq: 39}
+handwork <> N: {rk: 39668, frq: 70}
+handwriting <> N: {rk: 9401, frq: 1868}
+handwritten <> J: {rk: 12969, frq: 1050}
+handy <> J: {rk: 6468, frq: 3635}
+handyman <> N: {rk: 21973, frq: 355}
+hang <> V: {rk: 868, frq: 50540}, N: {rk: 18318, frq: 537}
+hang-glider <> N: {rk: 59856, frq: 21}
+hang-up <> N: {rk: 23224, frq: 307}
+hangar <> N: {rk: 12378, frq: 1163}
+hanged <> J: {rk: 44163, frq: 52}
+hanger <> N: {rk: 11382, frq: 1332}
+hanger-on <> N: {rk: 48872, frq: 34}
+hanging <> J: {rk: 9578, frq: 1844}, N: {rk: 10665, frq: 1489}
+hangman <> N: {rk: 26104, frq: 260}
+hangnail <> N: {rk: 37599, frq: 78}
+hangout <> N: {rk: 16615, frq: 679}
+hangover <> N: {rk: 13442, frq: 1029}
+hanker <> V: {rk: 34062, frq: 105}
+hankering <> N: {rk: 38185, frq: 76}
+hankie <> N: {rk: 40309, frq: 76}
+hanky <> N: {rk: 27678, frq: 197}
+hanky-panky <> N: {rk: 37574, frq: 82}
+hansom <> N: {rk: 42947, frq: 68}
+hantavirus <> N: {rk: 37975, frq: 123}
+haole <> N: {rk: 45091, frq: 59}
+hap <> N: {rk: 27583, frq: 554}, V: {rk: 37673, frq: 125}
+haphazard <> J: {rk: 16869, frq: 608}
+haphazardly <> R: {rk: 20546, frq: 401}
+hapless <> J: {rk: 14709, frq: 814}
+haplessly <> R: {rk: 50755, frq: 30}
+haploid <> J: {rk: 52991, frq: 30}
+haplotype <> N: {rk: 52172, frq: 58}
+happen <> V: {rk: 216, frq: 199650}
+happening <> N: {rk: 6799, frq: 3267}
+happenstance <> N: {rk: 24006, frq: 282}
+happily <> R: {rk: 4752, frq: 5775}
+happiness <> N: {rk: 3900, frq: 7692}
+happy <> J: {rk: 747, frq: 56831}
+happy-go-lucky <> J: {rk: 29317, frq: 174}
+haptic <> J: {rk: 36611, frq: 119}
+haptics <> N: {rk: 58951, frq: 26}
+harangue <> V: {rk: 26033, frq: 220}, N: {rk: 29673, frq: 162}
+harass <> V: {rk: 7249, frq: 2849}
+harassed <> J: {rk: 36221, frq: 86}
+harasser <> N: {rk: 34099, frq: 106}
+harassment <> N: {rk: 4635, frq: 6087}
+harbinger <> N: {rk: 16891, frq: 648}
+harbor <> N: {rk: 5797, frq: 7990}, V: {rk: 7283, frq: 2853}
+harbored <> J: {rk: 57145, frq: 22}
+harbour <> V: {rk: 43010, frq: 58}
+hard <> J: {rk: 438, frq: 94488}, R: {rk: 768, frq: 55196}
+hard-and-fast <> J: {rk: 39935, frq: 69}
+hard-bitten <> J: {rk: 37186, frq: 85}
+hard-boiled <> J: {rk: 18359, frq: 537}
+hard-core <> J: {rk: 10087, frq: 1486}
+hard-drinking <> J: {rk: 36345, frq: 88}
+hard-earned <> J: {rk: 19218, frq: 468}
+hard-headed <> J: {rk: 26495, frq: 215}
+hard-hearted <> J: {rk: 37214, frq: 78}
+hard-hitting <> J: {rk: 24230, frq: 276}, N: {rk: 46233, frq: 43}
+hard-line <> J: {rk: 12073, frq: 1218}
+hard-nosed <> J: {rk: 21871, frq: 340}
+hard-on <> N: {rk: 32676, frq: 125}
+hard-pressed <> J: {rk: 15840, frq: 697}
+hard-shell <> J: {rk: 47188, frq: 40}
+hard-wired <> J: {rk: 28108, frq: 210}
+hard-working <> J: {rk: 8990, frq: 1954}
+hardback <> N: {rk: 28278, frq: 188}
+hardball <> N: {rk: 17470, frq: 829}
+hardboard <> N: {rk: 42237, frq: 62}
+hardcover <> N: {rk: 18388, frq: 687}
+harden <> V: {rk: 8359, frq: 2371}
+hardened <> J: {rk: 12486, frq: 1104}
+hardener <> N: {rk: 56328, frq: 24}
+hardening <> N: {rk: 28175, frq: 186}
+hardhat <> N: {rk: 35900, frq: 112}
+hardiness <> N: {rk: 30051, frq: 222}
+hardly <> R: {rk: 1750, frq: 22221}
+hardness <> N: {rk: 18535, frq: 526}
+hardpan <> N: {rk: 37564, frq: 83}
+hardscape <> N: {rk: 58222, frq: 20}
+hardship <> N: {rk: 7027, frq: 2969}
+hardtack <> N: {rk: 41723, frq: 65}
+hardtop <> N: {rk: 28776, frq: 209}
+hardware <> N: {rk: 4050, frq: 7452}
+hardwood <> N: {rk: 9165, frq: 1950}
+hardy <> J: {rk: 10641, frq: 1543}
+hare <> N: {rk: 15045, frq: 1491}
+harebrained <> J: {rk: 36413, frq: 83}
+harelip <> N: {rk: 50795, frq: 30}
+harem <> N: {rk: 18721, frq: 553}
+haricot <> N: {rk: 45680, frq: 49}
+harissa <> N: {rk: 47271, frq: 62}
+hark <> V: {rk: 20544, frq: 403}
+harken <> J: {rk: 36704, frq: 97}
+harlequin <> N: {rk: 26043, frq: 235}
+harlot <> N: {rk: 31533, frq: 171}
+harm <> N: {rk: 3678, frq: 8412}, V: {rk: 4359, frq: 6321}
+harmful <> J: {rk: 5882, frq: 4136}
+harmfulness <> N: {rk: 58635, frq: 26}
+harmless <> J: {rk: 7749, frq: 2540}
+harmlessly <> R: {rk: 24348, frq: 270}
+harmlessness <> N: {rk: 55942, frq: 22}
+harmonic <> J: {rk: 15034, frq: 863}, N: {rk: 30445, frq: 163}
+harmonica <> N: {rk: 17714, frq: 653}
+harmonically <> R: {rk: 41675, frq: 56}
+harmonious <> J: {rk: 12900, frq: 1063}
+harmoniously <> R: {rk: 27494, frq: 195}
+harmonium <> N: {rk: 49103, frq: 45}
+harmonization <> N: {rk: 26206, frq: 263}
+harmonize <> V: {rk: 15485, frq: 744}
+harmonized <> J: {rk: 46106, frq: 46}
+harmony <> N: {rk: 4713, frq: 5821}
+harness <> V: {rk: 9989, frq: 1697}, N: {rk: 10084, frq: 1713}
+harnessing <> N: {rk: 44948, frq: 50}
+harp <> N: {rk: 12321, frq: 1223}, V: {rk: 25582, frq: 232}
+harping <> N: {rk: 57605, frq: 20}
+harpist <> N: {rk: 32289, frq: 131}
+harpoon <> N: {rk: 23468, frq: 351}, V: {rk: 46440, frq: 41}
+harpsichord <> N: {rk: 27568, frq: 223}
+harpsichordist <> N: {rk: 49890, frq: 37}
+harridan <> N: {rk: 45344, frq: 52}
+harried <> J: {rk: 20816, frq: 377}
+harrier <> N: {rk: 28848, frq: 215}
+harrow <> V: {rk: 23106, frq: 311}
+harrowing <> J: {rk: 17960, frq: 548}, N: {rk: 39968, frq: 82}
+harsh <> J: {rk: 3494, frq: 8725}
+harshly <> R: {rk: 12022, frq: 1173}
+harshness <> N: {rk: 21799, frq: 336}
+harvest <> N: {rk: 4886, frq: 5571}, V: {rk: 4982, frq: 5410}
+harvestable <> J: {rk: 39820, frq: 67}
+harvested <> J: {rk: 32184, frq: 133}
+harvester <> N: {rk: 21271, frq: 370}
+harvesting <> N: {rk: 19309, frq: 477}
+has-been <> N: {rk: 27825, frq: 190}
+hash <> N: {rk: 17522, frq: 644}, V: {rk: 20007, frq: 452}
+hasp <> N: {rk: 48174, frq: 39}
+hassle <> N: {rk: 11230, frq: 1495}, V: {rk: 20489, frq: 404}
+hassled <> J: {rk: 58520, frq: 20}
+hassock <> N: {rk: 42410, frq: 61}
+haste <> N: {rk: 13791, frq: 952}
+hasten <> V: {rk: 9652, frq: 1731}
+hastily <> R: {rk: 9520, frq: 1866}
+hasty <> J: {rk: 13047, frq: 1018}
+hat <> N: {rk: 2026, frq: 19801}
+hatband <> N: {rk: 50818, frq: 35}
+hatbox <> N: {rk: 40677, frq: 67}
+hatch <> N: {rk: 7486, frq: 5399}, V: {rk: 9413, frq: 1846}
+hatchback <> N: {rk: 26592, frq: 257}
+hatched <> J: {rk: 45021, frq: 48}
+hatchery <> N: {rk: 16386, frq: 805}
+hatchet <> N: {rk: 18686, frq: 584}
+hatching <> N: {rk: 25862, frq: 237}
+hatchling <> N: {rk: 28552, frq: 196}
+hatchway <> N: {rk: 34893, frq: 141}
+hate <> V: {rk: 1531, frq: 27207}, N: {rk: 5857, frq: 4044}
+hated <> J: {rk: 16971, frq: 625}
+hateful <> J: {rk: 15033, frq: 779}
+hatefully <> R: {rk: 50651, frq: 34}
+hater <> N: {rk: 21161, frq: 414}
+hatless <> J: {rk: 39835, frq: 67}
+hatmaker <> N: {rk: 56677, frq: 23}
+hatred <> N: {rk: 5310, frq: 4677}
+hatter <> N: {rk: 33231, frq: 195}
+haughtily <> R: {rk: 34273, frq: 111}
+haughtiness <> N: {rk: 42617, frq: 53}
+haughty <> J: {rk: 20516, frq: 412}
+haul <> V: {rk: 4224, frq: 6854}, N: {rk: 10040, frq: 1673}
+haulage <> N: {rk: 59258, frq: 20}
+hauler <> N: {rk: 19779, frq: 514}
+hauling <> J: {rk: 44379, frq: 47}, N: {rk: 51113, frq: 28}
+haunch <> N: {rk: 19081, frq: 529}
+haunt <> V: {rk: 5065, frq: 5120}, N: {rk: 17105, frq: 602}
+haunted <> J: {rk: 12647, frq: 1158}
+haunting <> J: {rk: 14717, frq: 799}, N: {rk: 28451, frq: 243}
+hauntingly <> R: {rk: 28147, frq: 183}
+hauteur <> N: {rk: 38531, frq: 75}
+have <> V: {rk: 8, frq: 5335769}, N: {rk: 18038, frq: 650}
+have-not <> N: {rk: 19792, frq: 447}
+haven <> N: {rk: 5770, frq: 5844}
+haversack <> N: {rk: 44809, frq: 53}
+havoc <> N: {rk: 9753, frq: 1715}
+haw <> N: {rk: 28536, frq: 194}, V: {rk: 32816, frq: 118}, U: {rk: 35725, frq: 99}
+hawk <> N: {rk: 8066, frq: 6933}, V: {rk: 14005, frq: 889}
+hawker <> N: {rk: 27965, frq: 228}
+hawkish <> J: {rk: 23199, frq: 321}
+hawser <> N: {rk: 45393, frq: 62}
+hawthorn <> N: {rk: 24575, frq: 282}
+hay <> N: {rk: 7299, frq: 3638}
+hayfield <> N: {rk: 34151, frq: 137}
+hayloft <> N: {rk: 34999, frq: 107}
+haymaker <> N: {rk: 41924, frq: 61}
+hayride <> N: {rk: 28082, frq: 272}
+hayseed <> N: {rk: 39273, frq: 77}
+haystack <> N: {rk: 20586, frq: 533}
+haywire <> J: {rk: 24074, frq: 280}
+hazard <> N: {rk: 4924, frq: 5591}, V: {rk: 25456, frq: 239}
+hazardous <> J: {rk: 5418, frq: 5066}
+haze <> N: {rk: 8307, frq: 2398}, V: {rk: 23525, frq: 344}
+hazel <> J: {rk: 21132, frq: 448}
+hazelnut <> N: {rk: 18134, frq: 649}
+hazily <> R: {rk: 49624, frq: 36}
+haziness <> N: {rk: 57400, frq: 20}
+hazing <> N: {rk: 34257, frq: 153}, J: {rk: 43311, frq: 58}
+hazy <> J: {rk: 11887, frq: 1246}
+he <> P: {rk: 15, frq: 3138899}
+he-man <> J: {rk: 52897, frq: 29}, N: {rk: 53249, frq: 43}
+head <> N: {rk: 251, frq: 173375}, V: {rk: 935, frq: 45387}, J: {rk: 6007, frq: 4270}
+head-on <> R: {rk: 14846, frq: 779}, J: {rk: 25149, frq: 239}
+head-to-head <> J: {rk: 18219, frq: 540}
+headache <> N: {rk: 4790, frq: 5825}
+headband <> N: {rk: 18910, frq: 547}
+headbanger <> N: {rk: 50709, frq: 35}
+headboard <> N: {rk: 17807, frq: 662}
+headcount <> N: {rk: 42600, frq: 64}
+headdress <> N: {rk: 14748, frq: 844}
+headed <> J: {rk: 25232, frq: 230}
+headfirst <> R: {rk: 20270, frq: 446}
+headgear <> N: {rk: 22970, frq: 309}
+headhunter <> N: {rk: 25365, frq: 245}
+heading <> N: {rk: 9986, frq: 1661}
+headlamp <> N: {rk: 21718, frq: 392}
+headland <> N: {rk: 22554, frq: 322}
+headless <> J: {rk: 19858, frq: 441}
+headlight <> N: {rk: 8221, frq: 2468}
+headline <> N: {rk: 3314, frq: 10189}, V: {rk: 13794, frq: 969}
+headlined <> J: {rk: 52268, frq: 26}
+headliner <> N: {rk: 20131, frq: 456}
+headlining <> J: {rk: 50834, frq: 34}
+headlock <> N: {rk: 32619, frq: 122}
+headlong <> R: {rk: 19231, frq: 481}, J: {rk: 24233, frq: 275}
+headman <> N: {rk: 22786, frq: 366}
+headmaster <> N: {rk: 17486, frq: 653}
+headmistress <> N: {rk: 29679, frq: 179}
+headnote <> N: {rk: 10591, frq: 2531}
+headphone <> N: {rk: 11846, frq: 1353}
+headpiece <> N: {rk: 29091, frq: 194}
+headquarter <> V: {rk: 14935, frq: 784}
+headquarters <> N: {rk: 2884, frq: 11914}
+headrest <> N: {rk: 24906, frq: 331}
+headroom <> N: {rk: 26508, frq: 291}
+heads-up <> N: {rk: 29375, frq: 196}
+headscarf <> N: {rk: 25329, frq: 321}
+headset <> N: {rk: 11509, frq: 1457}
+headship <> N: {rk: 51250, frq: 33}
+headshot <> N: {rk: 43567, frq: 57}
+headspace <> N: {rk: 48090, frq: 52}
+headstart <> N: {rk: 45343, frq: 62}
+headstone <> N: {rk: 16280, frq: 684}
+headstrong <> J: {rk: 24457, frq: 263}
+headwaiter <> N: {rk: 45764, frq: 44}
+headwall <> N: {rk: 52596, frq: 59}
+headwater <> N: {rk: 52618, frq: 25}
+headwaters <> N: {rk: 19495, frq: 479}
+headway <> N: {rk: 16155, frq: 660}
+headwear <> N: {rk: 48836, frq: 38}
+headwind <> N: {rk: 31108, frq: 160}
+heady <> J: {rk: 11487, frq: 1300}
+heal <> V: {rk: 4410, frq: 6340}
+healed <> J: {rk: 41194, frq: 62}
+healer <> N: {rk: 9689, frq: 1839}
+healing <> N: {rk: 5211, frq: 5042}, J: {rk: 6842, frq: 3156}
+health <> N: {rk: 344, frq: 139598}
+healthful <> J: {rk: 12824, frq: 1119}
+healthfully <> R: {rk: 34541, frq: 113}
+healthfulness <> N: {rk: 51013, frq: 33}
+healthily <> R: {rk: 44148, frq: 53}
+healthy <> J: {rk: 1472, frq: 28678}
+heap <> N: {rk: 7197, frq: 3001}, V: {rk: 10819, frq: 1449}
+heaped <> J: {rk: 43388, frq: 57}
+hear <> V: {rk: 195, frq: 212450}
+hearer <> N: {rk: 25631, frq: 292}
+hearing <> N: {rk: 1719, frq: 23149}
+hearing-impaired <> J: {rk: 36862, frq: 115}, N: {rk: 51282, frq: 31}
+hearken <> V: {rk: 29794, frq: 158}
+hearsay <> N: {rk: 18179, frq: 524}
+hearse <> N: {rk: 21575, frq: 402}
+heart <> N: {rk: 460, frq: 91598}
+heart-rending <> J: {rk: 27609, frq: 198}
+heart-stopping <> J: {rk: 29223, frq: 172}
+heart-to-heart <> N: {rk: 36395, frq: 90}, J: {rk: 39657, frq: 62}
+heartache <> N: {rk: 16969, frq: 621}
+heartbeat <> N: {rk: 8406, frq: 2413}
+heartbreak <> N: {rk: 14827, frq: 836}
+heartbreaker <> N: {rk: 31293, frq: 182}
+heartbreaking <> J: {rk: 12885, frq: 1135}
+heartbreakingly <> R: {rk: 34772, frq: 97}
+heartbroken <> J: {rk: 19173, frq: 501}
+heartburn <> N: {rk: 20395, frq: 455}
+hearted <> J: {rk: 32452, frq: 124}
+hearten <> V: {rk: 22064, frq: 335}
+heartened <> J: {rk: 50886, frq: 31}
+heartening <> J: {rk: 21457, frq: 359}
+heartfelt <> J: {rk: 12624, frq: 1071}
+hearth <> N: {rk: 10964, frq: 1453}
+hearthside <> N: {rk: 59844, frq: 26}
+hearthstone <> N: {rk: 49878, frq: 79}
+heartily <> R: {rk: 17089, frq: 612}
+heartiness <> N: {rk: 51476, frq: 30}
+heartland <> N: {rk: 10690, frq: 1472}
+heartless <> J: {rk: 18809, frq: 493}
+heartlessly <> R: {rk: 56615, frq: 22}
+heartlessness <> N: {rk: 50557, frq: 34}
+heartsick <> J: {rk: 34316, frq: 116}
+heartthrob <> N: {rk: 27051, frq: 230}
+heartwarming <> J: {rk: 22821, frq: 313}
+heartwood <> N: {rk: 45306, frq: 53}
+heartworm <> N: {rk: 47372, frq: 47}
+hearty <> J: {rk: 10406, frq: 1603}
+heat <> N: {rk: 1010, frq: 45239}, V: {rk: 4134, frq: 7365}
+heat-resistant <> J: {rk: 42305, frq: 60}
+heat-seeking <> J: {rk: 36575, frq: 90}
+heated <> J: {rk: 7210, frq: 2891}
+heatedly <> R: {rk: 29600, frq: 167}
+heater <> N: {rk: 8888, frq: 2112}
+heathen <> N: {rk: 25571, frq: 243}, J: {rk: 27708, frq: 212}
+heathenism <> N: {rk: 56548, frq: 22}
+heating <> N: {rk: 6116, frq: 3824}
+heatproof <> J: {rk: 34662, frq: 118}
+heatstroke <> N: {rk: 37505, frq: 92}
+heatwave <> N: {rk: 53053, frq: 40}
+heave <> V: {rk: 9364, frq: 2045}, N: {rk: 17344, frq: 611}
+heave-ho <> U: {rk: 42999, frq: 51}
+heaven <> N: {rk: 2642, frq: 13507}
+heaven-sent <> J: {rk: 46451, frq: 42}
+heavenly <> J: {rk: 9550, frq: 1787}
+heavenward <> R: {rk: 27927, frq: 197}
+heavier-than-air <> J: {rk: 58735, frq: 20}
+heavily <> R: {rk: 2378, frq: 14994}
+heaviness <> N: {rk: 22411, frq: 340}
+heaving <> N: {rk: 21284, frq: 397}
+heavy <> J: {rk: 1006, frq: 42212}, N: {rk: 36927, frq: 85}, R: {rk: 38505, frq: 72}
+heavy-duty <> J: {rk: 14001, frq: 987}, N: {rk: 39474, frq: 72}
+heavy-footed <> J: {rk: 56659, frq: 21}
+heavy-handed <> J: {rk: 19051, frq: 471}
+heavy-set <> J: {rk: 38489, frq: 76}
+heavyweight <> N: {rk: 8736, frq: 2129}
+hecatomb <> N: {rk: 60020, frq: 20}
+heck <> N: {rk: 7060, frq: 3088}
+heckle <> V: {rk: 24781, frq: 277}
+heckler <> N: {rk: 24333, frq: 305}
+heckling <> N: {rk: 44330, frq: 48}
+hectic <> J: {rk: 12492, frq: 1116}
+hector <> V: {rk: 50878, frq: 30}
+hectoring <> J: {rk: 56934, frq: 19}
+hedge <> N: {rk: 6111, frq: 4045}, V: {rk: 12913, frq: 1070}
+hedged <> J: {rk: 56800, frq: 26}
+hedgehog <> N: {rk: 24232, frq: 274}
+hedger <> N: {rk: 58693, frq: 31}
+hedgerow <> N: {rk: 24491, frq: 296}
+hedging <> N: {rk: 37912, frq: 81}
+hedonic <> J: {rk: 39197, frq: 143}
+hedonism <> N: {rk: 28545, frq: 180}
+hedonist <> N: {rk: 36941, frq: 88}
+hedonistic <> J: {rk: 29176, frq: 171}
+heebie-jeebies <> N: {rk: 53129, frq: 30}
+heed <> V: {rk: 9326, frq: 1835}, N: {rk: 19100, frq: 474}
+heedless <> J: {rk: 25650, frq: 248}
+heedlessly <> R: {rk: 41585, frq: 61}
+heedlessness <> N: {rk: 51947, frq: 31}
+heel <> N: {rk: 3075, frq: 11216}, V: {rk: 23624, frq: 302}
+heeled <> J: {rk: 43186, frq: 53}
+heeler <> N: {rk: 43569, frq: 50}
+heelpiece <> N: {rk: 41679, frq: 75}
+heft <> V: {rk: 17586, frq: 623}, N: {rk: 19965, frq: 492}
+hefty <> J: {rk: 8637, frq: 2185}
+hegemonic <> J: {rk: 14075, frq: 980}
+hegemony <> N: {rk: 10255, frq: 1738}
+heh <> U: {rk: 18907, frq: 599}
+heiau <> N: {rk: 55997, frq: 37}
+heifer <> N: {rk: 25678, frq: 282}
+height <> N: {rk: 2051, frq: 18891}
+heighten <> V: {rk: 8136, frq: 2319}
+heightened <> J: {rk: 8520, frq: 2234}
+heightening <> J: {rk: 50279, frq: 39}
+heinie <> N: {rk: 58034, frq: 30}
+heinous <> J: {rk: 15778, frq: 704}
+heir <> N: {rk: 6259, frq: 3653}
+heiress <> N: {rk: 20225, frq: 452}
+heirloom <> N: {rk: 13574, frq: 1188}
+heist <> N: {rk: 21504, frq: 380}
+held <> J: {rk: 31685, frq: 134}
+heli <> N: {rk: 45113, frq: 66}
+heli-skiing <> J: {rk: 54580, frq: 31}
+helical <> J: {rk: 33948, frq: 112}
+helicopter <> N: {rk: 3119, frq: 10657}
+heliocentric <> J: {rk: 45816, frq: 47}
+helioseismology <> N: {rk: 46831, frq: 62}
+heliotrope <> N: {rk: 42364, frq: 55}
+helipad <> N: {rk: 37650, frq: 104}
+heliport <> N: {rk: 45066, frq: 49}
+helium <> N: {rk: 12147, frq: 1217}
+helix <> N: {rk: 24283, frq: 330}
+hell <> N: {rk: 1460, frq: 29840}
+hell-bent <> J: {rk: 26059, frq: 230}
+hellacious <> J: {rk: 38816, frq: 72}
+hellcat <> N: {rk: 43421, frq: 57}
+hellebore <> N: {rk: 56159, frq: 26}
+hellfire <> N: {rk: 27332, frq: 248}
+hellhole <> N: {rk: 29879, frq: 174}
+hellhound <> N: {rk: 56999, frq: 26}
+hellion <> N: {rk: 41769, frq: 60}
+hellish <> J: {rk: 19049, frq: 485}
+hellishly <> R: {rk: 50626, frq: 33}
+hello <> U: {rk: 2252, frq: 17783}, N: {rk: 18253, frq: 559}
+helluva <> J: {rk: 22446, frq: 334}
+helm <> N: {rk: 8807, frq: 2566}, V: {rk: 33847, frq: 136}
+helmet <> N: {rk: 4341, frq: 6810}
+helmeted <> J: {rk: 32042, frq: 134}
+helminth <> N: {rk: 47148, frq: 58}
+helmsman <> N: {rk: 29446, frq: 181}
+helo <> N: {rk: 46568, frq: 94}
+help <> V: {rk: 167, frq: 233703}, N: {rk: 879, frq: 47567}
+helped <> J: {rk: 23706, frq: 296}
+helper <> N: {rk: 9117, frq: 1963}
+helpful <> J: {rk: 3073, frq: 11110}
+helpfully <> R: {rk: 23844, frq: 289}
+helpfulness <> N: {rk: 33082, frq: 134}
+helping <> N: {rk: 8004, frq: 2435}
+helpless <> J: {rk: 6644, frq: 3325}
+helplessly <> R: {rk: 12850, frq: 1123}
+helplessness <> N: {rk: 13142, frq: 1006}
+helpline <> N: {rk: 45180, frq: 51}
+helpmate <> N: {rk: 38413, frq: 81}
+helpmeet <> N: {rk: 54959, frq: 24}
+helter-skelter <> R: {rk: 36041, frq: 89}, N: {rk: 40871, frq: 62}
+hem <> N: {rk: 11313, frq: 1442}, V: {rk: 18796, frq: 508}
+hemangioma <> N: {rk: 37675, frq: 127}
+hematite <> N: {rk: 37182, frq: 99}
+hematocrit <> N: {rk: 48195, frq: 41}
+hematologic <> J: {rk: 51209, frq: 38}
+hematological <> J: {rk: 59534, frq: 31}
+hematologist <> N: {rk: 46841, frq: 40}
+hematology <> N: {rk: 47364, frq: 57}
+hematoma <> N: {rk: 30521, frq: 167}
+hematopoietic <> J: {rk: 54860, frq: 26}
+hematoxylin <> N: {rk: 48357, frq: 46}
+heme <> N: {rk: 55017, frq: 31}
+hemiplegia <> N: {rk: 59353, frq: 23}
+hemisphere <> N: {rk: 8751, frq: 3475}
+hemispheric <> J: {rk: 22621, frq: 364}
+hemispherical <> J: {rk: 42263, frq: 58}
+hemline <> N: {rk: 27800, frq: 216}
+hemlock <> N: {rk: 18280, frq: 704}
+hemmed <> J: {rk: 52742, frq: 28}
+hemodialysis <> N: {rk: 46130, frq: 106}
+hemodynamic <> J: {rk: 42574, frq: 68}
+hemoglobin <> N: {rk: 22171, frq: 373}
+hemolytic <> J: {rk: 48069, frq: 42}
+hemophilia <> N: {rk: 31123, frq: 160}
+hemophiliac <> N: {rk: 30343, frq: 188}
+hemoptysis <> N: {rk: 59660, frq: 23}
+hemorrhage <> N: {rk: 18171, frq: 602}, V: {rk: 22060, frq: 334}
+hemorrhagic <> J: {rk: 32774, frq: 126}
+hemorrhaging <> N: {rk: 32873, frq: 120}, J: {rk: 53918, frq: 27}
+hemorrhoid <> N: {rk: 29588, frq: 172}
+hemostasis <> N: {rk: 42920, frq: 79}
+hemostatic <> J: {rk: 54387, frq: 26}
+hemp <> N: {rk: 15596, frq: 830}
+hen <> N: {rk: 8078, frq: 2479}
+hence <> R: {rk: 3666, frq: 9036}
+henceforth <> R: {rk: 18239, frq: 533}
+henceforward <> R: {rk: 51150, frq: 30}
+henchman <> N: {rk: 20956, frq: 397}
+henhouse <> N: {rk: 32838, frq: 143}
+henna <> N: {rk: 29246, frq: 179}
+heparin <> N: {rk: 35749, frq: 120}
+hepatic <> J: {rk: 28749, frq: 232}
+hepatitis <> N: {rk: 11561, frq: 1492}
+hepatocellular <> J: {rk: 48839, frq: 41}
+hepatocyte <> N: {rk: 58168, frq: 29}
+heptachlor <> N: {rk: 53072, frq: 41}
+heptathlon <> N: {rk: 38051, frq: 107}
+her <> A: {rk: 42, frq: 1054106}, P: {rk: 106, frq: 431544}
+herald <> V: {rk: 12925, frq: 1084}
+heraldic <> J: {rk: 36617, frq: 91}
+heraldry <> N: {rk: 46048, frq: 42}
+herb <> N: {rk: 3599, frq: 8965}
+herbaceous <> J: {rk: 27362, frq: 220}
+herbal <> J: {rk: 9242, frq: 1957}, N: {rk: 26632, frq: 228}
+herbalism <> N: {rk: 51420, frq: 30}
+herbalist <> N: {rk: 23125, frq: 320}
+herbarium <> N: {rk: 40893, frq: 79}
+herbed <> J: {rk: 29195, frq: 194}
+herbicide <> N: {rk: 14340, frq: 876}
+herbivore <> N: {rk: 21386, frq: 380}
+herbivorous <> J: {rk: 35348, frq: 97}
+herculean <> J: {rk: 24138, frq: 277}
+herd <> N: {rk: 5228, frq: 5018}, V: {rk: 10940, frq: 1402}
+herder <> N: {rk: 19435, frq: 715}
+herding <> N: {rk: 27940, frq: 194}
+herdsman <> N: {rk: 28972, frq: 178}
+here <> R: {rk: 96, frq: 447805}
+hereabouts <> R: {rk: 30730, frq: 154}
+hereafter <> R: {rk: 20117, frq: 515}, N: {rk: 29025, frq: 177}
+hereby <> R: {rk: 19852, frq: 429}
+hereditary <> J: {rk: 14297, frq: 857}
+heredity <> N: {rk: 21416, frq: 391}
+herein <> R: {rk: 13379, frq: 590}
+hereinafter <> R: {rk: 20796, frq: 497}
+heresy <> N: {rk: 14893, frq: 861}
+heretic <> N: {rk: 18476, frq: 544}
+heretical <> J: {rk: 21960, frq: 369}
+heretofore <> R: {rk: 16877, frq: 616}
+herewith <> R: {rk: 33516, frq: 109}
+heritability <> N: {rk: 36975, frq: 137}
+heritable <> J: {rk: 34860, frq: 121}
+heritage <> N: {rk: 3195, frq: 10639}
+herky-jerky <> J: {rk: 41810, frq: 59}
+hermaphrodite <> N: {rk: 30153, frq: 177}
+hermaphroditic <> J: {rk: 42158, frq: 59}
+hermeneutic <> J: {rk: 28575, frq: 200}, N: {rk: 42882, frq: 69}
+hermeneutical <> J: {rk: 26507, frq: 255}
+hermeneutics <> N: {rk: 23718, frq: 384}
+hermetic <> J: {rk: 28437, frq: 194}
+hermetically <> R: {rk: 26893, frq: 206}
+hermit <> N: {rk: 17722, frq: 640}
+hernia <> N: {rk: 23865, frq: 295}
+herniated <> J: {rk: 32555, frq: 127}
+herniation <> N: {rk: 57699, frq: 31}
+hero <> N: {rk: 1922, frq: 19907}
+heroic <> J: {rk: 6258, frq: 3562}
+heroically <> R: {rk: 24179, frq: 270}
+heroics <> N: {rk: 22688, frq: 323}
+heroin <> N: {rk: 5934, frq: 4368}
+heroine <> N: {rk: 8497, frq: 2450}
+heroism <> N: {rk: 12121, frq: 1185}
+heron <> N: {rk: 15409, frq: 1179}
+herpes <> N: {rk: 18131, frq: 649}
+herpesvirus <> N: {rk: 58981, frq: 25}
+herpetologist <> N: {rk: 37906, frq: 90}
+herpetology <> N: {rk: 56143, frq: 31}
+herring <> N: {rk: 10552, frq: 1596}
+herringbone <> N: {rk: 36598, frq: 93}, V: {rk: 55753, frq: 22}
+hers <> P: {rk: 3879, frq: 8428}
+herself <> P: {rk: 792, frq: 57318}
+hesitance <> N: {rk: 50347, frq: 37}
+hesitancy <> N: {rk: 24561, frq: 254}
+hesitant <> J: {rk: 9662, frq: 1736}
+hesitantly <> R: {rk: 17379, frq: 626}
+hesitate <> V: {rk: 3954, frq: 8046}
+hesitatingly <> R: {rk: 51789, frq: 29}
+hesitation <> N: {rk: 8229, frq: 2343}
+hessian <> N: {rk: 31146, frq: 163}
+hetero <> N: {rk: 39844, frq: 66}
+heterocyclic <> J: {rk: 54988, frq: 26}
+heterodox <> J: {rk: 34653, frq: 117}
+heterodoxy <> N: {rk: 49559, frq: 41}
+heterogeneity <> N: {rk: 17369, frq: 742}
+heterogeneous <> J: {rk: 13673, frq: 1063}
+heterogenous <> J: {rk: 40106, frq: 67}
+heterojunction <> N: {rk: 59570, frq: 33}
+heteronomous <> J: {rk: 55436, frq: 33}
+heterosexism <> N: {rk: 38922, frq: 97}
+heterosexual <> J: {rk: 7780, frq: 2739}, N: {rk: 21081, frq: 446}
+heterosexuality <> N: {rk: 26702, frq: 247}
+heterotopic <> J: {rk: 59001, frq: 28}
+heterotrophic <> J: {rk: 39776, frq: 93}
+heterozygosity <> N: {rk: 59790, frq: 28}
+heterozygote <> N: {rk: 58141, frq: 27}
+heterozygous <> J: {rk: 45289, frq: 75}
+heuchera <> N: {rk: 59873, frq: 62}
+heuristic <> J: {rk: 21202, frq: 456}
+heuristically <> R: {rk: 58372, frq: 23}
+heuristics <> N: {rk: 33432, frq: 125}
+hew <> V: {rk: 19347, frq: 466}
+hewn <> J: {rk: 29201, frq: 193}
+hex <> N: {rk: 24445, frq: 307}, V: {rk: 41770, frq: 58}
+hexadecimal <> J: {rk: 59861, frq: 23}
+hexagon <> N: {rk: 32304, frq: 143}
+hexagonal <> J: {rk: 24175, frq: 283}
+hexameter <> N: {rk: 58354, frq: 23}
+hey <> U: {rk: 1433, frq: 30050}
+heyday <> N: {rk: 12636, frq: 1112}
+hi <> U: {rk: 2083, frq: 20641}
+hi-fi <> N: {rk: 30834, frq: 152}
+hi-tech <> J: {rk: 33397, frq: 118}
+hiatus <> N: {rk: 15513, frq: 750}
+hibachi <> N: {rk: 44419, frq: 47}
+hibernate <> V: {rk: 23456, frq: 298}
+hibernating <> J: {rk: 47462, frq: 37}
+hibernation <> N: {rk: 20777, frq: 403}
+hibiscus <> N: {rk: 22920, frq: 370}
+hiccup <> N: {rk: 19106, frq: 530}, V: {rk: 35709, frq: 111}
+hick <> N: {rk: 26526, frq: 306}
+hickory <> N: {rk: 21084, frq: 720}
+hidden <> J: {rk: 4027, frq: 7449}
+hiddenness <> N: {rk: 59224, frq: 20}
+hide <> V: {rk: 1259, frq: 33779}, N: {rk: 10166, frq: 1657}
+hide-and-seek <> N: {rk: 25891, frq: 245}
+hideaway <> N: {rk: 18396, frq: 528}
+hidebound <> J: {rk: 35688, frq: 91}
+hideous <> J: {rk: 11211, frq: 1385}
+hideously <> R: {rk: 26310, frq: 220}
+hideousness <> N: {rk: 53651, frq: 26}
+hideout <> N: {rk: 19492, frq: 487}
+hidey-hole <> N: {rk: 49562, frq: 47}
+hiding <> N: {rk: 16545, frq: 687}, J: {rk: 35131, frq: 97}
+hie <> V: {rk: 45494, frq: 65}
+hierarch <> N: {rk: 54743, frq: 26}
+hierarchal <> J: {rk: 55494, frq: 25}
+hierarchic <> J: {rk: 51623, frq: 31}
+hierarchical <> J: {rk: 8986, frq: 2271}
+hierarchically <> R: {rk: 30132, frq: 177}
+hierarchy <> N: {rk: 5261, frq: 5241}
+hieratic <> J: {rk: 42944, frq: 60}
+hieroglyph <> N: {rk: 30103, frq: 166}
+hieroglyphic <> N: {rk: 29531, frq: 175}, J: {rk: 35672, frq: 102}
+high <> J: {rk: 141, frq: 277214}, R: {rk: 3325, frq: 9480}, N: {rk: 9476, frq: 2081}
+high-class <> J: {rk: 27553, frq: 193}
+high-concept <> J: {rk: 42541, frq: 63}
+high-end <> J: {rk: 9125, frq: 2183}
+high-flown <> J: {rk: 46360, frq: 41}
+high-flying <> J: {rk: 19318, frq: 476}
+high-grade <> J: {rk: 24723, frq: 285}, N: {rk: 50663, frq: 33}
+high-handed <> J: {rk: 40266, frq: 68}, R: {rk: 56190, frq: 20}
+high-handedness <> N: {rk: 53240, frq: 25}
+high-heeled <> J: {rk: 23241, frq: 314}
+high-impact <> J: {rk: 31847, frq: 188}
+high-key <> J: {rk: 50379, frq: 37}
+high-level <> J: {rk: 8616, frq: 2137}
+high-low <> J: {rk: 43729, frq: 56}
+high-maintenance <> J: {rk: 38755, frq: 81}
+high-minded <> J: {rk: 21833, frq: 338}
+high-mindedness <> N: {rk: 54307, frq: 24}
+high-pitched <> J: {rk: 13311, frq: 1046}
+high-power <> J: {rk: 27597, frq: 204}
+high-powered <> J: {rk: 12887, frq: 1046}, N: {rk: 39006, frq: 70}
+high-pressure <> J: {rk: 18379, frq: 539}, N: {rk: 40882, frq: 61}
+high-ranking <> J: {rk: 12521, frq: 1091}
+high-rise <> J: {rk: 11551, frq: 1279}
+high-risk <> J: {rk: 9082, frq: 2123}
+high-security <> J: {rk: 31780, frq: 139}
+high-sounding <> J: {rk: 54345, frq: 24}
+high-speed <> J: {rk: 7198, frq: 3002}
+high-spirited <> J: {rk: 32171, frq: 125}
+high-strung <> J: {rk: 26511, frq: 219}
+high-tech <> J: {rk: 4616, frq: 5945}, N: {rk: 15370, frq: 723}
+high-tensile <> J: {rk: 51573, frq: 38}
+high-tension <> J: {rk: 38233, frq: 75}
+high-ticket <> J: {rk: 49219, frq: 35}
+high-toned <> J: {rk: 39264, frq: 66}
+high-top <> N: {rk: 32088, frq: 130}, J: {rk: 34806, frq: 99}
+high-up <> J: {rk: 53419, frq: 26}
+highball <> N: {rk: 32440, frq: 135}
+highborn <> J: {rk: 42044, frq: 58}
+highboy <> N: {rk: 49014, frq: 37}
+highbrow <> J: {rk: 23951, frq: 279}
+highchair <> N: {rk: 40646, frq: 63}
+higher-up <> N: {rk: 25404, frq: 236}, J: {rk: 55746, frq: 22}
+highlight <> V: {rk: 3392, frq: 10210}, N: {rk: 5583, frq: 4669}
+highlighted <> J: {rk: 33138, frq: 117}
+highlighter <> N: {rk: 33044, frq: 153}
+highlighting <> N: {rk: 31281, frq: 150}
+highly <> R: {rk: 1324, frq: 31891}
+hightail <> V: {rk: 30793, frq: 164}
+highway <> N: {rk: 2599, frq: 18909}
+highwayman <> N: {rk: 36433, frq: 91}
+hijab <> N: {rk: 27263, frq: 306}
+hijack <> V: {rk: 12703, frq: 1134}, N: {rk: 35380, frq: 103}
+hijacked <> J: {rk: 24730, frq: 282}
+hijacker <> N: {rk: 12568, frq: 1245}
+hijacking <> N: {rk: 19360, frq: 507}, J: {rk: 47156, frq: 39}
+hijinks <> N: {rk: 42651, frq: 56}
+hijra <> N: {rk: 57298, frq: 36}
+hike <> V: {rk: 4496, frq: 6652}, N: {rk: 5258, frq: 5288}
+hiker <> N: {rk: 9905, frq: 1970}
+hiking <> N: {rk: 13526, frq: 1052}
+hilar <> J: {rk: 59083, frq: 26}
+hilarious <> J: {rk: 10904, frq: 1512}
+hilariously <> R: {rk: 29715, frq: 175}
+hilarity <> N: {rk: 25996, frq: 240}
+hillbilly <> J: {rk: 27986, frq: 190}, R: {rk: 32708, frq: 125}
+hillock <> N: {rk: 26565, frq: 245}
+hillside <> N: {rk: 6853, frq: 3158}
+hilltop <> N: {rk: 13967, frq: 1012}
+hilly <> J: {rk: 16235, frq: 679}
+hilt <> N: {rk: 17946, frq: 604}
+him <> P: {rk: 68, frq: 731462}
+himself <> P: {rk: 367, frq: 117476}
+hind <> J: {rk: 12199, frq: 1181}, N: {rk: 40553, frq: 74}
+hinder <> V: {rk: 8381, frq: 2342}
+hindered <> J: {rk: 56683, frq: 22}
+hindmost <> J: {rk: 50408, frq: 31}
+hindquarter <> N: {rk: 27864, frq: 197}
+hindrance <> N: {rk: 19549, frq: 463}
+hindsight <> N: {rk: 11442, frq: 1284}
+hinge <> N: {rk: 8984, frq: 1999}, V: {rk: 12931, frq: 1026}
+hinged <> J: {rk: 22878, frq: 319}
+hint <> N: {rk: 3939, frq: 7619}, V: {rk: 6493, frq: 3404}
+hinterland <> N: {rk: 19629, frq: 479}
+hip <> N: {rk: 2619, frq: 13849}, J: {rk: 13858, frq: 901}
+hipbone <> N: {rk: 32523, frq: 124}
+hipness <> N: {rk: 35838, frq: 89}
+hipped <> J: {rk: 50933, frq: 30}
+hippie <> N: {rk: 9868, frq: 1818}
+hippo <> N: {rk: 21958, frq: 410}
+hippocampal <> J: {rk: 41730, frq: 109}
+hippocampus <> N: {rk: 23193, frq: 359}
+hippocratic <> J: {rk: 29822, frq: 162}
+hippopotamus <> N: {rk: 33932, frq: 108}
+hipster <> N: {rk: 21744, frq: 411}
+hire <> V: {rk: 1496, frq: 27251}, N: {rk: 11196, frq: 1417}
+hired <> J: {rk: 8902, frq: 2037}
+hireling <> N: {rk: 48139, frq: 37}
+hiring <> N: {rk: 7712, frq: 2680}
+his <> A: {rk: 25, frq: 1943525}, P: {rk: 1883, frq: 21059}
+hiss <> V: {rk: 7915, frq: 2787}, N: {rk: 13198, frq: 1411}
+hissing <> J: {rk: 25578, frq: 252}, N: {rk: 31159, frq: 153}
+histamine <> N: {rk: 33030, frq: 138}
+histiocyte <> N: {rk: 53774, frq: 37}
+histiocytosis <> N: {rk: 59112, frq: 30}
+histogram <> N: {rk: 32330, frq: 151}
+histologic <> J: {rk: 26582, frq: 287}
+histological <> J: {rk: 35058, frq: 141}
+histologically <> R: {rk: 35439, frq: 120}
+histology <> N: {rk: 30897, frq: 187}
+histone <> N: {rk: 59828, frq: 39}
+histopathologic <> J: {rk: 33733, frq: 161}
+histopathological <> J: {rk: 55019, frq: 30}
+histopathology <> N: {rk: 41920, frq: 94}
+histoplasmosis <> N: {rk: 56762, frq: 28}
+historian <> N: {rk: 2558, frq: 14702}
+historic <> J: {rk: 2508, frq: 14692}
+historical <> J: {rk: 1476, frq: 29362}
+historically <> R: {rk: 3847, frq: 7999}
+historicism <> N: {rk: 26560, frq: 255}
+historicity <> N: {rk: 27773, frq: 222}
+historicization <> N: {rk: 58908, frq: 22}
+historicized <> J: {rk: 53080, frq: 28}
+historiographer <> N: {rk: 51210, frq: 34}
+historiographic <> J: {rk: 36266, frq: 125}
+historiographical <> J: {rk: 36353, frq: 103}
+historiography <> N: {rk: 18129, frq: 612}
+history <> N: {rk: 350, frq: 124707}
+histrionic <> J: {rk: 32507, frq: 118}
+histrionics <> N: {rk: 32981, frq: 122}
+hit <> V: {rk: 535, frq: 80507}, N: {rk: 2222, frq: 17335}, J: {rk: 32608, frq: 116}
+hit-and-miss <> J: {rk: 41813, frq: 55}
+hit-and-run <> J: {rk: 21814, frq: 364}
+hit-or-miss <> J: {rk: 36824, frq: 84}
+hitch <> V: {rk: 11476, frq: 1327}, N: {rk: 15087, frq: 857}
+hitched <> J: {rk: 37360, frq: 85}
+hitches <> N: {rk: 36168, frq: 85}
+hitchhike <> V: {rk: 19738, frq: 462}
+hitchhiker <> N: {rk: 24829, frq: 355}
+hitchhiking <> J: {rk: 48102, frq: 36}
+hitching <> J: {rk: 43538, frq: 57}
+hither <> R: {rk: 27515, frq: 203}
+hitherto <> R: {rk: 16730, frq: 667}
+hitless <> J: {rk: 36140, frq: 96}
+hitman <> N: {rk: 29295, frq: 202}
+hitter <> N: {rk: 6633, frq: 3662}
+hitting <> N: {rk: 16889, frq: 661}
+hive <> N: {rk: 11703, frq: 1363}
+hiya <> U: {rk: 30526, frq: 158}
+hmm <> U: {rk: 7514, frq: 3072}
+ho-hum <> J: {rk: 31368, frq: 144}
+hoagie <> N: {rk: 49226, frq: 45}
+hoard <> V: {rk: 15281, frq: 826}, N: {rk: 21930, frq: 349}
+hoarder <> N: {rk: 38555, frq: 109}
+hoarding <> N: {rk: 34432, frq: 155}
+hoarfrost <> N: {rk: 48410, frq: 43}
+hoarse <> J: {rk: 14610, frq: 895}
+hoarsely <> R: {rk: 25353, frq: 274}
+hoarseness <> N: {rk: 34648, frq: 115}
+hoary <> J: {rk: 27721, frq: 189}
+hoax <> N: {rk: 13603, frq: 1027}, V: {rk: 46356, frq: 39}
+hoaxer <> N: {rk: 57190, frq: 21}
+hob <> N: {rk: 40941, frq: 80}
+hobbit <> N: {rk: 25601, frq: 297}
+hobble <> V: {rk: 12024, frq: 1233}, N: {rk: 42234, frq: 61}
+hobbled <> J: {rk: 40904, frq: 62}
+hobby <> N: {rk: 6648, frq: 3337}
+hobbyist <> N: {rk: 22753, frq: 341}
+hobgoblin <> N: {rk: 51405, frq: 32}
+hobnob <> V: {rk: 28266, frq: 178}
+hobo <> N: {rk: 21201, frq: 478}
+hock <> N: {rk: 24003, frq: 419}, V: {rk: 39931, frq: 69}
+hockey <> N: {rk: 4388, frq: 6604}
+hocus-pocus <> N: {rk: 39876, frq: 68}
+hod <> N: {rk: 54490, frq: 42}
+hodgepodge <> N: {rk: 20551, frq: 401}
+hoe <> N: {rk: 16202, frq: 688}, V: {rk: 22926, frq: 293}
+hoedown <> N: {rk: 43225, frq: 56}
+hog <> N: {rk: 7991, frq: 2507}, V: {rk: 19719, frq: 445}
+hogshead <> N: {rk: 44388, frq: 50}
+hogwash <> N: {rk: 36662, frq: 101}
+hoi <> U: {rk: 43874, frq: 55}
+hoist <> V: {rk: 9644, frq: 1827}, N: {rk: 20427, frq: 433}
+hoity-toity <> J: {rk: 49891, frq: 29}
+hokey <> J: {rk: 45544, frq: 45}
+hokum <> N: {rk: 39811, frq: 64}
+hold <> V: {rk: 213, frq: 191472}, N: {rk: 2890, frq: 11989}
+holdback <> N: {rk: 50559, frq: 36}
+holder <> N: {rk: 5500, frq: 5381}
+holding <> N: {rk: 5385, frq: 5273}, J: {rk: 10797, frq: 1445}
+holdout <> N: {rk: 18328, frq: 539}
+holdover <> N: {rk: 22131, frq: 368}
+holdup <> N: {rk: 23907, frq: 284}
+hole <> N: {rk: 1215, frq: 34949}, V: {rk: 13636, frq: 932}
+hole-in-the-wall <> J: {rk: 44734, frq: 52}, N: {rk: 50296, frq: 54}
+holey <> J: {rk: 45136, frq: 49}
+holiday <> N: {rk: 1973, frq: 21127}, V: {rk: 24434, frq: 298}
+holier-than-thou <> J: {rk: 38023, frq: 56}
+holiness <> N: {rk: 17257, frq: 878}
+holism <> N: {rk: 42969, frq: 55}
+holistic <> J: {rk: 10029, frq: 1754}
+holistically <> R: {rk: 33795, frq: 119}
+hollandaise <> N: {rk: 35795, frq: 120}
+holler <> V: {rk: 10404, frq: 1606}, N: {rk: 25267, frq: 333}
+hollering <> N: {rk: 48550, frq: 52}
+hollow <> J: {rk: 7535, frq: 2716}, N: {rk: 8401, frq: 2382}, V: {rk: 19465, frq: 452}
+hollow-eyed <> J: {rk: 36935, frq: 83}
+holloware <> N: {rk: 59955, frq: 20}
+hollowed <> J: {rk: 40520, frq: 67}
+hollowing <> N: {rk: 56889, frq: 23}
+hollowly <> R: {rk: 38410, frq: 83}
+hollowness <> N: {rk: 31885, frq: 131}
+hollyhock <> N: {rk: 31733, frq: 143}
+hologram <> N: {rk: 19501, frq: 522}
+holograph <> N: {rk: 48381, frq: 37}
+holographic <> J: {rk: 20512, frq: 437}
+holography <> N: {rk: 42691, frq: 61}
+holster <> N: {rk: 13390, frq: 1101}
+holstered <> J: {rk: 42463, frq: 66}
+holy <> J: {rk: 2390, frq: 15357}
+homage <> N: {rk: 10256, frq: 1599}
+hombre <> N: {rk: 22667, frq: 411}
+homburg <> N: {rk: 52348, frq: 50}
+home <> N: {rk: 224, frq: 185420}, R: {rk: 406, frq: 106005}, V: {rk: 21344, frq: 375}
+home-brewed <> J: {rk: 51966, frq: 32}
+home-grown <> J: {rk: 13441, frq: 1057}
+home-school <> J: {rk: 30010, frq: 169}
+home-schooler <> N: {rk: 36785, frq: 100}
+home-schooling <> J: {rk: 35740, frq: 100}, N: {rk: 40080, frq: 93}
+homebody <> N: {rk: 31820, frq: 144}
+homebound <> J: {rk: 28262, frq: 184}
+homeboy <> N: {rk: 25476, frq: 318}
+homebuilder <> N: {rk: 27981, frq: 244}
+homebuyer <> N: {rk: 27118, frq: 255}
+homecoming <> N: {rk: 11432, frq: 1179}
+homed <> J: {rk: 58820, frq: 19}
+homegirl <> N: {rk: 42243, frq: 61}
+homeland <> N: {rk: 4182, frq: 7384}
+homeless <> J: {rk: 3372, frq: 10188}
+homelessness <> N: {rk: 11613, frq: 1543}
+homelike <> J: {rk: 37439, frq: 83}
+homeliness <> N: {rk: 56703, frq: 22}
+homely <> J: {rk: 18217, frq: 540}
+homemade <> J: {rk: 6334, frq: 3821}
+homemaker <> N: {rk: 14112, frq: 899}
+homemaking <> J: {rk: 56115, frq: 21}
+homeopath <> N: {rk: 35929, frq: 96}
+homeopathic <> J: {rk: 22669, frq: 355}
+homeopathy <> N: {rk: 27580, frq: 234}
+homeostasis <> N: {rk: 31332, frq: 150}
+homeostatic <> J: {rk: 38963, frq: 73}
+homeowner <> N: {rk: 5249, frq: 5877}
+homepage <> N: {rk: 36946, frq: 114}
+homeplace <> N: {rk: 46422, frq: 49}
+homer <> V: {rk: 22081, frq: 619}
+homeroom <> N: {rk: 25388, frq: 260}
+homerun <> N: {rk: 33568, frq: 162}
+homesick <> J: {rk: 18740, frq: 492}
+homesickness <> N: {rk: 27775, frq: 200}
+homesite <> N: {rk: 37822, frq: 84}
+homespun <> N: {rk: 23343, frq: 298}
+homestead <> N: {rk: 13058, frq: 1583}
+homesteader <> N: {rk: 26139, frq: 239}
+homesteading <> J: {rk: 47077, frq: 46}
+homestretch <> N: {rk: 39545, frq: 72}
+hometown <> N: {rk: 5534, frq: 5356}
+homeward <> J: {rk: 27012, frq: 210}, R: {rk: 44211, frq: 49}
+homework <> N: {rk: 4823, frq: 5740}
+homey <> J: {rk: 16679, frq: 527}
+homicidal <> J: {rk: 22133, frq: 335}
+homicide <> N: {rk: 5225, frq: 5098}
+homie <> N: {rk: 57463, frq: 27}
+homiletic <> J: {rk: 54628, frq: 23}
+homiletics <> N: {rk: 56271, frq: 28}
+homily <> N: {rk: 18571, frq: 547}
+homing <> J: {rk: 31938, frq: 133}
+hominid <> N: {rk: 23846, frq: 336}, J: {rk: 30777, frq: 182}
+hominy <> N: {rk: 34201, frq: 141}
+homocysteine <> N: {rk: 26758, frq: 277}
+homoerotic <> J: {rk: 30960, frq: 150}
+homoeroticism <> N: {rk: 48907, frq: 34}
+homogenate <> N: {rk: 57934, frq: 22}
+homogeneity <> N: {rk: 16201, frq: 750}
+homogeneous <> J: {rk: 11485, frq: 1414}
+homogeneously <> R: {rk: 44126, frq: 50}
+homogenization <> N: {rk: 29184, frq: 186}
+homogenize <> V: {rk: 25184, frq: 246}
+homogenized <> J: {rk: 33999, frq: 103}
+homogenizing <> J: {rk: 42716, frq: 53}
+homogenous <> J: {rk: 21561, frq: 389}
+homologous <> J: {rk: 29890, frq: 205}
+homologue <> N: {rk: 44802, frq: 64}
+homology <> N: {rk: 35374, frq: 111}
+homonym <> N: {rk: 43980, frq: 96}
+homonymy <> N: {rk: 59963, frq: 22}
+homophobe <> N: {rk: 39223, frq: 74}
+homophobia <> N: {rk: 15762, frq: 793}
+homophobic <> J: {rk: 20584, frq: 669}
+homophony <> N: {rk: 58656, frq: 30}
+homosexual <> J: {rk: 6890, frq: 3148}, N: {rk: 7352, frq: 2822}
+homosexuality <> N: {rk: 6768, frq: 3199}
+homozygous <> J: {rk: 48619, frq: 53}
+homunculus <> N: {rk: 48420, frq: 38}
+honcho <> N: {rk: 24453, frq: 269}
+hone <> V: {rk: 9134, frq: 1950}, N: {rk: 36073, frq: 143}
+honest <> J: {rk: 2546, frq: 14217}
+honest-to-goodness <> J: {rk: 37620, frq: 82}
+honestly <> R: {rk: 4929, frq: 5624}
+honesty <> N: {rk: 6274, frq: 3558}
+honey <> N: {rk: 2949, frq: 12068}
+honeybee <> N: {rk: 23059, frq: 361}
+honeycomb <> N: {rk: 24125, frq: 315}, V: {rk: 36335, frq: 92}
+honeycombed <> J: {rk: 51289, frq: 28}
+honeydew <> N: {rk: 31466, frq: 148}
+honeyed <> J: {rk: 28859, frq: 179}
+honeymoon <> N: {rk: 8259, frq: 2298}, V: {rk: 31156, frq: 144}
+honeymooner <> N: {rk: 27770, frq: 206}
+honeysuckle <> N: {rk: 22087, frq: 417}
+honk <> V: {rk: 13016, frq: 1079}, N: {rk: 28587, frq: 214}
+honker <> N: {rk: 42797, frq: 125}
+honking <> N: {rk: 38990, frq: 82}, J: {rk: 39792, frq: 66}
+honky <> J: {rk: 33750, frq: 110}
+honky-tonk <> J: {rk: 35184, frq: 97}, N: {rk: 35402, frq: 110}
+honor <> N: {rk: 2068, frq: 18613}, V: {rk: 2735, frq: 12695}
+honorable <> J: {rk: 7194, frq: 2840}
+honorably <> R: {rk: 24999, frq: 255}
+honorarium <> N: {rk: 36830, frq: 89}
+honorary <> J: {rk: 10510, frq: 1509}
+honored <> J: {rk: 13831, frq: 904}
+honoree <> N: {rk: 21358, frq: 456}
+honorific <> J: {rk: 33047, frq: 123}
+honoring <> N: {rk: 45815, frq: 71}
+honour <> V: {rk: 36518, frq: 89}
+honourable <> J: {rk: 38213, frq: 95}
+hoo-ha <> U: {rk: 50192, frq: 37}
+hooch <> N: {rk: 33828, frq: 149}
+hood <> N: {rk: 5236, frq: 7784}
+hooded <> J: {rk: 13350, frq: 1025}
+hoodie <> N: {rk: 35168, frq: 176}
+hoodlum <> N: {rk: 24281, frq: 292}
+hoodoo <> N: {rk: 34601, frq: 116}
+hoodwink <> V: {rk: 32603, frq: 122}
+hooey <> N: {rk: 38725, frq: 70}
+hoof <> N: {rk: 10326, frq: 1687}, V: {rk: 29915, frq: 158}
+hoofed <> J: {rk: 41938, frq: 60}
+hoofer <> N: {rk: 46839, frq: 42}
+hoofprint <> N: {rk: 42924, frq: 54}
+hook <> N: {rk: 3821, frq: 9252}, V: {rk: 4039, frq: 7384}
+hookah <> N: {rk: 38321, frq: 125}
+hooked <> J: {rk: 26540, frq: 216}
+hooker <> N: {rk: 13704, frq: 1705}
+hooking <> N: {rk: 55194, frq: 27}
+hookup <> N: {rk: 16721, frq: 1432}
+hookworm <> N: {rk: 52625, frq: 29}
+hooligan <> N: {rk: 24722, frq: 285}
+hooliganism <> N: {rk: 45133, frq: 47}
+hoop <> N: {rk: 8107, frq: 2507}, V: {rk: 30491, frq: 151}
+hoopla <> N: {rk: 18972, frq: 500}
+hoopster <> N: {rk: 51962, frq: 37}
+hooray <> U: {rk: 25503, frq: 257}
+hoot <> V: {rk: 15786, frq: 734}, N: {rk: 16233, frq: 866}
+hootch <> N: {rk: 59215, frq: 21}
+hooting <> N: {rk: 37552, frq: 89}
+hop <> V: {rk: 5715, frq: 4430}, N: {rk: 8552, frq: 2268}
+hope <> V: {rk: 482, frq: 88719}, N: {rk: 1147, frq: 39475}
+hopeful <> J: {rk: 5170, frq: 5024}, N: {rk: 19541, frq: 488}
+hopefully <> R: {rk: 4043, frq: 7711}
+hopefulness <> N: {rk: 31584, frq: 140}
+hopeless <> J: {rk: 8069, frq: 2378}
+hopelessly <> R: {rk: 11073, frq: 1361}
+hopelessness <> N: {rk: 14414, frq: 844}
+hoplite <> N: {rk: 42368, frq: 110}
+hopped-up <> J: {rk: 50113, frq: 31}
+hopper <> N: {rk: 16014, frq: 1325}
+hopping <> J: {rk: 43495, frq: 57}, N: {rk: 43998, frq: 47}
+hoppy <> J: {rk: 52436, frq: 34}
+hopscotch <> N: {rk: 32123, frq: 141}, V: {rk: 38418, frq: 74}
+hora <> N: {rk: 31991, frq: 195}
+horde <> N: {rk: 11210, frq: 1355}
+horehound <> N: {rk: 57471, frq: 30}
+horizon <> N: {rk: 3132, frq: 10870}
+horizontal <> J: {rk: 6079, frq: 3977}, N: {rk: 43993, frq: 47}
+horizontality <> N: {rk: 53690, frq: 27}
+horizontally <> R: {rk: 12923, frq: 1057}
+hormonal <> J: {rk: 13515, frq: 1021}
+hormone <> N: {rk: 4456, frq: 6671}
+horn <> N: {rk: 3680, frq: 8954}, V: {rk: 31709, frq: 142}
+horn-rimmed <> J: {rk: 33550, frq: 118}
+hornbeam <> N: {rk: 51689, frq: 29}
+hornbill <> N: {rk: 42432, frq: 64}
+horned <> J: {rk: 20335, frq: 494}
+hornworm <> N: {rk: 47991, frq: 59}
+horny <> J: {rk: 18047, frq: 571}
+horoscope <> N: {rk: 26868, frq: 233}
+horrendous <> J: {rk: 12112, frq: 1139}
+horrendously <> R: {rk: 38599, frq: 69}
+horrible <> J: {rk: 3779, frq: 8247}
+horribly <> R: {rk: 12614, frq: 1123}
+horrid <> J: {rk: 18110, frq: 564}
+horrific <> J: {rk: 9330, frq: 2004}
+horrifically <> R: {rk: 43588, frq: 55}
+horrified <> J: {rk: 16346, frq: 692}
+horrify <> V: {rk: 9818, frq: 1700}
+horrifying <> J: {rk: 11740, frq: 1256}
+horrifyingly <> R: {rk: 46343, frq: 46}
+horror <> N: {rk: 3340, frq: 9580}
+horse <> N: {rk: 1283, frq: 33376}, V: {rk: 30579, frq: 146}
+horse-drawn <> J: {rk: 18373, frq: 517}
+horse-trading <> N: {rk: 53499, frq: 32}
+horseback <> N: {rk: 9516, frq: 1879}
+horseflesh <> N: {rk: 47794, frq: 37}
+horsefly <> N: {rk: 41880, frq: 59}
+horsehair <> N: {rk: 30575, frq: 161}
+horsehide <> N: {rk: 49706, frq: 33}
+horseless <> J: {rk: 42486, frq: 58}
+horseman <> N: {rk: 12692, frq: 1150}
+horsemanship <> N: {rk: 36841, frq: 82}
+horsemeat <> N: {rk: 53324, frq: 39}
+horseplay <> N: {rk: 39462, frq: 66}
+horsepower <> N: {rk: 12742, frq: 1153}
+horseradish <> N: {rk: 19378, frq: 524}
+horseshit <> N: {rk: 39691, frq: 76}
+horseshoe <> N: {rk: 14463, frq: 911}
+horsetail <> N: {rk: 40591, frq: 72}
+horsewoman <> N: {rk: 43185, frq: 49}
+horsey <> J: {rk: 34084, frq: 114}
+horsy <> J: {rk: 55493, frq: 24}
+hortatory <> J: {rk: 45381, frq: 46}
+horticultural <> J: {rk: 18486, frq: 524}
+horticulturalist <> N: {rk: 44930, frq: 44}
+horticulture <> N: {rk: 23580, frq: 346}
+horticulturist <> N: {rk: 26290, frq: 227}
+hosanna <> N: {rk: 39471, frq: 79}
+hose <> N: {rk: 6309, frq: 3709}, V: {rk: 25259, frq: 252}
+hosel <> N: {rk: 54478, frq: 29}
+hosiery <> N: {rk: 31669, frq: 159}
+hospice <> N: {rk: 10565, frq: 1623}
+hospitable <> J: {rk: 15028, frq: 767}
+hospitably <> R: {rk: 52117, frq: 28}
+hospital <> N: {rk: 647, frq: 63935}
+hospitality <> N: {rk: 8511, frq: 2250}
+hospitalization <> N: {rk: 11753, frq: 1353}
+hospitalize <> V: {rk: 10304, frq: 1562}
+hospitalized <> J: {rk: 26389, frq: 239}
+host <> N: {rk: 1850, frq: 21773}, V: {rk: 3224, frq: 16380}
+hosta <> N: {rk: 28258, frq: 207}
+hostage <> N: {rk: 4003, frq: 8996}
+hostel <> N: {rk: 16698, frq: 691}
+hostelry <> N: {rk: 40167, frq: 64}
+hostess <> N: {rk: 10572, frq: 1576}
+hostile <> J: {rk: 4196, frq: 6695}, N: {rk: 42839, frq: 64}
+hostility <> N: {rk: 5266, frq: 4914}
+hosting <> J: {rk: 43008, frq: 54}, N: {rk: 46354, frq: 40}
+hot <> J: {rk: 721, frq: 59504}, R: {rk: 33665, frq: 112}
+hot-blooded <> J: {rk: 37466, frq: 81}
+hot-headed <> J: {rk: 35074, frq: 90}
+hot-rodder <> N: {rk: 56967, frq: 22}
+hot-tempered <> J: {rk: 41506, frq: 58}
+hot-wire <> N: {rk: 57848, frq: 22}
+hotbed <> N: {rk: 18120, frq: 540}
+hotdog <> N: {rk: 28606, frq: 182}
+hotel <> N: {rk: 1003, frq: 43118}
+hotelier <> N: {rk: 28008, frq: 212}
+hotfoot <> R: {rk: 51762, frq: 27}
+hothead <> N: {rk: 31706, frq: 130}
+hothouse <> N: {rk: 24786, frq: 284}
+hotline <> N: {rk: 13881, frq: 1218}
+hotly <> R: {rk: 13975, frq: 874}
+hotness <> N: {rk: 45902, frq: 49}
+hotplate <> N: {rk: 50966, frq: 33}
+hotshot <> N: {rk: 19412, frq: 477}
+hotspot <> N: {rk: 30460, frq: 174}
+hottie <> N: {rk: 32255, frq: 175}
+hound <> N: {rk: 9371, frq: 1930}, V: {rk: 17401, frq: 576}
+hour <> N: {rk: 272, frq: 151448}
+hour-long <> J: {rk: 17963, frq: 543}
+hourglass <> N: {rk: 22062, frq: 359}
+houri <> N: {rk: 49847, frq: 33}
+hourly <> J: {rk: 12265, frq: 1126}, R: {rk: 25380, frq: 246}
+house <> N: {rk: 257, frq: 213652}, V: {rk: 2659, frq: 13337}
+house-to-house <> J: {rk: 35536, frq: 95}
+houseboat <> N: {rk: 20922, frq: 459}
+housebound <> J: {rk: 39556, frq: 73}
+houseboy <> N: {rk: 40716, frq: 85}
+housebroken <> J: {rk: 52250, frq: 25}
+housecleaner <> N: {rk: 52721, frq: 29}
+housecleaning <> N: {rk: 35731, frq: 109}, J: {rk: 47037, frq: 42}
+housecoat <> N: {rk: 31319, frq: 166}
+housedress <> N: {rk: 34050, frq: 111}
+housefly <> N: {rk: 47227, frq: 30}
+houseful <> N: {rk: 36788, frq: 89}
+houseguest <> N: {rk: 34138, frq: 95}
+household <> N: {rk: 1977, frq: 19949}
+householder <> N: {rk: 30213, frq: 173}
+housekeeper <> N: {rk: 11399, frq: 1357}
+housekeeping <> N: {rk: 15453, frq: 1117}
+houselights <> N: {rk: 52504, frq: 26}
+housemaid <> N: {rk: 33223, frq: 130}
+houseman <> N: {rk: 43749, frq: 109}
+housemate <> N: {rk: 27759, frq: 199}
+housemother <> N: {rk: 57090, frq: 29}
+houseplant <> N: {rk: 24997, frq: 281}
+housetop <> N: {rk: 52549, frq: 29}
+housewarming <> J: {rk: 49691, frq: 41}, N: {rk: 55682, frq: 27}
+housewife <> N: {rk: 8753, frq: 2174}
+housework <> N: {rk: 16452, frq: 661}
+housing <> N: {rk: 2160, frq: 17871}
+hovel <> N: {rk: 25609, frq: 250}
+hover <> V: {rk: 5093, frq: 5410}
+hovercraft <> N: {rk: 34265, frq: 106}
+hovering <> J: {rk: 27541, frq: 201}
+how <> R: {rk: 76, frq: 588188}
+how-to <> J: {rk: 16966, frq: 492}, N: {rk: 45504, frq: 54}
+howdah <> N: {rk: 59526, frq: 22}
+howdy <> U: {rk: 20486, frq: 421}
+however <> R: {rk: 284, frq: 151837}
+howitzer <> N: {rk: 26157, frq: 257}
+howl <> V: {rk: 8535, frq: 2319}, N: {rk: 11987, frq: 1341}
+howler <> N: {rk: 26694, frq: 237}
+howling <> J: {rk: 15341, frq: 771}
+hoy <> U: {rk: 21652, frq: 383}
+hoyden <> N: {rk: 56794, frq: 35}
+hub <> N: {rk: 6659, frq: 3509}
+hub-and-spoke <> J: {rk: 44180, frq: 49}
+hubbub <> N: {rk: 21835, frq: 352}
+hubby <> N: {rk: 23550, frq: 324}
+hubcap <> N: {rk: 27613, frq: 216}
+hubris <> N: {rk: 16260, frq: 693}
+hubristic <> J: {rk: 45777, frq: 41}
+huckleberry <> N: {rk: 28919, frq: 395}
+huckster <> N: {rk: 27190, frq: 196}
+huddle <> V: {rk: 7305, frq: 2960}, N: {rk: 15955, frq: 725}
+huddled <> J: {rk: 29792, frq: 160}
+hue <> N: {rk: 7171, frq: 3231}
+hued <> J: {rk: 50924, frq: 32}
+huff <> V: {rk: 15303, frq: 791}
+huffily <> R: {rk: 50882, frq: 30}
+huffing <> N: {rk: 42966, frq: 55}
+huffy <> J: {rk: 43954, frq: 47}
+hug <> V: {rk: 3888, frq: 8022}, N: {rk: 6201, frq: 3875}
+huge <> J: {rk: 912, frq: 46773}
+hugely <> R: {rk: 11885, frq: 1275}
+hugeness <> N: {rk: 49481, frq: 35}
+huggable <> J: {rk: 47917, frq: 38}
+hugger <> N: {rk: 33137, frq: 128}
+hugging <> N: {rk: 50144, frq: 30}
+huh <> U: {rk: 3956, frq: 8063}
+hula <> N: {rk: 23731, frq: 328}
+hulk <> N: {rk: 20721, frq: 745}, V: {rk: 37068, frq: 83}
+hulking <> J: {rk: 17964, frq: 586}
+hull <> N: {rk: 6779, frq: 5119}, V: {rk: 37449, frq: 86}
+hullabaloo <> N: {rk: 33133, frq: 117}
+hulled <> J: {rk: 53356, frq: 27}
+hullo <> U: {rk: 43061, frq: 56}
+hum <> V: {rk: 6923, frq: 3274}, N: {rk: 10878, frq: 1531}, U: {rk: 36089, frq: 96}
+human <> J: {rk: 399, frq: 109916}, N: {rk: 1659, frq: 24398}
+humane <> J: {rk: 8668, frq: 2110}
+humanely <> R: {rk: 26510, frq: 217}
+humaneness <> N: {rk: 46977, frq: 38}
+humanism <> N: {rk: 15793, frq: 788}
+humanist <> J: {rk: 15878, frq: 856}, N: {rk: 17893, frq: 917}
+humanistic <> J: {rk: 17580, frq: 602}
+humanitarian <> J: {rk: 5328, frq: 5067}, N: {rk: 45484, frq: 48}
+humanitarianism <> N: {rk: 32715, frq: 142}
+humanities <> N: {rk: 10766, frq: 2233}
+humanity <> N: {rk: 3525, frq: 9095}
+humanization <> N: {rk: 49845, frq: 31}
+humanize <> V: {rk: 19101, frq: 475}
+humanized <> J: {rk: 45663, frq: 41}
+humanizing <> J: {rk: 42891, frq: 49}
+humankind <> N: {rk: 12060, frq: 1270}
+humanly <> R: {rk: 18923, frq: 479}
+humanness <> N: {rk: 30672, frq: 147}
+humanoid <> J: {rk: 28340, frq: 214}, N: {rk: 34495, frq: 146}
+humble <> J: {rk: 6049, frq: 3969}, V: {rk: 15223, frq: 813}
+humbled <> J: {rk: 31501, frq: 140}
+humbleness <> N: {rk: 50979, frq: 29}
+humbling <> J: {rk: 18893, frq: 502}
+humbly <> R: {rk: 19575, frq: 461}
+humbug <> N: {rk: 30489, frq: 154}
+humdinger <> N: {rk: 55385, frq: 27}
+humdrum <> J: {rk: 27414, frq: 198}
+humerus <> N: {rk: 36833, frq: 105}
+humic <> J: {rk: 53604, frq: 30}
+humid <> J: {rk: 10966, frq: 1421}
+humidifier <> N: {rk: 30271, frq: 161}
+humidify <> V: {rk: 58171, frq: 20}
+humidity <> N: {rk: 8530, frq: 2205}
+humidor <> N: {rk: 32643, frq: 147}
+humiliate <> V: {rk: 9538, frq: 1778}
+humiliated <> J: {rk: 22220, frq: 320}
+humiliating <> J: {rk: 10985, frq: 1345}
+humiliatingly <> R: {rk: 55336, frq: 24}
+humiliation <> N: {rk: 7825, frq: 2436}
+humility <> N: {rk: 9696, frq: 1789}
+humming <> J: {rk: 27279, frq: 210}, N: {rk: 27299, frq: 222}
+hummingbird <> N: {rk: 15570, frq: 832}
+hummock <> N: {rk: 32449, frq: 123}
+hummus <> N: {rk: 26801, frq: 284}
+humongous <> J: {rk: 24271, frq: 272}
+humor <> N: {rk: 3076, frq: 10668}, V: {rk: 20767, frq: 406}
+humoral <> J: {rk: 49212, frq: 37}
+humorist <> N: {rk: 22027, frq: 366}
+humorless <> J: {rk: 24136, frq: 283}
+humorlessly <> R: {rk: 52318, frq: 28}
+humorous <> J: {rk: 10104, frq: 1567}
+humorously <> R: {rk: 28050, frq: 189}
+hump <> N: {rk: 14366, frq: 893}, V: {rk: 20168, frq: 437}
+humpback <> N: {rk: 22982, frq: 366}
+humpbacked <> J: {rk: 43235, frq: 54}
+humped <> J: {rk: 42362, frq: 61}
+humus <> N: {rk: 28285, frq: 197}
+hunch <> V: {rk: 9459, frq: 1984}, N: {rk: 12656, frq: 1109}
+hunchback <> N: {rk: 25084, frq: 277}
+hunchbacked <> J: {rk: 50568, frq: 34}
+hunched <> J: {rk: 24851, frq: 279}
+hundred <> M: {rk: 621, frq: 56076}
+hundredfold <> R: {rk: 33131, frq: 113}
+hundredth <> M: {rk: 21845, frq: 353}
+hundredths <> M: {rk: 36490, frq: 86}
+hung <> J: {rk: 22154, frq: 390}
+hunger <> N: {rk: 4628, frq: 5999}, V: {rk: 24752, frq: 254}
+hungover <> J: {rk: 28171, frq: 193}
+hungrily <> R: {rk: 23558, frq: 304}
+hungry <> J: {rk: 3202, frq: 10443}
+hunk <> N: {rk: 12838, frq: 1086}
+hunker <> V: {rk: 16221, frq: 705}
+hunky <> J: {rk: 27175, frq: 214}
+hunky-dory <> J: {rk: 48197, frq: 40}
+hunt <> V: {rk: 3443, frq: 9615}
+hunted <> J: {rk: 20889, frq: 389}
+hunter <> N: {rk: 3049, frq: 17893}
+hunter-gatherer <> N: {rk: 25987, frq: 252}, J: {rk: 30514, frq: 160}
+hunting <> N: {rk: 2789, frq: 13141}
+huntress <> N: {rk: 46420, frq: 63}
+huntsman <> N: {rk: 29329, frq: 305}
+hurdle <> N: {rk: 6706, frq: 3334}, V: {rk: 31043, frq: 140}
+hurdler <> N: {rk: 34064, frq: 109}
+hurdy-gurdy <> J: {rk: 59208, frq: 21}
+hurl <> V: {rk: 7452, frq: 2812}, N: {rk: 48606, frq: 48}
+hurler <> N: {rk: 47062, frq: 50}
+hurly-burly <> N: {rk: 36884, frq: 79}
+hurrah <> U: {rk: 29733, frq: 173}, N: {rk: 30785, frq: 153}
+hurray <> U: {rk: 39740, frq: 70}
+hurricane <> N: {rk: 4553, frq: 10061}
+hurried <> J: {rk: 19120, frq: 478}
+hurriedly <> R: {rk: 14292, frq: 927}
+hurry <> V: {rk: 3635, frq: 9408}, N: {rk: 6875, frq: 3186}
+hurry-up <> N: {rk: 46861, frq: 41}
+hurrying <> J: {rk: 52895, frq: 29}
+hurt <> V: {rk: 1141, frq: 37194}, J: {rk: 5307, frq: 4917}, N: {rk: 22164, frq: 355}
+hurtful <> J: {rk: 16453, frq: 643}
+hurting <> N: {rk: 41468, frq: 58}
+hurtle <> V: {rk: 12898, frq: 1068}
+hurtling <> J: {rk: 47422, frq: 39}
+husband <> N: {rk: 637, frq: 65536}, V: {rk: 32075, frq: 124}
+husbandman <> N: {rk: 54155, frq: 26}
+husbandry <> N: {rk: 24498, frq: 271}
+hush <> V: {rk: 14295, frq: 933}, N: {rk: 15394, frq: 777}, U: {rk: 20306, frq: 481}
+hush-hush <> J: {rk: 32402, frq: 129}
+hushed <> J: {rk: 15803, frq: 750}
+husk <> N: {rk: 14963, frq: 815}, V: {rk: 39121, frq: 75}
+huskily <> R: {rk: 40387, frq: 66}
+husky <> J: {rk: 14892, frq: 822}
+hussar <> N: {rk: 58664, frq: 31}
+hussy <> N: {rk: 38309, frq: 81}
+hustle <> V: {rk: 9599, frq: 1790}, N: {rk: 16446, frq: 673}
+hustler <> N: {rk: 15616, frq: 842}
+hustling <> N: {rk: 49155, frq: 51}, J: {rk: 50838, frq: 31}
+hut <> N: {rk: 5381, frq: 4793}
+hutong <> N: {rk: 59574, frq: 34}
+hyacinth <> N: {rk: 22483, frq: 331}
+hybrid <> N: {rk: 6940, frq: 3300}, J: {rk: 7191, frq: 3216}
+hybridity <> N: {rk: 30854, frq: 232}
+hybridization <> N: {rk: 23536, frq: 399}
+hybridize <> V: {rk: 31345, frq: 166}
+hybridized <> J: {rk: 50490, frq: 33}
+hydrangea <> N: {rk: 21297, frq: 463}
+hydrant <> N: {rk: 20914, frq: 411}
+hydrate <> V: {rk: 21998, frq: 434}, N: {rk: 37284, frq: 138}
+hydrated <> J: {rk: 34916, frq: 106}
+hydrating <> J: {rk: 42455, frq: 73}
+hydration <> N: {rk: 21156, frq: 455}
+hydraulic <> J: {rk: 10824, frq: 1514}
+hydraulically <> R: {rk: 37310, frq: 83}
+hydraulics <> N: {rk: 26237, frq: 229}
+hydrazine <> N: {rk: 59702, frq: 20}
+hydric <> J: {rk: 55869, frq: 29}
+hydride <> N: {rk: 40420, frq: 67}
+hydrilla <> N: {rk: 43937, frq: 71}
+hydro <> N: {rk: 28933, frq: 316}
+hydrocarbon <> N: {rk: 14099, frq: 980}
+hydrocephalus <> N: {rk: 46966, frq: 46}
+hydrochloride <> N: {rk: 41244, frq: 63}
+hydrocortisone <> N: {rk: 42482, frq: 62}
+hydrodynamic <> J: {rk: 34348, frq: 112}
+hydrodynamics <> N: {rk: 45434, frq: 54}
+hydroelectric <> J: {rk: 16861, frq: 632}
+hydroelectricity <> N: {rk: 42848, frq: 57}
+hydrofoil <> N: {rk: 44541, frq: 52}
+hydrogel <> N: {rk: 58954, frq: 33}
+hydrogen <> N: {rk: 5157, frq: 5316}
+hydrogenated <> J: {rk: 34043, frq: 110}
+hydrogenation <> N: {rk: 53541, frq: 27}
+hydrogeologic <> J: {rk: 59113, frq: 34}
+hydrographic <> J: {rk: 52435, frq: 31}
+hydrologic <> J: {rk: 29632, frq: 206}
+hydrological <> J: {rk: 29264, frq: 215}
+hydrologist <> N: {rk: 30655, frq: 165}
+hydrology <> N: {rk: 27742, frq: 235}
+hydrolysis <> N: {rk: 42524, frq: 75}
+hydrolyzed <> J: {rk: 54474, frq: 28}
+hydrophilic <> J: {rk: 53689, frq: 28}
+hydrophobic <> J: {rk: 40592, frq: 65}
+hydrophone <> N: {rk: 53316, frq: 35}
+hydroplane <> N: {rk: 49835, frq: 56}
+hydroponic <> J: {rk: 34965, frq: 119}
+hydroponically <> R: {rk: 54721, frq: 26}
+hydroponics <> N: {rk: 33770, frq: 138}
+hydropower <> N: {rk: 24909, frq: 283}
+hydrops <> N: {rk: 49960, frq: 58}
+hydroquinone <> N: {rk: 56957, frq: 29}
+hydrostatic <> J: {rk: 32867, frq: 141}
+hydrotherapy <> N: {rk: 43009, frq: 56}
+hydrothermal <> J: {rk: 29718, frq: 184}
+hydroxide <> N: {rk: 35004, frq: 118}
+hydroxyapatite <> N: {rk: 49715, frq: 37}
+hydroxyl <> N: {rk: 36638, frq: 95}
+hyena <> N: {rk: 18075, frq: 673}
+hygiene <> N: {rk: 11090, frq: 1572}
+hygienic <> J: {rk: 27638, frq: 213}
+hygienist <> N: {rk: 27909, frq: 198}
+hygroscopic <> J: {rk: 58842, frq: 23}
+hymen <> N: {rk: 38072, frq: 105}
+hymn <> N: {rk: 9358, frq: 1858}
+hymnal <> N: {rk: 28757, frq: 182}
+hymnbook <> N: {rk: 56846, frq: 22}
+hyoid <> J: {rk: 38825, frq: 97}, N: {rk: 58569, frq: 21}
+hype <> N: {rk: 8550, frq: 2184}, V: {rk: 19676, frq: 445}
+hyped <> J: {rk: 40340, frq: 64}
+hyper <> J: {rk: 25831, frq: 234}
+hyperactive <> J: {rk: 18376, frq: 502}
+hyperactivity <> N: {rk: 17739, frq: 612}
+hyperacusis <> N: {rk: 54569, frq: 54}
+hyperbaric <> J: {rk: 42491, frq: 64}
+hyperbole <> N: {rk: 17897, frq: 549}
+hyperbolic <> J: {rk: 23707, frq: 292}
+hyperbolically <> R: {rk: 55259, frq: 24}
+hypercalcemia <> N: {rk: 51707, frq: 41}
+hypercalciuria <> N: {rk: 59557, frq: 27}
+hypercapnia <> N: {rk: 59178, frq: 21}
+hypercholesterolaemic <> J: {rk: 59663, frq: 31}
+hypercholesterolemia <> N: {rk: 58597, frq: 25}
+hypercritical <> J: {rk: 54300, frq: 26}
+hyperemia <> N: {rk: 59200, frq: 22}
+hyperextension <> N: {rk: 45682, frq: 45}
+hyperfine <> J: {rk: 49831, frq: 39}
+hyperinflation <> N: {rk: 25099, frq: 277}
+hyperinflationary <> J: {rk: 58005, frq: 22}
+hyperkinetic <> J: {rk: 39609, frq: 72}
+hyperlink <> N: {rk: 38084, frq: 90}
+hypermarket <> N: {rk: 59088, frq: 24}
+hyperparathyroidism <> N: {rk: 50225, frq: 53}
+hyperpigmentation <> N: {rk: 53767, frq: 33}
+hyperplasia <> N: {rk: 30245, frq: 183}
+hypersensitive <> J: {rk: 30079, frq: 159}
+hypersensitivity <> N: {rk: 31297, frq: 153}
+hypersonic <> J: {rk: 31353, frq: 149}
+hyperspace <> N: {rk: 35353, frq: 127}
+hypertension <> N: {rk: 10664, frq: 1666}
+hypertensive <> J: {rk: 29898, frq: 169}, N: {rk: 55002, frq: 26}
+hypertext <> N: {rk: 28244, frq: 246}
+hyperthermia <> N: {rk: 52309, frq: 33}
+hyperthyroidism <> N: {rk: 41742, frq: 64}
+hypertonic <> J: {rk: 59586, frq: 23}
+hypertrophied <> J: {rk: 55918, frq: 24}
+hypertrophy <> N: {rk: 33035, frq: 150}
+hyperventilate <> V: {rk: 25816, frq: 240}
+hyperventilation <> N: {rk: 37281, frq: 87}
+hyphen <> N: {rk: 30095, frq: 161}
+hyphenate <> V: {rk: 55542, frq: 27}
+hyphenated <> J: {rk: 30083, frq: 151}
+hyphenation <> N: {rk: 59245, frq: 22}
+hypnosis <> N: {rk: 15909, frq: 868}
+hypnotherapist <> N: {rk: 48397, frq: 42}
+hypnotherapy <> N: {rk: 43659, frq: 57}
+hypnotic <> J: {rk: 15438, frq: 774}
+hypnotically <> R: {rk: 36551, frq: 82}
+hypnotism <> N: {rk: 47320, frq: 41}
+hypnotist <> N: {rk: 30551, frq: 165}
+hypnotize <> V: {rk: 19311, frq: 477}
+hypnotized <> J: {rk: 41212, frq: 58}
+hypo <> N: {rk: 45559, frq: 53}
+hypoallergenic <> J: {rk: 39042, frq: 81}
+hypocalcemia <> N: {rk: 56579, frq: 56}
+hypochlorite <> N: {rk: 35006, frq: 127}
+hypochondria <> N: {rk: 36858, frq: 98}
+hypochondriac <> N: {rk: 28695, frq: 201}
+hypochondriacal <> J: {rk: 50662, frq: 33}
+hypocrisy <> N: {rk: 9410, frq: 1825}
+hypocrite <> N: {rk: 16265, frq: 668}
+hypocritical <> J: {rk: 14506, frq: 810}
+hypocritically <> R: {rk: 45459, frq: 44}
+hypodermic <> J: {rk: 25434, frq: 239}
+hypoglossal <> N: {rk: 57786, frq: 24}
+hypoglycemia <> N: {rk: 35451, frq: 101}
+hypoglycemic <> J: {rk: 47020, frq: 43}
+hypomania <> N: {rk: 59346, frq: 35}
+hypomanic <> J: {rk: 58568, frq: 38}
+hypopharyngeal <> J: {rk: 59965, frq: 23}
+hypoplasia <> N: {rk: 59159, frq: 20}
+hypostasis <> N: {rk: 58336, frq: 44}
+hypostatic <> J: {rk: 57484, frq: 29}
+hypotension <> N: {rk: 34725, frq: 111}
+hypotensive <> J: {rk: 58765, frq: 24}
+hypotenuse <> N: {rk: 57991, frq: 24}
+hypothalamus <> N: {rk: 29132, frq: 187}
+hypothermia <> N: {rk: 18554, frq: 570}
+hypothermic <> J: {rk: 42143, frq: 57}
+hypothesis <> N: {rk: 3400, frq: 10556}
+hypothesize <> V: {rk: 8973, frq: 2276}
+hypothesized <> J: {rk: 22473, frq: 389}
+hypothetical <> J: {rk: 8195, frq: 2372}, N: {rk: 40504, frq: 71}
+hypothetically <> R: {rk: 24955, frq: 251}
+hypothyroid <> J: {rk: 58299, frq: 25}
+hypothyroidism <> N: {rk: 29704, frq: 216}
+hypoxia <> N: {rk: 30884, frq: 169}
+hypoxic <> J: {rk: 38219, frq: 85}
+hyrax <> N: {rk: 50656, frq: 75}
+hyssop <> N: {rk: 44549, frq: 55}
+hysterectomy <> N: {rk: 19730, frq: 485}
+hysteresis <> N: {rk: 37992, frq: 97}
+hysteria <> N: {rk: 10491, frq: 1478}
+hysteric <> J: {rk: 46750, frq: 41}
+hysterical <> J: {rk: 9441, frq: 1860}
+hysterically <> R: {rk: 18781, frq: 495}
+hysterics <> N: {rk: 27498, frq: 204}

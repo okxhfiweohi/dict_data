@@ -1,0 +1,3707 @@
+T-bar <> s: t-bars
+T-group <> s: t-groups
+T-junction <> s: t-junctions
+T-shirt <> s: t-shirts
+ta <> s: tas
+ta-ta <> s: ta-tas
+ta-tas <> b: ta-ta, f: s
+tab <> s: tabs, d: tabbed, p: tabbed, i: tabbing
+tabard <> s: tabards
+tabards <> b: tabard, f: s
+tabbed <> b: tab, f: dp
+tabbies <> b: tabby, f: s
+tabbing <> b: tab, f: i
+tabby <> s: tabbies
+tabernacle <> s: tabernacles
+tabernacles <> b: tabernacle, f: s
+tabes <> b: tabe, f: s3
+tablature <> s: tablatures
+tablatures <> b: tablature, f: s
+table <> s: tables, d: tabled, p: tabled, i: tabling, '3': tables
+tableau <> s: tableaux
+tableaux <> b: tableau, f: s
+tablecloth <> s: tablecloths
+tablecloths <> b: tablecloth, f: s
+tabled <> b: table, f: dp, s: tableds
+tableland <> s: tablelands
+tablelands <> b: tableland, f: s
+tables <> f: s3, b: table
+tablespoon <> s: tablespoons
+tablespoonful <> s: tablespoonfuls
+tablespoonfuls <> b: tablespoonful, f: s
+tablespoons <> b: tablespoon, f: s
+tablet <> s: tablets
+tabletop <> s: tabletops
+tabletops <> b: tabletop, f: s
+tablets <> b: tablet, f: s
+tabling <> i: tabling, b: tabling, f: i
+tabloid <> s: tabloids
+tabloids <> b: tabloid, f: s
+taboo <> s: taboos
+taboos <> b: taboo, f: s
+tabor <> s: tabors
+tabors <> b: tabor, f: s
+tabs <> b: tab, f: s
+tabulate <> d: tabulated, '3': tabulates, i: tabulating, p: tabulated
+tabulated <> b: tabulate, f: dp, d: tabulated
+tabulates <> b: tabulate, f: '3'
+tabulating <> b: tabulate, f: i
+tabulation <> s: tabulations
+tabulations <> b: tabulation, f: s
+tabulator <> s: tabulators
+tabulators <> b: tabulator, f: s
+TAC <> s: tacs
+tachistoscope <> s: tachistoscopes
+tachistoscopes <> b: tachistoscope, f: s
+tacho <> s: tachos
+tachograph <> s: tachographs
+tachographs <> b: tachograph, f: s
+tachometer <> s: tachometers
+tachometers <> b: tachometer, f: s
+tachos <> b: tacho, f: s
+tachycardia <> s: tachycardias
+tachycardias <> b: tachycardia, f: s
+tachykinin <> s: tachykinins
+tachykinins <> b: tachykinin, f: s
+tachyon <> s: tachyons
+tachyons <> b: tachyon, f: s
+tack <> s: tacks, d: tacked, p: tacked, i: tacking, '3': tacks
+tacked <> b: tack, f: dp, d: tacked, p: tacked
+tacker <> s: tackers
+tackers <> b: tacker, f: s
+tacking <> b: tack, f: i, i: tacking
+tackle <> i: tackling, d: tackled, p: tackled, '3': tackles, s: tackles
+tackled <> b: tackle, f: dp
+tackler <> s: tacklers
+tacklers <> b: tackler, f: s
+tackles <> b: tackle, f: 3s
+tackling <> b: tackle, f: i, i: tackling
+tacks <> b: tack, f: s3
+taco <> s: tacos
+tacos <> b: taco, f: s
+tactic <> s: tactics
+tactician <> s: tacticians
+tacticians <> b: tactician, f: s
+tactics <> b: tactic, f: s
+tadpole <> s: tadpoles
+tadpoles <> b: tadpole, f: s
+tae <> s: taes
+tael <> s: taels
+taels <> b: tael, f: s
+taes <> b: tae, f: s
+taffeta <> s: taffetas
+taffetas <> b: taffeta, f: s
+tag <> s: tags, d: tagged, i: tagging, p: tagged, '3': tags
+tagged <> b: tag, f: dp, p: tagged, d: tagged
+tagger <> s: taggers
+taggers <> b: tagger, f: s
+tagging <> b: tag, f: i, i: tagging
+tags <> b: tag, f: s3
+Tahitian <> s: tahitians
+tai <> s: tai, b: tai, f: s
+taid <> b: tay, f: p
+tail <> s: tails, p: tailed, i: tailing, d: tailed, '3': tails
+tail-ender <> s: tail-enders
+tail-enders <> b: tail-ender, f: s
+tail-light <> s: tail-lights
+tail-lights <> b: tail-light, f: s
+tailback <> s: tailbacks
+tailbacks <> b: tailback, f: s
+tailboard <> s: tailboards
+tailboards <> b: tailboard, f: s
+tailcoat <> s: tailcoats, p: tailcoated
+tailcoated <> b: tailcoat, f: p
+tailcoats <> b: tailcoat, f: s
+taildragger <> s: taildraggers
+taildraggers <> b: taildragger, f: s
+tailed <> b: tail, f: pd, p: tailed
+tailfin <> s: tailfins
+tailfins <> b: tailfin, f: s
+tailgate <> i: tailgating, s: tailgates, p: tailgated, '3': tailgates, d: tailgated
+tailgates <> b: tailgate, f: s
+tailgating <> b: tailgate, f: i
+tailing <> b: tail, f: i, s: tailings, i: tailing
+tailings <> b: tailing, f: s
+taille <> s: tailles
+tailles <> b: taille, f: s
+tailor <> d: tailored, p: tailored, s: tailors, '3': tailors, i: tailoring
+tailored <> b: tailor, f: dp, d: tailored, p: tailored
+tailoring <> b: tailore, f: i, i: tailoring
+tailors <> b: tailor, f: s3
+tailpiece <> s: tailpieces
+tailpieces <> b: tailpiece, f: s
+tailpipe <> s: tailpipes
+tailpipes <> b: tailpipe, f: s
+tailplane <> s: tailplanes
+tailplanes <> b: tailplane, f: s
+tails <> b: tail, f: s3
+tailwind <> d: tailwinded
+tailwinded <> b: tailwind, f: d
+taint <> d: tainted, '3': taints, i: tainting, p: tainted, s: taints
+tainted <> b: taint, f: dp, d: tainted
+tainting <> b: taint, f: i
+taints <> b: taint, f: 3s
+taipei <> s: taipei, b: taipei, f: s
+take <> p: took, d: taken, i: taking, '3': takes
+take-off <> s: take-offs
+take-offs <> b: take-off, f: s
+take-out <> s: take-outs
+take-outs <> b: take-out, f: s
+take-up <> s: take-ups
+take-ups <> b: take-up, f: s
+takeaway <> s: takeaways
+takeaways <> b: takeaway, f: s
+taken <> b: take, f: d, d: taken
+takeoff <> s: takeoffs
+takeoffs <> b: takeoff, f: s
+takeover <> s: takeovers
+takeovers <> b: takeover, f: s
+taker <> s: takers
+takers <> b: taker, f: s
+takes <> b: take, f: '3'
+takin <> i: takin, b: takin, f: i
+taking <> b: take, f: i, s: takings, i: taking
+takings <> b: taking, f: s
+talc <> s: talcs, i: talcking, p: talcked, '3': talcs, d: talcked
+talcked <> f: pd, b: talc
+talcking <> f: i, b: talc
+talcs <> f: s3, b: talc
+tale <> s: tales
+talent <> s: talents
+talents <> b: talent, f: s
+tales <> b: tale, f: s
+talipes <> b: talipe, f: s
+talisman <> s: talismans
+talismans <> b: talisman, f: s
+talk <> i: talking, s: talks, p: talked, d: talked, '3': talks
+talked <> b: talk, f: pd
+talker <> s: talkers
+talkers <> b: talker, f: s
+talkies <> b: talky, f: s3
+talkin <> i: talkin, b: talkin, f: i
+talking <> b: talk, f: i, i: talking, s: talkings
+talks <> b: talk, f: s3
+talky <> s: talkies, '3': talkies
+tall <> r: taller, t: tallest
+tallboy <> s: tallboys
+tallboys <> b: tallboy, f: s
+taller <> b: tall, f: r
+tallest <> b: tall, f: t
+tallied <> b: tally, f: pd
+tallies <> b: tally, f: s3
+tally <> s: tallies, '3': tallies, p: tallied, i: tallying, d: tallied
+tallying <> b: tally, f: i
+tallyman <> s: tallymen
+tallymen <> b: tallyman, f: s
+talon <> s: talons, p: taloned, d: taloned
+taloned <> b: talon, f: pd
+talons <> b: talon, f: s
+tamale <> s: tamales
+tamales <> b: tamale, f: s
+tamarin <> s: tamarins
+tamarind <> s: tamarinds
+tamarinds <> b: tamarind, f: s
+tamarins <> b: tamarin, f: s
+tamarisk <> s: tamarisks
+tamarisks <> b: tamarisk, f: s
+tambour <> s: tambours, p: tamboured
+tamboured <> b: tambour, f: p
+tambourine <> s: tambourines
+tambourines <> b: tambourine, f: s
+tambours <> b: tambour, f: s
+tame <> d: tamed, i: taming, p: tamed, r: tamer, '3': tames
+tamed <> b: tame, f: dp, d: tamed, p: tamed
+tamer <> b: tame, f: r, s: tamers
+tames <> b: tame, f: '3'
+Tamil <> s: tamils
+tamils <> b: tamil, f: s
+taming <> b: tame, f: i, i: taming
+tamp <> p: tamped, i: tamping, d: tamped, '3': tamps
+tamped <> b: tamp, f: pd
+tamper <> i: tampering, d: tampered, p: tampered, '3': tampers
+tampered <> b: tamper, f: dp, p: tampered
+tampering <> b: tamper, f: i, i: tampering
+tampers <> b: tamper, f: '3'
+Tampico <> s: tampicos
+tamping <> b: tamp, f: i
+tampon <> s: tampons, i: tamponing, p: tamponed, '3': tampons, d: tamponed
+tamponed <> f: pd, b: tampon
+tamponing <> f: i, b: tampon
+tampons <> f: s3, b: tampon
+tamps <> f: '3', b: tamp
+tan <> s: tans, p: tanned, d: tanned, i: tanning, '3': tans
+tanager <> s: tanagers
+tanagers <> b: tanager, f: s
+tancred <> p: tancred, b: tancred, f: p
+tandem <> s: tandems
+tandems <> b: tandem, f: s
+tandoori <> s: tandoori, b: tandoori, f: s
+tang <> s: tangs
+tangencies <> b: tangency, f: s
+tangency <> s: tangencies
+tangent <> s: tangents
+tangents <> b: tangent, f: s
+tangerine <> s: tangerines
+tangerines <> b: tangerine, f: s
+tangible <> s: tangibles
+tangibles <> b: tangible, f: s
+tangle <> s: tangles, p: tangled, d: tangled, i: tangling, '3': tangles
+tangled <> b: tangle, f: pd, d: tangled, p: tangled
+tangles <> b: tangle, f: s3
+tangling <> b: tangle, f: i
+tango <> s: tangos, i: tangoing, p: tangoed, '3': tangoes, d: tangoed
+tangoed <> f: pd, b: tango
+tangoes <> f: '3', b: tango
+tangoing <> f: i, b: tango
+tangos <> b: tango, f: s
+tangram <> s: tangrams
+tangrams <> b: tangram, f: s
+tangs <> b: tang, f: s
+Tangut <> s: tanguts
+tank <> s: tanks, i: tanking, p: tanked, '3': tanks, d: tanked
+tankard <> s: tankards
+tankards <> b: tankard, f: s
+tanked <> p: tanked, b: tanked, f: p
+tanker <> s: tankers, d: tankered
+tankered <> b: tanker, f: d
+tankers <> b: tanker, f: s
+tankful <> s: tankfuls
+tankfuls <> b: tankful, f: s
+tanks <> b: tank, f: s
+tanned <> b: tan, f: pd, d: tanned, p: tanned, s: tanneds
+tanner <> s: tanners
+tanneries <> b: tannery, f: s
+tanners <> b: tanner, f: s
+tannery <> s: tanneries
+tannin <> s: tannins
+tanning <> b: tan, f: i, i: tanning
+tannins <> b: tannin, f: s
+tannoy <> s: tannoys, d: tannoyed, p: tannoyed
+tannoyed <> b: tannoy, f: dp
+tannoys <> b: tannoy, f: s
+tans <> b: tan, f: s3
+tantalise <> d: tantalised, i: tantalising, p: tantalised, s: tantalises, '3': tantalises
+tantalised <> b: tantalise, f: dp
+tantalises <> b: tantalise, f: s3
+tantalising <> i: tantalising, b: tantalising, f: i
+tantalize <> i: tantalizing, '3': tantalizes, p: tantalized, d: tantalized
+tantalized <> b: tantalize, f: pd
+tantalizes <> b: tantalize, f: '3'
+tantalizing <> b: tantalize, f: i, i: tantalizing
+tantrum <> s: tantrums
+tantrums <> b: tantrum, f: s
+Tanzanian <> s: tanzanians
+Tao <> s: taos
+Taoist <> s: taoists
+taos <> b: tao, f: s
+tap <> p: tapped, i: tapping, s: taps, d: tapped, '3': taps
+tap-dance <> i: tap-dancing
+tap-dancing <> b: tap-dance, f: i
+tap-in <> s: tap-ins
+tap-ins <> b: tap-in, f: s
+tapa <> s: tapas
+tapas <> b: tapa, f: s
+tape <> s: tapes, i: taping, d: taped, p: taped, '3': tapes
+taped <> b: tape, f: dp, d: taped, p: taped
+taper <> i: tapering, s: tapers, p: tapered, d: tapered, '3': tapers
+tapered <> b: taper, f: pd, p: tapered
+tapering <> b: taper, f: i, i: tapering
+tapers <> b: taper, f: s3
+tapes <> f: s3, b: tape
+tapestried <> b: tapestry, f: pd, p: tapestried
+tapestries <> b: tapestry, f: s
+tapestry <> s: tapestries, p: tapestried, d: tapestried
+tapeworm <> s: tapeworms, '3': tapeworms
+tapeworms <> b: tapeworm, f: s3
+taping <> b: tape, f: i, i: taping, s: tapings
+tapir <> s: tapirs
+tapirs <> b: tapir, f: s
+tapped <> b: tap, f: pd, p: tapped
+tapper <> s: tappers
+tappers <> b: tapper, f: s
+tappet <> s: tappets
+tappets <> b: tappet, f: s
+tapping <> b: tap, f: i, s: tappings, i: tapping
+taps <> b: tap, f: s3
+tar <> d: tarred, p: tarred, s: tars, i: tarring, '3': tars
+tarantula <> s: tarantulas
+tarantulas <> b: tarantula, f: s
+tarboosh <> s: tarbooshes
+tarbooshes <> b: tarboosh, f: s
+tardigrade <> s: tardigrades
+tardigrades <> b: tardigrade, f: s
+tardis <> b: tardi, f: s3
+tare <> s: tares, d: tared, '3': tares, i: taring, p: tared
+tared <> b: tare, f: dp
+tares <> b: tare, f: s3
+target <> s: targets, d: targeted, i: targeting, p: targeted, '3': targets
+targeted <> b: target, f: dp, d: targeted, p: targeted
+targeting <> b: target, f: i, i: targeting
+targets <> b: target, f: s3
+tariff <> s: tariffs, i: tariffing, p: tariffed, '3': tariffs, d: tariffed
+tariffed <> f: pd, b: tariff
+tariffing <> i: tariffing, b: tariffing, f: i
+tariffs <> f: s3, b: tariff
+Tarim <> s: tarims
+taring <> b: tare, f: i
+tarmac <> i: tarmacking, p: tarmacked, '3': tarmacs, d: tarmacked
+tarmacked <> d: tarmacked, b: tarmacked, f: dp, p: tarmacked
+tarmacking <> f: i, b: tarmac
+tarmacs <> f: '3', b: tarmac
+tarn <> s: tarns
+tarnish <> d: tarnished, p: tarnished, i: tarnishing, '3': tarnishes
+tarnished <> b: tarnish, f: dp, d: tarnished, p: tarnished
+tarnishes <> b: tarnish, f: '3'
+tarnishing <> b: tarnish, f: i
+tarns <> b: tarn, f: s
+tarp <> s: tarps
+tarpaulin <> s: tarpaulins
+tarpaulins <> b: tarpaulin, f: s
+tarps <> b: tarp, f: s
+tarred <> b: tar, f: dp, p: tarred
+tarried <> b: tarry, f: pd
+tarries <> f: '3', b: tarry
+tarry <> p: tarried, d: tarried, i: tarrying, '3': tarries
+tarrying <> b: tarry, f: i
+tars <> f: s3, b: tar
+tarsal <> s: tarsals
+tarsals <> b: tarsal, f: s
+tarsi <> s: tarsi, b: tarsi, f: s
+tarsier <> s: tarsiers
+tart <> s: tarts, i: tarting, p: tarted, d: tarted
+tartan <> s: tartans
+tartans <> b: tartan, f: s
+tartar <> s: tartars
+tartars <> b: tartar, f: s
+tarted <> b: tart, f: pd
+tarting <> b: tart, f: i
+tartlet <> s: tartlets
+tartlets <> b: tartlet, f: s
+tarts <> b: tart, f: s
+tas <> b: ta, f: s
+task <> s: tasks, d: tasked, i: tasking, p: tasked, '3': tasks
+tasked <> f: dp, b: task
+taskforce <> s: taskforces
+taskforces <> b: taskforce, f: s
+tasking <> i: tasking, b: tasking, f: i
+taskmaster <> s: taskmasters
+taskmasters <> b: taskmaster, f: s
+tasks <> f: s3, b: task
+Tasmanian <> s: tasmanians
+tassel <> s: tassels, p: tasselled
+tasselled <> b: tassel, f: p, p: tasselled
+tassels <> b: tassel, f: s
+taste <> s: tastes, p: tasted, d: tasted, '3': tastes, i: tasting
+tastebud <> s: tastebuds
+tasted <> b: taste, f: pd
+taster <> s: tasters
+tasters <> b: taster, f: s
+tastes <> b: taste, f: s3
+tastier <> b: tasty, f: r
+tastiest <> b: tasty, f: t
+tasting <> b: taste, f: i, i: tasting, s: tastings
+tasty <> r: tastier, t: tastiest
+tat <> s: tats, i: tatting, p: tatted, '3': tats, d: tatted
+tatami <> s: tatami, b: tatami, f: s
+tatar <> s: tatars
+tatars <> b: tatar, f: s
+tate <> r: tater
+tater <> b: tate, f: r, s: taters
+tatler <> s: tatlers
+tatlers <> b: tatler, f: s
+tats <> f: s3, b: tat
+tatted <> f: pd, b: tat
+tatter <> s: tatters, i: tattering
+tattering <> b: tatter, f: i
+tatters <> b: tatter, f: s
+tattie <> s: tatties
+tattier <> b: tatty, f: r
+tatties <> b: tattie, f: s
+tatting <> b: tat, f: i
+tattle <> i: tattling, p: tattled, '3': tattles, d: tattled
+tattled <> f: pd, b: tattle
+tattles <> f: '3', b: tattle
+tattling <> b: tattle, f: i
+tattoo <> s: tattoos, i: tattooing, p: tattooed, '3': tattoos, d: tattooed
+tattooed <> b: tattooe, f: dp, p: tattooed
+tattooing <> b: tattoo, f: i
+tattoos <> f: s3, b: tattoo
+tatty <> r: tattier
+taught <> b: teach, f: dp, p: taught, d: taught
+taunt <> p: taunted, s: taunts, i: taunting, d: taunted, '3': taunts
+taunted <> b: taunt, f: pd
+taunting <> b: taunt, f: i, i: taunting
+taunts <> b: taunt, f: s3
+taupe <> s: taupes
+taupes <> b: taupe, f: s
+Taurean <> s: taureans
+taut <> r: tauter, i: tauting
+tauten <> p: tautened, i: tautening, '3': tautens, d: tautened
+tautened <> f: pd, b: tauten
+tautening <> b: tauten, f: i
+tautens <> f: '3', b: tauten
+tauter <> b: taut, f: r
+tauting <> b: taut, f: i
+tautologies <> b: tautology, f: s
+tautology <> s: tautologies
+tautonym <> s: tautonyms
+tautonyms <> b: tautonym, f: s
+tavern <> s: taverns
+taverna <> s: tavernas
+tavernas <> b: taverna, f: s
+taverner <> s: taverners
+taverners <> b: taverner, f: s
+taverns <> b: tavern, f: s
+tawnies <> b: tawny, f: s
+tawny <> s: tawnies
+tax <> s: taxes, d: taxed, p: taxed, i: taxing, '3': taxes
+taxa <> s: taxa, b: taxa, f: s
+taxation <> s: taxations
+taxations <> b: taxation, f: s
+taxed <> b: tax, f: dp, d: taxed, p: taxed
+taxer <> s: taxers
+taxers <> b: taxer, f: s
+taxes <> f: s3, b: tax
+taxi <> s: taxis, i: taxiing, p: taxied, '3': taxies, d: taxied
+taxicab <> s: taxicabs
+taxicabs <> b: taxicab, f: s
+taxidermist <> s: taxidermists
+taxidermists <> b: taxidermist, f: s
+taxied <> b: taxy, f: pd
+taxies <> b: taxy, f: s
+taxiing <> b: taxi, f: i
+taxing <> b: tax, f: i, i: taxing
+taxis <> b: taxi, f: s
+taxiway <> s: taxiways
+taxiways <> b: taxiway, f: s
+taxman <> s: taxmen
+taxmen <> b: taxman, f: s
+taxonomies <> b: taxonomy, f: s
+taxonomist <> s: taxonomists
+taxonomists <> b: taxonomist, f: s
+taxonomy <> s: taxonomies
+taxpayer <> s: taxpayers
+taxpayers <> b: taxpayer, f: s
+taxy <> p: taxied, i: taxying, d: taxied, s: taxies
+taxying <> b: taxy, f: i
+tay <> p: taid
+TB <> s: tbs
+tbs <> b: tb, f: s
+tbsp <> s: tbsps
+tbsps <> b: tbsp, f: s
+td <> s: tds
+Te <> s: tes
+tea <> s: teas
+teabag <> s: teabags
+teabags <> b: teabag, f: s
+teacake <> s: teacakes
+teacakes <> b: teacake, f: s
+teach <> d: taught, i: teaching, p: taught, '3': teaches
+teach-in <> s: teach-ins
+teach-ins <> b: teach-in, f: s
+teacher <> s: teachers
+teachers <> b: teacher, f: s
+teaching <> b: teach, f: i, i: teaching, s: teachings
+teachings <> b: teaching, f: s
+teacup <> s: teacups
+teacups <> b: teacup, f: s
+teahouse <> s: teahouses
+teahouses <> b: teahouse, f: s
+teal <> s: teals
+teals <> b: teal, f: s
+team <> s: teams, d: teamed, p: teamed, i: teaming, '3': teams
+team-mate <> s: team-mates
+team-mates <> b: team-mate, f: s
+teamed <> b: team, f: dp
+teaming <> b: team, f: i
+teammate <> s: teammates
+teammates <> b: teammate, f: s
+teams <> f: s3, b: team
+teamster <> s: teamsters
+teamsters <> b: teamster, f: s
+teamwork <> s: teamworks, i: teamworking
+teamworking <> b: teamwork, f: i, i: teamworking
+teamworks <> b: teamwork, f: s
+teapot <> s: teapots
+teapots <> b: teapot, f: s
+tear <> s: tears, d: torn, p: tore, i: tearing, '3': tears
+tearaway <> s: tearaways
+tearaways <> b: tearaway, f: s
+teardrop <> s: teardrops
+teardrops <> b: teardrop, f: s
+tearing <> b: tear, f: i, i: tearing, s: tearings
+tearoom <> s: tearooms
+tearooms <> b: tearoom, f: s
+tears <> b: tear, f: s3
+teas <> b: tea, f: s
+tease <> p: teased, i: teasing, d: teased, '3': teases, s: teases
+teased <> b: tease, f: pd, d: teased, p: teased
+teasel <> s: teasels, '3': teasels
+teasels <> b: teasel, f: s3
+teaser <> s: teasers
+teasers <> b: teaser, f: s
+teases <> b: tease, f: 3s
+teashop <> s: teashops
+teashops <> b: teashop, f: s
+teasing <> b: tease, f: i, i: teasing
+teaspoon <> s: teaspoons
+teaspoonful <> s: teaspoonfuls
+teaspoonfuls <> b: teaspoonful, f: s
+teaspoons <> b: teaspoon, f: s
+teat <> s: teats
+teats <> b: teat, f: s
+teazle <> s: teazles
+teazles <> b: teazle, f: s
+tec <> s: tecs
+tech <> s: techs
+techies <> b: techy, f: s
+technic <> s: technics
+technicalities <> b: technicality, f: s
+technicality <> s: technicalities
+technician <> s: technicians
+technicians <> b: technician, f: s
+technics <> b: technic, f: s
+technique <> s: techniques
+techniques <> b: technique, f: s
+technocrat <> s: technocrats
+technocrats <> b: technocrat, f: s
+technologies <> b: technology, f: s
+technologist <> s: technologists
+technologists <> b: technologist, f: s
+technology <> s: technologies
+technophile <> s: technophiles
+technophiles <> b: technophile, f: s
+techs <> b: tech, f: s
+techy <> s: techies
+TECS <> b: tec, f: s
+tectonic <> s: tectonics
+tectonics <> b: tectonic, f: s
+ted <> s: teds
+teddies <> b: teddy, f: s
+teddy <> s: teddies
+tee <> s: tees, i: teeing, '3': tees, p: teed, d: teed
+teed <> f: pd, b: tee
+teeing <> b: tee, f: i
+teem <> i: teeming, p: teemed, s: teems, '3': teems, d: teemed
+teemed <> b: teem, f: pd
+teeming <> b: teem, f: i
+teems <> b: teem, f: s3
+teen <> s: teens
+teenaged <> p: teenaged, b: teenaged, f: p
+teenager <> s: teenagers
+teenagers <> b: teenager, f: s
+teenies <> b: teeny, f: s
+teeniest <> b: teeny, f: t
+teens <> b: teen, f: s
+teeny <> t: teeniest, s: teenies
+teeny-bopper <> s: teeny-boppers
+teeny-boppers <> b: teeny-bopper, f: s
+teeny-weenies <> b: teeny-weeny, f: s
+teeny-weeny <> s: teeny-weenies
+teenybopper <> s: teenyboppers
+teenyboppers <> b: teenybopper, f: s
+teepee <> s: teepees
+teepees <> b: teepee, f: s
+tees <> b: tee, f: s3
+teeter <> p: teetered, i: teetering, '3': teeters, d: teetered
+teetered <> b: teeter, f: pd
+teetering <> b: teeter, f: i, i: teetering
+teeters <> b: teeter, f: '3'
+teeth <> b: tooth, f: s
+teethe <> s: teethes, d: teethed, i: teething, p: teethed, '3': teethes
+teethed <> f: dp, b: teethe
+teethes <> f: s3, b: teethe
+teething <> i: teething, b: teething, f: i
+teetotaller <> s: teetotallers
+teetotallers <> b: teetotaller, f: s
+tele <> s: teles
+telecast <> d: telecast, b: telecast, f: dp, i: telecasting, p: telecast, s: telecasts, '3': telecasts
+telecaster <> s: telecasters
+telecasters <> b: telecaster, f: s
+telecasting <> b: telecast, f: i
+telecasts <> b: telecast, f: s
+telecommunication <> s: telecommunications
+telecommunications <> b: telecommunication, f: s
+telecottage <> s: telecottages
+telecottages <> b: telecottage, f: s
+telefax <> p: telefaxed
+telefaxed <> b: telefax, f: p
+telegram <> s: telegrams
+telegrams <> b: telegram, f: s
+telegraph <> s: telegraphs, p: telegraphed, d: telegraphed, i: telegraphing, '3': telegraphs
+telegraphed <> b: telegraph, f: pd
+telegrapher <> s: telegraphers
+telegraphers <> b: telegrapher, f: s
+telegraphing <> b: telegraph, f: i
+telegraphist <> s: telegraphists
+telegraphists <> b: telegraphist, f: s
+telegraphs <> f: s3, b: telegraph
+telemarketing <> b: telemarkete, f: i, i: telemarketing
+telemessage <> s: telemessages
+telemessages <> b: telemessage, f: s
+teleologies <> b: teleology, f: s
+teleology <> s: teleologies
+teleost <> s: teleosts
+teleosts <> b: teleost, f: s
+telepath <> s: telepaths
+telepathize <> i: telepathizing, p: telepathized, '3': telepathizes, d: telepathized
+telepathized <> f: pd, b: telepathize
+telepathizes <> f: '3', b: telepathize
+telepathizing <> f: i, b: telepathize
+telepaths <> b: telepath, f: s
+telephone <> p: telephoned, s: telephones, i: telephoning, d: telephoned, '3': telephones
+telephoned <> b: telephone, f: pd
+telephones <> b: telephone, f: s3
+telephonic <> s: telephonics
+telephonics <> b: telephonic, f: s
+telephoning <> b: telephone, f: i, i: telephoning
+telephonist <> s: telephonists
+telephonists <> b: telephonist, f: s
+telephoto <> s: telephotos
+telephotos <> b: telephoto, f: s
+teleport <> s: teleports, '3': teleports, i: teleporting, p: teleported, d: teleported
+teleports <> b: teleport, f: s3
+teleprinter <> s: teleprinters
+teleprinters <> b: teleprinter, f: s
+telerecord <> i: telerecording, p: telerecorded
+telerecorded <> b: telerecord, f: p
+telerecording <> i: telerecording, b: telerecording, f: i
+teles <> b: tele, f: s
+telesale <> s: telesales, i: telesaling
+telesales <> b: telesale, f: s
+telesaling <> b: telesale, f: i
+telescope <> s: telescopes, p: telescoped, i: telescoping, d: telescoped, '3': telescopes
+telescoped <> b: telescope, f: pd
+telescopes <> f: s3, b: telescope
+telescoping <> b: telescope, f: i, i: telescoping
+telescreen <> s: telescreens
+telescreens <> b: telescreen, f: s
+teleshop <> i: teleshopping
+teleshopping <> b: teleshop, f: i
+teletex <> s: teletexes
+teletexes <> b: teletex, f: s
+telethon <> s: telethons
+telethons <> b: telethon, f: s
+teletype <> s: teletypes
+televise <> d: televised, i: televising, p: televised, '3': televises
+televised <> d: televised, b: televised, f: dp, p: televised
+televises <> b: televise, f: '3'
+televising <> b: televise, f: i, i: televising
+television <> s: televisions
+televisions <> b: television, f: s
+televisual <> s: televisuals
+televisuals <> b: televisual, f: s
+telework <> i: teleworking, d: teleworked
+teleworked <> b: telework, f: d
+teleworker <> s: teleworkers
+teleworkers <> b: teleworker, f: s
+teleworking <> b: telework, f: i, i: teleworking
+telex <> s: telexes, p: telexed, d: telexed, i: telexing, '3': telexes
+telexed <> b: telex, f: pd, p: telexed
+telexes <> b: telex, f: s3
+telexing <> b: telex, f: i
+tell <> p: told, d: told, i: telling, '3': tells
+teller <> s: tellers
+tellers <> b: teller, f: s
+tellies <> b: telly, f: s
+tellin <> s: tellins
+telling <> b: tell, f: i, i: telling, s: tellings
+tellins <> b: tellin, f: s
+tells <> b: tell, f: '3'
+telltale <> s: telltales
+telltales <> b: telltale, f: s
+telluride <> s: tellurides
+tellurides <> b: telluride, f: s
+telly <> s: tellies
+telo <> s: telos
+telomere <> s: telomeres
+telomeres <> b: telomere, f: s
+telos <> b: telo, f: s
+temp <> s: temps, i: temping, d: temped
+temped <> b: temp, f: d
+temper <> d: tempered, s: tempers, p: tempered, i: tempering, '3': tempers
+tempera <> s: temperas
+temperament <> s: temperaments
+temperaments <> b: temperament, f: s
+temperas <> b: tempera, f: s
+temperature <> s: temperatures
+temperatures <> b: temperature, f: s
+tempered <> b: temper, f: dp, d: tempered, p: tempered
+tempering <> b: temper, f: i, i: tempering
+tempers <> b: temper, f: s3
+tempest <> s: tempests
+tempests <> b: tempest, f: s
+tempi <> b: tempo, f: s
+temping <> b: temp, f: i
+Templar <> s: templars
+templars <> b: templar, f: s
+template <> s: templates, i: templating
+templates <> b: template, f: s
+templating <> b: template, f: i
+temple <> s: temples
+temples <> b: temple, f: s
+templeton <> s: templetons
+templetons <> b: templeton, f: s
+tempo <> s: tempos
+temporalities <> b: temporality, f: s
+temporality <> s: temporalities
+temporaries <> b: temporary, f: s
+temporary <> s: temporaries
+temporise <> p: temporised, i: temporising
+temporised <> b: temporise, f: p
+temporising <> b: temporise, f: i, i: temporising
+temporize <> i: temporizing, p: temporized, '3': temporizes, d: temporized
+temporized <> f: pd, b: temporize
+temporizes <> f: '3', b: temporize
+temporizing <> b: temporize, f: i
+tempos <> b: tempo, f: s
+temps <> b: temp, f: s
+tempt <> d: tempted, p: tempted, '3': tempts, i: tempting
+temptation <> s: temptations
+temptations <> b: temptation, f: s
+tempted <> b: tempt, f: dp
+tempter <> s: tempters
+tempters <> b: tempter, f: s
+tempting <> b: tempt, f: i, i: tempting
+temptress <> s: temptresses
+temptresses <> b: temptress, f: s
+tempts <> b: tempt, f: '3'
+tenacities <> b: tenacity, f: s
+tenacity <> s: tenacities
+tenancies <> b: tenancy, f: s
+tenancy <> s: tenancies
+tenant <> s: tenants, d: tenanted, p: tenanted, i: tenanting, '3': tenants
+tenanted <> b: tenant, f: dp, p: tenanted, d: tenanted
+tenanting <> f: i, b: tenant
+tenants <> f: s3, b: tenant
+tend <> '3': tends, p: tended, d: tended, i: tending
+tended <> b: tend, f: pd, p: tended
+tendencies <> b: tendency, f: s
+tendency <> s: tendencies
+tender <> s: tenders, d: tendered, p: tendered, i: tendering, '3': tenders
+tendered <> b: tender, f: dp
+tenderer <> b: tendere, f: r, s: tenderers
+tenderers <> b: tenderer, f: s
+tenderest <> b: tendere, f: t
+tendering <> b: tender, f: i, i: tendering
+tenderize <> i: tenderizing, p: tenderized, '3': tenderizes, d: tenderized
+tenderized <> f: pd, b: tenderize
+tenderizes <> f: '3', b: tenderize
+tenderizing <> b: tenderize, f: i
+tenders <> b: tender, f: s3
+tending <> b: tend, f: i, i: tending
+tendon <> s: tendons, p: tendoned
+tendoned <> b: tendon, f: p
+tendons <> b: tendon, f: s
+tendril <> s: tendrils, p: tendrilled
+tendrilled <> b: tendril, f: p
+tendrils <> b: tendril, f: s
+tends <> b: tend, f: '3'
+tenement <> s: tenements
+tenements <> b: tenement, f: s
+tenet <> s: tenets
+tenets <> b: tenet, f: s
+Tennant <> s: tennants
+tennent <> s: tennents
+tennents <> b: tennent, f: s
+tenner <> s: tenners
+tenners <> b: tenner, f: s
+tenon <> s: tenons, p: tenoned, d: tenoned, i: tenoning
+tenoned <> b: tenon, f: pd
+tenoning <> b: tenon, f: i
+tenons <> b: tenon, f: s
+tenor <> s: tenors
+tenors <> b: tenor, f: s
+tenpin <> s: tenpins
+tenpins <> b: tenpin, f: s
+tenrec <> s: tenrecs
+tenrecs <> b: tenrec, f: s
+tense <> p: tensed, i: tensing, d: tensed, s: tenses, '3': tenses
+tensed <> b: tense, f: pd, d: tensed
+tenses <> b: tense, f: s3
+tensing <> b: tense, f: i, i: tensing
+tension <> s: tensions, d: tensioned
+tensioned <> b: tension, f: d, d: tensioned
+tensioner <> s: tensioners
+tensioners <> b: tensioner, f: s
+tensions <> b: tension, f: s
+tensor <> s: tensors
+tensors <> b: tensor, f: s
+tent <> s: tents, p: tented, i: tenting, '3': tents, d: tented
+tentacle <> s: tentacles, p: tentacled
+tentacled <> b: tentacle, f: p
+tentacles <> b: tentacle, f: s
+tented <> f: pd, b: tent, p: tented
+tenter <> s: tenters, i: tentering
+tenterhooks <> s: tenterhooks, b: tenterhooks, f: s
+tentering <> b: tenter, f: i
+tenters <> b: tenter, f: s
+tenting <> f: i, b: tent
+tents <> f: s3, b: tent
+tenure <> s: tenures, p: tenured
+tenured <> b: tenure, f: p
+tenures <> b: tenure, f: s
+tepee <> s: tepees
+tepees <> b: tepee, f: s
+tequila <> s: tequilas
+tequilas <> b: tequila, f: s
+ter <> s: ters
+terabyte <> s: terabytes
+terabytes <> b: terabyte, f: s
+teraflop <> s: teraflops
+teraflops <> b: teraflop, f: s
+terai <> s: terai, b: terai, f: s
+teratogen <> s: teratogens
+teratogens <> b: teratogen, f: s
+tere <> s: teres
+teres <> b: tere, f: s
+tergal <> s: tergals
+tergals <> b: tergal, f: s
+tergite <> s: tergites
+tergites <> b: tergite, f: s
+tergiversate <> p: tergiversated, i: tergiversating, '3': tergiversates, d: tergiversated
+tergiversated <> f: pd, b: tergiversate
+tergiversates <> f: '3', b: tergiversate
+tergiversating <> f: i, b: tergiversate
+tergiversation <> s: tergiversations
+tergiversations <> b: tergiversation, f: s
+teriyaki <> s: teriyaki, b: teriyaki, f: s
+term <> s: terms, d: termed, p: termed, '3': terms, i: terming
+termed <> b: term, f: dp
+terminal <> s: terminals
+terminals <> b: terminal, f: s
+terminate <> d: terminated, i: terminating, '3': terminates, p: terminated
+terminated <> b: terminate, f: dp, d: terminated, p: terminated
+terminates <> b: terminate, f: '3'
+terminating <> b: terminate, f: i, i: terminating
+termination <> s: terminations
+terminations <> b: termination, f: s
+terminator <> s: terminators
+terminators <> b: terminator, f: s
+terming <> f: i, b: term
+termini <> b: terminus, f: s
+terminologies <> b: terminology, f: s
+terminology <> s: terminologies
+terminus <> s: termini
+termite <> s: termites
+termites <> b: termite, f: s
+terms <> b: term, f: s3
+tern <> s: terns
+terns <> b: tern, f: s
+terpene <> s: terpenes
+terpenes <> b: terpene, f: s
+terpenoid <> s: terpenoids
+terpenoids <> b: terpenoid, f: s
+terrace <> s: terraces, i: terracing, p: terraced, '3': terraces, d: terraced
+terraced <> d: terraced, b: terraced, f: d
+terraces <> f: s3, b: terrace
+terracing <> f: i, b: terrace, s: terracings
+terracotta <> s: terracottas
+terracottas <> b: terracotta, f: s
+terrain <> s: terrains
+terrains <> b: terrain, f: s
+terrane <> s: terranes
+terranes <> b: terrane, f: s
+terrapin <> s: terrapins
+terrapins <> b: terrapin, f: s
+terrarium <> s: terrariums
+terrariums <> b: terrarium, f: s
+terre <> s: terres
+terres <> b: terre, f: s
+terrestrial <> s: terrestrials
+terrestrials <> b: terrestrial, f: s
+terrier <> s: terriers
+terriers <> b: terrier, f: s
+terries <> b: terry, f: s
+terrified <> d: terrified, b: terrified, f: dp, p: terrified
+terrifies <> b: terrify, f: '3'
+terrify <> d: terrified, i: terrifying, p: terrified, '3': terrifies
+terrifying <> i: terrifying, b: terrifying, f: i
+terrine <> s: terrines
+terrines <> b: terrine, f: s
+territorial <> s: territorials
+territorials <> b: territorial, f: s
+territories <> b: territory, f: s
+territory <> s: territories
+terror <> s: terrors
+terrorise <> d: terrorised, i: terrorising, p: terrorised, '3': terrorises
+terrorised <> b: terrorise, f: dp, d: terrorised, p: terrorised
+terrorises <> b: terrorise, f: '3'
+terrorising <> b: terrorise, f: i
+terrorist <> s: terrorists
+terrorists <> b: terrorist, f: s
+terrorize <> d: terrorized, p: terrorized, i: terrorizing, '3': terrorizes
+terrorized <> b: terrorize, f: dp
+terrorizes <> b: terrorize, f: '3'
+terrorizing <> b: terrorize, f: i
+terrors <> b: terror, f: s
+terry <> s: terries
+ters <> b: ter, f: s
+terse <> r: terser
+terser <> b: terse, f: r
+tertiaries <> b: tertiary, f: s
+tertiary <> s: tertiaries
+tes <> b: te, f: s
+Tessa <> s: tessas
+tessellate <> d: tessellated, p: tessellated, i: tessellating, '3': tessellates
+tessellated <> p: tessellated, b: tessellated, f: p
+tessellates <> f: '3', b: tessellate
+tessellating <> b: tessellate, f: i
+tessellation <> s: tessellations
+tessellations <> b: tessellation, f: s
+tesserae <> s: tesserae, b: tesserae, f: s
+test <> s: tests, d: tested, i: testing, p: tested, '3': tests
+testament <> s: testaments
+testaments <> b: testament, f: s
+testator <> s: testators
+testators <> b: testator, f: s
+testbed <> s: testbeds
+testbeds <> b: testbed, f: s
+teste <> s: testes
+tested <> b: test, f: dp, d: tested, p: tested
+testee <> s: testees
+testees <> b: testee, f: s
+tester <> s: testers
+testers <> b: tester, f: s
+testes <> b: teste, f: s
+testicle <> s: testicles
+testicles <> b: testicle, f: s
+testified <> b: testify, f: pd
+testifies <> b: testify, f: '3'
+testify <> p: testified, '3': testifies, i: testifying, d: testified
+testifying <> b: testify, f: i, i: testifying
+testimonial <> s: testimonials
+testimonials <> b: testimonial, f: s
+testimonies <> b: testimony, f: s
+testimony <> s: testimonies
+testing <> b: test, f: i, i: testing, s: testings
+tests <> b: test, f: s3
+tet <> r: tetter
+tetchier <> b: tetchy, f: r
+tetchy <> r: tetchier
+tether <> d: tethered, '3': tethers, p: tethered, i: tethering, s: tethers
+tethered <> b: tether, f: dp, d: tethered
+tethering <> b: tether, f: i, i: tethering
+tethers <> b: tether, f: 3s
+Tethys <> b: tethy, f: s
+tetra <> s: tetras
+tetracycline <> s: tetracyclines
+tetracyclines <> b: tetracycline, f: s
+tetrad <> s: tetrads
+tetrads <> b: tetrad, f: s
+tetrahedral <> s: tetrahedrals
+tetrahedrals <> b: tetrahedral, f: s
+tetrahedron <> s: tetrahedrons
+tetrahedrons <> b: tetrahedron, f: s
+tetrahydrocannabinol <> s: tetrahydrocannabinols
+tetrahydrocannabinols <> b: tetrahydrocannabinol, f: s
+tetramer <> s: tetramers
+tetramers <> b: tetramer, f: s
+tetrapod <> s: tetrapods
+tetrapods <> b: tetrapod, f: s
+tetras <> b: tetra, f: s
+tetter <> b: tet, f: r
+Teuton <> s: teutons
+teutons <> b: teuton, f: s
+Texan <> s: texans
+texans <> b: texan, f: s
+Texel <> s: texels
+text <> s: texts
+textbook <> s: textbooks
+textbooks <> b: textbook, f: s
+textile <> s: textiles
+textiles <> b: textile, f: s
+texts <> b: text, f: s
+textualist <> s: textualists
+textualists <> b: textualist, f: s
+texture <> s: textures, d: textured, i: texturing
+textured <> b: texture, f: d, d: textured
+textures <> b: texture, f: s
+texturing <> b: texture, f: i, i: texturing
+tha <> s: thas
+Thai <> s: thai, b: thai, f: s
+thalassaemia <> s: thalassaemias
+thalassaemias <> b: thalassaemia, f: s
+thale <> s: thales
+thaler <> s: thalers
+thalers <> b: thaler, f: s
+Thales <> b: thale, f: s
+Thame <> s: thames
+Thames <> b: thame, f: s
+thane <> s: thanes
+thanes <> b: thane, f: s
+thank <> p: thanked, i: thanking, d: thanked, '3': thanks
+thank-offering <> s: thank-offerings
+thank-offerings <> b: thank-offering, f: s
+thank-you <> s: thank-yous
+thank-yous <> b: thank-you, f: s
+thanked <> b: thank, f: pd
+thanking <> b: thank, f: i
+thanks <> b: thank, f: '3', s: thanks
+thanksgiving <> s: thanksgivings
+thanksgivings <> b: thanksgiving, f: s
+thankyou <> s: thankyous
+thankyous <> b: thankyou, f: s
+thas <> b: tha, f: s
+thataway <> s: thataways
+thataways <> b: thataway, f: s
+thatch <> i: thatching, d: thatched, s: thatches, '3': thatches, p: thatched
+thatched <> d: thatched, b: thatched, f: d
+thatcher <> s: thatchers
+Thatcherite <> s: thatcherites
+thatchers <> b: thatcher, f: s
+thatches <> b: thatch, f: s3
+thatching <> b: thatch, f: i, i: thatching
+thaw <> d: thawed, p: thawed, i: thawing, '3': thaws, s: thaws
+thawed <> b: thaw, f: dp
+thawing <> b: thaw, f: i, i: thawing
+thaws <> b: thaw, f: 3s
+theatre <> s: theatres
+theatregoer <> s: theatregoers
+theatregoers <> b: theatregoer, f: s
+theatres <> b: theatre, f: s
+theatric <> s: theatrics
+theatrical <> s: theatricals
+theatricalities <> b: theatricality, f: s
+theatricality <> s: theatricalities
+theatricals <> b: theatrical, f: s
+theatrics <> b: theatric, f: s
+Theban <> s: thebans
+thecodont <> s: thecodonts
+thecodonts <> b: thecodont, f: s
+thee <> s: thees
+thees <> b: thee, f: s
+theft <> s: thefts
+thefts <> b: theft, f: s
+thegn <> s: thegns
+thegns <> b: thegn, f: s
+theist <> s: theists
+theists <> b: theist, f: s
+them <> s: thems
+thematic <> s: thematics
+thematics <> b: thematic, f: s
+thematize <> i: thematizing, '3': thematizes, p: thematized
+thematized <> b: thematize, f: p
+thematizes <> b: thematize, f: '3'
+thematizing <> b: thematize, f: i
+theme <> s: themes
+themed <> p: themed, b: themed, f: p
+themes <> b: theme, f: s
+thems <> b: them, f: s
+theo <> s: theos
+Theobald <> s: theobalds
+theocracies <> b: theocracy, f: s
+theocracy <> s: theocracies
+theodolite <> s: theodolites
+theodolites <> b: theodolite, f: s
+theologian <> s: theologians
+theologians <> b: theologian, f: s
+theologies <> b: theology, f: s
+theologize <> i: theologizing, p: theologized, '3': theologizes, d: theologized
+theologized <> f: pd, b: theologize
+theologizes <> f: '3', b: theologize
+theologizing <> b: theologize, f: i, i: theologizing
+theology <> s: theologies
+theorbo <> s: theorbos
+theorbos <> b: theorbo, f: s
+theorem <> s: theorems
+theorems <> b: theorem, f: s
+theoretician <> s: theoreticians
+theoreticians <> b: theoretician, f: s
+theories <> b: theory, f: s
+theorise <> i: theorising, d: theorised, '3': theorises, p: theorised
+theorised <> b: theorise, f: dp, d: theorised
+theorises <> b: theorise, f: '3'
+theorising <> b: theorise, f: i, i: theorising
+theorist <> s: theorists
+theorists <> b: theorist, f: s
+theorization <> s: theorizations
+theorizations <> b: theorization, f: s
+theorize <> i: theorizing, d: theorized, p: theorized, '3': theorizes
+theorized <> b: theorize, f: dp
+theorizes <> b: theorize, f: '3'
+theorizing <> i: theorizing, b: theorizing, f: i, s: theorizings
+theory <> s: theories
+theos <> b: theo, f: s
+theosophist <> s: theosophists
+theosophists <> b: theosophist, f: s
+ther <> s: thers, d: thered
+therapies <> b: therapy, f: s
+therapist <> s: therapists
+therapists <> b: therapist, f: s
+therapsid <> s: therapsids
+therapsids <> b: therapsid, f: s
+therapy <> s: therapies
+thered <> b: ther, f: d
+theremin <> s: theremins
+theremins <> b: theremin, f: s
+therm <> s: therms
+thermae <> s: thermae, b: thermae, f: s
+thermal <> s: thermals, i: thermalling
+thermalling <> b: thermal, f: i
+thermals <> b: thermal, f: s
+thermistor <> s: thermistors
+thermistors <> b: thermistor, f: s
+thermocouple <> s: thermocouples
+thermocouples <> b: thermocouple, f: s
+thermoform <> '3': thermoforms, i: thermoforming
+thermoforming <> b: thermoform, f: i
+thermometer <> s: thermometers
+thermometers <> b: thermometer, f: s
+thermoplastic <> s: thermoplastics
+thermoplastics <> b: thermoplastic, f: s
+Thermopylae <> s: thermopylae, b: thermopylae, f: s
+thermoset <> s: thermosets
+thermosets <> b: thermoset, f: s
+thermosphere <> s: thermospheres
+thermospheres <> b: thermosphere, f: s
+thermostat <> s: thermostats, d: thermostatted
+thermostats <> b: thermostat, f: s
+thermostatted <> b: thermostat, f: d
+therms <> b: therm, f: s
+theropod <> s: theropods
+theropods <> b: theropod, f: s
+thers <> b: ther, f: s
+theses <> b: thesis, f: s
+thesis <> s: theses
+Thespian <> s: thespians
+thespians <> b: thespian, f: s
+Thessalonians <> b: thessalonian, f: s
+theta <> s: thetas
+thetas <> b: theta, f: s
+thew <> s: thews
+thews <> b: thew, f: s
+thi <> s: thi, b: thi, f: s
+thiazide <> s: thiazides
+thiazides <> b: thiazide, f: s
+thick <> r: thicker, t: thickest
+thicken <> d: thickened, i: thickening, '3': thickens, p: thickened
+thickened <> b: thicken, f: dp, d: thickened, p: thickened
+thickener <> s: thickeners
+thickeners <> b: thickener, f: s
+thickening <> b: thicken, f: i, i: thickening, s: thickenings
+thickens <> b: thicken, f: '3'
+thicker <> b: thick, f: r
+thickest <> b: thick, f: t
+thicket <> s: thickets
+thickets <> b: thicket, f: s
+thickness <> s: thicknesses, i: thicknessing
+thicknesses <> b: thickness, f: s
+thicknessing <> b: thickness, f: i
+thicko <> s: thickos
+thickos <> b: thicko, f: s
+thief <> s: thieves
+thier <> b: thy, f: r
+thieve <> d: thieved, i: thieving, p: thieved, '3': thieves
+thieved <> b: thieve, f: dp
+thieves <> b: thief, f: s
+thieving <> i: thieving, b: thieving, f: i
+thigh <> s: thighs
+thighs <> b: thigh, f: s
+thimble <> s: thimbles
+thimbles <> b: thimble, f: s
+thin <> r: thinner, i: thinning, t: thinnest, d: thinned, '3': thins, p: thinned
+thine <> s: thines
+thines <> b: thine, f: s
+thing <> s: things
+thingamajig <> s: thingamajigs
+thingamajigs <> b: thingamajig, f: s
+thingies <> b: thingy, f: s
+things <> b: thing, f: s
+thingummies <> b: thingummy, f: s
+thingummy <> s: thingummies
+thingy <> s: thingies
+think <> p: thought, d: thought, i: thinking, '3': thinks
+think-tank <> s: think-tanks
+think-tanker <> s: think-tankers
+think-tankers <> b: think-tanker, f: s
+think-tanks <> b: think-tank, f: s
+thinker <> s: thinkers
+thinkers <> b: thinker, f: s
+thinking <> b: think, f: i, i: thinking
+thinks <> b: think, f: '3'
+thinned <> b: thin, f: dp, d: thinned, p: thinned
+thinner <> b: thin, f: r, s: thinners
+thinnest <> b: thin, f: t
+thinning <> b: thin, f: i, s: thinnings, i: thinning
+thinnings <> b: thinning, f: s
+thins <> b: thin, f: '3'
+thiol <> s: thiols
+thiols <> b: thiol, f: s
+third-rater <> s: third-raters
+third-raters <> b: third-rater, f: s
+thirst <> i: thirsting, s: thirsts, p: thirsted, '3': thirsts, d: thirsted
+thirsted <> f: pd, b: thirst
+thirstier <> b: thirsty, f: r
+thirstiest <> b: thirsty, f: t
+thirsting <> b: thirst, f: i
+thirsts <> f: s3, b: thirst
+thirsty <> r: thirstier, t: thirstiest
+thirtysomething <> b: thirtysomthe, f: i, s: thirtysomethings, i: thirtysomething
+thirtysomethings <> b: thirtysomething, f: s
+thistle <> s: thistles
+thistles <> b: thistle, f: s
+tho <> s: thos
+tholos <> b: tholo, f: s
+thom <> '3': thoms
+thoma <> s: thomas
+Thomas <> b: thoma, f: s
+Thomist <> s: thomists
+thoms <> b: thom, f: '3'
+thong <> s: thongs, i: thonging
+thonging <> b: thong, f: i
+thongs <> b: thong, f: s
+thorn <> s: thorns, i: thorning, p: thorned
+thornbush <> s: thornbushes
+thornbushes <> b: thornbush, f: s
+thorned <> b: thorn, f: p
+thornier <> b: thorny, f: r
+thorniest <> b: thorny, f: t
+thorning <> b: thorn, f: i
+thorns <> b: thorn, f: s
+thorny <> t: thorniest, r: thornier
+thoroughbred <> s: thoroughbreds
+thoroughbreds <> b: thoroughbred, f: s
+thoroughfare <> s: thoroughfares
+thoroughfares <> b: thoroughfare, f: s
+Thorp <> s: thorps
+thos <> b: tho, f: s
+thought <> b: think, f: pd, s: thoughts
+thought-provoking <> i: thought-provoking, b: thought-provoking, f: i
+Thracian <> s: thracians
+thrash <> i: thrashing, p: thrashed, d: thrashed, '3': thrashes, s: thrashes
+thrashed <> b: thrash, f: pd
+thrasher <> s: thrashers
+thrashers <> b: thrasher, f: s
+thrashes <> b: thrash, f: 3s
+thrashing <> b: thrash, f: i, i: thrashing, s: thrashings
+thread <> s: threads, p: threaded, i: threading, d: threaded, '3': threads
+threaded <> b: thread, f: pd, p: threaded
+threader <> s: threaders
+threaders <> b: threader, f: s
+threading <> b: thread, f: i, i: threading
+threads <> b: thread, f: s3
+threadworm <> s: threadworms
+threadworms <> b: threadworm, f: s
+threat <> s: threats
+threaten <> d: threatened, i: threatening, p: threatened, '3': threatens
+threatened <> b: threaten, f: dp, p: threatened, d: threatened
+threatening <> b: threaten, f: i, i: threatening
+threatens <> b: threaten, f: '3'
+threats <> b: threat, f: s
+three-dimensionalities <> b: three-dimensionality, f: s
+three-dimensionality <> s: three-dimensionalities
+three-quarter <> s: three-quarters
+three-quarters <> b: three-quarter, f: s
+threepennies <> b: threepenny, f: s
+threepenny <> s: threepennies
+threequarter <> s: threequarters
+threequarters <> b: threequarter, f: s
+threesome <> s: threesomes
+threesomes <> b: threesome, f: s
+threonine <> s: threonines
+threonines <> b: threonine, f: s
+thresh <> i: threshing, p: threshed, '3': threshes, d: threshed, s: threshes
+threshed <> b: thresh, f: pd, p: threshed, d: threshed
+thresher <> s: threshers
+threshers <> b: thresher, f: s
+threshes <> b: thresh, f: 3s
+threshing <> i: threshing, b: threshing, f: i, s: threshings
+threshold <> s: thresholds
+thresholds <> b: threshold, f: s
+threw <> b: throw, f: p, p: threw
+thrift <> s: thrifts
+thrifts <> b: thrift, f: s
+thril <> p: thrilled, d: thrilled, i: thrilling
+thrill <> s: thrills, '3': thrills, i: thrilling, p: thrilled, d: thrilled
+thrilled <> d: thrilled, b: thrilled, f: dp, p: thrilled
+thriller <> s: thrillers
+thrillers <> b: thriller, f: s
+thrilling <> i: thrilling, b: thrilling, f: i
+thrills <> b: thrill, f: s3
+thrip <> s: thrips
+thrips <> b: thrip, f: s
+thrive <> '3': thrives, p: thrived, i: thriving, d: thrived
+thrived <> b: thrive, f: pd
+thrives <> b: thrive, f: '3'
+thriving <> b: thrive, f: i, i: thriving
+throat <> s: throats
+throated <> p: throated, b: throated, f: p
+throatier <> b: throaty, f: r
+throats <> b: throat, f: s
+throaty <> r: throatier
+throb <> p: throbbed, i: throbbing, s: throbs, '3': throbs, d: throbbed
+throbbed <> b: throb, f: pd
+throbbing <> b: throb, f: i, i: throbbing
+throbs <> b: throb, f: s3
+throe <> s: throes
+throes <> b: throe, f: s
+thrombi <> s: thrombi, b: thrombi, f: s
+thrombolytic <> s: thrombolytics
+thrombolytics <> b: thrombolytic, f: s
+thrombose <> i: thrombosing, p: thrombosed, '3': thromboses, d: thrombosed
+thrombosed <> p: thrombosed, b: thrombosed, f: p
+thromboses <> f: '3', b: thrombose
+thrombosing <> f: i, b: thrombose
+thromboxane <> s: thromboxanes
+thromboxanes <> b: thromboxane, f: s
+throne <> s: thrones, i: throning, p: throned, '3': thrones, d: throned
+throned <> b: thron, f: p
+thrones <> f: s3, b: throne
+throng <> d: thronged, p: thronged, i: thronging, s: throngs, '3': throngs
+thronged <> b: throng, f: dp
+thronging <> b: throng, f: i
+throngs <> b: throng, f: s3
+throning <> f: i, b: throne
+throttle <> s: throttles, i: throttling, p: throttled, d: throttled, '3': throttles
+throttled <> b: throttle, f: pd, p: throttled
+throttles <> b: throttle, f: s3
+throttling <> b: throttle, f: i, i: throttling
+throughput <> s: throughputs
+throughputs <> b: throughput, f: s
+throughway <> s: throughways
+throughways <> b: throughway, f: s
+throw <> d: thrown, p: threw, i: throwing, '3': throws, s: throws
+throw-in <> s: throw-ins
+throw-ins <> b: throw-in, f: s
+throw-off <> s: throw-offs
+throw-offs <> b: throw-off, f: s
+throwaway <> s: throwaways
+throwaways <> b: throwaway, f: s
+throwback <> s: throwbacks
+throwbacks <> b: throwback, f: s
+thrower <> s: throwers
+throwers <> b: thrower, f: s
+throwing <> b: throw, f: i, i: throwing
+thrown <> b: throw, f: d
+throws <> b: throw, f: 3s
+throwster <> s: throwsters
+throwsters <> b: throwster, f: s
+thrum <> p: thrummed, i: thrumming, s: thrums, '3': thrums, d: thrummed
+thrummed <> f: pd, b: thrum
+thrumming <> b: thrum, f: i, i: thrumming
+thrums <> f: s3, b: thrum
+thrush <> s: thrushes
+thrushes <> b: thrush, f: s
+thrust <> p: thrust, b: thrust, f: pd, d: thrust, i: thrusting, s: thrusts, '3': thrusts
+thruster <> s: thrusters
+thrusters <> b: thruster, f: s
+thrusting <> b: thrust, f: i, i: thrusting
+thrusts <> b: thrust, f: s3
+thud <> i: thudding, p: thudded, s: thuds, '3': thuds, d: thudded
+thudded <> b: thud, f: pd
+thudding <> b: thud, f: i
+thuds <> b: thud, f: s3
+thug <> s: thugs, i: thugging
+thuggee <> s: thuggees
+thuggees <> b: thuggee, f: s
+thugging <> b: thug, f: i
+thugs <> b: thug, f: s
+thumb <> s: thumbs, p: thumbed, i: thumbing, '3': thumbs, d: thumbed
+thumbed <> b: thumb, f: pd, p: thumbed, d: thumbed
+thumbing <> b: thumb, f: i
+thumbnail <> s: thumbnails, i: thumbnailing
+thumbnailing <> b: thumbnail, f: i
+thumbnails <> b: thumbnail, f: s
+thumbprint <> s: thumbprints
+thumbprints <> b: thumbprint, f: s
+thumbs <> b: thumb, f: s3
+thumbscrew <> s: thumbscrews
+thumbscrews <> b: thumbscrew, f: s
+thumbtack <> s: thumbtacks
+thump <> p: thumped, i: thumping, d: thumped, '3': thumps, s: thumps
+thumped <> b: thump, f: pd
+thumper <> s: thumpers
+thumpers <> b: thumper, f: s
+thumping <> b: thump, f: i, i: thumping, s: thumpings
+thumps <> b: thump, f: 3s
+thunder <> p: thundered, i: thundering, s: thunders, d: thundered, '3': thunders
+thunderbird <> s: thunderbirds
+thunderbirds <> b: thunderbird, f: s
+thunderbolt <> s: thunderbolts
+thunderbolts <> b: thunderbolt, f: s
+thunderclap <> s: thunderclaps
+thunderclaps <> b: thunderclap, f: s
+thundercloud <> s: thunderclouds
+thunderclouds <> b: thundercloud, f: s
+thundered <> b: thunder, f: pd, p: thundered
+thunderflash <> s: thunderflashes
+thunderflashes <> b: thunderflash, f: s
+thunderhead <> s: thunderheads
+thunderheads <> b: thunderhead, f: s
+thundering <> b: thunder, f: i, s: thunderings, i: thundering
+thunders <> b: thunder, f: s3
+thunderstorm <> s: thunderstorms
+thunderstorms <> b: thunderstorm, f: s
+thunk <> s: thunks, p: thunked, i: thunking
+thunked <> b: thunk, f: p
+thunking <> b: thunk, f: i
+thunks <> b: thunk, f: s
+thurible <> s: thuribles
+thuribles <> b: thurible, f: s
+Thursday <> s: thursdays
+Thursdays <> b: thursday, f: s
+thwack <> p: thwacked, s: thwacks, d: thwacked, i: thwacking, '3': thwacks
+thwacked <> b: thwack, f: pd
+thwacking <> b: thwack, f: i, i: thwacking
+thwacks <> f: s3, b: thwack
+thwart <> d: thwarted, p: thwarted, i: thwarting, '3': thwarts
+thwarted <> b: thwart, f: dp, d: thwarted, p: thwarted
+thwarting <> b: thwart, f: i, i: thwarting
+thwarts <> b: thwart, f: '3'
+thy <> r: thier, s: thys
+Thyestes <> b: thyeste, f: s
+thylacine <> s: thylacines
+thylacines <> b: thylacine, f: s
+thyme <> s: thymes
+thymes <> b: thyme, f: s
+thymidine <> s: thymidines
+thymidines <> b: thymidine, f: s
+thymine <> s: thymines
+thymines <> b: thymine, f: s
+thymocyte <> s: thymocytes
+thymocytes <> b: thymocyte, f: s
+thys <> b: thy, f: s
+TI <> s: ti, b: ti, f: s
+tiara <> s: tiaras
+tiaras <> b: tiara, f: s
+Tibetan <> s: tibetans
+tibetans <> b: tibetan, f: s
+tic <> s: tics
+tick <> i: ticking, s: ticks, p: ticked, d: ticked, '3': ticks
+tick-tock <> s: tick-tocks
+tick-tocks <> b: tick-tock, f: s
+ticked <> b: tick, f: pd, p: ticked
+ticker <> s: tickers
+tickers <> b: ticker, f: s
+ticket <> s: tickets, i: ticketing, p: ticketed, '3': tickets, d: ticketed
+ticketed <> b: tickete, f: dp
+ticketing <> b: tickete, f: i, i: ticketing
+tickets <> f: s3, b: ticket
+ticking <> b: tick, f: i, i: ticking
+tickle <> i: tickling, p: tickled, d: tickled, '3': tickles, s: tickles
+tickled <> b: tickle, f: pd
+tickler <> s: ticklers
+ticklers <> b: tickler, f: s
+tickles <> b: tickle, f: 3s
+tickling <> b: tickle, f: i, i: tickling
+ticks <> b: tick, f: s3
+tics <> b: tic, f: s
+tidbit <> s: tidbits, '3': tidbits
+tidbits <> b: tidbit, f: s3
+tiddler <> s: tiddlers
+tiddlers <> b: tiddler, f: s
+tiddlywink <> s: tiddlywinks
+tiddlywinks <> b: tiddlywink, f: s
+tide <> s: tides, i: tiding, p: tided, '3': tides, d: tided
+tide-mark <> s: tide-marks
+tide-marks <> b: tide-mark, f: s
+tided <> f: pd, b: tide
+tideline <> s: tidelines
+tidelines <> b: tideline, f: s
+tidemark <> s: tidemarks
+tidemarks <> b: tidemark, f: s
+tides <> f: s3, b: tide
+tidewater <> b: tidewate, f: r
+tidied <> b: tidy, f: pd
+tidier <> b: tidy, f: r
+tidies <> b: tidy, f: 3s
+tidiest <> b: tidy, f: t
+tiding <> f: i, b: tide, s: tidings
+tidings <> b: tiding, f: s
+tidy <> i: tidying, p: tidied, d: tidied, r: tidier, '3': tidies, t: tidiest, s: tidies
+tidying <> b: tidy, f: i
+tie <> d: tied, s: ties, p: tied, i: tying, '3': ties
+tie-back <> s: tie-backs
+tie-backs <> b: tie-back, f: s
+tie-down <> s: tie-downs
+tie-downs <> b: tie-down, f: s
+tie-dye <> i: tie-dyeing, p: tie-dyed, '3': tie-dyes, d: tie-dyed, s: tie-dyes
+tie-in <> s: tie-ins
+tie-ins <> b: tie-in, f: s
+tie-up <> s: tie-ups
+tie-ups <> b: tie-up, f: s
+tieback <> s: tiebacks
+tiebacks <> b: tieback, f: s
+tiebreaker <> s: tiebreakers
+tiebreakers <> b: tiebreaker, f: s
+tied <> b: tie, f: dp, d: tied, p: tied
+tiepin <> s: tiepins
+tiepins <> b: tiepin, f: s
+tier <> s: tiers
+tiers <> b: tier, f: s
+ties <> b: tie, f: s3
+tiff <> s: tiffs, '3': tiffs
+tiffs <> b: tiff, f: s3
+tiger <> s: tigers
+tigers <> b: tiger, f: s
+tight <> r: tighter, s: tights, t: tightest
+tighten <> p: tightened, d: tightened, i: tightening, '3': tightens
+tightened <> b: tighten, f: pd, d: tightened, p: tightened
+tightening <> b: tighten, f: i, i: tightening
+tightens <> b: tighten, f: '3'
+tighter <> b: tight, f: r
+tightest <> b: tight, f: t
+tightrope <> p: tightroped, s: tightropes
+tightroped <> b: tightrope, f: p
+tightropes <> b: tightrope, f: s
+tights <> b: tight, f: s
+tigress <> s: tigresses, '3': tigresses
+tigresses <> b: tigress, f: s3
+tike <> s: tikes
+tikes <> b: tike, f: s
+tiki <> s: tiki, b: tiki, f: s
+tilapia <> s: tilapias
+tilapias <> b: tilapia, f: s
+tile <> s: tiles, d: tiled, i: tiling, p: tiled, '3': tiles
+tiled <> b: tile, f: dp, p: tiled, d: tiled
+tiler <> s: tilers
+tilers <> b: tiler, f: s
+tiles <> f: s3, b: tile
+tiling <> b: tile, f: i, i: tiling
+till <> s: tills, i: tilling, p: tilled, d: tilled, '3': tills
+tilled <> b: till, f: pd, p: tilled
+tiller <> s: tillers, i: tillering, p: tillered, '3': tillers, d: tillered
+tillered <> f: pd, b: tiller
+tillering <> b: tiller, f: i
+tillers <> f: s3, b: tiller
+tilleul <> s: tilleuls
+tilleuls <> b: tilleul, f: s
+tilling <> b: till, f: i
+tillite <> s: tillites
+tillites <> b: tillite, f: s
+tills <> f: s3, b: till
+tilt <> p: tilted, i: tilting, d: tilted, '3': tilts, s: tilts
+tilted <> b: tilt, f: pd, p: tilted, d: tilted
+tilting <> b: tilt, f: i, i: tilting
+tilts <> b: tilt, f: 3s
+tim <> s: tims
+timbale <> s: timbales
+timbales <> b: timbale, f: s
+timber <> s: timbers, p: timbered, d: timbered
+timbered <> b: timber, f: pd, p: timbered
+timbering <> i: timbering, b: timbering, f: i
+timberland <> s: timberlands
+timberlands <> b: timberland, f: s
+timbers <> b: timber, f: s
+timbre <> s: timbres
+timbrel <> s: timbrels
+timbrels <> b: timbrel, f: s
+timbres <> b: timbre, f: s
+time <> s: times, d: timed, i: timing, p: timed, '3': times
+time-consuming <> b: time-consume, f: i
+time-saving <> s: time-savings
+time-savings <> b: time-saving, f: s
+time-server <> s: time-servers
+time-servers <> b: time-server, f: s
+time-waster <> s: time-wasters
+time-wasters <> b: time-waster, f: s
+timebomb <> '3': timebombs
+timebombs <> b: timebomb, f: '3'
+timed <> f: dp, b: time, d: timed, p: timed
+timeframe <> s: timeframes
+timeframes <> b: timeframe, f: s
+timekeeper <> s: timekeepers
+timekeepers <> b: timekeeper, f: s
+timeline <> s: timelines
+timelines <> b: timeline, f: s
+timepiece <> s: timepieces
+timepieces <> b: timepiece, f: s
+timer <> s: timers
+timers <> b: timer, f: s
+times <> f: s3, b: time
+timescale <> s: timescales
+timescales <> b: timescale, f: s
+timeshare <> s: timeshares, i: timesharing
+timeshares <> b: timeshare, f: s
+timesharing <> b: timeshare, f: i
+timespan <> s: timespans
+timespans <> b: timespan, f: s
+timetable <> s: timetables, i: timetabling, d: timetabled, p: timetabled
+timetabled <> b: timetable, f: dp, p: timetabled
+timetables <> b: timetable, f: s
+timetabling <> b: timetable, f: i, i: timetabling
+timidities <> b: timidity, f: s
+timidity <> s: timidities
+timing <> s: timings, i: timing, b: timing, f: i
+timpani <> s: timpani, b: timpani, f: s
+tims <> b: tim, f: s
+tin <> s: tins, i: tinning, d: tinned, p: tinned, '3': tins
+tin-opener <> s: tin-openers
+tin-openers <> b: tin-opener, f: s
+tincture <> s: tinctures, '3': tinctures, d: tinctured, p: tinctured, i: tincturing
+tinctured <> b: tincture, f: dp
+tinctures <> b: tincture, f: s3
+tincturing <> f: i, b: tincture
+tine <> s: tines
+tines <> b: tine, f: s
+ting <> s: tings, i: tinging, p: tinged, '3': tings, d: tinged
+tinge <> d: tinged, p: tinged, s: tinges, '3': tinges, i: tingeing
+tinged <> b: tinge, f: dp
+tingeing <> b: tinge, f: i
+tinges <> b: tinge, f: s3
+tinging <> b: ting, f: i
+tingle <> i: tingling, p: tingled, s: tingles, '3': tingles, d: tingled
+tingled <> f: pd, b: tingle
+tingles <> f: s3, b: tingle
+tingling <> b: tingle, f: i, i: tingling
+tings <> f: s3, b: ting
+tinier <> b: tiny, f: r
+tinies <> b: tiny, f: s
+tiniest <> b: tiny, f: t
+tink <> '3': tinks, i: tinking
+tinker <> i: tinkering, s: tinkers, p: tinkered, d: tinkered, '3': tinkers
+tinkered <> b: tinker, f: pd
+tinkerer <> s: tinkerers
+tinkerers <> b: tinkerer, f: s
+tinkering <> b: tinker, f: i, i: tinkering, s: tinkerings
+tinkers <> b: tinker, f: s3
+tinking <> b: tink, f: i
+tinkle <> p: tinkled, i: tinkling, s: tinkles, '3': tinkles, d: tinkled
+tinkled <> b: tinkle, f: pd
+tinkles <> b: tinkle, f: s3
+tinkling <> b: tinkle, f: i, s: tinklings, i: tinkling
+tinks <> b: tink, f: '3'
+tinned <> f: dp, b: tin, d: tinned
+tinner <> s: tinners
+tinners <> b: tinner, f: s
+tinning <> b: tin, f: i
+tins <> f: s3, b: tin
+tinsel <> i: tinselling, s: tinsels, p: tinselled, '3': tinsels, d: tinselled
+tinselled <> f: pd, b: tinsel
+tinselling <> b: tinsel, f: i
+tinsels <> f: s3, b: tinsel
+tinsmith <> s: tinsmiths
+tinsmiths <> b: tinsmith, f: s
+tint <> s: tints, p: tinted, d: tinted, i: tinting, '3': tints
+tintack <> s: tintacks
+tintacks <> b: tintack, f: s
+tinted <> b: tint, f: pd, p: tinted, d: tinted
+tinter <> s: tinters
+tinters <> b: tinter, f: s
+tinting <> b: tint, f: i, s: tintings, i: tinting
+tintinnabulation <> s: tintinnabulations
+tintinnabulations <> b: tintinnabulation, f: s
+tints <> b: tint, f: s3
+tiny <> t: tiniest, r: tinier, s: tinies
+tip <> s: tips, d: tipped, p: tipped, i: tipping, '3': tips
+tip-off <> s: tip-offs
+tip-offs <> b: tip-off, f: s
+tipi <> s: tipi, b: tipi, f: s
+tipped <> b: tip, f: dp
+tipper <> s: tippers
+tippers <> b: tipper, f: s
+tippet <> s: tippets
+tippets <> b: tippet, f: s
+tipping <> b: tip, f: i, i: tipping
+tipple <> i: tippling, s: tipples, '3': tipples, d: tippled, p: tippled
+tippled <> b: tipple, f: dp
+tippler <> s: tipplers
+tipplers <> b: tippler, f: s
+tipples <> b: tipple, f: s3
+tippling <> b: tipple, f: i
+tips <> b: tip, f: s3
+tipster <> s: tipsters
+tipsters <> b: tipster, f: s
+tiptoe <> p: tiptoed, i: tiptoeing, s: tiptoes, d: tiptoed, '3': tiptoes
+tiptoed <> b: tiptoe, f: pd
+tiptoeing <> b: tiptoe, f: i
+tiptoes <> b: tiptoe, f: s3
+tirade <> s: tirades
+tirades <> b: tirade, f: s
+tirailleur <> s: tirailleurs
+tirailleurs <> b: tirailleur, f: s
+tire <> p: tired, '3': tires, d: tired, i: tiring
+tired <> d: tired, b: tired, f: dp, p: tired
+tires <> b: tire, f: '3'
+tiring <> b: tire, f: i, i: tiring
+tisane <> s: tisanes
+tisanes <> b: tisane, f: s
+tissue <> s: tissues, i: tissuing, p: tissued, '3': tissues, d: tissued
+tissued <> f: pd, b: tissue
+tissues <> f: s3, b: tissue
+tissuing <> f: i, b: tissue
+tit <> s: tits
+Titan <> s: titans
+titans <> b: titan, f: s
+titbit <> s: titbits, '3': titbits
+titbits <> b: titbit, f: s3
+titford <> s: titfords
+titfords <> b: titford, f: s
+tithe <> s: tithes, i: tithing, p: tithed, '3': tithes, d: tithed
+tithed <> f: pd, b: tithe
+tithes <> f: s3, b: tithe
+tithing <> f: i, b: tithe, s: tithings
+titillate <> i: titillating, p: titillated, d: titillated, '3': titillates
+titillated <> b: titillate, f: pd
+titillates <> b: titillate, f: '3'
+titillating <> b: titillate, f: i, i: titillating
+titillation <> s: titillations
+titillations <> b: titillation, f: s
+titivate <> i: titivating, d: titivated, p: titivated, '3': titivates
+titivated <> b: titivate, f: dp
+titivates <> f: '3', b: titivate
+titivating <> b: titivate, f: i
+title <> s: titles, d: titled, i: titling, p: titled, '3': titles
+titled <> f: dp, b: title, d: titled
+titles <> f: s3, b: title
+titling <> f: i, b: title
+titrate <> d: titrated, p: titrated, i: titrating, '3': titrates
+titrated <> b: titrate, f: dp
+titrates <> f: '3', b: titrate
+titrating <> b: titrate, f: i
+titration <> s: titrations
+titrations <> b: titration, f: s
+titre <> s: titres
+titres <> b: titre, f: s
+tits <> b: tit, f: s
+titter <> p: tittered, s: titters, i: tittering, '3': titters, d: tittered
+tittered <> b: titter, f: pd
+tittering <> b: titter, f: i, i: tittering
+titters <> b: titter, f: s3
+titties <> b: titty, f: s
+tittivate <> i: tittivating, p: tittivated, '3': tittivates, d: tittivated
+tittivated <> f: pd, b: tittivate
+tittivates <> f: '3', b: tittivate
+tittivating <> f: i, b: tittivate
+tittle-tattle <> i: tittle-tattling, p: tittle-tattled, '3': tittle-tattles, d: tittle-tattled
+tittup <> i: tittupping, p: tittupped, '3': tittups, d: tittupped
+tittupped <> f: pd, b: tittup
+tittupping <> b: tittup, f: i
+tittups <> f: '3', b: tittup
+titty <> s: titties
+toad <> s: toads, '3': toads
+toadied <> f: dp, b: toady
+toadies <> f: s3, b: toady
+toadlet <> s: toadlets
+toadlets <> b: toadlet, f: s
+toads <> b: toad, f: s3
+toadstool <> s: toadstools
+toadstools <> b: toadstool, f: s
+toady <> i: toadying, s: toadies, d: toadied, p: toadied, '3': toadies
+toadying <> b: toady, f: i, i: toadying
+toast <> i: toasting, s: toasts, p: toasted, d: toasted, '3': toasts
+toasted <> b: toast, f: pd, p: toasted, d: toasted
+toaster <> s: toasters
+toasters <> b: toaster, f: s
+toasties <> b: toasty, f: s
+toasting <> b: toast, f: i, i: toasting
+toastmaster <> s: toastmasters
+toastmasters <> b: toastmaster, f: s
+toasts <> b: toast, f: s3
+toasty <> s: toasties
+tobacco <> s: tobaccos
+tobacconist <> s: tobacconists
+tobacconists <> b: tobacconist, f: s
+tobaccos <> b: tobacco, f: s
+Tobia <> s: tobias
+toboggan <> s: toboggans, i: tobogganing, p: tobogganed, '3': toboggans, d: tobogganed
+tobogganed <> f: pd, b: toboggan
+tobogganing <> b: toboggane, f: i
+toboggans <> f: s3, b: toboggan
+toccata <> s: toccatas
+toccatas <> b: toccata, f: s
+tocopherol <> s: tocopherols
+tocopherols <> b: tocopherol, f: s
+today <> s: todays
+todays <> b: today, f: s
+toddies <> b: toddy, f: s
+toddle <> i: toddling, p: toddled, '3': toddles, s: toddles, d: toddled
+toddled <> f: pd, b: toddle
+toddler <> s: toddlers
+toddlers <> b: toddler, f: s
+toddles <> b: toddle, f: 3s
+toddling <> b: toddle, f: i
+toddy <> s: toddies
+toe <> s: toes, p: toed, i: toeing, d: toed, '3': toes
+toecap <> s: toecaps, p: toecapped
+toecapped <> b: toecap, f: p
+toecaps <> b: toecap, f: s
+toed <> b: toe, f: pd
+toehold <> s: toeholds
+toeholds <> b: toehold, f: s
+toeing <> b: toe, f: i
+toenail <> s: toenails, i: toenailing, p: toenailed, '3': toenails, d: toenailed
+toenailed <> f: pd, b: toenail
+toenailing <> f: i, b: toenail
+toenails <> f: s3, b: toenail
+toerag <> s: toerags
+toerags <> b: toerag, f: s
+toes <> f: s3, b: toe
+toff <> s: toffs, '3': toffs
+toffee <> s: toffees
+toffees <> b: toffee, f: s
+toffs <> b: toff, f: s3
+toft <> s: tofts
+tofts <> b: toft, f: s
+tog <> s: togs, p: togged, d: togged, i: togging, '3': togs
+toga <> s: togas
+togas <> b: toga, f: s
+togged <> b: tog, f: pd
+togging <> b: tog, f: i
+toggle <> s: toggles, d: toggled, i: toggling, '3': toggles, p: toggled
+toggled <> b: toggle, f: dp
+toggles <> b: toggle, f: s3
+toggling <> b: toggle, f: i, i: toggling
+togs <> f: s3, b: tog
+toil <> p: toiled, s: toils, i: toiling, d: toiled, '3': toils
+toile <> s: toiles
+toiled <> b: toil, f: pd
+toiler <> s: toilers
+toilers <> b: toiler, f: s
+toiles <> b: toile, f: s
+toilet <> s: toilets
+toiletries <> b: toiletry, f: s
+toiletry <> s: toiletries
+toilets <> b: toilet, f: s
+toiling <> b: toil, f: i, i: toiling, s: toilings
+toils <> b: toil, f: s3
+toke <> i: toking, s: tokes
+token <> s: tokens
+tokens <> b: token, f: s
+tokes <> b: toke, f: s
+toking <> b: toke, f: i
+told <> b: tell, f: pd, p: told, d: told, s: tolds
+tolerance <> s: tolerances
+tolerances <> b: tolerance, f: s
+tolerate <> d: tolerated, p: tolerated, i: tolerating, '3': tolerates
+tolerated <> b: tolerate, f: dp
+tolerates <> b: tolerate, f: '3'
+tolerating <> b: tolerate, f: i
+Tolkien <> s: tolkiens
+toll <> s: tolls, p: tolled, i: tolling, '3': tolls, d: tolled
+toll-bridge <> s: toll-bridges
+toll-bridges <> b: toll-bridge, f: s
+tolled <> b: toll, f: pd, p: tolled
+tolling <> b: toll, f: i, i: tolling
+tolls <> b: toll, f: s3
+tom <> s: toms
+tom-tom <> s: tom-toms
+tom-toms <> b: tom-tom, f: s
+tomahawk <> s: tomahawks
+tomahawks <> b: tomahawk, f: s
+tomato <> s: tomatoes
+tomatoes <> b: tomato, f: s
+tomb <> s: tombs
+tombola <> s: tombolas
+tombolas <> b: tombola, f: s
+tombolo <> s: tombolos
+tombolos <> b: tombolo, f: s
+tomboy <> s: tomboys
+tomboys <> b: tomboy, f: s
+tombs <> b: tomb, f: s
+tombstone <> s: tombstones
+tombstones <> b: tombstone, f: s
+tomcat <> s: tomcats
+tomcats <> b: tomcat, f: s
+tome <> s: tomes
+tomes <> b: tome, f: s
+tomfooleries <> b: tomfoolery, f: s
+tomfoolery <> s: tomfooleries
+tommies <> b: tommy, f: s
+tommy <> s: tommies
+tomogram <> s: tomograms
+tomograms <> b: tomogram, f: s
+tomorrow <> s: tomorrows
+tomorrows <> b: tomorrow, f: s
+toms <> b: tom, f: s
+ton <> s: tons, i: toning, r: tonner
+ton-mile <> s: ton-miles
+ton-miles <> b: ton-mile, f: s
+tonalite <> s: tonalites
+tonalites <> b: tonalite, f: s
+tonalities <> b: tonality, f: s
+tonality <> s: tonalities
+tone <> s: tones, d: toned, p: toned, '3': tones, i: toning
+toned <> b: tone, f: dp, p: toned
+toner <> s: toners
+toners <> b: toner, f: s
+tones <> b: tone, f: s3
+tong <> s: tongs, i: tonging
+tonga <> s: tongas
+tongas <> b: tonga, f: s
+tonging <> b: tong, f: i
+tongs <> b: tong, f: s
+tongue <> s: tongues, i: tonguing, p: tongued, '3': tongues, d: tongued
+tongue-lashing <> s: tongue-lashings
+tongue-lashings <> b: tongue-lashing, f: s
+tongue-twister <> s: tongue-twisters
+tongue-twisters <> b: tongue-twister, f: s
+tongued <> d: tongued, b: tongued, f: d
+tongues <> f: s3, b: tongue
+tonguing <> b: tongue, f: i, i: tonguing
+toni <> s: toni, b: toni, f: s
+tonic <> s: tonics
+tonics <> b: tonic, f: s
+toning <> b: ton, f: i, i: toning
+tonk <> i: tonking
+tonking <> b: tonk, f: i
+tonnage <> s: tonnages, '3': tonnages
+tonnages <> b: tonnage, f: s3
+tonne <> s: tonnes
+tonner <> b: ton, f: r, s: tonners
+tonnes <> b: tonne, f: s
+tons <> b: ton, f: s
+tonsil <> s: tonsils, '3': tonsils
+tonsillectomies <> b: tonsillectomy, f: s
+tonsillectomy <> s: tonsillectomies
+tonsils <> b: tonsil, f: s3
+tonsure <> d: tonsured, s: tonsures, p: tonsured, i: tonsuring, '3': tonsures
+tonsured <> b: tonsure, f: dp, p: tonsured
+tonsures <> f: s3, b: tonsure
+tonsuring <> i: tonsuring, b: tonsuring, f: i
+took <> b: take, f: p, '3': tooks, d: tooked
+tool <> s: tools, i: tooling, p: tooled, '3': tools, d: tooled
+toolbar <> s: toolbars
+toolbars <> b: toolbar, f: s
+toolbox <> s: toolboxes
+toolboxes <> b: toolbox, f: s
+tooled <> p: tooled, b: tooled, f: p
+tooling <> b: tool, f: i, i: tooling
+toolkit <> s: toolkits, '3': toolkits
+toolkits <> b: toolkit, f: s3
+toolmaker <> s: toolmakers
+toolmakers <> b: toolmaker, f: s
+toolmaking <> b: toolmake, f: i
+tools <> f: s3, b: tool
+toolset <> s: toolsets
+toolsets <> b: toolset, f: s
+toon <> s: toons
+toons <> b: toon, f: s
+toot <> p: tooted, i: tooting, s: toots, '3': toots, d: tooted
+tooted <> b: toot, f: pd
+tooth <> s: teeth
+toothbrush <> s: toothbrushes, i: toothbrushing
+toothbrushes <> b: toothbrush, f: s
+toothbrushing <> b: toothbrush, f: i, i: toothbrushing
+toothcomb <> s: toothcombs
+toothcombs <> b: toothcomb, f: s
+toothiest <> b: toothy, f: t
+toothing <> b: tothe, f: i
+toothpaste <> s: toothpastes
+toothpastes <> b: toothpaste, f: s
+toothpick <> s: toothpicks, d: toothpicked
+toothpicked <> b: toothpick, f: d
+toothpicks <> b: toothpick, f: s
+toothy <> t: toothiest
+Tooting <> i: tooting, b: tooting, f: i
+tootle <> i: tootling, p: tootled, '3': tootles, d: tootled
+tootled <> f: pd, b: tootle
+tootles <> f: '3', b: tootle
+tootling <> b: tootle, f: i, i: tootling
+toots <> b: toot, f: s3
+top <> s: tops, d: topped, p: topped, i: topping, '3': tops
+top-up <> s: top-ups
+top-ups <> b: top-up, f: s
+topcoat <> s: topcoats
+topcoats <> b: topcoat, f: s
+topdress <> d: topdressed, i: topdressing, p: topdressed, '3': topdresses
+topdressing <> b: topdress, f: i
+tope <> i: toping, p: toped, '3': topes, d: toped
+toped <> f: pd, b: tope
+toper <> s: topers
+topers <> b: toper, f: s
+topes <> f: '3', b: tope
+topi <> s: topi, b: topi, f: s
+topiaried <> b: topiary, f: p
+topiary <> p: topiaried
+topic <> s: topics
+topics <> b: topic, f: s
+toping <> b: tope, f: i
+topknot <> s: topknots
+topknots <> b: topknot, f: s
+topo <> s: topos
+topographer <> s: topographers
+topographers <> b: topographer, f: s
+topographic <> s: topographics
+topographics <> b: topographic, f: s
+topographies <> b: topography, f: s
+topography <> s: topographies
+topoi <> s: topoi, b: topoi, f: s
+topoisomer <> b: topoisome, f: r
+topologies <> b: topology, f: s
+topology <> s: topologies
+topos <> b: topo, f: s
+topped <> b: top, f: dp
+topper <> s: toppers
+toppers <> b: topper, f: s
+topping <> b: top, f: i, i: topping, s: toppings
+topple <> p: toppled, d: toppled, i: toppling, '3': topples
+toppled <> b: topple, f: pd
+topples <> b: topple, f: '3'
+toppling <> b: topple, f: i, i: toppling
+tops <> b: top, f: s3
+topside <> s: topsides
+topsides <> b: topside, f: s
+topsoil <> s: topsoils, d: topsoiled
+topsoiled <> b: topsoil, f: d
+topsoils <> b: topsoil, f: s
+topspin <> s: topspins
+topspins <> b: topspin, f: s
+toque <> s: toques
+toques <> b: toque, f: s
+tor <> s: tors
+torc <> s: torcs
+torch <> s: torches, p: torched, d: torched, i: torching, '3': torches
+torchbearer <> s: torchbearers
+torchbearers <> b: torchbearer, f: s
+torched <> b: torch, f: pd
+torches <> f: s3, b: torch
+torching <> b: torch, f: i
+torchlight <> s: torchlights
+torchlights <> b: torchlight, f: s
+torcs <> b: torc, f: s
+tore <> b: tear, f: p
+toreador <> s: toreadors
+toreadors <> b: toreador, f: s
+tories <> b: tory, f: s
+torment <> d: tormented, i: tormenting, s: torments, p: tormented, '3': torments
+tormented <> b: torment, f: dp, d: tormented, p: tormented
+tormenter <> s: tormenters
+tormenters <> b: tormenter, f: s
+tormenting <> b: torment, f: i, i: tormenting
+tormentor <> s: tormentors
+tormentors <> b: tormentor, f: s
+torments <> b: torment, f: s3
+torn <> b: tear, f: d, d: torn
+tornado <> s: tornados
+tornados <> b: tornado, f: s
+toro <> s: toros
+toroid <> s: toroids
+toroids <> b: toroid, f: s
+toros <> b: toro, f: s
+torpedo <> i: torpedoing, s: torpedos, p: torpedoed, '3': torpedos, d: torpedoed
+torpedoed <> b: torpedoe, f: dp, d: torpedoed, p: torpedoed
+torpedoing <> b: torpedo, f: i
+torpedos <> f: s3, b: torpedo
+torque <> s: torques
+torques <> b: torque, f: s
+Torre <> s: torres
+torrent <> s: torrents
+torrents <> b: torrent, f: s
+torres <> b: torre, f: s
+tors <> b: tor, f: s
+torsade <> s: torsades, '3': torsades
+torsades <> b: torsade, f: s3
+torso <> s: torsos
+torsos <> b: torso, f: s
+tort <> s: torts, '3': torts
+tortfeasor <> s: tortfeasors
+tortfeasors <> b: tortfeasor, f: s
+tortilla <> s: tortillas
+tortillas <> b: tortilla, f: s
+tortoise <> s: tortoises, i: tortoising, p: tortoised
+tortoised <> b: tortoise, f: p
+tortoises <> b: tortoise, f: s
+tortoiseshell <> s: tortoiseshells, '3': tortoiseshells
+tortoiseshells <> b: tortoiseshell, f: s3
+tortoising <> b: tortoise, f: i
+torts <> b: tort, f: s3
+torture <> d: tortured, p: tortured, i: torturing, s: tortures, '3': tortures
+tortured <> b: torture, f: dp, p: tortured, d: tortured
+torturer <> s: torturers
+torturers <> b: torturer, f: s
+tortures <> b: torture, f: s3
+torturing <> b: torture, f: i, s: torturings
+Tory <> s: tories
+Toscanini <> s: toscanini, b: toscanini, f: s
+toshiba <> s: toshibas
+toshibas <> b: toshiba, f: s
+toss <> p: tossed, i: tossing, d: tossed, '3': tosses, s: tosses
+tossed <> b: toss, f: pd
+tosser <> s: tossers
+tossers <> b: tosser, f: s
+tosses <> b: toss, f: 3s
+tossing <> b: toss, f: i, i: tossing
+tosspot <> s: tosspots
+tosspots <> b: tosspot, f: s
+tot <> s: tots, i: totting, p: totted, d: totted, '3': tots
+total <> i: totalling, p: totalled, s: totals, '3': totals, d: totalled
+totaled <> b: totale, f: p
+totalitarian <> s: totalitarians
+totalitarianism <> s: totalitarianisms
+totalitarianisms <> b: totalitarianism, f: s
+totalitarians <> b: totalitarian, f: s
+totalities <> b: totality, f: s
+totality <> s: totalities
+totalization <> s: totalizations
+totalizations <> b: totalization, f: s
+totalize <> i: totalizing, d: totalized, '3': totalizes, p: totalized
+totalized <> b: totalize, f: dp
+totalizes <> b: totalize, f: '3'
+totalizing <> b: totalize, f: i, i: totalizing
+totalled <> b: total, f: pd
+totalling <> b: total, f: i
+totals <> b: total, f: s3
+tote <> i: toting, s: totes, d: toted, p: toted, '3': totes
+toted <> b: tote, f: dp
+totem <> s: totems
+totems <> b: totem, f: s
+totes <> f: s3, b: tote
+toting <> b: tote, f: i
+tots <> b: tot, f: s3
+totted <> b: tot, f: pd
+totter <> p: tottered, i: tottering, '3': totters, d: tottered
+tottered <> b: totter, f: pd
+tottering <> b: totter, f: i, i: tottering
+totters <> b: totter, f: '3'
+totting <> b: tot, f: i
+toucan <> s: toucans
+toucans <> b: toucan, f: s
+touch <> p: touched, d: touched, i: touching, s: touches, '3': touches
+touch-type <> i: touch-typing, p: touch-typed, '3': touch-types, d: touch-typed
+touch-up <> s: touch-ups
+touch-ups <> b: touch-up, f: s
+touchdown <> s: touchdowns
+touchdowns <> b: touchdown, f: s
+touched <> b: touch, f: pd, d: touched, p: touched
+touches <> b: touch, f: s3
+touchier <> b: touchy, f: r
+touching <> b: touch, f: i, i: touching, s: touchings
+touchline <> s: touchlines
+touchlines <> b: touchline, f: s
+touchpaper <> s: touchpapers
+touchpapers <> b: touchpaper, f: s
+touchstone <> s: touchstones
+touchstones <> b: touchstone, f: s
+touchy <> r: touchier
+tough <> r: tougher, t: toughest, s: toughs
+toughen <> d: toughened, p: toughened, '3': toughens, i: toughening
+toughened <> b: toughen, f: dp, p: toughened, d: toughened
+toughening <> b: toughen, f: i, i: toughening
+toughens <> b: toughen, f: '3'
+tougher <> b: tough, f: r
+toughest <> b: tough, f: t
+toughs <> b: tough, f: s
+toupee <> s: toupees
+toupees <> b: toupee, f: s
+tour <> s: tours, i: touring, p: toured, d: toured, '3': tours
+toured <> b: tour, f: pd
+tourer <> s: tourers
+tourers <> b: tourer, f: s
+touring <> b: tour, f: i, i: touring
+tourist <> s: tourists
+tourists <> b: tourist, f: s
+tournament <> s: tournaments
+tournaments <> b: tournament, f: s
+tourney <> s: tourneys, p: tourneyed, i: tourneying, '3': tourneys, d: tourneyed
+tourneyed <> f: pd, b: tourney
+tourneying <> f: i, b: tourney
+tourneys <> f: s3, b: tourney
+tourniquet <> s: tourniquets
+tourniquets <> b: tourniquet, f: s
+tours <> b: tour, f: s3
+tousle <> p: tousled, d: tousled, i: tousling, '3': tousles
+tousled <> p: tousled, b: tousled, f: p
+tousles <> f: '3', b: tousle
+tousling <> b: tousle, f: i
+tout <> d: touted, i: touting, s: touts, p: touted, '3': touts
+touted <> b: tout, f: dp
+touting <> b: tout, f: i, i: touting
+touts <> f: s3, b: tout
+tow <> d: towed, i: towing, p: towed, s: tows, '3': tows
+towed <> b: tow, f: dp
+towel <> s: towels, p: towelled, i: towelling, '3': towels, d: towelled
+towelled <> b: towel, f: pd
+towelling <> b: towel, f: i, i: towelling
+towels <> b: towel, f: s3
+tower <> s: towers, p: towered, i: towering, '3': towers, d: towered
+towered <> b: tower, f: p
+towering <> b: tower, f: i, i: towering
+towers <> b: tower, f: s3
+towing <> b: tow, f: i, i: towing
+towline <> s: towlines
+towlines <> b: towline, f: s
+town <> s: towns
+towne <> s: townes
+townee <> s: townees
+townees <> b: townee, f: s
+Townes <> b: towne, f: s
+townies <> b: towny, f: s
+townland <> s: townlands
+townlands <> b: townland, f: s
+towns <> b: town, f: s
+townscape <> s: townscapes
+townscapes <> b: townscape, f: s
+townsfolk <> s: townsfolk, b: townsfolk, f: s
+township <> s: townships
+townships <> b: township, f: s
+townsman <> s: townsmen
+townsmen <> b: townsman, f: s
+townswoman <> s: townswomen
+Townswomen <> b: townswoman, f: s
+towny <> s: townies
+towpath <> s: towpaths
+towpaths <> b: towpath, f: s
+towplane <> s: towplanes
+towplanes <> b: towplane, f: s
+tows <> b: tow, f: s3
+toxic <> s: toxics
+toxicities <> b: toxicity, f: s
+toxicity <> s: toxicities
+toxicologist <> s: toxicologists
+toxicologists <> b: toxicologist, f: s
+toxics <> b: toxic, f: s
+toxin <> s: toxins
+toxins <> b: toxin, f: s
+toy <> s: toys, p: toyed, i: toying, d: toyed, '3': toys
+toyboy <> s: toyboys
+toyboys <> b: toyboy, f: s
+toye <> s: toyes
+toyed <> b: toy, f: pd
+toyes <> b: toye, f: s
+toying <> b: toy, f: i, i: toying
+toymaker <> s: toymakers
+toymakers <> b: toymaker, f: s
+toys <> b: toy, f: s3
+toyshop <> s: toyshops
+toyshops <> b: toyshop, f: s
+TR <> i: tring
+trabeated <> p: trabeated, b: trabeated, f: p
+trace <> d: traced, s: traces, i: tracing, p: traced, '3': traces
+traced <> b: trace, f: dp
+tracer <> s: tracers
+traceried <> b: tracery, f: pd
+traceries <> b: tracery, f: s
+tracers <> b: tracer, f: s
+tracery <> p: traceried, s: traceries, d: traceried
+traces <> b: trace, f: s3
+trachea <> s: tracheas
+tracheas <> b: trachea, f: s
+trachyte <> s: trachytes
+trachytes <> b: trachyte, f: s
+tracing <> b: trace, f: i, s: tracings, i: tracing
+track <> s: tracks, d: tracked, p: tracked, i: tracking, '3': tracks
+trackball <> s: trackballs
+trackballs <> b: trackball, f: s
+tracked <> b: track, f: dp
+tracker <> s: trackers
+trackers <> b: tracker, f: s
+tracking <> b: track, f: i, i: tracking, s: trackings
+trackman <> s: trackmen
+trackmen <> b: trackman, f: s
+tracks <> b: track, f: s3
+trackside <> s: tracksides
+tracksides <> b: trackside, f: s
+tracksuit <> s: tracksuits
+tracksuits <> b: tracksuit, f: s
+trackway <> s: trackways
+trackways <> b: trackway, f: s
+tract <> s: tracts
+Tractarian <> s: tractarians
+traction <> s: tractions
+tractions <> b: traction, f: s
+tractor <> s: tractors
+tractors <> b: tractor, f: s
+tracts <> b: tract, f: s
+tradable <> s: tradables
+tradables <> b: tradable, f: s
+trade <> s: trades, i: trading, d: traded, p: traded, '3': trades
+trade-in <> s: trade-ins
+trade-ins <> b: trade-in, f: s
+trade-off <> s: trade-offs
+trade-offs <> b: trade-off, f: s
+traded <> b: trade, f: dp, p: traded, d: traded
+trademark <> s: trademarks, i: trademarking
+trademarked <> p: trademarked, b: trademarked, f: p
+trademarking <> b: trademark, f: i
+trademarks <> b: trademark, f: s
+trader <> s: traders
+traders <> b: trader, f: s
+trades <> b: trade, f: s3
+tradesman <> s: tradesmen
+tradesmen <> b: tradesman, f: s
+trading <> b: trade, f: i, i: trading
+tradition <> s: traditions
+traditionalist <> s: traditionalists
+traditionalists <> b: traditionalist, f: s
+traditions <> b: tradition, f: s
+traduce <> d: traduced, p: traduced, i: traducing, '3': traduces
+traduced <> b: traduce, f: dp
+traducer <> s: traducers
+traducers <> b: traducer, f: s
+traduces <> f: '3', b: traduce
+traducing <> f: i, b: traduce
+traffic <> i: trafficking, p: trafficked, '3': traffics, d: trafficked
+trafficked <> b: traffick, f: pd
+trafficker <> s: traffickers
+traffickers <> b: trafficker, f: s
+trafficking <> i: trafficking, b: trafficking, f: i
+traffics <> f: '3', b: traffic
+tragedian <> s: tragedians
+tragedians <> b: tragedian, f: s
+tragedies <> b: tragedy, f: s
+tragedy <> s: tragedies
+trail <> p: trailed, i: trailing, s: trails, '3': trails, d: trailed
+trailblazer <> s: trailblazers
+trailblazers <> b: trailblazer, f: s
+trailblazing <> i: trailblazing, b: trailblazing, f: i
+trailed <> b: trail, f: pd, p: trailed
+trailer <> s: trailers, i: trailering, d: trailered, p: trailered
+trailered <> b: trailer, f: dp
+trailering <> b: trailer, f: i
+trailers <> b: trailer, f: s
+trailing <> b: trail, f: i, i: trailing
+trails <> b: trail, f: s3
+train <> d: trained, s: trains, i: training, p: trained, '3': trains
+trained <> b: train, f: dp, d: trained, p: trained
+trainee <> s: trainees
+trainees <> b: trainee, f: s
+traineeship <> s: traineeships
+traineeships <> b: traineeship, f: s
+trainer <> s: trainers
+trainers <> b: trainer, f: s
+training <> i: training, b: training, f: i
+trainload <> s: trainloads
+trainloads <> b: trainload, f: s
+trains <> b: train, f: s3
+trainspotter <> s: trainspotters, '3': trainspotters
+trainspotters <> b: trainspotter, f: s3
+traipse <> i: traipsing, p: traipsed, d: traipsed, '3': traipses
+traipsed <> b: traipse, f: pd
+traipses <> b: traipse, f: '3'
+traipsing <> b: traipse, f: i
+trait <> s: traits
+traitor <> s: traitors
+traitors <> b: traitor, f: s
+traits <> b: trait, f: s
+trajectories <> b: trajectory, f: s
+trajectory <> s: trajectories
+tram <> s: trams, i: tramming, p: trammed, '3': trams, d: trammed
+tramcar <> s: tramcars
+tramcars <> b: tramcar, f: s
+tramline <> s: tramlines
+tramlines <> b: tramline, f: s
+trammed <> f: pd, b: tram
+trammel <> d: trammelled, p: trammelled, s: trammels, '3': trammels, i: trammelling
+trammelled <> b: trammel, f: dp
+trammelling <> f: i, b: trammel
+trammels <> b: trammel, f: s3
+tramming <> b: tram, f: i
+tramp <> s: tramps, i: tramping, p: tramped, d: tramped, '3': tramps
+tramped <> b: tramp, f: pd
+tramper <> s: trampers
+trampers <> b: tramper, f: s
+tramping <> b: tramp, f: i, i: tramping
+trample <> d: trampled, i: trampling, p: trampled, '3': tramples, s: tramples
+trampled <> b: trample, f: dp, d: trampled, p: trampled
+tramples <> b: trample, f: 3s
+trampling <> b: trample, f: i, i: trampling
+trampoline <> i: trampolining, s: trampolines, p: trampolined
+trampolined <> b: trampoline, f: p
+trampolines <> b: trampoline, f: s
+trampolining <> b: trampoline, f: i
+tramps <> b: tramp, f: s3
+trams <> f: s3, b: tram
+tramway <> s: tramways
+Tramways <> b: tramway, f: s
+Tran <> s: trans
+trance <> s: trances, p: tranced, i: trancing, '3': trances, d: tranced
+tranced <> f: pd, b: trance, p: tranced
+trances <> f: s3, b: trance
+trancing <> f: i, b: trance
+trannies <> b: tranny, f: s
+tranny <> s: trannies
+tranquil <> s: tranquils
+tranquilize <> i: tranquilizing, p: tranquilized, '3': tranquilizes, d: tranquilized
+tranquilizer <> s: tranquilizers
+tranquilizers <> b: tranquilizer, f: s
+tranquilliser <> s: tranquillisers
+tranquillisers <> b: tranquilliser, f: s
+tranquillize <> i: tranquillizing, p: tranquillized, '3': tranquillizes, d: tranquillized
+tranquillized <> f: pd, b: tranquillize
+tranquillizer <> s: tranquillizers
+tranquillizers <> b: tranquillizer, f: s
+tranquillizes <> f: '3', b: tranquillize
+tranquillizing <> b: tranquillize, f: i
+tranquils <> b: tranquil, f: s
+trans <> b: tran, f: s
+transact <> d: transacted, p: transacted, i: transacting, '3': transacts
+transacted <> b: transact, f: dp
+transacting <> b: transact, f: i
+transaction <> s: transactions
+transactions <> b: transaction, f: s
+transactor <> s: transactors
+transactors <> b: transactor, f: s
+transacts <> b: transact, f: '3'
+transaminase <> s: transaminases, '3': transaminases
+transaminases <> b: transaminase, f: s3
+transceiver <> s: transceivers
+transceivers <> b: transceiver, f: s
+transcend <> '3': transcends, p: transcended, i: transcending, d: transcended
+transcended <> b: transcend, f: pd, p: transcended
+transcendentalist <> s: transcendentalists
+transcendentalists <> b: transcendentalist, f: s
+transcending <> b: transcend, f: i
+transcends <> b: transcend, f: '3'
+transcode <> d: transcoded, i: transcoding
+transcoded <> b: transcode, f: d
+transcoding <> b: transcode, f: i
+transcribe <> d: transcribed, i: transcribing, p: transcribed, '3': transcribes
+transcribed <> b: transcribe, f: dp, d: transcribed, p: transcribed
+transcriber <> s: transcribers
+transcribers <> b: transcriber, f: s
+transcribes <> b: transcribe, f: '3'
+transcribing <> b: transcribe, f: i
+transcript <> s: transcripts
+transcriptase <> s: transcriptases
+transcriptases <> b: transcriptase, f: s
+transcription <> s: transcriptions
+transcriptions <> b: transcription, f: s
+transcripts <> b: transcript, f: s
+transduce <> d: transduced, i: transducing, '3': transduces, p: transduced
+transduced <> b: transduce, f: dp
+transducer <> s: transducers
+transducers <> b: transducer, f: s
+transduces <> b: transduce, f: '3'
+transducing <> b: transduce, f: i
+transect <> s: transects, d: transected, i: transecting, p: transected, '3': transects
+transected <> b: transect, f: dp
+transecting <> b: transect, f: i
+transection <> s: transections
+transections <> b: transection, f: s
+transects <> f: s3, b: transect
+transept <> s: transepts
+transepts <> b: transept, f: s
+transexual <> s: transexuals
+transexuals <> b: transexual, f: s
+transfect <> p: transfected, d: transfected, i: transfecting
+transfectant <> s: transfectants
+transfectants <> b: transfectant, f: s
+transfected <> b: transfect, f: pd, p: transfected, d: transfected
+transfecting <> b: transfect, f: i
+transfection <> s: transfections
+transfections <> b: transfection, f: s
+transfer <> d: transferred, s: transfers, i: transferring, p: transferred, '3': transfers
+transferee <> s: transferees
+transferees <> b: transferee, f: s
+transference <> s: transferences
+transferences <> b: transference, f: s
+transferred <> b: transfer, f: dp, d: transferred, p: transferred
+transferrin <> s: transferrins
+transferring <> b: transfer, f: i, i: transferring
+transferrins <> b: transferrin, f: s
+transfers <> b: transfer, f: s3
+transfigure <> d: transfigured, p: transfigured, '3': transfigures, i: transfiguring
+transfigured <> b: transfigure, f: dp, p: transfigured, d: transfigured
+transfigures <> b: transfigure, f: '3'
+transfiguring <> b: transfigure, f: i
+transfix <> d: transfixed, p: transfixed, i: transfixing, '3': transfixes, s: transfixes
+transfixed <> b: transfix, f: dp, p: transfixed
+transfixes <> b: transfix, f: 3s
+transfixing <> b: transfix, f: i
+transform <> d: transformed, i: transforming, p: transformed, '3': transforms
+transformation <> s: transformations
+transformations <> b: transformation, f: s
+transformed <> b: transform, f: dp, d: transformed, p: transformed
+transformer <> s: transformers
+transforming <> b: transform, f: i, i: transforming
+transforms <> b: transform, f: '3'
+transfrontier <> b: transfronty, f: r
+transfuse <> p: transfused, d: transfused, i: transfusing, '3': transfuses
+transfused <> b: transfuse, f: pd, d: transfused
+transfuses <> f: '3', b: transfuse
+transfusing <> f: i, b: transfuse
+transfusion <> s: transfusions
+transfusions <> b: transfusion, f: s
+transgene <> s: transgenes
+transgenes <> b: transgene, f: s
+transgenic <> s: transgenics
+transgenics <> b: transgenic, f: s
+transgress <> p: transgressed, d: transgressed, i: transgressing, '3': transgresses, s: transgresses
+transgressed <> b: transgress, f: pd
+transgresses <> b: transgress, f: 3s
+transgressing <> b: transgress, f: i
+transgression <> s: transgressions
+transgressions <> b: transgression, f: s
+transgressor <> s: transgressors
+transgressors <> b: transgressor, f: s
+tranship <> p: transhipped, d: transhipped
+transhipment <> s: transhipments
+transhipments <> b: transhipment, f: s
+transhipped <> b: tranship, f: pd
+transient <> s: transients
+transients <> b: transient, f: s
+transistor <> s: transistors
+transistorize <> i: transistorizing, p: transistorized, '3': transistorizes, d: transistorized
+transistorized <> f: pd, b: transistorize
+transistorizes <> f: '3', b: transistorize
+transistorizing <> f: i, b: transistorize
+transistors <> b: transistor, f: s
+transit <> s: transits, i: transiting, d: transitted, p: transited, '3': transits
+transited <> f: pd, b: transit
+transiting <> b: transit, f: i
+transition <> s: transitions, d: transitioned, i: transitioning, p: transitioned, '3': transitions
+transitional <> s: transitionals
+transitionals <> b: transitional, f: s
+transitioned <> b: transition, f: d
+transitions <> b: transition, f: s
+transits <> f: s3, b: transit
+transitted <> b: transit, f: d
+Transjordanian <> s: transjordanians
+translate <> d: translated, i: translating, '3': translates, p: translated
+translated <> b: translate, f: dp, p: translated, d: translated
+translates <> b: translate, f: '3'
+translating <> b: translate, f: i, i: translating
+translation <> s: translations
+translations <> b: translation, f: s
+translator <> s: translators
+translators <> b: translator, f: s
+transliterate <> d: transliterated, p: transliterated, i: transliterating, '3': transliterates
+transliterated <> b: transliterate, f: dp
+transliterates <> f: '3', b: transliterate
+transliterating <> f: i, b: transliterate
+transliteration <> s: transliterations
+transliterations <> b: transliteration, f: s
+translocate <> d: translocated, '3': translocates, i: translocating, s: translocates, p: translocated
+translocated <> b: translocate, f: dp, d: translocated
+translocates <> b: translocate, f: 3s
+translocating <> b: translocate, f: i
+translocation <> s: translocations
+translocations <> b: translocation, f: s
+translucencies <> b: translucency, f: s
+translucency <> s: translucencies
+transmigrant <> s: transmigrants
+transmigrants <> b: transmigrant, f: s
+transmigrate <> i: transmigrating, p: transmigrated, '3': transmigrates, d: transmigrated
+transmigrated <> f: pd, b: transmigrate
+transmigrates <> f: '3', b: transmigrate
+transmigrating <> f: i, b: transmigrate
+transmission <> s: transmissions
+transmissions <> b: transmission, f: s
+transmissivities <> b: transmissivity, f: s
+transmissivity <> s: transmissivities
+transmit <> d: transmitted, i: transmitting, p: transmitted, '3': transmits
+transmits <> b: transmit, f: '3'
+transmitted <> b: transmit, f: dp, d: transmitted, p: transmitted
+transmitter <> s: transmitters
+transmitters <> b: transmitter, f: s
+transmitting <> b: transmit, f: i, i: transmitting
+transmogrified <> b: transmogrify, f: dp, p: transmogrified
+transmogrifies <> f: '3', b: transmogrify
+transmogrify <> d: transmogrified, p: transmogrified, i: transmogrifying, '3': transmogrifies
+transmogrifying <> b: transmogrify, f: i
+transmutation <> s: transmutations
+transmutationist <> s: transmutationists
+transmutationists <> b: transmutationist, f: s
+transmutations <> b: transmutation, f: s
+transmute <> d: transmuted, p: transmuted, '3': transmutes, i: transmuting, s: transmutes
+transmuted <> b: transmute, f: dp, d: transmuted
+transmutes <> b: transmute, f: 3s
+transmuting <> b: transmute, f: i, i: transmuting
+transnational <> s: transnationals
+transnationals <> b: transnational, f: s
+transom <> '3': transoms, s: transoms
+transome <> p: transomed, s: transomes
+transomed <> b: transome, f: p
+transoms <> b: transom, f: 3s
+transparencies <> b: transparency, f: s
+transparency <> s: transparencies
+transparent <> s: transparents
+transparents <> b: transparent, f: s
+transpire <> p: transpired, '3': transpires, d: transpired, i: transpiring
+transpired <> b: transpire, f: pd
+transpires <> b: transpire, f: '3'
+transpiring <> b: transpire, f: i
+transplant <> s: transplants, d: transplanted, p: transplanted, i: transplanting, '3': transplants
+transplantation <> s: transplantations
+transplantations <> b: transplantation, f: s
+transplanted <> b: transplant, f: dp, p: transplanted
+transplanting <> b: transplant, f: i
+transplants <> b: transplant, f: s3
+transponder <> s: transponders, '3': transponders
+transponders <> b: transponder, f: s3
+transport <> d: transported, i: transporting, p: transported, '3': transports, s: transports
+transportation <> s: transportations
+transportations <> b: transportation, f: s
+transported <> b: transport, f: dp, d: transported, p: transported
+transporter <> s: transporters
+transporters <> b: transporter, f: s
+transporting <> b: transport, f: i, i: transporting
+transports <> b: transport, f: 3s
+transpose <> d: transposed, i: transposing, p: transposed, '3': transposes
+transposed <> b: transpose, f: dp, d: transposed, p: transposed
+transposes <> b: transpose, f: '3'
+transposing <> b: transpose, f: i
+transposition <> s: transpositions
+transpositions <> b: transposition, f: s
+transposon <> s: transposons
+transposons <> b: transposon, f: s
+transputer <> s: transputers
+transputers <> b: transputer, f: s
+transsexual <> s: transsexuals
+transsexuals <> b: transsexual, f: s
+transubstantiate <> i: transubstantiating, p: transubstantiated, '3': transubstantiates, d: transubstantiated
+transubstantiated <> f: pd, b: transubstantiate
+transubstantiates <> f: '3', b: transubstantiate
+transubstantiating <> f: i, b: transubstantiate
+transudate <> s: transudates
+transudates <> b: transudate, f: s
+transude <> i: transuding, p: transuded, '3': transudes, d: transuded
+transuded <> f: pd, b: transude
+transudes <> f: '3', b: transude
+transuding <> f: i, b: transude
+transvalue <> d: transvalued, '3': transvalues
+transvalued <> b: transvalue, f: d
+transvalues <> b: transvalue, f: '3'
+transverse <> d: transversed
+transversed <> b: transverse, f: d
+transvestite <> s: transvestites
+transvestites <> b: transvestite, f: s
+trap <> d: trapped, s: traps, p: trapped, i: trapping, '3': traps
+trapdoor <> s: trapdoors
+trapdoors <> b: trapdoor, f: s
+trapeze <> s: trapezes, '3': trapezes, i: trapezing
+trapezes <> b: trapeze, f: s3
+trapezing <> b: trapeze, f: i
+trapezoid <> s: trapezoids
+trapezoids <> b: trapezoid, f: s
+trapline <> s: traplines
+traplines <> b: trapline, f: s
+trapped <> b: trap, f: dp, d: trapped, p: trapped
+trapper <> s: trappers
+trappers <> b: trapper, f: s
+trapping <> b: trap, f: i, s: trappings, i: trapping
+trappings <> b: trapping, f: s
+Trappist <> s: trappists
+traps <> b: trap, f: s3
+trash <> p: trashed, i: trashing, d: trashed, '3': trashes
+trashcan <> s: trashcans
+trashcans <> b: trashcan, f: s
+trashed <> b: trash, f: pd, p: trashed
+trashes <> b: trash, f: '3'
+trashing <> b: trash, f: i, s: trashings, i: trashing
+trauma <> s: traumas
+traumas <> b: trauma, f: s
+traumatise <> d: traumatised, p: traumatised, i: traumatising
+traumatised <> b: traumatise, f: dp, d: traumatised, p: traumatised
+traumatising <> b: traumatise, f: i
+traumatize <> d: traumatized, '3': traumatizes, i: traumatizing, p: traumatized
+traumatized <> b: traumatize, f: dp, p: traumatized
+traumatizes <> b: traumatize, f: '3'
+traumatizing <> b: traumatize, f: i
+travail <> s: travails, i: travailing, p: travailed, '3': travails, d: travailed
+travailed <> f: pd, b: travail
+travailing <> f: i, b: travail
+travails <> f: s3, b: travail
+travel <> i: travelling, p: travelled, d: travelled, s: travels, '3': travels
+traveled <> b: travele, f: d
+traveler <> s: travelers
+travelers <> b: traveler, f: s
+travelled <> b: travel, f: pd, d: travelled, p: travelled
+traveller <> s: travellers
+travellers <> b: traveller, f: s
+travelling <> b: travel, f: i, i: travelling
+travelogue <> s: travelogues
+travelogues <> b: travelogue, f: s
+travels <> b: travel, f: s3
+traver <> s: travers
+Travers <> b: traver, f: s
+traversal <> s: traversals
+traversals <> b: traversal, f: s
+traverse <> d: traversed, i: traversing, p: traversed, '3': traverses, s: traverses
+traversed <> b: traverse, f: dp, d: traversed
+traverser <> s: traversers
+traversers <> b: traverser, f: s
+traverses <> b: traverse, f: 3s
+traversing <> b: traverse, f: i, i: traversing
+travestied <> f: pd, b: travesty
+travesties <> f: s3, b: travesty
+travesty <> s: travesties, i: travestying, p: travestied, '3': travesties, d: travestied
+travestying <> b: travesty, f: i
+trawl <> i: trawling, p: trawled, d: trawled, s: trawls, '3': trawls
+trawled <> b: trawl, f: pd
+trawler <> s: trawlers
+trawlerman <> s: trawlermen
+trawlermen <> b: trawlerman, f: s
+trawlers <> b: trawler, f: s
+trawling <> b: trawl, f: i, i: trawling
+trawls <> b: trawl, f: s3
+tray <> s: trays
+trayful <> s: trayfuls
+trayfuls <> b: trayful, f: s
+trays <> b: tray, f: s
+treacheries <> b: treachery, f: s
+treachery <> s: treacheries
+tread <> i: treading, p: trod, d: trodden, '3': treads, s: treads
+treading <> b: tread, f: i
+treadle <> i: treadling, s: treadles, p: treadled, '3': treadles, d: treadled
+treadled <> f: pd, b: treadle
+treadles <> f: s3, b: treadle
+treadling <> b: treadle, f: i
+treadmill <> s: treadmills
+treadmills <> b: treadmill, f: s
+treads <> b: tread, f: 3s
+treadwheel <> s: treadwheels
+treadwheels <> b: treadwheel, f: s
+treason <> s: treasons
+treasons <> b: treason, f: s
+treasure <> s: treasures, d: treasured, p: treasured, '3': treasures, i: treasuring
+treasured <> b: treasure, f: dp, d: treasured
+treasurer <> s: treasurers
+treasurers <> b: treasurer, f: s
+treasurership <> s: treasurerships
+treasurerships <> b: treasurership, f: s
+treasures <> b: treasure, f: s3
+treasuries <> b: treasury, f: s
+treasuring <> b: treasure, f: i
+treasury <> s: treasuries
+treat <> d: treated, i: treating, p: treated, '3': treats, s: treats
+treated <> b: treat, f: dp, d: treated, p: treated
+treaties <> b: treaty, f: s
+treating <> b: treat, f: i
+treatise <> s: treatises
+treatises <> b: treatise, f: s
+treatment <> s: treatments
+treatments <> b: treatment, f: s
+treats <> b: treat, f: 3s
+treaty <> s: treaties
+treble <> d: trebled, s: trebles, p: trebled, i: trebling, '3': trebles
+trebled <> b: treble, f: dp
+trebles <> b: treble, f: s3
+trebling <> b: treble, f: i
+trebuchet <> s: trebuchets
+trebuchets <> b: trebuchet, f: s
+tree <> s: trees, i: treeing, p: treed, '3': trees, d: treed
+treecreeper <> s: treecreepers
+treecreepers <> b: treecreeper, f: s
+treed <> f: pd, b: tree, s: treeds
+treehouse <> s: treehouses
+treehouses <> b: treehouse, f: s
+treeing <> f: i, b: tree
+treeline <> p: treelined, s: treelines
+treelined <> b: treeline, f: p, p: treelined
+treelines <> b: treeline, f: s
+trees <> f: s3, b: tree
+treetop <> s: treetops
+treetops <> b: treetop, f: s
+trefoil <> s: trefoils, p: trefoiled
+trefoiled <> b: trefoil, f: p
+trefoils <> b: trefoil, f: s
+trek <> i: trekking, p: trekked, s: treks, d: trekked, '3': treks
+trekked <> b: trek, f: pd
+trekker <> s: trekkers
+trekkers <> b: trekker, f: s
+trekking <> b: trek, f: i, i: trekking
+treks <> b: trek, f: s3
+trellis <> i: trellising, p: trellised, '3': trellises, d: trellised
+trellised <> f: pd, b: trellis
+trellises <> b: trellise, f: s
+trellising <> f: i, b: trellis
+trem <> s: trems
+trematode <> s: trematodes
+trematodes <> b: trematode, f: s
+tremble <> i: trembling, p: trembled, '3': trembles, d: trembled
+trembled <> b: tremble, f: pd
+trembles <> b: tremble, f: '3'
+trembling <> b: tremble, f: i, i: trembling, s: tremblings
+tremolo <> s: tremolos
+tremolos <> b: tremolo, f: s
+tremor <> s: tremors
+tremors <> b: tremor, f: s
+trems <> b: trem, f: s
+trench <> s: trenches, i: trenching, p: trenched, d: trenched, '3': trenches
+trenchcoat <> s: trenchcoats
+trenchcoats <> b: trenchcoat, f: s
+trenched <> b: trench, f: pd
+trencher <> s: trenchers
+trencherman <> s: trenchermen
+trenchermen <> b: trencherman, f: s
+trenchers <> b: trencher, f: s
+trenches <> f: s3, b: trench
+trenching <> b: trench, f: i, i: trenching
+trend <> s: trends, i: trending, p: trended, '3': trends, d: trended
+trended <> f: pd, b: trend
+trendier <> b: trendy, f: r
+trendies <> b: trendy, f: s
+trendiest <> b: trendy, f: t
+trending <> b: trend, f: i, i: trending
+trends <> f: s3, b: trend
+trendsetter <> s: trendsetters
+trendsetters <> b: trendsetter, f: s
+trendsetting <> b: trendset, f: i
+trendy <> s: trendies, t: trendiest, r: trendier
+trepan <> i: trepanning, p: trepanned, '3': trepans, d: trepanned
+trepanned <> f: pd, b: trepan
+trepanning <> b: trepan, f: i
+trepans <> f: '3', b: trepan
+trephine <> i: trephining, p: trephined, '3': trephines, d: trephined
+trephined <> f: pd, b: trephine
+trephines <> f: '3', b: trephine
+trephining <> b: trephine, f: i
+trepidation <> s: trepidations
+trepidations <> b: trepidation, f: s
+treponeme <> s: treponemes
+treponemes <> b: treponeme, f: s
+trespass <> i: trespassing, s: trespasses, p: trespassed, d: trespassed, '3': trespasses
+trespassed <> b: trespass, f: pd
+trespasser <> s: trespassers
+trespassers <> b: trespasser, f: s
+trespasses <> b: trespass, f: s3
+trespassing <> b: trespass, f: i
+tress <> s: tresses
+tresses <> b: tress, f: s
+trestle <> s: trestles
+trestles <> b: trestle, f: s
+trew <> s: trews
+trews <> b: trew, f: s
+tri <> s: tri, b: tri, f: s
+triad <> s: triads
+triads <> b: triad, f: s
+trial <> s: trials, p: trialled
+trialist <> s: trialists
+trialists <> b: trialist, f: s
+trialled <> b: trial, f: p
+trials <> b: trial, f: s
+triangle <> s: triangles
+triangles <> b: triangle, f: s
+triangulate <> i: triangulating, p: triangulated, '3': triangulates, d: triangulated
+triangulated <> f: pd, b: triangulate
+triangulates <> f: '3', b: triangulate
+triangulating <> b: triangulate, f: i
+triangulation <> s: triangulations
+triangulations <> b: triangulation, f: s
+triathlete <> s: triathletes
+triathletes <> b: triathlete, f: s
+triathlon <> s: triathlons
+triathlons <> b: triathlon, f: s
+triazine <> s: triazines
+triazines <> b: triazine, f: s
+tribal <> s: tribals
+tribals <> b: tribal, f: s
+tribe <> s: tribes
+tribes <> b: tribe, f: s
+tribesman <> s: tribesmen
+tribesmen <> b: tribesman, f: s
+tribespeople <> s: tribespeople, b: tribespeople, f: s
+tribulation <> s: tribulations
+tribulations <> b: tribulation, f: s
+tribunal <> s: tribunals
+tribunals <> b: tribunal, f: s
+tribune <> s: tribunes
+tribunes <> b: tribune, f: s
+tributaries <> b: tributary, f: s
+tributary <> s: tributaries
+tribute <> s: tributes
+tributes <> b: tribute, f: s
+trice <> i: tricing, p: triced, '3': trices, d: triced
+triced <> f: pd, b: trice
+tricep <> s: triceps, '3': triceps
+triceps <> b: tricep, f: s3
+triceratops <> b: triceratop, f: s
+trices <> f: '3', b: trice
+trichologist <> s: trichologists
+trichologists <> b: trichologist, f: s
+trichome <> s: trichomes
+trichomes <> b: trichome, f: s
+tricing <> f: i, b: trice
+trick <> s: tricks, d: tricked, p: tricked, '3': tricks, i: tricking
+trick-or-treat <> s: trick-or-treats
+trick-or-treats <> b: trick-or-treat, f: s
+tricked <> b: trick, f: dp, d: tricked
+tricker <> s: trickers
+trickers <> b: tricker, f: s
+trickier <> b: tricky, f: r
+trickiest <> b: tricky, f: t
+tricking <> b: trick, f: i
+trickle <> p: trickled, i: trickling, s: trickles, '3': trickles, d: trickled
+trickled <> b: trickle, f: pd
+trickles <> b: trickle, f: s3
+trickling <> b: trickle, f: i, s: tricklings, i: trickling
+tricks <> b: trick, f: s3
+trickster <> s: tricksters
+tricksters <> b: trickster, f: s
+tricky <> r: trickier, t: trickiest
+tricolor <> s: tricolors
+tricolors <> b: tricolor, f: s
+tricolour <> s: tricolours, d: tricoloured
+tricoloured <> b: tricolour, f: d
+tricolours <> b: tricolour, f: s
+tricycle <> s: tricycles
+tricycles <> b: tricycle, f: s
+tricyclic <> s: tricyclics
+tricyclics <> b: tricyclic, f: s
+Trident <> s: tridents
+tried <> b: try, f: pd, p: tried, d: tried
+trier <> s: triers
+triers <> b: trier, f: s
+triffid <> s: triffids
+triffids <> b: triffid, f: s
+trifid <> s: trifids
+trifids <> b: trifid, f: s
+trifle <> s: trifles, d: trifled, i: trifling, p: trifled, '3': trifles
+trifled <> f: dp, b: trifle
+trifles <> f: s3, b: trifle
+trifling <> b: trifle, f: i, i: trifling
+trifurcate <> i: trifurcating, p: trifurcated, '3': trifurcates, d: trifurcated
+trig <> s: trigs
+trigger <> d: triggered, p: triggered, i: triggering, '3': triggers, s: triggers
+triggered <> b: trigger, f: dp
+triggering <> b: trigger, f: i, s: triggerings
+triggers <> b: trigger, f: 3s
+triglyceride <> s: triglycerides
+triglycerides <> b: triglyceride, f: s
+triglyph <> s: triglyphs
+triglyphs <> b: triglyph, f: s
+trigram <> s: trigrams
+trigrams <> b: trigram, f: s
+trigs <> b: trig, f: s
+trihedron <> s: trihedrons
+trihedrons <> b: trihedron, f: s
+trike <> s: trikes
+trikes <> b: trike, f: s
+trilbied <> b: trilby, f: p
+trilbies <> b: trilby, f: s
+trilby <> s: trilbies, p: trilbied
+trill <> p: trilled, s: trills, i: trilling, '3': trills, d: trilled
+trilled <> f: pd, b: trill
+trilling <> b: trill, f: i, i: trilling, s: trillings
+trills <> b: trill, f: s3
+trilobite <> s: trilobites
+trilobites <> b: trilobite, f: s
+trilogies <> b: trilogy, f: s
+trilogy <> s: trilogies
+trim <> d: trimmed, i: trimming, p: trimmed, s: trims, r: trimmer, '3': trims
+trimaran <> s: trimarans
+trimarans <> b: trimaran, f: s
+trimer <> s: trimers
+trimers <> b: trimer, f: s
+trimester <> s: trimesters
+trimesters <> b: trimester, f: s
+trimmed <> b: trim, f: dp, d: trimmed, p: trimmed
+trimmer <> b: trim, f: r, s: trimmers
+trimming <> b: trim, f: i, s: trimmings, i: trimming
+trimmings <> b: trimming, f: s
+trims <> b: trim, f: s3
+tring <> b: tr, f: i
+Trinidadian <> s: trinidadians
+trinket <> s: trinkets, '3': trinkets
+trinkets <> b: trinket, f: s3
+trio <> s: trios
+Triomphe <> '3': triomphes
+trios <> b: trio, f: s
+trip <> s: trips, i: tripping, p: tripped, '3': trips, d: tripped
+tripe <> s: tripes
+tripes <> b: tripe, f: s
+triphosphate <> s: triphosphates
+triphosphates <> b: triphosphate, f: s
+triphthong <> s: triphthongs
+triphthongs <> b: triphthong, f: s
+triplane <> s: triplanes
+triplanes <> b: triplane, f: s
+triple <> d: tripled, p: tripled, s: triples, i: tripling, '3': triples
+tripled <> b: triple, f: dp, d: tripled
+triples <> b: triple, f: s3
+triplet <> s: triplets
+triplets <> b: triplet, f: s
+triplicate <> s: triplicates, p: triplicated, i: triplicating, '3': triplicates, d: triplicated
+triplicated <> f: pd, b: triplicate
+triplicates <> f: s3, b: triplicate
+triplicating <> f: i, b: triplicate
+tripling <> b: triple, f: i, i: tripling, s: triplings
+triploid <> s: triploids
+triploids <> b: triploid, f: s
+tripod <> s: tripods, i: tripodding
+tripodding <> b: tripod, f: i
+tripods <> b: tripod, f: s
+tripped <> b: trip, f: pd
+tripper <> s: trippers
+trippers <> b: tripper, f: s
+trippies <> b: trippy, f: s
+trippiest <> b: trippy, f: t
+tripping <> b: trip, f: i, s: trippings
+trippy <> t: trippiest, s: trippies
+triptych <> s: triptychs
+triptychs <> b: triptych, f: s
+tripwire <> s: tripwires
+tripwires <> b: tripwire, f: s
+trireme <> s: triremes
+triremes <> b: trireme, f: s
+trisaccharide <> s: trisaccharides
+trisaccharides <> b: trisaccharide, f: s
+trisect <> i: trisecting, p: trisected, '3': trisects, d: trisected
+trisected <> f: pd, b: trisect
+trisecting <> f: i, b: trisect
+trisects <> f: '3', b: trisect
+trishaw <> '3': trishaws
+trishaws <> b: trishaw, f: '3'
+trisomies <> b: trisomy, f: s
+trisomy <> s: trisomies
+TriStar <> s: tristars
+trite <> t: tritest
+triterpenoid <> s: triterpenoids
+triterpenoids <> b: triterpenoid, f: s
+tritest <> b: trite, f: t
+tritiated <> p: tritiated, b: tritiated, f: p
+triticale <> s: triticales
+triticales <> b: triticale, f: s
+Triton <> s: tritons
+tritone <> s: tritones
+tritones <> b: tritone, f: s
+triumph <> s: triumphs, p: triumphed, d: triumphed, i: triumphing, '3': triumphs
+triumphant <> s: triumphants
+triumphants <> b: triumphant, f: s
+triumphed <> b: triumph, f: pd
+triumphing <> b: triumph, f: i, i: triumphing
+triumphs <> b: triumph, f: s3
+trivet <> s: trivets
+trivets <> b: trivet, f: s
+trivialise <> '3': trivialises, i: trivialising, p: trivialised, d: trivialised, s: trivialises
+trivialised <> b: trivialise, f: pd, d: trivialised
+trivialises <> b: trivialise, f: 3s
+trivialising <> b: trivialise, f: i
+trivialities <> b: triviality, f: s
+triviality <> s: trivialities
+trivialize <> d: trivialized, i: trivializing, '3': trivializes, p: trivialized
+trivialized <> b: trivialize, f: dp
+trivializes <> b: trivialize, f: '3'
+trivializing <> b: trivialize, f: i
+tRNA <> s: trnas
+trnas <> b: trna, f: s
+troctolite <> s: troctolites
+troctolites <> b: troctolite, f: s
+trod <> b: tread, f: pd, i: trodding, p: trod
+trodden <> b: tread, f: d, d: trodden
+trog <> i: trogging
+trogging <> b: trog, f: i
+troglodyte <> s: troglodytes
+troglodytes <> b: troglodyte, f: s
+trogon <> s: trogons
+trogons <> b: trogon, f: s
+Trojan <> s: trojans
+troll <> s: trolls, i: trolling, p: trolled, d: trolled, '3': trolls
+trolled <> b: troll, f: pd
+trolley <> s: trolleys
+trolleys <> b: trolley, f: s
+trolling <> b: troll, f: i, i: trolling
+trollop <> s: trollops
+trollops <> b: trollop, f: s
+trolls <> f: s3, b: troll
+trombone <> s: trombones
+trombones <> b: trombone, f: s
+trombonist <> s: trombonists
+trombonists <> b: trombonist, f: s
+tromp <> i: tromping
+tromping <> b: tromp, f: i
+troop <> s: troops, p: trooped, i: trooping, '3': troops, d: trooped
+trooped <> f: pd, b: troop
+trooper <> s: troopers
+troopers <> b: trooper, f: s
+trooping <> b: troop, f: i, i: trooping
+troops <> f: s3, b: troop
+troopship <> s: troopships
+troopships <> b: troopship, f: s
+trope <> s: tropes
+tropes <> b: trope, f: s
+trophies <> b: trophy, f: s
+trophozoite <> s: trophozoites
+trophozoites <> b: trophozoite, f: s
+trophy <> s: trophies
+tropical <> s: tropicals
+tropicals <> b: tropical, f: s
+tropism <> s: tropisms
+tropisms <> b: tropism, f: s
+trot <> p: trotted, i: trotting, d: trotted, '3': trots, s: trots
+trots <> b: trot, f: 3s
+Trotskyist <> s: trotskyists
+trotskyite <> s: trotskyites
+trotted <> b: trot, f: pd
+trotter <> s: trotters
+trotters <> b: trotter, f: s
+trotting <> b: trot, f: i, i: trotting
+troubadour <> s: troubadours
+troubadours <> b: troubadour, f: s
+trouble <> s: troubles, d: troubled, p: troubled, '3': troubles, i: troubling
+troubled <> b: trouble, f: dp, d: troubled, p: troubled
+troublemaker <> s: troublemakers
+troublemakers <> b: troublemaker, f: s
+troubles <> b: trouble, f: s3
+troubleshoot <> i: troubleshooting, '3': troubleshoots
+troubleshooter <> s: troubleshooters
+troubleshooters <> b: troubleshooter, f: s
+troubleshooting <> b: troubleshoot, f: i
+troubleshoots <> b: troubleshoot, f: '3'
+troubling <> b: trouble, f: i, i: troubling
+trough <> s: troughs, p: troughed, d: troughed, i: troughing
+troughed <> b: trough, f: pd
+troughing <> b: trough, f: i
+troughs <> b: trough, f: s
+trounce <> p: trounced, d: trounced, i: trouncing, '3': trounces
+trounced <> b: trounce, f: pd
+trounces <> b: trounce, f: '3'
+trouncing <> b: trounce, f: i, s: trouncings, i: trouncing
+troupe <> s: troupes
+trouper <> s: troupers
+troupers <> b: trouper, f: s
+troupes <> b: troupe, f: s
+trouser <> d: trousered, i: trousering, p: trousered
+trousered <> p: trousered, b: trousered, f: p
+trousering <> b: trouser, f: i
+trousers <> s: trousers, b: trousers, f: s
+trousseau <> s: trousseaus
+trousseaus <> b: trousseau, f: s
+trout <> s: trouts
+trouts <> b: trout, f: s
+trouvaille <> s: trouvailles
+trouvailles <> b: trouvaille, f: s
+trove <> s: troves, '3': troves
+troves <> b: trove, f: s3
+trow <> '3': trows, s: trows
+trowel <> s: trowels, i: trowelling, d: trowelled, p: trowelled, '3': trowels
+trowelled <> f: dp, b: trowel
+trowelling <> b: trowel, f: i
+trowels <> f: s3, b: trowel
+trows <> b: trow, f: 3s
+troye <> s: troyes
+Troyes <> b: troye, f: s
+truancies <> b: truancy, f: s
+truancy <> s: truancies
+truant <> s: truants, i: truanting, d: truanted
+truanted <> b: truant, f: d
+truanting <> b: truant, f: i
+truants <> b: truant, f: s
+truce <> s: truces
+truces <> b: truce, f: s
+truck <> s: trucks, i: trucking, d: trucked, p: trucked, '3': trucks
+trucked <> b: truck, f: dp
+trucker <> s: truckers
+truckers <> b: trucker, f: s
+trucking <> b: truck, f: i
+truckle <> s: truckles, p: truckled, i: truckling, '3': truckles, d: truckled
+truckled <> f: pd, b: truckle
+truckles <> f: s3, b: truckle
+truckling <> f: i, b: truckle
+truckload <> s: truckloads
+truckloads <> b: truckload, f: s
+trucks <> f: s3, b: truck
+trudge <> p: trudged, i: trudging, s: trudges, d: trudged, '3': trudges
+trudged <> b: trudge, f: pd
+trudges <> b: trudge, f: s3
+trudging <> b: trudge, f: i
+true <> r: truer, t: truest, i: truing, p: trued, '3': trues, d: trued
+trued <> f: pd, b: 'true'
+truer <> b: 'true', f: r
+trues <> f: '3', b: 'true'
+truest <> b: 'true', f: t
+truffle <> s: truffles
+truffles <> b: truffle, f: s
+trug <> s: trugs
+trugs <> b: trug, f: s
+truing <> f: i, b: 'true'
+truism <> s: truisms
+truisms <> b: truism, f: s
+trump <> s: trumps, p: trumped, d: trumped, i: trumping, '3': trumps
+trumped <> b: trump, f: pd
+Trumper <> s: trumpers
+trumpet <> s: trumpets, '3': trumpets, i: trumpeting, p: trumpeted, d: trumpeted
+trumpeted <> b: trumpete, f: dp
+trumpeter <> b: trumpete, f: r, s: trumpeters
+trumpeters <> b: trumpeter, f: s
+trumpeting <> b: trumpete, f: i, s: trumpetings, i: trumpeting
+trumpets <> b: trumpet, f: s3
+trumping <> b: trump, f: i
+trumps <> b: trump, f: s3
+truncate <> d: truncated, i: truncating, p: truncated, '3': truncates
+truncated <> d: truncated, b: truncated, f: dp, p: truncated
+truncates <> b: truncate, f: '3'
+truncating <> b: truncate, f: i
+truncheon <> s: truncheons
+truncheons <> b: truncheon, f: s
+trundle <> p: trundled, i: trundling, '3': trundles, d: trundled
+trundled <> b: trundle, f: pd
+trundles <> b: trundle, f: '3'
+trundling <> b: trundle, f: i, i: trundling
+trunk <> s: trunks, i: trunking
+trunkful <> s: trunkfuls
+trunkfuls <> b: trunkful, f: s
+trunking <> b: trunk, f: i, i: trunking
+trunks <> b: trunk, f: s
+trunnion <> s: trunnions
+trunnions <> b: trunnion, f: s
+truss <> d: trussed, s: trusses, i: trussing, p: trussed, '3': trusses
+trussed <> b: truss, f: dp, d: trussed, p: trussed
+trusses <> b: truss, f: s3
+trussing <> b: truss, f: i, i: trussing
+trust <> s: trusts, d: trusted, p: trusted, i: trusting, '3': trusts
+trustbuster <> s: trustbusters
+trustbusters <> b: trustbuster, f: s
+trusted <> b: trust, f: dp, p: trusted, d: trusted
+trustee <> s: trustees
+trustees <> b: trustee, f: s
+trusteeship <> s: trusteeships
+trusteeships <> b: trusteeship, f: s
+trusties <> b: trusty, f: s
+trustiest <> b: trusty, f: t
+trusting <> b: trust, f: i, i: trusting
+trusts <> b: trust, f: s3
+trusty <> s: trusties, t: trustiest
+truth <> s: truths
+truths <> b: truth, f: s
+try <> i: trying, p: tried, d: tried, '3': tries, s: tries
+try-out <> s: try-outs
+try-outs <> b: try-out, f: s
+trying <> b: try, f: i, i: trying
+Tryon <> s: tryons
+tryout <> s: tryouts
+tryouts <> b: tryout, f: s
+trypanosome <> s: trypanosomes, '3': trypanosomes
+trypanosomes <> b: trypanosome, f: s3
+tryptic <> s: tryptics
+tryptics <> b: tryptic, f: s
+tryst <> s: trysts
+trysts <> b: tryst, f: s
+tsar <> s: tsars
+tsarist <> s: tsarists
+tsarists <> b: tsarist, f: s
+tsars <> b: tsar, f: s
+tsunami <> s: tsunami, b: tsunami, f: s
+TU <> s: tus, r: tuer
+tuareg <> s: tuaregs, '3': tuaregs
+tuaregs <> b: tuareg, f: s3
+tub <> s: tubs, i: tubbing, d: tubbed
+tuba <> s: tubas
+tubas <> b: tuba, f: s
+tubbed <> b: tub, f: d
+tubbier <> b: tubby, f: r
+tubbies <> b: tubby, f: s
+tubbing <> b: tub, f: i
+tubby <> s: tubbies, r: tubbier
+tube <> s: tubes, d: tubed, i: tubing, p: tubed, '3': tubes
+tubed <> f: dp, b: tube
+tuber <> s: tubers
+tubercle <> s: tubercles
+tubercles <> b: tubercle, f: s
+tuberculin <> s: tuberculins
+tuberculins <> b: tuberculin, f: s
+tuberose <> s: tuberoses
+tuberoses <> b: tuberose, f: s
+tuberosities <> b: tuberosity, f: s
+tuberosity <> s: tuberosities
+tubers <> b: tuber, f: s
+tubes <> f: s3, b: tube
+tubing <> f: i, b: tube
+tubs <> b: tub, f: s
+tubular <> s: tubulars
+tubulars <> b: tubular, f: s
+tubule <> s: tubules
+tubules <> b: tubule, f: s
+tuck <> d: tucked, p: tucked, i: tucking, '3': tucks, s: tucks
+tucked <> b: tuck, f: dp, p: tucked
+tucker <> s: tuckers, i: tuckering, p: tuckered, '3': tuckers, d: tuckered
+tuckered <> d: tuckered, b: tuckered, f: d
+tuckering <> f: i, b: tucker
+tuckers <> f: s3, b: tucker
+tucking <> b: tuck, f: i
+tucks <> b: tuck, f: 3s
+Tuesday <> s: tuesdays
+Tuesdays <> b: tuesday, f: s
+tufa <> s: tufas
+tufas <> b: tufa, f: s
+tuff <> s: tuffs
+tuffs <> b: tuff, f: s
+tuft <> s: tufts, i: tufting
+tufted <> s: tufteds
+tufteds <> b: tufted, f: s
+tufting <> b: tuft, f: i, i: tufting
+tufts <> b: tuft, f: s
+tug <> p: tugged, i: tugging, s: tugs, d: tugged, '3': tugs
+tugboat <> s: tugboats
+tugboats <> b: tugboat, f: s
+tugged <> b: tug, f: pd
+tugging <> b: tug, f: i, i: tugging, s: tuggings
+tugrik <> s: tugriks, '3': tugriks
+tugriks <> b: tugrik, f: s3
+tugs <> b: tug, f: s3
+tuition <> i: tuitioning
+tuitioning <> b: tuition, f: i
+tulip <> s: tulips
+tulips <> b: tulip, f: s
+tulle <> s: tulles
+tulles <> b: tulle, f: s
+tum <> s: tums
+tumble <> p: tumbled, i: tumbling, d: tumbled, '3': tumbles, s: tumbles
+tumble-dryer <> s: tumble-dryers
+tumble-dryers <> b: tumble-dryer, f: s
+tumbled <> b: tumble, f: pd, p: tumbled
+tumbler <> s: tumblers
+tumblerful <> s: tumblerfuls
+tumblerfuls <> b: tumblerful, f: s
+tumblers <> b: tumbler, f: s
+tumbles <> b: tumble, f: 3s
+tumbling <> b: tumble, f: i, i: tumbling
+tumbril <> s: tumbrils
+tumbrils <> b: tumbril, f: s
+tumefied <> f: pd, b: tumefy
+tumefies <> f: '3', b: tumefy
+tumefy <> i: tumefying, p: tumefied, '3': tumefies, d: tumefied
+tummies <> b: tummy, f: s
+tummy <> s: tummies
+tumor <> s: tumors
+tumors <> b: tumor, f: s
+tumour <> s: tumours
+tumours <> b: tumour, f: s
+tump <> s: tumps
+tumps <> b: tump, f: s
+tums <> b: tum, f: s
+tumult <> s: tumults
+tumults <> b: tumult, f: s
+tun <> s: tuns
+tuna <> s: tunas
+tunas <> b: tuna, f: s
+tundra <> s: tundras
+tundras <> b: tundra, f: s
+tune <> s: tunes, d: tuned, i: tuning, p: tuned, '3': tunes
+tuned <> b: tune, f: dp, d: tuned
+tuner <> s: tuners
+tuners <> b: tuner, f: s
+tunes <> b: tune, f: s3
+tunesmith <> s: tunesmiths
+tunesmiths <> b: tunesmith, f: s
+tung <> p: tung, b: tung, f: p
+tungsten <> s: tungstens
+tungstens <> b: tungsten, f: s
+Tungus <> b: tungu, f: s
+tunic <> s: tunics
+tunicate <> s: tunicates
+tunicates <> b: tunicate, f: s
+tunics <> b: tunic, f: s
+tuning <> b: tune, f: i, s: tunings, i: tuning
+Tunisian <> s: tunisians
+tunnel <> s: tunnels, d: tunnelled, p: tunnelled, i: tunnelling, '3': tunnels
+tunnelled <> b: tunnel, f: dp
+tunneller <> s: tunnellers
+tunnellers <> b: tunneller, f: s
+tunnelling <> b: tunnel, f: i, i: tunnelling, s: tunnellings
+tunnels <> f: s3, b: tunnel
+tuns <> b: tun, f: s
+tup <> s: tups, i: tupping, '3': tups
+Tupamaro <> s: tupamaros
+tuple <> s: tuples, d: tupled
+tupled <> b: tuple, f: d
+tuples <> b: tuple, f: s
+tupping <> b: tup, f: i
+tups <> b: tup, f: s3
+turban <> s: turbans
+turbaned <> p: turbaned, b: turbaned, f: p
+turbans <> b: turban, f: s
+turbidite <> s: turbidites
+turbidites <> b: turbidite, f: s
+turbine <> s: turbines
+turbines <> b: turbine, f: s
+turbo <> s: turbos
+turbocharge <> i: turbocharging, p: turbocharged, d: turbocharged
+turbocharged <> p: turbocharged, b: turbocharged, f: p
+turbocharger <> s: turbochargers
+turbochargers <> b: turbocharger, f: s
+turbocharging <> b: turbocharge, f: i
+turbofan <> s: turbofans
+turbofans <> b: turbofan, f: s
+turbojet <> s: turbojets, '3': turbojets
+turbojets <> b: turbojet, f: s3
+turboprop <> s: turboprops
+turboprops <> b: turboprop, f: s
+turbos <> b: turbo, f: s
+turboshaft <> s: turboshafts
+turboshafts <> b: turboshaft, f: s
+turbulence <> s: turbulences
+turbulences <> b: turbulence, f: s
+Turcoman <> s: turcomans
+turcomans <> b: turcoman, f: s
+turd <> s: turds
+turds <> b: turd, f: s
+ture <> i: turing
+tureen <> s: tureens
+tureens <> b: tureen, f: s
+turf <> d: turfed, s: turfs, i: turfing, p: turfed, '3': turfs
+turfed <> b: turf, f: dp
+turfing <> b: turf, f: i
+turfs <> f: s3, b: turf
+Turing <> b: ture, f: i
+turion <> s: turions
+turions <> b: turion, f: s
+Turk <> s: turks
+turkey <> s: turkeys
+turkeys <> b: turkey, f: s
+Turkmen <> b: turkman, f: s
+Turkoman <> s: turkomans
+turkomans <> b: turkoman, f: s
+turks <> b: turk, f: s
+turmoil <> s: turmoils, p: turmoiled
+turmoiled <> b: turmoil, f: p
+turmoils <> b: turmoil, f: s
+turn <> p: turned, d: turned, i: turning, '3': turns, s: turns
+turn-off <> s: turn-offs
+turn-offs <> b: turn-off, f: s
+turn-on <> s: turn-ons
+turn-ons <> b: turn-on, f: s
+turn-up <> s: turn-ups
+turn-ups <> b: turn-up, f: s
+turnabout <> s: turnabouts
+turnabouts <> b: turnabout, f: s
+turnaround <> s: turnarounds
+turnarounds <> b: turnaround, f: s
+turnback <> s: turnbacks
+turnbacks <> b: turnback, f: s
+turncoat <> s: turncoats
+turncoats <> b: turncoat, f: s
+turned <> b: turn, f: pd, p: turned, d: turned
+turner <> s: turners
+turners <> b: turner, f: s
+turning <> b: turn, f: i, i: turning, s: turnings
+turnings <> b: turning, f: s
+turnip <> s: turnips, '3': turnips
+turnips <> b: turnip, f: s3
+turnkey <> s: turnkeys
+turnkeys <> b: turnkey, f: s
+turnout <> s: turnouts
+turnouts <> b: turnout, f: s
+turnover <> s: turnovers
+turnovers <> b: turnover, f: s
+turnpike <> s: turnpikes, '3': turnpikes, d: turnpiked, i: turnpiking
+turnpiked <> b: turnpike, f: d
+turnpikes <> b: turnpike, f: s3
+turnpiking <> b: turnpike, f: i
+turnround <> s: turnrounds
+turnrounds <> b: turnround, f: s
+turns <> b: turn, f: 3s
+turnstile <> s: turnstiles
+turnstiles <> b: turnstile, f: s
+turnstone <> s: turnstones
+turnstones <> b: turnstone, f: s
+turntable <> s: turntables
+turntables <> b: turntable, f: s
+turquoise <> s: turquoises
+turquoises <> b: turquoise, f: s
+turret <> s: turrets
+turrets <> b: turret, f: s
+turtle <> s: turtles, i: turtling, p: turtled, '3': turtles, d: turtled
+turtled <> f: pd, b: turtle
+turtledove <> s: turtledoves
+turtledoves <> b: turtledove, f: s
+turtles <> f: s3, b: turtle
+turtling <> f: i, b: turtle
+turves <> b: turve, f: s
+tus <> b: tu, f: s
+tush <> s: tushes, p: tushed
+tushed <> b: tush, f: p
+tushes <> b: tush, f: s
+tusk <> s: tusks, p: tusked, '3': tusks, i: tusking, d: tusked
+tusked <> f: pd, b: tusk, p: tusked
+tusker <> s: tuskers
+tuskers <> b: tusker, f: s
+tusking <> f: i, b: tusk
+tusks <> b: tusk, f: s3
+tussle <> s: tussles, i: tussling, p: tussled, '3': tussles, d: tussled
+tussled <> f: pd, b: tussle
+tussles <> b: tussle, f: s3
+tussling <> b: tussle, f: i, i: tussling
+tussock <> s: tussocks
+tussocks <> b: tussock, f: s
+tut <> p: tutted, i: tutting, '3': tuts, d: tutted
+tut-tut <> '3': tut-tuts, i: tut-tutting, p: tut-tutted, d: tut-tutted
+tut-tuts <> b: tut-tut, f: '3'
+tut-tutted <> f: pd, b: tut-tut
+tut-tutting <> f: i, b: tut-tut
+tutee <> s: tutees
+tutees <> b: tutee, f: s
+tutor <> s: tutors, i: tutoring, p: tutored, '3': tutors, d: tutored
+tutored <> b: tutore, f: dp, d: tutored, p: tutored
+tutorial <> s: tutorials
+tutorials <> b: tutorial, f: s
+tutoring <> b: tutor, f: i, i: tutoring
+tutors <> f: s3, b: tutor
+tuts <> b: tut, f: '3'
+tutted <> b: tut, f: pd
+tutti <> s: tutti, b: tutti, f: s
+tutti-frutti <> s: tutti-frutti, b: tutti-frutti, f: s
+tutting <> b: tut, f: i, i: tutting
+tutu <> s: tutus
+tutus <> b: tutu, f: s
+tuxedo <> s: tuxedos
+tuxedos <> b: tuxedo, f: s
+TWA <> s: twas
+twaddle <> i: twaddling, p: twaddled, '3': twaddles, d: twaddled
+twaddled <> f: pd, b: twaddle
+twaddles <> f: '3', b: twaddle
+twaddling <> f: i, b: twaddle
+twang <> i: twanging, p: twanged, d: twanged, s: twangs, '3': twangs
+twanged <> b: twang, f: pd
+twanging <> b: twang, f: i
+twangs <> b: twang, f: s3
+twas <> b: twa, f: s
+twat <> s: twats, '3': twats, p: twatted
+twats <> b: twat, f: s3
+twatted <> b: twat, f: p
+tweak <> i: tweaking, p: tweaked, d: tweaked, s: tweaks, '3': tweaks
+tweaked <> b: tweak, f: pd
+tweaking <> b: tweak, f: i, i: tweaking
+tweaks <> b: tweak, f: s3
+tweed <> s: tweeds, p: tweeded
+tweeded <> b: tweed, f: p
+tweeds <> b: tweed, f: s
+tweenies <> b: tweeny, f: s
+tweeny <> s: tweenies
+tweet <> '3': tweets, i: tweeting, p: tweeted, d: tweeted
+tweeted <> f: pd, b: tweet
+tweeter <> s: tweeters, p: tweetered
+tweetered <> b: tweeter, f: p
+tweeters <> b: tweeter, f: s
+tweeting <> b: tweet, f: i
+tweets <> b: tweet, f: '3'
+tweeze <> i: tweezing, p: tweezed, '3': tweezes, d: tweezed
+tweezed <> f: pd, b: tweeze
+tweezers <> s: tweezers, b: tweezers, f: s
+tweezes <> f: '3', b: tweeze
+tweezing <> f: i, b: tweeze
+twentysomething <> s: twentysomethings
+twentysomethings <> b: twentysomething, f: s
+twerp <> s: twerps
+twerps <> b: twerp, f: s
+Twi <> s: twi, b: twi, f: s
+twiddle <> i: twiddling, p: twiddled, s: twiddles, '3': twiddles, d: twiddled
+twiddled <> b: twiddle, f: pd
+twiddler <> s: twiddlers
+twiddlers <> b: twiddler, f: s
+twiddles <> b: twiddle, f: s3
+twiddling <> b: twiddle, f: i, s: twiddlings, i: twiddling
+twig <> s: twigs, p: twigged, d: twigged, i: twigging, '3': twigs
+twigged <> b: twig, f: pd
+twigging <> b: twig, f: i
+twigs <> f: s3, b: twig
+twilight <> s: twilights
+twilights <> b: twilight, f: s
+twill <> s: twills, i: twilling, p: twilled, '3': twills, d: twilled
+twilled <> f: pd, b: twill
+twilling <> f: i, b: twill
+twills <> f: s3, b: twill
+twin <> s: twins, d: twinned, i: twinning, '3': twins, p: twinned
+twine <> i: twining, p: twined, d: twined, s: twines, '3': twines
+twined <> b: twine, f: pd
+twines <> b: twine, f: s3
+twinge <> s: twinges, i: twingeing, p: twinged, '3': twinges, d: twinged
+twinged <> f: pd, b: twinge
+twingeing <> b: twinge, f: i
+twinges <> f: s3, b: twinge
+twining <> b: twine, f: i, i: twining
+twinkle <> p: twinkled, i: twinkling, '3': twinkles, d: twinkled, s: twinkles
+twinkled <> b: twinkle, f: pd
+twinkles <> b: twinkle, f: 3s
+twinkliest <> b: twinkly, f: t
+twinkling <> b: twinkle, f: i, i: twinkling
+twinkly <> t: twinkliest
+twinned <> b: twin, f: dp
+twinning <> b: twin, f: i, s: twinnings, i: twinning
+twinset <> s: twinsets
+twinsets <> b: twinset, f: s
+twirl <> p: twirled, i: twirling, '3': twirls, s: twirls, d: twirled
+twirled <> b: twirl, f: pd
+twirling <> b: twirl, f: i, i: twirling
+twirls <> b: twirl, f: 3s
+twist <> p: twisted, i: twisting, d: twisted, s: twists, '3': twists
+twisted <> b: twist, f: pd, d: twisted, p: twisted
+twister <> s: twisters
+twisters <> b: twister, f: s
+twistier <> b: twisty, f: r
+twisting <> b: twist, f: i, i: twisting, s: twistings
+twists <> b: twist, f: s3
+twisty <> r: twistier
+twit <> s: twits, p: twitted, i: twitting, '3': twits, d: twitted
+twitch <> p: twitched, i: twitching, '3': twitches, s: twitches, d: twitched
+twitched <> b: twitch, f: pd, d: twitched, p: twitched
+twitcher <> s: twitchers
+twitchers <> b: twitcher, f: s
+twitches <> b: twitch, f: 3s
+twitchiest <> b: twitchy, f: t
+twitching <> b: twitch, f: i, s: twitchings, i: twitching
+twitchy <> t: twitchiest
+twits <> f: s3, b: twit
+twitted <> f: pd, b: twit
+twitter <> p: twittered, i: twittering, '3': twitters, s: twitters, d: twittered
+twittered <> f: pd, b: twitter
+twittering <> b: twitter, f: i, s: twitterings, i: twittering
+twitters <> b: twitter, f: 3s
+twitting <> b: twit, f: i
+twizzle <> d: twizzled
+twizzled <> b: twizzle, f: d
+two-faced <> p: two-faced, b: two-faced, f: p
+two-piece <> s: two-pieces
+two-pieces <> b: two-piece, f: s
+two-seater <> s: two-seaters
+two-seaters <> b: two-seater, f: s
+two-step <> s: two-steps
+two-steps <> b: two-step, f: s
+two-stroke <> s: two-strokes
+two-strokes <> b: two-stroke, f: s
+two-time <> s: two-times
+two-times <> b: two-time, f: s
+two-wheeler <> s: two-wheelers
+two-wheelers <> b: two-wheeler, f: s
+tycoon <> s: tycoons
+tycoons <> b: tycoon, f: s
+tying <> b: tie, f: i, i: tying
+tyke <> s: tykes
+tykes <> b: tyke, f: s
+Tyne <> '3': tynes
+type <> s: types, d: typed, i: typing, p: typed, '3': types
+typecast <> d: typecast, b: typecast, f: dp, i: typecasting, p: typecast, '3': typecasts
+typecasting <> b: typecast, f: i, i: typecasting
+typecasts <> f: '3', b: typecast
+typed <> b: type, f: dp, p: typed, d: typed
+typeface <> s: typefaces
+typefaces <> b: typeface, f: s
+types <> f: s3, b: type
+typescript <> s: typescripts
+typescripts <> b: typescript, f: s
+typeset <> d: typeset, p: typeset, i: typesetting, f: pd, b: typeset, '3': typesets
+typesets <> f: '3', b: typeset
+typesetter <> s: typesetters
+typesetters <> b: typesetter, f: s
+typesetting <> i: typesetting, b: typesetting, f: i
+typewrite <> i: typewriting, p: typewrote, '3': typewrites, d: typewritten
+typewriter <> s: typewriters
+typewriters <> b: typewriter, f: s
+typewriting <> i: typewriting, b: typewriting, f: i
+typewritten <> f: d, b: typewrite
+typhoon <> s: typhoons
+typhoons <> b: typhoon, f: s
+typification <> s: typifications
+typifications <> b: typification, f: s
+typified <> b: typify, f: dp
+typifies <> b: typify, f: '3'
+typify <> d: typified, '3': typifies, p: typified, i: typifying
+typifying <> b: typify, f: i
+typing <> b: type, f: i, i: typing
+typist <> s: typists
+typists <> b: typist, f: s
+typo <> s: typos
+typographer <> s: typographers
+typographers <> b: typographer, f: s
+typographies <> b: typography, f: s
+typography <> s: typographies
+typologies <> b: typology, f: s
+typology <> s: typologies
+typos <> b: typo, f: s
+Tyr <> i: tyring, p: tyred
+tyrannicide <> s: tyrannicides
+tyrannicides <> b: tyrannicide, f: s
+tyrannies <> b: tyranny, f: s
+tyrannize <> d: tyrannized, i: tyrannizing, p: tyrannized, '3': tyrannizes
+tyrannized <> b: tyrannize, f: dp
+tyrannizes <> f: '3', b: tyrannize
+tyrannizing <> b: tyrannize, f: i
+tyrannosaur <> '3': tyrannosaurs
+tyrannosaurs <> b: tyrannosaur, f: '3'
+tyranny <> s: tyrannies
+tyrant <> s: tyrants
+tyrants <> b: tyrant, f: s
+tyre <> s: tyres
+tyres <> b: tyre, f: s
+Tyrian <> s: tyrians
+tyro <> s: tyros
+Tyrolean <> s: tyroleans
+tyros <> b: tyro, f: s
+tyrosine <> s: tyrosines
+tyrosines <> b: tyrosine, f: s
+tzar <> s: tzars
+tzars <> b: tzar, f: s
+tzatziki <> s: tzatziki, b: tzatziki, f: s

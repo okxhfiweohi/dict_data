@@ -1,0 +1,3924 @@
+M <> p: med
+maa <> s: maas
+maar <> s: maars
+maars <> b: maar, f: s
+Maas <> b: maa, f: s
+MAB <> s: mabs
+Mabs <> b: mab, f: s
+mac <> s: macs
+macadam <> s: macadams
+macadamize <> i: macadamizing, p: macadamized, '3': macadamizes, d: macadamized
+macadamized <> f: pd, b: macadamize
+macadamizes <> f: '3', b: macadamize
+macadamizing <> f: i, b: macadamize
+macadams <> b: macadam, f: s
+macaque <> s: macaques
+macaques <> b: macaque, f: s
+macaroni <> s: macaronis
+macaronis <> b: macaroni, f: s
+macaroon <> s: macaroons
+macaroons <> b: macaroon, f: s
+macaw <> s: macaws
+macaws <> b: macaw, f: s
+mace <> s: maces, '3': maces
+macerate <> i: macerating, p: macerated, '3': macerates, d: macerated
+macerated <> f: pd, b: macerate, p: macerated
+macerates <> f: '3', b: macerate
+macerating <> b: macerate, f: i
+maces <> b: mace, f: s3
+Mach <> s: machs
+machair <> s: machairs
+machairs <> b: machair, f: s
+machete <> s: machetes
+machetes <> b: machete, f: s
+machicolate <> i: machicolating, p: machicolated, '3': machicolates, d: machicolated
+machicolated <> f: pd, b: machicolate
+machicolates <> f: '3', b: machicolate
+machicolating <> f: i, b: machicolate
+machicolation <> s: machicolations
+machicolations <> b: machicolation, f: s
+machinate <> p: machinated, i: machinating, '3': machinates, d: machinated
+machinated <> f: pd, b: machinate
+machinates <> f: '3', b: machinate
+machinating <> f: i, b: machinate
+machination <> s: machinations
+machinations <> b: machination, f: s
+machine <> s: machines, d: machined, i: machining, p: machined, '3': machines
+machine gun <> s: machine guns
+machine-gun <> s: machine-guns, d: machine-gunned
+machine-gunned <> b: machine-gun, f: d
+machine-gunner <> s: machine-gunners
+machine-gunners <> b: machine-gunner, f: s
+machine-guns <> b: machine-gun, f: s
+machined <> f: dp, b: machine, p: machined
+machineries <> b: machinery, f: s
+machinery <> s: machineries
+machines <> f: s3, b: machine
+machining <> b: machine, f: i, i: machining
+machinist <> s: machinists
+machinists <> b: machinist, f: s
+mack <> s: macks
+mackerel <> s: mackerels, p: mackerelled
+mackerelled <> b: mackerel, f: p
+mackerels <> b: mackerel, f: s
+mackintosh <> s: mackintoshes
+mackintoshes <> b: mackintosh, f: s
+macks <> b: mack, f: s
+macro <> s: macros
+macrobiotic <> s: macrobiotics
+macrobiotics <> b: macrobiotic, f: s
+macroeconomic <> s: macroeconomics
+macroeconomics <> b: macroeconomic, f: s
+macroeconomist <> s: macroeconomists
+macroeconomists <> b: macroeconomist, f: s
+macromolecule <> s: macromolecules
+macromolecules <> b: macromolecule, f: s
+macronutrient <> s: macronutrients
+macronutrients <> b: macronutrient, f: s
+macrophage <> s: macrophages, '3': macrophages
+macrophages <> b: macrophage, f: s3
+macros <> b: macro, f: s
+macrostructure <> s: macrostructures
+macrostructures <> b: macrostructure, f: s
+macs <> b: mac, f: s
+maculate <> i: maculating, p: maculated, '3': maculates, d: maculated
+maculated <> f: pd, b: maculate
+maculates <> f: '3', b: maculate
+maculating <> f: i, b: maculate
+mad <> r: madder, t: maddest, s: mads
+madam <> s: madams
+madame <> s: madames
+madames <> b: madame, f: s
+madams <> b: madam, f: s
+madden <> i: maddening, d: maddened, p: maddened, '3': maddens
+maddened <> b: madden, f: dp
+maddening <> b: madden, f: i, i: maddening
+maddens <> b: madden, f: '3'
+madder <> b: mad, f: r, s: madders
+maddest <> b: mad, f: t
+Maddock <> s: maddocks
+made <> b: make, f: dp, r: mader
+Madeira <> s: madeiras
+Madeleine <> s: madeleines
+madhouse <> s: madhouses
+madhouses <> b: madhouse, f: s
+madman <> s: madmen
+madmen <> b: madman, f: s
+madness <> s: madnesses
+madnesses <> b: madness, f: s
+Madonna <> s: madonnas
+madrigal <> s: madrigals
+madrigalist <> s: madrigalists
+madrigalists <> b: madrigalist, f: s
+madrigals <> b: madrigal, f: s
+mads <> b: mad, f: s
+madwoman <> s: madwomen
+madwomen <> b: madwoman, f: s
+mae <> s: mae, b: mae, f: s
+maelstrom <> s: maelstroms
+maelstroms <> b: maelstrom, f: s
+maestro <> s: maestros
+maestros <> b: maestro, f: s
+Mafeking <> b: mafeke, f: i
+mafia <> s: mafias
+mafias <> b: mafia, f: s
+MAG <> s: mags
+magazine <> s: magazines
+magazines <> b: magazine, f: s
+mage <> s: mages, '3': mages, p: maged
+maged <> b: mage, f: p
+magenta <> s: magentas
+magentas <> b: magenta, f: s
+mages <> b: mage, f: s3
+maggot <> s: maggots
+maggots <> b: maggot, f: s
+magi <> s: magi, b: magi, f: s
+Magian <> s: magians
+magic <> s: magics
+magician <> s: magicians
+magicians <> b: magician, f: s
+magics <> b: magic, f: s
+magister <> s: magisters
+magisters <> b: magister, f: s
+magistracies <> b: magistracy, f: s
+magistracy <> s: magistracies
+magistrate <> s: magistrates
+magistrates <> b: magistrate, f: s
+magma <> s: magmas
+magmas <> b: magma, f: s
+magnate <> s: magnates
+magnates <> b: magnate, f: s
+magnesium <> s: magnesiums
+magnesiums <> b: magnesium, f: s
+magnet <> s: magnets
+magnetic <> s: magnetics
+magnetics <> b: magnetic, f: s
+magnetise <> d: magnetised, '3': magnetises, i: magnetising, p: magnetised
+magnetised <> b: magnetise, f: dp, d: magnetised
+magnetises <> b: magnetise, f: '3'
+magnetising <> b: magnetise, f: i
+magnetite <> s: magnetites
+magnetites <> b: magnetite, f: s
+magnetization <> s: magnetizations
+magnetizations <> b: magnetization, f: s
+magnetize <> d: magnetized, p: magnetized, i: magnetizing, '3': magnetizes
+magnetized <> b: magnetize, f: dp, d: magnetized, p: magnetized
+magneto <> s: magnetos
+magnetometer <> s: magnetometers
+magnetometers <> b: magnetometer, f: s
+magnetos <> b: magneto, f: s
+magnetosphere <> s: magnetospheres
+magnetospheres <> b: magnetosphere, f: s
+magnetron <> s: magnetrons
+magnetrons <> b: magnetron, f: s
+magnets <> b: magnet, f: s
+magnification <> s: magnifications
+magnifications <> b: magnification, f: s
+magnified <> b: magnify, f: dp, d: magnified
+magnifier <> s: magnifiers
+magnifiers <> b: magnifier, f: s
+magnify <> d: magnified, '3': magnifies, i: magnifying, p: magnified
+magnifying <> b: magnify, f: i, i: magnifying
+magnitude <> s: magnitudes
+magnitudes <> b: magnitude, f: s
+magnolia <> s: magnolias
+magnolias <> b: magnolia, f: s
+magnox <> s: magnoxes
+magnoxes <> b: magnox, f: s
+magnum <> s: magnums
+magnums <> b: magnum, f: s
+magpie <> s: magpies
+magpies <> b: magpie, f: s
+mags <> b: mag, f: s
+Magyar <> s: magyars
+maharaja <> s: maharajas
+maharajah <> s: maharajahs
+maharajahs <> b: maharajah, f: s
+maharajas <> b: maharaja, f: s
+maharani <> s: maharani, b: maharani, f: s
+Mahdi <> s: mahdis
+mahoganies <> b: mahogany, f: s
+mahogany <> s: mahoganies
+mahout <> s: mahouts
+mahouts <> b: mahout, f: s
+maid <> s: maids
+maiden <> s: maidens
+maidenhead <> s: maidenheads
+maidenheads <> b: maidenhead, f: s
+maidens <> b: maiden, f: s
+maids <> b: maid, f: s
+maidservant <> s: maidservants
+maidservants <> b: maidservant, f: s
+mail <> d: mailed, s: mails, i: mailing, p: mailed, '3': mails
+mailbag <> s: mailbags
+mailbags <> b: mailbag, f: s
+mailbox <> s: mailboxes
+mailboxes <> b: mailbox, f: s
+mailed <> b: mail, f: dp, d: mailed
+mailer <> s: mailers
+mailers <> b: mailer, f: s
+mailing <> b: mail, f: i, s: mailings, i: mailing
+mailman <> s: mailmen
+mailmen <> b: mailman, f: s
+mails <> f: s3, b: mail
+mailshot <> s: mailshots, i: mailshotting
+mailshots <> b: mailshot, f: s
+mailshotting <> b: mailshot, f: i
+maim <> d: maimed, i: maiming, '3': maims, p: maimed, s: maims
+maimed <> b: maim, f: dp, d: maimed
+maiming <> b: maim, f: i, s: maimings, i: maiming
+maims <> b: maim, f: 3s
+mainframe <> s: mainframes
+mainframes <> b: mainframe, f: s
+mainlander <> s: mainlanders
+mainlanders <> b: mainlander, f: s
+mainline <> i: mainlining, s: mainlines, p: mainlined, '3': mainlines
+mainlines <> b: mainline, f: s
+mainlining <> b: mainline, f: i, i: mainlining
+mainsail <> s: mainsails
+mainsails <> b: mainsail, f: s
+mainsheet <> s: mainsheets
+mainsheets <> b: mainsheet, f: s
+mainspring <> s: mainsprings
+mainsprings <> b: mainspring, f: s
+mainstay <> s: mainstays
+mainstays <> b: mainstay, f: s
+mainstream <> i: mainstreaming, s: mainstreams
+mainstreaming <> b: mainstream, f: i
+mainstreams <> b: mainstream, f: s
+maintain <> d: maintained, i: maintaining, p: maintained, '3': maintains
+maintained <> b: maintain, f: dp, p: maintained, d: maintained
+maintainer <> s: maintainers
+maintainers <> b: maintainer, f: s
+maintaining <> b: maintain, f: i
+maintains <> b: maintain, f: '3'
+Mair <> s: mairs
+maison <> s: maisons
+maisonette <> s: maisonettes
+maisonettes <> b: maisonette, f: s
+maisons <> b: maison, f: s
+Maister <> s: maisters
+majesties <> b: majesty, f: s
+majesty <> s: majesties
+major <> s: majors, i: majoring, p: majored, '3': majors, d: majored
+major-domo <> s: major-domos
+major-domos <> b: major-domo, f: s
+Majorcan <> s: majorcans
+majore <> i: majoring, d: majored, p: majored
+majored <> b: majore, f: dp
+majorette <> s: majorettes
+majorettes <> b: majorette, f: s
+majoring <> b: majore, f: i
+majorities <> b: majority, f: s
+majority <> s: majorities
+majors <> f: s3, b: major
+majuscule <> s: majuscules
+majuscules <> b: majuscule, f: s
+make <> d: made, p: made, i: making, '3': makes
+make-up <> s: make-ups
+make-ups <> b: make-up, f: s
+make-weight <> s: make-weights
+make-weights <> b: make-weight, f: s
+makeover <> '3': makeovers
+makeovers <> b: makeover, f: '3'
+maker <> s: makers
+makers <> b: maker, f: s
+makes <> b: make, f: '3'
+makeshift <> s: makeshifts
+makeshifts <> b: makeshift, f: s
+makeweight <> s: makeweights
+makeweights <> b: makeweight, f: s
+Makin <> i: makin, b: makin, f: i
+making <> b: make, f: i, i: making, s: makings
+makings <> b: making, f: s
+mala <> s: malas
+Malachi <> s: malachi, b: malachi, f: s
+maladies <> b: malady, f: s
+maladjustment <> s: maladjustments
+maladjustments <> b: maladjustment, f: s
+maladministration <> s: maladministrations
+maladministrations <> b: maladministration, f: s
+malady <> s: maladies
+malai <> s: malai, b: malai, f: s
+malapropism <> s: malapropisms
+malapropisms <> b: malapropism, f: s
+malaria <> s: malarias
+malarias <> b: malaria, f: s
+malariologist <> s: malariologists
+malariologists <> b: malariologist, f: s
+malas <> b: mala, f: s
+Malawian <> s: malawians
+Malay <> s: malays
+malays <> b: malay, f: s
+Malaysian <> s: malaysians
+malaysians <> b: malaysian, f: s
+malcontent <> s: malcontents
+malcontents <> b: malcontent, f: s
+male <> s: males
+malefaction <> s: malefactions
+malefactions <> b: malefaction, f: s
+malefactor <> s: malefactors
+malefactors <> b: malefactor, f: s
+maleo <> s: maleos
+maleos <> b: maleo, f: s
+males <> b: male, f: s
+malevolence <> s: malevolences
+malevolences <> b: malevolence, f: s
+malfeasance <> s: malfeasances
+malfeasances <> b: malfeasance, f: s
+malformation <> s: malformations
+malformations <> b: malformation, f: s
+malfunction <> s: malfunctions, p: malfunctioned, i: malfunctioning, d: malfunctioned, '3': malfunctions
+malfunctioned <> b: malfunction, f: pd
+malfunctioning <> b: malfunction, f: i, i: malfunctioning
+malfunctions <> f: s3, b: malfunction
+Mali <> s: mali, b: mali, f: s
+Malian <> s: malians
+malice <> s: malices
+malices <> b: malice, f: s
+malign <> d: maligned, p: maligned, i: maligning, '3': maligns
+malignancies <> b: malignancy, f: s
+malignancy <> s: malignancies
+malignant <> s: malignants
+malignants <> b: malignant, f: s
+maligned <> b: malign, f: dp, p: maligned
+maligning <> b: malign, f: i
+maligns <> f: '3', b: malign
+malinger <> i: malingering, p: malingered, '3': malingers, d: malingered
+malingered <> f: pd, b: malinger
+malingerer <> s: malingerers
+malingerers <> b: malingerer, f: s
+malingering <> b: malinger, f: i
+malingers <> f: '3', b: malinger
+Malinowski <> s: malinowski, b: malinowski, f: s
+mall <> s: malls, i: malling
+mallard <> s: mallards
+mallards <> b: mallard, f: s
+mallet <> s: mallets
+mallets <> b: mallet, f: s
+Malling <> b: mall, f: i, r: mallinger
+mallory <> s: mallorys
+mallorys <> b: mallory, f: s
+mallow <> s: mallows
+mallows <> b: mallow, f: s
+malls <> b: mall, f: s
+Malo <> s: malos
+maloti <> s: maloti, b: maloti, f: s
+Malpighi <> s: malpighi, b: malpighi, f: s
+malpractice <> s: malpractices
+malpractices <> b: malpractice, f: s
+malt <> s: malts, i: malting, p: malted, d: malted, '3': malts
+malted <> b: malt, f: pd, p: malted
+Maltese <> r: malteser
+malthouse <> s: malthouses
+malthouses <> b: malthouse, f: s
+Malthusian <> s: malthusians
+malties <> b: malty, f: s
+malting <> b: malt, f: i, s: maltings, i: malting
+maltings <> b: malting, f: s
+maltreat <> d: maltreated, p: maltreated, i: maltreating, '3': maltreats
+maltreated <> b: maltreat, f: dp, d: maltreated
+maltreating <> f: i, b: maltreat
+maltreats <> f: '3', b: maltreat
+malts <> f: s3, b: malt
+maltster <> s: maltsters
+maltsters <> b: maltster, f: s
+malty <> s: malties
+mam <> s: mams
+mama <> s: mamas
+mamas <> b: mama, f: s
+mamba <> s: mambas
+mambas <> b: mamba, f: s
+mambo <> i: mamboing, p: mamboed, '3': mambos, d: mamboed
+mamboed <> f: pd, b: mambo
+mamboing <> f: i, b: mambo
+mambos <> f: '3', b: mambo
+mamma <> s: mammas
+mammal <> s: mammals
+mammals <> b: mammal, f: s
+mammaries <> b: mammary, f: s
+mammary <> s: mammaries
+mammas <> b: mamma, f: s
+mammies <> b: mammy, f: s
+mammogram <> s: mammograms
+mammograms <> b: mammogram, f: s
+mammoth <> s: mammoths
+mammoths <> b: mammoth, f: s
+mammy <> s: mammies
+mams <> b: mam, f: s
+man <> s: men, d: manned, i: manning, p: manned, '3': mans
+man-at-arms <> b: man-at-arm, f: s
+man-day <> s: man-days
+man-days <> b: man-day, f: s
+man-eater <> s: man-eaters
+man-eaters <> b: man-eater, f: s
+man-hour <> s: man-hours
+man-hours <> b: man-hour, f: s
+man-of-war <> s: men-of-war
+mana <> s: manas
+manacle <> s: manacles, p: manacled, d: manacled, i: manacling, '3': manacles
+manacled <> b: manacle, f: pd
+manacles <> f: s3, b: manacle
+manacling <> b: manacle, f: i
+manage <> d: managed, p: managed, '3': manages, i: managing
+managed <> b: manage, f: dp, d: managed, p: managed
+management <> s: managements
+managements <> b: management, f: s
+manager <> s: managers
+manageress <> s: manageresses
+manageresses <> b: manageress, f: s
+managers <> b: manager, f: s
+manages <> b: manage, f: '3'
+managing <> b: manage, f: i, i: managing
+manakin <> s: manakins
+manakins <> b: manakin, f: s
+manas <> b: mana, f: s
+manatee <> s: manatees
+manatees <> b: manatee, f: s
+manc <> s: mancs
+Manchu <> s: manchus
+Manchurian <> s: manchurians
+manciple <> s: manciples
+manciples <> b: manciple, f: s
+mancs <> b: manc, f: s
+Mancunian <> s: mancunians
+mandala <> s: mandalas
+mandalas <> b: mandala, f: s
+mandarin <> s: mandarins
+mandarins <> b: mandarin, f: s
+mandate <> s: mandates, d: mandated, i: mandating, p: mandated, '3': mandates
+mandated <> b: mandate, f: dp, d: mandated
+mandates <> b: mandate, f: s3
+mandating <> b: mandate, f: i
+mander <> s: manders
+manders <> b: mander, f: s
+mandible <> s: mandibles
+mandibles <> b: mandible, f: s
+mandolin <> s: mandolins
+mandoline <> s: mandolines
+mandolines <> b: mandoline, f: s
+mandolins <> b: mandolin, f: s
+mandrake <> s: mandrakes
+mandrakes <> b: mandrake, f: s
+mandrel <> s: mandrels
+mandrels <> b: mandrel, f: s
+mandrill <> s: mandrills
+mandrills <> b: mandrill, f: s
+manducate <> i: manducating, p: manducated, '3': manducates, d: manducated
+manducated <> f: pd, b: manducate
+manducates <> f: '3', b: manducate
+manducating <> f: i, b: manducate
+mane <> s: manes
+maneater <> s: maneaters
+maneaters <> b: maneater, f: s
+maned <> p: maned, b: maned, f: p
+manes <> b: mane, f: s
+maneuver <> s: maneuvers, p: maneuvered, i: maneuvering, '3': maneuvers, d: maneuvered
+maneuvered <> f: pd, b: maneuver
+maneuvering <> f: i, b: maneuver
+maneuvers <> f: s3, b: maneuver
+mangel <> s: mangels
+mangels <> b: mangel, f: s
+manger <> s: mangers, '3': mangers
+mangers <> b: manger, f: s3
+mangetout <> s: mangetouts
+mangetouts <> b: mangetout, f: s
+mangle <> d: mangled, p: mangled, i: mangling, s: mangles, '3': mangles
+mangled <> b: mangle, f: dp, p: mangled
+mangles <> b: mangle, f: s3
+mangling <> b: mangle, f: i
+mango <> s: mangoes
+mangoes <> b: mango, f: s
+mangold <> s: mangolds
+mangolds <> b: mangold, f: s
+mangonel <> s: mangonels
+mangonels <> b: mangonel, f: s
+mangrove <> s: mangroves
+mangroves <> b: mangrove, f: s
+manhandle <> p: manhandled, d: manhandled, i: manhandling, '3': manhandles
+manhandled <> b: manhandle, f: pd
+manhandles <> b: manhandle, f: '3'
+manhandling <> b: manhandle, f: i
+manhole <> s: manholes
+manholes <> b: manhole, f: s
+manhood <> s: manhoods
+manhoods <> b: manhood, f: s
+manhunt <> s: manhunts
+manhunts <> b: manhunt, f: s
+mania <> s: manias
+maniac <> s: maniacs
+maniacs <> b: maniac, f: s
+manias <> b: mania, f: s
+manic <> s: manics
+manic-depressive <> s: manic-depressives
+manic-depressives <> b: manic-depressive, f: s
+Manichee <> s: manichees
+manics <> b: manic, f: s
+manicure <> s: manicures, d: manicured, i: manicuring, p: manicured, '3': manicures
+manicured <> d: manicured, b: manicured, f: dp, p: manicured
+manicures <> f: s3, b: manicure
+manicuring <> b: manicure, f: i
+manicurist <> s: manicurists
+manicurists <> b: manicurist, f: s
+manifest <> d: manifested, '3': manifests, p: manifested, i: manifesting
+manifestation <> s: manifestations
+manifestations <> b: manifestation, f: s
+manifested <> b: manifest, f: dp
+manifesting <> b: manifest, f: i
+manifesto <> s: manifestos
+manifestos <> b: manifesto, f: s
+manifests <> b: manifest, f: '3'
+manifold <> s: manifolds, i: manifolding, p: manifolded, '3': manifolds, d: manifolded
+manifolded <> f: pd, b: manifold
+manifolding <> b: manifold, f: i
+manifolds <> f: s3, b: manifold
+manikin <> s: manikins
+manikins <> b: manikin, f: s
+Manilla <> s: manillas
+manipulate <> d: manipulated, i: manipulating, p: manipulated, '3': manipulates
+manipulated <> b: manipulate, f: dp, p: manipulated, d: manipulated
+manipulates <> b: manipulate, f: '3'
+manipulating <> b: manipulate, f: i, i: manipulating
+manipulation <> s: manipulations
+manipulations <> b: manipulation, f: s
+manipulative <> s: manipulatives
+manipulatives <> b: manipulative, f: s
+manipulator <> s: manipulators
+manipulators <> b: manipulator, f: s
+manlier <> b: manly, f: r
+manliest <> b: manly, f: t
+manly <> t: manliest, r: manlier
+manned <> f: dp, b: man, d: manned, p: manned
+mannequin <> s: mannequins
+mannequins <> b: mannequin, f: s
+manner <> s: manners
+mannerism <> s: mannerisms
+mannerisms <> b: mannerism, f: s
+mannerist <> s: mannerists
+mannerists <> b: mannerist, f: s
+manners <> b: manner, f: s
+mannikin <> s: mannikins
+mannikins <> b: mannikin, f: s
+manning <> i: manning, b: manning, f: i
+manoeuvre <> s: manoeuvres, i: manoeuvring, '3': manoeuvres, p: manoeuvred, d: manoeuvred
+manoeuvred <> b: manoeuvr, f: pd
+manoeuvres <> b: manoeuvre, f: s3
+manoeuvring <> b: manoeuvre, f: i, i: manoeuvring, s: manoeuvrings
+manoir <> s: manoirs
+manoirs <> b: manoir, f: s
+manomete <> r: manometer
+manometer <> s: manometers, b: manomete, f: r
+manometers <> b: manometer, f: s
+manor <> s: manors
+manors <> b: manor, f: s
+mans <> f: '3', b: man
+manse <> s: manses
+manservant <> s: menservants
+manses <> b: manse, f: s
+mansion <> s: mansions
+mansions <> b: mansion, f: s
+manslaughter <> s: manslaughters
+manslaughters <> b: manslaughter, f: s
+mantel <> s: mantels
+mantelpiece <> s: mantelpieces
+mantelpieces <> b: mantelpiece, f: s
+mantels <> b: mantel, f: s
+mantid <> s: mantids
+mantids <> b: mantid, f: s
+mantilla <> s: mantillas
+mantillas <> b: mantilla, f: s
+mantle <> s: mantles, p: mantled, i: mantling, d: mantled, '3': mantles
+mantled <> b: mantle, f: pd
+mantlepiece <> s: mantlepieces
+mantles <> f: s3, b: mantle
+mantling <> b: mantle, f: i
+mantra <> s: mantras
+mantrap <> s: mantraps
+mantraps <> b: mantrap, f: s
+mantras <> b: mantra, f: s
+manual <> s: manuals
+manuals <> b: manual, f: s
+manufactories <> b: manufactory, f: s
+manufactory <> s: manufactories
+manufacture <> d: manufactured, '3': manufactures, i: manufacturing, s: manufactures, p: manufactured
+manufactured <> b: manufacture, f: dp, d: manufactured, p: manufactured
+manufacturer <> s: manufacturers
+manufacturers <> b: manufacturer, f: s
+manufactures <> b: manufacture, f: 3s
+manufacturing <> i: manufacturing, b: manufacturing, f: i
+manumit <> i: manumitting, p: manumitted, '3': manumits, d: manumitted
+manumits <> f: '3', b: manumit
+manumitted <> f: pd, b: manumit
+manumitting <> f: i, b: manumit
+manure <> s: manures, d: manured, i: manuring, '3': manures, p: manured
+manured <> b: manure, f: dp, p: manured
+manures <> b: manure, f: s3
+manuring <> b: manure, f: i, i: manuring
+manuscript <> s: manuscripts
+manuscripts <> b: manuscript, f: s
+Manxman <> s: manxmen
+manyatta <> s: manyattas
+manyattas <> b: manyatta, f: s
+Maoism <> s: maoisms
+Maoist <> s: maoists
+Maori <> s: maoris, b: maori, f: s
+Maoris <> b: maori, f: s
+map <> s: maps, d: mapped, i: mapping, p: mapped, '3': maps
+map-maker <> s: map-makers
+map-makers <> b: map-maker, f: s
+maple <> s: maples
+maples <> b: maple, f: s
+mapmaker <> s: mapmakers
+mapmakers <> b: mapmaker, f: s
+mapped <> b: map, f: dp, d: mapped
+mapper <> s: mappers
+mappers <> b: mapper, f: s
+mapping <> b: map, f: i, i: mapping, s: mappings
+maps <> b: map, f: s3
+maquette <> s: maquettes
+maquettes <> b: maquette, f: s
+maquila <> s: maquilas
+maquiladora <> s: maquiladoras
+maquiladoras <> b: maquiladora, f: s
+maquilas <> b: maquila, f: s
+mar <> d: marred, p: marred, '3': mars, i: marring
+mara <> s: maras
+maraca <> s: maracas
+maracas <> b: maraca, f: s
+maras <> b: mara, f: s
+marathon <> s: marathons
+marathoner <> s: marathoners
+marathoners <> b: marathoner, f: s
+marathons <> b: marathon, f: s
+maraud <> p: marauded, i: marauding, '3': marauds, d: marauded
+marauded <> f: pd, b: maraud
+marauder <> s: marauders
+marauders <> b: marauder, f: s
+marauding <> i: marauding, b: marauding, f: i
+marauds <> f: '3', b: maraud
+maravilla <> s: maravillas
+maravillas <> b: maravilla, f: s
+marble <> s: marbles, i: marbling, p: marbled, '3': marbles, d: marbled
+marbled <> f: pd, b: marble
+marbler <> s: marblers
+marblers <> b: marbler, f: s
+marbles <> f: s3, b: marble
+marbling <> b: marble, f: i, s: marblings
+marcel <> i: marcelling, p: marcelled, '3': marcels, d: marcelled
+marcelled <> f: pd, b: marcel
+marcelling <> f: i, b: marcel
+marcels <> f: '3', b: marcel
+march <> p: marched, s: marches, i: marching, d: marched, '3': marches
+marched <> b: march, f: pd
+marcher <> s: marchers
+marchers <> b: marcher, f: s
+marches <> b: march, f: s3
+marching <> b: march, f: i, i: marching
+Marcuse <> s: marcuses
+mare <> s: mares, '3': mares
+mares <> b: mare, f: s3
+margarine <> s: margarines
+margarines <> b: margarine, f: s
+margarita <> s: margaritas
+margaritas <> b: margarita, f: s
+margin <> s: margins
+marginal <> s: marginals
+marginalise <> d: marginalised, '3': marginalises, p: marginalised, i: marginalising
+marginalised <> b: marginalise, f: dp, d: marginalised
+marginalises <> b: marginalise, f: '3'
+marginalising <> b: marginalise, f: i, i: marginalising
+marginalize <> d: marginalized, p: marginalized, i: marginalizing, '3': marginalizes
+marginalized <> b: marginalize, f: dp, p: marginalized
+marginalizes <> b: marginalize, f: '3'
+marginalizing <> b: marginalize, f: i
+marginals <> b: marginal, f: s
+margined <> d: margined, b: margined, f: d
+margins <> b: margin, f: s
+marguerite <> s: marguerites
+marguerites <> b: marguerite, f: s
+mariachi <> s: mariachi, b: mariachi, f: s
+marigold <> s: marigolds
+marigolds <> b: marigold, f: s
+marimba <> s: marimbas
+marimbas <> b: marimba, f: s
+marina <> s: marinas
+marinade <> s: marinades, i: marinading, d: marinaded, p: marinaded, '3': marinades
+marinaded <> b: marinade, f: dp, p: marinaded
+marinades <> f: s3, b: marinade
+marinading <> b: marinade, f: i
+marinas <> b: marina, f: s
+marinate <> p: marinated, i: marinating, d: marinated, '3': marinates
+marinated <> b: marinate, f: pd, p: marinated
+marinates <> f: '3', b: marinate
+marinating <> b: marinate, f: i
+marine <> s: marines
+mariner <> s: mariners
+mariners <> b: mariner, f: s
+marines <> b: marine, f: s
+Marinetti <> s: marinetti, b: marinetti, f: s
+Marini <> s: marini, b: marini, f: s
+marionette <> s: marionettes
+marionettes <> b: marionette, f: s
+maritime <> s: maritimes
+maritimes <> b: maritime, f: s
+marjoram <> s: marjorams
+marjorams <> b: marjoram, f: s
+mark <> s: marks, d: marked, i: marking, '3': marks, p: marked
+mark-up <> s: mark-ups
+mark-ups <> b: mark-up, f: s
+marked <> b: mark, f: dp, d: marked, p: marked
+marker <> s: markers
+markers <> b: marker, f: s
+market <> s: markets, d: marketed, p: marketed, i: marketing, '3': markets
+market-maker <> s: market-makers
+market-makers <> b: market-maker, f: s
+marketed <> b: market, f: dp, d: marketed, p: marketed
+marketeer <> s: marketeers
+marketeers <> b: marketeer, f: s
+marketer <> s: marketers
+marketers <> b: marketer, f: s
+marketing <> i: marketing, b: marketing, f: i
+marketplace <> s: marketplaces
+marketplaces <> b: marketplace, f: s
+markets <> f: s3, b: market
+marking <> b: mark, f: i, s: markings, i: marking
+marks <> b: mark, f: s3
+marksman <> s: marksmen
+marksmen <> b: marksman, f: s
+markswoman <> s: markswomen
+markswomen <> b: markswoman, f: s
+markup <> s: markups
+markups <> b: markup, f: s
+marl <> s: marls, d: marled
+marled <> b: marl, f: d
+marls <> b: marl, f: s
+marmalade <> s: marmalades, '3': marmalades
+marmalades <> b: marmalade, f: s3
+marmite <> s: marmites
+marmites <> b: marmite, f: s
+marmoset <> s: marmosets
+marmosets <> b: marmoset, f: s
+marmot <> s: marmots
+marmots <> b: marmot, f: s
+Marnier <> b: marny, f: r
+marny <> r: marnier
+marocain <> s: marocains
+marocains <> b: marocain, f: s
+Maronite <> s: maronites
+maronites <> b: maronite, f: s
+maroon <> d: marooned, s: maroons, i: marooning, p: marooned, '3': maroons
+marooned <> b: maroon, f: dp, d: marooned, p: marooned
+marooning <> b: maroon, f: i
+maroons <> f: s3, b: maroon
+Marple <> '3': marples
+marque <> s: marques
+marquee <> s: marquees
+marquees <> b: marquee, f: s
+Marques <> b: marque, f: s
+marquesa <> s: marquesas
+marquesas <> b: marquesa, f: s
+marquess <> s: marquesses
+marquesses <> b: marquess, f: s
+marquise <> s: marquises
+marquises <> b: marquise, f: s
+marram <> s: marrams
+marrams <> b: marram, f: s
+Marrano <> s: marranos
+marred <> b: mar, f: dp, p: marred, d: marred
+marriage <> s: marriages
+marriages <> b: marriage, f: s
+married <> b: marry, f: pd, d: married, p: married
+marring <> b: mar, f: i
+marron <> s: marrons
+marrons <> b: marron, f: s
+marrow <> s: marrows
+marrowbone <> s: marrowbones
+marrowbones <> b: marrowbone, f: s
+marrows <> b: marrow, f: s
+marry <> p: married, d: married, i: marrying, '3': marries
+marrying <> b: marry, f: i, i: marrying
+Mars <> b: mar, f: '3'
+marsh <> s: marshes
+marshal <> p: marshalled, d: marshalled, s: marshals, i: marshalling, '3': marshals
+Marshall <> '3': marshalls
+marshalled <> b: marshal, f: pd, p: marshalled
+marshalling <> b: marshal, f: i, i: marshalling
+marshals <> b: marshal, f: s3
+marshes <> b: marsh, f: s
+marshland <> s: marshlands
+marshlands <> b: marshland, f: s
+marshmallow <> s: marshmallows, '3': marshmallows
+marshmallows <> b: marshmallow, f: s3
+marsupial <> s: marsupials
+marsupials <> b: marsupial, f: s
+mart <> s: marts
+marten <> s: martens
+Martens <> b: marten, f: s
+martial <> p: martialled, s: martials
+martialled <> b: martial, f: p
+martials <> b: martial, f: s
+Martian <> s: martians
+martians <> b: martian, f: s
+Martin <> s: martins
+Martineau <> s: martineaus
+martinet <> s: martinets
+martinets <> b: martinet, f: s
+martingale <> s: martingales
+martingales <> b: martingale, f: s
+martini <> s: martinis
+martinis <> b: martini, f: s
+Martins <> b: martin, f: s
+martlet <> s: martlets
+martlets <> b: martlet, f: s
+marts <> b: mart, f: s
+martyr <> s: martyrs, d: martyred, i: martyring, p: martyred, '3': martyrs
+martyrdom <> s: martyrdoms
+martyrdoms <> b: martyrdom, f: s
+martyred <> f: dp, b: martyr, d: martyred
+martyring <> b: martyr, f: i
+martyrs <> f: s3, b: martyr
+marvel <> p: marvelled, s: marvels, i: marvelling, d: marvelled, '3': marvels
+marvelled <> b: marvel, f: pd
+marvelling <> b: marvel, f: i
+marvels <> b: marvel, f: s3
+Marxism <> s: marxisms
+Marxist <> s: marxists
+Marxist-Leninist <> s: marxist-leninists
+mascara <> s: mascaras
+mascaraed <> b: mascarae, f: p
+mascaras <> b: mascara, f: s
+mascon <> s: mascons
+mascons <> b: mascon, f: s
+mascot <> s: mascots
+mascots <> b: mascot, f: s
+masculine <> s: masculines
+masculines <> b: masculine, f: s
+masculinities <> b: masculinity, f: s
+masculinity <> s: masculinities
+masculinize <> p: masculinized, d: masculinized, i: masculinizing, '3': masculinizes
+masculinized <> b: masculinize, f: pd
+maser <> s: masers
+masers <> b: maser, f: s
+mash <> d: mashed, i: mashing, p: mashed, s: mashes, '3': mashes
+mashed <> b: mash, f: dp, d: mashed
+masher <> s: mashers
+mashers <> b: masher, f: s
+mashes <> b: mash, f: s3
+mashing <> b: mash, f: i
+mask <> s: masks, d: masked, '3': masks, p: masked, i: masking
+masked <> b: mask, f: dp, d: masked, p: masked
+masker <> s: maskers
+maskers <> b: masker, f: s
+masking <> b: mask, f: i, i: masking
+masks <> b: mask, f: s3
+Maslin <> s: maslins
+masochist <> s: masochists
+masochists <> b: masochist, f: s
+mason <> s: masons
+masonic <> s: masonics
+masonics <> b: masonic, f: s
+masonries <> b: masonry, f: s
+masonry <> s: masonries
+masons <> b: mason, f: s
+masque <> s: masques
+masquer <> s: masquers
+masquerade <> i: masquerading, '3': masquerades, p: masqueraded, s: masquerades, d: masqueraded
+masqueraded <> f: pd, b: masquerade
+masquerades <> b: masquerade, f: 3s
+masquerading <> b: masquerade, f: i, i: masquerading
+masquers <> b: masquer, f: s
+masques <> b: masque, f: s
+mass <> s: masses, i: massing, d: massed, p: massed, '3': masses
+mass-produce <> i: mass-producing, p: mass-produced, '3': mass-produces, d: mass-produced
+massacre <> s: massacres, '3': massacres, i: massacring, p: massacred, d: massacred
+massacred <> b: massacr, f: dp
+massacres <> b: massacre, f: s3
+massacring <> b: massacr, f: i
+massage <> i: massaging, p: massaged, d: massaged, s: massages, '3': massages
+massaged <> b: massage, f: pd, p: massaged
+massager <> s: massagers
+massagers <> b: massager, f: s
+massages <> b: massage, f: s3
+massaging <> b: massage, f: i, i: massaging
+massed <> b: mass, f: dp, p: massed, d: massed
+masses <> f: s3, b: mass
+masseur <> s: masseurs
+masseurs <> b: masseur, f: s
+masseuse <> s: masseuses
+masseuses <> b: masseuse, f: s
+massif <> s: massifs
+massifs <> b: massif, f: s
+massing <> b: mass, f: i, i: massing, s: massings
+mast <> s: masts, p: masted
+masted <> b: mast, f: p, p: masted
+master <> s: masters, d: mastered, i: mastering, p: mastered, '3': masters
+master-at-arms <> b: master-at-arm, f: s
+masterclass <> s: masterclasses
+masterclasses <> b: masterclass, f: s
+mastered <> b: master, f: dp
+mastering <> b: master, f: i, i: mastering
+mastermind <> d: masterminded, p: masterminded, i: masterminding, '3': masterminds, s: masterminds
+masterminded <> b: mastermind, f: dp
+masterminding <> b: mastermind, f: i, i: masterminding
+masterminds <> b: mastermind, f: 3s
+masterpiece <> s: masterpieces
+masterpieces <> b: masterpiece, f: s
+masterplan <> s: masterplans
+masterplans <> b: masterplan, f: s
+masters <> b: master, f: s3
+mastersinger <> s: mastersingers
+mastersingers <> b: mastersinger, f: s
+masterstroke <> s: masterstrokes
+masterstrokes <> b: masterstroke, f: s
+masterwork <> s: masterworks
+masterworks <> b: masterwork, f: s
+masthead <> s: mastheads
+mastheads <> b: masthead, f: s
+mastic <> s: mastics
+masticate <> d: masticated, i: masticating, p: masticated, '3': masticates
+masticated <> b: masticate, f: dp
+masticates <> b: masticate, f: '3'
+masticating <> b: masticate, f: i
+mastics <> b: mastic, f: s
+mastiff <> s: mastiffs
+mastiffs <> b: mastiff, f: s
+mastodon <> s: mastodons
+mastodons <> b: mastodon, f: s
+mastoid <> s: mastoids
+mastoids <> b: mastoid, f: s
+masts <> b: mast, f: s
+masturbate <> i: masturbating, d: masturbated, p: masturbated, '3': masturbates
+masturbated <> b: masturbate, f: dp
+masturbates <> b: masturbate, f: '3'
+masturbating <> b: masturbate, f: i, i: masturbating
+masturbator <> s: masturbators
+masturbators <> b: masturbator, f: s
+mat <> s: mats, p: matted, d: matted, i: matting, '3': mats
+matador <> s: matadors
+matadors <> b: matador, f: s
+match <> s: matches, d: matched, '3': matches, i: matching, p: matched
+matchboard <> i: matchboarding, d: matchboarded
+matchboarded <> b: matchboard, f: d
+matchboarding <> b: matchboard, f: i
+matchbook <> s: matchbooks
+matchbooks <> b: matchbook, f: s
+matchbox <> s: matchboxes
+matchboxes <> b: matchbox, f: s
+matched <> b: match, f: dp, d: matched, p: matched
+matches <> b: match, f: s3
+matching <> b: match, f: i, i: matching, s: matchings
+matchlock <> s: matchlocks
+matchlocks <> b: matchlock, f: s
+matchmaker <> s: matchmakers
+matchmakers <> b: matchmaker, f: s
+matchmaking <> b: matchmake, f: i, i: matchmaking
+matchstick <> s: matchsticks
+matchsticks <> b: matchstick, f: s
+mate <> s: mates, d: mated, i: mating, p: mated, '3': mates
+mated <> b: mate, f: dp, p: mated
+matelot <> s: matelots
+matelote <> s: matelotes
+matelotes <> b: matelote, f: s
+matelots <> b: matelot, f: s
+mater <> s: maters
+material <> s: materials
+materialise <> d: materialised, p: materialised, '3': materialises, i: materialising
+materialised <> b: materialise, f: dp, p: materialised
+materialises <> b: materialise, f: '3'
+materialising <> b: materialise, f: i
+materialist <> s: materialists
+materialists <> b: materialist, f: s
+materialities <> b: materiality, f: s
+materiality <> s: materialities
+materialize <> p: materialized, d: materialized, i: materializing, '3': materializes
+materialized <> b: materialize, f: pd
+materializes <> b: materialize, f: '3'
+materializing <> b: materialize, f: i
+materials <> b: material, f: s
+maternities <> b: maternity, f: s
+maternity <> s: maternities
+maters <> b: mater, f: s
+mates <> b: mate, f: s3
+mathematician <> s: mathematicians
+mathematicians <> b: mathematician, f: s
+Mathew <> s: mathews, '3': mathews
+MATHEWS <> b: mathew, f: s3
+matinee <> s: matinees
+matinees <> b: matinee, f: s
+mating <> b: mate, f: i, i: mating, s: matings
+Matra <> s: matras
+matriarch <> s: matriarchs
+matriarchs <> b: matriarch, f: s
+matrices <> b: matrix, f: s
+matriculate <> p: matriculated, d: matriculated, i: matriculating, '3': matriculates
+matriculated <> b: matriculate, f: pd, p: matriculated
+matriculates <> f: '3', b: matriculate
+matriculating <> b: matriculate, f: i
+matrilineage <> s: matrilineages
+matrilineages <> b: matrilineage, f: s
+matrix <> s: matrices
+matron <> s: matrons
+matrons <> b: matron, f: s
+mats <> f: s3, b: mat
+matt <> s: matts
+matte <> s: mattes
+matted <> b: mat, f: pd, p: matted, d: matted
+matter <> s: matters, '3': matters, p: mattered, d: mattered
+mattered <> b: matter, f: pd
+matterhorn <> s: matterhorns
+matterhorns <> b: matterhorn, f: s
+matters <> b: matter, f: s3
+mattes <> b: matte, f: s
+matting <> b: mat, f: i, i: matting
+mattock <> s: mattocks
+mattocks <> b: mattock, f: s
+mattress <> s: mattresses
+mattresses <> b: mattress, f: s
+matts <> b: matt, f: s
+maturate <> i: maturating, p: maturated, '3': maturates, d: maturated
+maturated <> f: pd, b: maturate
+maturates <> f: '3', b: maturate
+maturating <> f: i, b: maturate
+maturation <> s: maturations
+maturations <> b: maturation, f: s
+mature <> '3': matures, d: matured, i: maturing, p: matured, r: maturer
+matured <> b: mature, f: dp, p: matured
+maturer <> b: mature, f: r, s: maturers
+matures <> b: mature, f: '3'
+maturing <> b: mature, f: i, i: maturing
+maturities <> b: maturity, f: s
+maturity <> s: maturities
+matzo <> s: matzos
+matzos <> b: matzo, f: s
+Maui <> s: maui, b: maui, f: s
+maul <> d: mauled, s: mauls, p: mauled, i: mauling, '3': mauls
+Maule <> s: maules
+mauled <> b: maul, f: dp
+mauler <> s: maulers
+maulers <> b: mauler, f: s
+mauling <> b: maul, f: i, i: mauling, s: maulings
+mauls <> b: maul, f: s3
+maund <> s: maunds
+maunder <> i: maundering, p: maundered, '3': maunders, d: maundered
+maundered <> f: pd, b: maunder
+maundering <> b: maunder, f: i, s: maunderings
+maunders <> f: '3', b: maunder
+maunds <> b: maund, f: s
+mausoleum <> s: mausoleums
+mausoleums <> b: mausoleum, f: s
+mauve <> s: mauves
+mauves <> b: mauve, f: s
+maven <> s: mavens
+mavens <> b: maven, f: s
+maverick <> s: mavericks
+mavericks <> b: maverick, f: s
+maw <> s: maws
+maws <> b: maw, f: s
+maxillae <> s: maxillae, b: maxillae, f: s
+Maxim <> s: maxims
+maxima <> b: maximum, f: s
+maximalist <> s: maximalists
+maximalists <> b: maximalist, f: s
+maximise <> i: maximising, d: maximised, '3': maximises, p: maximised
+maximised <> b: maximise, f: dp
+maximises <> b: maximise, f: '3'
+maximising <> b: maximise, f: i
+maximize <> i: maximizing, '3': maximizes, d: maximized, p: maximized
+maximized <> b: maximize, f: dp, d: maximized, p: maximized
+maximizer <> s: maximizers
+maximizers <> b: maximizer, f: s
+maximizes <> b: maximize, f: '3'
+maximizing <> b: maximize, f: i, i: maximizing
+maxims <> b: maxim, f: s
+maximum <> s: maxima
+Maya <> s: mayas
+Mayan <> s: mayans
+mayans <> b: mayan, f: s
+mayday <> s: maydays
+maydays <> b: mayday, f: s
+mayflies <> b: mayfly, f: s
+mayflower <> i: mayflowering
+mayflowering <> b: mayflower, f: i
+mayfly <> s: mayflies
+Mayhew <> s: mayhews
+mayonnaise <> s: mayonnaises
+mayonnaises <> b: mayonnaise, f: s
+mayor <> s: mayors
+mayoralties <> b: mayoralty, f: s
+mayoralty <> s: mayoralties
+mayoress <> s: mayoresses
+mayoresses <> b: mayoress, f: s
+mayors <> b: mayor, f: s
+mayorship <> s: mayorships
+mayorships <> b: mayorship, f: s
+maypole <> s: maypoles
+maypoles <> b: maypole, f: s
+maze <> s: mazes, i: mazing, p: mazed
+mazed <> b: maze, f: p
+mazes <> b: maze, f: s
+mazing <> b: maze, f: i
+mazurka <> s: mazurkas
+mazurkas <> b: mazurka, f: s
+MB <> s: mbs, t: mbest
+mba <> s: mbas
+mbas <> b: mba, f: s
+MBE <> s: mbes
+mbo <> s: mbos
+mbos <> b: mbo, f: s
+mbs <> b: mb, f: s
+Mbyte <> s: mbytes
+MC <> s: mcs
+MD <> s: mds
+me <> s: mes
+mea <> s: meas
+mead <> s: meads
+meadow <> s: meadows
+meadowland <> s: meadowlands
+meadowlands <> b: meadowland, f: s
+Meadows <> b: meadow, f: s
+Meads <> b: mead, f: s
+meal <> s: meals
+mealie <> s: mealies
+mealies <> b: mealie, f: s
+mealiest <> b: mealy, f: t
+meals <> b: meal, f: s
+mealtime <> s: mealtimes
+mealtimes <> b: mealtime, f: s
+mealworm <> s: mealworms
+mealworms <> b: mealworm, f: s
+mealy <> t: mealiest
+mealybug <> s: mealybugs
+mealybugs <> b: mealybug, f: s
+mean <> '3': means, p: meant, d: meant, i: meaning
+meander <> p: meandered, s: meanders, i: meandering, '3': meanders, d: meandered
+meandered <> b: meander, f: pd
+meandering <> b: meander, f: i, s: meanderings, i: meandering
+meanderings <> b: meandering, f: s
+meanders <> b: meander, f: s3
+meanies <> b: meany, f: s
+meaning <> b: mean, f: i, s: meanings, i: meaning
+meanness <> s: meannesses
+meannesses <> b: meanness, f: s
+means <> b: mean, f: '3'
+meant <> b: mean, f: pd
+meany <> s: meanies
+Mearns <> b: mearn, f: s3
+meas <> b: mea, f: s
+measure <> s: measures, d: measured, i: measuring, p: measured, '3': measures
+measured <> b: measure, f: dp, p: measured, d: measured
+measurement <> s: measurements
+measurements <> b: measurement, f: s
+measures <> b: measure, f: s3
+measuring <> b: measure, f: i, i: measuring
+meat <> s: meats
+meatball <> s: meatballs
+meatballs <> b: meatball, f: s
+meatier <> b: meaty, f: r
+meats <> b: meat, f: s
+meaty <> r: meatier
+Meaux <> s: meaux, b: meaux, f: s
+Mecca <> s: meccas
+meccas <> b: mecca, f: s
+mech <> s: mechs
+mechanic <> s: mechanics
+mechanical <> s: mechanicals
+mechanicals <> b: mechanical, f: s
+mechanics <> b: mechanic, f: s
+mechanised <> d: mechanised, b: mechanised, f: d
+mechanism <> s: mechanisms
+mechanisms <> b: mechanism, f: s
+mechanist <> s: mechanists
+mechanists <> b: mechanist, f: s
+mechanize <> p: mechanized, d: mechanized, i: mechanizing, '3': mechanizes
+mechanized <> p: mechanized, b: mechanized, f: p
+mechanizes <> f: '3', b: mechanize
+mechanizing <> b: mechanize, f: i
+mechatronic <> s: mechatronics
+mechatronics <> b: mechatronic, f: s
+MEd <> b: m, f: p, p: med
+medal <> s: medals
+medalist <> s: medalists
+medalists <> b: medalist, f: s
+medallion <> s: medallions
+medallions <> b: medallion, f: s
+medallist <> s: medallists
+medallists <> b: medallist, f: s
+medals <> b: medal, f: s
+meddle <> i: meddling, d: meddled, p: meddled, '3': meddles
+meddled <> b: meddle, f: dp
+meddler <> s: meddlers
+meddlers <> b: meddler, f: s
+meddles <> b: meddle, f: '3'
+meddling <> b: meddle, f: i, i: meddling, s: meddlings
+Mede <> s: medes, '3': medes
+median <> s: medians
+medians <> b: median, f: s
+mediate <> d: mediated, p: mediated, i: mediating, '3': mediates
+mediated <> b: mediate, f: dp, p: mediated
+mediates <> b: mediate, f: '3'
+mediating <> b: mediate, f: i, i: mediating
+mediation <> s: mediations
+mediations <> b: mediation, f: s
+mediator <> s: mediators
+mediators <> b: mediator, f: s
+medic <> s: medics
+medica <> s: medicas
+medical <> s: medicals
+medicals <> b: medical, f: s
+medicament <> s: medicaments
+medicaments <> b: medicament, f: s
+medicas <> b: medica, f: s
+medicate <> p: medicated, d: medicated, '3': medicates, i: medicating
+medicated <> d: medicated, b: medicated, f: dp, p: medicated
+medicates <> b: medicate, f: '3'
+medicating <> b: medicate, f: i
+medication <> s: medications
+medications <> b: medication, f: s
+medici <> s: medici, b: medici, f: s
+medicine <> s: medicines
+medicines <> b: medicine, f: s
+medico <> s: medicos
+medicos <> b: medico, f: s
+medics <> b: medic, f: s
+medievalist <> s: medievalists
+medievalists <> b: medievalist, f: s
+medina <> s: medinas
+medinas <> b: medina, f: s
+mediocre <> s: mediocres
+mediocres <> b: mediocre, f: s
+mediocrities <> b: mediocrity, f: s
+mediocrity <> s: mediocrities
+meditate <> i: meditating, p: meditated, d: meditated, '3': meditates, s: meditates
+meditated <> b: meditate, f: pd
+meditates <> b: meditate, f: 3s
+meditating <> b: meditate, f: i
+meditation <> s: meditations
+meditations <> b: meditation, f: s
+meditator <> s: meditators
+meditators <> b: meditator, f: s
+medium <> s: mediums
+medium-pacer <> s: medium-pacers
+medium-pacers <> b: medium-pacer, f: s
+mediums <> b: medium, f: s
+medlar <> s: medlars
+medley <> s: medleys
+medleys <> b: medley, f: s
+mee <> s: mees
+meek <> t: meekest, r: meeker
+meeker <> b: meek, f: r
+meekest <> b: meek, f: t
+meer <> s: meers
+meerkat <> s: meerkats, '3': meerkats
+meerkats <> b: meerkat, f: s3
+meers <> b: meer, f: s
+meerschaum <> s: meerschaums
+meerschaums <> b: meerschaum, f: s
+mees <> b: mee, f: s
+meet <> p: met, d: met, i: meeting, '3': meets
+meeting <> b: meet, f: i, s: meetings, i: meeting
+meeting-house <> s: meeting-houses
+meeting-houses <> b: meeting-house, f: s
+meets <> b: meet, f: '3'
+Meg <> s: megs
+mega <> s: megas
+megabit <> s: megabits
+megabits <> b: megabit, f: s
+megabuck <> s: megabucks
+megabucks <> b: megabuck, f: s
+megabyte <> s: megabytes
+megabytes <> b: megabyte, f: s
+megacities <> b: megacity, f: s
+megacity <> s: megacities
+megadeath <> s: megadeaths
+megadeaths <> b: megadeath, f: s
+megaflop <> s: megaflops
+megaflops <> b: megaflop, f: s
+megalith <> s: megaliths
+megaliths <> b: megalith, f: s
+megalomaniac <> s: megalomaniacs
+megalomaniacs <> b: megalomaniac, f: s
+megaparsec <> s: megaparsecs
+megaparsecs <> b: megaparsec, f: s
+megaphone <> s: megaphones
+megaphones <> b: megaphone, f: s
+megapode <> s: megapodes
+megapodes <> b: megapode, f: s
+megas <> b: mega, f: s
+megastar <> s: megastars
+megastars <> b: megastar, f: s
+megastore <> s: megastores
+megastores <> b: megastore, f: s
+megaton <> s: megatons
+megatons <> b: megaton, f: s
+megawatt <> s: megawatts, '3': megawatts
+megawatts <> b: megawatt, f: s3
+megrim <> s: megrims
+megrims <> b: megrim, f: s
+Mehmed <> p: mehmed, b: mehmed, f: p
+mei <> s: mei, b: mei, f: s
+mek <> '3': meks
+meks <> b: mek, f: '3'
+mela <> s: melas
+melaena <> s: melaenas
+melaenas <> b: melaena, f: s
+melancholia <> s: melancholias
+melancholias <> b: melancholia, f: s
+melancholic <> s: melancholics
+melancholics <> b: melancholic, f: s
+Melanesian <> s: melanesians
+melanin <> s: melanins
+melanins <> b: melanin, f: s
+melanism <> s: melanisms
+melanisms <> b: melanism, f: s
+melanocyte <> s: melanocytes
+melanocytes <> b: melanocyte, f: s
+melanoma <> s: melanomas
+melanomas <> b: melanoma, f: s
+melas <> b: mela, f: s
+meld <> p: melded, i: melding, d: melded, s: melds, '3': melds
+melded <> b: meld, f: pd
+melding <> b: meld, f: i, i: melding
+melds <> f: s3, b: meld
+melee <> s: melees
+melees <> b: melee, f: s
+meliorate <> i: meliorating, p: meliorated, '3': meliorates, d: meliorated
+meliorated <> f: pd, b: meliorate
+meliorates <> f: '3', b: meliorate
+meliorating <> f: i, b: meliorate
+melisma <> s: melismas
+melismas <> b: melisma, f: s
+mellow <> d: mellowed, p: mellowed, r: mellower, i: mellowing, '3': mellows
+mellowed <> b: mellow, f: dp, d: mellowed
+mellower <> b: mellow, f: r
+mellowing <> b: mellow, f: i, i: mellowing
+mellows <> b: mellow, f: '3'
+Melly <> s: mellies
+melo <> s: melos
+melodies <> b: melody, f: s
+melodize <> i: melodizing, p: melodized, '3': melodizes, d: melodized
+melodized <> f: pd, b: melodize
+melodizes <> f: '3', b: melodize
+melodizing <> f: i, b: melodize
+melodrama <> s: melodramas
+melodramas <> b: melodrama, f: s
+melody <> s: melodies
+melon <> s: melons
+melons <> b: melon, f: s
+Melos <> b: melo, f: s
+melt <> p: melted, d: melted, i: melting, '3': melts
+melted <> b: melt, f: pd, p: melted, d: melted
+melting <> b: melt, f: i, i: melting
+melts <> b: melt, f: '3'
+meltwater <> s: meltwaters, b: meltwate, f: r
+meltwaters <> b: meltwater, f: s
+member <> s: members
+members <> b: member, f: s
+membership <> s: memberships
+memberships <> b: membership, f: s
+membrane <> s: membranes
+membranes <> b: membrane, f: s
+meme <> s: memes
+memento <> s: mementoes
+mementoes <> b: memento, f: s
+memes <> b: meme, f: s
+memo <> s: memos
+memoir <> s: memoirs
+memoirist <> s: memoirists
+memoirists <> b: memoirist, f: s
+memoirs <> b: memoir, f: s
+memorabilia <> s: memorabilia, b: memorabilia, f: s
+memoranda <> b: memorandum, f: s
+memorandum <> s: memoranda
+memorial <> s: memorials
+memorialist <> s: memorialists
+memorialists <> b: memorialist, f: s
+memorialize <> d: memorialized, p: memorialized, i: memorializing, '3': memorializes
+memorialized <> b: memorialize, f: dp
+memorializes <> f: '3', b: memorialize
+memorializing <> f: i, b: memorialize
+memorials <> b: memorial, f: s
+memories <> b: memory, f: s
+memorise <> d: memorised, i: memorising, p: memorised, '3': memorises
+memorised <> b: memorise, f: dp, d: memorised
+memorises <> b: memorise, f: '3'
+memorising <> b: memorise, f: i
+memorize <> i: memorizing, p: memorized, d: memorized, '3': memorizes
+memorized <> b: memorize, f: pd, p: memorized
+memorizes <> b: memorize, f: '3'
+memorizing <> b: memorize, f: i
+memory <> s: memories
+memos <> b: memo, f: s
+memsahib <> s: memsahibs
+memsahibs <> b: memsahib, f: s
+men <> b: man, f: s, s: mens, '3': mens
+men-of-war <> b: man-of-war, f: s
+mena <> s: menas
+menace <> s: menaces, d: menaced, p: menaced, i: menacing, '3': menaces
+menaced <> b: menace, f: dp, d: menaced, p: menaced
+menaces <> b: menace, f: s3
+menacing <> b: menace, f: i, i: menacing
+menai <> s: menai, b: menai, f: s
+menaquinone <> s: menaquinones
+menaquinones <> b: menaquinone, f: s
+menas <> b: mena, f: s
+mend <> i: mending, d: mended, p: mended, '3': mends, s: mends
+mended <> b: mend, f: dp, d: mended
+Mendelian <> s: mendelians
+mender <> s: menders
+menders <> b: mender, f: s
+mendicant <> s: mendicants
+mendicants <> b: mendicant, f: s
+mending <> b: mend, f: i, i: mending
+mends <> b: mend, f: 3s
+menfolk <> s: menfolk, b: menfolk, f: s
+menhir <> s: menhirs
+menhirs <> b: menhir, f: s
+menial <> s: menials
+menials <> b: menial, f: s
+Mennonite <> s: mennonites
+mens <> b: men, f: s3
+mense <> s: menses
+menservants <> b: manservant, f: s
+menses <> b: mense, f: s
+Menshevik <> s: mensheviks
+menstruate <> i: menstruating, '3': menstruates, p: menstruated, d: menstruated
+menstruated <> f: pd, b: menstruate
+menstruates <> b: menstruate, f: '3'
+menstruating <> b: menstruate, f: i, i: menstruating
+menstruation <> s: menstruations
+menstruations <> b: menstruation, f: s
+ment <> s: ments
+mentalities <> b: mentality, f: s
+mentality <> s: mentalities
+mention <> d: mentioned, p: mentioned, i: mentioning, '3': mentions, s: mentions
+mentioned <> b: mention, f: dp
+mentioning <> b: mention, f: i, i: mentioning
+mentions <> b: mention, f: 3s
+mentor <> s: mentors, i: mentoring, p: mentored, '3': mentors, d: mentored
+mentored <> b: mentore, f: pd
+mentoring <> b: mentore, f: i
+mentors <> b: mentor, f: s
+ments <> b: ment, f: s
+menu <> s: menus
+menu-driven <> b: menu-drve, f: d
+menus <> b: menu, f: s
+meow <> p: meowed, i: meowing, '3': meows, s: meows, d: meowed
+meowed <> b: meow, f: p
+meowing <> b: meow, f: i
+meows <> b: meow, f: 3s
+MEP <> s: meps
+mer <> s: mers
+meranti <> s: meranti, b: meranti, f: s
+Merc <> s: mercs
+mercantilist <> s: mercantilists
+mercantilists <> b: mercantilist, f: s
+mercaptan <> s: mercaptans
+mercaptans <> b: mercaptan, f: s
+mercenaries <> b: mercenary, f: s
+mercenary <> s: mercenaries
+mercer <> s: mercers
+mercerize <> i: mercerizing, p: mercerized, '3': mercerizes, d: mercerized
+mercerized <> f: pd, b: mercerize
+mercerizes <> f: '3', b: mercerize
+mercerizing <> f: i, b: mercerize
+mercers <> b: mercer, f: s
+merchandise <> i: merchandising, p: merchandised
+merchandised <> b: merchandise, f: p
+merchandiser <> s: merchandisers
+merchandisers <> b: merchandiser, f: s
+merchandising <> b: merchandise, f: i, i: merchandising
+merchant <> s: merchants, i: merchanting
+merchanting <> b: merchant, f: i, i: merchanting
+merchantman <> s: merchantmen
+merchantmen <> b: merchantman, f: s
+merchants <> b: merchant, f: s
+merci <> s: merci, b: merci, f: s
+mercian <> s: mercians
+mercians <> b: mercian, f: s
+mercies <> b: mercy, f: s
+mercurial <> s: mercurials
+mercurials <> b: mercurial, f: s
+mercy <> s: mercies
+mere <> t: merest, s: meres
+meres <> b: mere, f: s
+merest <> b: mere, f: t
+merganser <> s: mergansers
+mergansers <> b: merganser, f: s
+merge <> d: merged, p: merged, i: merging, '3': merges
+merged <> b: merge, f: dp, d: merged, p: merged
+merger <> s: mergers
+mergers <> b: merger, f: s
+merges <> b: merge, f: '3'
+merging <> b: merge, f: i, i: merging
+meridian <> s: meridians
+meridians <> b: meridian, f: s
+meringue <> s: meringues
+meringues <> b: meringue, f: s
+merino <> s: merinos
+merinos <> b: merino, f: s
+meristem <> s: meristems
+meristems <> b: meristem, f: s
+merit <> s: merits, '3': merits, p: merited, d: merited, i: meriting
+merited <> b: merit, f: pd
+meriting <> b: merit, f: i
+meritocracies <> b: meritocracy, f: s
+meritocracy <> s: meritocracies
+merits <> b: merit, f: s3
+Merlin <> s: merlins
+merlon <> s: merlons
+merlons <> b: merlon, f: s
+mermaid <> s: mermaids
+mermaids <> b: mermaid, f: s
+merman <> s: mermen
+mermen <> b: merman, f: s
+Merovingian <> s: merovingians
+Merrick <> s: merricks
+merrier <> b: merry, f: r
+merriest <> b: merry, f: t
+merry <> r: merrier, t: merriest
+merry-go-round <> s: merry-go-rounds
+merry-go-rounds <> b: merry-go-round, f: s
+merrymaker <> s: merrymakers
+merrymakers <> b: merrymaker, f: s
+mers <> b: mer, f: s
+merseysider <> s: merseysiders
+merseysiders <> b: merseysider, f: s
+mes <> b: me, f: s
+mesa <> s: mesas
+mesas <> b: mesa, f: s
+mesenteries <> b: mesentery, f: s
+mesentery <> s: mesenteries
+mesh <> s: meshes, p: meshed, d: meshed, i: meshing, '3': meshs
+Meshed <> b: mesh, f: pd, p: meshed
+meshes <> b: mesh, f: s
+meshing <> b: mesh, f: i
+meshs <> f: '3', b: mesh
+mesmerise <> d: mesmerised, i: mesmerising, p: mesmerised
+mesmerised <> b: mesmerise, f: dp, d: mesmerised
+mesmerising <> b: mesmerise, f: i, i: mesmerising
+mesmerize <> d: mesmerized, p: mesmerized, i: mesmerizing, '3': mesmerizes
+mesmerized <> b: mesmerize, f: dp, p: mesmerized, d: mesmerized
+mesmerizes <> b: mesmerize, f: '3'
+mesmerizing <> b: mesmerize, f: i
+mesomorph <> s: mesomorphs
+mesomorphs <> b: mesomorph, f: s
+meson <> s: mesons
+mesons <> b: meson, f: s
+Mesopotamian <> s: mesopotamians
+mesothelioma <> s: mesotheliomas
+mesotheliomas <> b: mesothelioma, f: s
+mess <> i: messing, d: messed, p: messed, s: messes, '3': messes
+message <> s: messages, i: messaging, p: messaged, '3': messages, d: messaged
+messages <> b: message, f: s
+messaging <> b: message, f: i, i: messaging
+messed <> b: mess, f: dp, d: messed, p: messed
+messenger <> s: messengers
+messengers <> b: messenger, f: s
+Messerschmitt <> s: messerschmitts
+messes <> b: mess, f: s3
+messiah <> s: messiahs
+messiahs <> b: messiah, f: s
+messier <> b: messy, f: r
+messing <> b: mess, f: i
+Messrs <> s: messrs, b: messrs, f: s
+messuage <> '3': messuages, s: messuages
+messuages <> b: messuage, f: 3s
+messy <> r: messier
+mestizo <> s: mestizos
+mestizos <> b: mestizo, f: s
+met <> b: meet, f: pd, s: mets
+metabolise <> d: metabolised, p: metabolised, i: metabolising
+metabolised <> b: metabolise, f: dp
+metabolising <> b: metabolise, f: i
+metabolism <> s: metabolisms
+metabolisms <> b: metabolism, f: s
+metabolite <> s: metabolites
+metabolites <> b: metabolite, f: s
+metabolize <> d: metabolized, '3': metabolizes, i: metabolizing, p: metabolized
+metabolized <> b: metabolize, f: dp
+metabolizes <> b: metabolize, f: '3'
+metabolizing <> b: metabolize, f: i
+metacarpal <> s: metacarpals
+metacarpals <> b: metacarpal, f: s
+metacentric <> s: metacentrics
+metacentrics <> b: metacentric, f: s
+metafile <> s: metafiles
+metafiles <> b: metafile, f: s
+metal <> s: metals, i: metaling, p: metaled, '3': metals, d: metaled
+metalanguage <> s: metalanguages
+metalanguages <> b: metalanguage, f: s
+metaled <> f: pd, b: metal
+metalhead <> s: metalheads
+metalheads <> b: metalhead, f: s
+metaling <> f: i, b: metal
+metalled <> d: metalled, b: metalled, f: d
+metallic <> s: metallics
+metallics <> b: metallic, f: s
+metallize <> i: metallizing, p: metallized, '3': metallizes, d: metallized
+metallized <> f: pd, b: metallize
+metallizes <> f: '3', b: metallize
+metallizing <> f: i, b: metallize
+metallurgist <> s: metallurgists
+metallurgists <> b: metallurgist, f: s
+metals <> f: s3, b: metal
+metalware <> s: metalwares
+metalwares <> b: metalware, f: s
+metalwork <> s: metalworks
+metalworker <> s: metalworkers
+metalworkers <> b: metalworker, f: s
+metalworks <> b: metalwork, f: s
+metamorphose <> d: metamorphosed, s: metamorphoses, p: metamorphosed, i: metamorphosing, '3': metamorphoses
+metamorphosed <> b: metamorphose, f: dp, d: metamorphosed, p: metamorphosed
+metamorphoses <> b: metamorphose, f: s3
+metamorphosing <> b: metamorphose, f: i
+metanarrative <> s: metanarratives
+metanarratives <> b: metanarrative, f: s
+metaphase <> s: metaphases
+metaphases <> b: metaphase, f: s
+metaphor <> s: metaphors
+metaphors <> b: metaphor, f: s
+metaphysic <> s: metaphysics
+metaphysical <> '3': metaphysicals, s: metaphysicals
+metaphysicals <> b: metaphysical, f: 3s
+metaphysician <> s: metaphysicians
+metaphysicians <> b: metaphysician, f: s
+metaphysics <> b: metaphysic, f: s
+metastase <> s: metastases, '3': metastases
+metastases <> b: metastase, f: s3
+metastasize <> i: metastasizing, d: metastasized, p: metastasized, '3': metastasizes
+metastasized <> f: dp, b: metastasize
+metastasizes <> f: '3', b: metastasize
+metastasizing <> b: metastasize, f: i
+metatarsal <> s: metatarsals
+metatarsals <> b: metatarsal, f: s
+metatherian <> s: metatherians
+metatherians <> b: metatherian, f: s
+metazoan <> s: metazoans
+metazoans <> b: metazoan, f: s
+mete <> d: meted, p: meted, i: meting, '3': metes, s: metes
+meted <> b: mete, f: dp
+meteor <> s: meteors
+meteorite <> s: meteorites
+meteorites <> b: meteorite, f: s
+meteorologist <> s: meteorologists
+meteorologists <> b: meteorologist, f: s
+meteors <> b: meteor, f: s
+meter <> s: meters, d: metered, '3': meters, i: metering, p: metered
+metered <> b: meter, f: dp, d: metered
+metering <> b: meter, f: i, i: metering
+meters <> b: meter, f: s3
+metes <> b: mete, f: 3s
+meth <> s: meths, '3': meth, b: meth, f: '3'
+methacrylate <> s: methacrylates, '3': methacrylates
+methacrylates <> b: methacrylate, f: s3
+methane <> s: methanes
+methanes <> b: methane, f: s
+methanogen <> s: methanogens
+methanogens <> b: methanogen, f: s
+methionine <> s: methionines
+methionines <> b: methionine, f: s
+method <> s: methods
+methodist <> s: methodists
+methodologies <> b: methodology, f: s
+methodologist <> s: methodologists
+methodologists <> b: methodologist, f: s
+methodology <> s: methodologies
+methods <> b: method, f: s
+meths <> b: meth, f: s3
+Methuselah <> s: methuselahs
+methylate <> d: methylated, '3': methylates, p: methylated
+methylated <> p: methylated, b: methylated, f: pd, d: methylated
+methylates <> b: methylate, f: '3'
+methylation <> s: methylations
+methylations <> b: methylation, f: s
+meting <> b: mete, f: i
+metope <> s: metopes
+metopes <> b: metope, f: s
+metre <> s: metres
+metres <> b: metre, f: s
+metric <> s: metrics
+metricate <> d: metricated, i: metricating, p: metricated, '3': metricates
+metricated <> f: dp, b: metricate
+metricates <> f: '3', b: metricate
+metricating <> f: i, b: metricate
+metrics <> b: metric, f: s
+metro <> s: metros
+metronome <> s: metronomes
+metronomes <> b: metronome, f: s
+metronymic <> s: metronymics
+metronymics <> b: metronymic, f: s
+metropole <> s: metropoles
+metropoles <> b: metropole, f: s
+metropolis <> s: metropolises
+metropolises <> b: metropolis, f: s
+metropolitan <> s: metropolitans
+metropolitans <> b: metropolitan, f: s
+metros <> b: metro, f: s
+mew <> i: mewing, p: mewed, s: mews, '3': mews, d: mewed
+mewed <> f: pd, b: mew
+mewing <> b: mew, f: i
+mewl <> p: mewled, i: mewling, '3': mewls, d: mewled
+mewled <> f: pd, b: mewl
+mewling <> i: mewling, b: mewling, f: i
+mewls <> f: '3', b: mewl
+mews <> s: mews, b: mews, f: s
+Mexican <> s: mexicans
+mexicano <> s: mexicanos
+mexicanos <> b: mexicano, f: s
+meze <> '3': mezes
+mezes <> b: meze, f: '3'
+mezzanine <> s: mezzanines
+mezzanines <> b: mezzanine, f: s
+mezzo-soprano <> s: mezzo-sopranos
+mezzo-sopranos <> b: mezzo-soprano, f: s
+mezzotint <> s: mezzotints, i: mezzotinting
+mezzotinting <> b: mezzotint, f: i
+mezzotints <> b: mezzotint, f: s
+MFI <> s: mfi, b: mfi, f: s
+MG <> s: mgs
+mia <> s: mias
+miaow <> s: miaows, i: miaowing, p: miaowed, '3': miaows, d: miaowed
+miaowed <> b: miaow, f: p
+miaowing <> b: miaow, f: i
+miaows <> b: miaow, f: s3
+mias <> b: mia, f: s
+miasm <> s: miasms
+miasma <> s: miasmas
+miasmas <> b: miasma, f: s
+miasms <> b: miasm, f: s
+MIC <> s: mics
+mica <> s: micas
+micas <> b: mica, f: s
+mice <> b: mouse, f: s
+micelle <> s: micelles
+micelles <> b: micelle, f: s
+Michaelmas <> b: michaelma, f: s
+michelin <> s: michelins
+michelins <> b: michelin, f: s
+michelson <> s: michelsons
+michelsons <> b: michelson, f: s
+mickey <> s: mickeys
+mickeys <> b: mickey, f: s
+micro <> s: micros
+micro-organism <> s: micro-organisms
+micro-organisms <> b: micro-organism, f: s
+microbe <> s: microbes
+microbes <> b: microbe, f: s
+microbiologist <> s: microbiologists
+microbiologists <> b: microbiologist, f: s
+microbreweries <> b: microbrewery, f: s
+microbrewery <> s: microbreweries
+microchip <> s: microchips
+microchips <> b: microchip, f: s
+microcircuit <> s: microcircuits
+microcircuits <> b: microcircuit, f: s
+microclimate <> s: microclimates
+microclimates <> b: microclimate, f: s
+microcomputer <> s: microcomputers
+microcomputers <> b: microcomputer, f: s
+microcontroller <> s: microcontrollers
+microcontrollers <> b: microcontroller, f: s
+microcopy <> i: microcoping, p: microcopied, '3': microcopies, d: microcopied, s: microcopies
+microcosm <> s: microcosms
+microcosms <> b: microcosm, f: s
+microdot <> '3': microdots, s: microdots
+microdots <> b: microdot, f: 3s
+microeconomic <> s: microeconomics
+microeconomics <> b: microeconomic, f: s
+microenvironment <> s: microenvironments
+microenvironments <> b: microenvironment, f: s
+microfibre <> s: microfibres
+microfibres <> b: microfibre, f: s
+microfibril <> s: microfibrils
+microfibrils <> b: microfibril, f: s
+microfilament <> s: microfilaments
+microfilaments <> b: microfilament, f: s
+microfilm <> i: microfilming, d: microfilmed, s: microfilms, p: microfilmed, '3': microfilms
+microfilmed <> f: dp, b: microfilm
+microfilming <> b: microfilm, f: i, i: microfilming
+microfilms <> f: s3, b: microfilm
+microflora <> s: microfloras
+microfloras <> b: microflora, f: s
+microform <> s: microforms
+microforms <> b: microform, f: s
+microfossil <> s: microfossils
+microfossils <> b: microfossil, f: s
+microgram <> s: micrograms
+micrograms <> b: microgram, f: s
+micrograph <> s: micrographs
+micrographic <> s: micrographics
+micrographics <> b: micrographic, f: s
+micrographs <> b: micrograph, f: s
+microhabitat <> s: microhabitats
+microhabitats <> b: microhabitat, f: s
+microinject <> d: microinjected, p: microinjected
+microinjected <> b: microinject, f: dp
+microinjection <> s: microinjections
+microinjections <> b: microinjection, f: s
+Microkernel <> s: microkernels
+microlight <> s: microlights
+microlights <> b: microlight, f: s
+microlitre <> s: microlitres
+microlitres <> b: microlitre, f: s
+micrometeorite <> s: micrometeorites
+micrometeorites <> b: micrometeorite, f: s
+micrometer <> s: micrometers
+micrometers <> b: micrometer, f: s
+micrometre <> s: micrometres
+micrometres <> b: micrometre, f: s
+micron <> s: microns
+Micronesian <> s: micronesians
+micronesians <> b: micronesian, f: s
+microns <> b: micron, f: s
+micronutrient <> s: micronutrients
+micronutrients <> b: micronutrient, f: s
+microorganism <> s: microorganisms
+microorganisms <> b: microorganism, f: s
+microphone <> s: microphones
+microphones <> b: microphone, f: s
+microphysics <> b: microphysic, f: s
+micropipette <> s: micropipettes
+micropipettes <> b: micropipette, f: s
+micropore <> s: micropores
+micropores <> b: micropore, f: s
+microprobe <> s: microprobes
+microprobes <> b: microprobe, f: s
+microprocessor <> s: microprocessors
+microprocessors <> b: microprocessor, f: s
+microprogram <> i: microprogramming, s: microprograms, p: microprogrammed, d: microprogrammed
+microprogrammed <> b: microprogram, f: pd
+microprogramming <> b: microprogram, f: i
+microprograms <> b: microprogram, f: s
+micros <> b: micro, f: s
+microscope <> s: microscopes, i: microscoping
+microscopes <> b: microscope, f: s
+microscoping <> b: microscope, f: i
+microscopist <> s: microscopists
+microscopists <> b: microscopist, f: s
+microsecond <> s: microseconds
+microseconds <> b: microsecond, f: s
+microsome <> s: microsomes
+microsomes <> b: microsome, f: s
+microsphere <> s: microspheres
+microspheres <> b: microsphere, f: s
+microstructure <> s: microstructures
+microstructures <> b: microstructure, f: s
+microswitch <> s: microswitches
+microswitches <> b: microswitch, f: s
+microsystem <> s: microsystems
+microsystems <> b: microsystem, f: s
+microtubule <> s: microtubules
+microtubules <> b: microtubule, f: s
+microwave <> s: microwaves, p: microwaved, i: microwaving, d: microwaved, '3': microwaves
+microwaved <> b: microwave, f: pd, p: microwaved
+microwaves <> b: microwave, f: s
+microwaving <> b: microwave, f: i
+microworld <> s: microworlds
+microworlds <> b: microworld, f: s
+micturate <> i: micturating, p: micturated, '3': micturates, d: micturated
+micturated <> f: pd, b: micturate
+micturates <> f: '3', b: micturate
+micturating <> f: i, b: micturate
+mid <> s: mids
+mid-engined <> p: mid-engined, b: mid-engined, f: p
+mida <> s: midas
+MIDAS <> b: mida, f: s
+midden <> s: middens
+middens <> b: midden, f: s
+middies <> b: middy, f: s
+middle <> s: middles, i: middling, p: middled, '3': middles, d: middled
+middle-class <> s: middle-classes
+middle-classes <> b: middle-class, f: s
+middled <> f: pd, b: middle
+middleman <> s: middlemen
+middlemen <> b: middleman, f: s
+middles <> f: s3, b: middle
+middleweight <> s: middleweights
+middleweights <> b: middleweight, f: s
+middling <> i: middling, b: middling, f: i
+middy <> s: middies
+midfield <> s: midfields
+midfielder <> s: midfielders
+midfielders <> b: midfielder, f: s
+midfields <> b: midfield, f: s
+midge <> s: midges
+midges <> b: midge, f: s
+midget <> s: midgets
+midgets <> b: midget, f: s
+midinette <> s: midinettes
+midinettes <> b: midinette, f: s
+midland <> s: midlands
+midlander <> s: midlanders
+midlanders <> b: midlander, f: s
+Midlands <> b: midland, f: s
+midnight <> s: midnights
+midnights <> b: midnight, f: s
+midpoint <> s: midpoints
+midpoints <> b: midpoint, f: s
+midriff <> s: midriffs
+midriffs <> b: midriff, f: s
+mids <> b: mid, f: s
+midsection <> s: midsections
+midsections <> b: midsection, f: s
+midship <> s: midships
+midshipman <> s: midshipmen
+midshipmen <> b: midshipman, f: s
+midships <> b: midship, f: s
+midsole <> s: midsoles
+midsoles <> b: midsole, f: s
+midsummer <> s: midsummers
+midsummers <> b: midsummer, f: s
+midwater <> s: midwaters, b: midwate, f: r
+midwaters <> b: midwater, f: s
+midway <> s: midways
+midways <> b: midway, f: s
+miff <> d: miffed, p: miffed, i: miffing, '3': miffs
+miffed <> b: miff, f: dp, p: miffed
+miffing <> f: i, b: miff
+miffs <> f: '3', b: miff
+Mig <> s: migs
+might-have-been <> s: might-have-beens
+might-have-beens <> b: might-have-been, f: s
+mightier <> b: mighty, f: r
+mightiest <> b: mighty, f: t
+mighty <> t: mightiest, r: mightier
+mignon <> s: mignons
+mignons <> b: mignon, f: s
+migraine <> s: migraines
+migraines <> b: migraine, f: s
+migrant <> s: migrants
+migrants <> b: migrant, f: s
+migrate <> i: migrating, d: migrated, p: migrated, '3': migrates
+migrated <> b: migrate, f: dp
+migrates <> b: migrate, f: '3'
+migrating <> b: migrate, f: i, i: migrating
+migration <> s: migrations
+migrations <> b: migration, f: s
+migrator <> s: migrators
+migrators <> b: migrator, f: s
+mike <> s: mikes
+mikes <> b: mike, f: s
+mikva <> s: mikvas
+mikvas <> b: mikva, f: s
+mil <> s: mils
+mild <> r: milder, t: mildest, s: milds
+milder <> b: mild, f: r
+mildest <> b: mild, f: t
+mildew <> d: mildewed, p: mildewed, s: mildews, i: mildewing, '3': mildews
+mildewed <> b: mildew, f: dp, p: mildewed
+mildewing <> f: i, b: mildew
+mildews <> f: s3, b: mildew
+milds <> b: mild, f: s
+mile <> s: miles
+mileage <> s: mileages
+mileages <> b: mileage, f: s
+mileometer <> s: mileometers
+mileometers <> b: mileometer, f: s
+milepost <> s: mileposts
+mileposts <> b: milepost, f: s
+miler <> s: milers
+milers <> b: miler, f: s
+miles <> b: mile, f: s
+milestone <> s: milestones
+milestones <> b: milestone, f: s
+milfoil <> s: milfoils
+milfoils <> b: milfoil, f: s
+milieu <> s: milieus
+milieus <> b: milieu, f: s
+militant <> s: militants
+militants <> b: militant, f: s
+militarist <> s: militarists
+militarists <> b: militarist, f: s
+militarize <> p: militarized, d: militarized, i: militarizing, '3': militarizes
+militarized <> p: militarized, b: militarized, f: p
+militarizes <> f: '3', b: militarize
+militarizing <> f: i, b: militarize
+militate <> '3': militates, p: militated, i: militating, d: militated
+militated <> b: militate, f: pd
+militates <> b: militate, f: '3'
+militating <> b: militate, f: i
+militia <> s: militias
+militiaman <> s: militiamen
+militiamen <> b: militiaman, f: s
+militias <> b: militia, f: s
+milk <> d: milked, i: milking, s: milks, p: milked, '3': milks
+milked <> b: milk, f: dp
+milker <> s: milkers
+milkers <> b: milker, f: s
+milking <> b: milk, f: i, i: milking, s: milkings
+milkmaid <> s: milkmaids
+milkmaids <> b: milkmaid, f: s
+milkman <> s: milkmen
+milkmen <> b: milkman, f: s
+milks <> f: s3, b: milk
+milkshake <> s: milkshakes, '3': milkshakes
+milkshakes <> b: milkshake, f: s3
+milksop <> i: milksopping, s: milksops
+milksopping <> b: milksop, f: i
+milksops <> b: milksop, f: s
+milkweed <> s: milkweeds
+milkweeds <> b: milkweed, f: s
+mill <> s: mills, i: milling, p: milled, d: milled, '3': mills
+mille <> s: milles
+milled <> b: mill, f: pd, p: milled
+millefiori <> s: millefiori, b: millefiori, f: s
+millenarian <> s: millenarians
+millenarians <> b: millenarian, f: s
+millennia <> s: millennia, b: millennia, f: s
+millennium <> s: millenniums
+millenniums <> b: millennium, f: s
+miller <> s: millers
+millers <> b: miller, f: s
+milles <> b: mille, f: s
+millesimal <> s: millesimals
+millesimals <> b: millesimal, f: s
+millet <> s: millets
+millets <> b: millet, f: s
+millhand <> '3': millhands, s: millhands
+millhands <> b: millhand, f: 3s
+milliamp <> s: milliamps
+milliamps <> b: milliamp, f: s
+milliard <> s: milliards
+milliards <> b: milliard, f: s
+millibar <> s: millibars
+millibars <> b: millibar, f: s
+Milligan <> s: milligans
+milligram <> s: milligrams
+milligrams <> b: milligram, f: s
+millilitre <> s: millilitres
+millilitres <> b: millilitre, f: s
+millimetre <> s: millimetres
+millimetres <> b: millimetre, f: s
+milliner <> s: milliners
+milliners <> b: milliner, f: s
+milling <> b: mill, f: i, i: milling, s: millings
+millionaire <> s: millionaires
+millionaires <> b: millionaire, f: s
+millionairess <> s: millionairesses
+millionairesses <> b: millionairess, f: s
+millionth <> s: millionths
+millionths <> b: millionth, f: s
+millipede <> s: millipedes
+millipedes <> b: millipede, f: s
+millisecond <> s: milliseconds
+milliseconds <> b: millisecond, f: s
+millivolt <> s: millivolts, '3': millivolts
+millivolts <> b: millivolt, f: s3
+millpond <> s: millponds
+millponds <> b: millpond, f: s
+mills <> f: s3, b: mill
+millstone <> s: millstones
+millstones <> b: millstone, f: s
+millworker <> s: millworkers
+millworkers <> b: millworker, f: s
+millwright <> s: millwrights
+millwrights <> b: millwright, f: s
+milord <> s: milords
+milords <> b: milord, f: s
+mils <> b: mil, f: s
+mim <> s: mims, '3': mims
+mime <> i: miming, p: mimed, '3': mimes, s: mimes, d: mimed
+mimed <> b: mime, f: pd, p: mimed, d: mimed
+mimeograph <> i: mimeographing, p: mimeographed, '3': mimeographs, d: mimeographed
+mimeographed <> f: pd, b: mimeograph
+mimeographing <> f: i, b: mimeograph
+mimeographs <> f: '3', b: mimeograph
+mimes <> b: mime, f: 3s
+mimi <> s: mimi, b: mimi, f: s
+mimic <> '3': mimics, s: mimics, i: mimicking, p: mimicked, d: mimicked
+mimick <> i: mimicking, p: mimicked, d: mimicked, '3': mimicks
+mimicked <> b: mimick, f: pd
+mimicking <> b: mimick, f: i, i: mimicking
+mimicks <> b: mimick, f: '3'
+mimicries <> b: mimicry, f: s
+mimicry <> s: mimicries
+mimics <> b: mimic, f: 3s
+miming <> b: mime, f: i
+mimosa <> s: mimosas
+mimosas <> b: mimosa, f: s
+mims <> b: mim, f: s3
+min <> s: mins
+mina <> s: minas
+minaret <> s: minarets
+minarets <> b: minaret, f: s
+minas <> b: mina, f: s
+mince <> i: mincing, d: minced, p: minced, s: minces, '3': minces
+minced <> b: mince, f: dp, d: minced
+mincer <> s: mincers
+mincers <> b: mincer, f: s
+minces <> b: mince, f: s3
+minch <> s: minches
+minches <> b: minch, f: s
+mincing <> b: mince, f: i, i: mincing
+mind <> s: minds, d: minded, i: minding, p: minded, '3': minds
+mind-reader <> s: mind-readers
+mind-readers <> b: mind-reader, f: s
+minded <> b: mind, f: dp, d: minded, p: minded
+minder <> s: minders
+minders <> b: minder, f: s
+minding <> b: mind, f: i, i: minding
+minds <> b: mind, f: s3
+mindset <> s: mindsets
+mindsets <> b: mindset, f: s
+mine <> s: mines, i: mining, d: mined, p: mined, '3': mines
+mined <> b: mine, f: dp, p: mined, d: mined
+minefield <> s: minefields
+minefields <> b: minefield, f: s
+miner <> s: miners
+mineral <> s: minerals
+mineralize <> '3': mineralizes, i: mineralizing, p: mineralized, d: mineralized
+mineralized <> p: mineralized, b: mineralized, f: p
+mineralizes <> b: mineralize, f: '3'
+mineralizing <> b: mineralize, f: i
+mineralogies <> b: mineralogy, f: s
+mineralogy <> s: mineralogies
+minerals <> b: mineral, f: s
+miners <> b: miner, f: s
+mines <> f: s3, b: mine
+mineshaft <> s: mineshafts
+mineshafts <> b: mineshaft, f: s
+minesweeper <> s: minesweepers
+minesweepers <> b: minesweeper, f: s
+minesweeping <> b: minesweep, f: i
+mineworker <> s: mineworkers
+Mineworkers <> b: mineworker, f: s
+mingle <> p: mingled, i: mingling, d: mingled, '3': mingles
+mingled <> b: mingle, f: pd, d: mingled, p: mingled
+mingles <> b: mingle, f: '3'
+mingling <> b: mingle, f: i, i: mingling
+mini <> s: minis
+mini-break <> s: mini-breaks
+mini-breaks <> b: mini-break, f: s
+mini-budget <> s: mini-budgets
+miniature <> s: miniatures
+miniatures <> b: miniature, f: s
+miniaturist <> s: miniaturists
+miniaturists <> b: miniaturist, f: s
+miniaturize <> p: miniaturized, d: miniaturized, i: miniaturizing, '3': miniaturizes
+miniaturized <> b: miniaturize, f: pd
+miniaturizes <> f: '3', b: miniaturize
+miniaturizing <> f: i, b: miniaturize
+minicab <> s: minicabs
+minicabs <> b: minicab, f: s
+minicar <> s: minicars
+minicars <> b: minicar, f: s
+minicomputer <> s: minicomputers
+minicomputers <> b: minicomputer, f: s
+minim <> s: minims
+minima <> b: minimum, f: s
+minimalist <> s: minimalists
+minimalists <> b: minimalist, f: s
+minimax <> d: minimaxed
+minimaxed <> b: minimax, f: d
+minimise <> i: minimising, d: minimised, '3': minimises, p: minimised
+minimised <> b: minimise, f: dp, p: minimised, d: minimised
+minimises <> b: minimise, f: '3'
+minimising <> b: minimise, f: i
+minimize <> i: minimizing, d: minimized, '3': minimizes, p: minimized
+minimized <> b: minimize, f: dp, p: minimized
+minimizes <> b: minimize, f: '3'
+minimizing <> b: minimize, f: i
+minims <> b: minim, f: s
+minimum <> s: minima
+mining <> b: mine, f: i, i: mining
+minion <> s: minions
+minions <> b: minion, f: s
+minis <> b: mini, f: s
+miniscule <> s: miniscules
+miniscules <> b: miniscule, f: s
+miniseries <> b: minisery, f: s
+miniskirt <> s: miniskirts
+miniskirts <> b: miniskirt, f: s
+minister <> s: ministers, i: ministering, p: ministered, '3': ministers, d: ministered
+ministered <> f: pd, b: minister
+ministering <> b: minister, f: i, i: ministering
+ministers <> f: s3, b: minister
+ministership <> s: ministerships
+ministerships <> b: ministership, f: s
+ministration <> s: ministrations
+ministrations <> b: ministration, f: s
+ministries <> b: ministry, f: s
+ministry <> s: ministries
+minivan <> s: minivans
+minivans <> b: minivan, f: s
+mink <> s: minks
+minke <> s: minkes
+minkes <> b: minke, f: s
+Minkowski <> s: minkowski, b: minkowski, f: s
+minks <> b: mink, f: s
+minnelli <> s: minnelli, b: minnelli, f: s
+minnow <> s: minnows, '3': minnows
+minnows <> b: minnow, f: s3
+mino <> s: minos
+Minoan <> s: minoans
+MINOGUE <> s: minogues
+minor <> s: minors
+Minorite <> s: minorites
+minorities <> b: minority, f: s
+minority <> s: minorities
+minors <> b: minor, f: s
+Minos <> b: mino, f: s
+Minotaur <> s: minotaurs
+mins <> b: min, f: s
+minster <> s: minsters
+minsters <> b: minster, f: s
+minstrel <> s: minstrels
+minstrels <> b: minstrel, f: s
+mint <> s: mints, p: minted, d: minted, i: minting, '3': mints
+minted <> b: mint, f: pd, p: minted
+minter <> s: minters
+minters <> b: minter, f: s
+minting <> b: mint, f: i
+mints <> b: mint, f: s3
+minuet <> s: minuets
+minuets <> b: minuet, f: s
+minus <> s: minuses
+minuscule <> s: minuscules
+minuscules <> b: minuscule, f: s
+minuses <> b: minus, f: s
+minute <> s: minutes, '3': minutes
+minuteman <> s: minutemen
+minutemen <> b: minuteman, f: s
+minutes <> b: minute, f: s3
+minutia <> s: minutiae
+minutiae <> b: minutia, f: s
+minx <> s: minxes
+minxes <> b: minx, f: s
+mira <> s: miras
+miracle <> s: miracles
+miracles <> b: miracle, f: s
+mirage <> s: mirages, '3': mirages
+mirages <> b: mirage, f: s3
+miras <> b: mira, f: s
+mire <> s: mires, d: mired, p: mired, i: miring, '3': mires
+mires <> f: s3, b: mire
+miring <> b: mire, f: i
+mirror <> s: mirrors, d: mirrored, p: mirrored, '3': mirrors, i: mirroring
+mirrored <> b: mirror, f: dp, d: mirrored, p: mirrored
+mirroring <> b: mirrore, f: i, i: mirroring
+mirrors <> b: mirror, f: s3
+misadventure <> s: misadventures
+misadventures <> b: misadventure, f: s
+misalign <> d: misaligned, i: misaligning, p: misaligned
+misaligned <> b: misalign, f: dp
+misalignment <> s: misalignments
+misalignments <> b: misalignment, f: s
+misallocate <> d: misallocated, p: misallocated
+misallocated <> b: misallocate, f: dp
+misanthrope <> s: misanthropes
+misanthropes <> b: misanthrope, f: s
+misapplication <> s: misapplications
+misapplications <> b: misapplication, f: s
+misapplied <> b: misapply, f: dp, d: misapplied, p: misapplied
+misapplies <> b: misapply, f: '3'
+misapply <> d: misapplied, p: misapplied, i: misapplying, '3': misapplies
+misapplying <> b: misapply, f: i
+misapprehend <> i: misapprehending, p: misapprehended, '3': misapprehends, d: misapprehended
+misapprehended <> f: pd, b: misapprehend
+misapprehending <> f: i, b: misapprehend
+misapprehends <> f: '3', b: misapprehend
+misapprehension <> s: misapprehensions
+misapprehensions <> b: misapprehension, f: s
+misappropriate <> d: misappropriated, p: misappropriated, i: misappropriating, '3': misappropriates
+misappropriated <> b: misappropriate, f: dp, d: misappropriated
+misappropriates <> b: misappropriate, f: '3'
+misappropriating <> b: misappropriate, f: i
+misappropriation <> s: misappropriations
+misappropriations <> b: misappropriation, f: s
+misbegotten <> d: misbegotten, b: misbegotten, f: d
+misbehave <> i: misbehaving, p: misbehaved, d: misbehaved, s: misbehaves, '3': misbehaves
+misbehaved <> b: misbehave, f: pd
+misbehaves <> b: misbehave, f: s3
+misbehaving <> b: misbehave, f: i
+misbehaviour <> s: misbehaviours
+misbehaviours <> b: misbehaviour, f: s
+miscalculate <> d: miscalculated, p: miscalculated, i: miscalculating, '3': miscalculates, s: miscalculates
+miscalculated <> b: miscalculate, f: dp
+miscalculates <> b: miscalculate, f: 3s
+miscalculating <> b: miscalculate, f: i
+miscalculation <> s: miscalculations
+miscalculations <> b: miscalculation, f: s
+miscall <> i: miscalling, p: miscalled, '3': miscalls, d: miscalled
+miscalled <> b: miscal, f: dp
+miscalling <> f: i, b: miscall
+miscalls <> f: '3', b: miscall
+miscarriage <> s: miscarriages
+miscarriages <> b: miscarriage, f: s
+miscarried <> b: miscarry, f: pd
+miscarries <> b: miscarry, f: '3'
+miscarry <> p: miscarried, d: miscarried, i: miscarrying, '3': miscarries
+miscarrying <> b: miscarry, f: i
+miscast <> d: miscast, b: miscast, f: dp, i: miscasting, p: miscast, '3': miscasts
+miscasting <> b: miscast, f: i
+miscasts <> f: '3', b: miscast
+miscellanies <> b: miscellany, f: s
+miscellany <> s: miscellanies
+mischance <> s: mischances
+mischances <> b: mischance, f: s
+mischief <> s: mischiefs, i: mischiefing
+mischief-maker <> s: mischief-makers
+mischief-makers <> b: mischief-maker, f: s
+mischiefing <> b: mischief, f: i
+mischiefs <> b: mischief, f: s
+miscibilities <> b: miscibility, f: s
+miscibility <> s: miscibilities
+misclassification <> s: misclassifications
+misclassifications <> b: misclassification, f: s
+miscommunication <> s: miscommunications
+miscommunications <> b: miscommunication, f: s
+misconceive <> d: misconceived, p: misconceived, '3': misconceives, i: misconceiving
+misconceived <> b: misconceive, f: dp, p: misconceived, d: misconceived
+misconceives <> b: misconceive, f: '3'
+misconceiving <> f: i, b: misconceive
+misconception <> s: misconceptions
+misconceptions <> b: misconception, f: s
+misconduct <> d: misconducted, s: misconducts, i: misconducting, p: misconducted, '3': misconducts
+misconducted <> f: dp, b: misconduct
+misconducting <> f: i, b: misconduct
+misconducts <> f: s3, b: misconduct
+misconstrue <> d: misconstrued, p: misconstrued, i: misconstruing, '3': misconstrues, s: misconstrues
+misconstrued <> b: misconstrue, f: dp
+misconstrues <> b: misconstrue, f: 3s
+misconstruing <> b: misconstrue, f: i
+miscount <> d: miscounted, i: miscounting, p: miscounted, '3': miscounts
+miscounted <> f: dp, b: miscount
+miscounting <> f: i, b: miscount
+miscounts <> f: '3', b: miscount
+miscreant <> s: miscreants
+miscreants <> b: miscreant, f: s
+miscue <> s: miscues, p: miscued
+miscued <> b: miscue, f: p, p: miscued
+miscues <> b: miscue, f: s
+misdate <> d: misdated, i: misdating, p: misdated, '3': misdates
+misdated <> b: misdate, f: dp
+misdates <> f: '3', b: misdate
+misdating <> b: misdate, f: i
+misdeal <> i: misdealing, p: misdealt, '3': misdeals, d: misdealt
+misdealing <> f: i, b: misdeal
+misdeals <> f: '3', b: misdeal
+misdealt <> f: pd, b: misdeal
+misdeclaration <> s: misdeclarations
+misdeclarations <> b: misdeclaration, f: s
+misdeed <> s: misdeeds
+misdeeds <> b: misdeed, f: s
+misdemeanor <> s: misdemeanors
+misdemeanors <> b: misdemeanor, f: s
+misdemeanour <> s: misdemeanours
+misdemeanours <> b: misdemeanour, f: s
+misdescribe <> '3': misdescribes, d: misdescribed, p: misdescribed
+misdescribed <> b: misdescribe, f: dp
+misdescribes <> b: misdescribe, f: '3'
+misdescription <> s: misdescriptions
+misdescriptions <> b: misdescription, f: s
+misdiagnose <> d: misdiagnosed, p: misdiagnosed
+misdiagnosed <> b: misdiagnose, f: dp
+misdirect <> d: misdirected, p: misdirected, '3': misdirects, i: misdirecting
+misdirected <> b: misdirect, f: dp, p: misdirected
+misdirecting <> b: misdirect, f: i
+misdirection <> s: misdirections
+misdirections <> b: misdirection, f: s
+misdirects <> b: misdirect, f: '3'
+misdoubt <> '3': misdoubts
+misdoubts <> b: misdoubt, f: '3'
+miseducate <> d: miseducated, i: miseducating
+miseducated <> b: miseducate, f: d
+miseducating <> b: miseducate, f: i
+miser <> s: misers
+misericord <> s: misericords
+misericords <> b: misericord, f: s
+miseries <> b: misery, f: s
+misers <> b: miser, f: s
+misery <> s: miseries
+misfile <> d: misfiled, i: misfiling, p: misfiled
+misfiled <> b: misfile, f: dp
+misfiling <> b: misfile, f: i
+misfire <> d: misfired, s: misfires, p: misfired, i: misfiring, '3': misfires
+misfired <> b: misfire, f: dp
+misfires <> f: s3, b: misfire
+misfiring <> b: misfire, f: i
+misfit <> s: misfits, i: misfitting
+misfits <> b: misfit, f: s
+misfitting <> b: misfit, f: i
+misfortune <> s: misfortunes
+misfortunes <> b: misfortune, f: s
+misgive <> s: misgives, '3': misgives, i: misgiving, p: misgave, d: misgiven
+misgiving <> f: i, b: misgive, s: misgivings
+misgivings <> b: misgiving, f: s
+misgovern <> i: misgoverning, p: misgoverned, '3': misgoverns, d: misgoverned
+misgoverned <> f: pd, b: misgovern
+misgoverning <> f: i, b: misgovern
+misgovernment <> s: misgovernments
+misgovernments <> b: misgovernment, f: s
+misgoverns <> f: '3', b: misgovern
+misguide <> d: misguided, i: misguiding, p: misguided, '3': misguides
+misguided <> d: misguided, b: misguided, f: dp, p: misguided
+misguides <> f: '3', b: misguide
+misguiding <> b: misguide, f: i
+mishandle <> i: mishandling, d: mishandled, p: mishandled, '3': mishandles
+mishandled <> b: mishandle, f: dp
+mishandles <> b: mishandle, f: '3'
+mishandling <> b: mishandle, f: i, i: mishandling
+mishap <> s: mishaps
+mishaps <> b: mishap, f: s
+mishear <> i: mishearing
+misheard <> p: misheard, b: misheard, f: pd, d: misheard
+mishearing <> b: mishear, f: i, s: mishearings
+misidentified <> b: misidentify, f: dp
+misidentifies <> b: misidentify, f: '3'
+misidentify <> d: misidentified, '3': misidentifies, p: misidentified
+misinform <> d: misinformed, i: misinforming, p: misinformed, '3': misinforms
+misinformation <> s: misinformations
+misinformations <> b: misinformation, f: s
+misinformed <> b: misinform, f: dp, d: misinformed
+misinforming <> b: misinform, f: i
+misinforms <> f: '3', b: misinform
+misinterpret <> d: misinterpreted, p: misinterpreted, '3': misinterprets, i: misinterpreting
+misinterpretation <> s: misinterpretations
+misinterpretations <> b: misinterpretation, f: s
+misinterpreted <> b: misinterpret, f: dp
+misinterpreting <> b: misinterprete, f: i
+misinterprets <> b: misinterpret, f: '3'
+misjudge <> d: misjudged, p: misjudged, i: misjudging, '3': misjudges, s: misjudges
+misjudged <> b: misjudge, f: dp, p: misjudged
+misjudgement <> s: misjudgements
+misjudgements <> b: misjudgement, f: s
+misjudges <> b: misjudge, f: 3s
+misjudging <> b: misjudge, f: i
+misjudgment <> s: misjudgments
+misjudgments <> b: misjudgment, f: s
+miskey <> d: miskeyed
+miskeyed <> b: miskey, f: d
+miskick <> p: miskicked, s: miskicks
+miskicked <> b: miskick, f: p
+miskicks <> b: miskick, f: s
+mislaid <> b: mislay, f: dp
+mislay <> d: mislaid, p: mislaid, i: mislaying, '3': mislays
+mislaying <> b: mislay, f: i
+mislays <> b: mislay, f: '3'
+mislead <> d: misled, i: misleading, p: misled, '3': misleads
+misleading <> i: misleading, b: misleading, f: i
+misleads <> b: mislead, f: '3'
+misled <> b: mislead, f: dp, d: misled
+mismanage <> d: mismanaged, p: mismanaged, i: mismanaging, '3': mismanages
+mismanaged <> b: mismanage, f: dp, p: mismanaged
+mismanages <> f: '3', b: mismanage
+mismanaging <> b: mismanage, f: i
+mismatch <> s: mismatches, i: mismatching, d: mismatched, p: mismatched, '3': mismatches
+mismatched <> b: mismatch, f: dp, p: mismatched
+mismatches <> f: s3, b: mismatch
+mismatching <> b: mismatch, f: i, i: mismatching
+misname <> p: misnamed, d: misnamed, i: misnaming, '3': misnames
+misnamed <> b: misname, f: pd, p: misnamed
+misnames <> b: misname, f: '3'
+misnaming <> b: misname, f: i
+misnomer <> s: misnomers
+misnomers <> b: misnomer, f: s
+misogynist <> s: misogynists
+misogynists <> b: misogynist, f: s
+misperceive <> d: misperceived, i: misperceiving, p: misperceived
+misperceived <> b: misperceive, f: dp
+misperceiving <> b: misperceive, f: i
+misperception <> s: misperceptions
+misperceptions <> b: misperception, f: s
+misplace <> d: misplaced, '3': misplaces, p: misplaced, i: misplacing
+misplaced <> d: misplaced, b: misplaced, f: dp, p: misplaced
+misplaces <> b: misplace, f: '3'
+misplacing <> b: misplace, f: i
+misplay <> '3': misplays, p: misplayed, s: misplays, i: misplaying, d: misplayed
+misplayed <> f: pd, b: misplay
+misplaying <> f: i, b: misplay
+misplays <> b: misplay, f: 3s
+mispricing <> s: mispricings, i: mispricing, b: mispricing, f: i
+mispricings <> b: mispricing, f: s
+misprint <> s: misprints, p: misprinted, i: misprinting, '3': misprints, d: misprinted
+misprinted <> f: pd, b: misprint
+misprinting <> f: i, b: misprint
+misprints <> f: s3, b: misprint
+mispronounce <> d: mispronounced, i: mispronouncing, p: mispronounced, '3': mispronounces
+mispronounced <> b: mispronounce, f: dp, p: mispronounced
+mispronounces <> f: '3', b: mispronounce
+mispronouncing <> b: mispronounce, f: i
+mispronunciation <> s: mispronunciations
+mispronunciations <> b: mispronunciation, f: s
+misquote <> d: misquoted, i: misquoting, p: misquoted, s: misquotes, '3': misquotes
+misquoted <> b: misquote, f: dp
+misquotes <> b: misquote, f: s3
+misquoting <> b: misquote, f: i
+misread <> d: misread, b: misread, f: dp, p: misread, i: misreading, '3': misreads
+misreading <> b: misread, f: i, s: misreadings, i: misreading
+misreads <> b: misread, f: '3'
+misremember <> p: misremembered, d: misremembered, i: misremembering, '3': misremembers
+misremembered <> b: misremember, f: pd
+misremembering <> b: misremember, f: i
+misreport <> i: misreporting, d: misreported, p: misreported, s: misreports, '3': misreports
+misreported <> b: misreport, f: dp
+misreporting <> b: misreport, f: i, i: misreporting
+misreports <> b: misreport, f: s
+misrepresent <> d: misrepresented, i: misrepresenting, p: misrepresented, s: misrepresents, '3': misrepresents
+misrepresentation <> s: misrepresentations
+misrepresentations <> b: misrepresentation, f: s
+misrepresented <> b: misrepresent, f: dp, p: misrepresented
+misrepresenting <> b: misrepresent, f: i
+misrepresents <> f: s3, b: misrepresent
+misrule <> d: misruled, p: misruled
+misruled <> b: misrule, f: dp
+miss <> d: missed, p: missed, i: missing, '3': misses, s: misses
+missal <> s: missals
+missals <> b: missal, f: s
+missed <> b: miss, f: dp, p: missed, d: missed
+misses <> b: miss, f: 3s
+missile <> s: missiles
+missiles <> b: missile, f: s
+missing <> b: miss, f: i, i: missing
+mission <> s: missions
+missionaries <> b: missionary, f: s
+missionary <> s: missionaries
+missioner <> s: missioners
+missioners <> b: missioner, f: s
+missions <> b: mission, f: s
+missive <> s: missives
+missives <> b: missive, f: s
+misspell <> '3': misspells, i: misspelling, p: misspelt, d: misspelt
+misspelled <> b: misspel, f: dp
+misspelling <> s: misspellings, b: misspel, f: i
+misspellings <> b: misspelling, f: s
+misspelt <> f: pd, b: misspell
+misspend <> '3': misspends, i: misspending, p: misspent, d: misspent
+misspent <> f: pd, b: misspend
+misstate <> d: misstated, p: misstated, i: misstating, '3': misstates
+misstated <> b: misstate, f: dp
+misstatement <> s: misstatements
+misstatements <> b: misstatement, f: s
+misstates <> f: '3', b: misstate
+misstating <> f: i, b: misstate
+mist <> s: mists, p: misted, i: misting, d: misted, '3': mists
+mistake <> s: mistakes, d: mistaken, i: mistaking, p: mistook, '3': mistakes
+mistaken <> b: mistake, f: d, d: mistaken
+mistakes <> b: mistake, f: s3
+mistaking <> b: mistake, f: i, i: mistaking
+misted <> b: mist, f: pd
+mistier <> b: misty, f: r
+mistime <> p: mistimed, d: mistimed, i: mistiming, '3': mistimes
+mistimed <> b: mistime, f: pd, p: mistimed
+mistimes <> f: '3', b: mistime
+mistiming <> b: mistime, f: i
+misting <> b: mist, f: i
+mistletoe <> s: mistletoes
+mistletoes <> b: mistletoe, f: s
+mistook <> b: mistake, f: p
+mistranslate <> '3': mistranslates, d: mistranslated, i: mistranslating, p: mistranslated
+mistranslated <> f: dp, b: mistranslate
+mistranslates <> b: mistranslate, f: '3'
+mistranslating <> f: i, b: mistranslate
+mistranslation <> s: mistranslations
+mistranslations <> b: mistranslation, f: s
+mistreat <> d: mistreated, i: mistreating, p: mistreated, '3': mistreats
+mistreated <> b: mistreat, f: dp, p: mistreated
+mistreating <> b: mistreat, f: i
+mistreats <> b: mistreat, f: '3'
+mistress <> s: mistresses
+mistresses <> b: mistress, f: s
+mistrial <> s: mistrials
+mistrials <> b: mistrial, f: s
+mistrust <> p: mistrusted, d: mistrusted, i: mistrusting, '3': mistrusts, s: mistrusts
+mistrusted <> b: mistrust, f: pd
+mistrusting <> b: mistrust, f: i
+mistrusts <> b: mistrust, f: 3s
+mists <> f: s3, b: mist
+misty <> r: mistier
+misunderstand <> d: misunderstood, p: misunderstood, i: misunderstanding, '3': misunderstands
+misunderstanding <> s: misunderstandings, i: misunderstanding, b: misunderstanding, f: i
+misunderstands <> b: misunderstand, f: '3'
+misunderstood <> b: misunderstand, f: dp, d: misunderstood
+misuse <> d: misused, i: misusing, p: misused, '3': misuses, s: misuses
+misused <> b: misuse, f: dp, d: misused, p: misused
+misuser <> s: misusers
+misusers <> b: misuser, f: s
+misuses <> b: misuse, f: 3s
+misusing <> b: misuse, f: i
+mit <> '3': mits, i: mitting
+mitch <> p: mitched
+mitched <> b: mitch, f: p
+mite <> s: mites
+mites <> b: mite, f: s
+mither <> i: mithering
+mithering <> b: mither, f: i
+mithra <> s: mithras
+Mithras <> b: mithra, f: s
+MITI <> s: miti, b: miti, f: s
+mitigate <> d: mitigated, i: mitigating, p: mitigated, '3': mitigates
+mitigated <> b: mitigate, f: dp
+mitigates <> b: mitigate, f: '3'
+mitigating <> b: mitigate, f: i, i: mitigating
+mitogen <> s: mitogens
+mitogens <> b: mitogen, f: s
+mitre <> s: mitres, i: mitreing
+mitreing <> b: mitre, f: i
+mitres <> b: mitre, f: s
+mits <> b: mit, f: '3'
+mitt <> s: mitts
+mitten <> s: mittens, p: mittened
+mittened <> b: mitten, f: p
+mittens <> b: mitten, f: s
+mitting <> b: mit, f: i
+mitts <> b: mitt, f: s
+mix <> d: mixed, p: mixed, i: mixing, s: mixes, '3': mixes
+mix-up <> s: mix-ups
+mix-ups <> b: mix-up, f: s
+mixed <> b: mix, f: dp, d: mixed, p: mixed
+mixer <> s: mixers
+mixers <> b: mixer, f: s
+mixes <> b: mix, f: s3
+mixing <> b: mix, f: i, i: mixing, s: mixings
+mixture <> s: mixtures
+mixtures <> b: mixture, f: s
+mizzle <> i: mizzling, p: mizzled, '3': mizzles, d: mizzled
+mizzled <> f: pd, b: mizzle
+mizzles <> f: '3', b: mizzle
+mizzling <> b: mizzle, f: i
+ML <> s: mls
+mls <> b: ml, f: s
+mnemonic <> s: mnemonics
+mnemonics <> b: mnemonic, f: s
+mnr <> s: mnrs
+mnrs <> b: mnr, f: s
+mo <> s: mos
+moa <> s: moas
+Moabite <> s: moabites
+moan <> p: moaned, i: moaning, s: moans, '3': moans, d: moaned
+moaned <> b: moan, f: pd
+moaner <> s: moaners
+moaners <> b: moaner, f: s
+moaning <> b: moan, f: i, i: moaning, s: moanings
+moans <> b: moan, f: s3
+moas <> b: moa, f: s
+moat <> s: moats
+moats <> b: moat, f: s
+mob <> s: mobs, d: mobbed, p: mobbed, i: mobbing, '3': mobs
+mobbed <> b: mob, f: dp, d: mobbed, p: mobbed
+mobber <> s: mobbers
+mobbers <> b: mobber, f: s
+mobbing <> b: mob, f: i
+mobile <> s: mobiles
+mobiles <> b: mobile, f: s
+mobilisation <> s: mobilisations
+mobilisations <> b: mobilisation, f: s
+mobilise <> d: mobilised, i: mobilising, p: mobilised, '3': mobilises
+mobilised <> b: mobilise, f: dp
+mobilises <> b: mobilise, f: '3'
+mobilising <> b: mobilise, f: i, i: mobilising
+mobilities <> b: mobility, f: s
+mobility <> s: mobilities
+mobilization <> s: mobilizations
+mobilizations <> b: mobilization, f: s
+mobilize <> d: mobilized, i: mobilizing, p: mobilized, '3': mobilizes
+mobilized <> b: mobilize, f: dp
+mobilizer <> s: mobilizers
+mobilizers <> b: mobilizer, f: s
+mobilizes <> b: mobilize, f: '3'
+mobilizing <> b: mobilize, f: i, i: mobilizing
+mobs <> f: s3, b: mob
+mobster <> s: mobsters
+mobsters <> b: mobster, f: s
+moccasin <> s: moccasins
+moccasins <> b: moccasin, f: s
+mock <> p: mocked, d: mocked, i: mocking, '3': mocks, s: mocks
+mock-up <> s: mock-ups
+mock-ups <> b: mock-up, f: s
+mocked <> b: mock, f: pd
+mockeries <> b: mockery, f: s
+mockery <> s: mockeries
+mocking <> b: mock, f: i, i: mocking, s: mockings
+mocks <> b: mock, f: 3s
+mod <> s: mods, d: modded, i: modding
+modal <> s: modals
+modalities <> b: modality, f: s
+modality <> s: modalities
+modals <> b: modal, f: s
+modded <> b: mod, f: d
+modding <> b: mod, f: i
+mode <> s: modes
+model <> s: models, d: modelled, i: modelling, p: modelled, '3': models
+modeled <> b: modele, f: pd
+modeling <> b: modele, f: i
+modelled <> b: model, f: dp, d: modelled
+modeller <> s: modellers
+modellers <> b: modeller, f: s
+modelling <> b: model, f: i, i: modelling
+models <> f: s3, b: model
+modem <> s: modems
+modems <> b: modem, f: s
+moderate <> s: moderates, d: moderated, p: moderated, i: moderating, '3': moderates
+moderated <> b: moderate, f: dp
+moderates <> b: moderate, f: s3
+moderating <> b: moderate, f: i
+moderation <> s: moderations
+moderations <> b: moderation, f: s
+moderator <> s: moderators
+moderators <> b: moderator, f: s
+modern <> s: moderns
+moderne <> s: modernes
+modernes <> b: moderne, f: s
+modernisation <> s: modernisations
+modernisations <> b: modernisation, f: s
+modernise <> d: modernised, i: modernising, p: modernised, '3': modernises
+modernised <> b: modernise, f: dp, d: modernised, p: modernised
+modernises <> b: modernise, f: '3'
+modernising <> b: modernise, f: i, i: modernising, s: modernisings
+modernism <> s: modernisms
+modernisms <> b: modernism, f: s
+modernist <> s: modernists
+modernists <> b: modernist, f: s
+modernities <> b: modernity, f: s
+modernity <> s: modernities
+modernization <> s: modernizations
+modernizations <> b: modernization, f: s
+modernize <> i: modernizing, d: modernized, p: modernized, '3': modernizes
+modernized <> b: modernize, f: dp, d: modernized, p: modernized
+modernizer <> s: modernizers
+modernizers <> b: modernizer, f: s
+modernizes <> f: '3', b: modernize
+modernizing <> b: modernize, f: i, i: modernizing
+moderns <> b: modern, f: s
+modes <> b: mode, f: s
+modesties <> b: modesty, f: s
+modesty <> s: modesties
+modification <> s: modifications
+modifications <> b: modification, f: s
+modified <> b: modify, f: dp, d: modified, p: modified
+modifier <> s: modifiers
+modifiers <> b: modifier, f: s
+modifies <> b: modify, f: '3'
+modify <> d: modified, i: modifying, p: modified, '3': modifies
+mods <> b: mod, f: s
+modulate <> d: modulated, i: modulating, '3': modulates, s: modulates, p: modulated
+modulated <> b: modulate, f: dp, d: modulated, p: modulated
+modulates <> b: modulate, f: 3s
+modulating <> b: modulate, f: i, i: modulating
+modulation <> s: modulations
+modulations <> b: modulation, f: s
+modulator <> s: modulators
+modulators <> b: modulator, f: s
+module <> s: modules
+modules <> b: module, f: s
+moduli <> b: modulus, f: s
+modulus <> s: moduli
+mog <> s: mogs
+moggie <> s: moggies
+moggies <> b: moggie, f: s
+mogs <> b: mog, f: s
+mogul <> s: moguls
+moguls <> b: mogul, f: s
+mohair <> s: mohairs
+mohairs <> b: mohair, f: s
+Mohawk <> s: mohawks
+mohawks <> b: mohawk, f: s
+Mohican <> s: mohicans
+mohicans <> b: mohican, f: s
+moieties <> b: moiety, f: s
+moiety <> s: moieties
+moil <> i: moiling, p: moiled, '3': moils, d: moiled
+moiled <> f: pd, b: moil
+moiling <> s: moilings, b: moil, f: i
+moils <> f: '3', b: moil
+moire <> s: moires
+moires <> b: moire, f: s
+moist <> r: moister
+moisten <> p: moistened, i: moistening, d: moistened, '3': moistens
+moistened <> b: moisten, f: pd, p: moistened
+moistening <> b: moisten, f: i
+moistens <> b: moisten, f: '3'
+moister <> b: moist, f: r
+moisturise <> '3': moisturises, p: moisturised, i: moisturising, d: moisturised
+moisturised <> b: moisturise, f: p
+moisturiser <> s: moisturisers
+moisturisers <> b: moisturiser, f: s
+moisturises <> b: moisturise, f: '3'
+moisturising <> b: moisturise, f: i
+moisturize <> p: moisturized, d: moisturized, i: moisturizing, '3': moisturizes
+moisturized <> b: moisturize, f: pd
+moisturizer <> s: moisturizers
+moisturizers <> b: moisturizer, f: s
+moisturizes <> f: '3', b: moisturize
+moisturizing <> i: moisturizing, b: moisturizing, f: i
+mojo <> s: mojos
+mojos <> b: mojo, f: s
+moke <> s: mokes
+mokes <> b: moke, f: s
+mol <> s: mols
+mola <> s: molas
+molar <> s: molars
+molars <> b: molar, f: s
+molas <> b: mola, f: s
+mold <> p: molded, s: molds, i: molding, '3': molds, d: molded
+Moldavian <> s: moldavians
+molded <> b: mold, f: p
+Moldovan <> s: moldovans
+molds <> b: mold, f: s
+mole <> s: moles, '3': moles
+molecule <> s: molecules
+molecules <> b: molecule, f: s
+molehill <> s: molehills
+molehills <> b: molehill, f: s
+moles <> b: mole, f: s3
+moleskin <> s: moleskins
+moleskins <> b: moleskin, f: s
+molest <> d: molested, i: molesting, p: molested, '3': molests
+molestation <> s: molestations
+molestations <> b: molestation, f: s
+molested <> b: molest, f: dp, p: molested
+molester <> s: molesters
+molesters <> b: molester, f: s
+molesting <> b: molest, f: i, i: molesting
+molests <> f: '3', b: molest
+moll <> s: molls
+mollied <> b: molly, f: d
+mollies <> b: molly, f: s
+mollified <> b: mollify, f: dp
+mollifier <> s: mollifiers
+mollifiers <> b: mollifier, f: s
+mollifies <> f: '3', b: mollify
+mollify <> d: mollified, p: mollified, i: mollifying, '3': mollifies
+mollifying <> b: mollify, f: i, i: mollifying
+molls <> b: moll, f: s
+mollusc <> s: molluscs
+molluscan <> s: molluscans
+molluscans <> b: molluscan, f: s
+molluscs <> b: mollusc, f: s
+molly <> s: mollies, d: mollied
+mollycoddle <> d: mollycoddled, i: mollycoddling, p: mollycoddled, '3': mollycoddles
+mollycoddled <> b: mollycoddle, f: dp
+mollycoddles <> f: '3', b: mollycoddle
+mollycoddling <> b: mollycoddle, f: i, i: mollycoddling
+mols <> b: mol, f: s
+molt <> i: molting, p: molted, '3': molts, d: molted
+molted <> f: pd, b: molt
+molten <> f: d, b: melt
+molting <> f: i, b: molt
+molts <> f: '3', b: molt
+Moluccan <> s: moluccans
+mom <> s: moms
+moment <> s: moments
+moments <> b: moment, f: s
+mommies <> b: mommy, f: s
+mommy <> s: mommies
+moms <> b: mom, f: s
+mon <> s: mons
+monad <> s: monads
+monads <> b: monad, f: s
+monarch <> s: monarchs
+monarchies <> b: monarchy, f: s
+monarchist <> s: monarchists
+monarchists <> b: monarchist, f: s
+monarchs <> b: monarch, f: s
+monarchy <> s: monarchies
+monasteries <> b: monastery, f: s
+monastery <> s: monasteries
+monastic <> s: monastics
+monastics <> b: monastic, f: s
+Monday <> s: mondays
+Mondays <> b: monday, f: s
+monde <> s: mondes
+mondes <> b: monde, f: s
+monetarist <> s: monetarists
+monetarists <> b: monetarist, f: s
+monetize <> i: monetizing, p: monetized, '3': monetizes, d: monetized
+monetized <> f: pd, b: monetize
+monetizes <> f: '3', b: monetize
+monetizing <> f: i, b: monetize
+money <> s: moneys
+money-grubber <> s: money-grubbers
+money-grubbers <> b: money-grubber, f: s
+money-spinner <> s: money-spinners
+money-spinners <> b: money-spinner, f: s
+moneybag <> s: moneybags
+moneybags <> b: moneybag, f: s
+moneychanger <> s: moneychangers, '3': moneychangers
+moneychangers <> b: moneychanger, f: s3
+moneyed <> p: moneyed, b: moneyed, f: p
+moneyer <> s: moneyers
+moneyers <> b: moneyer, f: s
+moneylender <> s: moneylenders
+moneylenders <> b: moneylender, f: s
+moneylending <> i: moneylending, b: moneylending, f: i
+moneymaker <> s: moneymakers
+moneymakers <> b: moneymaker, f: s
+moneyman <> s: moneymen
+moneymen <> b: moneyman, f: s
+moneys <> b: money, f: s
+mong <> i: monging
+monger <> s: mongers, i: mongering
+mongering <> b: monger, f: i, i: mongering
+mongers <> b: monger, f: s
+monging <> b: mong, f: i
+mongol <> s: mongols
+Mongolian <> s: mongolians
+mongolians <> b: mongolian, f: s
+Mongoloid <> s: mongoloids
+mongols <> b: mongol, f: s
+mongoose <> s: mongooses
+mongooses <> b: mongoose, f: s
+mongrel <> s: mongrels
+mongrelize <> i: mongrelizing, p: mongrelized, '3': mongrelizes, d: mongrelized
+mongrelized <> f: pd, b: mongrelize
+mongrelizes <> f: '3', b: mongrelize
+mongrelizing <> f: i, b: mongrelize
+mongrels <> b: mongrel, f: s
+monied <> p: monied, b: monied, f: p
+monies <> b: mony, f: s
+moniker <> p: monikered
+monikered <> b: moniker, f: p
+monitor <> d: monitored, i: monitoring, s: monitors, '3': monitors, p: monitored
+monitored <> b: monitor, f: dp, d: monitored, p: monitored
+monitoring <> b: monitor, f: i, i: monitoring, s: monitorings
+monitors <> b: monitor, f: s3
+monk <> s: monks
+monkey <> s: monkeys, i: monkeying, p: monkeyed, '3': monkeys, d: monkeyed
+monkeying <> b: monkey, f: i
+monkeys <> b: monkey, f: s
+monks <> b: monk, f: s
+monoamine <> s: monoamines
+monoamines <> b: monoamine, f: s
+Monoceros <> b: monocero, f: s
+monochromator <> s: monochromators
+monochromators <> b: monochromator, f: s
+monochrome <> s: monochromes, p: monochromed
+monochromed <> b: monochrome, f: p
+monochromes <> b: monochrome, f: s
+monocle <> s: monocles
+monocles <> b: monocle, f: s
+monoclonal <> s: monoclonals
+monoclonals <> b: monoclonal, f: s
+monocot <> s: monocots
+monocots <> b: monocot, f: s
+monocotyledon <> s: monocotyledons
+monocotyledons <> b: monocotyledon, f: s
+monoculture <> s: monocultures
+monocultures <> b: monoculture, f: s
+monocyte <> s: monocytes
+monocytes <> b: monocyte, f: s
+monodies <> b: monody, f: s
+monodist <> s: monodists
+monodists <> b: monodist, f: s
+monody <> s: monodies
+monogram <> s: monograms, d: monogrammed
+monogrammed <> b: monogram, f: d, d: monogrammed
+monograms <> b: monogram, f: s
+monograph <> s: monographs
+monographic <> s: monographics
+monographics <> b: monographic, f: s
+monographs <> b: monograph, f: s
+monolayer <> s: monolayers
+monolayers <> b: monolayer, f: s
+monolingual <> s: monolinguals
+monolinguals <> b: monolingual, f: s
+monolith <> s: monoliths
+monoliths <> b: monolith, f: s
+monologue <> s: monologues, i: monologuing
+monologues <> b: monologue, f: s
+monologuing <> b: monologue, f: i
+monomer <> s: monomers
+monomers <> b: monomer, f: s
+Monophysite <> s: monophysites
+monoplane <> s: monoplanes
+monoplanes <> b: monoplane, f: s
+monopod <> s: monopods
+monopods <> b: monopod, f: s
+monopole <> s: monopoles
+monopoles <> b: monopole, f: s
+monopolies <> b: monopoly, f: s
+monopolise <> d: monopolised, i: monopolising, p: monopolised, '3': monopolises
+monopolised <> b: monopolise, f: dp, d: monopolised
+monopolises <> b: monopolise, f: '3'
+monopolising <> b: monopolise, f: i
+monopolist <> s: monopolists
+monopolists <> b: monopolist, f: s
+monopolize <> d: monopolized, p: monopolized, '3': monopolizes, i: monopolizing
+monopolized <> b: monopolize, f: dp
+monopolizes <> b: monopolize, f: '3'
+monopolizing <> b: monopolize, f: i
+monopoly <> s: monopolies
+monorail <> s: monorails
+monorails <> b: monorail, f: s
+monosaccharide <> s: monosaccharides
+monosaccharides <> b: monosaccharide, f: s
+monoski <> s: monoski, b: monoski, f: s
+monosyllable <> s: monosyllables, '3': monosyllables
+monosyllables <> b: monosyllable, f: s3
+monotheist <> s: monotheists
+monotheists <> b: monotheist, f: s
+monotone <> s: monotones
+monotones <> b: monotone, f: s
+monotonies <> b: monotony, f: s
+monotony <> s: monotonies
+monotreme <> s: monotremes
+monotremes <> b: monotreme, f: s
+monotype <> s: monotypes
+monotypes <> b: monotype, f: s
+monounsaturate <> d: monounsaturated, p: monounsaturated, s: monounsaturates
+monounsaturated <> b: monounsaturate, f: dp
+monoxide <> p: monoxided
+monoxided <> b: monoxide, f: p
+mons <> b: mon, f: s
+monsignor <> s: monsignors
+monsignors <> b: monsignor, f: s
+monsoon <> s: monsoons
+monsoons <> b: monsoon, f: s
+monster <> s: monsters
+monsters <> b: monster, f: s
+monstrosities <> b: monstrosity, f: s
+monstrosity <> s: monstrosities
+montage <> s: montages
+montages <> b: montage, f: s
+Montagnard <> s: montagnards
+Montana <> s: montanas
+montane <> r: montaner
+montaner <> b: montane, f: r
+Montenegrin <> s: montenegrins
+Montgolfier <> b: montgolfy, f: r
+month <> s: months
+monthlies <> b: monthly, f: s
+monthly <> s: monthlies
+months <> b: month, f: s
+Montonero <> s: montoneros
+monument <> s: monuments
+monumentalize <> i: monumentalizing, p: monumentalized, '3': monumentalizes, d: monumentalized
+monuments <> b: monument, f: s
+mony <> s: monies
+moo <> i: mooing, s: moos, p: mooed, '3': moos, d: mooed
+mooch <> i: mooching, p: mooched, s: mooches, '3': mooches, d: mooched
+mooched <> f: pd, b: mooch
+moocher <> s: moochers
+moochers <> b: moocher, f: s
+mooches <> f: s3, b: mooch
+mooching <> b: mooch, f: i
+mood <> s: moods
+moodier <> b: moody, f: r
+moodiest <> b: moody, f: t
+moods <> b: mood, f: s
+moody <> r: moodier, s: moodys, t: moodiest
+moodys <> b: moody, f: s
+mooed <> b: mooe, f: p
+mooing <> b: moo, f: i, i: mooing
+mook <> s: mooks
+mooks <> b: mook, f: s
+moon <> s: moons, i: mooning, p: mooned, '3': moons, d: mooned
+moonbeam <> s: moonbeams
+moonbeams <> b: moonbeam, f: s
+mooned <> f: pd, b: moon
+moonflower <> s: moonflowers
+moonflowers <> b: moonflower, f: s
+moonies <> b: moony, f: s
+mooning <> b: moon, f: i
+moonlet <> s: moonlets
+moonlets <> b: moonlet, f: s
+moonlight <> i: moonlighting, d: moonlighted, s: moonlights, p: moonlighted, '3': moonlights
+moonlighted <> f: dp, b: moonlight
+moonlighter <> s: moonlighters
+moonlighters <> b: moonlighter, f: s
+moonlighting <> b: moonlight, f: i
+moonlights <> f: s3, b: moonlight
+moonraker <> s: moonrakers
+moonrakers <> b: moonraker, f: s
+moons <> f: s3, b: moon
+moonshot <> s: moonshots
+moonshots <> b: moonshot, f: s
+moonstone <> s: moonstones
+moonstones <> b: moonstone, f: s
+moony <> s: moonies
+moor <> s: moors, d: moored, i: mooring, p: moored, '3': moors
+moored <> b: moor, f: dp
+Moorfield <> s: moorfields
+moorhen <> s: moorhens
+moorhens <> b: moorhen, f: s
+mooring <> b: moor, f: i, s: moorings, i: mooring
+moorland <> s: moorlands
+moorlands <> b: moorland, f: s
+moors <> f: s3, b: moor
+moos <> f: s3, b: moo
+moose <> s: mooses
+mooses <> b: moose, f: s
+moot <> d: mooted, s: moots, '3': moots, i: mooting, p: mooted, r: mooter
+mooted <> b: moot, f: dp
+mooter <> b: moot, f: r
+mooting <> b: moot, f: i
+moots <> b: moot, f: s3
+mop <> i: mopping, p: mopped, s: mops, d: mopped, '3': mops
+mope <> i: moping, p: moped, '3': mopes, d: moped, s: mopes
+moped <> s: mopeds, p: moped, b: moped, f: p, '3': mopeds
+mopes <> b: mope, f: 3s
+moping <> b: mope, f: i
+mopped <> b: mop, f: pd
+moppet <> s: moppets
+moppets <> b: moppet, f: s
+mopping <> b: mop, f: i, i: mopping
+mops <> b: mop, f: s3
+moquette <> s: moquettes
+moquettes <> b: moquette, f: s
+mor <> s: mors
+moraine <> s: moraines
+moraines <> b: moraine, f: s
+moral <> s: morals
+morale <> s: morales
+morales <> b: morale, f: s
+moralise <> i: moralising, '3': moralises, p: moralised
+moralised <> b: moralise, f: p
+moralises <> b: moralise, f: '3'
+moralising <> b: moralise, f: i, i: moralising, s: moralisings
+moralism <> s: moralisms
+moralisms <> b: moralism, f: s
+moralist <> s: moralists
+moralists <> b: moralist, f: s
+moralities <> b: morality, f: s
+morality <> s: moralities
+moralization <> s: moralizations
+moralizations <> b: moralization, f: s
+moralize <> i: moralizing, d: moralized, p: moralized, '3': moralizes
+moralized <> b: moralize, f: dp
+moralizes <> f: '3', b: moralize
+moralizing <> b: moralize, f: i, i: moralizing
+morals <> b: moral, f: s
+Moran <> s: morans
+morass <> s: morasses
+morasses <> b: morass, f: s
+moratorium <> s: moratoriums
+moratoriums <> b: moratorium, f: s
+Moravian <> s: moravians
+moray <> s: morays
+morays <> b: moray, f: s
+morbid <> s: morbids
+morbids <> b: morbid, f: s
+mordant <> s: mordants
+mordants <> b: mordant, f: s
+Mordred <> p: mordred, b: mordred, f: p
+moreen <> s: moreens
+moreens <> b: moreen, f: s
+morel <> s: morels
+morels <> b: morel, f: s
+morgue <> s: morgues
+morgues <> b: morgue, f: s
+MORI <> s: mori, b: mori, f: s
+Moriarty <> s: moriartys
+Morisco <> s: moriscos
+Mormon <> s: mormons
+mormons <> b: mormon, f: s
+morning <> s: mornings
+mornings <> b: morning, f: s
+Moroccan <> s: moroccans
+moroccans <> b: moroccan, f: s
+Morocco <> s: moroccos
+moron <> s: morons
+Moroni <> s: moroni, b: moroni, f: s
+morons <> b: moron, f: s
+morph <> s: morphs, i: morphing, p: morphed, '3': morphs, d: morphed
+morpheme <> s: morphemes
+morphemes <> b: morpheme, f: s
+morphogen <> s: morphogens
+morphogens <> b: morphogen, f: s
+morphologies <> b: morphology, f: s
+morphologist <> s: morphologists
+morphologists <> b: morphologist, f: s
+morphology <> s: morphologies
+morphs <> b: morph, f: s
+morrow <> s: morrows
+morrows <> b: morrow, f: s
+mors <> b: mor, f: s
+morsel <> s: morsels
+morsels <> b: morsel, f: s
+mort <> s: morts, '3': morts
+mortal <> s: mortals
+mortalities <> b: mortality, f: s
+mortality <> s: mortalities
+mortals <> b: mortal, f: s
+mortar <> s: mortars, i: mortaring, p: mortared, '3': mortars, d: mortared
+mortared <> b: mortare, f: dp, p: mortared
+mortaring <> f: i, b: mortar
+mortars <> f: s3, b: mortar
+mortgage <> s: mortgages, d: mortgaged, i: mortgaging, p: mortgaged, '3': mortgages
+mortgaged <> b: mortgage, f: dp, d: mortgaged
+mortgagee <> s: mortgagees
+mortgagees <> b: mortgagee, f: s
+mortgages <> f: s3, b: mortgage
+mortgaging <> b: mortgage, f: i
+mortgagor <> s: mortgagors
+mortgagors <> b: mortgagor, f: s
+mortice <> p: morticed, s: mortices, i: morticing, '3': mortices, d: morticed
+morticed <> b: mortice, f: p
+mortices <> b: mortice, f: s
+mortician <> s: morticians
+morticians <> b: mortician, f: s
+mortification <> s: mortifications
+mortifications <> b: mortification, f: s
+mortified <> b: mortify, f: dp, p: mortified
+mortify <> d: mortified, p: mortified, '3': mortifies, i: mortifying
+mortifying <> b: mortify, f: i, i: mortifying
+mortimer <> s: mortimers
+mortimers <> b: mortimer, f: s
+mortise <> s: mortises, p: mortised, d: mortised, i: mortising, '3': mortises
+mortised <> b: mortise, f: pd
+mortises <> f: s3, b: mortise
+mortising <> b: mortise, f: i, i: mortising
+morts <> b: mort, f: s3
+mortuaries <> b: mortuary, f: s
+mortuary <> s: mortuaries
+mosaic <> s: mosaics
+mosaicist <> s: mosaicists
+mosaicists <> b: mosaicist, f: s
+mosaics <> b: mosaic, f: s
+mosasaur <> s: mosasaurs
+mosasaurs <> b: mosasaur, f: s
+Moscovici <> s: moscovici, b: moscovici, f: s
+mosey <> p: moseyed, s: moseys, i: moseying, '3': moseys, d: moseyed
+moseyed <> f: pd, b: mosey
+moseying <> b: mosey, f: i
+moseys <> f: s3, b: mosey
+MOSFET <> s: mosfets
+mosh <> i: moshing, p: moshed, '3': moshes, d: moshed, s: moshes
+moshing <> b: mosh, f: i
+Moslem <> s: moslems
+moslems <> b: moslem, f: s
+Mosleyite <> s: mosleyites
+mosque <> s: mosques
+mosques <> b: mosque, f: s
+mosquito <> s: mosquitos
+mosquitos <> b: mosquito, f: s
+moss <> s: mosses, '3': mosses
+mosses <> b: moss, f: s3
+mossies <> b: mossy, f: s
+mosstrooper <> s: mosstroopers
+mosstroopers <> b: mosstrooper, f: s
+mossy <> s: mossies
+MOT <> s: mots
+mote <> s: motes, d: moted, r: moter
+moted <> b: mote, f: d
+motel <> s: motels
+motels <> b: motel, f: s
+moter <> b: mote, f: r
+motes <> b: mote, f: s
+motet <> s: motets
+motets <> b: motet, f: s
+moth <> s: moths
+moth-proofed <> f: d, b: mothproof
+moth-proofing <> f: i, b: mothproof
+moth-proofs <> f: '3', b: mothproof
+mothball <> s: mothballs, i: mothballing, p: mothballed, '3': mothballs, d: mothballed
+mothballed <> b: mothbal, f: dp
+mothballing <> b: mothbal, f: i
+mothballs <> f: s3, b: mothball
+mother <> s: mothers, i: mothering, p: mothered, '3': mothers, d: mothered
+mother-in-law <> s: mother-in-laws
+mother-in-laws <> b: mother-in-law, f: s
+mother-of-pearl <> s: mother-of-pearls
+mother-of-pearls <> b: mother-of-pearl, f: s
+mother-to-be <> s: mothers-to-be
+motherboard <> s: motherboards
+motherboards <> b: motherboard, f: s
+mothered <> f: pd, b: mother
+motherfucker <> s: motherfuckers
+motherfuckers <> b: motherfucker, f: s
+motherhood <> s: motherhoods
+motherhoods <> b: motherhood, f: s
+mothering <> i: mothering, b: mothering, f: i
+motherland <> s: motherlands
+motherlands <> b: motherland, f: s
+mothers <> f: s3, b: mother
+mothers-to-be <> b: mother-to-be, f: s
+mothproof <> p: mothproofed, i: moth-proofing, '3': moth-proofs, d: moth-proofed
+mothproofed <> b: mothproof, f: p
+moths <> b: moth, f: s
+motif <> s: motifs
+motifs <> b: motif, f: s
+motilities <> b: motility, f: s
+motility <> s: motilities
+motion <> s: motions, p: motioned, i: motioning, '3': motions, d: motioned
+motioned <> f: pd, b: motion
+motioning <> b: motion, f: i
+motions <> f: s3, b: motion
+motivate <> d: motivated, '3': motivates, i: motivating, p: motivated
+motivated <> b: motivate, f: dp, d: motivated, p: motivated
+motivates <> b: motivate, f: '3'
+motivating <> b: motivate, f: i, i: motivating
+motivation <> s: motivations
+motivations <> b: motivation, f: s
+motivator <> s: motivators
+motivators <> b: motivator, f: s
+motive <> s: motives
+motives <> b: motive, f: s
+motley <> d: motleyed, r: motlier, t: motliest, s: motleys
+motleyed <> b: motley, f: d
+moto <> s: motos
+motor <> s: motors, p: motored, '3': motors, i: motoring, d: motored
+motorbike <> s: motorbikes, i: motorbiking
+motorbikes <> b: motorbike, f: s
+motorbiking <> b: motorbike, f: i
+motorboat <> s: motorboats
+motorboats <> b: motorboat, f: s
+motorcade <> s: motorcades, p: motorcaded
+motorcaded <> b: motorcade, f: p
+motorcades <> b: motorcade, f: s
+motorcar <> s: motorcars
+motorcars <> b: motorcar, f: s
+motorcycle <> s: motorcycles, '3': motorcycles, i: motorcycling, p: motorcycled, d: motorcycled
+motorcycles <> b: motorcycle, f: s3
+motorcycling <> i: motorcycling, b: motorcycling, f: i
+motorcyclist <> s: motorcyclists
+motorcyclists <> b: motorcyclist, f: s
+motored <> f: pd, b: motor
+motorhome <> s: motorhomes
+motorhomes <> b: motorhome, f: s
+motoring <> i: motoring, b: motoring, f: i
+motorist <> s: motorists
+motorists <> b: motorist, f: s
+motorize <> d: motorized, p: motorized, i: motorizing, '3': motorizes
+motorized <> p: motorized, b: motorized, f: p
+motorizes <> f: '3', b: motorize
+motorizing <> f: i, b: motorize
+motorman <> s: motormen
+motormen <> b: motorman, f: s
+motors <> b: motor, f: s3
+motorsport <> s: motorsports
+motorsports <> b: motorsport, f: s
+motorway <> s: motorways
+motorways <> b: motorway, f: s
+motos <> b: moto, f: s
+Mott <> '3': motts
+motte <> s: mottes
+mottes <> b: motte, f: s
+mottle <> i: mottling, s: mottles, p: mottled, '3': mottles, d: mottled
+mottled <> f: pd, b: mottle
+mottling <> b: mottle, f: i, s: mottlings
+mottlings <> b: mottling, f: s
+motto <> s: mottos
+mottos <> b: motto, f: s
+mould <> s: moulds, d: moulded, i: moulding, p: moulded, '3': moulds
+mould-board <> s: mould-boards
+mould-boards <> b: mould-board, f: s
+moulded <> b: mould, f: dp, d: moulded, p: moulded
+moulder <> i: mouldering, s: moulders, d: mouldered, p: mouldered, '3': moulders
+mouldered <> b: moulder, f: dp
+mouldering <> b: moulder, f: i, i: mouldering
+moulders <> f: s3, b: moulder
+mouldiest <> b: mouldy, f: t
+moulding <> b: mould, f: i, s: mouldings, i: moulding
+moulds <> b: mould, f: s3
+mouldy <> t: mouldiest
+moule <> s: moules, '3': moules
+moules <> b: moule, f: s3
+Mouli <> s: mouli, b: mouli, f: s
+moult <> i: moulting, s: moults, '3': moults, d: moulted, p: moulted
+moulted <> f: dp, b: moult
+moulting <> b: moult, f: i, i: moulting
+moults <> b: moult, f: s3
+mound <> s: mounds, i: mounding, p: mounded, d: mounded, '3': mounds
+mounded <> b: mound, f: pd
+mounding <> b: mound, f: i, i: mounding
+mounds <> f: s3, b: mound
+mount <> d: mounted, i: mounting, p: mounted, s: mounts, '3': mounts
+mountain <> s: mountains
+mountaineer <> s: mountaineers, '3': mountaineers, i: mountaineering, p: mountaineered, d: mountaineered
+mountaineered <> f: pd, b: mountaineer
+mountaineering <> f: i, b: mountaineer
+mountaineers <> b: mountaineer, f: s3
+mountains <> b: mountain, f: s
+mountainside <> s: mountainsides
+mountainsides <> b: mountainside, f: s
+mountaintop <> s: mountaintops
+mountaintops <> b: mountaintop, f: s
+mountant <> s: mountants
+mountants <> b: mountant, f: s
+mountebank <> s: mountebanks
+mountebanks <> b: mountebank, f: s
+mounted <> b: mount, f: dp, p: mounted, d: mounted
+mounting <> b: mount, f: i, s: mountings, i: mounting
+mounts <> b: mount, f: s3
+mourn <> i: mourning, p: mourned, d: mourned, '3': mourns
+Mourne <> s: mournes
+mourned <> b: mourn, f: pd
+mourner <> s: mourners
+mourners <> b: mourner, f: s
+mourning <> b: mourn, f: i, i: mourning, s: mournings
+mourns <> b: mourn, f: '3'
+mouse <> s: mice, i: mousing, p: moused, '3': mouses, d: moused
+moused <> f: pd, b: mouse
+mouses <> f: s3, b: mouse
+mousetrap <> s: mousetraps
+mousetraps <> b: mousetrap, f: s
+mousing <> f: i, b: mouse
+moussaka <> s: moussakas
+moussakas <> b: moussaka, f: s
+mousse <> i: moussing, p: moussed, '3': mousses, d: moussed, s: mousses
+moussed <> b: mouss, f: d
+mousses <> b: mouss, f: s3
+moustache <> s: moustaches
+moustached <> b: moustach, f: d
+moustaches <> b: moustache, f: s
+moustachioed <> p: moustachioed, b: moustachioed, f: p
+mouth <> s: mouths, p: mouthed, i: mouthing, d: mouthed, '3': mouths
+mouthbrooder <> s: mouthbrooders
+mouthbrooders <> b: mouthbrooder, f: s
+mouthed <> b: mouth, f: pd
+mouthful <> s: mouthfuls
+mouthfuls <> b: mouthful, f: s
+mouthing <> b: mouth, f: i, s: mouthings, i: mouthing
+mouthpart <> s: mouthparts, '3': mouthparts
+mouthparts <> b: mouthpart, f: s3
+mouthpiece <> s: mouthpieces
+mouthpieces <> b: mouthpiece, f: s
+mouths <> f: s3, b: mouth
+mouthwash <> s: mouthwashes
+mouthwashes <> b: mouthwash, f: s
+mouthwatering <> i: mouthwatering, b: mouthwatering, f: i
+movable <> s: movables, '3': movables
+movables <> b: movable, f: s3
+move <> i: moving, p: moved, d: moved, '3': moves, s: moves
+moveable <> s: moveables
+moveables <> b: moveable, f: s
+moved <> b: move, f: pd, d: moved, p: moved
+movement <> s: movements
+movements <> b: movement, f: s
+mover <> s: movers
+movers <> b: mover, f: s
+moves <> b: move, f: 3s
+movie <> s: movies
+moviegoer <> s: moviegoers
+moviegoers <> b: moviegoer, f: s
+moviemaker <> s: moviemakers
+moviemakers <> b: moviemaker, f: s
+movies <> b: movie, f: s
+moving <> b: move, f: i, i: moving
+mow <> i: mowing, p: mowed, d: mowed, '3': mows
+mowed <> b: mow, f: pd
+mower <> s: mowers
+mowers <> b: mower, f: s
+mowing <> b: mow, f: i, i: mowing, s: mowings
+mowings <> b: mowing, f: s
+mown <> f: d, b: mow
+mows <> b: mow, f: '3'
+Moy <> s: moys
+Mozambican <> s: mozambicans
+mozo <> s: mozos
+mozos <> b: mozo, f: s
+MP <> s: mps
+MPA <> s: mpas
+mphil <> s: mphils
+mphils <> b: mphil, f: s
+MPS <> b: mp, f: s, s: mps
+mri <> s: mri, b: mri, f: s
+mRNA <> s: mrnas
+mrnas <> b: mrna, f: s
+MSc <> s: mscs
+msec <> s: msecs
+msecs <> b: msec, f: s
+mu <> s: mus
+muchacho <> s: muchachos
+muchachos <> b: muchacho, f: s
+mucin <> s: mucins
+mucins <> b: mucin, f: s
+muck <> i: mucking, d: mucked, p: mucked, s: mucks, '3': mucks
+mucked <> b: muck, f: dp
+mucker <> s: muckers
+muckers <> b: mucker, f: s
+muckier <> b: mucky, f: r
+mucking <> b: muck, f: i, i: mucking
+muckrake <> i: muckraking, p: muckraked, '3': muckrakes, d: muckraked
+muckraked <> f: pd, b: muckrake
+muckraker <> s: muckrakers
+muckrakers <> b: muckraker, f: s
+muckrakes <> f: '3', b: muckrake
+muckraking <> f: i, b: muckrake
+mucks <> f: s3, b: muck
+mucky <> r: muckier
+mucopolysaccharide <> s: mucopolysaccharides
+mucopolysaccharides <> b: mucopolysaccharide, f: s
+mucosa <> s: mucosae
+mucosae <> b: mucosa, f: s
+mud <> s: muds, i: mudding, p: mudded, '3': muds, d: mudded
+mudbank <> s: mudbanks
+mudbanks <> b: mudbank, f: s
+mudded <> f: pd, b: mud
+muddied <> b: muddy, f: dp, d: muddied, p: muddied
+muddier <> b: muddy, f: r
+muddies <> f: s3, b: muddy
+muddiest <> b: muddy, f: t
+mudding <> f: i, b: mud
+muddle <> d: muddled, i: muddling, p: muddled, s: muddles, '3': muddles
+muddled <> b: muddle, f: dp, d: muddled, p: muddled
+muddler <> s: muddlers
+muddlers <> b: muddler, f: s
+muddles <> b: muddle, f: s3
+muddling <> b: muddle, f: i
+muddy <> d: muddied, s: muddies, i: muddying, p: muddied, r: muddier, t: muddiest, '3': muddies
+mudflat <> s: mudflats
+mudflats <> b: mudflat, f: s
+mudflow <> s: mudflows
+mudflows <> b: mudflow, f: s
+mudguard <> s: mudguards
+mudguards <> b: mudguard, f: s
+mudhole <> s: mudholes
+mudholes <> b: mudhole, f: s
+mudlark <> '3': mudlarks, s: mudlarks
+mudlarks <> b: mudlark, f: 3s
+muds <> f: s3, b: mud
+mudskipper <> s: mudskippers
+mudskippers <> b: mudskipper, f: s
+mudslide <> s: mudslides
+mudslides <> b: mudslide, f: s
+mudstone <> s: mudstones
+mudstones <> b: mudstone, f: s
+muesli <> s: mueslis
+mueslis <> b: muesli, f: s
+muezzin <> s: muezzins
+muezzins <> b: muezzin, f: s
+muff <> p: muffed, s: muffs, i: muffing, '3': muffs, d: muffed
+muffed <> f: pd, b: muff
+muffin <> s: muffins
+muffing <> b: muff, f: i
+muffins <> b: muffin, f: s
+muffle <> d: muffled, p: muffled, i: muffling, '3': muffles
+muffled <> d: muffled, b: muffled, f: dp, p: muffled
+muffler <> s: mufflers
+mufflers <> b: muffler, f: s
+muffles <> b: muffle, f: '3'
+muffling <> b: muffle, f: i
+muffs <> f: s3, b: muff
+mufti <> s: muftis
+muftis <> b: mufti, f: s
+mug <> s: mugs, d: mugged, i: mugging, p: mugged, '3': mugs
+mugged <> b: mug, f: dp, d: mugged, p: mugged
+mugger <> s: muggers
+muggers <> b: mugger, f: s
+muggies <> b: muggy, f: s
+muggin <> s: muggins
+mugging <> b: mug, f: i, s: muggings, i: mugging
+muggins <> b: muggin, f: s
+Muggletonian <> s: muggletonians
+muggy <> s: muggies
+mugs <> b: mug, f: s3
+mugshot <> s: mugshots
+mugshots <> b: mugshot, f: s
+mugwump <> s: mugwumps
+mugwumps <> b: mugwump, f: s
+Muir <> s: muirs
+mukhtar <> s: mukhtars
+mukhtars <> b: mukhtar, f: s
+mulberries <> b: mulberry, f: s
+mulberry <> s: mulberries
+mulch <> s: mulches, i: mulching, p: mulched, d: mulched, '3': mulches
+mulched <> b: mulch, f: pd
+mulches <> b: mulch, f: s3
+mulching <> b: mulch, f: i, i: mulching
+mulct <> p: mulcted, d: mulcted, s: mulcts, i: mulcting, '3': mulcts
+mulcted <> b: mulct, f: pd
+mulcting <> f: i, b: mulct
+mulcts <> f: s3, b: mulct
+Muldoon <> s: muldoons
+mule <> s: mules
+mules <> b: mule, f: s
+muleteer <> s: muleteers
+muleteers <> b: muleteer, f: s
+mull <> i: mulling, p: mulled, '3': mulls, d: mulled, s: mulls
+mullah <> s: mullahs
+mullahs <> b: mullah, f: s
+mulled <> b: mull, f: pd, p: mulled
+mullein <> s: mulleins
+mulleins <> b: mullein, f: s
+mullet <> s: mullets
+mullets <> b: mullet, f: s
+mulligan <> s: mulligans
+mulligans <> b: mulligan, f: s
+mulling <> b: mull, f: i, s: mullings, i: mulling
+mullion <> s: mullions, p: mullioned
+mullioned <> b: mullion, f: p, p: mullioned
+mullions <> b: mullion, f: s
+mulls <> b: mull, f: 3s
+multi-storey <> s: multi-storeys
+multi-storeys <> b: multi-storey, f: s
+multi-track <> s: multi-tracks
+multi-tracks <> b: multi-track, f: s
+multi-user <> s: multi-users
+multi-users <> b: multi-user, f: s
+multiculturalism <> s: multiculturalisms
+multiculturalisms <> b: multiculturalism, f: s
+multiculturalist <> s: multiculturalists
+multiculturalists <> b: multiculturalist, f: s
+multifaceted <> p: multifaceted, b: multifaceted, f: p
+multifilament <> s: multifilaments
+multifilaments <> b: multifilament, f: s
+multihull <> s: multihulls
+multihulls <> b: multihull, f: s
+multilateral <> s: multilaterals
+multilaterals <> b: multilateral, f: s
+multilayer <> s: multilayers
+multilayered <> p: multilayered, b: multilayered, f: p
+multilayers <> b: multilayer, f: s
+multilevel <> d: multilevelled
+multilevelled <> b: multilevel, f: d
+multimete <> r: multimeter
+multimeter <> s: multimeters, b: multimete, f: r
+multimeters <> b: multimeter, f: s
+multinational <> s: multinationals
+multinationals <> b: multinational, f: s
+multipack <> s: multipacks
+multipacks <> b: multipack, f: s
+multipara <> s: multiparas
+multiparas <> b: multipara, f: s
+multiple <> s: multiples
+multiples <> b: multiple, f: s
+multiplex <> i: multiplexing, d: multiplexed
+multiplexed <> b: multiplex, f: d, p: multiplexed
+multiplexer <> s: multiplexers
+multiplexers <> b: multiplexer, f: s
+multiplexing <> b: multiplex, f: i, i: multiplexing
+multiplication <> s: multiplications
+multiplications <> b: multiplication, f: s
+multiplicities <> b: multiplicity, f: s
+multiplicity <> s: multiplicities
+multiplied <> b: multiply, f: dp, p: multiplied, d: multiplied
+multiplier <> s: multipliers
+multipliers <> b: multiplier, f: s
+multiplies <> b: multiply, f: '3'
+multiply <> d: multiplied, i: multiplying, p: multiplied, '3': multiplies
+multiplying <> b: multiply, f: i, i: multiplying
+multipoint <> d: multipointed, p: multipointed
+multipointed <> b: multipoint, f: dp
+multipole <> s: multipoles
+multipoles <> b: multipole, f: s
+multiprocess <> i: multiprocessing
+multiprocessing <> i: multiprocessing, b: multiprocessing, f: i
+multiprocessor <> s: multiprocessors
+multiprocessors <> b: multiprocessor, f: s
+multitask <> i: multitasking
+multitasking <> b: multitask, f: i, i: multitasking
+multithread <> i: multithreading, d: multithreaded, p: multithreaded
+multithreaded <> b: multithread, f: dp, p: multithreaded
+multithreading <> b: multithread, f: i
+multitude <> s: multitudes
+multitudes <> b: multitude, f: s
+multivibrator <> s: multivibrators
+multivibrators <> b: multivibrator, f: s
+multivitamin <> s: multivitamins
+multivitamins <> b: multivitamin, f: s
+mum <> s: mums
+mumble <> p: mumbled, i: mumbling, '3': mumbles, s: mumbles, d: mumbled
+mumbled <> b: mumble, f: pd, p: mumbled
+mumbler <> s: mumblers
+mumblers <> b: mumbler, f: s
+mumbles <> b: mumble, f: 3s
+mumbling <> b: mumble, f: i, s: mumblings
+mummer <> s: mummers
+mummers <> b: mummer, f: s
+mummery <> s: mummerys
+mummerys <> b: mummery, f: s
+mummies <> b: mummy, f: s
+mummified <> d: mummified, b: mummified, f: d
+mummifies <> b: mummify, f: '3'
+mummify <> '3': mummifies, i: mummifying, p: mummified, d: mummified
+mummifying <> b: mummify, f: i
+mummy <> s: mummies
+mumps <> s: mumps, b: mumps, f: s
+mums <> b: mum, f: s
+munch <> i: munching, p: munched, '3': munches, d: munched
+munched <> b: munch, f: pd
+muncher <> s: munchers
+munchers <> b: muncher, f: s
+munches <> b: munch, f: '3'
+munchies <> b: munchy, f: s
+munching <> b: munch, f: i, s: munchings, i: munching
+munchkin <> s: munchkins
+munchkins <> b: munchkin, f: s
+munchy <> s: munchies
+mundanities <> b: mundanity, f: s
+mundanity <> s: mundanities
+mung <> p: mung, b: mung, f: p
+muni <> s: muni, b: muni, f: s
+municipal <> s: municipals
+municipalities <> b: municipality, f: s
+municipality <> s: municipalities
+municipals <> b: municipal, f: s
+muniment <> s: muniments
+muniments <> b: muniment, f: s
+munition <> s: munitions, i: munitioning, p: munitioned, '3': munitions, d: munitioned
+munitioned <> f: pd, b: munition
+munitioning <> f: i, b: munition
+munitions <> f: s3, b: munition
+muon <> s: muons
+muons <> b: muon, f: s
+muppet <> s: muppets
+muppets <> b: muppet, f: s
+mural <> s: murals
+muralist <> s: muralists
+muralists <> b: muralist, f: s
+murals <> b: mural, f: s
+murder <> d: murdered, s: murders, p: murdered, i: murdering, '3': murders
+murdered <> b: murder, f: dp, d: murdered, p: murdered
+murderer <> s: murderers
+murderers <> b: murderer, f: s
+murdering <> b: murder, f: i, i: murdering
+murders <> b: murder, f: s3
+mure <> '3': mures
+mures <> b: mure, f: '3'
+murid <> s: murids
+murids <> b: murid, f: s
+murk <> s: murks
+murkier <> b: murky, f: r
+murkiest <> b: murky, f: t
+murks <> b: murk, f: s
+murky <> t: murkiest, r: murkier
+murmur <> p: murmured, i: murmuring, s: murmurs, '3': murmurs, d: murmured
+murmured <> b: murmur, f: pd, p: murmured, d: murmured
+murmuring <> b: murmur, f: i, s: murmurings, i: murmuring
+murmurs <> b: murmur, f: s3
+murre <> s: murres
+murres <> b: murre, f: s
+muscatel <> s: muscatels
+muscatels <> b: muscatel, f: s
+muscle <> s: muscles, p: muscled, i: muscling, d: muscled, '3': muscles
+muscled <> b: muscle, f: pd, p: muscled
+muscleman <> s: musclemen
+musclemen <> b: muscleman, f: s
+muscles <> f: s3, b: muscle
+muscling <> b: muscle, f: i
+Muscovite <> s: muscovites
+muscovites <> b: muscovite, f: s
+muse <> p: mused, s: muses, i: musing, '3': muses, d: mused
+mused <> b: muse, f: pd
+muses <> b: muse, f: s3
+musette <> s: musettes
+musettes <> b: musette, f: s
+museum <> s: museums
+museums <> b: museum, f: s
+musgrove <> s: musgroves
+musgroves <> b: musgrove, f: s
+mush <> p: mushed, '3': mushes, s: mushes, i: mushing, d: mushed
+mushed <> b: mush, f: p
+musher <> s: mushers
+mushers <> b: musher, f: s
+mushes <> b: mush, f: 3s
+mushies <> b: mushy, f: s
+mushroom <> s: mushrooms, p: mushroomed, d: mushroomed, i: mushrooming, '3': mushrooms
+mushroomed <> b: mushroom, f: pd
+mushrooming <> b: mushroom, f: i, i: mushrooming
+mushrooms <> f: s3, b: mushroom
+mushy <> s: mushies
+music <> s: musics
+musical <> s: musicals
+musicale <> s: musicales
+musicales <> b: musicale, f: s
+musicals <> b: musical, f: s
+musician <> s: musicians
+musicians <> b: musician, f: s
+musicologist <> s: musicologists
+musicologists <> b: musicologist, f: s
+musics <> b: music, f: s
+musing <> b: muse, f: i, s: musings, i: musing
+musk <> s: musks, '3': musks
+musket <> s: muskets
+musketeer <> s: musketeers
+musketeers <> b: musketeer, f: s
+muskets <> b: musket, f: s
+muskier <> b: musky, f: r
+muskrat <> s: muskrats
+muskrats <> b: muskrat, f: s
+musks <> b: musk, f: s3
+musky <> r: muskier
+Muslim <> s: muslims
+muslin <> s: muslins
+muslins <> b: muslin, f: s
+muso <> s: musos
+musos <> b: muso, f: s
+muss <> d: mussed, i: mussing, p: mussed, '3': musses
+mussed <> b: muss, f: dp, d: mussed
+mussel <> s: mussels
+mussels <> b: mussel, f: s
+musses <> f: '3', b: muss
+mussies <> b: mussy, f: s
+mussing <> b: muss, f: i
+Mussulman <> s: mussulmen
+mussy <> s: mussies
+mustachio <> s: mustachios
+mustachios <> b: mustachio, f: s
+mustang <> s: mustangs, '3': mustangs
+mustangs <> b: mustang, f: s3
+mustard <> s: mustards, d: mustarded
+mustarded <> b: mustard, f: d
+mustards <> b: mustard, f: s
+mustelid <> s: mustelids
+mustelids <> b: mustelid, f: s
+muster <> p: mustered, d: mustered, i: mustering, s: musters, '3': musters
+mustered <> b: muster, f: pd
+mustering <> b: muster, f: i, s: musterings
+musters <> b: muster, f: s3
+mustiest <> b: musty, f: t
+musty <> t: mustiest
+mutabilities <> b: mutability, f: s
+mutability <> s: mutabilities
+mutagen <> s: mutagens
+mutagens <> b: mutagen, f: s
+mutant <> s: mutants
+mutants <> b: mutant, f: s
+mutate <> d: mutated, p: mutated, '3': mutates, i: mutating, s: mutates
+mutated <> b: mutate, f: dp, p: mutated
+mutates <> b: mutate, f: 3s
+mutating <> b: mutate, f: i
+mutation <> s: mutations
+mutations <> b: mutation, f: s
+mute <> s: mutes, i: muting, d: muted, '3': mutes, p: muted
+muted <> d: muted, b: muted, f: dp, p: muted
+mutes <> b: mute, f: s3
+muti <> s: muti, b: muti, f: s
+mutilate <> d: mutilated, i: mutilating, p: mutilated, '3': mutilates, s: mutilates
+mutilated <> d: mutilated, b: mutilated, f: dp, p: mutilated
+mutilates <> b: mutilate, f: 3s
+mutilating <> b: mutilate, f: i, i: mutilating
+mutilation <> s: mutilations
+mutilations <> b: mutilation, f: s
+mutineer <> s: mutineers
+mutineers <> b: mutineer, f: s
+muting <> b: mute, f: i
+mutinied <> b: mutiny, f: pd
+mutinies <> f: s3, b: mutiny
+mutiny <> s: mutinies, p: mutinied, d: mutinied, i: mutinying, '3': mutinies
+mutinying <> b: mutiny, f: i
+mutt <> s: mutts
+mutter <> p: muttered, i: muttering, '3': mutters, d: muttered, s: mutters
+muttered <> b: mutter, f: pd, p: muttered
+muttering <> b: mutter, f: i, s: mutterings, i: muttering
+mutters <> b: mutter, f: 3s
+mutton <> s: muttons
+muttons <> b: mutton, f: s
+mutts <> b: mutt, f: s
+mutual <> s: mutuals
+mutualities <> b: mutuality, f: s
+mutuality <> s: mutualities
+mutuals <> b: mutual, f: s
+muzhik <> s: muzhiks
+muzhiks <> b: muzhik, f: s
+muzzle <> s: muzzles, d: muzzled, i: muzzling, '3': muzzles, p: muzzled
+muzzled <> b: muzzle, f: dp, d: muzzled
+muzzles <> b: muzzle, f: s3
+muzzling <> b: muzzle, f: i, i: muzzling
+mw <> s: mws
+mws <> b: mw, f: s
+Mycenae <> s: mycenae, b: mycenae, f: s
+Mycenaean <> s: mycenaeans
+mycologist <> s: mycologists
+mycologists <> b: mycologist, f: s
+mycoplasma <> s: mycoplasmas
+mycoplasmas <> b: mycoplasma, f: s
+mycoprotein <> s: mycoproteins
+mycoproteins <> b: mycoprotein, f: s
+mycotoxin <> s: mycotoxins
+mycotoxins <> b: mycotoxin, f: s
+myeloma <> s: myelomas
+myelomas <> b: myeloma, f: s
+myer <> s: myers
+myers <> b: myer, f: s
+mylonite <> s: mylonites
+mylonites <> b: mylonite, f: s
+mynah <> s: mynahs
+mynahs <> b: mynah, f: s
+myocyte <> s: myocytes
+myocytes <> b: myocyte, f: s
+myoglobin <> s: myoglobins
+myoglobins <> b: myoglobin, f: s
+myopathies <> b: myopathy, f: s
+myopathy <> s: myopathies
+myope <> s: myopes
+myopes <> b: myope, f: s
+myopic <> s: myopics
+myopics <> b: myopic, f: s
+myotome <> s: myotomes
+myotomes <> b: myotome, f: s
+myriad <> s: myriads
+myriads <> b: myriad, f: s
+myrmidon <> s: myrmidons
+myrmidons <> b: myrmidon, f: s
+myrtle <> s: myrtles, '3': myrtles
+myrtles <> b: myrtle, f: s3
+mysteries <> b: mystery, f: s
+mystery <> s: mysteries
+mystic <> s: mystics
+mysticete <> s: mysticetes
+mystics <> b: mystic, f: s
+mystification <> s: mystifications
+mystifications <> b: mystification, f: s
+mystified <> b: mystify, f: dp, d: mystified, p: mystified
+mystify <> d: mystified, i: mystifying, '3': mystifies, p: mystified
+mystifying <> b: mystify, f: i
+mystique <> s: mystiques
+mystiques <> b: mystique, f: s
+myth <> s: myths
+mythicize <> i: mythicizing, p: mythicized, '3': mythicizes, d: mythicized
+mythicized <> f: pd, b: mythicize
+mythicizes <> f: '3', b: mythicize
+mythicizing <> f: i, b: mythicize
+mythologies <> b: mythology, f: s
+mythologist <> s: mythologists
+mythologists <> b: mythologist, f: s
+mythologize <> '3': mythologizes, d: mythologized, p: mythologized, i: mythologizing
+mythologized <> b: mythologize, f: dp
+mythologizes <> b: mythologize, f: '3'
+mythologizing <> f: i, b: mythologize
+mythology <> s: mythologies
+mythos <> b: mytho, f: s
+myths <> b: myth, f: s

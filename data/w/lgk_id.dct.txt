@@ -1,0 +1,931 @@
+wack <> w: 366561
+wacked <> w: 229173
+wacko <> w: 201262
+wacky <> w: 201263, p: [17871]
+wad <> w: 201265, p: [54599]
+waddle <> w: 201267
+wade <> w: 201269, p: [53593]
+wader <> w: 201270, p: [25082]
+waders <> w: 201271, p: [34596]
+wafer <> w: 201277, p: [26373]
+waffle <> w: 201280, p: [31233]
+waffle iron <> w: 201281, p: [37497]
+waft <> w: 201283
+wag <> w: 201285, p: [47020]
+wage <> w: 201286, p: [17903]
+wager <> w: 201298, p: [28379]
+waggish <> w: 201303
+wagon <> w: 201312, p: [33483]
+wagon train <> w: 201315, p: [40221]
+wagon-lit <> p: [37115]
+wagtail <> w: 201320
+waif <> w: 201328
+waiflike <> w: 225550
+wail <> w: 201330, p: [48631]
+wainscot <> w: 201336
+waist <> w: 201341, p: [18545, 38106]
+waistband <> w: 201347, p: [25641]
+waistcoat <> w: 201502, p: [50976]
+waistline <> w: 201503, p: [25641]
+wait <> w: 201504, p: [61300, 14029, 61300]
+wait up <> p: [52171]
+waiter <> w: 201507, p: [60792]
+waiting <> w: 201509, p: [61300]
+waiting game <> p: [44180]
+waiting list <> w: 201513
+waiting room <> w: 201514, p: [23043]
+waitress <> w: 201515, p: [60796]
+waitstaff <> w: 209332, p: [26525]
+waive <> w: 201516
+waiver <> w: 201517
+wake <> w: 201521, p: [21183]
+wake up and smell the coffee <> p: [44808]
+wake-up <> p: [21183]
+wakeboard <> w: 201528
+wakeboarding <> w: 226987
+wakeful <> w: 201529, p: [49720]
+wakey-wakey <> p: [48865]
+walk <> w: 201547, p: [39607, 39607, 39607, 30559, 39607, 18165]
+walk all over <> p: [44544, 41478]
+walk away <> p: [26413]
+walk in on <> p: [52681]
+walk into <> p: [49984]
+walk off with <> p: [43710]
+walk on air <> p: [49842]
+walk out <> p: [47104]
+walk-on <> w: 201549
+walker <> w: 201567, p: [33358, 27125]
+walkie-talkie <> w: 201572
+walking <> w: 201573, p: [49459]
+walking papers <> w: 201579, p: [41698]
+walking shoe <> p: [51061]
+walking stick <> w: 201581, p: [33332, 25343]
+walkway <> w: 201586, p: [18165]
+wall <> w: 201588, p: [20855, 47740]
+wall plug <> p: [32002, 41502]
+wall-to-wall <> w: 222940
+wallaby <> w: 201616, p: [24346]
+wallaroo <> w: 220387
+wallet <> w: 201625, p: [28992]
+wallflower <> w: 201629
+wallop <> w: 201634, p: [47334]
+walloping <> w: 201636
+wallow <> w: 201637
+wallpaper <> w: 201638, p: [35740, 35740]
+walnut <> w: 201641, p: [14643]
+walrus <> w: 201648, p: [24348]
+waltz <> w: 201673
+wampum <> w: 201679, p: [60778]
+wan <> w: 201681, p: [19791]
+wand <> w: 201683, p: [30561]
+wander <> w: 201686, p: [17811]
+wandering <> w: 201688, p: [17811]
+wane <> w: 201694, p: [21491]
+wannabe <> w: 201704
+wanness <> w: 201706, p: [22989]
+want <> w: 201707, p: [48807]
+wanted <> w: 201709
+wanting <> w: 201713
+wanton <> w: 201714
+wantonly <> w: 201716, p: [49678]
+wantonness <> w: 201717
+wapiti <> w: 201718, p: [24132, 24132]
+war <> w: 201719, p: [19524, 60051]
+war crime <> w: 201731
+war dance <> w: 201734
+war of words <> w: 209509, p: [42584]
+war paint <> w: 201749, p: [22854]
+war zone <> w: 201758
+war-torn <> w: 201721
+warble <> w: 201760
+warbler <> w: 201762
+ward <> w: 201764, p: [21461, 18822]
+warden <> w: 201767
+wardrobe <> w: 201772, p: [20611, 31155]
+ware <> w: 201774, p: [18415]
+warehouse <> w: 201775, p: [27802, 27802]
+warehousing <> w: 201779
+warfare <> w: 201780, p: [19524]
+warfarin <> w: 201781
+warhorse <> w: 201784
+warily <> w: 201785
+warlike <> w: 201788
+warm <> w: 201792, p: [48683, 49706, 20964]
+warm up <> p: [48053, 54816, 54816, 20964]
+warm-blooded <> w: 201793, p: [28970]
+warm-hearted <> w: 202004
+warm-up <> w: 201795
+warmer <> w: 202003, p: [49834]
+warming <> w: 202006, p: [32740]
+warmly <> w: 202008, p: [49706]
+warmness <> w: 202009, p: [22624, 61302]
+warmth <> w: 202012, p: [22624, 61302]
+warn <> w: 202013, p: [55168]
+warning <> w: 202015
+warp <> w: 202023, p: [46924]
+warrant <> w: 202029
+warranted <> w: 210467
+warranty <> w: 202034
+warren <> w: 202035
+warring <> w: 202043
+warship <> w: 202048
+wart <> w: 202050
+warthog <> w: 202051, p: [24370]
+wartime <> w: 202052
+warts and all <> p: [45044]
+wary <> w: 202058
+wasabi <> w: 202059, p: [26906]
+wash <> w: 202060, p: [39199, 51376, 27071, 22295]
+wash over <> p: [45740]
+wash up <> p: [51828, 32956, 21126]
+wash-hand stand <> p: [34991]
+wash-up <> p: [51828, 32956, 21126]
+washable <> w: 202074, p: [33928]
+washbasin <> w: 202076, p: [34907]
+washboard <> w: 202077, p: [33930]
+washbowl <> w: 202078, p: [34907]
+washcloth <> w: 202079, p: [32818]
+washed <> w: 202081, p: [48619]
+washed-out <> w: 202082
+washer <> w: 202084, p: [17451, 22604]
+washing <> w: 202088, p: [27071, 22295]
+washing line <> w: 211977, p: [32112]
+washing machine <> w: 202091, p: [17451]
+washing powder <> w: 202092, p: [33932]
+washing-up <> w: 202089, p: [26750]
+washing-up liquid <> w: 228467, p: [32956]
+washout <> w: 202100
+washrag <> w: 202101, p: [32818]
+washroom <> w: 202102, p: [37251]
+washstand <> w: 202103, p: [34991, 34907]
+washy <> w: 202107
+wasp <> w: 202109, p: [25347]
+waspish <> w: 202113
+wassail <> w: 202115, p: [21999]
+wassailer <> w: 202116, p: [27560]
+waste <> w: 202124, p: [28039, 26978]
+waste pipe <> p: [18051]
+waste product <> w: 202138
+waste-paper basket <> p: [29509]
+wastebasket <> w: 202139, p: [29509]
+wasted <> w: 202141
+wasteful <> w: 202142
+wastefully <> w: 202143
+wasteland <> w: 202145, p: [26978]
+wastepaper basket <> w: 202146, p: [29509]
+wastewater <> w: 202148
+wastrel <> w: 202154
+watch <> w: 202155, p: [48689, 59484, 51532]
+watch cap <> p: [34492]
+watch over <> p: [27405]
+watch the clock <> p: [44140]
+watchable <> w: 218457
+watchband <> w: 202169, p: [51282]
+watchdog <> w: 202170, p: [24142]
+watcher <> w: 202171, p: [36216, 51614]
+watchful <> w: 202172, p: [17533]
+watchfully <> w: 202173
+watching <> w: 202175, p: [27772]
+watchman <> w: 202177, p: [51614]
+watchstrap <> w: 202178, p: [51282]
+watchtower <> w: 202179
+water <> w: 202181, p: [27032, 22351]
+water beetle <> p: [35714]
+water bird <> w: 202211, p: [25868]
+water biscuit <> w: 202212, p: [22133]
+water bottle <> w: 202216, p: [27032]
+water buffalo <> w: 202218, p: [24486]
+water bug <> w: 202219, p: [25349]
+water chestnut <> w: 202227, p: [34811]
+water closet <> w: 202234, p: [27203]
+water cooler <> p: [38038]
+water feature <> p: [42554]
+water fountain <> w: 202254, p: [33773]
+water glass <> p: [17383]
+water ice <> w: 202274, p: [31421, 20874]
+water jump <> w: 202277
+water main <> w: 202285
+water polo <> w: 202311, p: [33892]
+water rat <> w: 202505, p: [24753]
+water scorpion <> p: [36411]
+water ski <> w: 202513, p: [33934]
+water skiing <> w: 226986
+water softener <> w: 202516, p: [42650]
+water strider <> p: [25349]
+water table <> w: 202528
+water vole <> w: 202541, p: [24771]
+waterbed <> w: 221748
+waterbird <> w: 202548, p: [25868]
+waterbuck <> w: 202550, p: [34383]
+watercolor <> w: 202553, p: [20755, 47396, 20755]
+watercourse <> w: 202557, p: [18930, 51126]
+watercress <> w: 202559, p: [50491]
+waterfall <> w: 202565, p: [51156]
+waterfowl <> w: 202568, p: [25868]
+waterfront <> w: 202569
+watering can <> w: 202575, p: [42502]
+waterlogged <> w: 202585, p: [27231]
+watermark <> w: 202588, p: [47168]
+watermelon <> w: 202590, p: [39031]
+waterproof <> w: 202595, p: [51408, 51408, 34638]
+waterproofed <> w: 202596, p: [51408]
+waterspout <> w: 202603, p: [18479]
+watertight <> w: 202604
+waterway <> w: 202606, p: [18930]
+waterwheel <> w: 202608
+waterworks <> w: 202610
+watery <> w: 202612, p: [39217]
+watt <> w: 202617
+wattle <> w: 202622, p: [30315]
+wattlebird <> w: 220570
+wave <> w: 202631, p: [26290, 51534, 51534, 26138]
+waveband <> w: 202646
+wavelength <> w: 202650
+wavelet <> w: 202651
+waver <> w: 202654, p: [53533]
+waverer <> w: 202655
+wavering <> w: 202656
+wavy <> w: 202659, p: [17593]
+wax <> w: 202664, p: [33006, 54436]
+wax bean <> p: [26844]
+wax light <> p: [19608]
+waxberry <> w: 202679, p: [35168]
+waxbill <> w: 220569
+waxing <> w: 202684
+waxwing <> w: 202687
+waxy <> w: 202689
+way <> w: 202691, p: [51526, 43466]
+way of life <> w: 202693
+way out <> w: 202694, p: [35868]
+way to go <> p: [27325]
+way-out <> w: 202692, p: [35868]
+waylay <> w: 202702
+waymark <> w: 219329, p: [36884]
+wayward <> w: 202709
+we <> w: 216617, p: [37273]
+weak <> w: 202714, p: [49149, 39217]
+weaken <> w: 202722, p: [54682]
+weakened <> w: 202723
+weakly <> w: 202728, p: [49570, 49149]
+weakness <> w: 202730
+weal <> w: 202731
+wealth <> w: 202733, p: [20764, 60616]
+wealthy <> w: 202736, p: [60616]
+wean <> w: 202739, p: [58927]
+weapon <> w: 202742, p: [19526]
+weaponize <> w: 202746, p: [60083]
+weaponry <> w: 202748, p: [19526]
+wear <> w: 202756, p: [60808, 26304, 26304, 48557]
+wear off <> p: [26304, 21491]
+wear the trousers <> p: [40215]
+wear thin <> p: [26304]
+wearer <> w: 202769
+wearily <> w: 202771, p: [39209]
+wearisome <> w: 202776
+weary <> w: 202777, p: [20199]
+weasel <> w: 202780, p: [24372]
+weather <> w: 202783, p: [60784, 46283, 22658]
+weather station <> w: 202802
+weather vane <> w: 202805, p: [32529]
+weathered <> w: 202809, p: [46283]
+weathering <> w: 211401
+weatherman <> w: 202813
+weathervane <> w: 202817, p: [32529]
+weave <> w: 202819, p: [46806]
+weaver <> w: 203002, p: [30565, 47789]
+weaving <> w: 203008, p: [44908]
+web <> w: 203009, p: [28786, 34516]
+web page <> p: [17797]
+web-footed <> w: 203010
+webbed <> w: 203022
+webcam <> w: 203028, p: [15803]
+weblog <> w: 210235
+website <> w: 203036, p: [17797]
+wed <> w: 203040, p: [39013, 60905, 60788]
+wedded <> w: 203041, p: [60788]
+wedding <> w: 203043, p: [18704]
+wedding band <> p: [51304]
+wedding breakfast <> w: 220143
+wedding cake <> p: [35798]
+wedding dress <> w: 203050, p: [21995]
+wedding ring <> w: 203062, p: [51304]
+wedge <> w: 203064, p: [31117, 47056]
+wednesday <> w: 203073, p: [60905]
+wee <> w: 203074, p: [45521]
+weed <> w: 203077, p: [21977, 21963, 47931]
+weeding <> w: 228621
+week <> w: 203086, p: [60909]
+weekday <> w: 203090, p: [48515]
+weekend <> w: 203091, p: [60911]
+weekender <> w: 203093, p: [34588]
+weekly <> w: 203095, p: [45649, 45649]
+weenie <> w: 203098, p: [27952]
+weep <> w: 203102, p: [47194]
+weeping willow <> p: [21942]
+weepy <> w: 203111
+weevil <> w: 203112, p: [25351]
+weigh <> w: 203120, p: [18994, 60847, 32088]
+weigh in <> p: [52771]
+weigh-in <> p: [52771]
+weight <> w: 203130, p: [18994, 21679]
+weighted <> w: 203136
+weighting <> w: 203139
+weightless <> w: 203140, p: [48465]
+weightlifter <> w: 203143, p: [21905]
+weightlifting <> w: 203144, p: [21905]
+weighty <> w: 203145, p: [48443, 19252]
+weird <> w: 203154, p: [29657]
+weirdly <> w: 203157, p: [49137]
+weka <> w: 203168, p: [34562]
+welcome <> w: 203171, p: [47522, 47522]
+welcomer <> w: 203174, p: [26473]
+welcoming <> w: 203175, p: [19312]
+weld <> w: 203177, p: [33631]
+welder <> w: 203178, p: [33631]
+welding <> w: 203180, p: [33631]
+welfare <> w: 203182, p: [19402]
+welfare work <> p: [19258]
+welfare worker <> p: [27289]
+well <> w: 203190, p: [35694, 19244, 60602]
+well behaved <> p: [37053]
+well-adjusted <> w: 203191
+well-balanced <> w: 203194
+well-behaved <> w: 203195, p: [37053]
+well-being <> w: 203196, p: [19402]
+well-bred <> w: 203199, p: [17551]
+well-built <> w: 211833, p: [21899]
+well-chosen <> w: 203200
+well-done <> w: 203205, p: [17479]
+well-dressed <> w: 203206, p: [27564]
+well-endowed <> w: 203208
+well-founded <> w: 203215
+well-groomed <> w: 203216, p: [27564]
+well-grounded <> w: 203218
+well-heeled <> w: 203219
+well-informed <> w: 203220
+well-known <> w: 203224, p: [28447]
+well-mannered <> w: 203228, p: [17551]
+well-nigh <> w: 203233
+well-off <> w: 203235, p: [60616]
+well-paid <> w: 210246
+well-read <> w: 203240, p: [45158]
+well-rounded <> w: 203241
+well-timed <> w: 203247
+well-to-do <> w: 203248
+well-worn <> w: 203253
+wellington <> w: 203268, p: [25182]
+wellness <> w: 203270, p: [60632]
+welshman <> w: 203285, p: [35936]
+welt <> w: 203286, p: [47342]
+weltanschauung <> w: 203287
+welter <> w: 203289
+welterweight <> w: 203290
+wend <> w: 203302
+werewolf <> w: 203305
+west <> w: 203325, p: [49514, 49514, 49514]
+westbound <> w: 203528
+westerly <> w: 203530, p: [49514]
+western <> w: 203531, p: [49514, 19092]
+western sandwich <> p: [32708]
+westward <> w: 203622, p: [49514]
+wet <> w: 203624, p: [22325, 60768, 22325]
+wet behind the ears <> p: [41516]
+wet blanket <> w: 203628, p: [42128]
+wet look <> p: [30407]
+wet nurse <> w: 203633
+wet room <> p: [48355]
+wet-look <> p: [30407]
+wetland <> w: 203637
+wetsuit <> w: 203634, p: [25427]
+whack <> w: 203644, p: [47598]
+whacked <> w: 203645
+whale <> w: 203650, p: [28884]
+wham <> w: 203662
+wharf <> w: 203666, p: [33839]
+wharfage <> w: 203668, p: [33839]
+what <> w: 208340, p: [49730, 60706]
+whatever <> w: 203674, p: [48491]
+whatsit <> w: 228923
+whatsoever <> w: 203678
+wheat <> w: 203680, p: [21320, 38843]
+wheatear <> w: 203694
+wheatmeal <> w: 209191, p: [31325]
+wheedle <> w: 203704
+wheedling <> w: 203706
+wheel <> w: 203707, p: [35736, 36854, 46932, 51065]
+wheel and deal <> p: [41013]
+wheel clamp <> w: 227874
+wheelbarrow <> w: 203718, p: [22606]
+wheelchair <> w: 203720, p: [25881]
+wheelie <> w: 229327
+wheeze <> w: 203731, p: [60065]
+wheezy <> w: 203736
+whelk <> w: 203737, p: [25769]
+whelp <> w: 203739, p: [20549]
+when <> w: 208339, p: [49732]
+when push comes to shove <> p: [41299]
+when the chips are down <> p: [40795]
+whenever <> w: 210177
+where <> w: 208338, p: [49850]
+whereabouts <> w: 203743, p: [49504]
+whereas <> w: 208750
+whereby <> w: 208584
+wherein <> w: 225815
+whereupon <> w: 211480
+wherever <> w: 203746
+wherewithal <> w: 203747
+whet <> w: 203749
+whether <> w: 208554
+whew <> w: 225896, p: [45335]
+whey <> w: 203751, p: [34746]
+which <> w: 208342, p: [60829]
+whichever <> w: 225798
+whiff <> w: 203754, p: [18609]
+while <> w: 203759
+whilst <> w: 208754
+whim <> w: 203761
+whimbrel <> w: 220568
+whimper <> w: 203762, p: [32066, 32066]
+whimsical <> w: 203764
+whinchat <> w: 203770
+whine <> w: 203771, p: [58857]
+whinge <> w: 225347, p: [55020, 28065]
+whinny <> w: 203774
+whip <> w: 203777, p: [47342, 20940]
+whip scorpion <> p: [34656]
+whiplash <> w: 203788
+whippet <> w: 203795, p: [25148]
+whipping <> w: 203796
+whippoorwill <> w: 203803, p: [25084]
+whirl <> w: 203812, p: [46830, 27981, 27981]
+whirligig <> w: 203816, p: [32076]
+whirlpool <> w: 203820
+whirlwind <> w: 203821, p: [46812]
+whirlybird <> w: 203822, p: [49486]
+whirring <> w: 203824
+whisk <> w: 203826, p: [50813, 20940]
+whisker <> w: 203832, p: [30800]
+whiskered <> w: 203834, p: [30066]
+whiskers <> w: 203836, p: [49165]
+whiskery <> w: 203837, p: [30066]
+whiskey <> w: 203838, p: [18363]
+whisky sour <> p: [31853]
+whisper <> w: 203848, p: [57909]
+whispered <> w: 203849
+whispering <> w: 203851
+whist <> w: 204002
+whistle <> w: 204004, p: [30307, 34365, 18237, 27958, 30307]
+whistle in the wind <> p: [41112]
+whistle-blower <> w: 204005
+whistling <> w: 204013, p: [30307]
+white <> w: 204020, p: [29080, 37158, 48679, 37158, 29080, 18209]
+white blood cell <> w: 204079, p: [29448]
+white cell <> p: [29448]
+white dwarf <> w: 204108
+white elephant <> w: 204110, p: [42010]
+white flag <> w: 204117
+white flour <> p: [27738]
+white goods <> w: 204126
+white lie <> w: 204142
+white meat <> w: 204159, p: [18207]
+white rhinoceros <> p: [24314]
+white sauce <> w: 204199, p: [21322]
+white sugar <> p: [27183]
+white water <> p: [37225]
+white whale <> p: [50287]
+white-bread <> w: 204025
+white-collar <> w: 204029, p: [45383]
+white-hot <> w: 204038
+white-knuckle <> w: 229343
+whitebait <> w: 204243, p: [24855]
+whiteboard <> w: 208348, p: [22239]
+whiteface <> w: 204250, p: [34449]
+whiten <> w: 204258, p: [47456]
+whitener <> w: 204260, p: [33400]
+whiteness <> w: 204261
+whiteout <> w: 204263
+whitetail <> w: 204264
+whitethroat <> w: 204270
+whitewash <> w: 204272, p: [48015]
+whitewater <> w: 204274, p: [37225]
+whiting <> w: 204277, p: [24857, 24857]
+whittle <> w: 204294, p: [54225, 54818]
+whiz <> w: 204299
+whizz <> w: 204303, p: [53551, 37910]
+who <> w: 204307, p: [49654]
+whoa <> w: 210485, p: [52109, 48953]
+whodunit <> w: 204308, p: [22403]
+whoever <> w: 210487
+whole <> w: 204309, p: [17537]
+whole note <> w: 204324, p: [30725]
+whole number <> w: 204325
+whole wheat <> w: 210495, p: [23865]
+wholefood <> w: 209286, p: [19136]
+wholehearted <> w: 204335, p: [49616]
+wholeheartedly <> w: 204336, p: [49616]
+wholemeal <> w: 204338
+wholesale <> w: 204340
+wholesaler <> w: 204343
+wholesome <> w: 204344, p: [60604, 17543]
+wholly <> w: 204347, p: [48501]
+whom <> w: 225797
+whomever <> w: 225799
+whoop <> w: 204350
+whooped <> w: 366501
+whoopee <> w: 204352, p: [42566]
+whoops <> w: 226048, p: [48863]
+whoosh <> w: 204357
+whopping <> w: 204360, p: [23559]
+whorehouse <> w: 204363
+whorl <> w: 204367, p: [30259]
+whorled <> w: 204502, p: [31502]
+whose <> w: 210164
+why <> w: 204509, p: [49710]
+wick <> w: 204516
+wicked <> w: 204517, p: [27509, 42020]
+wickedly <> w: 204518, p: [42016]
+wicker <> w: 204520
+wickerwork <> w: 204522
+wicket <> w: 204523
+wicket gate <> w: 204526
+wide <> w: 204534, p: [23689, 50118, 49105, 48503]
+wide of the mark <> p: [48229]
+wide-angle lens <> w: 204536
+wide-ranging <> w: 204543
+widely <> w: 204552
+widen <> w: 204554, p: [54755, 54755]
+widescreen <> w: 209117
+widespread <> w: 204557, p: [45788]
+widget <> w: 204559, p: [32006]
+widow <> w: 204560, p: [35886]
+widowed <> w: 204566, p: [35886]
+widower <> w: 204567, p: [37055]
+width <> w: 204570, p: [29771]
+wield <> w: 204572
+wiener <> w: 204574, p: [27952]
+wife <> w: 204582, p: [60913]
+wig <> w: 204588, p: [25403]
+wigeon <> w: 204590
+wiggle <> w: 204593, p: [47020]
+wigwag <> w: 204603
+wiki <> w: 228635
+wild <> w: 204607, p: [27343, 60196]
+wild and woolly <> p: [42588, 39603]
+wild boar <> w: 204618, p: [24376]
+wild card <> w: 204622, p: [45084]
+wild cherry <> p: [35234]
+wild dog <> p: [34033]
+wild goose chase <> p: [41204]
+wild rice <> w: 204695, p: [35479]
+wild-goose chase <> p: [41204]
+wildcat <> w: 204724, p: [24230]
+wildebeest <> w: 204730, p: [34385]
+wilderness <> w: 204732, p: [18896]
+wildfire <> w: 204734, p: [37371]
+wildlife <> w: 204738, p: [60736]
+wildly <> w: 204739, p: [45774]
+wildness <> w: 204740
+wile <> w: 204741
+wilfully <> w: 204744
+will <> w: 204764, p: [61266]
+willet <> w: 204783
+willful <> w: 204784, p: [49678]
+willfully <> w: 204786, p: [49678]
+willies <> w: 229379
+willing <> w: 205057, p: [60480]
+willingly <> w: 205059, p: [49652]
+willingness <> w: 205060
+willow <> w: 205062, p: [21944]
+willowy <> w: 205071
+willpower <> w: 205072
+willy-nilly <> w: 205073, p: [41638]
+wilma <> w: 229221
+wilt <> w: 205090
+wily <> w: 205096
+wimp <> w: 205099
+wimple <> w: 205101
+wimpy <> w: 205102
+win <> w: 205104, p: [39211, 43170, 39211]
+win the day <> p: [39979]
+wince <> w: 205107, p: [16236, 16236]
+winch <> w: 205110, p: [53688]
+wind <> w: 205115, p: [51136, 51468]
+wind down <> p: [21278]
+wind farm <> p: [33647]
+wind power <> p: [33647]
+wind turbine <> w: 205141
+wind up <> p: [51862]
+wind-down <> p: [21278]
+wind-up <> p: [51862]
+windblown <> w: 205147
+windbreak <> w: 205148
+windbreaker <> w: 205149, p: [25106]
+windcheater <> w: 205153, p: [33109]
+winder <> w: 205155
+windfall <> w: 205156
+winding <> w: 205162
+windless <> w: 205167, p: [22626]
+windmill <> w: 205169, p: [19181]
+window <> w: 205171, p: [20818, 20169, 33575]
+window box <> w: 205176, p: [32124]
+window seat <> p: [18605]
+window-shop <> p: [18918]
+windowpane <> w: 205192, p: [33575]
+windowsill <> w: 205195
+windpipe <> w: 205196, p: [30381]
+windscreen <> w: 205197, p: [21358]
+windscreen wiper <> w: 205198, p: [21354]
+windshield <> w: 205199, p: [21358]
+windshield wiper <> w: 205200, p: [21354]
+windstorm <> w: 205207, p: [18547]
+windsurf <> w: 205208, p: [51104]
+windsurfer <> w: 227480
+windsurfing <> w: 210070, p: [51104]
+windswept <> w: 205209
+windy <> w: 205217, p: [18547, 49894]
+wine <> w: 205219, p: [18365, 38785, 18307]
+wine bar <> w: 205225, p: [26527]
+wine tasting <> p: [51676]
+wine waiter <> p: [26481]
+wineglass <> w: 205244, p: [50815]
+winemaking <> w: 205247
+winery <> w: 205249
+wing <> w: 205255, p: [19566, 18211, 21338, 49826]
+wing chair <> w: 205259, p: [42208]
+wing mirror <> w: 227820
+wing tip <> p: [34518]
+wing-tip <> p: [34518]
+winged <> w: 205269
+winged bean <> p: [35555]
+winger <> w: 205276
+wingman <> w: 205279
+wink <> w: 205284, p: [23017, 23001, 23017]
+winkle <> w: 205288, p: [25771]
+winner <> w: 205292, p: [14083]
+winning <> w: 205294, p: [39211]
+winnings <> w: 205297
+winnow <> w: 205299
+wino <> w: 205302
+winsome <> w: 205305
+winsomely <> w: 205306
+winter <> w: 205311, p: [48687]
+wintergreen <> w: 205349
+wintertime <> w: 205354, p: [48687]
+wintry <> w: 205502, p: [48687]
+wipe <> w: 205505, p: [60800]
+wipe out <> p: [26323, 53519]
+wipe the floor with <> p: [41480]
+wipe the slate clean <> p: [40105, 41816]
+wipe-out <> p: [26323, 53519]
+wiper <> w: 205512, p: [21354]
+wire <> w: 205516, p: [20495, 20495]
+wire stripper <> p: [41138]
+wire-cutter <> p: [22654]
+wired <> w: 205534
+wireless <> w: 205537, p: [20171, 28395]
+wiretap <> w: 205545
+wiring <> w: 205550
+wiry <> w: 205552
+wisdom <> w: 205561
+wisdom tooth <> w: 205566, p: [30604]
+wise <> w: 205567, p: [60212]
+wise guy <> p: [42512]
+wisecrack <> w: 205574
+wisely <> w: 205575, p: [49586]
+wish <> w: 205579, p: [23647, 23647, 23647]
+wish list <> w: 205581
+wishbone <> w: 205583, p: [30802]
+wishful thinking <> w: 205587
+wishing well <> w: 221977
+wishy-washy <> w: 205593
+wisp <> w: 205594
+wispy <> w: 205596
+wisteria <> w: 205599, p: [38769]
+wistful <> w: 205604
+wit <> w: 205607
+witch <> w: 205608, p: [29795]
+witchcraft <> w: 205620
+with <> w: 208331, p: [60708]
+with a bang <> p: [35694]
+with bells on <> p: [42560]
+with child <> p: [21997]
+with one voice <> p: [41652]
+with open arms <> p: [42568]
+withal <> w: 205632
+withdraw <> w: 205633, p: [53684]
+withdrawal <> w: 205634
+withdrawing room <> p: [28600]
+withdrawn <> w: 205639, p: [17859]
+wither <> w: 205642, p: [41295]
+withering <> w: 205644
+withers <> w: 205646, p: [30886]
+withhold <> w: 205648, p: [47284]
+within <> w: 205652, p: [14297]
+within striking distance <> p: [48325, 40359]
+without <> w: 210172
+withstand <> w: 205655, p: [59706]
+witless <> w: 205658
+witloof <> w: 205659, p: [35019]
+witness <> w: 205660, p: [20842, 20842, 36216]
+witticism <> w: 205668
+wittingly <> w: 205672
+witty <> w: 205674, p: [60218]
+wizard <> w: 205679, p: [29641]
+wizened <> w: 205683
+wobble <> w: 205690, p: [47534]
+wobbly <> w: 205693
+woe <> w: 205697
+woebegone <> w: 205698
+woeful <> w: 205699
+woefully <> w: 205700, p: [44934]
+wok <> w: 205703, p: [21002]
+wolf <> w: 205705, p: [17917, 39143]
+wolf pack <> p: [20623]
+wolf spider <> p: [34616]
+wolfhound <> w: 205728, p: [25150]
+wolfish <> w: 205729, p: [39143]
+wolverine <> w: 205744, p: [24378]
+woman <> w: 205746, p: [60919, 47907, 19314]
+womb <> w: 205767
+wombat <> w: 205769, p: [24380]
+women's lib <> w: 205771, p: [31606]
+womenswear <> w: 208582, p: [34017]
+wonder <> w: 205778, p: [52099, 59454, 23525, 52099]
+wonderful <> w: 205787, p: [17863]
+wonderfully <> w: 205788, p: [49263]
+wondering <> w: 205790, p: [19266]
+wonderland <> w: 205792
+wonderment <> w: 205793, p: [23525]
+wondrous <> w: 205795, p: [17863]
+wonky <> w: 205798
+wonton <> w: 205802, p: [40387]
+woo <> w: 205804
+wood <> w: 205805, p: [39115, 18904, 30100]
+wood pigeon <> p: [25116]
+woodcarving <> w: 206049, p: [31301]
+woodchuck <> w: 206050, p: [24170]
+woodcock <> w: 206051, p: [25114]
+woodcut <> w: 206055
+wooded <> w: 206057
+wooden <> w: 206058, p: [45417]
+wooden spoon <> w: 206063, p: [21058, 40947]
+woodland <> w: 206073, p: [18904]
+woodlouse <> w: 206079, p: [30804]
+woodpecker <> w: 206081, p: [25086]
+woodruff <> w: 206086, p: [35706]
+woods <> w: 206087, p: [18904]
+woodshed <> w: 206089
+woodturning <> w: 222723
+woodwind <> w: 206101, p: [30100]
+woodwork <> w: 206104
+woodworker <> w: 206105
+woodworking <> w: 206106, p: [31301]
+woodworm <> w: 206109, p: [30806]
+woody <> w: 206110
+woof <> w: 206119, p: [20557, 20557]
+wooing <> w: 206121, p: [35804]
+wool <> w: 206122, p: [19801, 19324]
+woolen <> w: 206128, p: [19324, 19801]
+woolly-headed <> w: 206138
+wooly <> w: 206161, p: [24916]
+woozy <> w: 206167, p: [60023]
+word <> w: 206173, p: [52725, 23165, 48107]
+wordbook <> w: 206208, p: [14800]
+wordily <> w: 206210, p: [49894]
+wording <> w: 206212
+wordlessly <> w: 206214, p: [23205]
+wordsmith <> w: 206221
+wordy <> w: 206224, p: [49894]
+work <> w: 206225, p: [48595, 48595, 32014, 26100, 60917]
+work ethic <> w: 228552
+work experience <> w: 229005
+work like a charm <> p: [40361]
+work of art <> w: 206245, p: [23861]
+work out <> p: [20410, 44232, 44582, 23641]
+work permit <> w: 206252
+work surface <> p: [50773]
+work to rule <> p: [51176, 41546]
+work-shy <> w: 206231, p: [17157]
+workable <> w: 206265, p: [17453]
+workaholic <> w: 206267
+workbook <> w: 206273
+workday <> w: 206275, p: [48515]
+worked up <> w: 206276, p: [42616]
+worker <> w: 206277, p: [33531, 48595]
+workflow <> w: 206280
+workforce <> w: 206281, p: [39255]
+working <> w: 206284, p: [48595, 49864]
+working class <> w: 206288, p: [45355]
+working day <> w: 206289, p: [48515]
+workings <> w: 206302
+workload <> w: 206303
+workman <> w: 206304, p: [33685]
+workmate <> w: 206307
+workout <> w: 206309, p: [20410]
+workplace <> w: 206312, p: [41596]
+worksheet <> w: 206317
+workshop <> w: 206318, p: [25359, 33054]
+workstation <> w: 206320
+worktop <> w: 211955, p: [50773]
+world <> w: 206324, p: [17623, 47911, 27311, 28471]
+world music <> p: [38188]
+world-famous <> w: 218608, p: [28447]
+worldly <> w: 206360
+worldwide <> w: 206506, p: [17623, 43500, 28471]
+worm <> w: 206507, p: [50100]
+wormhole <> w: 206520
+worn <> w: 206529, p: [26304]
+worn-out <> w: 206530, p: [29346, 51206]
+worried <> w: 206533, p: [61310]
+worrisome <> w: 206537, p: [61310]
+worry <> w: 206538, p: [61310, 61310]
+worry beads <> w: 226169
+worrying <> w: 206539, p: [61310]
+worryingly <> w: 206540, p: [61310]
+worse <> w: 206542, p: [41295]
+worse off <> w: 228674
+worsen <> w: 206543, p: [33057, 41295]
+worsened <> w: 206544
+worsening <> w: 206545
+worship <> w: 206546, p: [47274]
+worst <> w: 206553, p: [49381]
+worth <> w: 206557, p: [17487]
+worthless <> w: 206561, p: [45840]
+worthwhile <> w: 206564
+worthy <> w: 206566, p: [60133]
+would <> w: 208366
+would rather <> p: [61288]
+wound <> w: 206570, p: [17725, 17649]
+wounded <> w: 206573, p: [36299, 36299]
+wow <> w: 206577, p: [52109]
+woylie <> w: 220392
+wrangle <> w: 206583, p: [49125]
+wrangling <> w: 206585
+wrap <> w: 206586, p: [18788, 43030, 26517, 19142]
+wrap-up <> p: [18788, 27886]
+wraparound <> w: 206588, p: [39803]
+wrapper <> w: 206591, p: [26517]
+wrapping <> w: 206592, p: [26517]
+wrapping paper <> w: 206593, p: [35742]
+wrasse <> w: 206594, p: [24831]
+wrath <> w: 206595, p: [52143]
+wrathful <> w: 206596
+wrathfully <> w: 206597
+wreak <> w: 206599
+wreath <> w: 206600
+wreck <> w: 206602, p: [18882, 30050]
+wreckage <> w: 206603
+wrecked <> w: 206604
+wrecker <> w: 206605, p: [33555]
+wrecking ball <> p: [31903]
+wren <> w: 206609, p: [25118]
+wrench <> w: 206612, p: [22546, 37005]
+wrest <> w: 206614
+wrestle <> w: 206616, p: [33894]
+wrestler <> w: 206617, p: [33894]
+wrestling <> w: 206618, p: [33894]
+wretch <> w: 206623
+wretched <> w: 206624, p: [20213]
+wretchedness <> w: 206626
+wriggle <> w: 206628
+wriggle out of <> p: [52469]
+wriggly <> w: 206631, p: [17246]
+wring <> w: 206633, p: [46808]
+wringer <> w: 206636, p: [42252]
+wrinkle <> w: 206637, p: [29942, 46926]
+wrinkled <> w: 206639, p: [30201, 33324]
+wrinkly <> w: 206642, p: [30201]
+wrist <> w: 206643, p: [50661]
+wristband <> w: 206650, p: [25401, 51282]
+wristlet <> w: 206651, p: [34590, 34494]
+wristwatch <> w: 206652, p: [51532]
+writ <> w: 206653
+write <> w: 206664, p: [48551, 51486]
+write in <> p: [52683]
+write-down <> p: [53065]
+write-in <> p: [52683]
+write-off <> w: 206668
+write-up <> w: 210295
+writer <> w: 206679, p: [39197]
+writer's block <> w: 206680
+writer's cramp <> w: 206681
+writhe <> w: 206683
+writing <> w: 206687, p: [48551]
+writing desk <> w: 206691, p: [17381]
+written <> w: 206700
+wrong <> w: 206715, p: [60700, 16513, 34109, 19414, 49760]
+wrongdoer <> w: 206719, p: [31757]
+wrongful <> w: 206721, p: [49618]
+wrongfully <> w: 206724, p: [49618]
+wrongfulness <> w: 206725
+wrongly <> w: 206728, p: [49760]
+wroth <> w: 206730
+wrought <> w: 206732, p: [22997]
+wry <> w: 206734
+wrybill <> w: 220567
+wryneck <> w: 206738
+wunderkind <> w: 211813
+wushu <> w: 229534
+wuss <> w: 206752
+wussy <> w: 229175
+wye <> w: 206764

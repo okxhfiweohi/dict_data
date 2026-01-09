@@ -1,0 +1,2247 @@
+L <> s: ls
+L-plate <> s: l-plates
+La <> s: las
+lab <> s: labs
+label <> s: labels, d: labelled, i: labelling, p: labelled, '3': labels
+labeled <> b: label, f: d, p: labeled
+labelled <> b: label, f: dp, d: labelled, p: labelled
+labeller <> s: labellers
+labellers <> b: labeller, f: s
+labelling <> b: label, f: i, i: labelling, s: labellings
+labelmate <> s: labelmates, '3': labelmates
+labelmates <> b: labelmate, f: s3
+labels <> b: label, f: s3
+labia <> s: labia, b: labia, f: s
+labial <> s: labials
+labialize <> i: labializing, p: labialized, '3': labializes, d: labialized
+labialized <> f: pd, b: labialize
+labializes <> f: '3', b: labialize
+labializing <> f: i, b: labialize
+labials <> b: labial, f: s
+labor <> s: labors, i: laboring, p: labored, '3': labors, d: labored
+laboratories <> b: laboratory, f: s
+laboratory <> s: laboratories
+labored <> b: labore, f: dp
+laborer <> s: laborers
+laborers <> b: laborer, f: s
+labors <> b: labor, f: s
+labour <> s: labours, i: labouring, p: laboured, d: laboured, '3': labours
+laboured <> b: labour, f: pd, d: laboured, p: laboured
+labourer <> s: labourers
+labourers <> b: labourer, f: s
+labouring <> b: labour, f: i, i: labouring
+labourist <> s: labourists
+labourists <> b: labourist, f: s
+labours <> f: s3, b: labour
+labrador <> s: labradors
+labradors <> b: labrador, f: s
+labs <> b: lab, f: s
+laburnum <> s: laburnums
+laburnums <> b: laburnum, f: s
+labyrinth <> s: labyrinths
+labyrinthodont <> s: labyrinthodonts
+labyrinthodonts <> b: labyrinthodont, f: s
+labyrinths <> b: labyrinth, f: s
+laccolith <> s: laccoliths
+laccoliths <> b: laccolith, f: s
+lace <> s: laces, d: laced, p: laced, i: lacing, '3': laces
+lace-up <> s: lace-ups
+lace-ups <> b: lace-up, f: s
+laced <> b: lace, f: dp, p: laced
+Lacedaemonian <> s: lacedaemonians
+lacemaking <> b: lacemake, f: i
+lacerate <> i: lacerating, d: lacerated, p: lacerated, '3': lacerates
+lacerated <> b: lacerate, f: dp, d: lacerated
+lacerates <> f: '3', b: lacerate
+lacerating <> b: lacerate, f: i, i: lacerating
+laceration <> s: lacerations
+lacerations <> b: laceration, f: s
+laces <> b: lace, f: s3
+lacewing <> s: lacewings, i: lacewing, b: lacewing, f: i
+lacewings <> b: lacewing, f: s
+lach <> s: laches
+laches <> b: lach, f: s
+lacing <> b: lace, f: i, i: lacing, s: lacings
+lack <> i: lacking, p: lacked, '3': lacks, d: lacked
+lacked <> b: lack, f: pd
+lackey <> s: lackeys
+lackeys <> b: lackey, f: s
+lacking <> b: lack, f: i, i: lacking, s: lackings
+lacks <> b: lack, f: '3'
+lacquer <> p: lacquered, s: lacquers, d: lacquered, i: lacquering, '3': lacquers
+lacquered <> b: lacquer, f: pd, p: lacquered, d: lacquered
+lacquering <> b: lacquer, f: i
+lacquers <> f: s3, b: lacquer
+lactate <> i: lactating, '3': lactates, s: lactates, p: lactated, d: lactated
+lactated <> f: pd, b: lactate
+lactates <> b: lactate, f: 3s
+lactating <> b: lactate, f: i, i: lactating
+lactone <> s: lactones
+lactones <> b: lactone, f: s
+lacunae <> s: lacunae, b: lacunae, f: s
+lad <> s: lads
+ladder <> s: ladders, d: laddered, p: laddered, i: laddering, '3': ladders
+laddered <> b: ladder, f: dp
+laddering <> f: i, b: ladder
+ladders <> f: s3, b: ladder
+lade <> s: lades, i: lading, p: laded, '3': lades, d: laden
+laded <> f: p, b: lade
+laden <> b: load, f: d, d: laden, i: lading, p: laded, '3': lades
+lades <> f: s3, b: lade
+lading <> f: i, b: lade, s: ladings
+Ladino <> s: ladinos
+ladinos <> b: ladino, f: s
+ladle <> p: ladled, s: ladles, i: ladling, '3': ladles, d: ladled
+ladled <> b: ladle, f: pd
+ladles <> b: ladle, f: s3
+ladling <> b: ladle, f: i
+lads <> b: lad, f: s
+lady <> s: ladies
+ladybird <> s: ladybirds
+ladybirds <> b: ladybird, f: s
+ladykiller <> s: ladykillers
+ladykillers <> b: ladykiller, f: s
+lag <> i: lagging, '3': lags, s: lags, d: lagged, p: lagged
+lager <> s: lagers, d: lagered, p: lagered
+lagered <> b: lager, f: dp
+lagers <> b: lager, f: s
+laggard <> s: laggards
+laggards <> b: laggard, f: s
+lagged <> b: lag, f: dp, p: lagged, d: lagged
+lagger <> s: laggers
+laggers <> b: lagger, f: s
+lagging <> b: lag, f: i, i: lagging
+lagomorph <> s: lagomorphs
+lagomorphs <> b: lagomorph, f: s
+lagoon <> s: lagoons
+lagoons <> b: lagoon, f: s
+lags <> b: lag, f: 3s
+lahar <> s: lahars
+lahars <> b: lahar, f: s
+lai <> s: lai, b: lai, f: s
+laicize <> i: laicizing, p: laicized, '3': laicizes, d: laicized
+laicized <> f: pd, b: laicize
+laicizes <> f: '3', b: laicize
+laicizing <> f: i, b: laicize
+laid <> b: lay, f: dp, p: laid, d: laid
+lain <> b: lie, f: d
+lair <> s: lairs
+lairage <> '3': lairages
+lairages <> b: lairage, f: '3'
+laird <> s: lairds
+lairds <> b: laird, f: s
+lairs <> b: lair, f: s
+lakato <> s: lakatos
+Lakatos <> b: lakato, f: s
+lake <> s: lakes
+Lakeland <> s: lakelands
+Laker <> s: lakers
+lakers <> b: laker, f: s
+lakes <> b: lake, f: s
+lakh <> s: lakhs
+lakhs <> b: lakh, f: s
+Lally <> s: lallies
+lallygag <> i: lallygagging, p: lallygagged, '3': lallygags, d: lallygagged
+lallygagged <> f: pd, b: lallygag
+lallygagging <> f: i, b: lallygag
+lallygags <> f: '3', b: lallygag
+lam <> i: lamming, d: lammed, p: lammed, '3': lams
+lama <> s: lamas
+Lamarckian <> s: lamarckians
+lamas <> b: lama, f: s
+lamb <> s: lambs, i: lambing, p: lambed, '3': lambs, d: lambed
+lambast <> p: lambasted, i: lambasting, d: lambasted, '3': lambasts
+lambaste <> i: lambasting, p: lambasted, '3': lambasts, d: lambasted
+lambasted <> b: lambast, f: pd
+lambasting <> b: lambast, f: i
+lambasts <> b: lambast, f: '3'
+lambed <> f: pd, b: lamb
+lambing <> s: lambings, i: lambing, b: lambing, f: i
+lamborghini <> s: lamborghini, b: lamborghini, f: s
+lambs <> f: s3, b: lamb
+lambskin <> s: lambskins
+lambskins <> b: lambskin, f: s
+lame <> '3': lames, d: lamed, p: lamed, i: laming, t: lamest, r: lamer
+lamed <> b: lame, f: dp
+lamellibranch <> s: lamellibranchs
+lamellibranchs <> b: lamellibranch, f: s
+lament <> p: lamented, '3': laments, i: lamenting, d: lamented, s: laments
+lamentation <> s: lamentations
+lamentations <> b: lamentation, f: s
+lamented <> b: lament, f: pd, p: lamented
+lamenting <> b: lament, f: i, i: lamenting
+laments <> b: lament, f: 3s
+lamer <> b: lame, f: r
+lames <> b: lame, f: '3'
+lamest <> b: lame, f: t
+lamia <> s: lamias
+lamias <> b: lamia, f: s
+lamina <> s: laminas
+laminas <> b: lamina, f: s
+laminate <> s: laminates, p: laminated, i: laminating, d: laminated, '3': laminates
+laminated <> d: laminated, b: laminated, f: dp, p: laminated
+laminates <> b: laminate, f: s3
+laminating <> b: laminate, f: i
+lamination <> s: laminations
+laminations <> b: lamination, f: s
+laming <> b: lame, f: i
+lamington <> s: lamingtons
+lamingtons <> b: lamington, f: s
+lammed <> b: lam, f: dp
+lamming <> b: lam, f: i
+lamp <> s: lamps
+lampoon <> p: lampooned, d: lampooned, i: lampooning, s: lampoons, '3': lampoons
+lampooned <> b: lampoon, f: pd, p: lampooned
+lampooning <> b: lampoon, f: i
+lampoons <> b: lampoon, f: s3
+lamppost <> s: lampposts
+lampposts <> b: lamppost, f: s
+lamprey <> s: lampreys
+lampreys <> b: lamprey, f: s
+lamps <> b: lamp, f: s
+lampshade <> s: lampshades
+lampshades <> b: lampshade, f: s
+lams <> f: '3', b: lam
+LAN <> s: lans
+lanai <> s: lanai, b: lanai, f: s
+Lancastrian <> s: lancastrians
+lance <> s: lances, p: lanced, i: lancing, d: lanced, '3': lances
+lanced <> b: lance, f: pd
+lancer <> s: lancers
+lancers <> b: lancer, f: s
+lances <> f: s3, b: lance
+lancet <> s: lancets
+lancets <> b: lancet, f: s
+Lancing <> b: lance, f: i
+land <> s: lands, p: landed, d: landed, i: landing, '3': lands
+landau <> s: landaus
+landaus <> b: landau, f: s
+lande <> s: landes
+landed <> b: land, f: pd, p: landed, d: landed
+lander <> s: landers
+landers <> b: lander, f: s
+Landes <> b: lande, f: s
+landfall <> s: landfalls
+landfalls <> b: landfall, f: s
+landfill <> s: landfills
+landfilling <> b: landfil, f: i
+landfills <> b: landfill, f: s
+landform <> s: landforms
+landforms <> b: landform, f: s
+landholder <> s: landholders
+landholders <> b: landholder, f: s
+landholding <> s: landholdings, i: landholding, b: landholding, f: i
+landholdings <> b: landholding, f: s
+landing <> b: land, f: i, i: landing, s: landings
+landladies <> b: landlady, f: s
+landlady <> s: landladies
+landline <> s: landlines
+landlines <> b: landline, f: s
+landlock <> p: landlocked, d: landlocked, i: landlocking
+landlocked <> p: landlocked, b: landlocked, f: p
+landlocking <> b: landlock, f: i
+landlord <> s: landlords
+landlords <> b: landlord, f: s
+landlubber <> s: landlubbers
+landlubbers <> b: landlubber, f: s
+landmark <> s: landmarks, i: landmarking
+landmarking <> b: landmark, f: i
+landmarks <> b: landmark, f: s
+landmass <> s: landmasses
+landmasses <> b: landmass, f: s
+landmine <> s: landmines
+landmines <> b: landmine, f: s
+landowner <> s: landowners
+landowners <> b: landowner, f: s
+landplane <> s: landplanes
+landplanes <> b: landplane, f: s
+landrover <> s: landrovers
+landrovers <> b: landrover, f: s
+lands <> b: land, f: s3
+landscape <> s: landscapes, d: landscaped, i: landscaping, p: landscaped, '3': landscapes
+landscaped <> f: dp, b: landscape, d: landscaped
+landscaper <> s: landscapers
+landscapers <> b: landscaper, f: s
+landscapes <> f: s3, b: landscape
+landscaping <> b: landscape, f: i, i: landscaping
+landslide <> s: landslides, i: landsliding
+landslides <> b: landslide, f: s
+landsliding <> b: landslide, f: i
+landslip <> s: landslips, i: landslipping
+landslipping <> b: landslip, f: i
+landslips <> b: landslip, f: s
+landsman <> s: landsmen
+landsmen <> b: landsman, f: s
+lane <> s: lanes
+lanes <> b: lane, f: s
+lange <> '3': langes
+langes <> b: lange, f: '3'
+langoustine <> s: langoustines
+langoustines <> b: langoustine, f: s
+language <> s: languages
+languages <> b: language, f: s
+languish <> i: languishing, p: languished, '3': languishes, d: languished, s: languishes
+languished <> b: languish, f: pd
+languishes <> b: languish, f: 3s
+languishing <> b: languish, f: i, i: languishing
+langur <> s: langurs
+langurs <> b: langur, f: s
+lans <> b: lan, f: s
+lantern <> s: lanterns
+lanterns <> b: lantern, f: s
+lanthanide <> s: lanthanides
+lanthanides <> b: lanthanide, f: s
+lanyard <> s: lanyards
+lanyards <> b: lanyard, f: s
+Laotian <> s: laotians
+lap <> s: laps, d: lapped, i: lapping, p: lapped, '3': laps
+laparoscopies <> b: laparoscopy, f: s
+laparoscopy <> s: laparoscopies
+laparotomies <> b: laparotomy, f: s
+laparotomy <> s: laparotomies
+lapdog <> s: lapdogs
+lapdogs <> b: lapdog, f: s
+lapel <> s: lapels
+lapels <> b: lapel, f: s
+lapidaries <> b: lapidary, f: s
+lapidary <> s: lapidaries
+lapilli <> s: lapilli, b: lapilli, f: s
+Lapp <> s: lapps
+lapped <> b: lap, f: dp
+lappet <> '3': lappets, s: lappets
+lappets <> b: lappet, f: 3s
+lapping <> b: lap, f: i, i: lapping, s: lappings
+lapps <> b: lapp, f: s
+laps <> b: lap, f: s3
+lapse <> s: lapses, p: lapsed, d: lapsed, i: lapsing, '3': lapses
+lapsed <> b: lapse, f: pd, p: lapsed, d: lapsed
+lapses <> b: lapse, f: s3
+lapsing <> b: lapse, f: i, i: lapsing
+laptop <> s: laptops
+laptops <> b: laptop, f: s
+lapw <> i: lapwing
+lapwing <> s: lapwings, b: lapw, f: i
+lapwings <> b: lapwing, f: s
+lar <> s: lars
+larcenies <> b: larceny, f: s
+larceny <> s: larcenies
+larch <> s: larches
+larches <> b: larch, f: s
+lard <> d: larded, i: larding, p: larded, '3': lards
+larded <> b: lard, f: dp
+larder <> s: larders
+larders <> b: larder, f: s
+larding <> b: lard, f: i
+lards <> f: '3', b: lard
+lare <> s: lares
+lares <> b: lare, f: s
+large <> r: larger, t: largest
+larger <> b: large, f: r
+largess <> s: largesses
+largesses <> b: largess, f: s
+largest <> b: large, f: t
+lark <> s: larks, i: larking, p: larked, d: larked, '3': larks
+larked <> b: lark, f: pd
+larking <> b: lark, f: i, i: larking
+larks <> f: s3, b: lark
+larkspur <> s: larkspurs
+larkspurs <> b: larkspur, f: s
+larn <> i: larning, p: larned, '3': larns, d: larned
+larned <> f: pd, b: larn
+larning <> f: i, b: larn
+larns <> f: '3', b: larn
+larrikin <> s: larrikins
+larrikins <> b: larrikin, f: s
+larrup <> i: larruping, p: larruped, '3': larrups, d: larruped
+larruped <> f: pd, b: larrup
+larruping <> f: i, b: larrup
+larrups <> f: '3', b: larrup
+lars <> b: lar, f: s
+larva <> s: larvae
+larvae <> b: larva, f: s
+larvicide <> s: larvicides
+larvicides <> b: larvicide, f: s
+las <> b: la, f: s
+lasagna <> s: lasagnas
+lasagnas <> b: lasagna, f: s
+lasagne <> s: lasagnes
+lasagnes <> b: lasagne, f: s
+lase <> i: lasing, p: lased, t: lasest
+lased <> b: lase, f: p
+laser <> s: lasers, p: lasered, d: lasered, i: lasering
+lasered <> b: laser, f: pd
+lasering <> b: laser, f: i
+laserjet <> s: laserjets
+laserjets <> b: laserjet, f: s
+lasers <> b: laser, f: s
+lasest <> b: lase, f: t
+lash <> s: lashes, p: lashed, i: lashing, d: lashed, '3': lashes
+lash-up <> s: lash-ups
+lash-ups <> b: lash-up, f: s
+lashed <> b: lash, f: pd
+lashes <> b: lash, f: s3
+lashing <> b: lash, f: i, s: lashings, i: lashing
+lashings <> b: lashing, f: s
+lasing <> b: lase, f: i
+Laski <> s: laski, b: laski, f: s
+lass <> s: lasses
+lasses <> b: lass, f: s
+lassi <> s: lassi, b: lassi, f: s
+lassies <> b: lassy, f: s
+lasso <> i: lassoing, s: lassos, p: lassoed, '3': lassos, d: lassoed
+lassoed <> b: lassoe, f: pd
+lassoing <> b: lasso, f: i
+lassos <> f: s3, b: lasso
+lassy <> s: lassies
+last <> p: lasted, '3': lasts, i: lasting, d: lasted
+lasted <> b: last, f: pd
+lasting <> b: last, f: i, i: lasting
+lasts <> b: last, f: '3'
+lat <> s: lats
+latch <> p: latched, s: latches, i: latching, d: latched, '3': latches
+latched <> b: latch, f: pd
+latches <> b: latch, f: s3
+latching <> b: latch, f: i
+late <> r: later, t: latest
+latecomer <> s: latecomers
+latecomers <> b: latecomer, f: s
+latelier <> b: lately, f: r
+lately <> r: latelier
+latencies <> b: latency, f: s
+latency <> s: latencies
+later <> b: late, f: r
+lateral <> s: laterals
+laterals <> b: lateral, f: s
+laterite <> s: laterites
+laterites <> b: laterite, f: s
+latest <> b: late, f: t
+latex <> s: latexes
+latexes <> b: latex, f: s
+lath <> s: laths
+lathe <> s: lathes
+lather <> p: lathered, d: lathered, s: lathers, '3': lathers, i: lathering
+lathered <> b: lather, f: pd
+lathering <> b: lather, f: i
+lathers <> b: lather, f: s3
+lathes <> b: lathe, f: s
+laths <> b: lath, f: s
+Latin <> s: latins
+Latinism <> s: latinisms
+Latinist <> s: latinists
+Latino <> s: latinos
+latitude <> s: latitudes
+latitudes <> b: latitude, f: s
+latitudinarian <> s: latitudinarians
+latitudinarians <> b: latitudinarian, f: s
+latke <> s: latkes
+latkes <> b: latke, f: s
+latrine <> s: latrines
+latrines <> b: latrine, f: s
+lats <> b: lat, f: s
+lattice <> s: lattices, p: latticed
+latticed <> b: lattice, f: p, p: latticed
+lattices <> b: lattice, f: s
+Latvian <> s: latvians
+lau <> s: laus
+laud <> d: lauded, p: lauded, i: lauding, '3': lauds
+lauded <> b: laud, f: dp, p: lauded
+lauding <> b: laud, f: i, i: lauding
+lauds <> b: laud, f: '3'
+laugh <> p: laughed, i: laughing, '3': laughs, d: laughed, s: laughs
+laughed <> b: laugh, f: pd
+laughing <> b: laugh, f: i, i: laughing
+laughingstock <> s: laughingstocks
+laughingstocks <> b: laughingstock, f: s
+laughs <> b: laugh, f: 3s
+launch <> d: launched, p: launched, i: launching, '3': launches, s: launches
+launched <> b: launch, f: dp, p: launched
+launcher <> s: launchers
+launchers <> b: launcher, f: s
+launches <> b: launch, f: 3s
+launching <> b: launch, f: i, i: launching
+launder <> d: laundered, i: laundering, p: laundered, s: launders, '3': launders
+laundered <> b: launder, f: dp
+launderer <> s: launderers
+launderers <> b: launderer, f: s
+launderette <> s: launderettes
+launderettes <> b: launderette, f: s
+laundering <> b: launder, f: i, i: laundering
+launders <> b: launder, f: s3
+laundress <> s: laundresses
+laundresses <> b: laundress, f: s
+laundrette <> s: laundrettes
+laundrettes <> b: laundrette, f: s
+laundries <> b: laundry, f: s
+laundromat <> s: laundromats
+laundry <> s: laundries
+laundryman <> s: laundrymen
+laundrymen <> b: laundryman, f: s
+laureate <> s: laureates
+laureates <> b: laureate, f: s
+laurel <> s: laurels
+laurels <> b: laurel, f: s
+laus <> b: lau, f: s
+Lautrec <> s: lautrecs
+lava <> s: lavas
+Laval <> s: lavals
+lavas <> b: lava, f: s
+lavatories <> b: lavatory, f: s
+lavatory <> s: lavatories
+lave <> p: laved, d: laved, i: laving, '3': laves
+laved <> b: lave, f: pd
+lavender <> s: lavenders
+lavenders <> b: lavender, f: s
+laver <> i: lavering
+lavering <> b: laver, f: i
+laves <> f: '3', b: lave
+laving <> b: lave, f: i
+lavish <> d: lavished, p: lavished, i: lavishing, '3': lavishes
+lavished <> b: lavish, f: dp
+lavishes <> b: lavish, f: '3'
+lavishing <> b: lavish, f: i
+Lavoisier <> b: lavoisy, f: r
+law <> s: laws
+law-breaker <> s: law-breakers
+law-breakers <> b: law-breaker, f: s
+lawbreaker <> s: lawbreakers
+lawbreakers <> b: lawbreaker, f: s
+lawbreaking <> b: lawbreak, f: i
+lawcourt <> s: lawcourts
+lawcourts <> b: lawcourt, f: s
+Lawford <> s: lawfords
+lawgiver <> s: lawgivers
+lawgivers <> b: lawgiver, f: s
+lawks <> b: lawk, f: s
+Lawler <> s: lawlers
+lawmaker <> s: lawmakers
+lawmakers <> b: lawmaker, f: s
+lawmaking <> i: lawmaking, b: lawmaking, f: i
+lawman <> s: lawmen
+lawmen <> b: lawman, f: s
+lawn <> s: lawns
+lawnmower <> s: lawnmowers
+lawnmowers <> b: lawnmower, f: s
+lawns <> b: lawn, f: s
+laws <> b: law, f: s
+lawsuit <> s: lawsuits
+lawsuits <> b: lawsuit, f: s
+lawyer <> s: lawyers
+lawyers <> b: lawyer, f: s
+laxative <> s: laxatives
+laxatives <> b: laxative, f: s
+Laxton <> s: laxtons
+lay <> b: lie, f: p, d: laid, p: laid, i: laying, '3': lays
+lay-by <> s: lay-bys
+lay-bys <> b: lay-by, f: s
+lay-off <> s: lay-offs
+lay-offs <> b: lay-off, f: s
+layabout <> s: layabouts, '3': layabouts
+layabouts <> b: layabout, f: s3
+layaway <> s: layaways
+layaways <> b: layaway, f: s
+layback <> i: laybacking, p: laybacked, s: laybacks
+laybacked <> b: layback, f: p
+laybacking <> b: layback, f: i, i: laybacking
+laybacks <> b: layback, f: s
+layby <> s: laybys
+laybys <> b: layby, f: s
+layer <> s: layers, d: layered, i: layering, p: layered, '3': layers
+layered <> b: layer, f: dp, d: layered
+layering <> b: layer, f: i, i: layering, s: layerings
+layers <> f: s3, b: layer
+laying <> b: lay, f: i, i: laying
+layman <> s: laymen
+laymen <> b: layman, f: s
+layoff <> s: layoffs
+layoffs <> b: layoff, f: s
+layout <> s: layouts
+layouts <> b: layout, f: s
+laywoman <> s: laywomen
+laywomen <> b: laywoman, f: s
+Lazard <> s: lazards
+lazaretto <> s: lazarettos
+lazarettos <> b: lazaretto, f: s
+laze <> i: lazing, p: lazed, d: lazed, '3': lazes
+lazed <> b: laze, f: pd
+lazes <> f: '3', b: laze
+lazier <> b: lazy, f: r
+laziest <> b: lazy, f: t
+lazing <> b: laze, f: i
+lazuli <> s: lazuli, b: lazuli, f: s
+lazy <> t: laziest, r: lazier
+lazybones <> b: lazybone, f: s
+lb <> s: lbs
+lbs <> b: lb, f: s
+lbw <> s: lbws
+lbws <> b: lbw, f: s
+LCD <> s: lcds
+ldc <> s: ldcs
+ldcs <> b: ldc, f: s
+LDL <> s: ldls
+leach <> i: leaching, d: leached, p: leached, '3': leaches
+leachate <> s: leachates
+leachates <> b: leachate, f: s
+leached <> b: leach, f: dp, d: leached, p: leached
+leaches <> b: leach, f: '3'
+leaching <> b: leach, f: i, i: leaching
+lead <> p: led, d: led, i: leading, '3': leads, s: leads, b: lead, f: d
+leaden <> i: leadening
+leadening <> b: leaden, f: i
+leader <> s: leaders
+leaderboard <> s: leaderboards
+leaderboards <> b: leaderboard, f: s
+leaders <> b: leader, f: s
+leadership <> s: leaderships
+leaderships <> b: leadership, f: s
+leading <> b: lead, f: i, i: leading
+leading-edge <> s: leading-edges
+leading-edges <> b: leading-edge, f: s
+leads <> b: lead, f: 3s
+leaf <> s: leaves, i: leafing, p: leafed, '3': leafs, d: leafed
+leafed <> f: pd, b: leaf, d: leafed, p: leafed
+leafhopper <> s: leafhoppers
+leafhoppers <> b: leafhopper, f: s
+leafier <> b: leafy, f: r
+leafing <> b: leaf, f: i
+leaflet <> s: leaflets
+leaflets <> b: leaflet, f: s
+leafs <> f: '3', b: leaf
+leafy <> r: leafier
+league <> s: leagues, i: leaguing, p: leagued, '3': leagues, d: leagued
+leagued <> f: pd, b: league
+leaguer <> s: leaguers
+leaguers <> b: leaguer, f: s
+leagues <> f: s3, b: league
+leaguing <> f: i, b: league
+leak <> d: leaked, s: leaks, i: leaking, p: leaked, '3': leaks
+leakage <> s: leakages
+leakages <> b: leakage, f: s
+leaked <> b: leak, f: dp, d: leaked, p: leaked
+leakiest <> b: leaky, f: t
+leaking <> b: leak, f: i, i: leaking, s: leakings
+leaks <> b: leak, f: s3
+leaky <> t: leakiest
+lean <> p: leaned, i: leaning, '3': leans, r: leaner, d: leaned
+lean-to <> s: lean-tos
+lean-tos <> b: lean-to, f: s
+leander <> '3': leanders
+leanders <> b: leander, f: '3'
+leaned <> b: lean, f: pd
+leaner <> b: lean, f: r
+leaning <> b: lean, f: i, s: leanings, i: leaning
+leans <> b: lean, f: '3'
+leant <> b: lean, f: pd
+leap <> p: leapt, i: leaping, s: leaps, '3': leaps, d: leapt
+leaper <> s: leapers
+leapers <> b: leaper, f: s
+leapfrog <> i: leapfrogging, p: leapfrogged, '3': leapfrogs, s: leapfrogs, d: leapfrogged
+leapfrogged <> b: leapfrog, f: pd
+leapfrogging <> b: leapfrog, f: i
+leapfrogs <> b: leapfrog, f: 3s
+leaping <> b: leap, f: i, i: leaping
+leaps <> b: leap, f: s3
+leapt <> b: leap, f: pd
+Lear <> i: learing
+learn <> d: learned, i: learning, p: learned, '3': learns
+learned <> b: learn, f: dp, p: learned, d: learned
+learner <> s: learners
+learners <> b: learner, f: s
+learning <> b: learn, f: i, i: learning
+learns <> b: learn, f: '3'
+lease <> s: leases, d: leased, i: leasing, p: leased, '3': leases
+leased <> b: lease, f: dp, p: leased, d: leased
+leasehold <> s: leaseholds, i: leaseholding
+leaseholder <> s: leaseholders
+leaseholders <> b: leaseholder, f: s
+leaseholding <> b: leasehold, f: i
+leaseholds <> b: leasehold, f: s
+leases <> b: lease, f: s3
+leash <> s: leashes, p: leashed, d: leashed, i: leashing, '3': leashes
+leashed <> b: leash, f: pd, p: leashed
+leashes <> f: s3, b: leash
+leashing <> b: leash, f: i
+leasing <> b: lease, f: i, i: leasing, s: leasings
+leastways <> b: leastway, f: s
+leat <> s: leats
+leather <> s: leathers, i: leathering, p: leathered, '3': leathers, d: leathered
+leathered <> f: pd, b: leather
+leathering <> f: i, b: leather
+leatherjacket <> s: leatherjackets
+leatherjackets <> b: leatherjacket, f: s
+leatherneck <> s: leathernecks
+leathernecks <> b: leatherneck, f: s
+leathers <> f: s3, b: leather
+leats <> b: leat, f: s
+leave <> d: left, p: left, i: leaving, '3': leaves, s: leaves
+leave-taking <> s: leave-takings, i: leave-taking, b: leave-taking, f: i
+leave-takings <> b: leave-taking, f: s
+leaved <> p: leaved, b: leaved, f: p
+leaven <> p: leavened, d: leavened, i: leavening, '3': leavens
+leavened <> b: leaven, f: pd, d: leavened
+leavening <> b: leaven, f: i, i: leavening
+leavens <> b: leaven, f: '3'
+leaver <> s: leavers
+leavers <> b: leaver, f: s
+leaves <> b: leave, f: 3s
+leaving <> b: leave, f: i, i: leaving, s: leavings
+leavings <> b: leaving, f: s
+lec <> s: lecs
+lech <> i: leching
+lecher <> s: lechers
+lechers <> b: lecher, f: s
+leching <> b: lech, f: i
+lecithin <> s: lecithins
+lecithins <> b: lecithin, f: s
+lecs <> b: lec, f: s
+lectern <> s: lecterns
+lecterns <> b: lectern, f: s
+lectin <> s: lectins
+lectins <> b: lectin, f: s
+lector <> s: lectors
+lectors <> b: lector, f: s
+lecture <> s: lectures, i: lecturing, p: lectured, d: lectured, '3': lectures
+lectured <> b: lecture, f: pd
+lecturer <> s: lecturers
+lecturers <> b: lecturer, f: s
+lectures <> b: lecture, f: s3
+lectureship <> s: lectureships
+lectureships <> b: lectureship, f: s
+lecturing <> b: lecture, f: i, i: lecturing
+led <> b: lead, f: pd, s: leds
+lederhosen <> s: lederhosen, b: lederhosen, f: s
+ledge <> s: ledges, p: ledged
+ledged <> b: ledge, f: p
+ledger <> s: ledgers, p: ledgered, i: ledgering
+ledgered <> b: ledger, f: p
+ledgering <> b: ledger, f: i
+ledgers <> b: ledger, f: s
+ledges <> b: ledge, f: s
+leds <> b: led, f: s
+lee <> s: lees
+leeboard <> s: leeboards
+leeboards <> b: leeboard, f: s
+leech <> s: leeches, i: leeching, d: leeched, p: leeched, '3': leeches
+leeched <> b: leech, f: d
+leeches <> b: leech, f: s
+leeching <> b: leech, f: i
+LEED <> f: pd, b: leer, s: leeds, '3': leeds
+leeds <> b: leed, f: s3
+leek <> s: leeks
+leeks <> b: leek, f: s
+leem <> i: leeming
+Leeming <> b: leem, f: i
+leer <> d: leered, b: leer, i: leering, s: leers, f: '3', p: leered, '3': leers
+leeries <> b: leery, f: s
+leering <> b: leer, f: i, i: leering
+leery <> s: leeries
+lees <> b: lee, f: s
+leet <> s: leets
+leets <> b: leet, f: s
+Lefebvre <> s: lefebvres
+left <> b: leave, f: dp, d: left, p: left
+left-hander <> s: left-handers
+left-handers <> b: left-hander, f: s
+left-winger <> s: left-wingers
+left-wingers <> b: left-winger, f: s
+lefties <> b: lefty, f: s
+leftist <> s: leftists
+leftists <> b: leftist, f: s
+leftover <> s: leftovers
+leftovers <> b: leftover, f: s
+lefty <> s: lefties
+leg <> s: legs
+leg-iron <> s: leg-irons
+leg-irons <> b: leg-iron, f: s
+legacies <> b: legacy, f: s
+legacy <> s: legacies
+legalise <> d: legalised, i: legalising, p: legalised
+legalised <> b: legalise, f: dp, d: legalised
+legalising <> b: legalise, f: i
+legalist <> s: legalists
+legalists <> b: legalist, f: s
+legalities <> b: legality, f: s
+legality <> s: legalities
+legalize <> d: legalized, p: legalized, i: legalizing, '3': legalizes
+legalized <> b: legalize, f: dp, p: legalized, d: legalized
+legalizes <> b: legalize, f: '3'
+legalizing <> b: legalize, f: i, i: legalizing
+legate <> s: legates, p: legated
+legated <> b: legate, f: p
+legatee <> s: legatees
+legatees <> b: legatee, f: s
+legates <> b: legate, f: s
+legation <> s: legations
+legations <> b: legation, f: s
+legend <> s: legends
+legends <> b: legend, f: s
+leger <> i: legering, p: legered, s: legers
+legered <> b: leger, f: p, p: legered
+legering <> b: leger, f: i, i: legering
+legers <> b: leger, f: s
+leggier <> b: leggy, f: r
+legging <> s: leggings, i: legging, b: legging, f: i
+leggings <> b: legging, f: s
+leggy <> s: leggys, r: leggier
+leggys <> b: leggy, f: s
+leghorn <> s: leghorns
+leghorns <> b: leghorn, f: s
+legion <> s: legions
+legionaries <> b: legionary, f: s
+legionary <> s: legionaries
+legionnaire <> s: legionnaires
+legionnaires <> b: legionnaire, f: s
+legions <> b: legion, f: s
+legislate <> i: legislating, d: legislated, p: legislated, '3': legislates
+legislated <> b: legislate, f: dp
+legislates <> b: legislate, f: '3'
+legislating <> b: legislate, f: i
+legislation <> s: legislations
+legislations <> b: legislation, f: s
+legislator <> s: legislators
+legislators <> b: legislator, f: s
+legislature <> s: legislatures
+legislatures <> b: legislature, f: s
+legit <> s: legits
+legitimate <> i: legitimating, p: legitimated, '3': legitimates, d: legitimated
+legitimated <> b: legitimate, f: pd
+legitimates <> b: legitimate, f: '3'
+legitimating <> b: legitimate, f: i
+legitimation <> s: legitimations
+legitimations <> b: legitimation, f: s
+legitimatize <> i: legitimatizing, p: legitimatized, '3': legitimatizes, d: legitimatized
+legitimise <> '3': legitimises, d: legitimised, i: legitimising, p: legitimised
+legitimised <> b: legitimise, f: dp, d: legitimised
+legitimises <> b: legitimise, f: '3'
+legitimising <> b: legitimise, f: i
+legitimize <> d: legitimized, p: legitimized, '3': legitimizes, i: legitimizing
+legitimized <> b: legitimize, f: dp
+legitimizes <> b: legitimize, f: '3'
+legitimizing <> b: legitimize, f: i, i: legitimizing
+legits <> b: legit, f: s
+lego <> s: legos
+legos <> b: lego, f: s
+legs <> b: leg, f: s
+legume <> s: legumes, '3': legumes
+legumes <> b: legume, f: s3
+lehr <> '3': lehrs
+lehrs <> b: lehr, f: '3'
+lei <> s: lei, b: lei, f: s
+leigh <> s: leighs
+leighs <> b: leigh, f: s
+leisure <> p: leisured
+leisured <> b: leisure, f: p, p: leisured, d: leisured
+leitmotif <> s: leitmotifs
+leitmotifs <> b: leitmotif, f: s
+lek <> s: leks, i: lekking
+lekking <> b: lek, f: i
+leks <> b: lek, f: s
+lemma <> s: lemmas
+lemmas <> b: lemma, f: s
+lemming <> s: lemmings
+lemmings <> b: lemming, f: s
+lemon <> s: lemons
+lemonade <> s: lemonades
+lemonades <> b: lemonade, f: s
+lemons <> b: lemon, f: s
+lempira <> s: lempiras
+lempiras <> b: lempira, f: s
+lemur <> s: lemurs, '3': lemurs
+lemurs <> b: lemur, f: s3
+len <> i: lening
+lend <> p: lent, '3': lends, d: lent, i: lending
+lender <> s: lenders
+lenders <> b: lender, f: s
+lending <> b: lend, f: i, i: lending, s: lendings
+lends <> b: lend, f: '3'
+length <> s: lengths
+lengthen <> i: lengthening, p: lengthened, d: lengthened, '3': lengthens
+lengthened <> b: lengthen, f: pd, p: lengthened, d: lengthened
+lengthening <> b: lengthen, f: i, i: lengthening
+lengthens <> b: lengthen, f: '3'
+lengthier <> b: lengthy, f: r
+lengthiest <> b: lengthy, f: t
+lengths <> b: length, f: s
+lengthy <> r: lengthier, t: lengthiest
+lening <> b: len, f: i
+Leninist <> s: leninists
+lense <> s: lenses, i: lensing, p: lensed
+lensed <> b: lense, f: p
+lenses <> b: lense, f: s
+lensing <> b: lense, f: i
+lensman <> s: lensmen
+lensmen <> b: lensman, f: s
+lent <> b: lend, f: pd, p: lent, s: lents
+lentil <> s: lentils, '3': lentils
+lentils <> b: lentil, f: s3
+Leo <> s: leos
+leopard <> s: leopards
+leopard-skin <> s: leopard-skins
+leopard-skins <> b: leopard-skin, f: s
+leopards <> b: leopard, f: s
+leotard <> s: leotards
+leotards <> b: leotard, f: s
+lep <> s: leps, i: lepping
+leper <> s: lepers
+lepers <> b: leper, f: s
+lepidopterist <> s: lepidopterists
+lepidopterists <> b: lepidopterist, f: s
+lepping <> b: lep, f: i
+leprechaun <> s: leprechauns, '3': leprechauns
+leprechauns <> b: leprechaun, f: s3
+leps <> b: lep, f: s
+lepton <> s: leptons
+leptons <> b: lepton, f: s
+lesbian <> s: lesbians
+lesbians <> b: lesbian, f: s
+lesbo <> s: lesbos
+lesbos <> b: lesbo, f: s
+lesion <> s: lesions, d: lesioned, i: lesioning, p: lesioned
+lesioned <> b: lesion, f: dp
+lesioning <> b: lesion, f: i
+lesions <> b: lesion, f: s
+lessee <> s: lessees
+lessees <> b: lessee, f: s
+lessen <> d: lessened, p: lessened, i: lessening, '3': lessens
+lessened <> b: lessen, f: dp, p: lessened
+lessening <> b: lessen, f: i, i: lessening
+lessens <> b: lessen, f: '3'
+LESSING <> i: lessing, b: lessing, f: i
+lesson <> s: lessons
+lessons <> b: lesson, f: s
+lessor <> s: lessors
+lessors <> b: lessor, f: s
+let <> i: letting, d: let, b: let, f: dp, p: let, '3': lets
+let-down <> s: let-downs
+let-downs <> b: let-down, f: s
+let-off <> s: let-offs
+let-offs <> b: let-off, f: s
+letch <> i: letching, s: letches
+letches <> b: letch, f: s
+letching <> b: letch, f: i
+lethal <> s: lethals
+lethals <> b: lethal, f: s
+lets <> b: let, f: '3'
+Lett <> '3': letts, s: letts
+letter <> s: letters, p: lettered, i: lettering, '3': letters, d: lettered
+letter bomb <> s: letter bombs
+letter-card <> s: letter-cards
+letter-cards <> b: letter-card, f: s
+letterbox <> s: letterboxes
+letterboxes <> b: letterbox, f: s
+lettered <> f: pd, b: letter, p: lettered
+letterform <> s: letterforms
+letterforms <> b: letterform, f: s
+letterhead <> s: letterheads, i: letterheading
+letterheading <> b: letterhead, f: i, s: letterheadings
+letterheads <> b: letterhead, f: s
+lettering <> f: i, b: letter, s: letterings
+letters <> f: s3, b: letter
+letting <> b: let, f: i, s: lettings, i: letting
+letts <> b: lett, f: 3s
+lettuce <> s: lettuces
+lettuces <> b: lettuce, f: s
+leucocyte <> s: leucocytes
+leucocytes <> b: leucocyte, f: s
+leukaemia <> s: leukaemias
+leukaemias <> b: leukaemia, f: s
+leukocyte <> s: leukocytes
+leukocytes <> b: leukocyte, f: s
+leukotriene <> s: leukotrienes
+leukotrienes <> b: leukotriene, f: s
+lev <> s: levs
+levant <> i: levanting, p: levanted, '3': levants, d: levanted
+levanted <> f: pd, b: levant
+levanting <> f: i, b: levant
+levants <> f: '3', b: levant
+levator <> s: levators
+levators <> b: levator, f: s
+levee <> s: levees
+levees <> b: levee, f: s
+level <> s: levels, d: levelled, p: levelled, i: levelling, '3': levels
+levelled <> b: level, f: dp, p: levelled
+leveller <> s: levellers
+levellers <> b: leveller, f: s
+levelling <> b: level, f: i, i: levelling
+levels <> f: s3, b: level
+lever <> s: levers, p: levered, i: levering, d: levered, '3': levers
+leverage <> i: leveraging, d: leveraged, s: leverages, p: leveraged, '3': leverages
+leveraged <> b: leverage, f: d, d: leveraged
+leverages <> b: leverage, f: s
+leveraging <> b: leverage, f: i
+levered <> b: lever, f: pd, d: levered
+levering <> b: lever, f: i
+levers <> b: lever, f: s3
+leviathan <> s: leviathans
+leviathans <> b: leviathan, f: s
+levied <> b: levy, f: dp
+levies <> b: levy, f: s3
+levin <> s: levins
+levins <> b: levin, f: s
+levitate <> i: levitating, '3': levitates, d: levitated, p: levitated
+levitated <> b: levitate, f: dp
+levitates <> b: levitate, f: '3'
+levitating <> b: levitate, f: i
+Levite <> s: levites
+levs <> b: lev, f: s
+levy <> d: levied, s: levies, i: levying, p: levied, '3': levies
+levying <> b: levy, f: i, i: levying
+lew <> s: lews
+lews <> b: lew, f: s
+lexeme <> s: lexemes
+lexemes <> b: lexeme, f: s
+lexicographer <> s: lexicographers
+lexicographers <> b: lexicographer, f: s
+lexicon <> s: lexicons
+lexicons <> b: lexicon, f: s
+lexigram <> s: lexigrams
+lexigrams <> b: lexigram, f: s
+ley <> s: leys
+Leys <> b: ley, f: s
+lfa <> s: lfas
+lfas <> b: lfa, f: s
+liabilities <> b: liability, f: s
+liability <> s: liabilities
+liaise <> i: liaising, '3': liaises, d: liaised, p: liaised
+liaised <> b: liaise, f: dp
+liaises <> b: liaise, f: '3'
+liaising <> b: liaise, f: i, i: liaising
+liaison <> s: liaisons
+liaisons <> b: liaison, f: s
+liana <> s: lianas
+lianas <> b: liana, f: s
+liar <> s: liars
+liars <> b: liar, f: s
+lib <> s: libs, i: libbing
+libation <> s: libations
+libations <> b: libation, f: s
+libber <> s: libbers
+libbers <> b: libber, f: s
+libbing <> b: lib, f: i
+libel <> d: libelled, s: libels, p: libelled, '3': libels, i: libelling
+libelled <> b: libel, f: dp
+libelling <> b: libel, f: i
+libels <> b: libel, f: s3
+liberal <> s: liberals
+liberalisation <> s: liberalisations
+liberalisations <> b: liberalisation, f: s
+liberalise <> d: liberalised, i: liberalising, p: liberalised, '3': liberalises
+liberalised <> b: liberalise, f: dp
+liberalises <> b: liberalise, f: '3'
+liberalising <> b: liberalise, f: i, i: liberalising
+liberalize <> i: liberalizing, p: liberalized, d: liberalized, '3': liberalizes
+liberalized <> b: liberalize, f: pd
+liberalizes <> f: '3', b: liberalize
+liberalizing <> b: liberalize, f: i
+liberals <> b: liberal, f: s
+liberate <> d: liberated, p: liberated, '3': liberates, i: liberating
+liberated <> b: liberate, f: dp, d: liberated, p: liberated
+liberates <> b: liberate, f: '3'
+liberating <> b: liberate, f: i, i: liberating
+liberationist <> s: liberationists
+liberationists <> b: liberationist, f: s
+liberator <> s: liberators
+liberators <> b: liberator, f: s
+Liberian <> s: liberians
+libero <> s: liberos
+liberos <> b: libero, f: s
+libertarian <> s: libertarians
+libertarians <> b: libertarian, f: s
+liberties <> b: liberty, f: s
+libertine <> s: libertines
+libertines <> b: libertine, f: s
+liberty <> s: liberties
+libido <> s: libidos
+libidos <> b: libido, f: s
+Libran <> s: librans
+librarian <> s: librarians
+librarians <> b: librarian, f: s
+libraries <> b: library, f: s
+library <> s: libraries
+librate <> s: librates, i: librating, p: librated, '3': librates, d: librated
+librated <> f: pd, b: librate
+librates <> f: s3, b: librate
+librating <> f: i, b: librate
+libration <> s: librations
+librations <> b: libration, f: s
+libre <> s: libres
+libres <> b: libre, f: s
+librettist <> s: librettists
+librettists <> b: librettist, f: s
+libretto <> s: librettos
+librettos <> b: libretto, f: s
+libs <> b: lib, f: s
+Libyan <> s: libyans
+lice <> b: louse, f: s
+licence <> s: licences, d: licenced, i: licencing, p: licenced, '3': licences
+licenced <> f: dp, b: licence, p: licenced
+licencee <> s: licencees
+licencees <> b: licencee, f: s
+licences <> f: s3, b: licence
+licencing <> f: i, b: licence
+license <> d: licensed, i: licensing, s: licenses, '3': licenses, p: licensed
+licensed <> b: license, f: dp, d: licensed, p: licensed
+licensee <> s: licensees
+licensees <> b: licensee, f: s
+licenses <> b: license, f: s3
+licensing <> b: license, f: i, i: licensing
+licensor <> s: licensors
+licensors <> b: licensor, f: s
+licentiate <> s: licentiates
+licentiates <> b: licentiate, f: s
+lichen <> s: lichens
+lichened <> p: lichened, b: lichened, f: p
+lichens <> b: lichen, f: s
+licht <> s: lichts
+lichts <> b: licht, f: s
+lick <> p: licked, i: licking, '3': licks, d: licked, s: licks
+licked <> b: lick, f: pd
+licking <> b: lick, f: i, s: lickings, i: licking
+licks <> b: lick, f: 3s
+lid <> s: lids, p: lidded
+lidded <> b: lid, f: p, p: lidded, d: lidded
+lido <> s: lidos
+lidos <> b: lido, f: s
+lids <> b: lid, f: s
+lie <> p: lay, i: lying, '3': lies, s: lies, d: lain
+lie-in <> s: lie-ins
+lie-ins <> b: lie-in, f: s
+lied <> b: lie, f: pd
+liege <> s: lieges
+liegeman <> s: liegemen
+liegemen <> b: liegeman, f: s
+lieges <> b: liege, f: s
+lien <> s: liens
+liens <> b: lien, f: s
+lies <> b: lie, f: 3s
+lieutenancies <> b: lieutenancy, f: s
+lieutenancy <> s: lieutenancies
+lieutenant <> s: lieutenants
+lieutenants <> b: lieutenant, f: s
+life <> s: lives
+lifebelt <> s: lifebelts
+lifebelts <> b: lifebelt, f: s
+lifeboat <> s: lifeboats
+lifeboatman <> s: lifeboatmen
+lifeboatmen <> b: lifeboatman, f: s
+lifeboats <> b: lifeboat, f: s
+lifebuoy <> s: lifebuoys
+lifebuoys <> b: lifebuoy, f: s
+lifeguard <> s: lifeguards, i: lifeguarding
+lifeguarding <> b: lifeguard, f: i
+lifeguards <> b: lifeguard, f: s
+lifeline <> s: lifelines
+lifelines <> b: lifeline, f: s
+lifer <> s: lifers
+lifers <> b: lifer, f: s
+lifesaver <> s: lifesavers
+lifesavers <> b: lifesaver, f: s
+lifesaving <> i: lifesaving, b: lifesaving, f: i
+lifespan <> s: lifespans
+lifespans <> b: lifespan, f: s
+lifestyle <> s: lifestyles
+lifestyles <> b: lifestyle, f: s
+lifetime <> s: lifetimes
+lifetimes <> b: lifetime, f: s
+lift <> p: lifted, d: lifted, i: lifting, s: lifts, '3': lifts
+lift-off <> s: lift-offs
+lift-offs <> b: lift-off, f: s
+lifted <> b: lift, f: pd
+lifter <> s: lifters
+lifters <> b: lifter, f: s
+lifting <> b: lift, f: i, i: lifting, s: liftings
+lifts <> b: lift, f: s3
+lig <> i: ligging, s: ligs, '3': ligs
+ligament <> s: ligaments
+ligaments <> b: ligament, f: s
+ligand <> s: ligands, '3': ligands
+ligands <> b: ligand, f: s3
+ligase <> s: ligases
+ligases <> b: ligase, f: s
+ligate <> d: ligated, p: ligated, i: ligating, '3': ligates
+ligated <> b: ligate, f: dp, p: ligated
+ligates <> f: '3', b: ligate
+ligating <> b: ligate, f: i
+ligation <> s: ligations
+ligations <> b: ligation, f: s
+ligature <> s: ligatures, '3': ligatures
+ligatures <> b: ligature, f: s3
+ligger <> s: liggers, '3': liggers
+liggers <> b: ligger, f: s3
+ligging <> b: lig, f: i, i: ligging
+light <> s: lights, p: lit, d: lit, r: lighter, i: lighting, t: lightest, '3': lights
+lightbulb <> s: lightbulbs
+lighted <> d: lighted, b: lighted, f: dp, p: lighted
+lighten <> d: lightened, i: lightening, p: lightened, '3': lightens
+lightened <> b: lighten, f: dp, d: lightened
+lightening <> b: lighten, f: i, i: lightening, s: lightenings
+lightens <> b: lighten, f: '3'
+lighter <> b: light, f: r, s: lighters
+lighterman <> s: lightermen
+lightermen <> b: lighterman, f: s
+lightest <> b: light, f: t
+Lightfoot <> p: lightfooted
+lighthearted <> b: lightheart, f: pd, p: lighthearted, d: lighthearted
+lighthouse <> s: lighthouses
+lighthouses <> b: lighthouse, f: s
+lighting <> b: light, f: i, i: lighting
+lightness <> s: lightnesses
+lightnesses <> b: lightness, f: s
+lightning <> s: lightnings
+lightnings <> b: lightning, f: s
+lights <> b: light, f: s3
+lightship <> s: lightships
+lightships <> b: lightship, f: s
+lightweight <> s: lightweights
+lightweights <> b: lightweight, f: s
+lignified <> f: pd, b: lignify
+lignifies <> f: '3', b: lignify
+lignify <> i: lignifying, p: lignified, '3': lignifies, d: lignified
+lignin <> s: lignins
+lignins <> b: lignin, f: s
+lignite <> s: lignites
+lignites <> b: lignite, f: s
+ligs <> b: lig, f: s3
+Ligurian <> s: ligurians
+like <> p: liked, '3': likes, d: liked, s: likes, i: liking
+liked <> b: like, f: pd, d: liked, p: liked
+likeliest <> b: likely, f: t
+likelihood <> s: likelihoods
+likelihoods <> b: likelihood, f: s
+likely <> t: likeliest
+liken <> d: likened, p: likened, '3': likens, i: likening
+likened <> b: liken, f: dp
+likeness <> s: likenesses
+likenesses <> b: likeness, f: s
+likening <> b: liken, f: i
+likens <> b: liken, f: '3'
+likes <> b: like, f: 3s
+liking <> b: like, f: i, i: liking, s: likings
+lilac <> s: lilacs
+lilacs <> b: lilac, f: s
+lili <> s: lili, b: lili, f: s
+lilies <> b: lily, f: s
+lillies <> b: lilly, f: s
+Lilliputian <> s: lilliputians
+lilly <> s: lillies
+lilo <> s: lilos
+lilt <> i: lilting, p: lilted, '3': lilts, s: lilts, d: lilted
+lilted <> f: pd, b: lilt
+lilting <> b: lilt, f: i, i: lilting
+lilts <> b: lilt, f: 3s
+lily <> s: lilies
+lily-trotter <> s: lily-trotters
+lily-trotters <> b: lily-trotter, f: s
+lim <> '3': lims, s: lims
+limb <> s: limbs, p: limbed
+limbed <> b: limb, f: p
+limber <> i: limbering, s: limbers, '3': limbers, p: limbered, d: limbered
+limbered <> b: limber, f: pd
+limbering <> b: limber, f: i
+limbers <> b: limber, f: s3
+limbo <> s: limbos
+limbos <> b: limbo, f: s
+limbs <> b: limb, f: s
+lime <> s: limes, i: liming, d: limed, p: limed, '3': limes
+limed <> b: lime, f: dp, p: limed
+limekiln <> s: limekilns
+limekilns <> b: limekiln, f: s
+limerick <> s: limericks
+limericks <> b: limerick, f: s
+limes <> f: s3, b: lime
+limestone <> s: limestones
+limestones <> b: limestone, f: s
+limewash <> d: limewashed, i: limewashing, p: limewashed
+limewashed <> b: limewash, f: dp
+limewashing <> b: limewash, f: i
+limey <> s: limeys
+limeys <> b: limey, f: s
+liming <> b: lime, f: i, i: liming
+limit <> s: limits, d: limited, '3': limits, i: limiting, p: limited
+limitation <> s: limitations
+limitations <> b: limitation, f: s
+limited <> b: limit, f: dp, d: limited, p: limited
+limiter <> s: limiters
+limiters <> b: limiter, f: s
+limiting <> b: limit, f: i, i: limiting
+limits <> b: limit, f: s3
+limn <> p: limned, d: limned, i: limning, '3': limns
+limned <> b: limn, f: pd
+limner <> s: limners
+limners <> b: limner, f: s
+limning <> b: limn, f: i
+limnologist <> s: limnologists
+limnologists <> b: limnologist, f: s
+limns <> f: '3', b: limn
+limo <> s: limos
+Limoge <> s: limoges
+Limoges <> b: limoge, f: s
+limos <> b: limo, f: s
+limousin <> s: limousins
+limousine <> s: limousines
+limousines <> b: limousine, f: s
+limousins <> b: limousin, f: s
+limp <> p: limped, i: limping, d: limped, '3': limps, s: limps, t: limpest
+limped <> b: limp, f: pd
+limpest <> b: limp, f: t
+limpet <> s: limpets
+limpets <> b: limpet, f: s
+limping <> b: limp, f: i, i: limping
+limps <> b: limp, f: 3s
+lims <> b: lim, f: 3s
+lin <> i: linning
+linac <> s: linacs
+linacs <> b: linac, f: s
+linchpin <> s: linchpins
+linchpins <> b: linchpin, f: s
+lind <> s: linds
+linden <> s: lindens
+lindens <> b: linden, f: s
+linds <> b: lind, f: s
+line <> s: lines, d: lined, i: lining, p: lined, '3': lines
+line-out <> s: line-outs
+line-outs <> b: line-out, f: s
+line-up <> s: line-ups
+line-ups <> b: line-up, f: s
+lineage <> s: lineages, '3': lineages
+lineages <> b: lineage, f: s3
+lineament <> s: lineaments
+lineaments <> b: lineament, f: s
+linearize <> p: linearized, d: linearized, i: linearizing
+linearized <> p: linearized, b: linearized, f: p
+linearizing <> b: linearize, f: i
+linebacker <> s: linebackers
+linebackers <> b: linebacker, f: s
+lined <> b: line, f: dp, d: lined, p: lined
+lineman <> s: linemen
+linemen <> b: lineman, f: s
+linen <> s: linens
+linens <> b: linen, f: s
+lineout <> s: lineouts
+lineouts <> b: lineout, f: s
+liner <> s: liners
+liners <> b: liner, f: s
+lines <> f: s3, b: line
+linesman <> s: linesmen
+linesmen <> b: linesman, f: s
+lineup <> s: lineups
+lineups <> b: lineup, f: s
+ling <> s: lings
+lingam <> s: lingams
+lingams <> b: lingam, f: s
+linger <> p: lingered, '3': lingers, d: lingered, i: lingering
+lingered <> b: linger, f: pd
+lingering <> b: linger, f: i, i: lingering
+lingers <> b: linger, f: '3'
+lings <> b: ling, f: s
+linguini <> s: linguini, b: linguini, f: s
+linguist <> s: linguists
+linguistician <> s: linguisticians
+linguisticians <> b: linguistician, f: s
+linguists <> b: linguist, f: s
+liniment <> s: liniments
+liniments <> b: liniment, f: s
+lining <> b: line, f: i, s: linings, i: lining
+link <> d: linked, s: links, i: linking, '3': links, p: linked
+link-up <> s: link-ups
+link-ups <> b: link-up, f: s
+linkage <> s: linkages
+linkages <> b: linkage, f: s
+linked <> b: link, f: dp, d: linked, p: linked
+linker <> s: linkers
+linkers <> b: linker, f: s
+linking <> b: link, f: i, i: linking, s: linkings
+links <> b: link, f: s3
+linnet <> s: linnets
+linnets <> b: linnet, f: s
+linning <> b: lin, f: i
+lino <> s: linos
+linocut <> s: linocuts
+linocuts <> b: linocut, f: s
+linos <> b: lino, f: s
+lintel <> s: lintels
+lintels <> b: lintel, f: s
+linter <> s: linters
+linters <> b: linter, f: s
+lion <> s: lions
+lioness <> s: lionesses
+lionesses <> b: lioness, f: s
+lionize <> p: lionized, d: lionized, i: lionizing, '3': lionizes
+lionized <> b: lionize, f: pd
+lionizes <> f: '3', b: lionize
+lionizing <> f: i, b: lionize
+lions <> b: lion, f: s
+lip <> s: lips, d: lipped
+lip-read <> i: lip-reading, s: lip-reads, p: lip-read, '3': lip-reads, d: lip-read
+lip-reads <> b: lip-read, f: s
+lipase <> s: lipases
+lipases <> b: lipase, f: s
+lipid <> s: lipids
+lipids <> b: lipid, f: s
+lipogram <> s: lipograms
+lipograms <> b: lipogram, f: s
+lipopolysaccharide <> s: lipopolysaccharides
+lipopolysaccharides <> b: lipopolysaccharide, f: s
+lipoprotein <> s: lipoproteins
+lipoproteins <> b: lipoprotein, f: s
+liposome <> s: liposomes
+liposomes <> b: liposome, f: s
+lipped <> b: lip, f: d, d: lipped
+lips <> b: lip, f: s
+lipstick <> s: lipsticks, i: lipsticking, p: lipsticked
+lipsticked <> b: lipstick, f: p, d: lipsticked
+lipsticking <> b: lipstick, f: i
+lipsticks <> b: lipstick, f: s
+liquefied <> b: liquefy, f: pd, p: liquefied
+liquefies <> b: liquefy, f: '3'
+liquefy <> p: liquefied, '3': liquefies, i: liquefying, d: liquefied
+liqueur <> s: liqueurs
+liqueurs <> b: liqueur, f: s
+liquid <> s: liquids
+liquidate <> d: liquidated, i: liquidating, p: liquidated, '3': liquidates
+liquidated <> b: liquidate, f: dp, p: liquidated, d: liquidated
+liquidates <> f: '3', b: liquidate
+liquidating <> b: liquidate, f: i, i: liquidating
+liquidation <> s: liquidations
+liquidations <> b: liquidation, f: s
+liquidator <> s: liquidators
+liquidators <> b: liquidator, f: s
+liquidize <> i: liquidizing, p: liquidized, '3': liquidizes, d: liquidized
+liquidized <> f: pd, b: liquidize
+liquidizes <> f: '3', b: liquidize
+liquidizing <> b: liquidize, f: i
+liquids <> b: liquid, f: s
+liquified <> b: liquify, f: dp, d: liquified
+liquifies <> b: liquify, f: '3'
+liquify <> d: liquified, '3': liquifies, i: liquifying, p: liquified
+liquifying <> b: liquify, f: i
+liquor <> s: liquors
+liquorice <> s: liquorices
+liquorices <> b: liquorice, f: s
+liquors <> b: liquor, f: s
+lira <> s: liras
+liras <> b: lira, f: s
+lisle <> s: lisles
+lisles <> b: lisle, f: s
+lisp <> p: lisped, '3': lisps, i: lisping, s: lisps, d: lisped
+lisped <> f: pd, b: lisp
+lisping <> b: lisp, f: i, s: lispings
+lisps <> b: lisp, f: 3s
+list <> s: lists, d: listed, p: listed, '3': lists, i: listing
+listed <> b: list, f: dp, p: listed, d: listed
+listen <> p: listened, i: listening, d: listened, '3': listens
+listened <> b: listen, f: pd
+listener <> s: listeners
+listeners <> b: listener, f: s
+listening <> b: listen, f: i, i: listening, s: listenings
+listens <> b: listen, f: '3'
+lister <> s: listers
+listers <> b: lister, f: s
+listing <> b: list, f: i, s: listings, i: listing
+lists <> b: list, f: s3
+lit <> b: light, f: pd, s: lits
+lita <> s: litas
+litanies <> b: litany, f: s
+litany <> s: litanies
+litas <> b: lita, f: s
+lite <> s: lites
+literacies <> b: literacy, f: s
+literacy <> s: literacies
+literal <> s: literals
+literalist <> s: literalists
+literalists <> b: literalist, f: s
+literalize <> d: literalized, '3': literalizes, i: literalizing, p: literalized
+literalized <> b: literalize, f: dp
+literalizes <> b: literalize, f: '3'
+literalizing <> b: literalize, f: i
+literals <> b: literal, f: s
+literate <> s: literates
+literates <> b: literate, f: s
+literati <> s: literati, b: literati, f: s
+literature <> s: literatures
+literatures <> b: literature, f: s
+lites <> b: lite, f: s
+lith <> s: liths, t: lithest, r: lither
+lither <> b: lith, f: r
+lithest <> b: lith, f: t
+lithium <> s: lithiums
+lithiums <> b: lithium, f: s
+lithograph <> s: lithographs, '3': lithographs, d: lithographed, i: lithographing, p: lithographed
+lithographed <> f: dp, b: lithograph, p: lithographed
+lithographer <> s: lithographers
+lithographers <> b: lithographer, f: s
+lithographic <> s: lithographics
+lithographics <> b: lithographic, f: s
+lithographing <> f: i, b: lithograph
+lithographs <> b: lithograph, f: s3
+lithologies <> b: lithology, f: s
+lithology <> s: lithologies
+lithosol <> s: lithosols, '3': lithosols
+lithosols <> b: lithosol, f: s3
+lithotripter <> s: lithotripters
+lithotripters <> b: lithotripter, f: s
+liths <> b: lith, f: s
+Lithuanian <> s: lithuanians
+lithuanians <> b: lithuanian, f: s
+litigant <> s: litigants
+litigants <> b: litigant, f: s
+litigate <> d: litigated, i: litigating, p: litigated, '3': litigates
+litigated <> b: litigate, f: dp
+litigates <> f: '3', b: litigate
+litigating <> b: litigate, f: i, i: litigating
+litigation <> s: litigations
+litigations <> b: litigation, f: s
+litigator <> s: litigators
+litigators <> b: litigator, f: s
+litre <> s: litres
+litres <> b: litre, f: s
+litter <> d: littered, s: litters, p: littered, i: littering, '3': litters
+litterbug <> s: litterbugs
+litterbugs <> b: litterbug, f: s
+littered <> b: litter, f: dp
+littering <> b: litter, f: i
+littermate <> s: littermates
+littermates <> b: littermate, f: s
+litters <> b: litter, f: s3
+Littler <> b: littl, f: r
+Littlewood <> s: littlewoods
+Littlewoods <> b: littlewood, f: s
+liturgies <> b: liturgy, f: s
+liturgist <> s: liturgists
+liturgists <> b: liturgist, f: s
+liturgy <> s: liturgies
+live <> p: lived, i: living, '3': lives, d: lived, s: lives
+livebearer <> s: livebearers
+livebearers <> b: livebearer, f: s
+lived <> b: live, f: pd
+livelier <> b: lively, f: r
+liveliest <> b: lively, f: t
+livelihood <> s: livelihoods
+livelihoods <> b: livelihood, f: s
+lively <> r: livelier, t: liveliest
+liven <> d: liven, b: liven, f: d, p: livened, i: livening, '3': livens
+livened <> b: liven, f: pd
+livening <> b: liven, f: i
+livens <> b: liven, f: '3'
+liver <> s: livers
+liveried <> b: livery, f: pd, p: liveried
+Liverpudlian <> s: liverpudlians
+livers <> b: liver, f: s
+liverwort <> s: liverworts
+liverworts <> b: liverwort, f: s
+livery <> s: liveries, p: liveried, d: liveried
+liveryman <> s: liverymen
+liverymen <> b: liveryman, f: s
+lives <> b: life, f: s
+Livesey <> s: liveseys
+living <> b: live, f: i, i: living, s: livings
+livre <> s: livres
+livres <> b: livre, f: s
+lizard <> s: lizards
+lizards <> b: lizard, f: s
+lizzies <> b: lizzy, f: s
+lizzy <> s: lizzies
+llama <> s: llamas
+llamas <> b: llama, f: s
+llano <> s: llanos
+llanos <> b: llano, f: s
+ln <> r: lner
+lner <> b: ln, f: r
+lo <> i: loing
+Loa <> s: loas
+loach <> s: loaches
+loaches <> b: loach, f: s
+load <> s: loads, d: loaded, i: loading, p: loaded, '3': loads
+loaded <> b: load, f: dp, d: loaded, p: loaded
+loader <> s: loaders
+loaders <> b: loader, f: s
+loading <> b: load, f: i, i: loading, s: loadings
+loadings <> b: loading, f: s
+loaf <> s: loaves, i: loafing, p: loafed, '3': loafs, d: loafed
+loafed <> f: pd, b: loaf
+loafer <> s: loafers
+loafers <> b: loafer, f: s
+loafing <> b: loaf, f: i
+loafs <> f: s3, b: loaf
+loam <> s: loams
+loams <> b: loam, f: s
+loan <> s: loans, d: loaned, p: loaned, i: loaning, '3': loans
+loaned <> b: loan, f: dp, p: loaned
+loaning <> b: loan, f: i, i: loaning
+loans <> f: s3, b: loan
+loanword <> s: loanwords
+loanwords <> b: loanword, f: s
+loath <> s: loaths
+loathe <> p: loathed, d: loathed, '3': loathes, i: loathing
+loathed <> b: loathe, f: pd, p: loathed
+loathes <> b: loathe, f: '3'
+loathing <> i: loathing, b: loathing, f: i
+loaths <> b: loath, f: s
+loathsome <> t: loathsomest
+loathsomest <> b: loathsome, f: t
+loaves <> b: loaf, f: s
+lob <> p: lobbed, d: lobbed, i: lobbing, s: lobs, '3': lobs
+lobbed <> b: lob, f: pd
+lobbied <> b: lobby, f: dp, p: lobbied
+lobbies <> f: s3, b: lobby
+lobbing <> b: lob, f: i
+lobby <> s: lobbies, i: lobbying, d: lobbied, p: lobbied, '3': lobbies
+lobbying <> b: lobby, f: i, i: lobbying
+lobbyist <> s: lobbyists
+lobbyists <> b: lobbyist, f: s
+lobe <> s: lobes, p: lobed, d: lobed
+lobed <> b: lobe, f: pd
+lobelia <> s: lobelias
+lobelias <> b: lobelia, f: s
+lobes <> b: lobe, f: s
+lobo <> s: lobos
+lobos <> b: lobo, f: s
+lobotomies <> b: lobotomy, f: s
+lobotomy <> s: lobotomies
+lobs <> b: lob, f: s3
+lobster <> s: lobsters
+lobsters <> b: lobster, f: s
+lobule <> s: lobules
+lobules <> b: lobule, f: s
+lobworm <> s: lobworms
+lobworms <> b: lobworm, f: s
+local <> s: locals
+locale <> s: locales
+locales <> b: locale, f: s
+localisation <> s: localisations
+localisations <> b: localisation, f: s
+localise <> d: localised, p: localised, i: localising, '3': localises
+localised <> d: localised, b: localised, f: dp, p: localised
+localises <> b: localise, f: '3'
+localising <> b: localise, f: i
+localist <> s: localists
+localists <> b: localist, f: s
+localities <> b: locality, f: s
+locality <> s: localities
+localize <> d: localized, p: localized, i: localizing, '3': localizes
+localized <> d: localized, b: localized, f: dp, p: localized
+localizes <> b: localize, f: '3'
+localizing <> b: localize, f: i
+locals <> b: local, f: s
+locate <> d: located, p: located, i: locating, '3': locates
+located <> b: locate, f: dp, p: located
+locates <> b: locate, f: '3'
+locating <> b: locate, f: i, i: locating
+location <> s: locations
+locations <> b: location, f: s
+locator <> s: locators
+locators <> b: locator, f: s
+loch <> s: lochs
+lochan <> s: lochans
+lochans <> b: lochan, f: s
+lochs <> b: loch, f: s
+loci <> s: loci, b: loci, f: s
+lock <> d: locked, s: locks, p: locked, i: locking, '3': locks
+lock-in <> s: lock-ins
+lock-ins <> b: lock-in, f: s
+lock-keeper <> s: lock-keepers
+lock-keepers <> b: lock-keeper, f: s
+lock-up <> s: lock-ups
+lock-ups <> b: lock-up, f: s
+locke <> s: lockes
+locked <> b: lock, f: dp, d: locked, p: locked
+locker <> s: lockers
+lockers <> b: locker, f: s
+lockes <> b: locke, f: s
+locket <> s: lockets
+lockets <> b: locket, f: s
+locking <> b: lock, f: i, i: locking, s: lockings
+lockout <> s: lockouts
+lockouts <> b: lockout, f: s
+locks <> b: lock, f: s3
+locksmith <> s: locksmiths
+locksmiths <> b: locksmith, f: s
+locky <> r: lockyer
+Lockyer <> b: locky, f: r
+loco <> s: locos
+locomotive <> s: locomotives
+locomotives <> b: locomotive, f: s
+locos <> b: loco, f: s
+locum <> s: locums
+locums <> b: locum, f: s
+locust <> s: locusts, '3': locusts
+locusts <> b: locust, f: s3
+locution <> s: locutions
+locutions <> b: locution, f: s
+lode <> s: lodes
+lodes <> b: lode, f: s
+lodestar <> s: lodestars
+lodestars <> b: lodestar, f: s
+lodestone <> s: lodestones
+lodestones <> b: lodestone, f: s
+lodge <> d: lodged, i: lodging, p: lodged, s: lodges, '3': lodges
+lodged <> b: lodge, f: dp
+lodgement <> s: lodgements
+lodgements <> b: lodgement, f: s
+lodger <> s: lodgers
+lodgers <> b: lodger, f: s
+lodges <> b: lodge, f: s3
+lodging <> b: lodge, f: i, i: lodging
+lodgings <> s: lodgings, b: lodgings, f: s
+Loewi <> s: loewi, b: loewi, f: s
+loft <> s: lofts, p: lofted, i: lofting, d: lofted, '3': lofts
+lofted <> b: loft, f: pd
+loftier <> b: lofty, f: r
+loftiest <> b: lofty, f: t
+lofting <> b: loft, f: i
+lofts <> b: loft, f: s3
+lofty <> r: loftier, t: loftiest
+log <> s: logs, d: logged, i: logging, p: logged, '3': logs
+loganberries <> b: loganberry, f: s
+loganberry <> s: loganberries
+logarithm <> s: logarithms
+logarithms <> b: logarithm, f: s
+logbook <> s: logbooks
+logbooks <> b: logbook, f: s
+logged <> b: log, f: dp, d: logged, p: logged
+logger <> s: loggers
+loggerhead <> s: loggerheads
+loggerheads <> b: loggerhead, f: s
+loggers <> b: logger, f: s
+loggia <> s: loggias
+loggias <> b: loggia, f: s
+logging <> b: log, f: i, i: logging
+logic <> s: logics
+logical <> s: logicals
+logicals <> b: logical, f: s
+logician <> s: logicians
+logicians <> b: logician, f: s
+logics <> b: logic, f: s
+login <> s: logins
+logins <> b: login, f: s
+logjam <> s: logjams
+logjams <> b: logjam, f: s
+logo <> s: logos
+Logos <> b: logo, f: s
+logotype <> s: logotypes
+logotypes <> b: logotype, f: s
+logroll <> i: logrolling, p: logrolled, '3': logrolls, d: logrolled
+logrolling <> f: i, b: logroll
+logs <> b: log, f: s3
+loin <> s: loins, p: loined
+loincloth <> s: loincloths
+loincloths <> b: loincloth, f: s
+loined <> b: loin, f: p
+loing <> b: lo, f: i
+loins <> b: loin, f: s
+loiter <> i: loitering, p: loitered, s: loiters, d: loitered, '3': loiters
+loitered <> b: loiter, f: pd
+loiterer <> s: loiterers
+loiterers <> b: loiterer, f: s
+loitering <> b: loiter, f: i, i: loitering
+loiters <> f: s3, b: loiter
+lok <> i: lokking
+lokking <> b: lok, f: i
+lola <> s: lolas
+lolas <> b: lola, f: s
+loll <> i: lolling, p: lolled, '3': lolls, d: lolled, s: lolls
+Lollard <> s: lollards
+lolled <> b: loll, f: pd
+lollies <> b: lolly, f: s
+lolling <> b: loll, f: i
+lollipop <> s: lollipops
+lollipops <> b: lollipop, f: s
+lollop <> '3': lollops, d: lollopped, i: lolloping, p: lolloped
+lolloped <> b: lollope, f: p
+lolloping <> b: lollope, f: i, i: lolloping
+lollopped <> b: lollop, f: d
+lollops <> b: lollop, f: '3'
+lolls <> b: loll, f: 3s
+lolly <> s: lollies
+lollygag <> i: lollygagging, p: lollygagged, '3': lollygags, d: lollygagged
+lon <> s: lons
+Londoner <> s: londoners
+lonelier <> b: lonely, f: r
+loneliest <> b: lonely, f: t
+loneliness <> s: lonelinesses
+lonelinesses <> b: loneliness, f: s
+lonely <> t: loneliest, r: lonelier
+loner <> s: loners
+loners <> b: loner, f: s
+long <> r: longer, t: longest, p: longed, i: longing, d: longed, '3': longs
+long-player <> s: long-players
+long-players <> b: long-player, f: s
+long-standing <> i: long-standing, b: long-standing, f: i
+long-winded <> b: long-wind, f: p
+longboat <> s: longboats
+longboats <> b: longboat, f: s
+longbow <> s: longbows
+longbows <> b: longbow, f: s
+longed <> b: long, f: pd
+longer <> b: long, f: r
+longeron <> s: longerons
+longerons <> b: longeron, f: s
+longest <> b: long, f: t
+Longfellow <> s: longfellows
+longhair <> p: longhaired
+longhaired <> b: longhair, f: p, p: longhaired
+longhand <> s: longhands
+longhands <> b: longhand, f: s
+longhorn <> s: longhorns
+longhorns <> b: longhorn, f: s
+longhouse <> s: longhouses
+longhouses <> b: longhouse, f: s
+longing <> b: long, f: i, i: longing, s: longings
+longitude <> s: longitudes
+longitudes <> b: longitude, f: s
+longitudinal <> s: longitudinals
+longitudinals <> b: longitudinal, f: s
+longland <> s: longlands
+longlands <> b: longland, f: s
+longline <> i: longlining, s: longlines
+longlines <> b: longline, f: s
+longlining <> b: longline, f: i
+longs <> b: long, f: '3'
+longship <> s: longships
+longships <> b: longship, f: s
+longshoreman <> s: longshoremen
+longshoremen <> b: longshoreman, f: s
+longspur <> s: longspurs
+longspurs <> b: longspur, f: s
+longueur <> s: longueurs
+longueurs <> b: longueur, f: s
+longway <> s: longways
+longways <> b: longway, f: s
+longwinded <> b: longwind, f: d
+lons <> b: lon, f: s
+loo <> s: loos, i: looing
+loofah <> s: loofahs
+loofahs <> b: loofah, f: s
+looing <> b: loo, f: i
+look <> p: looked, i: looking, '3': looks, d: looked, s: looks
+lookalike <> s: lookalikes
+lookalikes <> b: lookalike, f: s
+looked <> b: look, f: pd
+looker <> s: lookers
+lookers <> b: looker, f: s
+looking <> b: look, f: i, i: looking, s: lookings
+lookout <> s: lookouts, '3': lookouts
+lookouts <> b: lookout, f: s3
+looks <> b: look, f: 3s
+loom <> p: loomed, '3': looms, i: looming, s: looms, d: loomed
+loomed <> b: loom, f: pd
+looming <> b: loom, f: i, i: looming
+looms <> b: loom, f: 3s
+loon <> s: loons, i: looning
+loonies <> b: loony, f: s
+looniest <> b: loony, f: t
+looning <> b: loon, f: i
+loons <> b: loon, f: s
+loony <> s: loonies, t: looniest
+loop <> s: loops, i: looping, d: looped, p: looped, '3': loops
+looped <> b: loop, f: dp, d: looped
+looper <> s: loopers
+loopers <> b: looper, f: s
+loophole <> s: loopholes, d: loopholed, p: loopholed
+loopholed <> b: loophole, f: dp
+loopholes <> b: loophole, f: s
+loopier <> b: loopy, f: r
+looping <> b: loop, f: i, i: looping
+loops <> b: loop, f: s3
+loopy <> r: loopier
+loos <> b: loo, f: s, r: looser, t: loosest
+loose <> p: loosed, i: loosing, d: loosed, '3': looses
+loosed <> b: loose, f: pd
+loosen <> p: loosened, d: loosened, i: loosening, '3': loosens
+loosened <> b: loosen, f: pd, d: loosened
+loosening <> b: loosen, f: i, i: loosening
+loosens <> b: loosen, f: '3'
+looses <> b: loose, f: '3'
+loosing <> b: loose, f: i
+loot <> p: looted, i: looting, d: looted, '3': loots
+looted <> b: loot, f: pd, p: looted
+looter <> s: looters
+looters <> b: looter, f: s
+looting <> b: loot, f: i, i: looting, s: lootings
+loots <> f: '3', b: loot
+lop <> d: lopped, i: lopping, p: lopped, s: lops, '3': lops
+lope <> p: loped, i: loping, '3': lopes, d: loped
+loped <> b: lope, f: pd
+lopes <> b: lope, f: '3'
+loping <> b: lope, f: i, i: loping
+lopped <> b: lop, f: dp
+lopper <> s: loppers
+loppers <> b: lopper, f: s
+lopping <> b: lop, f: i
+lops <> b: lop, f: s3
+lopside <> p: lopsided, d: lopsided
+lopsided <> p: lopsided, b: lopsided, f: pd, d: lopsided
+loquat <> s: loquats
+loquats <> b: loquat, f: s
+lord <> i: lording, p: lorded, '3': lords, d: lorded
+lorded <> f: pd, b: lord
+lording <> f: i, b: lord
+lordliest <> b: lordly, f: t
+lordling <> s: lordlings, i: lordling, b: lordling, f: i
+lordlings <> b: lordling, f: s
+lordly <> t: lordliest
+lords <> s: lords, b: lords, f: s
+lordship <> s: lordships
+lore <> s: lores
+Lorelei <> s: lorelei, b: lorelei, f: s
+lores <> b: lore, f: s
+lori <> s: lori, b: lori, f: s
+lories <> b: lory, f: s
+lorikeet <> s: lorikeets
+lorikeets <> b: lorikeet, f: s
+Lorimer <> s: lorimers
+lorries <> b: lorry, f: s
+lorry <> s: lorries
+lorryload <> s: lorryloads
+lorryloads <> b: lorryload, f: s
+lory <> s: lories
+lose <> d: lost, p: lost, i: losing, '3': loses
+loser <> s: losers
+losers <> b: loser, f: s
+loses <> b: lose, f: '3'
+losing <> b: lose, f: i, i: losing
+loss <> s: losses
+loss-leader <> s: loss-leaders
+loss-leaders <> b: loss-leader, f: s
+losses <> b: loss, f: s
+lost <> b: lose, f: dp, p: lost, d: lost
+lot <> i: lotting, p: lotted, '3': lots, d: lotted
+Lothario <> s: lotharios
+loti <> s: lotis
+lotion <> s: lotions, p: lotioned
+lotioned <> b: lotion, f: p
+lotions <> b: lotion, f: s
+lotis <> b: loti, f: s
+lots <> f: '3', b: lot
+lotted <> f: pd, b: lot
+lotteries <> b: lottery, f: s
+lottery <> s: lotteries
+lotting <> f: i, b: lot
+lotus-eater <> s: lotus-eaters
+lotus-eaters <> b: lotus-eater, f: s
+loud <> r: louder, t: loudest
+louden <> i: loudening, p: loudened, '3': loudens, d: loudened
+loudened <> f: pd, b: louden
+loudening <> f: i, b: louden
+loudens <> f: '3', b: louden
+louder <> b: loud, f: r
+loudest <> b: loud, f: t
+loudhailer <> s: loudhailers
+loudhailers <> b: loudhailer, f: s
+loudmouth <> s: loudmouths
+loudmouths <> b: loudmouth, f: s
+loudspeaker <> s: loudspeakers, i: loudspeakering, p: loudspeakered
+loudspeakered <> b: loudspeaker, f: p
+loudspeakering <> b: loudspeaker, f: i
+loudspeakers <> b: loudspeaker, f: s
+lough <> s: loughs
+Loughlin <> s: loughlins
+loughs <> b: lough, f: s
+lounge <> s: lounges, i: lounging, p: lounged, d: lounged, '3': lounges
+lounged <> b: lounge, f: pd
+lounger <> '3': loungers, s: loungers, b: loung, f: r
+loungers <> b: lounger, f: 3s
+lounges <> b: lounge, f: s3
+lounging <> b: lounge, f: i
+loup <> i: louping
+louping <> b: loup, f: i
+lour <> s: lours, d: loured, i: louring, p: loured, '3': lours
+loured <> b: lour, f: dp
+louring <> b: lour, f: i
+lours <> f: s3, b: lour
+louse <> s: lice, p: loused, d: loused, i: lousing
+loused <> b: louse, f: pd
+lousewort <> '3': louseworts
+louseworts <> b: lousewort, f: '3'
+lousier <> b: lousy, f: r
+lousing <> b: louse, f: i
+lousy <> r: lousier
+lout <> s: louts, i: louting
+louting <> b: lout, f: i
+louts <> b: lout, f: s
+louvre <> s: louvres
+louvred <> d: louvred, b: louvred, f: d
+louvres <> b: louvre, f: s
+love <> p: loved, '3': loves, d: loved, i: loving, s: loves
+love-in <> s: love-ins
+love-ins <> b: love-in, f: s
+lovebird <> s: lovebirds
+lovebirds <> b: lovebird, f: s
+loved <> b: love, f: pd, d: loved, p: loved
+lovelier <> b: lovely, f: r
+lovelies <> b: lovely, f: s
+loveliest <> b: lovely, f: t
+lovely <> t: loveliest, r: lovelier, s: lovelies
+lovemaking <> i: lovemaking, b: lovemaking, f: i
+lover <> s: lovers
+lovers <> b: lover, f: s
+loves <> b: love, f: 3s
+lovey <> s: loveys
+loveys <> b: lovey, f: s
+loving <> b: love, f: i, i: loving, s: lovings
+low <> r: lower, t: lowest, s: lows, d: lowed, i: lowing, p: lowed, '3': lows
+low-fi <> s: low-fi, b: low-fi, f: s
+low-level <> s: low-levels
+low-levels <> b: low-level, f: s
+low-lifer <> s: low-lifers
+low-loader <> s: low-loaders
+low-loaders <> b: low-loader, f: s
+lowbrow <> s: lowbrows
+lowbrows <> b: lowbrow, f: s
+lower <> b: low, f: r, p: lowered, i: lowering, d: lowered, '3': lowers
+lowered <> b: lower, f: pd, d: lowered, p: lowered
+lowering <> b: lower, f: i, i: lowering, s: lowerings
+lowerings <> b: lowering, f: s
+lowest <> b: low, f: t
+lowing <> i: lowing, b: lowing, f: i, s: lowings
+lowland <> s: lowlands
+lowlander <> s: lowlanders
+lowlanders <> b: lowlander, f: s
+lowlands <> b: lowland, f: s
+lowlier <> b: lowly, f: r
+lowliest <> b: lowly, f: t
+lowlife <> s: lowlifes
+lowlifes <> b: lowlife, f: s
+lowlight <> s: lowlights
+lowlights <> b: lowlight, f: s
+lowly <> t: lowliest, r: lowlier
+lows <> b: low, f: s
+lowther <> s: lowthers
+lowthers <> b: lowther, f: s
+loyalism <> s: loyalisms
+loyalisms <> b: loyalism, f: s
+loyalist <> s: loyalists
+loyalists <> b: loyalist, f: s
+loyalties <> b: loyalty, f: s
+loyalty <> s: loyalties
+lozenge <> s: lozenges
+lozenges <> b: lozenge, f: s
+LP <> s: lps
+lps <> b: lp, f: s
+ls <> b: l, f: s
+lubber <> s: lubbers, '3': lubbers
+Lubbers <> b: lubber, f: s3
+lube <> s: lubes
+lubes <> b: lube, f: s
+lubricant <> s: lubricants
+lubricants <> b: lubricant, f: s
+lubricate <> d: lubricated, i: lubricating, '3': lubricates, p: lubricated, s: lubricates
+lubricated <> b: lubricate, f: dp, d: lubricated
+lubricates <> b: lubricate, f: 3s
+lubricating <> b: lubricate, f: i, i: lubricating
+lubrication <> s: lubrications
+lubrications <> b: lubrication, f: s
+luce <> s: luces
+luces <> b: luce, f: s
+lucidities <> b: lucidity, f: s
+lucidity <> s: lucidities
+luckier <> b: lucky, f: r
+luckiest <> b: lucky, f: t
+lucky <> r: luckier, t: luckiest
+lucubrate <> i: lucubrating, p: lucubrated, '3': lucubrates, d: lucubrated
+lucubrated <> f: pd, b: lucubrate
+lucubrates <> f: '3', b: lucubrate
+lucubrating <> f: i, b: lucubrate
+Luddite <> s: luddites
+luff <> i: luffing, p: luffed, '3': luffs, d: luffed
+luffed <> f: pd, b: luff
+luffing <> b: luff, f: i
+luffs <> f: '3', b: luff
+lug <> i: lugging, p: lugged, s: lugs, d: lugged, '3': lugs
+luge <> s: luges
+luger <> s: lugers
+lugers <> b: luger, f: s
+luggable <> s: luggables
+luggables <> b: luggable, f: s
+luggage <> p: luggaged
+luggaged <> b: luggage, f: p
+lugged <> b: lug, f: pd
+lugger <> s: luggers
+luggers <> b: lugger, f: s
+lugging <> b: lug, f: i, i: lugging
+lugs <> b: lug, f: s3
+lugworm <> s: lugworms
+lugworms <> b: lugworm, f: s
+luigi <> s: luigi, b: luigi, f: s
+Luka <> s: lukas
+lull <> d: lulled, i: lulling, p: lulled, s: lulls, '3': lulls
+lullabies <> b: lullaby, f: s
+lullaby <> s: lullabies
+lulled <> b: lull, f: dp, p: lulled
+lulling <> b: lull, f: i, i: lulling
+lulls <> b: lull, f: s3
+lum <> s: lums
+lumber <> p: lumbered, d: lumbered, i: lumbering, '3': lumbers, s: lumbers
+lumbered <> b: lumber, f: pd, d: lumbered
+lumbering <> b: lumber, f: i, i: lumbering
+lumberjack <> i: lumberjacking, s: lumberjacks
+lumberjacking <> b: lumberjack, f: i
+lumberjacks <> b: lumberjack, f: s
+lumberman <> s: lumbermen
+lumbermen <> b: lumberman, f: s
+lumbers <> b: lumber, f: 3s
+lumen <> s: lumens
+lumens <> b: lumen, f: s
+luminaire <> s: luminaires
+luminaires <> b: luminaire, f: s
+luminaries <> b: luminary, f: s
+luminary <> s: luminaries
+luminesce <> i: luminescing, p: luminesced, '3': luminesces, d: luminesced
+luminesced <> f: pd, b: luminesce
+luminesces <> f: '3', b: luminesce
+luminescing <> b: luminesce, f: i
+luminosities <> b: luminosity, f: s
+luminosity <> s: luminosities
+lump <> s: lumps, d: lumped, p: lumped, i: lumping, '3': lumps
+lumped <> b: lump, f: dp
+lumper <> s: lumpers
+lumpers <> b: lumper, f: s
+lumpier <> b: lumpy, f: r
+lumping <> b: lump, f: i
+lumps <> b: lump, f: s3
+lumpy <> r: lumpier
+lums <> b: lum, f: s
+lunacies <> b: lunacy, f: s
+lunacy <> s: lunacies
+lunatic <> s: lunatics
+lunatics <> b: lunatic, f: s
+lunch <> s: lunches, p: lunched, i: lunching, d: lunched, '3': lunches
+lunchbox <> s: lunchboxes
+lunchboxes <> b: lunchbox, f: s
+lunched <> b: lunch, f: pd
+luncheon <> s: luncheons
+luncheons <> b: luncheon, f: s
+luncher <> s: lunchers
+lunchers <> b: luncher, f: s
+lunches <> f: s3, b: lunch
+lunching <> b: lunch, f: i
+lunchtime <> s: lunchtimes
+lunchtimes <> b: lunchtime, f: s
+lunette <> s: lunettes
+lunettes <> b: lunette, f: s
+lung <> s: lungs, i: lunging
+lunge <> p: lunged, '3': lunges, d: lunged, s: lunges, i: lungeing
+lunged <> b: lunge, f: pd
+lungeing <> b: lunge, f: i
+lunges <> b: lunge, f: 3s
+lungfish <> s: lungfishes
+lungfishes <> b: lungfish, f: s
+lungful <> s: lungfuls
+lungfuls <> b: lungful, f: s
+lunging <> b: lung, f: i, i: lunging
+lungs <> b: lung, f: s
+lungworm <> s: lungworms, '3': lungworms
+lungworms <> b: lungworm, f: s3
+lunk <> p: lunked
+lunked <> b: lunk, f: p
+lupin <> s: lupins
+lupins <> b: lupin, f: s
+lurch <> p: lurched, i: lurching, '3': lurches, d: lurched, s: lurches
+lurched <> b: lurch, f: pd
+lurcher <> s: lurchers
+lurchers <> b: lurcher, f: s
+lurches <> b: lurch, f: 3s
+lurching <> b: lurch, f: i, i: lurching
+lure <> d: lured, b: lure, i: luring, s: lures, f: '3', p: lured, '3': lures
+lured <> b: lure, f: dp
+lures <> b: lure, f: 3s
+lurex <> p: lurexed
+lurexed <> b: lurex, f: p
+luring <> b: lure, f: i, i: luring
+lurk <> i: lurking, p: lurked, '3': lurks, d: lurked
+lurked <> b: lurk, f: pd
+lurker <> s: lurkers
+lurkers <> b: lurker, f: s
+lurking <> b: lurk, f: i, i: lurking
+lurks <> b: lurk, f: '3'
+lurve <> '3': lurves
+lurves <> b: lurve, f: '3'
+lush <> r: lusher, s: lushes, t: lushest
+lusher <> b: lush, f: r
+lushes <> b: lush, f: s
+lushest <> b: lush, f: t
+lust <> s: lusts, i: lusting, p: lusted, d: lusted, '3': lusts
+lusted <> b: lust, f: pd
+lustier <> b: lusty, f: r
+lusting <> b: lust, f: i, i: lusting
+lustrate <> i: lustrating, p: lustrated, '3': lustrates, d: lustrated
+lustrated <> f: pd, b: lustrate
+lustrates <> f: '3', b: lustrate
+lustrating <> f: i, b: lustrate
+lustre <> s: lustres
+lustres <> b: lustre, f: s
+lusts <> b: lust, f: s3
+lusty <> r: lustier
+lute <> s: lutes
+lutenist <> s: lutenists
+lutenists <> b: lutenist, f: s
+lutes <> b: lute, f: s
+luther <> s: luthers
+Lutheran <> s: lutherans
+luthers <> b: luther, f: s
+luthier <> s: luthiers
+luthiers <> b: luthier, f: s
+luv <> s: luvs, '3': luvs
+luvs <> b: luv, f: s3
+luvvies <> b: luvvy, f: s
+luvvy <> s: luvvies
+luxate <> i: luxating, p: luxated, '3': luxates, d: luxated
+luxated <> f: pd, b: luxate
+luxates <> f: '3', b: luxate
+luxating <> f: i, b: luxate
+luxuriate <> i: luxuriating, p: luxuriated, s: luxuriates, '3': luxuriates, d: luxuriated
+luxuriated <> f: pd, b: luxuriate
+luxuriates <> b: luxuriate, f: s3
+luxuriating <> b: luxuriate, f: i
+luxuries <> b: luxury, f: s
+luxury <> s: luxuries
+lve <> d: liven, i: lving
+lving <> b: lve, f: i
+ly <> s: lys, '3': lys
+lychee <> s: lychees
+lychees <> b: lychee, f: s
+lycopod <> s: lycopods
+lycopods <> b: lycopod, f: s
+Lydian <> s: lydians
+lying <> b: lie, f: i, i: lying
+lymphatic <> s: lymphatics
+lymphatics <> b: lymphatic, f: s
+lymphoblast <> s: lymphoblasts
+lymphoblasts <> b: lymphoblast, f: s
+lymphocyte <> s: lymphocytes
+lymphocytes <> b: lymphocyte, f: s
+lymphokine <> s: lymphokines, '3': lymphokines
+lymphokines <> b: lymphokine, f: s3
+lymphoma <> s: lymphomas
+lymphomas <> b: lymphoma, f: s
+lynch <> d: lynched, i: lynching, '3': lynches, p: lynched
+lynched <> b: lynch, f: dp
+lynches <> b: lynch, f: '3'
+lynchet <> s: lynchets
+lynchets <> b: lynchet, f: s
+lynching <> b: lynch, f: i, s: lynchings
+lynchpin <> s: lynchpins
+lynchpins <> b: lynchpin, f: s
+lynx <> s: lynxes
+lynxes <> b: lynx, f: s
+Lyon <> s: lyons
+Lyons <> b: lyon, f: s
+lyophilize <> d: lyophilized, i: lyophilizing, p: lyophilized, '3': lyophilizes
+lyophilized <> f: dp, b: lyophilize
+lyophilizes <> f: '3', b: lyophilize
+lyophilizing <> f: i, b: lyophilize
+lyre <> s: lyres
+lyres <> b: lyre, f: s
+lyric <> s: lyrics
+lyricist <> s: lyricists
+lyricists <> b: lyricist, f: s
+lyrics <> b: lyric, f: s
+Lys <> b: ly, f: s3
+lysate <> s: lysates
+lysates <> b: lysate, f: s
+lyse <> d: lysed, p: lysed, i: lysing
+lysed <> b: lyse, f: dp, p: lysed, d: lysed
+lysine <> s: lysines
+lysines <> b: lysine, f: s
+lysing <> b: lyse, f: i
+lysosome <> s: lysosomes
+lysosomes <> b: lysosome, f: s

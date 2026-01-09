@@ -1,0 +1,52 @@
+{
+    "phonetic": {
+        "start": "I",
+        "end": "izzat",
+        "total": 3964
+    },
+    "freq": {
+        "start": "I",
+        "end": "ivy",
+        "total": 1956
+    },
+    "bnc": {
+        "start": "I",
+        "end": "Izzy",
+        "total": 1874
+    },
+    "collins": {
+        "start": "I",
+        "end": "ivy",
+        "total": 586
+    },
+    "explain": {
+        "start": "I",
+        "end": "invert",
+        "total": 5000
+    },
+    "explain__1": {
+        "start": "invert sugar",
+        "end": "Izzy",
+        "total": 845
+    },
+    "exchange": {
+        "start": "IB",
+        "end": "Ixora",
+        "total": 2626
+    },
+    "redirect": {
+        "start": "ibcs",
+        "end": "ixoras",
+        "total": 36
+    },
+    "lgk_id": {
+        "start": "i",
+        "end": "ix",
+        "total": 1458
+    },
+    "pos": {
+        "start": "i",
+        "end": "ivory",
+        "total": 1954
+    }
+}

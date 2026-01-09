@@ -1,0 +1,252 @@
+nab >> 1
+nadir >> 2
+nag >> 1
+nail >> 2
+naive >> 2
+naked >> 2
+name >> 5
+namely >> 2
+nan >> 1
+nanny >> 2
+nap >> 1
+napkin >> 1
+nappy >> 1
+narcotic >> 1
+narrate >> 1
+narrative >> 2
+narrow >> 4
+NASA >> 2
+nasal >> 1
+nasty >> 2
+nation >> 5
+nation state >> 1
+national >> 5
+national anthem >> 1
+national government >> 1
+National Health Service >> 1
+national park >> 2
+national service >> 1
+nationalist >> 4
+nationality >> 2
+nationalize >> 1
+nationwide >> 2
+native >> 3
+Native American >> 1
+natural >> 4
+natural gas >> 1
+natural history >> 1
+natural resources >> 1
+naturalist >> 1
+naturally >> 3
+nature >> 4
+naughty >> 1
+nausea >> 1
+nautical >> 1
+naval >> 3
+navel >> 1
+navigate >> 1
+navigation >> 1
+navigator >> 1
+navy >> 3
+NB >> 1
+near >> 5
+nearby >> 3
+nearly >> 4
+neat >> 3
+necessarily >> 3
+necessary >> 4
+necessitate >> 1
+necessity >> 2
+neck >> 3
+necklace >> 1
+nectar >> 1
+need >> 5
+needle >> 2
+needless >> 1
+needy >> 1
+negate >> 1
+negative >> 3
+neglect >> 2
+negligent >> 1
+negligible >> 1
+negotiable >> 1
+negotiate >> 4
+negotiation >> 4
+negro >> 1
+neighbour >> 3
+neighbourhood >> 2
+neighbouring >> 2
+neither >> 4
+neoclassical >> 1
+neon >> 1
+nephew >> 1
+nerve >> 3
+nervous >> 3
+nervous breakdown >> 1
+nervous system >> 1
+nest >> 2
+nestle >> 1
+net >> 3
+nettle >> 1
+network >> 4
+networking >> 1
+neural >> 1
+neuron >> 1
+neurosis >> 1
+neutral >> 2
+neutralize >> 1
+neutron >> 1
+never >> 5
+never-ending >> 1
+nevertheless >> 3
+new >> 5
+new town >> 1
+new wave >> 1
+New World >> 2
+New Year >> 2
+newborn >> 1
+newcomer >> 2
+newly >> 3
+news >> 5
+news conference >> 2
+newsagent >> 1
+newscast >> 1
+newsletter >> 1
+newspaper >> 4
+newsreel >> 2
+newsroom >> 1
+next >> 5
+next door >> 2
+NHS >> 2
+niacin >> 1
+nibble >> 1
+nice >> 4
+nicely >> 2
+niche >> 1
+nick >> 2
+nickel >> 1
+nickname >> 2
+nicotine >> 1
+niece >> 1
+nigh >> 1
+night >> 5
+night-time >> 1
+nightclub >> 2
+nightly >> 1
+nightmare >> 3
+nil >> 2
+nimble >> 1
+nine >> 5
+nineteen >> 5
+nineteenth >> 4
+ninetieth >> 4
+ninety >> 5
+ninth >> 4
+nip >> 1
+nipple >> 1
+nitrate >> 1
+nitrogen >> 1
+no >> 5
+no one >> 4
+no-nonsense >> 1
+nobility >> 1
+noble >> 2
+nobody >> 4
+nocturnal >> 1
+nod >> 3
+node >> 1
+noise >> 3
+noisy >> 2
+nomad >> 1
+nomadic >> 1
+nominal >> 2
+nominate >> 2
+nominee >> 2
+non-aligned >> 1
+non-existent >> 1
+non-proliferation >> 1
+non-smoker >> 1
+non-stick >> 1
+non-stop >> 1
+non-violent >> 1
+non-white >> 1
+nonchalant >> 1
+none >> 4
+nonetheless >> 2
+nonpayment >> 1
+nonsense >> 2
+noodle >> 1
+noon >> 2
+noose >> 1
+nope >> 1
+nor >> 4
+Nordic >> 1
+norm >> 2
+normal >> 4
+normalize >> 1
+normally >> 3
+norman >> 1
+normative >> 1
+North >> 4
+nose >> 3
+nostalgia >> 1
+nostalgic >> 1
+nostril >> 1
+not >> 5
+notable >> 2
+notably >> 2
+notch >> 1
+note >> 4
+notebook >> 2
+noted >> 3
+nothing >> 5
+notice >> 4
+noticeable >> 2
+notification >> 1
+notify >> 1
+notion >> 3
+notoriety >> 1
+notorious >> 2
+notwithstanding >> 1
+nought >> 1
+noun >> 1
+nourish >> 1
+nourishment >> 1
+novel >> 4
+novelist >> 2
+novelty >> 1
+November >> 4
+novice >> 2
+now >> 5
+nowadays >> 2
+nowhere >> 3
+nozzle >> 1
+nuance >> 1
+nuclear >> 4
+nuclear reactor >> 1
+nucleus >> 1
+nude >> 1
+nudge >> 1
+nuisance >> 1
+numb >> 1
+number >> 5
+number one >> 2
+number plate >> 1
+numerical >> 1
+numerous >> 3
+nun >> 2
+nurse >> 3
+nursery >> 2
+nursery school >> 1
+nursing home >> 1
+nurture >> 2
+nut >> 2
+nutmeg >> 1
+nutrient >> 2
+nutrition >> 2
+nutritional >> 1
+nutritionist >> 1
+nutritious >> 1
+nutty >> 1
+nylon >> 1
+nymph >> 1

@@ -1,0 +1,283 @@
+jab <> w: 99595, p: [58909]
+jabber <> w: 99598, p: [57903]
+jabot <> w: 99606
+jacamar <> w: 99609
+jack <> w: 99612, p: [34502, 46850]
+jack-in-the-box <> w: 99615
+jack-o'-lantern <> w: 99617, p: [31869]
+jackal <> w: 99643, p: [24190]
+jackalope <> w: 221960
+jackass <> w: 99645, p: [17871, 34502]
+jackboot <> w: 99648, p: [34423]
+jackdaw <> w: 99649, p: [24787]
+jacked <> w: 366471
+jacket <> w: 99650, p: [48563]
+jacket potato <> w: 99652, p: [39047]
+jackfruit <> w: 99653, p: [26381]
+jackhammer <> w: 99655, p: [41228]
+jackknife <> w: 99658
+jackpot <> w: 99662, p: [35595]
+jackrabbit <> w: 99663, p: [24176]
+jacquard <> w: 99695
+jacuzzi <> w: 211951, p: [28608]
+jade <> w: 99728, p: [25325, 25325]
+jaded <> w: 99732, p: [51206]
+jaeger <> w: 99735, p: [25841]
+jagged <> w: 99749, p: [45501]
+jaggedly <> w: 99750, p: [49391]
+jaggery <> w: 99753, p: [35220]
+jaguar <> w: 99759, p: [50176]
+jaguarundi <> w: 99761, p: [34160]
+jai alai <> w: 99765
+jail <> w: 99766, p: [20682, 20682]
+jailbird <> w: 99770
+jalapeno <> w: 99797, p: [35005]
+jali <> w: 222185
+jalopy <> w: 99799
+jam <> w: 99801, p: [27093, 47056]
+jam session <> w: 99803
+jam tomorrow <> p: [47228]
+jam-packed <> w: 99802
+jamaican <> w: 229539
+jambalaya <> w: 99821, p: [31189]
+jammed <> w: 100040
+jammies <> w: 100042, p: [24926]
+jangle <> w: 100066
+jangling <> w: 100067
+janitor <> w: 100071, p: [16336]
+jape <> w: 100160, p: [26455, 49640]
+jar <> w: 100164, p: [20067]
+jargon <> w: 100167
+jarring <> w: 100171
+jasmine <> w: 100175, p: [33655, 38837]
+jason <> w: 100182
+jaundice <> w: 100195
+jaundiced <> w: 100197
+jaunt <> w: 100198, p: [51346]
+jaunty <> w: 100202
+javelin <> w: 100214
+javelina <> w: 100215, p: [24304]
+jaw <> w: 100217, p: [50717, 30784, 27762, 36880]
+jawbone <> w: 100220, p: [50717]
+jawbreaker <> w: 100221, p: [27726]
+jay <> w: 100228, p: [24789]
+jaywalk <> w: 100233
+jazz <> w: 100235, p: [17027, 17027]
+jazzman <> w: 100243, p: [17027]
+jazzy <> w: 100244, p: [34085]
+jealous <> w: 100247, p: [17877]
+jealously <> w: 100248, p: [42056]
+jealousy <> w: 100249, p: [17877]
+jean <> w: 100250, p: [20511]
+jeans <> w: 100298, p: [48565]
+jeep <> w: 100302, p: [29521]
+jeer <> w: 100303
+jeeringly <> w: 100306
+jeez <> w: 225842
+jejune <> w: 100320
+jejunum <> w: 100327
+jelly <> w: 100336, p: [27093, 19112]
+jelly bean <> w: 100337, p: [27728]
+jellyfish <> w: 100342, p: [25725]
+jellyroll <> w: 100345, p: [37812]
+jemmy <> w: 100348, p: [22746]
+jenny <> w: 100353
+jeon <> w: 217986
+jeopardize <> w: 100360, p: [59244]
+jeopardy <> w: 100361, p: [27363]
+jeremiad <> w: 100365
+jerk <> w: 100372, p: [28017, 46998]
+jerkin <> w: 100378
+jerky <> w: 100383, p: [28017]
+jeroboam <> w: 100384
+jersey <> w: 100397, p: [20515, 48591, 24460]
+jest <> w: 100523, p: [26455, 60823, 48859]
+jester <> w: 100525
+jet <> w: 100539, p: [18555, 20422]
+jet lag <> w: 100546
+jet set <> w: 100549
+jet ski <> p: [36830, 36830]
+jet-black <> w: 100540, p: [20422]
+jetliner <> w: 100552, p: [18555]
+jettison <> w: 100555
+jetton <> w: 224083
+jetty <> w: 100556, p: [48349]
+jewel <> w: 100568, p: [25625]
+jeweler <> w: 100573, p: [29972, 34574]
+jewelry <> w: 100580, p: [51578]
+jib <> w: 100606, p: [40849, 40849]
+jibe <> w: 100608
+jiffy <> w: 100611
+jig <> w: 100612
+jigger <> w: 100613, p: [38457]
+jigging <> w: 227308
+jiggle <> w: 100617, p: [61150]
+jigsaw <> w: 100618
+jimmy <> w: 100638, p: [22746]
+jingle <> w: 100651
+jingo <> w: 100655
+jinx <> w: 100665, p: [48857]
+jird <> w: 100668
+jit <> w: 367511
+jitney <> w: 100671, p: [49484]
+jitter <> w: 100672
+jitterbug <> w: 100673
+jitters <> w: 100676
+jittery <> w: 100677
+jive <> w: 100679, p: [39349, 39353, 39349]
+job <> w: 100689, p: [61228]
+job description <> w: 100698
+jobless <> w: 100705
+jobseeker <> w: 217224
+jock <> w: 100707, p: [33159, 49946]
+jockey <> w: 100709, p: [19775]
+jockey cap <> p: [28385]
+jockstrap <> w: 100713, p: [33159]
+jocose <> w: 100714
+jocular <> w: 100719
+jocund <> w: 100721
+jodhpurs <> w: 100727, p: [24865]
+joe <> w: 218309
+joey <> w: 214985, p: [30602]
+jog <> w: 100740, p: [51088, 51088]
+jogger <> w: 100742, p: [51088, 34319]
+joggers <> w: 221308, p: [34319]
+jogging <> w: 100743, p: [51088]
+jogging suit <> w: 208535, p: [25415]
+joggle <> w: 100744
+john <> w: 100774, p: [27203]
+join <> w: 101076, p: [27590, 58377, 59096]
+join up <> p: [41656]
+joining <> w: 101082, p: [61072]
+joint <> w: 101083, p: [18525, 51294, 18319, 16397]
+jointed <> w: 101096
+jointer <> w: 101099, p: [41714]
+jointly <> w: 101102, p: [22279]
+joist <> w: 101105
+joke <> w: 101106, p: [26455, 60823]
+joker <> w: 101107, p: [31835]
+jokey <> w: 365702
+joking <> w: 101109, p: [60823]
+jokingly <> w: 101110
+jol <> w: 367737
+jollification <> w: 101115, p: [18728]
+jollity <> w: 101118
+jolly <> w: 101119, p: [60634, 43466]
+jolting <> w: 101127, p: [36413]
+jolty <> w: 101128, p: [36413]
+jones <> w: 366755
+jongleur <> w: 101144
+jook <> w: 101148, p: [40287]
+josh <> w: 101217
+jostle <> w: 101229
+jot <> w: 101232, p: [21050]
+joule <> w: 101238
+journal <> w: 101240, p: [20241, 49363]
+journaling <> w: 210072, p: [51644]
+journalism <> w: 101244, p: [50573, 28748]
+journalist <> w: 101245, p: [50573]
+journalistic <> w: 101247
+journey <> w: 101249, p: [17761, 49467]
+journeyman <> w: 101253, p: [31972]
+joust <> w: 101254
+jovial <> w: 101256, p: [60634]
+jovially <> w: 101258
+jowl <> w: 101262
+joy <> w: 101264, p: [52033]
+joyful <> w: 101267, p: [60634]
+joyfully <> w: 101268, p: [23047]
+joyfulness <> w: 101269, p: [52033]
+joyous <> w: 101273, p: [42562]
+joyously <> w: 101274
+joyousness <> w: 101275, p: [52033]
+joypad <> w: 211429
+joyride <> w: 101276
+joystick <> w: 101277, p: [22866]
+jubilance <> w: 101288
+jubilant <> w: 101290, p: [42566]
+jubilation <> w: 101293, p: [19474, 52033]
+judge <> w: 101311, p: [59333, 18237, 50583, 50583]
+judgment <> w: 101326
+judgmental <> w: 101336, p: [29667]
+judicature <> w: 101339
+judicial <> w: 101340, p: [26098, 26098]
+judicially <> w: 101354, p: [26098]
+judiciary <> w: 101355
+judicious <> w: 101356, p: [28638]
+judiciously <> w: 101357, p: [22568]
+judo <> w: 101361, p: [37207]
+judoka <> w: 227482
+jug <> w: 101363, p: [37746, 20071]
+juggernaut <> w: 101370
+juggle <> w: 101502, p: [44986]
+juggler <> w: 101503
+jugglery <> w: 101504
+juggling <> w: 101505, p: [44986]
+jugular <> w: 101516
+juice <> w: 101518, p: [50391, 31998]
+juiceless <> w: 101521
+juicer <> w: 101522, p: [20287, 18291]
+juicy <> w: 101524, p: [45519]
+jujube <> w: 101527, p: [35174]
+jukebox <> w: 101533, p: [30092]
+julienne <> w: 101546, p: [37906, 37906, 32545]
+jumble <> w: 101561, p: [40823]
+jumble sale <> w: 101562
+jumbled <> w: 101563
+jumbo <> w: 101564, p: [28744]
+jumbo jet <> w: 101565, p: [49478]
+jump <> w: 101572, p: [43316, 17905, 18916, 43316, 18916]
+jump at <> p: [50074, 42630]
+jump for joy <> p: [60634]
+jump on <> p: [43254]
+jump on the bandwagon <> p: [43654]
+jump rope <> w: 101580, p: [21893]
+jump shot <> w: 101582
+jump the gun <> p: [44196]
+jump-off <> p: [40353, 48729]
+jump-start <> w: 101573
+jumper <> w: 101585, p: [25014, 48591]
+jumping <> w: 101589, p: [43316]
+jumping jack <> p: [21873]
+jumpsuit <> w: 101602, p: [34067]
+jumpy <> w: 101603, p: [36413]
+junction <> w: 101608, p: [17279]
+juncture <> w: 101612
+jungle <> w: 101639, p: [19000]
+jungle cat <> p: [34187]
+jungle gym <> w: 101644, p: [32072]
+junior <> w: 101649, p: [29396, 16740, 29396, 60646]
+junior college <> w: 101652, p: [48963]
+junior high school <> w: 101655, p: [28776]
+junior school <> w: 101658, p: [28770]
+junk <> w: 101678
+junk food <> w: 101682, p: [51564]
+junk mail <> w: 101684
+junker <> w: 101687
+junket <> w: 101689, p: [38198, 32580]
+junkie <> w: 101693, p: [46481]
+junkman <> w: 226189
+junkyard <> w: 101694
+junta <> w: 101697
+juridical <> w: 101714
+jurisdiction <> w: 101715
+jurisdictional <> w: 101716
+jurisprudence <> w: 101717
+juror <> w: 101722
+jury <> w: 101723, p: [31725]
+jury duty <> w: 101726
+just <> w: 101736, p: [50076, 50583]
+justice <> w: 101748, p: [37189, 20694, 50583]
+justifiable <> w: 101753, p: [50013]
+justifiably <> w: 101754, p: [50013]
+justification <> w: 101755
+justified <> w: 101758, p: [45667]
+justify <> w: 101761, p: [55216]
+justly <> w: 101766, p: [42986]
+justness <> w: 101767, p: [37189]
+jut <> w: 101768
+jutting <> w: 101773
+juvenile <> w: 101776, p: [19981, 19516, 19981]
+juvenile delinquent <> w: 101782
+juxtapose <> w: 101788
+juxtaposition <> w: 101790

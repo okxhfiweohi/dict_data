@@ -1,0 +1,1831 @@
+f-stop <> N: {rk: 46129, frq: 58}
+fab <> J: {rk: 18610, frq: 595}, N: {rk: 59742, frq: 34}
+fabian <> J: {rk: 57608, frq: 28}
+fable <> N: {rk: 12527, frq: 1105}
+fabled <> J: {rk: 14413, frq: 846}
+fabric <> N: {rk: 3078, frq: 11214}
+fabricate <> V: {rk: 10618, frq: 1511}
+fabricated <> J: {rk: 28331, frq: 187}
+fabrication <> N: {rk: 11783, frq: 1296}
+fabricator <> N: {rk: 32366, frq: 146}
+fabulist <> N: {rk: 51293, frq: 27}
+fabulous <> J: {rk: 5829, frq: 4326}
+fabulously <> R: {rk: 22569, frq: 324}
+facade <> N: {rk: 7733, frq: 2513}
+face <> N: {rk: 330, frq: 137165}, V: {rk: 553, frq: 75799}
+face-off <> N: {rk: 21508, frq: 447}
+face-saving <> J: {rk: 29827, frq: 160}
+face-to-face <> J: {rk: 8251, frq: 2397}
+faced <> J: {rk: 43720, frq: 46}
+facedown <> N: {rk: 18794, frq: 1084}
+faceless <> J: {rk: 16515, frq: 631}
+faceplate <> N: {rk: 28066, frq: 238}
+facet <> N: {rk: 8946, frq: 2042}
+faceted <> J: {rk: 36389, frq: 91}
+facetious <> J: {rk: 30074, frq: 157}
+facetiously <> R: {rk: 34566, frq: 100}
+facial <> J: {rk: 5806, frq: 4428}, N: {rk: 24496, frq: 311}
+facially <> R: {rk: 37989, frq: 83}
+facile <> J: {rk: 20425, frq: 398}
+facilitate <> V: {rk: 3594, frq: 9690}
+facilitated <> J: {rk: 46539, frq: 46}
+facilitating <> J: {rk: 44458, frq: 52}
+facilitation <> N: {rk: 23375, frq: 363}
+facilitative <> J: {rk: 34406, frq: 139}
+facilitator <> N: {rk: 12337, frq: 1267}
+facility <> N: {rk: 1301, frq: 32206}
+facing <> J: {rk: 22213, frq: 337}, N: {rk: 32246, frq: 121}
+facsimile <> N: {rk: 19300, frq: 463}
+fact <> N: {rk: 235, frq: 173796}
+fact-finding <> J: {rk: 24368, frq: 276}, N: {rk: 37270, frq: 80}
+faction <> N: {rk: 5709, frq: 4313}
+factional <> J: {rk: 21901, frq: 356}
+factionalism <> N: {rk: 28967, frq: 204}
+factious <> J: {rk: 52722, frq: 28}
+factitious <> J: {rk: 53464, frq: 29}
+factoid <> N: {rk: 34347, frq: 132}
+factor <> N: {rk: 729, frq: 63253}, V: {rk: 13227, frq: 1005}
+factorial <> J: {rk: 24893, frq: 297}
+factoring <> N: {rk: 52771, frq: 31}
+factorization <> N: {rk: 44451, frq: 109}
+factory <> N: {rk: 2145, frq: 17303}
+factotum <> N: {rk: 46889, frq: 41}
+factual <> J: {rk: 9158, frq: 2013}
+factuality <> N: {rk: 46179, frq: 44}
+factually <> R: {rk: 23734, frq: 287}
+facultative <> J: {rk: 49060, frq: 37}
+faculty <> N: {rk: 1995, frq: 21805}
+fad <> N: {rk: 11484, frq: 1331}
+faddish <> J: {rk: 39388, frq: 66}
+fade <> V: {rk: 2899, frq: 12141}, N: {rk: 32043, frq: 136}
+fade-out <> N: {rk: 45508, frq: 44}
+fadeaway <> N: {rk: 47545, frq: 41}
+faded <> J: {rk: 8556, frq: 2306}
+fading <> J: {rk: 14806, frq: 820}, N: {rk: 39753, frq: 66}
+fado <> N: {rk: 54246, frq: 38}
+faecal <> J: {rk: 58443, frq: 30}
+faerie <> J: {rk: 28846, frq: 214}
+faery <> N: {rk: 43351, frq: 64}
+fag <> N: {rk: 22211, frq: 351}
+faggot <> N: {rk: 21277, frq: 387}
+faggy <> J: {rk: 56049, frq: 22}
+faience <> N: {rk: 46128, frq: 61}
+fail <> V: {rk: 808, frq: 51921}, N: {rk: 24157, frq: 291}
+fail-safe <> J: {rk: 28975, frq: 181}
+failed <> J: {rk: 5914, frq: 4078}
+failing <> J: {rk: 13575, frq: 937}, N: {rk: 14947, frq: 791}
+faille <> N: {rk: 51555, frq: 36}
+failure <> N: {rk: 1364, frq: 30725}
+fain <> R: {rk: 35754, frq: 112}
+faint <> J: {rk: 4149, frq: 7321}, V: {rk: 11170, frq: 1420}, N: {rk: 25109, frq: 256}
+faint-hearted <> J: {rk: 34223, frq: 100}
+fainting <> J: {rk: 39921, frq: 70}
+faintly <> R: {rk: 9898, frq: 1821}
+faintness <> N: {rk: 41192, frq: 60}
+fair <> J: {rk: 1489, frq: 30013}, R: {rk: 11344, frq: 1666}, V: {rk: 25688, frq: 245}
+fair-haired <> J: {rk: 30068, frq: 152}
+fair-minded <> J: {rk: 30098, frq: 149}
+fair-weather <> J: {rk: 37459, frq: 83}
+fairground <> N: {rk: 22783, frq: 528}
+fairing <> N: {rk: 53005, frq: 39}
+fairly <> R: {rk: 2170, frq: 16717}
+fairness <> N: {rk: 6032, frq: 3880}
+fairway <> N: {rk: 9637, frq: 1925}
+fairy <> N: {rk: 6455, frq: 3649}
+fairyland <> N: {rk: 34668, frq: 99}
+faith <> N: {rk: 1330, frq: 31840}
+faithful <> J: {rk: 5064, frq: 5207}
+faithfully <> R: {rk: 12601, frq: 1073}
+faithfulness <> N: {rk: 22119, frq: 358}
+faithless <> J: {rk: 30062, frq: 153}
+faithlessness <> N: {rk: 50212, frq: 34}
+fake <> J: {rk: 5151, frq: 5276}, V: {rk: 8626, frq: 2165}, N: {rk: 19110, frq: 489}
+faked <> J: {rk: 38721, frq: 74}
+faker <> N: {rk: 37871, frq: 79}
+fakery <> N: {rk: 37273, frq: 86}
+faking <> N: {rk: 55032, frq: 37}
+fakir <> N: {rk: 56849, frq: 29}
+falafel <> N: {rk: 36969, frq: 120}
+falconer <> N: {rk: 33117, frq: 400}
+falconry <> N: {rk: 34737, frq: 132}
+fall <> V: {rk: 410, frq: 105127}, N: {rk: 1011, frq: 42261}
+fall-off <> N: {rk: 30838, frq: 146}
+fallacious <> J: {rk: 30559, frq: 157}
+fallacy <> N: {rk: 15514, frq: 755}
+fallback <> N: {rk: 25725, frq: 240}
+fallen <> J: {rk: 8024, frq: 2489}
+faller <> N: {rk: 46399, frq: 48}
+fallibility <> N: {rk: 32064, frq: 136}
+fallible <> J: {rk: 26601, frq: 214}
+falling <> J: {rk: 11385, frq: 1295}
+falling-out <> N: {rk: 36876, frq: 86}
+fallopian <> J: {rk: 27465, frq: 214}
+fallout <> N: {rk: 9325, frq: 1988}
+fallow <> J: {rk: 19353, frq: 490}
+false <> J: {rk: 2532, frq: 13893}, R: {rk: 26168, frq: 233}
+falsehood <> N: {rk: 17741, frq: 568}
+falsely <> R: {rk: 12750, frq: 1051}
+falseness <> N: {rk: 42332, frq: 59}
+falsetto <> N: {rk: 23613, frq: 319}
+falsifiable <> J: {rk: 53064, frq: 28}
+falsification <> N: {rk: 28145, frq: 194}
+falsified <> J: {rk: 38693, frq: 73}
+falsify <> V: {rk: 16948, frq: 612}
+falsity <> N: {rk: 27549, frq: 204}
+falter <> V: {rk: 9524, frq: 1798}
+faltering <> J: {rk: 19980, frq: 432}
+fame <> N: {rk: 4637, frq: 9323}
+famed <> J: {rk: 8156, frq: 2393}
+familial <> J: {rk: 11082, frq: 1456}
+familiar <> J: {rk: 1497, frq: 26480}, N: {rk: 38624, frq: 94}
+familiarity <> N: {rk: 8203, frq: 2393}
+familiarization <> N: {rk: 39346, frq: 88}
+familiarize <> V: {rk: 18625, frq: 515}
+familiarly <> R: {rk: 31763, frq: 136}
+family <> N: {rk: 147, frq: 264804}
+famine <> N: {rk: 8344, frq: 2265}
+famished <> J: {rk: 25319, frq: 257}
+famous <> J: {rk: 1491, frq: 26669}
+famously <> R: {rk: 9531, frq: 2049}
+fan <> N: {rk: 1210, frq: 36891}, V: {rk: 5321, frq: 5012}
+fan-like <> J: {rk: 45472, frq: 44}
+fanatic <> N: {rk: 11070, frq: 1361}, J: {rk: 25341, frq: 244}
+fanatical <> J: {rk: 16903, frq: 628}
+fanatically <> R: {rk: 33758, frq: 119}
+fanaticism <> N: {rk: 20027, frq: 442}
+fancied <> J: {rk: 50463, frq: 30}
+fancier <> N: {rk: 30660, frq: 161}
+fanciful <> J: {rk: 14018, frq: 897}
+fancifully <> R: {rk: 46081, frq: 39}
+fancy <> J: {rk: 5172, frq: 5090}, N: {rk: 11361, frq: 1355}, V: {rk: 11860, frq: 1275}
+fancy-free <> J: {rk: 56933, frq: 20}
+fancy-pants <> N: {rk: 55390, frq: 22}
+fandango <> N: {rk: 46771, frq: 57}
+fandom <> N: {rk: 32849, frq: 250}
+fanfare <> N: {rk: 13699, frq: 933}
+fang <> N: {rk: 14803, frq: 1546}
+fanged <> J: {rk: 46608, frq: 46}
+fanlight <> N: {rk: 54435, frq: 31}
+fanned <> J: {rk: 53587, frq: 24}
+fanny <> J: {rk: 23806, frq: 282}
+fantail <> N: {rk: 38866, frq: 71}
+fantasist <> N: {rk: 47978, frq: 44}
+fantasize <> V: {rk: 12188, frq: 1177}
+fantasized <> J: {rk: 44810, frq: 51}
+fantastic <> J: {rk: 4792, frq: 5919}
+fantastical <> J: {rk: 24881, frq: 271}
+fantastically <> R: {rk: 23560, frq: 293}
+fantasy <> N: {rk: 2983, frq: 11336}
+fantasyland <> N: {rk: 39893, frq: 95}
+fanzine <> N: {rk: 41245, frq: 60}
+far <> R: {rk: 252, frq: 160549}, J: {rk: 975, frq: 42554}, C: {rk: 2183, frq: 17143}
+far-fetched <> J: {rk: 15633, frq: 701}
+far-flung <> J: {rk: 14535, frq: 840}
+far-off <> J: {rk: 18862, frq: 514}, R: {rk: 57856, frq: 19}
+far-out <> J: {rk: 35158, frq: 96}, R: {rk: 57035, frq: 20}
+far-reaching <> J: {rk: 11272, frq: 1379}
+far-seeing <> J: {rk: 50048, frq: 35}
+faraway <> N: {rk: 12654, frq: 1118}
+farce <> N: {rk: 14438, frq: 832}
+farcical <> J: {rk: 28603, frq: 181}
+fare <> N: {rk: 4821, frq: 5735}, V: {rk: 7010, frq: 2996}
+fare-thee-well <> N: {rk: 53460, frq: 30}
+farewell <> N: {rk: 8270, frq: 2280}, U: {rk: 22999, frq: 321}
+farm <> N: {rk: 1262, frq: 32657}, V: {rk: 11803, frq: 1214}
+farmed <> J: {rk: 30975, frq: 174}
+farmer <> N: {rk: 1594, frq: 25384}
+farmhand <> N: {rk: 34476, frq: 102}
+farmhouse <> N: {rk: 8548, frq: 2271}
+farming <> N: {rk: 5159, frq: 5093}, J: {rk: 32398, frq: 123}
+farmland <> N: {rk: 8850, frq: 2040}
+farmstead <> N: {rk: 29536, frq: 295}
+farmworker <> N: {rk: 40057, frq: 81}
+farmyard <> N: {rk: 31151, frq: 157}
+farrago <> N: {rk: 51030, frq: 35}
+farrier <> N: {rk: 47505, frq: 44}
+farside <> N: {rk: 46902, frq: 69}
+farsighted <> J: {rk: 27168, frq: 214}
+farsightedness <> N: {rk: 46234, frq: 47}
+fart <> N: {rk: 19732, frq: 487}, V: {rk: 23964, frq: 292}
+farthing <> N: {rk: 42199, frq: 72}
+farting <> J: {rk: 45953, frq: 41}
+fascia <> N: {rk: 28777, frq: 202}
+fascial <> J: {rk: 55210, frq: 35}
+fascicle <> N: {rk: 50649, frq: 37}
+fasciitis <> N: {rk: 44991, frq: 89}
+fascinate <> V: {rk: 5909, frq: 3939}
+fascinated <> J: {rk: 19184, frq: 462}
+fascinating <> J: {rk: 4237, frq: 6852}
+fascinatingly <> R: {rk: 43480, frq: 47}
+fascination <> N: {rk: 6777, frq: 3063}
+fascism <> N: {rk: 13805, frq: 947}
+fascist <> J: {rk: 13333, frq: 1005}, N: {rk: 21115, frq: 368}
+fascistic <> J: {rk: 43991, frq: 46}
+fashion <> N: {rk: 1932, frq: 20957}, V: {rk: 6350, frq: 3555}
+fashion-forward <> J: {rk: 42907, frq: 63}
+fashionable <> J: {rk: 7785, frq: 2526}
+fashionably <> R: {rk: 26935, frq: 217}
+fashioned <> J: {rk: 22451, frq: 326}
+fashioning <> N: {rk: 50436, frq: 34}
+fashionista <> N: {rk: 34960, frq: 136}
+fast <> R: {rk: 1097, frq: 38419}, J: {rk: 2578, frq: 13838}, V: {rk: 16243, frq: 718}, N: {rk: 30458, frq: 175}
+fast-forward <> N: {rk: 25726, frq: 254}, J: {rk: 34991, frq: 101}
+fast-track <> J: {rk: 25041, frq: 252}, N: {rk: 41378, frq: 61}
+fast-twitch <> J: {rk: 42810, frq: 60}
+fastback <> N: {rk: 52567, frq: 38}
+fastball <> N: {rk: 11963, frq: 1330}
+fasten <> V: {rk: 8073, frq: 2470}
+fastener <> N: {rk: 17747, frq: 618}
+fastening <> N: {rk: 33878, frq: 111}
+faster <> J: {rk: 4624, frq: 5999}
+fastest <> J: {rk: 6859, frq: 3133}
+fastidious <> J: {rk: 21448, frq: 366}
+fastidiously <> R: {rk: 37571, frq: 80}
+fastidiousness <> N: {rk: 39448, frq: 69}
+fasting <> J: {rk: 34029, frq: 111}, N: {rk: 36133, frq: 158}
+fastness <> N: {rk: 46185, frq: 46}
+fat <> N: {rk: 1580, frq: 27230}, J: {rk: 2350, frq: 16383}
+fat-free <> J: {rk: 15345, frq: 847}, R: {rk: 49755, frq: 43}
+fatal <> J: {rk: 4969, frq: 5273}
+fatalism <> N: {rk: 22764, frq: 327}
+fatalist <> N: {rk: 44255, frq: 70}
+fatalistic <> J: {rk: 24196, frq: 286}
+fatality <> N: {rk: 9992, frq: 1671}
+fatally <> R: {rk: 14915, frq: 803}
+fatback <> N: {rk: 41523, frq: 87}
+fate <> N: {rk: 2936, frq: 11391}
+fated <> J: {rk: 22850, frq: 303}
+fateful <> J: {rk: 12774, frq: 1064}
+fatefully <> R: {rk: 50628, frq: 37}
+fathead <> N: {rk: 57544, frq: 43}
+father <> N: {rk: 267, frq: 156488}, V: {rk: 14291, frq: 853}
+father-in-law <> N: {rk: 13701, frq: 924}
+fatherhood <> N: {rk: 15061, frq: 806}
+fathering <> N: {rk: 52917, frq: 43}, J: {rk: 55848, frq: 24}
+fatherland <> N: {rk: 24787, frq: 270}
+fatherless <> J: {rk: 24808, frq: 247}
+fatherly <> J: {rk: 22576, frq: 314}
+fathom <> V: {rk: 13900, frq: 895}, N: {rk: 30751, frq: 165}
+fathomless <> J: {rk: 36181, frq: 93}
+fatigability <> N: {rk: 59443, frq: 37}
+fatigue <> N: {rk: 4852, frq: 5580}, V: {rk: 19711, frq: 433}
+fatigued <> J: {rk: 27841, frq: 193}
+fatiguing <> J: {rk: 47838, frq: 39}
+fatness <> N: {rk: 33175, frq: 149}
+fatso <> N: {rk: 48496, frq: 68}
+fatted <> J: {rk: 53377, frq: 28}
+fatten <> V: {rk: 16608, frq: 627}
+fattened <> J: {rk: 54779, frq: 25}
+fattening <> J: {rk: 35877, frq: 89}
+fatty <> J: {rk: 9355, frq: 2057}, N: {rk: 27852, frq: 310}
+fatuous <> J: {rk: 29564, frq: 160}
+fatuously <> R: {rk: 51105, frq: 28}
+fatwa <> N: {rk: 25537, frq: 276}
+faucet <> N: {rk: 10980, frq: 1478}
+fault <> N: {rk: 2866, frq: 12011}, V: {rk: 12798, frq: 1042}
+faultless <> J: {rk: 34787, frq: 101}
+faultlessly <> R: {rk: 56507, frq: 24}
+faulty <> J: {rk: 10225, frq: 1551}
+faun <> N: {rk: 37609, frq: 104}
+fauna <> N: {rk: 12995, frq: 1092}
+faunal <> J: {rk: 42450, frq: 60}
+fauvism <> N: {rk: 54465, frq: 32}
+favela <> N: {rk: 25937, frq: 405}
+favor <> V: {rk: 2516, frq: 14172}, N: {rk: 3395, frq: 9602}, I: {rk: 3500, frq: 8995}
+favorable <> J: {rk: 4835, frq: 5655}
+favorably <> R: {rk: 10438, frq: 1538}
+favored <> J: {rk: 10151, frq: 1553}
+favoring <> J: {rk: 50344, frq: 32}
+favorite <> J: {rk: 1598, frq: 25700}, N: {rk: 2895, frq: 12458}
+favoritism <> N: {rk: 18475, frq: 530}
+favour <> V: {rk: 31040, frq: 164}
+favourable <> J: {rk: 30877, frq: 167}
+favourably <> R: {rk: 52918, frq: 34}
+favoured <> J: {rk: 52711, frq: 34}
+favourite <> J: {rk: 23854, frq: 323}, N: {rk: 32082, frq: 137}
+fawn <> N: {rk: 19887, frq: 482}, V: {rk: 25728, frq: 243}
+fawning <> J: {rk: 42057, frq: 54}, N: {rk: 55672, frq: 22}
+faxed <> J: {rk: 27619, frq: 187}
+faze <> V: {rk: 20350, frq: 408}
+fealty <> N: {rk: 29427, frq: 172}
+fear <> N: {rk: 986, frq: 42403}, V: {rk: 1666, frq: 23276}
+feared <> J: {rk: 18537, frq: 491}
+fearful <> J: {rk: 6280, frq: 3530}
+fearfully <> R: {rk: 24085, frq: 293}
+fearfulness <> N: {rk: 41063, frq: 73}
+fearless <> J: {rk: 11784, frq: 1314}
+fearlessly <> R: {rk: 28015, frq: 199}
+fearlessness <> N: {rk: 29104, frq: 174}
+fearsome <> J: {rk: 15322, frq: 750}
+feasibility <> N: {rk: 12152, frq: 1252}
+feasible <> J: {rk: 7724, frq: 2683}
+feasibly <> R: {rk: 47015, frq: 41}
+feast <> N: {rk: 5987, frq: 3957}, V: {rk: 16773, frq: 662}
+feasting <> N: {rk: 40301, frq: 69}, J: {rk: 58088, frq: 19}
+feat <> N: {rk: 7292, frq: 2862}
+feather <> N: {rk: 4572, frq: 6239}, V: {rk: 25927, frq: 228}
+featherbed <> N: {rk: 47483, frq: 37}
+feathered <> J: {rk: 16702, frq: 619}
+feathering <> N: {rk: 43465, frq: 55}
+featherless <> J: {rk: 57683, frq: 20}
+featherweight <> N: {rk: 28981, frq: 201}
+feathery <> J: {rk: 18614, frq: 513}
+feature <> N: {rk: 1192, frq: 36098}, V: {rk: 1736, frq: 24159}
+feature-length <> J: {rk: 33285, frq: 119}
+featured <> J: {rk: 15159, frq: 800}
+featureless <> J: {rk: 20435, frq: 426}
+febrile <> J: {rk: 34312, frq: 127}
+fecal <> J: {rk: 16333, frq: 759}
+feces <> N: {rk: 17380, frq: 598}
+feckless <> J: {rk: 27637, frq: 204}
+fecklessness <> N: {rk: 54206, frq: 26}
+fecund <> J: {rk: 29344, frq: 167}
+fecundity <> N: {rk: 24360, frq: 315}
+fed <> J: {rk: 10261, frq: 1590}
+fedayeen <> J: {rk: 46912, frq: 62}
+federal <> J: {rk: 493, frq: 89617}
+federalism <> N: {rk: 15123, frq: 893}
+federalist <> J: {rk: 15005, frq: 879}, N: {rk: 25814, frq: 286}
+federalization <> N: {rk: 48574, frq: 37}
+federalize <> V: {rk: 34875, frq: 103}
+federally <> R: {rk: 9400, frq: 1859}
+federate <> V: {rk: 55505, frq: 24}
+federated <> J: {rk: 24562, frq: 272}
+federative <> J: {rk: 59139, frq: 22}
+fedora <> N: {rk: 20307, frq: 1074}
+fee <> N: {rk: 1836, frq: 22234}
+feeble <> J: {rk: 12422, frq: 1149}
+feeble-minded <> J: {rk: 46267, frq: 42}
+feebleness <> N: {rk: 51697, frq: 28}
+feebly <> R: {rk: 23792, frq: 308}
+feed <> V: {rk: 1321, frq: 31124}, N: {rk: 6164, frq: 3858}
+feedback <> N: {rk: 3918, frq: 8609}
+feeder <> N: {rk: 11191, frq: 1384}
+feeding <> J: {rk: 10979, frq: 1409}, N: {rk: 13541, frq: 953}
+feedlot <> N: {rk: 29369, frq: 186}
+feedthrough <> N: {rk: 50539, frq: 54}
+feel <> V: {rk: 134, frq: 298414}, N: {rk: 3968, frq: 7565}
+feel-good <> J: {rk: 18804, frq: 545}
+feeler <> N: {rk: 26058, frq: 230}
+feeling <> N: {rk: 805, frq: 50683}
+feelingly <> R: {rk: 54840, frq: 26}
+feign <> V: {rk: 13957, frq: 960}
+feigned <> J: {rk: 26749, frq: 228}
+feint <> N: {rk: 30133, frq: 163}, V: {rk: 32185, frq: 129}
+feistiness <> N: {rk: 45765, frq: 43}
+feisty <> J: {rk: 16580, frq: 652}
+feldspar <> N: {rk: 40556, frq: 103}
+felicitous <> J: {rk: 33707, frq: 111}
+felicitously <> R: {rk: 50605, frq: 29}
+feline <> J: {rk: 20587, frq: 424}, N: {rk: 29422, frq: 173}
+fell <> V: {rk: 18249, frq: 537}, N: {rk: 19264, frq: 967}, J: {rk: 29054, frq: 174}
+fella <> N: {rk: 11545, frq: 1392}
+fellah <> N: {rk: 43390, frq: 59}
+fellate <> V: {rk: 57884, frq: 20}
+fellatio <> N: {rk: 37775, frq: 82}
+felled <> J: {rk: 34343, frq: 103}
+felling <> N: {rk: 52432, frq: 65}
+fellow <> J: {rk: 2437, frq: 14853}, N: {rk: 2996, frq: 11356}
+fellowship <> N: {rk: 9475, frq: 2994}
+felon <> N: {rk: 11609, frq: 1358}
+felonious <> J: {rk: 35499, frq: 89}
+felony <> N: {rk: 7351, frq: 2966}
+felt <> N: {rk: 14681, frq: 819}
+felt-tip <> J: {rk: 36347, frq: 95}
+felted <> J: {rk: 49247, frq: 37}
+female <> J: {rk: 1400, frq: 30364}, N: {rk: 2008, frq: 22632}
+femaleness <> N: {rk: 36489, frq: 89}
+feminazi <> N: {rk: 43751, frq: 64}
+feminine <> J: {rk: 5889, frq: 4121}, N: {rk: 33508, frq: 131}
+femininity <> N: {rk: 12956, frq: 1128}
+feminism <> N: {rk: 7624, frq: 2756}
+feminist <> J: {rk: 4692, frq: 6016}, N: {rk: 6163, frq: 3866}
+feminization <> N: {rk: 30967, frq: 144}
+feminize <> V: {rk: 32008, frq: 127}
+feminized <> J: {rk: 37023, frq: 88}
+femoral <> J: {rk: 25018, frq: 300}
+femoris <> N: {rk: 44217, frq: 70}
+femtosecond <> N: {rk: 45973, frq: 62}
+femur <> N: {rk: 19290, frq: 493}
+fen <> N: {rk: 28551, frq: 219}
+fence <> N: {rk: 2669, frq: 13198}, V: {rk: 16319, frq: 654}
+fenced <> J: {rk: 27657, frq: 192}
+fencer <> N: {rk: 34710, frq: 109}
+fencerow <> N: {rk: 46480, frq: 50}
+fencing <> N: {rk: 12164, frq: 1187}
+fend <> V: {rk: 9198, frq: 1899}
+fender <> N: {rk: 12418, frq: 1141}
+fenestration <> N: {rk: 51391, frq: 31}
+fennel <> N: {rk: 11934, frq: 1519}
+fentanyl <> N: {rk: 34886, frq: 149}
+fenugreek <> N: {rk: 42988, frq: 64}
+feral <> J: {rk: 16627, frq: 763}
+fermata <> N: {rk: 57349, frq: 36}
+ferment <> V: {rk: 18569, frq: 514}, N: {rk: 23434, frq: 294}
+fermentation <> N: {rk: 20432, frq: 429}
+fermented <> J: {rk: 24578, frq: 271}
+fermenter <> N: {rk: 53839, frq: 44}
+fermenting <> J: {rk: 45999, frq: 41}
+fermion <> N: {rk: 42098, frq: 63}
+fern <> N: {rk: 9162, frq: 2145}
+ferocious <> J: {rk: 11495, frq: 1275}
+ferociously <> R: {rk: 21279, frq: 374}
+ferocity <> N: {rk: 16676, frq: 630}
+ferret <> N: {rk: 22006, frq: 439}, V: {rk: 22606, frq: 311}
+ferric <> J: {rk: 49655, frq: 40}
+ferritin <> N: {rk: 42707, frq: 72}
+ferromagnetic <> J: {rk: 48645, frq: 43}
+ferrous <> J: {rk: 32885, frq: 129}
+ferrule <> N: {rk: 45496, frq: 46}
+ferry <> N: {rk: 6585, frq: 3720}, V: {rk: 11418, frq: 1336}
+ferryboat <> N: {rk: 38944, frq: 78}
+ferryman <> N: {rk: 42207, frq: 82}
+fertile <> J: {rk: 7582, frq: 2643}
+fertility <> N: {rk: 6185, frq: 3962}
+fertilization <> N: {rk: 13548, frq: 965}
+fertilize <> V: {rk: 13914, frq: 910}
+fertilized <> J: {rk: 22113, frq: 327}
+fertilizer <> N: {rk: 6454, frq: 3592}
+fertilizing <> N: {rk: 55141, frq: 34}
+fervent <> J: {rk: 14627, frq: 793}
+fervently <> R: {rk: 16995, frq: 608}
+fervid <> J: {rk: 38112, frq: 76}
+fervor <> N: {rk: 11309, frq: 1340}
+fescue <> N: {rk: 29755, frq: 184}
+fess <> V: {rk: 30224, frq: 158}, N: {rk: 50640, frq: 54}
+fester <> V: {rk: 23638, frq: 289}
+festering <> J: {rk: 33527, frq: 112}
+festival <> N: {rk: 3723, frq: 14224}
+festive <> J: {rk: 10354, frq: 1638}
+festively <> R: {rk: 46449, frq: 41}
+festivity <> N: {rk: 10496, frq: 1497}
+festoon <> V: {rk: 18521, frq: 513}, N: {rk: 43200, frq: 54}
+festschrift <> N: {rk: 51306, frq: 37}
+fetal <> J: {rk: 10162, frq: 1620}
+fetch <> V: {rk: 6841, frq: 3260}, N: {rk: 40769, frq: 104}
+fetching <> J: {rk: 23841, frq: 284}
+fetchingly <> R: {rk: 50630, frq: 37}
+fete <> N: {rk: 25278, frq: 261}, V: {rk: 31614, frq: 135}
+fetid <> J: {rk: 26360, frq: 229}
+fetish <> N: {rk: 16652, frq: 690}
+fetishism <> N: {rk: 30968, frq: 158}
+fetishist <> N: {rk: 41747, frq: 61}
+fetishistic <> J: {rk: 36962, frq: 90}
+fetishization <> N: {rk: 49970, frq: 42}
+fetishize <> V: {rk: 34757, frq: 110}
+fetishized <> J: {rk: 48709, frq: 38}
+fetlock <> N: {rk: 56291, frq: 21}
+fetter <> N: {rk: 38480, frq: 103}, V: {rk: 40381, frq: 61}
+fettuccine <> N: {rk: 30167, frq: 190}
+fetus <> N: {rk: 8056, frq: 2370}
+feu <> N: {rk: 37126, frq: 141}
+feud <> N: {rk: 10596, frq: 1486}, V: {rk: 20828, frq: 389}
+feudal <> J: {rk: 17088, frq: 600}
+feudalism <> N: {rk: 32345, frq: 131}
+feuding <> N: {rk: 36887, frq: 91}, J: {rk: 39789, frq: 70}
+fever <> N: {rk: 4411, frq: 6280}, V: {rk: 41814, frq: 55}
+fevered <> J: {rk: 26308, frq: 220}
+feverfew <> N: {rk: 43676, frq: 62}
+feverish <> J: {rk: 15131, frq: 774}
+feverishly <> R: {rk: 19926, frq: 432}
+few <> D: {rk: 185, frq: 213654}
+fewer <> D: {rk: 1976, frq: 19849}
+fez <> N: {rk: 34410, frq: 205}
+fiance <> N: {rk: 12070, frq: 1221}
+fiancee <> N: {rk: 13995, frq: 920}
+fiasco <> N: {rk: 12856, frq: 1062}
+fiat <> N: {rk: 14382, frq: 1341}
+fib <> N: {rk: 32636, frq: 144}, V: {rk: 34411, frq: 107}
+fiber <> N: {rk: 2610, frq: 15585}
+fiberboard <> N: {rk: 38342, frq: 82}
+fiberglass <> N: {rk: 13845, frq: 981}
+fibre <> N: {rk: 26983, frq: 258}
+fibril <> N: {rk: 46258, frq: 58}
+fibrillation <> N: {rk: 26402, frq: 245}
+fibrin <> N: {rk: 44170, frq: 63}
+fibrinogen <> N: {rk: 47259, frq: 45}
+fibrinolytic <> J: {rk: 59795, frq: 28}
+fibroblast <> N: {rk: 35757, frq: 105}
+fibrocystic <> J: {rk: 49523, frq: 38}
+fibroid <> N: {rk: 29508, frq: 207}, J: {rk: 44520, frq: 56}
+fibromyalgia <> N: {rk: 30019, frq: 250}
+fibrosis <> N: {rk: 18450, frq: 555}
+fibrotic <> J: {rk: 51924, frq: 38}
+fibrous <> J: {rk: 17563, frq: 608}
+fibula <> N: {rk: 34229, frq: 121}
+fibular <> J: {rk: 51645, frq: 40}
+fice <> N: {rk: 53756, frq: 28}
+fickle <> J: {rk: 16367, frq: 657}
+fickleness <> N: {rk: 40914, frq: 59}
+fiction <> N: {rk: 2779, frq: 12856}
+fictional <> J: {rk: 6430, frq: 3992}
+fictionalization <> N: {rk: 57180, frq: 23}
+fictionalize <> V: {rk: 31402, frq: 137}
+fictionalized <> J: {rk: 29633, frq: 164}
+fictionally <> R: {rk: 58233, frq: 21}
+fictitious <> J: {rk: 15312, frq: 737}
+fictive <> J: {rk: 21125, frq: 511}
+fiddle <> V: {rk: 11969, frq: 1255}, N: {rk: 12695, frq: 1086}
+fiddlehead <> N: {rk: 41695, frq: 67}
+fiddler <> N: {rk: 24640, frq: 533}
+fiddling <> J: {rk: 35032, frq: 98}
+fidget <> V: {rk: 14603, frq: 862}, N: {rk: 46862, frq: 38}
+fidgeting <> N: {rk: 52022, frq: 32}
+fidgety <> J: {rk: 26693, frq: 212}
+fiduciary <> J: {rk: 21924, frq: 401}, N: {rk: 36742, frq: 90}
+fie <> U: {rk: 41771, frq: 56}
+fief <> N: {rk: 36478, frq: 103}
+fiefdom <> N: {rk: 24306, frq: 276}
+field <> N: {rk: 439, frq: 99988}, V: {rk: 7963, frq: 2483}
+fielder <> N: {rk: 11136, frq: 1651}
+fieldhouse <> N: {rk: 50041, frq: 107}
+fieldstone <> N: {rk: 29554, frq: 241}
+fieldwork <> N: {rk: 11585, frq: 1481}
+fiend <> N: {rk: 20963, frq: 419}
+fiendish <> J: {rk: 32627, frq: 126}
+fiendishly <> R: {rk: 35934, frq: 90}
+fierce <> J: {rk: 4523, frq: 6112}
+fiercely <> R: {rk: 7938, frq: 2455}
+fierceness <> N: {rk: 28475, frq: 181}
+fiery <> J: {rk: 7971, frq: 2466}
+fifteen <> M: {rk: 3014, frq: 11639}
+fifteenth <> M: {rk: 13465, frq: 985}
+fifth <> M: {rk: 2513, frq: 14324}
+fifths <> M: {rk: 32712, frq: 123}
+fiftieth <> M: {rk: 22527, frq: 342}
+fifty <> M: {rk: 3057, frq: 11460}
+fifty-fifty <> M: {rk: 28021, frq: 191}
+fight <> V: {rk: 676, frq: 61781}, N: {rk: 1569, frq: 25373}
+fighter <> N: {rk: 3047, frq: 11262}
+fighting <> N: {rk: 3278, frq: 9973}
+figment <> N: {rk: 23950, frq: 285}
+figural <> J: {rk: 21974, frq: 379}
+figuration <> N: {rk: 25926, frq: 251}
+figurative <> J: {rk: 12343, frq: 1204}
+figuratively <> R: {rk: 17157, frq: 601}
+figure <> N: {rk: 552, frq: 80211}, V: {rk: 1078, frq: 39548}
+figure-skating <> J: {rk: 47524, frq: 37}
+figurehead <> N: {rk: 22828, frq: 330}
+figurine <> N: {rk: 13547, frq: 1012}
+figuring <> N: {rk: 41280, frq: 61}
+filament <> N: {rk: 14266, frq: 880}
+filamentary <> J: {rk: 53278, frq: 26}
+filamentous <> J: {rk: 42030, frq: 58}
+filariasis <> N: {rk: 59680, frq: 21}
+filbert <> N: {rk: 31077, frq: 159}
+filch <> V: {rk: 32799, frq: 123}
+file <> N: {rk: 1754, frq: 22516}, V: {rk: 1891, frq: 20908}
+filename <> N: {rk: 56164, frq: 36}
+filer <> N: {rk: 24841, frq: 304}
+filet <> N: {rk: 18865, frq: 539}
+filial <> J: {rk: 24033, frq: 305}
+filiation <> N: {rk: 41567, frq: 77}
+filibuster <> N: {rk: 14601, frq: 1034}, V: {rk: 22449, frq: 394}
+filigree <> N: {rk: 26552, frq: 220}
+filing <> N: {rk: 7058, frq: 3086}
+fill <> V: {rk: 686, frq: 61866}, N: {rk: 12777, frq: 1087}
+fill-up <> N: {rk: 41815, frq: 59}
+fille <> N: {rk: 35654, frq: 128}
+filled <> J: {rk: 21158, frq: 387}
+filler <> N: {rk: 15224, frq: 833}
+fillet <> N: {rk: 10989, frq: 1552}, V: {rk: 44675, frq: 51}
+filling <> N: {rk: 7372, frq: 2999}, J: {rk: 39422, frq: 66}
+fillip <> N: {rk: 43770, frq: 50}
+filly <> N: {rk: 21942, frq: 398}
+film <> N: {rk: 593, frq: 71725}, V: {rk: 5842, frq: 4172}
+filmed <> J: {rk: 31503, frq: 148}
+filmic <> J: {rk: 33812, frq: 125}
+filming <> N: {rk: 18164, frq: 531}
+filmmaker <> N: {rk: 6246, frq: 4042}
+filmmaking <> N: {rk: 26096, frq: 284}, J: {rk: 31903, frq: 130}
+filmography <> N: {rk: 55736, frq: 28}
+filmstrip <> N: {rk: 37054, frq: 81}
+filmy <> J: {rk: 28140, frq: 202}
+filter <> N: {rk: 4409, frq: 6659}, V: {rk: 5951, frq: 3950}
+filtered <> J: {rk: 24629, frq: 272}
+filtering <> N: {rk: 18496, frq: 549}
+filth <> N: {rk: 15895, frq: 736}
+filthy <> J: {rk: 8865, frq: 2125}
+filtration <> N: {rk: 16766, frq: 675}
+fin <> N: {rk: 8487, frq: 2500}, V: {rk: 50584, frq: 32}
+finagle <> V: {rk: 34695, frq: 106}
+final <> J: {rk: 888, frq: 47108}, N: {rk: 3472, frq: 9718}
+finale <> N: {rk: 10005, frq: 1765}
+finalist <> N: {rk: 10418, frq: 1708}
+finality <> N: {rk: 16477, frq: 674}
+finalization <> N: {rk: 56905, frq: 23}
+finalize <> V: {rk: 12841, frq: 1062}
+finalized <> J: {rk: 51673, frq: 30}
+finally <> R: {rk: 470, frq: 88457}
+finance <> N: {rk: 2825, frq: 12926}, V: {rk: 3473, frq: 9140}
+financial <> J: {rk: 828, frq: 53377}
+financially <> R: {rk: 5537, frq: 4552}
+financier <> N: {rk: 13555, frq: 962}
+financing <> N: {rk: 5675, frq: 4383}
+finca <> N: {rk: 48175, frq: 75}
+find <> V: {rk: 95, frq: 426447}, N: {rk: 10655, frq: 1606}
+finder <> N: {rk: 13529, frq: 1097}
+finderscope <> N: {rk: 40242, frq: 81}
+finding <> N: {rk: 1481, frq: 31073}
+fine <> J: {rk: 704, frq: 59891}, V: {rk: 9239, frq: 1954}, R: {rk: 23741, frq: 281}
+fine-grained <> J: {rk: 27499, frq: 204}
+fine-tune <> N: {rk: 21620, frq: 379}, V: {rk: 27635, frq: 192}
+fine-tuned <> J: {rk: 41292, frq: 61}
+fine-tuning <> N: {rk: 18589, frq: 507}
+fined <> J: {rk: 58327, frq: 22}
+finely <> R: {rk: 6036, frq: 4486}
+fineness <> N: {rk: 37757, frq: 118}
+finery <> N: {rk: 22377, frq: 344}
+fines <> N: {rk: 8341, frq: 2339}
+finesse <> N: {rk: 13949, frq: 994}
+finfish <> N: {rk: 35167, frq: 115}
+finger <> N: {rk: 1043, frq: 44148}, V: {rk: 10804, frq: 1547}
+fingerboard <> N: {rk: 46544, frq: 44}
+fingering <> N: {rk: 35926, frq: 102}
+fingerless <> J: {rk: 47608, frq: 44}
+fingerling <> N: {rk: 36613, frq: 96}
+fingernail <> N: {rk: 7906, frq: 2613}
+fingerprint <> N: {rk: 7381, frq: 2847}, V: {rk: 20749, frq: 387}
+fingerprinting <> N: {rk: 36008, frq: 114}, J: {rk: 50080, frq: 36}
+fingertip <> N: {rk: 7366, frq: 2996}
+finial <> N: {rk: 27227, frq: 222}
+finicky <> J: {rk: 22415, frq: 333}
+finis <> N: {rk: 38708, frq: 70}
+finish <> V: {rk: 917, frq: 46513}, N: {rk: 3794, frq: 8269}
+finished <> J: {rk: 6968, frq: 2994}
+finisher <> N: {rk: 18361, frq: 558}
+finishing <> J: {rk: 10176, frq: 1618}, N: {rk: 43514, frq: 51}
+finite <> J: {rk: 9887, frq: 1816}
+finitude <> N: {rk: 33657, frq: 133}
+finned <> J: {rk: 49194, frq: 35}
+finny <> J: {rk: 51426, frq: 34}
+fino <> N: {rk: 41025, frq: 107}
+fiord <> N: {rk: 43201, frq: 68}
+fir <> N: {rk: 10398, frq: 1662}
+fire <> N: {rk: 653, frq: 64322}, V: {rk: 1473, frq: 27540}
+fire-eater <> N: {rk: 45638, frq: 42}
+firearm <> N: {rk: 6693, frq: 3386}
+fireback <> N: {rk: 53319, frq: 40}
+fireball <> N: {rk: 15158, frq: 824}
+firebase <> N: {rk: 56591, frq: 39}
+fireboat <> N: {rk: 56347, frq: 27}
+firebomb <> N: {rk: 32386, frq: 122}, V: {rk: 32964, frq: 117}
+firebombing <> N: {rk: 40745, frq: 65}
+firebox <> N: {rk: 30289, frq: 181}
+firebrand <> N: {rk: 26112, frq: 257}
+firebreak <> N: {rk: 42884, frq: 53}
+firecracker <> N: {rk: 17948, frq: 596}
+fired <> J: {rk: 19647, frq: 437}
+firefight <> N: {rk: 19029, frq: 522}
+firefighter <> N: {rk: 5574, frq: 5142}
+firefighting <> N: {rk: 46339, frq: 55}
+firefly <> N: {rk: 17151, frq: 884}
+firehose <> N: {rk: 58308, frq: 24}
+firehouse <> N: {rk: 20833, frq: 469}
+firelight <> N: {rk: 21360, frq: 421}
+fireman <> N: {rk: 9261, frq: 1911}
+fireplace <> N: {rk: 5593, frq: 4569}
+fireplug <> N: {rk: 47878, frq: 37}
+firepower <> N: {rk: 14778, frq: 811}
+fireproof <> J: {rk: 31838, frq: 128}, V: {rk: 46583, frq: 39}
+fireside <> N: {rk: 23623, frq: 353}
+firestorm <> N: {rk: 17298, frq: 636}
+firetrap <> N: {rk: 53411, frq: 24}
+firetruck <> N: {rk: 36062, frq: 100}
+firewall <> N: {rk: 17890, frq: 687}
+firewater <> N: {rk: 54563, frq: 28}
+fireweed <> N: {rk: 48971, frq: 40}
+firewood <> N: {rk: 12816, frq: 1090}
+fireworks <> N: {rk: 7961, frq: 2570}
+firing <> N: {rk: 6682, frq: 3246}
+firm <> N: {rk: 903, frq: 47385}, J: {rk: 3269, frq: 9765}, V: {rk: 22246, frq: 328}
+firmament <> N: {rk: 24797, frq: 264}
+firmly <> R: {rk: 3848, frq: 7759}
+firmness <> N: {rk: 20319, frq: 840}
+firmware <> N: {rk: 33693, frq: 142}
+first <> M: {rk: 86, frq: 502030}, R: {rk: 2058, frq: 18661}, N: {rk: 22515, frq: 578}
+first-class <> J: {rk: 11238, frq: 1329}
+first-degree <> J: {rk: 16704, frq: 650}
+first-ever <> J: {rk: 15581, frq: 752}
+first-hand <> J: {rk: 11251, frq: 1332}
+first-order <> J: {rk: 30465, frq: 171}
+first-rate <> J: {rk: 13476, frq: 956}
+first-string <> J: {rk: 56286, frq: 21}
+firstborn <> N: {rk: 19932, frq: 874}
+firsthand <> R: {rk: 9473, frq: 1812}
+firstly <> R: {rk: 22107, frq: 363}
+fiscal <> J: {rk: 3662, frq: 9042}
+fiscally <> R: {rk: 19024, frq: 543}
+fish <> N: {rk: 948, frq: 45922}, V: {rk: 4869, frq: 5520}
+fishable <> J: {rk: 41185, frq: 62}
+fishbone <> N: {rk: 52313, frq: 57}
+fishbowl <> N: {rk: 27307, frq: 230}
+fisherman <> N: {rk: 4309, frq: 6784}
+fisherwoman <> N: {rk: 54269, frq: 25}
+fishery <> N: {rk: 6052, frq: 7222}
+fishfinder <> N: {rk: 37580, frq: 113}
+fishhook <> N: {rk: 33309, frq: 117}
+fishing <> N: {rk: 2033, frq: 19137}
+fishlike <> J: {rk: 44778, frq: 47}
+fishmeal <> N: {rk: 50100, frq: 44}
+fishmonger <> N: {rk: 32308, frq: 129}
+fishnet <> N: {rk: 27170, frq: 225}
+fishpond <> N: {rk: 42551, frq: 61}
+fishtail <> V: {rk: 29338, frq: 176}
+fishwife <> N: {rk: 52080, frq: 34}
+fishy <> J: {rk: 19132, frq: 502}
+fissile <> J: {rk: 27649, frq: 228}
+fission <> N: {rk: 20509, frq: 461}
+fissionable <> J: {rk: 38151, frq: 78}
+fissure <> N: {rk: 15945, frq: 723}
+fissured <> J: {rk: 45605, frq: 44}
+fist <> N: {rk: 3911, frq: 8404}
+fisted <> J: {rk: 38812, frq: 80}
+fistfight <> N: {rk: 22098, frq: 344}
+fistful <> N: {rk: 19569, frq: 467}
+fistula <> N: {rk: 32238, frq: 191}, J: {rk: 56795, frq: 28}
+fit <> V: {rk: 1353, frq: 30259}, J: {rk: 3423, frq: 9472}, N: {rk: 6511, frq: 3453}
+fitful <> J: {rk: 22973, frq: 318}
+fitfully <> R: {rk: 24200, frq: 286}
+fitness <> N: {rk: 3379, frq: 9954}
+fitted <> J: {rk: 21651, frq: 385}
+fitter <> N: {rk: 27149, frq: 225}
+fitting <> N: {rk: 10324, frq: 1627}, J: {rk: 11243, frq: 1331}
+fittingly <> R: {rk: 22877, frq: 326}
+five <> M: {rk: 299, frq: 136838}
+five-and-dime <> N: {rk: 50188, frq: 38}, J: {rk: 53980, frq: 24}
+five-spice <> N: {rk: 58623, frq: 35}
+five-star <> J: {rk: 19030, frq: 518}
+fivefold <> R: {rk: 27505, frq: 197}
+fiver <> N: {rk: 33552, frq: 113}
+fix <> V: {rk: 1860, frq: 21267}, N: {rk: 6251, frq: 3912}
+fixable <> J: {rk: 40660, frq: 67}
+fixate <> V: {rk: 15612, frq: 707}
+fixated <> J: {rk: 49466, frq: 34}
+fixation <> N: {rk: 13194, frq: 1076}
+fixative <> N: {rk: 27730, frq: 217}, J: {rk: 43120, frq: 56}
+fixator <> N: {rk: 47514, frq: 61}
+fixed <> J: {rk: 4370, frq: 6461}
+fixed-wing <> J: {rk: 34109, frq: 116}
+fixedly <> R: {rk: 32234, frq: 137}
+fixer <> N: {rk: 25800, frq: 343}
+fixer-upper <> N: {rk: 34765, frq: 89}
+fixing <> N: {rk: 17156, frq: 591}
+fixity <> N: {rk: 36194, frq: 89}
+fixture <> N: {rk: 7144, frq: 2991}
+fizz <> N: {rk: 28261, frq: 193}
+fizzing <> J: {rk: 49917, frq: 34}
+fizzle <> V: {rk: 18757, frq: 511}, N: {rk: 36352, frq: 99}
+fizzy <> J: {rk: 34025, frq: 119}
+fjord <> N: {rk: 23275, frq: 306}
+flab <> N: {rk: 29746, frq: 173}
+flabbergast <> V: {rk: 49125, frq: 33}
+flabbergasted <> J: {rk: 21701, frq: 345}
+flabby <> J: {rk: 22431, frq: 324}
+flaccid <> J: {rk: 27778, frq: 197}
+flack <> N: {rk: 24733, frq: 464}
+flag <> N: {rk: 2460, frq: 14632}, V: {rk: 13525, frq: 978}
+flag-waving <> J: {rk: 38663, frq: 75}, N: {rk: 45948, frq: 44}
+flagellate <> V: {rk: 56113, frq: 22}
+flagellation <> N: {rk: 45165, frq: 47}
+flagged <> J: {rk: 45556, frq: 48}
+flagging <> J: {rk: 30313, frq: 152}
+flagon <> N: {rk: 41365, frq: 75}
+flagpole <> N: {rk: 23233, frq: 300}
+flagrant <> J: {rk: 19637, frq: 427}
+flagrantly <> R: {rk: 30732, frq: 139}
+flagship <> N: {rk: 11672, frq: 1307}
+flagstick <> N: {rk: 44412, frq: 50}
+flagstone <> N: {rk: 21540, frq: 378}
+flail <> V: {rk: 13277, frq: 1048}, N: {rk: 34819, frq: 124}
+flailing <> J: {rk: 24691, frq: 272}
+flair <> N: {rk: 11502, frq: 1317}
+flak <> N: {rk: 16684, frq: 650}
+flake <> N: {rk: 7890, frq: 2680}, V: {rk: 17746, frq: 614}
+flakiness <> N: {rk: 50998, frq: 28}
+flaking <> J: {rk: 49484, frq: 33}
+flaky <> J: {rk: 18488, frq: 544}
+flamboyance <> N: {rk: 33060, frq: 117}
+flamboyant <> J: {rk: 14095, frq: 875}, N: {rk: 31671, frq: 130}
+flamboyantly <> R: {rk: 34161, frq: 102}
+flame <> N: {rk: 3220, frq: 10447}, V: {rk: 21387, frq: 388}
+flamenco <> N: {rk: 22523, frq: 533}
+flameout <> N: {rk: 43491, frq: 56}
+flameproof <> J: {rk: 54957, frq: 23}
+flaming <> J: {rk: 13043, frq: 1053}
+flamingo <> N: {rk: 22488, frq: 535}
+flammability <> N: {rk: 41615, frq: 60}
+flammable <> J: {rk: 19150, frq: 467}
+flan <> N: {rk: 27719, frq: 207}
+flange <> N: {rk: 22747, frq: 333}
+flanged <> J: {rk: 51585, frq: 30}
+flank <> N: {rk: 8608, frq: 2264}, V: {rk: 9076, frq: 2000}
+flanker <> N: {rk: 46491, frq: 47}
+flanking <> J: {rk: 34066, frq: 113}
+flannel <> N: {rk: 12266, frq: 1229}
+flap <> V: {rk: 8261, frq: 2451}, N: {rk: 8378, frq: 2377}
+flapjack <> N: {rk: 42916, frq: 57}
+flapper <> N: {rk: 29987, frq: 163}
+flapping <> J: {rk: 31682, frq: 134}, N: {rk: 33673, frq: 114}
+flare <> V: {rk: 8624, frq: 2258}, N: {rk: 9248, frq: 1937}
+flare-up <> N: {rk: 22876, frq: 331}
+flared <> J: {rk: 31458, frq: 139}
+flaring <> J: {rk: 34996, frq: 100}
+flash <> V: {rk: 3524, frq: 9489}, N: {rk: 4138, frq: 7326}, J: {rk: 9251, frq: 2016}
+flashback <> N: {rk: 13079, frq: 1447}
+flashbulb <> N: {rk: 25917, frq: 241}
+flashcard <> N: {rk: 40172, frq: 68}
+flasher <> N: {rk: 31887, frq: 143}
+flashiness <> N: {rk: 58374, frq: 19}
+flashing <> J: {rk: 16678, frq: 657}, N: {rk: 34007, frq: 110}
+flashlight <> N: {rk: 6460, frq: 3808}
+flashpoint <> N: {rk: 30376, frq: 167}
+flashy <> J: {rk: 11087, frq: 1379}
+flask <> N: {rk: 14533, frq: 913}
+flat <> J: {rk: 2585, frq: 13905}, R: {rk: 13532, frq: 954}
+flat-chested <> J: {rk: 39604, frq: 70}
+flat-footed <> J: {rk: 31532, frq: 137}
+flat-top <> J: {rk: 55750, frq: 23}
+flatbed <> J: {rk: 21353, frq: 380}
+flatboat <> N: {rk: 44068, frq: 61}
+flatbread <> N: {rk: 31472, frq: 210}
+flatfish <> N: {rk: 46961, frq: 46}
+flathead <> N: {rk: 31275, frq: 361}
+flatiron <> N: {rk: 30136, frq: 251}
+flatland <> N: {rk: 25663, frq: 252}
+flatlander <> N: {rk: 38540, frq: 81}
+flatly <> R: {rk: 11203, frq: 1323}
+flatness <> N: {rk: 23779, frq: 297}
+flatscreen <> N: {rk: 57787, frq: 25}
+flatten <> V: {rk: 7558, frq: 2694}
+flattened <> J: {rk: 15555, frq: 717}
+flattening <> N: {rk: 42702, frq: 52}, J: {rk: 52368, frq: 28}
+flatter <> V: {rk: 10163, frq: 1637}
+flattered <> J: {rk: 24946, frq: 264}
+flatterer <> N: {rk: 46890, frq: 38}
+flattering <> J: {rk: 14994, frq: 806}
+flattery <> N: {rk: 19892, frq: 455}
+flattish <> J: {rk: 54432, frq: 24}
+flatulence <> N: {rk: 31566, frq: 134}
+flatulent <> J: {rk: 43233, frq: 51}
+flatware <> N: {rk: 25759, frq: 302}
+flatworm <> N: {rk: 48265, frq: 35}
+flaunt <> V: {rk: 13789, frq: 911}
+flaunting <> N: {rk: 54052, frq: 27}
+flautist <> N: {rk: 53389, frq: 25}
+flavonoid <> N: {rk: 27376, frq: 225}, J: {rk: 53773, frq: 34}
+flavor <> N: {rk: 3137, frq: 11959}, V: {rk: 9597, frq: 1861}
+flavored <> J: {rk: 20985, frq: 398}
+flavorful <> J: {rk: 15389, frq: 839}
+flavoring <> N: {rk: 24707, frq: 271}, J: {rk: 46002, frq: 42}
+flavorless <> J: {rk: 39526, frq: 75}
+flaw <> N: {rk: 5459, frq: 4572}
+flawed <> J: {rk: 6812, frq: 3095}
+flawless <> J: {rk: 11980, frq: 1241}
+flawlessly <> R: {rk: 22567, frq: 320}
+flax <> N: {rk: 23521, frq: 404}
+flaxen <> J: {rk: 40358, frq: 68}
+flaxseed <> N: {rk: 24284, frq: 363}
+flay <> V: {rk: 22622, frq: 385}
+flayed <> J: {rk: 47912, frq: 36}
+flea <> N: {rk: 9353, frq: 2154}
+fleabag <> N: {rk: 52763, frq: 27}
+fleck <> N: {rk: 15812, frq: 747}, V: {rk: 22102, frq: 359}
+fledge <> V: {rk: 31110, frq: 147}
+fledged <> J: {rk: 43143, frq: 52}
+fledging <> J: {rk: 45206, frq: 43}
+fledgling <> J: {rk: 10609, frq: 1479}, N: {rk: 28956, frq: 163}
+flee <> V: {rk: 2959, frq: 11534}
+fleece <> N: {rk: 16459, frq: 822}, V: {rk: 26013, frq: 243}
+fleecing <> N: {rk: 56719, frq: 22}
+fleeing <> J: {rk: 15625, frq: 714}
+fleet <> N: {rk: 4486, frq: 6603}, V: {rk: 24644, frq: 262}, J: {rk: 31194, frq: 150}
+fleet-footed <> J: {rk: 43131, frq: 49}
+fleeting <> J: {rk: 10775, frq: 1453}
+fleetingly <> R: {rk: 28400, frq: 184}
+flemish <> J: {rk: 19927, frq: 502}
+flesh <> N: {rk: 3230, frq: 10604}
+fleshiness <> N: {rk: 55635, frq: 24}
+fleshless <> J: {rk: 50786, frq: 38}
+fleshly <> R: {rk: 34941, frq: 100}
+fleshpot <> N: {rk: 49898, frq: 31}
+fleshy <> J: {rk: 15397, frq: 776}
+fleur-de-lis <> J: {rk: 40313, frq: 70}
+flex <> V: {rk: 9035, frq: 2007}, N: {rk: 12687, frq: 1179}
+flexibility <> N: {rk: 4361, frq: 6593}
+flexible <> J: {rk: 4260, frq: 6826}
+flexibly <> R: {rk: 30186, frq: 165}
+flexing <> N: {rk: 42543, frq: 65}
+flexion <> N: {rk: 20001, frq: 515}
+flexor <> N: {rk: 27586, frq: 218}
+flextime <> N: {rk: 38895, frq: 74}
+flexural <> J: {rk: 58567, frq: 27}
+flexure <> N: {rk: 52608, frq: 29}
+flick <> V: {rk: 6950, frq: 3338}, N: {rk: 11286, frq: 1368}
+flicker <> V: {rk: 8190, frq: 2590}, N: {rk: 12513, frq: 1200}
+flickering <> J: {rk: 12861, frq: 1128}
+flier <> N: {rk: 9650, frq: 1793}
+flight <> N: {rk: 1299, frq: 32279}
+flightless <> J: {rk: 33186, frq: 116}
+flighty <> J: {rk: 30201, frq: 150}
+flimflam <> N: {rk: 48714, frq: 38}
+flimsy <> J: {rk: 13385, frq: 997}, N: {rk: 31878, frq: 129}
+flinch <> V: {rk: 10132, frq: 1763}, N: {rk: 27017, frq: 227}
+flinders <> N: {rk: 51852, frq: 52}
+fling <> V: {rk: 6254, frq: 3959}, N: {rk: 17042, frq: 634}
+flintlock <> N: {rk: 34841, frq: 120}
+flinty <> J: {rk: 29797, frq: 162}
+flip <> V: {rk: 3952, frq: 8068}, N: {rk: 9067, frq: 2026}
+flip-flop <> N: {rk: 14226, frq: 920}
+flip-flopping <> J: {rk: 47472, frq: 42}
+flip-top <> J: {rk: 58896, frq: 22}
+flippancy <> N: {rk: 51649, frq: 30}
+flippant <> J: {rk: 30984, frq: 142}
+flippantly <> R: {rk: 44039, frq: 47}
+flipper <> N: {rk: 19351, frq: 549}
+flipping <> J: {rk: 11532, frq: 1330}, R: {rk: 55797, frq: 25}
+flippy <> J: {rk: 52020, frq: 30}
+flipside <> N: {rk: 43174, frq: 54}
+flirt <> V: {rk: 8182, frq: 2430}, N: {rk: 25656, frq: 284}
+flirtation <> N: {rk: 17730, frq: 555}
+flirtatious <> J: {rk: 21885, frq: 358}
+flirtatiously <> R: {rk: 40505, frq: 67}
+flirting <> N: {rk: 32829, frq: 189}, J: {rk: 50801, frq: 32}
+flirty <> J: {rk: 25020, frq: 314}
+flit <> V: {rk: 15001, frq: 835}, N: {rk: 48826, frq: 43}
+flitter <> N: {rk: 45499, frq: 72}
+float <> V: {rk: 3159, frq: 10786}, N: {rk: 7024, frq: 2997}
+floater <> N: {rk: 24625, frq: 281}
+floating <> J: {rk: 7378, frq: 2792}
+floating-point <> J: {rk: 26579, frq: 407}
+floatplane <> N: {rk: 41149, frq: 69}
+floaty <> J: {rk: 45649, frq: 48}
+flock <> N: {rk: 6691, frq: 3427}, V: {rk: 9004, frq: 1976}
+flocked <> J: {rk: 58109, frq: 19}
+floe <> N: {rk: 26713, frq: 245}
+flog <> V: {rk: 22493, frq: 338}
+flogging <> N: {rk: 31121, frq: 146}
+flood <> N: {rk: 3608, frq: 8717}, V: {rk: 4568, frq: 6047}
+flooded <> J: {rk: 17516, frq: 565}
+floodgate <> N: {rk: 22584, frq: 328}
+flooding <> N: {rk: 8115, frq: 2582}, J: {rk: 41250, frq: 55}
+floodlight <> N: {rk: 22397, frq: 350}
+floodlit <> J: {rk: 43337, frq: 51}
+floodplain <> N: {rk: 18748, frq: 558}
+floodwall <> N: {rk: 44963, frq: 67}
+floodwater <> N: {rk: 49514, frq: 30}
+floodwaters <> N: {rk: 18959, frq: 523}
+floor <> N: {rk: 639, frq: 67238}, V: {rk: 20156, frq: 432}
+floor-length <> J: {rk: 32855, frq: 133}
+floorboard <> N: {rk: 14706, frq: 868}
+floored <> J: {rk: 44230, frq: 48}
+flooring <> N: {rk: 15008, frq: 876}
+floorplan <> N: {rk: 51923, frq: 51}
+floozy <> N: {rk: 42949, frq: 54}
+flop <> V: {rk: 10089, frq: 1685}, N: {rk: 12197, frq: 1145}
+flophouse <> N: {rk: 33672, frq: 114}
+floppy <> J: {rk: 12881, frq: 1082}
+floral <> J: {rk: 8512, frq: 2302}
+florescence <> N: {rk: 55393, frq: 27}
+florescent <> J: {rk: 44932, frq: 44}
+floret <> N: {rk: 26634, frq: 263}
+florid <> J: {rk: 24381, frq: 273}
+florist <> N: {rk: 14545, frq: 858}
+floristic <> J: {rk: 59144, frq: 31}
+floss <> N: {rk: 24747, frq: 292}, V: {rk: 27886, frq: 212}
+flotation <> N: {rk: 24380, frq: 276}
+flotilla <> N: {rk: 22445, frq: 395}
+flotsam <> N: {rk: 26643, frq: 230}
+flounce <> V: {rk: 33306, frq: 128}, N: {rk: 39108, frq: 75}
+flounder <> N: {rk: 17043, frq: 617}, V: {rk: 17673, frq: 553}
+floundering <> J: {rk: 37781, frq: 78}
+flour <> N: {rk: 3452, frq: 10374}, V: {rk: 32280, frq: 151}
+floured <> J: {rk: 17985, frq: 674}
+flourish <> V: {rk: 6292, frq: 3651}, N: {rk: 10833, frq: 1455}
+flourishing <> J: {rk: 16006, frq: 707}
+floury <> J: {rk: 42489, frq: 52}
+flout <> V: {rk: 20827, frq: 391}
+flouting <> N: {rk: 50604, frq: 31}
+flow <> N: {rk: 1994, frq: 19980}, V: {rk: 2787, frq: 12400}
+flowchart <> N: {rk: 36989, frq: 95}
+flower <> N: {rk: 1494, frq: 27265}, V: {rk: 12338, frq: 1155}
+flower-like <> J: {rk: 53173, frq: 27}
+flowerbed <> N: {rk: 34195, frq: 109}
+flowered <> J: {rk: 17521, frq: 612}
+flowering <> J: {rk: 12612, frq: 1128}, N: {rk: 18218, frq: 523}
+flowerpot <> N: {rk: 31081, frq: 148}
+flowery <> J: {rk: 19634, frq: 463}
+flowing <> J: {rk: 10241, frq: 1598}
+flowmeter <> N: {rk: 36767, frq: 123}
+flowy <> J: {rk: 51880, frq: 37}
+flu <> N: {rk: 5732, frq: 4915}
+flu-like <> J: {rk: 27333, frq: 200}
+flub <> V: {rk: 45059, frq: 51}, N: {rk: 45301, frq: 52}
+fluconazole <> N: {rk: 59551, frq: 24}
+fluctuate <> V: {rk: 13061, frq: 1032}
+fluctuating <> J: {rk: 19337, frq: 469}
+fluctuation <> N: {rk: 8620, frq: 2219}
+flue <> N: {rk: 24560, frq: 302}
+fluence <> N: {rk: 58143, frq: 26}
+fluency <> N: {rk: 13615, frq: 1291}
+fluent <> J: {rk: 12244, frq: 1178}
+fluently <> R: {rk: 23356, frq: 287}
+fluff <> V: {rk: 18231, frq: 545}, N: {rk: 19339, frq: 504}
+fluffy <> J: {rk: 10376, frq: 1634}
+fluid <> N: {rk: 3809, frq: 8032}, J: {rk: 15320, frq: 738}
+fluidity <> N: {rk: 19896, frq: 438}
+fluidized <> J: {rk: 44339, frq: 56}
+fluidly <> R: {rk: 30688, frq: 144}
+fluke <> N: {rk: 13971, frq: 897}
+fluky <> J: {rk: 56152, frq: 22}
+flume <> N: {rk: 30281, frq: 252}
+flummox <> V: {rk: 42139, frq: 55}
+flummoxed <> J: {rk: 36790, frq: 90}
+flunk <> V: {rk: 15617, frq: 707}
+fluoresce <> V: {rk: 37577, frq: 83}
+fluorescein <> N: {rk: 54865, frq: 27}
+fluorescence <> N: {rk: 23245, frq: 383}
+fluorescent <> J: {rk: 9275, frq: 1936}
+fluoridated <> J: {rk: 50967, frq: 37}
+fluoridation <> N: {rk: 51468, frq: 33}
+fluoride <> N: {rk: 21173, frq: 435}
+fluorine <> N: {rk: 48759, frq: 41}, J: {rk: 52923, frq: 32}
+fluorite <> N: {rk: 58282, frq: 23}
+fluorocarbon <> N: {rk: 41734, frq: 61}
+fluoroscopy <> N: {rk: 59309, frq: 20}
+fluorosis <> N: {rk: 56044, frq: 35}
+fluoxetine <> N: {rk: 55090, frq: 30}
+flurry <> N: {rk: 9663, frq: 1729}, V: {rk: 57278, frq: 21}
+flush <> V: {rk: 6013, frq: 4115}, N: {rk: 12853, frq: 1086}, R: {rk: 16303, frq: 682}, J: {rk: 21592, frq: 371}
+flushed <> J: {rk: 19451, frq: 515}
+flushing <> N: {rk: 30850, frq: 160}
+fluster <> V: {rk: 21981, frq: 381}, N: {rk: 47023, frq: 38}
+flustered <> J: {rk: 27880, frq: 209}
+flute <> N: {rk: 9010, frq: 2010}
+fluted <> J: {rk: 22137, frq: 355}
+fluting <> N: {rk: 41424, frq: 59}
+flutist <> N: {rk: 32578, frq: 126}
+flutter <> V: {rk: 8187, frq: 2545}, N: {rk: 18241, frq: 565}
+fluttering <> J: {rk: 19971, frq: 447}
+fluttery <> J: {rk: 35800, frq: 108}
+fluvial <> J: {rk: 45502, frq: 58}
+flux <> N: {rk: 10052, frq: 1799}
+fly <> V: {rk: 944, frq: 44361}, N: {rk: 3213, frq: 10377}, J: {rk: 27187, frq: 204}
+fly-by-night <> J: {rk: 33766, frq: 109}
+fly-by-wire <> J: {rk: 55836, frq: 38}
+fly-fishing <> N: {rk: 27324, frq: 231}, J: {rk: 28959, frq: 183}
+flyaway <> J: {rk: 37022, frq: 85}
+flyball <> N: {rk: 55833, frq: 27}
+flyboy <> N: {rk: 43176, frq: 64}
+flybridge <> N: {rk: 42827, frq: 83}
+flyby <> N: {rk: 23139, frq: 323}
+flycatcher <> N: {rk: 36554, frq: 89}
+flyer <> N: {rk: 11004, frq: 2102}
+flying <> J: {rk: 4950, frq: 5485}, N: {rk: 8192, frq: 2303}
+flyleaf <> N: {rk: 53505, frq: 25}
+flyover <> N: {rk: 30429, frq: 177}
+flypaper <> N: {rk: 43952, frq: 47}
+flyswatter <> N: {rk: 48409, frq: 38}
+flytrap <> N: {rk: 50338, frq: 40}
+flyway <> N: {rk: 30880, frq: 225}
+flyweight <> N: {rk: 41562, frq: 67}
+flywheel <> N: {rk: 29602, frq: 221}
+foal <> N: {rk: 24805, frq: 274}, V: {rk: 44279, frq: 48}
+foam <> N: {rk: 6260, frq: 3766}, V: {rk: 26711, frq: 232}
+foaming <> J: {rk: 22248, frq: 341}
+foamy <> J: {rk: 26087, frq: 231}
+focaccia <> N: {rk: 30642, frq: 230}
+focal <> J: {rk: 7413, frq: 2841}
+focalization <> N: {rk: 31007, frq: 307}
+focalized <> J: {rk: 59807, frq: 25}
+focalizer <> N: {rk: 52688, frq: 43}
+focus <> V: {rk: 688, frq: 63922}, N: {rk: 1435, frq: 29453}
+focused <> J: {rk: 10888, frq: 1448}
+focuser <> N: {rk: 24668, frq: 335}
+focusing <> J: {rk: 35851, frq: 96}, N: {rk: 39989, frq: 72}
+focussed <> J: {rk: 52635, frq: 27}
+fodder <> N: {rk: 13288, frq: 1019}
+foe <> N: {rk: 7679, frq: 2642}
+foetus <> N: {rk: 56581, frq: 30}
+fog <> N: {rk: 4961, frq: 5592}, V: {rk: 22379, frq: 345}
+fogey <> N: {rk: 54752, frq: 28}
+fogged <> J: {rk: 44030, frq: 49}
+foggy <> J: {rk: 13073, frq: 1056}
+foghorn <> N: {rk: 30675, frq: 157}
+fogy <> N: {rk: 44697, frq: 47}
+foible <> N: {rk: 21689, frq: 355}
+foil <> N: {rk: 6810, frq: 3543}, V: {rk: 14978, frq: 786}
+foiled <> J: {rk: 39855, frq: 91}
+foist <> V: {rk: 27335, frq: 194}
+folate <> N: {rk: 26491, frq: 294}
+fold <> V: {rk: 3517, frq: 9489}, N: {rk: 5795, frq: 4271}
+foldable <> J: {rk: 49783, frq: 38}
+folded <> J: {rk: 10744, frq: 1557}
+folder <> N: {rk: 7226, frq: 3232}
+folderol <> N: {rk: 54937, frq: 29}
+folding <> J: {rk: 10375, frq: 1606}, N: {rk: 22270, frq: 334}
+foliage <> N: {rk: 7465, frq: 2896}
+folic <> J: {rk: 19864, frq: 484}
+folio <> N: {rk: 22847, frq: 354}
+folk <> N: {rk: 1343, frq: 31177}
+folkie <> N: {rk: 42414, frq: 55}
+folklore <> N: {rk: 11722, frq: 1334}
+folkloric <> J: {rk: 29475, frq: 168}
+folklorist <> N: {rk: 27255, frq: 211}
+folkloristic <> J: {rk: 59781, frq: 20}
+folksong <> N: {rk: 48990, frq: 34}
+folksy <> J: {rk: 22247, frq: 337}
+folktale <> N: {rk: 25436, frq: 269}
+folkways <> N: {rk: 36469, frq: 158}
+folky <> J: {rk: 50459, frq: 34}
+follicle <> N: {rk: 22287, frq: 364}
+follicular <> J: {rk: 41190, frq: 78}
+folliculitis <> N: {rk: 57300, frq: 27}
+follow <> V: {rk: 325, frq: 129207}, N: {rk: 23377, frq: 361}
+follow-on <> J: {rk: 32203, frq: 130}, N: {rk: 50023, frq: 31}
+follow-through <> N: {rk: 24798, frq: 261}
+follow-up <> J: {rk: 6477, frq: 3820}, N: {rk: 7096, frq: 3280}
+follower <> N: {rk: 5084, frq: 5198}
+following <> J: {rk: 1475, frq: 28582}, I: {rk: 8923, frq: 2033}, R: {rk: 10075, frq: 1634}, N: {rk: 10828, frq: 1445}
+folly <> N: {rk: 9452, frq: 1791}
+foment <> V: {rk: 24536, frq: 272}
+fond <> J: {rk: 6324, frq: 3582}
+fondant <> N: {rk: 42996, frq: 80}
+fondle <> V: {rk: 17191, frq: 606}
+fondling <> N: {rk: 49170, frq: 40}
+fondly <> R: {rk: 13181, frq: 1004}
+fondness <> N: {rk: 13517, frq: 953}
+fondue <> N: {rk: 24588, frq: 323}
+font <> N: {rk: 14217, frq: 1039}
+fontina <> N: {rk: 38109, frq: 152}
+foo <> N: {rk: 32922, frq: 240}
+food <> N: {rk: 366, frq: 118201}
+foodborne <> J: {rk: 17399, frq: 704}
+foodie <> N: {rk: 29117, frq: 260}
+foodstuff <> N: {rk: 18566, frq: 507}
+fool <> N: {rk: 4062, frq: 7487}, V: {rk: 5197, frq: 4988}, J: {rk: 47561, frq: 41}
+foolhardiness <> N: {rk: 52494, frq: 26}
+foolhardy <> J: {rk: 22109, frq: 336}
+foolish <> J: {rk: 5856, frq: 4196}
+foolishly <> R: {rk: 18620, frq: 505}
+foolishness <> N: {rk: 16208, frq: 703}
+foolproof <> J: {rk: 19350, frq: 469}, V: {rk: 37828, frq: 75}
+foolscap <> N: {rk: 52105, frq: 31}
+foosball <> N: {rk: 40023, frq: 87}
+foot <> N: {rk: 380, frq: 116290}, V: {rk: 17261, frq: 580}
+foot-dragging <> N: {rk: 40367, frq: 66}, J: {rk: 57143, frq: 18}
+footage <> N: {rk: 5975, frq: 4291}
+football <> N: {rk: 1539, frq: 27691}
+footballer <> N: {rk: 36313, frq: 90}
+footboard <> N: {rk: 39530, frq: 78}
+footbridge <> N: {rk: 27930, frq: 203}
+footed <> J: {rk: 42415, frq: 57}
+footer <> N: {rk: 41124, frq: 67}
+footfall <> N: {rk: 23390, frq: 332}
+footgear <> N: {rk: 54353, frq: 23}
+foothill <> N: {rk: 11032, frq: 1508}
+foothold <> N: {rk: 14611, frq: 818}
+footing <> N: {rk: 9612, frq: 1776}
+footlight <> N: {rk: 37634, frq: 79}
+footlocker <> N: {rk: 43556, frq: 67}
+footloose <> J: {rk: 30331, frq: 152}
+footman <> N: {rk: 24907, frq: 309}
+footnote <> N: {rk: 10368, frq: 2529}, V: {rk: 12283, frq: 1281}
+footpad <> N: {rk: 45651, frq: 46}
+footpath <> N: {rk: 21687, frq: 358}
+footplate <> N: {rk: 36011, frq: 129}
+footprint <> N: {rk: 8561, frq: 2351}
+footrace <> N: {rk: 40317, frq: 64}
+footrest <> N: {rk: 32947, frq: 128}
+footsie <> N: {rk: 54059, frq: 29}
+footstep <> N: {rk: 6096, frq: 4046}
+footstool <> N: {rk: 28479, frq: 194}
+footwear <> N: {rk: 14916, frq: 823}
+footwork <> N: {rk: 23162, frq: 323}
+fop <> N: {rk: 35145, frq: 114}
+foppish <> J: {rk: 47775, frq: 39}
+for <> I: {rk: 13, frq: 3564803}, C: {rk: 2333, frq: 15729}
+for-profit <> J: {rk: 11826, frq: 1450}
+forage <> V: {rk: 11435, frq: 1323}, N: {rk: 17418, frq: 620}
+forager <> N: {rk: 30096, frq: 160}
+foraging <> J: {rk: 38260, frq: 78}, N: {rk: 49264, frq: 38}
+foray <> N: {rk: 10467, frq: 1555}
+forbear <> V: {rk: 37520, frq: 80}, N: {rk: 43945, frq: 48}
+forbearance <> N: {rk: 24534, frq: 261}
+forbid <> V: {rk: 4742, frq: 5587}
+forbidden <> J: {rk: 12171, frq: 1198}
+forbidding <> J: {rk: 14016, frq: 870}
+forbiddingly <> R: {rk: 53256, frq: 27}
+force <> N: {rk: 372, frq: 115837}, V: {rk: 850, frq: 48531}
+force-feed <> V: {rk: 44386, frq: 44}
+force-feeding <> J: {rk: 51705, frq: 28}, N: {rk: 52322, frq: 29}
+forced <> J: {rk: 6103, frq: 3794}
+forceful <> J: {rk: 10245, frq: 1564}
+forcefully <> R: {rk: 10829, frq: 1412}
+forcefulness <> N: {rk: 40926, frq: 58}
+forceps <> N: {rk: 26523, frq: 231}
+forcible <> J: {rk: 26298, frq: 228}
+forcibly <> R: {rk: 13750, frq: 914}
+forcing <> N: {rk: 31492, frq: 148}
+ford <> V: {rk: 28201, frq: 216}
+fore <> N: {rk: 13832, frq: 917}, J: {rk: 26536, frq: 221}, R: {rk: 28644, frq: 177}
+forearm <> N: {rk: 8036, frq: 2621}, V: {rk: 28314, frq: 188}
+forebear <> N: {rk: 16596, frq: 628}
+foreboding <> N: {rk: 17155, frq: 582}
+forebrain <> N: {rk: 46139, frq: 42}
+forecast <> N: {rk: 5966, frq: 4139}, V: {rk: 7296, frq: 2894}
+forecasted <> J: {rk: 55101, frq: 26}
+forecaster <> N: {rk: 14041, frq: 949}
+forecasting <> N: {rk: 31331, frq: 147}
+foreclose <> V: {rk: 16777, frq: 714}
+foreclosed <> J: {rk: 28422, frq: 255}
+foreclosure <> N: {rk: 10790, frq: 2354}
+forecourt <> N: {rk: 39417, frq: 75}
+foredeck <> N: {rk: 33708, frq: 137}
+forefather <> N: {rk: 19692, frq: 420}
+forefinger <> N: {rk: 14125, frq: 961}
+forefoot <> N: {rk: 24705, frq: 333}
+forefront <> N: {rk: 8989, frq: 1955}
+forego <> V: {rk: 18163, frq: 511}
+foregoing <> J: {rk: 19391, frq: 515}
+foregone <> J: {rk: 22947, frq: 303}
+foreground <> N: {rk: 8722, frq: 2109}, V: {rk: 28465, frq: 194}
+foregrounded <> J: {rk: 50221, frq: 35}
+foregrounding <> N: {rk: 50793, frq: 34}
+forehand <> J: {rk: 30391, frq: 162}, R: {rk: 42643, frq: 53}
+forehead <> N: {rk: 3818, frq: 8752}
+foreign <> J: {rk: 689, frq: 61826}
+foreigner <> N: {rk: 4935, frq: 5377}
+foreignness <> N: {rk: 32525, frq: 152}
+foreknowledge <> N: {rk: 34797, frq: 98}
+foreleg <> N: {rk: 27347, frq: 203}
+forelimb <> N: {rk: 35768, frq: 99}
+forelock <> N: {rk: 39210, frq: 74}
+foreman <> N: {rk: 11239, frq: 3341}
+foremast <> N: {rk: 58407, frq: 22}
+foremost <> J: {rk: 6381, frq: 3512}, R: {rk: 37326, frq: 80}
+forensic <> J: {rk: 7464, frq: 2879}
+forepaw <> N: {rk: 33853, frq: 158}
+foreperson <> N: {rk: 53700, frq: 40}
+foreplay <> N: {rk: 22484, frq: 362}
+forerunner <> N: {rk: 18606, frq: 517}
+foresee <> V: {rk: 7748, frq: 2478}
+foreseeability <> N: {rk: 55066, frq: 35}
+foreseeable <> J: {rk: 11913, frq: 1219}
+foreseeably <> R: {rk: 57155, frq: 22}
+foreshadow <> V: {rk: 16329, frq: 676}
+foreshadowing <> N: {rk: 34985, frq: 109}
+foreshore <> N: {rk: 59638, frq: 27}
+foreshorten <> V: {rk: 37025, frq: 82}
+foreshortened <> J: {rk: 41715, frq: 55}
+foresight <> N: {rk: 14913, frq: 812}
+foreskin <> N: {rk: 31986, frq: 141}
+forest <> N: {rk: 1109, frq: 39478}, V: {rk: 45645, frq: 44}
+forestall <> V: {rk: 16858, frq: 611}
+forested <> J: {rk: 14078, frq: 918}
+forester <> N: {rk: 18931, frq: 800}
+forestland <> N: {rk: 31531, frq: 154}
+forestry <> N: {rk: 10647, frq: 1582}
+foretaste <> N: {rk: 35065, frq: 100}
+foretell <> V: {rk: 20825, frq: 385}
+forethought <> N: {rk: 28951, frq: 173}
+forever <> R: {rk: 2093, frq: 18401}
+forewarn <> V: {rk: 24131, frq: 266}
+forewarning <> N: {rk: 46226, frq: 45}
+forewing <> N: {rk: 52773, frq: 29}
+forewoman <> N: {rk: 48375, frq: 41}
+foreword <> N: {rk: 21357, frq: 386}
+forfeit <> V: {rk: 13021, frq: 1001}, N: {rk: 33371, frq: 117}
+forfeited <> J: {rk: 56204, frq: 21}
+forfeiture <> N: {rk: 25565, frq: 256}
+forge <> V: {rk: 5364, frq: 4678}
+forged <> J: {rk: 17585, frq: 570}
+forger <> N: {rk: 28238, frq: 213}
+forgery <> N: {rk: 17199, frq: 596}
+forget <> V: {rk: 873, frq: 49137}
+forget-me-not <> N: {rk: 33640, frq: 118}
+forgetful <> J: {rk: 25807, frq: 243}
+forgetfulness <> N: {rk: 22486, frq: 328}
+forgettable <> J: {rk: 23466, frq: 295}
+forging <> N: {rk: 28393, frq: 185}
+forgivable <> J: {rk: 34428, frq: 107}
+forgive <> V: {rk: 3621, frq: 8666}
+forgiveness <> N: {rk: 7086, frq: 3216}
+forgiving <> J: {rk: 11207, frq: 1411}
+forgo <> V: {rk: 12949, frq: 1092}
+forgotten <> J: {rk: 10116, frq: 1629}
+fork <> N: {rk: 3787, frq: 8481}, V: {rk: 20280, frq: 407}
+forkball <> N: {rk: 57922, frq: 21}
+forked <> J: {rk: 24633, frq: 275}
+forkful <> N: {rk: 51554, frq: 31}
+forklift <> N: {rk: 20923, frq: 389}
+forlorn <> J: {rk: 15522, frq: 746}
+forlornly <> R: {rk: 29320, frq: 171}
+form <> N: {rk: 523, frq: 83543}, V: {rk: 887, frq: 47886}
+formal <> J: {rk: 2225, frq: 17143}
+formaldehyde <> N: {rk: 21114, frq: 398}
+formalin <> N: {rk: 46409, frq: 48}
+formalism <> N: {rk: 23733, frq: 306}
+formalist <> J: {rk: 45583, frq: 43}
+formalistic <> J: {rk: 39392, frq: 73}
+formality <> N: {rk: 12336, frq: 1120}
+formalization <> N: {rk: 38751, frq: 77}
+formalize <> V: {rk: 18262, frq: 540}
+formalized <> J: {rk: 25006, frq: 268}
+formally <> R: {rk: 5601, frq: 4424}
+formant <> N: {rk: 59964, frq: 23}
+format <> N: {rk: 3758, frq: 8469}, V: {rk: 15141, frq: 795}
+formation <> N: {rk: 3064, frq: 11251}
+formative <> J: {rk: 12146, frq: 1257}
+formatting <> N: {rk: 41560, frq: 66}
+forme <> N: {rk: 35143, frq: 112}
+formed <> J: {rk: 38317, frq: 72}
+former <> D: {rk: 442, frq: 98927}, N: {rk: 43715, frq: 65}
+formerly <> R: {rk: 4728, frq: 5719}
+formic <> J: {rk: 57496, frq: 20}
+formidable <> J: {rk: 6312, frq: 3558}
+formidably <> R: {rk: 44264, frq: 46}
+forming <> N: {rk: 40097, frq: 70}
+formless <> J: {rk: 26562, frq: 222}
+formlessness <> N: {rk: 46507, frq: 40}
+formosan <> J: {rk: 44335, frq: 78}
+formula <> N: {rk: 3362, frq: 9597}
+formulaic <> J: {rk: 21978, frq: 359}
+formulary <> N: {rk: 36623, frq: 93}
+formulate <> V: {rk: 5918, frq: 4256}
+formulated <> J: {rk: 56139, frq: 22}
+formulation <> N: {rk: 7442, frq: 2950}
+fornicate <> V: {rk: 40021, frq: 68}
+fornication <> N: {rk: 30099, frq: 160}
+fornicator <> N: {rk: 47137, frq: 40}
+forsake <> V: {rk: 15063, frq: 763}
+forsaken <> J: {rk: 35575, frq: 100}
+forswear <> V: {rk: 42439, frq: 59}
+forsythia <> N: {rk: 28484, frq: 191}
+forte <> N: {rk: 22884, frq: 580}
+forth <> R: {rk: 1844, frq: 20889}
+forthcoming <> J: {rk: 6845, frq: 3094}
+forthright <> J: {rk: 15761, frq: 684}
+forthrightly <> R: {rk: 28332, frq: 177}, J: {rk: 53723, frq: 27}
+forthrightness <> N: {rk: 39387, frq: 66}
+forthwith <> R: {rk: 31634, frq: 134}
+fortieth <> M: {rk: 28398, frq: 194}
+fortification <> N: {rk: 18336, frq: 550}
+fortified <> J: {rk: 16047, frq: 698}
+fortify <> V: {rk: 13147, frq: 1001}
+fortissimo <> R: {rk: 49841, frq: 32}
+fortitude <> N: {rk: 17997, frq: 552}
+fortnight <> N: {rk: 24269, frq: 283}
+fortnightly <> R: {rk: 51025, frq: 34}
+fortress <> N: {rk: 9307, frq: 1946}
+fortuitous <> J: {rk: 20430, frq: 399}
+fortuitously <> R: {rk: 32429, frq: 116}
+fortunate <> J: {rk: 5359, frq: 4679}
+fortunately <> R: {rk: 4354, frq: 6447}
+fortune <> N: {rk: 2719, frq: 12658}
+fortune-teller <> N: {rk: 29850, frq: 171}
+forty <> M: {rk: 3762, frq: 8342}
+forty-five <> M: {rk: 9683, frq: 1834}
+fortyish <> J: {rk: 36496, frq: 88}
+forum <> N: {rk: 4749, frq: 8836}
+forward <> R: {rk: 816, frq: 52561}, J: {rk: 6872, frq: 3095}, N: {rk: 13633, frq: 1017}, V: {rk: 13969, frq: 894}
+forward-looking <> J: {rk: 21314, frq: 422}, N: {rk: 46082, frq: 43}
+forwarder <> N: {rk: 48465, frq: 37}
+forwarding <> J: {rk: 32418, frq: 129}, N: {rk: 39257, frq: 67}
+forwards <> R: {rk: 15967, frq: 700}
+fossa <> N: {rk: 25561, frq: 376}
+fossil <> N: {rk: 5095, frq: 5800}
+fossilization <> N: {rk: 46832, frq: 41}
+fossilize <> V: {rk: 34986, frq: 99}
+fossilized <> J: {rk: 24091, frq: 280}
+foster <> V: {rk: 4398, frq: 6728}, J: {rk: 5112, frq: 5486}
+fostering <> N: {rk: 16736, frq: 700}
+foul <> J: {rk: 7848, frq: 2482}, N: {rk: 11429, frq: 1373}, V: {rk: 11562, frq: 1303}
+foul-mouthed <> J: {rk: 32540, frq: 123}
+foul-up <> N: {rk: 36542, frq: 81}
+fouled <> J: {rk: 36256, frq: 88}
+fouling <> N: {rk: 46911, frq: 46}
+foulness <> N: {rk: 45244, frq: 49}
+found <> V: {rk: 2680, frq: 13358}
+foundation <> N: {rk: 2270, frq: 29294}
+foundational <> J: {rk: 17048, frq: 704}
+founder <> N: {rk: 2817, frq: 12786}, V: {rk: 15376, frq: 756}
+foundering <> J: {rk: 39190, frq: 69}
+founding <> J: {rk: 7653, frq: 2642}, N: {rk: 10993, frq: 1437}
+foundling <> N: {rk: 35367, frq: 100}
+foundress <> N: {rk: 56566, frq: 23}
+foundry <> N: {rk: 19076, frq: 545}
+fount <> N: {rk: 32155, frq: 126}
+fountain <> N: {rk: 5337, frq: 4944}
+fountainhead <> N: {rk: 40512, frq: 95}
+four <> M: {rk: 247, frq: 163783}, N: {rk: 58270, frq: 41}
+four-by-four <> N: {rk: 44295, frq: 37}
+four-dimensional <> J: {rk: 36146, frq: 89}
+four-ply <> J: {rk: 57942, frq: 22}
+four-poster <> J: {rk: 29622, frq: 175}, N: {rk: 34964, frq: 102}
+four-square <> J: {rk: 49818, frq: 32}
+four-star <> J: {rk: 19531, frq: 474}
+four-stroke <> J: {rk: 25757, frq: 273}
+fourfold <> J: {rk: 25438, frq: 248}
+foursome <> N: {rk: 19166, frq: 478}
+foursquare <> N: {rk: 39282, frq: 93}
+fourteen <> M: {rk: 5561, frq: 4581}
+fourteenth <> M: {rk: 12528, frq: 1178}
+fourth <> M: {rk: 1575, frq: 25230}
+fourthly <> R: {rk: 47461, frq: 37}
+fourths <> M: {rk: 31573, frq: 138}
+fovea <> N: {rk: 58634, frq: 20}
+fowl <> N: {rk: 17431, frq: 566}
+fowling <> J: {rk: 58928, frq: 22}
+foxglove <> N: {rk: 39461, frq: 84}
+foxhole <> N: {rk: 24223, frq: 279}
+foxtail <> N: {rk: 54979, frq: 29}
+foxy <> J: {rk: 23755, frq: 335}
+foyer <> N: {rk: 9811, frq: 1840}
+fracas <> N: {rk: 27628, frq: 195}
+fractal <> J: {rk: 22608, frq: 388}, N: {rk: 36594, frq: 102}
+fraction <> N: {rk: 4763, frq: 5760}
+fractional <> J: {rk: 21662, frq: 408}
+fractionally <> R: {rk: 37911, frq: 77}
+fractionation <> N: {rk: 53865, frq: 31}
+fractious <> J: {rk: 20917, frq: 380}
+fracture <> N: {rk: 6205, frq: 4272}, V: {rk: 15080, frq: 750}
+fractured <> J: {rk: 13417, frq: 985}
+fracturing <> N: {rk: 34159, frq: 130}
+frag <> N: {rk: 57767, frq: 26}
+fragile <> J: {rk: 4777, frq: 5583}
+fragility <> N: {rk: 16544, frq: 648}
+fragment <> N: {rk: 4789, frq: 5622}, V: {rk: 17253, frq: 585}
+fragmentary <> J: {rk: 19678, frq: 457}
+fragmentation <> N: {rk: 11254, frq: 1453}
+fragmented <> J: {rk: 10470, frq: 1552}
+fragrance <> N: {rk: 8324, frq: 2436}
+fragrant <> J: {rk: 9245, frq: 2052}
+frail <> J: {rk: 9114, frq: 1935}
+frailty <> N: {rk: 17919, frq: 554}
+frame <> N: {rk: 1843, frq: 21692}, V: {rk: 3884, frq: 7742}
+frame-up <> N: {rk: 43096, frq: 58}
+framed <> J: {rk: 9640, frq: 1816}
+frameless <> J: {rk: 43146, frq: 54}
+framer <> N: {rk: 17646, frq: 638}
+framework <> N: {rk: 2987, frq: 12947}
+framing <> N: {rk: 20035, frq: 492}, J: {rk: 25805, frq: 248}
+franchise <> N: {rk: 4396, frq: 6809}, V: {rk: 18920, frq: 532}
+franchised <> J: {rk: 45171, frq: 50}
+franchisee <> N: {rk: 18930, frq: 544}
+franchiser <> N: {rk: 35091, frq: 121}
+franchisor <> N: {rk: 40131, frq: 92}
+francophone <> J: {rk: 30873, frq: 158}
+frangipani <> N: {rk: 44581, frq: 68}
+frank <> J: {rk: 8377, frq: 2297}
+frankincense <> N: {rk: 30906, frq: 171}
+frankly <> R: {rk: 3581, frq: 9396}
+frankness <> N: {rk: 25771, frq: 223}
+frantic <> J: {rk: 7567, frq: 2738}
+frantically <> R: {rk: 8930, frq: 2112}
+frat <> N: {rk: 20209, frq: 436}
+fraternal <> J: {rk: 15233, frq: 773}
+fraternity <> N: {rk: 9444, frq: 1858}
+fraternization <> N: {rk: 37304, frq: 87}
+fraternize <> V: {rk: 35300, frq: 95}
+fratricidal <> J: {rk: 40429, frq: 61}
+fratricide <> N: {rk: 39880, frq: 73}
+fraud <> N: {rk: 3577, frq: 8949}
+fraudster <> N: {rk: 43249, frq: 60}
+fraudulence <> N: {rk: 46941, frq: 38}
+fraudulent <> J: {rk: 11419, frq: 1320}
+fraudulently <> R: {rk: 28501, frq: 179}
+fraught <> J: {rk: 12033, frq: 1181}
+fray <> N: {rk: 12153, frq: 1147}, V: {rk: 15577, frq: 739}
+frayed <> J: {rk: 14757, frq: 833}
+fraying <> J: {rk: 41119, frq: 59}
+frazzle <> V: {rk: 28693, frq: 185}, N: {rk: 55324, frq: 22}
+frazzled <> J: {rk: 29580, frq: 169}
+freak <> V: {rk: 9156, frq: 2111}, N: {rk: 9367, frq: 1917}, J: {rk: 15912, frq: 730}
+freak-out <> N: {rk: 42703, frq: 58}
+freakish <> J: {rk: 26739, frq: 213}
+freakishly <> R: {rk: 42677, frq: 67}
+freaky <> J: {rk: 23906, frq: 309}
+freckle <> N: {rk: 14188, frq: 960}, V: {rk: 23360, frq: 324}
+freckled <> J: {rk: 23470, frq: 315}
+free <> J: {rk: 473, frq: 89611}, V: {rk: 2869, frq: 11798}
+free-fall <> N: {rk: 23532, frq: 309}
+free-floating <> J: {rk: 26553, frq: 222}
+free-for-all <> N: {rk: 22345, frq: 320}
+free-form <> J: {rk: 28600, frq: 187}
+free-living <> J: {rk: 38832, frq: 80}
+free-range <> J: {rk: 26589, frq: 238}
+free-standing <> J: {rk: 17511, frq: 587}
+freebie <> N: {rk: 22312, frq: 353}
+freeboard <> N: {rk: 47623, frq: 42}
+freebooter <> N: {rk: 54104, frq: 29}
+freed <> J: {rk: 21772, frq: 355}
+freedom <> N: {rk: 1149, frq: 36922}
+freehand <> R: {rk: 40144, frq: 70}, J: {rk: 41297, frq: 59}
+freehold <> N: {rk: 33471, frq: 142}
+freeholder <> N: {rk: 42619, frq: 77}
+freeing <> N: {rk: 32506, frq: 121}
+freelance <> N: {rk: 8953, frq: 2133}, J: {rk: 15682, frq: 776}, V: {rk: 17826, frq: 576}
+freelancer <> N: {rk: 28524, frq: 220}
+freeload <> V: {rk: 49401, frq: 44}
+freeloader <> N: {rk: 36404, frq: 113}
+freely <> R: {rk: 4837, frq: 5479}
+freemason <> N: {rk: 32367, frq: 152}
+freesia <> N: {rk: 40595, frq: 78}
+freestanding <> N: {rk: 47844, frq: 45}
+freestyle <> N: {rk: 12628, frq: 1460}
+freeware <> N: {rk: 39367, frq: 73}
+freeway <> N: {rk: 6224, frq: 3890}
+freewheel <> V: {rk: 30581, frq: 150}
+freeze <> V: {rk: 2824, frq: 12669}, N: {rk: 8266, frq: 2627}
+freeze-dried <> J: {rk: 27071, frq: 222}
+freeze-frame <> N: {rk: 38025, frq: 77}, J: {rk: 57804, frq: 21}
+freeze-out <> N: {rk: 57694, frq: 25}
+freeze-up <> N: {rk: 52433, frq: 29}
+freezer <> N: {rk: 7357, frq: 3018}
+freezing <> J: {rk: 6456, frq: 3531}
+freight <> N: {rk: 8725, frq: 2080}, V: {rk: 31999, frq: 131}
+freighted <> J: {rk: 55568, frq: 25}
+freighter <> N: {rk: 15144, frq: 840}
+frenetic <> J: {rk: 17094, frq: 608}
+frenetically <> R: {rk: 40515, frq: 63}
+frenzied <> J: {rk: 15424, frq: 716}
+frenziedly <> R: {rk: 55394, frq: 24}
+frenzy <> N: {rk: 7398, frq: 2711}
+frequency <> N: {rk: 3028, frq: 12109}
+frequent <> J: {rk: 3293, frq: 9978}, V: {rk: 11300, frq: 1332}
+frequently <> R: {rk: 1820, frq: 21865}
+fresco <> N: {rk: 12414, frq: 1215}
+frescoed <> J: {rk: 52245, frq: 29}
+fresh <> J: {rk: 1108, frq: 40572}
+fresh-faced <> J: {rk: 28427, frq: 200}
+freshen <> V: {rk: 19354, frq: 485}
+freshener <> N: {rk: 28292, frq: 200}
+freshet <> N: {rk: 49031, frq: 33}
+freshly <> R: {rk: 5406, frq: 5402}
+freshman <> N: {rk: 3727, frq: 8803}
+freshness <> N: {rk: 15165, frq: 772}
+freshwater <> J: {rk: 9715, frq: 1955}
+fret <> V: {rk: 10159, frq: 1647}, N: {rk: 31008, frq: 154}
+fretful <> J: {rk: 30593, frq: 152}
+fretfully <> R: {rk: 42687, frq: 56}
+fretwork <> N: {rk: 44091, frq: 49}
+friable <> J: {rk: 38408, frq: 77}
+friar <> N: {rk: 22579, frq: 676}
+friary <> N: {rk: 58772, frq: 23}
+fricassee <> N: {rk: 47121, frq: 38}
+fricative <> N: {rk: 56330, frq: 23}
+friction <> N: {rk: 7456, frq: 2787}
+frictional <> J: {rk: 35701, frq: 115}
+frictionless <> J: {rk: 37403, frq: 79}
+fridge <> N: {rk: 9518, frq: 2026}
+fried <> J: {rk: 5679, frq: 4529}
+friend <> N: {rk: 265, frq: 156386}
+friendless <> J: {rk: 33895, frq: 120}
+friendliness <> N: {rk: 18556, frq: 497}
+friendly <> J: {rk: 2777, frq: 12307}, N: {rk: 19225, frq: 686}
+friendship <> N: {rk: 3055, frq: 10902}
+frieze <> N: {rk: 21170, frq: 411}
+frigate <> N: {rk: 21713, frq: 389}
+frigging <> J: {rk: 31375, frq: 165}
+fright <> N: {rk: 12992, frq: 1063}
+frighten <> V: {rk: 5600, frq: 4451}
+frightened <> J: {rk: 5859, frq: 4239}
+frightening <> J: {rk: 5603, frq: 4363}
+frighteningly <> R: {rk: 22925, frq: 321}
+frightful <> J: {rk: 22012, frq: 338}
+frightfully <> R: {rk: 32709, frq: 116}
+frigid <> J: {rk: 11528, frq: 1335}
+frigidity <> N: {rk: 48877, frq: 33}
+frill <> N: {rk: 19163, frq: 463}
+frilled <> J: {rk: 39441, frq: 67}
+frilly <> J: {rk: 21528, frq: 383}
+fringe <> N: {rk: 6108, frq: 3781}, V: {rk: 29110, frq: 174}
+fringed <> J: {rk: 21857, frq: 348}
+fringy <> J: {rk: 52952, frq: 25}
+frippery <> N: {rk: 45125, frq: 47}
+frisbee <> N: {rk: 34072, frq: 493}
+frisk <> V: {rk: 24418, frq: 273}, N: {rk: 53135, frq: 48}
+frisket <> N: {rk: 43736, frq: 58}
+frisky <> J: {rk: 23565, frq: 311}
+frisson <> N: {rk: 29062, frq: 178}
+frittata <> N: {rk: 30844, frq: 216}
+fritter <> N: {rk: 23414, frq: 341}, V: {rk: 29641, frq: 160}
+frivolity <> N: {rk: 26895, frq: 202}
+frivolous <> J: {rk: 11079, frq: 1363}
+frivolously <> R: {rk: 39331, frq: 67}
+frizz <> N: {rk: 34998, frq: 167}, V: {rk: 50870, frq: 37}
+frizzy <> J: {rk: 26264, frq: 239}
+frock <> N: {rk: 19650, frq: 518}, V: {rk: 43689, frq: 55}
+frog <> N: {rk: 5430, frq: 5209}
+froggy <> J: {rk: 38535, frq: 101}
+frogman <> N: {rk: 40929, frq: 77}
+frolic <> N: {rk: 27002, frq: 207}, V: {rk: 33295, frq: 117}
+frolicsome <> J: {rk: 53919, frq: 24}
+from <> I: {rk: 26, frq: 1777279}
+frond <> N: {rk: 16432, frq: 691}
+front <> I: {rk: 1088, frq: 40278}, J: {rk: 1238, frq: 34471}, N: {rk: 1515, frq: 26463}, R: {rk: 8319, frq: 2266}, V: {rk: 13164, frq: 1007}
+front-page <> J: {rk: 12828, frq: 1069}, N: {rk: 41090, frq: 84}
+front-runner <> N: {rk: 11274, frq: 1477}
+front-running <> J: {rk: 45785, frq: 42}
+frontage <> N: {rk: 30931, frq: 155}
+frontal <> J: {rk: 11057, frq: 1462}
+frontality <> N: {rk: 57311, frq: 23}
+frontally <> R: {rk: 38009, frq: 74}
+frontcourt <> N: {rk: 32241, frq: 153}
+frontier <> N: {rk: 4455, frq: 6376}
+frontiersman <> N: {rk: 34169, frq: 108}
+frontispiece <> N: {rk: 29196, frq: 196}
+frontline <> N: {rk: 14421, frq: 1018}
+frontman <> N: {rk: 27873, frq: 239}
+frontside <> N: {rk: 55561, frq: 31}
+frosh <> N: {rk: 50911, frq: 34}
+frost <> V: {rk: 22823, frq: 376}
+frostbite <> N: {rk: 23212, frq: 325}
+frostbitten <> J: {rk: 43387, frq: 55}
+frosted <> J: {rk: 15534, frq: 750}
+frostily <> R: {rk: 55694, frq: 23}
+frosting <> N: {rk: 14572, frq: 959}
+frosty <> J: {rk: 14932, frq: 834}
+froth <> N: {rk: 20600, frq: 409}, V: {rk: 29038, frq: 178}
+frothing <> J: {rk: 48609, frq: 37}
+frothy <> J: {rk: 18901, frq: 512}
+froufrou <> N: {rk: 48230, frq: 44}
+frown <> V: {rk: 4829, frq: 6475}, N: {rk: 10933, frq: 1636}
+frowning <> J: {rk: 40502, frq: 64}
+frowsy <> J: {rk: 58822, frq: 19}
+frozen <> J: {rk: 3808, frq: 8286}
+fructose <> N: {rk: 26881, frq: 286}
+frugal <> J: {rk: 17278, frq: 622}
+frugality <> N: {rk: 24877, frq: 282}
+frugally <> R: {rk: 37247, frq: 82}
+fruit <> N: {rk: 1668, frq: 24055}, V: {rk: 27403, frq: 213}
+fruitcake <> N: {rk: 24095, frq: 326}
+fruited <> J: {rk: 48018, frq: 40}
+fruitful <> J: {rk: 12007, frq: 1231}
+fruitfully <> R: {rk: 34663, frq: 105}
+fruitfulness <> N: {rk: 38882, frq: 74}
+fruitiness <> N: {rk: 55689, frq: 28}
+fruition <> N: {rk: 17306, frq: 618}
+fruitless <> J: {rk: 16145, frq: 656}
+fruitlessly <> R: {rk: 36535, frq: 86}
+fruity <> J: {rk: 18039, frq: 579}
+frumpy <> J: {rk: 32134, frq: 137}
+frustrate <> V: {rk: 4903, frq: 5343}
+frustrated <> J: {rk: 6819, frq: 3083}
+frustrating <> J: {rk: 6272, frq: 3692}
+frustratingly <> R: {rk: 30512, frq: 148}
+frustration <> N: {rk: 3261, frq: 9787}
+fry <> N: {rk: 7200, frq: 3789}, V: {rk: 8265, frq: 2357}
+fryer <> N: {rk: 27504, frq: 293}
+frying <> N: {rk: 10178, frq: 1731}
+fuchsia <> N: {rk: 23113, frq: 343}
+fuck <> V: {rk: 5092, frq: 5825}, N: {rk: 7174, frq: 3323}
+fucker <> N: {rk: 19815, frq: 508}
+fuckhead <> N: {rk: 51508, frq: 34}
+fucking <> J: {rk: 4673, frq: 6682}, R: {rk: 9138, frq: 2198}
+fuddy-duddy <> N: {rk: 54207, frq: 26}
+fudge <> N: {rk: 15182, frq: 834}, V: {rk: 24113, frq: 268}
+fudging <> N: {rk: 53423, frq: 28}
+fuehrer <> N: {rk: 58512, frq: 33}
+fuel <> N: {rk: 1563, frq: 26637}, V: {rk: 5233, frq: 5015}
+fuel-injected <> J: {rk: 48134, frq: 42}
+fueled <> J: {rk: 39648, frq: 71}
+fueling <> J: {rk: 49648, frq: 37}, N: {rk: 57354, frq: 33}
+fuelwood <> N: {rk: 37315, frq: 117}
+fugal <> J: {rk: 59273, frq: 19}
+fugitive <> N: {rk: 8898, frq: 2032}
+fugue <> N: {rk: 23243, frq: 300}
+fulcrum <> N: {rk: 26890, frq: 235}
+fulfil <> V: {rk: 5924, frq: 4048}
+fulfill <> V: {rk: 5491, frq: 4566}
+fulfilled <> J: {rk: 26598, frq: 211}
+fulfilling <> J: {rk: 22206, frq: 338}
+fulfillment <> N: {rk: 8886, frq: 2118}
+fulfilment <> N: {rk: 38858, frq: 94}
+full <> J: {rk: 503, frq: 84247}, R: {rk: 6612, frq: 3257}
+full-blood <> J: {rk: 45713, frq: 72}
+full-blooded <> J: {rk: 30745, frq: 146}
+full-blown <> J: {rk: 13017, frq: 1016}
+full-bodied <> J: {rk: 26987, frq: 217}
+full-face <> J: {rk: 42381, frq: 73}
+full-fledged <> J: {rk: 13166, frq: 984}
+full-frontal <> J: {rk: 45088, frq: 46}
+full-grown <> J: {rk: 26817, frq: 228}
+full-length <> J: {rk: 13399, frq: 964}, R: {rk: 40261, frq: 65}
+full-on <> J: {rk: 26696, frq: 251}
+full-page <> J: {rk: 19615, frq: 442}
+full-scale <> J: {rk: 11555, frq: 1273}
+full-size <> J: {rk: 13940, frq: 958}
+full-time <> J: {rk: 3963, frq: 7475}, R: {rk: 28548, frq: 177}
+full-timer <> N: {rk: 40862, frq: 69}
+fullback <> N: {rk: 16812, frq: 740}
+fullerene <> N: {rk: 37844, frq: 102}
+fullness <> N: {rk: 14054, frq: 924}
+fully <> R: {rk: 1500, frq: 27120}
+fulminant <> J: {rk: 43405, frq: 102}
+fulminate <> V: {rk: 38138, frq: 77}
+fulmination <> N: {rk: 48939, frq: 37}
+fulness <> N: {rk: 53869, frq: 27}
+fulsome <> J: {rk: 36931, frq: 80}
+fumarole <> N: {rk: 41381, frq: 60}
+fumble <> V: {rk: 8012, frq: 2586}, N: {rk: 13850, frq: 1078}
+fumbled <> J: {rk: 54936, frq: 23}
+fumbling <> N: {rk: 37533, frq: 90}, J: {rk: 37691, frq: 81}
+fume <> N: {rk: 9820, frq: 1710}, V: {rk: 14441, frq: 851}
+fumigant <> N: {rk: 48312, frq: 37}
+fumigate <> V: {rk: 37411, frq: 84}
+fumigation <> N: {rk: 39271, frq: 72}
+fuming <> J: {rk: 50839, frq: 32}
+fun <> N: {rk: 1898, frq: 20889}, J: {rk: 2094, frq: 18802}
+function <> N: {rk: 1446, frq: 30046}, V: {rk: 3263, frq: 10262}
+functional <> J: {rk: 4268, frq: 7310}
+functionalism <> N: {rk: 36447, frq: 98}
+functionalist <> N: {rk: 32126, frq: 140}
+functionality <> N: {rk: 17165, frq: 696}
+functionally <> R: {rk: 16658, frq: 681}
+functionary <> N: {rk: 20694, frq: 400}
+functioning <> N: {rk: 8135, frq: 2656}, J: {rk: 16708, frq: 663}
+fund <> N: {rk: 754, frq: 57366}, V: {rk: 3037, frq: 11268}
+fund-raiser <> N: {rk: 6958, frq: 3213}
+fund-raising <> N: {rk: 5981, frq: 3738}
+fundament <> N: {rk: 42213, frq: 56}
+fundamental <> J: {rk: 2342, frq: 16289}, N: {rk: 11002, frq: 1396}
+fundamentalism <> N: {rk: 12094, frq: 1215}
+fundamentalist <> J: {rk: 9435, frq: 1821}, N: {rk: 9651, frq: 1755}
+fundamentally <> R: {rk: 5658, frq: 4471}
+funded <> J: {rk: 11104, frq: 1429}
+funder <> N: {rk: 21605, frq: 374}
+funding <> N: {rk: 2154, frq: 18304}
+fundraise <> V: {rk: 45371, frq: 45}
+fundus <> N: {rk: 57286, frq: 20}
+funeral <> N: {rk: 2902, frq: 12009}
+funerary <> J: {rk: 23358, frq: 316}
+funereal <> J: {rk: 30590, frq: 148}
+fungal <> J: {rk: 12857, frq: 1259}
+fungible <> J: {rk: 39228, frq: 74}
+fungicide <> N: {rk: 24177, frq: 284}
+fungo <> N: {rk: 52046, frq: 30}
+fungus <> N: {rk: 7164, frq: 3110}
+funhouse <> N: {rk: 34670, frq: 118}
+funicular <> N: {rk: 55835, frq: 24}
+funk <> N: {rk: 13773, frq: 1344}, V: {rk: 29192, frq: 169}
+funky <> J: {rk: 10875, frq: 1481}
+funnel <> N: {rk: 11065, frq: 1415}, V: {rk: 14835, frq: 805}
+funnest <> J: {rk: 50941, frq: 32}
+funnily <> R: {rk: 50464, frq: 36}
+funny <> J: {rk: 1799, frq: 22379}, N: {rk: 39631, frq: 106}
+funnyman <> N: {rk: 39999, frq: 76}
+fur <> N: {rk: 4744, frq: 6019}
+furball <> N: {rk: 58212, frq: 22}
+furious <> J: {rk: 5607, frq: 4509}
+furiously <> R: {rk: 9956, frq: 1744}
+furl <> V: {rk: 37321, frq: 87}
+furled <> J: {rk: 48862, frq: 33}
+furlough <> N: {rk: 22646, frq: 400}
+furnace <> N: {rk: 9294, frq: 2047}
+furnish <> V: {rk: 7455, frq: 2676}
+furnished <> J: {rk: 19193, frq: 465}
+furnishings <> N: {rk: 8765, frq: 2128}
+furniture <> N: {rk: 2685, frq: 13340}
+furor <> N: {rk: 16151, frq: 671}
+furore <> N: {rk: 57268, frq: 23}
+furred <> J: {rk: 41824, frq: 60}
+furrier <> N: {rk: 48132, frq: 50}
+furrow <> N: {rk: 15492, frq: 811}, V: {rk: 19116, frq: 534}
+furrowed <> J: {rk: 27756, frq: 198}
+furry <> J: {rk: 13422, frq: 1027}
+further <> V: {rk: 11529, frq: 1309}
+furtherance <> N: {rk: 31524, frq: 138}
+furthermore <> R: {rk: 3234, frq: 11030}
+furtive <> J: {rk: 18789, frq: 512}
+furtively <> R: {rk: 23272, frq: 311}
+fury <> N: {rk: 6669, frq: 3410}
+fuse <> V: {rk: 10617, frq: 1464}, N: {rk: 11768, frq: 1257}
+fused <> J: {rk: 30451, frq: 157}
+fuselage <> N: {rk: 17079, frq: 627}
+fusillade <> N: {rk: 32403, frq: 123}
+fusing <> N: {rk: 48126, frq: 34}
+fusion <> N: {rk: 7360, frq: 2836}
+fuss <> N: {rk: 9525, frq: 1823}, V: {rk: 12678, frq: 1127}
+fussbudget <> N: {rk: 56924, frq: 22}
+fussily <> R: {rk: 51704, frq: 28}
+fussiness <> N: {rk: 46786, frq: 41}
+fussy <> J: {rk: 15968, frq: 702}
+fustian <> N: {rk: 58325, frq: 22}
+fusty <> J: {rk: 44693, frq: 52}
+futile <> J: {rk: 9577, frq: 1782}
+futilely <> R: {rk: 30540, frq: 156}
+futility <> N: {rk: 13989, frq: 915}
+futon <> N: {rk: 22557, frq: 374}
+future <> N: {rk: 654, frq: 62803}, J: {rk: 1263, frq: 34224}
+futurism <> N: {rk: 32182, frq: 138}
+futurist <> N: {rk: 18065, frq: 867}, J: {rk: 28775, frq: 194}
+futuristic <> J: {rk: 14508, frq: 853}
+futurity <> N: {rk: 46713, frq: 67}
+futz <> V: {rk: 45234, frq: 47}
+fuzz <> N: {rk: 20103, frq: 441}
+fuzzily <> R: {rk: 51779, frq: 30}
+fuzziness <> N: {rk: 35319, frq: 94}
+fuzzy <> J: {rk: 7446, frq: 2753}
+fynbos <> N: {rk: 59247, frq: 31}

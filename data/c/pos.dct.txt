@@ -1,0 +1,3980 @@
+cab <> N: {rk: 4253, frq: 7099}
+cabal <> N: {rk: 25063, frq: 278}
+cabalistic <> J: {rk: 48762, frq: 32}
+caballero <> N: {rk: 34311, frq: 226}
+cabana <> N: {rk: 29250, frq: 267}
+cabaret <> N: {rk: 17993, frq: 764}
+cabbage <> N: {rk: 7088, frq: 3137}
+cabbie <> N: {rk: 24410, frq: 341}
+cabby <> N: {rk: 23891, frq: 296}
+cabdriver <> N: {rk: 24800, frq: 278}
+caber <> N: {rk: 57321, frq: 22}
+cabin <> N: {rk: 3171, frq: 10874}
+cabinet <> N: {rk: 2709, frq: 12706}
+cabinetmaker <> N: {rk: 25543, frq: 259}
+cabinetry <> N: {rk: 23681, frq: 365}
+cable <> N: {rk: 2013, frq: 19763}, V: {rk: 16495, frq: 645}
+cablegram <> N: {rk: 58904, frq: 21}
+cabling <> N: {rk: 34531, frq: 109}
+cabochon <> N: {rk: 49380, frq: 44}
+caboodle <> N: {rk: 50342, frq: 34}
+caboose <> N: {rk: 32084, frq: 160}
+cabriolet <> N: {rk: 38111, frq: 87}
+cacao <> N: {rk: 25686, frq: 418}
+cache <> N: {rk: 9074, frq: 2492}, V: {rk: 56706, frq: 42}
+cachet <> N: {rk: 19702, frq: 465}
+cacique <> N: {rk: 30545, frq: 188}
+cackle <> V: {rk: 20043, frq: 452}, N: {rk: 27431, frq: 208}
+cackling <> J: {rk: 48632, frq: 38}, N: {rk: 54656, frq: 35}
+cacophonous <> J: {rk: 35245, frq: 102}
+cacophony <> N: {rk: 16988, frq: 629}
+cactus <> N: {rk: 9515, frq: 1871}
+cadaver <> N: {rk: 17413, frq: 616}
+cadaveric <> J: {rk: 35966, frq: 116}
+cadaverous <> J: {rk: 37592, frq: 81}
+caddie <> N: {rk: 17841, frq: 575}
+caddis <> N: {rk: 36651, frq: 92}
+caddy <> N: {rk: 20909, frq: 727}, V: {rk: 32098, frq: 127}
+cadence <> N: {rk: 12547, frq: 1106}
+cadenced <> J: {rk: 51119, frq: 30}
+cadenza <> N: {rk: 49666, frq: 40}
+cadet <> N: {rk: 8263, frq: 2438}
+cadge <> V: {rk: 41262, frq: 62}
+cadmium <> N: {rk: 13590, frq: 1047}
+cadre <> N: {rk: 10806, frq: 1461}
+caesura <> N: {rk: 47819, frq: 43}
+cafe <> N: {rk: 5912, frq: 7620}
+cafeteria <> N: {rk: 7186, frq: 2886}
+caffeinated <> J: {rk: 33755, frq: 119}
+caffeine <> N: {rk: 9700, frq: 1868}
+caftan <> N: {rk: 30370, frq: 167}
+cage <> N: {rk: 4176, frq: 7160}, V: {rk: 26585, frq: 219}
+caged <> J: {rk: 20931, frq: 380}
+cagey <> J: {rk: 28013, frq: 182}
+cagily <> R: {rk: 52194, frq: 28}
+caiman <> N: {rk: 36873, frq: 165}
+cairn <> N: {rk: 27653, frq: 222}
+caisson <> N: {rk: 33517, frq: 145}
+cajole <> V: {rk: 20236, frq: 418}
+cajolery <> N: {rk: 56888, frq: 20}
+cajoling <> N: {rk: 49118, frq: 32}
+cake <> N: {rk: 2556, frq: 14858}, V: {rk: 19708, frq: 470}
+cakewalk <> N: {rk: 29167, frq: 184}
+calabash <> N: {rk: 31130, frq: 165}
+caladium <> N: {rk: 46905, frq: 46}
+calamari <> N: {rk: 25734, frq: 285}
+calamine <> N: {rk: 44926, frq: 57}
+calamitous <> J: {rk: 27319, frq: 194}
+calamity <> N: {rk: 12878, frq: 1057}
+calcareous <> J: {rk: 49161, frq: 37}
+calcification <> N: {rk: 34068, frq: 137}
+calcified <> J: {rk: 39220, frq: 76}
+calcify <> V: {rk: 47774, frq: 35}
+calcite <> N: {rk: 39339, frq: 81}
+calcitonin <> N: {rk: 46693, frq: 54}
+calcium <> N: {rk: 5682, frq: 4622}
+calculable <> J: {rk: 49094, frq: 39}
+calculate <> V: {rk: 3058, frq: 11375}
+calculated <> J: {rk: 12827, frq: 1069}
+calculatedly <> R: {rk: 53236, frq: 26}
+calculating <> J: {rk: 28891, frq: 171}, N: {rk: 45075, frq: 42}
+calculatingly <> R: {rk: 57140, frq: 19}
+calculation <> N: {rk: 4686, frq: 6067}
+calculator <> N: {rk: 11833, frq: 1294}
+calculus <> N: {rk: 13133, frq: 1063}
+caldera <> N: {rk: 29206, frq: 326}
+caldron <> N: {rk: 34804, frq: 105}
+calendar <> N: {rk: 4733, frq: 5777}
+calender <> N: {rk: 41477, frq: 75}
+calendrical <> J: {rk: 41165, frq: 64}
+calendula <> N: {rk: 42860, frq: 72}
+calf <> N: {rk: 5698, frq: 4341}
+calfskin <> N: {rk: 39384, frq: 87}
+caliber <> N: {rk: 10961, frq: 1447}
+calibrate <> V: {rk: 14529, frq: 884}
+calibrated <> J: {rk: 31960, frq: 159}
+calibration <> N: {rk: 17236, frq: 713}
+calibrator <> N: {rk: 46240, frq: 47}
+calibre <> N: {rk: 45683, frq: 44}
+caliche <> N: {rk: 48061, frq: 45}
+calico <> N: {rk: 24754, frq: 333}
+caliper <> N: {rk: 23836, frq: 303}
+caliph <> N: {rk: 31769, frq: 306}
+caliphate <> N: {rk: 28862, frq: 238}
+calisthenics <> N: {rk: 25498, frq: 240}
+call <> V: {rk: 122, frq: 333570}, N: {rk: 644, frq: 65290}
+call-in <> N: {rk: 19187, frq: 982}
+call-up <> N: {rk: 28219, frq: 199}
+calla <> N: {rk: 37930, frq: 80}
+callable <> J: {rk: 58642, frq: 20}
+callaloo <> N: {rk: 57092, frq: 32}
+callback <> N: {rk: 32906, frq: 135}
+called <> J: {rk: 10045, frq: 1753}
+calligrapher <> N: {rk: 35825, frq: 109}
+calligraphic <> J: {rk: 33325, frq: 115}
+calligraphy <> N: {rk: 20273, frq: 427}
+calling <> N: {rk: 9189, frq: 1911}, J: {rk: 15053, frq: 785}
+callous <> J: {rk: 17189, frq: 582}, N: {rk: 51913, frq: 41}
+calloused <> J: {rk: 31998, frq: 142}
+callously <> R: {rk: 37127, frq: 84}
+callousness <> N: {rk: 29713, frq: 156}
+callow <> J: {rk: 29974, frq: 159}
+callus <> N: {rk: 37672, frq: 85}, J: {rk: 53645, frq: 29}
+callused <> J: {rk: 31028, frq: 155}
+calm <> V: {rk: 4222, frq: 7085}, J: {rk: 4769, frq: 5852}, N: {rk: 5799, frq: 4266}
+calming <> J: {rk: 15642, frq: 725}
+calmly <> R: {rk: 7095, frq: 3130}
+calmness <> N: {rk: 22758, frq: 324}
+caloric <> J: {rk: 20428, frq: 429}
+calorimeter <> N: {rk: 57896, frq: 21}
+calumny <> N: {rk: 38198, frq: 95}
+calve <> V: {rk: 28509, frq: 173}
+calving <> J: {rk: 43620, frq: 49}
+calypso <> N: {rk: 25253, frq: 424}
+calyx <> N: {rk: 39317, frq: 95}
+calzone <> N: {rk: 44703, frq: 53}
+camaraderie <> N: {rk: 12613, frq: 1111}
+camber <> N: {rk: 38497, frq: 94}
+cambium <> N: {rk: 58461, frq: 23}
+cambodian <> J: {rk: 15475, frq: 797}
+camcorder <> N: {rk: 13303, frq: 1028}
+camel <> N: {rk: 7059, frq: 3065}
+camellia <> N: {rk: 24133, frq: 353}
+cameo <> N: {rk: 15567, frq: 809}
+camera <> N: {rk: 950, frq: 49111}
+camera-shy <> J: {rk: 53274, frq: 25}
+cameraman <> N: {rk: 11255, frq: 1365}
+camerawork <> N: {rk: 58740, frq: 31}
+camisole <> N: {rk: 29046, frq: 194}
+camo <> N: {rk: 28083, frq: 257}
+camomile <> N: {rk: 54854, frq: 24}
+camouflage <> N: {rk: 12471, frq: 1125}, V: {rk: 14388, frq: 840}
+camouflaged <> J: {rk: 31056, frq: 136}
+camp <> N: {rk: 1190, frq: 39332}, V: {rk: 9690, frq: 1747}, J: {rk: 29759, frq: 159}
+campaign <> N: {rk: 640, frq: 69074}, V: {rk: 5007, frq: 5823}
+campaigner <> N: {rk: 17427, frq: 595}
+campaigning <> N: {rk: 17869, frq: 579}, J: {rk: 38873, frq: 72}
+campanile <> N: {rk: 41495, frq: 72}
+campanula <> N: {rk: 50327, frq: 38}
+camper <> N: {rk: 9379, frq: 2006}
+campesino <> N: {rk: 23451, frq: 394}
+campfire <> N: {rk: 11336, frq: 1418}
+campground <> N: {rk: 12512, frq: 1285}
+camphor <> N: {rk: 33254, frq: 125}
+camping <> N: {rk: 7554, frq: 2786}
+campsite <> N: {rk: 11653, frq: 1369}
+campus <> N: {rk: 2070, frq: 19429}
+campy <> J: {rk: 24011, frq: 284}
+campylobacter <> N: {rk: 42603, frq: 133}
+camshaft <> N: {rk: 36053, frq: 101}
+can <> V: {rk: 37, frq: 1106769}, N: {rk: 2967, frq: 11458}
+canal <> N: {rk: 5454, frq: 6998}
+canape <> N: {rk: 33582, frq: 111}
+canard <> N: {rk: 29218, frq: 168}
+canary <> N: {rk: 20338, frq: 1674}, J: {rk: 32220, frq: 131}
+canasta <> N: {rk: 41342, frq: 75}
+cancel <> V: {rk: 3945, frq: 7600}
+canceled <> J: {rk: 21778, frq: 352}
+cancellation <> N: {rk: 12232, frq: 1168}
+cancelled <> J: {rk: 51948, frq: 28}
+cancer <> N: {rk: 1030, frq: 43388}
+cancerous <> J: {rk: 17956, frq: 553}
+candelabra <> N: {rk: 25247, frq: 259}
+candelabrum <> N: {rk: 46089, frq: 47}
+candid <> J: {rk: 9627, frq: 1774}
+candidacy <> N: {rk: 8955, frq: 2072}
+candidate <> N: {rk: 958, frq: 47285}
+candidiasis <> N: {rk: 56043, frq: 27}
+candidly <> R: {rk: 17676, frq: 553}
+candied <> J: {rk: 25090, frq: 275}
+candle <> N: {rk: 3958, frq: 7881}
+candleholder <> N: {rk: 36026, frq: 109}
+candlelight <> N: {rk: 12075, frq: 1218}
+candlelit <> J: {rk: 24148, frq: 287}
+candlestick <> N: {rk: 18612, frq: 779}
+candor <> N: {rk: 13589, frq: 952}
+candy <> N: {rk: 3469, frq: 9479}, V: {rk: 32579, frq: 137}
+candy-striped <> J: {rk: 49234, frq: 33}
+cane <> N: {rk: 5358, frq: 5105}, V: {rk: 35112, frq: 102}
+canebrake <> N: {rk: 55286, frq: 25}
+caned <> J: {rk: 58495, frq: 19}
+canid <> N: {rk: 45623, frq: 70}
+canine <> J: {rk: 16391, frq: 683}, N: {rk: 19871, frq: 481}
+caning <> N: {rk: 36259, frq: 121}
+canister <> N: {rk: 11417, frq: 1396}
+canker <> N: {rk: 31815, frq: 150}
+canna <> N: {rk: 30917, frq: 179}
+cannabis <> N: {rk: 22630, frq: 541}
+canned <> J: {rk: 7114, frq: 3041}
+cannelloni <> N: {rk: 45974, frq: 68}
+cannery <> N: {rk: 24863, frq: 320}
+cannibal <> N: {rk: 18508, frq: 584}
+cannibalism <> N: {rk: 17797, frq: 667}
+cannibalistic <> J: {rk: 33021, frq: 151}
+cannibalize <> V: {rk: 24693, frq: 263}
+cannily <> R: {rk: 42519, frq: 53}
+canning <> N: {rk: 18227, frq: 662}
+cannister <> N: {rk: 40066, frq: 64}
+cannoli <> N: {rk: 34661, frq: 139}
+cannon <> N: {rk: 8585, frq: 3455}, V: {rk: 45370, frq: 42}
+cannonade <> N: {rk: 48012, frq: 45}
+cannonball <> N: {rk: 23313, frq: 379}
+cannula <> N: {rk: 39391, frq: 79}
+cannulation <> N: {rk: 59859, frq: 21}
+canny <> J: {rk: 20363, frq: 407}
+canoe <> N: {rk: 6707, frq: 3346}, V: {rk: 41211, frq: 60}
+canoeing <> N: {rk: 19884, frq: 439}
+canoeist <> N: {rk: 34041, frq: 118}
+canola <> N: {rk: 16957, frq: 778}
+canon <> N: {rk: 8683, frq: 3541}
+canonic <> J: {rk: 56778, frq: 24}
+canonical <> J: {rk: 14749, frq: 1000}
+canonist <> N: {rk: 47512, frq: 47}
+canonization <> N: {rk: 27809, frq: 201}
+canonize <> V: {rk: 25611, frq: 237}
+canonized <> J: {rk: 44375, frq: 48}
+canoodle <> V: {rk: 50020, frq: 32}
+canopied <> J: {rk: 33710, frq: 117}
+canopy <> N: {rk: 7149, frq: 3092}, V: {rk: 45752, frq: 43}
+canst <> V: {rk: 56178, frq: 31}
+cant <> V: {rk: 31186, frq: 163}
+cantaloupe <> N: {rk: 18480, frq: 547}
+cantankerous <> J: {rk: 25139, frq: 250}
+cantata <> N: {rk: 31819, frq: 203}
+canted <> J: {rk: 44740, frq: 47}
+canteen <> N: {rk: 16218, frq: 766}
+canter <> V: {rk: 32992, frq: 114}
+canticle <> N: {rk: 41939, frq: 63}
+cantilever <> N: {rk: 28350, frq: 276}, V: {rk: 34205, frq: 112}
+cantilevered <> J: {rk: 36812, frq: 85}
+cantina <> N: {rk: 29106, frq: 261}
+canto <> N: {rk: 24363, frq: 310}
+cantonment <> N: {rk: 48698, frq: 37}
+canvas <> N: {rk: 3760, frq: 8282}, V: {rk: 20517, frq: 457}
+canvasback <> N: {rk: 44704, frq: 58}
+canvass <> N: {rk: 35469, frq: 96}, V: {rk: 36298, frq: 87}
+canvasser <> N: {rk: 45656, frq: 51}
+canvassing <> N: {rk: 51930, frq: 29}
+cap <> N: {rk: 2320, frq: 16247}, V: {rk: 8104, frq: 2477}
+capability <> N: {rk: 2977, frq: 11791}
+capable <> J: {rk: 2408, frq: 15066}
+capably <> R: {rk: 38381, frq: 76}
+capacious <> J: {rk: 25087, frq: 248}
+capacitance <> N: {rk: 29999, frq: 215}
+capacitive <> J: {rk: 37031, frq: 100}
+capacitor <> N: {rk: 26710, frq: 236}
+capacity <> N: {rk: 1787, frq: 22629}
+caped <> J: {rk: 35214, frq: 104}
+capelin <> N: {rk: 54402, frq: 28}
+capellini <> N: {rk: 56985, frq: 26}
+caper <> N: {rk: 13709, frq: 1056}, V: {rk: 39360, frq: 69}
+capful <> N: {rk: 53800, frq: 28}
+capillary <> N: {rk: 23121, frq: 306}, J: {rk: 25541, frq: 296}
+capital <> N: {rk: 1062, frq: 40337}, J: {rk: 16636, frq: 664}
+capital-intensive <> J: {rk: 28700, frq: 181}
+capitalism <> N: {rk: 5161, frq: 5371}
+capitalist <> J: {rk: 7995, frq: 2566}, N: {rk: 9376, frq: 1877}
+capitalistic <> J: {rk: 25986, frq: 232}
+capitalization <> N: {rk: 17635, frq: 590}
+capitalize <> V: {rk: 8098, frq: 2375}
+capitalized <> J: {rk: 37167, frq: 86}
+capitated <> J: {rk: 43285, frq: 62}
+capitation <> N: {rk: 37057, frq: 89}
+capitulate <> V: {rk: 19094, frq: 469}
+capitulation <> N: {rk: 22887, frq: 321}
+capo <> N: {rk: 33467, frq: 174}
+capon <> N: {rk: 37184, frq: 111}
+caponata <> N: {rk: 49946, frq: 46}
+capped <> J: {rk: 28668, frq: 180}
+capper <> N: {rk: 48717, frq: 51}
+capping <> N: {rk: 40107, frq: 96}
+cappuccino <> N: {rk: 17250, frq: 595}
+capriccio <> N: {rk: 60010, frq: 59}
+caprice <> N: {rk: 29385, frq: 349}
+capricious <> J: {rk: 18109, frq: 527}
+capriciously <> R: {rk: 39453, frq: 68}
+capriciousness <> N: {rk: 41465, frq: 56}
+capsaicin <> N: {rk: 33970, frq: 131}
+capsicum <> N: {rk: 50826, frq: 39}
+capsid <> N: {rk: 59237, frq: 37}
+capsize <> V: {rk: 21604, frq: 368}
+capsized <> J: {rk: 51353, frq: 29}
+capstan <> N: {rk: 57326, frq: 30}
+capstone <> N: {rk: 29627, frq: 220}
+capsular <> J: {rk: 49340, frq: 54}
+capsule <> N: {rk: 7605, frq: 2791}
+captain <> N: {rk: 3369, frq: 19668}, V: {rk: 31104, frq: 139}
+captaincy <> N: {rk: 48252, frq: 38}
+caption <> N: {rk: 9309, frq: 1967}, V: {rk: 30170, frq: 146}
+captivate <> V: {rk: 13029, frq: 1019}
+captivated <> J: {rk: 40324, frq: 61}
+captivating <> J: {rk: 18977, frq: 500}
+captive <> N: {rk: 9423, frq: 1852}, J: {rk: 11377, frq: 1339}
+captivity <> N: {rk: 10854, frq: 1503}
+captor <> N: {rk: 12894, frq: 1136}
+capture <> V: {rk: 1723, frq: 22993}, N: {rk: 7686, frq: 2705}
+capturing <> N: {rk: 53571, frq: 27}
+capuchin <> N: {rk: 34758, frq: 132}
+capybara <> N: {rk: 53536, frq: 27}
+car <> N: {rk: 289, frq: 142725}
+carabiner <> N: {rk: 38518, frq: 80}
+carabinero <> N: {rk: 59451, frq: 27}
+carafe <> N: {rk: 28467, frq: 201}
+caramel <> N: {rk: 14900, frq: 1087}
+caramelize <> V: {rk: 24653, frq: 321}
+caramelized <> J: {rk: 24286, frq: 330}
+carapace <> N: {rk: 25490, frq: 333}
+carat <> N: {rk: 23754, frq: 327}
+caravan <> N: {rk: 10453, frq: 1557}
+caravel <> N: {rk: 42727, frq: 75}
+caraway <> N: {rk: 26755, frq: 328}
+carbamazepine <> N: {rk: 59207, frq: 22}
+carbide <> N: {rk: 29397, frq: 309}
+carbine <> N: {rk: 25445, frq: 267}
+carbohydrate <> N: {rk: 3861, frq: 10625}
+carbon <> N: {rk: 3023, frq: 12571}
+carbon-neutral <> J: {rk: 59604, frq: 27}
+carbonaceous <> J: {rk: 38711, frq: 80}
+carbonara <> N: {rk: 47986, frq: 73}
+carbonate <> V: {rk: 38713, frq: 76}
+carbonated <> J: {rk: 30855, frq: 149}
+carbonation <> N: {rk: 40406, frq: 68}
+carbonic <> J: {rk: 49246, frq: 35}
+carbonized <> J: {rk: 53242, frq: 26}
+carboxylic <> J: {rk: 59617, frq: 35}
+carbuncle <> N: {rk: 53163, frq: 32}
+carbureted <> J: {rk: 58136, frq: 28}
+carburetor <> N: {rk: 24258, frq: 310}
+carcass <> N: {rk: 9617, frq: 1768}
+carcinogen <> N: {rk: 15380, frq: 772}
+carcinogenesis <> N: {rk: 52705, frq: 32}
+carcinogenic <> J: {rk: 22712, frq: 323}
+carcinogenicity <> N: {rk: 45205, frq: 47}
+carcinoid <> N: {rk: 60023, frq: 21}
+carcinoma <> N: {rk: 14688, frq: 1098}
+card <> N: {rk: 893, frq: 47457}, V: {rk: 22778, frq: 312}
+card-carrying <> J: {rk: 29030, frq: 168}
+cardamom <> N: {rk: 28295, frq: 234}
+cardboard <> J: {rk: 8013, frq: 2493}, N: {rk: 10931, frq: 1406}
+cardholder <> N: {rk: 27866, frq: 218}
+cardiac <> J: {rk: 8171, frq: 2546}
+cardigan <> N: {rk: 16776, frq: 809}
+cardinal <> J: {rk: 16207, frq: 826}
+cardiologist <> N: {rk: 13702, frq: 1009}
+cardiology <> N: {rk: 23531, frq: 398}
+cardiomyopathy <> N: {rk: 36572, frq: 115}
+cardiopulmonary <> J: {rk: 29190, frq: 188}
+cardiorespiratory <> J: {rk: 35383, frq: 121}
+cardiothoracic <> J: {rk: 45967, frq: 64}
+cardiovascular <> J: {rk: 8112, frq: 2577}
+cardioversion <> N: {rk: 59249, frq: 21}
+care <> N: {rk: 434, frq: 102891}, V: {rk: 908, frq: 47102}
+careen <> V: {rk: 17414, frq: 607}, N: {rk: 24736, frq: 265}
+careening <> J: {rk: 50982, frq: 31}
+career <> N: {rk: 741, frq: 56915}, V: {rk: 37362, frq: 81}
+careerism <> N: {rk: 38712, frq: 72}
+careerist <> N: {rk: 32380, frq: 124}
+carefree <> J: {rk: 14517, frq: 840}
+careful <> J: {rk: 1962, frq: 19446}
+carefully <> R: {rk: 1608, frq: 24496}
+carefulness <> N: {rk: 53708, frq: 24}
+caregiver <> N: {rk: 6202, frq: 4257}
+careless <> J: {rk: 10158, frq: 1614}
+carelessly <> R: {rk: 17201, frq: 620}
+carelessness <> N: {rk: 20192, frq: 421}
+caress <> V: {rk: 12002, frq: 1293}, N: {rk: 17023, frq: 668}
+caressing <> J: {rk: 56068, frq: 23}
+caretaker <> N: {rk: 9797, frq: 1790}
+caretaking <> N: {rk: 28622, frq: 186}
+careworn <> J: {rk: 43636, frq: 49}
+carfare <> N: {rk: 54453, frq: 25}
+cargo <> N: {rk: 4953, frq: 5476}
+carhop <> N: {rk: 53817, frq: 32}
+caribou <> N: {rk: 13432, frq: 1019}
+caricatural <> J: {rk: 56252, frq: 22}
+caricature <> N: {rk: 11028, frq: 1395}, V: {rk: 24642, frq: 257}
+caricatured <> J: {rk: 50980, frq: 30}
+caricaturist <> N: {rk: 37938, frq: 76}
+caries <> N: {rk: 41545, frq: 70}
+carillon <> N: {rk: 34280, frq: 196}
+caring <> J: {rk: 9576, frq: 1854}, N: {rk: 10987, frq: 1501}
+carjack <> V: {rk: 30214, frq: 161}
+carjacker <> N: {rk: 37420, frq: 89}
+carjacking <> N: {rk: 27057, frq: 218}
+carless <> J: {rk: 55699, frq: 27}
+carload <> N: {rk: 26936, frq: 201}
+carmaker <> N: {rk: 17957, frq: 563}
+carnage <> N: {rk: 11806, frq: 1223}
+carnal <> J: {rk: 20328, frq: 417}
+carnality <> N: {rk: 43447, frq: 47}
+carnally <> R: {rk: 57425, frq: 19}
+carnation <> N: {rk: 19323, frq: 467}
+carnaval <> J: {rk: 49512, frq: 53}
+carnelian <> J: {rk: 47796, frq: 36}, N: {rk: 49635, frq: 33}
+carnitine <> N: {rk: 41248, frq: 93}
+carnival <> J: {rk: 12231, frq: 1158}, N: {rk: 12831, frq: 1704}
+carnivalesque <> J: {rk: 38143, frq: 85}
+carnivore <> N: {rk: 15608, frq: 794}
+carnivorous <> J: {rk: 21659, frq: 360}
+carny <> J: {rk: 44272, frq: 50}
+carob <> N: {rk: 43988, frq: 55}
+carol <> V: {rk: 31596, frq: 146}
+caroler <> N: {rk: 35403, frq: 103}
+carom <> V: {rk: 41811, frq: 54}, N: {rk: 55974, frq: 23}
+carotene <> N: {rk: 23793, frq: 304}
+carotenoid <> N: {rk: 30278, frq: 177}, J: {rk: 53254, frq: 29}
+carotid <> J: {rk: 21068, frq: 450}, N: {rk: 46860, frq: 52}
+carouse <> V: {rk: 31502, frq: 137}
+carousel <> N: {rk: 18070, frq: 825}
+carousing <> N: {rk: 50381, frq: 35}
+carp <> N: {rk: 17407, frq: 647}, V: {rk: 25050, frq: 250}
+carpaccio <> N: {rk: 36386, frq: 188}
+carpal <> J: {rk: 27976, frq: 200}
+carpel <> N: {rk: 59881, frq: 19}
+carpenter <> N: {rk: 8205, frq: 4427}
+carpentry <> N: {rk: 21399, frq: 371}
+carpet <> N: {rk: 4144, frq: 7701}, V: {rk: 18031, frq: 532}
+carpetbag <> N: {rk: 47653, frq: 45}
+carpetbagger <> N: {rk: 33514, frq: 129}
+carpeted <> J: {rk: 20989, frq: 394}
+carpeting <> N: {rk: 15417, frq: 727}
+carping <> N: {rk: 47028, frq: 40}
+carpool <> N: {rk: 28699, frq: 202}
+carport <> N: {rk: 30126, frq: 168}
+carrel <> N: {rk: 39311, frq: 114}
+carriage <> N: {rk: 6628, frq: 3494}
+carriageway <> N: {rk: 58885, frq: 27}
+carried <> J: {rk: 38650, frq: 68}
+carrier <> N: {rk: 3292, frq: 9870}
+carrion <> N: {rk: 22763, frq: 329}
+carrot <> N: {rk: 4641, frq: 6378}
+carrot-and-stick <> J: {rk: 46062, frq: 40}
+carry <> V: {rk: 487, frq: 85484}, N: {rk: 33482, frq: 132}
+carry-on <> N: {rk: 18756, frq: 594}
+carry-over <> J: {rk: 54898, frq: 26}
+carryall <> N: {rk: 47817, frq: 47}
+carrying <> N: {rk: 13919, frq: 962}
+carryover <> N: {rk: 30277, frq: 151}
+carsick <> J: {rk: 48722, frq: 39}
+cart <> N: {rk: 4085, frq: 7292}, V: {rk: 14860, frq: 796}
+carte <> N: {rk: 23127, frq: 356}
+cartel <> N: {rk: 9430, frq: 2077}
+cartilage <> N: {rk: 12845, frq: 1160}
+cartilaginous <> J: {rk: 37864, frq: 93}
+cartload <> N: {rk: 46424, frq: 42}
+cartographer <> N: {rk: 27221, frq: 217}
+cartographic <> J: {rk: 33108, frq: 125}
+cartography <> N: {rk: 23076, frq: 370}
+carton <> N: {rk: 9491, frq: 1953}
+cartoon <> N: {rk: 4188, frq: 6746}, V: {rk: 36179, frq: 86}
+cartoonish <> J: {rk: 28958, frq: 186}
+cartoonist <> N: {rk: 13342, frq: 1046}
+cartouche <> N: {rk: 44918, frq: 52}
+cartridge <> N: {rk: 9324, frq: 2070}
+cartwheel <> N: {rk: 27262, frq: 229}, V: {rk: 32675, frq: 127}
+carve <> V: {rk: 3833, frq: 7839}
+carved <> J: {rk: 8299, frq: 2306}
+carving <> N: {rk: 8376, frq: 2331}
+carwash <> N: {rk: 46990, frq: 54}
+caryatid <> N: {rk: 48437, frq: 45}
+cascade <> N: {rk: 11908, frq: 2194}, V: {rk: 13005, frq: 1052}
+cascading <> J: {rk: 28698, frq: 184}
+case <> N: {rk: 186, frq: 216637}, C: {rk: 4466, frq: 6360}, V: {rk: 15105, frq: 747}
+casebook <> N: {rk: 40874, frq: 70}
+cased <> J: {rk: 46367, frq: 40}
+casein <> N: {rk: 26131, frq: 305}
+caseload <> N: {rk: 15127, frq: 888}
+casement <> N: {rk: 25724, frq: 251}
+casework <> N: {rk: 39623, frq: 90}
+caseworker <> N: {rk: 15379, frq: 877}
+cash <> N: {rk: 1731, frq: 23227}, V: {rk: 7380, frq: 2823}
+cash-strapped <> J: {rk: 23551, frq: 332}
+cashbox <> N: {rk: 57550, frq: 24}
+cashew <> N: {rk: 21027, frq: 456}
+cashier <> N: {rk: 11501, frq: 1337}, V: {rk: 51031, frq: 32}
+cashless <> J: {rk: 51020, frq: 44}
+cashmere <> N: {rk: 13783, frq: 1124}
+casing <> N: {rk: 12617, frq: 1146}
+casino <> N: {rk: 4363, frq: 7400}
+cask <> N: {rk: 21776, frq: 383}
+casket <> N: {rk: 9815, frq: 1737}
+cassava <> N: {rk: 24864, frq: 320}
+casserole <> N: {rk: 10600, frq: 1615}
+cassette <> N: {rk: 8362, frq: 2159}
+cassia <> N: {rk: 56787, frq: 41}
+cassis <> N: {rk: 46897, frq: 76}
+cassock <> N: {rk: 31436, frq: 146}
+cassoulet <> N: {rk: 37421, frq: 117}
+cast <> V: {rk: 2046, frq: 18561}, N: {rk: 4347, frq: 6545}, J: {rk: 9975, frq: 1660}
+cast-iron <> J: {rk: 15887, frq: 741}
+cast-off <> J: {rk: 31916, frq: 137}
+castanet <> N: {rk: 38793, frq: 70}
+castaway <> N: {rk: 29249, frq: 193}
+caste <> N: {rk: 10765, frq: 1788}
+caster <> N: {rk: 22683, frq: 343}
+castigate <> V: {rk: 21263, frq: 377}
+castigation <> N: {rk: 45994, frq: 40}
+casting <> N: {rk: 8085, frq: 2440}
+castle <> N: {rk: 5919, frq: 6964}
+castrate <> V: {rk: 24105, frq: 271}
+castrated <> J: {rk: 42921, frq: 53}
+castration <> N: {rk: 22648, frq: 320}
+castrato <> N: {rk: 54968, frq: 24}
+casual <> J: {rk: 3986, frq: 7524}
+casually <> R: {rk: 6899, frq: 3208}
+casualness <> N: {rk: 29514, frq: 159}
+casualty <> N: {rk: 4265, frq: 6988}
+casuistry <> N: {rk: 47737, frq: 39}
+cat <> N: {rk: 1785, frq: 23149}
+cataclysm <> N: {rk: 23629, frq: 295}
+cataclysmic <> J: {rk: 19712, frq: 444}
+catacomb <> N: {rk: 26431, frq: 249}
+catafalque <> N: {rk: 55609, frq: 27}
+catalog <> N: {rk: 4483, frq: 6268}
+cataloger <> N: {rk: 53848, frq: 26}
+cataloging <> N: {rk: 48024, frq: 35}, J: {rk: 55651, frq: 23}
+catalogue <> N: {rk: 6892, frq: 3109}, V: {rk: 17765, frq: 546}
+cataloguing <> N: {rk: 42698, frq: 50}
+catalpa <> N: {rk: 49132, frq: 35}
+catalysis <> N: {rk: 46171, frq: 49}
+catalyst <> N: {rk: 8057, frq: 2424}
+catalytic <> J: {rk: 18596, frq: 509}
+catalyze <> V: {rk: 23758, frq: 297}
+catamaran <> N: {rk: 27807, frq: 204}
+catamount <> N: {rk: 47620, frq: 62}
+catapult <> V: {rk: 17434, frq: 567}, N: {rk: 19893, frq: 464}
+cataract <> N: {rk: 15429, frq: 787}
+catarrh <> N: {rk: 51684, frq: 31}
+catastrophe <> N: {rk: 6744, frq: 3304}
+catastrophic <> J: {rk: 7700, frq: 2705}
+catastrophically <> R: {rk: 35923, frq: 96}
+catastrophism <> N: {rk: 58111, frq: 27}
+catatonia <> N: {rk: 51040, frq: 31}
+catatonic <> J: {rk: 30404, frq: 158}
+catbird <> N: {rk: 40733, frq: 70}
+catcall <> N: {rk: 31721, frq: 141}
+catch <> V: {rk: 586, frq: 73976}, N: {rk: 4266, frq: 6947}
+catch-all <> J: {rk: 31073, frq: 146}
+catch-up <> N: {rk: 22218, frq: 349}
+catchable <> J: {rk: 47112, frq: 62}
+catchall <> N: {rk: 32443, frq: 127}
+catcher <> N: {rk: 7578, frq: 2972}
+catching <> J: {rk: 33219, frq: 114}, N: {rk: 51885, frq: 27}
+catchment <> N: {rk: 26492, frq: 297}
+catchphrase <> N: {rk: 30700, frq: 163}
+catchy <> J: {rk: 18185, frq: 552}
+catechesis <> N: {rk: 39000, frq: 110}
+catechetical <> J: {rk: 38307, frq: 84}
+catechin <> N: {rk: 40723, frq: 69}
+catechism <> N: {rk: 17594, frq: 604}
+catechist <> N: {rk: 32604, frq: 166}
+catechize <> V: {rk: 54374, frq: 23}
+catecholamine <> N: {rk: 44072, frq: 58}
+catechumen <> N: {rk: 51515, frq: 35}
+categorical <> J: {rk: 15339, frq: 888}
+categorically <> R: {rk: 17221, frq: 585}
+categorization <> N: {rk: 16224, frq: 770}
+categorize <> V: {rk: 8130, frq: 2586}
+categorized <> J: {rk: 45023, frq: 54}
+category <> N: {rk: 1465, frq: 29332}
+catenary <> J: {rk: 57446, frq: 42}
+cater <> V: {rk: 7050, frq: 3012}
+caterer <> N: {rk: 16633, frq: 684}
+catering <> N: {rk: 15990, frq: 726}
+caterpillar <> N: {rk: 13595, frq: 1529}
+caterwaul <> V: {rk: 48878, frq: 32}
+catfight <> N: {rk: 40906, frq: 70}
+catfish <> N: {rk: 8758, frq: 2099}
+catharsis <> N: {rk: 20228, frq: 414}
+cathartic <> J: {rk: 21188, frq: 377}
+cathedral <> N: {rk: 7503, frq: 4305}
+catheter <> N: {rk: 15415, frq: 745}
+cathexis <> N: {rk: 53779, frq: 30}
+cathode <> N: {rk: 27199, frq: 272}
+cathodic <> J: {rk: 48749, frq: 50}
+catholic <> J: {rk: 1767, frq: 23083}, N: {rk: 3121, frq: 11029}
+catholicity <> N: {rk: 42927, frq: 69}
+cathouse <> N: {rk: 51517, frq: 39}
+cation <> N: {rk: 33918, frq: 164}
+catkin <> N: {rk: 51612, frq: 28}
+catlike <> J: {rk: 29833, frq: 165}
+catmint <> N: {rk: 54066, frq: 30}
+catnap <> N: {rk: 43535, frq: 57}, V: {rk: 55587, frq: 21}
+catnip <> N: {rk: 33946, frq: 139}
+catsuit <> N: {rk: 50532, frq: 37}
+catsup <> N: {rk: 42007, frq: 55}
+cattail <> N: {rk: 23622, frq: 328}
+cattle <> N: {rk: 3656, frq: 8228}
+cattleman <> N: {rk: 24123, frq: 294}
+catty <> J: {rk: 33286, frq: 117}
+catwalk <> N: {rk: 16850, frq: 691}
+caucus <> N: {rk: 8889, frq: 2980}
+caudal <> J: {rk: 44725, frq: 55}
+caudillo <> N: {rk: 46110, frq: 56}
+caught <> J: {rk: 24821, frq: 274}
+caul <> N: {rk: 45776, frq: 59}
+cauldron <> N: {rk: 18655, frq: 543}
+cauliflower <> N: {rk: 18708, frq: 626}
+caulk <> V: {rk: 25885, frq: 239}, N: {rk: 29181, frq: 194}
+caulking <> N: {rk: 47663, frq: 53}, J: {rk: 53516, frq: 29}
+causal <> J: {rk: 9087, frq: 2249}
+causality <> N: {rk: 14998, frq: 879}
+causally <> R: {rk: 32687, frq: 131}
+causation <> N: {rk: 19315, frq: 520}
+causative <> J: {rk: 27529, frq: 216}
+cause <> V: {rk: 601, frq: 69597}, N: {rk: 1008, frq: 41671}
+causeway <> N: {rk: 21400, frq: 464}
+caustic <> J: {rk: 19441, frq: 447}
+caustically <> R: {rk: 43335, frq: 51}
+cauterize <> V: {rk: 38675, frq: 76}
+cautery <> N: {rk: 46193, frq: 59}
+caution <> N: {rk: 5344, frq: 4784}, V: {rk: 6335, frq: 3642}
+cautionary <> J: {rk: 14010, frq: 901}
+cautious <> J: {rk: 5289, frq: 4765}
+cautiously <> R: {rk: 7581, frq: 2726}
+cautiousness <> N: {rk: 48034, frq: 38}
+cavalcade <> N: {rk: 30350, frq: 162}
+cavalier <> J: {rk: 21828, frq: 394}
+cavalierly <> R: {rk: 36115, frq: 91}
+cavalry <> N: {rk: 8756, frq: 2434}
+cavalryman <> N: {rk: 28758, frq: 206}
+cave <> N: {rk: 3588, frq: 9595}, V: {rk: 16326, frq: 671}
+cave-in <> N: {rk: 34997, frq: 133}
+cave-like <> J: {rk: 37890, frq: 76}
+caveat <> N: {rk: 11713, frq: 1263}
+caveman <> N: {rk: 23602, frq: 307}
+cavern <> N: {rk: 11324, frq: 1453}
+cavernous <> J: {rk: 13152, frq: 1007}
+caviar <> N: {rk: 14721, frq: 907}
+cavil <> V: {rk: 55728, frq: 21}
+caving <> N: {rk: 26184, frq: 235}
+cavitation <> N: {rk: 41123, frq: 70}
+cavity <> N: {rk: 7688, frq: 2732}
+cavort <> V: {rk: 20873, frq: 372}
+caw <> N: {rk: 33836, frq: 112}, V: {rk: 34012, frq: 114}
+cawing <> N: {rk: 50592, frq: 31}
+cay <> N: {rk: 28217, frq: 349}
+cayenne <> N: {rk: 13252, frq: 1268}
+ceanothus <> N: {rk: 57739, frq: 35}
+cease <> V: {rk: 4511, frq: 6077}
+ceaseless <> J: {rk: 20552, frq: 404}
+ceaselessly <> R: {rk: 25392, frq: 242}
+cedar <> N: {rk: 9008, frq: 3571}
+cede <> V: {rk: 12577, frq: 1117}
+ceded <> J: {rk: 48917, frq: 43}
+ceftriaxone <> N: {rk: 59501, frq: 25}
+ceilidh <> N: {rk: 55558, frq: 29}
+ceiling <> N: {rk: 2657, frq: 13652}
+cel <> N: {rk: 47891, frq: 58}
+celadon <> N: {rk: 39821, frq: 81}
+celeb <> N: {rk: 18062, frq: 719}
+celebrant <> N: {rk: 24209, frq: 275}
+celebrate <> V: {rk: 2030, frq: 19163}
+celebrated <> J: {rk: 8047, frq: 2399}
+celebrating <> N: {rk: 38501, frq: 73}, J: {rk: 41774, frq: 60}
+celebration <> N: {rk: 3015, frq: 11095}
+celebratory <> J: {rk: 16107, frq: 672}
+celebrity <> N: {rk: 2979, frq: 12014}
+celeriac <> N: {rk: 56821, frq: 29}
+celery <> N: {rk: 8318, frq: 2572}
+celestial <> J: {rk: 8987, frq: 2056}
+celiac <> J: {rk: 41874, frq: 85}
+celibacy <> N: {rk: 15614, frq: 841}
+celibate <> J: {rk: 18600, frq: 519}, N: {rk: 51344, frq: 34}
+cell <> N: {rk: 896, frq: 48804}
+cell-like <> J: {rk: 50394, frq: 30}
+cellar <> N: {rk: 7805, frq: 2648}
+cellblock <> N: {rk: 33767, frq: 162}
+cellist <> N: {rk: 21576, frq: 384}
+cellmate <> N: {rk: 32003, frq: 135}
+cello <> N: {rk: 13388, frq: 1083}
+cellophane <> N: {rk: 19714, frq: 463}
+cellphone <> N: {rk: 10700, frq: 1965}
+cellular <> J: {rk: 5869, frq: 4046}
+cellularity <> N: {rk: 58994, frq: 24}
+cellulite <> N: {rk: 22654, frq: 385}
+cellulitis <> N: {rk: 44527, frq: 62}
+celluloid <> N: {rk: 23490, frq: 293}
+cellulose <> N: {rk: 22264, frq: 356}
+cement <> N: {rk: 6484, frq: 3539}, V: {rk: 12596, frq: 1093}
+cemented <> J: {rk: 42527, frq: 60}
+cemetery <> N: {rk: 4633, frq: 6188}
+cenotaph <> N: {rk: 48219, frq: 42}
+censer <> N: {rk: 40797, frq: 66}
+censor <> V: {rk: 11279, frq: 1582}, N: {rk: 16786, frq: 653}
+censored <> J: {rk: 11612, frq: 2048}
+censoring <> N: {rk: 51902, frq: 36}
+censorious <> J: {rk: 36153, frq: 92}
+censorship <> N: {rk: 8833, frq: 2120}
+censure <> N: {rk: 15889, frq: 1059}, V: {rk: 19418, frq: 534}
+census <> N: {rk: 6126, frq: 6423}
+centaur <> N: {rk: 25334, frq: 368}
+centenarian <> N: {rk: 30993, frq: 168}, J: {rk: 48669, frq: 40}
+centenary <> N: {rk: 25534, frq: 285}
+centennial <> J: {rk: 11114, frq: 1453}
+center <> N: {rk: 530, frq: 132050}, V: {rk: 5091, frq: 5273}
+centerboard <> N: {rk: 59851, frq: 25}
+centered <> J: {rk: 24096, frq: 295}
+centerfield <> N: {rk: 44866, frq: 58}
+centerfold <> N: {rk: 33882, frq: 88}
+centering <> J: {rk: 44059, frq: 56}, N: {rk: 54477, frq: 44}
+centerline <> N: {rk: 31664, frq: 151}
+centerpiece <> N: {rk: 8513, frq: 2242}
+centimeter <> N: {rk: 10986, frq: 1427}, J: {rk: 35128, frq: 99}
+central <> J: {rk: 743, frq: 56615}
+centralism <> N: {rk: 45191, frq: 50}
+centralist <> N: {rk: 51744, frq: 32}
+centrality <> N: {rk: 13396, frq: 1116}
+centralization <> N: {rk: 20151, frq: 454}
+centralize <> V: {rk: 17764, frq: 569}
+centralized <> J: {rk: 9892, frq: 1753}
+centralizing <> J: {rk: 45580, frq: 45}
+centrally <> R: {rk: 15043, frq: 799}
+centric <> J: {rk: 46909, frq: 43}
+centrifugal <> J: {rk: 19613, frq: 479}
+centrifugation <> N: {rk: 57103, frq: 23}
+centrifuge <> V: {rk: 40168, frq: 67}
+centripetal <> J: {rk: 36579, frq: 97}
+centrism <> N: {rk: 44424, frq: 57}
+centrist <> J: {rk: 13896, frq: 982}, N: {rk: 31204, frq: 154}
+centroid <> N: {rk: 45888, frq: 45}
+centurion <> N: {rk: 31619, frq: 237}
+century <> N: {rk: 605, frq: 70434}
+cephalopod <> N: {rk: 41001, frq: 72}
+cephalosporin <> N: {rk: 45703, frq: 55}
+ceramic <> J: {rk: 7945, frq: 2577}
+ceramicist <> N: {rk: 54523, frq: 26}
+ceramics <> N: {rk: 8152, frq: 2537}
+ceramist <> N: {rk: 27514, frq: 234}
+cereal <> N: {rk: 6204, frq: 3749}
+cerebellar <> J: {rk: 45616, frq: 56}
+cerebellopontine <> J: {rk: 55015, frq: 38}
+cerebellum <> N: {rk: 36593, frq: 102}
+cerebral <> J: {rk: 10407, frq: 1524}
+cerebrospinal <> J: {rk: 36009, frq: 94}
+cerebrovascular <> J: {rk: 41654, frq: 63}
+cerebrum <> N: {rk: 46166, frq: 45}
+ceremonial <> J: {rk: 9214, frq: 1942}, N: {rk: 23431, frq: 296}
+ceremonially <> R: {rk: 38202, frq: 78}
+ceremonious <> J: {rk: 44114, frq: 47}
+ceremoniously <> R: {rk: 29802, frq: 160}
+ceremony <> N: {rk: 2686, frq: 12857}
+cereus <> N: {rk: 45982, frq: 57}
+cerise <> J: {rk: 51284, frq: 44}
+cert <> N: {rk: 24099, frq: 342}
+certain <> J: {rk: 577, frq: 72141}, R: {rk: 11468, frq: 1269}
+certainly <> R: {rk: 664, frq: 64199}
+certainty <> N: {rk: 5624, frq: 4346}
+certifiable <> J: {rk: 35137, frq: 98}
+certifiably <> R: {rk: 37406, frq: 82}
+certificate <> N: {rk: 5295, frq: 4877}
+certification <> N: {rk: 6199, frq: 4124}
+certified <> J: {rk: 7071, frq: 3032}
+certify <> V: {rk: 7150, frq: 3002}
+certifying <> J: {rk: 44595, frq: 48}
+certiorari <> N: {rk: 37585, frq: 99}
+certitude <> N: {rk: 24593, frq: 279}
+cerulean <> J: {rk: 25690, frq: 256}
+cerumen <> N: {rk: 59371, frq: 50}
+cervical <> J: {rk: 12659, frq: 1222}
+cervix <> N: {rk: 24914, frq: 268}
+cesarean <> J: {rk: 33745, frq: 115}, N: {rk: 44503, frq: 48}
+cesium <> N: {rk: 34628, frq: 115}
+cess <> N: {rk: 53084, frq: 40}
+cessation <> N: {rk: 14772, frq: 965}
+cession <> N: {rk: 33585, frq: 131}
+cesspool <> N: {rk: 28814, frq: 184}
+cetacean <> J: {rk: 42544, frq: 64}, N: {rk: 58614, frq: 22}
+ceviche <> N: {rk: 38107, frq: 111}
+cha-cha <> N: {rk: 40763, frq: 76}
+chador <> N: {rk: 33846, frq: 130}
+chaebol <> N: {rk: 36890, frq: 97}
+chafe <> V: {rk: 16568, frq: 643}, N: {rk: 49032, frq: 68}
+chafed <> J: {rk: 52559, frq: 28}
+chaff <> N: {rk: 27664, frq: 198}, V: {rk: 43115, frq: 51}
+chafing <> N: {rk: 33255, frq: 118}
+chagrin <> N: {rk: 16799, frq: 621}, V: {rk: 30282, frq: 150}
+chagrined <> J: {rk: 49307, frq: 34}
+chain <> N: {rk: 1815, frq: 21219}, V: {rk: 11736, frq: 1249}
+chain-link <> J: {rk: 19274, frq: 462}
+chain-smoker <> N: {rk: 57675, frq: 19}
+chain-smoking <> J: {rk: 29836, frq: 159}
+chained <> J: {rk: 38314, frq: 78}
+chainsaw <> N: {rk: 19429, frq: 464}
+chair <> N: {rk: 947, frq: 46578}, V: {rk: 8022, frq: 2424}
+chairlift <> N: {rk: 25660, frq: 266}
+chairman <> N: {rk: 1376, frq: 31698}
+chairmanship <> N: {rk: 18690, frq: 512}
+chairperson <> N: {rk: 17587, frq: 619}
+chairwoman <> N: {rk: 16387, frq: 753}
+chaise <> N: {rk: 20308, frq: 894}
+chakra <> N: {rk: 43933, frq: 68}
+chalcedony <> N: {rk: 57589, frq: 24}
+chalet <> N: {rk: 21011, frq: 405}
+chalice <> N: {rk: 22044, frq: 354}
+chalk <> N: {rk: 9287, frq: 1949}, V: {rk: 21441, frq: 379}
+chalkboard <> N: {rk: 18948, frq: 523}
+chalky <> J: {rk: 22291, frq: 350}
+challah <> N: {rk: 35652, frq: 113}
+challenge <> N: {rk: 985, frq: 45158}, V: {rk: 1777, frq: 22324}
+challenged <> J: {rk: 28309, frq: 187}
+challenger <> N: {rk: 8954, frq: 2834}
+challenging <> J: {rk: 5031, frq: 5570}
+challengingly <> R: {rk: 52233, frq: 28}
+chamber <> N: {rk: 2683, frq: 13215}
+chambered <> J: {rk: 28485, frq: 196}
+chambermaid <> N: {rk: 30158, frq: 157}
+chamberpot <> N: {rk: 57198, frq: 21}
+chambray <> N: {rk: 45164, frq: 77}
+chameleon <> N: {rk: 17818, frq: 611}
+chamfer <> V: {rk: 55982, frq: 22}, N: {rk: 59162, frq: 20}
+chamois <> N: {rk: 27720, frq: 217}
+chamomile <> N: {rk: 21810, frq: 385}
+champ <> N: {rk: 7953, frq: 2547}, V: {rk: 39013, frq: 69}
+champagne <> N: {rk: 5460, frq: 4802}
+champion <> N: {rk: 2775, frq: 13118}, V: {rk: 8810, frq: 2115}, J: {rk: 30839, frq: 142}
+championship <> N: {rk: 2340, frq: 17432}
+chance <> N: {rk: 613, frq: 69076}, V: {rk: 22504, frq: 344}
+chancel <> N: {rk: 36131, frq: 142}
+chancellery <> N: {rk: 50220, frq: 54}
+chancellor <> N: {rk: 11633, frq: 2434}
+chancery <> N: {rk: 30882, frq: 172}
+chancy <> J: {rk: 31539, frq: 132}
+chandelier <> N: {rk: 10327, frq: 1725}
+change <> V: {rk: 306, frq: 133595}, N: {rk: 356, frq: 122695}
+change-up <> N: {rk: 27673, frq: 215}
+changeability <> N: {rk: 56382, frq: 22}
+changeable <> J: {rk: 23120, frq: 297}
+changed <> J: {rk: 11237, frq: 1302}
+changeless <> J: {rk: 40040, frq: 67}
+changeling <> N: {rk: 24219, frq: 526}
+changeover <> N: {rk: 25598, frq: 226}
+changer <> N: {rk: 20602, frq: 440}
+changing <> J: {rk: 3342, frq: 9720}, N: {rk: 18351, frq: 1026}
+channel <> N: {rk: 2534, frq: 19258}, V: {rk: 8008, frq: 2488}
+channeled <> J: {rk: 46949, frq: 45}
+channeler <> N: {rk: 51634, frq: 39}
+channeling <> N: {rk: 43703, frq: 68}
+channelization <> N: {rk: 49265, frq: 36}
+chanson <> N: {rk: 49359, frq: 78}
+chant <> V: {rk: 6982, frq: 3119}, N: {rk: 10202, frq: 1608}
+chanter <> N: {rk: 45184, frq: 47}
+chanterelle <> N: {rk: 27636, frq: 221}
+chanteuse <> N: {rk: 36646, frq: 89}
+chantey <> N: {rk: 52499, frq: 26}
+chanting <> N: {rk: 27692, frq: 194}, J: {rk: 46286, frq: 42}
+chaos <> N: {rk: 3755, frq: 7965}
+chaotic <> J: {rk: 7533, frq: 2670}
+chaotically <> R: {rk: 40779, frq: 63}
+chap <> N: {rk: 13216, frq: 1064}, V: {rk: 31291, frq: 144}
+chaparral <> N: {rk: 32438, frq: 196}, J: {rk: 41419, frq: 63}
+chapati <> N: {rk: 40120, frq: 87}
+chapbook <> N: {rk: 43823, frq: 59}
+chapeau <> N: {rk: 43804, frq: 68}
+chapel <> N: {rk: 7370, frq: 5278}
+chaperon <> V: {rk: 31895, frq: 130}, N: {rk: 38811, frq: 74}
+chaperone <> N: {rk: 23977, frq: 299}, V: {rk: 42009, frq: 60}
+chaplain <> N: {rk: 9999, frq: 1962}
+chaplaincy <> N: {rk: 33986, frq: 124}
+chapped <> J: {rk: 35039, frq: 103}
+chapstick <> N: {rk: 51328, frq: 49}
+chapter <> N: {rk: 2995, frq: 17143}
+char <> V: {rk: 16597, frq: 656}, N: {rk: 25143, frq: 397}
+character <> N: {rk: 786, frq: 54265}
+characteristic <> N: {rk: 2043, frq: 21200}, J: {rk: 7123, frq: 3056}
+characteristically <> R: {rk: 15062, frq: 790}
+characterization <> N: {rk: 8464, frq: 2340}
+characterize <> V: {rk: 2876, frq: 12592}
+characterless <> J: {rk: 45518, frq: 43}
+characterological <> J: {rk: 58166, frq: 29}
+charade <> N: {rk: 19366, frq: 455}
+charades <> N: {rk: 33259, frq: 115}
+charcoal <> N: {rk: 7571, frq: 2762}
+charcuterie <> N: {rk: 54389, frq: 50}
+chard <> N: {rk: 22165, frq: 612}
+charge <> N: {rk: 924, frq: 45569}, V: {rk: 1424, frq: 28618}, I: {rk: 4367, frq: 6380}
+charged <> J: {rk: 15881, frq: 702}
+charging <> J: {rk: 13956, frq: 966}, N: {rk: 24028, frq: 313}
+chariot <> N: {rk: 16460, frq: 695}
+charioteer <> N: {rk: 44132, frq: 48}
+charisma <> N: {rk: 11915, frq: 1229}
+charismatic <> J: {rk: 8692, frq: 2124}
+charitable <> J: {rk: 6871, frq: 3133}
+charitably <> R: {rk: 31654, frq: 135}
+charity <> N: {rk: 3308, frq: 10147}
+charlatan <> N: {rk: 23357, frq: 298}
+charm <> N: {rk: 4813, frq: 5650}, V: {rk: 10119, frq: 1641}
+charmed <> J: {rk: 24692, frq: 261}
+charmer <> N: {rk: 20842, frq: 448}
+charming <> J: {rk: 5243, frq: 5103}
+charmingly <> R: {rk: 24504, frq: 278}
+charmless <> J: {rk: 47362, frq: 40}
+charnel <> J: {rk: 42391, frq: 53}
+charred <> J: {rk: 14870, frq: 819}
+chart <> N: {rk: 2760, frq: 12617}, V: {rk: 8969, frq: 1980}
+chart-topping <> J: {rk: 39586, frq: 72}
+charted <> J: {rk: 52405, frq: 27}
+charter <> N: {rk: 4425, frq: 6535}, V: {rk: 15443, frq: 722}
+chartered <> J: {rk: 18275, frq: 509}
+charting <> N: {rk: 50533, frq: 42}, J: {rk: 52795, frq: 33}
+chartreuse <> N: {rk: 20953, frq: 394}
+chary <> J: {rk: 48264, frq: 37}
+chase <> V: {rk: 3334, frq: 10904}
+chaser <> N: {rk: 18276, frq: 622}
+chasing <> N: {rk: 36669, frq: 104}, J: {rk: 39096, frq: 75}
+chasm <> N: {rk: 13891, frq: 940}
+chassis <> N: {rk: 13859, frq: 987}
+chaste <> J: {rk: 20775, frq: 392}
+chastely <> R: {rk: 41107, frq: 61}
+chasten <> V: {rk: 33196, frq: 115}
+chastened <> J: {rk: 24765, frq: 257}
+chastise <> V: {rk: 14931, frq: 772}
+chastised <> J: {rk: 47228, frq: 43}
+chastisement <> N: {rk: 38165, frq: 76}
+chastity <> N: {rk: 17349, frq: 616}
+chasuble <> N: {rk: 54581, frq: 31}
+chat <> V: {rk: 5107, frq: 5201}, N: {rk: 7113, frq: 3071}
+chatelaine <> N: {rk: 48552, frq: 45}
+chattel <> N: {rk: 30620, frq: 151}
+chatter <> N: {rk: 10656, frq: 1540}, V: {rk: 11386, frq: 1414}
+chatterbox <> N: {rk: 39884, frq: 81}
+chattering <> J: {rk: 24801, frq: 279}, N: {rk: 31886, frq: 167}
+chatting <> N: {rk: 38399, frq: 81}
+chatty <> J: {rk: 22514, frq: 339}
+chauffeur <> N: {rk: 14990, frq: 788}, V: {rk: 32932, frq: 116}
+chauffeured <> J: {rk: 38056, frq: 77}
+chauvinism <> N: {rk: 24277, frq: 269}
+chauvinist <> N: {rk: 28424, frq: 172}
+chauvinistic <> J: {rk: 30366, frq: 153}
+chaw <> N: {rk: 46675, frq: 49}
+chayote <> N: {rk: 54722, frq: 29}
+cheap <> J: {rk: 1940, frq: 19875}, R: {rk: 39169, frq: 73}
+cheapen <> V: {rk: 27085, frq: 205}
+cheapening <> N: {rk: 55931, frq: 23}
+cheaply <> R: {rk: 13848, frq: 925}
+cheapness <> N: {rk: 38404, frq: 70}
+cheapskate <> N: {rk: 32585, frq: 133}
+cheat <> V: {rk: 4408, frq: 6478}, N: {rk: 15569, frq: 750}
+cheated <> J: {rk: 23925, frq: 264}
+cheater <> N: {rk: 19010, frq: 566}
+cheating <> N: {rk: 20080, frq: 474}, J: {rk: 25389, frq: 282}
+check <> V: {rk: 855, frq: 50218}, N: {rk: 1897, frq: 20452}
+check-in <> N: {rk: 20436, frq: 467}
+checkable <> J: {rk: 56833, frq: 39}
+checkbook <> N: {rk: 13540, frq: 976}
+checked <> J: {rk: 19809, frq: 452}
+checker <> N: {rk: 15126, frq: 844}, V: {rk: 32510, frq: 135}
+checkerboard <> N: {rk: 22055, frq: 354}
+checkered <> J: {rk: 17899, frq: 529}
+checking <> N: {rk: 14726, frq: 822}
+checklist <> N: {rk: 9227, frq: 1996}
+checkmark <> N: {rk: 50062, frq: 34}
+checkmate <> V: {rk: 39219, frq: 75}, N: {rk: 43796, frq: 59}
+checkoff <> N: {rk: 56832, frq: 22}
+checkout <> N: {rk: 14543, frq: 1690}
+checkpoint <> N: {rk: 9961, frq: 1961}
+checkup <> N: {rk: 13069, frq: 1057}
+cheddar <> N: {rk: 18029, frq: 1206}
+cheek <> N: {rk: 2690, frq: 14550}
+cheekbone <> N: {rk: 12044, frq: 1322}
+cheekily <> R: {rk: 54912, frq: 25}
+cheeky <> J: {rk: 24618, frq: 278}
+cheep <> V: {rk: 48710, frq: 38}, N: {rk: 53787, frq: 28}
+cheer <> V: {rk: 4665, frq: 6160}, N: {rk: 6769, frq: 3168}
+cheerful <> J: {rk: 7429, frq: 2839}
+cheerfully <> R: {rk: 11123, frq: 1402}
+cheerfulness <> N: {rk: 28701, frq: 182}
+cheerily <> R: {rk: 27486, frq: 210}
+cheeriness <> N: {rk: 46899, frq: 39}
+cheering <> J: {rk: 24366, frq: 262}, N: {rk: 26356, frq: 223}
+cheerio <> U: {rk: 42270, frq: 62}
+cheerleader <> N: {rk: 10507, frq: 1561}
+cheerleading <> J: {rk: 30562, frq: 146}, N: {rk: 40803, frq: 98}
+cheerless <> J: {rk: 33396, frq: 111}
+cheers <> U: {rk: 14823, frq: 962}
+cheery <> J: {rk: 15278, frq: 808}
+cheese <> N: {rk: 2116, frq: 20331}
+cheeseburger <> N: {rk: 16940, frq: 668}
+cheesecake <> N: {rk: 14097, frq: 976}
+cheesecloth <> N: {rk: 25948, frq: 271}
+cheesemaker <> N: {rk: 40256, frq: 84}
+cheesy <> J: {rk: 16359, frq: 706}
+cheetah <> N: {rk: 19661, frq: 481}
+chef <> N: {rk: 3184, frq: 12432}
+chelation <> N: {rk: 42842, frq: 67}
+chemical <> N: {rk: 2633, frq: 13449}, J: {rk: 2747, frq: 12619}
+chemically <> R: {rk: 13703, frq: 936}
+chemise <> N: {rk: 33115, frq: 133}
+chemist <> N: {rk: 9382, frq: 1869}
+chemistry <> N: {rk: 4780, frq: 5591}
+chemo <> N: {rk: 18078, frq: 635}
+chemotherapeutic <> J: {rk: 45027, frq: 46}
+chemotherapy <> N: {rk: 8000, frq: 2507}
+chenille <> N: {rk: 28867, frq: 184}
+cheque <> N: {rk: 35802, frq: 93}
+cherimoya <> N: {rk: 57542, frq: 28}
+cherish <> V: {rk: 8828, frq: 2033}
+cherished <> J: {rk: 13244, frq: 989}
+cherokee <> J: {rk: 9545, frq: 2214}, N: {rk: 9719, frq: 1963}
+cheroot <> N: {rk: 42308, frq: 65}
+cherry <> N: {rk: 5647, frq: 7311}
+cherrywood <> N: {rk: 39269, frq: 80}
+chert <> N: {rk: 44710, frq: 65}
+cherub <> N: {rk: 22977, frq: 321}
+cherubic <> J: {rk: 31180, frq: 140}
+chervil <> N: {rk: 40056, frq: 79}
+chess <> N: {rk: 7053, frq: 3086}
+chessboard <> N: {rk: 25437, frq: 264}
+chest <> N: {rk: 1725, frq: 24493}
+chestnut <> N: {rk: 9046, frq: 2266}
+chesty <> J: {rk: 40500, frq: 66}
+chevre <> N: {rk: 41100, frq: 83}
+chew <> V: {rk: 4675, frq: 6096}, N: {rk: 36051, frq: 99}
+chewable <> J: {rk: 40159, frq: 62}
+chewed <> J: {rk: 34129, frq: 111}
+chewer <> N: {rk: 49963, frq: 37}
+chewing <> N: {rk: 16543, frq: 637}, J: {rk: 35583, frq: 89}
+chewy <> J: {rk: 20038, frq: 476}
+chi-chi <> J: {rk: 54886, frq: 30}
+chi-squared <> J: {rk: 52384, frq: 31}
+chiaroscuro <> N: {rk: 32206, frq: 135}
+chiasmus <> N: {rk: 33041, frq: 238}
+chiastic <> J: {rk: 45513, frq: 96}
+chic <> J: {rk: 9461, frq: 2195}, N: {rk: 23745, frq: 346}
+chicanery <> N: {rk: 32252, frq: 124}
+chicest <> J: {rk: 51168, frq: 45}
+chicha <> N: {rk: 49237, frq: 91}
+chick <> N: {rk: 7388, frq: 3475}
+chickadee <> N: {rk: 29288, frq: 186}
+chicken <> N: {rk: 1543, frq: 27539}, V: {rk: 14991, frq: 826}, J: {rk: 40768, frq: 64}
+chicken-and-egg <> J: {rk: 39107, frq: 73}
+chickenpox <> N: {rk: 32640, frq: 130}
+chickenshit <> N: {rk: 47955, frq: 40}
+chickpea <> N: {rk: 20886, frq: 623}
+chickweed <> N: {rk: 47321, frq: 57}
+chicle <> N: {rk: 54566, frq: 28}
+chicory <> N: {rk: 31063, frq: 157}
+chide <> V: {rk: 13823, frq: 910}
+chief <> J: {rk: 1450, frq: 29240}, N: {rk: 1778, frq: 29224}
+chiefdom <> N: {rk: 27557, frq: 265}
+chiefly <> R: {rk: 11318, frq: 1349}
+chieftain <> N: {rk: 18284, frq: 520}
+chieftaincy <> N: {rk: 42604, frq: 126}
+chieftainship <> N: {rk: 54095, frq: 27}
+chiffon <> N: {rk: 18287, frq: 571}
+chiffonade <> N: {rk: 56256, frq: 29}
+chiffonier <> N: {rk: 58666, frq: 25}
+chigger <> N: {rk: 44688, frq: 58}
+chignon <> N: {rk: 35989, frq: 118}
+child <> N: {rk: 115, frq: 360478}
+childbearing <> J: {rk: 15021, frq: 699}
+childbed <> N: {rk: 57293, frq: 22}
+childbirth <> N: {rk: 11198, frq: 1342}
+childhood <> N: {rk: 2119, frq: 17775}
+childish <> J: {rk: 12115, frq: 1228}
+childishly <> R: {rk: 36748, frq: 87}
+childishness <> N: {rk: 40179, frq: 64}
+childless <> J: {rk: 15935, frq: 689}
+childlessness <> N: {rk: 44247, frq: 55}
+childlike <> J: {rk: 13283, frq: 981}
+childrearing <> J: {rk: 49501, frq: 35}
+chili <> N: {rk: 8123, frq: 3866}
+chill <> N: {rk: 4662, frq: 6273}, V: {rk: 8309, frq: 2448}, J: {rk: 32233, frq: 134}
+chilled <> J: {rk: 12264, frq: 1244}
+chiller <> N: {rk: 33945, frq: 130}
+chilli <> N: {rk: 45118, frq: 61}
+chilling <> J: {rk: 8269, frq: 2352}
+chillingly <> R: {rk: 32795, frq: 123}
+chilly <> J: {rk: 8593, frq: 2237}
+chime <> N: {rk: 13338, frq: 1102}, V: {rk: 13588, frq: 1021}
+chimera <> N: {rk: 23115, frq: 725}
+chimeric <> J: {rk: 51320, frq: 32}
+chimerical <> J: {rk: 38644, frq: 72}
+chiming <> N: {rk: 50129, frq: 43}, J: {rk: 53576, frq: 26}
+chimney <> N: {rk: 8475, frq: 2246}
+chimp <> N: {rk: 13945, frq: 1049}
+chimpanzee <> N: {rk: 13030, frq: 1120}
+chin <> N: {rk: 3978, frq: 8750}
+chinaberry <> N: {rk: 55279, frq: 28}
+chinchilla <> N: {rk: 41546, frq: 86}
+chine <> N: {rk: 36090, frq: 131}
+chink <> N: {rk: 24412, frq: 410}, V: {rk: 40377, frq: 64}
+chinless <> J: {rk: 57339, frq: 21}
+chino <> N: {rk: 24975, frq: 388}
+chinoiserie <> N: {rk: 38538, frq: 97}
+chinstrap <> N: {rk: 52985, frq: 29}
+chintz <> N: {rk: 26991, frq: 223}
+chintzy <> J: {rk: 45829, frq: 45}
+chip <> N: {rk: 2172, frq: 17581}, V: {rk: 11180, frq: 1357}
+chipboard <> N: {rk: 52214, frq: 34}
+chipmaker <> N: {rk: 27989, frq: 217}
+chipmunk <> N: {rk: 25746, frq: 283}
+chipotle <> N: {rk: 23869, frq: 507}
+chipped <> J: {rk: 18585, frq: 527}
+chipper <> N: {rk: 23820, frq: 327}, J: {rk: 25028, frq: 262}
+chipping <> N: {rk: 29708, frq: 179}
+chippy <> N: {rk: 39973, frq: 89}
+chipset <> N: {rk: 49765, frq: 51}
+chiral <> J: {rk: 40464, frq: 88}
+chirality <> N: {rk: 57770, frq: 27}
+chironomid <> N: {rk: 59490, frq: 25}
+chiropractic <> J: {rk: 23816, frq: 296}, N: {rk: 52096, frq: 42}
+chiropractor <> N: {rk: 18147, frq: 614}
+chirp <> V: {rk: 14743, frq: 868}, N: {rk: 24314, frq: 327}
+chirping <> N: {rk: 35370, frq: 118}, J: {rk: 42245, frq: 54}
+chirpy <> J: {rk: 40173, frq: 63}
+chisel <> V: {rk: 17790, frq: 559}, N: {rk: 18928, frq: 498}
+chiseled <> J: {rk: 24745, frq: 264}
+chit <> N: {rk: 31045, frq: 153}
+chitchat <> N: {rk: 24425, frq: 278}, V: {rk: 45601, frq: 46}
+chitin <> N: {rk: 45500, frq: 82}
+chitinous <> J: {rk: 58451, frq: 23}
+chitlins <> N: {rk: 47760, frq: 47}
+chitter <> V: {rk: 36538, frq: 95}
+chivalric <> J: {rk: 29346, frq: 192}
+chivalrous <> J: {rk: 33329, frq: 120}
+chivalry <> N: {rk: 23581, frq: 292}
+chives <> N: {rk: 14672, frq: 990}
+chlamydia <> N: {rk: 28156, frq: 267}
+chloral <> J: {rk: 55619, frq: 25}
+chloramine <> N: {rk: 42766, frq: 112}
+chloramphenicol <> N: {rk: 57448, frq: 26}
+chlordane <> N: {rk: 44962, frq: 81}
+chloride <> N: {rk: 16161, frq: 705}
+chlorinate <> V: {rk: 35879, frq: 101}
+chlorinated <> J: {rk: 29224, frq: 172}
+chlorination <> N: {rk: 30946, frq: 170}
+chlorine <> N: {rk: 9763, frq: 1840}
+chlorite <> N: {rk: 52443, frq: 55}
+chlorofluorocarbon <> N: {rk: 48981, frq: 37}
+chloroform <> N: {rk: 29625, frq: 165}
+chlorophyll <> N: {rk: 23652, frq: 322}
+chloroplast <> N: {rk: 40503, frq: 80}
+chloroquine <> N: {rk: 41284, frq: 75}
+chlorpyrifos <> N: {rk: 59553, frq: 67}
+chock <> V: {rk: 33935, frq: 105}, N: {rk: 34590, frq: 136}
+chock-a-block <> J: {rk: 56434, frq: 21}
+chock-full <> J: {rk: 27122, frq: 225}
+chocoholic <> N: {rk: 58339, frq: 20}
+chocolate <> N: {rk: 2652, frq: 14310}
+chocolatier <> N: {rk: 45122, frq: 70}
+chocolaty <> J: {rk: 49999, frq: 36}
+choice <> N: {rk: 630, frq: 65321}, J: {rk: 24351, frq: 273}
+choicest <> J: {rk: 32819, frq: 117}
+choir <> N: {rk: 5391, frq: 4830}
+choirboy <> N: {rk: 32307, frq: 130}
+choirmaster <> N: {rk: 42160, frq: 62}
+choke <> V: {rk: 5278, frq: 5100}, N: {rk: 16425, frq: 754}
+chokecherry <> N: {rk: 48085, frq: 40}
+choked <> J: {rk: 36540, frq: 91}
+chokehold <> N: {rk: 37633, frq: 82}
+choker <> N: {rk: 27392, frq: 202}
+choking <> J: {rk: 25633, frq: 245}, N: {rk: 37241, frq: 81}
+cholangitis <> N: {rk: 59841, frq: 27}
+cholecystectomy <> N: {rk: 48647, frq: 61}
+cholera <> N: {rk: 14394, frq: 916}
+choleric <> J: {rk: 46413, frq: 44}
+cholesteatoma <> N: {rk: 31782, frq: 208}
+cholesterol <> N: {rk: 3138, frq: 12705}
+choline <> N: {rk: 35571, frq: 127}
+cholinergic <> J: {rk: 56013, frq: 25}
+cholla <> N: {rk: 39677, frq: 82}
+chomp <> V: {rk: 19592, frq: 461}, N: {rk: 49830, frq: 40}
+chondrite <> N: {rk: 34063, frq: 131}
+chondritic <> J: {rk: 57151, frq: 26}
+chondrosarcoma <> N: {rk: 59971, frq: 39}
+chondrule <> N: {rk: 46530, frq: 63}
+choo-choo <> N: {rk: 57204, frq: 40}
+choose <> V: {rk: 600, frq: 69407}
+chooser <> N: {rk: 41818, frq: 61}
+choosing <> N: {rk: 13665, frq: 923}
+choosy <> J: {rk: 29934, frq: 149}
+chop <> V: {rk: 3995, frq: 8596}, N: {rk: 5776, frq: 4477}
+chophouse <> N: {rk: 58528, frq: 36}
+chopped <> J: {rk: 4999, frq: 6734}
+chopper <> N: {rk: 10201, frq: 1729}
+chopping <> J: {rk: 19371, frq: 385}
+choppy <> J: {rk: 17658, frq: 587}
+chopsticks <> N: {rk: 18358, frq: 553}
+choral <> J: {rk: 10942, frq: 1531}
+chorale <> N: {rk: 29665, frq: 307}
+chord <> N: {rk: 7389, frq: 2731}
+chordal <> J: {rk: 47416, frq: 42}
+chordate <> N: {rk: 59044, frq: 19}
+chore <> N: {rk: 6107, frq: 3892}
+chorea <> N: {rk: 58315, frq: 24}
+choreograph <> V: {rk: 14832, frq: 816}
+choreographed <> J: {rk: 33852, frq: 108}
+choreographer <> N: {rk: 14073, frq: 1003}
+choreographic <> J: {rk: 37198, frq: 88}
+choreography <> N: {rk: 15037, frq: 805}
+chorionic <> J: {rk: 48388, frq: 38}
+chorister <> N: {rk: 40129, frq: 67}
+chorizo <> N: {rk: 28338, frq: 267}
+chortle <> V: {rk: 23228, frq: 311}, N: {rk: 41019, frq: 71}
+chorus <> N: {rk: 5332, frq: 4876}, V: {rk: 36257, frq: 92}
+chosen <> J: {rk: 8639, frq: 2168}
+chow <> V: {rk: 24502, frq: 265}
+chowder <> N: {rk: 20109, frq: 520}
+christen <> V: {rk: 18106, frq: 530}
+christening <> N: {rk: 25216, frq: 251}
+christianized <> J: {rk: 38120, frq: 85}
+christological <> J: {rk: 28916, frq: 244}
+chroma <> N: {rk: 46566, frq: 75}
+chromatic <> J: {rk: 25412, frq: 282}
+chromatin <> N: {rk: 50458, frq: 54}
+chromatography <> N: {rk: 34304, frq: 122}
+chrome <> N: {rk: 12330, frq: 1230}
+chromed <> J: {rk: 47780, frq: 39}
+chromium <> N: {rk: 17938, frq: 572}
+chromodynamics <> N: {rk: 52920, frq: 30}
+chromolithograph <> N: {rk: 36366, frq: 180}
+chromosomal <> J: {rk: 26736, frq: 224}
+chromosome <> N: {rk: 10191, frq: 1767}
+chromosphere <> N: {rk: 47038, frq: 53}
+chronic <> J: {rk: 3681, frq: 8916}
+chronically <> R: {rk: 13208, frq: 1015}
+chronicity <> N: {rk: 41805, frq: 70}
+chronicle <> V: {rk: 9179, frq: 1990}
+chronicler <> N: {rk: 18384, frq: 568}
+chronograph <> N: {rk: 43739, frq: 60}
+chronological <> J: {rk: 13851, frq: 960}
+chronologically <> R: {rk: 23506, frq: 296}
+chronology <> N: {rk: 13089, frq: 1016}
+chronometer <> N: {rk: 31111, frq: 150}
+chronometric <> J: {rk: 59568, frq: 20}
+chronotope <> N: {rk: 39875, frq: 132}
+chrysalis <> N: {rk: 27883, frq: 268}
+chrysanthemum <> N: {rk: 22637, frq: 360}
+chthonic <> J: {rk: 48053, frq: 40}
+chub <> N: {rk: 27281, frq: 237}
+chubby <> J: {rk: 14544, frq: 883}
+chuck <> V: {rk: 8960, frq: 2562}
+chuckle <> V: {rk: 6419, frq: 3856}, N: {rk: 11178, frq: 1488}
+chuckling <> J: {rk: 51362, frq: 31}, N: {rk: 54670, frq: 23}
+chuff <> V: {rk: 47114, frq: 40}
+chug <> V: {rk: 15632, frq: 743}, N: {rk: 39655, frq: 80}
+chugging <> J: {rk: 53535, frq: 28}, N: {rk: 54536, frq: 29}
+chukar <> N: {rk: 51458, frq: 56}
+chum <> N: {rk: 17067, frq: 598}, V: {rk: 42897, frq: 51}
+chummy <> J: {rk: 31034, frq: 139}
+chump <> N: {rk: 25970, frq: 238}
+chunk <> N: {rk: 4543, frq: 6286}, V: {rk: 31548, frq: 140}
+chunky <> J: {rk: 14068, frq: 962}
+church <> N: {rk: 648, frq: 88266}
+churchgoer <> N: {rk: 23098, frq: 302}
+churchly <> R: {rk: 46321, frq: 42}
+churchman <> N: {rk: 27999, frq: 216}
+churchwoman <> N: {rk: 52184, frq: 37}
+churchy <> J: {rk: 44979, frq: 45}
+churchyard <> N: {rk: 23693, frq: 324}
+churlish <> J: {rk: 33491, frq: 112}
+churn <> V: {rk: 8562, frq: 2205}, N: {rk: 18922, frq: 506}
+churned <> J: {rk: 53655, frq: 28}
+churning <> J: {rk: 26904, frq: 214}, N: {rk: 34354, frq: 118}
+churro <> N: {rk: 46327, frq: 62}
+chute <> N: {rk: 10901, frq: 1542}
+chutney <> N: {rk: 19594, frq: 647}
+chutzpa <> N: {rk: 53326, frq: 31}
+chutzpah <> N: {rk: 25717, frq: 267}
+ciabatta <> N: {rk: 49242, frq: 64}
+ciao <> U: {rk: 30279, frq: 176}
+cicada <> N: {rk: 18073, frq: 604}
+cichlid <> N: {rk: 47836, frq: 72}
+cider <> N: {rk: 10413, frq: 1780}
+cig <> N: {rk: 56406, frq: 23}
+cigar <> N: {rk: 5767, frq: 4332}
+cigaret <> N: {rk: 41942, frq: 89}
+cigarette <> N: {rk: 2123, frq: 18168}
+cigarillo <> N: {rk: 46710, frq: 51}
+cilantro <> N: {rk: 9052, frq: 2509}
+ciliary <> J: {rk: 59480, frq: 22}
+ciliate <> N: {rk: 58595, frq: 25}
+cinch <> V: {rk: 18882, frq: 513}, N: {rk: 22766, frq: 375}
+cinched <> J: {rk: 52947, frq: 27}
+cinder <> N: {rk: 15208, frq: 800}
+cineaste <> N: {rk: 57915, frq: 25}
+cinema <> N: {rk: 8315, frq: 3397}
+cinematic <> J: {rk: 12804, frq: 1106}
+cinematically <> R: {rk: 46792, frq: 41}
+cinematographer <> N: {rk: 22657, frq: 340}
+cinematographic <> J: {rk: 47672, frq: 40}
+cinematography <> N: {rk: 27790, frq: 250}
+cineplex <> N: {rk: 38203, frq: 123}
+cinnamon <> N: {rk: 6557, frq: 3827}
+cinquefoil <> N: {rk: 59076, frq: 25}
+cioppino <> N: {rk: 54397, frq: 30}
+cipher <> N: {rk: 24163, frq: 329}, V: {rk: 41487, frq: 61}
+ciprofloxacin <> N: {rk: 30600, frq: 210}
+circadian <> J: {rk: 26028, frq: 280}
+circle <> N: {rk: 1511, frq: 26662}, V: {rk: 4785, frq: 5821}
+circled <> J: {rk: 39139, frq: 71}
+circlet <> N: {rk: 38118, frq: 90}
+circling <> J: {rk: 33200, frq: 121}, N: {rk: 39260, frq: 70}
+circuit <> N: {rk: 4055, frq: 10390}
+circuitous <> J: {rk: 22234, frq: 327}
+circuitously <> R: {rk: 51997, frq: 26}
+circuitry <> N: {rk: 16281, frq: 668}
+circular <> J: {rk: 6846, frq: 3159}, N: {rk: 17321, frq: 592}
+circularity <> N: {rk: 33821, frq: 120}
+circularly <> R: {rk: 51423, frq: 30}
+circulate <> V: {rk: 5964, frq: 3939}
+circulating <> J: {rk: 32338, frq: 141}
+circulation <> N: {rk: 5444, frq: 4668}
+circulator <> N: {rk: 46217, frq: 42}
+circulatory <> J: {rk: 21389, frq: 375}
+circumcise <> V: {rk: 28246, frq: 194}
+circumcised <> J: {rk: 38933, frq: 76}
+circumciser <> N: {rk: 58198, frq: 23}
+circumcision <> N: {rk: 19296, frq: 522}
+circumference <> N: {rk: 16439, frq: 670}
+circumferential <> J: {rk: 43598, frq: 55}
+circumflex <> N: {rk: 58305, frq: 20}
+circumlocution <> N: {rk: 47601, frq: 38}
+circumnavigate <> V: {rk: 30735, frq: 155}
+circumnavigation <> N: {rk: 39504, frq: 83}
+circumpolar <> J: {rk: 33426, frq: 118}
+circumscribe <> V: {rk: 17720, frq: 578}
+circumscribed <> J: {rk: 30734, frq: 151}
+circumscription <> N: {rk: 44912, frq: 63}
+circumspect <> J: {rk: 21912, frq: 347}
+circumspection <> N: {rk: 32930, frq: 176}
+circumspectly <> R: {rk: 50501, frq: 31}
+circumstance <> N: {rk: 1790, frq: 21743}
+circumstantial <> J: {rk: 13784, frq: 962}
+circumstantially <> R: {rk: 50498, frq: 32}
+circumstellar <> J: {rk: 41598, frq: 68}
+circumvent <> V: {rk: 12258, frq: 1129}
+circumvention <> N: {rk: 48213, frq: 40}
+circus <> N: {rk: 6124, frq: 3784}
+cirrhosis <> N: {rk: 24777, frq: 299}
+cirrus <> N: {rk: 33087, frq: 261}
+cisplatin <> N: {rk: 46493, frq: 60}
+cistern <> N: {rk: 23593, frq: 328}
+citadel <> N: {rk: 21361, frq: 796}
+citation <> N: {rk: 8525, frq: 2306}
+cite <> V: {rk: 1942, frq: 20595}
+cited <> J: {rk: 33042, frq: 130}
+citified <> J: {rk: 49669, frq: 31}
+citizen <> N: {rk: 1085, frq: 39460}
+citizenry <> N: {rk: 12540, frq: 1167}
+citizenship <> N: {rk: 4898, frq: 6075}
+citrate <> N: {rk: 40918, frq: 67}
+citric <> J: {rk: 39916, frq: 72}
+citronella <> N: {rk: 38813, frq: 77}
+citrus <> N: {rk: 9166, frq: 2056}
+city <> N: {rk: 290, frq: 201314}
+city-state <> N: {rk: 22711, frq: 332}, J: {rk: 52896, frq: 29}
+cityscape <> N: {rk: 22279, frq: 356}
+citywide <> J: {rk: 17021, frq: 642}
+civet <> N: {rk: 38509, frq: 100}
+civic <> J: {rk: 4001, frq: 7580}
+civics <> N: {rk: 19331, frq: 529}
+civil <> J: {rk: 1051, frq: 40643}
+civilian <> J: {rk: 3240, frq: 10666}, N: {rk: 3709, frq: 8742}
+civilianization <> N: {rk: 57798, frq: 26}
+civilised <> J: {rk: 50156, frq: 46}
+civility <> N: {rk: 12549, frq: 1319}
+civilization <> N: {rk: 3482, frq: 9218}
+civilizational <> J: {rk: 33871, frq: 118}
+civilize <> V: {rk: 30385, frq: 150}
+civilized <> J: {rk: 7321, frq: 2772}
+civilizing <> J: {rk: 25963, frq: 239}
+civilly <> R: {rk: 31391, frq: 157}
+civvy <> N: {rk: 49121, frq: 34}
+clack <> V: {rk: 22373, frq: 371}, N: {rk: 32467, frq: 204}
+clacking <> N: {rk: 35937, frq: 98}
+clad <> V: {rk: 10575, frq: 1563}
+cladding <> N: {rk: 33071, frq: 131}
+clade <> N: {rk: 44355, frq: 84}
+claim <> V: {rk: 875, frq: 47752}, N: {rk: 1354, frq: 31046}
+claimant <> N: {rk: 17988, frq: 564}
+claimed <> J: {rk: 29518, frq: 175}
+clairvoyance <> N: {rk: 36260, frq: 92}
+clairvoyant <> J: {rk: 35972, frq: 96}, N: {rk: 39506, frq: 72}
+clam <> N: {rk: 10345, frq: 1662}, V: {rk: 19737, frq: 441}
+clambake <> N: {rk: 46625, frq: 54}
+clamber <> V: {rk: 13012, frq: 1084}
+clammy <> J: {rk: 20487, frq: 442}
+clamor <> V: {rk: 12345, frq: 1105}, N: {rk: 17436, frq: 574}
+clamoring <> J: {rk: 48861, frq: 35}, N: {rk: 56404, frq: 25}
+clamorous <> J: {rk: 33301, frq: 121}
+clamp <> V: {rk: 8380, frq: 2328}, N: {rk: 14304, frq: 874}
+clampdown <> N: {rk: 37259, frq: 88}
+clamping <> J: {rk: 51631, frq: 31}
+clamshell <> N: {rk: 31959, frq: 145}
+clan <> N: {rk: 5704, frq: 4466}
+clandestine <> J: {rk: 12194, frq: 1162}
+clandestinely <> R: {rk: 29561, frq: 159}
+clang <> V: {rk: 19138, frq: 508}, N: {rk: 24482, frq: 293}
+clanging <> N: {rk: 37286, frq: 91}, J: {rk: 39751, frq: 68}
+clangor <> N: {rk: 54201, frq: 25}
+clank <> V: {rk: 20703, frq: 423}, N: {rk: 29952, frq: 178}
+clanking <> N: {rk: 40298, frq: 72}, J: {rk: 42329, frq: 58}
+clannish <> J: {rk: 46364, frq: 42}
+clansman <> N: {rk: 37697, frq: 90}
+clap <> V: {rk: 6820, frq: 3334}, N: {rk: 21896, frq: 370}
+clapboard <> N: {rk: 17538, frq: 589}
+clapper <> N: {rk: 30332, frq: 203}
+clapping <> N: {rk: 33062, frq: 121}, J: {rk: 51377, frq: 30}
+claptrap <> N: {rk: 41694, frq: 64}
+claque <> N: {rk: 54595, frq: 25}
+claret <> N: {rk: 29808, frq: 162}
+clarification <> N: {rk: 11610, frq: 1335}
+clarified <> J: {rk: 43430, frq: 49}
+clarifier <> N: {rk: 43964, frq: 55}
+clarify <> V: {rk: 5102, frq: 5354}
+clarifying <> J: {rk: 39089, frq: 74}
+clarinet <> N: {rk: 16259, frq: 681}
+clarinetist <> N: {rk: 32370, frq: 126}
+clarion <> N: {rk: 21082, frq: 398}
+clarity <> N: {rk: 5503, frq: 4729}
+claro <> N: {rk: 41492, frq: 108}
+clash <> N: {rk: 6225, frq: 3790}, V: {rk: 9788, frq: 1713}
+clashing <> J: {rk: 25819, frq: 231}
+clasp <> V: {rk: 9185, frq: 2095}, N: {rk: 21323, frq: 410}
+clasped <> J: {rk: 37824, frq: 84}
+clasper <> N: {rk: 58663, frq: 24}
+class <> N: {rk: 431, frq: 98580}, V: {rk: 23567, frq: 293}
+class-conscious <> J: {rk: 44261, frq: 44}
+classic <> J: {rk: 2632, frq: 14025}, N: {rk: 5087, frq: 7646}
+classical <> J: {rk: 3512, frq: 8990}
+classically <> R: {rk: 17612, frq: 565}
+classicism <> N: {rk: 25998, frq: 282}
+classicist <> N: {rk: 27540, frq: 205}
+classicizing <> J: {rk: 59387, frq: 21}
+classifiable <> J: {rk: 51057, frq: 31}
+classification <> N: {rk: 5967, frq: 4636}
+classificatory <> J: {rk: 35597, frq: 118}
+classified <> J: {rk: 8853, frq: 2202}
+classifieds <> N: {rk: 32284, frq: 137}
+classifier <> N: {rk: 44418, frq: 52}
+classify <> V: {rk: 4556, frq: 6422}
+classism <> N: {rk: 37381, frq: 85}
+classless <> J: {rk: 34150, frq: 110}
+classmate <> N: {rk: 5305, frq: 4801}
+classroom <> N: {rk: 1484, frq: 30080}
+classwork <> N: {rk: 36752, frq: 80}
+classy <> J: {rk: 13170, frq: 1047}
+clathrate <> N: {rk: 54607, frq: 37}
+clatter <> V: {rk: 14101, frq: 997}, N: {rk: 16325, frq: 730}
+clattering <> J: {rk: 39304, frq: 70}, N: {rk: 40979, frq: 72}
+claudication <> N: {rk: 59169, frq: 20}
+clause <> N: {rk: 6504, frq: 5074}
+claustrophobia <> N: {rk: 27390, frq: 201}
+claustrophobic <> J: {rk: 18470, frq: 505}
+clave <> N: {rk: 58756, frq: 28}
+clavichord <> N: {rk: 55434, frq: 58}
+clavicle <> N: {rk: 31635, frq: 159}
+clavier <> N: {rk: 54512, frq: 35}
+claw <> N: {rk: 7039, frq: 3210}, V: {rk: 11906, frq: 1318}
+clawed <> J: {rk: 30664, frq: 171}
+clawfoot <> N: {rk: 57519, frq: 22}
+clawing <> J: {rk: 37331, frq: 88}
+clay <> N: {rk: 4816, frq: 10056}
+clay-like <> J: {rk: 55461, frq: 22}
+clayey <> J: {rk: 50485, frq: 30}
+claymore <> N: {rk: 46469, frq: 77}
+clean <> J: {rk: 1519, frq: 26642}, V: {rk: 1911, frq: 20571}, R: {rk: 37994, frq: 78}, N: {rk: 41764, frq: 61}
+clean-cut <> J: {rk: 22455, frq: 317}
+clean-shaven <> J: {rk: 23888, frq: 290}
+cleaned <> J: {rk: 39864, frq: 66}
+cleaner <> N: {rk: 6662, frq: 3356}
+cleaning <> N: {rk: 6184, frq: 3858}
+cleanliness <> N: {rk: 15641, frq: 710}
+cleanly <> R: {rk: 16976, frq: 608}
+cleanness <> N: {rk: 57843, frq: 24}
+cleanout <> N: {rk: 55867, frq: 31}
+cleanse <> V: {rk: 10799, frq: 1427}
+cleanser <> N: {rk: 18798, frq: 588}
+cleansing <> N: {rk: 9889, frq: 1705}
+cleanup <> N: {rk: 5947, frq: 4474}
+clear <> J: {rk: 563, frq: 74686}, V: {rk: 1904, frq: 20725}, R: {rk: 5808, frq: 4115}
+clear-cut <> J: {rk: 12438, frq: 1086}, N: {rk: 36978, frq: 92}
+clear-cutting <> N: {rk: 26824, frq: 193}
+clear-eyed <> J: {rk: 27223, frq: 203}
+clear-headed <> J: {rk: 37236, frq: 87}
+clear-sighted <> J: {rk: 54120, frq: 27}
+clearance <> N: {rk: 9147, frq: 1931}
+cleared <> J: {rk: 26216, frq: 221}
+clearing <> N: {rk: 8155, frq: 2446}, J: {rk: 16421, frq: 674}
+clearinghouse <> N: {rk: 19259, frq: 794}
+clearly <> R: {rk: 847, frq: 49140}
+clearness <> N: {rk: 47877, frq: 37}
+cleat <> N: {rk: 15701, frq: 779}
+cleavage <> N: {rk: 14017, frq: 922}
+cleave <> V: {rk: 21737, frq: 354}
+cleaver <> N: {rk: 21655, frq: 595}
+clef <> N: {rk: 32139, frq: 142}
+cleft <> N: {rk: 22083, frq: 374}, J: {rk: 25175, frq: 264}
+clematis <> N: {rk: 26985, frq: 256}
+clemency <> N: {rk: 19524, frq: 510}
+clench <> V: {rk: 8991, frq: 2254}, N: {rk: 45347, frq: 45}
+clenched <> J: {rk: 17362, frq: 638}
+clerestory <> J: {rk: 43842, frq: 48}
+clergy <> N: {rk: 6592, frq: 3543}
+clergyman <> N: {rk: 15953, frq: 692}
+cleric <> N: {rk: 8777, frq: 2300}
+clerical <> J: {rk: 11338, frq: 1380}
+clericalism <> N: {rk: 51727, frq: 35}
+clerk <> N: {rk: 3907, frq: 7983}
+clerkship <> N: {rk: 38290, frq: 84}
+clever <> J: {rk: 5028, frq: 5358}
+cleverly <> R: {rk: 14828, frq: 788}
+cleverness <> N: {rk: 22368, frq: 328}
+clevis <> N: {rk: 52901, frq: 27}
+cliche <> N: {rk: 8982, frq: 1901}
+cliched <> J: {rk: 31243, frq: 134}
+click <> V: {rk: 3824, frq: 8601}, N: {rk: 6497, frq: 3632}
+clicker <> N: {rk: 29271, frq: 188}
+clicking <> N: {rk: 27506, frq: 207}, J: {rk: 30720, frq: 156}
+client <> N: {rk: 1158, frq: 37175}
+client-server <> J: {rk: 49699, frq: 38}
+clientele <> N: {rk: 10684, frq: 1454}
+clientelistic <> J: {rk: 42537, frq: 62}
+cliff <> N: {rk: 4350, frq: 8558}
+cliffhanger <> N: {rk: 27988, frq: 220}
+cliffside <> N: {rk: 33880, frq: 131}
+climactic <> J: {rk: 19970, frq: 435}
+climate <> N: {rk: 2115, frq: 20219}
+climatic <> J: {rk: 13782, frq: 989}
+climatically <> R: {rk: 49638, frq: 34}
+climatological <> J: {rk: 41645, frq: 80}
+climatologist <> N: {rk: 30425, frq: 175}
+climatology <> N: {rk: 42431, frq: 66}
+climax <> N: {rk: 10950, frq: 1391}, V: {rk: 18654, frq: 505}
+climb <> V: {rk: 1571, frq: 26071}, N: {rk: 7998, frq: 2511}
+climber <> N: {rk: 8782, frq: 2166}
+climbing <> N: {rk: 7482, frq: 2767}
+clime <> N: {rk: 23831, frq: 283}
+clinch <> V: {rk: 12673, frq: 1201}, N: {rk: 28107, frq: 227}
+clincher <> N: {rk: 25873, frq: 251}
+clindamycin <> N: {rk: 42507, frq: 77}
+cling <> V: {rk: 4649, frq: 6159}
+clinging <> J: {rk: 25197, frq: 260}
+clingy <> J: {rk: 29976, frq: 163}
+clinic <> N: {rk: 2404, frq: 15387}
+clinical <> J: {rk: 2600, frq: 15152}
+clinically <> R: {rk: 12104, frq: 1270}
+clinician <> N: {rk: 10302, frq: 1905}
+clink <> V: {rk: 18503, frq: 564}, N: {rk: 24911, frq: 298}
+clinker <> N: {rk: 38274, frq: 76}
+clinking <> N: {rk: 40456, frq: 66}, J: {rk: 50936, frq: 30}
+clip <> N: {rk: 4241, frq: 17078}, V: {rk: 6383, frq: 3860}
+clip-clop <> N: {rk: 47571, frq: 38}
+clip-on <> N: {rk: 33129, frq: 120}
+clipboard <> N: {rk: 13931, frq: 1021}
+clipped <> J: {rk: 23840, frq: 290}
+clipping <> N: {rk: 10268, frq: 1565}
+clique <> N: {rk: 15736, frq: 749}
+clit <> N: {rk: 45991, frq: 51}
+clitoral <> J: {rk: 42311, frq: 66}
+clitoridectomy <> N: {rk: 53614, frq: 28}
+clitoris <> N: {rk: 24408, frq: 313}
+cloaca <> N: {rk: 56528, frq: 28}
+cloak <> N: {rk: 8596, frq: 2332}, V: {rk: 16581, frq: 644}
+cloak-and-dagger <> J: {rk: 45462, frq: 41}
+cloaked <> J: {rk: 34225, frq: 116}
+cloaking <> J: {rk: 53059, frq: 30}
+cloakroom <> N: {rk: 32894, frq: 116}
+clobber <> V: {rk: 21097, frq: 372}
+cloche <> N: {rk: 37910, frq: 93}
+clock <> N: {rk: 2651, frq: 13389}, V: {rk: 15404, frq: 758}
+clocking <> N: {rk: 56689, frq: 25}
+clockmaker <> N: {rk: 48539, frq: 38}
+clockwise <> R: {rk: 11785, frq: 1651}, J: {rk: 29955, frq: 168}
+clockwork <> N: {rk: 19593, frq: 506}
+clod <> N: {rk: 22817, frq: 330}
+clog <> V: {rk: 9665, frq: 1767}, N: {rk: 23724, frq: 307}
+clogged <> J: {rk: 24129, frq: 285}
+clogger <> N: {rk: 59102, frq: 21}
+clogging <> N: {rk: 45002, frq: 52}
+cloisonne <> N: {rk: 46651, frq: 41}
+cloister <> N: {rk: 25809, frq: 388}, V: {rk: 34059, frq: 106}
+cloistered <> J: {rk: 27601, frq: 193}
+clomp <> V: {rk: 29572, frq: 175}
+clonal <> J: {rk: 41727, frq: 61}
+clone <> N: {rk: 9211, frq: 1934}, V: {rk: 12760, frq: 1096}
+cloned <> J: {rk: 22981, frq: 319}
+clonidine <> N: {rk: 57282, frq: 39}
+cloning <> N: {rk: 9575, frq: 1910}
+clop <> V: {rk: 39719, frq: 71}, N: {rk: 43835, frq: 62}
+close <> V: {rk: 649, frq: 65805}, J: {rk: 880, frq: 47148}, R: {rk: 915, frq: 46362}, N: {rk: 10294, frq: 1770}
+close-cropped <> J: {rk: 27769, frq: 210}
+close-fitting <> J: {rk: 41240, frq: 59}
+close-knit <> J: {rk: 17796, frq: 552}
+close-mouthed <> J: {rk: 47102, frq: 41}
+close-set <> J: {rk: 45545, frq: 51}
+close-up <> N: {rk: 9910, frq: 1727}, J: {rk: 16183, frq: 662}
+closed <> J: {rk: 3708, frq: 8145}
+closed-door <> J: {rk: 23657, frq: 307}
+closed-end <> J: {rk: 29791, frq: 203}
+closely <> R: {rk: 2049, frq: 18559}
+closeness <> N: {rk: 10955, frq: 1564}
+closeout <> N: {rk: 40640, frq: 66}
+closer <> J: {rk: 3024, frq: 10858}
+closest <> J: {rk: 4544, frq: 5974}
+closet <> N: {rk: 3496, frq: 9355}, V: {rk: 32951, frq: 121}
+closeted <> J: {rk: 35965, frq: 100}
+closing <> J: {rk: 5876, frq: 4099}, N: {rk: 7111, frq: 2891}
+closure <> N: {rk: 5845, frq: 4210}
+clot <> N: {rk: 13660, frq: 966}, V: {rk: 17281, frq: 598}
+cloth <> N: {rk: 3566, frq: 8899}
+clothe <> V: {rk: 11046, frq: 1381}
+clothed <> J: {rk: 35532, frq: 92}
+clothes <> N: {rk: 1438, frq: 29076}
+clotheshorse <> N: {rk: 50746, frq: 31}
+clothesline <> N: {rk: 17656, frq: 597}
+clothespin <> N: {rk: 28209, frq: 194}
+clothier <> N: {rk: 31309, frq: 176}
+clothing <> N: {rk: 2666, frq: 13075}
+clotted <> J: {rk: 33703, frq: 110}
+clotting <> J: {rk: 44038, frq: 54}
+cloture <> N: {rk: 28734, frq: 294}, V: {rk: 56166, frq: 31}
+cloud <> N: {rk: 1924, frq: 20976}, V: {rk: 10400, frq: 1533}
+cloudburst <> N: {rk: 39511, frq: 68}
+clouded <> J: {rk: 35223, frq: 107}
+cloudiness <> N: {rk: 39009, frq: 71}
+clouding <> N: {rk: 55536, frq: 24}
+cloudless <> J: {rk: 20012, frq: 447}
+cloudlike <> J: {rk: 43572, frq: 51}
+cloudy <> J: {rk: 10472, frq: 1537}
+clout <> N: {rk: 8730, frq: 2087}, V: {rk: 30056, frq: 159}
+clove <> N: {rk: 6099, frq: 4562}
+cloven <> J: {rk: 44607, frq: 48}
+clover <> N: {rk: 17258, frq: 853}
+cloverleaf <> N: {rk: 44557, frq: 55}
+clown <> N: {rk: 6991, frq: 3109}, V: {rk: 25551, frq: 234}
+clowning <> N: {rk: 49209, frq: 36}
+clownish <> J: {rk: 36901, frq: 86}
+cloying <> J: {rk: 24100, frq: 296}
+cloyingly <> R: {rk: 48871, frq: 34}
+cloze <> N: {rk: 55712, frq: 34}
+club <> N: {rk: 1261, frq: 49354}, V: {rk: 21463, frq: 381}
+clubbed <> J: {rk: 58649, frq: 20}
+clubby <> J: {rk: 31996, frq: 128}
+clubfoot <> N: {rk: 52174, frq: 95}
+clubhead <> N: {rk: 21227, frq: 468}
+clubhouse <> N: {rk: 8506, frq: 2409}
+clubroom <> N: {rk: 53219, frq: 31}
+cluck <> V: {rk: 19083, frq: 509}, N: {rk: 32768, frq: 142}
+clucking <> J: {rk: 49300, frq: 36}, N: {rk: 51007, frq: 30}
+clue <> N: {rk: 3353, frq: 9478}, V: {rk: 28942, frq: 173}
+clueless <> J: {rk: 17093, frq: 651}
+clump <> N: {rk: 8348, frq: 2313}, V: {rk: 22812, frq: 320}
+clumped <> J: {rk: 56092, frq: 23}
+clumping <> N: {rk: 52283, frq: 33}, J: {rk: 54838, frq: 23}
+clumpy <> J: {rk: 36747, frq: 84}
+clumsily <> R: {rk: 18891, frq: 516}
+clumsiness <> N: {rk: 26658, frq: 214}
+clumsy <> J: {rk: 9406, frq: 1891}
+clunk <> V: {rk: 31318, frq: 144}, N: {rk: 33073, frq: 124}
+clunker <> N: {rk: 28103, frq: 218}
+clunky <> J: {rk: 20990, frq: 413}
+cluster <> N: {rk: 3221, frq: 10491}, V: {rk: 8375, frq: 2237}
+clustered <> J: {rk: 30221, frq: 160}
+clustering <> N: {rk: 21880, frq: 428}
+clutch <> V: {rk: 5199, frq: 5500}, N: {rk: 8937, frq: 2196}
+clutter <> N: {rk: 12463, frq: 1215}, V: {rk: 13618, frq: 961}
+cluttered <> J: {rk: 15740, frq: 721}
+co-author <> N: {rk: 7238, frq: 3170}, V: {rk: 15237, frq: 781}
+co-authored <> J: {rk: 49153, frq: 37}
+co-chair <> N: {rk: 17028, frq: 679}
+co-founder <> N: {rk: 8417, frq: 2413}
+co-occur <> V: {rk: 34338, frq: 155}
+co-occurrence <> N: {rk: 37154, frq: 125}
+co-occurring <> J: {rk: 55431, frq: 37}
+co-op <> N: {rk: 9109, frq: 2395}
+co-opt <> V: {rk: 14459, frq: 878}
+co-optation <> N: {rk: 31344, frq: 153}
+co-option <> N: {rk: 52924, frq: 32}
+co-owner <> N: {rk: 13395, frq: 1066}
+co-partner <> N: {rk: 59422, frq: 19}
+co-pilot <> N: {rk: 17984, frq: 577}
+co-producer <> N: {rk: 26369, frq: 227}
+co-production <> N: {rk: 31193, frq: 147}
+co-star <> N: {rk: 11172, frq: 1470}, V: {rk: 20423, frq: 406}
+co-worker <> N: {rk: 5513, frq: 4556}
+coach <> N: {rk: 1034, frq: 44724}, V: {rk: 2341, frq: 17299}
+coaching <> N: {rk: 5853, frq: 4424}
+coachman <> N: {rk: 25637, frq: 345}
+coagulant <> N: {rk: 45714, frq: 69}
+coagulate <> V: {rk: 32702, frq: 124}
+coagulated <> J: {rk: 46187, frq: 41}
+coagulation <> N: {rk: 30202, frq: 164}
+coal <> N: {rk: 3358, frq: 9706}
+coal-black <> J: {rk: 38237, frq: 82}
+coal-fired <> J: {rk: 18676, frq: 542}
+coalesce <> V: {rk: 13095, frq: 1001}
+coalescence <> N: {rk: 37001, frq: 85}
+coalescing <> N: {rk: 52269, frq: 27}
+coalfield <> N: {rk: 53808, frq: 34}
+coalition <> N: {rk: 2255, frq: 16838}
+coalitional <> J: {rk: 42349, frq: 65}
+coarse <> J: {rk: 8045, frq: 2478}
+coarse-grained <> J: {rk: 45848, frq: 52}
+coarsely <> R: {rk: 12077, frq: 1445}
+coarsen <> V: {rk: 47358, frq: 41}
+coarseness <> N: {rk: 37702, frq: 80}
+coarsening <> N: {rk: 44973, frq: 47}
+coast <> N: {rk: 2452, frq: 24665}, V: {rk: 17874, frq: 550}
+coastal <> J: {rk: 4071, frq: 7495}
+coaster <> N: {rk: 9896, frq: 1849}
+coastguard <> N: {rk: 50339, frq: 60}
+coasting <> J: {rk: 57855, frq: 20}
+coastline <> N: {rk: 10471, frq: 1576}
+coat <> N: {rk: 2261, frq: 17589}, V: {rk: 6160, frq: 4242}
+coated <> J: {rk: 26959, frq: 211}
+coating <> N: {rk: 8544, frq: 2287}
+coatless <> J: {rk: 48987, frq: 35}
+coatrack <> N: {rk: 40312, frq: 64}
+coatroom <> N: {rk: 54647, frq: 30}
+coattail <> N: {rk: 53315, frq: 25}
+coattails <> N: {rk: 26259, frq: 225}
+coax <> V: {rk: 8771, frq: 2089}
+coaxial <> J: {rk: 30081, frq: 166}
+coaxing <> N: {rk: 38838, frq: 73}
+cob <> N: {rk: 17615, frq: 1300}
+cobalamin <> N: {rk: 59812, frq: 22}
+cobalt <> N: {rk: 13440, frq: 1007}
+cobble <> V: {rk: 18875, frq: 504}, N: {rk: 24553, frq: 366}
+cobbled <> J: {rk: 24828, frq: 273}
+cobbler <> N: {rk: 18471, frq: 566}
+cobblestone <> N: {rk: 15562, frq: 769}
+cobblestoned <> J: {rk: 43209, frq: 57}
+cobia <> N: {rk: 51526, frq: 54}
+cobweb <> N: {rk: 19285, frq: 504}
+cobwebbed <> J: {rk: 54773, frq: 24}
+cobwebby <> J: {rk: 50014, frq: 35}
+coca <> N: {rk: 17100, frq: 889}
+cocaine <> N: {rk: 4353, frq: 6593}
+coccus <> N: {rk: 56259, frq: 27}
+coccyx <> N: {rk: 50737, frq: 34}
+cochineal <> N: {rk: 56314, frq: 23}
+cochlea <> N: {rk: 36100, frq: 147}
+cochlear <> J: {rk: 22065, frq: 528}
+cock <> V: {rk: 8641, frq: 2383}, N: {rk: 12248, frq: 1197}
+cock-up <> N: {rk: 59840, frq: 25}
+cockapoo <> N: {rk: 59420, frq: 22}
+cockatiel <> N: {rk: 45345, frq: 44}
+cockatoo <> N: {rk: 35706, frq: 97}
+cocked <> J: {rk: 29905, frq: 164}
+cocker <> N: {rk: 32612, frq: 192}
+cockerel <> N: {rk: 48559, frq: 36}
+cockeyed <> J: {rk: 28827, frq: 168}
+cockfight <> N: {rk: 44345, frq: 50}
+cockiness <> N: {rk: 32954, frq: 119}
+cockle <> N: {rk: 40193, frq: 68}
+cockpit <> N: {rk: 7276, frq: 3189}
+cockroach <> N: {rk: 14307, frq: 869}
+cocksucker <> N: {rk: 33613, frq: 135}
+cocksure <> J: {rk: 35251, frq: 98}
+cocktail <> N: {rk: 5275, frq: 5403}
+cocky <> J: {rk: 14430, frq: 842}
+cocoa <> N: {rk: 9148, frq: 2112}
+cocobolo <> N: {rk: 59988, frq: 20}
+coconut <> N: {rk: 6911, frq: 3309}
+cocoon <> N: {rk: 14773, frq: 846}, V: {rk: 31725, frq: 139}
+coda <> N: {rk: 22051, frq: 360}
+coddle <> V: {rk: 19853, frq: 427}
+coddled <> J: {rk: 55318, frq: 23}
+coddling <> N: {rk: 44788, frq: 44}
+code <> N: {rk: 1654, frq: 24076}, V: {rk: 7806, frq: 2853}
+code-named <> J: {rk: 30379, frq: 148}
+codebook <> N: {rk: 53592, frq: 39}
+codec <> N: {rk: 44726, frq: 75}
+coded <> J: {rk: 14918, frq: 829}
+codeine <> N: {rk: 29961, frq: 175}
+codependency <> N: {rk: 33302, frq: 171}
+coder <> N: {rk: 23825, frq: 374}
+codex <> N: {rk: 24799, frq: 442}
+codfish <> N: {rk: 36339, frq: 94}
+codger <> N: {rk: 36400, frq: 89}
+codicil <> N: {rk: 40334, frq: 67}
+codification <> N: {rk: 30676, frq: 173}
+codified <> J: {rk: 36740, frq: 86}
+codify <> V: {rk: 14525, frq: 864}
+coding <> N: {rk: 12184, frq: 1429}
+codling <> N: {rk: 38547, frq: 101}
+codon <> N: {rk: 34788, frq: 144}
+codpiece <> N: {rk: 48041, frq: 36}
+coed <> J: {rk: 15765, frq: 734}, N: {rk: 27322, frq: 198}
+coeducation <> N: {rk: 37641, frq: 129}
+coeducational <> J: {rk: 24991, frq: 291}
+coefficient <> N: {rk: 6056, frq: 4669}
+coelacanth <> N: {rk: 59056, frq: 33}
+coenzyme <> N: {rk: 35472, frq: 169}
+coerce <> V: {rk: 11663, frq: 1278}
+coerced <> J: {rk: 28477, frq: 192}
+coercion <> N: {rk: 9991, frq: 1815}
+coercive <> J: {rk: 12623, frq: 1182}
+coeval <> J: {rk: 57510, frq: 21}
+coevolution <> N: {rk: 39552, frq: 77}
+coevolutionary <> J: {rk: 52701, frq: 31}
+coexist <> V: {rk: 10187, frq: 1616}
+coexistent <> J: {rk: 53388, frq: 26}
+coexisting <> J: {rk: 46292, frq: 43}
+coextensive <> J: {rk: 39525, frq: 70}
+cofactor <> N: {rk: 37299, frq: 81}
+coffee <> N: {rk: 1392, frq: 30774}
+coffeecake <> N: {rk: 56668, frq: 34}
+coffeehouse <> N: {rk: 19203, frq: 563}
+coffeemaker <> N: {rk: 26971, frq: 230}
+coffeepot <> N: {rk: 28670, frq: 198}
+coffer <> N: {rk: 14121, frq: 899}
+cofferdam <> N: {rk: 59233, frq: 29}
+coffered <> J: {rk: 45810, frq: 42}
+coffin <> N: {rk: 6342, frq: 3904}
+cog <> N: {rk: 18036, frq: 628}, V: {rk: 47124, frq: 37}
+cogency <> N: {rk: 42219, frq: 61}
+cogeneration <> N: {rk: 28211, frq: 205}
+cogent <> J: {rk: 22185, frq: 335}
+cogently <> R: {rk: 34729, frq: 105}
+cogitate <> V: {rk: 51427, frq: 31}
+cogitation <> N: {rk: 49727, frq: 31}
+cognac <> N: {rk: 17901, frq: 609}
+cognate <> J: {rk: 38483, frq: 81}, N: {rk: 42994, frq: 71}
+cognition <> N: {rk: 11256, frq: 1593}
+cognitional <> J: {rk: 49969, frq: 46}
+cognitive <> J: {rk: 3366, frq: 11095}
+cognitively <> R: {rk: 21602, frq: 414}
+cognizable <> J: {rk: 55998, frq: 29}
+cognizance <> N: {rk: 36736, frq: 87}
+cognizant <> J: {rk: 19763, frq: 449}
+cognoscenti <> N: {rk: 29994, frq: 152}
+cohabit <> V: {rk: 27448, frq: 207}
+cohabitation <> N: {rk: 24783, frq: 280}
+cohabiting <> J: {rk: 58004, frq: 22}
+cohere <> V: {rk: 31467, frq: 147}
+coherence <> N: {rk: 11809, frq: 1357}
+coherency <> N: {rk: 42767, frq: 73}
+coherent <> J: {rk: 7112, frq: 3051}
+coherently <> R: {rk: 29485, frq: 174}
+cohesion <> N: {rk: 11063, frq: 1655}
+cohesive <> J: {rk: 13332, frq: 1039}
+cohesiveness <> N: {rk: 20973, frq: 448}
+coho <> N: {rk: 23918, frq: 331}
+cohort <> N: {rk: 7480, frq: 3178}
+cohosh <> N: {rk: 37372, frq: 92}
+coif <> N: {rk: 32969, frq: 134}
+coiffed <> J: {rk: 42704, frq: 58}
+coiffure <> N: {rk: 29209, frq: 176}
+coil <> N: {rk: 9414, frq: 1851}, V: {rk: 13691, frq: 1009}
+coiled <> J: {rk: 22678, frq: 329}
+coiling <> J: {rk: 53726, frq: 26}
+coin <> N: {rk: 4415, frq: 6463}, V: {rk: 10414, frq: 1528}
+coinage <> N: {rk: 30760, frq: 163}
+coincide <> V: {rk: 6752, frq: 3271}
+coincidence <> N: {rk: 5885, frq: 3990}
+coincident <> J: {rk: 38593, frq: 76}
+coincidental <> J: {rk: 19097, frq: 461}
+coincidentally <> R: {rk: 13943, frq: 887}
+coincidently <> R: {rk: 54772, frq: 24}
+coinfection <> N: {rk: 53924, frq: 28}
+coital <> J: {rk: 36548, frq: 168}
+coitus <> N: {rk: 34523, frq: 125}
+cojones <> N: {rk: 44634, frq: 49}
+cola <> N: {rk: 18548, frq: 869}
+colander <> N: {rk: 22116, frq: 401}
+cold <> J: {rk: 886, frq: 48277}, N: {rk: 3509, frq: 9923}, R: {rk: 39755, frq: 69}
+cold-blooded <> J: {rk: 17506, frq: 586}
+cold-hearted <> J: {rk: 32483, frq: 124}
+coldly <> R: {rk: 15178, frq: 836}
+coldness <> N: {rk: 21203, frq: 386}
+colectomy <> N: {rk: 59892, frq: 23}
+coleslaw <> N: {rk: 24795, frq: 321}
+coleus <> N: {rk: 34564, frq: 143}
+colic <> N: {rk: 30467, frq: 132}
+colicky <> J: {rk: 35530, frq: 94}
+coliform <> J: {rk: 21359, frq: 458}
+colitis <> N: {rk: 27801, frq: 271}
+collaborate <> V: {rk: 6476, frq: 3710}
+collaborating <> J: {rk: 44318, frq: 53}
+collaboration <> N: {rk: 4209, frq: 7724}
+collaborationist <> N: {rk: 52278, frq: 32}
+collaborative <> J: {rk: 6507, frq: 4084}
+collaborator <> N: {rk: 8570, frq: 2229}
+collage <> N: {rk: 11407, frq: 1339}
+collaged <> J: {rk: 53553, frq: 27}
+collagen <> N: {rk: 15465, frq: 857}
+collapse <> V: {rk: 3233, frq: 10003}, N: {rk: 3464, frq: 9167}
+collapsed <> J: {rk: 18969, frq: 509}
+collapsible <> J: {rk: 24848, frq: 266}
+collapsing <> J: {rk: 17703, frq: 558}
+collar <> N: {rk: 4590, frq: 6238}, V: {rk: 40764, frq: 65}
+collarbone <> N: {rk: 18222, frq: 568}
+collard <> N: {rk: 24510, frq: 328}
+collards <> N: {rk: 27992, frq: 213}
+collared <> J: {rk: 42099, frq: 62}
+collarless <> J: {rk: 42063, frq: 56}
+collate <> V: {rk: 28801, frq: 174}
+collateral <> N: {rk: 10632, frq: 1506}
+collateralized <> J: {rk: 55674, frq: 40}
+collation <> N: {rk: 52063, frq: 31}
+colleague <> N: {rk: 1523, frq: 26543}
+collect <> V: {rk: 1322, frq: 31620}, N: {rk: 32896, frq: 118}
+collectable <> J: {rk: 57502, frq: 23}
+collected <> J: {rk: 14593, frq: 838}
+collectible <> J: {rk: 21946, frq: 355}
+collectibles <> N: {rk: 20623, frq: 582}
+collecting <> N: {rk: 16301, frq: 686}
+collection <> N: {rk: 1046, frq: 41873}
+collective <> J: {rk: 3364, frq: 10234}, N: {rk: 10767, frq: 1596}
+collectively <> R: {rk: 7664, frq: 2756}
+collectivism <> N: {rk: 29064, frq: 202}
+collectivist <> N: {rk: 25298, frq: 273}
+collectivistic <> J: {rk: 44564, frq: 53}
+collectivity <> N: {rk: 27830, frq: 225}
+collectivization <> N: {rk: 34537, frq: 116}
+collectivize <> V: {rk: 56814, frq: 22}
+collector <> N: {rk: 4006, frq: 7469}
+college <> N: {rk: 415, frq: 108278}
+collegial <> J: {rk: 20324, frq: 430}
+collegian <> N: {rk: 32423, frq: 136}
+collegiate <> J: {rk: 8968, frq: 2107}
+collet <> N: {rk: 55528, frq: 74}
+collide <> V: {rk: 7721, frq: 2533}
+collider <> N: {rk: 23496, frq: 376}
+colliding <> J: {rk: 42477, frq: 52}
+collie <> N: {rk: 19103, frq: 509}
+colliery <> N: {rk: 55532, frq: 23}
+collimate <> V: {rk: 37857, frq: 90}
+collimated <> J: {rk: 58575, frq: 26}
+collimation <> N: {rk: 34733, frq: 120}
+collimator <> N: {rk: 53781, frq: 30}
+collinearity <> N: {rk: 48367, frq: 52}
+collision <> N: {rk: 5700, frq: 4251}
+collocation <> N: {rk: 57087, frq: 24}
+collodion <> N: {rk: 51398, frq: 35}
+colloid <> N: {rk: 54791, frq: 39}
+colloidal <> J: {rk: 42621, frq: 62}
+colloquial <> J: {rk: 24986, frq: 255}
+colloquialism <> N: {rk: 36520, frq: 86}
+colloquially <> R: {rk: 39015, frq: 73}
+colloquium <> N: {rk: 32470, frq: 146}
+colloquy <> N: {rk: 32530, frq: 125}
+collude <> V: {rk: 25058, frq: 243}
+collusion <> N: {rk: 17169, frq: 587}
+collusive <> J: {rk: 43416, frq: 55}
+colobus <> N: {rk: 55339, frq: 66}
+colon <> N: {rk: 8361, frq: 2418}
+colonia <> N: {rk: 32978, frq: 257}
+colonial <> J: {rk: 3343, frq: 10228}, N: {rk: 26149, frq: 226}
+colonialism <> N: {rk: 11048, frq: 1568}
+colonialist <> J: {rk: 29818, frq: 169}, N: {rk: 33439, frq: 115}
+colonic <> J: {rk: 42430, frq: 62}
+colonist <> N: {rk: 9783, frq: 1861}
+colonization <> N: {rk: 10874, frq: 1593}
+colonize <> V: {rk: 13721, frq: 959}
+colonized <> J: {rk: 22470, frq: 363}
+colonizer <> N: {rk: 20042, frq: 449}
+colonizing <> J: {rk: 50920, frq: 32}
+colonnade <> N: {rk: 28438, frq: 180}
+colonnaded <> J: {rk: 45841, frq: 43}
+colonoscopy <> N: {rk: 21792, frq: 442}
+colony <> N: {rk: 3701, frq: 8635}
+color <> N: {rk: 697, frq: 98586}, V: {rk: 4657, frq: 6165}
+colorant <> N: {rk: 42835, frq: 72}
+coloration <> N: {rk: 20094, frq: 431}
+coloratura <> N: {rk: 46858, frq: 46}
+colorectal <> J: {rk: 23953, frq: 332}
+colored <> J: {rk: 5196, frq: 4930}, N: {rk: 35124, frq: 165}
+colorful <> J: {rk: 4502, frq: 6299}
+colorfully <> R: {rk: 26681, frq: 211}
+coloring <> N: {rk: 13308, frq: 1007}
+colorist <> N: {rk: 26609, frq: 260}
+coloristic <> J: {rk: 57057, frq: 20}
+colorized <> J: {rk: 50286, frq: 34}
+colorless <> J: {rk: 16872, frq: 636}
+colossal <> J: {rk: 13104, frq: 1009}
+colossally <> R: {rk: 57396, frq: 23}
+colossus <> N: {rk: 21954, frq: 351}
+colostomy <> N: {rk: 37028, frq: 84}
+colostrum <> N: {rk: 40635, frq: 80}
+coloured <> J: {rk: 24487, frq: 299}
+colourful <> J: {rk: 38648, frq: 79}
+colouring <> N: {rk: 44216, frq: 55}
+coltish <> J: {rk: 50582, frq: 36}
+columbarium <> N: {rk: 58041, frq: 27}
+column <> N: {rk: 2085, frq: 18300}
+columnar <> J: {rk: 33798, frq: 111}
+columned <> J: {rk: 41416, frq: 65}
+columnist <> N: {rk: 4442, frq: 6847}
+coma <> N: {rk: 9357, frq: 1854}
+comal <> J: {rk: 51203, frq: 64}
+comandante <> N: {rk: 43241, frq: 111}
+comatose <> J: {rk: 20144, frq: 424}
+comb <> V: {rk: 7449, frq: 2818}, N: {rk: 9341, frq: 1959}
+combat <> N: {rk: 3435, frq: 9398}, V: {rk: 5110, frq: 5171}
+combatant <> N: {rk: 11047, frq: 1485}, J: {rk: 38379, frq: 85}
+combative <> J: {rk: 16952, frq: 600}
+combativeness <> N: {rk: 41314, frq: 57}
+combed <> J: {rk: 40215, frq: 63}
+comber <> N: {rk: 52070, frq: 43}
+combination <> N: {rk: 1818, frq: 21540}
+combinatorial <> J: {rk: 36813, frq: 124}
+combine <> V: {rk: 1452, frq: 29072}, N: {rk: 20987, frq: 554}
+combined <> J: {rk: 4201, frq: 7060}
+combing <> N: {rk: 55775, frq: 28}
+combining <> J: {rk: 37813, frq: 79}
+combo <> N: {rk: 13102, frq: 1226}
+combust <> V: {rk: 36360, frq: 93}
+combustible <> J: {rk: 23504, frq: 296}
+combustion <> N: {rk: 10023, frq: 1732}
+combustor <> N: {rk: 34517, frq: 119}
+come <> V: {rk: 70, frq: 680619}
+come-along <> N: {rk: 59540, frq: 20}
+come-on <> N: {rk: 25335, frq: 242}
+comeback <> N: {rk: 6589, frq: 3491}
+comedian <> N: {rk: 7666, frq: 2669}
+comedic <> J: {rk: 21322, frq: 383}
+comedienne <> N: {rk: 33861, frq: 140}
+comedown <> N: {rk: 42065, frq: 56}
+comedy <> N: {rk: 3237, frq: 10599}
+comely <> J: {rk: 26740, frq: 216}
+comer <> N: {rk: 9875, frq: 1702}
+comestibles <> N: {rk: 54676, frq: 25}
+comet <> N: {rk: 5272, frq: 5614}
+cometary <> J: {rk: 28352, frq: 201}
+comeuppance <> N: {rk: 29819, frq: 165}
+comfort <> N: {rk: 2945, frq: 11810}, V: {rk: 5389, frq: 4681}
+comfortable <> J: {rk: 1709, frq: 22884}
+comfortably <> R: {rk: 6989, frq: 3014}
+comforter <> N: {rk: 17117, frq: 661}
+comforting <> J: {rk: 7879, frq: 2497}
+comfortingly <> R: {rk: 39084, frq: 74}
+comfortless <> J: {rk: 55758, frq: 23}
+comfrey <> N: {rk: 36926, frq: 108}
+comfy <> J: {rk: 16748, frq: 691}
+comic <> J: {rk: 5335, frq: 4767}, N: {rk: 7061, frq: 3098}
+comical <> J: {rk: 15258, frq: 744}
+comically <> R: {rk: 21419, frq: 358}
+coming <> J: {rk: 4764, frq: 5733}, N: {rk: 6427, frq: 3507}
+comity <> N: {rk: 30712, frq: 159}
+comma <> N: {rk: 19931, frq: 427}
+command <> N: {rk: 2393, frq: 15298}, V: {rk: 4028, frq: 7254}
+commandant <> N: {rk: 20610, frq: 425}
+commandeer <> V: {rk: 19284, frq: 477}
+commandeered <> J: {rk: 53979, frq: 25}
+commander <> N: {rk: 2370, frq: 16229}
+commander-in-chief <> N: {rk: 17699, frq: 580}
+commanding <> J: {rk: 8575, frq: 2110}
+commandingly <> R: {rk: 51965, frq: 31}
+commandment <> N: {rk: 15205, frq: 1502}
+commando <> N: {rk: 11746, frq: 1285}
+commemorate <> V: {rk: 8860, frq: 2018}
+commemoration <> N: {rk: 16070, frq: 729}
+commemorative <> J: {rk: 16369, frq: 663}, N: {rk: 57900, frq: 21}
+commence <> V: {rk: 9661, frq: 1733}
+commencement <> N: {rk: 14032, frq: 878}
+commend <> V: {rk: 10807, frq: 1420}
+commendable <> J: {rk: 20343, frq: 403}
+commendably <> R: {rk: 48881, frq: 39}
+commendation <> N: {rk: 22742, frq: 321}
+commended <> J: {rk: 55472, frq: 26}
+commensal <> N: {rk: 56569, frq: 25}
+commensurability <> N: {rk: 57978, frq: 23}
+commensurable <> J: {rk: 48583, frq: 42}
+commensurate <> J: {rk: 17508, frq: 598}
+comment <> N: {rk: 1367, frq: 30339}, V: {rk: 2545, frq: 14115}
+commentary <> N: {rk: 5083, frq: 5284}
+commentator <> N: {rk: 5415, frq: 4940}
+commercial <> J: {rk: 1028, frq: 45190}, N: {rk: 5120, frq: 5214}
+commercialism <> N: {rk: 20629, frq: 404}
+commercialization <> N: {rk: 16579, frq: 669}
+commercialize <> V: {rk: 18964, frq: 493}
+commercialized <> J: {rk: 34034, frq: 108}
+commercially <> R: {rk: 8799, frq: 2075}
+commie <> N: {rk: 29240, frq: 199}
+commingle <> V: {rk: 29788, frq: 157}
+commingled <> J: {rk: 44678, frq: 50}
+commingling <> N: {rk: 40755, frq: 59}
+commiserate <> V: {rk: 25731, frq: 238}
+commiseration <> N: {rk: 36874, frq: 86}
+commissar <> N: {rk: 29527, frq: 204}
+commissariat <> N: {rk: 51819, frq: 62}
+commissary <> J: {rk: 25051, frq: 254}, N: {rk: 50809, frq: 36}
+commission <> N: {rk: 2394, frq: 30152}, V: {rk: 6378, frq: 3711}
+commissioned <> J: {rk: 22175, frq: 332}
+commissioner <> N: {rk: 4358, frq: 10014}
+commissioning <> N: {rk: 26336, frq: 269}
+commit <> V: {rk: 1398, frq: 29114}
+commitment <> N: {rk: 1621, frq: 24972}
+committed <> J: {rk: 6506, frq: 3455}
+committee <> N: {rk: 1432, frq: 45613}
+committeeman <> N: {rk: 39721, frq: 84}
+commo <> N: {rk: 58941, frq: 22}
+commode <> N: {rk: 26449, frq: 231}
+commodification <> N: {rk: 28058, frq: 219}
+commodified <> J: {rk: 45926, frq: 55}
+commodious <> J: {rk: 34119, frq: 111}
+commoditization <> N: {rk: 51233, frq: 41}
+commodity <> N: {rk: 4625, frq: 6067}
+common <> J: {rk: 710, frq: 60391}, R: {rk: 6093, frq: 3712}
+commonality <> N: {rk: 14954, frq: 866}
+commonalty <> N: {rk: 42511, frq: 56}
+commoner <> N: {rk: 19638, frq: 449}
+commonly <> R: {rk: 3784, frq: 8465}
+commonness <> N: {rk: 45961, frq: 45}
+commonplace <> J: {rk: 8837, frq: 2033}, N: {rk: 31044, frq: 154}
+commonsense <> J: {rk: 23165, frq: 343}
+commonsensical <> J: {rk: 33623, frq: 108}
+commotion <> N: {rk: 11970, frq: 1282}
+communal <> J: {rk: 6487, frq: 3616}
+communalism <> N: {rk: 41744, frq: 68}
+communality <> N: {rk: 43846, frq: 92}
+communally <> R: {rk: 29273, frq: 167}
+commune <> N: {rk: 14648, frq: 953}, V: {rk: 31370, frq: 137}
+communicability <> N: {rk: 58923, frq: 22}
+communicable <> J: {rk: 24571, frq: 271}
+communicant <> N: {rk: 37586, frq: 89}
+communicate <> V: {rk: 2688, frq: 13356}
+communicating <> J: {rk: 22468, frq: 356}, N: {rk: 23696, frq: 303}
+communication <> N: {rk: 1254, frq: 34549}
+communicational <> J: {rk: 53542, frq: 38}
+communicative <> J: {rk: 16043, frq: 811}
+communicator <> N: {rk: 13923, frq: 1038}
+communique <> N: {rk: 17654, frq: 614}
+communism <> N: {rk: 7195, frq: 3997}
+communistic <> J: {rk: 45352, frq: 47}
+communitarian <> J: {rk: 26762, frq: 232}, N: {rk: 36618, frq: 117}
+community <> N: {rk: 296, frq: 146262}
+commutation <> N: {rk: 34679, frq: 105}
+commute <> V: {rk: 6969, frq: 3131}
+commuter <> N: {rk: 6949, frq: 3147}
+commuting <> N: {rk: 20412, frq: 407}
+comorbidity <> N: {rk: 30558, frq: 213}
+comp <> N: {rk: 13232, frq: 2192}
+compact <> J: {rk: 6286, frq: 3684}, N: {rk: 10801, frq: 1442}, V: {rk: 16934, frq: 693}
+compacted <> J: {rk: 26077, frq: 230}
+compacting <> N: {rk: 59556, frq: 43}
+compaction <> N: {rk: 32460, frq: 125}
+compactly <> R: {rk: 42390, frq: 60}
+compactness <> N: {rk: 39105, frq: 73}
+compactor <> N: {rk: 27589, frq: 226}
+compadre <> N: {rk: 34815, frq: 115}
+companion <> N: {rk: 3573, frq: 8843}
+companionable <> J: {rk: 29286, frq: 175}
+companionably <> R: {rk: 37815, frq: 81}
+companionate <> J: {rk: 58687, frq: 24}
+companionship <> N: {rk: 13218, frq: 981}
+companionway <> N: {rk: 38794, frq: 83}
+company <> N: {rk: 189, frq: 217148}
+comparability <> N: {rk: 27027, frq: 235}
+comparable <> J: {rk: 4683, frq: 5987}
+comparably <> R: {rk: 25448, frq: 243}
+comparative <> J: {rk: 6351, frq: 3999}
+comparatively <> R: {rk: 10306, frq: 1607}
+compare <> V: {rk: 832, frq: 52111}
+comparison <> N: {rk: 2179, frq: 18355}
+compartment <> N: {rk: 6656, frq: 3428}
+compartmentalization <> N: {rk: 36017, frq: 101}
+compartmentalize <> V: {rk: 24238, frq: 274}
+compartmentalized <> J: {rk: 39464, frq: 72}
+compass <> N: {rk: 8103, frq: 2454}
+compassion <> N: {rk: 5037, frq: 5208}
+compassionate <> J: {rk: 7950, frq: 2441}
+compassionately <> R: {rk: 31717, frq: 130}
+compatibility <> N: {rk: 13366, frq: 1030}
+compatible <> J: {rk: 7125, frq: 3021}
+compatibly <> R: {rk: 56878, frq: 21}
+compatriot <> N: {rk: 16121, frq: 684}
+compel <> V: {rk: 4489, frq: 6206}
+compelling <> J: {rk: 4927, frq: 5447}
+compellingly <> R: {rk: 33903, frq: 111}
+compendium <> N: {rk: 19131, frq: 502}
+compensable <> J: {rk: 54317, frq: 34}
+compensate <> V: {rk: 5088, frq: 5177}
+compensated <> J: {rk: 53317, frq: 32}
+compensating <> J: {rk: 42816, frq: 53}
+compensation <> N: {rk: 3826, frq: 8067}
+compensator <> N: {rk: 42239, frq: 70}
+compensatory <> J: {rk: 14718, frq: 855}
+compete <> V: {rk: 2076, frq: 18488}
+competence <> N: {rk: 5245, frq: 5731}
+competency <> N: {rk: 7436, frq: 3531}
+competent <> J: {rk: 5870, frq: 4176}
+competently <> R: {rk: 26281, frq: 231}
+competing <> J: {rk: 5777, frq: 4246}
+competition <> N: {rk: 1349, frq: 30737}
+competitive <> J: {rk: 2321, frq: 16005}
+competitively <> R: {rk: 20514, frq: 402}
+competitiveness <> N: {rk: 8258, frq: 2481}
+competitor <> N: {rk: 3280, frq: 9933}
+compilation <> N: {rk: 12947, frq: 1041}
+compile <> V: {rk: 5347, frq: 4900}
+compiled <> J: {rk: 55232, frq: 27}
+compiler <> N: {rk: 22155, frq: 392}
+complacence <> N: {rk: 57026, frq: 20}
+complacency <> N: {rk: 15135, frq: 767}
+complacent <> J: {rk: 15017, frq: 763}
+complacently <> R: {rk: 37208, frq: 78}
+complain <> V: {rk: 1869, frq: 20516}
+complainant <> N: {rk: 27365, frq: 204}
+complainer <> N: {rk: 31420, frq: 144}
+complaining <> J: {rk: 35302, frq: 94}, N: {rk: 37531, frq: 80}
+complaint <> N: {rk: 2339, frq: 15846}
+complaisant <> J: {rk: 54153, frq: 24}
+compleat <> J: {rk: 47614, frq: 41}
+complement <> V: {rk: 6857, frq: 3204}, N: {rk: 11671, frq: 1274}
+complementarily <> R: {rk: 59730, frq: 21}
+complementarity <> N: {rk: 23937, frq: 384}
+complementary <> J: {rk: 8647, frq: 2247}
+complete <> V: {rk: 1209, frq: 35373}, J: {rk: 1444, frq: 27790}
+completed <> J: {rk: 10693, frq: 1493}
+completely <> R: {rk: 1170, frq: 35605}
+completeness <> N: {rk: 20322, frq: 862}
+completer <> N: {rk: 38915, frq: 103}
+completion <> N: {rk: 5070, frq: 5567}
+complex <> J: {rk: 1603, frq: 25615}, N: {rk: 3183, frq: 10311}
+complexion <> N: {rk: 10628, frq: 1590}
+complexity <> N: {rk: 3786, frq: 8461}
+complexly <> R: {rk: 37408, frq: 78}
+compliance <> N: {rk: 4589, frq: 6352}
+compliant <> J: {rk: 15705, frq: 731}
+complicate <> V: {rk: 6062, frq: 3914}
+complicated <> J: {rk: 2767, frq: 12316}
+complicating <> J: {rk: 21148, frq: 379}
+complication <> N: {rk: 5046, frq: 5465}
+complicitous <> J: {rk: 45199, frq: 42}
+complicity <> N: {rk: 13988, frq: 905}
+compliment <> N: {rk: 7701, frq: 2657}, V: {rk: 13128, frq: 1037}
+complimentary <> J: {rk: 13535, frq: 948}
+comply <> V: {rk: 4681, frq: 5803}
+component <> N: {rk: 1770, frq: 23762}, J: {rk: 32271, frq: 135}
+comport <> V: {rk: 24953, frq: 248}
+comportment <> N: {rk: 33161, frq: 122}
+compose <> V: {rk: 3402, frq: 9474}
+composed <> J: {rk: 28504, frq: 180}
+composer <> N: {rk: 5050, frq: 5297}
+composing <> N: {rk: 30977, frq: 150}
+composite <> J: {rk: 6838, frq: 3286}, N: {rk: 11546, frq: 1371}
+composition <> N: {rk: 3019, frq: 11616}
+compositional <> J: {rk: 14666, frq: 837}
+compost <> N: {rk: 6238, frq: 4448}, V: {rk: 13553, frq: 1205}
+compostable <> J: {rk: 35023, frq: 140}
+composted <> J: {rk: 33379, frq: 125}
+composter <> N: {rk: 31208, frq: 207}
+composting <> J: {rk: 11920, frq: 1602}, N: {rk: 14445, frq: 1108}
+composure <> N: {rk: 13154, frq: 1036}
+compote <> N: {rk: 26603, frq: 273}
+compound <> N: {rk: 3451, frq: 9171}, V: {rk: 6574, frq: 3365}
+compounded <> J: {rk: 35364, frq: 97}
+compounding <> N: {rk: 48318, frq: 36}, J: {rk: 52267, frq: 26}
+comprehend <> V: {rk: 7003, frq: 3037}
+comprehensibility <> N: {rk: 54880, frq: 65}
+comprehensible <> J: {rk: 20294, frq: 504}
+comprehension <> N: {rk: 7964, frq: 2729}
+comprehensive <> J: {rk: 2913, frq: 12604}, N: {rk: 42925, frq: 58}
+comprehensively <> R: {rk: 22424, frq: 354}
+comprehensiveness <> N: {rk: 28669, frq: 193}
+compress <> V: {rk: 9721, frq: 1737}, N: {rk: 29700, frq: 167}
+compressed <> J: {rk: 13117, frq: 1092}
+compressibility <> N: {rk: 40238, frq: 78}
+compressible <> J: {rk: 37613, frq: 85}
+compression <> N: {rk: 8519, frq: 2554}
+compressive <> J: {rk: 31342, frq: 167}
+compressor <> N: {rk: 15329, frq: 821}
+comprise <> V: {rk: 4431, frq: 6731}
+compromise <> N: {rk: 3780, frq: 8239}, V: {rk: 4696, frq: 5824}
+compromised <> J: {rk: 19237, frq: 481}
+compromiser <> N: {rk: 45754, frq: 43}
+compromising <> J: {rk: 33741, frq: 109}, N: {rk: 52378, frq: 30}
+comptroller <> N: {rk: 20540, frq: 711}
+compulsion <> N: {rk: 12417, frq: 1110}
+compulsive <> J: {rk: 12299, frq: 1136}
+compulsively <> R: {rk: 22838, frq: 305}
+compulsiveness <> N: {rk: 51590, frq: 28}
+compulsory <> J: {rk: 13130, frq: 1089}
+compunction <> N: {rk: 29938, frq: 157}
+computation <> N: {rk: 13369, frq: 1101}
+computational <> J: {rk: 13643, frq: 1087}
+computationally <> R: {rk: 37582, frq: 93}
+compute <> V: {rk: 7962, frq: 2682}
+computed <> J: {rk: 21793, frq: 420}
+computer <> N: {rk: 589, frq: 71358}
+computer-literate <> J: {rk: 41638, frq: 56}
+computerization <> N: {rk: 31764, frq: 138}
+computerize <> V: {rk: 34720, frq: 97}
+computerized <> J: {rk: 8183, frq: 2294}
+computing <> N: {rk: 7984, frq: 2581}
+comrade <> N: {rk: 7547, frq: 2714}
+comradely <> R: {rk: 41970, frq: 57}
+comradeship <> N: {rk: 32522, frq: 125}
+con <> N: {rk: 5684, frq: 4892}, V: {rk: 8629, frq: 2225}
+concatenation <> N: {rk: 36143, frq: 98}
+concave <> J: {rk: 21384, frq: 368}
+concavity <> N: {rk: 40294, frq: 66}
+conceal <> V: {rk: 5202, frq: 4953}
+concealed <> J: {rk: 12691, frq: 1120}
+concealer <> N: {rk: 25305, frq: 357}
+concealing <> J: {rk: 49919, frq: 32}
+concealment <> N: {rk: 19611, frq: 458}
+concede <> V: {rk: 4225, frq: 6669}
+conceit <> N: {rk: 18637, frq: 523}
+conceited <> J: {rk: 32114, frq: 129}
+conceivable <> J: {rk: 10666, frq: 1435}
+conceivably <> R: {rk: 12328, frq: 1109}
+conceive <> V: {rk: 4202, frq: 6914}
+conceiving <> N: {rk: 46344, frq: 48}
+concentrate <> V: {rk: 2373, frq: 14977}, N: {rk: 23081, frq: 309}
+concentrated <> J: {rk: 10333, frq: 1558}
+concentration <> N: {rk: 2769, frq: 13029}
+concentrator <> N: {rk: 42325, frq: 58}
+concentric <> J: {rk: 17190, frq: 608}
+concept <> N: {rk: 1159, frq: 36019}
+conception <> N: {rk: 4680, frq: 6331}
+conceptual <> J: {rk: 5585, frq: 5100}
+conceptualism <> N: {rk: 44858, frq: 57}
+conceptualist <> N: {rk: 46165, frq: 49}
+conceptualization <> N: {rk: 13096, frq: 1174}
+conceptualize <> V: {rk: 11285, frq: 1520}
+conceptualized <> J: {rk: 56123, frq: 21}
+conceptually <> R: {rk: 15384, frq: 814}
+concern <> N: {rk: 717, frq: 59719}, V: {rk: 3432, frq: 9429}
+concerned <> J: {rk: 1129, frq: 36792}
+concerning <> I: {rk: 3418, frq: 9934}
+concert <> N: {rk: 2531, frq: 14683}
+concerted <> J: {rk: 11578, frq: 1296}
+concertina <> N: {rk: 30786, frq: 164}
+concertmaster <> N: {rk: 41564, frq: 62}
+concerto <> N: {rk: 20051, frq: 879}
+concession <> N: {rk: 5052, frq: 5280}
+concessionaire <> N: {rk: 28054, frq: 206}
+concessionary <> J: {rk: 49096, frq: 38}
+concessioner <> N: {rk: 47147, frq: 72}
+conch <> N: {rk: 21656, frq: 470}
+concha <> N: {rk: 46528, frq: 122}
+concierge <> N: {rk: 16268, frq: 778}
+conciliate <> V: {rk: 46486, frq: 42}
+conciliation <> N: {rk: 23767, frq: 290}
+conciliator <> N: {rk: 42821, frq: 54}
+conciliatory <> J: {rk: 16124, frq: 668}
+concise <> J: {rk: 16611, frq: 670}
+concisely <> R: {rk: 31289, frq: 140}
+concision <> N: {rk: 49027, frq: 36}
+conclave <> N: {rk: 28227, frq: 239}
+conclude <> V: {rk: 1676, frq: 23778}
+concluding <> J: {rk: 15613, frq: 768}
+conclusion <> N: {rk: 1672, frq: 24805}
+conclusive <> J: {rk: 12877, frq: 1029}
+conclusively <> R: {rk: 18389, frq: 508}
+conclusory <> J: {rk: 58000, frq: 25}
+concoct <> V: {rk: 12772, frq: 1045}
+concocted <> J: {rk: 57116, frq: 21}
+concoction <> N: {rk: 14960, frq: 813}
+concomitant <> J: {rk: 15371, frq: 812}, N: {rk: 51231, frq: 31}
+concomitantly <> R: {rk: 31442, frq: 144}
+concordance <> N: {rk: 24678, frq: 384}
+concordant <> J: {rk: 39043, frq: 91}
+concordat <> N: {rk: 42893, frq: 73}
+concourse <> N: {rk: 20138, frq: 670}
+concrete <> J: {rk: 3331, frq: 9571}, N: {rk: 5611, frq: 4332}
+concretely <> R: {rk: 23690, frq: 300}
+concreteness <> N: {rk: 34106, frq: 117}
+concretization <> N: {rk: 52235, frq: 36}
+concretize <> V: {rk: 36355, frq: 93}
+concubinage <> N: {rk: 52626, frq: 32}
+concubine <> N: {rk: 24823, frq: 310}
+concupiscence <> N: {rk: 47091, frq: 42}
+concur <> V: {rk: 9365, frq: 1889}
+concurrence <> N: {rk: 23491, frq: 322}
+concurrent <> J: {rk: 12591, frq: 1299}
+concurrently <> R: {rk: 16427, frq: 694}
+concurring <> J: {rk: 33648, frq: 116}
+concuss <> V: {rk: 56670, frq: 24}
+concussion <> N: {rk: 12510, frq: 1399}
+concussive <> J: {rk: 43476, frq: 55}
+condemn <> V: {rk: 4171, frq: 6935}
+condemnable <> J: {rk: 58061, frq: 20}
+condemnation <> N: {rk: 10076, frq: 1672}
+condemnatory <> J: {rk: 51092, frq: 30}
+condemned <> J: {rk: 15597, frq: 716}
+condensate <> N: {rk: 27097, frq: 431}
+condensation <> N: {rk: 15901, frq: 739}
+condense <> V: {rk: 14144, frq: 866}
+condensed <> J: {rk: 15857, frq: 741}
+condenser <> N: {rk: 29986, frq: 175}
+condensing <> J: {rk: 56135, frq: 21}
+condescend <> V: {rk: 31547, frq: 137}
+condescending <> J: {rk: 15948, frq: 690}
+condescendingly <> R: {rk: 34353, frq: 101}
+condescension <> N: {rk: 20515, frq: 395}
+condiment <> N: {rk: 17742, frq: 617}
+condition <> N: {rk: 629, frq: 68912}, V: {rk: 11190, frq: 1351}
+conditional <> J: {rk: 14437, frq: 935}, N: {rk: 30542, frq: 177}
+conditionality <> N: {rk: 31946, frq: 166}
+conditionally <> R: {rk: 36177, frq: 101}
+conditioned <> J: {rk: 21773, frq: 348}
+conditioner <> N: {rk: 8935, frq: 2101}
+conditioning <> N: {rk: 6394, frq: 3454}
+condo <> N: {rk: 7408, frq: 3064}
+condolence <> N: {rk: 14015, frq: 920}
+condom <> N: {rk: 5267, frq: 5251}
+condominium <> N: {rk: 10126, frq: 1658}
+condone <> V: {rk: 11491, frq: 1279}
+condor <> N: {rk: 17677, frq: 721}
+conduce <> V: {rk: 46113, frq: 46}
+conducive <> J: {rk: 11284, frq: 1391}
+conduct <> V: {rk: 1163, frq: 37861}, N: {rk: 3718, frq: 8454}
+conductance <> N: {rk: 37711, frq: 95}
+conducting <> N: {rk: 24650, frq: 268}
+conduction <> N: {rk: 24506, frq: 316}
+conductive <> J: {rk: 23985, frq: 320}
+conductivity <> N: {rk: 24325, frq: 330}
+conductor <> N: {rk: 5989, frq: 4016}
+conduit <> N: {rk: 12392, frq: 1166}
+condyle <> N: {rk: 44110, frq: 55}
+cone <> N: {rk: 5953, frq: 4104}
+coneflower <> N: {rk: 36585, frq: 103}
+confab <> N: {rk: 43038, frq: 54}
+confabulation <> N: {rk: 50962, frq: 38}
+confection <> N: {rk: 20268, frq: 442}
+confectionary <> J: {rk: 52820, frq: 29}
+confectioner <> N: {rk: 17031, frq: 734}
+confectionery <> N: {rk: 37648, frq: 90}
+confederal <> J: {rk: 52725, frq: 27}
+confederated <> J: {rk: 48535, frq: 35}
+confederation <> N: {rk: 19219, frq: 762}
+confer <> V: {rk: 7258, frq: 2855}
+conferee <> N: {rk: 26772, frq: 214}
+conference <> N: {rk: 966, frq: 44472}
+conferencing <> N: {rk: 22215, frq: 362}
+conferral <> N: {rk: 55898, frq: 23}
+confess <> V: {rk: 3981, frq: 7320}
+confession <> N: {rk: 4864, frq: 5487}
+confessional <> N: {rk: 14202, frq: 870}, J: {rk: 39647, frq: 67}
+confessor <> N: {rk: 22132, frq: 399}
+confetti <> N: {rk: 20475, frq: 433}
+confidant <> N: {rk: 15842, frq: 700}
+confidante <> N: {rk: 21452, frq: 361}
+confide <> V: {rk: 8071, frq: 2384}
+confidence <> N: {rk: 1880, frq: 20855}
+confident <> J: {rk: 2883, frq: 11909}
+confidential <> J: {rk: 7118, frq: 2922}
+confidentiality <> N: {rk: 9222, frq: 2094}
+confidentially <> R: {rk: 26342, frq: 220}
+confidently <> R: {rk: 11244, frq: 1314}
+configural <> J: {rk: 59506, frq: 25}
+configuration <> N: {rk: 6235, frq: 3834}
+configure <> V: {rk: 13646, frq: 1005}
+confine <> V: {rk: 5397, frq: 4659}
+confined <> J: {rk: 21223, frq: 381}
+confinement <> N: {rk: 10963, frq: 1416}
+confining <> J: {rk: 21367, frq: 366}
+confirm <> V: {rk: 1861, frq: 20903}
+confirmation <> N: {rk: 5420, frq: 4929}
+confirmatory <> J: {rk: 21699, frq: 422}
+confirmed <> J: {rk: 16749, frq: 658}
+confiscate <> V: {rk: 10810, frq: 1414}
+confiscated <> J: {rk: 26076, frq: 227}
+confiscation <> N: {rk: 23096, frq: 312}
+confiscatory <> J: {rk: 45592, frq: 46}
+confit <> N: {rk: 35111, frq: 125}
+conflagration <> N: {rk: 20606, frq: 418}
+conflate <> V: {rk: 20380, frq: 449}
+conflation <> N: {rk: 27380, frq: 210}
+conflict <> N: {rk: 1180, frq: 37058}, V: {rk: 9899, frq: 1712}
+conflicted <> J: {rk: 22259, frq: 351}
+conflicting <> J: {rk: 6591, frq: 3399}
+conflictive <> J: {rk: 40278, frq: 71}
+conflictual <> J: {rk: 30778, frq: 155}
+confluence <> N: {rk: 13968, frq: 912}
+confluent <> J: {rk: 55896, frq: 24}
+confocal <> J: {rk: 52578, frq: 34}
+conform <> V: {rk: 7063, frq: 3041}
+conformal <> J: {rk: 52386, frq: 38}
+conformance <> N: {rk: 36348, frq: 90}
+conformation <> N: {rk: 35409, frq: 100}
+conformism <> N: {rk: 48992, frq: 36}
+conformist <> N: {rk: 28745, frq: 173}
+conformity <> N: {rk: 11777, frq: 1298}
+confound <> V: {rk: 10794, frq: 1501}
+confounded <> J: {rk: 35489, frq: 92}
+confounding <> J: {rk: 26055, frq: 256}, N: {rk: 42358, frq: 67}
+confraternity <> N: {rk: 38401, frq: 83}
+confrere <> N: {rk: 42355, frq: 57}
+confront <> V: {rk: 2431, frq: 14841}
+confrontation <> N: {rk: 4499, frq: 6202}
+confrontational <> J: {rk: 13941, frq: 913}
+confuse <> V: {rk: 3542, frq: 8609}
+confused <> J: {rk: 5714, frq: 4340}
+confusedly <> R: {rk: 45309, frq: 42}
+confusing <> J: {rk: 6315, frq: 3539}
+confusingly <> R: {rk: 36918, frq: 78}
+confusion <> N: {rk: 3357, frq: 9406}
+conga <> N: {rk: 28995, frq: 179}
+congeal <> V: {rk: 23814, frq: 287}
+congealed <> J: {rk: 37277, frq: 84}
+congee <> N: {rk: 50975, frq: 38}
+congener <> N: {rk: 49563, frq: 49}
+congenial <> J: {rk: 16902, frq: 604}
+congeniality <> N: {rk: 38930, frq: 131}
+congenital <> J: {rk: 16310, frq: 735}
+congenitally <> R: {rk: 35243, frq: 141}
+congeries <> N: {rk: 44082, frq: 48}
+congested <> J: {rk: 15142, frq: 752}
+congestion <> N: {rk: 9139, frq: 1981}
+congestive <> J: {rk: 20810, frq: 399}
+conglomerate <> N: {rk: 10502, frq: 1502}
+conglomeration <> N: {rk: 28667, frq: 179}
+congratulate <> V: {rk: 8516, frq: 2117}
+congratulations <> N: {rk: 10222, frq: 1716}
+congratulatory <> J: {rk: 26410, frq: 214}
+congregant <> N: {rk: 21887, frq: 372}
+congregate <> V: {rk: 12914, frq: 1032}
+congregation <> N: {rk: 5040, frq: 6173}
+congregational <> J: {rk: 18088, frq: 638}
+congress <> N: {rk: 638, frq: 68159}
+congressional <> J: {rk: 2323, frq: 16468}
+congressman <> N: {rk: 5450, frq: 6409}
+congressperson <> N: {rk: 38229, frq: 90}
+congresswoman <> N: {rk: 24252, frq: 517}
+congruence <> N: {rk: 19728, frq: 514}
+congruent <> J: {rk: 17419, frq: 659}
+congruity <> N: {rk: 45710, frq: 47}
+congruous <> J: {rk: 55631, frq: 23}
+conic <> J: {rk: 52081, frq: 51}
+conical <> J: {rk: 20597, frq: 412}
+conifer <> N: {rk: 17062, frq: 658}
+coniferous <> J: {rk: 37223, frq: 89}
+conjectural <> J: {rk: 38748, frq: 73}
+conjecture <> N: {rk: 15073, frq: 766}, V: {rk: 24424, frq: 269}
+conjoin <> V: {rk: 23695, frq: 289}
+conjoined <> J: {rk: 28830, frq: 209}
+conjoining <> N: {rk: 58592, frq: 23}
+conjointly <> R: {rk: 57095, frq: 23}
+conjugal <> J: {rk: 22948, frq: 328}
+conjugate <> V: {rk: 39768, frq: 73}, N: {rk: 47039, frq: 61}
+conjugated <> J: {rk: 44460, frq: 52}
+conjugation <> N: {rk: 34461, frq: 120}
+conjunction <> I: {rk: 7689, frq: 2660}, N: {rk: 14686, frq: 839}
+conjunctiva <> N: {rk: 53992, frq: 30}
+conjunctival <> J: {rk: 58619, frq: 19}
+conjunctive <> J: {rk: 49360, frq: 36}
+conjunctivitis <> N: {rk: 41067, frq: 67}
+conjunctural <> J: {rk: 56337, frq: 25}
+conjuncture <> N: {rk: 37322, frq: 87}
+conjuration <> N: {rk: 55884, frq: 29}
+conjure <> V: {rk: 7864, frq: 2497}
+conjurer <> N: {rk: 43506, frq: 56}
+conjuring <> N: {rk: 43039, frq: 50}
+conk <> V: {rk: 31861, frq: 141}
+connect <> V: {rk: 1641, frq: 24341}
+connected <> J: {rk: 10143, frq: 1820}
+connectedness <> N: {rk: 18753, frq: 552}
+connecting <> J: {rk: 12162, frq: 1175}
+connection <> N: {rk: 1425, frq: 29027}
+connective <> J: {rk: 20536, frq: 434}, N: {rk: 49344, frq: 37}
+connectivity <> N: {rk: 19118, frq: 600}
+connector <> N: {rk: 12852, frq: 1144}
+connexion <> N: {rk: 49343, frq: 55}
+conning <> J: {rk: 47765, frq: 48}
+conniption <> N: {rk: 46117, frq: 43}
+connivance <> N: {rk: 38315, frq: 77}
+connive <> V: {rk: 27738, frq: 188}
+conniving <> J: {rk: 37561, frq: 85}
+connoisseur <> N: {rk: 15115, frq: 771}
+connoisseurship <> N: {rk: 29899, frq: 177}
+connotation <> N: {rk: 11649, frq: 1310}
+connotative <> J: {rk: 42759, frq: 82}
+connote <> V: {rk: 18478, frq: 532}
+connubial <> J: {rk: 51446, frq: 31}
+conquer <> V: {rk: 6834, frq: 3120}
+conquered <> J: {rk: 22180, frq: 352}
+conquering <> J: {rk: 20285, frq: 406}
+conqueror <> N: {rk: 16713, frq: 623}
+conquest <> N: {rk: 7786, frq: 2686}
+conquistador <> N: {rk: 22393, frq: 375}
+consanguinity <> N: {rk: 47437, frq: 55}
+conscience <> N: {rk: 4685, frq: 5779}
+conscienceless <> J: {rk: 54321, frq: 23}
+conscientious <> J: {rk: 11914, frq: 1207}
+conscientiously <> R: {rk: 26865, frq: 207}
+conscientiousness <> N: {rk: 35494, frq: 136}
+conscious <> J: {rk: 3875, frq: 7615}
+consciously <> R: {rk: 8255, frq: 2314}
+consciousness <> N: {rk: 3245, frq: 10404}
+consciousness-raising <> J: {rk: 35248, frq: 95}
+conscript <> N: {rk: 20137, frq: 511}, V: {rk: 30842, frq: 147}
+conscripted <> J: {rk: 51921, frq: 29}
+conscription <> N: {rk: 20720, frq: 481}
+consecrate <> V: {rk: 21966, frq: 339}
+consecrated <> J: {rk: 26809, frq: 227}
+consecration <> N: {rk: 28041, frq: 212}
+consecutive <> J: {rk: 4892, frq: 5982}
+consecutively <> R: {rk: 30808, frq: 145}
+consensual <> J: {rk: 13520, frq: 986}
+consensually <> R: {rk: 43754, frq: 50}
+consensus <> N: {rk: 3339, frq: 10236}
+consent <> N: {rk: 4430, frq: 6722}, V: {rk: 11702, frq: 1263}
+consenting <> J: {rk: 26177, frq: 227}
+consequence <> N: {rk: 1631, frq: 25157}
+consequent <> J: {rk: 15372, frq: 818}
+consequential <> J: {rk: 20621, frq: 427}
+consequently <> R: {rk: 4402, frq: 6862}
+conservation <> N: {rk: 2837, frq: 12336}
+conservationist <> N: {rk: 12279, frq: 1192}
+conservatism <> N: {rk: 9425, frq: 1901}
+conservatively <> R: {rk: 18642, frq: 494}
+conservativism <> N: {rk: 44515, frq: 68}
+conservator <> N: {rk: 20460, frq: 511}
+conservatory <> N: {rk: 19584, frq: 897}
+conserve <> V: {rk: 8082, frq: 2456}
+conserved <> J: {rk: 42990, frq: 62}
+conserver <> N: {rk: 55629, frq: 22}
+consider <> V: {rk: 394, frq: 110724}
+considerable <> J: {rk: 2872, frq: 12229}
+considerably <> R: {rk: 4689, frq: 5788}
+considerate <> J: {rk: 17896, frq: 543}
+considerately <> R: {rk: 47867, frq: 37}
+consideration <> N: {rk: 2503, frq: 15187}
+considered <> J: {rk: 25460, frq: 244}
+considering <> C: {rk: 5015, frq: 5246}, I: {rk: 6370, frq: 3573}, R: {rk: 35417, frq: 98}
+consigliere <> N: {rk: 46206, frq: 44}
+consign <> V: {rk: 16146, frq: 665}
+consignment <> N: {rk: 23747, frq: 329}
+consignor <> N: {rk: 58425, frq: 27}
+consist <> V: {rk: 2204, frq: 17762}
+consistency <> N: {rk: 5024, frq: 5750}
+consistent <> J: {rk: 2239, frq: 17581}
+consistently <> R: {rk: 3622, frq: 8724}
+consociational <> J: {rk: 42459, frq: 94}
+consolation <> N: {rk: 10512, frq: 1531}
+console <> V: {rk: 9354, frq: 1904}, N: {rk: 9526, frq: 1947}
+consoler <> N: {rk: 57846, frq: 20}
+consolidate <> V: {rk: 7271, frq: 2825}
+consolidated <> J: {rk: 13792, frq: 930}
+consolidation <> N: {rk: 8661, frq: 2176}
+consolidator <> N: {rk: 41041, frq: 72}
+consoling <> J: {rk: 25615, frq: 243}
+consolingly <> R: {rk: 50594, frq: 30}
+consomme <> N: {rk: 38750, frq: 79}
+consonance <> N: {rk: 35075, frq: 138}
+consonant <> N: {rk: 18223, frq: 539}, J: {rk: 25118, frq: 272}
+consort <> N: {rk: 21195, frq: 389}, V: {rk: 26784, frq: 217}
+consortium <> N: {rk: 8228, frq: 2363}
+conspecific <> J: {rk: 58271, frq: 27}
+conspicuous <> J: {rk: 9587, frq: 1756}
+conspicuously <> R: {rk: 14812, frq: 792}
+conspiracy <> N: {rk: 4263, frq: 6713}
+conspirator <> N: {rk: 16205, frq: 688}
+conspiratorial <> J: {rk: 20272, frq: 420}
+conspire <> V: {rk: 9921, frq: 1631}
+constable <> N: {rk: 20165, frq: 841}
+constabulary <> N: {rk: 36082, frq: 126}, J: {rk: 38403, frq: 89}
+constancy <> N: {rk: 22799, frq: 316}
+constant <> J: {rk: 2402, frq: 15249}, N: {rk: 11893, frq: 1317}
+constantly <> R: {rk: 2514, frq: 14135}
+constellation <> N: {rk: 7310, frq: 2921}
+consternation <> N: {rk: 16677, frq: 633}
+constipate <> V: {rk: 37508, frq: 84}
+constipated <> J: {rk: 43840, frq: 50}
+constipation <> N: {rk: 20930, frq: 404}
+constituency <> N: {rk: 6418, frq: 3567}
+constituent <> N: {rk: 5818, frq: 4293}, J: {rk: 37308, frq: 82}
+constitute <> V: {rk: 2904, frq: 12632}
+constituted <> J: {rk: 21686, frq: 369}
+constitutional <> J: {rk: 2705, frq: 13383}, N: {rk: 38848, frq: 87}
+constitutionalism <> N: {rk: 26537, frq: 250}
+constitutionalist <> N: {rk: 38259, frq: 96}
+constitutionality <> N: {rk: 17695, frq: 605}
+constitutionally <> R: {rk: 13736, frq: 954}
+constitutive <> J: {rk: 18490, frq: 597}
+constrain <> V: {rk: 7877, frq: 2740}
+constrained <> J: {rk: 28109, frq: 231}
+constraining <> J: {rk: 40086, frq: 68}
+constraint <> N: {rk: 4687, frq: 6467}
+constrict <> V: {rk: 16606, frq: 648}
+constricted <> J: {rk: 26930, frq: 207}
+constricting <> J: {rk: 32783, frq: 121}
+constriction <> N: {rk: 24814, frq: 259}
+constrictive <> J: {rk: 48238, frq: 35}
+constrictor <> N: {rk: 31610, frq: 141}
+construct <> V: {rk: 2493, frq: 15384}, N: {rk: 6339, frq: 4194}
+constructed <> J: {rk: 21143, frq: 422}
+construction <> N: {rk: 1419, frq: 29406}
+constructionist <> N: {rk: 30409, frq: 160}
+constructive <> J: {rk: 7568, frq: 2785}
+constructively <> R: {rk: 22593, frq: 335}
+constructivism <> N: {rk: 22780, frq: 465}
+constructivist <> N: {rk: 17939, frq: 751}, J: {rk: 40222, frq: 84}
+constructor <> N: {rk: 33299, frq: 120}
+construe <> V: {rk: 11282, frq: 1402}
+consubstantial <> J: {rk: 55258, frq: 25}
+consul <> N: {rk: 20303, frq: 566}
+consular <> J: {rk: 23449, frq: 303}
+consulate <> N: {rk: 16230, frq: 808}
+consult <> V: {rk: 3617, frq: 8391}
+consultancy <> N: {rk: 24600, frq: 293}
+consultant <> N: {rk: 2496, frq: 14863}
+consultation <> N: {rk: 5781, frq: 4876}
+consultative <> J: {rk: 19945, frq: 465}
+consulting <> J: {rk: 6587, frq: 3413}, N: {rk: 10061, frq: 1728}
+consumable <> J: {rk: 39186, frq: 72}
+consume <> V: {rk: 3025, frq: 11198}
+consumed <> J: {rk: 54204, frq: 24}
+consumer <> N: {rk: 1053, frq: 41057}
+consumerism <> N: {rk: 15834, frq: 748}
+consuming <> J: {rk: 24061, frq: 266}
+consummate <> J: {rk: 15084, frq: 752}, V: {rk: 19956, frq: 411}
+consummately <> R: {rk: 46595, frq: 42}
+consummation <> N: {rk: 26060, frq: 232}
+consummatory <> J: {rk: 59782, frq: 20}
+consumption <> N: {rk: 3165, frq: 11022}
+consumptive <> J: {rk: 30632, frq: 157}
+contact <> N: {rk: 1485, frq: 27424}, V: {rk: 2264, frq: 15858}
+contagion <> N: {rk: 19642, frq: 476}
+contagious <> J: {rk: 11835, frq: 1229}
+contain <> V: {rk: 932, frq: 44700}
+contained <> J: {rk: 22556, frq: 325}
+container <> N: {rk: 3383, frq: 9792}
+containerized <> J: {rk: 42557, frq: 55}
+containing <> J: {rk: 53125, frq: 25}
+containment <> N: {rk: 9781, frq: 2036}
+contaminant <> N: {rk: 10083, frq: 1752}
+contaminate <> V: {rk: 7524, frq: 2655}
+contaminated <> J: {rk: 10328, frq: 1576}
+contaminating <> J: {rk: 48207, frq: 35}
+contamination <> N: {rk: 6619, frq: 3493}
+contemplate <> V: {rk: 4847, frq: 5393}
+contemplated <> J: {rk: 47529, frq: 35}
+contemplation <> N: {rk: 11526, frq: 1335}
+contemplative <> J: {rk: 15428, frq: 776}
+contemplatively <> R: {rk: 43833, frq: 51}
+contemporaneity <> N: {rk: 49000, frq: 34}
+contemporaneous <> J: {rk: 23993, frq: 296}
+contemporaneously <> R: {rk: 43011, frq: 53}
+contemporary <> J: {rk: 1957, frq: 20860}, N: {rk: 9021, frq: 2005}
+contempt <> N: {rk: 6361, frq: 3447}
+contemptible <> J: {rk: 27061, frq: 205}
+contemptuous <> J: {rk: 17496, frq: 565}
+contemptuously <> R: {rk: 25950, frq: 234}
+contend <> V: {rk: 3578, frq: 8751}
+contender <> N: {rk: 6780, frq: 3330}
+contending <> J: {rk: 16939, frq: 603}
+content <> N: {rk: 1741, frq: 24151}, J: {rk: 4023, frq: 7767}, V: {rk: 14606, frq: 823}
+contented <> J: {rk: 19987, frq: 430}
+contentedly <> R: {rk: 20793, frq: 396}
+contention <> N: {rk: 6641, frq: 3329}
+contentious <> J: {rk: 9116, frq: 2019}
+contentiousness <> N: {rk: 39016, frq: 70}
+contentless <> J: {rk: 57233, frq: 20}
+contentment <> N: {rk: 15709, frq: 744}
+conterminous <> J: {rk: 56731, frq: 24}
+contessa <> N: {rk: 40423, frq: 76}
+contest <> N: {rk: 3081, frq: 10886}, V: {rk: 8667, frq: 2126}
+contestable <> J: {rk: 45433, frq: 47}
+contestant <> N: {rk: 8915, frq: 2117}
+contestation <> N: {rk: 24667, frq: 301}
+contested <> J: {rk: 12717, frq: 1122}
+contesting <> J: {rk: 36161, frq: 90}
+context <> N: {rk: 1431, frq: 31582}
+contextual <> J: {rk: 11588, frq: 1516}
+contextualization <> N: {rk: 34656, frq: 113}
+contextualized <> J: {rk: 42599, frq: 58}
+contextually <> R: {rk: 31811, frq: 161}
+contiguity <> N: {rk: 36102, frq: 107}
+contiguous <> J: {rk: 16328, frq: 671}
+continence <> N: {rk: 36988, frq: 101}
+continent <> N: {rk: 4054, frq: 7279}
+continental <> J: {rk: 9132, frq: 3767}
+contingency <> N: {rk: 8173, frq: 2416}
+contingent <> N: {rk: 9466, frq: 1801}, J: {rk: 12058, frq: 1264}
+continual <> J: {rk: 10283, frq: 1611}
+continually <> R: {rk: 5573, frq: 4437}
+continuance <> N: {rk: 22930, frq: 349}
+continuation <> N: {rk: 9013, frq: 1998}
+continue <> V: {rk: 293, frq: 136870}
+continued <> J: {rk: 3289, frq: 9928}
+continuing <> J: {rk: 3674, frq: 8396}
+continuity <> N: {rk: 6521, frq: 3642}
+continuo <> N: {rk: 46918, frq: 40}
+continuous <> J: {rk: 3445, frq: 9510}
+continuously <> R: {rk: 7045, frq: 3026}
+continuum <> N: {rk: 8698, frq: 2280}
+contort <> V: {rk: 18247, frq: 556}
+contorted <> J: {rk: 27246, frq: 200}
+contortion <> N: {rk: 26415, frq: 214}
+contortionist <> N: {rk: 41286, frq: 59}
+contour <> N: {rk: 8059, frq: 2431}, V: {rk: 42700, frq: 56}
+contoured <> J: {rk: 24185, frq: 297}
+contraband <> N: {rk: 21117, frq: 374}, J: {rk: 26214, frq: 222}
+contraception <> N: {rk: 12702, frq: 1155}
+contraceptive <> N: {rk: 13405, frq: 1022}, J: {rk: 17459, frq: 607}
+contract <> N: {rk: 1273, frq: 33302}, V: {rk: 5039, frq: 5218}
+contracted <> J: {rk: 24894, frq: 317}
+contractile <> J: {rk: 49171, frq: 39}
+contractility <> N: {rk: 58676, frq: 24}
+contracting <> J: {rk: 12278, frq: 1178}
+contraction <> N: {rk: 8854, frq: 2237}
+contractionary <> J: {rk: 59026, frq: 20}
+contractor <> N: {rk: 3774, frq: 8229}
+contractual <> J: {rk: 14867, frq: 840}
+contractually <> R: {rk: 32997, frq: 116}
+contracture <> N: {rk: 43811, frq: 56}
+contradict <> V: {rk: 6964, frq: 3041}
+contradiction <> N: {rk: 5511, frq: 4658}
+contradictory <> J: {rk: 7557, frq: 2751}
+contradistinction <> N: {rk: 38006, frq: 81}
+contrail <> N: {rk: 31798, frq: 138}
+contraindicate <> V: {rk: 37829, frq: 89}
+contraindication <> N: {rk: 35136, frq: 107}
+contralateral <> J: {rk: 34477, frq: 118}
+contralto <> N: {rk: 34925, frq: 97}
+contraption <> N: {rk: 15083, frq: 800}
+contrapuntal <> J: {rk: 38180, frq: 80}
+contrarian <> J: {rk: 28347, frq: 191}, N: {rk: 33701, frq: 126}
+contrarily <> R: {rk: 56614, frq: 20}
+contrariness <> N: {rk: 54020, frq: 26}
+contrariwise <> R: {rk: 57144, frq: 19}
+contrary <> N: {rk: 5558, frq: 4467}, I: {rk: 5690, frq: 4366}, J: {rk: 14896, frq: 779}
+contrast <> N: {rk: 1772, frq: 23128}, V: {rk: 6059, frq: 3964}
+contrasted <> J: {rk: 59508, frq: 26}
+contrasting <> J: {rk: 11853, frq: 1263}
+contrastive <> J: {rk: 46074, frq: 47}
+contrasty <> J: {rk: 50690, frq: 33}
+contravene <> V: {rk: 26650, frq: 221}
+contravention <> N: {rk: 34128, frq: 116}
+contretemps <> N: {rk: 37713, frq: 76}
+contribute <> V: {rk: 1316, frq: 32650}
+contributing <> J: {rk: 10956, frq: 1442}
+contribution <> N: {rk: 1786, frq: 22337}
+contributor <> N: {rk: 4904, frq: 5692}
+contributory <> J: {rk: 31987, frq: 142}
+contrite <> J: {rk: 23173, frq: 305}
+contritely <> R: {rk: 50218, frq: 34}
+contrition <> N: {rk: 22194, frq: 335}
+contrivance <> N: {rk: 25890, frq: 235}
+contrive <> V: {rk: 15927, frq: 682}
+contrived <> J: {rk: 20024, frq: 419}
+control <> N: {rk: 432, frq: 97795}, V: {rk: 936, frq: 44947}
+controllability <> N: {rk: 37349, frq: 172}
+controllable <> J: {rk: 21559, frq: 485}
+controlled <> J: {rk: 7469, frq: 2793}
+controller <> N: {rk: 6181, frq: 3980}
+controlling <> J: {rk: 14142, frq: 855}
+controversial <> J: {rk: 3109, frq: 10777}
+controversially <> R: {rk: 39465, frq: 73}
+controversy <> N: {rk: 2893, frq: 11918}
+controvert <> V: {rk: 50164, frq: 32}
+contusion <> N: {rk: 31455, frq: 135}
+conundrum <> N: {rk: 14912, frq: 823}
+convalesce <> V: {rk: 35844, frq: 91}
+convalescence <> N: {rk: 33751, frq: 111}
+convalescent <> J: {rk: 33735, frq: 109}, N: {rk: 47678, frq: 40}
+convection <> N: {rk: 16767, frq: 649}
+convective <> J: {rk: 31917, frq: 140}
+convene <> V: {rk: 7954, frq: 2456}
+convener <> N: {rk: 43784, frq: 58}
+convenience <> N: {rk: 4940, frq: 5364}
+convenient <> J: {rk: 5428, frq: 4595}
+conveniently <> R: {rk: 11862, frq: 1207}
+convening <> J: {rk: 41979, frq: 64}, N: {rk: 44095, frq: 49}
+convent <> N: {rk: 11548, frq: 1396}
+convention <> N: {rk: 2488, frq: 20463}
+conventional <> J: {rk: 2570, frq: 14105}
+conventionalism <> N: {rk: 56525, frq: 28}
+conventionality <> N: {rk: 36641, frq: 90}
+conventionalized <> J: {rk: 50512, frq: 32}
+conventionally <> R: {rk: 16119, frq: 707}
+conventioneer <> N: {rk: 32096, frq: 123}
+converge <> V: {rk: 8330, frq: 2217}
+convergence <> N: {rk: 10269, frq: 1707}
+convergent <> J: {rk: 20545, frq: 468}
+converging <> J: {rk: 27201, frq: 206}
+conversant <> J: {rk: 27952, frq: 197}
+conversation <> N: {rk: 1165, frq: 36979}
+conversational <> J: {rk: 13978, frq: 935}
+conversationalist <> N: {rk: 31587, frq: 139}
+conversationally <> R: {rk: 37382, frq: 86}
+converse <> V: {rk: 11771, frq: 1246}, N: {rk: 23927, frq: 278}, J: {rk: 30943, frq: 153}
+conversely <> R: {rk: 8212, frq: 2468}
+conversion <> N: {rk: 4708, frq: 6108}
+convert <> V: {rk: 2912, frq: 11759}, N: {rk: 9874, frq: 1702}
+converted <> J: {rk: 14698, frq: 810}
+converter <> N: {rk: 15956, frq: 767}
+convertibility <> N: {rk: 33097, frq: 137}
+convertible <> N: {rk: 10597, frq: 1505}, J: {rk: 15408, frq: 742}
+convex <> J: {rk: 25027, frq: 277}
+convexity <> N: {rk: 54454, frq: 27}
+convey <> V: {rk: 3785, frq: 8069}
+conveyance <> N: {rk: 23445, frq: 333}
+conveyer <> N: {rk: 33772, frq: 108}
+conveyor <> N: {rk: 14426, frq: 869}
+convict <> V: {rk: 3706, frq: 8577}, N: {rk: 12076, frq: 1220}
+convicted <> J: {rk: 7769, frq: 2668}
+conviction <> N: {rk: 3085, frq: 10638}
+convince <> V: {rk: 2050, frq: 18380}
+convinced <> J: {rk: 3742, frq: 7889}
+convincing <> J: {rk: 6217, frq: 3633}
+convincingly <> R: {rk: 14175, frq: 881}
+convivial <> J: {rk: 29120, frq: 176}
+conviviality <> N: {rk: 34649, frq: 106}
+convocation <> N: {rk: 27531, frq: 228}
+convoke <> V: {rk: 49982, frq: 40}
+convolute <> V: {rk: 26313, frq: 224}
+convoluted <> J: {rk: 19234, frq: 447}
+convolution <> N: {rk: 34460, frq: 102}
+convoy <> N: {rk: 8602, frq: 2239}, V: {rk: 54549, frq: 29}
+convulse <> V: {rk: 21094, frq: 407}
+convulsion <> N: {rk: 17725, frq: 539}
+convulsive <> J: {rk: 29801, frq: 154}
+convulsively <> R: {rk: 35079, frq: 103}
+coo <> V: {rk: 19388, frq: 491}
+cooing <> N: {rk: 42197, frq: 61}, J: {rk: 48001, frq: 37}
+cook <> V: {rk: 1423, frq: 31193}
+cookbook <> N: {rk: 8274, frq: 2713}
+cooked <> J: {rk: 7645, frq: 2965}
+cooker <> N: {rk: 14204, frq: 1005}
+cookery <> N: {rk: 26106, frq: 228}
+cookhouse <> N: {rk: 45569, frq: 50}
+cookie <> N: {rk: 3290, frq: 10714}
+cooking <> N: {rk: 3291, frq: 10361}
+cookout <> N: {rk: 26218, frq: 236}
+cookstove <> N: {rk: 32824, frq: 196}
+cooktop <> N: {rk: 30724, frq: 186}
+cookware <> N: {rk: 22050, frq: 400}
+cool <> J: {rk: 1455, frq: 29284}, V: {rk: 3374, frq: 9967}, R: {rk: 12118, frq: 1318}, N: {rk: 13990, frq: 960}
+cool-headed <> J: {rk: 45085, frq: 50}
+coolant <> N: {rk: 22581, frq: 393}
+cooled <> J: {rk: 21720, frq: 389}
+cooler <> N: {rk: 8191, frq: 2360}
+coolie <> N: {rk: 31033, frq: 176}
+cooling <> J: {rk: 14071, frq: 912}, N: {rk: 14374, frq: 921}
+coolly <> R: {rk: 14886, frq: 831}
+coolness <> N: {rk: 16593, frq: 660}
+coon <> N: {rk: 21579, frq: 702}
+coonskin <> N: {rk: 46802, frq: 40}
+cooper <> V: {rk: 34370, frq: 156}
+cooperate <> V: {rk: 4046, frq: 7235}
+cooperating <> J: {rk: 19488, frq: 540}
+cooperation <> N: {rk: 2684, frq: 13664}
+cooperative <> J: {rk: 4285, frq: 6977}, N: {rk: 11770, frq: 1267}
+cooperatively <> R: {rk: 19186, frq: 483}
+cooperativeness <> N: {rk: 53550, frq: 31}
+cooperator <> N: {rk: 34693, frq: 109}
+coordinate <> V: {rk: 4894, frq: 5522}, N: {rk: 9318, frq: 1930}
+coordinated <> J: {rk: 10331, frq: 1620}
+coordinating <> J: {rk: 20630, frq: 413}
+coordination <> N: {rk: 6151, frq: 3965}
+coordinator <> N: {rk: 4248, frq: 7089}
+coot <> N: {rk: 30250, frq: 324}
+cooty <> N: {rk: 41269, frq: 65}
+cop <> N: {rk: 2213, frq: 17384}, V: {rk: 11474, frq: 1342}
+cop-out <> N: {rk: 28288, frq: 185}
+copacetic <> J: {rk: 56893, frq: 26}
+copal <> J: {rk: 46295, frq: 47}
+cope <> V: {rk: 3219, frq: 10797}
+copepod <> N: {rk: 43301, frq: 69}
+copied <> J: {rk: 40809, frq: 68}
+copier <> N: {rk: 19930, frq: 465}
+coping <> N: {rk: 9042, frq: 2403}
+copious <> J: {rk: 18195, frq: 535}
+copiously <> R: {rk: 33404, frq: 107}
+copolymer <> N: {rk: 45677, frq: 69}
+copper <> N: {rk: 5105, frq: 5439}, J: {rk: 24479, frq: 263}
+copperhead <> N: {rk: 35428, frq: 145}
+copperplate <> N: {rk: 40774, frq: 74}
+coppersmith <> N: {rk: 58956, frq: 45}
+coppery <> J: {rk: 27655, frq: 213}
+copra <> N: {rk: 46712, frq: 70}
+coprocessor <> N: {rk: 46328, frq: 58}
+coprolite <> N: {rk: 58983, frq: 36}
+copse <> N: {rk: 31333, frq: 157}
+copter <> N: {rk: 27128, frq: 221}
+copulate <> V: {rk: 27501, frq: 198}
+copulation <> N: {rk: 26479, frq: 228}
+copulatory <> J: {rk: 58300, frq: 25}
+copy <> N: {rk: 1937, frq: 19232}, V: {rk: 4948, frq: 5311}
+copybook <> N: {rk: 47761, frq: 49}
+copycat <> N: {rk: 20381, frq: 448}
+copying <> N: {rk: 24849, frq: 252}
+copyist <> N: {rk: 33523, frq: 118}
+copyright <> N: {rk: 6145, frq: 7400}
+copyrighted <> J: {rk: 27626, frq: 213}
+copywriter <> N: {rk: 31707, frq: 154}
+coquetry <> N: {rk: 55815, frq: 24}
+coquette <> N: {rk: 47547, frq: 45}
+coquettish <> J: {rk: 42227, frq: 63}
+coquettishly <> R: {rk: 49160, frq: 42}
+coquina <> N: {rk: 57710, frq: 27}
+coracle <> N: {rk: 59406, frq: 23}
+coral <> N: {rk: 6119, frq: 4072}
+corbel <> N: {rk: 51436, frq: 38}
+cord <> N: {rk: 4352, frq: 6576}
+cordage <> N: {rk: 53025, frq: 36}
+corded <> J: {rk: 31188, frq: 166}
+cordgrass <> N: {rk: 47111, frq: 43}
+cordial <> J: {rk: 14967, frq: 771}, N: {rk: 58296, frq: 38}
+cordiality <> N: {rk: 39696, frq: 65}
+cordially <> R: {rk: 29289, frq: 171}
+cordillera <> N: {rk: 35442, frq: 98}
+cordite <> N: {rk: 46476, frq: 42}
+cordless <> J: {rk: 16451, frq: 701}
+cordon <> V: {rk: 22014, frq: 344}, N: {rk: 22918, frq: 353}
+cordovan <> J: {rk: 50785, frq: 36}
+corduroy <> N: {rk: 16915, frq: 801}
+cordwood <> N: {rk: 34712, frq: 155}
+coreopsis <> N: {rk: 44915, frq: 50}
+corgi <> N: {rk: 44743, frq: 47}
+coriander <> N: {rk: 20639, frq: 476}
+corinthian <> N: {rk: 25166, frq: 271}, J: {rk: 28732, frq: 202}
+cork <> N: {rk: 13202, frq: 1372}, V: {rk: 40701, frq: 64}
+corkage <> N: {rk: 44057, frq: 86}
+corkboard <> N: {rk: 41111, frq: 63}
+corked <> J: {rk: 47527, frq: 40}
+corkscrew <> N: {rk: 19810, frq: 443}, V: {rk: 42974, frq: 59}
+corky <> J: {rk: 40554, frq: 97}
+corm <> N: {rk: 42420, frq: 71}
+cormorant <> N: {rk: 22570, frq: 433}
+corn <> N: {rk: 2464, frq: 14956}
+corn-fed <> J: {rk: 43843, frq: 48}
+cornball <> N: {rk: 42384, frq: 53}
+cornbread <> N: {rk: 21729, frq: 538}
+corncob <> N: {rk: 33213, frq: 130}
+cornea <> N: {rk: 21099, frq: 402}
+corneal <> J: {rk: 34754, frq: 106}
+corned <> J: {rk: 24093, frq: 297}
+corner <> N: {rk: 1128, frq: 38272}, V: {rk: 13501, frq: 937}
+cornerback <> N: {rk: 10408, frq: 1866}
+cornered <> J: {rk: 32361, frq: 134}
+cornering <> J: {rk: 51045, frq: 36}
+cornerstone <> N: {rk: 10043, frq: 1638}
+cornet <> N: {rk: 36888, frq: 112}
+corneum <> N: {rk: 59618, frq: 23}
+cornfield <> N: {rk: 14065, frq: 885}
+cornflower <> N: {rk: 35908, frq: 94}
+cornhusk <> N: {rk: 49550, frq: 40}
+cornice <> N: {rk: 21228, frq: 378}
+corniche <> N: {rk: 50322, frq: 48}
+cornish <> J: {rk: 27327, frq: 206}
+cornmeal <> N: {rk: 13293, frq: 1161}
+cornstalk <> N: {rk: 29726, frq: 172}
+cornstarch <> N: {rk: 17228, frq: 673}
+cornucopia <> N: {rk: 22853, frq: 344}
+corny <> J: {rk: 15830, frq: 688}
+corollary <> N: {rk: 15476, frq: 764}
+corona <> N: {rk: 18014, frq: 1046}
+coronagraph <> N: {rk: 48672, frq: 51}
+coronal <> J: {rk: 25017, frq: 280}
+coronary <> J: {rk: 10440, frq: 1627}, N: {rk: 52351, frq: 28}
+coronation <> N: {rk: 18710, frq: 531}
+coronavirus <> N: {rk: 59691, frq: 25}
+coroner <> N: {rk: 10813, frq: 1551}
+coronet <> N: {rk: 34921, frq: 107}
+corporal <> J: {rk: 19519, frq: 581}, N: {rk: 20108, frq: 917}
+corporate <> J: {rk: 1584, frq: 24923}, N: {rk: 49019, frq: 38}
+corporation <> N: {rk: 2618, frq: 18390}
+corporatism <> N: {rk: 31556, frq: 181}
+corporatist <> J: {rk: 25834, frq: 284}
+corporative <> J: {rk: 57876, frq: 38}
+corporatization <> N: {rk: 46835, frq: 44}
+corporeal <> J: {rk: 21873, frq: 373}
+corporeality <> N: {rk: 39995, frq: 84}
+corps <> N: {rk: 6129, frq: 8873}
+corpse <> N: {rk: 5623, frq: 4637}
+corpsman <> N: {rk: 39004, frq: 76}
+corpulence <> N: {rk: 53975, frq: 25}
+corpulent <> J: {rk: 31589, frq: 141}
+corpus <> N: {rk: 11240, frq: 2172}
+corpuscle <> N: {rk: 43863, frq: 59}
+corral <> N: {rk: 15396, frq: 956}, V: {rk: 25989, frq: 248}, J: {rk: 31749, frq: 139}
+correct <> J: {rk: 1804, frq: 22244}, V: {rk: 3271, frq: 9597}
+correctable <> J: {rk: 36276, frq: 90}
+corrected <> J: {rk: 25553, frq: 247}
+correcting <> J: {rk: 58102, frq: 19}
+correction <> N: {rk: 6045, frq: 6143}
+correctional <> J: {rk: 12668, frq: 1231}
+corrective <> J: {rk: 13651, frq: 967}, N: {rk: 23709, frq: 294}
+correctly <> R: {rk: 4403, frq: 6416}
+correctness <> N: {rk: 11902, frq: 1275}
+corrector <> N: {rk: 39735, frq: 96}
+correlate <> V: {rk: 5324, frq: 5541}, N: {rk: 17267, frq: 737}
+correlated <> J: {rk: 33939, frq: 131}
+correlation <> N: {rk: 3526, frq: 10433}
+correlational <> J: {rk: 21675, frq: 431}
+correlative <> J: {rk: 33326, frq: 139}
+correspond <> V: {rk: 5475, frq: 5018}
+correspondence <> N: {rk: 6040, frq: 4189}
+correspondent <> N: {rk: 2951, frq: 18225}
+corresponding <> J: {rk: 7548, frq: 3069}
+correspondingly <> R: {rk: 19196, frq: 485}
+corrida <> N: {rk: 54605, frq: 54}
+corridor <> N: {rk: 3497, frq: 9347}
+corroborate <> V: {rk: 11640, frq: 1270}
+corroborating <> J: {rk: 35037, frq: 100}
+corroboration <> N: {rk: 25879, frq: 225}
+corroborative <> J: {rk: 41454, frq: 59}
+corrode <> V: {rk: 20373, frq: 404}
+corroded <> J: {rk: 35192, frq: 102}
+corrosion <> N: {rk: 14384, frq: 1013}
+corrosive <> J: {rk: 16816, frq: 637}
+corrugated <> J: {rk: 15179, frq: 759}
+corrugation <> N: {rk: 54785, frq: 30}
+corrupt <> J: {rk: 5925, frq: 4070}, V: {rk: 12801, frq: 1048}
+corrupted <> J: {rk: 32515, frq: 136}
+corruptible <> J: {rk: 44730, frq: 48}
+corrupting <> J: {rk: 30694, frq: 147}
+corruption <> N: {rk: 3771, frq: 8486}
+corruptive <> J: {rk: 56192, frq: 22}
+corruptly <> R: {rk: 51642, frq: 33}
+corsage <> N: {rk: 30752, frq: 146}
+corsair <> N: {rk: 35456, frq: 128}
+corset <> N: {rk: 18046, frq: 562}, V: {rk: 55626, frq: 22}
+corseted <> J: {rk: 54661, frq: 24}
+cortege <> N: {rk: 36528, frq: 89}
+cortex <> N: {rk: 14275, frq: 972}
+cortical <> J: {rk: 23691, frq: 317}
+corticosteroid <> N: {rk: 27975, frq: 241}, J: {rk: 41688, frq: 66}
+cortisol <> N: {rk: 21026, frq: 431}
+cortisone <> N: {rk: 30251, frq: 157}
+corundum <> N: {rk: 56163, frq: 28}
+coruscate <> V: {rk: 50522, frq: 33}
+cos <> C: {rk: 27839, frq: 271}
+cosine <> N: {rk: 45582, frq: 47}
+cosmetic <> J: {rk: 8495, frq: 2238}
+cosmetically <> R: {rk: 41114, frq: 61}
+cosmetics <> N: {rk: 10276, frq: 1648}
+cosmetologist <> N: {rk: 42301, frq: 58}
+cosmetology <> N: {rk: 34620, frq: 125}
+cosmic <> J: {rk: 6057, frq: 4008}
+cosmically <> R: {rk: 44774, frq: 50}
+cosmogony <> N: {rk: 55565, frq: 29}
+cosmological <> J: {rk: 15310, frq: 764}
+cosmologist <> N: {rk: 20385, frq: 428}
+cosmology <> N: {rk: 12185, frq: 1209}
+cosmonaut <> N: {rk: 24549, frq: 293}
+cosmopolitan <> J: {rk: 13044, frq: 1071}, N: {rk: 23498, frq: 528}
+cosmos <> N: {rk: 8306, frq: 2341}
+cosset <> V: {rk: 42560, frq: 54}
+cost <> N: {rk: 550, frq: 79471}, V: {rk: 1118, frq: 37734}
+cost-benefit <> J: {rk: 18965, frq: 620}, N: {rk: 51896, frq: 37}
+cost-cutting <> J: {rk: 22156, frq: 359}, N: {rk: 29800, frq: 179}
+cost-effective <> J: {rk: 10420, frq: 1629}
+cost-effectiveness <> N: {rk: 23879, frq: 314}, J: {rk: 41186, frq: 76}
+cost-efficient <> J: {rk: 30109, frq: 159}
+cost-plus <> J: {rk: 49095, frq: 35}
+costal <> J: {rk: 57917, frq: 25}
+costing <> N: {rk: 43713, frq: 55}
+costless <> J: {rk: 48997, frq: 34}
+costly <> J: {rk: 4324, frq: 6579}
+costume <> N: {rk: 4185, frq: 6943}, V: {rk: 24908, frq: 252}
+costumed <> J: {rk: 25199, frq: 253}
+costumer <> N: {rk: 38914, frq: 70}
+costuming <> N: {rk: 47261, frq: 52}
+cosy <> J: {rk: 41737, frq: 61}
+cot <> N: {rk: 10749, frq: 1537}
+cote <> N: {rk: 40360, frq: 606}
+coterie <> N: {rk: 24862, frq: 270}
+coterminous <> J: {rk: 41861, frq: 60}
+cotillion <> N: {rk: 39398, frq: 80}
+cotoneaster <> N: {rk: 53926, frq: 28}
+cotta <> N: {rk: 27025, frq: 271}
+cottage <> N: {rk: 4810, frq: 5865}
+cottager <> N: {rk: 45707, frq: 66}
+cotton <> N: {rk: 3155, frq: 11555}, V: {rk: 50013, frq: 34}
+cottonmouth <> N: {rk: 37131, frq: 108}
+cottonseed <> N: {rk: 42606, frq: 57}
+cottontail <> N: {rk: 36653, frq: 100}
+cottonwood <> N: {rk: 16039, frq: 977}
+cottony <> J: {rk: 32843, frq: 121}
+cotyledon <> N: {rk: 54117, frq: 27}
+couch <> N: {rk: 3398, frq: 10022}, V: {rk: 19701, frq: 453}
+cough <> V: {rk: 6239, frq: 3965}, N: {rk: 8402, frq: 2391}
+coughing <> N: {rk: 21527, frq: 383}
+could <> V: {rk: 71, frq: 669783}
+coulee <> N: {rk: 34158, frq: 124}
+coulis <> N: {rk: 38488, frq: 95}
+couloir <> N: {rk: 32807, frq: 183}
+coumarin <> N: {rk: 58803, frq: 23}
+councillor <> N: {rk: 31534, frq: 152}
+councilman <> N: {rk: 17715, frq: 1196}
+councilor <> N: {rk: 27993, frq: 279}
+councilwoman <> N: {rk: 25842, frq: 305}
+counsel <> N: {rk: 3441, frq: 10557}, V: {rk: 7905, frq: 2430}
+counseling <> N: {rk: 3422, frq: 10263}
+counselling <> N: {rk: 25469, frq: 335}
+counsellor <> N: {rk: 25703, frq: 297}
+counselor <> N: {rk: 2992, frq: 13723}
+count <> V: {rk: 1335, frq: 31094}, N: {rk: 2573, frq: 14173}
+countable <> J: {rk: 52186, frq: 33}
+countdown <> N: {rk: 15255, frq: 993}
+countenance <> N: {rk: 19152, frq: 492}, V: {rk: 22695, frq: 313}
+counter <> N: {rk: 2847, frq: 12660}, V: {rk: 4451, frq: 6236}, J: {rk: 31035, frq: 150}
+counter-revolutionary <> J: {rk: 28952, frq: 177}
+counteract <> V: {rk: 12456, frq: 1110}
+counteraction <> N: {rk: 53574, frq: 27}
+counterargument <> N: {rk: 30107, frq: 162}
+counterattack <> N: {rk: 17566, frq: 593}, V: {rk: 25072, frq: 253}
+counterbalance <> V: {rk: 18599, frq: 526}, N: {rk: 31178, frq: 141}
+counterbalanced <> J: {rk: 44665, frq: 50}
+counterbalancing <> J: {rk: 56529, frq: 22}
+counterclockwise <> R: {rk: 23676, frq: 298}, J: {rk: 33734, frq: 113}
+countercultural <> J: {rk: 29202, frq: 180}
+counterculture <> N: {rk: 19658, frq: 462}
+counterfactual <> J: {rk: 38052, frq: 107}
+counterfeit <> J: {rk: 18025, frq: 542}, V: {rk: 22897, frq: 312}, N: {rk: 30398, frq: 155}
+counterfeiter <> N: {rk: 28430, frq: 197}
+counterfeiting <> N: {rk: 43258, frq: 80}, J: {rk: 44508, frq: 46}
+counterforce <> N: {rk: 46445, frq: 45}
+counterintelligence <> N: {rk: 23473, frq: 326}
+counterintuitive <> J: {rk: 20472, frq: 451}
+counterintuitively <> R: {rk: 53287, frq: 29}
+counterman <> N: {rk: 41808, frq: 67}
+countermand <> V: {rk: 39514, frq: 75}
+countermeasure <> N: {rk: 21213, frq: 396}
+countermove <> N: {rk: 46931, frq: 38}
+counteroffer <> N: {rk: 40397, frq: 61}
+counterpane <> N: {rk: 44666, frq: 73}
+counterpart <> N: {rk: 3846, frq: 8107}
+counterparty <> N: {rk: 59242, frq: 30}
+counterpoint <> N: {rk: 14422, frq: 837}, V: {rk: 56617, frq: 21}
+counterpoise <> N: {rk: 53609, frq: 27}
+counterpose <> V: {rk: 52434, frq: 27}
+counterproductive <> J: {rk: 11839, frq: 1261}
+counterpunch <> N: {rk: 47602, frq: 42}
+counterrevolution <> N: {rk: 32752, frq: 125}
+countersink <> V: {rk: 53212, frq: 33}
+countersuit <> N: {rk: 40409, frq: 65}
+countertenor <> N: {rk: 42660, frq: 75}
+countertop <> N: {rk: 13014, frq: 1145}
+countervail <> V: {rk: 58486, frq: 25}
+countervailing <> J: {rk: 21878, frq: 404}
+counterweight <> N: {rk: 20210, frq: 420}
+counting <> N: {rk: 9656, frq: 1917}
+countless <> J: {rk: 5104, frq: 5155}
+countrified <> J: {rk: 47960, frq: 36}
+country <> N: {rk: 166, frq: 242456}
+countryman <> N: {rk: 12658, frq: 1092}
+countryside <> N: {rk: 5380, frq: 4618}
+countrywide <> J: {rk: 29699, frq: 166}
+countrywoman <> N: {rk: 50010, frq: 31}
+countywide <> J: {rk: 31135, frq: 142}, R: {rk: 37795, frq: 90}
+coup <> N: {rk: 4555, frq: 6536}
+coupe <> N: {rk: 13155, frq: 1089}
+couple <> N: {rk: 531, frq: 82027}, V: {rk: 5382, frq: 4738}
+coupled <> J: {rk: 30685, frq: 166}
+coupler <> N: {rk: 30659, frq: 219}
+couplet <> N: {rk: 23597, frq: 336}
+coupling <> N: {rk: 11937, frq: 1265}
+coupon <> N: {rk: 10356, frq: 1718}
+courage <> N: {rk: 3346, frq: 9995}
+courageous <> J: {rk: 8320, frq: 2250}
+courageously <> R: {rk: 23809, frq: 277}
+courier <> N: {rk: 13509, frq: 1315}
+course <> R: {rk: 418, frq: 103918}, N: {rk: 618, frq: 69262}, V: {rk: 14661, frq: 827}
+courseware <> N: {rk: 49600, frq: 44}
+coursework <> N: {rk: 16551, frq: 769}
+coursing <> N: {rk: 51147, frq: 30}
+court <> N: {rk: 541, frq: 108946}, V: {rk: 8500, frq: 2137}, J: {rk: 50216, frq: 34}
+court-martial <> N: {rk: 22906, frq: 355}, V: {rk: 47049, frq: 37}
+courteous <> J: {rk: 15416, frq: 712}
+courteously <> R: {rk: 31620, frq: 134}
+courtesan <> N: {rk: 27631, frq: 214}
+courtesy <> N: {rk: 5440, frq: 6694}
+courthouse <> N: {rk: 6023, frq: 3901}
+courtier <> N: {rk: 20198, frq: 439}
+courting <> N: {rk: 32407, frq: 120}
+courtliness <> N: {rk: 49305, frq: 34}
+courtly <> J: {rk: 18013, frq: 533}
+courtroom <> N: {rk: 4181, frq: 7136}
+courtship <> N: {rk: 10714, frq: 1472}
+courty <> J: {rk: 50632, frq: 33}
+courtyard <> N: {rk: 5899, frq: 4215}
+cousin <> N: {rk: 2730, frq: 13136}
+couture <> N: {rk: 15230, frq: 1108}
+couturier <> N: {rk: 33893, frq: 143}
+covalent <> J: {rk: 50230, frq: 36}
+covariance <> N: {rk: 22919, frq: 420}
+covariate <> N: {rk: 20426, frq: 778}
+covariation <> N: {rk: 49065, frq: 40}
+coven <> N: {rk: 31598, frq: 163}
+covenant <> N: {rk: 11559, frq: 2107}, V: {rk: 28486, frq: 192}
+covenantal <> J: {rk: 36885, frq: 110}
+cover <> V: {rk: 560, frq: 75887}, N: {rk: 1635, frq: 24457}
+cover-up <> N: {rk: 10881, frq: 1470}
+coverage <> N: {rk: 1887, frq: 21727}
+coveralls <> N: {rk: 18565, frq: 544}
+covered <> J: {rk: 9415, frq: 1835}
+covering <> N: {rk: 13601, frq: 986}
+coverlet <> N: {rk: 24791, frq: 276}
+covert <> J: {rk: 8944, frq: 2030}, N: {rk: 40461, frq: 65}
+covertly <> R: {rk: 20203, frq: 410}
+covet <> V: {rk: 12997, frq: 1031}
+coveted <> J: {rk: 12637, frq: 1116}
+covetous <> J: {rk: 37854, frq: 76}
+covetousness <> N: {rk: 47243, frq: 37}
+cow <> N: {rk: 3097, frq: 10735}, V: {rk: 24097, frq: 267}
+coward <> N: {rk: 11779, frq: 1612}
+cowardice <> N: {rk: 17659, frq: 564}
+cowardly <> J: {rk: 16051, frq: 679}
+cowbell <> N: {rk: 32638, frq: 136}
+cowbird <> N: {rk: 37909, frq: 108}
+cowboy <> N: {rk: 5100, frq: 9037}
+cowed <> J: {rk: 40689, frq: 65}
+cower <> V: {rk: 15363, frq: 784}
+cowering <> J: {rk: 46603, frq: 45}
+cowgirl <> N: {rk: 24579, frq: 369}
+cowhand <> N: {rk: 38110, frq: 83}
+cowhide <> N: {rk: 36664, frq: 95}
+cowl <> N: {rk: 29070, frq: 199}
+cowled <> J: {rk: 56804, frq: 29}
+cowlick <> N: {rk: 35025, frq: 110}
+cowling <> N: {rk: 34019, frq: 167}
+cowpea <> N: {rk: 42473, frq: 67}
+cowpoke <> N: {rk: 40494, frq: 63}
+cowpox <> N: {rk: 50435, frq: 56}
+cowrie <> N: {rk: 31761, frq: 157}
+cowry <> N: {rk: 56766, frq: 25}
+cowshed <> N: {rk: 53933, frq: 25}
+coxswain <> N: {rk: 41373, frq: 94}
+coy <> J: {rk: 17801, frq: 558}
+coyly <> R: {rk: 25357, frq: 244}
+coyness <> N: {rk: 46726, frq: 37}
+coyote <> N: {rk: 8234, frq: 4059}
+cozily <> R: {rk: 39895, frq: 69}
+coziness <> N: {rk: 34145, frq: 115}
+cozy <> J: {rk: 7282, frq: 3000}, N: {rk: 38619, frq: 83}
+crab <> N: {rk: 5153, frq: 5256}, V: {rk: 31508, frq: 141}
+crabapple <> N: {rk: 33201, frq: 173}
+crabbed <> J: {rk: 43657, frq: 49}
+crabby <> J: {rk: 29695, frq: 162}
+crabgrass <> N: {rk: 38077, frq: 84}
+crablike <> J: {rk: 46580, frq: 42}
+crabmeat <> N: {rk: 29758, frq: 196}
+crack <> N: {rk: 3027, frq: 11058}, V: {rk: 3247, frq: 10199}, J: {rk: 26381, frq: 214}
+crack-up <> N: {rk: 35257, frq: 112}
+crackdown <> N: {rk: 9537, frq: 1937}
+cracked <> J: {rk: 9508, frq: 1886}
+cracker <> N: {rk: 7768, frq: 2710}
+crackerjack <> N: {rk: 40342, frq: 64}
+crackers <> J: {rk: 35392, frq: 99}
+crackhead <> N: {rk: 33944, frq: 120}
+cracking <> J: {rk: 16180, frq: 688}
+crackle <> V: {rk: 11730, frq: 1350}, N: {rk: 15609, frq: 748}
+crackling <> J: {rk: 21522, frq: 375}, N: {rk: 42487, frq: 58}
+cracklings <> N: {rk: 52019, frq: 33}
+crackpot <> N: {rk: 24675, frq: 265}
+cradle <> N: {rk: 8805, frq: 2067}, V: {rk: 10538, frq: 1639}
+craft <> N: {rk: 2856, frq: 12635}, V: {rk: 6649, frq: 3473}
+crafter <> N: {rk: 38626, frq: 118}
+craftily <> R: {rk: 41388, frq: 58}
+craftiness <> N: {rk: 51998, frq: 27}
+crafting <> N: {rk: 40659, frq: 70}
+craftsman <> N: {rk: 11215, frq: 1905}
+craftsmanship <> N: {rk: 15782, frq: 753}
+craftsperson <> N: {rk: 45905, frq: 53}
+craftswoman <> N: {rk: 54914, frq: 25}
+crafty <> J: {rk: 19583, frq: 478}
+crag <> N: {rk: 23833, frq: 327}
+craggy <> J: {rk: 17515, frq: 580}
+cram <> V: {rk: 7501, frq: 2723}, N: {rk: 38369, frq: 145}
+cramming <> N: {rk: 53984, frq: 24}
+cramp <> N: {rk: 12781, frq: 1164}, V: {rk: 14210, frq: 884}
+cramped <> J: {rk: 9345, frq: 1879}
+cramping <> N: {rk: 39527, frq: 73}, J: {rk: 52682, frq: 26}
+crampon <> N: {rk: 29130, frq: 194}
+cranberry <> N: {rk: 9366, frq: 2386}
+crane <> N: {rk: 8545, frq: 4280}, V: {rk: 12620, frq: 1189}
+cranial <> J: {rk: 21474, frq: 419}
+craniofacial <> J: {rk: 43747, frq: 59}
+craniotomy <> N: {rk: 51577, frq: 43}
+cranium <> N: {rk: 24904, frq: 257}
+crank <> V: {rk: 8818, frq: 2121}, N: {rk: 11400, frq: 1385}
+crankcase <> N: {rk: 39979, frq: 90}
+crankiness <> N: {rk: 46003, frq: 43}
+crankshaft <> N: {rk: 33406, frq: 127}
+cranky <> J: {rk: 14641, frq: 846}
+cranny <> N: {rk: 19526, frq: 465}
+crap <> N: {rk: 7229, frq: 3062}, V: {rk: 37020, frq: 93}
+crape <> N: {rk: 42346, frq: 63}
+crappie <> N: {rk: 20473, frq: 548}
+crappy <> J: {rk: 23223, frq: 358}
+crapshoot <> N: {rk: 34412, frq: 110}
+crash <> N: {rk: 2854, frq: 12115}, V: {rk: 3313, frq: 9865}
+crash-test <> J: {rk: 42903, frq: 59}
+crashed <> J: {rk: 28057, frq: 193}
+crasher <> N: {rk: 37771, frq: 150}
+crashing <> J: {rk: 16745, frq: 636}
+crashworthiness <> N: {rk: 42849, frq: 66}
+crashworthy <> J: {rk: 59809, frq: 19}
+crass <> J: {rk: 18467, frq: 489}
+crassly <> R: {rk: 46022, frq: 38}
+crassness <> N: {rk: 49966, frq: 32}
+crate <> N: {rk: 7934, frq: 2611}, V: {rk: 36190, frq: 88}
+crated <> J: {rk: 58067, frq: 20}
+crater <> N: {rk: 6988, frq: 3662}
+cratered <> J: {rk: 37399, frq: 89}
+cravat <> N: {rk: 32363, frq: 148}
+crave <> V: {rk: 7694, frq: 2850}
+craven <> J: {rk: 29609, frq: 163}
+cravenly <> R: {rk: 57728, frq: 22}
+craving <> N: {rk: 12711, frq: 1130}, J: {rk: 46734, frq: 46}
+craw <> N: {rk: 32924, frq: 128}
+crawdad <> N: {rk: 41340, frq: 76}
+crawfish <> N: {rk: 21411, frq: 452}
+crawl <> V: {rk: 3866, frq: 8143}, N: {rk: 15487, frq: 760}
+crawler <> N: {rk: 22442, frq: 398}
+crawling <> J: {rk: 22123, frq: 348}
+crawlspace <> N: {rk: 45310, frq: 56}
+crawly <> J: {rk: 50730, frq: 30}
+crayfish <> N: {rk: 24706, frq: 319}
+crayon <> N: {rk: 12657, frq: 1153}
+craze <> N: {rk: 14449, frq: 877}, V: {rk: 36343, frq: 87}
+crazed <> J: {rk: 13698, frq: 939}
+crazily <> R: {rk: 23537, frq: 308}
+craziness <> N: {rk: 18995, frq: 507}
+crazy <> J: {rk: 1813, frq: 22639}, N: {rk: 23980, frq: 314}
+creak <> V: {rk: 12858, frq: 1201}, N: {rk: 18873, frq: 538}
+creaking <> J: {rk: 16519, frq: 710}, N: {rk: 47814, frq: 39}
+creaky <> J: {rk: 21380, frq: 381}
+cream <> N: {rk: 2018, frq: 20806}, J: {rk: 20860, frq: 415}, V: {rk: 24503, frq: 267}
+creamed <> J: {rk: 24965, frq: 261}
+creamery <> N: {rk: 31954, frq: 213}
+creaminess <> N: {rk: 41554, frq: 71}
+creamware <> N: {rk: 53816, frq: 39}
+creamy <> J: {rk: 7735, frq: 2925}
+crease <> N: {rk: 13114, frq: 1066}, V: {rk: 16719, frq: 700}
+creased <> J: {rk: 25673, frq: 249}
+create <> V: {rk: 332, frq: 130994}
+created <> J: {rk: 16083, frq: 754}
+creatinine <> N: {rk: 30438, frq: 187}
+creation <> N: {rk: 2126, frq: 18595}
+creationism <> N: {rk: 19504, frq: 482}
+creative <> J: {rk: 2061, frq: 19116}, N: {rk: 52294, frq: 37}
+creatively <> R: {rk: 13336, frq: 1016}
+creativeness <> N: {rk: 50142, frq: 43}
+creativity <> N: {rk: 4305, frq: 6925}
+creature <> N: {rk: 2368, frq: 16264}
+creaturely <> J: {rk: 39249, frq: 88}
+creche <> N: {rk: 31015, frq: 148}
+credence <> N: {rk: 14837, frq: 773}
+credential <> N: {rk: 6247, frq: 3617}
+credentialed <> J: {rk: 40103, frq: 81}
+credentialing <> J: {rk: 44922, frq: 55}, N: {rk: 52858, frq: 56}
+credenza <> N: {rk: 32365, frq: 126}
+credibility <> N: {rk: 4080, frq: 7275}
+credible <> J: {rk: 6070, frq: 3998}
+credibly <> R: {rk: 27062, frq: 212}
+credit <> N: {rk: 1126, frq: 37993}, V: {rk: 4110, frq: 7399}
+creditability <> N: {rk: 58925, frq: 24}
+creditable <> J: {rk: 34533, frq: 102}
+creditably <> R: {rk: 55104, frq: 25}
+credited <> J: {rk: 47767, frq: 38}
+creditor <> N: {rk: 8398, frq: 2267}
+creditworthiness <> N: {rk: 35974, frq: 93}
+creditworthy <> J: {rk: 36013, frq: 94}
+credo <> N: {rk: 18771, frq: 526}
+credulity <> N: {rk: 27877, frq: 191}
+credulous <> J: {rk: 33447, frq: 124}
+creed <> N: {rk: 12376, frq: 1655}
+creedal <> J: {rk: 48332, frq: 35}
+creep <> V: {rk: 5152, frq: 5387}, N: {rk: 12468, frq: 1113}
+creeper <> N: {rk: 26284, frq: 257}
+creepiest <> J: {rk: 53517, frq: 26}
+creepiness <> N: {rk: 54152, frq: 25}
+creeping <> J: {rk: 16374, frq: 659}
+creepy <> J: {rk: 11620, frq: 1367}
+cremate <> V: {rk: 19814, frq: 435}
+cremated <> J: {rk: 41328, frq: 69}
+cremation <> N: {rk: 21067, frq: 435}
+crematorium <> N: {rk: 33148, frq: 141}
+crematory <> J: {rk: 53355, frq: 37}
+creme <> N: {rk: 13982, frq: 1800}
+crenellated <> J: {rk: 50172, frq: 31}
+crenellation <> N: {rk: 54592, frq: 24}
+creolization <> N: {rk: 48711, frq: 44}
+creosote <> N: {rk: 28449, frq: 209}, V: {rk: 44706, frq: 45}
+crepe <> N: {rk: 13882, frq: 937}
+crepuscular <> J: {rk: 41628, frq: 69}
+crescendo <> N: {rk: 17303, frq: 585}
+cress <> N: {rk: 29497, frq: 234}
+crest <> N: {rk: 7597, frq: 2666}, V: {rk: 19238, frq: 499}
+crestfallen <> J: {rk: 29856, frq: 169}
+cresting <> J: {rk: 52831, frq: 26}
+cretaceous <> J: {rk: 27105, frq: 213}
+cretan <> J: {rk: 44590, frq: 54}, N: {rk: 52783, frq: 39}
+cretin <> N: {rk: 32305, frq: 124}
+cretinism <> N: {rk: 59316, frq: 19}
+crevasse <> N: {rk: 21335, frq: 389}
+crevice <> N: {rk: 14094, frq: 904}
+crew <> N: {rk: 1714, frq: 24534}, V: {rk: 38829, frq: 74}
+crewed <> J: {rk: 56562, frq: 25}
+crewman <> N: {rk: 16983, frq: 677}
+crewmate <> N: {rk: 34408, frq: 111}
+crewmember <> N: {rk: 27245, frq: 230}
+crib <> N: {rk: 9375, frq: 1935}, V: {rk: 27641, frq: 203}
+cribbage <> N: {rk: 45594, frq: 43}
+cribriform <> J: {rk: 54029, frq: 34}
+cricket <> N: {rk: 8537, frq: 2257}
+cricketer <> N: {rk: 49193, frq: 41}
+cricoid <> J: {rk: 55200, frq: 34}
+crikey <> U: {rk: 56186, frq: 26}
+crime <> N: {rk: 829, frq: 51514}
+crimean <> J: {rk: 31317, frq: 149}
+criminal <> J: {rk: 1963, frq: 20157}, N: {rk: 3361, frq: 9551}
+criminalist <> N: {rk: 35870, frq: 144}
+criminality <> N: {rk: 18896, frq: 507}
+criminalization <> N: {rk: 34606, frq: 109}
+criminalize <> V: {rk: 19991, frq: 451}
+criminally <> R: {rk: 17950, frq: 557}
+criminological <> J: {rk: 46895, frq: 58}
+criminologist <> N: {rk: 23088, frq: 344}
+criminology <> N: {rk: 27783, frq: 333}
+crimp <> V: {rk: 21232, frq: 391}, N: {rk: 31430, frq: 171}
+crimped <> J: {rk: 40290, frq: 61}
+crimson <> J: {rk: 12525, frq: 1161}, N: {rk: 15276, frq: 805}, V: {rk: 51483, frq: 29}
+cringe <> V: {rk: 10937, frq: 1468}
+cringing <> J: {rk: 51272, frq: 30}
+crinkle <> V: {rk: 20050, frq: 466}, N: {rk: 36392, frq: 98}
+crinkled <> J: {rk: 34323, frq: 106}
+crinkly <> J: {rk: 31941, frq: 140}
+crinoline <> N: {rk: 36262, frq: 131}
+criollo <> N: {rk: 38366, frq: 113}
+cripes <> U: {rk: 38706, frq: 75}
+cripple <> V: {rk: 9607, frq: 1768}, N: {rk: 19175, frq: 510}
+crippled <> J: {rk: 15687, frq: 732}
+crippling <> J: {rk: 14609, frq: 819}
+crisis <> N: {rk: 1208, frq: 36835}
+crisp <> J: {rk: 6276, frq: 3884}, N: {rk: 9490, frq: 2049}, V: {rk: 26182, frq: 254}
+crisped <> J: {rk: 59030, frq: 22}
+crispier <> J: {rk: 55325, frq: 24}
+crisply <> R: {rk: 19753, frq: 445}
+crispness <> N: {rk: 31483, frq: 148}
+crispy <> J: {rk: 14970, frq: 925}
+crisscross <> V: {rk: 12553, frq: 1096}, N: {rk: 32040, frq: 130}
+crisscrossed <> J: {rk: 39945, frq: 63}
+crit <> N: {rk: 32341, frq: 149}
+criteria <> N: {rk: 2590, frq: 15415}
+criterial <> J: {rk: 59883, frq: 19}
+critic <> N: {rk: 1359, frq: 30377}
+critical <> J: {rk: 1127, frq: 38807}
+criticality <> N: {rk: 36364, frq: 105}
+critically <> R: {rk: 6652, frq: 3381}
+criticism <> N: {rk: 2105, frq: 18327}
+criticize <> V: {rk: 2566, frq: 14006}
+critique <> N: {rk: 5032, frq: 5731}, V: {rk: 18430, frq: 526}
+critter <> N: {rk: 14139, frq: 953}
+croak <> V: {rk: 17355, frq: 631}, N: {rk: 30796, frq: 203}
+croaker <> N: {rk: 40917, frq: 82}
+croaking <> J: {rk: 45626, frq: 43}, N: {rk: 47854, frq: 39}
+croaky <> J: {rk: 50822, frq: 31}
+croc <> N: {rk: 26723, frq: 334}
+crochet <> N: {rk: 36821, frq: 99}, V: {rk: 37969, frq: 79}
+crocheted <> J: {rk: 31605, frq: 135}
+crocheting <> N: {rk: 50360, frq: 30}
+crock <> N: {rk: 19297, frq: 481}
+crockery <> N: {rk: 29055, frq: 184}
+crockpot <> N: {rk: 51774, frq: 35}
+crocodile <> N: {rk: 10412, frq: 1595}
+crocodilian <> N: {rk: 51206, frq: 33}
+crocus <> N: {rk: 35914, frq: 122}
+crofter <> N: {rk: 49644, frq: 41}
+croissant <> N: {rk: 19367, frq: 474}
+crone <> N: {rk: 28993, frq: 258}
+crony <> N: {rk: 14046, frq: 882}
+cronyism <> N: {rk: 27325, frq: 208}
+crook <> N: {rk: 8819, frq: 2075}, V: {rk: 39207, frq: 76}
+crooked <> J: {rk: 8453, frq: 2283}
+crookedly <> R: {rk: 33211, frq: 127}
+crookedness <> N: {rk: 51990, frq: 27}
+croon <> V: {rk: 16257, frq: 685}
+crooner <> N: {rk: 24984, frq: 270}
+crooning <> N: {rk: 48811, frq: 40}
+crop <> N: {rk: 2477, frq: 14779}, V: {rk: 11164, frq: 1332}
+crop-dusting <> J: {rk: 55257, frq: 23}
+cropland <> N: {rk: 18555, frq: 580}
+cropped <> J: {rk: 19155, frq: 487}
+cropper <> N: {rk: 35422, frq: 96}
+croquet <> N: {rk: 21548, frq: 414}
+croquette <> N: {rk: 39707, frq: 86}
+crosier <> N: {rk: 59589, frq: 30}
+cross <> V: {rk: 1395, frq: 29786}, N: {rk: 3508, frq: 14143}, J: {rk: 24895, frq: 251}
+cross-border <> J: {rk: 15364, frq: 818}
+cross-check <> V: {rk: 41692, frq: 58}, N: {rk: 45129, frq: 43}
+cross-country <> J: {rk: 9083, frq: 1990}
+cross-cultural <> J: {rk: 11565, frq: 1420}
+cross-curricular <> J: {rk: 52327, frq: 32}
+cross-cutting <> J: {rk: 44081, frq: 55}
+cross-dressed <> J: {rk: 58101, frq: 21}
+cross-dresser <> N: {rk: 40947, frq: 60}
+cross-dressing <> J: {rk: 37412, frq: 81}
+cross-examination <> N: {rk: 16668, frq: 768}, J: {rk: 41337, frq: 66}
+cross-examine <> V: {rk: 26359, frq: 248}
+cross-examining <> J: {rk: 45290, frq: 46}
+cross-eyed <> J: {rk: 30867, frq: 157}
+cross-fertilization <> N: {rk: 37881, frq: 77}
+cross-hatching <> N: {rk: 44138, frq: 50}
+cross-legged <> J: {rk: 17364, frq: 618}
+cross-link <> N: {rk: 53077, frq: 32}
+cross-platform <> J: {rk: 54900, frq: 22}
+cross-pollination <> N: {rk: 32590, frq: 122}
+cross-purpose <> N: {rk: 37110, frq: 85}
+cross-reference <> V: {rk: 31152, frq: 137}, N: {rk: 48604, frq: 36}
+cross-referencing <> N: {rk: 57379, frq: 20}
+cross-section <> N: {rk: 16549, frq: 642}
+cross-sectional <> J: {rk: 16334, frq: 798}
+cross-town <> J: {rk: 48211, frq: 37}
+cross-training <> J: {rk: 38148, frq: 81}
+crossbar <> N: {rk: 28203, frq: 192}
+crossbeam <> N: {rk: 41960, frq: 62}
+crossbow <> N: {rk: 22329, frq: 408}
+crossbowman <> N: {rk: 55014, frq: 28}
+crossbreed <> V: {rk: 44735, frq: 48}, N: {rk: 48418, frq: 36}
+crosscurrent <> N: {rk: 37908, frq: 75}
+crosscut <> V: {rk: 35735, frq: 110}
+crossed <> J: {rk: 21116, frq: 381}
+crossfire <> N: {rk: 17283, frq: 809}
+crosshair <> N: {rk: 22673, frq: 351}
+crosshairs <> N: {rk: 51771, frq: 30}
+crosshatch <> V: {rk: 41098, frq: 63}, N: {rk: 45169, frq: 56}
+crosshead <> N: {rk: 59434, frq: 27}
+crossing <> N: {rk: 6387, frq: 3553}
+crossly <> R: {rk: 35240, frq: 100}
+crossover <> N: {rk: 12846, frq: 1080}, V: {rk: 31210, frq: 149}
+crosspiece <> N: {rk: 44641, frq: 51}
+crossroad <> N: {rk: 32723, frq: 184}
+crossroads <> N: {rk: 9288, frq: 1898}
+crosswalk <> N: {rk: 26925, frq: 249}
+crosswind <> N: {rk: 33018, frq: 124}
+crosswise <> J: {rk: 17819, frq: 638}
+crossword <> N: {rk: 16106, frq: 790}
+crotch <> N: {rk: 12855, frq: 1147}
+crotchety <> J: {rk: 38796, frq: 73}
+crouch <> V: {rk: 6835, frq: 3380}, N: {rk: 22294, frq: 601}
+crouched <> J: {rk: 32912, frq: 126}
+crouching <> J: {rk: 38193, frq: 76}
+croup <> N: {rk: 35076, frq: 122}
+croupier <> N: {rk: 41753, frq: 101}
+crouton <> N: {rk: 22150, frq: 409}
+crow <> N: {rk: 8557, frq: 4917}, V: {rk: 18347, frq: 527}
+crowbar <> N: {rk: 21581, frq: 401}
+crowd <> N: {rk: 1274, frq: 33286}, V: {rk: 4908, frq: 5496}
+crowd-pleaser <> N: {rk: 34086, frq: 112}
+crowd-pleasing <> J: {rk: 36388, frq: 109}
+crowded <> J: {rk: 4783, frq: 5599}
+crowding <> J: {rk: 34968, frq: 98}, N: {rk: 50823, frq: 30}
+crowing <> N: {rk: 48885, frq: 41}
+crown <> N: {rk: 5150, frq: 7642}, V: {rk: 10416, frq: 1509}
+crowned <> J: {rk: 33132, frq: 118}
+crowning <> J: {rk: 20278, frq: 405}, N: {rk: 46936, frq: 38}
+cru <> N: {rk: 58384, frq: 39}
+crucial <> J: {rk: 2413, frq: 15322}
+crucially <> R: {rk: 21242, frq: 417}
+crucible <> N: {rk: 20422, frq: 579}
+cruciferous <> J: {rk: 38595, frq: 87}
+crucified <> J: {rk: 26715, frq: 258}
+crucifix <> N: {rk: 15151, frq: 788}
+crucifixion <> N: {rk: 20421, frq: 614}
+cruciform <> J: {rk: 37121, frq: 88}
+crucify <> V: {rk: 17834, frq: 569}
+crud <> N: {rk: 24639, frq: 286}
+cruddy <> J: {rk: 46891, frq: 40}
+crude <> J: {rk: 5066, frq: 5219}, N: {rk: 23087, frq: 358}
+crudely <> R: {rk: 18950, frq: 470}
+crudeness <> N: {rk: 37883, frq: 77}
+crudites <> N: {rk: 47087, frq: 39}
+crudity <> N: {rk: 40737, frq: 65}
+cruel <> J: {rk: 4807, frq: 5479}
+cruelly <> R: {rk: 18731, frq: 487}
+cruelty <> N: {rk: 8491, frq: 2244}
+cruet <> N: {rk: 51016, frq: 32}
+cruise <> N: {rk: 4725, frq: 7590}, V: {rk: 5836, frq: 4314}
+cruiser <> N: {rk: 7675, frq: 2970}
+cruiserweight <> N: {rk: 55844, frq: 25}
+cruller <> N: {rk: 52572, frq: 37}
+crumb <> N: {rk: 7336, frq: 3082}
+crumble <> V: {rk: 7146, frq: 3003}, N: {rk: 30805, frq: 170}
+crumbled <> J: {rk: 18938, frq: 626}
+crumbling <> J: {rk: 11750, frq: 1262}, N: {rk: 24515, frq: 266}
+crumbly <> J: {rk: 22636, frq: 346}
+crummy <> J: {rk: 23015, frq: 317}
+crumpet <> N: {rk: 40384, frq: 70}
+crumple <> V: {rk: 12148, frq: 1280}, N: {rk: 39804, frq: 73}
+crumpled <> J: {rk: 13779, frq: 999}
+crunch <> N: {rk: 7672, frq: 2709}, V: {rk: 9511, frq: 1903}
+crunched <> J: {rk: 56130, frq: 21}
+cruncher <> N: {rk: 34781, frq: 114}
+crunching <> N: {rk: 36035, frq: 94}, J: {rk: 36560, frq: 90}
+crunchy <> J: {rk: 14271, frq: 957}
+crus <> N: {rk: 59409, frq: 32}
+crusade <> N: {rk: 7430, frq: 2716}, V: {rk: 23630, frq: 280}
+crusader <> N: {rk: 14888, frq: 1483}
+crusading <> J: {rk: 30466, frq: 151}
+crush <> V: {rk: 4349, frq: 6577}, N: {rk: 8268, frq: 2358}
+crushed <> J: {rk: 8630, frq: 2276}
+crushing <> J: {rk: 12015, frq: 1190}
+crushingly <> R: {rk: 46735, frq: 40}
+crust <> N: {rk: 5729, frq: 4593}, V: {rk: 23672, frq: 301}
+crustacean <> N: {rk: 21292, frq: 389}, J: {rk: 47787, frq: 41}
+crustal <> J: {rk: 38628, frq: 75}
+crusted <> J: {rk: 29071, frq: 179}
+crustless <> J: {rk: 47869, frq: 38}
+crusty <> J: {rk: 13962, frq: 960}
+crutch <> N: {rk: 11898, frq: 1208}
+crux <> N: {rk: 15846, frq: 736}
+cruzado <> N: {rk: 55284, frq: 34}
+cry <> V: {rk: 1355, frq: 31910}, N: {rk: 3465, frq: 9365}
+crybaby <> N: {rk: 31024, frq: 153}
+crying <> N: {rk: 5499, frq: 4673}, J: {rk: 50028, frq: 31}
+cryogenic <> J: {rk: 26110, frq: 227}
+cryogenically <> R: {rk: 46689, frq: 39}
+cryogenics <> N: {rk: 42523, frq: 56}
+cryonic <> J: {rk: 54845, frq: 30}
+cryonics <> N: {rk: 52100, frq: 41}
+cryopreservation <> N: {rk: 52794, frq: 33}
+cryostat <> N: {rk: 52772, frq: 30}
+crypt <> N: {rk: 19230, frq: 490}
+cryptanalyst <> N: {rk: 59936, frq: 21}
+cryptic <> J: {rk: 15018, frq: 776}
+cryptically <> R: {rk: 32012, frq: 125}
+cryptogram <> N: {rk: 45919, frq: 56}
+cryptographer <> N: {rk: 44178, frq: 52}
+cryptographic <> J: {rk: 39536, frq: 97}
+cryptography <> N: {rk: 32508, frq: 143}
+cryptology <> N: {rk: 57214, frq: 25}
+cryptosporidiosis <> N: {rk: 51249, frq: 51}
+crystal <> N: {rk: 3600, frq: 10122}
+crystalize <> V: {rk: 44378, frq: 46}
+crystalline <> J: {rk: 15466, frq: 727}
+crystallite <> N: {rk: 60005, frq: 22}
+crystallization <> N: {rk: 30939, frq: 146}
+crystallize <> V: {rk: 15508, frq: 731}
+crystallized <> J: {rk: 26782, frq: 233}
+crystallographer <> N: {rk: 46783, frq: 48}
+crystallographic <> J: {rk: 44629, frq: 54}
+crystallography <> N: {rk: 37704, frq: 99}
+cuatro <> N: {rk: 43056, frq: 78}
+cubby <> N: {rk: 29416, frq: 282}, J: {rk: 42204, frq: 60}
+cubbyhole <> N: {rk: 29242, frq: 176}
+cube <> N: {rk: 5796, frq: 4476}, V: {rk: 23576, frq: 353}
+cubic <> J: {rk: 7909, frq: 2677}
+cubical <> J: {rk: 47118, frq: 40}
+cubicle <> N: {rk: 10729, frq: 1499}
+cubism <> N: {rk: 23778, frq: 317}
+cubist <> N: {rk: 29007, frq: 187}, J: {rk: 30200, frq: 169}
+cubit <> N: {rk: 49528, frq: 39}
+cuckold <> N: {rk: 42675, frq: 57}, V: {rk: 43041, frq: 52}
+cuckolded <> J: {rk: 55604, frq: 23}
+cuckoo <> N: {rk: 23325, frq: 469}
+cucumber <> N: {rk: 8447, frq: 2404}
+cud <> N: {rk: 35683, frq: 107}
+cuddle <> V: {rk: 15095, frq: 803}, N: {rk: 31678, frq: 152}
+cuddling <> N: {rk: 52809, frq: 25}
+cuddly <> R: {rk: 22189, frq: 339}
+cuddy <> J: {rk: 51298, frq: 37}, N: {rk: 57098, frq: 38}
+cudgel <> N: {rk: 35462, frq: 103}
+cue <> N: {rk: 4922, frq: 5594}, V: {rk: 19696, frq: 454}
+cueing <> J: {rk: 59263, frq: 32}
+cuff <> N: {rk: 7066, frq: 3215}, V: {rk: 17374, frq: 617}
+cuffed <> J: {rk: 41331, frq: 66}
+cufflink <> N: {rk: 36630, frq: 95}
+cuirass <> N: {rk: 50308, frq: 34}
+cuisine <> N: {rk: 6492, frq: 3745}
+cul-de-sac <> N: {rk: 18627, frq: 526}
+culinary <> J: {rk: 7891, frq: 2724}
+cull <> V: {rk: 13648, frq: 939}, N: {rk: 38301, frq: 78}
+cullet <> N: {rk: 59761, frq: 22}
+culling <> N: {rk: 35412, frq: 113}
+culminate <> V: {rk: 7820, frq: 2571}
+culmination <> N: {rk: 13163, frq: 991}
+culotte <> N: {rk: 44171, frq: 50}
+culpability <> N: {rk: 20474, frq: 430}
+culpable <> J: {rk: 21369, frq: 368}
+culprit <> N: {rk: 9057, frq: 1980}
+cult <> N: {rk: 5303, frq: 4995}
+cultic <> J: {rk: 36071, frq: 109}
+cultish <> J: {rk: 40478, frq: 62}
+cultist <> N: {rk: 34559, frq: 132}
+cultivar <> N: {rk: 15627, frq: 876}
+cultivate <> V: {rk: 5639, frq: 4408}
+cultivated <> J: {rk: 13767, frq: 955}
+cultivation <> N: {rk: 9579, frq: 1877}
+cultivator <> N: {rk: 28300, frq: 199}
+cultural <> J: {rk: 933, frq: 48639}
+culturally <> R: {rk: 5835, frq: 4701}
+culture <> N: {rk: 611, frq: 72196}
+culture-bound <> J: {rk: 47810, frq: 38}
+cultured <> J: {rk: 15984, frq: 691}
+culvert <> N: {rk: 23710, frq: 313}
+cumbersome <> J: {rk: 12584, frq: 1061}
+cumin <> N: {rk: 11658, frq: 1576}
+cummerbund <> N: {rk: 34415, frq: 115}
+cumulate <> V: {rk: 49957, frq: 37}
+cumulative <> J: {rk: 8603, frq: 2333}
+cumulatively <> R: {rk: 29581, frq: 168}
+cumulus <> N: {rk: 29880, frq: 182}
+cuneiform <> J: {rk: 36591, frq: 93}
+cunnilingus <> N: {rk: 48110, frq: 40}
+cunning <> J: {rk: 13214, frq: 1009}, N: {rk: 38492, frq: 75}
+cunningly <> R: {rk: 32192, frq: 126}
+cunt <> N: {rk: 24405, frq: 303}
+cup <> N: {rk: 780, frq: 61009}
+cupboard <> N: {rk: 9559, frq: 1859}
+cupcake <> N: {rk: 17235, frq: 898}
+cupful <> N: {rk: 35875, frq: 87}
+cupidity <> N: {rk: 49541, frq: 34}
+cupola <> N: {rk: 24301, frq: 286}
+cuppa <> N: {rk: 48256, frq: 43}
+cupped <> J: {rk: 23367, frq: 317}
+cur <> N: {rk: 31768, frq: 174}
+curable <> J: {rk: 24537, frq: 277}
+curandero <> N: {rk: 44443, frq: 74}
+curate <> V: {rk: 22447, frq: 370}, N: {rk: 32175, frq: 132}
+curation <> N: {rk: 54872, frq: 46}
+curative <> J: {rk: 24831, frq: 267}, N: {rk: 46176, frq: 43}
+curator <> N: {rk: 6043, frq: 4037}
+curatorial <> J: {rk: 22047, frq: 363}
+curb <> V: {rk: 6830, frq: 3203}, N: {rk: 8166, frq: 2702}
+curbing <> N: {rk: 43771, frq: 51}
+curbside <> N: {rk: 16881, frq: 657}
+curd <> N: {rk: 19635, frq: 571}
+curdle <> V: {rk: 27670, frq: 197}
+curdled <> J: {rk: 35970, frq: 91}
+cure <> N: {rk: 4623, frq: 5847}, V: {rk: 4630, frq: 5832}
+cured <> J: {rk: 28163, frq: 202}
+curettage <> N: {rk: 53867, frq: 29}
+curfew <> N: {rk: 10709, frq: 1459}
+curia <> N: {rk: 34739, frq: 164}
+curio <> N: {rk: 26833, frq: 221}
+curiosity <> N: {rk: 4559, frq: 6129}
+curious <> J: {rk: 3131, frq: 10733}
+curiously <> R: {rk: 8652, frq: 2153}
+curl <> V: {rk: 5205, frq: 5481}, N: {rk: 6405, frq: 3809}
+curled <> J: {rk: 22598, frq: 345}
+curler <> N: {rk: 26441, frq: 234}
+curlew <> N: {rk: 47468, frq: 60}
+curlicue <> N: {rk: 31072, frq: 149}
+curling <> N: {rk: 19174, frq: 506}
+curly <> J: {rk: 9431, frq: 1939}
+curmudgeon <> N: {rk: 30407, frq: 157}
+curmudgeonly <> R: {rk: 37838, frq: 80}
+currant <> N: {rk: 18717, frq: 533}
+currency <> N: {rk: 3766, frq: 8434}
+current <> J: {rk: 652, frq: 64144}, N: {rk: 5697, frq: 4314}
+currently <> R: {rk: 1708, frq: 23551}
+curricular <> J: {rk: 10521, frq: 1756}
+curriculum <> N: {rk: 2088, frq: 20565}
+curried <> J: {rk: 28367, frq: 199}
+curry <> N: {rk: 8826, frq: 3696}, V: {rk: 32325, frq: 123}
+curse <> V: {rk: 5833, frq: 4489}, N: {rk: 6922, frq: 3303}
+cursed <> J: {rk: 27968, frq: 206}
+cursing <> N: {rk: 46788, frq: 44}
+cursive <> J: {rk: 24934, frq: 339}
+cursor <> N: {rk: 21409, frq: 414}
+cursorily <> R: {rk: 48920, frq: 37}
+cursory <> J: {rk: 16299, frq: 671}
+curtail <> V: {rk: 9229, frq: 1919}
+curtailed <> J: {rk: 48848, frq: 36}
+curtailment <> N: {rk: 30801, frq: 146}
+curtain <> N: {rk: 3649, frq: 8805}, V: {rk: 38880, frq: 81}
+curtained <> J: {rk: 30373, frq: 160}
+curtainless <> J: {rk: 58373, frq: 20}
+curtly <> R: {rk: 24695, frq: 281}
+curtsey <> V: {rk: 47525, frq: 38}, N: {rk: 49348, frq: 36}
+curtsy <> N: {rk: 30168, frq: 165}, V: {rk: 36808, frq: 99}
+curvaceous <> J: {rk: 30981, frq: 149}
+curvature <> N: {rk: 19766, frq: 446}
+curve <> N: {rk: 3485, frq: 9284}, V: {rk: 9653, frq: 1876}
+curveball <> N: {rk: 22210, frq: 408}
+curved <> J: {rk: 8483, frq: 2257}
+curvilinear <> J: {rk: 27797, frq: 202}
+curving <> J: {rk: 19209, frq: 474}, N: {rk: 46287, frq: 42}
+curvy <> J: {rk: 25220, frq: 286}
+cushier <> J: {rk: 57270, frq: 21}
+cushion <> N: {rk: 6995, frq: 3103}, V: {rk: 14152, frq: 888}
+cushioned <> J: {rk: 27115, frq: 221}
+cushioning <> N: {rk: 27754, frq: 210}
+cushiony <> J: {rk: 43522, frq: 49}
+cushy <> J: {rk: 21520, frq: 373}
+cusp <> N: {rk: 18226, frq: 535}
+cuss <> V: {rk: 20619, frq: 411}, N: {rk: 30144, frq: 158}
+cussing <> N: {rk: 50489, frq: 38}
+custard <> N: {rk: 13630, frq: 1013}
+custodial <> J: {rk: 18776, frq: 501}
+custodian <> N: {rk: 15160, frq: 752}
+custodianship <> N: {rk: 55487, frq: 23}
+custody <> N: {rk: 4462, frq: 6413}
+custom <> N: {rk: 3012, frq: 11208}
+custom-built <> J: {rk: 26898, frq: 222}
+custom-made <> J: {rk: 18441, frq: 534}
+customarily <> R: {rk: 20510, frq: 387}
+customary <> J: {rk: 8662, frq: 2127}
+customer <> N: {rk: 1099, frq: 38894}
+customizable <> J: {rk: 35427, frq: 121}
+customize <> V: {rk: 11673, frq: 1363}
+customized <> J: {rk: 15707, frq: 739}
+cut <> V: {rk: 414, frq: 104501}, N: {rk: 1501, frq: 28101}, J: {rk: 16669, frq: 659}
+cut-off <> N: {rk: 9674, frq: 1785}
+cut-out <> J: {rk: 35109, frq: 116}
+cut-rate <> J: {rk: 26544, frq: 213}
+cut-throat <> J: {rk: 46342, frq: 40}
+cutaneous <> J: {rk: 28656, frq: 243}
+cutaway <> N: {rk: 26795, frq: 240}
+cutback <> N: {rk: 10672, frq: 1504}
+cute <> J: {rk: 4383, frq: 6926}
+cutely <> R: {rk: 47860, frq: 37}
+cuteness <> N: {rk: 33465, frq: 118}
+cutesy <> J: {rk: 35445, frq: 97}
+cuticle <> N: {rk: 19729, frq: 484}
+cutie <> N: {rk: 27812, frq: 310}
+cutlass <> N: {rk: 29095, frq: 263}
+cutlery <> N: {rk: 23973, frq: 313}
+cutlet <> N: {rk: 24023, frq: 329}
+cutter <> N: {rk: 9582, frq: 3121}
+cutthroat <> N: {rk: 19694, frq: 469}
+cutting <> N: {rk: 5531, frq: 4456}, J: {rk: 16692, frq: 675}
+cutting-edge <> J: {rk: 12732, frq: 1122}
+cuttlefish <> N: {rk: 42570, frq: 64}
+cutwork <> N: {rk: 59338, frq: 24}
+cutworm <> N: {rk: 53159, frq: 26}
+cyan <> N: {rk: 33478, frq: 169}
+cyanide <> N: {rk: 18544, frq: 567}
+cyanobacteria <> N: {rk: 34281, frq: 128}
+cyanobacterial <> J: {rk: 59612, frq: 22}
+cybernetic <> J: {rk: 30587, frq: 170}
+cybernetics <> N: {rk: 36624, frq: 126}
+cyberpunk <> N: {rk: 34443, frq: 149}
+cyberspace <> N: {rk: 12085, frq: 1435}
+cyberterrorism <> N: {rk: 58883, frq: 37}
+cyberworld <> N: {rk: 56093, frq: 26}
+cyborg <> N: {rk: 29102, frq: 237}, J: {rk: 45877, frq: 55}
+cycad <> N: {rk: 46698, frq: 46}
+cyclamen <> N: {rk: 45368, frq: 47}
+cycle <> N: {rk: 2234, frq: 17110}, V: {rk: 10615, frq: 1514}
+cyclic <> J: {rk: 22151, frq: 361}
+cyclical <> J: {rk: 12895, frq: 1046}
+cyclically <> R: {rk: 45909, frq: 46}
+cycling <> N: {rk: 8351, frq: 2391}
+cyclist <> N: {rk: 9862, frq: 1843}
+cyclo <> N: {rk: 59055, frq: 23}
+cyclone <> N: {rk: 18834, frq: 752}
+cyclonic <> J: {rk: 48046, frq: 42}
+cyclopean <> J: {rk: 55939, frq: 22}
+cyclophosphamide <> N: {rk: 52928, frq: 35}
+cyclops <> N: {rk: 35264, frq: 188}
+cyclorama <> N: {rk: 59595, frq: 50}
+cyclotron <> N: {rk: 33449, frq: 173}
+cylinder <> N: {rk: 7185, frq: 3049}
+cylindrical <> J: {rk: 15458, frq: 742}
+cymbal <> N: {rk: 24544, frq: 269}, J: {rk: 52509, frq: 25}
+cynic <> N: {rk: 16082, frq: 704}
+cynical <> J: {rk: 7160, frq: 2818}
+cynically <> R: {rk: 22222, frq: 323}
+cynicism <> N: {rk: 10022, frq: 1628}
+cynosure <> N: {rk: 55730, frq: 22}
+cyst <> N: {rk: 15821, frq: 861}
+cystic <> J: {rk: 17924, frq: 615}
+cystitis <> N: {rk: 43661, frq: 86}
+cytokine <> N: {rk: 25061, frq: 289}
+cytologic <> J: {rk: 53545, frq: 39}
+cytology <> N: {rk: 42895, frq: 85}
+cytomegalovirus <> N: {rk: 44548, frq: 54}
+cytoplasm <> N: {rk: 27938, frq: 213}
+cytoplasmic <> J: {rk: 35307, frq: 125}
+cytosine <> N: {rk: 58916, frq: 21}
+cytotoxic <> J: {rk: 45419, frq: 49}
+czar <> N: {rk: 10946, frq: 1541}
+czarina <> N: {rk: 55334, frq: 36}
+czarist <> N: {rk: 35473, frq: 95}, J: {rk: 47719, frq: 38}

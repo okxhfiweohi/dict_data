@@ -1,0 +1,629 @@
+jab <> p: jabbed, i: jabbing, s: jabs, '3': jabs, d: jabbed
+jabbed <> b: jab, f: pd
+jabber <> i: jabbering, p: jabbered, '3': jabbers, d: jabbered
+jabbered <> f: pd, b: jabber
+jabbering <> b: jabber, f: i, i: jabbering
+jabbers <> b: jabber, f: '3'
+jabberwockies <> b: jabberwocky, f: '3'
+jabberwocky <> '3': jabberwockies
+jabbing <> b: jab, f: i
+Jabir <> s: jabirs
+jabs <> b: jab, f: s3
+jacana <> s: jacanas
+jacanas <> b: jacana, f: s
+jacaranda <> s: jacarandas
+jacarandas <> b: jacaranda, f: s
+jack <> s: jacks, p: jacked, i: jacking, d: jacked, '3': jacks
+jack-in-the-box <> s: jack-in-the-boxes
+jack-in-the-boxes <> b: jack-in-the-box, f: s
+jack-knife <> s: jack-knifes
+jack-knifed <> f: d, b: jackknife
+jack-knifes <> b: jack-knife, f: s
+jack-knifing <> f: i, b: jackknife
+jackal <> s: jackals
+jackals <> b: jackal, f: s
+jackboot <> s: jackboots
+jackboots <> b: jackboot, f: s
+jackdaw <> s: jackdaws
+jackdaws <> b: jackdaw, f: s
+jacked <> b: jack, f: pd
+jacket <> s: jackets, i: jacketing, p: jacketed, '3': jackets, d: jacketed
+jacketed <> b: jackete, f: p, p: jacketed, d: jacketed
+jacketing <> b: jackete, f: i
+jackets <> f: s3, b: jacket
+jackhammer <> s: jackhammers
+jackhammers <> b: jackhammer, f: s
+jacking <> b: jack, f: i, i: jacking
+jackknife <> p: jackknifed, i: jack-knifing, '3': jack-knifes, d: jack-knifed
+jackknifed <> b: jackknife, f: p
+Jackman <> s: jackmans
+jackpot <> s: jackpots
+jackpots <> b: jackpot, f: s
+jacks <> f: s3, b: jack
+Jacobean <> s: jacobeans
+Jacobi <> s: jacobi, b: jacobi, f: s
+jacobin <> s: jacobins
+jacobins <> b: jacobin, f: s
+Jacobite <> s: jacobites
+jacquard <> s: jacquards
+jacquards <> b: jacquard, f: s
+Jacqui <> s: jacqui, b: jacqui, f: s
+Jacuzzi <> s: jacuzzi, b: jacuzzi, f: s
+jade <> s: jades, i: jading, p: jaded, '3': jades, d: jaded
+jaded <> f: pd, b: jade
+jades <> f: s3, b: jade
+jading <> b: jade, f: i, i: jading
+jaeger <> s: jaegers, '3': jaegers
+jaegers <> b: jaeger, f: s3
+jag <> i: jagging, s: jags, p: jagged, '3': jags, d: jagged
+jaggies <> b: jaggy, f: s
+jagging <> b: jag, f: i, s: jaggings
+jaggy <> s: jaggies
+jags <> b: jag, f: s
+jaguar <> s: jaguars
+jaguars <> b: jaguar, f: s
+jail <> d: jailed, s: jails, p: jailed, i: jailing, '3': jails
+jailbird <> s: jailbirds
+jailbirds <> b: jailbird, f: s
+jailed <> b: jail, f: dp, d: jailed, p: jailed
+jailer <> s: jailers
+jailers <> b: jailer, f: s
+jailing <> b: jail, f: i, s: jailings, i: jailing
+jails <> f: s3, b: jail
+jake <> s: jakes
+jakes <> b: jake, f: s
+jali <> s: jali, b: jali, f: s
+jalopies <> b: jalopy, f: s
+jalopy <> s: jalopies
+jam <> d: jammed, s: jams, i: jamming, p: jammed, '3': jams
+jamaican <> s: jamaicans
+jamaicans <> b: jamaican, f: s
+jamb <> s: jambs
+jamboree <> s: jamborees
+jamborees <> b: jamboree, f: s
+jambs <> b: jamb, f: s
+jame <> s: james, '3': james
+james <> b: jame, f: s3
+jameson <> s: jamesons
+jamesons <> b: jameson, f: s
+jammed <> b: jam, f: dp, d: jammed
+jammer <> s: jammers
+jammers <> b: jammer, f: s
+jammiest <> b: jammy, f: t
+jamming <> b: jam, f: i, i: jamming
+jammy <> t: jammiest
+jams <> f: s3, b: jam
+jangle <> p: jangled, i: jangling, s: jangles, '3': jangles, d: jangled
+jangled <> f: pd, b: jangle, p: jangled
+jangles <> b: jangle, f: s3
+jangling <> b: jangle, f: i, i: jangling, s: janglings
+janissaries <> b: janissary, f: s
+janissary <> s: janissaries
+janitor <> s: janitors
+janitors <> b: janitor, f: s
+janker <> s: jankers
+jankers <> b: janker, f: s
+jansen <> s: jansens
+Jansenist <> s: jansenists
+jansens <> b: jansen, f: s
+Jap <> s: japs
+Japan <> i: japanning, p: japanned, '3': japans, d: japanned
+japanned <> f: pd, b: japan
+japanning <> f: i, b: japan
+japans <> f: '3', b: japan
+jape <> s: japes
+japes <> b: jape, f: s
+jaque <> s: jaques
+Jaques <> b: jaque, f: s
+jar <> s: jars, p: jarred, i: jarring, d: jarred, '3': jars
+jargon <> s: jargons, i: jargoning
+jargoning <> b: jargon, f: i
+jargons <> b: jargon, f: s
+jarred <> b: jar, f: pd
+jarring <> b: jar, f: i, i: jarring
+jars <> b: jar, f: s3
+jasmine <> s: jasmines
+jasmines <> b: jasmine, f: s
+jasper <> s: jaspers
+jati <> s: jati, b: jati, f: s
+jaundice <> i: jaundicing, s: jaundices, p: jaundiced, '3': jaundices, d: jaundiced
+jaundiced <> f: pd, b: jaundice
+jaundices <> f: s3, b: jaundice
+jaundicing <> b: jaundice, f: i
+jaunt <> s: jaunts, d: jaunted, i: jaunting, p: jaunted, '3': jaunts
+jaunted <> f: dp, b: jaunt
+jaunting <> f: i, b: jaunt
+jaunts <> f: s3, b: jaunt
+Java <> s: javas
+javelin <> s: javelins
+javelins <> b: javelin, f: s
+jaw <> s: jaws, p: jawed, i: jawing, '3': jaws, d: jawed
+jawbone <> s: jawbones
+jawbones <> b: jawbone, f: s
+jawed <> f: pd, b: jaw
+jawing <> f: i, b: jaw
+jawline <> s: jawlines
+jawlines <> b: jawline, f: s
+jaws <> f: s3, b: jaw
+jay <> s: jays
+jays <> b: jay, f: s
+jaywalk <> i: jaywalking, p: jaywalked, '3': jaywalks, d: jaywalked
+jaywalked <> f: pd, b: jaywalk
+jaywalking <> f: i, b: jaywalk
+jaywalks <> f: '3', b: jaywalk
+jazz <> i: jazzing, p: jazzed, '3': jazzes, d: jazzed
+jazzed <> b: jaz, f: pd
+jazzer <> s: jazzers
+jazzers <> b: jazzer, f: s
+jazzes <> f: '3', b: jazz
+jazzier <> b: jazzy, f: r
+jazzing <> b: jaz, f: i
+jazzman <> s: jazzmen
+jazzmen <> b: jazzman, f: s
+jazzy <> r: jazzier
+je <> s: jes, '3': jes
+jealousies <> b: jealousy, f: s
+jealousy <> s: jealousies
+jeans <> s: jeans, b: jeans, f: s
+jebel <> s: jebels
+jebels <> b: jebel, f: s
+jeep <> s: jeeps
+jeeps <> b: jeep, f: s
+jeer <> p: jeered, s: jeers, d: jeered, i: jeering, '3': jeers
+jeered <> b: jeer, f: pd
+jeering <> b: jeer, f: i, i: jeering
+jeers <> b: jeer, f: s3
+Jeeves <> b: jeeve, f: s3
+JEFFERIES <> b: jeffery, f: s
+Jeffery <> s: jefferies
+Jekyll <> s: jekylls
+jell <> i: jelling, d: jelled, p: jelled, '3': jells
+jelled <> b: jell, f: dp
+jellied <> f: pd, b: jelly, p: jellied
+jellies <> f: s3, b: jelly
+jellified <> f: pd, b: jellify
+jellifies <> f: '3', b: jellify
+jellify <> i: jellifying, p: jellified, '3': jellifies, d: jellified
+jellifying <> f: i, b: jellify
+jelling <> b: jell, f: i
+jells <> f: '3', b: jell
+jelly <> s: jellies, p: jellied, i: jellying, '3': jellies, d: jellied
+jellyfish <> s: jellyfishes
+jellyfishes <> b: jellyfish, f: s
+jemmied <> b: jemmy, f: p
+jemmies <> b: jemmy, f: s
+jemmy <> p: jemmied, s: jemmies
+jen <> r: jenner, s: jens
+Jencks <> b: jenck, f: s
+JENKINSON <> s: jenkinsons
+JENKS <> b: jenk, f: s3
+Jenner <> b: jen, f: r, s: jenners
+jennies <> b: jenny, f: s
+jenny <> s: jennies
+Jens <> b: jen, f: s
+jeopardies <> b: jeopardy, f: s
+jeopardise <> d: jeopardised, i: jeopardising, '3': jeopardises, p: jeopardised
+jeopardised <> b: jeopardise, f: dp, p: jeopardised
+jeopardises <> b: jeopardise, f: '3'
+jeopardising <> b: jeopardise, f: i
+jeopardize <> d: jeopardized, i: jeopardizing, p: jeopardized, '3': jeopardizes
+jeopardized <> b: jeopardize, f: dp
+jeopardizes <> b: jeopardize, f: '3'
+jeopardizing <> b: jeopardize, f: i
+jeopardy <> s: jeopardies
+jerboa <> s: jerboas
+jerboas <> b: jerboa, f: s
+jeremiad <> s: jeremiads
+jeremiads <> b: jeremiad, f: s
+jerk <> p: jerked, i: jerking, d: jerked, s: jerks, '3': jerks
+jerked <> b: jerk, f: pd
+jerker <> s: jerkers
+jerkers <> b: jerker, f: s
+jerkier <> b: jerky, f: r
+jerkin <> s: jerkins
+jerking <> b: jerk, f: i, i: jerking, s: jerkings
+jerkins <> b: jerkin, f: s
+jerks <> b: jerk, f: s3
+jerky <> r: jerkier
+jerrycan <> s: jerrycans
+jerrycans <> b: jerrycan, f: s
+jersey <> s: jerseys
+jerseys <> b: jersey, f: s
+jess <> s: jesses, '3': jesses
+jesses <> b: jess, f: s3
+jest <> i: jesting, s: jests, '3': jests, p: jested, d: jested
+jested <> f: pd, b: jest
+jester <> s: jesters
+jesters <> b: jester, f: s
+jesting <> b: jest, f: i
+jests <> b: jest, f: s3
+jesuit <> s: jesuits
+jet <> s: jets, i: jetting, p: jetted, d: jetted, '3': jets
+jet-setter <> s: jet-setters
+jet-setters <> b: jet-setter, f: s
+jetliner <> s: jetliners
+jetliners <> b: jetliner, f: s
+jets <> f: s3, b: jet
+jetted <> b: jet, f: pd, p: jetted
+jettied <> b: jetty, f: dp
+jetties <> b: jetty, f: s
+jetting <> b: jet, f: i, i: jetting
+jettison <> d: jettisoned, i: jettisoning, p: jettisoned, '3': jettisons
+jettisoned <> b: jettison, f: dp
+jettisoning <> b: jettison, f: i
+jettisons <> b: jettison, f: '3'
+jetty <> s: jetties, d: jettied, p: jettied
+JEUNE <> s: jeunes
+Jew <> s: jews
+jewel <> s: jewels, p: jewelled, d: jewelled, i: jewelling, '3': jewels
+jewell <> s: jewells
+jewelled <> b: jewel, f: pd, p: jewelled, d: jewelled
+jeweller <> s: jewellers
+jewellers <> b: jeweller, f: s
+jewelling <> b: jewel, f: i
+jewells <> b: jewell, f: s
+jewels <> f: s3, b: jewel
+jews <> b: jew, f: s
+jezebel <> s: jezebels
+jezebels <> b: jezebel, f: s
+ji <> s: ji, b: ji, f: s
+jib <> p: jibbed, s: jibs, d: jibbed, i: jibbing, '3': jibs
+jibbed <> b: jib, f: pd
+jibbing <> b: jib, f: i
+jibe <> s: jibes, p: jibed, i: jibing, '3': jibes, d: jibed
+jibed <> f: pd, b: jibe
+jibes <> f: s3, b: jibe
+jibing <> b: jibe, f: i
+jibs <> f: s3, b: jib
+jig <> s: jigs, i: jigging, p: jigged, d: jigged, '3': jigs
+jigged <> b: jig, f: pd
+jigger <> d: jiggered, p: jiggered, s: jiggers
+jiggered <> b: jigger, f: dp, d: jiggered
+jiggers <> b: jigger, f: s
+jigging <> b: jig, f: i
+jiggle <> p: jiggled, i: jiggling, '3': jiggles, d: jiggled
+jiggled <> b: jiggle, f: pd
+jiggles <> b: jiggle, f: '3'
+jigglier <> b: jiggly, f: r
+jiggling <> b: jiggle, f: i
+jiggly <> r: jigglier
+jigs <> f: s3, b: jig
+jigsaw <> s: jigsaws
+jigsaws <> b: jigsaw, f: s
+jilt <> d: jilted, p: jilted, i: jilting, '3': jilts
+jilted <> b: jilt, f: dp
+jilting <> b: jilt, f: i
+jilts <> f: '3', b: jilt
+jim-jams <> b: jim-jam, f: s
+jimbo <> s: jimbos
+jimbos <> b: jimbo, f: s
+jimmied <> f: pd, b: jimmy
+jimmies <> f: '3', b: jimmy
+jimmy <> i: jimmying, p: jimmied, '3': jimmies, d: jimmied
+jimmying <> f: i, b: jimmy
+jing <> s: jings
+jingle <> s: jingles, p: jingled, i: jingling, d: jingled, '3': jingles
+jingled <> b: jingle, f: pd
+jingles <> f: s3, b: jingle
+jingling <> b: jingle, f: i, i: jingling
+jings <> b: jing, f: s
+jink <> p: jinked, s: jinks, i: jinking
+jinked <> b: jink, f: p
+jinking <> b: jink, f: i
+jinks <> b: jink, f: s
+jinx <> d: jinxed, p: jinxed, i: jinxing, '3': jinxes
+jinxed <> b: jinx, f: dp, p: jinxed
+jinxes <> f: '3', b: jinx
+jinxing <> f: i, b: jinx
+jitney <> s: jitneys
+jitneys <> b: jitney, f: s
+jitter <> s: jitters, p: jittered
+jitterbug <> i: jitterbugging, s: jitterbugs, p: jitterbugged, '3': jitterbugs, d: jitterbugged
+jitterbugging <> b: jitterbug, f: i, i: jitterbugging
+jitterbugs <> b: jitterbug, f: s
+jittered <> b: jitter, f: p
+jitters <> b: jitter, f: s
+jive <> i: jiving, s: jives, d: jived, p: jived, '3': jives
+jived <> b: jive, f: dp
+jives <> b: jive, f: s
+jiving <> b: jive, f: i
+jo <> t: joest
+job <> s: jobs, i: jobbing, p: jobbed, '3': jobs, d: jobbed
+job-share <> s: job-shares
+job-shares <> b: job-share, f: s
+jobbed <> f: pd, b: job
+jobber <> s: jobbers
+jobbers <> b: jobber, f: s
+jobbing <> f: i, b: job
+jobcentre <> s: jobcentres
+jobcentres <> b: jobcentre, f: s
+jobs <> f: s3, b: job
+jobseeker <> s: jobseekers
+jobseekers <> b: jobseeker, f: s
+Jobson <> s: jobsons
+jobsworth <> s: jobsworths
+jobsworths <> b: jobsworth, f: s
+jock <> s: jocks, d: jocked, p: jocked
+jocked <> b: jock, f: dp
+jockey <> s: jockeys, i: jockeying, p: jockeyed, '3': jockeys, d: jockeyed
+jockeyed <> f: pd, b: jockey
+jockeying <> b: jockey, f: i, i: jockeying, s: jockeyings
+jockeys <> f: s3, b: jockey
+jocks <> b: jock, f: s
+jockstrap <> s: jockstraps
+jockstraps <> b: jockstrap, f: s
+jodhpur <> s: jodhpurs, '3': jodhpurs
+jodhpurs <> b: jodhpur, f: s3
+joest <> b: jo, f: t
+joey <> s: joeys
+joeys <> b: joey, f: s
+jog <> p: jogged, i: jogging, s: jogs, d: jogged, '3': jogs
+jogged <> b: jog, f: pd
+jogger <> s: joggers
+joggers <> b: jogger, f: s
+jogging <> b: jog, f: i, i: jogging
+joggle <> p: joggled, i: joggling, d: joggled, s: joggles, '3': joggles
+joggled <> b: joggle, f: pd
+joggles <> f: s3, b: joggle
+joggling <> b: joggle, f: i
+jogs <> b: jog, f: s3
+Johanne <> s: johannes
+johannes <> b: johanne, f: s
+johnnies <> b: johnny, f: s
+johnny <> s: johnnies
+johnsonian <> s: johnsonians
+johnsonians <> b: johnsonian, f: s
+join <> p: joined, d: joined, i: joining, '3': joins, s: joins
+joined <> b: join, f: pd, d: joined, p: joined
+joiner <> s: joiners, i: joinering
+joinering <> b: joiner, f: i
+joiners <> b: joiner, f: s
+joining <> b: join, f: i, i: joining
+joins <> b: join, f: 3s
+joint <> s: joints, d: jointed, i: jointing, p: jointed, '3': joints
+jointed <> b: joint, f: dp
+jointer <> s: jointers
+jointers <> b: jointer, f: s
+jointing <> b: joint, f: i, i: jointing, s: jointings
+joints <> f: s3, b: joint
+joist <> s: joists, p: joisted
+joisted <> b: joist, f: p, p: joisted
+joists <> b: joist, f: s
+joke <> s: jokes, i: joking, p: joked, '3': jokes, d: joked
+joked <> b: joke, f: pd
+joker <> s: jokers
+jokers <> b: joker, f: s
+jokes <> b: joke, f: s3
+jokier <> b: joky, f: r
+jokiest <> b: joky, f: t
+joking <> b: joke, f: i, i: joking
+joky <> t: jokiest, r: jokier
+jollied <> b: jolly, f: pd
+jollier <> b: jolly, f: r
+jollies <> b: jolly, f: '3'
+jolliest <> b: jolly, f: t
+jollification <> s: jollifications
+jollifications <> b: jollification, f: s
+jollities <> b: jollity, f: s
+jollity <> s: jollities
+jolly <> '3': jollies, r: jollier, t: jolliest, i: jollying, p: jollied, d: jollied
+jollying <> b: jolly, f: i
+jolt <> p: jolted, d: jolted, i: jolting, s: jolts, '3': jolts
+jolted <> b: jolt, f: pd
+jolting <> b: jolt, f: i, i: jolting
+jolts <> b: jolt, f: s3
+jon <> p: joned
+Jona <> s: jonas
+jonas <> b: jona, f: s
+joned <> b: jon, f: p
+jongleur <> s: jongleurs
+jongleurs <> b: jongleur, f: s
+Joni <> s: joni, b: joni, f: s
+jonquil <> s: jonquils
+jonquils <> b: jonquil, f: s
+jopling <> s: joplings
+joplings <> b: jopling, f: s
+Jordanian <> s: jordanians
+jordanians <> b: jordanian, f: s
+josh <> i: joshing, p: joshed, '3': joshes, d: joshed
+joshed <> f: pd, b: josh
+joshes <> f: '3', b: josh
+Joshi <> s: joshi, b: joshi, f: s
+joshing <> b: josh, f: i, i: joshing
+jostle <> i: jostling, p: jostled, d: jostled, '3': jostles, s: jostles
+jostled <> b: jostle, f: pd
+jostles <> b: jostle, f: 3s
+jostling <> b: jostle, f: i, i: jostling, s: jostlings
+jot <> p: jotted, i: jotting, d: jotted, s: jots, '3': jots
+jots <> b: jot, f: s3
+jotted <> b: jot, f: pd
+jotter <> s: jotters
+jotters <> b: jotter, f: s
+jotting <> b: jot, f: i, s: jottings
+jottings <> b: jotting, f: s
+joule <> s: joules
+joules <> b: joule, f: s
+jounce <> p: jounced, i: jouncing, d: jounced, '3': jounces
+jounced <> b: jounce, f: pd
+jounces <> f: '3', b: jounce
+jouncing <> b: jounce, f: i
+journal <> s: journals
+journalist <> s: journalists
+journalists <> b: journalist, f: s
+journals <> b: journal, f: s
+journey <> s: journeys, p: journeyed, i: journeying, d: journeyed, '3': journeys
+journeyed <> b: journey, f: pd, p: journeyed
+journeying <> b: journey, f: i, s: journeyings, i: journeying
+journeyman <> s: journeymen
+journeymen <> b: journeyman, f: s
+journeys <> f: s3, b: journey
+journo <> s: journos
+journos <> b: journo, f: s
+joust <> i: jousting, s: jousts, d: jousted, p: jousted, '3': jousts
+jousted <> b: joust, f: dp
+jouster <> s: jousters
+jousters <> b: jouster, f: s
+jousting <> b: joust, f: i, i: jousting, s: joustings
+jousts <> f: s3, b: joust
+jowl <> s: jowls
+jowls <> b: jowl, f: s
+joy <> s: joys, i: joying, p: joyed, '3': joys, d: joyed
+joyed <> f: pd, b: joy
+joying <> f: i, b: joy
+joyride <> i: joyriding, s: joyrides, '3': joyrides, p: joyrided
+joyrided <> b: joyride, f: p
+joyrider <> s: joyriders
+joyriders <> b: joyrider, f: s
+joyrides <> b: joyride, f: s3
+joyriding <> i: joyriding, b: joyriding, f: i
+joys <> f: s3, b: joy
+joystick <> s: joysticks
+joysticks <> b: joystick, f: s
+JP <> s: jps
+jr <> s: jrs
+jrs <> b: jr, f: s
+jubilate <> i: jubilating, p: jubilated, '3': jubilates, d: jubilated
+jubilated <> f: pd, b: jubilate
+jubilates <> f: '3', b: jubilate
+jubilating <> f: i, b: jubilate
+jubilation <> s: jubilations
+jubilations <> b: jubilation, f: s
+jubilee <> s: jubilees
+jubilees <> b: jubilee, f: s
+juda <> s: judas
+Judas <> b: juda, f: s
+judder <> p: juddered, i: juddering, '3': judders, s: judders, d: juddered
+juddered <> b: judder, f: pd
+juddering <> b: judder, f: i
+judders <> b: judder, f: 3s
+judge <> s: judges, d: judged, i: judging, p: judged, '3': judges
+judged <> b: judge, f: dp, d: judged, p: judged
+judgement <> s: judgements
+judgements <> b: judgement, f: s
+judges <> b: judge, f: s3
+judgeship <> s: judgeships
+judgeships <> b: judgeship, f: s
+judging <> b: judge, f: i, i: judging
+judgment <> s: judgments
+judgments <> b: judgment, f: s
+judiciaries <> b: judiciary, f: s
+judiciary <> s: judiciaries
+jug <> s: jugs, i: jugging, p: jugged, '3': jugs, d: jugged
+jugful <> s: jugfuls
+jugfuls <> b: jugful, f: s
+jugged <> p: jugged, b: jugged, f: p
+juggernaut <> s: juggernauts, '3': juggernauts
+juggernauts <> b: juggernaut, f: s3
+jugging <> f: i, b: jug
+juggle <> i: juggling, p: juggled, '3': juggles, d: juggled
+juggled <> b: juggle, f: pd
+juggler <> s: jugglers
+jugglers <> b: juggler, f: s
+juggles <> b: juggle, f: '3'
+juggling <> b: juggle, f: i, i: juggling
+jugs <> f: s3, b: jug
+jugular <> s: jugulars
+jugulars <> b: jugular, f: s
+juice <> s: juices
+juices <> b: juice, f: s
+juicier <> b: juicy, f: r
+juiciest <> b: juicy, f: t
+juicy <> t: juiciest, r: juicier
+juke <> '3': jukes, s: jukes
+juke-box <> s: juke-boxes
+juke-boxes <> b: juke-box, f: s
+jukebox <> s: jukeboxes
+jukeboxes <> b: jukebox, f: s
+jukes <> b: juke, f: 3s
+julep <> s: juleps
+juleps <> b: julep, f: s
+jumble <> d: jumbled, s: jumbles, i: jumbling, p: jumbled, '3': jumbles
+jumbled <> b: jumble, f: dp, d: jumbled
+jumbles <> f: s3, b: jumble
+jumbling <> b: jumble, f: i
+jumbo <> s: jumbos
+jumbos <> b: jumbo, f: s
+jump <> p: jumped, i: jumping, d: jumped, '3': jumps, s: jumps
+jump-off <> s: jump-offs
+jump-offs <> b: jump-off, f: s
+jump-start <> s: jump-starts, i: jump-starting, p: jump-started, '3': jump-starts, d: jump-started
+jump-starts <> b: jump-start, f: s
+jumped <> b: jump, f: pd
+jumper <> s: jumpers
+jumpers <> b: jumper, f: s
+jumping <> b: jump, f: i, i: jumping
+jumps <> b: jump, f: 3s
+jumpstart <> i: jumpstarting, p: jumpstarted, '3': jumpstarts, d: jumpstarted
+jumpstarted <> f: pd, b: jumpstart
+jumpstarting <> f: i, b: jumpstart
+jumpstarts <> f: '3', b: jumpstart
+jumpsuit <> s: jumpsuits
+jumpsuits <> b: jumpsuit, f: s
+junction <> s: junctions
+junctions <> b: junction, f: s
+juncture <> s: junctures
+junctures <> b: juncture, f: s
+jung <> p: jung, b: jung, f: pd, d: jung
+jungian <> s: jungians
+jungians <> b: jungian, f: s
+jungle <> s: jungles
+jungles <> b: jungle, f: s
+junior <> s: juniors
+juniors <> b: junior, f: s
+juniper <> s: junipers
+junipers <> b: juniper, f: s
+junk <> s: junks, i: junking, d: junked, p: junked, '3': junks, r: junker
+junked <> b: junk, f: dp, p: junked
+junker <> b: junk, f: r, s: junkers
+Junkers <> b: junker, f: s
+junket <> s: junkets, i: junketing, p: junketed, '3': junkets, d: junketed
+junketed <> f: pd, b: junket
+junketing <> s: junketings, i: junketing, b: junketing, f: i
+junkets <> f: s3, b: junket
+junkies <> b: junky, f: s3
+junking <> b: junk, f: i
+junks <> b: junk, f: s3
+junky <> s: junkies, '3': junkies
+junta <> s: juntas
+juntas <> b: junta, f: s
+jurat <> s: jurats
+jurats <> b: jurat, f: s
+juries <> b: jury, f: s
+jurisdiction <> s: jurisdictions
+jurisdictional <> s: jurisdictionals
+jurisdictionals <> b: jurisdictional, f: s
+jurisdictions <> b: jurisdiction, f: s
+jurist <> s: jurists
+jurists <> b: jurist, f: s
+juror <> s: jurors
+jurors <> b: juror, f: s
+jury <> s: juries
+juryman <> s: jurymen
+jurymen <> b: juryman, f: s
+justice <> s: justices
+justices <> b: justice, f: s
+justiceship <> s: justiceships
+justiceships <> b: justiceship, f: s
+justiciar <> s: justiciars
+justiciars <> b: justiciar, f: s
+justification <> s: justifications
+justifications <> b: justification, f: s
+justified <> b: justify, f: dp, d: justified, p: justified
+justifier <> s: justifiers
+justifiers <> b: justifier, f: s
+justify <> d: justified, '3': justifies, i: justifying, p: justified
+justifying <> b: justify, f: i
+jut <> i: jutting, p: jutted, '3': juts, s: juts, d: jutted
+jute <> s: jutes
+jutes <> b: jute, f: s
+juts <> b: jut, f: 3s
+jutted <> f: pd, b: jut
+jutting <> b: jut, f: i
+juvenile <> s: juveniles
+juveniles <> b: juvenile, f: s
+juxtapose <> d: juxtaposed, '3': juxtaposes, p: juxtaposed, i: juxtaposing
+juxtaposed <> b: juxtapose, f: dp, d: juxtaposed, p: juxtaposed
+juxtaposes <> b: juxtapose, f: '3'
+juxtaposing <> b: juxtapose, f: i
+juxtaposition <> s: juxtapositions
+juxtapositions <> b: juxtaposition, f: s

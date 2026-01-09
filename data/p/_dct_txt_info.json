@@ -1,0 +1,67 @@
+{
+    "phonetic": {
+        "start": "p",
+        "end": "ponga",
+        "total": 5000
+    },
+    "phonetic__1": {
+        "start": "pongee",
+        "end": "pyxidium",
+        "total": 3300
+    },
+    "bnc": {
+        "start": "p",
+        "end": "python",
+        "total": 3339
+    },
+    "explain": {
+        "start": "p",
+        "end": "pigeonholing",
+        "total": 5000
+    },
+    "explain__1": {
+        "start": "pigeonite",
+        "end": "proctoscopy",
+        "total": 5000
+    },
+    "explain__2": {
+        "start": "procumbent",
+        "end": "pyxidium",
+        "total": 2285
+    },
+    "exchange": {
+        "start": "p",
+        "end": "promise",
+        "total": 5000
+    },
+    "exchange__1": {
+        "start": "promised",
+        "end": "pythons",
+        "total": 933
+    },
+    "freq": {
+        "start": "pablum",
+        "end": "python",
+        "total": 3405
+    },
+    "collins": {
+        "start": "pace",
+        "end": "python",
+        "total": 1091
+    },
+    "pos": {
+        "start": "pablum",
+        "end": "python",
+        "total": 3392
+    },
+    "redirect": {
+        "start": "pabxs",
+        "end": "pythians",
+        "total": 108
+    },
+    "lgk_id": {
+        "start": "paca",
+        "end": "pyx",
+        "total": 2740
+    }
+}

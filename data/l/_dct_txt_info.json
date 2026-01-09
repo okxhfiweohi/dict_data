@@ -1,0 +1,52 @@
+{
+    "phonetic": {
+        "start": "L",
+        "end": "Lytton",
+        "total": 3355
+    },
+    "exchange": {
+        "start": "L",
+        "end": "lysosomes",
+        "total": 2247
+    },
+    "bnc": {
+        "start": "L",
+        "end": "Lytton",
+        "total": 1619
+    },
+    "explain": {
+        "start": "L",
+        "end": "Lusitania",
+        "total": 5000
+    },
+    "explain__1": {
+        "start": "lusophone",
+        "end": "Lytton",
+        "total": 241
+    },
+    "freq": {
+        "start": "laager",
+        "end": "lytic",
+        "total": 1264
+    },
+    "collins": {
+        "start": "lab",
+        "end": "lyrical",
+        "total": 441
+    },
+    "redirect": {
+        "start": "l-plates",
+        "end": "lys",
+        "total": 69
+    },
+    "lgk_id": {
+        "start": "la-la land",
+        "end": "lysosome",
+        "total": 1170
+    },
+    "pos": {
+        "start": "laager",
+        "end": "lytic",
+        "total": 1305
+    }
+}

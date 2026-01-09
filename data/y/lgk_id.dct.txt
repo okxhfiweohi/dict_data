@@ -1,0 +1,100 @@
+yabby <> w: 367766
+yacht <> w: 207185, p: [51518, 51518]
+yack <> w: 229176
+yahoo <> w: 207199, p: [42564]
+yak <> w: 207205, p: [24488]
+yakitori <> w: 218015
+yam <> w: 207219, p: [26908]
+yammer <> w: 207227, p: [29643]
+yank <> w: 207237, p: [52191]
+yanomami <> w: 219262
+yap <> w: 207244
+yard <> w: 207246, p: [48617, 36210]
+yardstick <> w: 207265
+yarn <> w: 207269, p: [33797]
+yarrow <> w: 207272, p: [35035]
+yashmak <> w: 207274, p: [39885]
+yawl <> w: 207284
+yawn <> w: 207285, p: [35912, 35912]
+yawning <> w: 207287, p: [35912, 35912]
+yaws <> w: 207289
+yay <> w: 207290, p: [60634]
+ye <> w: 225789
+yeah <> w: 207296, p: [47440]
+year <> w: 207297, p: [48599]
+yearbook <> w: 207303
+yearling <> w: 207304, p: [19835]
+yearlong <> w: 207305
+yearly <> w: 207306, p: [45603, 45603]
+yearn <> w: 207307, p: [59650, 61304]
+yearning <> w: 207310
+yeast <> w: 207313, p: [31235]
+yeasty <> w: 207316
+yech <> w: 225942, p: [28732]
+yell <> w: 207323, p: [17119, 29669]
+yellow <> w: 207327, p: [47825, 47825]
+yellow card <> w: 226686
+yellow fever <> w: 207387
+yellowhammer <> w: 207582, p: [25120]
+yellowhead <> w: 220566
+yellowness <> w: 207594
+yellowtail <> w: 207598
+yelp <> w: 207604
+yen <> w: 207611, p: [37383]
+yeow <> w: 225935, p: [47562]
+yep <> w: 225901, p: [47440]
+yes <> w: 207631, p: [47440]
+yes-man <> w: 207632
+yeshiva <> w: 207634
+yessir <> w: 209397
+yesterday <> w: 207636, p: [17374, 17374]
+yesteryear <> w: 207637, p: [17362]
+yet <> w: 207638, p: [43578]
+yeti <> w: 207639
+yield <> w: 207655, p: [36295, 47933, 59997, 20293]
+yielding <> w: 207658, p: [36295]
+yikes <> w: 225943, p: [48799]
+yippee <> w: 225856, p: [42564]
+yo <> w: 226028, p: [48401]
+yo-yo <> w: 207667, p: [31990]
+yoga <> w: 207677, p: [51678, 51678]
+yogurt <> w: 207685, p: [27085]
+yoicks <> w: 225991
+yoke <> w: 207686, p: [37451]
+yolk <> w: 207693, p: [18213]
+yonder <> w: 207698
+yoo-hoo <> w: 226012, p: [49091]
+yore <> w: 207699
+yorker <> w: 227459
+you <> w: 216616, p: [37211]
+you are welcome <> p: [35702]
+you bet <> p: [49736]
+you name it <> p: [45076]
+you never know <> p: [46728]
+young <> w: 207716, p: [60642, 30630, 19819]
+young blood <> p: [19300]
+young lady <> w: 207725, p: [60879]
+young man <> w: 207727, p: [19981]
+youngberry <> w: 220948
+youngish <> w: 207732
+youngster <> w: 207734, p: [19819]
+younker <> w: 207736, p: [60642]
+your <> w: 210165, p: [37277]
+yours <> w: 219330, p: [37277]
+yourself <> w: 216625
+yourselves <> w: 217414
+youth <> w: 207737, p: [19981, 20273]
+youth club <> w: 365739
+youth culture <> w: 207740
+youth hostel <> w: 207742, p: [19020]
+youthful <> w: 207745, p: [60626]
+yow <> w: 225932, p: [48179]
+yowl <> w: 207748, p: [29643]
+yuan <> w: 207755, p: [37385]
+yuck <> w: 218067, p: [23433]
+yucky <> w: 207772, p: [49522]
+yule <> w: 207786, p: [18639]
+yuletide <> w: 207788, p: [18639]
+yum <> w: 225888, p: [16023]
+yummy <> w: 207791, p: [16023]
+yurt <> w: 207798

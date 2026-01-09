@@ -1,0 +1,47 @@
+{
+    "phonetic": {
+        "start": "V",
+        "end": "vying",
+        "total": 1585
+    },
+    "bnc": {
+        "start": "V",
+        "end": "VZV",
+        "total": 703
+    },
+    "explain": {
+        "start": "V",
+        "end": "VZV",
+        "total": 2330
+    },
+    "exchange": {
+        "start": "V-neck",
+        "end": "vying",
+        "total": 1050
+    },
+    "freq": {
+        "start": "vac",
+        "end": "vulva",
+        "total": 625
+    },
+    "collins": {
+        "start": "vacancy",
+        "end": "vulture",
+        "total": 216
+    },
+    "redirect": {
+        "start": "v-necks",
+        "end": "volans",
+        "total": 20
+    },
+    "lgk_id": {
+        "start": "vac",
+        "end": "vulva",
+        "total": 525
+    },
+    "pos": {
+        "start": "vac",
+        "end": "vulva",
+        "total": 608
+    }
+}

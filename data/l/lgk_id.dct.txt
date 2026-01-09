@@ -1,0 +1,1170 @@
+la-la land <> p: [42610]
+label <> w: 104039, p: [37043, 36999, 34133]
+labial <> w: 104046
+labile <> w: 104056
+labiodental <> w: 104057
+labiovelar <> w: 208782
+labor <> w: 104063, p: [44796]
+labor-intensive <> w: 104064
+laboratory <> w: 104084, p: [61192]
+laborer <> w: 104088
+laborious <> w: 104090
+laboriously <> w: 104091, p: [43004]
+labrador <> w: 104105, p: [24146]
+labyrinth <> w: 104117, p: [30353]
+labyrinthian <> w: 104119
+labyrinthine <> w: 104120
+lace <> w: 104133, p: [20517, 46567]
+laced <> w: 104141
+lacemaking <> w: 104138
+lacerate <> w: 104145, p: [58561]
+laceration <> w: 104147, p: [17725]
+lacewing <> w: 104156, p: [25291]
+lachrymose <> w: 104171
+lack <> w: 104174
+lackadaisical <> w: 104175
+lacking <> w: 104178, p: [51390]
+lackluster <> w: 104179
+laconic <> w: 104183, p: [49712]
+laconically <> w: 104184, p: [49712]
+lacrosse <> w: 104202
+lactate <> w: 104211
+lactation <> w: 104213
+lacteal <> w: 104214
+lactic <> w: 104215, p: [27151]
+lacto-ovo-vegetarian <> p: [32592]
+lactose <> w: 104229
+lacuna <> w: 104240
+lacy <> w: 104243
+lad <> w: 104244, p: [60862, 60893]
+ladder <> w: 104247, p: [20830, 29862]
+laddie <> w: 104252, p: [60893]
+laddish <> w: 228949
+lade <> w: 104253, p: [22792, 37824]
+laden <> w: 104254, p: [37824, 22792]
+ladies' man <> w: 104258, p: [40203]
+ladle <> w: 104266, p: [50805, 37824]
+lady <> w: 104269, p: [51308]
+ladybird <> w: 104305, p: [39027]
+ladybug <> w: 104307, p: [39027]
+ladykiller <> w: 211808
+lag <> w: 104324, p: [59630]
+lager <> w: 104336, p: [18339]
+laggard <> w: 104342
+lagging <> w: 104344
+lagniappe <> w: 104346
+lagoon <> w: 104351
+lah-di-dah <> w: 225970, p: [48483]
+lahar <> w: 104365
+lahore <> w: 104366
+laid-back <> w: 104372, p: [38889]
+lair <> w: 104377, p: [29376]
+laissez-faire <> w: 104379
+lake <> w: 104385, p: [51118]
+laksa <> w: 209251, p: [31123]
+lam <> w: 104552, p: [23637]
+lama <> w: 104554
+lamb <> w: 104566, p: [27201, 15837]
+lambada <> w: 220742
+lambast <> w: 104575, p: [43642]
+lambaste <> w: 104576
+lambent <> w: 104583
+lambkin <> w: 104590, p: [27201]
+lame <> w: 104595, p: [59248, 60661]
+lame duck <> p: [40827, 44004]
+lament <> w: 104607, p: [47182]
+lamentable <> w: 104608
+lamentably <> w: 104609
+lamentation <> w: 104610
+lamia <> w: 104615
+laminate <> w: 104626, p: [54451]
+laminectomy <> w: 104630
+laminitis <> w: 104631
+lamp <> w: 104645, p: [22117]
+lampoon <> w: 104658
+lamppost <> w: 104661, p: [19232]
+lamprey <> w: 104662, p: [24703]
+lampshade <> w: 104671, p: [28401]
+lance <> w: 104682, p: [29797]
+lancers <> w: 104692
+lancet <> w: 104693, p: [25809]
+land <> w: 104705, p: [19588, 19586, 19204, 48287, 35888, 35888]
+land agent <> w: 104707, p: [31761]
+land up <> p: [52077]
+landau <> w: 104727
+landaulet <> w: 227670
+landfill <> w: 104733, p: [23575]
+landholder <> w: 104735
+landing <> w: 104737, p: [35888]
+landlady <> w: 104750
+landline <> w: 104753
+landlord <> w: 104756, p: [22287]
+landmark <> w: 104761, p: [23585]
+landmass <> w: 104762
+landowner <> w: 104763
+landrover <> w: 104765, p: [29521]
+landscape <> w: 104767, p: [17611, 20749, 20749]
+landscaper <> w: 104774, p: [50615]
+landscaping <> w: 104775, p: [50615]
+landslide <> w: 104778, p: [21118]
+landslip <> w: 104779, p: [21118]
+lane <> w: 104786, p: [23449, 19574]
+langouste <> w: 104796, p: [25729]
+langoustine <> w: 104797, p: [25731]
+language <> w: 104804, p: [29161, 48279]
+language laboratory <> w: 226400
+languid <> w: 104821
+languidly <> w: 104822
+languish <> w: 104823
+languishing <> w: 225579
+languor <> w: 104825
+languorous <> w: 104826
+langur <> w: 104828
+lank <> w: 104838
+lanky <> w: 104840, p: [26495]
+lanner <> w: 220401
+lanolin <> w: 104841, p: [35110]
+lantern <> w: 104852, p: [33860]
+lantern fly <> p: [34758]
+lanternfish <> w: 104860, p: [24705]
+lao <> w: 104872, p: [36734]
+lap <> w: 104882, p: [27143]
+laparoscopy <> w: 105017
+laparotomy <> w: 105018
+lapdog <> w: 105020, p: [25701]
+lapel <> w: 105021
+lapidary <> w: 105025, p: [47775]
+lappet <> w: 105038, p: [30315]
+lapse <> w: 105047
+laptop <> w: 105051, p: [54597]
+lapwing <> w: 105055, p: [24801]
+larboard <> w: 105057, p: [37340, 37340]
+larceny <> w: 105061
+lard <> w: 105064, p: [26948, 26948]
+larder <> w: 105066
+lardon <> w: 220675
+large <> w: 105072, p: [48131, 33669]
+large calorie <> p: [31207]
+large-scale <> w: 105089
+largely <> w: 105111, p: [43468]
+largess <> w: 105120, p: [19661]
+largesse <> w: 105121, p: [19661]
+larghetto <> w: 229087
+largo <> w: 105125
+lark <> w: 105139, p: [24803]
+larn <> w: 105142, p: [28816]
+larrikin <> w: 367705
+larva <> w: 105155, p: [30646]
+larval <> w: 105159
+laryngitis <> w: 105166
+laryngology <> w: 209993
+laryngoscopy <> w: 218645
+larynx <> w: 105174, p: [30373]
+lasagna <> w: 105177, p: [31131, 50347]
+lasagne <> w: 105178, p: [31131, 50347]
+lascivious <> w: 105182
+laser <> w: 105186
+laserdisc <> w: 209051, p: [38090]
+lash <> w: 105193, p: [47342, 46459, 50675]
+lash out <> p: [42630, 48065]
+lass <> w: 105215, p: [60869]
+lassi <> w: 218292
+lassie <> w: 105220, p: [60869]
+lassitude <> w: 105221
+last <> w: 105223, p: [28449, 43274, 48997]
+last minute <> p: [44164]
+last name <> w: 105240, p: [29036]
+last word <> p: [44358]
+last-minute <> w: 105225
+lasting <> w: 105253, p: [28872]
+lastly <> w: 105256
+latch on <> p: [43202]
+late <> w: 105269, p: [22439, 17775, 22439]
+lately <> w: 105284, p: [43428]
+latency <> w: 105285
+lateness <> w: 105289
+latent <> w: 105290
+later <> w: 105297, p: [43336, 43336, 35657]
+lateral <> w: 105299
+lateral thinking <> w: 105312
+laterally <> w: 105318, p: [48384]
+latest <> w: 105326, p: [17449]
+lath <> w: 105329
+lathe <> w: 105331
+lather <> w: 105333, p: [34981, 34981]
+latitude <> w: 105520, p: [51256]
+latrine <> w: 105527
+latte <> w: 105532, p: [50383]
+latter <> w: 105534
+latterly <> w: 105537
+lattice <> w: 105538
+laud <> w: 105545
+laudable <> w: 105547
+laudably <> w: 105549
+laudatory <> w: 105552
+laugh <> w: 105555, p: [61298, 26455]
+laughable <> w: 105563, p: [49776]
+laughably <> w: 105564, p: [49776]
+laughing <> w: 105566, p: [61298]
+laughing stock <> p: [44706]
+laughter <> w: 105574, p: [61298]
+launch <> w: 105578, p: [27796, 17579, 22085]
+launch into <> p: [40351]
+launch pad <> w: 105580
+launder <> w: 105586, p: [33571]
+launderette <> w: 105587, p: [33571]
+laundering <> w: 105588
+laundress <> w: 105589
+laundromat <> w: 105590, p: [33571]
+laundry <> w: 105591, p: [22295, 33571]
+laundry basket <> w: 105592, p: [23823]
+lav <> w: 105631, p: [27203]
+lava <> w: 105632, p: [20281]
+lavatory <> w: 105647, p: [27203, 34907]
+lave <> w: 105648, p: [51376]
+lavender <> w: 105649, p: [21957, 38755, 38755]
+laver <> w: 105653
+lavish <> w: 105654, p: [45844, 20253, 42022]
+lavishly <> w: 105655, p: [50056]
+law <> w: 105659, p: [26098, 50575, 60780]
+law court <> p: [20339]
+law enforcement <> w: 105666
+law-abiding <> w: 105660
+lawcourt <> w: 105711, p: [20339]
+lawful <> w: 105712, p: [50017]
+lawfully <> w: 105713, p: [50017]
+lawfulness <> w: 105715
+lawgiver <> w: 105716
+lawlessly <> w: 105718
+lawmaker <> w: 105720
+lawn <> w: 105723, p: [48617]
+lawn bowling <> w: 105724, p: [32032]
+lawn mower <> w: 105728, p: [19034]
+lawnmower <> w: 211970
+lawsuit <> w: 105741
+lawyer <> w: 105743, p: [50575]
+lax <> w: 105748
+laxative <> w: 105750
+laxity <> w: 105751
+lay <> w: 105754, p: [21224, 20541]
+lay down the law <> p: [43971]
+lay figure <> w: 105762, p: [25539]
+lay into <> p: [42578]
+lay off <> p: [16395, 21278]
+lay up <> p: [26870]
+lay-by <> w: 105755
+lay-off <> p: [16395, 21278]
+layaway <> w: 224717
+layer <> w: 105777, p: [30399, 48263]
+layer cake <> p: [27133]
+layered <> w: 105779
+layette <> w: 105780, p: [35445]
+layout <> w: 105790
+layover <> w: 105791
+layperson <> w: 105792
+layup <> w: 105793
+laze <> w: 105800, p: [46978]
+lazily <> w: 105801, p: [49574]
+laziness <> w: 105802, p: [23607]
+lazy <> w: 105806, p: [17157]
+lazybones <> w: 229279
+lea <> w: 105832, p: [27165]
+leach <> w: 105833
+lead <> w: 105836, p: [60827, 43006, 60827, 20559, 22588, 29507, 29581]
+lead off <> p: [49431]
+lead on to <> p: [52813]
+lead up to <> p: [46416]
+lead-free <> w: 105841
+lead-in <> w: 105842
+lead-off <> p: [49431]
+leaded <> w: 106014
+leaden <> w: 106018, p: [22552]
+leader <> w: 106019, p: [18814]
+leadership <> w: 106021
+leading <> w: 106022, p: [43368]
+leading article <> w: 209125
+leading lady <> w: 106026
+leading man <> w: 106028
+leaf <> w: 106037, p: [21917]
+leaf insect <> p: [25343]
+leaf-nosed bat <> p: [24769]
+leafage <> w: 106072, p: [21917]
+leafhopper <> w: 106074, p: [36453]
+leaflet <> w: 106077
+leafy <> w: 106081
+league <> w: 106086
+league table <> w: 228764
+leak <> w: 106090, p: [29469, 59765, 29469]
+leakage <> w: 106093, p: [29469]
+leaky <> w: 106098
+lean <> w: 106100, p: [22929, 16640, 32550]
+lean on <> p: [52989, 52271, 22929]
+lean-to <> w: 106101
+leaning <> w: 106108
+leap <> w: 106112, p: [43316]
+leap out <> p: [26391]
+leap year <> w: 106116
+leapfrog <> w: 106118, p: [32513]
+learn <> w: 106121, p: [28816]
+learned <> w: 106122, p: [27291]
+learner <> w: 106129, p: [20011, 16402]
+learning <> w: 106132
+learning curve <> w: 106134
+learning disability <> w: 106135
+lease <> w: 106138, p: [18265, 52275, 33032, 18263]
+leash <> w: 106144, p: [20559, 35944]
+least <> w: 106145, p: [43338, 17337]
+leather <> w: 106156, p: [18401]
+leatherback <> w: 106164, p: [23727]
+leathered <> w: 106166
+leathery <> w: 106179
+leave <> w: 106183, p: [17847, 26413, 20327]
+leave it out <> p: [48387]
+leave no stone unturned <> p: [42992]
+leave off <> p: [52461]
+leaven <> w: 106193, p: [37802, 53190]
+leavening <> w: 106195
+lechwe <> w: 106223, p: [34335]
+lectern <> w: 106226
+lector <> w: 106228
+lecture <> w: 106229, p: [37316, 37316]
+lecturer <> w: 106232, p: [50529]
+lecturing <> w: 106234, p: [37316]
+lederhosen <> w: 106241, p: [39733]
+ledge <> w: 106242
+ledger <> w: 106244
+ledger line <> w: 106247, p: [39553]
+leech <> w: 106263, p: [30830]
+leek <> w: 106268, p: [26708]
+leer <> w: 106269, p: [30309, 30309]
+leery <> w: 106271
+lees <> w: 106272
+leeward <> w: 106274
+leeway <> w: 106278
+left <> w: 106280, p: [60682, 17483, 60682, 60682]
+left field <> w: 106298
+left wing <> w: 106308
+left-hand <> w: 106282
+left-hand drive <> w: 227639
+left-handed <> w: 106283, p: [45429]
+left-wing <> w: 106290
+leftist <> w: 106315
+leftover <> w: 106317, p: [15839, 17483]
+leftovers <> w: 106318, p: [15839]
+leg <> w: 106320, p: [50689, 31397, 25517]
+leg warmer <> p: [24953]
+legacy <> w: 106510
+legal <> w: 106511, p: [28473, 50019]
+legal holiday <> p: [28922]
+legal pad <> w: 226324
+legality <> w: 106550
+legalization <> w: 106551
+legalize <> w: 106552, p: [60036]
+legally <> w: 106553, p: [50019]
+legend <> w: 106559
+legendary <> w: 106560, p: [45365]
+leger line <> p: [39553]
+legerdemain <> w: 106564, p: [19438]
+legging <> w: 106567
+leggings <> w: 208523, p: [50962]
+leggy <> w: 106568, p: [60474]
+legible <> w: 106571
+legion <> w: 106574, p: [23235]
+legionary <> w: 106575
+legislate <> w: 106581, p: [52733]
+legislation <> w: 106583
+legislative <> w: 106584
+legislatively <> w: 106590, p: [32533]
+legislator <> w: 106591
+legislature <> w: 106593
+legit <> w: 209842
+legitimacy <> w: 106594
+legitimate <> w: 106595, p: [50017]
+legitimately <> w: 106596, p: [50013]
+legitimatize <> w: 106599
+lego <> w: 106605, p: [49081]
+legroom <> w: 227813
+legume <> w: 106608, p: [22662, 36056]
+leisure <> w: 106641, p: [18906]
+leisure centre <> w: 211385
+leisurely <> w: 106646, p: [49628, 49628]
+leisurewear <> w: 106643, p: [34005]
+leitmotif <> w: 106647
+lemming <> w: 106661, p: [25675]
+lemon <> w: 106673, p: [48695, 22983, 22983]
+lemon balm <> p: [35340]
+lemon curd <> w: 106681, p: [35310]
+lemon grass <> p: [35074, 35136]
+lemon sole <> w: 106695, p: [25593]
+lemon squeezer <> w: 228558
+lemonade <> w: 106700, p: [18245]
+lemongrass <> w: 106702, p: [35074, 35136]
+lemony <> w: 106707, p: [32670]
+lemur <> w: 106709, p: [24228]
+lend <> w: 106718, p: [19536]
+lender <> w: 106722
+lending <> w: 106723
+leng <> w: 367616
+length <> w: 106727, p: [29747]
+lengthen <> w: 106729, p: [36421]
+lengthened <> w: 106730
+lengthiness <> w: 106733
+lengths <> w: 365708
+lengthways <> w: 106734, p: [48451, 48451]
+lengthwise <> w: 106735, p: [48451, 48451]
+lengthy <> w: 106736
+lenience <> w: 106737
+leniency <> w: 106738
+lenient <> w: 106739, p: [60464]
+leniently <> w: 106740
+lenition <> w: 223346
+lens <> w: 106750, p: [30375]
+lense <> w: 106762
+lentigo <> w: 106781, p: [19781]
+lentil <> w: 106782, p: [26710, 26710, 26710]
+lento <> w: 106790
+leonine <> w: 106823
+leopard <> w: 106839, p: [50178]
+leopard cat <> p: [39625]
+leopard frog <> p: [34608]
+leopardess <> w: 106847
+leotard <> w: 106852, p: [24957]
+leper <> w: 106861
+leprechaun <> w: 107007
+leprosy <> w: 107010
+leprous <> w: 107012
+leptin <> w: 227084
+lepton <> w: 107026
+leptospirosis <> w: 107037
+lesbian <> w: 107057
+lesion <> w: 107062, p: [17649]
+less <> w: 107076, p: [43298, 22441]
+lessen <> w: 107079, p: [27794]
+lessened <> w: 107080
+lessening <> w: 107081
+lesser <> w: 107083
+lesson <> w: 107114
+lest <> w: 225825
+let <> w: 107118, p: [60714, 18265]
+let down <> p: [46386]
+let on <> p: [44834]
+let out <> p: [57907]
+let sleeping dogs lie <> p: [45341]
+let up <> p: [27794]
+let-down <> p: [46386]
+let-off <> p: [45996, 18886]
+let-out <> p: [57907]
+let-up <> p: [27794]
+letdown <> w: 107134
+lethal <> w: 107135, p: [50120]
+lethally <> w: 225482, p: [50120]
+lethargic <> w: 107140, p: [49664]
+lethargically <> w: 107142, p: [49664]
+lethargy <> w: 107143
+letter <> w: 107146, p: [22247]
+letter box <> p: [28610, 40615]
+lettered <> w: 107166, p: [27291]
+letterpress <> w: 107171
+letting <> w: 107178, p: [18263]
+lettuce <> w: 107182, p: [50517, 50517, 60778]
+leukemia <> w: 107216
+leukocyte <> w: 107218, p: [29448]
+levee <> w: 107239
+level <> w: 107240, p: [15992, 46874, 28191]
+level crossing <> w: 107243, p: [23873]
+level with <> p: [53210]
+level-headed <> w: 107241
+lever <> w: 107249, p: [32052, 32050, 32050]
+leverage <> w: 107254, p: [60041]
+leveret <> w: 107257
+leviathan <> w: 107262
+levitate <> w: 107267, p: [46852]
+levitation <> w: 107268
+levity <> w: 107273
+levy <> w: 107279
+lewd <> w: 107281
+lewdly <> w: 107282
+lexeme <> w: 107292
+lexical <> w: 107293
+lexicographer <> w: 107308
+lexicographic <> w: 107309
+lexicography <> w: 107311
+lexicology <> w: 107313
+lexicon <> w: 107314, p: [14800]
+lexis <> w: 107319
+ley <> w: 107320, p: [27165]
+liability <> w: 107343
+liable <> w: 107345
+liaise <> w: 107346
+liaison <> w: 107347, p: [27321]
+liar <> w: 107355, p: [22027]
+libation <> w: 107359
+libel <> w: 107362
+liberal <> w: 107366, p: [29707]
+liberal arts <> w: 107367
+liberalism <> w: 107372
+liberality <> w: 107375, p: [19661]
+liberally <> w: 107502, p: [49111]
+liberalness <> w: 107503, p: [19661]
+liberate <> w: 107504, p: [20932, 20932]
+liberated <> w: 107505
+liberating <> w: 224411
+liberation <> w: 107506
+libero <> w: 227428
+libertarian <> w: 107515
+libertarianism <> w: 107516
+libertine <> w: 107517
+liberty <> w: 107518
+libido <> w: 107528
+librarian <> w: 107536, p: [21062]
+library <> w: 107538, p: [46294, 28710]
+librate <> w: 107547, p: [32088]
+librettist <> w: 107549
+libretto <> w: 107550
+licence <> w: 107563
+licence to print money <> p: [42734]
+license <> w: 107565, p: [58615]
+license number <> p: [21430]
+license plate <> w: 107568, p: [21332]
+licensed <> w: 107570
+licentious <> w: 107577
+licentiously <> w: 107578
+lichen <> w: 107583
+licit <> w: 107593, p: [50017]
+licitly <> w: 107594
+lick <> w: 107596, p: [18611, 27143]
+lickety-split <> w: 225540
+licorice <> w: 107601, p: [38849, 27730]
+lid <> w: 107605, p: [50807, 50910, 23807, 38004]
+lie <> w: 107612, p: [21272, 29356, 21272]
+lie ahead <> p: [44408]
+lie behind <> p: [53667]
+lie in <> p: [52693]
+lie in wait <> p: [47316]
+lie-down <> p: [22955]
+lie-in <> w: 107614, p: [43358]
+lief <> w: 365725
+liege <> w: 107633
+lien <> w: 107637, p: [32100]
+lieu <> w: 107642
+lieutenant <> w: 107644
+life <> w: 107651, p: [33034]
+life belt <> w: 107665, p: [33837, 21334]
+life cycle <> w: 107668, p: [23435]
+life expectancy <> w: 107671
+life form <> w: 107673
+life jacket <> w: 107677, p: [33864]
+life ring <> p: [33837]
+life sentence <> w: 107689
+life story <> w: 107690
+life vest <> w: 107694, p: [33864]
+life-size <> w: 107656
+life-threatening <> p: [17735]
+lifeboat <> w: 107696, p: [29555]
+lifebuoy <> w: 107666, p: [33837]
+lifeguard <> w: 107697, p: [50507]
+lifeless <> w: 107699, p: [17775]
+lifelike <> w: 107702
+lifelong <> w: 107704, p: [45615]
+lifesaver <> w: 107706, p: [33837, 50507]
+lifesaving <> w: 107707
+lifespan <> w: 107709
+lifestyle <> w: 107710
+lifetime <> w: 107711
+lift <> w: 107714, p: [61068, 47124]
+lift off <> p: [22081]
+lift-off <> p: [22081]
+lifter <> w: 107721, p: [21905]
+liftoff <> w: 107725, p: [22085]
+ligament <> w: 107726
+ligature <> w: 107732
+light <> w: 107734, p: [28896, 22117, 36956, 48465, 48049, 47843, 49528, 48675, 61070]
+light bulb <> w: 107767, p: [28896]
+light heavyweight <> w: 107775
+light industry <> w: 224976
+light meter <> w: 107779
+light show <> w: 107788
+light up <> p: [45523]
+light year <> w: 107800
+light-footed <> w: 107742
+light-headed <> w: 107747
+light-hearted <> w: 107749
+lightbulb <> w: 107801, p: [28896]
+lighted <> w: 108002
+lighten <> w: 108003, p: [31677, 54698]
+lighter <> w: 108006, p: [36956]
+lightheartedness <> w: 108014
+lighthouse <> w: 108016, p: [27259]
+lighting <> w: 108018
+lightless <> w: 108023
+lightly <> w: 108025, p: [49528, 46143, 49371]
+lightness <> w: 108029, p: [47843]
+lightning <> w: 108030, p: [18423]
+lightning bug <> w: 108032, p: [25293]
+lights out <> w: 219442
+lightweight <> w: 108042, p: [48465]
+ligneous <> w: 108045
+likable <> w: 108067, p: [38713]
+like <> w: 108068, p: [61102, 19506, 59644, 37354, 19506, 37354]
+like a bat out of hell <> p: [44166]
+like a bear with a sore head <> p: [26776]
+like a dog with two tails <> p: [42568]
+like a dream <> p: [51340]
+like a scalded cat <> p: [43092]
+like a shot <> p: [44036]
+like clockwork <> p: [44026]
+like crazy <> p: [49113]
+like greased lightning <> p: [43586]
+like hell <> p: [45128]
+like pulling teeth <> p: [45623]
+like the devil <> p: [21483]
+like the wind <> p: [44132]
+like-minded <> w: 108069
+liked <> w: 108084, p: [17513]
+likelihood <> w: 108085
+likely <> w: 108087, p: [43340, 48393]
+liken <> w: 108088, p: [48201]
+likeness <> w: 108089, p: [37354, 18776]
+likewise <> w: 108091
+liking <> w: 108092
+lilac <> w: 108094, p: [45305, 38757]
+lilting <> w: 108139
+lily <> w: 108140, p: [38943]
+lily-livered <> w: 108141
+lima bean <> w: 108153, p: [35549]
+limb <> w: 108162, p: [30169, 21659]
+limber <> w: 108165
+limbic system <> p: [30425]
+limbo <> w: 108173
+lime <> w: 108176, p: [50469]
+lime green <> w: 226114
+limeade <> w: 108181, p: [31811]
+limelight <> w: 108184
+limerick <> w: 108191
+limestone <> w: 108192
+limit <> w: 108199, p: [27800]
+limitation <> w: 108201
+limited <> w: 108202, p: [45904]
+limited edition <> w: 108205
+limitless <> w: 108212, p: [46495]
+limn <> w: 108214
+limnology <> w: 108227
+limousin <> w: 108235
+limousine <> w: 108236, p: [18557]
+limp <> w: 108237, p: [46974]
+limpet <> w: 108240, p: [25733]
+limpid <> w: 108241
+limpkin <> w: 108245
+limply <> w: 108246
+linchpin <> w: 108263
+line <> w: 108287, p: [14588, 26309, 32970, 32112]
+line drawing <> w: 108298, p: [47348]
+line drive <> w: 108299
+line management <> w: 108304
+line manager <> w: 228769
+line of scrimmage <> w: 108510
+line up <> p: [26309]
+line-up <> p: [26309]
+lineage <> w: 108532
+lineal <> w: 108533
+lineament <> w: 108535
+linear <> w: 108536, p: [22215, 28343]
+linearly <> w: 108552, p: [49393]
+linebacker <> w: 108554
+lined <> w: 108557
+lineman <> w: 108560, p: [20974]
+linen <> w: 108562, p: [19460]
+lineout <> w: 226780
+liner <> w: 108565, p: [49508, 20519, 30028, 47114]
+linesman <> w: 108567, p: [20974]
+lineup <> w: 108568, p: [49804]
+linger <> w: 108576
+lingerie <> w: 108579, p: [25417]
+lingering <> w: 108580
+lingo <> w: 108582
+lingonberry <> w: 108583, p: [50443]
+lingua <> w: 108584, p: [50659]
+lingua franca <> w: 108585
+lingual <> w: 108586
+linguine <> w: 108592, p: [27686]
+linguini <> w: 108593, p: [27686]
+linguist <> w: 108594
+linguistic <> w: 108595, p: [19396]
+linguistically <> w: 108610
+linguistics <> w: 108611, p: [19396]
+liniment <> w: 108615
+lining <> w: 108617, p: [20519]
+link <> w: 108618, p: [61072]
+link-up <> p: [61072]
+links <> w: 108631
+linnet <> w: 108641, p: [24805]
+linocut <> w: 108643
+linoleum <> w: 108646
+linotype <> w: 108651
+linseed <> w: 108653, p: [35431]
+linseed oil <> w: 108654, p: [31315]
+lion <> w: 108668, p: [48613]
+lioness <> w: 108680, p: [34506]
+lionfish <> w: 108682
+lionhearted <> w: 108683
+lionize <> w: 108685
+lip <> w: 108691, p: [60772]
+lip balm <> w: 108697, p: [51836]
+lip gloss <> w: 208478, p: [51908]
+lip liner <> p: [29866]
+lip service <> w: 108702
+lip-synch <> w: 108696
+lipid <> w: 108718
+lipoprotein <> w: 108742
+liposuction <> w: 108748
+lipstick <> w: 108759, p: [51838]
+liquefy <> w: 108766, p: [32016]
+liqueur <> w: 108768, p: [50386]
+liquid <> w: 108770, p: [61130, 50391, 61130]
+liquid assets <> w: 108773
+liquid lunch <> w: 220141
+liquidate <> w: 108791, p: [52662]
+liquidation <> w: 108792
+liquidator <> w: 108793, p: [31612]
+liquidity <> w: 108796, p: [61130]
+liquidize <> w: 108798, p: [32016]
+liquidizer <> w: 108799, p: [50779]
+liquidness <> w: 108800, p: [61130]
+liquify <> w: 108803, p: [32016]
+liquor <> w: 108804, p: [19050]
+lissom <> w: 108827, p: [26493]
+lissome <> w: 108828, p: [26493]
+list <> w: 108830, p: [22265, 48203]
+listen <> w: 108837, p: [21226, 51562]
+listen in <> p: [47738, 46770]
+listener <> w: 108839, p: [51562, 19184]
+listening <> w: 108840
+listing <> w: 108853, p: [22265]
+listless <> w: 108854
+listlessly <> w: 108855
+lit <> w: 108860, p: [45523, 51878]
+litany <> w: 108862
+litchi <> w: 109004, p: [26714]
+lite <> w: 109008
+liter <> w: 109009, p: [29749]
+literacy <> w: 109010
+literal <> w: 109011
+literally <> w: 109017
+literary <> w: 109019, p: [51402]
+literate <> w: 109031, p: [45403, 40075]
+literati <> w: 109033
+literature <> w: 109035, p: [51878, 51878]
+lithe <> w: 109037, p: [26493]
+lithesome <> w: 109040, p: [26493]
+lithium <> w: 109044
+lithograph <> w: 109052, p: [47350]
+lithography <> w: 109056
+lithosphere <> w: 109074
+lithotomy <> w: 109075
+lithotripsy <> w: 218700
+lithuania <> w: 109077, p: [36475]
+litigant <> w: 109081
+litigate <> w: 109082, p: [60025]
+litigation <> w: 109083
+litigator <> w: 109084
+litigious <> w: 109085
+litter <> w: 109095, p: [33737, 30553, 33737]
+little <> w: 109105, p: [48163, 22157, 22443, 22443]
+little black dress <> p: [24959]
+little finger <> w: 109130, p: [20733]
+little owl <> p: [24809]
+littoral <> w: 109168
+liturgy <> w: 109177
+live <> w: 109180, p: [48505, 28365, 17769, 30709]
+live for <> p: [39231]
+live out <> p: [52489]
+live through <> p: [41602]
+live to fight another day <> p: [43094]
+live wire <> w: 109199, p: [42296]
+live with <> p: [46668]
+lived-in <> w: 216774
+livelihood <> w: 109205
+lively <> w: 109208, p: [23047]
+liver <> w: 109212, p: [50723, 28021, 29086]
+liver fluke <> p: [30786]
+liver sausage <> w: 109221, p: [37499]
+liver spot <> p: [30078]
+liverwurst <> w: 109230, p: [37499]
+livestock <> w: 109236, p: [51204]
+livid <> w: 109237
+lividity <> w: 109238, p: [22989]
+lividness <> w: 109240, p: [22989]
+living <> w: 109241, p: [17769]
+living room <> w: 109252, p: [50809]
+living wage <> w: 109261
+lizard <> w: 109275, p: [18021]
+llama <> w: 109281, p: [24779]
+lo and behold <> w: 219738, p: [45206]
+load <> w: 109297, p: [22792]
+loaded <> w: 109304, p: [46105, 60616]
+loader <> w: 109306, p: [33563]
+loaf <> w: 109314, p: [20243, 21310]
+loafer <> w: 109317, p: [25048]
+loam <> w: 109319
+loan <> w: 109322, p: [19536, 19536]
+loan shark <> w: 109329, p: [43712]
+loanword <> w: 109334
+loath <> w: 109338
+loathe <> w: 109339, p: [52101]
+loathing <> w: 109341, p: [52101]
+loathsome <> w: 109343, p: [23433]
+lob <> w: 109345, p: [17579]
+lobby <> w: 109353, p: [18161, 59987]
+lobbyist <> w: 109357
+lobe <> w: 109358, p: [30591]
+lobotomy <> w: 109526
+lobscouse <> w: 109527, p: [38925]
+lobster <> w: 109529, p: [17989, 18277]
+lobster thermidor <> p: [30876]
+lobule <> w: 109546, p: [30541]
+local <> w: 109548, p: [49504, 43318]
+local area network <> w: 104674
+local call <> w: 109555
+local government <> w: 109557
+locality <> w: 109571, p: [22560]
+localize <> w: 109575, p: [59812]
+locally <> w: 109577, p: [48839]
+locate <> w: 109578, p: [45206]
+location <> w: 109582, p: [49504]
+locative <> w: 109583
+loch <> w: 109586
+lock <> w: 109593, p: [61074, 26393, 20832, 30259]
+lock-in <> p: [26393]
+lock-up <> p: [26393, 51925]
+locked <> w: 226237
+locker <> w: 109607, p: [21895]
+locker room <> w: 109609, p: [21895]
+locket <> w: 109610, p: [25327]
+locking <> w: 109611
+locksmith <> w: 109620, p: [36974]
+lockup <> w: 109623, p: [20682]
+locomotion <> w: 109628
+locomotive <> w: 109629, p: [51514]
+locoweed <> w: 109634, p: [21963]
+locum <> w: 109637
+locus <> w: 109639
+locust <> w: 109643, p: [25613]
+lode <> w: 109652
+lodge <> w: 109655, p: [17723]
+lodging <> w: 109661, p: [23131]
+lodgings <> w: 109663
+loft <> w: 109675, p: [20976]
+lofty <> w: 109679, p: [45513]
+log <> w: 109680, p: [39115, 47468]
+log cabin <> w: 109682, p: [18253]
+loganberry <> w: 109692, p: [21294]
+logarithm <> w: 109695
+logarithmic <> w: 109696
+logger <> w: 109701
+loggerhead <> w: 109702
+loggia <> w: 109706
+logging <> w: 109708
+logic <> w: 109709
+logical <> w: 109717, p: [22035]
+logically <> w: 109732
+logician <> w: 109734
+login <> w: 208920, p: [19510]
+logistical <> w: 109742
+logistically <> w: 225496
+logistics <> w: 109744
+logo <> w: 109746
+logogram <> w: 109747
+loin <> w: 109766, p: [31636]
+loincloth <> w: 109768, p: [34237]
+loiter <> w: 109776
+loiterer <> w: 109777
+lolita <> w: 109781
+loll <> w: 109786, p: [46978]
+lollipop <> w: 109788, p: [21416, 21314]
+lolly <> w: 109792, p: [21314, 60778]
+lone <> w: 109816, p: [43280]
+lone wolf <> w: 109819, p: [22255]
+loneliness <> w: 109820, p: [44988]
+lonely <> w: 109821, p: [17553]
+loner <> w: 109822, p: [17553]
+lonesome <> w: 109823
+long <> w: 109825, p: [28453, 28453, 60638, 22355, 61304]
+long dozen <> p: [37938]
+long face <> p: [42624]
+long haul <> w: 110025, p: [43056]
+long in the tooth <> p: [60636]
+long jump <> w: 110033
+long shot <> p: [42922]
+long time no see <> p: [46167]
+long wave <> w: 110051
+long-distance <> w: 109837
+long-horned grasshopper <> p: [36395]
+long-lived <> w: 109857
+long-term <> w: 110007, p: [45589]
+long-winded <> p: [49894]
+long-windedly <> p: [49894]
+longan <> w: 110053, p: [34913]
+longboard <> w: 227548
+longevity <> w: 110066
+longhorn <> w: 110071, p: [24462]
+longhouse <> w: 227216
+longing <> w: 110074
+longingly <> w: 110075
+longish <> w: 110076
+longitude <> w: 110077, p: [51258]
+longitudinal <> w: 110078
+longitudinally <> w: 110079, p: [48451]
+longshoreman <> w: 110084, p: [33563]
+longspur <> w: 220578
+longstanding <> w: 110088, p: [17447]
+longtime <> w: 110090, p: [45591]
+longueur <> w: 110091
+longways <> w: 110092, p: [48451]
+longwise <> w: 110094, p: [48451]
+loo <> w: 110114, p: [27203]
+loofah <> w: 110116, p: [42250]
+look <> w: 110117, p: [48665, 28780, 48665, 43262, 49089]
+look after <> p: [53515]
+look at <> p: [48665]
+look back <> p: [39915, 28465, 47230]
+look daggers at <> p: [44558]
+look down on <> p: [47879]
+look for <> p: [51382, 49205]
+look forward to <> p: [26311]
+look into <> p: [26365, 22638]
+look on <> p: [26313]
+look out <> p: [43680]
+look through <> p: [46350]
+look to <> p: [47324]
+look up <> p: [22341, 58597]
+look-ahead <> p: [47322]
+lookalike <> w: 110118
+looker <> w: 110143, p: [26660, 36216]
+looking glass <> w: 110149, p: [28335]
+lookit <> w: 229362
+lookout <> w: 110151
+loom <> w: 110155, p: [59026]
+looming <> w: 224512, p: [45587]
+loon <> w: 110156, p: [24877]
+loonie <> w: 110158
+loony <> w: 110159, p: [17871]
+loop <> w: 110162, p: [46790]
+loose <> w: 110174, p: [20688, 39187, 49329, 20932]
+loose cannon <> p: [18091]
+loose end <> p: [42910]
+loose-fitting <> w: 110175, p: [39187]
+loose-leaf <> w: 221514
+loosely <> w: 110186, p: [49329]
+loosen <> w: 110188, p: [46792]
+loosen up <> p: [38889, 48053]
+loot <> w: 110196, p: [60778, 60093]
+looter <> w: 110198
+looting <> w: 110199
+lop-eared <> w: 110201
+lope <> w: 110203, p: [24272]
+lopsided <> w: 110221
+loquacious <> w: 110224, p: [17835]
+loquacity <> w: 110227
+loquat <> w: 110228, p: [26716]
+lord <> w: 110237, p: [23609]
+lore <> w: 110264
+lorikeet <> w: 110284, p: [24879]
+loris <> w: 110286, p: [34209]
+lorry <> w: 110290, p: [49433]
+lory <> w: 110291, p: [24879]
+lose <> w: 110294, p: [17327, 16652, 39611]
+lose face <> p: [41046]
+lose out <> p: [44378]
+lose sight of <> p: [44796]
+lose the plot <> p: [45056]
+lose touch <> p: [44798, 43108]
+loser <> w: 110299, p: [51584]
+losing battle <> p: [40771]
+loss <> w: 110302
+loss leader <> w: 110303
+loss of face <> p: [19596]
+lost <> w: 110309, p: [16652, 61270]
+lost property <> w: 225760
+lot <> w: 110313, p: [19406]
+lotion <> w: 110324, p: [51806]
+lottery <> w: 110327, p: [35876]
+lotto <> w: 110329, p: [31910, 35876]
+lotus <> w: 110330, p: [21919]
+loud <> w: 110512, p: [46271, 34089, 17061]
+loudhailer <> w: 218685, p: [36806]
+loudly <> w: 110519, p: [17061]
+loudmouth <> w: 110520, p: [29669]
+loudness <> w: 110521, p: [21386]
+loudspeaker <> w: 110522, p: [49688]
+lough <> w: 110525
+lounge <> w: 110590, p: [59022, 23043, 50751, 28622]
+lounge suit <> w: 110596, p: [34127]
+lounger <> w: 110597, p: [42196]
+loungewear <> w: 110598, p: [34005]
+lour <> w: 110605, p: [17115]
+louse <> w: 110606, p: [25297]
+louse fly <> p: [25297]
+lousy <> w: 110610, p: [46257]
+louver <> w: 110614
+louvred <> w: 222941
+lovable <> w: 110619
+lovage <> w: 110620, p: [31281]
+love <> w: 110622, p: [61302, 51933, 40869, 51933, 48063]
+love affair <> w: 110632
+love child <> w: 110635, p: [40241]
+love letter <> w: 110640, p: [19370]
+love life <> w: 110641
+love nest <> p: [40325]
+love seat <> p: [50751]
+lovebird <> w: 110651, p: [24881]
+lovebirds <> w: 210103, p: [51933]
+loved <> w: 110652, p: [22524]
+loveliness <> w: 110656, p: [26648]
+lovely <> w: 110659, p: [16274, 17549]
+lover <> w: 110661
+loveseat <> w: 110666
+lovesick <> w: 110667
+lovesome <> w: 110669, p: [27323]
+lovey-dovey <> w: 213803
+loving <> w: 110670, p: [44590]
+lovingly <> w: 110673, p: [23063]
+lovingness <> w: 110674, p: [61302]
+low <> w: 110677, p: [35874, 60782, 49964, 23503, 48813]
+low beam <> w: 110727
+low gear <> w: 110737
+low profile <> w: 110743
+low season <> w: 208838, p: [31572]
+low tide <> w: 110751
+low-class <> w: 110689, p: [31747]
+low-cost <> p: [18710]
+low-cut <> w: 110691, p: [24920]
+low-down <> w: 110694
+low-fat <> w: 209283, p: [31464]
+low-key <> w: 110700
+low-lying <> w: 110705
+low-paid <> w: 210244
+low-pitched <> w: 110708
+low-rise <> w: 110713
+low-risk <> w: 210121
+low-spirited <> w: 110717, p: [23503]
+low-tech <> w: 110720, p: [32012]
+lowball <> w: 110754
+lowboy <> w: 110756
+lowbrow <> w: 110758
+lower <> w: 110765, p: [22461, 22943, 17115, 47090]
+lower class <> w: 110777, p: [31747]
+lowercase <> w: 110796
+lowered <> w: 110798, p: [19610]
+lowering <> w: 110799, p: [22552]
+lowermost <> w: 110801
+lowest <> w: 110802, p: [17337]
+lowland <> w: 110804
+lowlands <> w: 110810
+lowlights <> w: 208467, p: [26156]
+lowly <> w: 110814
+lowrider <> w: 229322
+loyal <> w: 110831, p: [60738]
+loyalist <> w: 110832
+loyally <> w: 110834, p: [50021]
+loyalty <> w: 110835
+lozenge <> w: 110839, p: [25958]
+lubricated <> w: 110869
+lucent <> w: 110882
+lucerne <> w: 110883, p: [26702]
+lucid <> w: 110886
+lucidly <> w: 111003
+lucifer <> w: 111005, p: [27509]
+luck <> w: 111021, p: [35810]
+luck out <> p: [42654]
+luckily <> w: 111026
+lucky <> w: 111030, p: [60129]
+lucrative <> w: 111033
+lucre <> w: 111035, p: [60778]
+lucubration <> w: 111040
+luculent <> w: 111041
+lucy <> w: 111045
+ludicrous <> w: 111055, p: [45627]
+ludicrously <> w: 111056, p: [44740]
+ludo <> w: 111057, p: [30000]
+lug <> w: 111072, p: [22927]
+luge <> w: 111075
+luggage <> w: 111077, p: [16053]
+luggage rack <> w: 111082
+lugubrious <> w: 111089
+lugworm <> w: 111092, p: [25735]
+lukewarm <> w: 111102, p: [49600, 45643]
+lull <> w: 111106
+lullaby <> w: 111107
+lulu <> w: 111110, p: [26660]
+lumbago <> w: 111112
+lumber <> w: 111121, p: [39115]
+lumber jacket <> w: 111122, p: [39639]
+lumbering <> w: 111124
+lumberjack <> w: 111125, p: [39639]
+lumen <> w: 111133
+luminary <> w: 111137
+luminescence <> w: 111139
+luminescent <> w: 111140
+luminosity <> w: 111142
+luminous <> w: 111143
+luminously <> w: 225472, p: [33499]
+lummox <> w: 111150
+lump <> w: 111151, p: [59404]
+lump sum <> w: 111153
+lumpectomy <> w: 111154
+lumper <> w: 111159, p: [33563]
+lumpy <> w: 111163, p: [45541]
+lunacy <> w: 111167
+lunar <> w: 111168, p: [21214]
+lunar module <> p: [35822]
+lunate <> w: 111182, p: [25930]
+lunatic <> w: 111184, p: [18091]
+lunch <> w: 111187, p: [48663, 23431]
+luncheon <> w: 111191, p: [48663]
+luncheon meat <> w: 111192, p: [28023]
+luncheonette <> w: 209327, p: [22223]
+lunchtime <> w: 111198, p: [50255]
+lung <> w: 111203, p: [50727]
+lunge <> w: 111207
+lungfish <> w: 111210, p: [50329]
+lungi <> w: 111211, p: [42972]
+lupus <> w: 111232
+lurcher <> w: 111236, p: [25122]
+lure <> w: 111237, p: [58739]
+lurid <> w: 111238
+luridness <> w: 111240, p: [22989]
+lurk <> w: 111241
+luscious <> w: 111250, p: [29208]
+lusciously <> w: 111251
+lush <> w: 111253, p: [28259, 18291]
+lust <> w: 111258
+lusterless <> w: 111262
+lustrous <> w: 111274
+lute <> w: 111281, p: [27662]
+luxembourg <> w: 111321
+luxuriant <> w: 111332
+luxuriate <> w: 111334
+luxurious <> w: 111336, p: [45844]
+luxuriously <> w: 111337, p: [50025]
+luxury <> w: 111339, p: [18557, 18557]
+lx <> w: 111348, p: [36126, 36126]
+lycee <> w: 111506, p: [28776]
+lyceum <> w: 111507, p: [28776]
+lychgate <> w: 111509
+lymph <> w: 111582
+lymph node <> w: 111585
+lymphatic <> w: 111596
+lymphocyte <> w: 111604
+lymphoid <> w: 111614
+lymphoma <> w: 111617
+lynch <> w: 111622, p: [61262]
+lynx <> w: 111631, p: [24230]
+lyonnaise <> w: 111644
+lyre <> w: 111657, p: [27734]
+lyrebird <> w: 111661, p: [24883]
+lyric <> w: 111663
+lyrical <> w: 111665
+lyrically <> w: 111667
+lyricism <> w: 111668
+lyricist <> w: 111669, p: [44996]
+lysosome <> w: 111707

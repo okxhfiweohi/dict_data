@@ -1,0 +1,1305 @@
+laager <> N: {rk: 57172, frq: 52}
+lab <> N: {rk: 2101, frq: 17974}
+label <> N: {rk: 2635, frq: 13626}, V: {rk: 3610, frq: 8561}
+labeled <> J: {rk: 14700, frq: 812}
+labeling <> N: {rk: 18919, frq: 556}, J: {rk: 27436, frq: 197}
+labelled <> J: {rk: 48799, frq: 39}
+labelling <> N: {rk: 44189, frq: 50}
+labial <> J: {rk: 49767, frq: 45}
+labile <> J: {rk: 41341, frq: 65}
+labor <> N: {rk: 1124, frq: 37519}, V: {rk: 7365, frq: 2739}
+labor-intensive <> J: {rk: 16341, frq: 670}
+labor-saving <> J: {rk: 35755, frq: 90}
+laboratory <> N: {rk: 3151, frq: 15292}
+labored <> J: {rk: 25619, frq: 240}
+laborer <> N: {rk: 7044, frq: 2999}
+laboring <> J: {rk: 34003, frq: 112}
+laborious <> J: {rk: 19505, frq: 438}
+laboriously <> R: {rk: 22720, frq: 308}
+labour <> J: {rk: 17068, frq: 721}, V: {rk: 42591, frq: 56}
+labourer <> N: {rk: 37328, frq: 137}
+labrum <> N: {rk: 52470, frq: 41}
+labyrinth <> N: {rk: 11829, frq: 1327}
+labyrinthine <> J: {rk: 22782, frq: 320}
+lace <> N: {rk: 6737, frq: 3390}, V: {rk: 9487, frq: 1821}
+lace-up <> N: {rk: 31062, frq: 164}
+laced <> J: {rk: 48044, frq: 38}
+lacerate <> V: {rk: 35643, frq: 92}
+lacerated <> J: {rk: 37635, frq: 80}
+laceration <> N: {rk: 23591, frq: 292}
+lacewing <> N: {rk: 51160, frq: 32}
+lacework <> N: {rk: 43939, frq: 53}
+lacing <> N: {rk: 50370, frq: 38}, J: {rk: 55894, frq: 28}
+lack <> N: {rk: 1233, frq: 35000}, V: {rk: 1988, frq: 19737}
+lackadaisical <> J: {rk: 31692, frq: 138}
+lackey <> N: {rk: 27047, frq: 333}
+lacking <> J: {rk: 42656, frq: 55}
+lackluster <> J: {rk: 17535, frq: 496}
+laconic <> J: {rk: 24994, frq: 252}
+laconically <> R: {rk: 41080, frq: 59}
+lacquer <> N: {rk: 18322, frq: 568}, V: {rk: 29506, frq: 172}
+lacquered <> J: {rk: 26114, frq: 251}
+lacrimal <> J: {rk: 55218, frq: 67}
+lacrosse <> N: {rk: 14577, frq: 1172}
+lactase <> N: {rk: 48658, frq: 38}
+lactate <> N: {rk: 33140, frq: 137}, V: {rk: 36382, frq: 89}
+lactating <> J: {rk: 52851, frq: 27}
+lactation <> N: {rk: 26458, frq: 246}
+lactic <> J: {rk: 26036, frq: 251}
+lactose <> N: {rk: 24300, frq: 306}
+lacuna <> N: {rk: 33607, frq: 151}
+lacustrine <> J: {rk: 59778, frq: 29}
+lacy <> J: {rk: 17405, frq: 603}
+lad <> N: {rk: 9567, frq: 1964}
+ladder <> N: {rk: 4546, frq: 6154}
+ladder-back <> J: {rk: 46602, frq: 42}
+laddie <> N: {rk: 37553, frq: 81}
+lading <> N: {rk: 45628, frq: 46}
+ladle <> V: {rk: 17884, frq: 595}, N: {rk: 23868, frq: 296}
+ladleful <> N: {rk: 56018, frq: 32}
+lady <> N: {rk: 1522, frq: 38224}
+lady-in-waiting <> N: {rk: 48593, frq: 37}
+ladybird <> N: {rk: 50179, frq: 67}
+ladybug <> N: {rk: 28136, frq: 220}
+ladylike <> J: {rk: 25283, frq: 269}
+lag <> V: {rk: 8604, frq: 2148}, N: {rk: 11490, frq: 1311}
+lager <> N: {rk: 22774, frq: 342}
+laggard <> N: {rk: 26951, frq: 205}
+lagged <> J: {rk: 38572, frq: 97}
+lagging <> N: {rk: 29543, frq: 173}
+lagniappe <> N: {rk: 58033, frq: 24}
+lagoon <> N: {rk: 10098, frq: 1797}
+laid <> J: {rk: 24339, frq: 278}
+laid-back <> J: {rk: 15176, frq: 849}
+lair <> N: {rk: 18236, frq: 613}
+laissez-faire <> N: {rk: 19947, frq: 455}
+laity <> N: {rk: 16763, frq: 711}
+lakefront <> N: {rk: 22359, frq: 401}
+lakeshore <> N: {rk: 25173, frq: 330}
+lakeside <> N: {rk: 22571, frq: 695}
+lam <> V: {rk: 51969, frq: 32}
+lamb <> N: {rk: 5655, frq: 6243}
+lambada <> N: {rk: 51941, frq: 39}
+lambast <> V: {rk: 24472, frq: 274}
+lambaste <> V: {rk: 44013, frq: 47}
+lambda <> N: {rk: 21934, frq: 669}
+lambent <> J: {rk: 46265, frq: 41}
+lambing <> N: {rk: 49400, frq: 44}
+lambskin <> N: {rk: 54447, frq: 28}
+lame <> J: {rk: 10213, frq: 1673}, V: {rk: 32653, frq: 121}
+lamely <> R: {rk: 27032, frq: 218}
+lameness <> N: {rk: 41990, frq: 55}
+lament <> V: {rk: 7508, frq: 2697}, N: {rk: 14745, frq: 816}
+lamentable <> J: {rk: 28232, frq: 183}
+lamentably <> R: {rk: 44259, frq: 52}
+lamentation <> N: {rk: 25801, frq: 252}
+lamented <> J: {rk: 49625, frq: 31}
+lamina <> N: {rk: 38945, frq: 90}
+laminar <> J: {rk: 45887, frq: 49}
+laminate <> N: {rk: 26275, frq: 253}, V: {rk: 28197, frq: 190}, J: {rk: 35543, frq: 108}
+laminated <> J: {rk: 20053, frq: 433}
+lamination <> N: {rk: 42068, frq: 59}
+lamp <> N: {rk: 3967, frq: 7941}
+lamplight <> N: {rk: 23467, frq: 333}
+lamplighter <> N: {rk: 50229, frq: 41}
+lamplit <> J: {rk: 46543, frq: 44}
+lampoon <> V: {rk: 25416, frq: 242}, N: {rk: 29143, frq: 178}
+lamppost <> N: {rk: 22733, frq: 332}
+lamprey <> N: {rk: 38823, frq: 109}
+lampshade <> N: {rk: 29034, frq: 206}
+lanai <> N: {rk: 41724, frq: 91}
+lancer <> N: {rk: 29681, frq: 176}
+land <> N: {rk: 566, frq: 77538}, V: {rk: 2038, frq: 18980}
+landed <> J: {rk: 17193, frq: 612}
+landfall <> N: {rk: 19182, frq: 563}
+landfill <> N: {rk: 6967, frq: 3232}
+landfilling <> N: {rk: 53217, frq: 38}
+landform <> N: {rk: 29814, frq: 214}
+landholder <> N: {rk: 30352, frq: 166}
+landholding <> J: {rk: 58416, frq: 19}
+landing <> N: {rk: 3716, frq: 8243}
+landlady <> N: {rk: 18410, frq: 550}
+landless <> J: {rk: 23111, frq: 340}
+landline <> N: {rk: 35070, frq: 130}
+landlocked <> J: {rk: 26183, frq: 222}
+landlord <> N: {rk: 6821, frq: 3524}
+landlubber <> N: {rk: 42228, frq: 59}
+landmark <> N: {rk: 4759, frq: 5799}
+landmass <> N: {rk: 27387, frq: 216}
+landmine <> N: {rk: 31497, frq: 154}
+landowner <> N: {rk: 7968, frq: 2479}
+landscape <> N: {rk: 1837, frq: 21776}, V: {rk: 15391, frq: 757}
+landscaped <> J: {rk: 27729, frq: 196}
+landscaper <> N: {rk: 22090, frq: 366}
+landscaping <> N: {rk: 13892, frq: 926}
+landscapist <> N: {rk: 55508, frq: 22}
+landslide <> N: {rk: 11583, frq: 1300}
+landward <> J: {rk: 42877, frq: 54}, R: {rk: 45737, frq: 50}
+lane <> N: {rk: 4169, frq: 11468}
+langoustine <> N: {rk: 58487, frq: 30}
+language <> N: {rk: 722, frq: 60966}
+languid <> J: {rk: 19700, frq: 456}
+languidly <> R: {rk: 28893, frq: 186}
+languish <> V: {rk: 11967, frq: 1198}
+languishing <> J: {rk: 52951, frq: 26}
+languor <> N: {rk: 34613, frq: 99}
+languorous <> J: {rk: 31759, frq: 130}
+languorously <> R: {rk: 42053, frq: 56}
+langur <> N: {rk: 57927, frq: 22}
+lanky <> J: {rk: 14530, frq: 848}
+lanolin <> N: {rk: 50008, frq: 35}
+lantana <> N: {rk: 41015, frq: 106}
+lantern <> N: {rk: 8492, frq: 2468}
+lanthanum <> N: {rk: 57003, frq: 22}
+lanyard <> N: {rk: 36037, frq: 111}
+lap <> N: {rk: 3381, frq: 9894}, V: {rk: 14360, frq: 890}
+lapa <> N: {rk: 59893, frq: 85}
+laparoscope <> N: {rk: 58179, frq: 20}
+laparoscopic <> J: {rk: 32267, frq: 177}
+laparoscopy <> N: {rk: 44630, frq: 51}
+laparotomy <> N: {rk: 59930, frq: 28}
+lapdog <> N: {rk: 38769, frq: 73}
+lapel <> N: {rk: 12404, frq: 1136}
+lapidary <> J: {rk: 46005, frq: 44}
+lapin <> N: {rk: 58865, frq: 59}
+lapping <> N: {rk: 36409, frq: 100}, J: {rk: 37276, frq: 83}
+lapse <> N: {rk: 10169, frq: 1550}, V: {rk: 14089, frq: 889}
+lapsed <> J: {rk: 29930, frq: 163}
+laptop <> N: {rk: 5941, frq: 4714}
+larcenous <> J: {rk: 46230, frq: 39}
+larceny <> N: {rk: 22804, frq: 311}
+lard <> N: {rk: 19108, frq: 484}, V: {rk: 37337, frq: 80}
+larder <> N: {rk: 28870, frq: 182}
+large <> J: {rk: 220, frq: 190008}, R: {rk: 5254, frq: 4818}
+large-scale <> J: {rk: 6158, frq: 3962}
+largely <> R: {rk: 1685, frq: 23936}
+largemouth <> N: {rk: 17008, frq: 767}
+largeness <> N: {rk: 37264, frq: 76}
+largess <> N: {rk: 27453, frq: 205}
+largesse <> N: {rk: 20837, frq: 390}
+largish <> J: {rk: 49218, frq: 36}
+lariat <> N: {rk: 36476, frq: 100}
+lark <> N: {rk: 19467, frq: 914}
+larva <> N: {rk: 9315, frq: 2038}
+larval <> J: {rk: 20543, frq: 492}
+laryngeal <> J: {rk: 22676, frq: 445}
+laryngectomy <> N: {rk: 52770, frq: 35}
+laryngitis <> N: {rk: 34935, frq: 103}
+laryngoscopy <> N: {rk: 36769, frq: 122}
+larynx <> N: {rk: 21820, frq: 438}
+lasagna <> N: {rk: 17564, frq: 718}
+lasagne <> N: {rk: 37614, frq: 87}
+lascivious <> J: {rk: 26557, frq: 214}
+lasciviously <> R: {rk: 47590, frq: 39}
+lasciviousness <> N: {rk: 56885, frq: 21}
+laser <> N: {rk: 3926, frq: 7766}
+laserdisc <> N: {rk: 49985, frq: 39}
+lash <> V: {rk: 8611, frq: 2213}, N: {rk: 12054, frq: 1592}
+lashing <> N: {rk: 35785, frq: 97}, J: {rk: 51246, frq: 32}
+lasing <> N: {rk: 59799, frq: 23}
+lass <> N: {rk: 20494, frq: 466}
+lassitude <> N: {rk: 31623, frq: 166}
+lasso <> N: {rk: 26477, frq: 251}, V: {rk: 43457, frq: 51}
+last <> M: {rk: 130, frq: 314652}, V: {rk: 1683, frq: 22942}, R: {rk: 3628, frq: 8984}, N: {rk: 25208, frq: 543}, J: {rk: 48121, frq: 39}
+last-ditch <> J: {rk: 22085, frq: 353}
+last-gasp <> J: {rk: 51516, frq: 31}
+last-minute <> J: {rk: 9327, frq: 1913}
+lasting <> J: {rk: 6303, frq: 3630}
+lastingly <> R: {rk: 57432, frq: 21}
+lastly <> R: {rk: 13162, frq: 1095}
+latch <> V: {rk: 12284, frq: 1162}, N: {rk: 12412, frq: 1197}
+latchkey <> N: {rk: 38729, frq: 84}
+late <> J: {rk: 437, frq: 93574}, R: {rk: 1810, frq: 21322}
+late-breaking <> J: {rk: 36050, frq: 91}
+late-night <> J: {rk: 9838, frq: 1756}, N: {rk: 29776, frq: 164}
+latecomer <> N: {rk: 26949, frq: 206}
+lately <> R: {rk: 4060, frq: 7290}
+latency <> N: {rk: 19614, frq: 525}
+lateness <> N: {rk: 31268, frq: 171}
+latent <> J: {rk: 12334, frq: 1409}
+later <> R: {rk: 295, frq: 136908}, J: {rk: 2185, frq: 16957}
+lateral <> J: {rk: 8476, frq: 2360}, N: {rk: 46650, frq: 51}
+laterality <> N: {rk: 52055, frq: 34}
+lateralization <> N: {rk: 52113, frq: 31}
+laterally <> R: {rk: 20936, frq: 397}
+latex <> N: {rk: 14244, frq: 931}
+lath <> N: {rk: 35746, frq: 106}
+lathe <> N: {rk: 22899, frq: 326}
+lather <> N: {rk: 22643, frq: 352}, V: {rk: 31102, frq: 143}
+latitude <> N: {rk: 8138, frq: 2365}
+latitudinal <> J: {rk: 41243, frq: 97}
+latke <> N: {rk: 31748, frq: 169}
+latrine <> N: {rk: 20669, frq: 412}
+latte <> N: {rk: 17609, frq: 661}
+latter <> D: {rk: 2742, frq: 13338}
+latter-day <> J: {rk: 17674, frq: 558}
+lattice <> N: {rk: 15649, frq: 747}
+latticed <> J: {rk: 46250, frq: 40}
+latticework <> N: {rk: 31695, frq: 135}
+laud <> V: {rk: 14181, frq: 902}
+laudable <> J: {rk: 20320, frq: 422}
+laudably <> R: {rk: 57681, frq: 19}
+laudanum <> N: {rk: 39478, frq: 84}
+laudatory <> J: {rk: 31383, frq: 134}
+lauded <> J: {rk: 42416, frq: 61}
+laugh <> V: {rk: 862, frq: 52347}, N: {rk: 3618, frq: 8965}
+laughable <> J: {rk: 17314, frq: 579}
+laughably <> R: {rk: 35210, frq: 97}
+laugher <> N: {rk: 43273, frq: 55}
+laughing <> J: {rk: 15454, frq: 761}, N: {rk: 48587, frq: 37}
+laughingly <> R: {rk: 28547, frq: 175}
+laughingstock <> N: {rk: 31017, frq: 152}
+laughter <> N: {rk: 3420, frq: 12846}
+launch <> V: {rk: 1752, frq: 22844}, N: {rk: 4939, frq: 5485}
+launcher <> N: {rk: 13082, frq: 1088}
+launching <> N: {rk: 14734, frq: 793}
+launchpad <> N: {rk: 41976, frq: 71}
+launder <> V: {rk: 16160, frq: 651}
+laundered <> J: {rk: 43653, frq: 50}
+launderer <> N: {rk: 36178, frq: 99}
+launderette <> N: {rk: 58010, frq: 21}
+laundering <> N: {rk: 15696, frq: 730}
+laundress <> N: {rk: 39889, frq: 67}
+laundrette <> N: {rk: 58721, frq: 21}
+laundromat <> N: {rk: 20463, frq: 457}
+laundry <> N: {rk: 4988, frq: 5510}
+laundryman <> N: {rk: 51570, frq: 60}
+laureate <> N: {rk: 15776, frq: 873}, J: {rk: 40767, frq: 64}
+lav <> N: {rk: 58118, frq: 33}
+lava <> N: {rk: 9277, frq: 2111}
+lavage <> N: {rk: 49236, frq: 46}
+lavatory <> N: {rk: 20844, frq: 401}
+lave <> V: {rk: 40548, frq: 68}
+lavender <> N: {rk: 8322, frq: 2459}
+lavish <> J: {rk: 9219, frq: 1899}, V: {rk: 17238, frq: 586}
+lavishly <> R: {rk: 17709, frq: 551}
+lavishness <> N: {rk: 52024, frq: 30}
+law <> N: {rk: 287, frq: 146053}
+law-abiding <> J: {rk: 16434, frq: 655}, N: {rk: 37616, frq: 77}
+lawbreaker <> N: {rk: 28681, frq: 183}
+lawful <> J: {rk: 15065, frq: 805}
+lawfully <> R: {rk: 28007, frq: 200}
+lawfulness <> N: {rk: 48719, frq: 36}
+lawgiver <> N: {rk: 39435, frq: 73}
+lawless <> J: {rk: 17886, frq: 573}
+lawlessness <> N: {rk: 20353, frq: 874}
+lawmaker <> N: {rk: 4729, frq: 6868}
+lawmaking <> J: {rk: 39053, frq: 70}, N: {rk: 45007, frq: 48}
+lawman <> N: {rk: 25113, frq: 275}
+lawn <> N: {rk: 2969, frq: 11529}
+lawnmower <> N: {rk: 25045, frq: 257}
+lawsuit <> N: {rk: 2676, frq: 13513}
+lawyer <> N: {rk: 817, frq: 50720}
+lawyering <> N: {rk: 41448, frq: 60}
+lawyerly <> J: {rk: 39292, frq: 71}
+lax <> J: {rk: 13428, frq: 1211}
+laxative <> N: {rk: 25040, frq: 248}, J: {rk: 40025, frq: 74}
+laxity <> N: {rk: 30297, frq: 162}
+lay <> V: {rk: 803, frq: 53185}, J: {rk: 7893, frq: 2614}
+layabout <> N: {rk: 47068, frq: 41}
+layaway <> N: {rk: 44611, frq: 100}
+layer <> N: {rk: 2181, frq: 17812}, V: {rk: 13253, frq: 1097}
+layered <> J: {rk: 13295, frq: 1025}
+layering <> N: {rk: 17531, frq: 609}
+layette <> N: {rk: 53148, frq: 54}
+laying <> N: {rk: 28457, frq: 182}
+layman <> N: {rk: 16751, frq: 661}
+layoff <> N: {rk: 7939, frq: 2657}, V: {rk: 52407, frq: 26}
+layout <> N: {rk: 7603, frq: 2808}
+layover <> N: {rk: 28095, frq: 193}
+laypeople <> N: {rk: 27600, frq: 242}
+layperson <> N: {rk: 23650, frq: 315}
+layup <> N: {rk: 17958, frq: 1128}
+laywoman <> N: {rk: 44164, frq: 52}
+lazarette <> N: {rk: 57707, frq: 32}
+laze <> V: {rk: 31283, frq: 145}
+lazily <> R: {rk: 16846, frq: 677}
+laziness <> N: {rk: 20265, frq: 430}
+lazuli <> N: {rk: 39786, frq: 79}
+lazy <> J: {rk: 6321, frq: 3652}
+leach <> V: {rk: 14969, frq: 787}
+leachate <> N: {rk: 37657, frq: 92}, J: {rk: 40379, frq: 71}
+leaching <> N: {rk: 41356, frq: 64}
+lead <> V: {rk: 318, frq: 133408}, N: {rk: 1573, frq: 25354}
+lead-free <> J: {rk: 44889, frq: 52}
+lead-in <> N: {rk: 27479, frq: 202}
+lead-off <> J: {rk: 46504, frq: 40}
+lead-up <> N: {rk: 35235, frq: 110}
+leaded <> J: {rk: 24126, frq: 297}
+leaden <> J: {rk: 21572, frq: 359}
+leader <> N: {rk: 463, frq: 93937}
+leaderboard <> N: {rk: 37887, frq: 88}
+leaderless <> J: {rk: 38503, frq: 76}
+leadership <> N: {rk: 1308, frq: 33290}
+leading <> J: {rk: 2202, frq: 17008}
+leading-edge <> J: {rk: 33284, frq: 115}
+leadoff <> N: {rk: 22293, frq: 400}
+leaf <> N: {rk: 1564, frq: 25938}, V: {rk: 15754, frq: 705}
+leafed <> J: {rk: 44410, frq: 49}
+leafhopper <> N: {rk: 43286, frq: 59}
+leafless <> J: {rk: 25019, frq: 257}
+leaflet <> N: {rk: 14067, frq: 912}
+leafy <> J: {rk: 11130, frq: 1398}
+league <> N: {rk: 1961, frq: 35494}
+leaguer <> N: {rk: 16740, frq: 756}
+leak <> V: {rk: 5219, frq: 5134}, N: {rk: 5999, frq: 4396}
+leakage <> N: {rk: 14914, frq: 888}
+leaked <> J: {rk: 25207, frq: 301}
+leaker <> N: {rk: 35481, frq: 121}
+leaking <> J: {rk: 29164, frq: 184}, N: {rk: 34631, frq: 113}
+leaky <> J: {rk: 15470, frq: 725}
+leal <> J: {rk: 55450, frq: 25}
+lean <> V: {rk: 1525, frq: 29029}, J: {rk: 5554, frq: 4573}
+lean-to <> N: {rk: 26162, frq: 248}, J: {rk: 46558, frq: 43}
+leaning <> N: {rk: 19121, frq: 472}, J: {rk: 36661, frq: 85}
+leanness <> N: {rk: 47381, frq: 41}
+leap <> V: {rk: 3648, frq: 8966}, N: {rk: 5416, frq: 4636}
+leaper <> N: {rk: 40231, frq: 89}
+leapfrog <> V: {rk: 21477, frq: 358}, N: {rk: 34239, frq: 116}
+leaping <> J: {rk: 27919, frq: 192}
+learn <> V: {rk: 304, frq: 135474}
+learnable <> J: {rk: 54768, frq: 22}
+learned <> J: {rk: 11115, frq: 1421}
+learner <> N: {rk: 5130, frq: 6038}
+learning <> N: {rk: 1459, frq: 32124}
+lease <> N: {rk: 6114, frq: 3950}, V: {rk: 7801, frq: 2873}
+leased <> J: {rk: 22183, frq: 357}
+leasehold <> N: {rk: 46398, frq: 59}
+leaseholder <> N: {rk: 46610, frq: 39}
+leash <> N: {rk: 11156, frq: 1439}, V: {rk: 38201, frq: 75}
+leashed <> J: {rk: 45147, frq: 48}
+leasing <> N: {rk: 17336, frq: 637}
+least <> R: {rk: 302, frq: 134256}, D: {rk: 5360, frq: 4679}
+leather <> N: {rk: 2960, frq: 12294}
+leather-bound <> J: {rk: 26486, frq: 227}
+leatherback <> N: {rk: 43548, frq: 95}
+leathered <> J: {rk: 58031, frq: 24}
+leatherette <> N: {rk: 39679, frq: 69}
+leathery <> J: {rk: 20057, frq: 449}
+leave <> V: {rk: 150, frq: 260368}, N: {rk: 4831, frq: 5518}
+leave-taking <> N: {rk: 42177, frq: 56}
+leaven <> V: {rk: 27278, frq: 203}, N: {rk: 51449, frq: 34}
+leavened <> J: {rk: 59394, frq: 24}
+leavening <> J: {rk: 49639, frq: 34}, N: {rk: 58245, frq: 23}
+leaver <> N: {rk: 36900, frq: 152}
+leaving <> N: {rk: 16848, frq: 639}
+lebanese <> J: {rk: 7790, frq: 3058}
+lebensraum <> N: {rk: 58146, frq: 33}
+lecher <> N: {rk: 47076, frq: 50}
+lecherous <> J: {rk: 31859, frq: 134}
+lechery <> N: {rk: 48528, frq: 38}
+lecithin <> N: {rk: 46032, frq: 48}
+lectern <> N: {rk: 21186, frq: 406}
+lectionary <> J: {rk: 43944, frq: 80}
+lector <> N: {rk: 29424, frq: 203}
+lecture <> N: {rk: 3550, frq: 8902}, V: {rk: 8011, frq: 2396}
+lecturer <> N: {rk: 10585, frq: 1548}
+lectureship <> N: {rk: 54288, frq: 31}
+lecturing <> N: {rk: 46945, frq: 48}, J: {rk: 50275, frq: 33}
+lederhosen <> N: {rk: 47552, frq: 75}
+ledge <> N: {rk: 8469, frq: 2411}
+ledger <> N: {rk: 12767, frq: 1340}
+leech <> N: {rk: 19670, frq: 557}, V: {rk: 42837, frq: 52}
+leek <> N: {rk: 13144, frq: 1259}
+leer <> V: {rk: 20858, frq: 413}, N: {rk: 27813, frq: 213}
+leering <> J: {rk: 36381, frq: 91}
+leery <> J: {rk: 17429, frq: 579}
+leeward <> R: {rk: 30157, frq: 168}
+leeway <> N: {rk: 16362, frq: 679}
+left <> J: {rk: 771, frq: 55090}, N: {rk: 5265, frq: 5016}, R: {rk: 12447, frq: 1202}
+left-hand <> J: {rk: 14580, frq: 797}
+left-handed <> J: {rk: 15679, frq: 756}, R: {rk: 21823, frq: 371}
+left-handedness <> N: {rk: 49626, frq: 39}
+left-hander <> N: {rk: 20358, frq: 545}
+left-leaning <> J: {rk: 24720, frq: 277}
+left-wing <> J: {rk: 11950, frq: 1224}
+left-winger <> N: {rk: 40350, frq: 70}
+leftfield <> N: {rk: 54476, frq: 26}
+leftism <> N: {rk: 44055, frq: 58}
+leftist <> N: {rk: 9293, frq: 1928}, J: {rk: 41385, frq: 61}
+leftmost <> J: {rk: 50003, frq: 32}
+leftover <> J: {rk: 9990, frq: 1804}, N: {rk: 12246, frq: 1258}
+leftward <> J: {rk: 41055, frq: 62}, R: {rk: 44698, frq: 46}
+leg <> N: {rk: 857, frq: 51067}
+legacy <> N: {rk: 3210, frq: 10350}
+legal <> J: {rk: 884, frq: 48338}
+legal-size <> J: {rk: 55806, frq: 23}
+legalese <> N: {rk: 36202, frq: 92}
+legalism <> N: {rk: 34085, frq: 116}
+legalistic <> J: {rk: 25010, frq: 252}
+legality <> N: {rk: 14390, frq: 840}
+legalization <> N: {rk: 15991, frq: 747}
+legalize <> V: {rk: 11029, frq: 1432}
+legalized <> J: {rk: 22547, frq: 319}
+legally <> R: {rk: 4606, frq: 5948}
+legate <> N: {rk: 32915, frq: 165}
+legatee <> N: {rk: 58417, frq: 20}
+legation <> N: {rk: 35486, frq: 110}
+legato <> R: {rk: 38429, frq: 92}, J: {rk: 45299, frq: 47}
+legend <> N: {rk: 3406, frq: 9319}
+legendarily <> R: {rk: 45474, frq: 45}
+legendary <> J: {rk: 5048, frq: 5331}
+legerdemain <> N: {rk: 42240, frq: 56}
+legged <> J: {rk: 35204, frq: 104}
+legging <> N: {rk: 18761, frq: 557}
+leggy <> J: {rk: 26448, frq: 224}
+legibility <> N: {rk: 32274, frq: 172}
+legible <> J: {rk: 20926, frq: 395}
+legibly <> R: {rk: 55779, frq: 23}
+legion <> N: {rk: 10446, frq: 2511}
+legionary <> N: {rk: 51450, frq: 35}
+legionnaire <> N: {rk: 35218, frq: 168}
+legislate <> V: {rk: 12868, frq: 1070}
+legislated <> J: {rk: 40101, frq: 65}
+legislation <> N: {rk: 2028, frq: 20186}
+legislative <> J: {rk: 3568, frq: 9167}
+legislatively <> R: {rk: 30384, frq: 165}
+legislator <> N: {rk: 4664, frq: 6143}
+legislature <> N: {rk: 4400, frq: 9263}
+legitimacy <> N: {rk: 5831, frq: 4488}
+legitimate <> J: {rk: 3216, frq: 10255}, V: {rk: 22978, frq: 342}
+legitimately <> R: {rk: 13938, frq: 900}
+legitimating <> J: {rk: 47144, frq: 42}
+legitimation <> N: {rk: 26442, frq: 254}
+legitimization <> N: {rk: 33712, frq: 114}
+legitimize <> V: {rk: 11823, frq: 1280}
+legitimized <> J: {rk: 55935, frq: 24}
+legitimizing <> J: {rk: 46488, frq: 43}
+legless <> J: {rk: 34328, frq: 105}
+legroom <> N: {rk: 32405, frq: 142}
+legume <> N: {rk: 17556, frq: 594}
+leguminous <> J: {rk: 55483, frq: 24}
+legwork <> N: {rk: 29210, frq: 178}
+lehua <> N: {rk: 59447, frq: 28}
+lei <> N: {rk: 41787, frq: 148}
+leishmaniasis <> N: {rk: 49150, frq: 37}
+leisure <> N: {rk: 6353, frq: 3705}
+leisured <> J: {rk: 47868, frq: 37}
+leisurely <> J: {rk: 13830, frq: 915}, R: {rk: 23265, frq: 302}
+leitmotif <> N: {rk: 30304, frq: 152}
+lemma <> N: {rk: 41249, frq: 156}
+lemming <> N: {rk: 25243, frq: 309}
+lemon <> N: {rk: 3200, frq: 11708}
+lemonade <> N: {rk: 11871, frq: 1282}
+lemongrass <> N: {rk: 31010, frq: 176}
+lemony <> J: {rk: 24403, frq: 300}
+lemur <> N: {rk: 30163, frq: 193}
+lend <> V: {rk: 3574, frq: 8677}
+lender <> N: {rk: 6362, frq: 3979}
+lending <> N: {rk: 8816, frq: 2250}
+length <> N: {rk: 1865, frq: 21198}
+lengthen <> V: {rk: 11756, frq: 1216}
+lengthened <> J: {rk: 46640, frq: 47}
+lengthening <> J: {rk: 36158, frq: 92}, N: {rk: 46742, frq: 39}
+lengthwise <> R: {rk: 15161, frq: 916}, J: {rk: 24680, frq: 301}
+lengthy <> J: {rk: 6110, frq: 3800}
+leniency <> N: {rk: 22009, frq: 356}
+lenient <> J: {rk: 16746, frq: 625}
+leniently <> R: {rk: 47139, frq: 40}
+lens <> N: {rk: 3570, frq: 9096}
+lensing <> N: {rk: 42586, frq: 66}, J: {rk: 49346, frq: 34}
+lensman <> N: {rk: 57317, frq: 25}
+lenticular <> J: {rk: 43488, frq: 59}
+lentils <> N: {rk: 16056, frq: 780}
+leonine <> J: {rk: 43502, frq: 53}
+leopard <> N: {rk: 12250, frq: 1473}
+leopard-skin <> J: {rk: 50813, frq: 30}
+leotard <> N: {rk: 24476, frq: 278}
+leper <> N: {rk: 18587, frq: 597}
+lepidopterist <> N: {rk: 53204, frq: 32}
+leprechaun <> N: {rk: 27675, frq: 232}
+leprosy <> N: {rk: 23543, frq: 394}
+leprous <> J: {rk: 45554, frq: 47}
+leptin <> N: {rk: 34530, frq: 163}
+lepton <> N: {rk: 33264, frq: 214}
+leptospirosis <> N: {rk: 59484, frq: 26}
+lesbian <> N: {rk: 6423, frq: 3781}, J: {rk: 6623, frq: 3397}
+lesbianism <> N: {rk: 29881, frq: 162}
+lesion <> N: {rk: 8577, frq: 2581}
+less <> R: {rk: 477, frq: 89409}, D: {rk: 620, frq: 67456}
+lessee <> N: {rk: 40680, frq: 68}
+lessen <> V: {rk: 7784, frq: 2532}
+lessened <> J: {rk: 39193, frq: 68}
+lessening <> N: {rk: 30518, frq: 157}
+lesser <> J: {rk: 5181, frq: 4924}
+lesser-known <> J: {rk: 20748, frq: 399}
+lesson <> N: {rk: 1329, frq: 31373}
+lessor <> N: {rk: 45384, frq: 61}
+lest <> C: {rk: 9002, frq: 1982}
+let <> V: {rk: 159, frq: 263272}, N: {rk: 21727, frq: 129}
+letdown <> N: {rk: 21055, frq: 392}
+lethal <> J: {rk: 6241, frq: 3614}
+lethality <> N: {rk: 33856, frq: 115}
+lethally <> R: {rk: 40806, frq: 64}
+lethargic <> J: {rk: 22018, frq: 347}
+lethargically <> R: {rk: 51135, frq: 29}
+lethargy <> N: {rk: 22477, frq: 324}
+letter <> N: {rk: 628, frq: 65459}, V: {rk: 28337, frq: 176}
+letter-size <> J: {rk: 53642, frq: 29}
+letterbox <> N: {rk: 53633, frq: 34}
+lettered <> J: {rk: 37239, frq: 97}
+letterhead <> N: {rk: 23862, frq: 280}
+lettering <> N: {rk: 16818, frq: 623}
+letterpress <> N: {rk: 44952, frq: 53}
+letting <> N: {rk: 31777, frq: 137}
+lettuce <> N: {rk: 6684, frq: 3492}
+leucocyte <> N: {rk: 49885, frq: 46}
+leukaemia <> N: {rk: 56588, frq: 57}
+leukemia <> N: {rk: 11263, frq: 1458}
+leukemic <> J: {rk: 59006, frq: 28}
+leukocyte <> N: {rk: 39145, frq: 99}
+leukocytosis <> N: {rk: 57961, frq: 25}
+leukotriene <> N: {rk: 51625, frq: 41}
+levator <> N: {rk: 58132, frq: 22}
+levee <> N: {rk: 10147, frq: 1944}
+level <> N: {rk: 338, frq: 132310}, J: {rk: 4793, frq: 5735}, V: {rk: 5756, frq: 4063}
+level-headed <> J: {rk: 26811, frq: 218}
+leveled <> J: {rk: 45715, frq: 45}
+leveler <> N: {rk: 37703, frq: 81}
+leveling <> N: {rk: 31449, frq: 140}, J: {rk: 38251, frq: 75}
+levelly <> R: {rk: 36515, frq: 95}
+lever <> N: {rk: 7612, frq: 2840}, V: {rk: 26988, frq: 216}
+leverage <> N: {rk: 6586, frq: 3452}, V: {rk: 23460, frq: 316}
+leveraged <> J: {rk: 17121, frq: 646}
+leveraging <> N: {rk: 59129, frq: 30}
+levitate <> V: {rk: 22745, frq: 324}
+levitating <> J: {rk: 51753, frq: 27}
+levitation <> N: {rk: 32691, frq: 125}
+levity <> N: {rk: 27451, frq: 196}
+levy <> V: {rk: 13746, frq: 944}
+lewd <> J: {rk: 19033, frq: 480}
+lewdly <> R: {rk: 56106, frq: 23}
+lewdness <> N: {rk: 51090, frq: 26}
+lexical <> J: {rk: 23808, frq: 334}
+lexicographer <> N: {rk: 47370, frq: 37}
+lexicon <> N: {rk: 16688, frq: 694}
+liability <> N: {rk: 4154, frq: 7311}
+liable <> J: {rk: 8458, frq: 2193}
+liaise <> V: {rk: 47239, frq: 40}
+liaison <> N: {rk: 8360, frq: 2309}
+liana <> N: {rk: 38996, frq: 143}
+liar <> N: {rk: 6773, frq: 3292}
+lib <> N: {rk: 26444, frq: 270}
+libation <> N: {rk: 29219, frq: 182}
+libel <> N: {rk: 15941, frq: 710}
+libelous <> J: {rk: 38948, frq: 70}
+liberal <> J: {rk: 2003, frq: 19870}, N: {rk: 4620, frq: 6320}
+liberalism <> N: {rk: 8311, frq: 2577}
+liberality <> N: {rk: 42433, frq: 61}
+liberalization <> N: {rk: 9023, frq: 2205}
+liberalize <> V: {rk: 17095, frq: 622}
+liberalized <> J: {rk: 33179, frq: 117}
+liberalizing <> J: {rk: 40053, frq: 65}
+liberally <> R: {rk: 17264, frq: 587}
+liberate <> V: {rk: 7617, frq: 2626}
+liberated <> J: {rk: 17567, frq: 590}
+liberating <> J: {rk: 12226, frq: 1172}
+liberation <> N: {rk: 6313, frq: 5337}
+liberator <> N: {rk: 19545, frq: 515}
+liberatory <> J: {rk: 47661, frq: 42}
+libero <> N: {rk: 59047, frq: 33}
+libertarian <> J: {rk: 14547, frq: 875}, N: {rk: 16015, frq: 717}
+libertarianism <> N: {rk: 40357, frq: 86}
+libertine <> N: {rk: 39463, frq: 83}, J: {rk: 42890, frq: 51}
+liberty <> N: {rk: 3865, frq: 12462}
+libidinal <> J: {rk: 37005, frq: 88}
+libidinous <> J: {rk: 39205, frq: 67}
+libido <> N: {rk: 18917, frq: 570}
+librarian <> N: {rk: 7630, frq: 2956}
+librarianship <> N: {rk: 47021, frq: 65}
+library <> N: {rk: 2142, frq: 24266}
+libration <> N: {rk: 47316, frq: 47}
+librettist <> N: {rk: 37144, frq: 92}
+libretto <> N: {rk: 24289, frq: 289}
+licence <> N: {rk: 32966, frq: 123}
+license <> N: {rk: 2889, frq: 11781}, V: {rk: 6015, frq: 3947}
+licensed <> J: {rk: 9338, frq: 1836}
+licensee <> N: {rk: 24784, frq: 258}
+licensing <> N: {rk: 9859, frq: 1688}
+licensure <> N: {rk: 25299, frq: 330}
+licentious <> J: {rk: 35841, frq: 96}
+licentiousness <> N: {rk: 43195, frq: 53}
+lichen <> N: {rk: 16355, frq: 725}
+lick <> V: {rk: 6014, frq: 4290}, N: {rk: 17276, frq: 998}
+licking <> N: {rk: 33256, frq: 120}
+licorice <> N: {rk: 22316, frq: 384}
+lid <> N: {rk: 4702, frq: 6099}
+lidar <> N: {rk: 49695, frq: 77}
+lidded <> J: {rk: 36865, frq: 84}
+lidless <> J: {rk: 55791, frq: 23}
+lidocaine <> N: {rk: 36915, frq: 115}
+lie <> V: {rk: 751, frq: 55312}, N: {rk: 2861, frq: 12128}
+liege <> N: {rk: 41453, frq: 119}
+lien <> N: {rk: 20431, frq: 657}
+lieu <> I: {rk: 14338, frq: 860}, N: {rk: 36282, frq: 186}
+lieutenant <> N: {rk: 6130, frq: 6393}
+life <> N: {rk: 114, frq: 361340}
+life-and-death <> J: {rk: 24400, frq: 272}
+life-giving <> J: {rk: 24717, frq: 279}
+life-size <> J: {rk: 16104, frq: 689}
+life-threatening <> J: {rk: 10995, frq: 1392}
+lifeblood <> N: {rk: 20407, frq: 410}
+lifeboat <> N: {rk: 16447, frq: 838}
+lifeguard <> N: {rk: 16610, frq: 731}
+lifeless <> J: {rk: 12551, frq: 1185}
+lifelessly <> R: {rk: 44662, frq: 47}
+lifelike <> J: {rk: 19790, frq: 430}
+lifeline <> N: {rk: 14339, frq: 875}
+lifelong <> J: {rk: 5791, frq: 4225}
+lifer <> N: {rk: 26837, frq: 251}
+lifesaver <> N: {rk: 24007, frq: 295}
+lifespan <> N: {rk: 15882, frq: 1488}
+lifestyle <> N: {rk: 3112, frq: 10736}
+lifetime <> N: {rk: 2784, frq: 12303}
+lifework <> N: {rk: 42755, frq: 54}
+lift <> V: {rk: 1347, frq: 31608}, N: {rk: 5021, frq: 5844}
+lifter <> N: {rk: 20791, frq: 438}
+lifting <> N: {rk: 9290, frq: 1872}
+liftoff <> N: {rk: 25103, frq: 288}
+ligament <> N: {rk: 11878, frq: 1250}
+ligand <> N: {rk: 39246, frq: 141}
+ligate <> V: {rk: 57314, frq: 24}
+ligation <> N: {rk: 27511, frq: 228}
+ligature <> N: {rk: 35880, frq: 107}
+light <> N: {rk: 464, frq: 93877}, J: {rk: 1306, frq: 32363}, V: {rk: 2411, frq: 15877}, I: {rk: 4760, frq: 5864}, R: {rk: 42224, frq: 56}
+light-footed <> J: {rk: 47451, frq: 39}
+light-headed <> J: {rk: 24505, frq: 279}
+light-headedness <> N: {rk: 35812, frq: 92}
+light-hearted <> J: {rk: 18567, frq: 493}
+light-sensitive <> J: {rk: 33916, frq: 108}
+lightbulb <> N: {rk: 19761, frq: 496}
+lighted <> J: {rk: 13505, frq: 958}
+lighten <> V: {rk: 8741, frq: 2130}
+lightening <> N: {rk: 27334, frq: 203}
+lighter <> N: {rk: 8358, frq: 2321}
+lighter-than-air <> J: {rk: 53259, frq: 30}
+lightheartedly <> R: {rk: 45869, frq: 41}
+lightheartedness <> N: {rk: 49035, frq: 37}
+lighthouse <> N: {rk: 12890, frq: 1791}
+lighting <> N: {rk: 4902, frq: 5540}
+lightless <> J: {rk: 33835, frq: 113}
+lightly <> R: {rk: 3419, frq: 10002}
+lightness <> N: {rk: 17007, frq: 622}
+lightning <> N: {rk: 4605, frq: 6154}
+lightship <> N: {rk: 59003, frq: 30}
+lightweight <> J: {rk: 8551, frq: 2355}, N: {rk: 14777, frq: 842}
+lignin <> N: {rk: 40714, frq: 66}
+lignite <> N: {rk: 44056, frq: 48}
+likability <> N: {rk: 34427, frq: 115}
+likable <> J: {rk: 15186, frq: 761}
+like <> I: {rk: 74, frq: 619260}, V: {rk: 208, frq: 198134}, C: {rk: 1120, frq: 39360}, J: {rk: 1680, frq: 24078}, R: {rk: 2694, frq: 14545}, N: {rk: 5907, frq: 4143}
+like-minded <> J: {rk: 15077, frq: 815}
+likeable <> J: {rk: 29090, frq: 172}
+liked <> J: {rk: 44658, frq: 41}
+likelihood <> N: {rk: 4640, frq: 6305}
+likely <> J: {rk: 624, frq: 68503}, R: {rk: 2783, frq: 12938}
+liken <> V: {rk: 9335, frq: 1856}
+likeness <> N: {rk: 10488, frq: 1520}
+likewise <> R: {rk: 4571, frq: 6310}
+liking <> N: {rk: 14851, frq: 796}
+lilac <> N: {rk: 17455, frq: 603}, J: {rk: 22076, frq: 356}
+lilt <> N: {rk: 24211, frq: 300}, V: {rk: 28826, frq: 183}
+lilting <> J: {rk: 30448, frq: 150}
+lily-white <> J: {rk: 42175, frq: 56}
+limb <> N: {rk: 3670, frq: 8640}
+limber <> J: {rk: 30690, frq: 152}, V: {rk: 33324, frq: 119}, N: {rk: 40133, frq: 66}
+limbic <> J: {rk: 29812, frq: 167}
+limbless <> J: {rk: 44954, frq: 48}
+limbo <> N: {rk: 13199, frq: 986}
+lime <> N: {rk: 5489, frq: 5139}, V: {rk: 51022, frq: 33}
+limeade <> N: {rk: 58583, frq: 32}
+limelight <> N: {rk: 14221, frq: 912}
+limestone <> N: {rk: 9393, frq: 1873}
+limey <> N: {rk: 54491, frq: 39}
+liminal <> J: {rk: 27978, frq: 221}
+liminality <> N: {rk: 42721, frq: 61}
+limit <> V: {rk: 1352, frq: 31286}, N: {rk: 1679, frq: 23356}
+limitation <> N: {rk: 3038, frq: 12061}
+limited <> J: {rk: 1992, frq: 20108}
+limiter <> N: {rk: 50236, frq: 42}
+limiting <> J: {rk: 9727, frq: 1810}
+limitless <> J: {rk: 13981, frq: 891}
+limitlessness <> N: {rk: 52891, frq: 28}
+limn <> V: {rk: 32295, frq: 129}
+limo <> N: {rk: 9500, frq: 1989}
+limousine <> N: {rk: 9800, frq: 1707}
+limp <> V: {rk: 9707, frq: 1818}, J: {rk: 12448, frq: 1181}, N: {rk: 12761, frq: 1154}
+limpet <> N: {rk: 40514, frq: 64}
+limpid <> J: {rk: 31846, frq: 131}
+limping <> J: {rk: 28697, frq: 178}
+limply <> R: {rk: 24652, frq: 278}
+limpness <> N: {rk: 57071, frq: 23}
+linac <> N: {rk: 56262, frq: 32}
+linage <> N: {rk: 52333, frq: 31}
+linchpin <> N: {rk: 21254, frq: 387}
+lindane <> N: {rk: 56739, frq: 31}
+line <> N: {rk: 276, frq: 147405}, V: {rk: 2498, frq: 14595}
+lineage <> N: {rk: 9235, frq: 2000}
+lineal <> J: {rk: 39017, frq: 72}
+lineament <> N: {rk: 40702, frq: 63}
+linear <> J: {rk: 5875, frq: 4764}
+linearity <> N: {rk: 29393, frq: 181}
+linearly <> R: {rk: 28159, frq: 227}
+linebacker <> N: {rk: 6703, frq: 3859}
+linebacking <> J: {rk: 58314, frq: 21}
+lined <> J: {rk: 17632, frq: 574}
+lineman <> N: {rk: 9462, frq: 2065}
+linen <> N: {rk: 6088, frq: 4023}
+liner <> N: {rk: 7629, frq: 2783}
+linesman <> N: {rk: 47735, frq: 42}
+lineup <> N: {rk: 5962, frq: 4390}
+lingcod <> N: {rk: 49658, frq: 65}
+linger <> V: {rk: 5792, frq: 4295}
+lingerie <> N: {rk: 15716, frq: 824}
+lingering <> J: {rk: 7334, frq: 2816}
+lingo <> N: {rk: 17681, frq: 586}
+lingua <> N: {rk: 28308, frq: 214}
+lingual <> J: {rk: 42336, frq: 107}
+linguine <> N: {rk: 29138, frq: 220}
+linguist <> N: {rk: 14645, frq: 842}
+linguistic <> J: {rk: 6792, frq: 3558}
+linguistically <> R: {rk: 23181, frq: 336}
+linguistics <> N: {rk: 16318, frq: 722}
+liniment <> N: {rk: 39685, frq: 66}
+lining <> N: {rk: 9642, frq: 1798}
+link <> V: {rk: 1739, frq: 23066}, N: {rk: 2196, frq: 17236}
+link-up <> N: {rk: 33495, frq: 113}
+linkage <> N: {rk: 7812, frq: 2717}
+linked <> J: {rk: 13487, frq: 967}
+linking <> N: {rk: 25577, frq: 265}
+linnean <> J: {rk: 56483, frq: 29}
+linocut <> N: {rk: 52992, frq: 32}
+linoleum <> N: {rk: 13659, frq: 993}
+linseed <> N: {rk: 27577, frq: 205}
+lint <> N: {rk: 22938, frq: 342}
+lintel <> N: {rk: 27926, frq: 205}
+lion <> N: {rk: 4343, frq: 10013}
+lion-hearted <> J: {rk: 45411, frq: 44}
+lioness <> N: {rk: 27091, frq: 211}
+lionfish <> N: {rk: 43645, frq: 109}
+lionize <> V: {rk: 31113, frq: 141}
+lip <> N: {rk: 1587, frq: 27462}
+lipid <> J: {rk: 23886, frq: 306}
+lipless <> J: {rk: 42775, frq: 61}
+lipophilic <> J: {rk: 58431, frq: 25}
+lipoprotein <> N: {rk: 29465, frq: 186}
+liposuction <> N: {rk: 21825, frq: 392}
+lipped <> J: {rk: 51891, frq: 28}
+lipstick <> N: {rk: 7493, frq: 2920}
+lipsticked <> J: {rk: 45892, frq: 41}
+liquefaction <> N: {rk: 41445, frq: 64}
+liquefied <> J: {rk: 29501, frq: 176}
+liquefy <> V: {rk: 25944, frq: 232}
+liqueur <> N: {rk: 17875, frq: 623}
+liquid <> N: {rk: 4399, frq: 6580}, J: {rk: 4797, frq: 5669}
+liquidate <> V: {rk: 17241, frq: 583}
+liquidated <> J: {rk: 50054, frq: 36}
+liquidation <> N: {rk: 20184, frq: 437}
+liquidator <> N: {rk: 44350, frq: 50}
+liquidity <> N: {rk: 16512, frq: 709}
+liquify <> V: {rk: 49384, frq: 33}
+liquor <> N: {rk: 5782, frq: 4272}
+lisp <> N: {rk: 31705, frq: 152}, V: {rk: 36132, frq: 101}
+lissome <> J: {rk: 48794, frq: 39}
+list <> N: {rk: 761, frq: 55328}, V: {rk: 2090, frq: 18343}
+listed <> J: {rk: 13335, frq: 1044}
+listen <> V: {rk: 609, frq: 70615}, N: {rk: 22549, frq: 423}
+listenable <> J: {rk: 51750, frq: 28}
+listener <> N: {rk: 4602, frq: 5991}
+listenership <> N: {rk: 45178, frq: 45}
+listening <> N: {rk: 7538, frq: 2698}, J: {rk: 9460, frq: 1863}
+listing <> N: {rk: 5739, frq: 4360}
+listless <> J: {rk: 21531, frq: 364}
+listlessly <> R: {rk: 29048, frq: 179}
+listlessness <> N: {rk: 41974, frq: 56}
+lit <> R: {rk: 34165, frq: 107}
+litany <> N: {rk: 12507, frq: 1066}
+lite <> J: {rk: 14063, frq: 818}
+liter <> N: {rk: 11708, frq: 1309}
+literacy <> N: {rk: 5213, frq: 6110}
+literal <> J: {rk: 7842, frq: 2568}
+literalism <> N: {rk: 34143, frq: 122}
+literalization <> N: {rk: 56944, frq: 26}
+literalize <> V: {rk: 50046, frq: 34}
+literally <> R: {rk: 2485, frq: 14770}
+literalness <> N: {rk: 48201, frq: 37}
+literarily <> R: {rk: 54818, frq: 26}
+literariness <> N: {rk: 49887, frq: 42}
+literary <> J: {rk: 2716, frq: 13643}
+literate <> J: {rk: 12405, frq: 1166}, N: {rk: 32002, frq: 135}
+literati <> N: {rk: 30382, frq: 154}
+literature <> N: {rk: 1554, frq: 28329}
+lithe <> J: {rk: 18858, frq: 511}
+lithely <> R: {rk: 56379, frq: 26}
+lithium <> N: {rk: 16368, frq: 726}
+lithograph <> N: {rk: 21816, frq: 381}, V: {rk: 33502, frq: 128}
+lithographed <> J: {rk: 48827, frq: 39}
+lithographer <> N: {rk: 49772, frq: 35}
+lithographic <> J: {rk: 35566, frq: 126}
+lithography <> N: {rk: 24275, frq: 405}
+lithosphere <> N: {rk: 44143, frq: 64}
+litigant <> N: {rk: 20443, frq: 445}
+litigate <> V: {rk: 19059, frq: 474}
+litigated <> J: {rk: 53943, frq: 27}
+litigation <> N: {rk: 5271, frq: 5053}
+litigator <> N: {rk: 21248, frq: 379}
+litigious <> J: {rk: 27464, frq: 193}
+litmus <> N: {rk: 17069, frq: 619}
+litter <> N: {rk: 8240, frq: 2329}, V: {rk: 8526, frq: 2200}
+littered <> J: {rk: 41847, frq: 55}
+littermate <> N: {rk: 52475, frq: 35}
+little <> J: {rk: 256, frq: 162443}, R: {rk: 436, frq: 96194}, D: {rk: 846, frq: 48996}
+littleness <> N: {rk: 53568, frq: 27}
+littoral <> J: {rk: 27823, frq: 240}
+liturgical <> J: {rk: 13838, frq: 1116}
+liturgist <> N: {rk: 48991, frq: 49}
+liturgy <> N: {rk: 11764, frq: 1663}
+livability <> N: {rk: 37593, frq: 83}
+livable <> J: {rk: 19493, frq: 466}
+live <> V: {rk: 210, frq: 190933}, J: {rk: 2071, frq: 19286}, R: {rk: 9934, frq: 1705}
+live-in <> J: {rk: 40897, frq: 59}
+liveable <> J: {rk: 50681, frq: 31}
+lived-in <> J: {rk: 36253, frq: 90}
+livelihood <> N: {rk: 9381, frq: 1916}
+liveliness <> N: {rk: 30803, frq: 155}
+livelong <> N: {rk: 54110, frq: 27}
+lively <> J: {rk: 5847, frq: 4084}
+liven <> V: {rk: 37618, frq: 81}
+liver <> N: {rk: 4711, frq: 5774}
+liveried <> J: {rk: 45681, frq: 47}
+liverwurst <> N: {rk: 54090, frq: 31}
+livery <> N: {rk: 23928, frq: 298}
+livestock <> N: {rk: 6255, frq: 3768}
+livid <> J: {rk: 20185, frq: 429}
+lividity <> N: {rk: 58279, frq: 23}
+living <> N: {rk: 1333, frq: 30918}, J: {rk: 2073, frq: 18217}
+lizard <> N: {rk: 7940, frq: 2823}
+llama <> N: {rk: 18949, frq: 614}
+load <> V: {rk: 2918, frq: 11595}, N: {rk: 2955, frq: 11744}
+loaded <> J: {rk: 9967, frq: 1659}
+loader <> N: {rk: 19286, frq: 505}
+loading <> N: {rk: 7746, frq: 2766}
+loadmaster <> N: {rk: 57299, frq: 26}
+loaf <> N: {rk: 6994, frq: 3130}, V: {rk: 26586, frq: 232}
+loafer <> N: {rk: 15600, frq: 757}
+loafing <> N: {rk: 52781, frq: 53}
+loam <> N: {rk: 25069, frq: 303}
+loamy <> J: {rk: 36533, frq: 90}
+loan <> N: {rk: 1707, frq: 24302}, V: {rk: 13109, frq: 1007}
+loaned <> J: {rk: 54709, frq: 28}
+loaner <> N: {rk: 38753, frq: 85}
+loath <> J: {rk: 17749, frq: 556}
+loathe <> V: {rk: 12993, frq: 1045}
+loathing <> N: {rk: 18086, frq: 534}
+loathsome <> J: {rk: 23738, frq: 285}
+lob <> V: {rk: 18405, frq: 515}, N: {rk: 27621, frq: 361}
+lobby <> N: {rk: 3764, frq: 8188}, V: {rk: 5597, frq: 4411}
+lobbying <> N: {rk: 8023, frq: 2440}
+lobbyist <> N: {rk: 5377, frq: 5002}
+lobe <> N: {rk: 11824, frq: 1297}
+lobectomy <> N: {rk: 59872, frq: 37}
+lobelia <> N: {rk: 34089, frq: 112}
+loblolly <> J: {rk: 41347, frq: 62}
+lobotomy <> N: {rk: 32909, frq: 127}
+lobster <> N: {rk: 6295, frq: 4154}
+lobsterman <> N: {rk: 28176, frq: 230}
+lobular <> J: {rk: 53042, frq: 33}
+lobule <> N: {rk: 56081, frq: 28}
+local <> J: {rk: 423, frq: 101060}, N: {rk: 6188, frq: 6143}
+locale <> N: {rk: 10021, frq: 1682}
+localised <> J: {rk: 55000, frq: 34}
+localism <> N: {rk: 37279, frq: 110}
+locality <> N: {rk: 11353, frq: 1427}
+localization <> N: {rk: 23406, frq: 368}
+localize <> V: {rk: 19631, frq: 476}
+localized <> J: {rk: 13258, frq: 1034}
+locally <> R: {rk: 5954, frq: 4148}
+locate <> V: {rk: 1688, frq: 23430}
+located <> J: {rk: 45529, frq: 43}
+locater <> N: {rk: 56769, frq: 32}
+location <> N: {rk: 1437, frq: 28981}
+locational <> J: {rk: 36770, frq: 92}
+locator <> N: {rk: 23871, frq: 313}
+lock <> V: {rk: 2235, frq: 16836}, N: {rk: 3792, frq: 8731}
+lock-in <> N: {rk: 45630, frq: 52}
+lock-up <> J: {rk: 54410, frq: 28}
+lockable <> J: {rk: 46466, frq: 48}
+lockbox <> N: {rk: 35648, frq: 106}
+lockdown <> N: {rk: 24835, frq: 322}
+locked <> J: {rk: 10456, frq: 1582}
+locker <> N: {rk: 5060, frq: 5714}
+locket <> N: {rk: 24358, frq: 327}
+locking <> J: {rk: 26692, frq: 231}, N: {rk: 43042, frq: 54}
+lockjaw <> N: {rk: 46428, frq: 47}
+locknut <> N: {rk: 56397, frq: 27}
+lockout <> N: {rk: 18035, frq: 600}
+locksmith <> N: {rk: 27264, frq: 206}
+lockstep <> N: {rk: 26752, frq: 216}
+lockup <> N: {rk: 23109, frq: 318}
+loco <> R: {rk: 44577, frq: 69}, J: {rk: 49110, frq: 35}
+locomotion <> N: {rk: 24361, frq: 318}
+locomotive <> N: {rk: 12052, frq: 1184}
+locus <> N: {rk: 9701, frq: 1936}
+locust <> N: {rk: 15856, frq: 887}
+locution <> N: {rk: 34983, frq: 105}
+lode <> N: {rk: 25667, frq: 293}
+loden <> N: {rk: 46417, frq: 72}
+lodestar <> N: {rk: 41839, frq: 63}
+lodestone <> N: {rk: 43316, frq: 57}
+lodge <> V: {rk: 6943, frq: 3076}, N: {rk: 7182, frq: 5168}
+lodgepole <> N: {rk: 30422, frq: 160}
+lodger <> N: {rk: 33641, frq: 140}
+lodging <> N: {rk: 13374, frq: 1003}
+loess <> N: {rk: 39172, frq: 86}
+loft <> N: {rk: 7932, frq: 2569}, V: {rk: 26661, frq: 216}
+lofted <> J: {rk: 52620, frq: 29}
+loftily <> R: {rk: 41288, frq: 63}
+loftiness <> N: {rk: 56628, frq: 20}
+lofty <> J: {rk: 9810, frq: 1697}
+log <> N: {rk: 3446, frq: 9303}, V: {rk: 6115, frq: 3833}
+logarithm <> N: {rk: 36039, frq: 103}
+logarithmic <> J: {rk: 33556, frq: 121}
+logarithmically <> R: {rk: 48943, frq: 37}
+logbook <> N: {rk: 27111, frq: 228}
+loge <> N: {rk: 51799, frq: 50}
+logger <> N: {rk: 13006, frq: 1087}
+loggerhead <> N: {rk: 26808, frq: 234}
+loggia <> N: {rk: 38891, frq: 93}
+logging <> N: {rk: 9215, frq: 1899}
+logic <> N: {rk: 3492, frq: 9306}
+logical <> J: {rk: 4612, frq: 6049}
+logically <> R: {rk: 11767, frq: 1274}
+logician <> N: {rk: 40731, frq: 60}
+logistic <> J: {rk: 15076, frq: 1081}
+logistical <> J: {rk: 12346, frq: 1178}
+logistically <> R: {rk: 29541, frq: 166}
+logistics <> N: {rk: 10149, frq: 1645}
+logjam <> N: {rk: 25579, frq: 244}
+logo <> N: {rk: 5997, frq: 4081}
+logocentric <> J: {rk: 41491, frq: 64}
+logon <> N: {rk: 32019, frq: 162}
+logwood <> N: {rk: 59515, frq: 24}
+loin <> N: {rk: 14767, frq: 860}
+loincloth <> N: {rk: 27658, frq: 199}
+loiter <> V: {rk: 22346, frq: 339}
+loiterer <> N: {rk: 50063, frq: 36}
+loitering <> N: {rk: 53323, frq: 31}
+loll <> V: {rk: 18272, frq: 554}
+lollipop <> N: {rk: 20937, frq: 407}
+lolly <> N: {rk: 42328, frq: 67}
+lone <> J: {rk: 5437, frq: 4780}
+loneliness <> N: {rk: 7159, frq: 2985}
+lonely <> J: {rk: 4033, frq: 7324}
+loner <> N: {rk: 15297, frq: 741}
+lonesome <> J: {rk: 16109, frq: 692}
+long <> J: {rk: 254, frq: 161439}, R: {rk: 261, frq: 154261}, C: {rk: 1841, frq: 20738}, V: {rk: 5562, frq: 4632}
+long-awaited <> J: {rk: 16076, frq: 661}
+long-distance <> J: {rk: 7840, frq: 2534}
+long-faced <> J: {rk: 48481, frq: 35}
+long-life <> J: {rk: 45346, frq: 44}
+long-lived <> J: {rk: 20148, frq: 428}
+long-lost <> J: {rk: 19430, frq: 457}
+long-playing <> J: {rk: 47703, frq: 35}
+long-range <> J: {rk: 9161, frq: 1907}
+long-running <> J: {rk: 16982, frq: 644}
+long-standing <> J: {rk: 6534, frq: 3506}
+long-suffering <> J: {rk: 21398, frq: 366}
+long-term <> J: {rk: 1765, frq: 22858}
+long-winded <> J: {rk: 28977, frq: 174}
+longbeard <> N: {rk: 44199, frq: 62}
+longboat <> N: {rk: 42451, frq: 80}
+longbow <> N: {rk: 38409, frq: 87}
+longevity <> N: {rk: 9051, frq: 1982}
+longhand <> N: {rk: 30596, frq: 146}
+longhouse <> N: {rk: 30208, frq: 182}
+longing <> N: {rk: 8293, frq: 2332}
+longingly <> R: {rk: 23009, frq: 323}
+longish <> J: {rk: 28914, frq: 176}
+longitude <> N: {rk: 17598, frq: 586}
+longitudinal <> J: {rk: 10035, frq: 2278}
+longitudinally <> R: {rk: 36441, frq: 104}
+longline <> N: {rk: 29521, frq: 327}
+longshore <> J: {rk: 37715, frq: 97}
+longshoreman <> N: {rk: 26654, frq: 250}
+longshot <> N: {rk: 31992, frq: 160}
+longtime <> J: {rk: 3562, frq: 9308}
+loo <> N: {rk: 24891, frq: 288}
+loofah <> N: {rk: 38669, frq: 76}
+look <> V: {rk: 85, frq: 534884}, N: {rk: 603, frq: 71117}
+looker <> N: {rk: 31754, frq: 168}
+looking <> J: {rk: 14249, frq: 865}
+lookout <> N: {rk: 10739, frq: 1696}
+lookup <> N: {rk: 39856, frq: 81}
+loom <> V: {rk: 5350, frq: 4801}, N: {rk: 15187, frq: 769}
+looming <> J: {rk: 12224, frq: 1175}
+loon <> N: {rk: 18715, frq: 795}
+looney <> N: {rk: 45827, frq: 210}
+loony <> J: {rk: 25499, frq: 245}, N: {rk: 30865, frq: 148}
+loop <> N: {rk: 4286, frq: 6687}, V: {rk: 11674, frq: 1316}
+looped <> J: {rk: 32637, frq: 123}
+looper <> N: {rk: 43398, frq: 112}
+loophole <> N: {rk: 9844, frq: 1724}
+looping <> J: {rk: 33416, frq: 115}
+loopy <> J: {rk: 24789, frq: 261}
+loose <> J: {rk: 2868, frq: 12214}, V: {rk: 12109, frq: 1185}, R: {rk: 13168, frq: 1052}
+loose-fitting <> J: {rk: 27409, frq: 202}
+loose-leaf <> J: {rk: 29281, frq: 162}
+loosely <> R: {rk: 7021, frq: 3024}
+loosen <> V: {rk: 6102, frq: 3916}
+loosened <> J: {rk: 36766, frq: 88}
+looseness <> N: {rk: 32103, frq: 128}
+loosening <> N: {rk: 24832, frq: 255}
+loosestrife <> N: {rk: 39774, frq: 80}
+loot <> V: {rk: 11024, frq: 1398}, N: {rk: 18857, frq: 518}
+looted <> J: {rk: 29230, frq: 178}
+looter <> N: {rk: 15006, frq: 896}
+looting <> N: {rk: 12800, frq: 1112}
+lop <> V: {rk: 22290, frq: 330}
+lope <> V: {rk: 18460, frq: 537}
+loping <> J: {rk: 52411, frq: 31}
+lopper <> N: {rk: 51014, frq: 42}
+lopsided <> J: {rk: 16223, frq: 673}
+lopsidedly <> R: {rk: 48474, frq: 38}
+loquacious <> J: {rk: 31129, frq: 135}
+loquat <> N: {rk: 57316, frq: 47}
+lord <> V: {rk: 35620, frq: 100}
+lordly <> J: {rk: 34924, frq: 99}
+lordosis <> N: {rk: 58199, frq: 24}
+lordship <> N: {rk: 25257, frq: 262}
+lore <> N: {rk: 10941, frq: 1405}
+lorry <> N: {rk: 27013, frq: 209}
+lose <> V: {rk: 283, frq: 145770}
+loser <> N: {rk: 5030, frq: 5213}
+losing <> J: {rk: 9611, frq: 1822}, N: {rk: 25423, frq: 256}
+loss <> N: {rk: 788, frq: 53946}
+lossless <> J: {rk: 43483, frq: 74}
+lossy <> J: {rk: 46782, frq: 48}
+lost <> J: {rk: 2691, frq: 13014}
+lost-and-found <> J: {rk: 54242, frq: 32}
+lostness <> N: {rk: 53171, frq: 26}
+lot <> N: {rk: 238, frq: 185988}
+loth <> J: {rk: 37756, frq: 89}
+lotion <> N: {rk: 10803, frq: 1716}
+lots <> P: {rk: 1553, frq: 25771}
+lottery <> N: {rk: 6106, frq: 3892}
+lotto <> N: {rk: 28218, frq: 291}
+loud <> J: {rk: 3113, frq: 11214}, R: {rk: 3860, frq: 8158}
+loud-mouthed <> J: {rk: 44684, frq: 44}
+loudly <> R: {rk: 5758, frq: 4458}
+loudmouth <> N: {rk: 36121, frq: 96}
+loudness <> N: {rk: 29017, frq: 204}
+loudspeaker <> N: {rk: 13284, frq: 987}
+lounge <> N: {rk: 6069, frq: 4040}, V: {rk: 12476, frq: 1148}
+lounger <> N: {rk: 52147, frq: 35}
+lounging <> J: {rk: 45079, frq: 44}
+loupe <> N: {rk: 39717, frq: 77}
+lour <> N: {rk: 57795, frq: 29}
+louse <> N: {rk: 15795, frq: 742}
+lousy <> J: {rk: 8218, frq: 2336}
+lout <> N: {rk: 26697, frq: 215}
+loutish <> J: {rk: 48187, frq: 35}
+louver <> N: {rk: 39181, frq: 82}
+louvered <> J: {rk: 40930, frq: 60}
+lovable <> J: {rk: 15872, frq: 690}
+lovage <> N: {rk: 59727, frq: 36}
+lovastatin <> N: {rk: 51165, frq: 32}
+love <> V: {rk: 390, frq: 115531}, N: {rk: 579, frq: 73652}
+love-in <> N: {rk: 46365, frq: 47}
+loveable <> J: {rk: 40576, frq: 63}
+lovebird <> N: {rk: 36306, frq: 100}
+loved <> J: {rk: 6791, frq: 3314}
+loveless <> J: {rk: 30171, frq: 147}
+loveliness <> N: {rk: 27579, frq: 209}
+lovelorn <> J: {rk: 34783, frq: 101}
+lovely <> J: {rk: 3305, frq: 10204}, N: {rk: 49651, frq: 34}
+lovemaking <> N: {rk: 15652, frq: 1488}
+lover <> N: {rk: 2798, frq: 12335}
+loveseat <> N: {rk: 40419, frq: 70}
+lovesick <> J: {rk: 32711, frq: 131}
+loving <> J: {rk: 5222, frq: 4914}
+lovingly <> R: {rk: 12499, frq: 1119}
+low <> J: {rk: 360, frq: 117672}, R: {rk: 4856, frq: 5434}, N: {rk: 8305, frq: 3318}, V: {rk: 29262, frq: 180}
+low-born <> J: {rk: 53876, frq: 26}
+low-cal <> J: {rk: 35172, frq: 112}
+low-class <> J: {rk: 40720, frq: 60}
+low-cost <> J: {rk: 8599, frq: 2188}
+low-cut <> J: {rk: 26470, frq: 230}
+low-down <> J: {rk: 33536, frq: 132}
+low-end <> J: {rk: 23548, frq: 303}
+low-fat <> J: {rk: 7821, frq: 2682}
+low-flying <> J: {rk: 30060, frq: 152}
+low-grade <> J: {rk: 20719, frq: 384}
+low-impact <> J: {rk: 28431, frq: 184}
+low-key <> J: {rk: 12017, frq: 1253}
+low-level <> J: {rk: 11948, frq: 1216}
+low-lying <> J: {rk: 18870, frq: 497}
+low-maintenance <> J: {rk: 30900, frq: 158}
+low-paid <> J: {rk: 33849, frq: 102}
+low-pitched <> J: {rk: 36290, frq: 83}
+low-pressure <> J: {rk: 27874, frq: 200}
+low-ranking <> J: {rk: 39532, frq: 67}
+low-rent <> J: {rk: 29576, frq: 157}
+low-riding <> J: {rk: 47537, frq: 37}
+low-rise <> J: {rk: 31250, frq: 135}, N: {rk: 50816, frq: 34}
+low-risk <> J: {rk: 21628, frq: 383}
+low-slung <> J: {rk: 23178, frq: 321}
+low-tech <> J: {rk: 18812, frq: 492}
+low-yield <> J: {rk: 43670, frq: 50}
+lowbrow <> N: {rk: 36695, frq: 84}
+lowdown <> N: {rk: 25458, frq: 377}
+lower <> V: {rk: 2063, frq: 18645}
+lowercase <> J: {rk: 35103, frq: 96}, N: {rk: 48114, frq: 41}
+lowered <> J: {rk: 13908, frq: 894}
+lowering <> N: {rk: 17375, frq: 566}
+lowermost <> J: {rk: 55304, frq: 23}
+lowing <> J: {rk: 45183, frq: 46}
+lowland <> N: {rk: 13222, frq: 1085}
+lowlife <> N: {rk: 26583, frq: 228}
+lowly <> J: {rk: 14080, frq: 887}
+lowrider <> N: {rk: 35460, frq: 112}
+lox <> N: {rk: 32592, frq: 157}
+loyal <> J: {rk: 4815, frq: 5505}
+loyalist <> N: {rk: 14489, frq: 889}, J: {rk: 22005, frq: 358}
+loyally <> R: {rk: 30261, frq: 149}
+loyalty <> N: {rk: 4109, frq: 7026}
+lozenge <> N: {rk: 24598, frq: 276}
+luau <> N: {rk: 37267, frq: 93}
+lube <> N: {rk: 27286, frq: 360}, V: {rk: 31641, frq: 167}
+lubricant <> N: {rk: 16955, frq: 726}
+lubricate <> V: {rk: 21063, frq: 387}
+lubricated <> J: {rk: 42488, frq: 59}
+lubricating <> J: {rk: 52833, frq: 27}
+lubrication <> N: {rk: 22627, frq: 353}
+lubricious <> J: {rk: 48419, frq: 35}
+lucid <> J: {rk: 15827, frq: 723}
+lucidity <> N: {rk: 27502, frq: 209}
+lucidly <> R: {rk: 38636, frq: 70}
+luciferase <> N: {rk: 58125, frq: 24}
+luck <> N: {rk: 2399, frq: 15632}
+luckily <> R: {rk: 8325, frq: 2382}
+luckless <> J: {rk: 35935, frq: 93}
+lucky <> J: {rk: 2139, frq: 17878}
+lucrative <> J: {rk: 6756, frq: 3243}
+lucre <> N: {rk: 42563, frq: 58}
+ludic <> J: {rk: 40681, frq: 69}
+ludicrous <> J: {rk: 11290, frq: 1325}
+ludicrously <> R: {rk: 33713, frq: 110}
+luff <> V: {rk: 57165, frq: 22}
+lug <> V: {rk: 12096, frq: 1208}, N: {rk: 22063, frq: 371}
+luge <> N: {rk: 30076, frq: 272}, V: {rk: 43058, frq: 62}
+luger <> N: {rk: 35861, frq: 189}
+luggage <> N: {rk: 7453, frq: 2781}
+lugged <> J: {rk: 54600, frq: 25}
+lugger <> N: {rk: 48817, frq: 44}
+lugubrious <> J: {rk: 31001, frq: 144}
+lugubriously <> R: {rk: 56887, frq: 20}
+lukewarm <> J: {rk: 15750, frq: 705}
+lull <> N: {rk: 13757, frq: 948}, V: {rk: 16925, frq: 627}
+lullaby <> N: {rk: 18362, frq: 560}
+lulling <> J: {rk: 53520, frq: 28}
+lumbago <> N: {rk: 53089, frq: 30}
+lumbar <> N: {rk: 20022, frq: 502}
+lumber <> N: {rk: 7090, frq: 2971}, V: {rk: 16709, frq: 664}
+lumbering <> J: {rk: 18827, frq: 479}
+lumberjack <> N: {rk: 27811, frq: 218}
+lumberman <> N: {rk: 43112, frq: 51}
+lumberyard <> N: {rk: 27268, frq: 221}
+lumen <> N: {rk: 27674, frq: 321}
+luminance <> N: {rk: 36928, frq: 122}
+luminaria <> N: {rk: 43906, frq: 60}
+luminary <> N: {rk: 18186, frq: 537}
+luminescence <> N: {rk: 31832, frq: 168}
+luminescent <> J: {rk: 28335, frq: 184}
+luminist <> N: {rk: 50131, frq: 49}
+luminol <> N: {rk: 58564, frq: 31}
+luminosity <> N: {rk: 18311, frq: 569}
+luminous <> J: {rk: 9807, frq: 1744}
+luminously <> R: {rk: 44645, frq: 45}
+lummox <> N: {rk: 58211, frq: 22}
+lump <> N: {rk: 6221, frq: 3844}, V: {rk: 14055, frq: 873}
+lumpectomy <> N: {rk: 27903, frq: 213}
+lumped <> J: {rk: 58746, frq: 19}
+lumpen <> J: {rk: 46053, frq: 42}
+lumper <> N: {rk: 56786, frq: 22}
+lumpiness <> N: {rk: 42601, frq: 54}
+lumpish <> J: {rk: 48392, frq: 37}
+lumpy <> J: {rk: 14556, frq: 862}
+lunacy <> N: {rk: 23049, frq: 318}
+lunar <> J: {rk: 6973, frq: 3236}
+lunatic <> N: {rk: 14794, frq: 819}, J: {rk: 22818, frq: 321}
+lunch <> N: {rk: 1591, frq: 25054}, V: {rk: 20041, frq: 421}
+lunchbox <> N: {rk: 30263, frq: 168}
+luncheon <> N: {rk: 10039, frq: 1681}
+luncheonette <> N: {rk: 41735, frq: 61}
+lunchroom <> N: {rk: 21654, frq: 372}
+lunchtime <> N: {rk: 11821, frq: 1233}
+lunette <> N: {rk: 54996, frq: 29}
+lung <> N: {rk: 3268, frq: 9919}
+lunge <> V: {rk: 9725, frq: 1848}, N: {rk: 20361, frq: 906}
+lungful <> N: {rk: 36763, frq: 98}
+lunging <> J: {rk: 29661, frq: 161}
+lunker <> N: {rk: 39639, frq: 82}
+lupine <> N: {rk: 29204, frq: 230}
+lupus <> N: {rk: 19321, frq: 711}
+lurch <> V: {rk: 9339, frq: 2033}, N: {rk: 18139, frq: 560}
+lurching <> J: {rk: 43035, frq: 51}, N: {rk: 48562, frq: 39}
+lure <> V: {rk: 5346, frq: 4774}, N: {rk: 7151, frq: 3099}
+lurid <> J: {rk: 15766, frq: 689}
+luridly <> R: {rk: 49743, frq: 37}
+lurk <> V: {rk: 7298, frq: 2856}
+lurker <> N: {rk: 58022, frq: 25}
+lurking <> J: {rk: 28154, frq: 190}
+luscious <> J: {rk: 15455, frq: 754}
+lusciously <> R: {rk: 51971, frq: 30}
+lush <> J: {rk: 6864, frq: 3166}, N: {rk: 44941, frq: 47}
+lushness <> N: {rk: 36797, frq: 82}
+lust <> N: {rk: 7818, frq: 2555}, V: {rk: 23369, frq: 309}
+luster <> N: {rk: 16059, frq: 946}
+lusterless <> J: {rk: 46852, frq: 40}
+lustful <> J: {rk: 30416, frq: 151}
+lustfully <> R: {rk: 53136, frq: 26}
+lustily <> R: {rk: 33892, frq: 107}
+lustre <> N: {rk: 38346, frq: 75}
+lustrous <> J: {rk: 20958, frq: 396}
+lusty <> J: {rk: 20581, frq: 407}
+lute <> N: {rk: 25145, frq: 452}
+lutein <> N: {rk: 30283, frq: 249}
+luv <> N: {rk: 25903, frq: 242}
+luxuriance <> N: {rk: 48680, frq: 36}
+luxuriant <> J: {rk: 24926, frq: 247}
+luxuriantly <> R: {rk: 45521, frq: 41}
+luxuriate <> V: {rk: 27714, frq: 199}
+luxurious <> J: {rk: 9255, frq: 1938}
+luxuriously <> R: {rk: 30988, frq: 143}
+luxury <> J: {rk: 5640, frq: 4527}, N: {rk: 5852, frq: 4085}
+lycanthrope <> N: {rk: 59097, frq: 38}
+lycee <> N: {rk: 53481, frq: 35}
+lyceum <> N: {rk: 37006, frq: 148}
+lychee <> N: {rk: 39286, frq: 103}
+lycopene <> N: {rk: 26642, frq: 309}
+lye <> N: {rk: 31766, frq: 189}
+lying <> N: {rk: 14731, frq: 812}
+lying-in <> N: {rk: 58858, frq: 21}
+lymph <> N: {rk: 14118, frq: 956}
+lymphadenopathy <> N: {rk: 35855, frq: 130}
+lymphatic <> J: {rk: 29082, frq: 192}, N: {rk: 54420, frq: 29}
+lymphedema <> N: {rk: 43314, frq: 85}
+lymphoblastic <> J: {rk: 59219, frq: 20}
+lymphocyte <> N: {rk: 24145, frq: 312}
+lymphocytic <> J: {rk: 41493, frq: 62}
+lymphoid <> J: {rk: 40417, frq: 78}
+lymphoma <> N: {rk: 17063, frq: 727}
+lynch <> V: {rk: 18641, frq: 488}
+lynching <> N: {rk: 16638, frq: 652}
+lynchpin <> N: {rk: 51042, frq: 32}
+lynx <> N: {rk: 23653, frq: 483}
+lyre <> N: {rk: 29549, frq: 180}
+lyric <> J: {rk: 15849, frq: 749}
+lyrical <> J: {rk: 13511, frq: 967}
+lyrically <> R: {rk: 32665, frq: 122}
+lyricism <> N: {rk: 27273, frq: 214}
+lyricist <> N: {rk: 22721, frq: 333}
+lyrics <> N: {rk: 5113, frq: 5150}
+lysine <> N: {rk: 38270, frq: 93}
+lysis <> N: {rk: 51212, frq: 38}
+lytic <> J: {rk: 57977, frq: 25}

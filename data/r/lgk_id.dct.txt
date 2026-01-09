@@ -1,0 +1,1627 @@
+r <> w: 228741, p: [32634]
+rabbi <> w: 149174
+rabbit <> w: 149179, p: [50144, 27111]
+rabbit-eared bandicoot <> p: [24062]
+rabid <> w: 149210
+rabies <> w: 149214
+raccoon <> w: 149216, p: [50227]
+raccoon dog <> p: [34031]
+race <> w: 149219, p: [61264, 21438, 61264, 19404]
+race car <> w: 149220
+race relations <> w: 228740
+racecourse <> w: 149230
+racehorse <> w: 149231, p: [39815]
+racer <> w: 149235
+racetrack <> w: 149237, p: [37320]
+raceway <> w: 149239
+racial <> w: 149254, p: [19404]
+racialism <> w: 149260, p: [19340]
+racially <> w: 149262
+racing <> w: 149266
+racism <> w: 149276, p: [19340]
+racist <> w: 149277, p: [45265]
+rack <> w: 149278, p: [50731, 33223, 15837]
+racket <> w: 149285, p: [51452]
+racketeering <> w: 149289
+raclette <> w: 218210
+raconteur <> w: 149294
+racoon <> w: 149295, p: [50227]
+racquet <> w: 149296, p: [51452]
+racquetball <> w: 149297, p: [31924]
+racy <> w: 149298, p: [32646]
+raddled <> w: 149308, p: [20199, 29346]
+radial <> w: 149310, p: [48381]
+radially <> w: 149512, p: [48381]
+radian <> w: 149514
+radiance <> w: 149515, p: [60632]
+radiant <> w: 149517
+radiantly <> w: 149521
+radiate <> w: 149522, p: [54537]
+radiation <> w: 149525, p: [23563]
+radiation sickness <> w: 149531
+radiator <> w: 149534, p: [18804]
+radical <> w: 149538, p: [45238]
+radicalize <> w: 149545
+radically <> w: 149546, p: [49702]
+radicchio <> w: 149547, p: [26830]
+radio <> w: 149552, p: [28395, 33727]
+radioactive <> w: 149590, p: [29471]
+radioactive waste <> w: 149598
+radioactivity <> w: 149600
+radiocarbon dating <> w: 149605
+radiography <> w: 149615, p: [25811]
+radiological <> w: 149623
+radiologist <> w: 149624, p: [33153]
+radiology <> w: 149625, p: [25811, 25811]
+radiotherapist <> w: 149649, p: [33153]
+radiotherapy <> w: 149650
+radish <> w: 149653, p: [26832, 26832]
+radius <> w: 149657, p: [32634, 51164]
+radix <> w: 149660
+raffish <> w: 149676
+raffle <> w: 149678
+raft <> w: 149682, p: [33868]
+rafter <> w: 149684
+rafting <> w: 210190, p: [33868]
+rag <> w: 149689, p: [32868]
+rag doll <> w: 149691, p: [22874]
+raga <> w: 209058
+ragamuffin <> w: 149696, p: [24288]
+rage <> w: 149698, p: [52143, 48065]
+ragged <> w: 149700, p: [39721, 45501]
+raging <> w: 149708
+raglan <> w: 149709, p: [39695]
+ragout <> w: 149714, p: [30966]
+raid <> w: 149727, p: [47684]
+rail <> w: 149730, p: [44048, 18565, 44634, 54302]
+railbus <> w: 228062
+railcar <> w: 149738
+railhead <> w: 149739
+railing <> w: 149740
+raillery <> w: 149741
+railroad <> w: 149742, p: [23119, 18565]
+rails <> w: 149761, p: [18565]
+railway <> w: 149762, p: [18565]
+railway station <> w: 149768, p: [44048]
+railwayman <> w: 149771
+raiment <> w: 149773, p: [19318]
+rain <> w: 149775, p: [60690, 18481, 60690]
+rain check <> w: 149782, p: [44214]
+rainbow <> w: 149795, p: [51096]
+rainbow trout <> p: [24731]
+raincoat <> w: 149806, p: [50968]
+raindrop <> w: 149807, p: [18477]
+rainfall <> w: 149809, p: [18479]
+rainforest <> w: 149811, p: [15929]
+raining <> w: 149814, p: [60690]
+rainless <> w: 149815
+rainproof <> w: 149818, p: [51408]
+rainstorm <> w: 149819, p: [18475]
+rainwater <> w: 149820, p: [18481]
+rainy <> w: 149821, p: [60768]
+raise <> w: 149825, p: [60885, 51658, 49453, 19827, 17905]
+raised <> w: 149831
+raisin <> w: 149834, p: [37477]
+raising <> w: 150002
+rajah <> w: 150014, p: [39367]
+rake <> w: 150021, p: [47588, 42394]
+raki <> w: 209309
+rally <> w: 150036, p: [19260]
+ram <> w: 150048, p: [54374, 51362]
+ramble <> w: 150062, p: [51346]
+rambling <> w: 150065
+rambunctious <> w: 150069
+rambutan <> w: 150070, p: [26984]
+ramekin <> w: 150074, p: [38164]
+ramen <> w: 217361
+ramification <> w: 150083
+ramify <> w: 150084
+ramp <> w: 150096
+rampant <> w: 150100
+rampart <> w: 150103
+ranch <> w: 150129, p: [32964, 35198]
+ranch house <> w: 150131
+rancher <> w: 150132
+rancid <> w: 150134
+rancor <> w: 150137, p: [48753]
+rancorous <> w: 150138
+random <> w: 150142, p: [49538]
+randomization <> w: 150154
+randomize <> w: 150155
+randomly <> w: 150157, p: [49538]
+randy <> w: 150159
+range <> w: 150161, p: [18902, 48529, 48045]
+rangefinder <> w: 150169
+ranger <> w: 150171, p: [29912]
+rangy <> w: 150181, p: [26495]
+rank <> w: 150186, p: [23247]
+ranking <> w: 150199, p: [45373]
+rankle <> w: 150200
+ransack <> w: 150202
+ransom <> w: 150205
+rant <> w: 150208, p: [41510]
+rant and rave <> p: [42578]
+rap <> w: 150231, p: [47036, 21376]
+rapacious <> w: 150236, p: [39143]
+rapacity <> w: 150239, p: [23171]
+rape <> w: 150241
+rapid <> w: 150262, p: [48413]
+rapid-fire <> w: 225389
+rapidly <> w: 150270, p: [43082]
+rapine <> w: 150273
+rapist <> w: 150274
+rappel <> w: 150278, p: [36842, 36842]
+rappelling <> w: 210327
+rapper <> w: 150280, p: [21376]
+rapport <> w: 150281
+rapprochement <> w: 150283
+rapt <> w: 150285
+raptorial <> w: 150288
+rapture <> w: 150290
+rapturous <> w: 150291
+rapturously <> w: 150292
+rare <> w: 150296, p: [28369, 17485]
+rarebit <> w: 150301, p: [30938]
+rarefied <> w: 150304
+rarely <> w: 150306, p: [16861]
+rarity <> w: 150312
+rasam <> w: 217935
+rash <> w: 150320, p: [29426]
+rasher <> w: 150321, p: [18275]
+rashly <> w: 150322
+rasp <> w: 150330, p: [41530, 41530]
+raspberry <> w: 150332, p: [21294]
+rasping <> w: 150504
+raspingly <> w: 150505
+raspy <> w: 150507
+rat <> w: 150517, p: [50182]
+rat fink <> w: 229357
+rat race <> w: 150527, p: [41369]
+ratafia <> w: 150535
+ratatouille <> w: 150539, p: [30856]
+ratchet <> w: 150543, p: [47176]
+rate <> w: 150547, p: [23595, 20762, 23567, 59410]
+ratel <> w: 150562, p: [34439]
+rather <> w: 150565, p: [43352]
+ratification <> w: 150572
+ratify <> w: 150575, p: [43220]
+rating <> w: 150576
+ratio <> w: 150578
+ratiocination <> w: 150580
+ration <> w: 150583
+rational <> w: 150586, p: [28638]
+rationale <> w: 150589
+rationalism <> w: 150593
+rationalization <> w: 150597
+rationalize <> w: 150598, p: [55234]
+rationally <> w: 150600, p: [23051]
+rattle <> w: 150620, p: [37958, 31982, 48267]
+rattler <> w: 150630, p: [25920]
+rattlesnake <> w: 150631, p: [25920]
+rattletrap <> w: 229325
+rattling <> w: 150639, p: [49588]
+raucous <> w: 150646
+raunchy <> w: 150651
+ravage <> w: 150655, p: [18882]
+ravaging <> w: 150657
+rave <> w: 150658, p: [58001]
+ravel <> w: 150661, p: [29862]
+ravelin <> w: 222116
+raven <> w: 150665, p: [50271, 29962]
+ravening <> w: 150668, p: [39143]
+ravenous <> w: 150671, p: [39143, 29338]
+ravenously <> w: 150672
+raver <> w: 150674
+ravine <> w: 150678, p: [51120]
+ravioli <> w: 150682, p: [30924]
+ravisher <> w: 150684, p: [26660]
+ravishing <> w: 150685
+ravishingly <> w: 150686, p: [46259]
+raw <> w: 150688, p: [28652]
+rawboned <> w: 150706
+ray <> w: 150709, p: [50301, 39567]
+rayons <> w: 150730, p: [34397]
+raze <> w: 150732, p: [47736]
+razor <> w: 150736, p: [16047]
+razor clam <> p: [25751]
+razorbill <> w: 150747, p: [24992]
+razz <> w: 150749, p: [59190]
+re <> w: 150758
+reach <> w: 150791, p: [17839, 48703]
+reach for the stars <> p: [26353]
+reachable <> w: 150795
+react <> w: 150798, p: [61084]
+reactant <> w: 150800
+reaction <> w: 150801
+reactionary <> w: 150808
+reactive <> w: 150812
+reactor <> w: 150816
+read <> w: 150817, p: [60718, 60804]
+read between the lines <> p: [43202]
+read-in <> p: [52703]
+read-only memory <> w: 157257
+read-out <> p: [52199]
+readable <> w: 151009
+reader <> w: 151012, p: [19186]
+readership <> w: 151013
+readies <> w: 228754
+readily <> w: 151014, p: [49652, 46615]
+readiness <> w: 151015
+reading <> w: 151016, p: [60718]
+readjust <> w: 151025
+readmit <> w: 151028
+ready <> w: 151030, p: [28654, 27059]
+ready meal <> p: [31107]
+ready-made <> w: 151032
+ready-to-wear <> w: 151035, p: [49059, 49059]
+readymade <> w: 222502
+reaffirm <> w: 151043, p: [55222]
+reagent <> w: 151047
+real <> w: 151049, p: [61122, 43466]
+real estate <> w: 151054
+real estate agent <> w: 151055, p: [31761]
+real-time <> w: 151051
+realign <> w: 151076
+realignment <> w: 209376
+realism <> w: 151081, p: [20751]
+realistic <> w: 151083, p: [17453, 20751]
+realistically <> w: 151084
+reality <> w: 151085
+realizable <> w: 151088
+realization <> w: 151089
+realize <> w: 151090, p: [61086]
+really <> w: 151096, p: [60716, 43466]
+realm <> w: 151097
+reamer <> w: 151103, p: [41534, 37622]
+reanimate <> w: 151104, p: [60045]
+reap <> w: 151106, p: [19598, 43160]
+reaper <> w: 151108
+reappear <> w: 151111, p: [59388]
+reappraise <> w: 151116
+rear <> w: 151117, p: [26642, 33467, 45858, 19827]
+rear its head <> p: [46625]
+rearrange <> w: 151132, p: [53130]
+rearview mirror <> w: 151134, p: [35734]
+rearward <> w: 151135
+reason <> w: 151137, p: [55166]
+reason with <> p: [53216]
+reasonable <> w: 151139, p: [23051]
+reasonably <> w: 151142, p: [43352]
+reasoned <> w: 151143
+reasoning <> w: 151145
+reassemble <> w: 151150
+reassess <> w: 151154
+reassessment <> w: 151155
+reassurance <> w: 151158
+reassure <> w: 151159
+reassured <> w: 151160
+reassuring <> w: 151161
+reattach <> w: 219676
+rebel <> w: 151178, p: [59722]
+rebellion <> w: 151179
+rebellious <> w: 151180, p: [46511]
+rebelliously <> w: 151181
+rebelliousness <> w: 151182
+rebirth <> w: 151184
+rebirthing <> w: 209952
+reboot <> w: 151185, p: [59826]
+rebound <> w: 151187, p: [46810]
+rebuff <> w: 151192
+rebuild <> w: 151193
+rebuke <> w: 151195, p: [44012]
+rebus <> w: 151201
+rebut <> w: 151202, p: [59460]
+rebuttal <> w: 151203
+recalcitrant <> w: 151208
+recall <> w: 151212, p: [33002]
+recant <> w: 151214
+recap <> w: 151216, p: [50126]
+recapitulate <> w: 151217
+recapitulation <> w: 151218
+recapture <> w: 151219, p: [44972]
+recast <> w: 151220
+recede <> w: 151225, p: [26130, 47000]
+receding <> w: 151226, p: [26130]
+receipt <> w: 151227, p: [17509]
+receipts <> w: 151228
+receivable <> w: 151229
+receivables <> w: 151230
+receive <> w: 151231, p: [46826, 47426]
+receiver <> w: 151234
+recent <> w: 151240, p: [43428, 48935]
+recently <> w: 151242, p: [48935]
+receptacle <> w: 151244, p: [20033, 38887]
+reception <> w: 151245, p: [18704, 17281]
+reception room <> w: 151248, p: [28660]
+receptionist <> w: 151249, p: [50621]
+receptive <> w: 151250, p: [60256]
+receptiveness <> w: 151253
+receptivity <> w: 151254
+receptor <> w: 151255
+recess <> w: 151256, p: [16419]
+recession <> w: 151258
+recessive <> w: 151505
+recharge <> w: 151508, p: [29430]
+rechargeable <> w: 151509
+recidivism <> w: 151514
+recidivist <> w: 151515
+recipe <> w: 151517, p: [14023]
+recipient <> w: 151518
+reciprocal <> w: 151520, p: [49940]
+reciprocally <> w: 151527, p: [49940]
+reciprocate <> w: 151528
+reciprocity <> w: 151534
+recital <> w: 151537, p: [42408]
+recitation <> w: 151539
+recitative <> w: 151540
+recite <> w: 151541, p: [58103]
+reckless <> w: 151543, p: [60332]
+recklessly <> w: 151544, p: [28636]
+recklessness <> w: 151545, p: [17535]
+reckon <> w: 151546, p: [60847, 45830]
+reckoning <> w: 151548, p: [22732]
+reclaim <> w: 151549, p: [53891]
+recline <> w: 151555, p: [46978, 48615]
+recliner <> w: 151556, p: [28405]
+recluse <> w: 151559
+reclusive <> w: 151560
+recognition <> w: 151568
+recognizable <> w: 151569
+recognizably <> w: 151570, p: [49285]
+recognizance <> w: 151571
+recognize <> w: 151572, p: [61088]
+recognized <> w: 151573
+recoil <> w: 151574
+recollect <> w: 151576, p: [33002]
+recollection <> w: 151577
+recommence <> w: 151587, p: [59618]
+recommend <> w: 151589, p: [61090, 43206]
+recommendation <> w: 151590, p: [27696, 61090]
+recommended <> w: 229496
+recompense <> w: 151592, p: [46818]
+recon <> w: 367255
+reconcilable <> w: 151593
+reconcile <> w: 151594, p: [48145]
+reconciliation <> w: 151597
+recondite <> w: 151599
+reconditioned <> w: 228693
+reconfiguration <> w: 365481
+reconnaissance <> w: 151603
+reconnoiter <> w: 151609, p: [60079]
+reconsider <> w: 151615, p: [48047]
+reconsideration <> w: 151616
+reconstitute <> w: 151617
+reconstruct <> w: 151618, p: [48159]
+reconstruction <> w: 151620
+record <> w: 151629, p: [17527, 16045, 61096]
+record player <> p: [21382]
+record-breaker <> p: [17527]
+record-breaking <> w: 151631, p: [17527]
+record-holder <> w: 151632, p: [17527]
+record-player <> p: [21382]
+recorded <> w: 151643
+recorder <> w: 151644, p: [27542]
+recording <> w: 151646
+recount <> w: 151652, p: [44782]
+recoup <> w: 151654, p: [46818]
+recover <> w: 151656, p: [32618]
+recovery <> w: 151661, p: [18986]
+recovery room <> w: 151662
+recreant <> w: 151663
+recreate <> w: 151664, p: [59670]
+recreation <> w: 151665, p: [18910]
+recreational <> w: 151668
+recreational vehicle <> w: 151671, p: [51626]
+recrimination <> w: 151673
+recrudesce <> w: 151676
+recrudescent <> w: 151678
+recruit <> w: 151679, p: [16397, 20069]
+recruiter <> w: 151680
+recruitment <> w: 151682
+rectangle <> w: 151687, p: [22907]
+rectangular <> w: 151688, p: [28375]
+rectify <> w: 151694, p: [21250]
+rectilinear <> w: 151698
+rectitude <> w: 151700
+recto <> w: 151701
+rectum <> w: 151709
+recumbent <> w: 151716
+recuperate <> w: 151717, p: [18986]
+recuperation <> w: 151718, p: [18986]
+recuperative <> w: 151719
+recur <> w: 151720
+recurrence <> w: 151721
+recurrent <> w: 151722
+recurrently <> w: 151725
+recurring <> w: 151726
+recursively <> w: 225409, p: [49003]
+recusancy <> w: 151738
+recusant <> w: 151739
+recuse <> w: 151741, p: [60095]
+recyclable <> w: 151742
+recycle <> w: 151743, p: [32870]
+recycled <> w: 224436
+recycling <> w: 151744
+red <> w: 151747, p: [47823, 29647, 47823]
+red admiral <> p: [25309]
+red algae <> p: [36339]
+red blood cell <> w: 152014, p: [29446]
+red card <> w: 226685
+red carpet <> p: [32056]
+red cent <> p: [41892]
+red coral <> p: [25563, 25563]
+red fox <> p: [50078]
+red herring <> w: 152063
+red kangaroo <> p: [34443]
+red light <> p: [35643]
+red meat <> w: 152079, p: [18171]
+red panda <> p: [24312]
+red pepper <> w: 152089, p: [35001, 35704, 21296]
+red tape <> w: 152125, p: [41514]
+red-faced <> w: 151769
+red-hot <> w: 151780
+red-letter day <> w: 151787, p: [44100]
+red-light district <> w: 151788, p: [43656]
+redact <> w: 152135, p: [35882, 35882]
+redactor <> w: 152137, p: [35882]
+redbreast <> w: 152145
+redbrick <> w: 152146
+redcap <> w: 152151
+redd <> w: 220447
+redden <> w: 152153, p: [42848]
+reddened <> w: 152154
+reddish <> w: 152156
+redecorate <> w: 152172
+redecoration <> w: 211398
+redeem <> w: 152175, p: [60059]
+redefine <> w: 152180
+redemption <> w: 152182
+redeployment <> w: 152187
+redesign <> w: 152190, p: [59582]
+redevelop <> w: 152193
+redhead <> w: 152201
+redial <> w: 208594
+rediscover <> w: 152210, p: [59672]
+redneck <> w: 152220
+redness <> w: 152221
+redo <> w: 152222, p: [59690]
+redolent <> w: 152224
+redouble <> w: 152226
+redoubtable <> w: 152229
+redound <> w: 152230
+redpoll <> w: 152232
+redress <> w: 152234
+redshank <> w: 152236, p: [24994]
+redshift <> w: 152237
+redstart <> w: 152239
+reduce <> w: 152242, p: [22461, 22943]
+reduced <> w: 152243, p: [19610]
+reducible <> w: 152247
+reduction <> w: 152255
+redundancy <> w: 152263
+redundant <> w: 152265, p: [20057]
+reduplication <> w: 152267
+redwing <> w: 152271
+redwood <> w: 152272, p: [33643]
+reed <> w: 152278, p: [38020]
+reed organ <> p: [27646]
+reef <> w: 152294, p: [31837]
+reefer jacket <> p: [39697]
+reek <> w: 152300, p: [45459]
+reeking <> w: 152301, p: [45459]
+reel <> w: 152302, p: [49658, 27981]
+reestablish <> w: 152319
+reevaluate <> w: 152320
+reeve <> w: 152322
+reexamine <> w: 152324
+refectory table <> p: [42094]
+refer <> w: 152332, p: [61092, 22341]
+refer to <> p: [53455, 53351]
+referable <> w: 152333
+referee <> w: 152334, p: [18237]
+reference <> w: 152336
+reference book <> w: 152502
+referendum <> w: 152510
+refill <> w: 152515, p: [47062]
+refine <> w: 152518, p: [45944]
+refined <> w: 152519, p: [45944]
+refinery <> w: 152523
+reflect <> w: 152531, p: [22568]
+reflection <> w: 152536
+reflective <> w: 152538, p: [45487]
+reflector <> w: 152544
+reflexion <> w: 152555
+reflexive <> w: 152556
+reflexively <> w: 152559, p: [46970]
+reflexivity <> w: 152561
+reflexly <> w: 152562
+reflexology <> w: 152563
+reforestation <> w: 152570
+reform <> w: 152572, p: [53574]
+reformation <> w: 152579
+reformatory <> w: 152581
+reformed <> w: 152582
+reformer <> w: 152583
+refract <> w: 152587
+refraction <> w: 152590
+refractory <> w: 152597
+refrain <> w: 152604, p: [27255]
+refresh <> w: 152605, p: [59462]
+refreshed <> w: 152606
+refreshing <> w: 152612, p: [49942]
+refreshingly <> w: 152613, p: [49942]
+refreshment <> w: 152614
+refrigerate <> w: 152617, p: [48251]
+refrigerated <> w: 152618
+refrigeration <> w: 152620
+refrigerator <> w: 152622, p: [49185]
+refuel <> w: 152625
+refuge <> w: 152627
+refugee <> w: 152628
+refulgent <> w: 152632
+refund <> w: 152633
+refurbish <> w: 152634, p: [48161]
+refurbishment <> w: 152635
+refusal <> w: 152637, p: [27295]
+refuse <> w: 152638, p: [28035, 27295]
+refutation <> w: 152643
+refute <> w: 152644, p: [59910]
+regain <> w: 152646
+regal <> w: 152648
+regale <> w: 152649, p: [47742]
+regalia <> w: 152652
+regard <> w: 152654, p: [51314, 27979, 59478]
+regarding <> w: 225602
+regardless <> w: 152658
+regards <> w: 223980
+regatta <> w: 152659
+regenerate <> w: 152661
+regeneration <> w: 152663
+regent <> w: 152664
+reggae <> w: 152665, p: [37134]
+reggaeton <> w: 220044
+regicide <> w: 152667
+regime <> w: 152669, p: [27327, 17633]
+regimen <> w: 152670, p: [31151]
+regiment <> w: 152671
+regimental <> w: 152672
+region <> w: 152682, p: [19468]
+regional <> w: 152683, p: [48499, 22554]
+regionalism <> w: 152689
+regionally <> w: 152690, p: [48499]
+register <> w: 152691, p: [47480, 29585]
+registered <> w: 152693
+registered nurse <> w: 152696
+registrar <> w: 152701
+registration <> w: 152702
+registration number <> w: 152704, p: [21430]
+registry office <> w: 228415
+reglet <> w: 222023
+regnant <> w: 152708
+regorge <> w: 152711, p: [26300]
+regress <> w: 152713
+regression <> w: 152714
+regressive <> w: 152722
+regret <> w: 152723, p: [48221, 52155, 52155]
+regretful <> w: 152724, p: [35698]
+regretfully <> w: 152725
+regrettable <> w: 152727
+regrettably <> w: 152728
+regroup <> w: 152729, p: [59680]
+regrowth <> w: 229448
+regular <> w: 152731, p: [43430, 45108]
+regularity <> w: 152747
+regularly <> w: 152750, p: [43474]
+regulate <> w: 152751, p: [59991]
+regulated <> w: 152752
+regulation <> w: 152754
+regulator <> w: 152757
+regulatory <> w: 152759
+regurgitate <> w: 153004, p: [26300]
+rehab <> w: 209953
+rehabilitate <> w: 153006, p: [47863]
+rehabilitation <> w: 153007
+rehabilitative <> w: 153009
+rehash <> w: 153014
+rehearsal <> w: 153017
+rehearse <> w: 153018, p: [59498]
+reheat <> w: 153019, p: [20964]
+rehoboam <> w: 220833
+reign <> w: 153028, p: [59820]
+reiki <> w: 209949
+reimburse <> w: 153032, p: [46818]
+rein <> w: 153037
+reincarnation <> w: 153042
+reindeer <> w: 153044, p: [20551]
+reinforce <> w: 153047, p: [51898]
+reinforced concrete <> w: 153049
+reinforcement <> w: 153050
+reinstate <> w: 153055, p: [59856]
+reintroduce <> w: 153062
+reinvent <> w: 153064, p: [52207]
+reinvigorate <> w: 153065, p: [59390]
+reinvigorated <> w: 153066
+reiterate <> w: 153072, p: [61290]
+reject <> w: 153076, p: [27295]
+rejection <> w: 153078, p: [27295]
+rejoice <> w: 153081, p: [42566]
+rejoin <> w: 153086, p: [59125, 55236]
+rejoinder <> w: 153087
+rejuvenate <> w: 153088, p: [54698]
+rekindle <> w: 153090
+relapse <> w: 153093
+relatable <> w: 210196
+relate <> w: 153096
+relate to <> p: [44620]
+related <> w: 153097
+relatedly <> w: 225487
+relation <> w: 153100, p: [27522]
+relationship <> w: 153107, p: [26182, 27522, 60656]
+relative <> w: 153108, p: [45956, 27522]
+relative clause <> w: 153111
+relative pronoun <> w: 153118
+relatively <> w: 153120, p: [45956]
+relativism <> w: 153122
+relativistic <> w: 153123
+relativity <> w: 153126
+relax <> w: 153130, p: [38889]
+relaxant <> w: 153131
+relaxation <> w: 153132, p: [48615]
+relaxed <> w: 153136, p: [38889]
+relaxing <> w: 153139, p: [45946]
+relay <> w: 153140, p: [44786, 31944]
+release <> w: 153146, p: [20932, 27592, 48305]
+relegate <> w: 153150, p: [54674]
+relent <> w: 153153
+relentless <> w: 153154, p: [49872]
+relentlessly <> w: 153155, p: [49872]
+relevance <> w: 153157
+relevant <> w: 153159
+reliability <> w: 153161
+reliable <> w: 153162, p: [60222]
+reliably <> w: 153164, p: [49874]
+reliance <> w: 153165, p: [61114]
+reliant <> w: 153166, p: [19410]
+relic <> w: 153167
+relief <> w: 153169, p: [52105, 31375]
+relieve <> w: 153174, p: [54698, 44676]
+relieved <> w: 153176, p: [45335]
+reliever <> w: 153177
+relievo <> w: 153178, p: [31375]
+religion <> w: 153179
+religious <> w: 153183, p: [23583, 23583]
+religiously <> w: 153213
+relinquish <> w: 153216, p: [27592]
+reliquary <> w: 153220
+relish <> w: 153221, p: [20416, 31339]
+relive <> w: 153224, p: [44930]
+reload <> w: 153226, p: [48075]
+relocate <> w: 153228, p: [22285, 53543]
+relocation <> w: 153230
+reluctance <> w: 153231
+reluctant <> w: 153232, p: [49734]
+reluctantly <> w: 153233, p: [49734]
+rely <> w: 153235, p: [61114]
+remain <> w: 153241, p: [22949]
+remainder <> w: 153244
+remaining <> w: 153245, p: [17483]
+remains <> w: 153246
+remake <> w: 153247, p: [48077]
+remand <> w: 153249
+remark <> w: 153250, p: [17785, 17785]
+remarkable <> w: 153251, p: [45910]
+remarkably <> w: 153252, p: [48781]
+remarry <> w: 153254, p: [48079]
+remaster <> w: 220193
+remediable <> w: 153261
+remedial <> w: 153262
+remedy <> w: 153265, p: [51606, 54670]
+remember <> w: 153266, p: [33002]
+remembrance <> w: 153269
+remind <> w: 153508, p: [27900, 44972]
+reminder <> w: 153509
+remindful <> w: 153510
+reminisce <> w: 153511, p: [44972]
+reminiscent <> w: 153513
+remiss <> w: 153516, p: [45176]
+remission <> w: 153517
+remit <> w: 153520
+remix <> w: 209049
+remnant <> w: 153526
+remodel <> w: 153527, p: [59582]
+remonstrance <> w: 153529
+remonstrate <> w: 153530, p: [46493]
+remora <> w: 153532, p: [30796]
+remorse <> w: 153533
+remorseful <> w: 153534, p: [35698]
+remorselessly <> w: 153537
+remote <> w: 153538, p: [45918, 49852]
+remote control <> w: 153542, p: [49852]
+remote sensing <> w: 222830
+remotely <> w: 153545
+remoteness <> w: 153546, p: [17553]
+removable <> w: 153551
+removal <> w: 153553
+remove <> w: 153556, p: [22347, 61098, 61262, 39244]
+remover <> w: 153558, p: [33621]
+remunerate <> w: 153560, p: [59950]
+remuneration <> w: 153562, p: [17903]
+remunerative <> w: 153563
+renaissance <> w: 153566
+renal <> w: 153568, p: [50721]
+renal calculus <> p: [33095]
+rename <> w: 153580, p: [58003]
+renascence <> w: 153581
+rend <> w: 153584, p: [58379]
+render <> w: 153585, p: [52777]
+rendering <> w: 153587, p: [33627]
+rendezvous <> w: 153588, p: [59100]
+rendition <> w: 153590
+renegade <> w: 153595
+renege <> w: 153597
+renew <> w: 153602, p: [53576]
+renewable <> w: 153603, p: [46107]
+renewal <> w: 153605
+renewed <> w: 153606
+renin <> w: 153610
+renounce <> w: 153617, p: [17837]
+renovate <> w: 153619, p: [48161]
+renovation <> w: 153620
+renown <> w: 153622
+renowned <> w: 153623, p: [28447]
+rent <> w: 153625, p: [18263, 18265, 18263]
+rental <> w: 153635, p: [18263, 18263]
+renter <> w: 153639, p: [22289]
+renting <> w: 153641, p: [18263]
+renunciation <> w: 153643
+reoffend <> w: 228390
+reopen <> w: 153645, p: [48307]
+reorganize <> w: 153652, p: [48253]
+rep <> w: 153659
+repair <> w: 153661, p: [39095, 39095]
+repairing <> w: 228441
+repairman <> w: 153665, p: [39097]
+reparable <> w: 153667
+reparation <> w: 153668
+repartee <> w: 153669
+repast <> w: 153670, p: [48667]
+repatriate <> w: 153671
+repay <> w: 153673, p: [59952]
+repeal <> w: 153677, p: [60081]
+repeat <> w: 153678, p: [61290]
+repeated <> w: 153680
+repeatedly <> w: 153681, p: [49756]
+repel <> w: 153687, p: [52576, 28732]
+repellent <> w: 153689, p: [49522]
+repelling <> w: 153691, p: [23433]
+repent <> w: 153693, p: [59993]
+repentance <> w: 153694
+repentant <> w: 153695
+repercussion <> w: 153698
+repertoire <> w: 153699
+repertory <> w: 153700
+repetition <> w: 153702
+repetitious <> w: 153703
+repetitive <> w: 153705, p: [45625]
+repetitive strain injury <> w: 209901
+repetitively <> w: 153706, p: [44030]
+rephrase <> w: 153708, p: [55224]
+repine <> w: 153710
+replace <> w: 153711, p: [53576]
+replaceable <> w: 153713
+replacement <> w: 153714
+replant <> w: 153717
+replay <> w: 153718, p: [48081]
+replenish <> w: 153719, p: [47062]
+replenishment <> w: 153720
+replete <> w: 153721, p: [16459]
+replica <> w: 153723
+replicable <> w: 229527
+replicate <> w: 153724, p: [17819]
+replication <> w: 153725
+reply <> w: 153726, p: [61140, 28089]
+report <> w: 153729, p: [27061, 61100]
+reportage <> w: 153733, p: [50573]
+reportedly <> w: 153735
+reporter <> w: 153736, p: [50573]
+reporting <> w: 153737
+repose <> w: 153739, p: [46344, 21224, 48615]
+reposeful <> w: 153741
+reposition <> w: 153744
+repository <> w: 153746
+reprehend <> w: 153751
+reprehensible <> w: 153753
+represent <> w: 153757, p: [33131, 27239]
+representation <> w: 153759
+representative <> w: 154004, p: [51618]
+repress <> w: 154008, p: [53513]
+repression <> w: 154012
+reprieve <> w: 154016
+reprimand <> w: 154017, p: [42580]
+reprisal <> w: 154020
+reprise <> w: 154021, p: [47590]
+reproach <> w: 154023, p: [42832]
+reproachful <> w: 154025
+reprobate <> w: 154027
+reproduce <> w: 154030, p: [58921, 17819]
+reproduction <> w: 154035
+reproductive <> w: 154037
+reproof <> w: 154044
+reprove <> w: 154046, p: [44012]
+reptile <> w: 154051, p: [40675]
+reptilian <> w: 154055, p: [40675]
+republic <> w: 154056
+republican <> w: 154146, p: [28167]
+repudiate <> w: 154154
+repugnance <> w: 154158
+repugnant <> w: 154159, p: [23433]
+repulse <> w: 154160
+repulsion <> w: 154161, p: [52101]
+repulsive <> w: 154162, p: [23433]
+repurpose <> w: 227375
+reputable <> w: 154168
+reputation <> w: 154170
+repute <> w: 154171
+reputed <> w: 209694
+reputedly <> w: 154172
+request <> w: 154173, p: [52777]
+requiem <> w: 154176
+require <> w: 154179, p: [48669]
+required <> w: 154180, p: [45732]
+requirement <> w: 154182
+requisite <> w: 154184, p: [45850]
+requisition <> w: 154186
+requital <> w: 154188
+requite <> w: 154189, p: [53893]
+rerun <> w: 154193
+reschedule <> w: 154202, p: [59634]
+rescind <> w: 154203
+rescission <> w: 154205
+rescue <> w: 154208, p: [61146]
+rescuer <> w: 154213
+research <> w: 154215, p: [61206, 61206]
+research and development <> w: 365589
+researcher <> w: 154226, p: [50623]
+reseat <> w: 154227
+resell <> w: 154236, p: [60061]
+resemblance <> w: 154237
+resemble <> w: 154238, p: [47997]
+resent <> w: 154239, p: [44632]
+resentful <> w: 154240, p: [60416]
+resentfully <> w: 154241, p: [49255]
+resentment <> w: 154242, p: [48753]
+reservation <> w: 154244, p: [18940, 17807]
+reserve <> w: 154245, p: [59282, 17807, 18940]
+reserved <> w: 154252, p: [60334]
+reservoir <> w: 154256
+reset <> w: 154257, p: [59826]
+reshape <> w: 154264, p: [59586]
+reside <> w: 154272
+residence <> w: 154273, p: [21080]
+residency <> w: 154276
+resident <> w: 154277, p: [22694, 17281]
+residential <> w: 154280, p: [27253]
+residue <> w: 154289
+resign <> w: 154292, p: [17837]
+resignation <> w: 154293, p: [17837]
+resignedly <> w: 154294
+resilience <> w: 154296
+resilient <> w: 154298
+resin <> w: 154299
+resist <> w: 154306, p: [44714]
+resistance <> w: 154307
+resistant <> w: 154311, p: [45824]
+resistive <> w: 154315
+resistless <> w: 154317, p: [50074]
+resistor <> w: 154318
+resit <> w: 225020
+resize <> w: 154319, p: [54748]
+reskill <> w: 228880
+resole <> w: 154503
+resolute <> w: 154504
+resolutely <> w: 154505, p: [42948]
+resolution <> w: 154507
+resolve <> w: 154509, p: [40061]
+resolved <> w: 154510
+resonance <> w: 154514
+resonant <> w: 154515
+resonate <> w: 154517, p: [59133]
+resonating <> w: 154518
+resonator <> w: 154520, p: [30277]
+resort <> w: 154525, p: [23045]
+resounding <> w: 154529
+resource <> w: 154531, p: [20434]
+resourceful <> w: 154532, p: [59519]
+resourcefulness <> w: 154534
+respect <> w: 154536, p: [27979]
+respectability <> w: 154537
+respectable <> w: 154538, p: [45375]
+respected <> w: 154540, p: [45375]
+respectful <> w: 154542, p: [17551]
+respectfully <> w: 154543, p: [45375]
+respective <> w: 154545, p: [49048]
+respectively <> w: 154546, p: [49048]
+respiration <> w: 154549, p: [17779]
+respirator <> w: 154550, p: [33279]
+respiratory <> w: 154551
+respire <> w: 154568, p: [17779]
+respite <> w: 154569, p: [16419]
+resplendent <> w: 154573
+resplendently <> w: 154576
+respond <> w: 154577, p: [61140, 61084]
+respondent <> w: 154578
+responder <> w: 154579
+response <> w: 154580, p: [28089]
+responsibility <> w: 154582
+responsible <> w: 154583, p: [17155, 49876, 19432]
+responsibly <> w: 154586, p: [49876]
+responsive <> w: 154587, p: [60453]
+respray <> w: 227951
+rest <> w: 154589, p: [17483, 48615, 38889, 30721, 48615]
+rest area <> w: 154592
+rest home <> w: 154595, p: [30094]
+restart <> w: 154601, p: [59392, 48085]
+restaurant <> w: 154604, p: [51294]
+restaurant car <> w: 228482
+restaurateur <> w: 154608
+restful <> w: 154611
+restfully <> w: 154612
+restitution <> w: 154618
+restive <> w: 154619
+restless <> w: 154622
+restlessly <> w: 154625, p: [47298]
+restlessness <> w: 154626
+restock <> w: 154627
+restoration <> w: 154628, p: [20804]
+restorative <> w: 154629
+restore <> w: 154630, p: [20804]
+restrain <> w: 154633, p: [52783]
+restrained <> w: 154634, p: [45860]
+restrict <> w: 154639, p: [27800]
+restricted <> w: 154640
+restriction <> w: 154642
+restrictive <> w: 154648
+restroom <> w: 154652, p: [37251]
+restructure <> w: 154653, p: [59543]
+result <> w: 154656, p: [44110, 49980]
+result in <> p: [61054]
+resultant <> w: 154657, p: [49918]
+resume <> w: 154660, p: [59618, 17230]
+resumption <> w: 154661
+resurface <> w: 154663, p: [54430]
+resurgence <> w: 154665
+resurgent <> w: 154666
+resurrect <> w: 154667, p: [60045]
+resurrection <> w: 154668
+resuscitate <> w: 154673, p: [32748]
+resuscitation <> w: 154675, p: [32748]
+retail <> w: 154680, p: [50629, 50629]
+retailer <> w: 154685, p: [50629]
+retailing <> w: 154686
+retain <> w: 154687, p: [59480]
+retainer <> w: 154690, p: [19314]
+retake <> w: 154692, p: [59676]
+retaliate <> w: 154694
+retaliation <> w: 154695
+retard <> w: 154702, p: [59345]
+retardant <> w: 154703
+retarded <> w: 154705
+retarder <> w: 228114
+retch <> w: 154709, p: [26300]
+retell <> w: 154713, p: [59464]
+retelling <> w: 365553
+retention <> w: 154715
+rethink <> w: 154721, p: [48047]
+reticence <> w: 154722
+reticent <> w: 154723, p: [17859]
+reticule <> w: 154733
+reticulocyte <> w: 154737
+reticulum <> w: 154739
+retina <> w: 154741, p: [30377]
+retinal <> w: 154742
+retinue <> w: 154753
+retire <> w: 154754, p: [19829, 21212]
+retired <> w: 154755, p: [39261]
+retiree <> w: 154757, p: [39261]
+retirement <> w: 154758, p: [19829]
+retiring <> w: 154770
+retort <> w: 155003, p: [55238]
+retouch <> w: 155004
+retrace <> w: 155005
+retract <> w: 155006
+retraction <> w: 155010
+retractor <> w: 155011
+retrain <> w: 155012, p: [55072]
+retraining <> w: 155013
+retreat <> w: 155018, p: [53663]
+retrench <> w: 155021
+retribution <> w: 155024
+retrieval <> w: 155028
+retrieve <> w: 155029, p: [33002, 31522]
+retriever <> w: 155030, p: [24056]
+retro <> w: 155031, p: [34097, 34097]
+retroactive <> w: 155032, p: [50156]
+retroactively <> w: 155033, p: [50156]
+retrofit <> w: 155035
+retrograde <> w: 155040
+retrogress <> w: 155042
+retrogressive <> w: 155044
+retrospect <> w: 155050
+retrospective <> w: 155052
+retrospectively <> w: 155053
+retsina <> w: 155061
+return <> w: 155062
+reunion <> w: 155075
+reunite <> w: 155076, p: [59125]
+reusable <> w: 155078
+reuse <> w: 155081, p: [48103]
+revamp <> w: 155086, p: [59582]
+reveal <> w: 155087, p: [23675, 58627]
+revealing <> w: 155089, p: [24959]
+revel <> w: 155091
+revelation <> w: 155092
+revenge <> w: 155099
+revengeful <> w: 155100
+revenue <> w: 155102
+reverberate <> w: 155111
+reverberation <> w: 155113
+revere <> w: 155116, p: [58802]
+revered <> w: 155117
+reverence <> w: 155118
+reverend <> w: 155119
+reverent <> w: 155121
+reversal <> w: 155127
+reverse <> w: 155128, p: [36862, 36862]
+reverse gear <> w: 155130, p: [36862]
+reversely <> w: 155140
+reversible <> w: 155142, p: [49073]
+reversibly <> w: 155144, p: [49073]
+reversion <> w: 155146
+revert <> w: 155152, p: [53190]
+review <> w: 155159, p: [58105]
+reviewer <> w: 155162, p: [19084]
+revile <> w: 155164
+revisal <> w: 155166
+revise <> w: 155167, p: [35882]
+reviser <> w: 155171, p: [35882]
+revision <> w: 155173, p: [35882]
+revisit <> w: 155176, p: [59692]
+revitalize <> w: 155182, p: [54698]
+revitalizing <> w: 155184
+revival <> w: 155185
+revivalism <> w: 155187
+revive <> w: 155190, p: [59466, 32748]
+revocation <> w: 155196
+revoke <> w: 155198, p: [59382]
+revolt <> w: 155199, p: [49944, 49522, 59722]
+revolting <> w: 155200, p: [49522]
+revoltingly <> w: 155201
+revolution <> w: 155202
+revolutionary <> w: 155203
+revolutionize <> w: 155221, p: [54676]
+revolve <> w: 155223, p: [47064, 22093, 20311]
+revolve around <> p: [53150]
+revolving door <> w: 155230
+revue <> w: 155232
+revulsion <> w: 155233
+revved <> w: 229331
+reward <> w: 155235, p: [23677]
+rewarding <> w: 155237
+rewind <> w: 155239
+rewire <> w: 155240
+rework <> w: 155243, p: [53574]
+rewrite <> w: 155244
+rhabdomyolysis <> w: 219032
+rhapsodize <> w: 155532
+rhapsody <> w: 155533
+rhea <> w: 155535, p: [40277]
+rhesus <> w: 155552, p: [34197]
+rhesus monkey <> w: 155554, p: [34197]
+rhetoric <> w: 155555
+rhetorical <> w: 155556
+rhetorically <> w: 155559
+rhetorician <> w: 155560
+rheumatic <> w: 155568
+rheumatic fever <> w: 155570
+rheumatoid arthritis <> w: 155575
+rheumatologist <> w: 155578
+rheumatology <> w: 155579
+rheumy <> w: 155580
+rhinestone <> w: 155592, p: [25473]
+rhinoceros <> w: 155597, p: [24314]
+rhinoceros beetle <> p: [35758]
+rhinoplasty <> w: 155610, p: [29906]
+rhomb <> w: 155681, p: [14584]
+rhombohedron <> w: 155685
+rhomboid <> w: 155686, p: [25964]
+rhombus <> w: 155691, p: [14584]
+rhubarb <> w: 155697, p: [26918]
+rhumba <> w: 155702
+rhyme <> w: 155721
+rhythm <> w: 155736
+rhythm and blues <> w: 155737, p: [35605]
+rhythmic <> w: 155742
+rhythmical <> w: 155744
+rhythmically <> w: 155745
+rib <> w: 155753, p: [50735, 31638, 59513]
+ribald <> w: 155757
+ribbed <> w: 155762, p: [34887]
+ribbing <> w: 155765
+ribbon <> w: 155766, p: [25395]
+ribcage <> w: 155754, p: [50735]
+ribosome <> w: 155796
+rice <> w: 155799, p: [28185]
+rice paper <> w: 155804
+rice pudding <> w: 209217, p: [31145]
+ricer <> w: 155809, p: [37527]
+rich <> w: 155810, p: [60616, 51564]
+riches <> w: 155871, p: [60616]
+richly <> w: 155873, p: [50056]
+richness <> w: 155877, p: [20764]
+rick <> w: 155885, p: [37005]
+rickets <> w: 155888
+rickety <> w: 155896
+rickey <> w: 155897
+rickshaw <> w: 155901
+ricochet <> w: 155904, p: [46810]
+ricotta <> w: 155905, p: [27383]
+rid <> w: 155908, p: [59448]
+riddance <> w: 155910
+riddle <> w: 155911
+riddled <> w: 156003
+ride <> w: 156004, p: [29364, 51580, 17366, 29364]
+ride high <> p: [17905]
+ride on <> p: [53523]
+ride roughshod over <> p: [44840]
+rider <> w: 156012, p: [36814, 19198]
+ridership <> w: 227213
+ridge <> w: 156015, p: [18902]
+ridicule <> w: 156025, p: [44712]
+ridiculous <> w: 156027, p: [45627]
+ridiculously <> w: 156028
+riding <> w: 156030, p: [51580, 51082]
+rife <> w: 156051, p: [45788]
+riff <> w: 156052
+riffraff <> w: 156055
+rifle <> w: 156056, p: [23897]
+rifle green <> p: [38549]
+rift <> w: 156067
+rig <> w: 156070, p: [26876, 30058, 51246]
+rig-out <> p: [26292]
+rigatoni <> w: 156076, p: [50357]
+rigged <> w: 156078
+rigging <> w: 156081
+right <> w: 156083, p: [60698, 60696, 60698, 16511, 47935, 60698, 43530, 21250]
+right angle <> w: 156100, p: [25976]
+right field <> w: 156109
+right of way <> w: 156124
+right on <> w: 156125, p: [27766]
+right triangle <> p: [30006]
+right-hand <> w: 156088
+right-hand drive <> w: 227640
+right-hand man <> w: 156089
+right-handed <> w: 156090, p: [45309]
+right-minded <> w: 156094
+right-thinking <> w: 209634
+righteous <> w: 156141, p: [51388, 60308]
+righteously <> w: 156142, p: [45255]
+righteousness <> w: 156143
+rightful <> w: 156147, p: [50013]
+rightfully <> w: 156148, p: [50013]
+rightist <> w: 156153
+rightly <> w: 156154, p: [43530]
+rigid <> w: 156159, p: [49395, 17861]
+rigidly <> w: 156164, p: [49395]
+rigmarole <> w: 156168
+rigor <> w: 156169
+rigorous <> w: 156171
+rigorously <> w: 156172, p: [42956]
+rile <> w: 156182, p: [20259]
+riled <> w: 156183, p: [42600]
+rim <> w: 156189
+rime <> w: 156201, p: [31675]
+rind <> w: 156212
+rinderpest <> w: 156213
+ring <> w: 156214, p: [15593, 20800, 48703, 23775]
+ring a bell <> p: [33002]
+ring binder <> p: [29565]
+ring finger <> w: 156232, p: [29964]
+ring in <> p: [18742]
+ring off <> p: [29487]
+ring road <> w: 156239, p: [31454]
+ring-pull <> w: 365718
+ring-tailed lemur <> p: [24228]
+ringdove <> w: 156247, p: [25116]
+ringhals <> w: 156255
+ringing <> w: 156256, p: [51490]
+ringlet <> w: 156258, p: [30247]
+ringmaster <> w: 156263
+rings <> w: 365426
+ringside <> w: 156267
+ringtone <> w: 217154
+ringworm <> w: 156271
+rinse <> w: 156277, p: [47686, 26162, 33392, 26162, 51802]
+riot <> w: 156287, p: [59722]
+riotous <> w: 156294, p: [49007]
+rip <> w: 156296, p: [23681]
+rip-off <> w: 156502, p: [28329]
+riparian <> w: 156511
+ripe <> w: 156515, p: [19140]
+ripen <> w: 156518, p: [51196]
+ripened <> w: 156519, p: [19140]
+riposte <> w: 156522
+ripped <> w: 156523, p: [21899, 18291]
+ripper <> w: 156524
+ripping <> w: 156525, p: [51340]
+ripple <> w: 156528, p: [47534]
+rise <> w: 156537, p: [61142, 27409, 16634, 43358, 51102, 17905]
+rise above <> p: [43014]
+rise to the occasion <> p: [43080]
+riser <> w: 156541
+risible <> w: 156546, p: [49776]
+rising <> w: 156547, p: [22945, 22945]
+risk <> w: 156552, p: [42964, 42964]
+riskily <> w: 156559, p: [49331]
+risky <> w: 156563, p: [17735]
+risotto <> w: 156565, p: [30968]
+risque <> w: 156566
+rissole <> w: 156569, p: [31115]
+ristretto <> w: 218286
+rite <> w: 156573, p: [19528]
+ritual <> w: 156578, p: [19528]
+ritualism <> w: 156583
+ritually <> w: 156587
+ritzy <> w: 156589, p: [45844]
+rival <> w: 156590, p: [45090, 18231]
+rivalry <> w: 156592
+rive <> w: 156593, p: [23681]
+riven <> w: 209489
+river <> w: 156594, p: [51126]
+riverbank <> w: 156626, p: [19590]
+riverbed <> w: 156627
+riverside <> w: 156628, p: [19590]
+rivet <> w: 156629, p: [41668, 27690]
+riveting <> w: 156632
+rivulet <> w: 156638
+roach <> w: 156648, p: [35828]
+road <> w: 156651, p: [51526]
+road hog <> w: 156657
+road sign <> p: [19228]
+road tax <> w: 227939
+road test <> w: 156667
+roadblock <> w: 156670
+roadholding <> w: 227654
+roadhouse <> w: 156673, p: [26519]
+roadie <> w: 367444
+roadkill <> w: 156674
+roadman <> w: 156676
+roadrunner <> w: 156677, p: [24998]
+roadside <> w: 156679
+roadster <> w: 156681
+roadway <> w: 156682, p: [51526]
+roadwork <> w: 226945
+roadworthiness <> w: 156683
+roam <> w: 156686, p: [17811]
+roan <> w: 156688, p: [24440]
+roan antelope <> p: [34343]
+roar <> w: 156690, p: [58804, 58837, 61298]
+roaring <> w: 156693
+roast <> w: 156694, p: [36323, 18319, 36323, 20968]
+roasted <> w: 156700, p: [20968]
+roaster <> w: 156701, p: [42762]
+roasting <> w: 156702, p: [45563]
+rob <> w: 156703, p: [53025, 59818]
+robber <> w: 156707, p: [20878]
+robbery <> w: 156710, p: [20784]
+robe <> w: 156714, p: [50950, 26268]
+robin <> w: 156807, p: [25000]
+robot <> w: 156822, p: [32058]
+robotic <> w: 156825
+robotics <> w: 156827, p: [19172]
+robust <> w: 156830, p: [49744, 39913]
+robustly <> w: 156833, p: [49744]
+robustness <> w: 156834
+roc <> w: 156835
+rock <> w: 156850, p: [51132, 27909, 47002, 46896]
+rock and roll <> w: 157011, p: [21378]
+rock cake <> w: 157019, p: [37758]
+rock candy <> p: [27909]
+rock climber <> p: [37011]
+rock climbing <> w: 157022, p: [37013]
+rock lobster <> p: [25729, 25731]
+rock music <> w: 157045, p: [28005]
+rock rabbit <> p: [40087]
+rock the boat <> p: [42114]
+rock wallaby <> p: [34445]
+rock-bottom <> w: 157004
+rockabilly <> w: 157074, p: [38501]
+rocker <> w: 157079, p: [28407, 39429]
+rocket <> w: 157083, p: [22085, 22075, 34933, 22945]
+rocking chair <> w: 157106, p: [28407]
+rocking horse <> w: 157107, p: [32042]
+rocksteady <> w: 220042, p: [28009]
+rocky <> w: 157117, p: [19470, 36413]
+rococo <> w: 157133
+rod <> w: 157135
+rodent <> w: 157139, p: [24352]
+rodenticide <> w: 221802
+rodeo <> w: 157141
+rodomontade <> w: 157150, p: [55018]
+roe <> w: 157153, p: [29607]
+roe deer <> w: 157154, p: [39999]
+roentgenogram <> w: 157160, p: [21463]
+rogan josh <> p: [30335]
+roger <> w: 216494, p: [48117]
+rogue <> w: 157181
+roiled <> w: 157193, p: [42600]
+role <> w: 157202
+role model <> w: 157203
+role player <> p: [51866]
+roll <> w: 157208, p: [20311, 20313, 51468, 26505, 19102]
+roll bar <> w: 227816
+roll in <> p: [22684]
+roll up <> p: [46880, 61056]
+roll-on <> w: 157209, p: [35118]
+roll-out <> p: [52419]
+roll-top desk <> w: 221628, p: [42096]
+roll-up <> p: [46880, 61056]
+rolled oats <> w: 157226, p: [35467]
+roller <> w: 157227, p: [26122]
+roller coaster <> w: 157233, p: [37191]
+roller skate <> w: 157234, p: [51586]
+roller skating <> p: [51067]
+roller towel <> w: 157236, p: [42256]
+roller-skate <> p: [51586]
+roller-skating <> p: [51067]
+rolling <> w: 157243, p: [20311]
+rolling pin <> w: 157247, p: [26513]
+rolling stock <> w: 157248
+rollover <> w: 157252
+roly-poly <> w: 157254, p: [26782]
+romaine <> w: 157260, p: [50517]
+romance <> w: 157301, p: [51933, 26485, 35898, 19600]
+romantic <> w: 157318
+romanticism <> w: 157324
+romanticist <> w: 365548
+romp <> w: 157503
+romper <> w: 157504, p: [34284]
+rompers <> w: 221284, p: [43028]
+rondo <> w: 157514
+roo <> w: 367707
+rood screen <> w: 157520
+roof <> w: 157521, p: [60777]
+roof garden <> p: [32521]
+roof rat <> p: [34367]
+roofer <> w: 157529
+roofing <> w: 157530
+rooftop <> w: 157535, p: [21102]
+rooibos <> w: 157538
+rook <> w: 157539, p: [25002, 29990, 44356]
+rookery <> w: 157540
+rookie <> w: 157541
+room <> w: 157542, p: [22175]
+room service <> w: 210133, p: [23627]
+roomie <> w: 157552, p: [35884]
+roommate <> w: 157556, p: [35884]
+roomy <> w: 157558, p: [35884, 23037]
+roost <> w: 157561, p: [34508, 39827, 39827]
+rooster <> w: 157562, p: [17999]
+root <> w: 157563, p: [21837, 14651]
+root beer <> w: 157564
+root for <> p: [53345]
+rootless <> w: 157588
+roots <> w: 157590
+rope <> w: 157593, p: [36920]
+roquette <> w: 157620, p: [34933]
+rosacea <> w: 157645
+rosaceous <> w: 157647, p: [22991]
+rosary <> w: 157650
+rose <> w: 157651, p: [39017, 22991, 22991, 31817]
+rose chafer <> p: [35760]
+rose hip <> w: 157679, p: [37427]
+rose water <> p: [35057]
+roseate <> w: 157694, p: [22991]
+rosella <> w: 220575
+rosemary <> w: 157708, p: [31293]
+roseola <> w: 157709, p: [29426]
+rosette <> w: 157713, p: [37760]
+rosiness <> w: 157730, p: [22991]
+roster <> w: 157741
+rostrum <> w: 157747, p: [35641]
+rosy <> w: 157749, p: [31622, 30082]
+rot <> w: 157754, p: [47384]
+rota <> w: 157756
+rotary <> w: 157758, p: [22093, 52079]
+rotary cutter <> p: [33791]
+rotate <> w: 157769, p: [47064]
+rotation <> w: 157773, p: [22093]
+rotational <> w: 157774
+rote <> w: 157783, p: [37842]
+rotgut <> w: 157786
+roti <> w: 209188, p: [27600]
+rotisserie <> w: 157792, p: [26467, 26606]
+rotor <> w: 157795, p: [31791]
+rotoscoping <> w: 221253
+rotten <> w: 157801, p: [48509]
+rottenly <> w: 157803
+rotting <> w: 157808
+rottweiler <> w: 157809, p: [25835]
+rotund <> w: 157810, p: [60630]
+rotunda <> w: 157811
+rouge <> w: 157817, p: [22830]
+rough <> w: 157822, p: [45541, 17545]
+rough diamond <> w: 214178
+roughly <> w: 157860
+roulade <> w: 158007
+roulette <> w: 158009
+round <> w: 158014, p: [48759, 31389, 47092]
+round on <> p: [42630]
+round trip <> w: 158057, p: [17325]
+round-shouldered <> w: 158025, p: [22931]
+round-the-clock <> p: [44032]
+round-up <> p: [51737]
+roundabout <> w: 158061, p: [52079, 32076]
+rounded <> w: 158063
+rounders <> w: 158068
+roundish <> w: 158074
+roundly <> w: 158075
+roundness <> w: 158076
+roundup <> w: 158079
+rouse <> w: 158082, p: [58903]
+rousing <> w: 158084
+rout <> w: 158088, p: [47881]
+route <> w: 158091, p: [17849, 51526, 53659]
+router <> w: 158093, p: [29370, 41540]
+routine <> w: 158095, p: [45754]
+routinely <> w: 158096
+roux <> w: 158097
+rove <> w: 158098
+rove beetle <> p: [35762]
+rover <> w: 158100
+row <> w: 158102, p: [20043, 49125, 37346, 37346, 49125]
+row house <> w: 158103, p: [32694]
+rowboat <> w: 158108, p: [37346]
+rowdy <> w: 158111
+rower <> w: 158114
+rowing <> w: 158115, p: [37346]
+rowing boat <> w: 158116, p: [37346]
+rowing machine <> p: [21689]
+royal <> w: 158124, p: [45245]
+royal antelope <> p: [40049]
+royal blue <> w: 158129, p: [34873]
+royal commission <> w: 365547
+royal flush <> w: 158137
+royal purple <> p: [38765, 38765]
+royalty <> w: 158156
+rub <> w: 158168, p: [46796, 26323]
+rub-down <> p: [21903]
+rubato <> w: 158176
+rubber <> w: 158177, p: [49181, 25044]
+rubber band <> w: 158180
+rubber boot <> w: 158182, p: [33129]
+rubber stamp <> w: 158187, p: [29651]
+rubbernecker <> w: 158194
+rubbery <> w: 158196, p: [27778]
+rubbing <> w: 158197, p: [29860, 47504]
+rubbish <> w: 158199, p: [32614, 48285]
+rubbishy <> w: 158202
+rubble <> w: 158203
+rubdown <> w: 158204
+rubella <> w: 158209
+rubeola <> w: 158212, p: [29424]
+rubric <> w: 158229
+ruby <> w: 158254, p: [25475, 25475]
+ruched <> w: 208559, p: [34893]
+ruck <> w: 158260
+rucksack <> w: 158263, p: [18371]
+ruckus <> w: 158264
+ructions <> w: 158265
+rudder <> w: 158274
+rudderless <> w: 158278, p: [49670]
+ruddy <> w: 158284
+rude <> w: 158287, p: [17545]
+rudely <> w: 158288, p: [17545]
+rudeness <> w: 158289
+rudimentary <> w: 158291, p: [28612]
+rudiments <> w: 158292
+rue <> w: 158308, p: [35352, 52155, 48221]
+rueful <> w: 158311
+ruefulness <> w: 158313, p: [52155]
+ruff <> w: 158315, p: [25004, 34239]
+ruffed lemur <> p: [39931]
+ruffian <> w: 158317
+ruffle <> w: 158320, p: [31839, 34239]
+ruffled <> w: 158322
+rufous <> w: 217469, p: [38991]
+rug <> w: 158324, p: [48577]
+rugby <> w: 158506, p: [45008]
+rugged <> w: 158511, p: [19470]
+rugger <> w: 158520, p: [39205]
+ruin <> w: 158527, p: [18882, 23039]
+ruinous <> w: 158532
+ruinously <> w: 158533
+rule <> w: 158534, p: [59820, 36960]
+rule of thumb <> p: [43258]
+rule the roost <> p: [40702]
+ruled <> w: 158545
+ruler <> w: 158546, p: [60027, 36960]
+ruling <> w: 158549
+rum <> w: 158552, p: [31819, 49137]
+rum baba <> p: [37806]
+rumba <> w: 158562
+rumble <> w: 158563, p: [51098]
+rumble on <> p: [22680]
+rumbling <> w: 158565
+ruminant <> w: 158573, p: [24482, 24482]
+ruminate <> w: 158575
+rummage <> w: 158579, p: [59288]
+rummer <> w: 158581
+rummy <> w: 158582, p: [49137]
+rumor <> w: 158585
+rump <> w: 158589, p: [30888, 31389, 33467]
+rump steak <> p: [36341]
+rumpus room <> w: 158596, p: [28712]
+run <> w: 158598, p: [39213, 20438, 60119, 49864, 39213, 29862]
+run a tight ship <> p: [50585]
+run across <> p: [47382]
+run after <> p: [20684]
+run against <> p: [46358]
+run along <> p: [49393]
+run away <> p: [20438]
+run away with <> p: [47692]
+run in <> p: [46330]
+run into <> p: [50108, 46531, 30050]
+run its course <> p: [44128]
+run off <> p: [43998, 47482]
+run off at the mouth <> p: [42266]
+run on <> p: [52821]
+run out <> p: [23481]
+run out on <> p: [20327]
+run over <> p: [47414, 53164, 51384, 52167]
+run through <> p: [53254, 27790, 46848]
+run to <> p: [52055]
+run up against <> p: [41766]
+run with <> p: [46651]
+run with the hare and hunt with the hounds <> p: [45477]
+run-around <> p: [32030]
+run-in <> w: 158600
+run-of-the-mill <> w: 158601, p: [20487]
+run-out <> p: [23481]
+run-through <> w: 158606
+run-up <> p: [51708, 59377]
+runaway <> w: 158634
+rundown <> w: 158599
+rune <> w: 158643
+runner <> w: 158648
+runner bean <> w: 158651, p: [26834]
+runner-up <> w: 158649, p: [40069]
+running <> w: 158653, p: [39213]
+running dog <> p: [24148]
+running stitch <> p: [34045]
+runny <> w: 158675, p: [46499]
+runoff <> w: 158676
+runt <> w: 158678
+runway <> w: 158683, p: [35902, 18565]
+rupee <> w: 158685
+rupture <> w: 158702, p: [46609]
+rural <> w: 158705, p: [17151]
+ruse <> w: 158718
+rush <> w: 158719, p: [22339, 19522]
+rush hour <> w: 158727, p: [21432]
+rushed <> w: 158733
+rushlight <> w: 158736
+rusk <> w: 158740, p: [31225]
+russet <> w: 158745, p: [38517, 38517]
+rust <> w: 159017, p: [31895, 47388]
+rustic <> w: 159028
+rustle <> w: 159035, p: [47630]
+rustler <> w: 159036
+rustling <> w: 159038
+rusty <> w: 159041
+rut <> w: 159048
+rutabaga <> w: 159051, p: [50523]
+ruth <> w: 159054, p: [23509]
+ruthless <> w: 159067
+ruthlessly <> w: 159068, p: [45230]
+ruthlessness <> w: 159069
+rye <> w: 159090, p: [31227]
