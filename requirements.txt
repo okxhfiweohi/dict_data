@@ -1,0 +1,2 @@
+git+https://github.com/okxhfiweohi/py_dct_txt.git#egg=py_dct_txt
+
