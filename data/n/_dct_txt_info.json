@@ -1,47 +1,47 @@
 {
-    "phonetic": {
-        "start": "N",
-        "end": "Nyx",
-        "total": 2134
-    },
     "bnc": {
         "start": "N",
         "end": "NZ",
         "total": 954
-    },
-    "explain": {
-        "start": "N",
-        "end": "NZ",
-        "total": 3431
-    },
-    "exchange": {
-        "start": "n-tuple",
-        "end": "nymphs",
-        "total": 1292
-    },
-    "freq": {
-        "start": "n't",
-        "end": "nystagmus",
-        "total": 867
     },
     "collins": {
         "start": "nab",
         "end": "nymph",
         "total": 252
     },
-    "redirect": {
-        "start": "naas",
-        "end": "nutting",
-        "total": 38
+    "exchange": {
+        "start": "n-tuple",
+        "end": "nymphs",
+        "total": 1292
+    },
+    "explain": {
+        "start": "N",
+        "end": "NZ",
+        "total": 3431
+    },
+    "freq": {
+        "start": "n't",
+        "end": "nystagmus",
+        "total": 867
+    },
+    "lgk_id": {
+        "start": "naan",
+        "end": "nymphet",
+        "total": 639
+    },
+    "phonetic": {
+        "start": "N",
+        "end": "Nyx",
+        "total": 2134
     },
     "pos": {
         "start": "n't",
         "end": "nystagmus",
         "total": 909
     },
-    "lgk_id": {
-        "start": "naan",
-        "end": "nymphet",
-        "total": 639
+    "redirect": {
+        "start": "naas",
+        "end": "nutting",
+        "total": 38
     }
 }

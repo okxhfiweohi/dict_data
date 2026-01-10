@@ -1,18 +1,18 @@
 {
-    "phonetic": {
+    "bnc": {
         "start": "H",
-        "end": "Hythe",
-        "total": 3965
+        "end": "Hz",
+        "total": 1840
+    },
+    "collins": {
+        "start": "ha",
+        "end": "hysterical",
+        "total": 517
     },
     "exchange": {
         "start": "H",
         "end": "hysterics",
         "total": 2761
-    },
-    "bnc": {
-        "start": "H",
-        "end": "Hz",
-        "total": 1840
     },
     "explain": {
         "start": "H",
@@ -29,24 +29,24 @@
         "end": "hysterics",
         "total": 1548
     },
-    "collins": {
-        "start": "ha",
-        "end": "hysterical",
-        "total": 517
-    },
-    "redirect": {
-        "start": "h-bombs",
-        "end": "hypnos",
-        "total": 93
-    },
     "lgk_id": {
         "start": "ha",
         "end": "hysterically",
         "total": 1346
     },
+    "phonetic": {
+        "start": "H",
+        "end": "Hythe",
+        "total": 3965
+    },
     "pos": {
         "start": "ha",
         "end": "hysterics",
         "total": 1650
+    },
+    "redirect": {
+        "start": "h-bombs",
+        "end": "hypnos",
+        "total": 93
     }
 }

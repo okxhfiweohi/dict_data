@@ -1,14 +1,4 @@
 {
-    "phonetic": {
-        "start": "I",
-        "end": "izzat",
-        "total": 3964
-    },
-    "freq": {
-        "start": "I",
-        "end": "ivy",
-        "total": 1956
-    },
     "bnc": {
         "start": "I",
         "end": "Izzy",
@@ -18,6 +8,11 @@
         "start": "I",
         "end": "ivy",
         "total": 586
+    },
+    "exchange": {
+        "start": "IB",
+        "end": "Ixora",
+        "total": 2626
     },
     "explain": {
         "start": "I",
@@ -29,24 +24,29 @@
         "end": "Izzy",
         "total": 845
     },
-    "exchange": {
-        "start": "IB",
-        "end": "Ixora",
-        "total": 2626
-    },
-    "redirect": {
-        "start": "ibcs",
-        "end": "ixoras",
-        "total": 36
+    "freq": {
+        "start": "I",
+        "end": "ivy",
+        "total": 1956
     },
     "lgk_id": {
         "start": "i",
         "end": "ix",
         "total": 1458
     },
+    "phonetic": {
+        "start": "I",
+        "end": "izzat",
+        "total": 3964
+    },
     "pos": {
         "start": "i",
         "end": "ivory",
         "total": 1954
+    },
+    "redirect": {
+        "start": "ibcs",
+        "end": "ixoras",
+        "total": 36
     }
 }

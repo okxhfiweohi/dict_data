@@ -1,47 +1,47 @@
 {
-    "phonetic": {
-        "start": "Q",
-        "end": "qwerty",
-        "total": 491
-    },
-    "exchange": {
-        "start": "Q",
-        "end": "quoting",
-        "total": 355
-    },
     "bnc": {
         "start": "Q",
         "end": "qwerty",
         "total": 190
-    },
-    "explain": {
-        "start": "Q",
-        "end": "qwerty",
-        "total": 708
     },
     "collins": {
         "start": "QC",
         "end": "quote",
         "total": 56
     },
+    "exchange": {
+        "start": "Q",
+        "end": "quoting",
+        "total": 355
+    },
+    "explain": {
+        "start": "Q",
+        "end": "qwerty",
+        "total": 708
+    },
     "freq": {
         "start": "Qatari",
         "end": "quotient",
         "total": 187
     },
-    "redirect": {
-        "start": "qcs",
-        "end": "quorns",
-        "total": 7
+    "lgk_id": {
+        "start": "quack",
+        "end": "quotient",
+        "total": 149
+    },
+    "phonetic": {
+        "start": "Q",
+        "end": "qwerty",
+        "total": 491
     },
     "pos": {
         "start": "qigong",
         "end": "quotient",
         "total": 192
     },
-    "lgk_id": {
-        "start": "quack",
-        "end": "quotient",
-        "total": 149
+    "redirect": {
+        "start": "qcs",
+        "end": "quorns",
+        "total": 7
     }
 }

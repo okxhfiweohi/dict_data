@@ -1,23 +1,23 @@
 {
-    "phonetic": {
-        "start": "S",
-        "end": "slang",
-        "total": 5000
-    },
-    "phonetic__1": {
-        "start": "slanged",
-        "end": "sulphonamide",
-        "total": 5000
-    },
-    "phonetic__2": {
-        "start": "sulphonate",
-        "end": "Szeged",
-        "total": 1366
-    },
     "bnc": {
         "start": "S",
         "end": "Szabo",
         "total": 4746
+    },
+    "collins": {
+        "start": "sabotage",
+        "end": "systemic",
+        "total": 1557
+    },
+    "exchange": {
+        "start": "SA",
+        "end": "speck",
+        "total": 5000
+    },
+    "exchange__1": {
+        "start": "specked",
+        "end": "Szeged",
+        "total": 3494
     },
     "explain": {
         "start": "S",
@@ -39,39 +39,39 @@
         "end": "Szilard",
         "total": 2252
     },
-    "exchange": {
-        "start": "SA",
-        "end": "speck",
-        "total": 5000
-    },
-    "exchange__1": {
-        "start": "specked",
-        "end": "Szeged",
-        "total": 3494
-    },
     "freq": {
         "start": "sabayon",
         "end": "systolic",
         "total": 4731
-    },
-    "collins": {
-        "start": "sabotage",
-        "end": "systemic",
-        "total": 1557
     },
     "lgk_id": {
         "start": "s",
         "end": "systolic",
         "total": 3891
     },
-    "redirect": {
-        "start": "sabahs",
-        "end": "szeged",
-        "total": 137
+    "phonetic": {
+        "start": "S",
+        "end": "slang",
+        "total": 5000
+    },
+    "phonetic__1": {
+        "start": "slanged",
+        "end": "sulphonamide",
+        "total": 5000
+    },
+    "phonetic__2": {
+        "start": "sulphonate",
+        "end": "Szeged",
+        "total": 1366
     },
     "pos": {
         "start": "sabayon",
         "end": "systolic",
         "total": 4963
+    },
+    "redirect": {
+        "start": "sabahs",
+        "end": "szeged",
+        "total": 137
     }
 }

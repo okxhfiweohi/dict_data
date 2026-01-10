@@ -1,47 +1,47 @@
 {
-    "phonetic": {
-        "start": "U",
-        "end": "Uzbekistan",
-        "total": 2673
-    },
     "bnc": {
         "start": "U",
         "end": "Uzbekistan",
         "total": 1377
-    },
-    "explain": {
-        "start": "U",
-        "end": "uzbeks",
-        "total": 3656
-    },
-    "exchange": {
-        "start": "U-boat",
-        "end": "uzbeks",
-        "total": 1166
     },
     "collins": {
         "start": "U-turn",
         "end": "utterly",
         "total": 342
     },
+    "exchange": {
+        "start": "U-boat",
+        "end": "uzbeks",
+        "total": 1166
+    },
+    "explain": {
+        "start": "U",
+        "end": "uzbeks",
+        "total": 3656
+    },
     "freq": {
         "start": "ubiquinone",
         "end": "uxorilocal",
         "total": 1524
-    },
-    "redirect": {
-        "start": "u-boats",
-        "end": "uts",
-        "total": 22
     },
     "lgk_id": {
         "start": "uakari",
         "end": "uxorious",
         "total": 928
     },
+    "phonetic": {
+        "start": "U",
+        "end": "Uzbekistan",
+        "total": 2673
+    },
     "pos": {
         "start": "ubiquinone",
         "end": "uxorilocal",
         "total": 1547
+    },
+    "redirect": {
+        "start": "u-boats",
+        "end": "uts",
+        "total": 22
     }
 }

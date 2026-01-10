@@ -1,18 +1,18 @@
 {
-    "phonetic": {
+    "bnc": {
         "start": "W",
-        "end": "wyvern",
-        "total": 2452
+        "end": "wysiwyg",
+        "total": 1292
+    },
+    "collins": {
+        "start": "wacky",
+        "end": "wry",
+        "total": 387
     },
     "exchange": {
         "start": "W",
         "end": "wyverns",
         "total": 1907
-    },
-    "bnc": {
-        "start": "W",
-        "end": "wysiwyg",
-        "total": 1292
     },
     "explain": {
         "start": "W",
@@ -24,15 +24,15 @@
         "end": "wussy",
         "total": 980
     },
-    "collins": {
-        "start": "wacky",
-        "end": "wry",
-        "total": 387
-    },
     "lgk_id": {
         "start": "wack",
         "end": "wye",
         "total": 931
+    },
+    "phonetic": {
+        "start": "W",
+        "end": "wyvern",
+        "total": 2452
     },
     "pos": {
         "start": "wack",

@@ -1,18 +1,18 @@
 {
-    "phonetic": {
-        "start": "T",
-        "end": "Turing",
-        "total": 5000
-    },
-    "phonetic__1": {
-        "start": "turion",
-        "end": "tzimmes",
-        "total": 386
-    },
     "bnc": {
         "start": "T",
         "end": "Tyumen",
         "total": 2173
+    },
+    "collins": {
+        "start": "T-shirt",
+        "end": "tyre",
+        "total": 659
+    },
+    "exchange": {
+        "start": "T-bar",
+        "end": "tzatziki",
+        "total": 3707
     },
     "explain": {
         "start": "T",
@@ -24,34 +24,34 @@
         "end": "tzimmes",
         "total": 3052
     },
-    "exchange": {
-        "start": "T-bar",
-        "end": "tzatziki",
-        "total": 3707
-    },
-    "collins": {
-        "start": "T-shirt",
-        "end": "tyre",
-        "total": 659
-    },
     "freq": {
         "start": "ta",
         "end": "tyrosine",
         "total": 2121
     },
-    "redirect": {
-        "start": "t-bars",
-        "end": "tyroleans",
-        "total": 72
+    "lgk_id": {
+        "start": "ta-ta",
+        "end": "tzatziki",
+        "total": 1812
+    },
+    "phonetic": {
+        "start": "T",
+        "end": "Turing",
+        "total": 5000
+    },
+    "phonetic__1": {
+        "start": "turion",
+        "end": "tzimmes",
+        "total": 386
     },
     "pos": {
         "start": "ta",
         "end": "tyrosine",
         "total": 2171
     },
-    "lgk_id": {
-        "start": "ta-ta",
-        "end": "tzatziki",
-        "total": 1812
+    "redirect": {
+        "start": "t-bars",
+        "end": "tyroleans",
+        "total": 72
     }
 }

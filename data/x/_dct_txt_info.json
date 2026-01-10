@@ -1,36 +1,41 @@
 {
-    "phonetic": {
+    "bnc": {
         "start": "x",
-        "end": "xystus",
-        "total": 65
+        "end": "xylophone",
+        "total": 34
     },
-    "explain": {
-        "start": "x",
-        "end": "xystus",
-        "total": 111
+    "collins": {
+        "start": "xerox",
+        "end": "xerox",
+        "total": 1
     },
     "exchange": {
         "start": "xanthine",
         "end": "xylophones",
         "total": 27
     },
-    "bnc": {
+    "explain": {
         "start": "x",
+        "end": "xystus",
+        "total": 111
+    },
+    "freq": {
+        "start": "xenon",
         "end": "xylophone",
-        "total": 34
+        "total": 9
     },
     "lgk_id": {
         "start": "x",
         "end": "xylophone",
         "total": 22
     },
+    "phonetic": {
+        "start": "x",
+        "end": "xystus",
+        "total": 65
+    },
     "pos": {
         "start": "x-axis",
-        "end": "xylophone",
-        "total": 9
-    },
-    "freq": {
-        "start": "xenon",
         "end": "xylophone",
         "total": 9
     },
@@ -38,10 +43,5 @@
         "start": "xenophons",
         "end": "xmas",
         "total": 2
-    },
-    "collins": {
-        "start": "xerox",
-        "end": "xerox",
-        "total": 1
     }
 }

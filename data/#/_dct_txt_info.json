@@ -1,12 +1,12 @@
 {
-    "phonetic": {
-        "start": "-ability",
-        "end": "-yl",
-        "total": 173
-    },
     "explain": {
         "start": "-ability",
         "end": "3",
         "total": 254
+    },
+    "phonetic": {
+        "start": "-ability",
+        "end": "-yl",
+        "total": 173
     }
 }

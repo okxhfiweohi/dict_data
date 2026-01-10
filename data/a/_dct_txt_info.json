@@ -1,8 +1,18 @@
 {
+    "bnc": {
+        "start": "a",
+        "end": "azure",
+        "total": 2787
+    },
     "collins": {
         "start": "a",
         "end": "aye",
         "total": 819
+    },
+    "exchange": {
+        "start": "A-bomb",
+        "end": "azulejos",
+        "total": 4099
     },
     "explain": {
         "start": "a",
@@ -14,6 +24,16 @@
         "end": "azygous",
         "total": 3594
     },
+    "freq": {
+        "start": "a",
+        "end": "azure",
+        "total": 2554
+    },
+    "lgk_id": {
+        "start": "a",
+        "end": "azure",
+        "total": 2015
+    },
     "phonetic": {
         "start": "a",
         "end": "atap",
@@ -24,34 +44,14 @@
         "end": "azygous",
         "total": 759
     },
-    "exchange": {
-        "start": "A-bomb",
-        "end": "azulejos",
-        "total": 4099
-    },
-    "bnc": {
+    "pos": {
         "start": "a",
         "end": "azure",
-        "total": 2787
-    },
-    "freq": {
-        "start": "a",
-        "end": "azure",
-        "total": 2554
+        "total": 2518
     },
     "redirect": {
         "start": "a-bombs",
         "end": "azerbaijanis",
         "total": 140
-    },
-    "lgk_id": {
-        "start": "a",
-        "end": "azure",
-        "total": 2015
-    },
-    "pos": {
-        "start": "a",
-        "end": "azure",
-        "total": 2518
     }
 }

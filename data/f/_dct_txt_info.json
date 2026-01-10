@@ -1,13 +1,18 @@
 {
-    "phonetic": {
-        "start": "F",
-        "end": "fytte",
-        "total": 4111
-    },
     "bnc": {
         "start": "F",
         "end": "fylde",
         "total": 1882
+    },
+    "collins": {
+        "start": "fable",
+        "end": "fuzzy",
+        "total": 623
+    },
+    "exchange": {
+        "start": "f-hole",
+        "end": "fyldes",
+        "total": 3157
     },
     "explain": {
         "start": "F",
@@ -19,34 +24,29 @@
         "end": "fytte",
         "total": 1326
     },
-    "exchange": {
-        "start": "f-hole",
-        "end": "fyldes",
-        "total": 3157
-    },
     "freq": {
         "start": "fab",
         "end": "fynbos",
         "total": 1750
     },
-    "collins": {
+    "lgk_id": {
         "start": "fable",
         "end": "fuzzy",
-        "total": 623
+        "total": 1524
     },
-    "redirect": {
-        "start": "fairbairns",
-        "end": "fusiliers",
-        "total": 49
+    "phonetic": {
+        "start": "F",
+        "end": "fytte",
+        "total": 4111
     },
     "pos": {
         "start": "f-stop",
         "end": "fynbos",
         "total": 1831
     },
-    "lgk_id": {
-        "start": "fable",
-        "end": "fuzzy",
-        "total": 1524
+    "redirect": {
+        "start": "fairbairns",
+        "end": "fusiliers",
+        "total": 49
     }
 }

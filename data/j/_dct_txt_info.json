@@ -1,38 +1,38 @@
 {
-    "phonetic": {
-        "start": "j",
-        "end": "Jylland",
-        "total": 932
-    },
     "bnc": {
         "start": "j",
         "end": "jw",
         "total": 534
-    },
-    "explain": {
-        "start": "j",
-        "end": "Jylland",
-        "total": 1418
-    },
-    "exchange": {
-        "start": "jab",
-        "end": "juxtapositions",
-        "total": 629
-    },
-    "freq": {
-        "start": "jab",
-        "end": "juxtaposition",
-        "total": 324
     },
     "collins": {
         "start": "jab",
         "end": "juvenile",
         "total": 109
     },
+    "exchange": {
+        "start": "jab",
+        "end": "juxtapositions",
+        "total": 629
+    },
+    "explain": {
+        "start": "j",
+        "end": "Jylland",
+        "total": 1418
+    },
+    "freq": {
+        "start": "jab",
+        "end": "juxtaposition",
+        "total": 324
+    },
     "lgk_id": {
         "start": "jab",
         "end": "juxtaposition",
         "total": 283
+    },
+    "phonetic": {
+        "start": "j",
+        "end": "Jylland",
+        "total": 932
     },
     "pos": {
         "start": "jab",

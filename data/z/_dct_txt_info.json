@@ -1,38 +1,38 @@
 {
-    "phonetic": {
-        "start": "Z",
-        "end": "zymurgy",
-        "total": 259
-    },
     "bnc": {
         "start": "Z",
         "end": "Zurich",
         "total": 101
-    },
-    "explain": {
-        "start": "Z",
-        "end": "zzz",
-        "total": 388
-    },
-    "exchange": {
-        "start": "zag",
-        "end": "zymogens",
-        "total": 125
-    },
-    "freq": {
-        "start": "zag",
-        "end": "zzz",
-        "total": 83
     },
     "collins": {
         "start": "zap",
         "end": "zoom",
         "total": 14
     },
+    "exchange": {
+        "start": "zag",
+        "end": "zymogens",
+        "total": 125
+    },
+    "explain": {
+        "start": "Z",
+        "end": "zzz",
+        "total": 388
+    },
+    "freq": {
+        "start": "zag",
+        "end": "zzz",
+        "total": 83
+    },
     "lgk_id": {
         "start": "zabaglione",
         "end": "zygomatic bone",
         "total": 62
+    },
+    "phonetic": {
+        "start": "Z",
+        "end": "zymurgy",
+        "total": 259
     },
     "pos": {
         "start": "zag",
