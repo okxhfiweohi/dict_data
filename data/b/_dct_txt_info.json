@@ -36,13 +36,13 @@
     },
     "phonetic": {
         "start": "B",
-        "end": "brotherliness",
+        "end": "brown rot",
         "total": 5000
     },
     "phonetic__1": {
-        "start": "brotherly",
+        "start": "brown sauce",
         "end": "Byzantium",
-        "total": 876
+        "total": 848
     },
     "pos": {
         "start": "babble",

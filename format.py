@@ -27,15 +27,6 @@ def format(path: Path):
     tmr.print()
 
     print(f"formatting {path} ...")
-    tmr.start()
-    keyd = {
-        k: v
-        for k, v in sorted(
-            keyd.items(),
-            key=lambda v: (normalize_to_ascii(v[0]).lower(), v[0].lower(), v[0]),
-        )
-    }
-    tmr.print()
 
     print("saving ...")
     tmr.start()

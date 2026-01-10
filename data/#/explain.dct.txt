@@ -22,7 +22,7 @@
 -arian := suf. [构成形容词或名词]表示：...岁的(人)：octogenarian, centenarian; ...派的(人);...主义的(人)：Unitarian,utilitarian; 从事...工作(或职业)的(人)：argarian,antiquarian; 制定(或做出)...的(人)：disciplinarian
 -ary := suf. [构成形容词]表示...的, 与...有关的, 与...有联系的, 属于...的：auxiliary, elementary; [构成名词]表示：与...有关的人,从事...的人：missionary; 与...有关之物：dictionary; ...的处所,...的地方：granary,aviary; [拉丁语-aris][构成名词和形容词]表示：像...(的), 同类(的)：military
 -ase := [医]〔词尾〕酶
--aster := [用以构成生物学属名]表示“星”, “星状结构”：diaster\nsuf. 表示“劣等的”,“次等的”,“伪的”,“无价值的”：criticaster, poetaster
+-aster := [用以构成生物学属名]表示“星”, “星状结构”：diaster || suf. 表示“劣等的”,“次等的”,“伪的”,“无价值的”：criticaster, poetaster
 -ate := [医]〔后缀〕构成分词名词。加于词根, 表示为该词根原意的产物或作用。例如hemolysate表示溶血产物
 -athon := 持续时间很长的活动（尤指为慈善事业募集基金）
 -ation := ——见 -ion
@@ -75,7 +75,7 @@
 -ful := suff. 表示充满...的；表示有...倾向的；表示有...性质的；表示充满...的量
 -fy := ——见 -ify
 -gamy := 表示：婚姻,性结合：polygamy; 具有...受精方式；具有...生殖器官：cleistogamy
--gate := n. 大门；出入口；门道\nvt. 给…装大门\nn. (Gate)人名；(英)盖特；(法、瑞典)加特
+-gate := n. 大门；出入口；门道 || vt. 给…装大门 || n. (Gate)人名；(英)盖特；(法、瑞典)加特
 -gen := [医]〔词尾〕原, 剂：加到词干上指该词干表示的物体或状态产生的动因, 如过敏原(allergen), 冷冻剂(cryogen), 致病原(pathogen)
 -genic := [医]〔词尾〕产生, 生产
 -genous := [医]〔词尾〕意为来自, 生自：如endogenous, pyogenous
@@ -87,7 +87,7 @@
 -graphical := a. 图解的；绘画的；生动的
 -graphy := [医]〔词尾〕意为书写, 记录, 记录法
 -gynous := 表示：妇女的;女性的：misogynous; 有(某种或若干)雌性的：polygynous; 女性生殖器的；雌性生殖器的；雌蕊的：monogynous
--head := n. 头；头痛；上端；最前的部分；理解力\nvt. 前进；用头顶；作为…的首领；站在…的前头；给…加标题\nvi. 出发；成头状物；船驶往\na. 头的；主要的；在顶端的\nn. (Head)人名；(英)黑德
+-head := n. 头；头痛；上端；最前的部分；理解力 || vt. 前进；用头顶；作为…的首领；站在…的前头；给…加标题 || vi. 出发；成头状物；船驶往 || a. 头的；主要的；在顶端的 || n. (Head)人名；(英)黑德
 -hood := …的状态（或性质）
 -ia := [医]〔词尾〕意为：情况, 状况
 -ial := [构成形容词]表示具有...特性的,属于...的：ceremonial, jovial, judicial, artificial
@@ -130,18 +130,18 @@
 -ize := stuff. [医]（后缀）表示使成为；表示使…化
 -kin := suf. 表示小：lambkin, princekin; [构成姓氏]：Peterkin
 -kins := n. 家族；亲属；性质相似的东西；地位或职业相近的人（kin的复数）
--later := adv. 后来；稍后；随后\na. 更迟的；更后的\nn. (Later)人名；(德)拉特
+-later := adv. 后来；稍后；随后 || a. 更迟的；更后的 || n. (Later)人名；(德)拉特
 -latry := 表示崇拜, 敬仰, 过分虔诚：heliolatry
 -less := 没有；无
 -lessness := n. 下级；初等（等于inferiority）
 -let := 小的；不很重要的
 -like := 类似…的；有…特征的
 -ling := 幼小；不重要
--lite := a. 清淡的；低盐的；简化的\nn. 不重要的事物；简化物；软饮料\nn. (Lite)人名；(法、西)利特
+-lite := a. 清淡的；低盐的；简化的 || n. 不重要的事物；简化物；软饮料 || n. (Lite)人名；(法、西)利特
 -lith := [医]〔后缀〕意为石或结石; 水泥
--lived := a. 有生命的\nv. 居住（live的过去分词）；活着；度过；以…为生
+-lived := a. 有生命的 || v. 居住（live的过去分词）；活着；度过；以…为生
 -log := = -logue
--logic := n. 逻辑；逻辑学；逻辑性\na. 逻辑的
+-logic := n. 逻辑；逻辑学；逻辑性 || a. 逻辑的
 -logical := a. 合逻辑的, 合理的；逻辑学的
 -logist := ——见 -ology
 -logue := 表示：谈话,写作：dialogue, monologue; 学者,专家：Sinologue
@@ -156,7 +156,7 @@
 -ment := suff. 用于构成名词后缀
 -merous := suf. [构成形容词后缀]表示[生物学]...部分；分成...部分的：trimerous
 -meter := [医]〔后缀〕意为：测量用的计、表、量器
--metric := a. 公制的；米制的；公尺的\nn. 度量标准
+-metric := a. 公制的；米制的；公尺的 || n. 度量标准
 -metrical := a. 测量的；韵律的；有韵律的
 -metry := [医]〔后缀〕意为测定, 测量, 定量, 被测物为词干。如血红蛋白定量为hemoglobinometry
 -mo := suf. 表示纸张开数, 书籍开本：sixteenmo
@@ -219,11 +219,11 @@
 -ship := 状态；性质；品质
 -sion := ——见 -ion
 -some := [医]〔后缀〕意为体, 躯体
--speak := vi. 说话；演讲；表明；陈述\nvt. 讲话；发言；讲演
+-speak := vi. 说话；演讲；表明；陈述 || vt. 讲话；发言；讲演
 -st := suf. 用以构成第二人称单数陈述语气; 序数词“第一”(first)的符号：the 1stday
 -stasis := [医]〔后缀〕意为保持恒定
 -stat := [医]〔词尾〕抑制剂（非杀灭剂）
--static := a. 静态的；静电的；静力的\nn. 静电；静电干扰
+-static := a. 静态的；静电的；静力的 || n. 静电；静电干扰
 -ster := suf. 制造...的人,使用...的人：punster, songster; 做...的, 操作...的人, 从事...的人：teamster; 表示; 与...有关者参考...的人：gangster
 -style := 表示：“…式样的”：familystyle; “按…式样”, “有点儿…地”; 表示“…柱式”,“…柱的”：distyle
 -th := （表示动作或过程）
@@ -238,7 +238,7 @@
 -ty := suf. [构成名词]表示“…的性质”, “…的状态”, “…的情况”：unity , enmity; 表示“十”,“十个”：twenty, thirty
 -ule := 表示小：globule,sporule
 -ulent := [构成形容词]表示充满...的, 多...的
--um := int. 嗯（表示迟疑）\nn. (Um)人名；(柬)温；(阿拉伯)乌姆
+-um := int. 嗯（表示迟疑） || n. (Um)人名；(柬)温；(阿拉伯)乌姆
 -ure := 表示机关,职能：legislature; 表示状态：composure; 表示动作,结果：exposure
 -uria := [医]〔词尾〕意为尿：其含义由与它连接的词干表示, 如oliguria（少尿）, proteinuria（蛋白尿）等
 -ville := 用以构成虚构的地名表示“城”, “镇”, “市”; 用以构成贬义词表示“地点”, “状态”, “特性”, “类别”：doomsville (厄运), weirdsville (怪诞)

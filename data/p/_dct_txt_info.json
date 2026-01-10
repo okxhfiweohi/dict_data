@@ -46,13 +46,13 @@
     },
     "phonetic": {
         "start": "p",
-        "end": "ponga",
+        "end": "pontoon bridge",
         "total": 5000
     },
     "phonetic__1": {
-        "start": "pongee",
+        "start": "pontooning",
         "end": "pyxidium",
-        "total": 3300
+        "total": 3263
     },
     "pos": {
         "start": "pablum",

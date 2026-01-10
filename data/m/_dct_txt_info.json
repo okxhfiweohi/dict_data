@@ -36,13 +36,13 @@
     },
     "phonetic": {
         "start": "M",
-        "end": "muffin",
+        "end": "mugginess",
         "total": 5000
     },
     "phonetic__1": {
-        "start": "muffin top",
+        "start": "mugging",
         "end": "mzungu",
-        "total": 598
+        "total": 579
     },
     "pos": {
         "start": "m",

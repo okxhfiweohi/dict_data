@@ -51,18 +51,18 @@
     },
     "phonetic": {
         "start": "S",
-        "end": "slang",
+        "end": "slapstick",
         "total": 5000
     },
     "phonetic__1": {
-        "start": "slanged",
-        "end": "sulphonamide",
+        "start": "slash",
+        "end": "summarized",
         "total": 5000
     },
     "phonetic__2": {
-        "start": "sulphonate",
+        "start": "summarizes",
         "end": "Szeged",
-        "total": 1366
+        "total": 1312
     },
     "pos": {
         "start": "sabayon",
