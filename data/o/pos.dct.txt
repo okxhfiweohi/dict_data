@@ -1,1129 +1,1130 @@
-o'clock <> R: {rk: 4096, frq: 7311}
-o'er <> I: {rk: 40898, frq: 70}, R: {rk: 53225, frq: 32}
-oaf <> N: {rk: 32288, frq: 129}
-oafish <> J: {rk: 48924, frq: 36}
-oak <> N: {rk: 4463, frq: 11358}
-oaken <> J: {rk: 32741, frq: 135}
-oar <> N: {rk: 15036, frq: 869}
-oarlock <> N: {rk: 49543, frq: 32}
-oarsman <> N: {rk: 34574, frq: 136}
-oasis <> N: {rk: 10567, frq: 1556}
-oat <> N: {rk: 22433, frq: 381}
-oath <> N: {rk: 6439, frq: 3978}
-oatmeal <> N: {rk: 11222, frq: 1417}
-oats <> N: {rk: 11667, frq: 1276}
-ob-gyn <> J: {rk: 55306, frq: 25}
-obduracy <> N: {rk: 52679, frq: 26}
-obdurate <> J: {rk: 35853, frq: 92}
-obeah <> N: {rk: 58298, frq: 43}
-obedience <> N: {rk: 10155, frq: 1627}
-obedient <> J: {rk: 15026, frq: 771}
-obediently <> R: {rk: 20375, frq: 435}
-obeisance <> N: {rk: 34307, frq: 103}
-obelisk <> N: {rk: 21959, frq: 416}
-obese <> J: {rk: 10583, frq: 1788}
-obesity <> N: {rk: 7280, frq: 3619}
-obey <> V: {rk: 5742, frq: 4253}
-obfuscate <> V: {rk: 28946, frq: 178}
-obfuscation <> N: {rk: 29685, frq: 159}
-obit <> N: {rk: 31884, frq: 158}
-obituary <> N: {rk: 12435, frq: 1106}
-object <> N: {rk: 1154, frq: 37212}, V: {rk: 4332, frq: 6311}
-object-oriented <> J: {rk: 31282, frq: 195}
-objectification <> N: {rk: 27879, frq: 237}
-objectified <> J: {rk: 43156, frq: 58}
-objectify <> V: {rk: 23258, frq: 325}
-objection <> N: {rk: 4781, frq: 5626}
-objectionable <> J: {rk: 15804, frq: 698}
-objective <> N: {rk: 2422, frq: 16223}, J: {rk: 5068, frq: 5473}
-objectively <> R: {rk: 12810, frq: 1077}
-objectivism <> N: {rk: 50386, frq: 40}
-objectivity <> N: {rk: 10741, frq: 1527}
-objector <> N: {rk: 22915, frq: 337}
-oblast <> N: {rk: 48221, frq: 68}
-oblate <> N: {rk: 42457, frq: 74}
-oblation <> N: {rk: 50909, frq: 32}
-obligate <> V: {rk: 11628, frq: 1257}
-obligated <> J: {rk: 28790, frq: 168}
-obligation <> N: {rk: 3007, frq: 11353}
-obligatory <> J: {rk: 14409, frq: 844}
-oblige <> V: {rk: 6781, frq: 3133}
-obliged <> J: {rk: 39122, frq: 74}
-obliging <> J: {rk: 28269, frq: 184}
-obligingly <> R: {rk: 27189, frq: 206}
-oblique <> J: {rk: 15525, frq: 734}, N: {rk: 32852, frq: 130}
-obliquely <> R: {rk: 22135, frq: 338}
-obliquity <> N: {rk: 49832, frq: 49}
-obliterate <> V: {rk: 10642, frq: 1419}
-obliteration <> N: {rk: 26700, frq: 215}
-oblivion <> N: {rk: 12677, frq: 1087}
-oblivious <> J: {rk: 8586, frq: 2221}
-obliviously <> R: {rk: 47053, frq: 41}
-obliviousness <> N: {rk: 36750, frq: 82}
-oblong <> J: {rk: 23355, frq: 301}, N: {rk: 35183, frq: 96}
-obnoxious <> J: {rk: 14326, frq: 862}
-obnoxiously <> R: {rk: 42696, frq: 56}
-oboe <> N: {rk: 25687, frq: 266}
-oboist <> N: {rk: 41260, frq: 71}
-obscene <> J: {rk: 10019, frq: 1645}
-obscenely <> R: {rk: 28565, frq: 184}
-obscenity <> N: {rk: 12116, frq: 1225}
-obscurantism <> N: {rk: 47763, frq: 37}
-obscurantist <> N: {rk: 46824, frq: 40}
-obscure <> V: {rk: 5928, frq: 4012}, J: {rk: 7106, frq: 2846}
-obscured <> J: {rk: 43654, frq: 49}
-obscurely <> R: {rk: 34835, frq: 102}
-obscuring <> N: {rk: 36250, frq: 92}
-obscurity <> N: {rk: 12805, frq: 1035}
-obsequious <> J: {rk: 31950, frq: 128}
-obsequiously <> R: {rk: 55115, frq: 24}
-obsequiousness <> N: {rk: 49741, frq: 34}
-observable <> J: {rk: 13964, frq: 974}
-observance <> N: {rk: 13711, frq: 947}
-observant <> J: {rk: 16801, frq: 634}
-observation <> N: {rk: 2117, frq: 18911}
-observational <> J: {rk: 13583, frq: 1095}
-observe <> V: {rk: 1298, frq: 32885}
-observed <> J: {rk: 10183, frq: 1858}
-observer <> N: {rk: 2472, frq: 14570}
-obsess <> V: {rk: 15755, frq: 733}
-obsessed <> J: {rk: 6530, frq: 3377}
-obsession <> N: {rk: 5622, frq: 4302}
-obsessional <> J: {rk: 39337, frq: 70}
-obsessive <> J: {rk: 10441, frq: 1522}, N: {rk: 54494, frq: 23}
-obsessive-compulsive <> J: {rk: 24181, frq: 286}
-obsessively <> R: {rk: 18737, frq: 498}
-obsessiveness <> N: {rk: 41496, frq: 59}
-obsidian <> N: {rk: 24401, frq: 294}
-obsolescence <> N: {rk: 22469, frq: 340}
-obsolescent <> J: {rk: 45503, frq: 46}
-obsolete <> J: {rk: 9056, frq: 1953}
-obstacle <> N: {rk: 3595, frq: 8785}
-obstetric <> J: {rk: 43003, frq: 59}
-obstetrical <> J: {rk: 39196, frq: 72}
-obstetrician <> N: {rk: 17265, frq: 594}
-obstetrics <> N: {rk: 20642, frq: 414}
-obstinacy <> N: {rk: 31160, frq: 140}
-obstinate <> J: {rk: 23370, frq: 294}
-obstinately <> R: {rk: 35254, frq: 95}
-obstreperous <> J: {rk: 36990, frq: 83}
-obstruct <> V: {rk: 10970, frq: 1455}
-obstructed <> J: {rk: 47443, frq: 40}
-obstruction <> N: {rk: 9186, frq: 2143}
-obstructionism <> N: {rk: 36942, frq: 100}
-obstructionist <> N: {rk: 28584, frq: 203}
-obstructive <> J: {rk: 21907, frq: 424}
-obtain <> V: {rk: 1600, frq: 26380}
-obtainable <> J: {rk: 27743, frq: 190}
-obtrude <> V: {rk: 48989, frq: 36}
-obtrusive <> J: {rk: 33609, frq: 106}
-obtuse <> J: {rk: 25844, frq: 233}
-obtuseness <> N: {rk: 43841, frq: 49}
-obverse <> N: {rk: 40698, frq: 66}, J: {rk: 55168, frq: 24}
-obviate <> V: {rk: 21805, frq: 355}
-obvious <> J: {rk: 1696, frq: 22593}
-obviously <> R: {rk: 1282, frq: 34007}
-obviousness <> N: {rk: 40667, frq: 64}
-occasion <> N: {rk: 2276, frq: 15827}, V: {rk: 19577, frq: 455}
-occasional <> J: {rk: 3535, frq: 8814}
-occasionally <> R: {rk: 2501, frq: 14591}
-occidental <> J: {rk: 24759, frq: 269}
-occipital <> J: {rk: 34030, frq: 122}
-occlude <> V: {rk: 29868, frq: 171}
-occluded <> J: {rk: 51332, frq: 30}
-occlusion <> N: {rk: 26286, frq: 308}
-occlusive <> J: {rk: 55856, frq: 27}
-occult <> N: {rk: 19878, frq: 469}, V: {rk: 28420, frq: 196}
-occultation <> N: {rk: 23402, frq: 363}
-occultism <> N: {rk: 58427, frq: 25}
-occultist <> N: {rk: 52537, frq: 28}
-occupancy <> N: {rk: 11957, frq: 1242}
-occupant <> N: {rk: 8472, frq: 2295}
-occupation <> N: {rk: 3356, frq: 9594}
-occupational <> J: {rk: 6581, frq: 3803}
-occupied <> J: {rk: 9946, frq: 1789}
-occupier <> N: {rk: 21544, frq: 380}
-occupy <> V: {rk: 2726, frq: 12566}
-occupying <> J: {rk: 18842, frq: 491}
-occur <> V: {rk: 756, frq: 56157}
-occurrence <> N: {rk: 6304, frq: 3830}
-occurring <> J: {rk: 52767, frq: 27}
-ocean <> N: {rk: 1852, frq: 21375}
-ocean-going <> J: {rk: 35336, frq: 95}
-oceanarium <> N: {rk: 57094, frq: 29}
-oceanfront <> N: {rk: 26732, frq: 235}
-oceanic <> J: {rk: 14007, frq: 960}
-oceanographer <> N: {rk: 27103, frq: 225}
-oceanographic <> J: {rk: 25064, frq: 261}
-oceanography <> N: {rk: 25262, frq: 281}
-ocelot <> N: {rk: 39951, frq: 112}
-ocher <> N: {rk: 27458, frq: 198}
-ochre <> N: {rk: 21282, frq: 381}, J: {rk: 31213, frq: 150}
-ocotillo <> N: {rk: 38982, frq: 80}
-octagon <> N: {rk: 31057, frq: 177}
-octagonal <> J: {rk: 24796, frq: 262}
-octane <> N: {rk: 27802, frq: 239}
-octave <> N: {rk: 18175, frq: 581}
-octavo <> N: {rk: 51081, frq: 53}
-octet <> N: {rk: 50454, frq: 47}
-octogenarian <> N: {rk: 32797, frq: 121}, J: {rk: 34362, frq: 106}
-octopus <> N: {rk: 16073, frq: 776}
-ocular <> J: {rk: 26069, frq: 253}
-oculus <> N: {rk: 55873, frq: 25}
-odalisque <> N: {rk: 41793, frq: 69}
-odd <> J: {rk: 2755, frq: 12869}
-oddball <> N: {rk: 19797, frq: 478}
-odder <> J: {rk: 35758, frq: 94}
-oddity <> N: {rk: 14481, frq: 825}
-oddly <> R: {rk: 6471, frq: 3558}
-oddment <> N: {rk: 47523, frq: 40}
-oddness <> N: {rk: 39985, frq: 66}
-odds <> N: {rk: 3260, frq: 10150}
-odds-on <> J: {rk: 35792, frq: 95}
-oddsmaker <> N: {rk: 39687, frq: 69}
-ode <> N: {rk: 20814, frq: 588}
-odiferous <> J: {rk: 56875, frq: 26}
-odious <> J: {rk: 23788, frq: 280}
-odometer <> N: {rk: 26370, frq: 233}
-odontogenic <> J: {rk: 59347, frq: 27}
-odor <> N: {rk: 5371, frq: 5039}
-odorant <> N: {rk: 53182, frq: 38}
-odoriferous <> J: {rk: 48932, frq: 37}
-odorless <> J: {rk: 26170, frq: 225}
-odorous <> J: {rk: 36708, frq: 95}
-odynophagia <> N: {rk: 57981, frq: 23}
-oedema <> N: {rk: 40418, frq: 97}
-oedipal <> J: {rk: 27393, frq: 221}
-oenophile <> N: {rk: 49422, frq: 44}
-oestrogen <> N: {rk: 35705, frq: 168}
-oeuvre <> N: {rk: 18146, frq: 546}
-of <> I: {rk: 4, frq: 11155504}
-off <> R: {rk: 205, frq: 199337}, I: {rk: 387, frq: 113032}, J: {rk: 7076, frq: 2895}
-off-balance <> J: {rk: 25393, frq: 244}
-off-brand <> J: {rk: 57604, frq: 20}
-off-campus <> J: {rk: 24971, frq: 258}
-off-course <> J: {rk: 45224, frq: 48}
-off-grid <> J: {rk: 47555, frq: 46}
-off-key <> J: {rk: 30340, frq: 164}
-off-label <> J: {rk: 31545, frq: 169}
-off-limits <> J: {rk: 14858, frq: 787}
-off-line <> J: {rk: 22153, frq: 401}
-off-load <> V: {rk: 26487, frq: 228}
-off-loading <> N: {rk: 50715, frq: 30}
-off-peak <> J: {rk: 31456, frq: 149}
-off-price <> J: {rk: 53683, frq: 29}
-off-putting <> J: {rk: 29389, frq: 184}
-off-ramp <> N: {rk: 36875, frq: 91}
-off-road <> J: {rk: 16712, frq: 688}
-off-roader <> N: {rk: 50907, frq: 36}
-off-season <> J: {rk: 21831, frq: 357}
-off-street <> J: {rk: 49519, frq: 35}
-off-the-cuff <> J: {rk: 35274, frq: 97}
-off-the-rack <> J: {rk: 39533, frq: 65}
-off-the-record <> J: {rk: 33430, frq: 125}
-off-the-shelf <> J: {rk: 24957, frq: 268}
-off-the-shoulder <> J: {rk: 43513, frq: 48}
-off-the-wall <> J: {rk: 31593, frq: 130}
-off-track <> J: {rk: 39059, frq: 73}
-off-white <> J: {rk: 24782, frq: 261}
-off-year <> J: {rk: 34904, frq: 105}
-offal <> N: {rk: 36934, frq: 84}
-offbeat <> J: {rk: 15758, frq: 733}
-offence <> N: {rk: 23544, frq: 365}
-offend <> V: {rk: 5262, frq: 4898}
-offended <> J: {rk: 27741, frq: 194}
-offender <> N: {rk: 4766, frq: 5997}
-offending <> J: {rk: 14407, frq: 864}, N: {rk: 34454, frq: 215}
-offense <> N: {rk: 2845, frq: 13181}
-offensive <> J: {rk: 3188, frq: 10909}, N: {rk: 11711, frq: 1362}
-offensively <> R: {rk: 19599, frq: 503}
-offensiveness <> N: {rk: 48360, frq: 35}
-offer <> V: {rk: 373, frq: 115500}, N: {rk: 2103, frq: 18058}
-offered <> J: {rk: 19665, frq: 451}
-offering <> N: {rk: 4019, frq: 7420}
-offertory <> N: {rk: 50621, frq: 29}
-offhand <> J: {rk: 23479, frq: 304}, R: {rk: 29351, frq: 164}
-offhandedly <> R: {rk: 30071, frq: 157}
-office <> N: {rk: 341, frq: 123606}
-officeholder <> N: {rk: 22901, frq: 356}
-officer <> N: {rk: 671, frq: 63862}
-official <> N: {rk: 526, frq: 85604}, J: {rk: 1842, frq: 21153}
-officialdom <> N: {rk: 29635, frq: 168}
-officially <> R: {rk: 4107, frq: 7026}
-officiant <> N: {rk: 54699, frq: 27}
-officiate <> V: {rk: 17779, frq: 563}
-officiating <> N: {rk: 37011, frq: 102}, J: {rk: 40849, frq: 62}
-officious <> J: {rk: 30534, frq: 154}
-officiously <> R: {rk: 55944, frq: 23}
-offing <> N: {rk: 21631, frq: 349}
-offset <> V: {rk: 6261, frq: 3716}, J: {rk: 20336, frq: 440}, N: {rk: 27352, frq: 210}
-offsetting <> J: {rk: 31270, frq: 143}
-offshoot <> N: {rk: 18256, frq: 524}
-offshore <> J: {rk: 7902, frq: 2690}, R: {rk: 10455, frq: 1634}
-offside <> R: {rk: 48892, frq: 42}, J: {rk: 52362, frq: 29}
-offspring <> N: {rk: 6604, frq: 3363}
-offstage <> J: {rk: 37218, frq: 78}
-oft <> R: {rk: 23685, frq: 304}
-often <> R: {rk: 274, frq: 151696}
-oftentimes <> R: {rk: 13067, frq: 1101}
-ofttimes <> R: {rk: 58421, frq: 20}
-ogle <> V: {rk: 21771, frq: 377}
-ogler <> N: {rk: 55299, frq: 23}
-ogre <> N: {rk: 22525, frq: 390}
-oh <> U: {rk: 411, frq: 113609}
-oh-oh <> U: {rk: 34543, frq: 112}
-oho <> U: {rk: 53548, frq: 29}
-oi <> U: {rk: 25602, frq: 292}
-oil <> N: {rk: 546, frq: 83916}, V: {rk: 17078, frq: 647}
-oil-burning <> J: {rk: 58090, frq: 20}
-oil-fired <> J: {rk: 50405, frq: 33}
-oilcloth <> N: {rk: 33963, frq: 122}
-oiled <> J: {rk: 21790, frq: 396}
-oiliness <> N: {rk: 52724, frq: 28}
-oilman <> N: {rk: 28611, frq: 190}
-oilseed <> N: {rk: 50787, frq: 33}
-oilskin <> N: {rk: 43161, frq: 53}
-oily <> J: {rk: 11665, frq: 1325}
-oink <> V: {rk: 50976, frq: 37}
-ointment <> N: {rk: 17468, frq: 592}
-okapi <> N: {rk: 50050, frq: 107}
-okay <> R: {rk: 1647, frq: 28228}, J: {rk: 3373, frq: 10630}, V: {rk: 36108, frq: 92}
-okey-dokey <> U: {rk: 48319, frq: 36}
-okra <> N: {rk: 16859, frq: 819}
-old <> J: {rk: 152, frq: 254505}
-old-fashioned <> J: {rk: 4782, frq: 5642}
-old-growth <> J: {rk: 17686, frq: 578}
-old-line <> J: {rk: 23457, frq: 293}
-old-time <> J: {rk: 14006, frq: 895}
-old-timer <> N: {rk: 14668, frq: 839}, J: {rk: 55601, frq: 24}
-old-world <> J: {rk: 29478, frq: 177}
-olden <> J: {rk: 26035, frq: 236}
-oldie <> N: {rk: 37076, frq: 87}
-oldness <> N: {rk: 56124, frq: 21}
-oldster <> N: {rk: 36920, frq: 91}
-oleander <> N: {rk: 31955, frq: 178}
-olefin <> N: {rk: 59334, frq: 20}
-oleo <> N: {rk: 58200, frq: 24}
-olfaction <> N: {rk: 47031, frq: 52}
-olfactory <> J: {rk: 21487, frq: 436}
-oligarch <> N: {rk: 28187, frq: 222}
-oligarchic <> J: {rk: 38658, frq: 80}
-oligarchy <> N: {rk: 23641, frq: 306}
-oligonucleotide <> N: {rk: 54875, frq: 42}
-oligopolistic <> J: {rk: 52990, frq: 30}
-oligopoly <> N: {rk: 38443, frq: 73}
-olive <> N: {rk: 6242, frq: 4942}
-olivine <> N: {rk: 49321, frq: 45}
-olympian <> J: {rk: 17735, frq: 582}, N: {rk: 20093, frq: 490}
-olympics <> N: {rk: 3797, frq: 8508}
-ombudsman <> N: {rk: 21255, frq: 404}
-omelet <> N: {rk: 15690, frq: 817}
-omelette <> N: {rk: 24115, frq: 284}
-omen <> N: {rk: 14602, frq: 824}
-omerta <> N: {rk: 54032, frq: 32}
-omicron <> N: {rk: 43135, frq: 64}
-ominous <> J: {rk: 8534, frq: 2150}
-ominously <> R: {rk: 16619, frq: 633}
-omission <> N: {rk: 10784, frq: 1460}
-omit <> V: {rk: 5613, frq: 4590}
-omitted <> J: {rk: 26122, frq: 419}
-omnibus <> N: {rk: 21362, frq: 423}
-omnidirectional <> J: {rk: 50684, frq: 32}
-omnipotence <> N: {rk: 30584, frq: 150}
-omnipotent <> J: {rk: 26861, frq: 214}
-omnipresence <> N: {rk: 34391, frq: 110}
-omnipresent <> J: {rk: 19704, frq: 441}
-omniscience <> N: {rk: 33258, frq: 122}
-omniscient <> J: {rk: 22679, frq: 328}
-omnivore <> N: {rk: 36859, frq: 123}
-omnivorous <> J: {rk: 34510, frq: 102}
-on <> I: {rk: 17, frq: 2703486}, R: {rk: 155, frq: 257353}
-on-air <> J: {rk: 20337, frq: 414}
-on-board <> J: {rk: 21152, frq: 379}
-on-chip <> J: {rk: 45923, frq: 64}
-on-field <> J: {rk: 30609, frq: 163}
-on-off <> J: {rk: 33427, frq: 124}
-on-screen <> J: {rk: 12003, frq: 1335}
-on-site <> J: {rk: 9241, frq: 1968}
-on-street <> J: {rk: 46212, frq: 45}
-on-target <> J: {rk: 48113, frq: 37}
-onanism <> N: {rk: 58639, frq: 27}
-once <> R: {rk: 300, frq: 136714}, C: {rk: 1189, frq: 34815}
-once-over <> N: {rk: 30256, frq: 164}
-oncogene <> N: {rk: 47029, frq: 43}
-oncologist <> N: {rk: 17160, frq: 628}
-oncology <> N: {rk: 19604, frq: 559}
-oncoming <> J: {rk: 14264, frq: 880}
-ondansetron <> N: {rk: 59004, frq: 36}
-one <> M: {rk: 51, frq: 830617}, P: {rk: 104, frq: 399728}, N: {rk: 837, frq: 49840}
-one-dimensional <> J: {rk: 18650, frq: 508}
-one-horse <> J: {rk: 45140, frq: 43}
-one-liner <> N: {rk: 21990, frq: 346}
-one-man <> J: {rk: 13068, frq: 1007}
-one-nighter <> N: {rk: 52812, frq: 26}
-one-off <> J: {rk: 37646, frq: 103}, N: {rk: 48342, frq: 50}
-one-parent <> J: {rk: 45548, frq: 43}
-one-piece <> J: {rk: 21703, frq: 370}, N: {rk: 31936, frq: 142}
-one-shot <> J: {rk: 24933, frq: 255}, N: {rk: 48446, frq: 33}
-one-sided <> J: {rk: 13140, frq: 981}
-one-step <> J: {rk: 36716, frq: 98}
-one-stop <> J: {rk: 19539, frq: 457}
-one-tailed <> J: {rk: 41595, frq: 66}
-one-time <> J: {rk: 7000, frq: 3110}
-one-to-one <> J: {rk: 21555, frq: 390}, R: {rk: 43521, frq: 54}
-one-touch <> J: {rk: 47408, frq: 42}
-one-two <> M: {rk: 22709, frq: 323}
-one-up <> N: {rk: 47294, frq: 28}
-one-upmanship <> N: {rk: 33608, frq: 109}
-one-way <> J: {rk: 9596, frq: 1782}
-one-woman <> J: {rk: 23818, frq: 289}
-oneiric <> J: {rk: 56968, frq: 23}
-oneness <> N: {rk: 22277, frq: 364}
-onerous <> J: {rk: 16011, frq: 691}
-oneself <> P: {rk: 7731, frq: 2709}
-ongoing <> J: {rk: 2989, frq: 11829}
-onion <> N: {rk: 2583, frq: 15995}
-onionskin <> N: {rk: 51144, frq: 31}
-onliest <> J: {rk: 51830, frq: 29}
-online <> J: {rk: 2271, frq: 18358}, R: {rk: 3515, frq: 10474}
-onlooker <> N: {rk: 13292, frq: 982}
-only <> R: {rk: 101, frq: 408282}, J: {rk: 328, frq: 126986}
-onomatopoeia <> N: {rk: 48849, frq: 37}
-onomatopoeic <> J: {rk: 50905, frq: 31}
-onrush <> N: {rk: 43323, frq: 50}
-onrushing <> J: {rk: 37949, frq: 82}
-onset <> N: {rk: 7206, frq: 3077}
-onshore <> J: {rk: 24245, frq: 283}
-onslaught <> N: {rk: 11421, frq: 1281}
-onstage <> J: {rk: 7987, frq: 2568}
-ontic <> J: {rk: 59678, frq: 21}
-onto <> I: {rk: 927, frq: 47113}
-ontogenetic <> J: {rk: 53763, frq: 30}
-ontogeny <> N: {rk: 44570, frq: 51}
-ontological <> J: {rk: 15668, frq: 822}
-ontology <> N: {rk: 23161, frq: 376}
-onus <> N: {rk: 21603, frq: 362}
-onward <> R: {rk: 12451, frq: 1129}, J: {rk: 44723, frq: 40}
-onwards <> R: {rk: 25196, frq: 272}
-onyx <> N: {rk: 28615, frq: 268}
-oo <> U: {rk: 29239, frq: 173}
-oocyst <> N: {rk: 48210, frq: 48}
-oocyte <> N: {rk: 43884, frq: 84}
-oof <> U: {rk: 41345, frq: 66}
-ooh <> U: {rk: 9153, frq: 2269}
-oolong <> N: {rk: 45103, frq: 49}
-oompah <> N: {rk: 52807, frq: 27}
-oomph <> N: {rk: 25603, frq: 267}
-ooo <> U: {rk: 29072, frq: 196}
-oops <> U: {rk: 14177, frq: 895}
-ooze <> V: {rk: 11340, frq: 1373}, N: {rk: 24373, frq: 300}
-oozing <> J: {rk: 39695, frq: 68}, N: {rk: 53952, frq: 29}
-oozy <> J: {rk: 50237, frq: 36}
-op-ed <> N: {rk: 14927, frq: 813}
-opacification <> N: {rk: 49798, frq: 39}
-opacity <> N: {rk: 23972, frq: 308}
-opalescent <> J: {rk: 33637, frq: 145}
-opaque <> J: {rk: 9510, frq: 1828}
-opaquely <> R: {rk: 50708, frq: 32}
-opaqueness <> N: {rk: 52361, frq: 28}
-open <> V: {rk: 355, frq: 121005}, J: {rk: 581, frq: 72899}, R: {rk: 5322, frq: 5113}
-open-air <> J: {rk: 14470, frq: 841}
-open-and-shut <> J: {rk: 39480, frq: 65}
-open-door <> J: {rk: 30815, frq: 154}
-open-ended <> J: {rk: 9377, frq: 2023}
-open-endedness <> N: {rk: 51191, frq: 33}
-open-eyed <> J: {rk: 49922, frq: 32}
-open-faced <> J: {rk: 37134, frq: 88}
-open-handed <> J: {rk: 49722, frq: 32}
-open-hearted <> J: {rk: 42830, frq: 52}
-open-minded <> J: {rk: 18024, frq: 532}
-open-mindedness <> N: {rk: 33262, frq: 122}
-open-mouthed <> J: {rk: 34047, frq: 112}
-open-necked <> J: {rk: 47849, frq: 37}
-open-pit <> J: {rk: 38562, frq: 75}
-open-plan <> J: {rk: 49201, frq: 43}
-open-source <> J: {rk: 27292, frq: 296}
-open-toed <> J: {rk: 43326, frq: 51}
-open-top <> J: {rk: 46631, frq: 41}
-opened <> J: {rk: 23478, frq: 308}
-opener <> N: {rk: 7898, frq: 2738}
-opening <> N: {rk: 1950, frq: 19459}, J: {rk: 23955, frq: 300}
-openly <> R: {rk: 4532, frq: 6079}
-openness <> N: {rk: 7441, frq: 2818}
-openwork <> N: {rk: 45753, frq: 44}
-opera <> N: {rk: 3881, frq: 10977}
-operability <> N: {rk: 58208, frq: 21}
-operable <> J: {rk: 32137, frq: 129}
-operand <> N: {rk: 33014, frq: 186}
-operant <> J: {rk: 34126, frq: 136}
-operate <> V: {rk: 1313, frq: 31407}
-operatic <> J: {rk: 17760, frq: 557}
-operating <> N: {rk: 3228, frq: 10142}
-operation <> N: {rk: 827, frq: 50802}
-operational <> J: {rk: 6216, frq: 3886}
-operationalization <> N: {rk: 35949, frq: 104}
-operationalize <> V: {rk: 20087, frq: 503}
-operationally <> R: {rk: 23598, frq: 318}
-operative <> N: {rk: 10515, frq: 1592}, J: {rk: 10550, frq: 1540}
-operator <> N: {rk: 3231, frq: 10766}
-operetta <> N: {rk: 34083, frq: 108}
-ophthalmic <> J: {rk: 41372, frq: 63}
-ophthalmologic <> J: {rk: 52840, frq: 35}
-ophthalmologist <> N: {rk: 21028, frq: 407}
-ophthalmology <> N: {rk: 32180, frq: 201}
-opiate <> N: {rk: 20054, frq: 476}
-opine <> V: {rk: 17610, frq: 575}
-opinion <> N: {rk: 1125, frq: 37318}
-opinionated <> J: {rk: 29667, frq: 169}
-opioid <> N: {rk: 28141, frq: 276}, J: {rk: 31027, frq: 209}
-opium <> N: {rk: 12218, frq: 1208}
-opossum <> N: {rk: 26571, frq: 279}
-opponent <> N: {rk: 2194, frq: 17189}
-opportune <> J: {rk: 23889, frq: 283}
-opportunism <> N: {rk: 26115, frq: 259}
-opportunist <> N: {rk: 21287, frq: 368}, J: {rk: 53581, frq: 26}
-opportunistic <> J: {rk: 15461, frq: 734}
-opportunistically <> R: {rk: 40853, frq: 62}
-opportunity <> N: {rk: 625, frq: 67784}
-opposable <> J: {rk: 39099, frq: 80}
-oppose <> V: {rk: 1955, frq: 20058}
-opposed <> I: {rk: 4208, frq: 6972}, J: {rk: 26144, frq: 222}
-opposing <> J: {rk: 6661, frq: 3300}
-opposite <> J: {rk: 2236, frq: 16667}, N: {rk: 6398, frq: 3541}, I: {rk: 9407, frq: 1860}, R: {rk: 14265, frq: 906}
-oppositely <> R: {rk: 45107, frq: 48}
-opposition <> N: {rk: 1886, frq: 21538}
-oppositional <> J: {rk: 17260, frq: 671}
-oppositionist <> N: {rk: 55412, frq: 24}
-oppress <> V: {rk: 13433, frq: 989}
-oppressed <> J: {rk: 12440, frq: 1198}
-oppression <> N: {rk: 6936, frq: 3231}
-oppressive <> J: {rk: 9877, frq: 1675}
-oppressively <> R: {rk: 37511, frq: 82}
-oppressiveness <> N: {rk: 49591, frq: 32}
-oppressor <> N: {rk: 18847, frq: 516}
-opprobrium <> N: {rk: 32624, frq: 120}
-opt <> V: {rk: 4748, frq: 5927}
-opt-out <> N: {rk: 36200, frq: 121}
-optic <> N: {rk: 15120, frq: 771}
-optical <> J: {rk: 5560, frq: 4667}
-optically <> R: {rk: 29290, frq: 172}
-optician <> N: {rk: 32533, frq: 128}
-optics <> N: {rk: 9513, frq: 1888}
-optimal <> J: {rk: 7110, frq: 3256}
-optimally <> R: {rk: 22677, frq: 356}
-optimism <> N: {rk: 5461, frq: 4628}
-optimist <> N: {rk: 12138, frq: 1150}
-optimistic <> J: {rk: 4174, frq: 6945}
-optimistically <> R: {rk: 23725, frq: 274}
-optimization <> N: {rk: 17711, frq: 714}
-optimize <> V: {rk: 11922, frq: 1350}
-optimized <> J: {rk: 33996, frq: 124}
-optimizing <> J: {rk: 59278, frq: 19}
-optimum <> J: {rk: 11302, frq: 1362}
-option <> N: {rk: 1103, frq: 39512}
-optional <> J: {rk: 5763, frq: 4558}
-optionally <> R: {rk: 49619, frq: 31}
-optoelectronic <> J: {rk: 47471, frq: 40}
-optometrist <> N: {rk: 25738, frq: 242}
-optometry <> N: {rk: 47058, frq: 64}
-opulence <> N: {rk: 23335, frq: 317}
-opulent <> J: {rk: 17345, frq: 610}
-opus <> N: {rk: 20150, frq: 698}
-or <> C: {rk: 32, frq: 1488977}
-oracular <> J: {rk: 35253, frq: 98}
-oral <> J: {rk: 3905, frq: 7971}, N: {rk: 16442, frq: 714}
-orally <> R: {rk: 17218, frq: 612}
-orang <> N: {rk: 57757, frq: 27}
-orange <> J: {rk: 3164, frq: 10667}, N: {rk: 3296, frq: 10176}
-orangish <> J: {rk: 54805, frq: 24}
-orangutan <> N: {rk: 23025, frq: 375}
-oration <> N: {rk: 24261, frq: 277}
-orator <> N: {rk: 19055, frq: 486}
-oratorical <> J: {rk: 34568, frq: 106}
-oratorio <> N: {rk: 36097, frq: 171}
-oratory <> N: {rk: 19688, frq: 456}
-orb <> N: {rk: 18333, frq: 561}
-orbit <> N: {rk: 4211, frq: 7006}, V: {rk: 9528, frq: 1860}
-orbital <> J: {rk: 9952, frq: 1712}
-orbiter <> N: {rk: 17639, frq: 607}
-orbiting <> J: {rk: 21672, frq: 344}
-orca <> N: {rk: 27049, frq: 417}
-orchard <> N: {rk: 7377, frq: 3071}
-orchardist <> N: {rk: 44363, frq: 71}
-orchestra <> N: {rk: 5407, frq: 6612}
-orchestral <> J: {rk: 17628, frq: 573}
-orchestrate <> V: {rk: 9131, frq: 1920}
-orchestrated <> J: {rk: 31082, frq: 141}
-orchestration <> N: {rk: 22061, frq: 341}
-orchestrator <> N: {rk: 45574, frq: 56}
-orchid <> N: {rk: 9532, frq: 1924}
-ordain <> V: {rk: 13537, frq: 988}
-ordained <> J: {rk: 17684, frq: 595}
-ordeal <> N: {rk: 7836, frq: 2453}
-order <> N: {rk: 684, frq: 60564}, V: {rk: 1344, frq: 30297}
-ordered <> J: {rk: 17044, frq: 603}
-ordering <> N: {rk: 13876, frq: 965}
-orderliness <> N: {rk: 34339, frq: 104}
-orderly <> J: {rk: 7881, frq: 2445}, N: {rk: 19867, frq: 503}
-ordinal <> J: {rk: 27162, frq: 265}
-ordinance <> N: {rk: 8061, frq: 2655}
-ordinarily <> R: {rk: 9591, frq: 1708}
-ordinariness <> N: {rk: 29620, frq: 161}
-ordinary <> J: {rk: 2282, frq: 15812}, N: {rk: 40587, frq: 90}
-ordination <> N: {rk: 15807, frq: 820}
-ordinator <> N: {rk: 59193, frq: 24}
-ordnance <> N: {rk: 20169, frq: 468}
-ordo <> N: {rk: 57990, frq: 40}
-oregano <> N: {rk: 11863, frq: 1415}
-organ <> N: {rk: 3417, frq: 9337}
-organdy <> J: {rk: 49072, frq: 35}, N: {rk: 58110, frq: 21}
-organelle <> N: {rk: 39024, frq: 138}
-organic <> J: {rk: 3089, frq: 11542}, N: {rk: 16289, frq: 788}
-organically <> R: {rk: 17999, frq: 558}
-organised <> J: {rk: 55081, frq: 33}
-organiser <> N: {rk: 58361, frq: 25}
-organism <> N: {rk: 4414, frq: 6704}
-organismal <> J: {rk: 47319, frq: 68}
-organismic <> J: {rk: 44580, frq: 52}
-organist <> N: {rk: 22299, frq: 337}
-organization <> N: {rk: 595, frq: 72753}
-organizational <> J: {rk: 4509, frq: 6905}
-organizationally <> R: {rk: 32056, frq: 137}
-organize <> V: {rk: 1648, frq: 24201}
-organized <> J: {rk: 4958, frq: 5356}
-organizer <> N: {rk: 5163, frq: 5133}
-organizing <> J: {rk: 13970, frq: 897}, N: {rk: 24694, frq: 418}
-organochlorine <> J: {rk: 48545, frq: 48}
-organophosphate <> N: {rk: 40507, frq: 74}
-organza <> N: {rk: 31192, frq: 158}
-orgasm <> N: {rk: 10719, frq: 1652}
-orgasmic <> J: {rk: 29582, frq: 173}
-orgiastic <> J: {rk: 40540, frq: 60}
-orgy <> N: {rk: 16552, frq: 651}
-orient <> V: {rk: 6607, frq: 3466}
-oriental <> J: {rk: 9169, frq: 1915}, N: {rk: 58267, frq: 22}
-orientate <> V: {rk: 45141, frq: 59}
-orientation <> N: {rk: 3217, frq: 11554}
-oriented <> J: {rk: 16567, frq: 663}
-orienteer <> N: {rk: 57091, frq: 48}
-orienteering <> N: {rk: 28817, frq: 251}
-orienting <> J: {rk: 45288, frq: 56}
-orifice <> N: {rk: 24005, frq: 296}
-origami <> N: {rk: 30118, frq: 186}
-origin <> N: {rk: 2563, frq: 14673}
-original <> J: {rk: 1136, frq: 37330}, N: {rk: 11106, frq: 1422}
-originalism <> N: {rk: 44670, frq: 79}
-originality <> N: {rk: 12675, frq: 1113}
-originally <> R: {rk: 2871, frq: 11897}
-originate <> V: {rk: 5345, frq: 4853}
-originating <> J: {rk: 35352, frq: 104}
-origination <> N: {rk: 29523, frq: 201}
-originator <> N: {rk: 21854, frq: 352}
-ormolu <> N: {rk: 52546, frq: 36}
-ornament <> N: {rk: 7874, frq: 2620}, V: {rk: 24826, frq: 250}
-ornamental <> J: {rk: 12840, frq: 1079}
-ornamentation <> N: {rk: 22750, frq: 315}
-ornamented <> J: {rk: 44695, frq: 47}
-ornate <> J: {rk: 10871, frq: 1463}
-ornately <> R: {rk: 30180, frq: 162}
-orneriness <> N: {rk: 56630, frq: 21}
-ornery <> J: {rk: 24217, frq: 278}
-ornithological <> J: {rk: 38209, frq: 73}
-ornithologist <> N: {rk: 24402, frq: 269}
-ornithology <> N: {rk: 34322, frq: 152}
-orographic <> J: {rk: 58164, frq: 25}
-oropharyngeal <> J: {rk: 42347, frq: 69}
-oropharynx <> N: {rk: 44188, frq: 62}
-orphan <> N: {rk: 7649, frq: 2801}, V: {rk: 39350, frq: 71}
-orphanage <> N: {rk: 9555, frq: 1921}
-orphaned <> J: {rk: 16209, frq: 663}
-orthodontia <> N: {rk: 49423, frq: 35}
-orthodontic <> J: {rk: 46296, frq: 43}
-orthodontics <> N: {rk: 50072, frq: 37}
-orthodontist <> N: {rk: 30147, frq: 160}
-orthodox <> J: {rk: 5400, frq: 4770}
-orthodoxy <> N: {rk: 10386, frq: 1616}
-orthogonal <> J: {rk: 26703, frq: 262}
-orthographic <> J: {rk: 32285, frq: 224}
-orthography <> N: {rk: 39967, frq: 78}
-orthomolecular <> J: {rk: 59633, frq: 22}
-orthopaedic <> J: {rk: 19606, frq: 617}
-orthopaedics <> N: {rk: 54460, frq: 54}
-orthopedic <> J: {rk: 14490, frq: 821}
-orthopedics <> N: {rk: 35952, frq: 103}
-orthopedist <> N: {rk: 30499, frq: 159}
-orthoses <> N: {rk: 47326, frq: 66}
-orthostatic <> J: {rk: 50635, frq: 41}
-orthotic <> J: {rk: 40603, frq: 73}
-oryx <> N: {rk: 45560, frq: 89}
-orzo <> N: {rk: 28690, frq: 260}
-oscillate <> V: {rk: 20291, frq: 424}
-oscillating <> J: {rk: 33257, frq: 119}
-oscillation <> N: {rk: 14905, frq: 868}
-oscillator <> N: {rk: 28542, frq: 211}
-oscillatory <> J: {rk: 42690, frq: 64}
-oscilloscope <> N: {rk: 39310, frq: 75}
-osmium <> N: {rk: 59477, frq: 21}
-osmosis <> N: {rk: 26378, frq: 246}
-osmotic <> J: {rk: 38276, frq: 82}
-osprey <> N: {rk: 24213, frq: 442}
-osseous <> J: {rk: 53449, frq: 47}
-ossicle <> N: {rk: 43745, frq: 67}
-ossicular <> J: {rk: 40837, frq: 89}
-ossification <> N: {rk: 44756, frq: 63}
-ossified <> J: {rk: 44108, frq: 52}
-ossify <> V: {rk: 41738, frq: 58}
-ossuary <> N: {rk: 39874, frq: 135}
-ostensible <> J: {rk: 22714, frq: 324}
-ostensibly <> R: {rk: 9350, frq: 1857}
-ostentation <> N: {rk: 34440, frq: 102}
-ostentatious <> J: {rk: 21919, frq: 339}
-ostentatiously <> R: {rk: 29551, frq: 168}
-osteoarthritis <> N: {rk: 21985, frq: 394}
-osteoclastic <> J: {rk: 59615, frq: 20}
-osteogenesis <> N: {rk: 53004, frq: 37}
-osteomyelitis <> N: {rk: 37878, frq: 116}
-osteopath <> N: {rk: 49230, frq: 33}
-osteopathic <> J: {rk: 43722, frq: 48}
-osteoporosis <> N: {rk: 10431, frq: 1778}
-osteoporotic <> J: {rk: 47403, frq: 46}
-osteosarcoma <> N: {rk: 52480, frq: 42}
-osteotomy <> N: {rk: 46799, frq: 60}
-ostinato <> N: {rk: 35357, frq: 110}
-ostium <> N: {rk: 59360, frq: 20}
-ostracism <> N: {rk: 27745, frq: 207}
-ostracize <> V: {rk: 19333, frq: 450}
-ostracized <> J: {rk: 57111, frq: 22}
-ostrich <> N: {rk: 19481, frq: 524}
-otalgia <> N: {rk: 58662, frq: 34}
-other <> J: {rk: 75, frq: 589395}, P: {rk: 714, frq: 58375}, I: {rk: 2349, frq: 15308}
-otherness <> N: {rk: 19256, frq: 516}
-others <> N: {rk: 336, frq: 125416}
-otherwise <> R: {rk: 1532, frq: 25750}
-otherworld <> N: {rk: 44857, frq: 50}
-otherworldliness <> N: {rk: 48247, frq: 38}
-otherworldly <> J: {rk: 17293, frq: 608}
-otic <> J: {rk: 44545, frq: 66}
-otitis <> N: {rk: 21334, frq: 475}
-otolaryngologic <> J: {rk: 41687, frq: 86}
-otolaryngologist <> N: {rk: 28629, frq: 239}
-otolaryngology <> N: {rk: 31622, frq: 357}
-otolith <> N: {rk: 44668, frq: 64}
-otologic <> J: {rk: 36992, frq: 110}
-otorrhea <> N: {rk: 30907, frq: 189}
-otosclerosis <> N: {rk: 41752, frq: 88}
-otoscope <> N: {rk: 55899, frq: 23}
-ototoxic <> J: {rk: 37405, frq: 116}
-otter <> N: {rk: 12222, frq: 1291}
-ottoman <> N: {rk: 23768, frq: 585}
-oubliette <> N: {rk: 56590, frq: 26}
-ouch <> U: {rk: 15648, frq: 764}
-oud <> N: {rk: 51932, frq: 46}
-ought <> V: {rk: 1764, frq: 22637}
-our <> A: {rk: 79, frq: 574490}
-ours <> P: {rk: 4131, frq: 6956}
-ourselves <> P: {rk: 1776, frq: 21653}
-oust <> V: {rk: 9928, frq: 1750}
-ousted <> J: {rk: 23760, frq: 309}
-ouster <> N: {rk: 17915, frq: 612}
-ousting <> N: {rk: 44997, frq: 43}
-out <> R: {rk: 64, frq: 738311}, I: {rk: 149, frq: 262000}, N: {rk: 13572, frq: 1373}, J: {rk: 14385, frq: 844}, V: {rk: 30948, frq: 167}
-out-and-out <> J: {rk: 29345, frq: 163}
-out-group <> N: {rk: 25928, frq: 375}
-out-of-area <> J: {rk: 51678, frq: 31}
-out-of-date <> J: {rk: 28887, frq: 177}
-out-of-pocket <> J: {rk: 21574, frq: 395}
-out-of-the-way <> J: {rk: 24718, frq: 251}
-out-of-town <> J: {rk: 19774, frq: 437}
-out-of-work <> J: {rk: 30845, frq: 150}
-outage <> N: {rk: 15374, frq: 834}
-outbid <> V: {rk: 28927, frq: 181}
-outboard <> N: {rk: 20735, frq: 452}, J: {rk: 21876, frq: 357}, R: {rk: 45895, frq: 43}
-outbreak <> N: {rk: 5403, frq: 5089}
-outbuilding <> N: {rk: 21780, frq: 378}
-outburst <> N: {rk: 9791, frq: 1712}
-outcast <> N: {rk: 14555, frq: 817}
-outclass <> V: {rk: 34928, frq: 95}
-outcome <> N: {rk: 1756, frq: 25511}
-outcrop <> N: {rk: 20344, frq: 918}, V: {rk: 38139, frq: 83}
-outcropping <> N: {rk: 20722, frq: 405}
-outcry <> N: {rk: 11859, frq: 1200}
-outdated <> J: {rk: 10469, frq: 1526}
-outdid <> V: {rk: 34330, frq: 104}
-outdistance <> V: {rk: 37085, frq: 80}
-outdo <> V: {rk: 16538, frq: 634}
-outdoor <> J: {rk: 3640, frq: 8838}
-outdoors <> R: {rk: 7691, frq: 2645}, N: {rk: 9746, frq: 1810}
-outdoorsman <> N: {rk: 23881, frq: 301}
-outdoorsy <> J: {rk: 35600, frq: 107}
-outer <> J: {rk: 3726, frq: 8167}
-outermost <> J: {rk: 23397, frq: 295}
-outerwear <> N: {rk: 33083, frq: 165}
-outfall <> N: {rk: 50902, frq: 60}
-outfield <> N: {rk: 14792, frq: 910}
-outfielder <> N: {rk: 11037, frq: 1519}
-outfight <> V: {rk: 55476, frq: 21}
-outfit <> N: {rk: 4440, frq: 6522}, V: {rk: 12458, frq: 1165}
-outfitted <> J: {rk: 40482, frq: 62}
-outfitter <> N: {rk: 15343, frq: 873}
-outfitting <> N: {rk: 56876, frq: 41}, J: {rk: 57717, frq: 20}
-outflank <> V: {rk: 30386, frq: 157}
-outflow <> N: {rk: 17197, frq: 610}
-outflung <> J: {rk: 56468, frq: 26}
-outfox <> V: {rk: 36435, frq: 85}
-outgoing <> J: {rk: 9208, frq: 1906}
-outgrow <> V: {rk: 14135, frq: 873}
-outgrown <> J: {rk: 46523, frq: 41}
-outgrowth <> N: {rk: 17384, frq: 566}
-outguess <> V: {rk: 55639, frq: 23}
-outgunned <> J: {rk: 58074, frq: 21}
-outhouse <> N: {rk: 18023, frq: 570}
-outing <> N: {rk: 7859, frq: 2605}
-outlander <> N: {rk: 43740, frq: 73}
-outlandish <> J: {rk: 15717, frq: 714}
-outlandishly <> R: {rk: 43373, frq: 50}
-outlast <> V: {rk: 17568, frq: 569}
-outlaw <> V: {rk: 9606, frq: 1750}, N: {rk: 10559, frq: 1532}
-outlawed <> J: {rk: 35102, frq: 97}
-outlawing <> N: {rk: 53298, frq: 28}
-outlay <> N: {rk: 14596, frq: 837}
-outlet <> N: {rk: 4668, frq: 6109}
-outlier <> N: {rk: 22770, frq: 358}
-outline <> V: {rk: 4469, frq: 6307}, N: {rk: 5227, frq: 4949}
-outlined <> J: {rk: 47773, frq: 40}
-outlive <> V: {rk: 14488, frq: 816}
-outlook <> N: {rk: 5938, frq: 6534}
-outlying <> J: {rk: 15768, frq: 683}
-outmaneuver <> V: {rk: 26748, frq: 214}
-outmatch <> V: {rk: 43187, frq: 53}
-outmoded <> J: {rk: 18254, frq: 510}
-outnumber <> V: {rk: 9383, frq: 1847}
-outnumbered <> J: {rk: 46369, frq: 44}
-outpace <> V: {rk: 15563, frq: 744}
-outpatient <> N: {rk: 10896, frq: 1523}
-outperform <> V: {rk: 13127, frq: 1030}
-outplacement <> N: {rk: 32681, frq: 123}
-outplay <> V: {rk: 31479, frq: 146}
-outpoint <> V: {rk: 54302, frq: 24}
-outpost <> N: {rk: 9411, frq: 1959}
-outpouring <> N: {rk: 14774, frq: 815}
-output <> N: {rk: 4117, frq: 7488}, V: {rk: 24839, frq: 272}
-outrace <> V: {rk: 50257, frq: 31}
-outrage <> N: {rk: 5755, frq: 4275}
-outraged <> J: {rk: 7175, frq: 2878}
-outrageous <> J: {rk: 6156, frq: 3835}
-outrageously <> R: {rk: 22124, frq: 353}
-outrageousness <> N: {rk: 44872, frq: 45}
-outrank <> V: {rk: 30640, frq: 147}
-outre <> J: {rk: 41758, frq: 58}
-outreach <> N: {rk: 8048, frq: 2700}, V: {rk: 18592, frq: 546}
-outrider <> N: {rk: 41242, frq: 62}
-outrigger <> N: {rk: 32391, frq: 137}
-outright <> J: {rk: 9032, frq: 1958}, R: {rk: 10691, frq: 1424}
-outrun <> V: {rk: 17331, frq: 602}
-outscore <> V: {rk: 18736, frq: 542}
-outsell <> V: {rk: 29870, frq: 159}
-outset <> N: {rk: 8109, frq: 2415}
-outshine <> V: {rk: 24543, frq: 268}
-outside <> I: {rk: 810, frq: 50503}, R: {rk: 1746, frq: 23493}, J: {rk: 2066, frq: 18003}, N: {rk: 15239, frq: 803}
-outsider <> N: {rk: 4485, frq: 6187}
-outsize <> J: {rk: 25902, frq: 272}
-outsized <> J: {rk: 25042, frq: 263}
-outskirts <> N: {rk: 8612, frq: 2121}
-outsmart <> V: {rk: 22692, frq: 320}
-outsole <> N: {rk: 38533, frq: 93}
-outsource <> V: {rk: 14228, frq: 962}
-outsourced <> J: {rk: 43363, frq: 63}
-outsourcing <> N: {rk: 33731, frq: 179}, J: {rk: 34913, frq: 117}
-outspend <> V: {rk: 37748, frq: 82}
-outspoken <> J: {rk: 8975, frq: 2001}
-outspokenly <> R: {rk: 49820, frq: 30}
-outspokenness <> N: {rk: 35884, frq: 91}
-outspread <> J: {rk: 37788, frq: 81}
-outstanding <> J: {rk: 4031, frq: 7276}
-outstandingly <> R: {rk: 43586, frq: 52}
-outstretched <> J: {rk: 11226, frq: 1443}
-outstrip <> V: {rk: 16936, frq: 605}
-outtake <> N: {rk: 29020, frq: 203}
-outthink <> V: {rk: 49685, frq: 33}
-outvote <> V: {rk: 36894, frq: 83}
-outward <> R: {rk: 8760, frq: 2094}, J: {rk: 11984, frq: 1184}
-outwardly <> R: {rk: 17975, frq: 530}
-outwards <> R: {rk: 32322, frq: 130}
-outweigh <> V: {rk: 8871, frq: 2043}
-outwit <> V: {rk: 21716, frq: 348}
-outwork <> N: {rk: 39214, frq: 73}
-outworn <> J: {rk: 57651, frq: 24}
-ouzo <> N: {rk: 49457, frq: 59}
-ova <> N: {rk: 33225, frq: 133}
-oval <> J: {rk: 6699, frq: 3354}, N: {rk: 12139, frq: 1192}
-ovarian <> J: {rk: 14907, frq: 810}
-ovary <> N: {rk: 15552, frq: 756}
-ovation <> N: {rk: 13522, frq: 978}
-oven <> N: {rk: 2937, frq: 13401}
-ovenproof <> J: {rk: 26963, frq: 252}
-over <> I: {rk: 124, frq: 326862}, R: {rk: 182, frq: 225944}, N: {rk: 14618, frq: 941}, J: {rk: 19905, frq: 433}
-over-optimistic <> J: {rk: 52133, frq: 28}
-over-the-counter <> J: {rk: 13438, frq: 996}
-overabundance <> N: {rk: 29214, frq: 167}
-overachieving <> J: {rk: 51486, frq: 29}
-overactive <> J: {rk: 26683, frq: 216}
-overage <> N: {rk: 43628, frq: 54}
-overall <> J: {rk: 1951, frq: 20735}, R: {rk: 3919, frq: 7939}, N: {rk: 6044, frq: 4017}
-overambitious <> J: {rk: 45212, frq: 41}
-overanxious <> J: {rk: 43459, frq: 49}
-overarching <> J: {rk: 15905, frq: 753}
-overawe <> V: {rk: 46377, frq: 42}
-overbalance <> V: {rk: 58936, frq: 22}
-overbearing <> J: {rk: 20129, frq: 420}
-overbite <> N: {rk: 41117, frq: 70}
-overblown <> J: {rk: 17573, frq: 595}
-overboard <> R: {rk: 11062, frq: 1381}
-overbook <> V: {rk: 41046, frq: 62}
-overbooked <> J: {rk: 56669, frq: 24}
-overbuild <> V: {rk: 37898, frq: 78}
-overbuilding <> N: {rk: 49939, frq: 36}
-overburden <> V: {rk: 22035, frq: 334}
-overburdened <> J: {rk: 27921, frq: 191}
-overcapacity <> N: {rk: 32754, frq: 123}
-overcast <> J: {rk: 17992, frq: 543}, N: {rk: 26556, frq: 218}
-overcharge <> V: {rk: 22489, frq: 322}, N: {rk: 38630, frq: 80}
-overcoat <> N: {rk: 13071, frq: 1088}
-overcome <> V: {rk: 2723, frq: 12804}, J: {rk: 20237, frq: 421}
-overcoming <> N: {rk: 50425, frq: 34}
-overcompensate <> V: {rk: 33468, frq: 112}
-overcompensation <> N: {rk: 56202, frq: 22}
-overconfidence <> N: {rk: 29893, frq: 178}
-overconfident <> J: {rk: 30295, frq: 156}
-overcook <> V: {rk: 21955, frq: 355}
-overcooked <> J: {rk: 37079, frq: 82}
-overcrowd <> V: {rk: 20718, frq: 400}
-overcrowded <> J: {rk: 13570, frq: 941}
-overcrowding <> N: {rk: 31215, frq: 169}, J: {rk: 55945, frq: 22}
-overdependence <> N: {rk: 51867, frq: 28}
-overdetermination <> N: {rk: 57697, frq: 23}
-overdetermined <> J: {rk: 51693, frq: 29}
-overdevelop <> V: {rk: 50638, frq: 30}
-overdeveloped <> J: {rk: 47383, frq: 35}
-overdo <> V: {rk: 14647, frq: 810}
-overdone <> J: {rk: 35713, frq: 95}
-overdose <> N: {rk: 13579, frq: 1026}, V: {rk: 21079, frq: 379}
-overdraft <> N: {rk: 27702, frq: 345}
-overdramatize <> V: {rk: 49228, frq: 33}
-overdraw <> V: {rk: 49650, frq: 53}
-overdrawn <> J: {rk: 32161, frq: 136}
-overdress <> V: {rk: 33808, frq: 107}
-overdressed <> J: {rk: 43718, frq: 48}
-overdrive <> N: {rk: 19762, frq: 477}
-overdub <> N: {rk: 54655, frq: 29}
-overdue <> J: {rk: 11252, frq: 1349}
-overeager <> J: {rk: 34214, frq: 99}
-overeat <> V: {rk: 18726, frq: 521}
-overeating <> N: {rk: 45260, frq: 83}
-overemphasis <> N: {rk: 30114, frq: 158}
-overemphasize <> V: {rk: 21683, frq: 370}
-overenthusiastic <> J: {rk: 46231, frq: 42}
-overestimate <> V: {rk: 13357, frq: 1012}, N: {rk: 42595, frq: 58}
-overestimation <> N: {rk: 37966, frq: 85}
-overexcited <> J: {rk: 45407, frq: 43}
-overexertion <> N: {rk: 49510, frq: 35}
-overexploitation <> N: {rk: 34529, frq: 127}
-overexpose <> V: {rk: 41799, frq: 58}
-overexposed <> J: {rk: 27686, frq: 207}
-overexposure <> N: {rk: 31607, frq: 150}
-overexpression <> N: {rk: 54464, frq: 30}
-overextend <> V: {rk: 25440, frq: 244}
-overextended <> J: {rk: 35788, frq: 93}
-overextension <> N: {rk: 48899, frq: 35}
-overfed <> J: {rk: 50025, frq: 32}
-overfeed <> V: {rk: 46888, frq: 38}
-overfilled <> J: {rk: 56603, frq: 21}
-overfished <> J: {rk: 55751, frq: 21}
-overfishing <> N: {rk: 33559, frq: 137}
-overflight <> N: {rk: 32022, frq: 151}
-overflow <> V: {rk: 9477, frq: 1818}, N: {rk: 15733, frq: 715}
-overflowing <> J: {rk: 30111, frq: 161}
-overgeneralization <> N: {rk: 43927, frq: 51}
-overglaze <> N: {rk: 51798, frq: 39}
-overgrazed <> J: {rk: 41923, frq: 57}
-overgrow <> V: {rk: 18626, frq: 522}
-overgrown <> J: {rk: 16098, frq: 705}
-overgrowth <> N: {rk: 29957, frq: 170}
-overhand <> J: {rk: 28791, frq: 188}, R: {rk: 40615, frq: 64}
-overhang <> N: {rk: 16687, frq: 679}, V: {rk: 27480, frq: 207}
-overhanging <> J: {rk: 21007, frq: 387}
-overhaul <> N: {rk: 11283, frq: 1557}, V: {rk: 12016, frq: 1292}
-overhead <> R: {rk: 5590, frq: 4556}, J: {rk: 8370, frq: 2250}, N: {rk: 11402, frq: 1290}
-overhear <> V: {rk: 8693, frq: 2167}
-overheard <> J: {rk: 42441, frq: 60}
-overheat <> V: {rk: 24189, frq: 280}
-overheated <> J: {rk: 17835, frq: 560}
-overheating <> N: {rk: 23028, frq: 331}
-overhyped <> J: {rk: 42876, frq: 54}
-overindulge <> V: {rk: 35448, frq: 98}
-overindulgence <> N: {rk: 40073, frq: 70}
-overinvestment <> N: {rk: 57424, frq: 19}
-overjoyed <> J: {rk: 19698, frq: 449}
-overkill <> N: {rk: 21486, frq: 414}
-overlap <> V: {rk: 9050, frq: 2277}, N: {rk: 10206, frq: 1688}
-overlapping <> J: {rk: 11339, frq: 1378}
-overlarge <> J: {rk: 43312, frq: 55}
-overlay <> V: {rk: 15300, frq: 765}, N: {rk: 18709, frq: 568}
-overleaf <> R: {rk: 53958, frq: 38}
-overlie <> V: {rk: 37423, frq: 89}
-overload <> N: {rk: 14868, frq: 814}, V: {rk: 15579, frq: 725}
-overloaded <> J: {rk: 24576, frq: 262}
-overlook <> V: {rk: 3158, frq: 10325}, N: {rk: 31747, frq: 137}
-overlooked <> J: {rk: 27700, frq: 210}
-overlord <> N: {rk: 26301, frq: 240}
-overly <> R: {rk: 6159, frq: 3713}
-overlying <> J: {rk: 29837, frq: 172}
-overmantel <> N: {rk: 55026, frq: 44}
-overmatched <> J: {rk: 46453, frq: 45}
-overmuch <> R: {rk: 48144, frq: 38}
-overnight <> R: {rk: 4787, frq: 5727}, J: {rk: 7220, frq: 2919}, N: {rk: 38754, frq: 81}, V: {rk: 52650, frq: 31}
-overpaid <> J: {rk: 41224, frq: 57}
-overpainting <> N: {rk: 54036, frq: 27}
-overpass <> N: {rk: 22001, frq: 369}, V: {rk: 54848, frq: 25}
-overpay <> V: {rk: 22084, frq: 347}
-overpayment <> N: {rk: 38900, frq: 89}
-overplay <> V: {rk: 23563, frq: 295}
-overpopulate <> V: {rk: 37474, frq: 80}
-overpopulated <> J: {rk: 40111, frq: 64}
-overpopulation <> N: {rk: 20340, frq: 820}
-overpower <> V: {rk: 12645, frq: 1069}
-overpowering <> J: {rk: 18408, frq: 498}
-overpressure <> N: {rk: 50059, frq: 32}
-overprice <> V: {rk: 43193, frq: 51}
-overpriced <> J: {rk: 18161, frq: 547}
-overproduce <> V: {rk: 37877, frq: 77}
-overproduction <> N: {rk: 31380, frq: 144}
-overprotect <> V: {rk: 53706, frq: 26}
-overprotection <> N: {rk: 51308, frq: 33}
-overprotective <> J: {rk: 28687, frq: 186}
-overqualified <> J: {rk: 57130, frq: 21}
-overrate <> V: {rk: 33049, frq: 119}
-overrated <> J: {rk: 19791, frq: 502}
-overreach <> V: {rk: 22661, frq: 346}
-overreaching <> N: {rk: 44870, frq: 50}, J: {rk: 48429, frq: 38}
-overreact <> V: {rk: 14811, frq: 790}
-overreaction <> N: {rk: 22943, frq: 332}
-overrepresentation <> N: {rk: 32320, frq: 157}
-override <> V: {rk: 9680, frq: 1710}, N: {rk: 23649, frq: 297}
-overriding <> J: {rk: 12788, frq: 1063}
-overripe <> J: {rk: 26751, frq: 210}
-overrule <> V: {rk: 12552, frq: 1179}
-overrun <> V: {rk: 11543, frq: 1264}, N: {rk: 22243, frq: 344}
-overseas <> R: {rk: 5003, frq: 5493}, J: {rk: 6523, frq: 3441}
-oversee <> V: {rk: 4087, frq: 7419}
-overseer <> N: {rk: 16537, frq: 658}
-oversell <> V: {rk: 39019, frq: 70}
-oversensitive <> J: {rk: 41272, frq: 57}
-oversexed <> J: {rk: 49220, frq: 33}
-overshadow <> V: {rk: 9743, frq: 1721}
-overshoe <> N: {rk: 49667, frq: 38}
-overshoot <> V: {rk: 29031, frq: 168}, N: {rk: 57320, frq: 24}
-oversight <> N: {rk: 6142, frq: 4170}
-oversimplification <> N: {rk: 25697, frq: 242}
-oversimplified <> J: {rk: 38869, frq: 72}
-oversimplify <> V: {rk: 21704, frq: 365}
-oversize <> J: {rk: 16090, frq: 771}
-oversized <> J: {rk: 11105, frq: 1425}
-oversleep <> V: {rk: 44525, frq: 47}
-overspend <> V: {rk: 29131, frq: 188}
-overspending <> N: {rk: 57877, frq: 30}
-overstaffed <> J: {rk: 42217, frq: 58}
-overstate <> V: {rk: 10935, frq: 1400}
-overstated <> J: {rk: 50607, frq: 29}
-overstatement <> N: {rk: 23068, frq: 303}
-overstay <> V: {rk: 30511, frq: 160}
-overstep <> V: {rk: 21013, frq: 394}
-overstimulation <> N: {rk: 48462, frq: 44}
-overstock <> N: {rk: 45308, frq: 55}, V: {rk: 56072, frq: 22}
-overstocked <> J: {rk: 46435, frq: 39}
-overstory <> J: {rk: 48737, frq: 46}
-overstress <> V: {rk: 37679, frq: 81}
-overstretch <> V: {rk: 42615, frq: 55}
-overstretched <> J: {rk: 49290, frq: 32}
-overstuff <> V: {rk: 30718, frq: 154}
-overstuffed <> J: {rk: 20608, frq: 423}
-oversupply <> N: {rk: 29940, frq: 144}
-overt <> J: {rk: 9426, frq: 1874}
-overtake <> V: {rk: 9070, frq: 1933}
-overtaking <> N: {rk: 49188, frq: 31}
-overtax <> V: {rk: 27734, frq: 197}
-overtaxed <> J: {rk: 38596, frq: 67}
-overthrow <> V: {rk: 8713, frq: 2141}, N: {rk: 15101, frq: 783}
-overtime <> N: {rk: 8470, frq: 2424}, R: {rk: 12700, frq: 1092}
-overtire <> V: {rk: 44046, frq: 51}
-overtly <> R: {rk: 13046, frq: 1047}
-overtone <> N: {rk: 14494, frq: 841}
-overtop <> V: {rk: 37615, frq: 103}
-overture <> N: {rk: 13804, frq: 1001}
-overturn <> V: {rk: 6283, frq: 3645}
-overturned <> J: {rk: 23101, frq: 320}
-overturning <> N: {rk: 43203, frq: 63}
-overuse <> N: {rk: 19917, frq: 448}, V: {rk: 21648, frq: 357}
-overused <> J: {rk: 31543, frq: 140}
-overvaluation <> N: {rk: 42467, frq: 55}
-overvalue <> V: {rk: 24637, frq: 269}
-overvalued <> J: {rk: 32830, frq: 118}
-overview <> N: {rk: 7077, frq: 3160}
-overwater <> V: {rk: 54720, frq: 27}
-overweening <> J: {rk: 44565, frq: 46}
-overweight <> J: {rk: 6723, frq: 3438}
-overwhelm <> V: {rk: 4850, frq: 5410}
-overwhelmed <> J: {rk: 14735, frq: 817}
-overwhelming <> J: {rk: 3597, frq: 8489}
-overwhelmingly <> R: {rk: 6984, frq: 3035}
-overwinter <> V: {rk: 33099, frq: 121}
-overwintering <> J: {rk: 41013, frq: 62}
-overwork <> V: {rk: 27250, frq: 203}, N: {rk: 34283, frq: 107}
-overworked <> J: {rk: 15420, frq: 720}
-overwrite <> V: {rk: 30661, frq: 158}
-overwrought <> J: {rk: 34376, frq: 106}
-overzealous <> J: {rk: 19530, frq: 440}
-oviparous <> J: {rk: 59545, frq: 44}
-ovipositor <> N: {rk: 55444, frq: 28}
-ovoid <> J: {rk: 37644, frq: 84}, N: {rk: 46673, frq: 42}
-ovulate <> V: {rk: 36283, frq: 117}
-ovulation <> N: {rk: 26941, frq: 243}
-ovule <> N: {rk: 59912, frq: 19}
-ovum <> N: {rk: 40293, frq: 72}
-owe <> V: {rk: 2998, frq: 10943}
-owing <> I: {rk: 12626, frq: 1171}, J: {rk: 40258, frq: 67}
-owl <> N: {rk: 6031, frq: 4094}
-owlet <> N: {rk: 48964, frq: 50}
-owlish <> J: {rk: 39483, frq: 67}
-owlishly <> R: {rk: 58224, frq: 21}
-own <> D: {rk: 148, frq: 259644}, V: {rk: 1122, frq: 37182}
-owned <> J: {rk: 25680, frq: 228}
-owner <> N: {rk: 1022, frq: 43114}
-owner-occupied <> J: {rk: 40370, frq: 68}
-ownership <> N: {rk: 3611, frq: 8745}
-oxalate <> N: {rk: 46072, frq: 58}
-oxbow <> N: {rk: 36546, frq: 117}
-oxcart <> N: {rk: 53026, frq: 26}
-oxidant <> N: {rk: 41177, frq: 68}, J: {rk: 59225, frq: 20}
-oxidase <> N: {rk: 43974, frq: 54}
-oxidation <> N: {rk: 19933, frq: 488}
-oxidative <> J: {rk: 30657, frq: 249}
-oxide <> N: {rk: 10008, frq: 1720}
-oxidize <> V: {rk: 23413, frq: 337}
-oxidized <> J: {rk: 38065, frq: 82}
-oxidizer <> N: {rk: 49361, frq: 36}
-oxidizing <> J: {rk: 54558, frq: 26}
-oxtail <> N: {rk: 35736, frq: 116}
-oxycodone <> N: {rk: 45329, frq: 65}
-oxygen <> N: {rk: 3869, frq: 7958}
-oxygenate <> V: {rk: 37876, frq: 79}, N: {rk: 48412, frq: 41}
-oxygenated <> J: {rk: 37916, frq: 84}
-oxygenating <> J: {rk: 59658, frq: 21}
-oxygenation <> N: {rk: 35369, frq: 110}
-oxymoron <> N: {rk: 20590, frq: 411}
-oxymoronic <> J: {rk: 34336, frq: 107}
-oxytocin <> N: {rk: 35018, frq: 152}
-oy <> U: {rk: 24326, frq: 286}
-oyster <> N: {rk: 6390, frq: 5056}
-oystercatcher <> N: {rk: 55630, frq: 24}
-ozone <> N: {rk: 6089, frq: 4306}
+o'clock <> R: {rk: 4735, frq: 13146}
+o'er <> I: {rk: 31784, frq: 318}, R: {rk: 43563, frq: 126}
+oaf <> N: {rk: 30898, frq: 343}
+oafish <> J: {rk: 50535, frq: 80}
+oak <> N: {rk: 3745, frq: 18691}
+oaken <> J: {rk: 37965, frq: 191}
+oar <> N: {rk: 16506, frq: 1466}
+oarsman <> N: {rk: 37460, frq: 198}
+oasis <> N: {rk: 11526, frq: 2908}
+oat <> N: {rk: 26067, frq: 532}
+oath <> N: {rk: 5787, frq: 9527}
+oatmeal <> N: {rk: 11596, frq: 2875}
+oats <> N: {rk: 13123, frq: 2284}
+ob-gyn <> N: {rk: 38077, frq: 189}
+obdurate <> J: {rk: 40017, frq: 162}
+obeah <> N: {rk: 55775, frq: 58}
+obedience <> N: {rk: 9156, frq: 4350}
+obedient <> J: {rk: 14900, frq: 1784}
+obediently <> R: {rk: 23919, frq: 653}
+obeisance <> N: {rk: 36408, frq: 216}
+obelisk <> N: {rk: 23859, frq: 657}
+obese <> J: {rk: 8166, frq: 5271}
+obesity <> N: {rk: 5438, frq: 10591}
+obey <> V: {rk: 5532, frq: 10325}
+obfuscate <> V: {rk: 23438, frq: 685}
+obfuscation <> N: {rk: 24661, frq: 606}
+obit <> N: {rk: 26181, frq: 526}
+obituary <> N: {rk: 11937, frq: 2742}
+object <> N: {rk: 1302, frq: 73304}, V: {rk: 4692, frq: 13303}
+object-oriented <> J: {rk: 31388, frq: 329}
+objectification <> N: {rk: 23601, frq: 673}
+objectified <> J: {rk: 46936, frq: 101}
+objectify <> V: {rk: 20923, frq: 885}
+objection <> N: {rk: 4438, frq: 14466}
+objectionable <> J: {rk: 14340, frq: 1933}
+objective <> N: {rk: 2804, frq: 28315}, J: {rk: 4928, frq: 12348}
+objectively <> R: {rk: 11207, frq: 3049}
+objectivism <> N: {rk: 32845, frq: 290}
+objectivist <> J: {rk: 51704, frq: 75}
+objectivity <> N: {rk: 11236, frq: 3034}
+objector <> N: {rk: 23861, frq: 656}
+oblast <> N: {rk: 49746, frq: 84}
+oblate <> N: {rk: 39481, frq: 169}
+oblation <> N: {rk: 45521, frq: 111}
+obligate <> V: {rk: 10504, frq: 3389}
+obligated <> J: {rk: 25574, frq: 556}
+obligation <> N: {rk: 3092, frq: 24879}
+obligatory <> J: {rk: 15017, frq: 1757}
+oblige <> V: {rk: 7115, frq: 6663}
+obliged <> J: {rk: 38763, frq: 179}
+obliging <> J: {rk: 32517, frq: 299}
+obligingly <> R: {rk: 32844, frq: 290}
+oblique <> J: {rk: 17653, frq: 1277}, N: {rk: 38956, frq: 176}
+obliquely <> R: {rk: 25691, frq: 551}
+obliquity <> N: {rk: 47032, frq: 100}
+obliterate <> V: {rk: 11890, frq: 2760}
+obliteration <> N: {rk: 30024, frq: 369}
+oblivion <> N: {rk: 12598, frq: 2481}
+oblivious <> J: {rk: 9289, frq: 4241}
+obliviously <> R: {rk: 49745, frq: 84}
+obliviousness <> N: {rk: 38762, frq: 179}
+oblong <> J: {rk: 27045, frq: 486}, N: {rk: 38479, frq: 183}
+obnoxious <> J: {rk: 11531, frq: 2906}
+obnoxiously <> R: {rk: 36912, frq: 207}
+obnoxiousness <> N: {rk: 58846, frq: 48}
+oboe <> N: {rk: 29319, frq: 393}
+oboist <> N: {rk: 47907, frq: 95}
+obscene <> J: {rk: 10164, frq: 3605}
+obscenely <> R: {rk: 28847, frq: 411}
+obscenity <> N: {rk: 14040, frq: 2011}
+obscurantism <> N: {rk: 50808, frq: 79}
+obscurantist <> N: {rk: 52142, frq: 73}
+obscure <> V: {rk: 6772, frq: 7264}, J: {rk: 7694, frq: 5836}
+obscured <> J: {rk: 50972, frq: 78}
+obscurely <> R: {rk: 39057, frq: 175}
+obscuring <> N: {rk: 42003, frq: 141}
+obscurity <> N: {rk: 13710, frq: 2106}
+obsequious <> J: {rk: 34238, frq: 259}
+obsequiousness <> N: {rk: 56356, frq: 56}
+observable <> J: {rk: 13464, frq: 2182}, N: {rk: 51858, frq: 74}
+observance <> N: {rk: 14694, frq: 1834}
+observant <> J: {rk: 16435, frq: 1477}
+observation <> N: {rk: 2196, frq: 39551}
+observational <> J: {rk: 12368, frq: 2567}
+observationally <> R: {rk: 58845, frq: 48}
+observatory <> N: {rk: 6850, frq: 7127}
+observe <> V: {rk: 1454, frq: 66197}
+observed <> J: {rk: 8762, frq: 4669}
+observer <> N: {rk: 3145, frq: 24293}
+obsess <> V: {rk: 13408, frq: 2198}
+obsessed <> J: {rk: 5799, frq: 9491}
+obsession <> N: {rk: 5923, frq: 9157}
+obsessional <> J: {rk: 46935, frq: 101}
+obsessive <> J: {rk: 10804, frq: 3246}, N: {rk: 54510, frq: 63}
+obsessive-compulsive <> J: {rk: 25461, frq: 562}
+obsessively <> R: {rk: 18764, frq: 1119}
+obsessiveness <> N: {rk: 45896, frq: 108}
+obsidian <> N: {rk: 23514, frq: 680}
+obsolescence <> N: {rk: 23478, frq: 682}
+obsolescent <> J: {rk: 52295, frq: 72}
+obsolete <> J: {rk: 9160, frq: 4345}
+obstacle <> N: {rk: 4099, frq: 16342}
+obstetric <> J: {rk: 36955, frq: 206}
+obstetrical <> J: {rk: 42078, frq: 140}
+obstetrician <> N: {rk: 19657, frq: 1015}
+obstetrics <> N: {rk: 22070, frq: 790}
+obstinacy <> N: {rk: 34768, frq: 248}
+obstinate <> J: {rk: 23736, frq: 664}
+obstinately <> R: {rk: 38392, frq: 184}
+obstreperous <> J: {rk: 43564, frq: 126}
+obstruct <> V: {rk: 10365, frq: 3479}
+obstructed <> J: {rk: 47701, frq: 96}
+obstruction <> N: {rk: 8292, frq: 5126}
+obstructionism <> N: {rk: 29791, frq: 377}
+obstructionist <> N: {rk: 23925, frq: 652}
+obstructive <> J: {rk: 20107, frq: 966}
+obtain <> V: {rk: 1657, frq: 56312}
+obtainable <> J: {rk: 27806, frq: 452}
+obtrude <> V: {rk: 56159, frq: 57}
+obtrusive <> J: {rk: 35981, frq: 224}
+obtuse <> J: {rk: 22701, frq: 739}
+obtuseness <> N: {rk: 47033, frq: 100}
+obverse <> N: {rk: 39962, frq: 163}
+obviate <> V: {rk: 24185, frq: 637}
+obvious <> J: {rk: 1647, frq: 56696}
+obviously <> R: {rk: 1139, frq: 85364}
+obviousness <> N: {rk: 36956, frq: 206}
+ocarina <> N: {rk: 50536, frq: 80}
+occasion <> N: {rk: 2530, frq: 32220}, V: {rk: 21445, frq: 840}
+occasional <> J: {rk: 4089, frq: 16386}
+occasionally <> R: {rk: 2966, frq: 26250}
+occidental <> J: {rk: 26182, frq: 526}
+occipital <> J: {rk: 29855, frq: 375}
+occlude <> V: {rk: 32234, frq: 306}
+occluded <> J: {rk: 56758, frq: 55}
+occlusion <> N: {rk: 25897, frq: 541}
+occult <> N: {rk: 17530, frq: 1297}, V: {rk: 30223, frq: 363}
+occultation <> N: {rk: 28296, frq: 431}
+occultism <> N: {rk: 48017, frq: 94}
+occultist <> N: {rk: 42229, frq: 139}
+occupancy <> N: {rk: 13659, frq: 2122}
+occupant <> N: {rk: 9676, frq: 3925}
+occupation <> N: {rk: 3860, frq: 17878}
+occupational <> J: {rk: 6833, frq: 7153}
+occupationally <> R: {rk: 47906, frq: 95}
+occupied <> J: {rk: 11227, frq: 3040}
+occupier <> N: {rk: 18229, frq: 1191}
+occupy <> V: {rk: 2854, frq: 27708}
+occupying <> J: {rk: 20040, frq: 971}
+occur <> V: {rk: 859, frq: 112575}
+occurrence <> N: {rk: 6433, frq: 7980}
+occurring <> J: {rk: 53196, frq: 68}
+ocean <> N: {rk: 1885, frq: 47773}
+ocean-going <> J: {rk: 42228, frq: 139}
+oceanfront <> N: {rk: 29516, frq: 386}
+oceanic <> J: {rk: 13502, frq: 2170}
+oceanographer <> N: {rk: 28012, frq: 443}
+oceanographic <> J: {rk: 27133, frq: 482}
+oceanography <> N: {rk: 25898, frq: 541}
+ocelot <> N: {rk: 37159, frq: 203}
+ocher <> N: {rk: 34578, frq: 252}
+ochre <> N: {rk: 27837, frq: 451}, J: {rk: 37192, frq: 202}
+ocotillo <> N: {rk: 48328, frq: 92}
+octagon <> N: {rk: 27990, frq: 444}
+octagonal <> J: {rk: 29918, frq: 373}
+octahedron <> N: {rk: 58232, frq: 50}
+octane <> N: {rk: 29684, frq: 380}
+octave <> N: {rk: 19505, frq: 1033}
+octavo <> N: {rk: 48327, frq: 92}
+octet <> N: {rk: 48022, frq: 94}
+octogenarian <> N: {rk: 36378, frq: 217}, J: {rk: 38254, frq: 186}
+octopus <> N: {rk: 13093, frq: 2297}
+ocular <> J: {rk: 25522, frq: 559}
+oculus <> N: {rk: 51706, frq: 75}
+odalisque <> J: {rk: 48021, frq: 94}
+odd <> J: {rk: 2680, frq: 29585}
+oddball <> N: {rk: 20354, frq: 940}
+oddity <> N: {rk: 15882, frq: 1575}
+oddly <> R: {rk: 6968, frq: 6903}
+oddment <> N: {rk: 56160, frq: 57}
+oddness <> N: {rk: 41610, frq: 145}
+odds <> N: {rk: 3223, frq: 23462}
+odds-on <> J: {rk: 38391, frq: 184}
+oddsmaker <> N: {rk: 42080, frq: 140}
+ode <> N: {rk: 17015, frq: 1384}
+odious <> J: {rk: 21489, frq: 836}
+odometer <> N: {rk: 29275, frq: 394}
+odor <> N: {rk: 6473, frq: 7893}
+odorant <> N: {rk: 45525, frq: 111}, J: {rk: 55576, frq: 59}
+odoriferous <> J: {rk: 57605, frq: 52}
+odorless <> J: {rk: 29497, frq: 387}
+odorous <> J: {rk: 43073, frq: 131}
+oedema <> N: {rk: 40648, frq: 155}
+oedipal <> J: {rk: 30846, frq: 344}
+oenophile <> N: {rk: 54002, frq: 65}
+oesophageal <> J: {rk: 47267, frq: 99}
+oesophagus <> N: {rk: 54001, frq: 65}
+oestrogen <> N: {rk: 33620, frq: 272}
+oeuvre <> N: {rk: 20450, frq: 931}
+of <> I: {rk: 5, frq: 23159162}
+off <> R: {rk: 195, frq: 479459}, I: {rk: 378, frq: 258852}, J: {rk: 6743, frq: 7315}
+off-balance <> J: {rk: 27286, frq: 475}
+off-brand <> J: {rk: 51418, frq: 76}
+off-campus <> J: {rk: 23227, frq: 701}
+off-course <> J: {rk: 50383, frq: 81}
+off-grid <> J: {rk: 40205, frq: 160}
+off-key <> J: {rk: 31197, frq: 334}
+off-label <> J: {rk: 30505, frq: 354}
+off-limits <> J: {rk: 15955, frq: 1562}
+off-line <> J: {rk: 13947, frq: 2030}
+off-load <> V: {rk: 23479, frq: 682}
+off-loading <> N: {rk: 54692, frq: 62}
+off-peak <> J: {rk: 33621, frq: 272}
+off-piste <> J: {rk: 39963, frq: 163}
+off-price <> J: {rk: 58009, frq: 51}
+off-putting <> J: {rk: 24462, frq: 618}
+off-ramp <> N: {rk: 34043, frq: 263}
+off-road <> J: {rk: 17379, frq: 1321}
+off-roader <> N: {rk: 56354, frq: 56}
+off-roading <> J: {rk: 50531, frq: 80}
+off-season <> J: {rk: 25228, frq: 575}
+off-street <> J: {rk: 47390, frq: 98}
+off-the-cuff <> J: {rk: 34870, frq: 246}
+off-the-rack <> J: {rk: 48020, frq: 94}
+off-the-record <> J: {rk: 34175, frq: 260}
+off-the-shelf <> J: {rk: 26636, frq: 505}
+off-the-shoulder <> J: {rk: 49984, frq: 83}
+off-the-wall <> J: {rk: 37193, frq: 202}
+off-track <> J: {rk: 36043, frq: 223}
+off-white <> J: {rk: 28410, frq: 427}
+off-year <> J: {rk: 38212, frq: 187}
+offal <> N: {rk: 36797, frq: 209}
+offbeat <> J: {rk: 18260, frq: 1186}
+offence <> N: {rk: 13180, frq: 2267}
+offend <> V: {rk: 4529, frq: 14068}
+offended <> J: {rk: 26733, frq: 501}
+offender <> N: {rk: 4856, frq: 12622}
+offending <> J: {rk: 14899, frq: 1785}, N: {rk: 31128, frq: 336}
+offense <> N: {rk: 2304, frq: 36790}
+offensive <> J: {rk: 2779, frq: 28611}, N: {rk: 12628, frq: 2465}
+offensively <> R: {rk: 15845, frq: 1584}
+offensiveness <> N: {rk: 46932, frq: 101}
+offer <> V: {rk: 418, frq: 234189}, N: {rk: 2062, frq: 42944}
+offered <> J: {rk: 19974, frq: 979}
+offering <> N: {rk: 4187, frq: 15814}
+offertory <> N: {rk: 56164, frq: 57}
+offhand <> J: {rk: 25354, frq: 569}, R: {rk: 29878, frq: 374}
+offhandedly <> R: {rk: 34352, frq: 257}
+office <> N: {rk: 380, frq: 258157}
+officeholder <> N: {rk: 24972, frq: 589}
+officer <> N: {rk: 687, frq: 139938}
+official <> N: {rk: 644, frq: 150423}, J: {rk: 1899, frq: 47368}
+officialdom <> N: {rk: 34645, frq: 251}
+officially <> R: {rk: 3826, frq: 18080}
+officiant <> N: {rk: 46758, frq: 102}
+officiate <> V: {rk: 18690, frq: 1129}
+officiating <> N: {rk: 34734, frq: 249}, J: {rk: 39784, frq: 165}
+officious <> J: {rk: 34924, frq: 245}
+offing <> N: {rk: 23658, frq: 669}
+offline <> R: {rk: 15719, frq: 1608}
+offset <> V: {rk: 6595, frq: 7589}, N: {rk: 21075, frq: 873}, J: {rk: 21605, frq: 827}
+offsetting <> J: {rk: 32233, frq: 306}
+offshoot <> N: {rk: 18217, frq: 1193}
+offshore <> J: {rk: 8267, frq: 5167}, R: {rk: 11572, frq: 2884}
+offside <> R: {rk: 44960, frq: 115}, N: {rk: 47035, frq: 100}, J: {rk: 51707, frq: 75}
+offspring <> N: {rk: 6980, frq: 6884}
+offstage <> R: {rk: 21608, frq: 826}, J: {rk: 44203, frq: 121}
+oft <> R: {rk: 20508, frq: 926}
+often <> R: {rk: 335, frq: 295709}
+oftentimes <> R: {rk: 12606, frq: 2477}
+ofttimes <> R: {rk: 58842, frq: 48}
+ogle <> V: {rk: 23251, frq: 699}
+ogre <> N: {rk: 20037, frq: 972}
+oh <> U: {rk: 141, frq: 685234}
+oh-oh <> U: {rk: 23125, frq: 707}
+oho <> U: {rk: 50967, frq: 78}
+oi <> U: {rk: 18378, frq: 1171}
+oil <> N: {rk: 645, frq: 150410}, V: {rk: 19120, frq: 1078}
+oil-fired <> J: {rk: 58623, frq: 49}
+oilcloth <> N: {rk: 39686, frq: 166}
+oiled <> J: {rk: 25744, frq: 548}
+oiler <> N: {rk: 41017, frq: 151}
+oilman <> N: {rk: 33601, frq: 273}
+oilseed <> N: {rk: 52144, frq: 73}
+oilskin <> N: {rk: 50116, frq: 82}
+oily <> J: {rk: 13270, frq: 2239}
+oink <> V: {rk: 39836, frq: 164}, N: {rk: 53195, frq: 68}
+ointment <> N: {rk: 18047, frq: 1217}
+okapi <> N: {rk: 43490, frq: 127}
+okay <> R: {rk: 290, frq: 339699}, J: {rk: 1125, frq: 86529}, V: {rk: 36407, frq: 216}
+okey-dokey <> U: {rk: 34766, frq: 248}
+okra <> N: {rk: 19863, frq: 992}
+old <> J: {rk: 174, frq: 537424}, N: {rk: 11735, frq: 2815}
+old-fashioned <> J: {rk: 5752, frq: 9638}
+old-growth <> J: {rk: 21050, frq: 874}
+old-line <> J: {rk: 31032, frq: 339}
+old-time <> J: {rk: 17710, frq: 1269}
+old-timer <> N: {rk: 17772, frq: 1259}
+old-world <> J: {rk: 33455, frq: 276}
+olden <> J: {rk: 24794, frq: 599}
+oldie <> N: {rk: 35315, frq: 237}
+oldster <> N: {rk: 38910, frq: 177}
+oldy <> N: {rk: 25692, frq: 551}
+oleander <> N: {rk: 36475, frq: 215}
+olefin <> N: {rk: 58229, frq: 50}
+olfaction <> N: {rk: 47571, frq: 97}
+olfactory <> J: {rk: 19257, frq: 1061}
+oligarch <> N: {rk: 20844, frq: 893}
+oligarchic <> J: {rk: 39381, frq: 170}
+oligarchy <> N: {rk: 20664, frq: 911}
+oligodendrocyte <> N: {rk: 48655, frq: 90}
+oligonucleotide <> N: {rk: 39479, frq: 169}
+oligopolistic <> J: {rk: 57377, frq: 53}
+oligopoly <> N: {rk: 39635, frq: 167}
+oligosaccharide <> N: {rk: 48552, frq: 91}
+olive <> J: {rk: 4498, frq: 14192}, N: {rk: 7540, frq: 6052}
+olivine <> N: {rk: 45524, frq: 111}
+olympiad <> N: {rk: 37559, frq: 197}
+olympian <> J: {rk: 19617, frq: 1020}, N: {rk: 19877, frq: 989}
+olympics <> N: {rk: 4217, frq: 15664}
+ombudsman <> N: {rk: 23920, frq: 653}
+omega <> N: {rk: 11584, frq: 2879}
+omelet <> N: {rk: 15938, frq: 1565}
+omelette <> N: {rk: 26217, frq: 525}
+omen <> N: {rk: 15049, frq: 1752}
+omerta <> N: {rk: 52292, frq: 72}
+omicron <> N: {rk: 41459, frq: 146}
+ominous <> J: {rk: 9912, frq: 3766}
+ominously <> R: {rk: 20285, frq: 948}
+omission <> N: {rk: 10098, frq: 3651}
+omit <> V: {rk: 3986, frq: 17050}
+omitted <> J: {rk: 23799, frq: 660}
+omnibus <> N: {rk: 20644, frq: 914}
+omnidirectional <> J: {rk: 52146, frq: 73}
+omnipotence <> N: {rk: 29219, frq: 396}
+omnipotent <> J: {rk: 24391, frq: 623}, N: {rk: 36045, frq: 223}
+omnipresence <> N: {rk: 37873, frq: 192}
+omnipresent <> J: {rk: 19787, frq: 1000}
+omniscience <> N: {rk: 32379, frq: 302}
+omniscient <> J: {rk: 20679, frq: 909}
+omnivore <> N: {rk: 32522, frq: 299}
+omnivorous <> J: {rk: 36044, frq: 223}
+on <> I: {rk: 18, frq: 6080156}, R: {rk: 120, frq: 818739}, J: {rk: 31998, frq: 313}
+on-air <> J: {rk: 19930, frq: 983}
+on-board <> J: {rk: 22437, frq: 761}
+on-chip <> J: {rk: 51285, frq: 77}
+on-field <> J: {rk: 28100, frq: 439}
+on-off <> J: {rk: 37728, frq: 194}
+on-screen <> J: {rk: 11323, frq: 2995}
+on-site <> J: {rk: 11023, frq: 3133}
+on-street <> J: {rk: 42450, frq: 137}
+on-target <> J: {rk: 50385, frq: 81}
+onboard <> V: {rk: 10656, frq: 3314}
+once <> R: {rk: 343, frq: 290446}, C: {rk: 1153, frq: 84165}
+once-over <> N: {rk: 33002, frq: 286}
+oncogene <> N: {rk: 41078, frq: 150}
+oncogenic <> J: {rk: 47572, frq: 97}
+oncologist <> N: {rk: 16723, frq: 1430}
+oncology <> N: {rk: 17678, frq: 1273}
+oncoming <> J: {rk: 15902, frq: 1572}
+ondansetron <> N: {rk: 56759, frq: 55}
+one <> M: {rk: 60, frq: 1816593}, P: {rk: 101, frq: 999446}, N: {rk: 1407, frq: 67755}
+one-dimensional <> J: {rk: 18518, frq: 1152}
+one-horse <> J: {rk: 37732, frq: 194}
+one-liner <> N: {rk: 21609, frq: 826}
+one-man <> J: {rk: 15122, frq: 1738}
+one-nighter <> N: {rk: 55230, frq: 60}
+one-off <> J: {rk: 25007, frq: 586}, N: {rk: 33425, frq: 277}
+one-parent <> J: {rk: 53221, frq: 68}
+one-piece <> J: {rk: 27094, frq: 485}, N: {rk: 36256, frq: 219}
+one-shot <> J: {rk: 26697, frq: 502}, N: {rk: 43280, frq: 129}
+one-sided <> J: {rk: 13431, frq: 2192}
+one-star <> J: {rk: 43571, frq: 126}
+one-step <> J: {rk: 37034, frq: 205}
+one-stop <> J: {rk: 21847, frq: 808}
+one-tailed <> J: {rk: 45233, frq: 113}
+one-time <> J: {rk: 7733, frq: 5799}
+one-to-one <> J: {rk: 21578, frq: 828}, R: {rk: 41607, frq: 145}
+one-touch <> J: {rk: 50990, frq: 78}
+one-two <> M: {rk: 24054, frq: 645}
+one-upmanship <> N: {rk: 38477, frq: 183}
+one-way <> J: {rk: 10069, frq: 3671}
+one-woman <> J: {rk: 26956, frq: 490}
+oneness <> N: {rk: 20419, frq: 934}
+onerous <> J: {rk: 16457, frq: 1473}
+oneself <> P: {rk: 7799, frq: 5717}
+ongoing <> J: {rk: 2884, frq: 27334}
+onion <> N: {rk: 3164, frq: 24049}
+onionskin <> N: {rk: 56961, frq: 54}
+online <> J: {rk: 1503, frq: 63564}, R: {rk: 2197, frq: 39528}
+onlooker <> N: {rk: 14780, frq: 1813}
+only <> R: {rk: 112, frq: 905093}, J: {rk: 306, frq: 325917}
+onomatopoeia <> N: {rk: 48543, frq: 91}
+onomatopoeic <> J: {rk: 56146, frq: 57}
+onrush <> N: {rk: 51273, frq: 77}
+onrushing <> J: {rk: 43572, frq: 126}
+onset <> N: {rk: 7056, frq: 6766}
+onshore <> J: {rk: 23373, frq: 689}
+onslaught <> N: {rk: 12538, frq: 2504}
+onstage <> J: {rk: 8476, frq: 4940}
+ontic <> J: {rk: 52758, frq: 70}
+onto <> I: {rk: 1123, frq: 86605}
+ontogenetic <> J: {rk: 51434, frq: 76}
+ontogeny <> N: {rk: 43366, frq: 128}
+ontological <> J: {rk: 15290, frq: 1699}
+ontologically <> R: {rk: 36468, frq: 215}
+ontology <> N: {rk: 16400, frq: 1484}
+onus <> N: {rk: 20149, frq: 961}
+onward <> R: {rk: 12571, frq: 2492}, J: {rk: 44954, frq: 115}
+onwards <> R: {rk: 19788, frq: 1000}
+onyx <> N: {rk: 30914, frq: 342}
+oo <> U: {rk: 21513, frq: 834}
+oocyst <> N: {rk: 50370, frq: 81}
+oocyte <> N: {rk: 25229, frq: 575}
+oof <> U: {rk: 22482, frq: 757}
+ooh <> U: {rk: 3215, frq: 23498}
+oolong <> N: {rk: 50799, frq: 79}
+oomph <> N: {rk: 26254, frq: 523}
+ooo <> U: {rk: 22335, frq: 769}
+oophorectomy <> N: {rk: 49753, frq: 84}
+oops <> U: {rk: 9331, frq: 4210}
+ooze <> V: {rk: 12822, frq: 2399}, N: {rk: 26409, frq: 515}
+oozing <> J: {rk: 48029, frq: 94}, N: {rk: 55232, frq: 60}
+oozy <> J: {rk: 52136, frq: 73}
+op-ed <> N: {rk: 14087, frq: 2000}, J: {rk: 21922, frq: 803}
+opacification <> N: {rk: 59222, frq: 47}
+opacity <> N: {rk: 23278, frq: 697}
+opal <> N: {rk: 18237, frq: 1189}
+opalescent <> J: {rk: 38010, frq: 190}
+opaque <> J: {rk: 10971, frq: 3160}
+opaquely <> R: {rk: 57633, frq: 52}
+opaqueness <> N: {rk: 55788, frq: 58}
+opcode <> N: {rk: 59469, frq: 46}
+open <> V: {rk: 392, frq: 247043}, J: {rk: 590, frq: 163231}, N: {rk: 53989, frq: 65}
+open-air <> J: {rk: 17629, frq: 1280}
+open-and-shut <> J: {rk: 41465, frq: 146}
+open-door <> J: {rk: 34078, frq: 262}
+open-ended <> J: {rk: 10239, frq: 3562}
+open-endedness <> N: {rk: 57634, frq: 52}
+open-eyed <> J: {rk: 57980, frq: 51}
+open-faced <> J: {rk: 43281, frq: 129}
+open-handed <> J: {rk: 56371, frq: 56}
+open-hearted <> J: {rk: 45515, frq: 111}
+open-minded <> J: {rk: 13750, frq: 2091}
+open-mindedness <> N: {rk: 33854, frq: 267}
+open-mouthed <> J: {rk: 30373, frq: 358}
+open-necked <> J: {rk: 56737, frq: 55}
+open-pit <> J: {rk: 45232, frq: 113}
+open-plan <> J: {rk: 53220, frq: 68}
+open-source <> J: {rk: 17483, frq: 1303}
+open-toed <> J: {rk: 47044, frq: 100}
+open-top <> J: {rk: 51868, frq: 74}
+opened <> J: {rk: 26410, frq: 515}
+opener <> N: {rk: 7280, frq: 6408}
+opening <> N: {rk: 2170, frq: 40053}, J: {rk: 24389, frq: 623}
+openly <> R: {rk: 4579, frq: 13834}
+openness <> N: {rk: 8364, frq: 5052}
+openwork <> N: {rk: 55566, frq: 59}
+opera <> N: {rk: 3783, frq: 18377}
+operable <> J: {rk: 32461, frq: 300}
+operand <> N: {rk: 33457, frq: 276}
+operant <> J: {rk: 35559, frq: 232}
+operate <> V: {rk: 1543, frq: 61296}
+operatic <> J: {rk: 21610, frq: 826}
+operating <> J: {rk: 3540, frq: 20353}
+operation <> N: {rk: 1007, frq: 95878}
+operational <> J: {rk: 6191, frq: 8525}
+operationalization <> N: {rk: 40024, frq: 162}
+operationalize <> V: {rk: 21734, frq: 816}
+operationally <> R: {rk: 24600, frq: 611}
+operative <> N: {rk: 9619, frq: 3975}, J: {rk: 10611, frq: 3335}
+operator <> N: {rk: 3468, frq: 20947}
+operetta <> N: {rk: 38520, frq: 182}
+ophthalmic <> J: {rk: 42946, frq: 132}
+ophthalmologic <> J: {rk: 58609, frq: 49}
+ophthalmologist <> N: {rk: 24267, frq: 631}
+ophthalmology <> N: {rk: 34971, frq: 244}
+opiate <> N: {rk: 17992, frq: 1226}
+opine <> V: {rk: 16107, frq: 1537}
+opinion <> N: {rk: 927, frq: 103920}
+opinionated <> J: {rk: 19301, frq: 1056}
+opioid <> J: {rk: 14171, frq: 1979}, N: {rk: 16508, frq: 1465}
+opium <> N: {rk: 12781, frq: 2416}
+opossum <> N: {rk: 29122, frq: 400}
+opponent <> N: {rk: 2318, frq: 36412}
+opportune <> J: {rk: 24934, frq: 591}
+opportunism <> N: {rk: 26030, frq: 534}
+opportunist <> N: {rk: 21077, frq: 873}, J: {rk: 46647, frq: 103}
+opportunistic <> J: {rk: 15651, frq: 1621}
+opportunistically <> R: {rk: 41008, frq: 151}
+opportunity <> N: {rk: 643, frq: 151226}
+opposable <> J: {rk: 37326, frq: 200}
+oppose <> V: {rk: 2192, frq: 39656}
+opposed <> I: {rk: 4130, frq: 16159}, J: {rk: 28532, frq: 422}
+opposer <> N: {rk: 55227, frq: 60}
+opposing <> J: {rk: 6658, frq: 7473}
+opposite <> J: {rk: 2512, frq: 32431}, N: {rk: 5884, frq: 9292}, I: {rk: 11425, frq: 2953}, R: {rk: 16940, frq: 1396}
+oppositely <> R: {rk: 49628, frq: 85}
+opposition <> N: {rk: 2163, frq: 40268}
+oppositional <> J: {rk: 19422, frq: 1043}
+oppress <> V: {rk: 11307, frq: 3002}
+oppressed <> J: {rk: 12074, frq: 2683}
+oppression <> N: {rk: 6698, frq: 7392}
+oppressive <> J: {rk: 10161, frq: 3607}
+oppressively <> R: {rk: 41670, frq: 144}
+oppressiveness <> N: {rk: 55786, frq: 58}
+oppressor <> N: {rk: 17260, frq: 1342}
+opprobrium <> N: {rk: 33980, frq: 264}
+opsin <> N: {rk: 46766, frq: 102}
+opt <> V: {rk: 4575, frq: 13862}
+opt-out <> N: {rk: 23068, frq: 711}
+optic <> N: {rk: 16097, frq: 1538}
+optical <> J: {rk: 6554, frq: 7667}
+optically <> R: {rk: 32079, frq: 310}
+optician <> N: {rk: 37876, frq: 192}
+optics <> N: {rk: 10774, frq: 3264}
+optimal <> J: {rk: 6723, frq: 7352}
+optimality <> N: {rk: 42945, frq: 132}
+optimally <> R: {rk: 23037, frq: 713}
+optimisation <> N: {rk: 41187, frq: 149}
+optimise <> V: {rk: 38665, frq: 180}
+optimism <> N: {rk: 6227, frq: 8447}
+optimist <> N: {rk: 13487, frq: 2176}
+optimistic <> J: {rk: 4757, frq: 13027}
+optimistically <> R: {rk: 26955, frq: 491}
+optimization <> N: {rk: 11352, frq: 2986}
+optimize <> V: {rk: 9127, frq: 4378}
+optimized <> J: {rk: 25389, frq: 567}
+optimizer <> N: {rk: 45801, frq: 109}
+optimum <> J: {rk: 11996, frq: 2715}
+option <> N: {rk: 923, frq: 104245}, V: {rk: 31932, frq: 314}
+optional <> J: {rk: 6357, frq: 8138}
+optionally <> R: {rk: 32774, frq: 292}
+optoelectronic <> J: {rk: 56741, frq: 55}
+optometric <> J: {rk: 56150, frq: 57}
+optometrist <> N: {rk: 28244, frq: 433}
+optometry <> N: {rk: 48542, frq: 91}
+opulence <> N: {rk: 26449, frq: 513}
+opulent <> J: {rk: 20144, frq: 962}
+opus <> N: {rk: 20475, frq: 929}
+or <> C: {rk: 32, frq: 3420339}
+oracular <> J: {rk: 40030, frq: 162}
+oral <> J: {rk: 4188, frq: 15805}, N: {rk: 15814, frq: 1590}
+orality <> N: {rk: 38906, frq: 177}
+orally <> R: {rk: 17606, frq: 1285}
+orang <> N: {rk: 57983, frq: 51}
+orange <> J: {rk: 3258, frq: 23088}, N: {rk: 3762, frq: 18542}
+orangutan <> N: {rk: 23600, frq: 673}
+oration <> N: {rk: 27037, frq: 487}
+orator <> N: {rk: 20737, frq: 903}
+oratorical <> J: {rk: 38478, frq: 183}
+oratorio <> N: {rk: 41188, frq: 149}
+oratory <> N: {rk: 21848, frq: 808}
+orb <> N: {rk: 14626, frq: 1851}
+orbit <> N: {rk: 4548, frq: 14003}, V: {rk: 9552, frq: 4040}
+orbital <> J: {rk: 10530, frq: 3374}, N: {rk: 43573, frq: 126}
+orbiter <> N: {rk: 18290, frq: 1182}
+orbiting <> J: {rk: 25197, frq: 576}
+orca <> N: {rk: 20238, frq: 951}
+orchard <> N: {rk: 8586, frq: 4838}
+orchardist <> N: {rk: 47713, frq: 96}
+orchestra <> N: {rk: 5100, frq: 11709}
+orchestral <> J: {rk: 19278, frq: 1059}
+orchestrate <> V: {rk: 9746, frq: 3876}
+orchestrated <> J: {rk: 31387, frq: 329}
+orchestration <> N: {rk: 24795, frq: 599}
+orchestrator <> N: {rk: 46160, frq: 106}
+orchid <> N: {rk: 11147, frq: 3078}
+ordain <> V: {rk: 12970, frq: 2344}
+ordained <> J: {rk: 18541, frq: 1149}
+ordeal <> N: {rk: 9176, frq: 4332}
+order <> N: {rk: 686, frq: 140025}, V: {rk: 1441, frq: 66657}
+ordered <> J: {rk: 17892, frq: 1242}
+ordering <> N: {rk: 13363, frq: 2210}
+orderliness <> N: {rk: 37733, frq: 194}
+orderly <> J: {rk: 9189, frq: 4313}, N: {rk: 21974, frq: 798}
+ordinal <> J: {rk: 26055, frq: 533}
+ordinance <> N: {rk: 7598, frq: 5973}
+ordinarily <> R: {rk: 10806, frq: 3245}
+ordinariness <> N: {rk: 35019, frq: 243}
+ordinary <> J: {rk: 2664, frq: 29816}, N: {rk: 44313, frq: 120}
+ordinate <> N: {rk: 53214, frq: 68}
+ordination <> N: {rk: 16180, frq: 1523}
+ordnance <> N: {rk: 21369, frq: 847}
+ordo <> N: {rk: 48664, frq: 90}
+ore <> N: {rk: 9448, frq: 4119}
+oregano <> N: {rk: 14301, frq: 1942}
+organ <> N: {rk: 3736, frq: 18750}
+organdy <> J: {rk: 59224, frq: 47}
+organelle <> N: {rk: 28629, frq: 418}
+organic <> J: {rk: 3054, frq: 25288}, N: {rk: 18278, frq: 1184}
+organically <> R: {rk: 16771, frq: 1422}
+organisation <> N: {rk: 22086, frq: 789}
+organisational <> J: {rk: 30180, frq: 364}
+organised <> J: {rk: 29379, frq: 391}
+organiser <> N: {rk: 36471, frq: 215}
+organism <> N: {rk: 4601, frq: 13713}
+organismal <> J: {rk: 41788, frq: 143}
+organismic <> J: {rk: 44196, frq: 121}
+organist <> N: {rk: 25523, frq: 559}
+organization <> N: {rk: 647, frq: 149261}
+organizational <> J: {rk: 5141, frq: 11591}
+organizationally <> R: {rk: 36633, frq: 212}
+organize <> V: {rk: 1895, frq: 47499}
+organized <> J: {rk: 5591, frq: 10163}
+organizer <> N: {rk: 5329, frq: 10946}
+organizing <> J: {rk: 16291, frq: 1500}, N: {rk: 24307, frq: 628}
+organochlorine <> J: {rk: 51429, frq: 76}
+organophosphate <> N: {rk: 42299, frq: 138}
+organza <> N: {rk: 37280, frq: 201}
+orgasm <> N: {rk: 9926, frq: 3752}, V: {rk: 25271, frq: 572}
+orgasmic <> J: {rk: 31248, frq: 333}
+orgiastic <> J: {rk: 45229, frq: 113}
+orgone <> N: {rk: 52589, frq: 71}
+orgy <> N: {rk: 16371, frq: 1488}
+orient <> V: {rk: 7546, frq: 6044}
+oriental <> J: {rk: 11188, frq: 3059}
+orientate <> V: {rk: 38011, frq: 190}
+orientation <> N: {rk: 3710, frq: 18984}
+oriented <> J: {rk: 18216, frq: 1193}
+orienteer <> N: {rk: 58250, frq: 50}
+orienteering <> N: {rk: 32462, frq: 300}
+orienting <> J: {rk: 51430, frq: 76}
+orifice <> N: {rk: 24532, frq: 614}
+origami <> N: {rk: 26140, frq: 528}
+origin <> N: {rk: 2575, frq: 31342}
+original <> J: {rk: 1041, frq: 93230}, N: {rk: 10055, frq: 3681}
+originalism <> N: {rk: 31990, frq: 313}
+originality <> N: {rk: 13797, frq: 2076}
+originally <> R: {rk: 2730, frq: 29084}
+originate <> V: {rk: 5568, frq: 10215}
+originating <> J: {rk: 34346, frq: 257}
+origination <> N: {rk: 26692, frq: 503}
+originator <> N: {rk: 20754, frq: 901}
+ornament <> N: {rk: 9195, frq: 4309}, V: {rk: 29614, frq: 383}
+ornamental <> J: {rk: 15531, frq: 1645}
+ornamentals <> N: {rk: 42721, frq: 134}
+ornamentation <> N: {rk: 27130, frq: 483}
+ornamented <> J: {rk: 53706, frq: 66}
+ornate <> J: {rk: 13271, frq: 2239}
+ornately <> R: {rk: 35462, frq: 234}
+ornery <> J: {rk: 25688, frq: 551}
+ornithological <> J: {rk: 45800, frq: 109}
+ornithologist <> N: {rk: 28799, frq: 412}
+ornithology <> N: {rk: 37035, frq: 205}
+oropharyngeal <> J: {rk: 41861, frq: 142}
+oropharynx <> N: {rk: 48030, frq: 94}
+orphan <> N: {rk: 7294, frq: 6381}, V: {rk: 43067, frq: 131}
+orphanage <> N: {rk: 10347, frq: 3492}
+orphaned <> J: {rk: 16971, frq: 1391}
+orthodontia <> N: {rk: 53991, frq: 65}
+orthodontic <> J: {rk: 45230, frq: 113}
+orthodontics <> N: {rk: 55568, frq: 59}
+orthodontist <> N: {rk: 31636, frq: 322}
+orthodox <> J: {rk: 6206, frq: 8494}
+orthodoxy <> N: {rk: 11569, frq: 2886}
+orthogonal <> J: {rk: 25315, frq: 571}
+orthographic <> J: {rk: 27252, frq: 476}
+orthography <> N: {rk: 36041, frq: 223}
+orthopaedic <> J: {rk: 22422, frq: 762}
+orthopaedics <> N: {rk: 57629, frq: 52}
+orthopedic <> J: {rk: 16997, frq: 1386}
+orthopedics <> N: {rk: 41086, frq: 150}
+orthopedist <> N: {rk: 34730, frq: 249}
+orthoses <> N: {rk: 53705, frq: 66}
+orthosis <> N: {rk: 43284, frq: 129}
+orthostatic <> J: {rk: 55785, frq: 58}
+orthotic <> N: {rk: 39694, frq: 166}, J: {rk: 46929, frq: 101}
+oryx <> N: {rk: 49629, frq: 85}
+orzo <> N: {rk: 33371, frq: 278}
+oscillate <> V: {rk: 22015, frq: 795}
+oscillating <> J: {rk: 36634, frq: 212}
+oscillation <> N: {rk: 13969, frq: 2025}
+oscillator <> N: {rk: 27951, frq: 446}
+oscillatory <> J: {rk: 43285, frq: 129}
+oscilloscope <> N: {rk: 40539, frq: 156}
+osmium <> N: {rk: 57630, frq: 52}
+osmosis <> N: {rk: 27680, frq: 458}
+osmotic <> J: {rk: 34675, frq: 250}
+osprey <> N: {rk: 20626, frq: 915}
+osseous <> J: {rk: 46457, frq: 104}
+ossicle <> N: {rk: 50802, frq: 79}
+ossicular <> J: {rk: 48663, frq: 90}
+ossification <> N: {rk: 39776, frq: 165}
+ossified <> J: {rk: 46649, frq: 103}
+ossify <> V: {rk: 42508, frq: 136}
+ossuary <> N: {rk: 38666, frq: 180}
+ostensible <> J: {rk: 23992, frq: 649}
+ostensibly <> R: {rk: 10096, frq: 3652}
+ostentation <> N: {rk: 38905, frq: 177}
+ostentatious <> J: {rk: 25008, frq: 586}
+ostentatiously <> R: {rk: 33458, frq: 276}
+osteoarthritic <> J: {rk: 56955, frq: 54}
+osteoarthritis <> N: {rk: 23001, frq: 716}
+osteogenesis <> N: {rk: 50374, frq: 81}
+osteomyelitis <> N: {rk: 41007, frq: 151}
+osteopath <> N: {rk: 52305, frq: 72}
+osteopathic <> J: {rk: 36366, frq: 217}
+osteopenia <> N: {rk: 57984, frq: 51}
+osteoporosis <> N: {rk: 12709, frq: 2438}
+osteoporotic <> J: {rk: 49973, frq: 83}
+osteosarcoma <> N: {rk: 47041, frq: 100}
+osteotomy <> N: {rk: 52139, frq: 73}
+ostinato <> N: {rk: 39196, frq: 173}
+ostracism <> N: {rk: 31616, frq: 323}
+ostracize <> V: {rk: 19247, frq: 1062}
+ostrich <> N: {rk: 21370, frq: 846}
+other <> J: {rk: 74, frq: 1539952}, P: {rk: 733, frq: 132728}, I: {rk: 2099, frq: 41717}
+otherness <> N: {rk: 20883, frq: 890}
+otherwise <> R: {rk: 1377, frq: 69243}
+otherworld <> N: {rk: 46648, frq: 103}
+otherworldliness <> N: {rk: 56369, frq: 56}
+otherworldly <> J: {rk: 17328, frq: 1329}
+otic <> J: {rk: 53037, frq: 69}
+otitis <> N: {rk: 26016, frq: 535}
+otolaryngologic <> J: {rk: 48665, frq: 90}
+otolaryngologist <> N: {rk: 34390, frq: 256}
+otolaryngology <> N: {rk: 34275, frq: 258}
+otolith <> N: {rk: 47399, frq: 98}
+otologic <> J: {rk: 45512, frq: 111}
+otorrhea <> N: {rk: 38210, frq: 187}
+otosclerosis <> N: {rk: 49419, frq: 86}
+ototoxic <> J: {rk: 44558, frq: 118}
+ototoxicity <> N: {rk: 39844, frq: 164}
+otter <> N: {rk: 13318, frq: 2223}
+ottoman <> J: {rk: 11617, frq: 2865}, N: {rk: 18057, frq: 1216}
+ouch <> U: {rk: 11028, frq: 3132}
+oud <> N: {rk: 58247, frq: 50}
+ought <> V: {rk: 2073, frq: 42597}
+ouija <> N: {rk: 35248, frq: 238}
+ounce <> N: {rk: 3615, frq: 19680}
+our <> A: {rk: 76, frq: 1467955}
+ours <> P: {rk: 3791, frq: 18321}
+ourselves <> P: {rk: 1682, frq: 54951}
+oust <> V: {rk: 10734, frq: 3282}
+ousted <> J: {rk: 25705, frq: 550}
+ouster <> N: {rk: 17565, frq: 1291}
+ousting <> N: {rk: 45228, frq: 113}
+out <> R: {rk: 59, frq: 1828593}, I: {rk: 150, frq: 634959}, N: {rk: 9557, frq: 4038}, J: {rk: 14101, frq: 1997}, V: {rk: 22421, frq: 762}
+out-and-out <> J: {rk: 32213, frq: 307}
+out-group <> N: {rk: 25689, frq: 551}
+out-of-date <> J: {rk: 29972, frq: 371}
+out-of-pocket <> J: {rk: 18352, frq: 1174}
+out-of-the-way <> J: {rk: 29685, frq: 380}
+out-of-town <> J: {rk: 22368, frq: 766}
+out-of-work <> J: {rk: 32839, frq: 290}
+outage <> N: {rk: 10546, frq: 3369}
+outback <> N: {rk: 18048, frq: 1217}, R: {rk: 39530, frq: 168}
+outbid <> V: {rk: 29272, frq: 394}
+outboard <> N: {rk: 26415, frq: 514}, J: {rk: 27569, frq: 463}, R: {rk: 57985, frq: 51}
+outbound <> N: {rk: 27629, frq: 460}
+outbreak <> N: {rk: 5109, frq: 11693}
+outbuilding <> N: {rk: 25269, frq: 573}
+outburst <> N: {rk: 10944, frq: 3172}
+outcast <> N: {rk: 13850, frq: 2062}
+outclass <> V: {rk: 34644, frq: 251}
+outcome <> N: {rk: 1560, frq: 60498}
+outcrop <> N: {rk: 23042, frq: 712}, V: {rk: 44557, frq: 118}
+outcropping <> N: {rk: 25196, frq: 577}
+outcry <> N: {rk: 12418, frq: 2548}
+outdated <> J: {rk: 9347, frq: 4201}
+outdistance <> V: {rk: 46159, frq: 106}
+outdo <> V: {rk: 15077, frq: 1745}
+outdoor <> J: {rk: 4339, frq: 14995}
+outdoors <> R: {rk: 9089, frq: 4414}, N: {rk: 10929, frq: 3179}
+outdoorsman <> N: {rk: 27534, frq: 464}
+outdoorsy <> J: {rk: 36298, frq: 218}
+outer <> J: {rk: 4268, frq: 15390}
+outermost <> J: {rk: 25747, frq: 548}
+outerwear <> N: {rk: 33979, frq: 264}
+outfall <> N: {rk: 53212, frq: 68}
+outfield <> N: {rk: 14596, frq: 1861}
+outfielder <> N: {rk: 11481, frq: 2931}
+outfit <> N: {rk: 4295, frq: 15213}, V: {rk: 14453, frq: 1905}
+outfitted <> J: {rk: 49418, frq: 86}
+outfitter <> N: {rk: 18086, frq: 1212}
+outflank <> V: {rk: 33248, frq: 281}
+outflow <> N: {rk: 18856, frq: 1108}
+outfox <> V: {rk: 42947, frq: 132}
+outgoing <> J: {rk: 9792, frq: 3845}
+outgrow <> V: {rk: 14162, frq: 1981}
+outgrown <> J: {rk: 54705, frq: 62}
+outgrowth <> N: {rk: 20058, frq: 970}
+outgun <> V: {rk: 26920, frq: 492}
+outhouse <> N: {rk: 19837, frq: 994}
+outing <> N: {rk: 8176, frq: 5266}
+outlander <> N: {rk: 42636, frq: 135}
+outlandish <> J: {rk: 15536, frq: 1644}
+outlandishly <> R: {rk: 50981, frq: 78}
+outlast <> V: {rk: 19152, frq: 1075}
+outlaw <> V: {rk: 10048, frq: 3685}, N: {rk: 10852, frq: 3219}
+outlawed <> J: {rk: 40894, frq: 152}
+outlawing <> N: {rk: 57362, frq: 53}
+outlay <> N: {rk: 16509, frq: 1465}
+outlet <> N: {rk: 4221, frq: 15645}
+outlier <> N: {rk: 13726, frq: 2099}
+outline <> V: {rk: 4798, frq: 12859}, N: {rk: 5763, frq: 9598}
+outlined <> J: {rk: 50545, frq: 80}
+outlive <> V: {rk: 15204, frq: 1719}
+outlook <> N: {rk: 4680, frq: 13350}
+outlying <> J: {rk: 19299, frq: 1057}
+outman <> V: {rk: 49417, frq: 86}
+outmaneuver <> V: {rk: 29123, frq: 400}
+outmatch <> V: {rk: 37557, frq: 197}
+outmoded <> J: {rk: 21663, frq: 822}
+outnumber <> V: {rk: 9683, frq: 3921}
+outnumbered <> J: {rk: 53036, frq: 69}
+outpace <> V: {rk: 15937, frq: 1565}
+outpatient <> N: {rk: 11724, frq: 2819}
+outperform <> V: {rk: 12414, frq: 2549}
+outperformance <> N: {rk: 53211, frq: 68}
+outplacement <> N: {rk: 39777, frq: 165}
+outplay <> V: {rk: 28011, frq: 443}
+outpost <> N: {rk: 9922, frq: 3754}
+outpouring <> N: {rk: 15815, frq: 1590}
+output <> N: {rk: 4127, frq: 16190}, V: {rk: 19585, frq: 1023}
+outrace <> V: {rk: 57628, frq: 52}
+outrage <> N: {rk: 5745, frq: 9660}
+outraged <> J: {rk: 7955, frq: 5520}
+outrageous <> J: {rk: 6315, frq: 8266}
+outrageously <> R: {rk: 22457, frq: 759}
+outrageousness <> N: {rk: 49416, frq: 86}
+outrank <> V: {rk: 29320, frq: 393}
+outreach <> N: {rk: 7643, frq: 5903}, V: {rk: 18211, frq: 1194}
+outrider <> N: {rk: 47042, frq: 100}
+outrigger <> N: {rk: 37877, frq: 192}
+outright <> J: {rk: 8964, frq: 4522}, R: {rk: 9566, frq: 4031}
+outro <> N: {rk: 53516, frq: 67}
+outrun <> V: {rk: 16005, frq: 1555}
+outscore <> V: {rk: 18087, frq: 1212}
+outsell <> V: {rk: 28413, frq: 427}
+outset <> N: {rk: 9314, frq: 4218}
+outshine <> V: {rk: 23757, frq: 663}
+outside <> I: {rk: 902, frq: 106572}, R: {rk: 1786, frq: 51030}, J: {rk: 2349, frq: 35738}, N: {rk: 14670, frq: 1841}
+outsider <> N: {rk: 5246, frq: 11206}
+outsize <> J: {rk: 25787, frq: 546}, V: {rk: 49263, frq: 87}
+outsized <> J: {rk: 22730, frq: 737}
+outskirts <> N: {rk: 10315, frq: 3514}
+outsmart <> V: {rk: 21553, frq: 831}
+outsole <> N: {rk: 37327, frq: 200}
+outsource <> V: {rk: 9820, frq: 3820}
+outsourced <> J: {rk: 34731, frq: 249}
+outsourcing <> N: {rk: 27570, frq: 463}, J: {rk: 33714, frq: 270}
+outspend <> V: {rk: 36577, frq: 213}
+outspoken <> J: {rk: 9870, frq: 3788}
+outspokenly <> R: {rk: 57625, frq: 52}
+outspokenness <> N: {rk: 42297, frq: 138}
+outspread <> J: {rk: 45058, frq: 114}
+outstanding <> J: {rk: 4242, frq: 15537}
+outstandingly <> R: {rk: 48666, frq: 90}
+outstretched <> J: {rk: 13379, frq: 2206}
+outstrip <> V: {rk: 19227, frq: 1065}
+outtake <> N: {rk: 29636, frq: 382}
+outthink <> V: {rk: 50375, frq: 81}
+outvote <> V: {rk: 38667, frq: 180}
+outward <> R: {rk: 10523, frq: 3380}, J: {rk: 11506, frq: 2917}
+outwardly <> R: {rk: 19261, frq: 1060}
+outwards <> R: {rk: 29378, frq: 391}
+outweigh <> V: {rk: 8905, frq: 4571}
+outwit <> V: {rk: 23758, frq: 663}
+outwork <> N: {rk: 41862, frq: 142}
+ouzo <> N: {rk: 49262, frq: 87}
+ova <> N: {rk: 30899, frq: 343}
+oval <> J: {rk: 7452, frq: 6157}, N: {rk: 14671, frq: 1840}
+ovarian <> J: {rk: 14123, frq: 1991}
+ovary <> N: {rk: 14851, frq: 1794}
+ovation <> N: {rk: 14370, frq: 1925}
+oven <> N: {rk: 3395, frq: 21721}
+ovenproof <> J: {rk: 31992, frq: 313}
+over <> I: {rk: 142, frq: 679617}, R: {rk: 172, frq: 538724}, N: {rk: 11690, frq: 2829}, J: {rk: 16170, frq: 1524}
+over-optimistic <> J: {rk: 52301, frq: 72}
+over-represent <> V: {rk: 41997, frq: 141}
+over-the-counter <> J: {rk: 15671, frq: 1617}
+overabundance <> N: {rk: 31034, frq: 339}
+overachiever <> N: {rk: 28923, frq: 408}
+overachieving <> J: {rk: 56952, frq: 54}
+overactive <> J: {rk: 28031, frq: 442}
+overage <> N: {rk: 40479, frq: 157}
+overall <> J: {rk: 2032, frq: 43582}, R: {rk: 3752, frq: 18621}, N: {rk: 5902, frq: 9234}
+overambitious <> J: {rk: 49631, frq: 85}
+overanxious <> J: {rk: 50974, frq: 78}
+overarching <> J: {rk: 13358, frq: 2211}
+overawe <> V: {rk: 52300, frq: 72}
+overbearing <> J: {rk: 19256, frq: 1061}
+overbite <> N: {rk: 41865, frq: 142}
+overblown <> J: {rk: 17660, frq: 1275}
+overboard <> R: {rk: 11239, frq: 3033}
+overbook <> V: {rk: 41083, frq: 150}
+overbooked <> J: {rk: 59460, frq: 46}
+overbuild <> V: {rk: 46340, frq: 105}
+overbuilding <> N: {rk: 58242, frq: 50}
+overburden <> V: {rk: 25530, frq: 558}
+overburdened <> J: {rk: 32842, frq: 290}
+overcapacity <> N: {rk: 36472, frq: 215}
+overcast <> J: {rk: 20695, frq: 908}, N: {rk: 31385, frq: 329}
+overcharge <> V: {rk: 24498, frq: 617}, N: {rk: 43292, frq: 129}
+overcoat <> N: {rk: 15789, frq: 1594}
+overcome <> V: {rk: 2954, frq: 26449}, J: {rk: 21306, frq: 852}
+overcoming <> N: {rk: 54701, frq: 62}
+overcommit <> V: {rk: 57995, frq: 51}
+overcompensate <> V: {rk: 31054, frq: 338}
+overcompensation <> N: {rk: 55225, frq: 60}
+overconfidence <> N: {rk: 29217, frq: 396}
+overconfident <> J: {rk: 26770, frq: 499}
+overcook <> V: {rk: 23124, frq: 707}
+overcooked <> J: {rk: 40892, frq: 152}
+overcrowd <> V: {rk: 22879, frq: 726}
+overcrowded <> J: {rk: 15635, frq: 1624}
+overcrowding <> N: {rk: 34968, frq: 244}
+overdetermined <> J: {rk: 57994, frq: 51}
+overdevelop <> V: {rk: 59461, frq: 46}
+overdeveloped <> J: {rk: 50804, frq: 79}
+overdevelopment <> N: {rk: 46443, frq: 104}
+overdo <> V: {rk: 14843, frq: 1796}
+overdone <> J: {rk: 36579, frq: 213}
+overdose <> N: {rk: 11371, frq: 2977}, V: {rk: 19240, frq: 1063}
+overdraft <> N: {rk: 25992, frq: 536}
+overdramatic <> J: {rk: 51700, frq: 75}
+overdraw <> V: {rk: 50119, frq: 82}
+overdrawn <> J: {rk: 36371, frq: 217}
+overdress <> V: {rk: 38394, frq: 184}
+overdressed <> J: {rk: 47570, frq: 97}
+overdrive <> N: {rk: 18499, frq: 1155}
+overdub <> V: {rk: 49414, frq: 86}, N: {rk: 49978, frq: 83}
+overdue <> J: {rk: 11209, frq: 3048}
+overeager <> J: {rk: 36413, frq: 216}
+overeat <> V: {rk: 21015, frq: 878}
+overeating <> N: {rk: 47904, frq: 95}
+overemphasis <> N: {rk: 34839, frq: 247}
+overemphasize <> V: {rk: 24796, frq: 599}
+overenthusiastic <> J: {rk: 48330, frq: 92}
+overestimate <> V: {rk: 13475, frq: 2179}, N: {rk: 45898, frq: 108}
+overestimation <> N: {rk: 38964, frq: 176}
+overexcited <> J: {rk: 46930, frq: 101}
+overexertion <> N: {rk: 56366, frq: 56}
+overexploitation <> N: {rk: 38396, frq: 184}
+overexpose <> V: {rk: 48229, frq: 93}
+overexposed <> J: {rk: 30773, frq: 346}
+overexposure <> N: {rk: 34775, frq: 248}
+overexpression <> N: {rk: 26823, frq: 496}
+overextend <> V: {rk: 26995, frq: 488}
+overextended <> J: {rk: 43820, frq: 124}
+overextension <> N: {rk: 56746, frq: 55}
+overfed <> J: {rk: 58612, frq: 49}
+overfeed <> V: {rk: 50540, frq: 80}
+overfish <> V: {rk: 24971, frq: 589}
+overfishing <> N: {rk: 38395, frq: 184}
+overflight <> N: {rk: 37879, frq: 192}
+overflow <> V: {rk: 10514, frq: 3384}, N: {rk: 16290, frq: 1501}
+overflowing <> J: {rk: 32841, frq: 290}
+overgeneralization <> N: {rk: 45234, frq: 113}
+overgraze <> V: {rk: 56365, frq: 56}
+overgrazed <> J: {rk: 54703, frq: 62}
+overgrazing <> N: {rk: 35748, frq: 228}
+overgrow <> V: {rk: 21348, frq: 849}
+overgrown <> J: {rk: 18187, frq: 1198}
+overgrowth <> N: {rk: 32236, frq: 306}
+overhand <> J: {rk: 32050, frq: 311}, R: {rk: 48549, frq: 91}
+overhang <> N: {rk: 18930, frq: 1099}, V: {rk: 32049, frq: 311}
+overhanging <> J: {rk: 26013, frq: 535}
+overhaul <> N: {rk: 10419, frq: 3443}, V: {rk: 12616, frq: 2469}
+overhead <> R: {rk: 6851, frq: 7126}, J: {rk: 10152, frq: 3614}, N: {rk: 12537, frq: 2505}
+overhear <> V: {rk: 8904, frq: 4571}
+overheard <> J: {rk: 42443, frq: 137}
+overheat <> V: {rk: 23857, frq: 657}, N: {rk: 53041, frq: 69}
+overheated <> J: {rk: 20572, frq: 920}
+overheating <> N: {rk: 24388, frq: 623}
+overhyped <> J: {rk: 34541, frq: 253}
+overindulge <> V: {rk: 38012, frq: 190}
+overindulgence <> N: {rk: 45053, frq: 114}
+overinvestment <> N: {rk: 55224, frq: 60}
+overjoyed <> J: {rk: 20169, frq: 960}
+overkill <> N: {rk: 20798, frq: 897}, V: {rk: 39323, frq: 171}
+overlap <> V: {rk: 9332, frq: 4209}, N: {rk: 9714, frq: 3897}
+overlapping <> J: {rk: 12293, frq: 2600}
+overlarge <> J: {rk: 48901, frq: 89}
+overlay <> V: {rk: 15634, frq: 1624}, N: {rk: 19791, frq: 999}
+overlie <> V: {rk: 43146, frq: 130}
+overload <> N: {rk: 14335, frq: 1935}, V: {rk: 14999, frq: 1761}
+overloaded <> J: {rk: 27174, frq: 480}
+overlook <> V: {rk: 3729, frq: 18846}, N: {rk: 35121, frq: 241}
+overlooked <> J: {rk: 27660, frq: 459}
+overlord <> N: {rk: 20694, frq: 908}
+overly <> R: {rk: 6006, frq: 8952}
+overlying <> J: {rk: 33851, frq: 267}
+overmatched <> J: {rk: 43741, frq: 125}
+overmuch <> R: {rk: 46655, frq: 103}
+overnight <> R: {rk: 5088, frq: 11748}, J: {rk: 7806, frq: 5707}, N: {rk: 42082, frq: 140}, V: {rk: 56951, frq: 54}
+overpaid <> J: {rk: 37554, frq: 197}
+overpass <> N: {rk: 20212, frq: 954}, V: {rk: 57996, frq: 51}
+overpay <> V: {rk: 19488, frq: 1035}
+overpayment <> N: {rk: 35314, frq: 237}
+overplay <> V: {rk: 24029, frq: 646}
+overpopulate <> V: {rk: 37553, frq: 197}
+overpopulated <> J: {rk: 43362, frq: 128}
+overpopulation <> N: {rk: 21241, frq: 858}
+overpower <> V: {rk: 13668, frq: 2120}
+overpowered <> J: {rk: 54704, frq: 62}
+overpowering <> J: {rk: 22056, frq: 791}
+overpressure <> N: {rk: 55781, frq: 58}
+overprice <> V: {rk: 42719, frq: 134}
+overpriced <> J: {rk: 16171, frq: 1524}
+overproduce <> V: {rk: 41673, frq: 144}
+overproduction <> N: {rk: 32773, frq: 292}
+overprotective <> J: {rk: 26218, frq: 525}
+overqualified <> J: {rk: 34923, frq: 245}
+overrate <> V: {rk: 31198, frq: 334}
+overrated <> J: {rk: 15171, frq: 1728}
+overreach <> V: {rk: 21425, frq: 842}, N: {rk: 26032, frq: 534}
+overreaching <> J: {rk: 48550, frq: 91}, N: {rk: 48656, frq: 90}
+overreact <> V: {rk: 12294, frq: 2598}
+overreaction <> N: {rk: 21206, frq: 861}
+overrepresentation <> N: {rk: 33329, frq: 279}
+override <> V: {rk: 9474, frq: 4099}, N: {rk: 19879, frq: 989}
+overriding <> J: {rk: 15123, frq: 1737}
+overripe <> J: {rk: 29856, frq: 375}
+overrule <> V: {rk: 12090, frq: 2678}
+overrun <> V: {rk: 12268, frq: 2611}, N: {rk: 23612, frq: 672}
+oversample <> V: {rk: 45612, frq: 110}
+overseas <> R: {rk: 5122, frq: 11659}, J: {rk: 7587, frq: 5990}
+oversee <> V: {rk: 4420, frq: 14601}
+overseer <> N: {rk: 17347, frq: 1326}
+oversell <> V: {rk: 33712, frq: 270}
+oversensitive <> J: {rk: 42222, frq: 139}
+oversexed <> J: {rk: 55223, frq: 60}
+overshadow <> V: {rk: 10713, frq: 3288}
+overshoe <> N: {rk: 58241, frq: 50}
+overshoot <> V: {rk: 29566, frq: 384}, N: {rk: 48551, frq: 91}
+oversight <> N: {rk: 5580, frq: 10190}
+oversimplification <> N: {rk: 26332, frq: 518}
+oversimplified <> J: {rk: 39248, frq: 172}
+oversimplify <> V: {rk: 21512, frq: 834}
+oversize <> J: {rk: 19281, frq: 1059}
+oversized <> J: {rk: 12437, frq: 2541}
+oversleep <> V: {rk: 30758, frq: 347}
+overspend <> V: {rk: 25829, frq: 544}
+overspending <> N: {rk: 48226, frq: 93}
+overstaffed <> J: {rk: 51424, frq: 76}
+overstate <> V: {rk: 11191, frq: 3056}
+overstated <> J: {rk: 59232, frq: 47}
+overstatement <> N: {rk: 26015, frq: 535}
+overstay <> V: {rk: 28158, frq: 436}
+overstep <> V: {rk: 19073, frq: 1083}
+overstimulation <> N: {rk: 53042, frq: 69}
+overstock <> N: {rk: 50121, frq: 82}
+overstocked <> J: {rk: 50978, frq: 78}
+overstory <> J: {rk: 43287, frq: 129}
+overstress <> V: {rk: 43150, frq: 130}
+overstretch <> V: {rk: 45054, frq: 114}
+overstretched <> J: {rk: 53202, frq: 68}
+overstuff <> V: {rk: 34539, frq: 253}
+overstuffed <> J: {rk: 24602, frq: 610}
+oversubscribed <> J: {rk: 45609, frq: 110}
+oversupply <> N: {rk: 41605, frq: 145}
+overt <> J: {rk: 10215, frq: 3572}
+overtake <> V: {rk: 9512, frq: 4072}
+overtaking <> N: {rk: 52598, frq: 71}
+overtax <> V: {rk: 31638, frq: 322}
+overtaxed <> J: {rk: 47039, frq: 100}
+overthrow <> V: {rk: 8852, frq: 4608}, N: {rk: 15725, frq: 1606}
+overtime <> N: {rk: 7868, frq: 5637}, R: {rk: 12324, frq: 2589}
+overtire <> V: {rk: 49029, frq: 88}
+overtly <> R: {rk: 13355, frq: 2212}
+overtone <> N: {rk: 17341, frq: 1327}
+overtop <> V: {rk: 37828, frq: 193}
+overtrain <> V: {rk: 43484, frq: 127}
+overture <> N: {rk: 15338, frq: 1687}
+overturn <> V: {rk: 6508, frq: 7796}
+overturned <> J: {rk: 25617, frq: 555}
+overturning <> N: {rk: 44044, frq: 122}
+overuse <> N: {rk: 20170, frq: 959}, V: {rk: 21870, frq: 806}
+overused <> J: {rk: 30304, frq: 360}
+overvaluation <> N: {rk: 47038, frq: 100}
+overvalue <> V: {rk: 26411, frq: 515}
+overvalued <> J: {rk: 36959, frq: 206}
+overview <> N: {rk: 6539, frq: 7714}
+overweening <> J: {rk: 39382, frq: 170}
+overweight <> J: {rk: 6548, frq: 7682}
+overwhelm <> V: {rk: 5443, frq: 10584}, N: {rk: 42941, frq: 132}
+overwhelmed <> J: {rk: 13514, frq: 2165}
+overwhelming <> J: {rk: 3882, frq: 17731}
+overwhelmingly <> R: {rk: 7281, frq: 6404}
+overwinter <> V: {rk: 35866, frq: 226}
+overwintering <> J: {rk: 45610, frq: 110}
+overwork <> V: {rk: 29274, frq: 394}, N: {rk: 38475, frq: 183}
+overworked <> J: {rk: 17327, frq: 1329}
+overwrite <> V: {rk: 25623, frq: 554}
+overwrought <> J: {rk: 25732, frq: 549}
+overzealous <> J: {rk: 20547, frq: 922}
+oviparous <> J: {rk: 58851, frq: 48}
+oviposition <> N: {rk: 52748, frq: 70}
+ovipositor <> N: {rk: 53699, frq: 66}
+ovoid <> J: {rk: 44691, frq: 117}, N: {rk: 54163, frq: 64}
+ovulate <> V: {rk: 28030, frq: 442}
+ovulation <> N: {rk: 21118, frq: 869}
+ovule <> N: {rk: 56364, frq: 56}
+ovum <> N: {rk: 38123, frq: 188}
+owe <> V: {rk: 2488, frq: 32943}
+owing <> I: {rk: 12456, frq: 2533}, J: {rk: 40211, frq: 160}
+owl <> N: {rk: 6356, frq: 8139}
+owlet <> N: {rk: 49977, frq: 83}
+owlish <> J: {rk: 47262, frq: 99}
+own <> D: {rk: 160, frq: 579172}, V: {rk: 1128, frq: 86371}
+owned <> J: {rk: 23960, frq: 650}
+owner <> N: {rk: 1089, frq: 89612}
+owner-occupied <> J: {rk: 40545, frq: 156}
+ownership <> N: {rk: 3825, frq: 18114}
+oxalate <> N: {rk: 46760, frq: 102}
+oxbow <> N: {rk: 42942, frq: 132}
+oxidant <> N: {rk: 43566, frq: 126}
+oxidase <> N: {rk: 33460, frq: 276}
+oxidation <> N: {rk: 18500, frq: 1154}
+oxidative <> J: {rk: 17982, frq: 1228}
+oxide <> N: {rk: 11122, frq: 3090}
+oxidize <> V: {rk: 24867, frq: 595}
+oxidized <> J: {rk: 37325, frq: 200}
+oxidizer <> N: {rk: 50376, frq: 81}
+oximetry <> N: {rk: 53994, frq: 65}
+oxtail <> N: {rk: 39247, frq: 172}
+oxycodone <> N: {rk: 33461, frq: 276}
+oxygen <> N: {rk: 4046, frq: 16714}
+oxygenate <> V: {rk: 40889, frq: 152}, N: {rk: 59945, frq: 45}
+oxygenated <> J: {rk: 41604, frq: 145}
+oxygenation <> N: {rk: 37462, frq: 198}
+oxymoron <> N: {rk: 20989, frq: 880}
+oxymoronic <> J: {rk: 39054, frq: 175}
+oxytocin <> N: {rk: 26988, frq: 489}
+oy <> U: {rk: 18393, frq: 1169}
+oyster <> N: {rk: 6456, frq: 7923}
+ozone <> N: {rk: 7219, frq: 6497}

@@ -20,9 +20,9 @@
         "total": 111
     },
     "freq": {
-        "start": "xenon",
-        "end": "xylophone",
-        "total": 9
+        "start": "x-axis",
+        "end": "xylose",
+        "total": 15
     },
     "lgk_id": {
         "start": "x",
@@ -36,8 +36,8 @@
     },
     "pos": {
         "start": "x-axis",
-        "end": "xylophone",
-        "total": 9
+        "end": "xylose",
+        "total": 15
     },
     "redirect": {
         "start": "xenophons",

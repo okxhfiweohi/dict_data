@@ -1,1055 +1,1090 @@
-wack <> N: {rk: 50026, frq: 43}
-wackiness <> N: {rk: 49202, frq: 39}
-wacko <> N: {rk: 22253, frq: 362}
-wacky <> J: {rk: 13655, frq: 959}
-wad <> N: {rk: 11692, frq: 1310}, V: {rk: 27861, frq: 202}
-wadded <> J: {rk: 38119, frq: 82}
-wadding <> N: {rk: 40413, frq: 65}
-waddle <> V: {rk: 18645, frq: 525}, N: {rk: 44361, frq: 179}
-wade <> V: {rk: 7756, frq: 2812}
-wader <> N: {rk: 22811, frq: 342}
-wading <> N: {rk: 26908, frq: 230}, J: {rk: 34723, frq: 106}
-wafer <> N: {rk: 14050, frq: 966}
-wafer-thin <> J: {rk: 42059, frq: 57}
-waffle <> N: {rk: 13763, frq: 1033}, V: {rk: 19916, frq: 445}
-waffling <> N: {rk: 50471, frq: 32}
-waft <> V: {rk: 12127, frq: 1233}, N: {rk: 34671, frq: 113}
-wag <> V: {rk: 12210, frq: 1220}, N: {rk: 25750, frq: 285}
-wage <> N: {rk: 2602, frq: 13864}, V: {rk: 6412, frq: 3490}
-wage-earner <> N: {rk: 36734, frq: 85}
-wager <> V: {rk: 16990, frq: 639}, N: {rk: 19177, frq: 495}
-wagering <> J: {rk: 57248, frq: 25}
-wagging <> J: {rk: 51500, frq: 29}
-waggish <> J: {rk: 56442, frq: 23}
-waggle <> V: {rk: 24417, frq: 296}, N: {rk: 46718, frq: 41}
-wagon <> N: {rk: 4227, frq: 7019}
-wagonload <> N: {rk: 46572, frq: 43}
-wahoo <> N: {rk: 36277, frq: 134}
-waif <> N: {rk: 26117, frq: 231}
-waiflike <> J: {rk: 47167, frq: 38}
-wail <> V: {rk: 9068, frq: 2083}, N: {rk: 13739, frq: 1023}
-wailing <> N: {rk: 31257, frq: 144}, J: {rk: 32028, frq: 128}
-wainscot <> N: {rk: 58835, frq: 19}
-wainscoting <> N: {rk: 40765, frq: 72}
-waist <> N: {rk: 4342, frq: 6896}
-waist-deep <> J: {rk: 31971, frq: 133}
-waistband <> N: {rk: 18001, frq: 590}
-waistcoat <> N: {rk: 24225, frq: 342}
-waistline <> N: {rk: 21154, frq: 404}
-wait <> V: {rk: 400, frq: 110964}, N: {rk: 6346, frq: 3634}
-waiter <> N: {rk: 5523, frq: 4799}
-waiting <> N: {rk: 6157, frq: 3735}, J: {rk: 9163, frq: 1915}
-waitress <> N: {rk: 6479, frq: 3752}
-waitressing <> J: {rk: 46884, frq: 38}
-waitstaff <> N: {rk: 46270, frq: 48}
-waive <> V: {rk: 10636, frq: 1514}
-waiver <> N: {rk: 9645, frq: 1874}
-wake <> V: {rk: 1774, frq: 23344}, N: {rk: 4029, frq: 7406}
-wake-up <> N: {rk: 11359, frq: 1351}
-wakeboard <> N: {rk: 57217, frq: 30}
-wakeful <> J: {rk: 35962, frq: 90}
-wakefulness <> N: {rk: 25946, frq: 234}
-waken <> V: {rk: 22867, frq: 330}
-waking <> N: {rk: 11759, frq: 1244}
-walk <> V: {rk: 358, frq: 122986}, N: {rk: 2217, frq: 17111}
-walk-in <> N: {rk: 14795, frq: 962}, J: {rk: 40618, frq: 67}
-walk-on <> N: {rk: 26213, frq: 239}
-walk-through <> J: {rk: 25797, frq: 242}, N: {rk: 53531, frq: 27}
-walk-up <> N: {rk: 24806, frq: 293}
-walkable <> J: {rk: 33760, frq: 124}
-walkie-talkie <> N: {rk: 19817, frq: 462}, J: {rk: 40470, frq: 62}
-walking <> N: {rk: 3661, frq: 8244}, J: {rk: 32927, frq: 114}
-walkman <> N: {rk: 20530, frq: 394}
-walkout <> N: {rk: 22950, frq: 330}
-walkover <> N: {rk: 50854, frq: 39}
-walkthrough <> N: {rk: 48346, frq: 37}
-walkway <> N: {rk: 9995, frq: 1714}
-wall <> N: {rk: 571, frq: 91439}, V: {rk: 23640, frq: 295}
-wall-eyed <> J: {rk: 50083, frq: 32}
-wall-mounted <> J: {rk: 29847, frq: 155}
-wall-to-wall <> J: {rk: 23362, frq: 291}, N: {rk: 45127, frq: 75}
-wallaby <> N: {rk: 38047, frq: 80}
-wallboard <> N: {rk: 34734, frq: 108}
-walled <> J: {rk: 17554, frq: 561}
-wallet <> N: {rk: 5652, frq: 4695}
-walleye <> N: {rk: 15361, frq: 908}
-wallflower <> N: {rk: 28983, frq: 180}
-wallop <> N: {rk: 24807, frq: 265}, V: {rk: 40394, frq: 67}
-walloping <> J: {rk: 54502, frq: 27}
-wallow <> V: {rk: 15554, frq: 725}, N: {rk: 33216, frq: 156}
-wallpaper <> N: {rk: 10018, frq: 1750}, V: {rk: 41290, frq: 59}
-walnut <> N: {rk: 7979, frq: 3832}
-walrus <> N: {rk: 24630, frq: 270}
-waltz <> N: {rk: 20529, frq: 751}, V: {rk: 28882, frq: 178}
-wampum <> N: {rk: 34494, frq: 221}
-wan <> V: {rk: 5929, frq: 4769}, J: {rk: 16360, frq: 692}
-wand <> N: {rk: 12627, frq: 1144}
-wander <> V: {rk: 3204, frq: 10554}, N: {rk: 49345, frq: 34}
-wanderer <> N: {rk: 19683, frq: 510}, J: {rk: 54623, frq: 24}
-wandering <> J: {rk: 17015, frq: 618}
-wanderings <> N: {rk: 25170, frq: 250}
-wanderlust <> N: {rk: 31925, frq: 161}
-wane <> V: {rk: 10242, frq: 1585}, N: {rk: 22910, frq: 306}
-wangle <> V: {rk: 34484, frq: 97}
-waning <> J: {rk: 16298, frq: 646}, N: {rk: 36625, frq: 88}
-wanker <> N: {rk: 49630, frq: 37}
-wanly <> R: {rk: 31922, frq: 142}
-wannabe <> N: {rk: 18335, frq: 700}
-want <> V: {rk: 83, frq: 559368}, N: {rk: 11320, frq: 1320}
-wanted <> J: {rk: 12108, frq: 1187}
-wanting <> J: {rk: 14343, frq: 843}
-wanton <> J: {rk: 20096, frq: 417}
-wantonly <> R: {rk: 35429, frq: 95}
-wantonness <> N: {rk: 52497, frq: 34}
-wapiti <> N: {rk: 53216, frq: 44}
-war <> N: {rk: 349, frq: 168673}, V: {rk: 37869, frq: 79}
-war-torn <> J: {rk: 20032, frq: 429}
-warble <> V: {rk: 25912, frq: 241}, N: {rk: 36682, frq: 91}
-warbler <> N: {rk: 21468, frq: 399}
-warbling <> J: {rk: 53105, frq: 29}, N: {rk: 53724, frq: 27}
-ward <> N: {rk: 5117, frq: 10516}, V: {rk: 24172, frq: 278}
-warden <> N: {rk: 9527, frq: 1940}
-warder <> N: {rk: 31688, frq: 176}
-wardrobe <> N: {rk: 8060, frq: 2546}
-wardroom <> N: {rk: 35808, frq: 109}
-warehouse <> N: {rk: 4970, frq: 5454}, V: {rk: 35194, frq: 98}
-warehousing <> N: {rk: 27490, frq: 191}
-wares <> N: {rk: 10537, frq: 1528}
-warfare <> N: {rk: 5118, frq: 5309}
-warfarin <> N: {rk: 39487, frq: 100}
-warhead <> N: {rk: 10059, frq: 1765}
-warhorse <> N: {rk: 31096, frq: 156}
-warily <> R: {rk: 14997, frq: 846}
-wariness <> N: {rk: 22148, frq: 351}
-warlike <> J: {rk: 24102, frq: 276}
-warlock <> N: {rk: 44184, frq: 71}
-warlord <> N: {rk: 12555, frq: 1231}
-warm <> J: {rk: 1360, frq: 31259}, V: {rk: 3623, frq: 8725}
-warm-blooded <> J: {rk: 32469, frq: 123}
-warm-hearted <> J: {rk: 36142, frq: 85}
-warm-up <> N: {rk: 10078, frq: 1620}, J: {rk: 43652, frq: 51}
-warmed <> J: {rk: 28910, frq: 181}
-warming <> N: {rk: 5192, frq: 5534}, J: {rk: 18264, frq: 566}
-warmly <> R: {rk: 11289, frq: 1355}
-warmonger <> N: {rk: 40102, frq: 71}
-warmth <> N: {rk: 4794, frq: 5819}
-warn <> V: {rk: 1783, frq: 21699}
-warning <> N: {rk: 2114, frq: 17537}
-warningly <> R: {rk: 46901, frq: 47}
-warp <> N: {rk: 14581, frq: 842}, V: {rk: 16353, frq: 658}
-warpath <> N: {rk: 35945, frq: 90}
-warped <> J: {rk: 15711, frq: 732}
-warping <> N: {rk: 48025, frq: 39}
-warplane <> N: {rk: 15907, frq: 763}
-warrant <> V: {rk: 6078, frq: 3927}, N: {rk: 6144, frq: 3956}
-warranted <> J: {rk: 49117, frq: 34}
-warrantless <> J: {rk: 31114, frq: 176}
-warranty <> N: {rk: 9822, frq: 1832}
-warring <> J: {rk: 13425, frq: 952}
-warrior <> N: {rk: 3633, frq: 8863}
-warship <> N: {rk: 12296, frq: 1218}
-wart <> N: {rk: 15851, frq: 717}
-warthog <> N: {rk: 35559, frq: 124}
-wartime <> N: {rk: 7832, frq: 2558}
-warty <> J: {rk: 47528, frq: 38}
-wary <> J: {rk: 6083, frq: 3817}
-wasabi <> N: {rk: 27468, frq: 254}, J: {rk: 55369, frq: 29}
-wash <> V: {rk: 2156, frq: 17777}, N: {rk: 5900, frq: 5074}
-washable <> J: {rk: 28591, frq: 211}
-washbasin <> N: {rk: 35436, frq: 98}
-washboard <> N: {rk: 26821, frq: 224}
-washcloth <> N: {rk: 19377, frq: 491}
-washed <> J: {rk: 17831, frq: 552}
-washed-out <> J: {rk: 28062, frq: 194}
-washed-up <> J: {rk: 33621, frq: 113}
-washer <> N: {rk: 11680, frq: 1306}
-washerman <> N: {rk: 59876, frq: 20}
-washerwoman <> N: {rk: 37296, frq: 82}
-washing <> N: {rk: 9143, frq: 1952}
-washrag <> N: {rk: 56174, frq: 24}
-washroom <> N: {rk: 26785, frq: 246}
-washstand <> N: {rk: 40002, frq: 65}
-washtub <> N: {rk: 35829, frq: 97}
-wasp <> N: {rk: 12132, frq: 1679}
-waspish <> J: {rk: 54326, frq: 27}
-waspy <> J: {rk: 46014, frq: 40}
-wastage <> N: {rk: 38999, frq: 109}
-waste <> N: {rk: 1996, frq: 20234}, V: {rk: 3067, frq: 10823}, J: {rk: 21768, frq: 359}
-wastebasket <> N: {rk: 21147, frq: 397}
-wasted <> J: {rk: 12575, frq: 1093}
-wasteful <> J: {rk: 13314, frq: 988}
-wastefully <> R: {rk: 46456, frq: 39}
-wastefulness <> N: {rk: 45341, frq: 52}
-wasteland <> N: {rk: 15270, frq: 814}
-wastepaper <> N: {rk: 39083, frq: 76}
-waster <> N: {rk: 46383, frq: 44}
-wastewater <> N: {rk: 13843, frq: 1102}, J: {rk: 14604, frq: 951}
-wasting <> J: {rk: 38256, frq: 87}
-wastrel <> N: {rk: 43308, frq: 60}
-watch <> V: {rk: 323, frq: 136011}, N: {rk: 2461, frq: 15329}
-watchable <> J: {rk: 36938, frq: 92}
-watchband <> N: {rk: 54385, frq: 25}
-watchdog <> N: {rk: 10279, frq: 1677}
-watcher <> N: {rk: 9069, frq: 1973}
-watchful <> J: {rk: 12736, frq: 1057}
-watchfully <> R: {rk: 53275, frq: 25}
-watchfulness <> N: {rk: 37778, frq: 79}
-watching <> N: {rk: 28986, frq: 186}, J: {rk: 30418, frq: 153}
-watchmaker <> N: {rk: 31713, frq: 143}
-watchtower <> N: {rk: 27763, frq: 241}
-watchword <> N: {rk: 27887, frq: 194}
-water <> N: {rk: 226, frq: 184829}, V: {rk: 6541, frq: 3378}
-water-based <> J: {rk: 26905, frq: 230}
-water-repellent <> J: {rk: 45964, frq: 45}
-water-resistant <> J: {rk: 29011, frq: 202}
-water-soluble <> J: {rk: 27220, frq: 211}
-waterbed <> N: {rk: 39642, frq: 51}
-waterbird <> N: {rk: 50315, frq: 36}
-waterborne <> J: {rk: 23389, frq: 354}
-watercolor <> N: {rk: 6183, frq: 4237}
-watercolorist <> N: {rk: 31441, frq: 144}
-watercooler <> N: {rk: 34420, frq: 117}
-watercourse <> N: {rk: 31165, frq: 298}
-watercraft <> N: {rk: 30302, frq: 185}
-watercress <> N: {rk: 21483, frq: 410}
-watered <> J: {rk: 47694, frq: 38}
-watered-down <> J: {rk: 26768, frq: 213}
-waterfall <> N: {rk: 8238, frq: 2327}
-waterfowl <> N: {rk: 16536, frq: 733}
-waterfowler <> N: {rk: 35639, frq: 108}
-waterfront <> N: {rk: 10144, frq: 1915}
-waterhole <> N: {rk: 42594, frq: 57}
-watering <> N: {rk: 12935, frq: 1066}
-waterless <> J: {rk: 38425, frq: 79}
-waterline <> N: {rk: 25228, frq: 264}
-waterlog <> V: {rk: 48553, frq: 40}
-waterlogged <> J: {rk: 22115, frq: 342}
-watermark <> N: {rk: 28950, frq: 183}
-watermelon <> N: {rk: 11221, frq: 1503}
-waterproof <> J: {rk: 12347, frq: 1283}, V: {rk: 50102, frq: 31}
-waterproofing <> N: {rk: 31663, frq: 149}
-waterproofness <> N: {rk: 55239, frq: 28}
-watershed <> N: {rk: 7824, frq: 2659}
-waterside <> N: {rk: 32163, frq: 139}
-waterspout <> N: {rk: 44814, frq: 49}
-watertight <> J: {rk: 25313, frq: 255}
-waterway <> N: {rk: 9722, frq: 1772}
-waterwheel <> N: {rk: 53203, frq: 29}
-waterworks <> N: {rk: 28900, frq: 227}
-watery <> J: {rk: 10856, frq: 1469}
-wattage <> N: {rk: 26921, frq: 237}
-wattle <> N: {rk: 29297, frq: 188}
-wave <> N: {rk: 1402, frq: 29256}, V: {rk: 2634, frq: 14633}
-waveform <> N: {rk: 25007, frq: 288}
-wavefront <> N: {rk: 33269, frq: 155}
-wavefunction <> N: {rk: 31802, frq: 171}
-waveguide <> N: {rk: 35730, frq: 122}
-wavelength <> N: {rk: 8169, frq: 2426}
-wavelet <> N: {rk: 38352, frq: 92}
-waver <> V: {rk: 9613, frq: 1836}
-wavering <> J: {rk: 28144, frq: 196}, N: {rk: 39567, frq: 67}
-wavery <> J: {rk: 51156, frq: 30}
-waving <> J: {rk: 15595, frq: 729}
-wavy <> J: {rk: 14225, frq: 936}
-wax <> N: {rk: 7346, frq: 2881}, V: {rk: 11374, frq: 1342}
-waxed <> J: {rk: 13179, frq: 1070}
-waxen <> J: {rk: 38889, frq: 70}
-waxing <> J: {rk: 32563, frq: 127}, N: {rk: 39293, frq: 85}
-waxwing <> N: {rk: 50569, frq: 33}
-waxwork <> N: {rk: 54185, frq: 27}
-waxy <> J: {rk: 20731, frq: 407}
-way <> N: {rk: 84, frq: 511585}, R: {rk: 4081, frq: 7261}
-wayfarer <> N: {rk: 34260, frq: 113}
-waylay <> V: {rk: 28354, frq: 194}
-waypoint <> N: {rk: 31263, frq: 211}
-wayside <> N: {rk: 18258, frq: 524}
-wayward <> J: {rk: 14730, frq: 809}
-waywardness <> N: {rk: 56664, frq: 21}
-we <> P: {rk: 24, frq: 1973643}
-weak <> J: {rk: 2081, frq: 18014}
-weak-kneed <> J: {rk: 39055, frq: 71}
-weak-minded <> J: {rk: 53945, frq: 28}
-weak-willed <> J: {rk: 54328, frq: 26}
-weaken <> V: {rk: 4527, frq: 6059}
-weakened <> J: {rk: 16414, frq: 639}
-weakening <> J: {rk: 18169, frq: 526}
-weakest <> J: {rk: 13536, frq: 944}
-weakfish <> N: {rk: 53474, frq: 42}
-weakling <> N: {rk: 27615, frq: 194}
-weakly <> R: {rk: 12055, frq: 1235}
-weakness <> N: {rk: 3510, frq: 8887}
-weal <> N: {rk: 37364, frq: 79}
-wealth <> N: {rk: 2575, frq: 13942}
-wealthy <> J: {rk: 3034, frq: 10979}
-wean <> V: {rk: 14044, frq: 884}
-weaned <> J: {rk: 54960, frq: 26}
-weaning <> J: {rk: 51983, frq: 26}
-weapon <> N: {rk: 930, frq: 46338}
-weaponization <> N: {rk: 48373, frq: 54}
-weaponized <> J: {rk: 49429, frq: 36}
-weaponless <> J: {rk: 55272, frq: 25}
-weaponry <> N: {rk: 12198, frq: 1155}
-weapons-grade <> J: {rk: 30189, frq: 164}
-wear <> V: {rk: 518, frq: 85047}, N: {rk: 8927, frq: 2643}
-wearable <> J: {rk: 24715, frq: 304}, N: {rk: 57984, frq: 34}
-wearer <> N: {rk: 17210, frq: 614}
-wearily <> R: {rk: 14389, frq: 927}
-weariness <> N: {rk: 17002, frq: 646}
-wearing <> N: {rk: 19832, frq: 445}
-wearisome <> J: {rk: 41238, frq: 60}
-weary <> J: {rk: 6858, frq: 3170}, V: {rk: 29650, frq: 159}
-wearying <> J: {rk: 53120, frq: 31}
-weasel <> N: {rk: 18063, frq: 870}, V: {rk: 31800, frq: 149}
-weather <> N: {rk: 1619, frq: 25083}, V: {rk: 9568, frq: 1793}
-weather-beaten <> J: {rk: 30592, frq: 153}, N: {rk: 55317, frq: 24}
-weather-worn <> J: {rk: 45932, frq: 42}
-weathered <> J: {rk: 13236, frq: 1038}
-weathering <> N: {rk: 26014, frq: 241}
-weatherman <> N: {rk: 20342, frq: 892}
-weatherproof <> J: {rk: 32240, frq: 133}, V: {rk: 49800, frq: 34}
-weathervane <> N: {rk: 41956, frq: 59}
-weave <> V: {rk: 4941, frq: 5359}, N: {rk: 13320, frq: 1042}
-weaving <> N: {rk: 12609, frq: 1114}
-webbed <> J: {rk: 24224, frq: 290}
-webbing <> N: {rk: 21506, frq: 361}
-webby <> J: {rk: 48510, frq: 39}
-webcam <> N: {rk: 29992, frq: 274}
-webcast <> N: {rk: 35339, frq: 105}
-weblog <> N: {rk: 40815, frq: 74}
-webmaster <> N: {rk: 33663, frq: 137}
-webpage <> N: {rk: 41671, frq: 96}
-website <> N: {rk: 4998, frq: 7341}
-wed <> V: {rk: 9758, frq: 2092}
-wedded <> J: {rk: 24335, frq: 261}
-wedding <> N: {rk: 2189, frq: 17571}
-wedge <> N: {rk: 6341, frq: 3825}, V: {rk: 9437, frq: 1925}
-wedge-shaped <> J: {rk: 32898, frq: 117}
-wedgie <> N: {rk: 45525, frq: 50}
-wedlock <> N: {rk: 17837, frq: 544}
-wee <> J: {rk: 12365, frq: 1145}, N: {rk: 24044, frq: 313}, V: {rk: 33331, frq: 122}
-weed <> N: {rk: 4587, frq: 6014}, V: {rk: 10292, frq: 1545}
-weeding <> N: {rk: 35199, frq: 98}
-weedless <> J: {rk: 46133, frq: 45}
-weedy <> J: {rk: 20356, frq: 406}
-week <> N: {rk: 188, frq: 217313}
-week-long <> J: {rk: 12569, frq: 989}
-weekday <> N: {rk: 8465, frq: 2379}
-weekend <> N: {rk: 1195, frq: 36929}
-weekender <> N: {rk: 40180, frq: 93}
-weekly <> J: {rk: 3241, frq: 10203}, N: {rk: 18080, frq: 866}, R: {rk: 21014, frq: 379}
-weeknight <> N: {rk: 22069, frq: 424}
-weenie <> N: {rk: 37313, frq: 97}
-weep <> V: {rk: 5780, frq: 4397}, N: {rk: 24253, frq: 273}
-weeper <> N: {rk: 46875, frq: 46}
-weeping <> N: {rk: 16547, frq: 667}, J: {rk: 17851, frq: 560}
-weepy <> J: {rk: 31527, frq: 138}
-weevil <> N: {rk: 20483, frq: 593}
-weft <> N: {rk: 30543, frq: 193}
-weigh <> V: {rk: 2520, frq: 14329}
-weigh-in <> N: {rk: 31421, frq: 146}
-weighing <> N: {rk: 20451, frq: 396}
-weight <> N: {rk: 955, frq: 45206}, V: {rk: 11308, frq: 1331}
-weighted <> J: {rk: 14704, frq: 859}
-weightiness <> N: {rk: 55776, frq: 22}
-weighting <> N: {rk: 22516, frq: 357}
-weightless <> J: {rk: 18755, frq: 504}
-weightlessness <> N: {rk: 23909, frq: 286}
-weighty <> J: {rk: 14410, frq: 835}
-weird <> J: {rk: 3659, frq: 9000}
-weirdly <> R: {rk: 22715, frq: 339}
-weirdness <> N: {rk: 25003, frq: 274}
-weirdo <> N: {rk: 24047, frq: 305}
-welcome <> V: {rk: 1550, frq: 27845}, J: {rk: 3675, frq: 8531}, N: {rk: 6856, frq: 3037}
-welcoming <> J: {rk: 11016, frq: 1427}
-weld <> V: {rk: 15684, frq: 821}
-welded <> J: {rk: 26836, frq: 213}
-welder <> N: {rk: 18308, frq: 524}
-welding <> N: {rk: 15972, frq: 728}
-welfare <> N: {rk: 1943, frq: 20635}
-well <> R: {rk: 100, frq: 448199}, I: {rk: 643, frq: 65939}, V: {rk: 14371, frq: 900}
-well-adjusted <> J: {rk: 29122, frq: 172}
-well-advised <> J: {rk: 40147, frq: 66}
-well-appointed <> J: {rk: 30326, frq: 161}
-well-balanced <> J: {rk: 22205, frq: 334}
-well-behaved <> J: {rk: 23384, frq: 292}
-well-being <> N: {rk: 4583, frq: 6606}
-well-born <> J: {rk: 42614, frq: 56}
-well-bred <> J: {rk: 34632, frq: 100}
-well-built <> J: {rk: 28382, frq: 181}
-well-chosen <> J: {rk: 31055, frq: 143}
-well-connected <> J: {rk: 22902, frq: 312}, N: {rk: 38490, frq: 78}
-well-dressed <> J: {rk: 16542, frq: 650}
-well-earned <> J: {rk: 33407, frq: 117}
-well-endowed <> J: {rk: 39870, frq: 64}
-well-established <> J: {rk: 13737, frq: 954}
-well-fed <> J: {rk: 28708, frq: 170}
-well-founded <> J: {rk: 28503, frq: 181}
-well-groomed <> J: {rk: 27953, frq: 186}
-well-grounded <> J: {rk: 40572, frq: 61}
-well-heeled <> J: {rk: 19812, frq: 449}
-well-informed <> J: {rk: 22430, frq: 322}
-well-intentioned <> J: {rk: 17318, frq: 586}
-well-kept <> J: {rk: 26329, frq: 222}
-well-known <> J: {rk: 4439, frq: 6180}
-well-mannered <> J: {rk: 27208, frq: 203}
-well-meaning <> J: {rk: 15024, frq: 769}
-well-meant <> J: {rk: 46662, frq: 39}
-well-nigh <> R: {rk: 41112, frq: 62}
-well-off <> J: {rk: 19136, frq: 455}
-well-oiled <> J: {rk: 28160, frq: 191}
-well-paid <> J: {rk: 24040, frq: 278}
-well-preserved <> J: {rk: 26976, frq: 223}
-well-read <> J: {rk: 30702, frq: 147}
-well-rounded <> J: {rk: 19142, frq: 476}
-well-spoken <> J: {rk: 35558, frq: 93}
-well-thought-out <> J: {rk: 31406, frq: 137}
-well-timed <> J: {rk: 34375, frq: 103}
-well-to-do <> J: {rk: 16111, frq: 668}
-well-turned <> J: {rk: 49477, frq: 33}
-well-versed <> J: {rk: 33683, frq: 111}
-well-wisher <> N: {rk: 23780, frq: 276}
-well-worn <> J: {rk: 18124, frq: 541}, N: {rk: 47050, frq: 41}
-wellhead <> N: {rk: 29127, frq: 260}
-welling <> J: {rk: 54141, frq: 28}
-wellness <> N: {rk: 13299, frq: 1492}
-wellspring <> N: {rk: 23673, frq: 300}
-welt <> N: {rk: 19789, frq: 483}, V: {rk: 43819, frq: 48}
-welter <> N: {rk: 25526, frq: 247}
-welterweight <> N: {rk: 28879, frq: 187}
-wench <> N: {rk: 29254, frq: 195}
-wend <> V: {rk: 22788, frq: 320}
-werewolf <> N: {rk: 22112, frq: 534}
-wesleyan <> J: {rk: 23924, frq: 303}, N: {rk: 25098, frq: 343}
-west <> N: {rk: 665, frq: 80822}
-westering <> J: {rk: 56134, frq: 21}
-westerly <> J: {rk: 28323, frq: 177}, N: {rk: 56555, frq: 26}
-western <> J: {rk: 1080, frq: 39862}
-westernize <> V: {rk: 44749, frq: 49}
-westernized <> J: {rk: 25653, frq: 238}
-westernizer <> N: {rk: 56295, frq: 21}
-westernmost <> J: {rk: 31513, frq: 141}
-westward <> R: {rk: 12936, frq: 1024}, J: {rk: 31639, frq: 136}
-wet <> J: {rk: 2487, frq: 15003}, V: {rk: 7517, frq: 2780}, N: {rk: 57754, frq: 27}
-wetback <> N: {rk: 36732, frq: 100}
-wetland <> N: {rk: 5863, frq: 4473}
-wetly <> R: {rk: 35712, frq: 103}
-wetness <> N: {rk: 22611, frq: 342}
-wetsuit <> N: {rk: 32428, frq: 140}
-wetted <> J: {rk: 50053, frq: 35}
-wetting <> N: {rk: 45960, frq: 46}
-wetware <> N: {rk: 53455, frq: 32}
-whack <> V: {rk: 11677, frq: 1278}, N: {rk: 15725, frq: 733}
-whacked <> J: {rk: 27093, frq: 207}
-whacking <> J: {rk: 40756, frq: 58}
-whacko <> N: {rk: 41214, frq: 65}
-whale <> N: {rk: 4267, frq: 8109}
-whalebone <> N: {rk: 47248, frq: 52}
-whaler <> N: {rk: 24327, frq: 405}
-whaling <> N: {rk: 16192, frq: 818}
-wham <> U: {rk: 19705, frq: 459}
-whammy <> N: {rk: 24323, frq: 280}
-whap <> V: {rk: 43419, frq: 61}
-wharf <> N: {rk: 18112, frq: 974}
-what <> D: {rk: 34, frq: 1283090}
-whatever <> D: {rk: 776, frq: 54401}
-whatnot <> N: {rk: 21991, frq: 390}
-whatsoever <> D: {rk: 6191, frq: 3828}
-wheat <> N: {rk: 4520, frq: 6300}
-wheatfield <> N: {rk: 43347, frq: 68}
-wheatgrass <> N: {rk: 43064, frq: 56}
-whee <> U: {rk: 49223, frq: 37}
-wheedle <> V: {rk: 30541, frq: 156}
-wheedling <> J: {rk: 37547, frq: 80}
-wheel <> N: {rk: 2009, frq: 19559}, V: {rk: 6369, frq: 3665}
-wheelbarrow <> N: {rk: 17602, frq: 619}
-wheelbase <> N: {rk: 22767, frq: 341}
-wheelchair <> N: {rk: 4642, frq: 6191}
-wheeled <> J: {rk: 23626, frq: 305}
-wheeler-dealer <> N: {rk: 39728, frq: 62}
-wheelhouse <> N: {rk: 28216, frq: 244}
-wheelie <> N: {rk: 32301, frq: 138}
-wheeling <> N: {rk: 35236, frq: 103}, J: {rk: 39061, frq: 70}
-wheelset <> N: {rk: 43191, frq: 74}
-wheelwright <> N: {rk: 49250, frq: 55}
-wheeze <> V: {rk: 14959, frq: 818}, N: {rk: 25428, frq: 287}
-wheezing <> J: {rk: 39491, frq: 71}, N: {rk: 39718, frq: 90}
-wheezy <> J: {rk: 35699, frq: 94}
-whelk <> N: {rk: 41307, frq: 71}
-whelp <> N: {rk: 50765, frq: 31}, V: {rk: 55113, frq: 24}
-when <> C: {rk: 57, frq: 736305}, R: {rk: 136, frq: 291580}
-whence <> R: {rk: 18636, frq: 501}
-whenever <> R: {rk: 2328, frq: 15672}
-where <> C: {rk: 169, frq: 231293}, R: {rk: 190, frq: 211899}
-whereabouts <> N: {rk: 11452, frq: 1291}, R: {rk: 33091, frq: 125}
-whereas <> C: {rk: 2748, frq: 13714}
-whereby <> R: {rk: 8654, frq: 2239}
-wherefore <> R: {rk: 34585, frq: 110}, N: {rk: 47969, frq: 41}
-wherein <> R: {rk: 12340, frq: 1181}
-whereof <> R: {rk: 35818, frq: 95}
-whereon <> R: {rk: 55778, frq: 25}
-whereupon <> C: {rk: 17802, frq: 545}
-wherever <> R: {rk: 3738, frq: 7980}
-wherewithal <> N: {rk: 20398, frq: 411}
-whet <> V: {rk: 20874, frq: 367}
-whether <> C: {rk: 321, frq: 131650}
-whetstone <> N: {rk: 41549, frq: 99}
-whey <> N: {rk: 29440, frq: 206}
-which <> D: {rk: 58, frq: 739360}
-whichever <> D: {rk: 10939, frq: 1371}
-whiff <> N: {rk: 12367, frq: 1209}, V: {rk: 35505, frq: 91}
-while <> C: {rk: 153, frq: 254311}, N: {rk: 1325, frq: 32177}
-whilst <> C: {rk: 19741, frq: 477}
-whim <> N: {rk: 10277, frq: 1551}
-whimper <> V: {rk: 14497, frq: 926}, N: {rk: 20498, frq: 428}
-whimpering <> J: {rk: 43313, frq: 54}, N: {rk: 45975, frq: 66}
-whimsical <> J: {rk: 13500, frq: 997}
-whimsically <> R: {rk: 34202, frq: 103}
-whimsy <> N: {rk: 20836, frq: 411}
-whine <> V: {rk: 8055, frq: 2459}, N: {rk: 14102, frq: 936}
-whiner <> N: {rk: 26248, frq: 222}
-whiney <> N: {rk: 59218, frq: 35}
-whining <> N: {rk: 21914, frq: 346}, J: {rk: 30945, frq: 141}
-whinny <> N: {rk: 34927, frq: 106}, V: {rk: 35440, frq: 101}
-whiny <> J: {rk: 28253, frq: 186}
-whip <> V: {rk: 4290, frq: 6839}, N: {rk: 7707, frq: 2694}
-whiplash <> N: {rk: 29029, frq: 203}
-whiplike <> J: {rk: 47872, frq: 41}
-whipped <> J: {rk: 13123, frq: 1084}
-whipper <> N: {rk: 57601, frq: 24}
-whippersnapper <> N: {rk: 47456, frq: 43}
-whippet <> N: {rk: 43422, frq: 77}
-whipping <> J: {rk: 24614, frq: 289}, N: {rk: 28287, frq: 181}
-whippoorwill <> N: {rk: 45116, frq: 52}
-whipsaw <> V: {rk: 39619, frq: 72}
-whir <> V: {rk: 19017, frq: 507}, N: {rk: 25925, frq: 249}
-whirl <> V: {rk: 8181, frq: 2550}, N: {rk: 18309, frq: 540}
-whirligig <> N: {rk: 40138, frq: 76}
-whirling <> J: {rk: 23770, frq: 294}
-whirlpool <> N: {rk: 16727, frq: 913}
-whirlwind <> N: {rk: 12832, frq: 1065}
-whirr <> N: {rk: 37130, frq: 104}, V: {rk: 59246, frq: 22}
-whirring <> J: {rk: 35089, frq: 103}, N: {rk: 36293, frq: 95}
-whisk <> V: {rk: 6399, frq: 4426}, N: {rk: 19855, frq: 513}
-whisker <> N: {rk: 14270, frq: 947}
-whiskered <> J: {rk: 36462, frq: 88}
-whiskey <> N: {rk: 7129, frq: 3165}
-whisky <> N: {rk: 18020, frq: 579}
-whisper <> V: {rk: 2462, frq: 16630}, N: {rk: 5839, frq: 4529}
-whispered <> J: {rk: 20030, frq: 460}
-whisperer <> N: {rk: 33776, frq: 149}
-whispering <> N: {rk: 27418, frq: 211}, J: {rk: 30195, frq: 160}
-whispery <> J: {rk: 33085, frq: 138}
-whist <> N: {rk: 40140, frq: 79}
-whistle <> N: {rk: 6555, frq: 3450}, V: {rk: 7183, frq: 3063}
-whistle-blower <> N: {rk: 18603, frq: 561}, J: {rk: 37774, frq: 92}
-whistle-stop <> J: {rk: 49842, frq: 31}
-whistling <> N: {rk: 18898, frq: 517}, J: {rk: 33593, frq: 142}
-whit <> N: {rk: 21036, frq: 476}
-white <> J: {rk: 301, frq: 136438}
-white-bread <> J: {rk: 42518, frq: 53}
-white-collar <> J: {rk: 12685, frq: 1069}
-white-hot <> J: {rk: 24778, frq: 277}
-white-knuckle <> J: {rk: 45256, frq: 47}
-white-knuckled <> J: {rk: 39633, frq: 78}
-white-out <> J: {rk: 45607, frq: 43}
-white-shoe <> J: {rk: 54616, frq: 25}
-whiteboard <> N: {rk: 32359, frq: 187}
-whitecap <> N: {rk: 59894, frq: 79}
-whitecaps <> N: {rk: 30045, frq: 169}
-whitefish <> N: {rk: 27087, frq: 341}
-whitefly <> N: {rk: 33481, frq: 175}
-whitely <> R: {rk: 42554, frq: 54}
-whiten <> V: {rk: 21633, frq: 372}
-whitened <> J: {rk: 44053, frq: 50}
-whitener <> N: {rk: 44302, frq: 74}
-whiteness <> N: {rk: 13131, frq: 1155}
-whitening <> J: {rk: 45575, frq: 51}, N: {rk: 58584, frq: 40}
-whitetail <> N: {rk: 15016, frq: 1056}
-whitewash <> V: {rk: 21366, frq: 369}, N: {rk: 27676, frq: 192}
-whitewashed <> J: {rk: 22177, frq: 349}
-whitewashing <> N: {rk: 54196, frq: 26}
-whither <> R: {rk: 28155, frq: 189}
-whitish <> J: {rk: 25992, frq: 235}
-whittle <> V: {rk: 15645, frq: 732}
-whiz <> N: {rk: 17248, frq: 701}, V: {rk: 23487, frq: 282}
-whiz-bang <> J: {rk: 41481, frq: 54}
-whizz <> V: {rk: 18689, frq: 509}
-who <> P: {rk: 38, frq: 1103170}
-whoa <> U: {rk: 7454, frq: 2971}
-whodunit <> N: {rk: 31339, frq: 146}
-whoever <> P: {rk: 4275, frq: 6773}
-whole <> J: {rk: 467, frq: 90719}, N: {rk: 2237, frq: 16050}
-whole-life <> J: {rk: 57790, frq: 24}
-wholehearted <> J: {rk: 29569, frq: 158}
-wholeheartedly <> R: {rk: 16412, frq: 648}
-wholeness <> N: {rk: 16699, frq: 703}
-wholesale <> J: {rk: 7358, frq: 2757}, R: {rk: 35452, frq: 89}, N: {rk: 35944, frq: 92}
-wholesaler <> N: {rk: 14482, frq: 840}
-wholesome <> J: {rk: 13302, frq: 971}
-wholesomeness <> N: {rk: 38250, frq: 74}
-wholistic <> J: {rk: 53339, frq: 28}
-wholly <> R: {rk: 6935, frq: 3093}
-wholly-owned <> J: {rk: 57109, frq: 20}
-whom <> P: {rk: 1019, frq: 40824}
-whomever <> P: {rk: 15890, frq: 690}
-whomsoever <> P: {rk: 56919, frq: 21}
-whoop <> V: {rk: 18514, frq: 508}, U: {rk: 20856, frq: 396}, N: {rk: 24010, frq: 250}
-whoopee <> N: {rk: 39098, frq: 74}, U: {rk: 43002, frq: 54}
-whooping <> J: {rk: 34255, frq: 116}
-whoops <> U: {rk: 26453, frq: 252}
-whoosh <> N: {rk: 22315, frq: 348}, U: {rk: 25457, frq: 267}, V: {rk: 27896, frq: 203}
-whooshing <> J: {rk: 43668, frq: 50}
-whop <> V: {rk: 43972, frq: 48}
-whopper <> N: {rk: 24394, frq: 292}
-whopping <> J: {rk: 13143, frq: 1046}
-whore <> N: {rk: 8894, frq: 2194}, V: {rk: 36943, frq: 86}
-whorehouse <> N: {rk: 26962, frq: 210}
-whorl <> N: {rk: 24610, frq: 269}
-whorled <> J: {rk: 49323, frq: 35}
-whose <> D: {rk: 527, frq: 80427}
-whosoever <> P: {rk: 40656, frq: 66}
-whump <> N: {rk: 44910, frq: 61}
-whup <> V: {rk: 38049, frq: 74}
-why <> R: {rk: 158, frq: 256316}, N: {rk: 29293, frq: 210}
-wick <> N: {rk: 18339, frq: 788}
-wicked <> J: {rk: 7869, frq: 2601}
-wickedest <> J: {rk: 57113, frq: 20}
-wickedly <> R: {rk: 23448, frq: 302}
-wickedness <> N: {rk: 22949, frq: 310}
-wicker <> N: {rk: 12010, frq: 1449}
-wicket <> N: {rk: 30013, frq: 196}
-wicking <> N: {rk: 36707, frq: 98}
-wide <> J: {rk: 941, frq: 44348}, R: {rk: 6223, frq: 3777}, N: {rk: 55247, frq: 30}
-wide-angle <> J: {rk: 25309, frq: 264}, N: {rk: 46015, frq: 42}
-wide-eyed <> J: {rk: 12933, frq: 1100}
-wide-ranging <> J: {rk: 13498, frq: 980}
-widely <> R: {rk: 2188, frq: 17327}
-widen <> V: {rk: 5518, frq: 4681}
-widened <> J: {rk: 40079, frq: 62}
-widening <> J: {rk: 14910, frq: 765}, N: {rk: 21010, frq: 384}
-widespread <> J: {rk: 3303, frq: 9978}
-widgeon <> N: {rk: 56477, frq: 25}
-widget <> N: {rk: 25268, frq: 305}
-widow <> N: {rk: 4735, frq: 5781}, V: {rk: 30266, frq: 156}
-widowed <> J: {rk: 14679, frq: 846}
-widower <> N: {rk: 16352, frq: 662}
-widowhood <> N: {rk: 29965, frq: 172}
-width <> N: {rk: 6849, frq: 3278}
-wield <> V: {rk: 7584, frq: 2618}
-wielder <> N: {rk: 44469, frq: 51}
-wiener <> N: {rk: 32420, frq: 133}, J: {rk: 50166, frq: 33}
-wife <> N: {rk: 466, frq: 90697}
-wifely <> J: {rk: 34267, frq: 102}
-wig <> N: {rk: 8780, frq: 2143}
-wigeon <> N: {rk: 51394, frq: 34}
-wiggle <> V: {rk: 10934, frq: 1480}, N: {rk: 19127, frq: 491}
-wiggler <> N: {rk: 46914, frq: 41}
-wiggling <> J: {rk: 51265, frq: 32}
-wiggly <> J: {rk: 40573, frq: 62}, R: {rk: 41251, frq: 56}
-wiggy <> J: {rk: 53056, frq: 27}
-wigwam <> N: {rk: 36545, frq: 112}
-wild <> J: {rk: 1296, frq: 31900}, R: {rk: 16811, frq: 624}, N: {rk: 20239, frq: 449}
-wild-eyed <> J: {rk: 23293, frq: 312}
-wildcatter <> N: {rk: 37806, frq: 87}
-wildebeest <> N: {rk: 26350, frq: 310}
-wilderness <> N: {rk: 3746, frq: 8419}
-wildfire <> N: {rk: 12897, frq: 1217}
-wildflower <> N: {rk: 11515, frq: 1418}
-wildland <> N: {rk: 24726, frq: 357}
-wildlife <> N: {rk: 3889, frq: 12255}
-wildly <> R: {rk: 5662, frq: 4431}
-wildness <> N: {rk: 21096, frq: 382}
-wile <> N: {rk: 22990, frq: 323}
-wilful <> J: {rk: 55763, frq: 30}
-wilfully <> R: {rk: 59229, frq: 19}
-will <> V: {rk: 48, frq: 1200441}, N: {rk: 1503, frq: 48882}
-willful <> J: {rk: 14523, frq: 834}
-willfully <> R: {rk: 18519, frq: 505}
-willfulness <> N: {rk: 36779, frq: 85}
-willing <> J: {rk: 1278, frq: 32164}
-willingly <> R: {rk: 9539, frq: 1741}
-willingness <> N: {rk: 4219, frq: 6913}
-willow <> N: {rk: 10249, frq: 2751}
-willowy <> J: {rk: 26712, frq: 226}
-willpower <> N: {rk: 20980, frq: 413}
-willy-nilly <> R: {rk: 24755, frq: 253}
-wilt <> V: {rk: 10232, frq: 1611}, N: {rk: 57923, frq: 21}
-wilted <> J: {rk: 27630, frq: 202}
-wilting <> J: {rk: 44208, frq: 49}
-wily <> J: {rk: 18878, frq: 494}
-wimp <> N: {rk: 17066, frq: 639}, V: {rk: 34871, frq: 101}
-wimple <> N: {rk: 48900, frq: 41}
-wimpy <> J: {rk: 24218, frq: 307}
-win <> V: {rk: 361, frq: 120447}, N: {rk: 3354, frq: 10937}
-win-win <> J: {rk: 19023, frq: 511}
-wince <> V: {rk: 8966, frq: 2238}, N: {rk: 22535, frq: 373}
-winch <> N: {rk: 20302, frq: 914}, V: {rk: 31609, frq: 138}
-wind <> N: {rk: 1093, frq: 39876}, V: {rk: 2679, frq: 13166}
-wind-up <> N: {rk: 21423, frq: 362}
-windage <> N: {rk: 48277, frq: 41}
-windbag <> N: {rk: 45473, frq: 48}
-windblown <> J: {rk: 20018, frq: 421}
-windbreak <> N: {rk: 29492, frq: 180}
-windbreaker <> N: {rk: 19897, frq: 465}
-winded <> J: {rk: 37701, frq: 81}
-windfall <> N: {rk: 12420, frq: 1141}
-winding <> J: {rk: 10341, frq: 1566}, N: {rk: 38901, frq: 78}
-windjammer <> N: {rk: 43845, frq: 53}
-windlass <> N: {rk: 37789, frq: 95}
-windless <> J: {rk: 29482, frq: 166}
-windmill <> N: {rk: 13210, frq: 1055}
-window <> N: {rk: 607, frq: 73215}
-window-shop <> N: {rk: 55281, frq: 24}
-windowed <> J: {rk: 37065, frq: 82}
-windowless <> J: {rk: 16764, frq: 652}
-windowpane <> N: {rk: 21712, frq: 385}
-windowsill <> N: {rk: 14719, frq: 845}
-windpipe <> N: {rk: 28432, frq: 196}
-windproof <> J: {rk: 41339, frq: 64}
-windscreen <> N: {rk: 26957, frq: 222}
-windshield <> N: {rk: 7103, frq: 3130}
-windsock <> N: {rk: 52151, frq: 31}
-windstorm <> N: {rk: 31105, frq: 148}
-windsurf <> V: {rk: 54677, frq: 24}
-windsurfer <> N: {rk: 38127, frq: 106}
-windsurfing <> N: {rk: 28720, frq: 258}
-windswept <> J: {rk: 18970, frq: 484}
-windward <> J: {rk: 28728, frq: 177}, R: {rk: 44935, frq: 55}
-windy <> J: {rk: 9047, frq: 2066}
-wine <> N: {rk: 1453, frq: 30088}, V: {rk: 31048, frq: 141}
-wineglass <> N: {rk: 23426, frq: 341}
-winemaker <> N: {rk: 19972, frq: 586}
-winery <> N: {rk: 10577, frq: 2150}
-wineshop <> N: {rk: 59141, frq: 34}
-wineskin <> N: {rk: 44989, frq: 51}
-wing <> N: {rk: 1899, frq: 20528}, V: {rk: 16977, frq: 616}
-wing-tip <> J: {rk: 57525, frq: 20}
-wingback <> N: {rk: 40519, frq: 69}
-winged <> J: {rk: 13599, frq: 983}
-winger <> N: {rk: 25854, frq: 367}
-wingless <> J: {rk: 37792, frq: 82}
-wingman <> N: {rk: 35874, frq: 104}
-wingnut <> N: {rk: 55243, frq: 29}
-wingspan <> N: {rk: 24512, frq: 305}
-wingspread <> N: {rk: 59101, frq: 34}
-wingtip <> N: {rk: 26714, frq: 221}
-wink <> V: {rk: 8043, frq: 2645}, N: {rk: 11601, frq: 1490}
-winking <> J: {rk: 41586, frq: 59}, N: {rk: 52162, frq: 30}
-winless <> J: {rk: 24084, frq: 330}
-winnable <> J: {rk: 33155, frq: 113}
-winner <> N: {rk: 1926, frq: 21017}
-winning <> J: {rk: 5409, frq: 4867}
-winningest <> J: {rk: 25929, frq: 267}
-winningly <> R: {rk: 46010, frq: 46}
-winnings <> N: {rk: 15748, frq: 797}
-winnow <> V: {rk: 23497, frq: 285}
-winnowing <> N: {rk: 47682, frq: 37}, J: {rk: 48933, frq: 36}
-wino <> N: {rk: 30347, frq: 179}
-winsome <> J: {rk: 26671, frq: 220}
-winter <> N: {rk: 1248, frq: 35569}, V: {rk: 16863, frq: 630}
-wintergreen <> J: {rk: 45854, frq: 51}
-wintering <> J: {rk: 34403, frq: 112}
-winterize <> V: {rk: 42218, frq: 54}
-wintertime <> N: {rk: 21135, frq: 381}
-wintery <> J: {rk: 51785, frq: 31}
-wintry <> J: {rk: 20233, frq: 431}
-wipe <> V: {rk: 2727, frq: 13561}, N: {rk: 23279, frq: 359}
-wipeout <> N: {rk: 35595, frq: 103}
-wiper <> N: {rk: 15757, frq: 737}
-wire <> N: {rk: 2385, frq: 15454}, V: {rk: 7415, frq: 2855}
-wire-haired <> J: {rk: 58051, frq: 19}
-wired <> J: {rk: 18259, frq: 565}
-wireless <> N: {rk: 5423, frq: 5137}
-wiretap <> N: {rk: 19272, frq: 491}, V: {rk: 38478, frq: 78}
-wiretapped <> J: {rk: 57817, frq: 20}
-wiretapping <> N: {rk: 39456, frq: 88}, J: {rk: 45625, frq: 47}
-wiring <> N: {rk: 10130, frq: 1685}
-wiry <> J: {rk: 13674, frq: 980}
-wisdom <> N: {rk: 2973, frq: 11873}
-wise <> J: {rk: 3255, frq: 9890}
-wiseacre <> N: {rk: 47769, frq: 37}
-wiseass <> N: {rk: 43948, frq: 56}
-wisecrack <> N: {rk: 27629, frq: 191}, V: {rk: 35077, frq: 96}
-wisely <> R: {rk: 9300, frq: 1863}
-wish <> V: {rk: 1056, frq: 40770}, N: {rk: 3603, frq: 8382}
-wishbone <> N: {rk: 28788, frq: 206}
-wishful <> J: {rk: 14592, frq: 814}
-wishfully <> R: {rk: 53971, frq: 26}
-wishing <> N: {rk: 45363, frq: 62}
-wishy-washy <> J: {rk: 31739, frq: 131}
-wisp <> N: {rk: 13637, frq: 1024}, V: {rk: 47345, frq: 41}
-wispy <> J: {rk: 17138, frq: 614}
-wisteria <> N: {rk: 26580, frq: 319}
-wistful <> J: {rk: 15903, frq: 694}
-wistfully <> R: {rk: 16308, frq: 672}
-wistfulness <> N: {rk: 35292, frq: 102}
-wit <> N: {rk: 5827, frq: 4124}
-witch <> N: {rk: 5352, frq: 4953}, V: {rk: 42977, frq: 101}
-witch-hunt <> N: {rk: 29752, frq: 164}, J: {rk: 53529, frq: 19}
-witchcraft <> N: {rk: 14462, frq: 1010}
-witchery <> N: {rk: 49735, frq: 37}
-witching <> J: {rk: 43044, frq: 55}
-witchy <> J: {rk: 43350, frq: 55}
-with <> I: {rk: 16, frq: 2911620}
-withal <> R: {rk: 45719, frq: 42}
-withdraw <> V: {rk: 2803, frq: 12074}
-withdrawal <> N: {rk: 4163, frq: 7012}
-wither <> V: {rk: 12225, frq: 1171}
-withered <> J: {rk: 23117, frq: 326}
-withering <> J: {rk: 17502, frq: 573}
-witheringly <> R: {rk: 51123, frq: 28}
-withheld <> J: {rk: 49925, frq: 31}
-withhold <> V: {rk: 6746, frq: 3210}
-withholding <> J: {rk: 17748, frq: 547}, N: {rk: 21917, frq: 337}
-within <> I: {rk: 352, frq: 120768}, R: {rk: 4891, frq: 5461}
-without <> I: {rk: 218, frq: 184781}, R: {rk: 8241, frq: 2257}
-withstand <> V: {rk: 7078, frq: 2967}
-witless <> J: {rk: 30654, frq: 148}
-witness <> N: {rk: 1980, frq: 20334}, V: {rk: 2994, frq: 11166}
-witnessing <> N: {rk: 31475, frq: 150}
-witticism <> N: {rk: 31120, frq: 141}
-wittily <> R: {rk: 35607, frq: 89}
-wittingly <> R: {rk: 39087, frq: 71}
-witty <> J: {rk: 10152, frq: 1617}
-wiz <> N: {rk: 28889, frq: 209}
-wizard <> N: {rk: 9713, frq: 3525}, J: {rk: 29023, frq: 192}
-wizardly <> R: {rk: 51136, frq: 33}
-wizardry <> N: {rk: 23302, frq: 292}
-wizened <> J: {rk: 27205, frq: 218}
-wobble <> V: {rk: 13007, frq: 1114}, N: {rk: 22632, frq: 333}
-wobbling <> J: {rk: 37392, frq: 80}
-wobbly <> J: {rk: 15335, frq: 777}
-woe <> N: {rk: 8271, frq: 2417}
-woebegone <> J: {rk: 36853, frq: 89}
-woeful <> J: {rk: 25694, frq: 241}
-woefully <> R: {rk: 16438, frq: 652}
-wog <> N: {rk: 58458, frq: 23}
-wok <> N: {rk: 19727, frq: 482}
-wold <> N: {rk: 41102, frq: 72}
-wolf <> N: {rk: 4183, frq: 13060}, V: {rk: 22311, frq: 351}
-wolfhound <> N: {rk: 41255, frq: 68}
-wolfish <> J: {rk: 40562, frq: 71}
-wolfman <> N: {rk: 46541, frq: 114}
-woman <> N: {rk: 111, frq: 382235}
-womanhood <> N: {rk: 16860, frq: 616}
-womanish <> J: {rk: 52741, frq: 26}
-womanizer <> N: {rk: 27015, frq: 222}
-womanizing <> N: {rk: 38640, frq: 76}, J: {rk: 49594, frq: 33}
-womankind <> N: {rk: 43806, frq: 51}
-womanliness <> N: {rk: 51315, frq: 34}
-womanly <> J: {rk: 23611, frq: 291}
-womb <> N: {rk: 9283, frq: 1871}
-wombat <> N: {rk: 36581, frq: 158}
-womenfolk <> N: {rk: 42262, frq: 57}
-wonder <> V: {rk: 790, frq: 55428}, N: {rk: 2650, frq: 12984}, J: {rk: 31490, frq: 135}
-wonderful <> J: {rk: 1409, frq: 29268}
-wonderfully <> R: {rk: 9072, frq: 1930}
-wonderfulness <> N: {rk: 53241, frq: 30}
-wondering <> J: {rk: 52511, frq: 29}
-wonderingly <> R: {rk: 36700, frq: 93}
-wonderment <> N: {rk: 23829, frq: 291}
-wondrous <> J: {rk: 13209, frq: 1010}
-wondrously <> R: {rk: 35007, frq: 96}
-wonk <> N: {rk: 27244, frq: 225}
-wonky <> J: {rk: 39823, frq: 79}
-wonton <> N: {rk: 33629, frq: 127}
-woo <> V: {rk: 8811, frq: 2255}
-wood <> N: {rk: 1240, frq: 41318}
-woodblock <> N: {rk: 40585, frq: 73}
-woodbox <> N: {rk: 58741, frq: 19}
-woodcarver <> N: {rk: 34885, frq: 127}
-woodcarving <> N: {rk: 45064, frq: 60}, J: {rk: 59476, frq: 31}
-woodchuck <> N: {rk: 32355, frq: 135}
-woodcut <> N: {rk: 23508, frq: 311}
-woodcutter <> N: {rk: 36044, frq: 87}
-wooded <> J: {rk: 10074, frq: 1571}
-wooden <> J: {rk: 2528, frq: 14736}
-woodenly <> R: {rk: 47420, frq: 38}
-woodland <> N: {rk: 11473, frq: 2488}
-woodlot <> N: {rk: 33509, frq: 131}
-woodpecker <> N: {rk: 17353, frq: 653}
-woodpile <> N: {rk: 31362, frq: 151}
-woodshed <> N: {rk: 30116, frq: 158}
-woodsman <> N: {rk: 25088, frq: 312}
-woodsy <> J: {rk: 29238, frq: 185}
-woodwind <> N: {rk: 29079, frq: 178}
-woodwork <> N: {rk: 15781, frq: 718}
-woodworker <> N: {rk: 26797, frq: 232}
-woodworking <> N: {rk: 20367, frq: 854}
-woody <> J: {rk: 15032, frq: 797}
-woof <> N: {rk: 34133, frq: 156}, V: {rk: 34714, frq: 108}
-woofer <> N: {rk: 46694, frq: 62}
-wooing <> N: {rk: 37578, frq: 81}
-wool <> N: {rk: 5634, frq: 4580}
-woolen <> J: {rk: 17378, frq: 617}
-woolens <> N: {rk: 39106, frq: 75}
-woollen <> J: {rk: 50427, frq: 41}
-woolly <> J: {rk: 16989, frq: 617}
-wooly <> J: {rk: 37018, frq: 86}, R: {rk: 54379, frq: 31}
-woozily <> R: {rk: 50246, frq: 33}
-woozy <> J: {rk: 25409, frq: 251}
-wop <> N: {rk: 39437, frq: 84}
-word <> N: {rk: 244, frq: 165969}, V: {rk: 17280, frq: 587}
-wording <> N: {rk: 12688, frq: 1103}
-wordless <> J: {rk: 21124, frq: 401}
-wordlessly <> R: {rk: 22169, frq: 370}
-wordplay <> N: {rk: 28126, frq: 192}
-wordsmith <> N: {rk: 35771, frq: 98}
-wordy <> J: {rk: 35729, frq: 95}
-work <> V: {rk: 117, frq: 346641}, N: {rk: 199, frq: 203073}
-workability <> N: {rk: 45157, frq: 47}
-workable <> J: {rk: 12870, frq: 1039}
-workaholic <> J: {rk: 20908, frq: 377}
-workaholism <> N: {rk: 40255, frq: 71}
-workbench <> N: {rk: 20123, frq: 470}
-workboat <> N: {rk: 53780, frq: 31}
-workbook <> N: {rk: 20560, frq: 433}
-workday <> N: {rk: 13946, frq: 940}
-worked <> J: {rk: 37780, frq: 153}
-worker <> N: {rk: 573, frq: 76019}
-workfare <> N: {rk: 28327, frq: 215}
-workflow <> N: {rk: 39727, frq: 84}
-workforce <> N: {rk: 6712, frq: 3723}
-workgroup <> N: {rk: 31570, frq: 172}
-workhorse <> N: {rk: 19648, frq: 466}
-workhouse <> N: {rk: 32397, frq: 167}
-working <> J: {rk: 2836, frq: 12007}, N: {rk: 8080, frq: 2422}
-workingman <> N: {rk: 36950, frq: 94}
-workload <> N: {rk: 12167, frq: 1346}
-workman <> N: {rk: 13134, frq: 1354}
-workmanlike <> J: {rk: 36699, frq: 91}
-workmanship <> N: {rk: 20742, frq: 407}
-workmate <> N: {rk: 49302, frq: 34}
-workout <> N: {rk: 4443, frq: 7182}
-workpiece <> N: {rk: 39137, frq: 87}
-workplace <> N: {rk: 4320, frq: 6744}
-workroom <> N: {rk: 23516, frq: 338}
-works <> N: {rk: 1642, frq: 26252}
-worksheet <> N: {rk: 17167, frq: 651}
-workshop <> N: {rk: 3149, frq: 10720}
-worksite <> N: {rk: 32106, frq: 167}
-workspace <> N: {rk: 25487, frq: 257}
-workstation <> N: {rk: 12348, frq: 1146}
-worktable <> N: {rk: 25643, frq: 258}
-workweek <> N: {rk: 21465, frq: 382}
-world <> N: {rk: 123, frq: 328689}
-world-class <> J: {rk: 9373, frq: 1870}
-world-famous <> J: {rk: 18117, frq: 531}
-world-weary <> J: {rk: 33342, frq: 121}
-worldliness <> N: {rk: 31379, frq: 137}
-worldly <> J: {rk: 10981, frq: 1393}
-worldview <> N: {rk: 10164, frq: 1876}
-worldwide <> R: {rk: 4497, frq: 6280}, J: {rk: 4890, frq: 5418}
-worm <> N: {rk: 5044, frq: 5395}, V: {rk: 23123, frq: 324}
-wormhole <> N: {rk: 21101, frq: 468}
-wormlike <> J: {rk: 38173, frq: 76}
-wormwood <> N: {rk: 43523, frq: 82}
-wormy <> J: {rk: 37710, frq: 93}
-worn <> J: {rk: 10109, frq: 1717}
-worn-out <> J: {rk: 18836, frq: 500}
-worried <> J: {rk: 3282, frq: 9970}
-worriedly <> R: {rk: 31280, frq: 152}
-worrier <> N: {rk: 26255, frq: 249}
-worrisome <> J: {rk: 11952, frq: 1189}
-worry <> V: {rk: 971, frq: 43834}, N: {rk: 3961, frq: 7492}
-worrying <> J: {rk: 7512, frq: 2712}
-worrywart <> N: {rk: 49054, frq: 37}
-worse <> N: {rk: 28222, frq: 227}
-worsen <> V: {rk: 8632, frq: 2123}
-worsening <> J: {rk: 15014, frq: 781}
-worship <> N: {rk: 5881, frq: 4299}, V: {rk: 7324, frq: 2808}
-worshiper <> N: {rk: 16945, frq: 627}
-worshipful <> J: {rk: 33208, frq: 119}
-worshipfully <> R: {rk: 57366, frq: 20}
-worshiping <> J: {rk: 52861, frq: 30}
-worshipper <> N: {rk: 20333, frq: 852}
-worst <> V: {rk: 38160, frq: 109}
-worst-case <> J: {rk: 15393, frq: 772}
-worsted <> N: {rk: 41664, frq: 64}
-wort <> N: {rk: 25377, frq: 282}
-worth <> I: {rk: 1357, frq: 30039}, N: {rk: 2834, frq: 13613}
-worthiness <> N: {rk: 27173, frq: 207}
-worthless <> J: {rk: 9026, frq: 1925}
-worthlessness <> N: {rk: 33956, frq: 103}
-worthwhile <> J: {rk: 7064, frq: 2910}
-worthy <> J: {rk: 5155, frq: 5044}, N: {rk: 10968, frq: 1396}
-wot <> D: {rk: 36762, frq: 101}
-would <> V: {rk: 41, frq: 1000182}
-would-be <> J: {rk: 7328, frq: 2820}
-wound <> N: {rk: 3223, frq: 10269}, V: {rk: 4557, frq: 6109}
-wounded <> J: {rk: 5436, frq: 4710}
-wounding <> N: {rk: 33314, frq: 114}, J: {rk: 52257, frq: 27}
-woven <> J: {rk: 12295, frq: 1191}
-wow <> U: {rk: 3804, frq: 9413}, V: {rk: 17910, frq: 582}, N: {rk: 27726, frq: 239}
-wrack <> V: {rk: 19390, frq: 460}, N: {rk: 50815, frq: 32}
-wraith <> N: {rk: 31094, frq: 283}
-wraithlike <> J: {rk: 48400, frq: 39}
-wrangle <> V: {rk: 22191, frq: 346}, N: {rk: 36729, frq: 81}
-wrangling <> N: {rk: 18425, frq: 530}
-wrap <> V: {rk: 2102, frq: 18749}, N: {rk: 6531, frq: 3781}
-wrap-up <> N: {rk: 29998, frq: 160}
-wraparound <> J: {rk: 18385, frq: 509}
-wrapped <> J: {rk: 22231, frq: 334}
-wrapper <> N: {rk: 10953, frq: 1490}
-wrapping <> N: {rk: 14473, frq: 846}
-wrasse <> N: {rk: 52735, frq: 33}
-wrath <> N: {rk: 10120, frq: 1607}
-wrathful <> J: {rk: 36675, frq: 84}
-wreak <> V: {rk: 11686, frq: 1251}
-wreath <> N: {rk: 10066, frq: 1710}
-wreathe <> V: {rk: 26498, frq: 221}
-wreck <> N: {rk: 7317, frq: 2867}, V: {rk: 9127, frq: 1923}
-wreckage <> N: {rk: 9000, frq: 2024}
-wrecked <> J: {rk: 19153, frq: 482}
-wrecker <> N: {rk: 27564, frq: 218}
-wrecking <> J: {rk: 25505, frq: 248}
-wrench <> V: {rk: 10629, frq: 1512}, N: {rk: 12423, frq: 1271}
-wrenching <> J: {rk: 20292, frq: 401}, N: {rk: 36728, frq: 89}
-wrest <> V: {rk: 15631, frq: 719}
-wrestle <> V: {rk: 6496, frq: 3402}, N: {rk: 49905, frq: 35}
-wrestler <> N: {rk: 11584, frq: 1328}
-wrestling <> N: {rk: 6997, frq: 3054}
-wretch <> N: {rk: 25165, frq: 255}
-wretched <> J: {rk: 12123, frq: 1184}
-wretchedly <> R: {rk: 37993, frq: 80}
-wretchedness <> N: {rk: 37503, frq: 84}
-wriggle <> V: {rk: 14203, frq: 944}, N: {rk: 51928, frq: 30}
-wriggling <> J: {rk: 33520, frq: 121}
-wring <> V: {rk: 10757, frq: 1470}
-wringer <> N: {rk: 32713, frq: 126}
-wringing <> N: {rk: 55142, frq: 23}
-wrinkle <> N: {rk: 7957, frq: 2604}, V: {rk: 13594, frq: 1064}
-wrinkled <> J: {rk: 11085, frq: 1480}
-wrinkling <> N: {rk: 54871, frq: 28}
-wrinkly <> J: {rk: 37312, frq: 83}
-wrist <> N: {rk: 3651, frq: 8911}
-wristband <> N: {rk: 31242, frq: 152}
-wristwatch <> N: {rk: 17974, frq: 564}
-writ <> N: {rk: 19482, frq: 488}
-write <> V: {rk: 228, frq: 176548}
-write-down <> N: {rk: 34888, frq: 115}
-write-in <> N: {rk: 29811, frq: 214}, J: {rk: 57872, frq: 21}
-write-off <> N: {rk: 21813, frq: 437}
-write-up <> N: {rk: 32045, frq: 129}
-writer <> N: {rk: 981, frq: 43719}
-writerly <> J: {rk: 37768, frq: 81}
-writhe <> V: {rk: 13611, frq: 1021}, N: {rk: 44294, frq: 52}
-writhing <> J: {rk: 33897, frq: 119}, N: {rk: 47130, frq: 49}
-writing <> N: {rk: 1533, frq: 27257}
-written <> J: {rk: 3607, frq: 8221}
-wrong <> J: {rk: 655, frq: 63810}, R: {rk: 3895, frq: 7656}, N: {rk: 11151, frq: 1493}, V: {rk: 16894, frq: 645}
-wrong-headed <> J: {rk: 30101, frq: 157}
-wrongdoer <> N: {rk: 28100, frq: 189}
-wrongdoing <> N: {rk: 8941, frq: 2025}
-wronged <> J: {rk: 34451, frq: 100}
-wrongful <> J: {rk: 16532, frq: 673}
-wrongfully <> R: {rk: 22665, frq: 322}
-wrongfulness <> N: {rk: 54963, frq: 27}
-wrongly <> R: {rk: 11616, frq: 1245}
-wrongness <> N: {rk: 33282, frq: 123}
-wrought <> J: {rk: 18443, frq: 504}
-wry <> J: {rk: 12638, frq: 1122}
-wryly <> R: {rk: 15860, frq: 720}
-wunderkind <> N: {rk: 30335, frq: 172}
-wuss <> N: {rk: 42480, frq: 57}
-wussy <> J: {rk: 57403, frq: 21}
+wack <> N: {rk: 33751, frq: 269}
+wackiness <> N: {rk: 47200, frq: 99}
+wacko <> N: {rk: 19159, frq: 1074}
+wacky <> J: {rk: 12895, frq: 2372}
+wad <> N: {rk: 13086, frq: 2299}, V: {rk: 32166, frq: 308}
+wadded <> J: {rk: 44649, frq: 117}
+wadding <> N: {rk: 47199, frq: 99}
+waddle <> V: {rk: 21060, frq: 874}, N: {rk: 46006, frq: 107}
+wade <> V: {rk: 8558, frq: 4861}, N: {rk: 55466, frq: 59}
+wader <> N: {rk: 27083, frq: 485}
+wadi <> N: {rk: 44091, frq: 122}
+wading <> N: {rk: 30453, frq: 356}, J: {rk: 42817, frq: 133}
+wafer <> N: {rk: 15380, frq: 1677}
+wafer-thin <> J: {rk: 49097, frq: 88}
+waffle <> N: {rk: 12063, frq: 2687}, V: {rk: 20278, frq: 948}
+waffling <> N: {rk: 56498, frq: 56}
+waft <> V: {rk: 14073, frq: 2003}, N: {rk: 39559, frq: 168}
+wag <> V: {rk: 13485, frq: 2177}, N: {rk: 26493, frq: 511}
+wage <> N: {rk: 2458, frq: 33339}, V: {rk: 6963, frq: 6906}
+wage-earner <> N: {rk: 43628, frq: 126}
+wager <> V: {rk: 15604, frq: 1630}, N: {rk: 17044, frq: 1379}
+wagering <> J: {rk: 59781, frq: 45}
+wagging <> J: {rk: 56039, frq: 57}
+waggle <> V: {rk: 26884, frq: 494}, N: {rk: 48824, frq: 89}
+waggon <> N: {rk: 59091, frq: 47}
+wagon <> N: {rk: 4960, frq: 12213}
+wagoner <> N: {rk: 52391, frq: 72}
+wagonload <> N: {rk: 54384, frq: 63}
+wahoo <> N: {rk: 34217, frq: 259}
+waif <> N: {rk: 29662, frq: 381}
+waiflike <> J: {rk: 57240, frq: 53}
+wail <> V: {rk: 9974, frq: 3728}, N: {rk: 16253, frq: 1509}
+wailing <> N: {rk: 33995, frq: 264}, J: {rk: 37257, frq: 201}
+wainscoting <> N: {rk: 45173, frq: 113}
+waist <> N: {rk: 5116, frq: 11678}
+waist-deep <> J: {rk: 36778, frq: 209}
+waistband <> N: {rk: 19272, frq: 1060}
+waistcoat <> N: {rk: 25960, frq: 538}
+waistline <> N: {rk: 22697, frq: 739}
+wait <> V: {rk: 289, frq: 339926}, N: {rk: 5957, frq: 9076}
+waiter <> N: {rk: 6020, frq: 8916}
+waiting <> N: {rk: 6666, frq: 7459}, J: {rk: 10566, frq: 3357}
+waitress <> N: {rk: 6421, frq: 8004}
+waitressing <> J: {rk: 48740, frq: 90}
+waitstaff <> N: {rk: 40406, frq: 158}
+waive <> V: {rk: 9887, frq: 3780}
+waiver <> N: {rk: 8272, frq: 5156}
+wake <> V: {rk: 1436, frq: 66773}, N: {rk: 4151, frq: 16026}
+wake-up <> N: {rk: 11954, frq: 2732}
+wakeful <> J: {rk: 42384, frq: 137}
+wakefulness <> N: {rk: 28041, frq: 442}
+waken <> V: {rk: 25712, frq: 550}
+waking <> N: {rk: 11670, frq: 2838}
+walk <> V: {rk: 384, frq: 253671}, N: {rk: 2269, frq: 37624}
+walk-in <> N: {rk: 13616, frq: 2132}, J: {rk: 46007, frq: 107}
+walk-on <> N: {rk: 24955, frq: 589}
+walk-through <> J: {rk: 28232, frq: 433}, N: {rk: 55465, frq: 59}
+walk-up <> N: {rk: 27563, frq: 463}
+walkable <> J: {rk: 27469, frq: 467}
+walker <> N: {rk: 9033, frq: 4462}
+walkie-talkie <> N: {rk: 22165, frq: 782}, J: {rk: 46008, frq: 107}
+walking <> N: {rk: 4034, frq: 16767}, J: {rk: 34284, frq: 258}
+walkman <> N: {rk: 24076, frq: 643}
+walkout <> N: {rk: 22586, frq: 748}
+walkover <> N: {rk: 52840, frq: 70}
+walkthrough <> N: {rk: 33123, frq: 283}
+walkway <> N: {rk: 11644, frq: 2849}
+wall <> N: {rk: 676, frq: 143389}, V: {rk: 25543, frq: 558}
+wall-eyed <> J: {rk: 59780, frq: 45}
+wall-mounted <> J: {rk: 34822, frq: 247}
+wall-to-wall <> J: {rk: 24290, frq: 629}
+walla <> N: {rk: 58495, frq: 49}
+wallaby <> N: {rk: 36886, frq: 207}
+wallboard <> N: {rk: 42770, frq: 134}
+walled <> J: {rk: 19177, frq: 1071}
+wallet <> N: {rk: 5069, frq: 11817}
+walleye <> N: {rk: 19021, frq: 1088}
+wallflower <> N: {rk: 26392, frq: 515}
+wallop <> N: {rk: 28266, frq: 432}, V: {rk: 31092, frq: 337}
+walloping <> J: {rk: 57101, frq: 54}
+wallow <> V: {rk: 15708, frq: 1611}, N: {rk: 34823, frq: 247}
+wallpaper <> N: {rk: 10748, frq: 3275}, V: {rk: 44136, frq: 121}
+walnut <> N: {rk: 7829, frq: 5681}
+walrus <> N: {rk: 24168, frq: 638}
+waltz <> N: {rk: 15920, frq: 1567}, V: {rk: 18151, frq: 1203}
+wampum <> N: {rk: 33904, frq: 266}
+wan <> J: {rk: 16742, frq: 1427}
+wand <> N: {rk: 11129, frq: 3088}
+wander <> V: {rk: 3572, frq: 19979}, N: {rk: 47835, frq: 95}
+wanderer <> N: {rk: 19273, frq: 1059}, J: {rk: 59612, frq: 46}
+wandering <> J: {rk: 17375, frq: 1321}
+wanderings <> N: {rk: 27826, frq: 451}
+wanderlust <> N: {rk: 34184, frq: 260}
+wane <> V: {rk: 11453, frq: 2943}, N: {rk: 26312, frq: 519}
+wangle <> V: {rk: 43870, frq: 124}
+waning <> J: {rk: 18561, frq: 1146}, N: {rk: 41710, frq: 144}
+wanker <> N: {rk: 26857, frq: 495}
+wanly <> R: {rk: 38882, frq: 177}
+wannabe <> N: {rk: 13665, frq: 2120}
+want <> V: {rk: 68, frq: 1671524}, N: {rk: 9672, frq: 3927}
+wanted <> J: {rk: 12005, frq: 2712}
+wanting <> J: {rk: 13008, frq: 2328}
+wanton <> J: {rk: 20853, frq: 892}
+wantonly <> R: {rk: 37132, frq: 203}
+wantonness <> N: {rk: 52839, frq: 70}
+war <> N: {rk: 276, frq: 350575}
+war-torn <> J: {rk: 21952, frq: 800}
+warbird <> N: {rk: 51181, frq: 77}
+warble <> V: {rk: 30534, frq: 353}, N: {rk: 40443, frq: 157}
+warbler <> N: {rk: 22920, frq: 723}
+warbling <> J: {rk: 56628, frq: 55}
+ward <> N: {rk: 5604, frq: 10134}, V: {rk: 27377, frq: 471}
+warden <> N: {rk: 9211, frq: 4296}
+warder <> N: {rk: 33836, frq: 267}
+wardrobe <> N: {rk: 8189, frq: 5243}
+wardroom <> N: {rk: 39020, frq: 175}
+warehouse <> N: {rk: 5345, frq: 10908}, V: {rk: 39293, frq: 171}
+warehousing <> N: {rk: 28934, frq: 408}
+wares <> N: {rk: 12751, frq: 2423}
+warfare <> N: {rk: 5319, frq: 10971}
+warfarin <> N: {rk: 27915, frq: 448}
+warhead <> N: {rk: 10923, frq: 3182}
+warhorse <> N: {rk: 36109, frq: 222}
+warily <> R: {rk: 17870, frq: 1244}
+wariness <> N: {rk: 26159, frq: 527}
+warlike <> J: {rk: 25061, frq: 584}
+warlock <> N: {rk: 24167, frq: 638}
+warlord <> N: {rk: 13649, frq: 2124}
+warm <> J: {rk: 1573, frq: 60062}, V: {rk: 3580, frq: 19926}
+warm-blooded <> J: {rk: 34687, frq: 250}
+warm-hearted <> J: {rk: 38849, frq: 178}
+warm-up <> N: {rk: 11971, frq: 2724}, J: {rk: 49190, frq: 87}
+warmed <> J: {rk: 33024, frq: 286}
+warmer <> N: {rk: 28935, frq: 408}
+warming <> N: {rk: 4007, frq: 16906}, J: {rk: 14931, frq: 1777}
+warmly <> R: {rk: 13436, frq: 2190}
+warmonger <> N: {rk: 31489, frq: 326}
+warmongering <> J: {rk: 44895, frq: 115}
+warmth <> N: {rk: 5518, frq: 10363}
+warn <> V: {rk: 1967, frq: 45485}
+warning <> N: {rk: 2212, frq: 39194}
+warningly <> R: {rk: 53898, frq: 65}
+warp <> N: {rk: 11749, frq: 2810}, V: {rk: 14093, frq: 1999}
+warpath <> N: {rk: 35578, frq: 232}
+warped <> J: {rk: 15230, frq: 1712}
+warping <> N: {rk: 49189, frq: 87}
+warplane <> N: {rk: 18906, frq: 1102}
+warrant <> N: {rk: 4996, frq: 12077}, V: {rk: 6075, frq: 8782}
+warranted <> J: {rk: 49094, frq: 88}
+warrantless <> J: {rk: 25067, frq: 583}
+warranty <> N: {rk: 9467, frq: 4107}
+warring <> J: {rk: 15575, frq: 1637}
+warrior <> N: {rk: 3387, frq: 21822}
+warship <> N: {rk: 12560, frq: 2497}
+wart <> N: {rk: 16143, frq: 1528}
+warthog <> N: {rk: 35766, frq: 228}
+wartime <> N: {rk: 9278, frq: 4248}
+warty <> J: {rk: 51182, frq: 77}
+wary <> J: {rk: 7121, frq: 6655}
+wasabi <> N: {rk: 29528, frq: 386}, J: {rk: 55902, frq: 58}
+wash <> V: {rk: 2316, frq: 36491}, N: {rk: 6487, frq: 7854}
+washable <> J: {rk: 30392, frq: 358}
+washbasin <> N: {rk: 41711, frq: 144}
+washboard <> N: {rk: 31093, frq: 337}
+washcloth <> N: {rk: 21981, frq: 798}
+washdown <> N: {rk: 59094, frq: 47}
+washed <> J: {rk: 19924, frq: 984}
+washed-out <> J: {rk: 31892, frq: 315}
+washed-up <> J: {rk: 32717, frq: 293}
+washer <> N: {rk: 12585, frq: 2486}
+washerwoman <> N: {rk: 43236, frq: 129}
+washing <> N: {rk: 9511, frq: 4073}
+washroom <> N: {rk: 26945, frq: 491}
+washstand <> N: {rk: 50194, frq: 82}
+washtub <> N: {rk: 41522, frq: 146}
+washy <> J: {rk: 48092, frq: 94}
+wasp <> N: {rk: 10771, frq: 3265}
+waspy <> J: {rk: 52395, frq: 72}
+wastage <> N: {rk: 37220, frq: 202}
+waste <> N: {rk: 2271, frq: 37529}, V: {rk: 2486, frq: 32952}, J: {rk: 23012, frq: 715}
+wastebasket <> N: {rk: 25103, frq: 581}
+wasted <> J: {rk: 11013, frq: 3139}
+wasteful <> J: {rk: 12860, frq: 2384}
+wastefully <> R: {rk: 50723, frq: 79}
+wastefulness <> N: {rk: 45386, frq: 112}
+wasteland <> N: {rk: 15369, frq: 1680}
+wastepaper <> N: {rk: 45744, frq: 109}
+waster <> N: {rk: 39130, frq: 174}
+wastewater <> N: {rk: 15885, frq: 1575}, J: {rk: 17404, frq: 1316}
+wasting <> J: {rk: 39918, frq: 163}
+wastrel <> N: {rk: 44137, frq: 121}
+watch <> V: {rk: 315, frq: 318772}, N: {rk: 2375, frq: 35203}
+watchable <> J: {rk: 33930, frq: 265}
+watchdog <> N: {rk: 10783, frq: 3258}
+watcher <> N: {rk: 9343, frq: 4205}
+watchful <> J: {rk: 14757, frq: 1819}
+watchfulness <> N: {rk: 39720, frq: 166}
+watching <> N: {rk: 27703, frq: 457}, J: {rk: 30061, frq: 368}
+watchmaker <> N: {rk: 31891, frq: 315}
+watchman <> N: {rk: 18251, frq: 1187}
+watchtower <> N: {rk: 25209, frq: 576}
+watchword <> N: {rk: 31893, frq: 315}
+water <> N: {rk: 287, frq: 342574}, V: {rk: 7345, frq: 6314}
+water-based <> J: {rk: 30334, frq: 359}
+water-repellent <> J: {rk: 52841, frq: 70}
+water-resistant <> J: {rk: 31939, frq: 314}
+water-soluble <> J: {rk: 30472, frq: 355}
+waterbed <> N: {rk: 57877, frq: 51}
+waterbird <> N: {rk: 50722, frq: 79}
+waterboarding <> N: {rk: 23804, frq: 660}
+waterborne <> J: {rk: 26158, frq: 527}
+watercolor <> N: {rk: 8742, frq: 4696}
+watercolorist <> N: {rk: 40062, frq: 162}
+watercooler <> N: {rk: 37255, frq: 201}
+watercourse <> N: {rk: 30322, frq: 360}
+watercraft <> N: {rk: 33994, frq: 264}
+watercress <> N: {rk: 25917, frq: 540}
+watered <> J: {rk: 44361, frq: 120}
+watered-down <> J: {rk: 29044, frq: 404}
+waterfall <> N: {rk: 9394, frq: 4158}
+waterfowl <> N: {rk: 21034, frq: 876}
+waterfowler <> N: {rk: 44652, frq: 117}
+waterfront <> N: {rk: 11826, frq: 2782}
+waterhole <> N: {rk: 46012, frq: 107}
+watering <> N: {rk: 14246, frq: 1956}
+waterless <> J: {rk: 38450, frq: 183}
+waterline <> N: {rk: 28169, frq: 436}
+waterlog <> V: {rk: 58372, frq: 50}
+waterlogged <> J: {rk: 25020, frq: 586}
+waterman <> N: {rk: 34618, frq: 251}
+watermark <> N: {rk: 26078, frq: 532}
+watermelon <> N: {rk: 12093, frq: 2676}
+waterproof <> J: {rk: 13038, frq: 2315}, V: {rk: 57235, frq: 53}
+waterproofing <> N: {rk: 38181, frq: 187}
+watershed <> N: {rk: 9570, frq: 4025}
+waterside <> N: {rk: 34335, frq: 257}
+waterspout <> N: {rk: 47453, frq: 98}
+watertight <> J: {rk: 28137, frq: 437}
+waterway <> N: {rk: 11381, frq: 2972}
+waterwheel <> N: {rk: 57740, frq: 52}
+waterworks <> N: {rk: 26345, frq: 517}
+watery <> J: {rk: 12711, frq: 2438}
+watt <> N: {rk: 14332, frq: 1935}
+wattage <> N: {rk: 29578, frq: 384}
+wattle <> N: {rk: 31297, frq: 331}
+wave <> N: {rk: 1595, frq: 59169}, V: {rk: 3138, frq: 24391}
+waveform <> N: {rk: 24137, frq: 639}
+wavefront <> N: {rk: 38451, frq: 183}
+wavefunction <> N: {rk: 30518, frq: 354}
+waveguide <> N: {rk: 41553, frq: 145}
+wavelength <> N: {rk: 9178, frq: 4331}
+wavelet <> N: {rk: 30209, frq: 363}
+waver <> V: {rk: 11048, frq: 3123}
+wavering <> J: {rk: 31979, frq: 313}, N: {rk: 44651, frq: 117}
+waving <> J: {rk: 17686, frq: 1271}
+wavy <> J: {rk: 15707, frq: 1611}
+wax <> N: {rk: 8007, frq: 5455}, V: {rk: 11831, frq: 2778}
+waxed <> J: {rk: 15705, frq: 1612}
+waxen <> J: {rk: 46593, frq: 103}
+waxer <> N: {rk: 57102, frq: 54}
+waxing <> J: {rk: 35664, frq: 230}, N: {rk: 42383, frq: 137}
+waxwing <> N: {rk: 59786, frq: 45}
+waxwork <> N: {rk: 55901, frq: 58}
+waxy <> J: {rk: 23668, frq: 668}
+way <> N: {rk: 82, frq: 1260011}, R: {rk: 3624, frq: 19593}, I: {rk: 8050, frq: 5408}
+wayfarer <> N: {rk: 35923, frq: 225}
+waylay <> V: {rk: 31746, frq: 319}
+waypoint <> N: {rk: 30407, frq: 357}
+wayside <> N: {rk: 18577, frq: 1144}
+wayward <> J: {rk: 16281, frq: 1503}
+we <> P: {rk: 21, frq: 5180711}
+weak <> J: {rk: 1969, frq: 45461}
+weak-kneed <> J: {rk: 44405, frq: 119}
+weak-minded <> J: {rk: 50195, frq: 82}
+weak-willed <> J: {rk: 49565, frq: 85}
+weaken <> V: {rk: 5119, frq: 11665}
+weakened <> J: {rk: 18535, frq: 1149}
+weakening <> J: {rk: 20704, frq: 907}
+weakfish <> N: {rk: 57103, frq: 54}
+weakling <> N: {rk: 26517, frq: 510}
+weakly <> R: {rk: 13951, frq: 2029}
+weakness <> N: {rk: 3610, frq: 19718}
+weal <> N: {rk: 40799, frq: 153}
+wealth <> N: {rk: 2351, frq: 35662}
+wealthy <> J: {rk: 2927, frq: 26746}
+wean <> V: {rk: 14628, frq: 1850}
+weaning <> J: {rk: 57236, frq: 53}
+weapon <> N: {rk: 976, frq: 98828}
+weaponization <> N: {rk: 43235, frq: 129}
+weaponize <> V: {rk: 32117, frq: 309}
+weaponized <> J: {rk: 37654, frq: 195}
+weaponry <> N: {rk: 12715, frq: 2435}
+weapons-grade <> J: {rk: 31516, frq: 325}
+wear <> V: {rk: 542, frq: 177786}, N: {rk: 9637, frq: 3956}
+wearable <> J: {rk: 19495, frq: 1034}, N: {rk: 38029, frq: 190}
+wearer <> N: {rk: 18770, frq: 1118}
+wearily <> R: {rk: 18014, frq: 1222}
+weariness <> N: {rk: 19756, frq: 1004}
+wearing <> N: {rk: 19612, frq: 1021}
+wearisome <> J: {rk: 42820, frq: 133}
+weary <> J: {rk: 7837, frq: 5673}, V: {rk: 32400, frq: 302}
+wearying <> J: {rk: 57738, frq: 52}
+weasel <> N: {rk: 16088, frq: 1540}, V: {rk: 26473, frq: 512}
+weather <> N: {rk: 1643, frq: 56939}, V: {rk: 10210, frq: 3575}
+weather-beaten <> J: {rk: 36211, frq: 220}
+weather-worn <> J: {rk: 53900, frq: 65}
+weathered <> J: {rk: 16273, frq: 1505}
+weathering <> N: {rk: 26472, frq: 512}
+weatherman <> N: {rk: 21216, frq: 860}
+weatherproof <> J: {rk: 37521, frq: 197}
+weathervane <> N: {rk: 51513, frq: 76}
+weave <> V: {rk: 5780, frq: 9539}, N: {rk: 14613, frq: 1855}
+weaver <> N: {rk: 17299, frq: 1333}
+weaving <> N: {rk: 15377, frq: 1679}
+web <> N: {rk: 1130, frq: 85868}
+webbed <> J: {rk: 27819, frq: 452}
+webbing <> N: {rk: 25959, frq: 538}
+webby <> J: {rk: 42127, frq: 140}
+webcam <> N: {rk: 21457, frq: 839}
+webcast <> N: {rk: 28877, frq: 410}
+weblog <> N: {rk: 25958, frq: 538}
+webmaster <> N: {rk: 21916, frq: 803}
+webpage <> N: {rk: 17397, frq: 1318}
+website <> N: {rk: 1478, frq: 64875}
+wed <> V: {rk: 23461, frq: 683}
+wedded <> J: {rk: 22859, frq: 727}
+wedding <> N: {rk: 1864, frq: 48365}
+wedge <> N: {rk: 7336, frq: 6331}, V: {rk: 10707, frq: 3291}
+wedge-shaped <> J: {rk: 39593, frq: 167}
+wedgie <> N: {rk: 35665, frq: 230}
+wedlock <> N: {rk: 19647, frq: 1016}
+wednesday <> N: {rk: 1718, frq: 53706}
+wee <> J: {rk: 10567, frq: 3356}, N: {rk: 20559, frq: 921}
+weed <> N: {rk: 4687, frq: 13310}, V: {rk: 10938, frq: 3174}
+weeding <> N: {rk: 38850, frq: 178}
+weedless <> J: {rk: 57878, frq: 51}
+weedy <> J: {rk: 24255, frq: 631}
+week <> N: {rk: 192, frq: 484834}
+week-long <> J: {rk: 17059, frq: 1376}
+weekday <> N: {rk: 9328, frq: 4212}
+weekend <> N: {rk: 1173, frq: 82429}
+weekender <> N: {rk: 45745, frq: 109}
+weeklong <> J: {rk: 25414, frq: 565}
+weekly <> J: {rk: 3401, frq: 21686}, N: {rk: 13941, frq: 2031}, R: {rk: 21357, frq: 848}
+weeknight <> N: {rk: 23013, frq: 715}
+weenie <> N: {rk: 30519, frq: 354}
+weeny <> N: {rk: 38182, frq: 187}
+weep <> V: {rk: 6414, frq: 8020}, N: {rk: 23701, frq: 666}
+weeper <> N: {rk: 46523, frq: 104}
+weeping <> N: {rk: 18457, frq: 1161}, J: {rk: 19312, frq: 1055}
+weepy <> J: {rk: 27119, frq: 483}
+weevil <> N: {rk: 23064, frq: 711}
+weft <> N: {rk: 34101, frq: 262}
+weigh <> V: {rk: 2722, frq: 29121}
+weigh-in <> N: {rk: 31745, frq: 319}
+weighing <> N: {rk: 22716, frq: 738}
+weight <> N: {rk: 1049, frq: 92516}, V: {rk: 11916, frq: 2749}
+weighted <> J: {rk: 13783, frq: 2082}
+weighting <> N: {rk: 20927, frq: 885}
+weightless <> J: {rk: 21270, frq: 856}
+weightlessly <> R: {rk: 58369, frq: 50}
+weightlessness <> N: {rk: 28948, frq: 407}
+weightlifting <> N: {rk: 31653, frq: 322}
+weighty <> J: {rk: 16497, frq: 1467}
+weir <> N: {rk: 36337, frq: 217}
+weird <> J: {rk: 2038, frq: 43433}, V: {rk: 38853, frq: 178}
+weirdly <> R: {rk: 18642, frq: 1134}
+weirdness <> N: {rk: 20557, frq: 921}
+weirdo <> N: {rk: 15446, frq: 1663}
+welcome <> V: {rk: 1363, frq: 69914}, J: {rk: 3126, frq: 24515}, N: {rk: 6884, frq: 7078}
+welcoming <> J: {rk: 10603, frq: 3337}
+weld <> V: {rk: 16188, frq: 1521}, N: {rk: 16524, frq: 1462}
+welded <> J: {rk: 32165, frq: 308}
+welder <> N: {rk: 19797, frq: 998}
+welding <> N: {rk: 17242, frq: 1345}
+welfare <> N: {rk: 2352, frq: 35639}
+well <> R: {rk: 87, frq: 1189096}, I: {rk: 704, frq: 137599}, N: {rk: 2348, frq: 35789}, V: {rk: 16666, frq: 1438}
+well-adjusted <> J: {rk: 26963, frq: 490}
+well-advised <> J: {rk: 42765, frq: 134}
+well-appointed <> J: {rk: 33645, frq: 272}
+well-balanced <> J: {rk: 22936, frq: 722}
+well-behaved <> J: {rk: 24223, frq: 634}
+well-being <> N: {rk: 4759, frq: 13022}
+well-born <> J: {rk: 49090, frq: 88}
+well-bred <> J: {rk: 39133, frq: 174}
+well-built <> J: {rk: 31572, frq: 324}
+well-chosen <> J: {rk: 35403, frq: 235}
+well-connected <> J: {rk: 22528, frq: 754}
+well-dressed <> J: {rk: 19873, frq: 990}
+well-earned <> J: {rk: 33814, frq: 268}
+well-endowed <> J: {rk: 41901, frq: 142}
+well-established <> J: {rk: 14487, frq: 1895}
+well-fed <> J: {rk: 32695, frq: 294}
+well-founded <> J: {rk: 30671, frq: 349}
+well-groomed <> J: {rk: 33644, frq: 272}
+well-grounded <> J: {rk: 44149, frq: 121}
+well-heeled <> J: {rk: 23308, frq: 694}
+well-informed <> J: {rk: 20784, frq: 899}
+well-intentioned <> J: {rk: 17643, frq: 1278}
+well-kept <> J: {rk: 30190, frq: 364}
+well-known <> J: {rk: 5111, frq: 11692}
+well-mannered <> J: {rk: 31207, frq: 334}
+well-meaning <> J: {rk: 15749, frq: 1601}
+well-meant <> J: {rk: 52503, frq: 71}
+well-nigh <> R: {rk: 41955, frq: 141}
+well-off <> J: {rk: 21135, frq: 867}
+well-oiled <> J: {rk: 28759, frq: 414}
+well-paid <> J: {rk: 26943, frq: 491}
+well-preserved <> J: {rk: 29006, frq: 405}
+well-read <> J: {rk: 30670, frq: 349}
+well-rounded <> J: {rk: 19296, frq: 1057}
+well-spoken <> J: {rk: 31870, frq: 316}
+well-thought-out <> J: {rk: 34020, frq: 263}
+well-timed <> J: {rk: 33120, frq: 283}
+well-to-do <> J: {rk: 19346, frq: 1051}
+well-turned <> J: {rk: 59595, frq: 46}
+well-versed <> J: {rk: 29057, frq: 403}
+well-wisher <> N: {rk: 27589, frq: 462}
+well-worn <> J: {rk: 20223, frq: 953}
+wellhead <> N: {rk: 28818, frq: 412}
+wellness <> N: {rk: 11638, frq: 2852}
+wellspring <> N: {rk: 27544, frq: 464}
+welly <> N: {rk: 31371, frq: 329}
+welshman <> N: {rk: 43858, frq: 124}
+welt <> N: {rk: 22102, frq: 788}
+weltanschauung <> N: {rk: 47758, frq: 96}
+welter <> N: {rk: 32164, frq: 308}
+welterweight <> N: {rk: 24578, frq: 612}
+wench <> N: {rk: 25499, frq: 560}
+wend <> V: {rk: 26675, frq: 503}
+werewolf <> N: {rk: 14056, frq: 2007}
+wesleyan <> J: {rk: 25027, frq: 585}, N: {rk: 25768, frq: 547}
+west <> N: {rk: 829, frq: 116683}
+westbound <> J: {rk: 27928, frq: 447}
+westerly <> J: {rk: 29538, frq: 385}
+western <> J: {rk: 1431, frq: 67085}, N: {rk: 20046, frq: 971}
+westerner <> N: {rk: 11615, frq: 2865}
+westernization <> N: {rk: 34685, frq: 250}
+westernize <> V: {rk: 49568, frq: 85}
+westernized <> J: {rk: 29238, frq: 395}
+westernmost <> J: {rk: 37224, frq: 202}
+westward <> R: {rk: 15186, frq: 1723}, J: {rk: 36982, frq: 206}
+westwards <> R: {rk: 54259, frq: 64}
+wet <> J: {rk: 2856, frq: 27690}, V: {rk: 7940, frq: 5538}, N: {rk: 58968, frq: 48}
+wetback <> N: {rk: 35580, frq: 232}
+wetland <> N: {rk: 7631, frq: 5914}
+wetly <> R: {rk: 41563, frq: 145}
+wetness <> N: {rk: 25368, frq: 568}
+wetsuit <> N: {rk: 31681, frq: 321}
+wetted <> J: {rk: 58969, frq: 48}
+wetting <> N: {rk: 51504, frq: 76}
+wetware <> N: {rk: 51615, frq: 75}
+whack <> V: {rk: 11382, frq: 2972}, N: {rk: 14890, frq: 1786}
+whacked <> J: {rk: 24747, frq: 601}
+whacker <> N: {rk: 49469, frq: 86}
+whacking <> J: {rk: 40615, frq: 155}
+whacko <> N: {rk: 35265, frq: 238}
+whacky <> J: {rk: 44148, frq: 121}
+whale <> N: {rk: 4351, frq: 14947}
+whalebone <> N: {rk: 50617, frq: 80}
+whaler <> N: {rk: 25684, frq: 551}
+whaling <> N: {rk: 17673, frq: 1273}
+wham <> U: {rk: 22103, frq: 787}
+whammo <> N: {rk: 57077, frq: 54}
+whammy <> N: {rk: 25541, frq: 558}
+wharf <> N: {rk: 15831, frq: 1586}
+what <> D: {rk: 28, frq: 3807502}
+whatchamacallit <> N: {rk: 53790, frq: 66}
+whatever <> D: {rk: 631, frq: 153872}
+whatnot <> N: {rk: 15605, frq: 1630}
+whatsoever <> D: {rk: 5415, frq: 10650}
+wheat <> N: {rk: 5048, frq: 11877}
+wheatfield <> N: {rk: 53444, frq: 67}
+wheatgrass <> N: {rk: 44590, frq: 118}
+whee <> U: {rk: 28264, frq: 432}
+wheedle <> V: {rk: 35200, frq: 239}
+wheedling <> J: {rk: 44083, frq: 122}
+wheel <> N: {rk: 2257, frq: 37921}, V: {rk: 7716, frq: 5817}
+wheelbarrow <> N: {rk: 19592, frq: 1022}
+wheelbase <> N: {rk: 28216, frq: 434}
+wheelchair <> N: {rk: 5571, frq: 10213}
+wheeled <> J: {rk: 26976, frq: 489}
+wheeler <> N: {rk: 33835, frq: 267}
+wheeler-dealer <> N: {rk: 49569, frq: 85}
+wheelhouse <> N: {rk: 27497, frq: 466}
+wheelie <> N: {rk: 32251, frq: 306}
+wheeling <> N: {rk: 40243, frq: 160}, J: {rk: 45106, frq: 114}
+wheelset <> N: {rk: 47839, frq: 95}
+wheelwright <> N: {rk: 53310, frq: 68}
+wheeze <> V: {rk: 16776, frq: 1421}, N: {rk: 29042, frq: 404}
+wheezing <> N: {rk: 41755, frq: 143}, J: {rk: 43615, frq: 126}
+wheezy <> J: {rk: 40284, frq: 159}
+whelk <> N: {rk: 39162, frq: 173}
+whelp <> N: {rk: 45747, frq: 109}, V: {rk: 59798, frq: 45}
+when <> C: {rk: 70, frq: 1650353}, R: {rk: 144, frq: 669530}
+whence <> R: {rk: 15289, frq: 1699}
+whenever <> R: {rk: 2285, frq: 37287}
+where <> R: {rk: 157, frq: 597351}, C: {rk: 188, frq: 500755}
+whereabouts <> N: {rk: 11483, frq: 2930}, R: {rk: 32163, frq: 308}
+whereas <> C: {rk: 2789, frq: 28472}
+whereby <> R: {rk: 8454, frq: 4962}
+wherefore <> R: {rk: 20311, frq: 944}, N: {rk: 54948, frq: 61}
+wherein <> R: {rk: 9568, frq: 4027}
+whereof <> R: {rk: 26885, frq: 494}
+whereon <> R: {rk: 45382, frq: 112}
+whereupon <> C: {rk: 19498, frq: 1033}
+wherever <> R: {rk: 3712, frq: 18966}
+wherewith <> R: {rk: 37515, frq: 197}
+wherewithal <> N: {rk: 22231, frq: 777}
+whet <> V: {rk: 24366, frq: 624}
+whether <> C: {rk: 351, frq: 280973}
+whetstone <> N: {rk: 48492, frq: 91}
+whew <> U: {rk: 14229, frq: 1961}
+whey <> N: {rk: 26436, frq: 513}
+which <> D: {rk: 71, frq: 1613281}
+whichever <> D: {rk: 9853, frq: 3798}
+whiff <> N: {rk: 12997, frq: 2333}, V: {rk: 35304, frq: 237}
+while <> C: {rk: 161, frq: 579023}, N: {rk: 1174, frq: 82196}, V: {rk: 19233, frq: 1063}
+whilst <> C: {rk: 8618, frq: 4814}
+whim <> N: {rk: 10050, frq: 3684}
+whimper <> V: {rk: 13654, frq: 2123}, N: {rk: 21918, frq: 803}
+whimpering <> N: {rk: 45666, frq: 110}, J: {rk: 47207, frq: 99}
+whimsical <> J: {rk: 14857, frq: 1792}
+whimsically <> R: {rk: 38877, frq: 177}
+whimsy <> N: {rk: 22935, frq: 722}, J: {rk: 48728, frq: 90}
+whine <> V: {rk: 6744, frq: 7314}, N: {rk: 15175, frq: 1726}
+whiner <> N: {rk: 22413, frq: 763}
+whiney <> N: {rk: 46602, frq: 103}
+whinge <> V: {rk: 48083, frq: 94}
+whining <> N: {rk: 18734, frq: 1123}, J: {rk: 31890, frq: 315}
+whinny <> N: {rk: 38421, frq: 184}, V: {rk: 40107, frq: 161}
+whiny <> J: {rk: 18508, frq: 1153}
+whip <> V: {rk: 4890, frq: 12443}, N: {rk: 8138, frq: 5309}
+whiplash <> N: {rk: 25028, frq: 585}
+whiplike <> J: {rk: 58358, frq: 50}
+whipped <> J: {rk: 14782, frq: 1813}
+whipper <> N: {rk: 57076, frq: 54}
+whippersnapper <> N: {rk: 45176, frq: 113}
+whippet <> N: {rk: 48491, frq: 91}
+whipping <> J: {rk: 25935, frq: 539}, N: {rk: 31794, frq: 318}
+whippoorwill <> N: {rk: 52953, frq: 69}
+whippy <> J: {rk: 28234, frq: 433}
+whipsaw <> V: {rk: 43398, frq: 128}
+whir <> V: {rk: 19795, frq: 999}, N: {rk: 30409, frq: 357}
+whirl <> V: {rk: 10357, frq: 3482}, N: {rk: 19945, frq: 982}
+whirligig <> N: {rk: 47206, frq: 99}
+whirling <> J: {rk: 27562, frq: 463}
+whirlpool <> N: {rk: 16733, frq: 1428}
+whirlwind <> N: {rk: 13463, frq: 2182}
+whirr <> N: {rk: 42391, frq: 137}
+whirring <> J: {rk: 40108, frq: 161}, N: {rk: 43614, frq: 126}
+whisk <> V: {rk: 7137, frq: 6625}, N: {rk: 22916, frq: 724}
+whisker <> N: {rk: 14844, frq: 1796}
+whiskered <> J: {rk: 44084, frq: 122}
+whiskey <> N: {rk: 6641, frq: 7504}
+whisky <> N: {rk: 16525, frq: 1462}
+whisper <> V: {rk: 2800, frq: 28334}, N: {rk: 6598, frq: 7580}
+whispered <> J: {rk: 22858, frq: 727}
+whisperer <> N: {rk: 26316, frq: 519}
+whispering <> N: {rk: 28874, frq: 410}, J: {rk: 33121, frq: 283}
+whispery <> J: {rk: 38985, frq: 176}
+whist <> N: {rk: 41108, frq: 150}
+whistle <> N: {rk: 6938, frq: 6960}, V: {rk: 7830, frq: 5681}
+whistle-blower <> N: {rk: 12032, frq: 2701}, J: {rk: 34589, frq: 252}
+whistle-stop <> J: {rk: 54808, frq: 62}
+whistler <> N: {rk: 49913, frq: 83}
+whistling <> N: {rk: 19646, frq: 1016}, J: {rk: 33999, frq: 264}
+whit <> N: {rk: 15748, frq: 1602}
+white <> J: {rk: 386, frq: 251664}, N: {rk: 3167, frq: 24014}
+white-bread <> J: {rk: 51941, frq: 74}
+white-collar <> J: {rk: 15573, frq: 1638}
+white-hot <> J: {rk: 27510, frq: 465}
+white-knuckle <> J: {rk: 48394, frq: 92}
+white-knuckled <> J: {rk: 44660, frq: 117}
+white-out <> N: {rk: 37097, frq: 204}, J: {rk: 51190, frq: 77}
+white-shoe <> J: {rk: 58961, frq: 48}
+whiteboard <> N: {rk: 23323, frq: 693}
+whitecaps <> N: {rk: 35008, frq: 243}
+whitefish <> N: {rk: 30672, frq: 349}
+whitefly <> N: {rk: 38033, frq: 190}
+whiten <> V: {rk: 22971, frq: 719}
+whitened <> J: {rk: 51946, frq: 74}
+whitener <> N: {rk: 46517, frq: 104}
+whiteness <> N: {rk: 14158, frq: 1982}
+whitening <> J: {rk: 50299, frq: 81}, N: {rk: 58514, frq: 49}
+whitetail <> N: {rk: 18567, frq: 1145}
+whitewash <> V: {rk: 22297, frq: 771}, N: {rk: 30588, frq: 351}
+whitewashed <> J: {rk: 25997, frq: 536}
+whitewashing <> N: {rk: 53442, frq: 67}
+whitey <> N: {rk: 28558, frq: 421}
+whither <> R: {rk: 25668, frq: 552}
+whiting <> N: {rk: 21293, frq: 854}
+whitish <> J: {rk: 30722, frq: 348}
+whittle <> V: {rk: 16296, frq: 1500}
+whiz <> N: {rk: 19326, frq: 1054}, V: {rk: 22569, frq: 749}
+whiz-bang <> J: {rk: 49475, frq: 86}
+whizz <> V: {rk: 21198, frq: 861}
+who <> P: {rk: 44, frq: 2493429}
+whoa <> U: {rk: 2142, frq: 40833}
+whodunit <> N: {rk: 33196, frq: 282}
+whoever <> P: {rk: 3439, frq: 21251}
+whole <> J: {rk: 420, frq: 233110}, N: {rk: 2265, frq: 37840}
+wholehearted <> J: {rk: 33404, frq: 277}
+wholeheartedly <> R: {rk: 13905, frq: 2043}
+wholeness <> N: {rk: 19003, frq: 1090}
+wholesale <> J: {rk: 8602, frq: 4826}, R: {rk: 36983, frq: 206}, N: {rk: 39272, frq: 172}
+wholesaler <> N: {rk: 17753, frq: 1262}
+wholesome <> J: {rk: 13692, frq: 2112}
+wholesomeness <> N: {rk: 45104, frq: 114}
+wholistic <> J: {rk: 56475, frq: 56}
+wholly <> R: {rk: 7086, frq: 6698}
+wholly-owned <> J: {rk: 49808, frq: 84}
+whom <> P: {rk: 1161, frq: 83267}
+whomever <> P: {rk: 13242, frq: 2250}
+whomsoever <> P: {rk: 45945, frq: 108}
+whoop <> U: {rk: 17388, frq: 1319}, V: {rk: 17423, frq: 1313}, N: {rk: 24926, frq: 591}
+whoopee <> U: {rk: 38855, frq: 178}, N: {rk: 40241, frq: 160}
+whooping <> N: {rk: 24676, frq: 606}, J: {rk: 37800, frq: 193}
+whoops <> U: {rk: 18832, frq: 1111}
+whoosh <> N: {rk: 24925, frq: 591}, U: {rk: 26154, frq: 527}, V: {rk: 30673, frq: 349}
+whooshing <> J: {rk: 49910, frq: 83}
+whop <> V: {rk: 49474, frq: 86}
+whopper <> N: {rk: 23357, frq: 690}
+whopping <> J: {rk: 12514, frq: 2514}
+whore <> N: {rk: 7463, frq: 6144}, V: {rk: 33929, frq: 265}
+whoredom <> N: {rk: 58511, frq: 49}
+whorehouse <> N: {rk: 26048, frq: 533}
+whorish <> J: {rk: 57085, frq: 54}
+whorl <> N: {rk: 28348, frq: 429}
+whorled <> J: {rk: 57894, frq: 51}
+whose <> D: {rk: 655, frq: 147491}
+whosoever <> P: {rk: 26515, frq: 510}
+whump <> N: {rk: 51945, frq: 74}
+whup <> V: {rk: 32497, frq: 299}
+why <> R: {rk: 117, frq: 832911}, N: {rk: 28003, frq: 443}
+wick <> N: {rk: 20745, frq: 902}
+wicked <> J: {rk: 6299, frq: 8297}
+wickedly <> R: {rk: 25855, frq: 543}
+wickedness <> N: {rk: 17989, frq: 1226}
+wicker <> N: {rk: 13678, frq: 2114}
+wicket <> N: {rk: 29043, frq: 404}
+wicking <> N: {rk: 42548, frq: 136}
+wide <> J: {rk: 1168, frq: 82565}, R: {rk: 6406, frq: 8030}
+wide-angle <> J: {rk: 26375, frq: 516}
+wide-eyed <> J: {rk: 15112, frq: 1740}
+wide-ranging <> J: {rk: 14505, frq: 1891}
+widely <> R: {rk: 2529, frq: 32221}
+widen <> V: {rk: 6543, frq: 7705}
+widened <> J: {rk: 46599, frq: 103}
+widening <> J: {rk: 17502, frq: 1300}, N: {rk: 24036, frq: 646}
+widescreen <> N: {rk: 45668, frq: 110}
+widespread <> J: {rk: 3721, frq: 18896}
+widget <> N: {rk: 13394, frq: 2201}
+widow <> N: {rk: 5255, frq: 11187}, V: {rk: 34886, frq: 246}
+widowed <> J: {rk: 16490, frq: 1468}
+widower <> N: {rk: 17955, frq: 1232}
+widowhood <> N: {rk: 33732, frq: 270}
+width <> N: {rk: 6717, frq: 7373}
+wield <> V: {rk: 7910, frq: 5580}
+wielder <> N: {rk: 41516, frq: 146}
+wife <> N: {rk: 487, frq: 197306}
+wifely <> J: {rk: 39017, frq: 175}
+wig <> N: {rk: 8505, frq: 4914}, V: {rk: 46219, frq: 106}
+wiggle <> V: {rk: 11899, frq: 2757}, N: {rk: 18287, frq: 1182}
+wiggler <> N: {rk: 52507, frq: 71}
+wiggling <> J: {rk: 58963, frq: 48}
+wiggly <> J: {rk: 43685, frq: 125}, R: {rk: 46805, frq: 102}
+wiggy <> J: {rk: 53907, frq: 65}
+wigwam <> N: {rk: 40750, frq: 154}
+wiki <> N: {rk: 16444, frq: 1476}
+wild <> J: {rk: 1534, frq: 61605}, R: {rk: 17491, frq: 1302}, N: {rk: 22408, frq: 764}
+wild-eyed <> J: {rk: 26514, frq: 510}
+wildcat <> N: {rk: 11292, frq: 3007}
+wildcatter <> N: {rk: 46218, frq: 106}
+wildebeest <> N: {rk: 26196, frq: 526}
+wilderness <> N: {rk: 4813, frq: 12785}
+wildfire <> N: {rk: 10259, frq: 3551}
+wildflower <> N: {rk: 14606, frq: 1859}
+wildland <> N: {rk: 28946, frq: 407}
+wildlife <> N: {rk: 3547, frq: 20304}
+wildly <> R: {rk: 6265, frq: 8367}
+wildness <> N: {rk: 24579, frq: 612}
+wildwood <> N: {rk: 58962, frq: 48}
+wile <> N: {rk: 24006, frq: 648}, V: {rk: 35921, frq: 225}
+wilful <> J: {rk: 38448, frq: 183}
+wilfully <> R: {rk: 37910, frq: 192}
+will <> V: {rk: 47, frq: 2372215}, N: {rk: 1416, frq: 67581}
+willful <> J: {rk: 13771, frq: 2084}
+willfully <> R: {rk: 15253, frq: 1707}
+willfulness <> N: {rk: 42974, frq: 132}
+willing <> J: {rk: 1259, frq: 76629}
+willingly <> R: {rk: 9400, frq: 4153}
+willingness <> N: {rk: 4779, frq: 12933}
+willow <> N: {rk: 7341, frq: 6319}
+willowy <> J: {rk: 31299, frq: 331}
+willpower <> N: {rk: 20000, frq: 976}
+willy <> N: {rk: 25344, frq: 569}
+willy-nilly <> R: {rk: 26494, frq: 511}
+wilt <> V: {rk: 11160, frq: 3073}
+wilted <> J: {rk: 31298, frq: 331}
+wilting <> J: {rk: 49473, frq: 86}
+wily <> J: {rk: 21180, frq: 863}
+wimp <> N: {rk: 16295, frq: 1500}, V: {rk: 32616, frq: 296}
+wimple <> N: {rk: 54264, frq: 64}
+wimpy <> J: {rk: 22793, frq: 731}
+win <> V: {rk: 347, frq: 288308}, N: {rk: 2397, frq: 34613}
+win-win <> J: {rk: 16350, frq: 1491}
+wince <> V: {rk: 10457, frq: 3413}, N: {rk: 25260, frq: 573}
+winch <> N: {rk: 23740, frq: 664}, V: {rk: 35920, frq: 225}
+wind <> N: {rk: 1226, frq: 78623}, V: {rk: 2972, frq: 26183}
+wind-up <> N: {rk: 25021, frq: 586}
+windage <> N: {rk: 52827, frq: 70}
+windbag <> N: {rk: 38175, frq: 187}
+windblown <> J: {rk: 24916, frq: 592}
+windbreak <> N: {rk: 35303, frq: 237}
+windbreaker <> N: {rk: 23030, frq: 713}
+winded <> J: {rk: 36112, frq: 222}
+winder <> N: {rk: 42392, frq: 137}
+windfall <> N: {rk: 14275, frq: 1949}
+winding <> J: {rk: 12521, frq: 2511}, N: {rk: 45667, frq: 110}
+windjammer <> N: {rk: 50618, frq: 80}
+windlass <> N: {rk: 44658, frq: 117}
+windless <> J: {rk: 35919, frq: 225}
+windmill <> N: {rk: 13801, frq: 2076}
+window <> N: {rk: 714, frq: 136043}
+window-shopping <> N: {rk: 56476, frq: 56}
+windowed <> J: {rk: 40285, frq: 159}
+windowless <> J: {rk: 19516, frq: 1031}
+windowpane <> N: {rk: 25259, frq: 573}
+windowsill <> N: {rk: 17275, frq: 1339}
+windpipe <> N: {rk: 29194, frq: 397}
+windproof <> J: {rk: 49091, frq: 88}
+windrow <> N: {rk: 23297, frq: 695}
+windscreen <> N: {rk: 30264, frq: 361}
+windshield <> N: {rk: 8271, frq: 5157}
+windsock <> N: {rk: 53316, frq: 68}
+windstorm <> N: {rk: 32803, frq: 291}
+windsurfer <> N: {rk: 43244, frq: 129}
+windsurfing <> N: {rk: 29082, frq: 402}
+windswept <> J: {rk: 23298, frq: 695}
+windward <> J: {rk: 35267, frq: 238}, R: {rk: 46282, frq: 105}
+windy <> J: {rk: 9952, frq: 3737}
+wine <> N: {rk: 1630, frq: 57614}, V: {rk: 32019, frq: 312}
+wineglass <> N: {rk: 27068, frq: 486}
+winemaker <> N: {rk: 20591, frq: 918}
+winemaking <> N: {rk: 37011, frq: 205}
+winery <> N: {rk: 11561, frq: 2891}
+wineskin <> N: {rk: 51506, frq: 76}
+wing <> N: {rk: 2007, frq: 44427}, V: {rk: 16734, frq: 1428}
+wingback <> N: {rk: 43243, frq: 129}
+wingbeat <> N: {rk: 55880, frq: 58}
+winge <> V: {rk: 27326, frq: 473}
+winged <> J: {rk: 15862, frq: 1579}
+winger <> N: {rk: 14692, frq: 1835}
+wingless <> J: {rk: 43394, frq: 128}
+wingman <> N: {rk: 27705, frq: 457}
+wingnut <> N: {rk: 20934, frq: 884}
+wingspan <> N: {rk: 25147, frq: 579}
+wingtip <> N: {rk: 31447, frq: 327}
+wink <> V: {rk: 8956, frq: 4529}, N: {rk: 12256, frq: 2616}
+winking <> J: {rk: 44151, frq: 121}, N: {rk: 54405, frq: 63}
+winkle <> N: {rk: 41152, frq: 149}
+winless <> J: {rk: 24253, frq: 631}
+winnable <> J: {rk: 28286, frq: 431}
+winner <> N: {rk: 1906, frq: 47124}
+winning <> J: {rk: 5278, frq: 11118}
+winningly <> R: {rk: 51066, frq: 78}
+winnings <> N: {rk: 15985, frq: 1558}
+winnow <> V: {rk: 26113, frq: 530}
+winnowing <> N: {rk: 54949, frq: 61}, J: {rk: 55333, frq: 60}
+wino <> N: {rk: 31446, frq: 327}
+winsome <> J: {rk: 30319, frq: 360}
+winter <> N: {rk: 1540, frq: 61394}, V: {rk: 18893, frq: 1103}
+wintergreen <> J: {rk: 49200, frq: 87}, N: {rk: 49810, frq: 84}
+wintering <> J: {rk: 39753, frq: 165}
+winterize <> V: {rk: 44593, frq: 118}
+wintertime <> N: {rk: 23815, frq: 659}
+wintery <> J: {rk: 50619, frq: 80}
+wintry <> J: {rk: 22450, frq: 759}
+wipe <> V: {rk: 2834, frq: 27952}, N: {rk: 19234, frq: 1063}
+wipeout <> N: {rk: 34703, frq: 249}
+wiper <> N: {rk: 17965, frq: 1231}
+wire <> N: {rk: 2799, frq: 28337}, V: {rk: 7282, frq: 6404}
+wired <> J: {rk: 15933, frq: 1565}
+wireframe <> N: {rk: 52018, frq: 73}
+wireless <> N: {rk: 5120, frq: 11664}
+wireline <> N: {rk: 50662, frq: 80}
+wiretap <> N: {rk: 19680, frq: 1013}, V: {rk: 31287, frq: 332}
+wiretapping <> N: {rk: 25672, frq: 552}, J: {rk: 43669, frq: 125}
+wiring <> N: {rk: 11375, frq: 2975}
+wiry <> J: {rk: 16406, frq: 1483}
+wisdom <> N: {rk: 2995, frq: 25925}
+wise <> J: {rk: 3046, frq: 25418}, V: {rk: 37236, frq: 201}
+wiseacre <> N: {rk: 57186, frq: 53}
+wiseass <> N: {rk: 42351, frq: 138}
+wisecrack <> N: {rk: 31809, frq: 317}, V: {rk: 40942, frq: 152}
+wisely <> R: {rk: 9120, frq: 4385}
+wish <> V: {rk: 826, frq: 116884}, N: {rk: 3325, frq: 22423}
+wishbone <> N: {rk: 31502, frq: 326}
+wisher <> N: {rk: 53863, frq: 65}
+wishful <> J: {rk: 13870, frq: 2056}
+wishfully <> R: {rk: 57778, frq: 52}
+wishing <> J: {rk: 42141, frq: 140}
+wishy-washy <> J: {rk: 31005, frq: 340}
+wisp <> N: {rk: 16240, frq: 1511}, V: {rk: 54342, frq: 63}
+wispy <> J: {rk: 20375, frq: 938}
+wisteria <> N: {rk: 30868, frq: 344}
+wistful <> J: {rk: 18722, frq: 1125}
+wistfully <> R: {rk: 20409, frq: 934}
+wistfulness <> N: {rk: 41332, frq: 147}
+wit <> N: {rk: 5958, frq: 9075}
+witch <> N: {rk: 4273, frq: 15359}, V: {rk: 41320, frq: 148}
+witch-hunt <> N: {rk: 29139, frq: 399}, J: {rk: 59675, frq: 46}
+witchcraft <> N: {rk: 15176, frq: 1726}
+witchery <> N: {rk: 51121, frq: 78}
+witching <> J: {rk: 42802, frq: 133}
+witchy <> J: {rk: 40605, frq: 155}
+with <> I: {rk: 17, frq: 6442861}
+withal <> R: {rk: 35092, frq: 242}
+withdraw <> V: {rk: 3361, frq: 22109}
+withdrawal <> N: {rk: 5052, frq: 11862}
+wither <> V: {rk: 13250, frq: 2248}
+withered <> J: {rk: 26072, frq: 532}
+withering <> J: {rk: 19752, frq: 1004}
+withers <> N: {rk: 39140, frq: 174}
+withheld <> J: {rk: 52464, frq: 71}
+withhold <> V: {rk: 6819, frq: 7190}
+withholding <> J: {rk: 17310, frq: 1332}, N: {rk: 20670, frq: 911}
+within <> I: {rk: 399, frq: 243714}, R: {rk: 5091, frq: 11726}
+without <> I: {rk: 214, frq: 438567}, R: {rk: 7696, frq: 5833}
+withstand <> V: {rk: 7825, frq: 5683}
+withstanding <> R: {rk: 36761, frq: 210}
+witless <> J: {rk: 31141, frq: 336}
+witness <> N: {rk: 1987, frq: 44979}, V: {rk: 3047, frq: 25418}
+witnessing <> N: {rk: 31226, frq: 333}
+witted <> J: {rk: 57779, frq: 52}
+witticism <> N: {rk: 35377, frq: 236}
+wittily <> R: {rk: 42782, frq: 134}
+wittingly <> R: {rk: 41321, frq: 148}
+witty <> J: {rk: 9954, frq: 3736}
+wiz <> N: {rk: 24361, frq: 624}
+wizard <> N: {rk: 5731, frq: 9701}, J: {rk: 25809, frq: 545}
+wizardly <> R: {rk: 54309, frq: 64}
+wizardry <> N: {rk: 25058, frq: 584}
+wizen <> V: {rk: 46263, frq: 105}
+wizened <> J: {rk: 31671, frq: 321}
+wobble <> V: {rk: 14459, frq: 1904}, N: {rk: 24521, frq: 615}
+wobbling <> J: {rk: 43886, frq: 124}
+wobbly <> J: {rk: 16488, frq: 1469}
+woe <> N: {rk: 8070, frq: 5382}
+woebegone <> J: {rk: 42991, frq: 132}
+woeful <> J: {rk: 26146, frq: 528}
+woefully <> R: {rk: 16521, frq: 1463}
+wog <> N: {rk: 51987, frq: 74}
+wok <> N: {rk: 22232, frq: 777}
+wold <> N: {rk: 32568, frq: 297}
+wolf <> N: {rk: 2735, frq: 29042}, V: {rk: 24813, frq: 598}
+wolfhound <> N: {rk: 46560, frq: 104}
+wolfish <> J: {rk: 42568, frq: 136}
+wolfman <> N: {rk: 43002, frq: 131}
+woman <> N: {rk: 126, frq: 759817}
+womanhood <> N: {rk: 18135, frq: 1204}
+womanizer <> N: {rk: 26721, frq: 501}
+womanizing <> N: {rk: 32260, frq: 305}, J: {rk: 52867, frq: 70}
+womankind <> N: {rk: 46838, frq: 102}
+womanliness <> N: {rk: 57140, frq: 54}
+womanly <> J: {rk: 26132, frq: 529}
+womb <> N: {rk: 8819, frq: 4633}
+wombat <> N: {rk: 34609, frq: 251}
+womenfolk <> N: {rk: 43206, frq: 130}
+womenswear <> N: {rk: 59674, frq: 46}
+wonder <> V: {rk: 737, frq: 131649}, N: {rk: 2569, frq: 31463}
+wonderful <> J: {rk: 1330, frq: 71940}
+wonderfully <> R: {rk: 9355, frq: 4199}
+wonderfulness <> N: {rk: 48802, frq: 89}
+wondering <> N: {rk: 36997, frq: 205}, J: {rk: 55989, frq: 57}
+wonderingly <> R: {rk: 44395, frq: 119}
+wonderland <> N: {rk: 22931, frq: 722}
+wonderment <> N: {rk: 26846, frq: 495}
+wondrous <> J: {rk: 14103, frq: 1996}
+wondrously <> R: {rk: 41920, frq: 142}
+wonk <> N: {rk: 23458, frq: 683}
+wonky <> J: {rk: 25896, frq: 541}
+wont <> N: {rk: 14772, frq: 1814}, J: {rk: 22384, frq: 765}
+wonton <> N: {rk: 35682, frq: 229}
+woo <> V: {rk: 7814, frq: 5693}
+wood <> N: {rk: 1572, frq: 60115}
+woodblock <> N: {rk: 41736, frq: 143}
+woodcarver <> N: {rk: 40418, frq: 158}
+woodcarving <> N: {rk: 41331, frq: 147}
+woodchip <> N: {rk: 56581, frq: 55}
+woodchuck <> N: {rk: 37366, frq: 199}
+woodcock <> N: {rk: 31734, frq: 319}
+woodcut <> N: {rk: 25515, frq: 559}
+woodcutter <> N: {rk: 38564, frq: 181}
+wooded <> J: {rk: 12943, frq: 2352}
+wooden <> J: {rk: 3302, frq: 22683}
+woodenly <> R: {rk: 56582, frq: 55}
+woodland <> N: {rk: 9900, frq: 3772}
+woodlot <> N: {rk: 39907, frq: 163}
+woodman <> N: {rk: 42801, frq: 133}
+woodpecker <> N: {rk: 20138, frq: 962}
+woodpile <> N: {rk: 33393, frq: 278}
+woodshed <> N: {rk: 32189, frq: 307}
+woodsman <> N: {rk: 27640, frq: 459}
+woodsy <> J: {rk: 32799, frq: 291}
+woodwind <> N: {rk: 31224, frq: 334}
+woodwork <> N: {rk: 17007, frq: 1385}
+woodworker <> N: {rk: 31805, frq: 318}
+woodworking <> N: {rk: 23050, frq: 712}
+woody <> J: {rk: 16489, frq: 1468}
+woof <> V: {rk: 25300, frq: 571}, N: {rk: 30661, frq: 350}
+woofer <> N: {rk: 48121, frq: 94}
+wooing <> N: {rk: 42352, frq: 138}
+wool <> N: {rk: 6603, frq: 7573}
+woolen <> J: {rk: 20579, frq: 919}
+woolens <> N: {rk: 46561, frq: 104}
+woollen <> J: {rk: 45410, frq: 112}
+woolly <> J: {rk: 19681, frq: 1012}
+wooly <> J: {rk: 33742, frq: 269}
+woozy <> J: {rk: 25974, frq: 537}
+wop <> N: {rk: 37367, frq: 199}
+word <> N: {rk: 241, frq: 402216}, V: {rk: 15524, frq: 1647}
+wording <> N: {rk: 11174, frq: 3063}
+wordless <> J: {rk: 21887, frq: 805}
+wordlessly <> R: {rk: 25837, frq: 544}
+wordplay <> N: {rk: 27159, frq: 481}
+wordsmith <> N: {rk: 34119, frq: 262}
+wordy <> J: {rk: 30529, frq: 353}
+work <> V: {rk: 115, frq: 854095}, N: {rk: 207, frq: 456169}
+workability <> N: {rk: 39896, frq: 164}
+workable <> J: {rk: 14057, frq: 2007}
+workaday <> J: {rk: 31225, frq: 334}
+workaholic <> J: {rk: 23285, frq: 696}
+workaholics <> N: {rk: 41940, frq: 141}
+workaholism <> N: {rk: 48138, frq: 93}
+workbench <> N: {rk: 22736, frq: 736}
+workbook <> N: {rk: 20371, frq: 939}
+workday <> N: {rk: 15424, frq: 1668}
+worked <> J: {rk: 32259, frq: 306}
+worker <> N: {rk: 720, frq: 135244}
+workfare <> N: {rk: 35591, frq: 232}
+workflow <> N: {rk: 16744, frq: 1427}
+workforce <> N: {rk: 5608, frq: 10126}
+workgroup <> N: {rk: 32328, frq: 304}
+workhorse <> N: {rk: 21688, frq: 820}
+workhouse <> N: {rk: 29132, frq: 400}
+working <> J: {rk: 2882, frq: 27367}, N: {rk: 7895, frq: 5599}
+workingman <> N: {rk: 42779, frq: 134}
+workload <> N: {rk: 11399, frq: 2964}
+workman <> N: {rk: 15239, frq: 1711}
+workmanlike <> J: {rk: 40770, frq: 154}
+workmanship <> N: {rk: 23152, frq: 705}
+workmate <> N: {rk: 48137, frq: 93}
+workout <> N: {rk: 4812, frq: 12786}
+workpiece <> N: {rk: 48123, frq: 94}
+workplace <> N: {rk: 4366, frq: 14897}
+workroom <> N: {rk: 24956, frq: 589}
+works <> N: {rk: 1823, frq: 49867}
+worksheet <> N: {rk: 15470, frq: 1658}
+workshop <> N: {rk: 3585, frq: 19894}
+worksite <> N: {rk: 32179, frq: 308}
+workspace <> N: {rk: 21768, frq: 814}
+workstation <> N: {rk: 14615, frq: 1855}
+worktable <> N: {rk: 29959, frq: 371}
+workweek <> N: {rk: 23314, frq: 694}
+world <> N: {rk: 134, frq: 732511}
+world-class <> J: {rk: 10573, frq: 3353}
+world-famous <> J: {rk: 19891, frq: 988}
+world-weary <> J: {rk: 36022, frq: 223}
+worldliness <> N: {rk: 34990, frq: 244}
+worldly <> J: {rk: 11301, frq: 3004}
+worldview <> N: {rk: 8607, frq: 4822}
+worldwide <> R: {rk: 4704, frq: 13263}, J: {rk: 5476, frq: 10488}
+worm <> N: {rk: 5450, frq: 10575}, V: {rk: 23049, frq: 712}
+wormhole <> N: {rk: 13614, frq: 2133}
+wormlike <> J: {rk: 44844, frq: 116}
+wormwood <> N: {rk: 38709, frq: 180}
+wormy <> J: {rk: 39897, frq: 164}
+worn <> J: {rk: 11986, frq: 2718}
+worn-out <> J: {rk: 22208, frq: 779}
+worried <> J: {rk: 3074, frq: 25086}
+worriedly <> R: {rk: 35896, frq: 225}
+worrier <> N: {rk: 29055, frq: 403}
+worrisome <> J: {rk: 13627, frq: 2130}
+worry <> V: {rk: 815, frq: 119256}, N: {rk: 4205, frq: 15739}
+worrying <> J: {rk: 7024, frq: 6808}
+worryingly <> R: {rk: 43884, frq: 124}
+worrywart <> N: {rk: 50685, frq: 79}
+worse <> N: {rk: 23495, frq: 681}
+worsen <> V: {rk: 9621, frq: 3970}
+worsening <> J: {rk: 15562, frq: 1639}
+worship <> N: {rk: 5493, frq: 10446}, V: {rk: 6083, frq: 8761}
+worshiper <> N: {rk: 18864, frq: 1107}
+worshipful <> J: {rk: 35590, frq: 232}
+worshiping <> J: {rk: 58411, frq: 50}
+worshipper <> N: {rk: 19645, frq: 1016}
+worst-case <> J: {rk: 16122, frq: 1532}
+worsted <> N: {rk: 42780, frq: 134}
+wort <> N: {rk: 27742, frq: 455}
+worth <> I: {rk: 1175, frq: 82178}, N: {rk: 2926, frq: 26778}
+worthiness <> N: {rk: 25772, frq: 547}
+worthless <> J: {rk: 7255, frq: 6439}
+worthlessness <> N: {rk: 36654, frq: 212}
+worthwhile <> J: {rk: 7098, frq: 6683}
+worthy <> J: {rk: 4668, frq: 13410}, N: {rk: 10995, frq: 3148}
+would <> V: {rk: 49, frq: 2349400}
+would-be <> J: {rk: 8384, frq: 5034}
+wound <> N: {rk: 3327, frq: 22414}, V: {rk: 5092, frq: 11725}
+wounded <> J: {rk: 6016, frq: 8932}
+wounding <> N: {rk: 34810, frq: 247}, J: {rk: 59018, frq: 48}
+woven <> J: {rk: 15275, frq: 1703}
+wow <> U: {rk: 1557, frq: 60702}, V: {rk: 16764, frq: 1423}, N: {rk: 21986, frq: 797}
+wrack <> V: {rk: 21005, frq: 878}, N: {rk: 53837, frq: 66}
+wraith <> N: {rk: 26207, frq: 525}
+wraithlike <> J: {rk: 55390, frq: 60}
+wrangle <> V: {rk: 21546, frq: 831}, N: {rk: 42581, frq: 135}
+wrangler <> N: {rk: 27926, frq: 447}
+wrangling <> N: {rk: 21355, frq: 848}
+wrap <> V: {rk: 2278, frq: 37396}, N: {rk: 6892, frq: 7051}
+wrap-around <> J: {rk: 48442, frq: 92}
+wrap-up <> N: {rk: 29001, frq: 405}
+wraparound <> J: {rk: 26431, frq: 514}, N: {rk: 37111, frq: 203}
+wrapped <> J: {rk: 26034, frq: 534}
+wrapper <> N: {rk: 11664, frq: 2841}
+wrapping <> N: {rk: 16606, frq: 1448}
+wrasse <> N: {rk: 55391, frq: 60}
+wrath <> N: {rk: 8412, frq: 5005}
+wrathful <> J: {rk: 40094, frq: 161}
+wreak <> V: {rk: 11995, frq: 2715}
+wreath <> N: {rk: 12183, frq: 2645}
+wreathe <> V: {rk: 31878, frq: 316}
+wreck <> N: {rk: 7313, frq: 6354}, V: {rk: 8470, frq: 4943}
+wreckage <> N: {rk: 10278, frq: 3534}
+wrecked <> J: {rk: 21054, frq: 874}
+wrecker <> N: {rk: 28644, frq: 418}
+wrecking <> J: {rk: 25683, frq: 551}
+wren <> N: {rk: 30257, frq: 361}
+wrench <> V: {rk: 12363, frq: 2570}, N: {rk: 12460, frq: 2532}
+wrenching <> J: {rk: 24751, frq: 601}, N: {rk: 43670, frq: 125}
+wrest <> V: {rk: 17865, frq: 1245}
+wrestle <> V: {rk: 7028, frq: 6800}, N: {rk: 47471, frq: 98}
+wrestler <> N: {rk: 11438, frq: 2948}
+wrestling <> N: {rk: 6908, frq: 7029}
+wretch <> N: {rk: 23029, frq: 713}
+wretched <> J: {rk: 12087, frq: 2679}
+wretchedly <> R: {rk: 43205, frq: 130}
+wretchedness <> N: {rk: 37109, frq: 204}
+wriggle <> V: {rk: 16094, frq: 1539}, N: {rk: 55991, frq: 57}
+wriggling <> J: {rk: 36229, frq: 220}
+wright <> N: {rk: 41322, frq: 148}
+wring <> V: {rk: 12126, frq: 2664}
+wringer <> N: {rk: 34199, frq: 260}
+wringing <> N: {rk: 57189, frq: 53}
+wrinkle <> N: {rk: 8804, frq: 4641}, V: {rk: 15199, frq: 1720}
+wrinkled <> J: {rk: 13007, frq: 2328}
+wrinkly <> J: {rk: 34989, frq: 244}
+wrist <> N: {rk: 4107, frq: 16293}
+wristband <> N: {rk: 27593, frq: 462}
+wristwatch <> N: {rk: 20806, frq: 897}
+writ <> N: {rk: 16700, frq: 1433}
+writable <> J: {rk: 57139, frq: 54}
+write <> V: {rk: 212, frq: 439865}
+write-down <> N: {rk: 35091, frq: 242}
+write-in <> N: {rk: 26070, frq: 532}, J: {rk: 57824, frq: 51}
+write-off <> N: {rk: 22452, frq: 759}
+write-up <> N: {rk: 24277, frq: 630}
+writer <> N: {rk: 1002, frq: 96279}
+writerly <> J: {rk: 37108, frq: 204}
+writhe <> V: {rk: 15503, frq: 1651}, N: {rk: 50259, frq: 81}
+writhing <> J: {rk: 38429, frq: 184}, N: {rk: 51982, frq: 74}
+writing <> N: {rk: 1396, frq: 68200}
+written <> J: {rk: 3793, frq: 18308}
+wrong <> J: {rk: 465, frq: 206856}, R: {rk: 3254, frq: 23141}, N: {rk: 9384, frq: 4164}, V: {rk: 13429, frq: 2193}
+wrong-headed <> J: {rk: 29138, frq: 399}
+wrongdoer <> N: {rk: 31077, frq: 338}
+wrongdoing <> N: {rk: 9364, frq: 4188}
+wronged <> J: {rk: 35790, frq: 227}
+wrongful <> J: {rk: 14773, frq: 1814}
+wrongfully <> R: {rk: 21537, frq: 832}
+wrongfulness <> N: {rk: 53392, frq: 67}
+wrongheaded <> J: {rk: 36324, frq: 217}
+wrongly <> R: {rk: 11320, frq: 2996}
+wrongness <> N: {rk: 30196, frq: 364}
+wrought <> J: {rk: 21274, frq: 856}
+wry <> J: {rk: 14921, frq: 1780}
+wryly <> R: {rk: 19827, frq: 995}
+wunderkind <> N: {rk: 33115, frq: 283}
+wuss <> N: {rk: 29952, frq: 372}
+wussy <> J: {rk: 51151, frq: 77}

@@ -21,8 +21,8 @@
     },
     "freq": {
         "start": "ka",
-        "end": "Kuwaiti",
-        "total": 300
+        "end": "kwanza",
+        "total": 309
     },
     "lgk_id": {
         "start": "kabaddi",
@@ -35,9 +35,9 @@
         "total": 1078
     },
     "pos": {
-        "start": "ka-ching",
-        "end": "kurtosis",
-        "total": 292
+        "start": "ka",
+        "end": "kwanza",
+        "total": 309
     },
     "redirect": {
         "start": "kampucheans",

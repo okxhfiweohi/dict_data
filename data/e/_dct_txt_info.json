@@ -25,9 +25,9 @@
         "total": 810
     },
     "freq": {
-        "start": "each",
+        "start": "e-book",
         "end": "eyrie",
-        "total": 1819
+        "total": 1809
     },
     "lgk_id": {
         "start": "e'er",
@@ -42,7 +42,7 @@
     "pos": {
         "start": "e-book",
         "end": "eyrie",
-        "total": 1796
+        "total": 1809
     },
     "redirect": {
         "start": "e-boats",

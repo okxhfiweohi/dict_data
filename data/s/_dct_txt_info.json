@@ -41,8 +41,13 @@
     },
     "freq": {
         "start": "sabayon",
+        "end": "synod",
+        "total": 5000
+    },
+    "freq__1": {
+        "start": "synonym",
         "end": "systolic",
-        "total": 4731
+        "total": 38
     },
     "lgk_id": {
         "start": "s",
@@ -66,8 +71,13 @@
     },
     "pos": {
         "start": "sabayon",
+        "end": "synod",
+        "total": 5000
+    },
+    "pos__1": {
+        "start": "synonym",
         "end": "systolic",
-        "total": 4963
+        "total": 38
     },
     "redirect": {
         "start": "sabahs",

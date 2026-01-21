@@ -36,8 +36,8 @@
     },
     "freq": {
         "start": "cab",
-        "end": "Czechoslovakian",
-        "total": 4021
+        "end": "czarist",
+        "total": 4077
     },
     "lgk_id": {
         "start": "cab",
@@ -57,7 +57,7 @@
     "pos": {
         "start": "cab",
         "end": "czarist",
-        "total": 3980
+        "total": 4077
     },
     "redirect": {
         "start": "cabernets",

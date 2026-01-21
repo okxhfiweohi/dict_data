@@ -1,292 +1,309 @@
-ka-ching <> N: {rk: 49205, frq: 41}
-kabbalistic <> J: {rk: 47982, frq: 36}
-kabob <> N: {rk: 36151, frq: 120}
-kachina <> N: {rk: 42953, frq: 103}
-kaffir <> N: {rk: 36673, frq: 111}
-kaffiyeh <> N: {rk: 48048, frq: 40}
-kafir <> N: {rk: 54082, frq: 34}
-kahuna <> N: {rk: 46039, frq: 82}
-kale <> N: {rk: 17597, frq: 918}
-kaleidoscope <> N: {rk: 20578, frq: 442}
-kaleidoscopic <> J: {rk: 29963, frq: 163}
-kameez <> N: {rk: 54562, frq: 30}
-kamikaze <> N: {rk: 24305, frq: 298}
-kangaroo <> N: {rk: 16356, frq: 872}
-kanji <> N: {rk: 39253, frq: 128}
-kaolin <> N: {rk: 35485, frq: 118}
-kapok <> N: {rk: 46239, frq: 53}
-kaput <> J: {rk: 34398, frq: 109}
-karaoke <> N: {rk: 17417, frq: 664}
-karat <> N: {rk: 44452, frq: 65}
-karate <> N: {rk: 15162, frq: 777}
-karma <> N: {rk: 18823, frq: 664}
-karmic <> J: {rk: 33212, frq: 119}
-karst <> N: {rk: 46547, frq: 93}
-kart <> N: {rk: 44229, frq: 83}
-kasha <> N: {rk: 40693, frq: 85}
-kata <> N: {rk: 43062, frq: 114}
-katydid <> N: {rk: 41514, frq: 69}
-kava <> N: {rk: 31520, frq: 210}
-kayak <> N: {rk: 10858, frq: 1537}, V: {rk: 19981, frq: 449}
-kayaker <> N: {rk: 25359, frq: 272}
-kayaking <> J: {rk: 44432, frq: 50}
-kazoo <> N: {rk: 41037, frq: 69}
-kebab <> N: {rk: 26317, frq: 278}
-keel <> V: {rk: 19767, frq: 443}, N: {rk: 20834, frq: 533}
-keelboat <> N: {rk: 48058, frq: 67}
-keen <> J: {rk: 6601, frq: 3318}, V: {rk: 30085, frq: 172}
-keening <> N: {rk: 40373, frq: 75}, J: {rk: 44859, frq: 53}
-keenly <> R: {rk: 13157, frq: 997}
-keenness <> N: {rk: 43030, frq: 51}
-keep <> V: {rk: 156, frq: 252367}, N: {rk: 17135, frq: 632}
-keeper <> N: {rk: 7510, frq: 2816}
-keeping <> N: {rk: 20086, frq: 433}
-keepsake <> N: {rk: 24952, frq: 274}
-kefir <> N: {rk: 58347, frq: 21}
-keg <> N: {rk: 17385, frq: 612}
-kegger <> N: {rk: 55479, frq: 23}
-keiretsu <> N: {rk: 37135, frq: 103}
-keister <> N: {rk: 46157, frq: 59}
-keloid <> N: {rk: 50132, frq: 53}, J: {rk: 57940, frq: 22}
-kelp <> N: {rk: 22776, frq: 351}
-kennel <> N: {rk: 16623, frq: 669}
-kenosis <> N: {rk: 47065, frq: 54}
-kenotic <> J: {rk: 53334, frq: 32}
-kente <> N: {rk: 36684, frq: 105}
-kenyan <> J: {rk: 15254, frq: 827}, N: {rk: 25343, frq: 282}
-kept <> J: {rk: 33938, frq: 101}
-keratin <> N: {rk: 40625, frq: 88}
-keratosis <> N: {rk: 57197, frq: 26}
-kerb <> N: {rk: 45621, frq: 59}
-kerchief <> N: {rk: 23129, frq: 328}
-kerf <> N: {rk: 55223, frq: 24}
-kernel <> N: {rk: 11636, frq: 1289}
-kerogen <> N: {rk: 59288, frq: 28}
-kerosene <> N: {rk: 13963, frq: 921}
-kestrel <> N: {rk: 30349, frq: 254}
-ketch <> N: {rk: 43025, frq: 77}
-ketchup <> N: {rk: 12011, frq: 1254}
-ketoacidosis <> N: {rk: 58433, frq: 27}
-ketone <> N: {rk: 43532, frq: 57}
-ketosis <> N: {rk: 58162, frq: 26}
-kettle <> N: {rk: 10994, frq: 1432}
-kettledrum <> N: {rk: 48493, frq: 36}
-kewpie <> N: {rk: 50571, frq: 47}
-key <> J: {rk: 1094, frq: 39730}, N: {rk: 1468, frq: 29098}, V: {rk: 9714, frq: 1698}
-keyboard <> N: {rk: 5604, frq: 4582}, V: {rk: 48037, frq: 37}
-keyboardist <> N: {rk: 29933, frq: 164}
-keycard <> N: {rk: 48758, frq: 47}
-keyhole <> N: {rk: 21046, frq: 424}
-keyless <> J: {rk: 40529, frq: 66}
-keynote <> N: {rk: 14321, frq: 872}
-keynoter <> N: {rk: 58622, frq: 19}
-keypad <> N: {rk: 20106, frq: 435}
-keystroke <> N: {rk: 24082, frq: 294}
-khaki <> J: {rk: 13524, frq: 1016}
-khakis <> N: {rk: 17724, frq: 588}
-khat <> N: {rk: 44155, frq: 79}
-kibble <> N: {rk: 37471, frq: 106}
-kibbutz <> N: {rk: 21988, frq: 458}
-kibitz <> V: {rk: 39239, frq: 63}
-kibosh <> N: {rk: 40781, frq: 63}
-kick <> V: {rk: 1825, frq: 22034}, N: {rk: 5276, frq: 5659}
-kick-ass <> J: {rk: 38761, frq: 80}
-kick-start <> V: {rk: 32455, frq: 145}, N: {rk: 57272, frq: 21}
-kickback <> N: {rk: 18664, frq: 532}
-kickball <> N: {rk: 33243, frq: 130}
-kickboxing <> J: {rk: 49370, frq: 35}
-kicker <> N: {rk: 13354, frq: 1111}
-kicking <> J: {rk: 28929, frq: 178}, N: {rk: 31267, frq: 139}
-kickoff <> N: {rk: 12586, frq: 1332}
-kickstand <> N: {rk: 48774, frq: 44}
-kicky <> J: {rk: 46998, frq: 47}
-kid <> N: {rk: 312, frq: 138349}, V: {rk: 4990, frq: 5637}
-kiddie <> N: {rk: 21863, frq: 405}
-kidding <> N: {rk: 16332, frq: 693}
-kiddo <> N: {rk: 25524, frq: 323}
-kiddy <> N: {rk: 31979, frq: 145}, J: {rk: 44231, frq: 48}
-kidnap <> V: {rk: 7101, frq: 3096}
-kidnapped <> J: {rk: 31225, frq: 150}
-kidnapper <> N: {rk: 14002, frq: 977}
-kidnapping <> N: {rk: 7803, frq: 2720}
-kidney <> N: {rk: 5206, frq: 5023}
-kidney-shaped <> J: {rk: 38801, frq: 76}
-kidskin <> N: {rk: 52415, frq: 31}
-kielbasa <> N: {rk: 38924, frq: 97}
-kike <> N: {rk: 41068, frq: 82}
-kilim <> N: {rk: 48930, frq: 37}
-kill <> V: {rk: 425, frq: 100497}, N: {rk: 12503, frq: 1162}
-killdeer <> N: {rk: 44509, frq: 67}
-killer <> N: {rk: 2629, frq: 13759}
-killifish <> N: {rk: 59823, frq: 20}
-killing <> N: {rk: 3304, frq: 9913}
-killjoy <> N: {rk: 47762, frq: 46}
-kiln <> N: {rk: 17046, frq: 711}
-kilocalorie <> N: {rk: 59213, frq: 23}
-kilohertz <> N: {rk: 55321, frq: 23}
-kiloton <> N: {rk: 39443, frq: 69}
-kilowatt-hour <> N: {rk: 25640, frq: 253}, J: {rk: 58247, frq: 20}
-kilt <> N: {rk: 21558, frq: 394}
-kilter <> N: {rk: 30684, frq: 152}
-kimberlite <> N: {rk: 57216, frq: 25}
-kimchi <> N: {rk: 44317, frq: 66}
-kimono <> N: {rk: 16806, frq: 743}
-kin <> N: {rk: 7460, frq: 2949}
-kinase <> N: {rk: 36984, frq: 106}
-kind <> N: {rk: 250, frq: 167026}, R: {rk: 1420, frq: 32936}, J: {rk: 6720, frq: 3271}
-kind-hearted <> J: {rk: 32278, frq: 121}
-kinda <> R: {rk: 10063, frq: 1706}
-kindergarten <> N: {rk: 6203, frq: 3927}
-kindergartner <> N: {rk: 22545, frq: 336}
-kindle <> V: {rk: 17202, frq: 821}
-kindliness <> N: {rk: 57355, frq: 22}
-kindling <> N: {rk: 24364, frq: 284}
-kindly <> R: {rk: 10921, frq: 1460}, J: {rk: 15930, frq: 700}
-kindness <> N: {rk: 7816, frq: 2577}
-kindred <> J: {rk: 19829, frq: 446}, N: {rk: 31624, frq: 139}
-kinematic <> J: {rk: 31890, frq: 153}
-kinematics <> N: {rk: 32840, frq: 144}
-kinescope <> N: {rk: 47441, frq: 47}
-kinesiology <> N: {rk: 27526, frq: 339}
-kinesthetic <> J: {rk: 23609, frq: 328}
-kinesthetically <> R: {rk: 54994, frq: 29}
-kinetic <> J: {rk: 15770, frq: 739}
-kinetics <> N: {rk: 24989, frq: 352}
-kinfolk <> N: {rk: 32972, frq: 117}
-king-size <> J: {rk: 25241, frq: 244}
-king-sized <> J: {rk: 35625, frq: 98}
-kingdom <> N: {rk: 4528, frq: 9113}
-kingfish <> N: {rk: 40408, frq: 79}
-kingfisher <> N: {rk: 27320, frq: 209}
-kingly <> J: {rk: 36997, frq: 86}
-kingmaker <> N: {rk: 37415, frq: 89}
-kingpin <> N: {rk: 21038, frq: 445}
-kingship <> N: {rk: 24199, frq: 306}
-kink <> N: {rk: 17852, frq: 569}, V: {rk: 36261, frq: 90}
-kinked <> J: {rk: 53515, frq: 27}
-kinky <> J: {rk: 21139, frq: 387}
-kinship <> N: {rk: 9071, frq: 2189}
-kinsman <> N: {rk: 23408, frq: 343}
-kinswoman <> N: {rk: 53174, frq: 28}
-kiosk <> N: {rk: 13669, frq: 1002}
-kipper <> N: {rk: 31944, frq: 255}
-kirtle <> N: {rk: 59304, frq: 21}
-kismet <> N: {rk: 48863, frq: 70}
-kiss <> V: {rk: 2316, frq: 17173}, N: {rk: 4007, frq: 7792}
-kiss-off <> J: {rk: 51598, frq: 30}
-kisser <> N: {rk: 30707, frq: 185}
-kissing <> N: {rk: 13494, frq: 979}
-kit <> N: {rk: 4049, frq: 7565}, V: {rk: 39232, frq: 75}
-kitchen <> N: {rk: 1052, frq: 42677}
-kitchenette <> N: {rk: 25753, frq: 245}
-kitchenware <> N: {rk: 33923, frq: 115}
-kite <> N: {rk: 9720, frq: 1861}
-kith <> N: {rk: 45930, frq: 50}
-kitsch <> N: {rk: 19967, frq: 447}
-kitschy <> J: {rk: 30018, frq: 163}
-kitten <> N: {rk: 10174, frq: 1757}
-kittenish <> J: {rk: 52818, frq: 28}
-kitty <> J: {rk: 27566, frq: 200}
-kiva <> N: {rk: 29684, frq: 309}
-kiwi <> N: {rk: 23419, frq: 543}
-klatch <> N: {rk: 47463, frq: 40}
-klaxon <> N: {rk: 39194, frq: 87}
-kleptocratic <> J: {rk: 58813, frq: 23}
-kleptomania <> N: {rk: 53406, frq: 39}
-kleptomaniac <> N: {rk: 56497, frq: 22}
-klezmer <> J: {rk: 43317, frq: 53}, N: {rk: 45792, frq: 49}
-klick <> N: {rk: 34673, frq: 145}
-klutz <> N: {rk: 36074, frq: 125}
-klutzy <> J: {rk: 51735, frq: 30}
-knack <> N: {rk: 11964, frq: 1242}
-knapsack <> N: {rk: 18157, frq: 555}
-knapweed <> N: {rk: 57449, frq: 25}
-knave <> N: {rk: 32626, frq: 164}
-knead <> V: {rk: 13212, frq: 1049}
-kneaded <> J: {rk: 49210, frq: 35}
-kneading <> N: {rk: 42411, frq: 64}
-knee <> N: {rk: 1493, frq: 27986}
-knee-deep <> R: {rk: 27340, frq: 207}, J: {rk: 33363, frq: 112}
-knee-high <> J: {rk: 22369, frq: 343}
-knee-jerk <> J: {rk: 21197, frq: 385}, N: {rk: 47604, frq: 40}
-knee-length <> J: {rk: 30595, frq: 156}
-kneecap <> N: {rk: 21872, frq: 368}
-kneel <> V: {rk: 4986, frq: 5886}
-kneeler <> N: {rk: 50086, frq: 37}
-kneeling <> J: {rk: 27136, frq: 209}
-knell <> N: {rk: 26321, frq: 220}
-knickers <> N: {rk: 26249, frq: 230}
-knickknacks <> N: {rk: 26704, frq: 225}
-knife <> N: {rk: 2254, frq: 17120}, V: {rk: 26265, frq: 226}
-knife-edge <> N: {rk: 37158, frq: 93}
-knifepoint <> N: {rk: 38431, frq: 81}
-knight <> V: {rk: 29721, frq: 164}
-knighthood <> N: {rk: 31410, frq: 137}
-knightly <> J: {rk: 42555, frq: 57}
-knit <> V: {rk: 8591, frq: 2194}, N: {rk: 20877, frq: 419}
-knitted <> J: {rk: 25346, frq: 251}
-knitter <> N: {rk: 37346, frq: 112}
-knitting <> N: {rk: 17828, frq: 597}
-knitwear <> N: {rk: 42191, frq: 62}
-knob <> N: {rk: 8002, frq: 2555}
-knobby <> J: {rk: 25907, frq: 249}
-knock <> V: {rk: 2099, frq: 18383}, N: {rk: 6611, frq: 3606}
-knock-down <> J: {rk: 39960, frq: 64}
-knock-kneed <> J: {rk: 45533, frq: 42}
-knockabout <> N: {rk: 54830, frq: 23}
-knockdown <> N: {rk: 32415, frq: 128}
-knocker <> N: {rk: 26518, frq: 235}
-knocking <> N: {rk: 16700, frq: 682}
-knockoff <> N: {rk: 22396, frq: 324}
-knockout <> N: {rk: 14158, frq: 927}
-knoll <> N: {rk: 19693, frq: 719}
-knot <> N: {rk: 5131, frq: 5342}, V: {rk: 14033, frq: 955}
-knothole <> N: {rk: 38881, frq: 75}
-knotted <> J: {rk: 20196, frq: 431}
-knotty <> J: {rk: 25025, frq: 264}
-know <> V: {rk: 47, frq: 974670}
-know-how <> N: {rk: 13788, frq: 937}
-know-it-all <> N: {rk: 28607, frq: 177}
-know-nothing <> N: {rk: 41362, frq: 74}, J: {rk: 42248, frq: 56}
-knowable <> J: {rk: 27461, frq: 212}
-knower <> N: {rk: 32292, frq: 207}
-knowing <> J: {rk: 12972, frq: 1108}, N: {rk: 55360, frq: 36}
-knowingly <> R: {rk: 11396, frq: 1271}
-knowingness <> N: {rk: 44504, frq: 52}
-knowledgable <> J: {rk: 54693, frq: 25}
-knowledge <> N: {rk: 840, frq: 54438}
-knowledgeable <> J: {rk: 7462, frq: 2770}
-knowledgeably <> R: {rk: 38097, frq: 76}
-known <> J: {rk: 4392, frq: 6394}
-knuckle <> N: {rk: 9221, frq: 2049}, V: {rk: 24744, frq: 258}
-knuckleball <> N: {rk: 41002, frq: 74}
-knuckleballer <> N: {rk: 52641, frq: 32}
-knucklehead <> N: {rk: 31053, frq: 170}
-knurled <> J: {rk: 54134, frq: 28}
-koala <> N: {rk: 28960, frq: 219}
-koan <> N: {rk: 39805, frq: 88}
-kohlrabi <> N: {rk: 41304, frq: 97}
-kokanee <> N: {rk: 44844, frq: 65}
-kola <> N: {rk: 37352, frq: 167}
-kolkhoz <> N: {rk: 48106, frq: 49}
-kook <> N: {rk: 26126, frq: 265}
-kooky <> J: {rk: 29779, frq: 182}
-kopeck <> N: {rk: 45966, frq: 48}
-kopje <> N: {rk: 59528, frq: 23}
-kora <> N: {rk: 59211, frq: 76}
-kosher <> J: {rk: 10452, frq: 2028}
-kowtow <> V: {rk: 30833, frq: 149}
-krait <> N: {rk: 59668, frq: 22}
-kraken <> N: {rk: 58290, frq: 36}
-krater <> N: {rk: 56462, frq: 24}
-krill <> N: {rk: 36231, frq: 167}
-krypton <> N: {rk: 47952, frq: 75}
-kudos <> N: {rk: 22734, frq: 520}
-kudu <> N: {rk: 40166, frq: 79}
-kudzu <> N: {rk: 23144, frq: 427}
-kugel <> N: {rk: 46531, frq: 94}
-kulak <> N: {rk: 56075, frq: 32}
-kumquat <> N: {rk: 35069, frq: 117}
-kundalini <> N: {rk: 52387, frq: 49}
-kurta <> N: {rk: 58561, frq: 24}
-kurtosis <> N: {rk: 42050, frq: 82}
+ka <> N: {rk: 17489, frq: 1302}
+ka-ching <> N: {rk: 45423, frq: 111}
+kabbalistic <> J: {rk: 49843, frq: 84}
+kabob <> N: {rk: 37785, frq: 193}
+kabuki <> N: {rk: 36544, frq: 214}
+kachina <> N: {rk: 52013, frq: 73}
+kaffir <> N: {rk: 40959, frq: 151}
+kaffiyeh <> N: {rk: 55957, frq: 58}
+kafir <> N: {rk: 49141, frq: 87}
+kahuna <> N: {rk: 40958, frq: 151}
+kakapo <> N: {rk: 49533, frq: 85}
+kale <> N: {rk: 13935, frq: 2033}
+kaleidoscope <> N: {rk: 23062, frq: 711}
+kaleidoscopic <> J: {rk: 33485, frq: 276}
+kameez <> N: {rk: 56571, frq: 55}
+kami <> N: {rk: 45710, frq: 109}
+kamikaze <> N: {rk: 26380, frq: 516}
+kanamycin <> N: {rk: 59705, frq: 45}
+kangaroo <> N: {rk: 15655, frq: 1621}
+kanji <> N: {rk: 29713, frq: 379}
+kaolin <> N: {rk: 43415, frq: 128}
+kapok <> N: {rk: 53858, frq: 65}
+kappa <> N: {rk: 15366, frq: 1681}
+kaput <> J: {rk: 33206, frq: 281}
+karaoke <> N: {rk: 14799, frq: 1809}
+karat <> N: {rk: 41936, frq: 141}
+karate <> N: {rk: 14185, frq: 1975}
+karma <> N: {rk: 12608, frq: 2474}
+karmic <> J: {rk: 29053, frq: 403}
+karst <> N: {rk: 44858, frq: 115}
+kart <> N: {rk: 40089, frq: 161}
+kasha <> N: {rk: 47476, frq: 98}
+kashrut <> N: {rk: 59704, frq: 45}
+kata <> N: {rk: 44384, frq: 120}
+katana <> N: {rk: 46247, frq: 106}
+katydid <> N: {rk: 49844, frq: 84}
+kava <> N: {rk: 35893, frq: 225}
+kayak <> N: {rk: 12604, frq: 2479}, V: {rk: 22294, frq: 772}
+kayaker <> N: {rk: 29962, frq: 371}
+kayaking <> J: {rk: 50667, frq: 80}, N: {rk: 51126, frq: 78}
+kazakh <> N: {rk: 32634, frq: 296}
+kazoo <> N: {rk: 40423, frq: 158}
+kebab <> N: {rk: 24911, frq: 592}
+keel <> V: {rk: 21482, frq: 837}, N: {rk: 25415, frq: 565}
+keelboat <> N: {rk: 51550, frq: 76}
+keen <> J: {rk: 6688, frq: 7420}, V: {rk: 34011, frq: 263}
+keening <> N: {rk: 45968, frq: 108}, J: {rk: 50254, frq: 81}
+keenly <> R: {rk: 14794, frq: 1810}
+keenness <> N: {rk: 47807, frq: 95}
+keep <> V: {rk: 151, frq: 626487}, N: {rk: 15425, frq: 1667}
+keeper <> N: {rk: 7367, frq: 6275}
+keeping <> I: {rk: 10934, frq: 3176}, N: {rk: 19252, frq: 1061}
+keeps <> R: {rk: 33303, frq: 280}
+keepsake <> N: {rk: 24888, frq: 593}
+kefir <> N: {rk: 45981, frq: 107}
+keg <> N: {rk: 15560, frq: 1639}
+kegger <> N: {rk: 49864, frq: 83}
+keiretsu <> N: {rk: 46572, frq: 103}
+keister <> N: {rk: 43211, frq: 130}
+keloid <> N: {rk: 52431, frq: 72}
+kelp <> N: {rk: 23739, frq: 664}
+kennel <> N: {rk: 16123, frq: 1532}
+kenosis <> N: {rk: 49520, frq: 86}
+kenotic <> J: {rk: 58446, frq: 49}
+kente <> N: {rk: 47492, frq: 97}
+kenyan <> J: {rk: 14710, frq: 1830}, N: {rk: 26339, frq: 517}
+kept <> J: {rk: 34005, frq: 264}
+keratin <> N: {rk: 37105, frq: 204}
+keratinocyte <> N: {rk: 48125, frq: 94}
+kerb <> N: {rk: 41734, frq: 143}
+kerchief <> N: {rk: 27642, frq: 459}
+kerfuffle <> N: {rk: 36998, frq: 205}
+kernel <> N: {rk: 10428, frq: 3437}
+kerogen <> N: {rk: 59702, frq: 45}
+kerosene <> N: {rk: 16288, frq: 1501}
+kestrel <> N: {rk: 33919, frq: 265}
+ketamine <> N: {rk: 32943, frq: 287}
+ketch <> N: {rk: 52873, frq: 70}
+ketchup <> N: {rk: 11835, frq: 2776}
+ketoacidosis <> N: {rk: 49130, frq: 88}
+ketone <> N: {rk: 37928, frq: 191}
+ketosis <> N: {rk: 46565, frq: 104}
+kettle <> N: {rk: 11645, frq: 2849}
+kettledrum <> N: {rk: 57180, frq: 53}
+kewpie <> N: {rk: 55960, frq: 58}
+key <> J: {rk: 1149, frq: 84228}, N: {rk: 1422, frq: 67404}, V: {rk: 10589, frq: 3344}
+keyboard <> N: {rk: 5046, frq: 11885}
+keyboarding <> N: {rk: 53364, frq: 68}
+keyboardist <> N: {rk: 31427, frq: 328}
+keycard <> N: {rk: 42999, frq: 131}
+keyhole <> N: {rk: 22618, frq: 745}
+keyless <> J: {rk: 44389, frq: 119}
+keylogger <> N: {rk: 59688, frq: 46}
+keynote <> N: {rk: 12246, frq: 2619}
+keypad <> N: {rk: 21745, frq: 815}
+keystone <> N: {rk: 11478, frq: 2933}
+keystroke <> N: {rk: 24418, frq: 621}
+keyword <> N: {rk: 6561, frq: 7654}
+khaki <> J: {rk: 16131, frq: 1529}
+khakis <> N: {rk: 20348, frq: 940}
+khan <> N: {rk: 10298, frq: 3523}
+khat <> N: {rk: 48452, frq: 91}
+kibble <> N: {rk: 32867, frq: 289}
+kibbutz <> N: {rk: 24648, frq: 607}
+kibosh <> N: {rk: 39002, frq: 176}
+kick <> V: {rk: 1591, frq: 59307}, N: {rk: 4589, frq: 13771}
+kick-ass <> J: {rk: 27870, frq: 450}
+kick-boxing <> N: {rk: 56570, frq: 55}
+kick-start <> V: {rk: 27916, frq: 448}, N: {rk: 57147, frq: 54}
+kickback <> N: {rk: 19236, frq: 1063}
+kickball <> N: {rk: 32635, frq: 296}
+kickboxing <> N: {rk: 34606, frq: 251}, J: {rk: 46246, frq: 106}
+kicker <> N: {rk: 11676, frq: 2834}
+kicking <> J: {rk: 30206, frq: 363}, N: {rk: 31072, frq: 338}
+kickoff <> N: {rk: 11637, frq: 2855}
+kickstand <> N: {rk: 35089, frq: 242}
+kicky <> J: {rk: 51552, frq: 76}
+kid <> N: {rk: 275, frq: 351451}, V: {rk: 2748, frq: 28911}
+kidder <> N: {rk: 44115, frq: 122}
+kiddie <> N: {rk: 21596, frq: 827}
+kidding <> N: {rk: 13013, frq: 2325}
+kiddo <> N: {rk: 14262, frq: 1952}
+kiddush <> N: {rk: 55979, frq: 57}
+kiddy <> N: {rk: 24857, frq: 595}, J: {rk: 44388, frq: 119}
+kidnap <> V: {rk: 5992, frq: 8977}, N: {rk: 28499, frq: 423}
+kidnapped <> J: {rk: 30530, frq: 353}
+kidnapper <> N: {rk: 12907, frq: 2368}
+kidnapping <> N: {rk: 7269, frq: 6423}
+kidney <> N: {rk: 5267, frq: 11146}
+kidney-shaped <> J: {rk: 45709, frq: 109}
+kielbasa <> N: {rk: 39145, frq: 174}
+kike <> N: {rk: 42152, frq: 139}
+kill <> V: {rk: 325, frq: 307305}, N: {rk: 10221, frq: 3570}
+killdeer <> N: {rk: 52900, frq: 69}
+killer <> N: {rk: 2306, frq: 36754}
+killing <> N: {rk: 3259, frq: 23084}
+killjoy <> N: {rk: 42795, frq: 133}
+kiln <> N: {rk: 19967, frq: 980}
+kilo <> N: {rk: 15825, frq: 1588}
+kilogram <> N: {rk: 15370, frq: 1680}
+kilometer <> N: {rk: 5843, frq: 9380}
+kilometre <> N: {rk: 21672, frq: 822}
+kiloton <> N: {rk: 40603, frq: 155}
+kilowatt <> N: {rk: 21587, frq: 828}
+kilowatt-hour <> N: {rk: 28829, frq: 411}
+kilt <> N: {rk: 23622, frq: 671}
+kilter <> N: {rk: 34513, frq: 254}
+kimberlite <> N: {rk: 59687, frq: 46}
+kimchi <> N: {rk: 31001, frq: 340}
+kimono <> N: {rk: 18998, frq: 1091}
+kin <> N: {rk: 8661, frq: 4764}
+kinase <> N: {rk: 18662, frq: 1132}
+kind <> N: {rk: 256, frq: 367584}, R: {rk: 1029, frq: 94334}, J: {rk: 6002, frq: 8957}
+kind-hearted <> J: {rk: 32026, frq: 312}
+kinda <> R: {rk: 4384, frq: 14792}
+kindergarten <> N: {rk: 6336, frq: 8207}
+kindergartener <> N: {rk: 35090, frq: 242}
+kindergartner <> N: {rk: 23868, frq: 656}
+kindle <> V: {rk: 6982, frq: 6878}
+kindling <> N: {rk: 26233, frq: 524}
+kindly <> R: {rk: 9540, frq: 4052}, J: {rk: 17522, frq: 1298}
+kindness <> N: {rk: 6622, frq: 7540}
+kindred <> J: {rk: 19202, frq: 1068}, N: {rk: 28882, frq: 410}
+kinematic <> J: {rk: 31808, frq: 317}
+kinematics <> N: {rk: 34601, frq: 252}
+kinescope <> N: {rk: 54864, frq: 62}
+kinesiology <> N: {rk: 27149, frq: 482}
+kinesthetic <> J: {rk: 27371, frq: 471}
+kinetic <> J: {rk: 14159, frq: 1981}
+kinetics <> N: {rk: 22469, frq: 758}
+kinetochore <> N: {rk: 44859, frq: 115}
+kinfolk <> N: {rk: 39733, frq: 166}
+king <> N: {rk: 863, frq: 112088}
+king-size <> J: {rk: 30197, frq: 364}
+king-sized <> J: {rk: 39146, frq: 174}
+kingdom <> N: {rk: 3663, frq: 19315}
+kingfish <> N: {rk: 44862, frq: 115}
+kingfisher <> N: {rk: 29894, frq: 374}
+kingly <> J: {rk: 36125, frq: 222}
+kingmaker <> N: {rk: 35380, frq: 235}
+kingpin <> N: {rk: 20349, frq: 940}
+kingship <> N: {rk: 26970, frq: 489}
+kink <> N: {rk: 17099, frq: 1370}, V: {rk: 38717, frq: 179}
+kinky <> J: {rk: 18910, frq: 1102}
+kinship <> N: {rk: 10764, frq: 3268}
+kinsman <> N: {rk: 25304, frq: 571}
+kinswoman <> N: {rk: 58419, frq: 50}
+kiosk <> N: {rk: 14774, frq: 1814}
+kipper <> N: {rk: 31590, frq: 323}
+kismet <> N: {rk: 41732, frq: 143}
+kiss <> V: {rk: 2116, frq: 41405}, N: {rk: 3697, frq: 19047}
+kiss-off <> J: {rk: 55409, frq: 59}
+kissable <> J: {rk: 49142, frq: 87}
+kisser <> N: {rk: 25365, frq: 568}
+kissing <> N: {rk: 12611, frq: 2471}
+kit <> N: {rk: 3870, frq: 17795}, V: {rk: 41325, frq: 148}
+kitchen <> N: {rk: 1279, frq: 75167}
+kitchenette <> N: {rk: 28328, frq: 430}
+kitchenware <> N: {rk: 39001, frq: 176}
+kite <> N: {rk: 10752, frq: 3274}
+kith <> N: {rk: 49143, frq: 87}
+kitsch <> N: {rk: 23238, frq: 700}
+kitschy <> J: {rk: 32636, frq: 295}
+kitten <> N: {rk: 8966, frq: 4521}
+kitty <> N: {rk: 13322, frq: 2222}, J: {rk: 21985, frq: 797}
+kiva <> N: {rk: 34602, frq: 252}
+kiwi <> N: {rk: 18176, frq: 1199}
+klatch <> N: {rk: 55398, frq: 60}
+klaxon <> N: {rk: 42796, frq: 133}
+kleptocracy <> N: {rk: 43425, frq: 127}
+kleptocratic <> J: {rk: 53388, frq: 67}
+kleptomania <> N: {rk: 55958, frq: 58}
+kleptomaniac <> N: {rk: 55407, frq: 59}
+klezmer <> J: {rk: 51128, frq: 78}, N: {rk: 55408, frq: 59}
+klick <> N: {rk: 32937, frq: 288}
+klutz <> N: {rk: 35289, frq: 237}
+klutzy <> J: {rk: 53859, frq: 65}
+knack <> N: {rk: 12438, frq: 2541}
+knackered <> J: {rk: 52901, frq: 69}
+knapsack <> N: {rk: 21197, frq: 861}
+knave <> N: {rk: 30130, frq: 366}
+knead <> V: {rk: 16012, frq: 1553}
+kneading <> N: {rk: 47149, frq: 100}
+knee <> N: {rk: 1781, frq: 51298}
+knee-deep <> R: {rk: 28338, frq: 429}, J: {rk: 39903, frq: 163}
+knee-high <> J: {rk: 26050, frq: 533}
+knee-jerk <> J: {rk: 19532, frq: 1030}, N: {rk: 40428, frq: 157}
+knee-length <> J: {rk: 35491, frq: 233}
+kneecap <> N: {rk: 23613, frq: 672}
+kneel <> V: {rk: 5717, frq: 9754}
+kneeler <> N: {rk: 52459, frq: 71}
+kneeling <> J: {rk: 31016, frq: 339}
+knell <> N: {rk: 26573, frq: 508}
+knick-knack <> N: {rk: 38159, frq: 188}
+knickers <> N: {rk: 25591, frq: 556}
+knickknacks <> N: {rk: 29775, frq: 377}
+knife <> N: {rk: 2364, frq: 35408}, V: {rk: 28222, frq: 434}
+knife-edge <> N: {rk: 42153, frq: 139}
+knifepoint <> N: {rk: 40602, frq: 155}
+knight <> N: {rk: 6770, frq: 7266}, V: {rk: 31223, frq: 334}
+knighthood <> N: {rk: 33652, frq: 272}
+knightly <> J: {rk: 47808, frq: 95}
+knit <> V: {rk: 8859, frq: 4604}, N: {rk: 23786, frq: 661}
+knitted <> J: {rk: 28133, frq: 438}
+knitter <> N: {rk: 32027, frq: 312}
+knitting <> N: {rk: 16811, frq: 1415}
+knitwear <> N: {rk: 44860, frq: 115}
+knob <> N: {rk: 9238, frq: 4277}
+knobby <> J: {rk: 26246, frq: 523}
+knock <> V: {rk: 2005, frq: 44485}, N: {rk: 6794, frq: 7232}
+knock-down <> J: {rk: 42154, frq: 139}
+knock-kneed <> J: {rk: 52872, frq: 70}
+knock-off <> N: {rk: 39574, frq: 168}
+knock-on <> J: {rk: 46847, frq: 101}
+knockdown <> N: {rk: 26386, frq: 515}
+knocker <> N: {rk: 28327, frq: 430}
+knocking <> N: {rk: 13732, frq: 2097}
+knockoff <> N: {rk: 21619, frq: 826}
+knockout <> N: {rk: 13298, frq: 2230}
+knoll <> N: {rk: 23153, frq: 705}
+knot <> N: {rk: 5743, frq: 9667}, V: {rk: 16454, frq: 1474}
+knothole <> N: {rk: 45982, frq: 107}
+knotted <> J: {rk: 23598, frq: 673}
+knotty <> J: {rk: 28651, frq: 417}
+know <> V: {rk: 39, frq: 2761628}, N: {rk: 17898, frq: 1240}
+know-how <> N: {rk: 14593, frq: 1862}
+know-it-all <> N: {rk: 35888, frq: 226}
+know-nothing <> N: {rk: 40429, frq: 157}, J: {rk: 43426, frq: 127}
+knowable <> J: {rk: 29420, frq: 389}
+knower <> N: {rk: 31140, frq: 336}
+knowing <> J: {rk: 13613, frq: 2133}, N: {rk: 54340, frq: 63}
+knowingly <> R: {rk: 10958, frq: 3165}
+knowingness <> N: {rk: 50255, frq: 81}
+knowledgable <> J: {rk: 36658, frq: 211}
+knowledge <> N: {rk: 841, frq: 115356}
+knowledgeable <> J: {rk: 7918, frq: 5569}
+knowledgeably <> R: {rk: 44628, frq: 118}
+known <> J: {rk: 4177, frq: 15885}, N: {rk: 43893, frq: 124}
+knuckle <> N: {rk: 9681, frq: 3923}, V: {rk: 26307, frq: 520}
+knuckleball <> N: {rk: 39426, frq: 170}
+knuckleballer <> N: {rk: 52435, frq: 72}
+knucklehead <> N: {rk: 25138, frq: 580}
+koala <> N: {rk: 26891, frq: 494}
+koan <> N: {rk: 38042, frq: 189}
+kohl <> N: {rk: 52006, frq: 73}
+kohlrabi <> N: {rk: 37784, frq: 193}
+koinonia <> N: {rk: 40946, frq: 152}
+kokanee <> N: {rk: 50256, frq: 81}
+kola <> N: {rk: 44629, frq: 118}
+kolkhoz <> N: {rk: 56556, frq: 56}
+kook <> N: {rk: 23558, frq: 676}
+kooky <> J: {rk: 26429, frq: 514}
+kopeck <> N: {rk: 53385, frq: 67}
+kora <> N: {rk: 57785, frq: 52}
+kosher <> J: {rk: 9899, frq: 3773}
+kowtow <> V: {rk: 29000, frq: 405}
+kraft <> N: {rk: 52454, frq: 71}
+kraken <> N: {rk: 36223, frq: 220}
+krill <> N: {rk: 35088, frq: 242}
+krypton <> N: {rk: 40752, frq: 154}
+kudos <> N: {rk: 12225, frq: 2628}
+kudu <> N: {rk: 40800, frq: 153}
+kudzu <> N: {rk: 24748, frq: 601}
+kugel <> N: {rk: 49911, frq: 83}
+kulak <> N: {rk: 58505, frq: 49}
+kumquat <> N: {rk: 38051, frq: 189}
+kundalini <> N: {rk: 51195, frq: 77}
+kurtosis <> N: {rk: 39598, frq: 167}
+kwanza <> N: {rk: 54407, frq: 63}

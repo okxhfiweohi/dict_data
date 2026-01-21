@@ -25,9 +25,9 @@
         "total": 4077
     },
     "freq": {
-        "start": "Baathist",
-        "end": "Byzantine",
-        "total": 2327
+        "start": "baba",
+        "end": "byword",
+        "total": 2335
     },
     "lgk_id": {
         "start": "baa",
@@ -45,9 +45,9 @@
         "total": 848
     },
     "pos": {
-        "start": "babble",
+        "start": "baba",
         "end": "byword",
-        "total": 2300
+        "total": 2335
     },
     "redirect": {
         "start": "b-trees",

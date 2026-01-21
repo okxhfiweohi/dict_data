@@ -1,2300 +1,2335 @@
-babble <> V: {rk: 16095, frq: 726}, N: {rk: 22855, frq: 336}
-babbler <> N: {rk: 55697, frq: 25}
-babbling <> N: {rk: 38325, frq: 89}, J: {rk: 39970, frq: 69}
-babesiosis <> N: {rk: 59779, frq: 21}
-baboon <> N: {rk: 16583, frq: 677}
-babushka <> N: {rk: 37183, frq: 104}
-baby <> N: {rk: 588, frq: 73089}, V: {rk: 37098, frq: 84}
-baby-faced <> J: {rk: 36210, frq: 91}
-babydoll <> N: {rk: 59567, frq: 33}
-babyhood <> N: {rk: 37687, frq: 80}
-babyish <> J: {rk: 41101, frq: 63}
-baccalaureate <> J: {rk: 22278, frq: 446}, N: {rk: 33826, frq: 142}
-baccarat <> N: {rk: 32373, frq: 131}
-bacchanal <> J: {rk: 45931, frq: 41}
-bacchanalia <> N: {rk: 50155, frq: 69}
-bacchanalian <> J: {rk: 54176, frq: 23}
-bachelor <> N: {rk: 6212, frq: 4366}
-bachelorette <> N: {rk: 29832, frq: 245}
-bachelorhood <> N: {rk: 43210, frq: 54}
-bacilli <> N: {rk: 38069, frq: 84}
-bacillus <> N: {rk: 25747, frq: 246}
-back <> R: {rk: 108, frq: 399602}, N: {rk: 322, frq: 134658}, V: {rk: 1873, frq: 20932}, J: {rk: 9433, frq: 2039}
-back-bencher <> N: {rk: 41521, frq: 59}
-back-breaking <> J: {rk: 29659, frq: 154}
-back-stabbing <> J: {rk: 57148, frq: 19}
-back-to-back <> J: {rk: 14472, frq: 948}
-back-to-nature <> J: {rk: 49814, frq: 33}
-backache <> N: {rk: 32632, frq: 125}
-backbeat <> N: {rk: 40038, frq: 73}
-backbiting <> N: {rk: 43630, frq: 47}
-backboard <> N: {rk: 22143, frq: 354}
-backbone <> N: {rk: 9953, frq: 1661}
-backburner <> N: {rk: 56002, frq: 22}
-backcountry <> N: {rk: 11036, frq: 1689}
-backcourt <> N: {rk: 22330, frq: 396}
-backdate <> V: {rk: 40727, frq: 88}
-backdating <> J: {rk: 59867, frq: 28}
-backdoor <> N: {rk: 26496, frq: 238}
-backdrop <> N: {rk: 6797, frq: 3165}
-backed <> J: {rk: 41319, frq: 62}
-backer <> N: {rk: 9404, frq: 1863}
-backfield <> N: {rk: 22559, frq: 370}
-backfill <> N: {rk: 47918, frq: 38}
-backfire <> V: {rk: 10837, frq: 1431}
-backflip <> N: {rk: 39872, frq: 80}
-backflow <> N: {rk: 48415, frq: 42}
-backgammon <> N: {rk: 32358, frq: 131}
-background <> N: {rk: 1406, frq: 28959}
-backgrounder <> N: {rk: 40726, frq: 87}
-backhand <> J: {rk: 25466, frq: 267}, V: {rk: 33867, frq: 111}, R: {rk: 36864, frq: 88}
-backhanded <> J: {rk: 33993, frq: 107}
-backhoe <> N: {rk: 21953, frq: 353}
-backing <> N: {rk: 8448, frq: 2245}, J: {rk: 58230, frq: 22}
-backland <> N: {rk: 58581, frq: 23}
-backlash <> N: {rk: 8222, frq: 2427}, V: {rk: 34595, frq: 107}
-backless <> J: {rk: 35667, frq: 97}
-backlight <> N: {rk: 37366, frq: 98}
-backlighting <> N: {rk: 56873, frq: 24}
-backlit <> J: {rk: 20604, frq: 410}
-backlog <> N: {rk: 15012, frq: 847}
-backlogged <> J: {rk: 57114, frq: 20}
-backpack <> N: {rk: 6547, frq: 3638}, V: {rk: 19008, frq: 522}
-backpacker <> N: {rk: 19655, frq: 861}
-backpacking <> J: {rk: 27298, frq: 223}, N: {rk: 41605, frq: 105}
-backrest <> N: {rk: 33457, frq: 115}
-backroom <> N: {rk: 25252, frq: 286}
-backsaw <> N: {rk: 59495, frq: 22}
-backscattered <> J: {rk: 59729, frq: 21}
-backseat <> N: {rk: 11415, frq: 1458}
-backside <> N: {rk: 13934, frq: 961}
-backslide <> V: {rk: 31439, frq: 138}
-backsliding <> N: {rk: 40783, frq: 62}
-backspin <> N: {rk: 38682, frq: 153}
-backsplash <> N: {rk: 32350, frq: 176}
-backstage <> R: {rk: 11202, frq: 1430}, J: {rk: 17112, frq: 630}
-backstairs <> N: {rk: 53379, frq: 26}
-backstop <> N: {rk: 29995, frq: 169}
-backstory <> N: {rk: 38703, frq: 76}
-backstreet <> N: {rk: 29813, frq: 194}
-backstretch <> N: {rk: 35680, frq: 98}
-backstroke <> N: {rk: 28215, frq: 229}, V: {rk: 41361, frq: 72}
-backswing <> N: {rk: 22297, frq: 379}
-backtalk <> N: {rk: 53501, frq: 39}
-backtrack <> V: {rk: 18212, frq: 539}
-backtracking <> N: {rk: 53395, frq: 28}
-backup <> N: {rk: 5539, frq: 4707}, V: {rk: 16843, frq: 767}
-backward <> R: {rk: 5259, frq: 5093}, J: {rk: 11194, frq: 1349}
-backward-looking <> J: {rk: 41581, frq: 56}
-backwardness <> N: {rk: 24636, frq: 278}
-backwards <> R: {rk: 6816, frq: 3206}
-backwash <> N: {rk: 32474, frq: 131}
-backwater <> N: {rk: 16266, frq: 663}
-backyard <> N: {rk: 4426, frq: 6557}
-bacon <> N: {rk: 6501, frq: 5594}
-bacteremia <> N: {rk: 50699, frq: 90}
-bacteria <> N: {rk: 3637, frq: 8829}
-bacterial <> J: {rk: 8746, frq: 2234}
-bactericidal <> J: {rk: 52042, frq: 30}
-bacteriologic <> J: {rk: 52604, frq: 41}
-bacteriological <> J: {rk: 39472, frq: 76}
-bacteriologist <> N: {rk: 54695, frq: 24}
-bacteriology <> N: {rk: 43870, frq: 57}
-bacteriophage <> N: {rk: 51021, frq: 57}
-bad <> J: {rk: 282, frq: 147391}, R: {rk: 5128, frq: 4981}, N: {rk: 51617, frq: 83}
-bad-tempered <> J: {rk: 43553, frq: 48}
-baddie <> N: {rk: 54515, frq: 28}
-badge <> N: {rk: 6913, frq: 3130}, V: {rk: 58024, frq: 20}
-badger <> V: {rk: 22660, frq: 325}
-badgering <> N: {rk: 52969, frq: 31}
-badinage <> N: {rk: 58042, frq: 22}
-badly <> R: {rk: 3130, frq: 10454}
-badminton <> N: {rk: 21337, frq: 409}
-badness <> N: {rk: 33435, frq: 143}
-baffle <> V: {rk: 12101, frq: 1153}, N: {rk: 26787, frq: 232}
-baffled <> J: {rk: 22507, frq: 337}
-bafflement <> N: {rk: 32165, frq: 139}
-baffling <> J: {rk: 17277, frq: 582}
-bag <> N: {rk: 1009, frq: 43693}, V: {rk: 13370, frq: 983}
-bagasse <> N: {rk: 50540, frq: 36}
-bagel <> N: {rk: 12229, frq: 1318}
-baggage <> N: {rk: 7406, frq: 2732}
-bagged <> J: {rk: 30683, frq: 156}
-bagger <> N: {rk: 38635, frq: 129}
-baggie <> N: {rk: 25429, frq: 288}
-bagging <> J: {rk: 46951, frq: 43}, N: {rk: 57343, frq: 29}
-baggy <> J: {rk: 11146, frq: 1369}
-bagman <> N: {rk: 44953, frq: 51}
-bagpipe <> N: {rk: 22852, frq: 314}
-bagpiper <> N: {rk: 39709, frq: 68}
-baguette <> N: {rk: 18398, frq: 592}
-bah <> U: {rk: 20870, frq: 479}
-baht <> N: {rk: 34365, frq: 137}
-bail <> V: {rk: 8101, frq: 2547}, N: {rk: 9482, frq: 1858}
-bailiff <> N: {rk: 21035, frq: 446}
-bailiwick <> N: {rk: 38791, frq: 101}
-bailout <> N: {rk: 10518, frq: 2236}
-bairn <> N: {rk: 54479, frq: 34}
-bait <> N: {rk: 6432, frq: 3573}, V: {rk: 12306, frq: 1148}
-bait-and-switch <> J: {rk: 48120, frq: 31}, N: {rk: 54884, frq: 34}
-baited <> J: {rk: 37147, frq: 83}
-baiter <> N: {rk: 58283, frq: 35}
-baiting <> N: {rk: 45952, frq: 62}, J: {rk: 59597, frq: 23}
-baize <> N: {rk: 40217, frq: 63}
-bake <> V: {rk: 2827, frq: 14187}
-baked <> J: {rk: 8050, frq: 2604}
-baker <> N: {rk: 10366, frq: 14053}
-bakery <> N: {rk: 8223, frq: 2744}
-bakeshop <> N: {rk: 57212, frq: 28}
-baking <> N: {rk: 5239, frq: 6048}, J: {rk: 32471, frq: 155}
-baklava <> N: {rk: 36561, frq: 110}
-balaclava <> N: {rk: 38068, frq: 78}
-balalaika <> N: {rk: 55022, frq: 36}
-balance <> N: {rk: 1636, frq: 24024}, V: {rk: 2781, frq: 12483}
-balanced <> J: {rk: 4936, frq: 5797}
-balancer <> N: {rk: 39608, frq: 82}
-balancing <> N: {rk: 11795, frq: 1259}
-balcony <> N: {rk: 5872, frq: 4190}
-bald <> J: {rk: 6267, frq: 3705}
-balderdash <> N: {rk: 57593, frq: 29}
-balding <> J: {rk: 14940, frq: 823}
-baldly <> R: {rk: 32599, frq: 116}
-baldness <> N: {rk: 23269, frq: 311}
-bale <> N: {rk: 11769, frq: 1388}, V: {rk: 26948, frq: 211}
-baled <> J: {rk: 57666, frq: 19}
-baleen <> N: {rk: 57724, frq: 30}
-baleful <> J: {rk: 28965, frq: 181}
-balefully <> R: {rk: 39486, frq: 72}
-baling <> N: {rk: 48520, frq: 36}
-balk <> V: {rk: 10579, frq: 1509}, N: {rk: 39101, frq: 91}
-balkanized <> J: {rk: 47176, frq: 40}
-balky <> J: {rk: 29174, frq: 169}
-ball <> N: {rk: 913, frq: 47767}, V: {rk: 20859, frq: 439}
-ball-bearing <> J: {rk: 50579, frq: 33}
-ballad <> N: {rk: 9608, frq: 1949}
-balladeer <> N: {rk: 36117, frq: 101}
-ballast <> N: {rk: 15367, frq: 844}
-ballcarrier <> N: {rk: 47089, frq: 38}
-balled <> J: {rk: 48744, frq: 41}
-ballerina <> N: {rk: 16171, frq: 709}
-ballet <> N: {rk: 6646, frq: 5127}
-balletic <> J: {rk: 38551, frq: 70}
-ballgame <> N: {rk: 17937, frq: 576}
-ballhandler <> N: {rk: 50340, frq: 32}
-ballista <> N: {rk: 59911, frq: 20}
-ballistic <> J: {rk: 10180, frq: 1623}
-ballistically <> R: {rk: 55660, frq: 23}
-ballistics <> N: {rk: 24354, frq: 301}
-balloon <> N: {rk: 4819, frq: 5847}, V: {rk: 16798, frq: 630}
-ballooning <> J: {rk: 34759, frq: 104}, N: {rk: 48020, frq: 43}
-balloonist <> N: {rk: 40204, frq: 90}
-ballot <> N: {rk: 3734, frq: 9815}, V: {rk: 47109, frq: 47}
-balloting <> N: {rk: 23612, frq: 297}
-ballpark <> N: {rk: 9264, frq: 2085}
-ballplayer <> N: {rk: 15399, frq: 771}
-ballpoint <> N: {rk: 25969, frq: 263}
-ballroom <> N: {rk: 9220, frq: 1967}
-ballsy <> J: {rk: 49248, frq: 50}
-ballyhoo <> N: {rk: 40305, frq: 93}, V: {rk: 43590, frq: 49}
-ballyhooed <> J: {rk: 38566, frq: 73}
-balm <> N: {rk: 14987, frq: 893}
-balmy <> J: {rk: 17945, frq: 547}
-baloney <> N: {rk: 20774, frq: 476}
-balsa <> N: {rk: 29743, frq: 175}
-balsam <> N: {rk: 24608, frq: 312}
-balsamic <> J: {rk: 14066, frq: 1018}
-baluster <> N: {rk: 36995, frq: 86}
-balustrade <> N: {rk: 24900, frq: 266}
-bamboo <> N: {rk: 8400, frq: 2285}
-bamboozle <> V: {rk: 34640, frq: 99}
-bamboozled <> J: {rk: 58276, frq: 21}
-ban <> V: {rk: 3294, frq: 10050}, N: {rk: 3942, frq: 7856}
-banal <> J: {rk: 16912, frq: 621}
-banality <> N: {rk: 21552, frq: 364}
-banana <> N: {rk: 4721, frq: 5932}
-band <> N: {rk: 1281, frq: 32654}, V: {rk: 10198, frq: 1563}
-bandage <> N: {rk: 9635, frq: 1815}, V: {rk: 19282, frq: 496}
-bandaged <> J: {rk: 25716, frq: 254}
-bandana <> N: {rk: 25397, frq: 268}
-bandanna <> N: {rk: 18434, frq: 512}
-bandbox <> N: {rk: 47600, frq: 46}
-bandeau <> N: {rk: 56712, frq: 26}
-banded <> J: {rk: 30310, frq: 169}
-bandgap <> N: {rk: 39807, frq: 94}
-banding <> N: {rk: 29678, frq: 167}
-bandit <> N: {rk: 12102, frq: 1356}
-banditry <> N: {rk: 35817, frq: 97}
-bandleader <> N: {rk: 27652, frq: 193}
-bandolier <> N: {rk: 38228, frq: 81}
-bandoneon <> N: {rk: 52592, frq: 39}
-bandpass <> N: {rk: 50660, frq: 32}
-bandstand <> N: {rk: 23726, frq: 335}
-bandwagon <> N: {rk: 14906, frq: 776}
-bandwidth <> N: {rk: 13334, frq: 1095}
-bandy <> V: {rk: 26097, frq: 220}, J: {rk: 33267, frq: 164}
-bandy-legged <> J: {rk: 54138, frq: 25}
-bane <> N: {rk: 22777, frq: 534}
-baneful <> J: {rk: 51029, frq: 32}
-bang <> V: {rk: 5121, frq: 5379}, N: {rk: 8408, frq: 3729}
-banger <> N: {rk: 29888, frq: 252}
-banging <> N: {rk: 27126, frq: 222}, J: {rk: 42742, frq: 56}
-bangladeshi <> J: {rk: 33350, frq: 124}
-bangle <> N: {rk: 22349, frq: 480}
-banish <> V: {rk: 9622, frq: 2333}
-banished <> J: {rk: 33968, frq: 112}
-banishment <> N: {rk: 24539, frq: 261}
-banister <> N: {rk: 20223, frq: 553}
-banjo <> N: {rk: 16842, frq: 678}
-bank <> N: {rk: 663, frq: 70719}, V: {rk: 8922, frq: 1991}
-bankable <> J: {rk: 37960, frq: 86}
-bankbook <> N: {rk: 55373, frq: 21}
-banked <> J: {rk: 34514, frq: 106}
-banker <> N: {rk: 4461, frq: 6467}
-banking <> N: {rk: 3984, frq: 7764}
-banknote <> N: {rk: 32151, frq: 183}
-bankroll <> V: {rk: 30238, frq: 147}, N: {rk: 37171, frq: 85}
-bankrupt <> J: {rk: 9059, frq: 1979}, V: {rk: 16755, frq: 667}, N: {rk: 47315, frq: 45}
-bankruptcy <> N: {rk: 4204, frq: 7207}
-banned <> J: {rk: 13829, frq: 948}
-banner <> N: {rk: 5393, frq: 4739}
-banning <> N: {rk: 25955, frq: 231}
-bannister <> N: {rk: 27820, frq: 383}
-banquet <> N: {rk: 9247, frq: 1890}, V: {rk: 34818, frq: 97}
-banquette <> N: {rk: 23939, frq: 312}
-banshee <> N: {rk: 29598, frq: 185}
-bantamweight <> N: {rk: 43768, frq: 52}
-banter <> N: {rk: 17752, frq: 580}, V: {rk: 24204, frq: 280}
-bantering <> J: {rk: 57836, frq: 20}, N: {rk: 58730, frq: 21}
-banyan <> J: {rk: 39994, frq: 70}, N: {rk: 48741, frq: 41}
-banzai <> N: {rk: 45767, frq: 98}, J: {rk: 55707, frq: 24}
-baobab <> N: {rk: 43097, frq: 66}
-baptism <> N: {rk: 11917, frq: 1327}
-baptismal <> J: {rk: 23811, frq: 356}
-baptistery <> N: {rk: 49399, frq: 63}
-baptize <> V: {rk: 13237, frq: 1046}
-baptized <> J: {rk: 24811, frq: 277}
-bar <> N: {rk: 992, frq: 43531}, V: {rk: 5164, frq: 5034}
-barb <> N: {rk: 17186, frq: 1333}, V: {rk: 37524, frq: 80}
-barbarian <> N: {rk: 15155, frq: 812}, J: {rk: 24577, frq: 291}
-barbaric <> J: {rk: 15662, frq: 702}
-barbarism <> N: {rk: 21836, frq: 371}
-barbarity <> N: {rk: 31872, frq: 132}
-barbarous <> J: {rk: 26339, frq: 225}
-barbecue <> N: {rk: 6877, frq: 3464}, V: {rk: 14961, frq: 843}
-barbecued <> J: {rk: 22718, frq: 333}
-barbed <> J: {rk: 11814, frq: 1263}
-barbell <> N: {rk: 21428, frq: 416}
-barbeque <> N: {rk: 28989, frq: 182}
-barber <> N: {rk: 9323, frq: 3381}, V: {rk: 46743, frq: 46}
-barberry <> N: {rk: 41265, frq: 61}
-barbershop <> N: {rk: 16907, frq: 703}
-barbiturate <> N: {rk: 30028, frq: 150}
-barbless <> J: {rk: 53347, frq: 28}
-barbwire <> N: {rk: 50954, frq: 31}
-bardic <> J: {rk: 51137, frq: 31}
-bare <> J: {rk: 3453, frq: 9671}, V: {rk: 10620, frq: 1563}
-bare-knuckle <> J: {rk: 51151, frq: 34}
-bareback <> R: {rk: 35337, frq: 100}, J: {rk: 41587, frq: 60}
-bared <> J: {rk: 34546, frq: 106}
-barefoot <> J: {rk: 9600, frq: 1882}
-barefooted <> J: {rk: 29711, frq: 168}
-bareheaded <> J: {rk: 46600, frq: 42}
-barely <> R: {rk: 1983, frq: 20323}
-bareness <> N: {rk: 45389, frq: 45}
-barf <> V: {rk: 34592, frq: 110}, N: {rk: 42769, frq: 58}
-bargain <> N: {rk: 5010, frq: 5315}, V: {rk: 8694, frq: 2071}
-bargainer <> N: {rk: 44276, frq: 49}
-bargaining <> N: {rk: 7725, frq: 2804}
-barge <> N: {rk: 10184, frq: 1592}, V: {rk: 16033, frq: 698}
-bariatric <> J: {rk: 38364, frq: 90}
-barista <> N: {rk: 41684, frq: 117}
-baritone <> N: {rk: 14677, frq: 827}
-barium <> N: {rk: 30316, frq: 165}
-bark <> V: {rk: 5906, frq: 4306}, N: {rk: 6832, frq: 3201}
-barkeep <> N: {rk: 36819, frq: 108}
-barking <> N: {rk: 25168, frq: 337}, J: {rk: 28779, frq: 174}
-barley <> N: {rk: 11774, frq: 1297}
-barmaid <> N: {rk: 28361, frq: 202}
-barman <> N: {rk: 29108, frq: 222}
-barn <> N: {rk: 4140, frq: 7369}
-barnacle <> N: {rk: 24436, frq: 281}
-barnstorm <> V: {rk: 32814, frq: 114}
-barnstorming <> J: {rk: 45718, frq: 39}
-barnyard <> N: {rk: 21893, frq: 380}
-barometer <> N: {rk: 17072, frq: 619}
-barometric <> J: {rk: 33429, frq: 120}
-baroness <> N: {rk: 30959, frq: 176}
-baronet <> N: {rk: 41116, frq: 68}
-baronial <> J: {rk: 39153, frq: 78}
-barony <> N: {rk: 45985, frq: 44}
-baroque <> N: {rk: 16845, frq: 1227}
-barque <> N: {rk: 53514, frq: 38}
-barracks <> N: {rk: 9019, frq: 1986}
-barracuda <> N: {rk: 27372, frq: 316}
-barrage <> N: {rk: 10499, frq: 1529}, V: {rk: 34087, frq: 102}
-barred <> J: {rk: 24026, frq: 301}
-barrel <> N: {rk: 3103, frq: 10937}, V: {rk: 18121, frq: 559}
-barrel-chested <> J: {rk: 33602, frq: 115}
-barreled <> J: {rk: 50190, frq: 36}
-barren <> J: {rk: 8983, frq: 1992}, N: {rk: 30413, frq: 163}
-barrenness <> N: {rk: 34448, frq: 104}
-barrette <> N: {rk: 26605, frq: 239}
-barricade <> N: {rk: 11566, frq: 1325}, V: {rk: 18974, frq: 477}
-barricaded <> J: {rk: 44489, frq: 47}
-barrier <> N: {rk: 2625, frq: 14001}
-barring <> I: {rk: 14768, frq: 802}
-barrister <> N: {rk: 28679, frq: 212}
-barroom <> N: {rk: 22682, frq: 315}
-barstool <> N: {rk: 28104, frq: 204}
-bartender <> N: {rk: 8027, frq: 2698}
-barter <> V: {rk: 16105, frq: 662}, N: {rk: 22536, frq: 330}
-bartered <> J: {rk: 47385, frq: 36}
-bartering <> N: {rk: 51266, frq: 31}
-baryon <> N: {rk: 40744, frq: 87}
-bas-relief <> N: {rk: 27997, frq: 182}
-basal <> J: {rk: 17921, frq: 580}
-basalt <> N: {rk: 24186, frq: 328}
-basaltic <> J: {rk: 42762, frq: 58}
-base <> V: {rk: 536, frq: 81752}, N: {rk: 937, frq: 44565}, J: {rk: 30711, frq: 140}
-baseball <> N: {rk: 1377, frq: 30329}
-baseboard <> N: {rk: 24340, frq: 280}
-baseless <> J: {rk: 26506, frq: 232}
-baseline <> N: {rk: 6051, frq: 4713}
-baseman <> N: {rk: 8971, frq: 2279}
-basement <> N: {rk: 3624, frq: 8633}
-baseness <> N: {rk: 49129, frq: 34}
-baseplate <> N: {rk: 58691, frq: 22}
-bash <> V: {rk: 9845, frq: 1688}, N: {rk: 16987, frq: 1037}
-bashful <> J: {rk: 24499, frq: 252}
-bashfully <> R: {rk: 41414, frq: 60}
-bashing <> N: {rk: 25414, frq: 294}, J: {rk: 52961, frq: 26}
-basic <> J: {rk: 1145, frq: 37136}
-basically <> R: {rk: 1698, frq: 25403}
-basics <> N: {rk: 6725, frq: 3347}
-basil <> N: {rk: 7513, frq: 4708}
-basilar <> J: {rk: 56557, frq: 54}
-basileus <> N: {rk: 59708, frq: 30}
-basilica <> N: {rk: 23898, frq: 476}
-basilisk <> N: {rk: 46045, frq: 75}
-basin <> N: {rk: 6256, frq: 5842}
-basing <> J: {rk: 55991, frq: 24}, N: {rk: 56383, frq: 24}
-basis <> N: {rk: 1311, frq: 32410}
-bask <> V: {rk: 11974, frq: 1206}
-basket <> N: {rk: 3276, frq: 9931}
-basketball <> N: {rk: 1809, frq: 22421}
-basketful <> N: {rk: 45139, frq: 43}
-basketmaker <> N: {rk: 45843, frq: 53}
-basketry <> N: {rk: 30791, frq: 163}
-basking <> J: {rk: 47324, frq: 49}
-basmati <> N: {rk: 31417, frq: 169}
-bass <> N: {rk: 5180, frq: 6275}, J: {rk: 6901, frq: 3137}
-basset <> N: {rk: 35836, frq: 121}
-bassinet <> N: {rk: 30506, frq: 155}
-bassist <> N: {rk: 16720, frq: 662}
-basso <> N: {rk: 32362, frq: 286}
-bassoon <> N: {rk: 35247, frq: 112}
-bassoonist <> N: {rk: 53485, frq: 27}
-basswood <> N: {rk: 41415, frq: 77}
-bast <> N: {rk: 59210, frq: 53}
-bastard <> N: {rk: 6364, frq: 4033}
-bastardization <> N: {rk: 55738, frq: 21}
-bastardize <> V: {rk: 47988, frq: 34}
-bastardized <> J: {rk: 52244, frq: 28}
-bastardy <> N: {rk: 56230, frq: 24}
-baste <> V: {rk: 18007, frq: 591}
-baster <> N: {rk: 39771, frq: 88}
-basting <> N: {rk: 41700, frq: 66}
-bastion <> N: {rk: 14539, frq: 835}
-bat <> N: {rk: 3720, frq: 8604}, V: {rk: 6676, frq: 3397}
-batboy <> N: {rk: 46657, frq: 42}
-batch <> N: {rk: 6735, frq: 3419}, V: {rk: 49134, frq: 33}
-bateau <> N: {rk: 52628, frq: 41}
-bated <> J: {rk: 43320, frq: 51}
-bath <> N: {rk: 3920, frq: 8529}, V: {rk: 10580, frq: 1477}
-bathe <> V: {rk: 7682, frq: 2662}
-bather <> N: {rk: 27475, frq: 213}
-bathetic <> J: {rk: 51492, frq: 28}
-bathhouse <> N: {rk: 21085, frq: 457}
-bathing <> J: {rk: 13064, frq: 1043}, N: {rk: 30755, frq: 150}
-bathing-suit <> J: {rk: 55156, frq: 23}
-bathos <> N: {rk: 54824, frq: 25}
-bathrobe <> N: {rk: 14013, frq: 978}
-bathroom <> N: {rk: 2420, frq: 15926}
-bathtub <> N: {rk: 9987, frq: 1738}
-bathwater <> N: {rk: 30235, frq: 156}
-batik <> N: {rk: 31143, frq: 150}
-batsman <> N: {rk: 40187, frq: 83}
-batt <> N: {rk: 29784, frq: 200}
-battalion <> N: {rk: 8904, frq: 3010}
-batted <> J: {rk: 46249, frq: 45}
-batten <> N: {rk: 28043, frq: 201}, V: {rk: 30749, frq: 154}
-batter <> V: {rk: 7343, frq: 2873}, N: {rk: 7419, frq: 3058}
-battered <> J: {rk: 6918, frq: 3118}
-batterer <> N: {rk: 26363, frq: 263}
-battering <> N: {rk: 21289, frq: 369}
-battery <> N: {rk: 3214, frq: 11376}
-batting <> N: {rk: 10752, frq: 1515}
-battle <> N: {rk: 1201, frq: 35113}, V: {rk: 4798, frq: 5729}
-battlefield <> N: {rk: 6082, frq: 4221}
-battlefront <> N: {rk: 39613, frq: 70}
-battleground <> N: {rk: 12452, frq: 1246}
-battlement <> N: {rk: 25530, frq: 314}
-battler <> N: {rk: 43625, frq: 84}
-battleship <> N: {rk: 13747, frq: 952}
-battling <> J: {rk: 39699, frq: 68}
-batty <> J: {rk: 31945, frq: 130}
-bauble <> N: {rk: 25710, frq: 244}
-baud <> N: {rk: 41433, frq: 80}
-bauxite <> N: {rk: 38187, frq: 117}
-bawd <> N: {rk: 51530, frq: 36}
-bawdy <> J: {rk: 23461, frq: 292}
-bawl <> V: {rk: 18479, frq: 526}
-bawling <> N: {rk: 51770, frq: 33}, J: {rk: 56914, frq: 21}
-bay <> V: {rk: 25244, frq: 499}
-bayberry <> N: {rk: 50079, frq: 34}
-baying <> N: {rk: 45231, frq: 51}
-bayman <> N: {rk: 59519, frq: 26}
-bayonet <> N: {rk: 15533, frq: 738}
-bazaar <> N: {rk: 16273, frq: 1241}
-bazar <> N: {rk: 59906, frq: 39}
-bazooka <> N: {rk: 33612, frq: 156}
-be <> V: {rk: 2, frq: 16711569}
-beach <> N: {rk: 1947, frq: 32596}, V: {rk: 22128, frq: 342}
-beachcomber <> N: {rk: 35107, frq: 111}
-beached <> J: {rk: 33771, frq: 107}
-beachfront <> N: {rk: 20686, frq: 417}
-beachhead <> N: {rk: 24178, frq: 309}
-beachy <> J: {rk: 49927, frq: 51}
-beacon <> N: {rk: 10696, frq: 2140}
-bead <> N: {rk: 5411, frq: 4725}, V: {rk: 16960, frq: 640}
-beaded <> J: {rk: 14651, frq: 846}
-beading <> N: {rk: 33570, frq: 122}
-beadwork <> N: {rk: 24948, frq: 324}
-beady <> J: {rk: 26125, frq: 244}
-beady-eyed <> J: {rk: 51412, frq: 27}
-beagle <> N: {rk: 21208, frq: 517}
-beak <> N: {rk: 11378, frq: 1383}
-beak-like <> J: {rk: 56869, frq: 23}
-beaked <> J: {rk: 45037, frq: 59}
-beaker <> N: {rk: 24109, frq: 326}
-beaky <> J: {rk: 56294, frq: 22}
-beam <> N: {rk: 3769, frq: 8165}, V: {rk: 6807, frq: 3269}
-beamed <> J: {rk: 33237, frq: 118}
-beaming <> J: {rk: 20500, frq: 408}
-beamy <> J: {rk: 51914, frq: 31}
-bean <> N: {rk: 2367, frq: 16665}
-beanbag <> N: {rk: 31357, frq: 144}
-beanpole <> N: {rk: 43744, frq: 56}
-beanstalk <> N: {rk: 35252, frq: 110}
-bear <> V: {rk: 1624, frq: 23972}, N: {rk: 2702, frq: 21371}
-bearable <> J: {rk: 20378, frq: 407}
-beard <> N: {rk: 4734, frq: 6459}
-bearded <> J: {rk: 9927, frq: 1722}
-beardless <> J: {rk: 35387, frq: 95}
-bearer <> N: {rk: 12313, frq: 1127}
-bearing <> N: {rk: 6817, frq: 3176}
-bearish <> J: {rk: 25240, frq: 250}
-bearnaise <> N: {rk: 51511, frq: 35}
-bearskin <> N: {rk: 37391, frq: 89}
-beast <> N: {rk: 4468, frq: 6639}
-beastly <> J: {rk: 29860, frq: 164}
-beat <> V: {rk: 1037, frq: 41625}, N: {rk: 2678, frq: 13814}
-beat-up <> J: {rk: 34908, frq: 102}
-beatable <> J: {rk: 41613, frq: 57}
-beaten <> J: {rk: 10602, frq: 1485}
-beater <> N: {rk: 18817, frq: 505}
-beatific <> J: {rk: 26371, frq: 244}
-beatifically <> R: {rk: 46684, frq: 38}
-beatification <> N: {rk: 38498, frq: 88}
-beatify <> V: {rk: 45070, frq: 51}
-beating <> N: {rk: 6067, frq: 3841}, J: {rk: 53912, frq: 27}
-beatitude <> N: {rk: 33573, frq: 170}
-beatnik <> N: {rk: 30569, frq: 149}
-beaut <> N: {rk: 39734, frq: 87}
-beauteous <> J: {rk: 50851, frq: 35}
-beautician <> N: {rk: 29676, frq: 159}
-beautification <> N: {rk: 28164, frq: 184}
-beautiful <> J: {rk: 993, frq: 43720}
-beautifully <> R: {rk: 6288, frq: 3671}
-beautify <> V: {rk: 26192, frq: 218}
-beauty <> N: {rk: 1733, frq: 23218}
-beaver <> N: {rk: 12049, frq: 2039}, V: {rk: 25981, frq: 282}
-bebop <> N: {rk: 31460, frq: 183}, V: {rk: 45690, frq: 61}
-becalmed <> J: {rk: 36087, frq: 90}
-because <> C: {rk: 89, frq: 476691}, I: {rk: 508, frq: 83025}
-bechamel <> N: {rk: 55053, frq: 40}
-beckon <> V: {rk: 8948, frq: 2047}
-beckoning <> J: {rk: 38273, frq: 77}, N: {rk: 51457, frq: 37}
-become <> V: {rk: 139, frq: 278670}
-becoming <> J: {rk: 24075, frq: 270}
-bed <> N: {rk: 683, frq: 64791}, V: {rk: 19442, frq: 489}
-bed-and-breakfast <> N: {rk: 24038, frq: 289}, J: {rk: 32572, frq: 130}
-bed-wetting <> N: {rk: 50040, frq: 32}
-bedazzle <> V: {rk: 42038, frq: 59}
-bedazzled <> J: {rk: 53813, frq: 31}
-bedbug <> N: {rk: 29412, frq: 245}
-bedchamber <> N: {rk: 26108, frq: 277}
-bedcover <> N: {rk: 33234, frq: 121}
-bedded <> J: {rk: 51632, frq: 31}
-bedding <> N: {rk: 11424, frq: 1360}
-bedeck <> V: {rk: 28716, frq: 177}
-bedevil <> V: {rk: 20402, frq: 401}
-bedfellow <> N: {rk: 25895, frq: 237}
-bedframe <> N: {rk: 54472, frq: 26}
-bedlam <> N: {rk: 27624, frq: 263}
-bedpan <> N: {rk: 31023, frq: 146}
-bedpost <> N: {rk: 30697, frq: 161}
-bedraggled <> J: {rk: 25229, frq: 257}
-bedrail <> N: {rk: 59512, frq: 21}
-bedrock <> N: {rk: 12860, frq: 1052}
-bedroll <> N: {rk: 32143, frq: 148}
-bedroom <> N: {rk: 1879, frq: 21771}
-bedsheet <> N: {rk: 23036, frq: 318}
-bedside <> N: {rk: 9093, frq: 2062}
-bedsore <> N: {rk: 42967, frq: 58}
-bedspread <> N: {rk: 17650, frq: 600}
-bedspring <> N: {rk: 35752, frq: 99}
-bedstand <> N: {rk: 55413, frq: 24}
-bedstead <> N: {rk: 36226, frq: 92}
-bedtime <> N: {rk: 9420, frq: 1902}
-bee <> N: {rk: 4283, frq: 6792}
-beechnut <> N: {rk: 52458, frq: 58}
-beechwood <> N: {rk: 56757, frq: 45}
-beef <> N: {rk: 3529, frq: 9340}, V: {rk: 18096, frq: 549}
-beefcake <> N: {rk: 51652, frq: 34}
-beefeater <> N: {rk: 57206, frq: 45}
-beefsteak <> N: {rk: 31644, frq: 139}
-beefy <> J: {rk: 17247, frq: 610}
-beehive <> N: {rk: 18754, frq: 517}
-beekeeper <> N: {rk: 23680, frq: 331}
-beekeeping <> N: {rk: 36567, frq: 170}
-beeline <> N: {rk: 23341, frq: 309}
-beep <> V: {rk: 13727, frq: 972}, N: {rk: 15398, frq: 795}
-beeper <> N: {rk: 17045, frq: 607}
-beeping <> N: {rk: 37888, frq: 113}, J: {rk: 40369, frq: 67}
-beer <> N: {rk: 1912, frq: 21137}
-beery <> J: {rk: 42304, frq: 57}
-beeswax <> N: {rk: 23921, frq: 297}
-beet <> N: {rk: 9634, frq: 1896}
-beetle <> N: {rk: 7311, frq: 2981}
-beetroot <> N: {rk: 54011, frq: 26}
-befall <> V: {rk: 15193, frq: 745}
-befit <> V: {rk: 15650, frq: 694}
-before <> I: {rk: 219, frq: 187768}, C: {rk: 368, frq: 116410}, R: {rk: 705, frq: 60244}
-beforehand <> R: {rk: 10735, frq: 1448}
-befoul <> V: {rk: 55411, frq: 26}
-befriend <> V: {rk: 12120, frq: 1184}
-befuddle <> V: {rk: 34573, frq: 99}
-befuddled <> J: {rk: 23782, frq: 287}
-befuddlement <> N: {rk: 40442, frq: 63}
-beg <> V: {rk: 3475, frq: 9249}
-beget <> V: {rk: 21189, frq: 386}
-begetter <> N: {rk: 57279, frq: 22}
-beggar <> N: {rk: 11993, frq: 1288}, V: {rk: 32269, frq: 129}
-beggarly <> R: {rk: 56897, frq: 20}
-begging <> N: {rk: 17574, frq: 580}
-begin <> V: {rk: 164, frq: 243543}
-beginner <> N: {rk: 9014, frq: 2090}
-beginning <> N: {rk: 1202, frq: 34332}
-begonia <> N: {rk: 27906, frq: 211}
-begotten <> J: {rk: 47795, frq: 36}
-begrudge <> V: {rk: 21600, frq: 354}
-begrudgingly <> R: {rk: 33122, frq: 119}
-beguile <> V: {rk: 27701, frq: 187}
-beguiling <> J: {rk: 21957, frq: 347}
-begum <> N: {rk: 56578, frq: 123}
-behalf <> I: {rk: 4474, frq: 6186}, N: {rk: 7246, frq: 2794}
-behave <> V: {rk: 3687, frq: 8173}
-behavior <> N: {rk: 658, frq: 70444}
-behavioral <> J: {rk: 3781, frq: 8997}
-behaviorally <> R: {rk: 26488, frq: 249}
-behaviorism <> N: {rk: 37009, frq: 92}
-behaviorist <> N: {rk: 24514, frq: 290}
-behavioristic <> J: {rk: 56574, frq: 23}
-behavioural <> J: {rk: 35577, frq: 129}
-behead <> V: {rk: 19357, frq: 495}
-beheaded <> J: {rk: 51993, frq: 26}
-beheading <> N: {rk: 28833, frq: 210}
-behemoth <> N: {rk: 13678, frq: 972}
-behest <> N: {rk: 18027, frq: 536}
-behind <> I: {rk: 421, frq: 102946}, R: {rk: 2062, frq: 18812}, N: {rk: 19421, frq: 498}
-behold <> V: {rk: 10754, frq: 1483}, U: {rk: 21766, frq: 356}
-beholden <> J: {rk: 19911, frq: 432}
-beholder <> N: {rk: 18579, frq: 544}
-behoove <> V: {rk: 24162, frq: 275}
-beige <> J: {rk: 11295, frq: 1375}, N: {rk: 35464, frq: 95}
-beignet <> N: {rk: 31576, frq: 149}
-being <> N: {rk: 1682, frq: 23301}
-bejesus <> N: {rk: 38035, frq: 73}
-bejeweled <> J: {rk: 34178, frq: 114}
-belated <> J: {rk: 18697, frq: 487}
-belatedly <> R: {rk: 17057, frq: 596}
-belatedness <> N: {rk: 55433, frq: 31}
-belay <> V: {rk: 41156, frq: 67}, N: {rk: 42765, frq: 69}
-belch <> V: {rk: 18267, frq: 541}, N: {rk: 30173, frq: 177}
-beleaguered <> J: {rk: 13078, frq: 1011}
-belfry <> N: {rk: 31182, frq: 151}
-belie <> V: {rk: 15260, frq: 743}
-belief <> N: {rk: 1382, frq: 31185}
-believability <> N: {rk: 36755, frq: 81}
-believable <> J: {rk: 13897, frq: 909}
-believably <> R: {rk: 48232, frq: 35}
-believe <> V: {rk: 212, frq: 192400}
-believer <> N: {rk: 5422, frq: 4676}
-believing <> J: {rk: 35431, frq: 97}
-belittle <> V: {rk: 16612, frq: 622}
-belittling <> N: {rk: 53313, frq: 27}
-bell <> N: {rk: 2662, frq: 23137}, V: {rk: 57517, frq: 22}
-bell-bottom <> J: {rk: 48522, frq: 35}
-belladonna <> N: {rk: 46168, frq: 67}
-bellboy <> N: {rk: 32433, frq: 184}
-belled <> J: {rk: 55933, frq: 26}
-bellflower <> N: {rk: 54046, frq: 49}
-bellhop <> N: {rk: 29532, frq: 175}
-bellicose <> J: {rk: 26657, frq: 211}
-bellicosity <> N: {rk: 51277, frq: 30}
-belligerence <> N: {rk: 29960, frq: 168}
-belligerency <> N: {rk: 48298, frq: 43}
-belligerent <> J: {rk: 16670, frq: 639}, N: {rk: 34508, frq: 108}
-belligerently <> R: {rk: 40814, frq: 68}
-bellman <> N: {rk: 29439, frq: 187}
-bellow <> V: {rk: 12640, frq: 1162}, N: {rk: 13760, frq: 1454}
-bellowing <> N: {rk: 40626, frq: 70}, J: {rk: 44620, frq: 48}
-belly <> N: {rk: 3835, frq: 8519}, V: {rk: 32613, frq: 123}
-bellyache <> N: {rk: 43274, frq: 50}
-bellybutton <> N: {rk: 38197, frq: 81}
-bellyful <> N: {rk: 48159, frq: 39}
-belong <> V: {rk: 1644, frq: 23577}
-belongings <> N: {rk: 9412, frq: 1843}
-beloved <> J: {rk: 4995, frq: 5444}, N: {rk: 23257, frq: 306}
-below <> R: {rk: 1454, frq: 26153}, I: {rk: 1939, frq: 19761}
-belowground <> J: {rk: 40827, frq: 157}, R: {rk: 57759, frq: 27}
-belt <> N: {rk: 2446, frq: 15123}, V: {rk: 15814, frq: 735}
-belted <> J: {rk: 31347, frq: 163}
-belter <> N: {rk: 46601, frq: 63}
-beltless <> J: {rk: 58362, frq: 20}
-bemoan <> V: {rk: 15737, frq: 711}
-bemuse <> V: {rk: 49515, frq: 37}
-bemused <> J: {rk: 16126, frq: 687}
-bemusement <> N: {rk: 32971, frq: 124}
-bench <> N: {rk: 2799, frq: 12596}, V: {rk: 23514, frq: 327}
-benched <> J: {rk: 49447, frq: 33}
-benching <> N: {rk: 56242, frq: 24}
-benchmark <> N: {rk: 8217, frq: 2486}
-bend <> V: {rk: 2208, frq: 17467}, N: {rk: 8649, frq: 4098}
-bendable <> J: {rk: 49855, frq: 39}
-bended <> J: {rk: 38236, frq: 77}
-bending <> N: {rk: 24031, frq: 293}
-beneath <> I: {rk: 1987, frq: 20694}, R: {rk: 13658, frq: 981}
-benediction <> N: {rk: 22773, frq: 329}
-benefaction <> N: {rk: 51224, frq: 32}
-benefactor <> N: {rk: 14119, frq: 873}
-benefactress <> N: {rk: 52430, frq: 29}
-benefice <> N: {rk: 57184, frq: 25}
-beneficence <> N: {rk: 32871, frq: 138}
-beneficent <> J: {rk: 27019, frq: 202}
-beneficial <> J: {rk: 5042, frq: 5469}
-beneficially <> R: {rk: 44198, frq: 49}
-beneficiary <> N: {rk: 6643, frq: 3399}
-benefit <> N: {rk: 813, frq: 52926}, V: {rk: 2247, frq: 16680}
-benevolence <> N: {rk: 19662, frq: 477}
-benevolent <> J: {rk: 11778, frq: 1227}
-benevolently <> R: {rk: 37867, frq: 76}
-bengal <> J: {rk: 29043, frq: 171}
-benighted <> J: {rk: 28167, frq: 182}
-benign <> J: {rk: 7094, frq: 2955}
-benignly <> R: {rk: 29003, frq: 167}
-benne <> N: {rk: 59444, frq: 46}
-bent <> J: {rk: 12491, frq: 1125}, N: {rk: 33069, frq: 118}
-bentgrass <> N: {rk: 57709, frq: 24}
-benthic <> J: {rk: 27942, frq: 286}
-benthos <> N: {rk: 59724, frq: 46}
-bentwood <> N: {rk: 42173, frq: 76}
-benumb <> V: {rk: 55512, frq: 25}
-benzene <> N: {rk: 22832, frq: 356}
-benzine <> N: {rk: 56390, frq: 27}
-benzodiazepine <> N: {rk: 41763, frq: 76}
-bequeath <> V: {rk: 16841, frq: 627}
-bequest <> N: {rk: 18787, frq: 503}
-berate <> V: {rk: 16473, frq: 666}
-bereaved <> J: {rk: 20164, frq: 436}
-bereavement <> N: {rk: 21086, frq: 449}
-bereft <> J: {rk: 16836, frq: 627}
-beret <> N: {rk: 17219, frq: 905}
-bergamot <> N: {rk: 46394, frq: 59}
-beribboned <> J: {rk: 41838, frq: 58}
-beriberi <> N: {rk: 55909, frq: 22}
-berm <> N: {rk: 22913, frq: 389}
-berried <> J: {rk: 59997, frq: 20}
-berry <> N: {rk: 6178, frq: 7996}, V: {rk: 45882, frq: 43}
-berserker <> N: {rk: 44812, frq: 52}
-berth <> N: {rk: 9949, frq: 1791}, V: {rk: 35561, frq: 94}
-beryllium <> N: {rk: 36488, frq: 95}
-beseech <> V: {rk: 22421, frq: 319}
-beseeching <> J: {rk: 57244, frq: 21}
-beseechingly <> R: {rk: 51321, frq: 32}
-beset <> V: {rk: 13801, frq: 903}
-beside <> I: {rk: 1991, frq: 21460}, R: {rk: 36596, frq: 88}
-besides <> R: {rk: 3031, frq: 11389}, I: {rk: 4190, frq: 6652}
-besiege <> V: {rk: 15451, frq: 723}
-besieged <> J: {rk: 23894, frq: 282}
-besieger <> N: {rk: 55928, frq: 25}
-besmirch <> V: {rk: 31360, frq: 141}
-besotted <> J: {rk: 44045, frq: 54}
-bespeak <> V: {rk: 23772, frq: 276}
-bespectacled <> J: {rk: 21372, frq: 374}
-best <> J: {rk: 309, frq: 136214}, R: {rk: 968, frq: 43374}, V: {rk: 9848, frq: 1776}
-best-seller <> N: {rk: 8473, frq: 2227}
-best-selling <> J: {rk: 7670, frq: 2718}
-bestial <> J: {rk: 32938, frq: 120}
-bestiality <> N: {rk: 34009, frq: 108}
-bestiary <> N: {rk: 40856, frq: 68}
-bestir <> V: {rk: 46554, frq: 42}
-bestow <> V: {rk: 9632, frq: 1756}
-bestowal <> N: {rk: 46956, frq: 48}
-bestride <> V: {rk: 45934, frq: 40}
-bet <> V: {rk: 2715, frq: 13158}, N: {rk: 4458, frq: 6312}
-beta-blocker <> N: {rk: 39831, frq: 77}
-beta-carotene <> N: {rk: 28579, frq: 202}, J: {rk: 41681, frq: 61}
-betel <> N: {rk: 43492, frq: 50}
-betide <> V: {rk: 49821, frq: 31}
-betoken <> V: {rk: 38965, frq: 73}
-betray <> V: {rk: 5023, frq: 5236}
-betrayal <> N: {rk: 7404, frq: 2731}
-betrayed <> J: {rk: 17102, frq: 597}
-betrayer <> N: {rk: 34931, frq: 98}
-betraying <> J: {rk: 54001, frq: 27}
-betroth <> V: {rk: 35783, frq: 103}
-betrothal <> N: {rk: 30756, frq: 169}
-betrothed <> J: {rk: 36583, frq: 86}
-better <> J: {rk: 452, frq: 91528}, R: {rk: 495, frq: 85258}, V: {rk: 12072, frq: 1156}, N: {rk: 12929, frq: 1108}
-betterment <> N: {rk: 22366, frq: 343}
-betting <> N: {rk: 17142, frq: 633}, J: {rk: 41707, frq: 59}
-bettor <> N: {rk: 30601, frq: 176}
-between <> I: {rk: 140, frq: 284031}, R: {rk: 5194, frq: 4911}, J: {rk: 22839, frq: 313}
-betwixt <> I: {rk: 37051, frq: 80}
-bevel <> V: {rk: 33522, frq: 114}, N: {rk: 34055, frq: 146}
-beveled <> J: {rk: 32942, frq: 118}
-beverage <> N: {rk: 6931, frq: 3225}
-bevy <> N: {rk: 21317, frq: 397}
-bewail <> V: {rk: 41427, frq: 56}
-beware <> V: {rk: 10112, frq: 1630}
-bewhiskered <> J: {rk: 55929, frq: 22}
-bewilder <> V: {rk: 33742, frq: 102}
-bewildered <> J: {rk: 10848, frq: 1456}
-bewildering <> J: {rk: 16297, frq: 642}
-bewilderingly <> R: {rk: 50993, frq: 29}
-bewilderment <> N: {rk: 17410, frq: 598}
-bewitch <> V: {rk: 24357, frq: 285}
-bewitched <> J: {rk: 34753, frq: 107}
-bewitching <> J: {rk: 40718, frq: 64}
-bewitchment <> N: {rk: 55449, frq: 26}
-beyond <> I: {rk: 746, frq: 54933}, R: {rk: 4853, frq: 5532}
-bezel <> N: {rk: 42443, frq: 62}
-bi-level <> J: {rk: 54091, frq: 29}
-biannual <> J: {rk: 31667, frq: 137}
-bias <> N: {rk: 3955, frq: 8076}, V: {rk: 13796, frq: 980}
-bias-cut <> J: {rk: 52428, frq: 29}
-biased <> J: {rk: 10996, frq: 1425}
-biasing <> J: {rk: 58771, frq: 25}
-biathlon <> N: {rk: 38071, frq: 133}
-biaxial <> J: {rk: 49799, frq: 36}
-bib <> N: {rk: 21721, frq: 382}, V: {rk: 51159, frq: 31}
-bibelot <> N: {rk: 58700, frq: 28}
-bible <> N: {rk: 2759, frq: 12417}
-biblical <> J: {rk: 5230, frq: 5157}
-bibliographer <> N: {rk: 59297, frq: 32}
-bibliographic <> J: {rk: 31810, frq: 143}
-bibliographical <> J: {rk: 38771, frq: 82}
-bibliography <> N: {rk: 14537, frq: 923}
-bibliophile <> N: {rk: 44773, frq: 46}
-bicameral <> J: {rk: 43801, frq: 50}
-bicarbonate <> N: {rk: 36154, frq: 108}
-bicentennial <> J: {rk: 21749, frq: 359}
-biceps <> N: {rk: 12489, frq: 1207}
-bicker <> V: {rk: 15734, frq: 702}
-bickering <> N: {rk: 21243, frq: 388}, J: {rk: 41891, frq: 60}
-bicoastal <> J: {rk: 39305, frq: 71}
-bicultural <> J: {rk: 31740, frq: 149}
-bicycle <> N: {rk: 4405, frq: 6350}, V: {rk: 16020, frq: 688}
-bicycling <> J: {rk: 37873, frq: 76}
-bicyclist <> N: {rk: 20339, frq: 876}
-bid <> N: {rk: 4101, frq: 7496}, V: {rk: 5893, frq: 4195}
-bidder <> N: {rk: 11695, frq: 1287}
-bidding <> N: {rk: 10017, frq: 1655}
-bide <> V: {rk: 19861, frq: 439}
-bidet <> N: {rk: 42802, frq: 55}
-bidirectional <> J: {rk: 31594, frq: 160}
-biennial <> N: {rk: 21798, frq: 619}
-bier <> N: {rk: 33274, frq: 134}
-biff <> V: {rk: 45945, frq: 42}
-bifocal <> J: {rk: 45998, frq: 41}
-bifocals <> N: {rk: 30573, frq: 156}
-bifurcate <> V: {rk: 35413, frq: 100}
-bifurcated <> J: {rk: 35394, frq: 135}
-bifurcation <> N: {rk: 30194, frq: 176}
-big <> J: {rk: 162, frq: 249244}, R: {rk: 26174, frq: 237}
-big-headed <> J: {rk: 46348, frq: 44}
-big-hearted <> J: {rk: 37663, frq: 79}
-big-ticket <> J: {rk: 22509, frq: 345}
-bigamist <> N: {rk: 48385, frq: 42}
-bigamy <> N: {rk: 37804, frq: 96}
-bigeye <> N: {rk: 53180, frq: 45}
-bighorn <> N: {rk: 26626, frq: 474}
-bight <> N: {rk: 42899, frq: 83}
-bigness <> N: {rk: 30935, frq: 149}
-bigot <> N: {rk: 17630, frq: 596}
-bigoted <> J: {rk: 22578, frq: 337}
-bigotry <> N: {rk: 13412, frq: 1010}
-bigwig <> N: {rk: 27413, frq: 202}
-bike <> N: {rk: 2176, frq: 18498}, V: {rk: 11854, frq: 1305}
-biker <> N: {rk: 10357, frq: 1559}
-bikeway <> N: {rk: 50664, frq: 33}
-biking <> J: {rk: 40499, frq: 63}
-bikini <> N: {rk: 10303, frq: 1695}
-bilateral <> J: {rk: 6971, frq: 3328}
-bilateralism <> N: {rk: 47824, frq: 43}
-bilaterally <> R: {rk: 29268, frq: 193}
-bilayer <> N: {rk: 56551, frq: 30}
-bilberry <> N: {rk: 47470, frq: 43}
-bildungsroman <> N: {rk: 44086, frq: 55}
-bile <> N: {rk: 16555, frq: 666}
-bilge <> N: {rk: 29869, frq: 243}, V: {rk: 52609, frq: 30}
-biliary <> J: {rk: 46900, frq: 56}
-bilingual <> J: {rk: 9754, frq: 1791}, N: {rk: 55285, frq: 39}
-bilingualism <> N: {rk: 34035, frq: 108}
-bilious <> J: {rk: 36634, frq: 88}
-bilirubin <> N: {rk: 43032, frq: 73}
-bilk <> V: {rk: 28173, frq: 195}
-bill <> V: {rk: 8172, frq: 2383}
-billable <> J: {rk: 29630, frq: 164}
-billabong <> N: {rk: 59882, frq: 27}
-billboard <> N: {rk: 7257, frq: 3335}
-billed <> J: {rk: 50200, frq: 34}
-billet <> N: {rk: 34952, frq: 99}
-billfish <> N: {rk: 32779, frq: 244}
-billfold <> N: {rk: 33452, frq: 110}
-billiards <> N: {rk: 20074, frq: 473}
-billing <> N: {rk: 8985, frq: 2092}
-billion <> M: {rk: 612, frq: 66119}
-billionaire <> N: {rk: 9718, frq: 1910}
-billionth <> N: {rk: 32622, frq: 129}
-billow <> V: {rk: 12770, frq: 1114}, N: {rk: 38941, frq: 83}
-billowing <> J: {rk: 26648, frq: 227}, N: {rk: 57068, frq: 22}
-billows <> N: {rk: 31388, frq: 177}
-billowy <> J: {rk: 31640, frq: 142}
-bimbo <> N: {rk: 24008, frq: 365}
-bimodal <> J: {rk: 47010, frq: 45}
-bimonthly <> R: {rk: 24992, frq: 250}
-binary <> J: {rk: 11477, frq: 1465}, N: {rk: 16500, frq: 703}
-binational <> J: {rk: 26373, frq: 257}
-binaural <> J: {rk: 47273, frq: 57}
-bind <> V: {rk: 2512, frq: 14095}, N: {rk: 17074, frq: 599}
-binder <> N: {rk: 13092, frq: 1074}
-binding <> J: {rk: 9310, frq: 1926}, N: {rk: 13872, frq: 1042}
-binge <> N: {rk: 13070, frq: 1060}, V: {rk: 21306, frq: 412}
-bingo <> N: {rk: 15845, frq: 1255}
-binoc <> N: {rk: 45735, frq: 47}
-binocular <> J: {rk: 22288, frq: 394}
-binoculars <> N: {rk: 7740, frq: 2720}
-binomial <> J: {rk: 33528, frq: 149}
-bioaccumulation <> N: {rk: 49882, frq: 37}
-bioactive <> J: {rk: 55107, frq: 23}
-bioassay <> N: {rk: 47378, frq: 42}
-bioavailability <> N: {rk: 38976, frq: 75}
-biocentric <> J: {rk: 56523, frq: 28}
-biochemical <> J: {rk: 14830, frq: 829}
-biochemically <> R: {rk: 41756, frq: 58}
-biochemist <> N: {rk: 24371, frq: 281}
-biochemistry <> N: {rk: 18785, frq: 522}
-biochip <> N: {rk: 53331, frq: 33}
-biocide <> N: {rk: 50676, frq: 41}
-biocontrol <> N: {rk: 34519, frq: 143}
-biodegradable <> J: {rk: 20467, frq: 439}
-biodegrade <> V: {rk: 47973, frq: 42}
-biodiesel <> N: {rk: 25248, frq: 389}
-biodiverse <> J: {rk: 52062, frq: 34}
-biodiversity <> N: {rk: 7904, frq: 3382}
-biodynamic <> J: {rk: 44803, frq: 70}
-biodynamics <> N: {rk: 56740, frq: 27}
-bioengineered <> J: {rk: 34383, frq: 107}
-bioengineering <> J: {rk: 48901, frq: 39}
-bioethical <> J: {rk: 41017, frq: 69}
-bioethicist <> N: {rk: 34993, frq: 120}
-bioethics <> N: {rk: 21607, frq: 460}
-biofeedback <> N: {rk: 21750, frq: 387}
-biofilm <> N: {rk: 34342, frq: 160}
-biofilter <> N: {rk: 28906, frq: 240}
-biofuel <> N: {rk: 20528, frq: 600}
-biogas <> N: {rk: 36331, frq: 113}
-biogenetic <> J: {rk: 51976, frq: 34}
-biogenic <> J: {rk: 45105, frq: 57}
-biogeochemistry <> N: {rk: 55441, frq: 34}
-biogeographic <> J: {rk: 39863, frq: 103}
-biogeographical <> J: {rk: 47875, frq: 53}
-biogeography <> N: {rk: 41593, frq: 79}
-biographer <> N: {rk: 10777, frq: 1464}
-biographic <> J: {rk: 58044, frq: 20}
-biographical <> J: {rk: 13729, frq: 959}
-biography <> N: {rk: 4923, frq: 5411}
-biohazard <> N: {rk: 35161, frq: 135}
-bioinformatics <> N: {rk: 51049, frq: 65}
-biologic <> J: {rk: 28871, frq: 198}
-biological <> J: {rk: 2580, frq: 14269}
-biologically <> R: {rk: 13245, frq: 1015}
-biologist <> N: {rk: 5127, frq: 5832}
-biology <> N: {rk: 4259, frq: 7345}
-bioluminescence <> N: {rk: 46717, frq: 61}
-bioluminescent <> J: {rk: 45669, frq: 48}
-biomarker <> N: {rk: 36877, frq: 116}
-biomass <> N: {rk: 10686, frq: 1749}
-biome <> N: {rk: 32168, frq: 174}
-biomechanical <> J: {rk: 23810, frq: 320}
-biomechanics <> N: {rk: 23146, frq: 381}
-biomedical <> J: {rk: 12481, frq: 1167}
-biomedicine <> N: {rk: 38908, frq: 118}
-biometric <> J: {rk: 24712, frq: 331}
-biometrics <> N: {rk: 36036, frq: 174}
-biomolecular <> J: {rk: 52157, frq: 28}
-biomolecule <> N: {rk: 39549, frq: 74}
-biomorphic <> J: {rk: 45824, frq: 46}
-bionic <> J: {rk: 30446, frq: 170}
-bionics <> N: {rk: 53085, frq: 33}
-biopharmaceutical <> J: {rk: 58725, frq: 22}
-biophysical <> J: {rk: 30058, frq: 200}
-biophysicist <> N: {rk: 47655, frq: 41}
-biophysics <> N: {rk: 40270, frq: 77}
-biopic <> N: {rk: 27397, frq: 201}
-biopolymer <> N: {rk: 59613, frq: 23}
-bioprospecting <> J: {rk: 58594, frq: 23}, N: {rk: 58665, frq: 37}
-biopsy <> N: {rk: 10676, frq: 1582}
-biopsychosocial <> J: {rk: 40770, frq: 85}
-bioreactor <> N: {rk: 41306, frq: 70}
-bioregion <> N: {rk: 45561, frq: 52}
-bioregional <> J: {rk: 56350, frq: 26}
-bioremediation <> N: {rk: 32748, frq: 154}
-biorhythm <> N: {rk: 48469, frq: 38}
-biosafety <> J: {rk: 40661, frq: 70}
-biosensor <> N: {rk: 47394, frq: 42}
-biosolids <> N: {rk: 14662, frq: 1135}
-biosphere <> N: {rk: 14804, frq: 1117}
-biospherian <> N: {rk: 49557, frq: 42}
-biostatistician <> N: {rk: 52614, frq: 30}
-biostatistics <> N: {rk: 50415, frq: 52}
-biota <> N: {rk: 23539, frq: 495}
-biotech <> J: {rk: 11411, frq: 1178}
-biotechnological <> J: {rk: 45358, frq: 54}
-biotechnology <> N: {rk: 9710, frq: 1763}
-bioterrorism <> N: {rk: 21200, frq: 419}
-biotic <> J: {rk: 22737, frq: 402}
-biotin <> N: {rk: 52585, frq: 41}
-biotype <> N: {rk: 59243, frq: 30}
-biowarfare <> N: {rk: 50673, frq: 32}
-bioweapon <> N: {rk: 32865, frq: 133}
-biparental <> J: {rk: 59694, frq: 23}
-bipartisan <> J: {rk: 6739, frq: 3711}
-bipartisanship <> N: {rk: 20020, frq: 603}
-bipartite <> J: {rk: 51568, frq: 31}
-biped <> N: {rk: 48573, frq: 42}, J: {rk: 52040, frq: 34}
-bipedal <> J: {rk: 32277, frq: 139}
-bipedalism <> N: {rk: 42022, frq: 77}
-biphasic <> J: {rk: 49240, frq: 40}
-biphenyl <> N: {rk: 34367, frq: 142}
-biplane <> N: {rk: 29395, frq: 182}
-bipod <> N: {rk: 58015, frq: 24}
-bipolar <> J: {rk: 10865, frq: 1482}
-biracial <> J: {rk: 23411, frq: 307}
-birch <> N: {rk: 11812, frq: 2128}
-birchbark <> N: {rk: 43251, frq: 57}
-bird <> N: {rk: 1123, frq: 39645}
-bird-watcher <> N: {rk: 29309, frq: 171}
-birdbath <> N: {rk: 30498, frq: 160}
-birdcage <> N: {rk: 37114, frq: 141}
-birdcall <> N: {rk: 45185, frq: 48}
-birder <> N: {rk: 24060, frq: 294}
-birdhouse <> N: {rk: 25763, frq: 270}
-birdie <> N: {rk: 11639, frq: 1880}, V: {rk: 32699, frq: 123}
-birding <> J: {rk: 40296, frq: 66}
-birdlike <> J: {rk: 27400, frq: 210}
-birdseed <> N: {rk: 33624, frq: 120}
-birdshot <> N: {rk: 47373, frq: 46}
-birdsong <> N: {rk: 25012, frq: 270}
-birdwatch <> V: {rk: 50789, frq: 31}
-birdy <> J: {rk: 56713, frq: 23}
-birefringence <> N: {rk: 58927, frq: 21}
-birth <> N: {rk: 1504, frq: 26506}, V: {rk: 21529, frq: 384}
-birthdate <> N: {rk: 36150, frq: 101}
-birthday <> N: {rk: 2449, frq: 15043}
-birthing <> J: {rk: 29166, frq: 170}, N: {rk: 39479, frq: 69}
-birthmark <> N: {rk: 25115, frq: 291}
-birthplace <> N: {rk: 11834, frq: 1329}
-birthrate <> N: {rk: 23012, frq: 321}
-birthright <> N: {rk: 19537, frq: 453}
-biscuit <> N: {rk: 8214, frq: 2458}
-bisect <> V: {rk: 21122, frq: 367}
-biserial <> J: {rk: 56025, frq: 26}
-bisexual <> J: {rk: 12842, frq: 1315}, N: {rk: 32283, frq: 197}
-bisexuality <> N: {rk: 30143, frq: 180}
-bishop <> N: {rk: 3460, frq: 13279}
-bishopric <> N: {rk: 46668, frq: 40}
-bismuth <> N: {rk: 38328, frq: 94}
-bison <> N: {rk: 11093, frq: 1461}
-bisphosphonate <> J: {rk: 58442, frq: 31}
-bisque <> N: {rk: 25810, frq: 237}
-bistro <> N: {rk: 15167, frq: 1100}
-bit <> N: {rk: 953, frq: 46187}, R: {rk: 1226, frq: 35179}
-bitch <> N: {rk: 5718, frq: 4724}, V: {rk: 19758, frq: 474}
-bitchiness <> N: {rk: 57243, frq: 24}
-bitching <> N: {rk: 57302, frq: 26}
-bitchy <> J: {rk: 32693, frq: 138}
-bite <> V: {rk: 3172, frq: 10795}, N: {rk: 3883, frq: 7940}
-bite-sized <> J: {rk: 30536, frq: 163}
-biter <> N: {rk: 37759, frq: 93}
-biting <> J: {rk: 14515, frq: 823}
-bitingly <> R: {rk: 51482, frq: 28}
-bitmap <> N: {rk: 49491, frq: 43}
-bitter <> J: {rk: 3606, frq: 8984}, N: {rk: 26409, frq: 274}
-bitterly <> R: {rk: 8665, frq: 2078}
-bittern <> N: {rk: 52357, frq: 34}
-bitterness <> N: {rk: 8474, frq: 2133}
-bittersweet <> J: {rk: 12255, frq: 1192}
-bitty <> J: {rk: 27182, frq: 207}
-bitumen <> N: {rk: 41076, frq: 89}
-bituminous <> J: {rk: 45335, frq: 46}
-bivalve <> N: {rk: 35769, frq: 129}
-bivariate <> J: {rk: 22038, frq: 484}
-bivouac <> N: {rk: 32615, frq: 124}, V: {rk: 56290, frq: 24}
-biweekly <> R: {rk: 22572, frq: 325}
-biz <> N: {rk: 16576, frq: 625}
-bizarre <> J: {rk: 5005, frq: 5282}
-bizarrely <> R: {rk: 28506, frq: 181}
-bizarreness <> N: {rk: 56439, frq: 21}
-blab <> V: {rk: 30758, frq: 161}
-blabbermouth <> N: {rk: 57059, frq: 21}
-black <> J: {rk: 253, frq: 161425}, N: {rk: 1989, frq: 24978}, V: {rk: 16458, frq: 652}
-black-tie <> J: {rk: 22239, frq: 345}
-blackball <> V: {rk: 37741, frq: 72}
-blackberry <> N: {rk: 14092, frq: 1576}
-blackbird <> N: {rk: 24465, frq: 468}
-blackboard <> N: {rk: 13765, frq: 967}
-blackbody <> N: {rk: 49950, frq: 44}
-blacken <> V: {rk: 15810, frq: 716}
-blackened <> J: {rk: 14573, frq: 845}
-blackening <> J: {rk: 57431, frq: 20}
-blackface <> N: {rk: 35118, frq: 134}
-blackfish <> N: {rk: 59018, frq: 34}
-blackfly <> N: {rk: 40992, frq: 63}
-blackguard <> N: {rk: 47807, frq: 42}
-blackhead <> N: {rk: 42529, frq: 63}
-blackish <> J: {rk: 38637, frq: 77}
-blackjack <> N: {rk: 20078, frq: 503}, V: {rk: 35734, frq: 91}
-blacklist <> V: {rk: 27384, frq: 204}, N: {rk: 28639, frq: 193}
-blacklisted <> J: {rk: 44876, frq: 48}
-blackly <> R: {rk: 48389, frq: 39}
-blackmail <> V: {rk: 17979, frq: 549}, N: {rk: 18202, frq: 516}
-blackmailer <> N: {rk: 42525, frq: 55}
-blackness <> N: {rk: 10094, frq: 1739}
-blackout <> N: {rk: 11492, frq: 1372}
-blacksmith <> N: {rk: 15289, frq: 833}
-blacktail <> N: {rk: 48150, frq: 64}
-blacktop <> N: {rk: 19287, frq: 499}
-bladder <> N: {rk: 9216, frq: 1967}
-blade <> N: {rk: 3167, frq: 11289}, V: {rk: 40544, frq: 62}
-bladed <> J: {rk: 43132, frq: 50}
-blader <> N: {rk: 57695, frq: 24}
-blah <> U: {rk: 11436, frq: 1445}
-blahs <> N: {rk: 43462, frq: 51}
-blame <> V: {rk: 1807, frq: 21413}, N: {rk: 5417, frq: 4674}
-blamed <> J: {rk: 52950, frq: 25}
-blameless <> J: {rk: 25024, frq: 251}
-blameworthy <> J: {rk: 44983, frq: 51}
-blaming <> N: {rk: 50922, frq: 34}
-blanch <> V: {rk: 17242, frq: 609}
-blanched <> J: {rk: 27816, frq: 203}
-bland <> J: {rk: 10250, frq: 1580}
-blandishment <> N: {rk: 33625, frq: 110}
-blandly <> R: {rk: 27287, frq: 205}
-blandness <> N: {rk: 33969, frq: 105}
-blank <> J: {rk: 4622, frq: 6049}, N: {rk: 11732, frq: 1297}, V: {rk: 18937, frq: 509}, R: {rk: 29736, frq: 165}
-blanket <> N: {rk: 3327, frq: 10177}, V: {rk: 14514, frq: 846}
-blanketed <> J: {rk: 56890, frq: 20}
-blankly <> R: {rk: 15273, frq: 821}
-blankness <> N: {rk: 29074, frq: 182}
-blare <> V: {rk: 11103, frq: 1409}, N: {rk: 27633, frq: 207}
-blaring <> J: {rk: 37537, frq: 85}, N: {rk: 54221, frq: 39}
-blarney <> N: {rk: 51370, frq: 50}
-blase <> J: {rk: 26362, frq: 217}
-blaspheme <> V: {rk: 45697, frq: 43}
-blasphemer <> N: {rk: 49078, frq: 46}
-blasphemous <> J: {rk: 24584, frq: 266}
-blasphemy <> N: {rk: 20140, frq: 493}
-blast <> N: {rk: 4784, frq: 5797}, V: {rk: 5316, frq: 4884}
-blasted <> J: {rk: 24046, frq: 296}
-blaster <> N: {rk: 28633, frq: 481}
-blasting <> J: {rk: 32196, frq: 130}, N: {rk: 49522, frq: 34}
-blastocyst <> N: {rk: 36296, frq: 105}
-blastoff <> N: {rk: 53512, frq: 32}
-blastomere <> N: {rk: 55872, frq: 47}
-blat <> V: {rk: 56496, frq: 21}
-blatant <> J: {rk: 11059, frq: 1347}
-blatantly <> R: {rk: 15957, frq: 671}
-blather <> N: {rk: 35052, frq: 100}, V: {rk: 40210, frq: 73}
-blaxploitation <> N: {rk: 41857, frq: 59}
-blaze <> V: {rk: 8202, frq: 2376}, N: {rk: 9316, frq: 1856}
-blazer <> N: {rk: 13298, frq: 2164}
-blazing <> J: {rk: 15802, frq: 722}
-blazingly <> R: {rk: 45406, frq: 45}
-blazon <> V: {rk: 53557, frq: 25}
-bleach <> N: {rk: 15277, frq: 817}, V: {rk: 15983, frq: 691}
-bleached <> J: {rk: 18747, frq: 511}
-bleachers <> N: {rk: 12907, frq: 1094}
-bleaching <> J: {rk: 42170, frq: 60}, N: {rk: 49206, frq: 49}
-bleak <> J: {rk: 7417, frq: 2734}
-bleakly <> R: {rk: 30792, frq: 155}
-bleakness <> N: {rk: 32576, frq: 119}
-blearily <> R: {rk: 40055, frq: 72}
-bleary <> J: {rk: 28411, frq: 200}
-bleary-eyed <> J: {rk: 26280, frq: 219}
-bleat <> V: {rk: 24606, frq: 275}, N: {rk: 33056, frq: 124}
-bleating <> N: {rk: 38653, frq: 76}, J: {rk: 50178, frq: 36}
-bleed <> V: {rk: 5273, frq: 4934}
-bleeder <> N: {rk: 41138, frq: 64}
-bleeding <> J: {rk: 7012, frq: 2958}, R: {rk: 19069, frq: 484}, N: {rk: 51324, frq: 49}
-bleep <> N: {rk: 24293, frq: 380}, V: {rk: 26364, frq: 223}
-bleeper <> N: {rk: 59944, frq: 21}
-bleeping <> J: {rk: 54546, frq: 30}
-blemish <> N: {rk: 18417, frq: 514}, V: {rk: 33914, frq: 104}
-blemished <> J: {rk: 44438, frq: 46}
-blend <> V: {rk: 3944, frq: 8127}, N: {rk: 6436, frq: 3711}
-blended <> J: {rk: 18541, frq: 523}
-blender <> N: {rk: 9075, frq: 2187}
-blending <> N: {rk: 20368, frq: 812}, J: {rk: 40425, frq: 73}
-blepharitis <> N: {rk: 56753, frq: 36}
-bless <> V: {rk: 4194, frq: 6953}
-blessed <> J: {rk: 8196, frq: 2354}
-blessedly <> R: {rk: 27416, frq: 205}
-blessedness <> N: {rk: 45090, frq: 50}
-blessing <> N: {rk: 4717, frq: 5732}
-bleu <> N: {rk: 29584, frq: 297}
-blight <> N: {rk: 15678, frq: 783}, V: {rk: 22736, frq: 328}
-blighted <> J: {rk: 27029, frq: 207}
-blighter <> N: {rk: 52649, frq: 26}
-blimey <> U: {rk: 53710, frq: 26}
-blimp <> N: {rk: 24067, frq: 301}
-blind <> J: {rk: 2733, frq: 13294}, V: {rk: 8482, frq: 2235}, N: {rk: 9499, frq: 1898}
-blinded <> J: {rk: 36198, frq: 99}
-blinders <> N: {rk: 27018, frq: 216}
-blindfold <> V: {rk: 18170, frq: 547}, N: {rk: 20924, frq: 408}
-blindfolded <> J: {rk: 33622, frq: 117}
-blinding <> J: {rk: 12275, frq: 1208}
-blindingly <> R: {rk: 29269, frq: 170}
-blindly <> R: {rk: 12806, frq: 1097}
-blindness <> N: {rk: 9351, frq: 2234}
-bling <> N: {rk: 44186, frq: 87}
-bling-bling <> N: {rk: 50957, frq: 32}
-blini <> N: {rk: 41765, frq: 62}
-blink <> V: {rk: 4651, frq: 6695}, N: {rk: 12670, frq: 1141}
-blinker <> N: {rk: 43194, frq: 57}, V: {rk: 49479, frq: 37}
-blinkered <> J: {rk: 45938, frq: 40}
-blinkers <> N: {rk: 45274, frq: 44}
-blinking <> J: {rk: 17719, frq: 573}, N: {rk: 22961, frq: 329}
-blip <> N: {rk: 15494, frq: 738}, V: {rk: 35537, frq: 91}
-bliss <> N: {rk: 12301, frq: 1899}
-blissful <> J: {rk: 18826, frq: 493}
-blissfully <> R: {rk: 20330, frq: 410}
-blister <> N: {rk: 11441, frq: 1345}, V: {rk: 21708, frq: 360}
-blistered <> J: {rk: 34522, frq: 99}
-blistering <> J: {rk: 15548, frq: 714}
-blithe <> J: {rk: 27751, frq: 200}
-blithely <> R: {rk: 18509, frq: 509}
-blithering <> J: {rk: 52972, frq: 25}
-blitz <> N: {rk: 12754, frq: 1121}, V: {rk: 30503, frq: 161}
-blitzkrieg <> N: {rk: 32035, frq: 142}
-blizzard <> N: {rk: 10102, frq: 1755}
-bloat <> V: {rk: 25740, frq: 249}, N: {rk: 35901, frq: 105}
-bloated <> J: {rk: 11504, frq: 1328}
-bloating <> N: {rk: 46483, frq: 50}
-blob <> N: {rk: 14750, frq: 847}
-bloc <> N: {rk: 8466, frq: 2493}
-block <> N: {rk: 1318, frq: 32262}, V: {rk: 2421, frq: 14915}
-blockade <> N: {rk: 11856, frq: 1433}, V: {rk: 22707, frq: 324}
-blockage <> N: {rk: 16074, frq: 689}
-blockbuster <> N: {rk: 9173, frq: 2003}
-blocked <> J: {rk: 15459, frq: 814}
-blocker <> N: {rk: 14230, frq: 1001}
-blockhead <> N: {rk: 41408, frq: 75}
-blockhouse <> N: {rk: 41227, frq: 80}
-blocking <> J: {rk: 13640, frq: 952}, N: {rk: 19007, frq: 522}
-blocky <> J: {rk: 26822, frq: 223}
-blog <> N: {rk: 7885, frq: 11265}
-blogger <> N: {rk: 16589, frq: 1111}
-blogging <> J: {rk: 44517, frq: 55}
-blogosphere <> N: {rk: 30753, frq: 212}
-bloke <> N: {rk: 25744, frq: 272}
-blond <> J: {rk: 4863, frq: 5984}, N: {rk: 20986, frq: 413}
-blonde <> J: {rk: 7055, frq: 3165}, N: {rk: 13645, frq: 1015}
-blondish <> J: {rk: 49224, frq: 35}
-blondness <> N: {rk: 52717, frq: 28}
-blood <> N: {rk: 692, frq: 60825}, V: {rk: 35478, frq: 94}
-blood-borne <> J: {rk: 36601, frq: 94}
-blood-curdling <> J: {rk: 32703, frq: 120}
-blood-red <> J: {rk: 22800, frq: 324}
-bloodbath <> N: {rk: 24409, frq: 281}
-blooded <> J: {rk: 39841, frq: 69}
-bloodhound <> N: {rk: 28019, frq: 204}
-bloodied <> J: {rk: 19775, frq: 451}
-bloodily <> R: {rk: 50474, frq: 31}
-bloodless <> J: {rk: 19241, frq: 472}
-bloodletting <> N: {rk: 29113, frq: 169}
-bloodline <> N: {rk: 22743, frq: 331}
-bloodlust <> N: {rk: 38114, frq: 84}
-bloodroot <> N: {rk: 50969, frq: 56}
-bloodshed <> N: {rk: 11931, frq: 1232}
-bloodshot <> J: {rk: 20714, frq: 422}
-bloodstain <> N: {rk: 26138, frq: 239}
-bloodstream <> N: {rk: 13448, frq: 1034}
-bloodsucker <> N: {rk: 35284, frq: 111}
-bloodthirsty <> J: {rk: 23029, frq: 307}
-bloody <> J: {rk: 4160, frq: 7061}, R: {rk: 10733, frq: 1537}, V: {rk: 24623, frq: 265}
-bloody-minded <> J: {rk: 54897, frq: 25}
-bloom <> N: {rk: 6677, frq: 5610}, V: {rk: 7632, frq: 2690}
-bloomer <> N: {rk: 28291, frq: 237}
-bloomers <> N: {rk: 27955, frq: 208}
-blooming <> J: {rk: 18462, frq: 509}, R: {rk: 35066, frq: 96}
-bloop <> N: {rk: 54739, frq: 29}
-blooper <> N: {rk: 33857, frq: 123}
-blossom <> N: {rk: 6527, frq: 3845}, V: {rk: 11516, frq: 1284}
-blossoming <> N: {rk: 33172, frq: 115}, J: {rk: 33183, frq: 117}
-blot <> V: {rk: 14549, frq: 867}, N: {rk: 22942, frq: 307}
-blotch <> N: {rk: 22510, frq: 343}, V: {rk: 45546, frq: 42}
-blotched <> J: {rk: 49199, frq: 35}
-blotchy <> J: {rk: 35567, frq: 100}
-blotter <> N: {rk: 23299, frq: 303}
-blouse <> N: {rk: 6681, frq: 3587}
-blow <> V: {rk: 1418, frq: 29529}, N: {rk: 3814, frq: 7964}
-blow-by-blow <> J: {rk: 39203, frq: 64}
-blow-dried <> J: {rk: 42101, frq: 57}
-blow-dry <> V: {rk: 34645, frq: 140}, N: {rk: 54257, frq: 35}
-blow-dryer <> N: {rk: 34812, frq: 114}
-blow-off <> J: {rk: 56900, frq: 20}
-blow-up <> N: {rk: 20079, frq: 429}
-blowback <> N: {rk: 38651, frq: 125}
-blowdown <> N: {rk: 38657, frq: 85}
-blower <> N: {rk: 15283, frq: 776}
-blowfish <> N: {rk: 32724, frq: 130}
-blowgun <> N: {rk: 58328, frq: 27}
-blowhard <> N: {rk: 33885, frq: 113}
-blowhole <> N: {rk: 40352, frq: 63}
-blowing <> N: {rk: 26972, frq: 204}
-blowjob <> N: {rk: 42125, frq: 67}
-blown <> J: {rk: 18720, frq: 527}
-blowout <> N: {rk: 17653, frq: 813}
-blowpipe <> N: {rk: 51341, frq: 36}
-blowsy <> J: {rk: 46268, frq: 44}
-blowtorch <> N: {rk: 32893, frq: 133}
-blub <> V: {rk: 54882, frq: 34}
-blubber <> N: {rk: 25815, frq: 264}, V: {rk: 31224, frq: 149}
-blubbery <> J: {rk: 46745, frq: 38}
-bludgeon <> V: {rk: 22403, frq: 328}, N: {rk: 41157, frq: 64}
-blue <> J: {rk: 843, frq: 51601}, N: {rk: 3717, frq: 12880}, V: {rk: 41198, frq: 62}
-blue-black <> J: {rk: 26044, frq: 235}
-blue-blooded <> J: {rk: 45382, frq: 53}
-blue-chip <> J: {rk: 19628, frq: 464}, N: {rk: 51226, frq: 38}
-blue-collar <> J: {rk: 10821, frq: 1407}
-blue-ribbon <> J: {rk: 27124, frq: 209}
-blue-sky <> J: {rk: 42330, frq: 57}
-bluebell <> N: {rk: 41007, frq: 87}
-blueberry <> N: {rk: 9692, frq: 2004}
-bluebird <> N: {rk: 23198, frq: 473}
-bluebonnet <> N: {rk: 37261, frq: 98}
-bluebottle <> N: {rk: 56356, frq: 25}
-bluecoat <> N: {rk: 47171, frq: 63}
-blued <> J: {rk: 55821, frq: 25}
-bluefin <> N: {rk: 31491, frq: 209}
-bluefish <> N: {rk: 26051, frq: 283}
-bluegill <> N: {rk: 26646, frq: 258}
-bluegrass <> N: {rk: 15931, frq: 819}
-blueness <> N: {rk: 39663, frq: 77}
-blueprint <> N: {rk: 7703, frq: 2602}
-bluesman <> N: {rk: 30923, frq: 175}
-bluestem <> N: {rk: 42800, frq: 76}
-bluestocking <> N: {rk: 56491, frq: 21}
-bluestone <> N: {rk: 40757, frq: 140}
-bluesy <> J: {rk: 32821, frq: 122}
-bluff <> N: {rk: 7981, frq: 2554}, V: {rk: 16361, frq: 665}
-bluing <> N: {rk: 59932, frq: 23}
-bluish <> J: {rk: 18551, frq: 528}
-blunder <> N: {rk: 13624, frq: 935}, V: {rk: 20286, frq: 417}
-blunderbuss <> N: {rk: 47801, frq: 44}
-blundering <> J: {rk: 53732, frq: 25}
-blunt <> J: {rk: 7161, frq: 2907}, V: {rk: 20362, frq: 401}
-blunted <> J: {rk: 32808, frq: 118}
-bluntly <> R: {rk: 12484, frq: 1087}, J: {rk: 34896, frq: 96}
-bluntness <> N: {rk: 28832, frq: 176}
-blur <> V: {rk: 6451, frq: 3439}, N: {rk: 9319, frq: 1967}
-blurb <> N: {rk: 26922, frq: 212}
-blurred <> J: {rk: 18415, frq: 499}
-blurriness <> N: {rk: 56881, frq: 20}
-blurring <> N: {rk: 23282, frq: 309}, J: {rk: 43821, frq: 46}
-blurry <> J: {rk: 14300, frq: 900}
-blurt <> V: {rk: 10380, frq: 1646}
-blush <> V: {rk: 9190, frq: 2088}, N: {rk: 11907, frq: 1347}
-blusher <> N: {rk: 46153, frq: 46}
-blushing <> J: {rk: 39914, frq: 71}
-bluster <> N: {rk: 22820, frq: 314}, V: {rk: 27382, frq: 202}
-blustering <> J: {rk: 50191, frq: 30}
-blustery <> J: {rk: 21723, frq: 372}
-boa <> N: {rk: 20941, frq: 636}
-boar <> N: {rk: 14674, frq: 892}
-board <> N: {rk: 667, frq: 62929}, V: {rk: 5189, frq: 4990}
-boarded <> J: {rk: 38567, frq: 74}
-boarder <> N: {rk: 18940, frq: 554}
-boarding <> N: {rk: 8424, frq: 2218}
-boarding-school <> J: {rk: 54887, frq: 34}
-boardinghouse <> N: {rk: 25367, frq: 251}
-boardroom <> N: {rk: 14775, frq: 796}
-boardwalk <> N: {rk: 14398, frq: 967}
-boast <> V: {rk: 4575, frq: 6224}, N: {rk: 16630, frq: 632}
-boastful <> J: {rk: 28631, frq: 172}
-boastfully <> R: {rk: 55378, frq: 24}
-boasting <> N: {rk: 35963, frq: 94}
-boat <> N: {rk: 1235, frq: 35016}, V: {rk: 18871, frq: 508}
-boater <> N: {rk: 15735, frq: 857}
-boathouse <> N: {rk: 26145, frq: 276}
-boating <> N: {rk: 15695, frq: 778}
-boatlift <> N: {rk: 48060, frq: 45}
-boatload <> N: {rk: 26943, frq: 218}
-boatman <> N: {rk: 29524, frq: 165}
-boatmen <> N: {rk: 36338, frq: 101}
-boatswain <> N: {rk: 36180, frq: 103}
-boatyard <> N: {rk: 38557, frq: 96}
-bob <> V: {rk: 8992, frq: 2327}
-bobbed <> J: {rk: 44356, frq: 49}
-bobber <> N: {rk: 30121, frq: 205}
-bobbin <> N: {rk: 38241, frq: 91}
-bobbing <> J: {rk: 32657, frq: 124}, N: {rk: 45123, frq: 51}
-bobble <> V: {rk: 31089, frq: 148}, N: {rk: 50750, frq: 49}
-bobblehead <> N: {rk: 36568, frq: 105}
-bobcat <> N: {rk: 21843, frq: 606}
-bobsled <> J: {rk: 28553, frq: 197}, V: {rk: 45222, frq: 53}
-bobwhite <> N: {rk: 39225, frq: 83}
-bocce <> N: {rk: 46756, frq: 67}
-bodacious <> J: {rk: 44618, frq: 45}
-bode <> V: {rk: 15606, frq: 708}
-bodega <> N: {rk: 29872, frq: 297}
-bodice <> N: {rk: 20002, frq: 473}
-bodiless <> J: {rk: 41801, frq: 59}
-bodily <> J: {rk: 8589, frq: 2291}, R: {rk: 23893, frq: 289}
-body <> N: {rk: 313, frq: 134912}, V: {rk: 38928, frq: 79}
-bodybuilder <> N: {rk: 22075, frq: 355}
-bodybuilding <> N: {rk: 24019, frq: 303}
-bodyguard <> N: {rk: 8247, frq: 2308}
-bodywork <> N: {rk: 36224, frq: 104}
-boeuf <> N: {rk: 56226, frq: 37}
-boffo <> N: {rk: 39964, frq: 65}
-bog <> N: {rk: 11571, frq: 1390}, V: {rk: 15113, frq: 754}
-bogey <> N: {rk: 15756, frq: 773}, V: {rk: 36562, frq: 96}
-bogeyman <> N: {rk: 27581, frq: 198}
-boggle <> V: {rk: 23006, frq: 316}
-boggy <> J: {rk: 30879, frq: 159}
-bogus <> J: {rk: 11522, frq: 1267}
-bogy <> N: {rk: 50240, frq: 32}
-bohemian <> J: {rk: 15102, frq: 786}, N: {rk: 30455, frq: 157}
-boil <> V: {rk: 4295, frq: 6776}, N: {rk: 6579, frq: 3869}
-boiled <> J: {rk: 13435, frq: 982}
-boiler <> N: {rk: 11135, frq: 1468}
-boilermaker <> N: {rk: 32311, frq: 131}
-boilerplate <> N: {rk: 32009, frq: 135}
-boiling <> J: {rk: 7808, frq: 2680}
-boisterous <> J: {rk: 16621, frq: 650}
-boisterously <> R: {rk: 45884, frq: 42}
-bola <> N: {rk: 48962, frq: 62}
-bold <> J: {rk: 3927, frq: 7673}
-boldface <> N: {rk: 34507, frq: 115}, V: {rk: 57857, frq: 20}
-boldly <> R: {rk: 10818, frq: 1431}
-boldness <> N: {rk: 18320, frq: 527}
-bole <> N: {rk: 37003, frq: 107}
-bolero <> N: {rk: 25336, frq: 337}
-bolide <> N: {rk: 59065, frq: 22}
-bolivian <> J: {rk: 20392, frq: 529}, N: {rk: 39537, frq: 113}
-boll <> N: {rk: 26429, frq: 402}
-bollard <> N: {rk: 51604, frq: 36}
-bollock <> N: {rk: 39879, frq: 71}
-bollworm <> N: {rk: 42070, frq: 76}
-bolo <> N: {rk: 34800, frq: 133}
-bolognese <> N: {rk: 42946, frq: 59}, J: {rk: 54697, frq: 29}
-bolster <> V: {rk: 6789, frq: 3257}, N: {rk: 27646, frq: 199}
-bolt <> N: {rk: 4947, frq: 5607}, V: {rk: 8357, frq: 2335}
-bolt-action <> J: {rk: 38784, frq: 85}
-bolt-on <> N: {rk: 50247, frq: 38}
-bolted <> J: {rk: 40637, frq: 65}
-bolus <> N: {rk: 38995, frq: 97}
-bomb <> N: {rk: 2002, frq: 19569}, V: {rk: 4862, frq: 5637}
-bombard <> V: {rk: 13462, frq: 951}, N: {rk: 23812, frq: 287}
-bombardier <> N: {rk: 27474, frq: 217}
-bombardment <> N: {rk: 12866, frq: 1093}
-bombast <> N: {rk: 32827, frq: 123}
-bombastic <> J: {rk: 27108, frq: 213}
-bombed <> J: {rk: 26858, frq: 204}
-bombed-out <> J: {rk: 29229, frq: 171}
-bomber <> N: {rk: 5002, frq: 5598}
-bombing <> N: {rk: 3106, frq: 11014}
-bomblet <> N: {rk: 45970, frq: 55}
-bombproof <> J: {rk: 40506, frq: 67}
-bombshell <> N: {rk: 17128, frq: 729}
-bombsight <> N: {rk: 58668, frq: 31}
-bonanza <> N: {rk: 14353, frq: 840}
-bonbon <> N: {rk: 32726, frq: 137}
-bond <> N: {rk: 1890, frq: 24526}, V: {rk: 6696, frq: 3358}
-bondage <> N: {rk: 16876, frq: 653}
-bonded <> J: {rk: 29061, frq: 188}
-bondholder <> N: {rk: 24433, frq: 288}
-bonding <> N: {rk: 9966, frq: 1695}
-bondsman <> N: {rk: 31172, frq: 151}
-bone <> N: {rk: 1447, frq: 28501}, V: {rk: 45047, frq: 43}
-bone-tired <> J: {rk: 51290, frq: 30}
-boned <> J: {rk: 31674, frq: 151}
-bonefish <> N: {rk: 27856, frq: 233}
-bonehead <> N: {rk: 35148, frq: 143}
-boneheaded <> J: {rk: 46191, frq: 41}
-boneless <> J: {rk: 16132, frq: 762}
-boner <> N: {rk: 39371, frq: 92}
-boneset <> N: {rk: 59681, frq: 22}
-boney <> J: {rk: 27435, frq: 313}
-boneyard <> N: {rk: 41057, frq: 62}
-bonfire <> N: {rk: 13145, frq: 1113}
-bong <> N: {rk: 28703, frq: 283}, V: {rk: 35381, frq: 104}
-bonhomie <> N: {rk: 35996, frq: 93}
-bonito <> N: {rk: 35414, frq: 135}
-bonk <> V: {rk: 31338, frq: 143}, N: {rk: 39368, frq: 76}
-bonnet <> N: {rk: 15718, frq: 759}
-bonny <> J: {rk: 35524, frq: 109}
-bonobo <> N: {rk: 31029, frq: 292}
-bonsai <> N: {rk: 27528, frq: 226}
-bonus <> N: {rk: 4205, frq: 7259}
-bony <> J: {rk: 9711, frq: 1852}
-boo <> V: {rk: 13108, frq: 1012}, N: {rk: 21107, frq: 583}, U: {rk: 21206, frq: 422}
-boo-boo <> N: {rk: 37490, frq: 137}
-boob <> N: {rk: 17472, frq: 668}, V: {rk: 50625, frq: 37}
-booby <> N: {rk: 21415, frq: 417}
-boogaloo <> N: {rk: 52805, frq: 30}
-booger <> N: {rk: 40254, frq: 142}
-boogeyman <> N: {rk: 47673, frq: 45}
-boogie <> N: {rk: 31876, frq: 374}, V: {rk: 33842, frq: 141}
-booing <> N: {rk: 47465, frq: 52}
-book <> N: {rk: 241, frq: 168369}, V: {rk: 7065, frq: 3093}
-bookbinder <> N: {rk: 49931, frq: 59}
-bookbinding <> N: {rk: 50863, frq: 29}
-bookcase <> N: {rk: 12904, frq: 1088}
-booked <> J: {rk: 27179, frq: 207}
-bookend <> N: {rk: 30077, frq: 159}
-bookie <> N: {rk: 24083, frq: 299}
-booking <> N: {rk: 15009, frq: 804}
-bookish <> J: {rk: 25302, frq: 248}
-bookkeeper <> N: {rk: 20634, frq: 406}
-bookkeeping <> N: {rk: 19988, frq: 413}
-booklet <> N: {rk: 10882, frq: 1425}
-bookmaker <> N: {rk: 32704, frq: 147}
-bookmark <> N: {rk: 22321, frq: 370}
-bookmobile <> N: {rk: 42658, frq: 87}
-bookseller <> N: {rk: 17460, frq: 623}
-bookshelf <> N: {rk: 11458, frq: 1341}
-bookshop <> N: {rk: 22508, frq: 339}
-bookstall <> N: {rk: 53397, frq: 26}
-bookstore <> N: {rk: 6268, frq: 3882}
-bookworm <> N: {rk: 32144, frq: 136}
-boom <> N: {rk: 3191, frq: 10271}, V: {rk: 9119, frq: 1924}
-boombox <> N: {rk: 36244, frq: 86}
-boomer <> N: {rk: 6959, frq: 4157}
-boomerang <> N: {rk: 25321, frq: 340}, V: {rk: 34259, frq: 102}
-booming <> J: {rk: 9236, frq: 1889}, N: {rk: 25706, frq: 231}
-boomlet <> N: {rk: 39704, frq: 67}
-boomtown <> N: {rk: 31248, frq: 181}
-boon <> N: {rk: 11754, frq: 1254}
-boondocks <> N: {rk: 33979, frq: 140}
-boondoggle <> N: {rk: 29653, frq: 172}
-boonies <> N: {rk: 38986, frq: 80}
-boor <> N: {rk: 40337, frq: 64}
-boorish <> J: {rk: 31414, frq: 142}
-boost <> V: {rk: 3719, frq: 8612}, N: {rk: 6441, frq: 3640}
-boosted <> J: {rk: 41060, frq: 62}
-booster <> N: {rk: 8294, frq: 2342}
-boosterism <> N: {rk: 34237, frq: 119}
-boot <> N: {rk: 2362, frq: 16370}, V: {rk: 9086, frq: 2037}
-boot-cut <> J: {rk: 56563, frq: 26}
-bootable <> J: {rk: 58123, frq: 25}
-booted <> J: {rk: 37652, frq: 90}
-booth <> N: {rk: 4338, frq: 7907}
-bootie <> N: {rk: 48596, frq: 65}
-bootlace <> N: {rk: 57250, frq: 22}
-bootleg <> N: {rk: 25189, frq: 249}, V: {rk: 34069, frq: 106}
-bootlegged <> J: {rk: 52202, frq: 28}
-bootlegger <> N: {rk: 28841, frq: 191}
-bootstrap <> N: {rk: 27662, frq: 235}, V: {rk: 47339, frq: 39}
-bootstrapping <> J: {rk: 59497, frq: 21}
-booty <> N: {rk: 13231, frq: 1102}
-booze <> N: {rk: 11332, frq: 1398}, V: {rk: 37335, frq: 86}
-boozy <> J: {rk: 29601, frq: 311}
-bop <> V: {rk: 25869, frq: 239}, N: {rk: 29973, frq: 248}
-bopper <> N: {rk: 43280, frq: 58}
-borage <> N: {rk: 50574, frq: 47}
-borate <> N: {rk: 53050, frq: 37}
-borax <> N: {rk: 42934, frq: 68}
-bordello <> N: {rk: 29771, frq: 173}
-border <> N: {rk: 1348, frq: 31025}, V: {rk: 8129, frq: 2335}
-bordering <> J: {rk: 39291, frq: 65}
-borderland <> N: {rk: 21564, frq: 394}
-borderless <> J: {rk: 34118, frq: 107}
-borderline <> N: {rk: 13321, frq: 1067}
-bore <> V: {rk: 4994, frq: 5434}, N: {rk: 13452, frq: 1024}
-boreal <> J: {rk: 26197, frq: 262}
-bored <> J: {rk: 5948, frq: 4088}
-boredom <> N: {rk: 8839, frq: 2180}
-borehole <> N: {rk: 34162, frq: 144}
-borer <> N: {rk: 29981, frq: 227}
-boric <> J: {rk: 43849, frq: 50}
-boring <> J: {rk: 4963, frq: 5364}
-boringly <> R: {rk: 44204, frq: 49}
-born <> V: {rk: 1089, frq: 38216}, J: {rk: 10798, frq: 1437}
-born-again <> J: {rk: 19627, frq: 450}
-boron <> N: {rk: 29098, frq: 210}
-borough <> N: {rk: 12203, frq: 1230}
-borrow <> V: {rk: 3235, frq: 9959}
-borrowed <> J: {rk: 13730, frq: 929}
-borrower <> N: {rk: 9755, frq: 1997}
-borrowing <> N: {rk: 11598, frq: 1353}
-borscht <> N: {rk: 32254, frq: 137}
-borzoi <> N: {rk: 60019, frq: 24}
-bosom <> N: {rk: 13018, frq: 1109}
-bosomy <> J: {rk: 53132, frq: 25}
-boson <> N: {rk: 34103, frq: 128}
-boss <> N: {rk: 2338, frq: 16204}, V: {rk: 20700, frq: 404}
-bossy <> J: {rk: 21408, frq: 378}
-bosun <> N: {rk: 44200, frq: 111}
-botanic <> J: {rk: 23255, frq: 340}
-botanical <> J: {rk: 10239, frq: 1667}, N: {rk: 31461, frq: 162}
-botanist <> N: {rk: 15337, frq: 754}
-botany <> N: {rk: 21774, frq: 511}
-botch <> V: {rk: 18764, frq: 505}, N: {rk: 45995, frq: 41}
-botched <> J: {rk: 19095, frq: 481}
-both <> D: {rk: 255, frq: 157482}, R: {rk: 375, frq: 114507}
-bother <> V: {rk: 2203, frq: 17139}, N: {rk: 21669, frq: 350}
-bothered <> J: {rk: 28294, frq: 187}
-bothersome <> J: {rk: 21874, frq: 336}
-bottle <> N: {rk: 1749, frq: 23525}, V: {rk: 16286, frq: 700}
-bottle-fed <> J: {rk: 45553, frq: 43}
-bottlebrush <> N: {rk: 54411, frq: 29}
-bottled <> J: {rk: 11166, frq: 1401}
-bottleneck <> N: {rk: 16044, frq: 677}
-bottlenose <> N: {rk: 37228, frq: 90}
-bottler <> N: {rk: 24617, frq: 317}
-bottom <> N: {rk: 1516, frq: 26768}, J: {rk: 2675, frq: 13247}, V: {rk: 16761, frq: 668}
-bottom-up <> J: {rk: 50865, frq: 33}
-bottomland <> N: {rk: 27724, frq: 199}
-bottomless <> J: {rk: 17269, frq: 593}
-botulinum <> N: {rk: 34076, frq: 122}
-botulism <> N: {rk: 29535, frq: 180}
-boucle <> N: {rk: 46426, frq: 51}
-boudoir <> N: {rk: 27924, frq: 203}
-bouffant <> J: {rk: 40411, frq: 61}
-bougainvillaea <> N: {rk: 58038, frq: 20}
-bougainvillea <> N: {rk: 25556, frq: 287}
-bough <> N: {rk: 16455, frq: 679}
-bouillabaisse <> N: {rk: 35188, frq: 107}
-bouillon <> N: {rk: 25695, frq: 267}
-boulevard <> N: {rk: 11889, frq: 3974}
-bounce <> V: {rk: 3822, frq: 8065}, N: {rk: 11981, frq: 1264}
-bounced <> J: {rk: 43049, frq: 60}
-bouncer <> N: {rk: 17543, frq: 596}
-bouncing <> J: {rk: 17668, frq: 546}
-bouncy <> J: {rk: 21566, frq: 382}
-bound <> N: {rk: 8150, frq: 2345}, V: {rk: 8825, frq: 2098}, J: {rk: 18766, frq: 497}
-boundary <> N: {rk: 2793, frq: 12890}
-bounded <> J: {rk: 32266, frq: 158}
-bounder <> N: {rk: 51829, frq: 30}
-bounding <> J: {rk: 44779, frq: 46}
-boundless <> J: {rk: 16383, frq: 647}
-boundlessly <> R: {rk: 54781, frq: 25}
-boundlessness <> N: {rk: 55367, frq: 26}
-bounteous <> J: {rk: 44652, frq: 44}
-bountiful <> J: {rk: 18681, frq: 487}
-bountifully <> R: {rk: 55977, frq: 24}
-bounty <> N: {rk: 9344, frq: 1928}
-bouquet <> N: {rk: 9280, frq: 1919}
-bourgeois <> J: {rk: 9263, frq: 2042}, N: {rk: 30055, frq: 192}
-bourgeoise <> N: {rk: 56027, frq: 31}
-bourgeoisie <> N: {rk: 16697, frq: 765}
-bourse <> N: {rk: 50119, frq: 76}
-bout <> N: {rk: 5940, frq: 4016}
-boutique <> N: {rk: 8388, frq: 2483}
-boutonniere <> N: {rk: 53982, frq: 24}
-bovine <> J: {rk: 20521, frq: 394}
-bow <> N: {rk: 4130, frq: 7936}, V: {rk: 4932, frq: 5775}
-bow-legged <> J: {rk: 39956, frq: 65}
-bowed <> J: {rk: 28177, frq: 198}
-bowel <> N: {rk: 9583, frq: 1866}
-bowerbird <> N: {rk: 58494, frq: 43}
-bowhunter <> N: {rk: 29929, frq: 224}
-bowhunting <> J: {rk: 49090, frq: 46}
-bowing <> N: {rk: 34426, frq: 100}
-bowl <> N: {rk: 1839, frq: 32785}, V: {rk: 12380, frq: 1230}
-bowler <> N: {rk: 17866, frq: 586}
-bowlful <> N: {rk: 50213, frq: 40}
-bowline <> N: {rk: 48105, frq: 57}
-bowling <> N: {rk: 8089, frq: 2436}
-bowrider <> N: {rk: 44366, frq: 65}
-bowsprit <> N: {rk: 46545, frq: 46}
-bowstring <> N: {rk: 38262, frq: 83}
-box <> N: {rk: 795, frq: 53658}, V: {rk: 9106, frq: 2201}
-boxcar <> N: {rk: 20680, frq: 436}
-boxed <> J: {rk: 18211, frq: 535}
-boxer <> N: {rk: 8343, frq: 3085}
-boxful <> N: {rk: 49392, frq: 33}
-boxing <> N: {rk: 5705, frq: 4403}
-boxlike <> J: {rk: 34226, frq: 107}
-boxwood <> N: {rk: 22134, frq: 370}
-boxy <> J: {rk: 20906, frq: 386}
-boy <> N: {rk: 382, frq: 116082}
-boyar <> N: {rk: 35608, frq: 201}
-boycott <> N: {rk: 8671, frq: 2159}, V: {rk: 11544, frq: 1302}
-boyfriend <> N: {rk: 3401, frq: 9605}
-boyhood <> N: {rk: 12681, frq: 1072}
-boyish <> J: {rk: 14569, frq: 874}
-boyishly <> R: {rk: 36437, frq: 90}
-boyishness <> N: {rk: 53523, frq: 27}
-boyo <> N: {rk: 41616, frq: 83}
-bra <> N: {rk: 7754, frq: 2745}
-brace <> V: {rk: 6686, frq: 3374}, N: {rk: 9129, frq: 1981}
-bracelet <> N: {rk: 7522, frq: 3029}
-bracero <> N: {rk: 32565, frq: 151}
-brachial <> J: {rk: 47251, frq: 48}
-brachialis <> N: {rk: 48973, frq: 44}
-brachiopod <> N: {rk: 49556, frq: 43}
-bracing <> J: {rk: 24646, frq: 264}, N: {rk: 31320, frq: 142}
-bracingly <> R: {rk: 51974, frq: 30}
-bracken <> N: {rk: 26085, frq: 246}
-bracket <> N: {rk: 7752, frq: 2660}, V: {rk: 19042, frq: 485}
-bracketed <> J: {rk: 49937, frq: 37}
-bracketing <> N: {rk: 52449, frq: 30}
-brackish <> J: {rk: 23385, frq: 292}
-bract <> N: {rk: 40146, frq: 75}
-bradycardia <> N: {rk: 57890, frq: 22}
-brag <> V: {rk: 8194, frq: 2305}, N: {rk: 32400, frq: 134}
-braggadocio <> N: {rk: 35465, frq: 97}
-braggart <> N: {rk: 39128, frq: 74}
-bragging <> J: {rk: 35695, frq: 95}, N: {rk: 43101, frq: 78}
-braid <> N: {rk: 9609, frq: 1925}, V: {rk: 15713, frq: 747}
-braided <> J: {rk: 16078, frq: 704}
-braiding <> N: {rk: 50807, frq: 40}
-braillewriter <> N: {rk: 59591, frq: 30}
-brain <> N: {rk: 1191, frq: 36550}, V: {rk: 40810, frq: 67}
-brain-damaged <> J: {rk: 32501, frq: 121}
-brain-dead <> J: {rk: 30651, frq: 155}
-braincase <> N: {rk: 53479, frq: 27}
-brainchild <> N: {rk: 19267, frq: 472}
-brainiac <> N: {rk: 43114, frq: 59}
-brainless <> J: {rk: 31278, frq: 142}
-brainpan <> N: {rk: 58360, frq: 22}
-brainpower <> N: {rk: 30979, frq: 155}
-brainstem <> N: {rk: 35258, frq: 131}
-brainstorm <> V: {rk: 21649, frq: 386}, N: {rk: 28641, frq: 190}
-brainstorming <> N: {rk: 22280, frq: 347}, J: {rk: 36825, frq: 86}
-brainwash <> V: {rk: 18151, frq: 568}
-brainwashed <> J: {rk: 48772, frq: 35}
-brainwashing <> N: {rk: 41670, frq: 83}, J: {rk: 50973, frq: 33}
-brainwave <> N: {rk: 41349, frq: 59}
-brainy <> J: {rk: 22602, frq: 347}
-braise <> V: {rk: 25513, frq: 265}
-braised <> J: {rk: 20910, frq: 450}
-braising <> J: {rk: 53788, frq: 35}
-brake <> N: {rk: 4737, frq: 6163}, V: {rk: 10893, frq: 1457}
-brakeman <> N: {rk: 39212, frq: 81}
-braking <> J: {rk: 28730, frq: 178}, N: {rk: 32512, frq: 223}
-braless <> J: {rk: 51805, frq: 34}
-bramble <> N: {rk: 21818, frq: 468}
-bran <> N: {rk: 14238, frq: 970}
-branch <> N: {rk: 1817, frq: 21396}, V: {rk: 11995, frq: 1208}
-branched <> J: {rk: 37417, frq: 82}
-branchial <> J: {rk: 31140, frq: 231}
-branching <> J: {rk: 18939, frq: 504}, N: {rk: 58439, frq: 23}
-brand <> N: {rk: 2586, frq: 15407}, V: {rk: 9447, frq: 1874}
-brand-new <> J: {rk: 8215, frq: 2498}
-brandade <> N: {rk: 58133, frq: 26}
-branded <> J: {rk: 22992, frq: 329}
-brandied <> J: {rk: 51428, frq: 36}
-branding <> N: {rk: 32093, frq: 144}, J: {rk: 33092, frq: 140}
-brandish <> V: {rk: 14096, frq: 900}
-brandy <> N: {rk: 10645, frq: 2151}
-brane <> N: {rk: 38387, frq: 106}
-brash <> J: {rk: 13999, frq: 901}
-brashly <> R: {rk: 42182, frq: 52}
-brashness <> N: {rk: 35197, frq: 105}
-brass <> N: {rk: 5016, frq: 5291}
-brasserie <> N: {rk: 26914, frq: 226}
-brassiere <> N: {rk: 25605, frq: 240}
-brassy <> J: {rk: 23499, frq: 297}
-brat <> N: {rk: 14113, frq: 927}
-bratty <> J: {rk: 36119, frq: 93}
-bratwurst <> N: {rk: 34335, frq: 117}
-bravado <> N: {rk: 14465, frq: 827}
-brave <> J: {rk: 4901, frq: 6097}, V: {rk: 14024, frq: 1689}
-bravely <> R: {rk: 14576, frq: 818}
-bravery <> N: {rk: 12665, frq: 1061}
-bravura <> N: {rk: 27960, frq: 191}
-brawl <> N: {rk: 15015, frq: 800}, V: {rk: 28035, frq: 191}
-brawler <> N: {rk: 33023, frq: 120}
-brawn <> N: {rk: 27405, frq: 245}
-brawny <> J: {rk: 22364, frq: 337}
-bray <> V: {rk: 24860, frq: 266}
-braying <> N: {rk: 47341, frq: 43}
-braze <> V: {rk: 48296, frq: 43}
-brazen <> J: {rk: 15362, frq: 760}
-brazenly <> R: {rk: 23646, frq: 293}
-brazenness <> N: {rk: 40687, frq: 61}
-brazier <> N: {rk: 32337, frq: 197}
-breach <> N: {rk: 8001, frq: 2509}, V: {rk: 12067, frq: 1186}
-breached <> J: {rk: 51757, frq: 29}
-breaching <> N: {rk: 45340, frq: 40}
-bread <> N: {rk: 2125, frq: 18373}, V: {rk: 33076, frq: 119}
-bread-and-butter <> J: {rk: 27552, frq: 196}
-breadbasket <> N: {rk: 30992, frq: 145}
-breadboard <> N: {rk: 53766, frq: 29}
-breadbox <> N: {rk: 51460, frq: 40}
-breadcrumb <> N: {rk: 21624, frq: 451}
-breaded <> J: {rk: 37957, frq: 81}
-breadfruit <> N: {rk: 31335, frq: 199}
-breading <> N: {rk: 56469, frq: 26}
-breadline <> N: {rk: 57350, frq: 26}
-breadstick <> N: {rk: 36916, frq: 112}
-breadth <> N: {rk: 9548, frq: 1821}
-breadwinner <> N: {rk: 20162, frq: 417}
-break <> V: {rk: 494, frq: 86114}, N: {rk: 1074, frq: 45473}
-break-even <> N: {rk: 23856, frq: 299}
-break-in <> N: {rk: 17402, frq: 800}, J: {rk: 49554, frq: 32}
-breakable <> J: {rk: 35550, frq: 97}
-breakage <> N: {rk: 25001, frq: 270}
-breakaway <> J: {rk: 19610, frq: 448}, N: {rk: 33313, frq: 115}
-breakdown <> N: {rk: 5201, frq: 4888}
-breaker <> N: {rk: 12107, frq: 1270}
-breakfast <> N: {rk: 2397, frq: 15591}, V: {rk: 16793, frq: 624}
-breakfront <> N: {rk: 51557, frq: 30}
-breaking <> N: {rk: 9831, frq: 1821}
-breakneck <> J: {rk: 21692, frq: 351}
-breakout <> N: {rk: 15891, frq: 799}
-breakpoint <> N: {rk: 49874, frq: 44}
-breakthrough <> N: {rk: 5368, frq: 4790}
-breakup <> N: {rk: 7807, frq: 2673}
-breakwater <> N: {rk: 31032, frq: 149}, J: {rk: 57650, frq: 20}
-bream <> N: {rk: 29126, frq: 248}
-breast <> N: {rk: 1658, frq: 24331}, V: {rk: 40623, frq: 64}
-breastbone <> N: {rk: 26520, frq: 229}
-breasted <> J: {rk: 48030, frq: 37}
-breastfeed <> V: {rk: 24167, frq: 321}
-breastplate <> N: {rk: 31018, frq: 154}
-breaststroke <> N: {rk: 30432, frq: 203}, V: {rk: 46484, frq: 55}
-breastwork <> N: {rk: 45901, frq: 62}
-breath <> N: {rk: 1633, frq: 26983}, V: {rk: 22561, frq: 330}
-breathable <> J: {rk: 20519, frq: 453}
-breathalyzer <> N: {rk: 35181, frq: 118}
-breathe <> V: {rk: 2278, frq: 17139}
-breather <> N: {rk: 20261, frq: 432}
-breathing <> N: {rk: 4549, frq: 6272}, J: {rk: 27355, frq: 203}
-breathless <> J: {rk: 11171, frq: 1439}
-breathlessly <> R: {rk: 19329, frq: 489}
-breathlessness <> N: {rk: 36199, frq: 103}
-breathtaking <> J: {rk: 10347, frq: 1570}
-breathtakingly <> R: {rk: 28356, frq: 187}
-breathy <> J: {rk: 25369, frq: 257}
-breccia <> N: {rk: 55364, frq: 26}
-breech <> N: {rk: 18564, frq: 566}
-breechcloth <> N: {rk: 58677, frq: 24}
-breed <> V: {rk: 5769, frq: 4125}, N: {rk: 6461, frq: 3500}
-breeder <> N: {rk: 10936, frq: 1446}
-breeding <> N: {rk: 5974, frq: 4023}
-breeze <> N: {rk: 4322, frq: 6997}, V: {rk: 23878, frq: 282}
-breezeway <> N: {rk: 36077, frq: 102}
-breezily <> R: {rk: 34535, frq: 102}
-breezy <> J: {rk: 16101, frq: 700}
-brevet <> N: {rk: 56817, frq: 27}
-brevity <> N: {rk: 21256, frq: 377}
-brew <> V: {rk: 10677, frq: 1526}, N: {rk: 12319, frq: 1174}
-brewery <> N: {rk: 15753, frq: 1056}
-brewing <> N: {rk: 14624, frq: 1279}
-brewmaster <> N: {rk: 50123, frq: 53}
-brewpub <> N: {rk: 37626, frq: 104}
-briar <> N: {rk: 25337, frq: 347}
-bribe <> N: {rk: 10932, frq: 1466}, V: {rk: 12186, frq: 1165}
-bribery <> N: {rk: 13734, frq: 977}
-bric-a-brac <> N: {rk: 32236, frq: 125}
-brick <> N: {rk: 3337, frq: 9728}
-brickbat <> N: {rk: 44551, frq: 49}
-bricklayer <> N: {rk: 30193, frq: 157}
-bricklaying <> N: {rk: 56922, frq: 20}
-brickwork <> N: {rk: 34149, frq: 112}
-brickyard <> N: {rk: 42106, frq: 120}
-bricolage <> N: {rk: 46626, frq: 50}
-bricoleur <> N: {rk: 59038, frq: 19}
-bridal <> J: {rk: 15318, frq: 806}
-bride <> N: {rk: 4919, frq: 6324}
-bridegroom <> N: {rk: 25966, frq: 225}
-bridesmaid <> N: {rk: 18936, frq: 571}
-bridge <> N: {rk: 1694, frq: 23805}, V: {rk: 8180, frq: 2391}
-bridgehead <> N: {rk: 39416, frq: 76}
-bridgework <> N: {rk: 57841, frq: 21}
-bridging <> J: {rk: 39206, frq: 85}, N: {rk: 47903, frq: 41}
-bridle <> N: {rk: 20128, frq: 425}, V: {rk: 34707, frq: 99}
-brief <> J: {rk: 2159, frq: 17117}, V: {rk: 7657, frq: 2690}, N: {rk: 9646, frq: 1815}, R: {rk: 18889, frq: 503}
-briefcase <> N: {rk: 7794, frq: 2763}
-briefer <> N: {rk: 40773, frq: 77}
-briefing <> N: {rk: 6567, frq: 3517}
-briefly <> R: {rk: 3021, frq: 10827}
-brier <> N: {rk: 34252, frq: 138}
-brigade <> N: {rk: 9481, frq: 2908}
-brigadier <> N: {rk: 27869, frq: 400}
-brigand <> N: {rk: 33385, frq: 135}
-brigantine <> N: {rk: 52543, frq: 29}
-bright <> J: {rk: 1312, frq: 32290}
-bright-eyed <> J: {rk: 26906, frq: 218}
-brighten <> V: {rk: 7952, frq: 2575}
-brightening <> J: {rk: 40950, frq: 64}, N: {rk: 42492, frq: 56}
-brightly <> R: {rk: 7056, frq: 3058}
-brightness <> N: {rk: 8108, frq: 2532}
-brights <> N: {rk: 32148, frq: 117}
-brilliance <> N: {rk: 10568, frq: 1483}
-brilliancy <> N: {rk: 45304, frq: 43}
-brilliant <> J: {rk: 3179, frq: 10385}
-brilliantly <> R: {rk: 10611, frq: 1467}
-brim <> V: {rk: 12669, frq: 1092}, N: {rk: 13248, frq: 1058}
-brimful <> J: {rk: 57865, frq: 20}
-brimmed <> J: {rk: 45480, frq: 46}
-brimming <> J: {rk: 44237, frq: 49}
-brimstone <> N: {rk: 26135, frq: 228}
-brindled <> J: {rk: 59928, frq: 22}
-brine <> N: {rk: 16883, frq: 704}, V: {rk: 37852, frq: 92}
-brined <> J: {rk: 50222, frq: 49}
-bring <> V: {rk: 215, frq: 189593}
-bringer <> N: {rk: 37927, frq: 74}
-bringing <> N: {rk: 41129, frq: 62}
-brink <> N: {rk: 7797, frq: 2554}
-brinkmanship <> N: {rk: 32378, frq: 140}
-briny <> J: {rk: 29472, frq: 179}
-brio <> N: {rk: 39369, frq: 114}
-brioche <> N: {rk: 30830, frq: 161}
-briquette <> N: {rk: 34437, frq: 107}
-bris <> N: {rk: 54261, frq: 28}
-brisk <> J: {rk: 9343, frq: 1869}
-brisket <> N: {rk: 20627, frq: 624}
-briskly <> R: {rk: 11780, frq: 1294}
-briskness <> N: {rk: 57110, frq: 21}
-bristle <> V: {rk: 11351, frq: 1353}, N: {rk: 14999, frq: 787}
-bristling <> J: {rk: 36924, frq: 82}
-bristly <> J: {rk: 25997, frq: 244}
-britches <> N: {rk: 29215, frq: 210}
-brittle <> J: {rk: 10462, frq: 1567}
-brittleness <> N: {rk: 43881, frq: 48}
-broach <> V: {rk: 16045, frq: 665}, N: {rk: 41516, frq: 70}
-broad <> J: {rk: 1408, frq: 29419}
-broad-brush <> J: {rk: 46593, frq: 37}
-broad-minded <> J: {rk: 37725, frq: 76}
-broad-spectrum <> J: {rk: 31469, frq: 154}
-broadband <> J: {rk: 13795, frq: 1089}, N: {rk: 19585, frq: 550}
-broadcast <> N: {rk: 3643, frq: 8745}, V: {rk: 4841, frq: 5472}, J: {rk: 28594, frq: 179}
-broadcaster <> N: {rk: 8283, frq: 2367}
-broadcasting <> N: {rk: 8468, frq: 3764}
-broadcloth <> N: {rk: 42528, frq: 58}
-broaden <> V: {rk: 6709, frq: 3242}
-broadened <> J: {rk: 32441, frq: 122}
-broadening <> N: {rk: 26846, frq: 218}, J: {rk: 29846, frq: 156}
-broadhead <> N: {rk: 43205, frq: 114}
-broadleaf <> N: {rk: 46219, frq: 44}
-broadly <> R: {rk: 6249, frq: 3811}
-broadness <> N: {rk: 54359, frq: 24}
-broadsheet <> N: {rk: 34254, frq: 107}
-broadside <> N: {rk: 18304, frq: 603}
-broadsword <> N: {rk: 37584, frq: 97}
-broadtail <> N: {rk: 60011, frq: 46}
-brocade <> N: {rk: 20442, frq: 424}
-brocaded <> J: {rk: 38167, frq: 76}
-broccoli <> N: {rk: 7992, frq: 2682}
-brochure <> N: {rk: 6680, frq: 3249}
-brogue <> N: {rk: 30677, frq: 167}
-broil <> V: {rk: 14594, frq: 916}, N: {rk: 39424, frq: 123}
-broiled <> J: {rk: 27606, frq: 202}
-broiler <> N: {rk: 16175, frq: 794}
-broiling <> J: {rk: 38691, frq: 77}
-broke <> J: {rk: 10393, frq: 1583}
-broken <> J: {rk: 2710, frq: 13096}
-broken-down <> J: {rk: 24291, frq: 271}
-broken-hearted <> J: {rk: 35151, frq: 95}
-brokenly <> R: {rk: 56145, frq: 23}
-brokenness <> N: {rk: 35982, frq: 99}
-broker <> N: {rk: 4105, frq: 7252}, V: {rk: 16376, frq: 659}
-broker-dealer <> N: {rk: 51730, frq: 55}
-brokerage <> N: {rk: 8921, frq: 2151}
-brokered <> J: {rk: 34486, frq: 110}
-brokering <> N: {rk: 51477, frq: 30}
-bromeliad <> N: {rk: 35911, frq: 100}
-bromide <> N: {rk: 23176, frq: 317}
-bromine <> N: {rk: 46401, frq: 54}
-bronc <> N: {rk: 36761, frq: 150}
-bronchi <> N: {rk: 57797, frq: 27}
-bronchial <> J: {rk: 27241, frq: 244}
-bronchitis <> N: {rk: 21311, frq: 367}
-bronchodilator <> N: {rk: 42559, frq: 73}
-bronchoscope <> N: {rk: 59996, frq: 20}
-brontosaur <> N: {rk: 58759, frq: 29}
-brontosaurus <> N: {rk: 39538, frq: 84}
-bronze <> N: {rk: 4974, frq: 5479}
-bronzed <> J: {rk: 24666, frq: 274}
-bronzer <> N: {rk: 32780, frq: 192}
-bronzing <> N: {rk: 55519, frq: 32}
-bronzy <> J: {rk: 54452, frq: 27}
-brooch <> N: {rk: 17382, frq: 683}
-brood <> N: {rk: 15055, frq: 774}, V: {rk: 16526, frq: 643}
-brooder <> N: {rk: 47522, frq: 42}
-brooding <> J: {rk: 13754, frq: 922}
-broodmare <> N: {rk: 55681, frq: 24}
-broody <> J: {rk: 45992, frq: 45}
-brook <> V: {rk: 23756, frq: 309}
-broom <> N: {rk: 9625, frq: 2065}
-broomstick <> N: {rk: 25836, frq: 248}
-broth <> N: {rk: 5761, frq: 4866}
-brothel <> N: {rk: 13383, frq: 1007}
-brother <> N: {rk: 614, frq: 69335}
-brother-in-law <> N: {rk: 10593, frq: 1501}
-brotherhood <> N: {rk: 14176, frq: 1732}
-brotherly <> J: {rk: 22179, frq: 336}
-brougham <> N: {rk: 59683, frq: 47}
-brouhaha <> N: {rk: 27095, frq: 204}
-brow <> N: {rk: 5873, frq: 4644}
-browbeat <> V: {rk: 34961, frq: 97}
-brown <> J: {rk: 1779, frq: 24839}, V: {rk: 9157, frq: 2409}, N: {rk: 10367, frq: 27158}
-brown-bag <> J: {rk: 45326, frq: 45}
-browned <> J: {rk: 24874, frq: 301}
-brownfield <> N: {rk: 33600, frq: 188}
-brownian <> J: {rk: 39551, frq: 78}
-brownie <> N: {rk: 14105, frq: 1422}
-browning <> J: {rk: 52193, frq: 31}
-brownish <> J: {rk: 22295, frq: 335}
-brownness <> N: {rk: 51467, frq: 33}
-brownout <> N: {rk: 37226, frq: 85}
-brownstone <> N: {rk: 17870, frq: 650}
-browse <> V: {rk: 9852, frq: 1742}, N: {rk: 38964, frq: 80}
-browser <> N: {rk: 9907, frq: 1961}
-browsing <> N: {rk: 22048, frq: 374}
-brucellosis <> N: {rk: 32732, frq: 171}
-bruise <> N: {rk: 7755, frq: 2613}, V: {rk: 12088, frq: 1189}
-bruised <> J: {rk: 12029, frq: 1211}
-bruiser <> N: {rk: 31569, frq: 215}
-bruising <> J: {rk: 17718, frq: 555}
-bruit <> N: {rk: 50154, frq: 39}, V: {rk: 55960, frq: 22}
-brunch <> N: {rk: 14186, frq: 995}, V: {rk: 22233, frq: 372}
-brunet <> N: {rk: 46669, frq: 76}
-brunette <> N: {rk: 16375, frq: 805}
-brunt <> N: {rk: 14157, frq: 915}
-bruschetta <> N: {rk: 30958, frq: 248}
-brush <> V: {rk: 3244, frq: 10765}, N: {rk: 3442, frq: 9476}
-brushed <> J: {rk: 37958, frq: 80}
-brushfire <> N: {rk: 37594, frq: 81}
-brushing <> N: {rk: 31401, frq: 152}
-brushless <> J: {rk: 36023, frq: 136}
-brushstroke <> N: {rk: 22474, frq: 344}
-brushwood <> N: {rk: 52142, frq: 58}
-brushwork <> N: {rk: 25843, frq: 241}
-brushy <> J: {rk: 27855, frq: 197}
-brusque <> J: {rk: 23331, frq: 301}
-brusquely <> R: {rk: 27862, frq: 201}
-brusqueness <> N: {rk: 51933, frq: 29}
-brutal <> J: {rk: 4741, frq: 5650}
-brutality <> N: {rk: 8787, frq: 2064}
-brutalization <> N: {rk: 44089, frq: 51}
-brutalize <> V: {rk: 20217, frq: 399}
-brutalized <> J: {rk: 45131, frq: 43}
-brutally <> R: {rk: 10321, frq: 1560}
-brute <> N: {rk: 12239, frq: 1187}
-brutish <> J: {rk: 24208, frq: 268}
-bryozoan <> N: {rk: 45771, frq: 53}
-bubble <> N: {rk: 4136, frq: 7337}, V: {rk: 10290, frq: 1636}
-bubblegum <> N: {rk: 36292, frq: 98}
-bubbling <> J: {rk: 17576, frq: 585}
-bubbly <> J: {rk: 15772, frq: 802}, N: {rk: 55575, frq: 25}
-bubonic <> J: {rk: 32375, frq: 127}
-buccal <> J: {rk: 41099, frq: 90}
-buck <> N: {rk: 2509, frq: 15289}, V: {rk: 12908, frq: 1053}
-buck-toothed <> J: {rk: 50440, frq: 36}
-buckaroo <> N: {rk: 43471, frq: 56}
-buckboard <> N: {rk: 37472, frq: 94}
-bucket <> N: {rk: 4858, frq: 5640}
-bucketful <> N: {rk: 40579, frq: 62}
-bucking <> J: {rk: 34650, frq: 103}
-buckle <> V: {rk: 9146, frq: 1964}, N: {rk: 11899, frq: 1327}
-buckled <> J: {rk: 32360, frq: 131}
-buckling <> N: {rk: 50116, frq: 33}, J: {rk: 56961, frq: 24}
-bucko <> N: {rk: 55685, frq: 29}
-buckshot <> N: {rk: 31659, frq: 160}
-buckskin <> N: {rk: 23914, frq: 309}
-buckthorn <> N: {rk: 53193, frq: 78}
-buckwheat <> N: {rk: 26933, frq: 257}
-buckyball <> N: {rk: 35116, frq: 170}
-bucolic <> J: {rk: 20110, frq: 429}
-bud <> N: {rk: 7067, frq: 5148}, V: {rk: 30402, frq: 156}
-budding <> J: {rk: 11924, frq: 1254}
-buddleia <> N: {rk: 56570, frq: 23}
-buddy <> N: {rk: 4141, frq: 11564}
-buddy-buddy <> J: {rk: 50836, frq: 32}
-budge <> V: {rk: 11427, frq: 1334}
-budget <> N: {rk: 1055, frq: 43885}, V: {rk: 11857, frq: 1261}
-budgetary <> J: {rk: 13647, frq: 994}
-budgeted <> J: {rk: 38470, frq: 79}
-budgie <> N: {rk: 48067, frq: 38}
-buff <> N: {rk: 12607, frq: 1191}, V: {rk: 19160, frq: 482}, J: {rk: 25281, frq: 250}
-buffed <> J: {rk: 43015, frq: 53}
-buffer <> N: {rk: 8931, frq: 2156}, V: {rk: 18485, frq: 542}
-buffered <> J: {rk: 48454, frq: 45}
-buffering <> J: {rk: 42307, frq: 57}, N: {rk: 52988, frq: 28}
-buffet <> N: {rk: 8484, frq: 2284}, V: {rk: 18344, frq: 508}
-buffeting <> N: {rk: 49577, frq: 35}, J: {rk: 55377, frq: 22}
-buffoon <> N: {rk: 25238, frq: 242}
-buffoonery <> N: {rk: 40441, frq: 66}
-buffoonish <> J: {rk: 53978, frq: 23}
-bug <> N: {rk: 4192, frq: 7122}, V: {rk: 9638, frq: 1774}
-bug-eyed <> J: {rk: 31364, frq: 144}
-bugaboo <> N: {rk: 32817, frq: 136}
-bugbear <> N: {rk: 46526, frq: 42}
-bugger <> N: {rk: 23533, frq: 317}, V: {rk: 36719, frq: 89}
-bugging <> N: {rk: 55526, frq: 33}, J: {rk: 57891, frq: 20}
-buggy <> N: {rk: 13870, frq: 969}
-bugle <> N: {rk: 23438, frq: 344}, V: {rk: 30473, frq: 175}
-bugler <> N: {rk: 36814, frq: 105}
-bugling <> N: {rk: 58337, frq: 24}
-build <> V: {rk: 408, frq: 105077}, N: {rk: 11580, frq: 1318}
-buildable <> J: {rk: 54333, frq: 27}
-builder <> N: {rk: 4591, frq: 6126}
-building <> N: {rk: 501, frq: 84757}
-buildup <> N: {rk: 7886, frq: 7827}, V: {rk: 32122, frq: 130}
-built-in <> J: {rk: 7509, frq: 2882}
-built-up <> J: {rk: 28596, frq: 183}
-bulb <> N: {rk: 4949, frq: 5624}
-bulblet <> N: {rk: 55359, frq: 32}
-bulbous <> J: {rk: 20390, frq: 435}
-bulbul <> N: {rk: 59636, frq: 23}
-bulgarian <> J: {rk: 21246, frq: 388}, N: {rk: 25301, frq: 248}
-bulge <> V: {rk: 10007, frq: 1696}, N: {rk: 11838, frq: 1227}
-bulging <> J: {rk: 19043, frq: 476}
-bulgur <> N: {rk: 28558, frq: 257}
-bulimia <> N: {rk: 20113, frq: 495}
-bulimic <> J: {rk: 32245, frq: 132}
-bulk <> N: {rk: 4704, frq: 5708}, V: {rk: 15483, frq: 742}
-bulkhead <> N: {rk: 16241, frq: 755}
-bulking <> J: {rk: 44316, frq: 57}
-bulky <> J: {rk: 9706, frq: 1756}
-bull <> N: {rk: 4240, frq: 12061}, V: {rk: 41022, frq: 60}
-bull's-eye <> N: {rk: 23813, frq: 298}, J: {rk: 40517, frq: 65}
-bull-headed <> J: {rk: 50983, frq: 29}
-bulldoze <> V: {rk: 17453, frq: 574}
-bulldozed <> J: {rk: 58183, frq: 22}
-bulldozer <> N: {rk: 11482, frq: 1314}
-bulldozing <> N: {rk: 55323, frq: 23}
-bullet <> N: {rk: 2756, frq: 12500}
-bulletin <> N: {rk: 6513, frq: 3539}
-bulletproof <> J: {rk: 15192, frq: 749}
-bullfight <> N: {rk: 31784, frq: 161}
-bullfighter <> N: {rk: 34844, frq: 101}
-bullfinch <> N: {rk: 54952, frq: 23}
-bullfrog <> N: {rk: 29509, frq: 199}
-bullhead <> N: {rk: 42242, frq: 84}
-bullhorn <> N: {rk: 22395, frq: 352}
-bullion <> N: {rk: 30851, frq: 159}
-bullish <> J: {rk: 17243, frq: 592}
-bullpen <> N: {rk: 12234, frq: 1291}
-bullring <> N: {rk: 46020, frq: 59}
-bullshit <> N: {rk: 10138, frq: 1819}, V: {rk: 36507, frq: 96}
-bullwhip <> N: {rk: 39882, frq: 71}
-bully <> N: {rk: 7520, frq: 2874}, V: {rk: 9252, frq: 2228}
-bullying <> N: {rk: 12215, frq: 1707}
-bulrush <> N: {rk: 37424, frq: 78}
-bulwark <> N: {rk: 20049, frq: 435}
-bum <> N: {rk: 7910, frq: 2515}, V: {rk: 21071, frq: 391}
-bumble <> V: {rk: 24996, frq: 249}
-bumblebee <> N: {rk: 25317, frq: 263}
-bumbler <> N: {rk: 44873, frq: 48}
-bumbling <> J: {rk: 29199, frq: 165}
-bummed <> J: {rk: 56651, frq: 22}
-bummer <> N: {rk: 24151, frq: 309}
-bump <> N: {rk: 5567, frq: 4632}, V: {rk: 5685, frq: 4445}
-bumper <> N: {rk: 10884, frq: 1443}, J: {rk: 11394, frq: 1280}
-bumper-to-bumper <> J: {rk: 34617, frq: 101}
-bumping <> N: {rk: 41961, frq: 57}
-bumpkin <> N: {rk: 31606, frq: 135}
-bumptious <> J: {rk: 45427, frq: 46}
-bumpy <> J: {rk: 12971, frq: 1030}
-bun <> N: {rk: 9152, frq: 2101}
-bunch <> N: {rk: 2674, frq: 13451}, V: {rk: 14737, frq: 835}
-bunched <> J: {rk: 43217, frq: 58}
-bunching <> N: {rk: 51122, frq: 28}
-bunco <> N: {rk: 58949, frq: 54}
-bund <> N: {rk: 36774, frq: 89}
-bundle <> N: {rk: 6084, frq: 3895}, V: {rk: 10925, frq: 1468}
-bundled <> J: {rk: 22096, frq: 356}
-bundler <> N: {rk: 54248, frq: 33}
-bundling <> N: {rk: 50108, frq: 40}, J: {rk: 57837, frq: 22}
-bung <> V: {rk: 56207, frq: 21}
-bungalow <> N: {rk: 10977, frq: 1460}
-bungee <> N: {rk: 21731, frq: 381}
-bunghole <> N: {rk: 60015, frq: 24}
-bungle <> V: {rk: 24202, frq: 266}, N: {rk: 50398, frq: 39}
-bungled <> J: {rk: 29817, frq: 158}
-bungler <> N: {rk: 54612, frq: 25}
-bungling <> N: {rk: 33746, frq: 106}, J: {rk: 42912, frq: 53}
-bunion <> N: {rk: 32207, frq: 153}
-bunk <> N: {rk: 9080, frq: 2124}, V: {rk: 27378, frq: 215}
-bunker <> N: {rk: 6823, frq: 3331}, V: {rk: 40931, frq: 60}
-bunkhouse <> N: {rk: 27819, frq: 231}
-bunkmate <> N: {rk: 47099, frq: 44}
-bunny <> N: {rk: 12281, frq: 2326}
-bunt <> N: {rk: 28540, frq: 196}, V: {rk: 36319, frq: 91}
-bunting <> N: {rk: 23762, frq: 486}
-buoy <> N: {rk: 14526, frq: 918}, V: {rk: 16294, frq: 687}
-buoyancy <> N: {rk: 20357, frq: 814}
-buoyant <> J: {rk: 15874, frq: 694}
-buoyantly <> R: {rk: 47161, frq: 37}
-buprenorphine <> N: {rk: 45736, frq: 69}
-bupropion <> N: {rk: 58577, frq: 29}
-burb <> N: {rk: 33542, frq: 122}
-burble <> V: {rk: 27750, frq: 202}, N: {rk: 45243, frq: 43}
-burbling <> J: {rk: 46123, frq: 42}, N: {rk: 52258, frq: 27}
-burden <> N: {rk: 2681, frq: 12992}, V: {rk: 10011, frq: 1621}
-burdened <> J: {rk: 41957, frq: 57}
-burdensome <> J: {rk: 17004, frq: 621}
-burdock <> N: {rk: 41096, frq: 70}
-bureaucracy <> N: {rk: 5025, frq: 5342}
-bureaucrat <> N: {rk: 7038, frq: 2988}
-bureaucratese <> N: {rk: 53166, frq: 27}
-bureaucratic <> J: {rk: 6538, frq: 3428}
-bureaucratically <> R: {rk: 40946, frq: 62}
-bureaucratization <> N: {rk: 38789, frq: 78}
-bureaucratized <> J: {rk: 52883, frq: 30}
-burg <> N: {rk: 31060, frq: 274}
-burgeon <> V: {rk: 31058, frq: 135}
-burgeoning <> J: {rk: 9502, frq: 1803}
-burger <> N: {rk: 7385, frq: 4571}
-burgher <> N: {rk: 31049, frq: 146}
-burglar <> N: {rk: 11334, frq: 1324}
-burglarize <> V: {rk: 27075, frq: 216}
-burglary <> N: {rk: 10812, frq: 1478}
-burgle <> V: {rk: 45640, frq: 46}
-burial <> N: {rk: 6317, frq: 3695}
-buried <> J: {rk: 13493, frq: 977}
-burin <> N: {rk: 54105, frq: 43}
-burka <> N: {rk: 39035, frq: 125}
-burl <> V: {rk: 53466, frq: 28}
-burlap <> N: {rk: 19656, frq: 457}
-burlesque <> J: {rk: 27971, frq: 228}, N: {rk: 29426, frq: 229}
-burley <> N: {rk: 50181, frq: 157}
-burly <> J: {rk: 13458, frq: 968}
-burn <> V: {rk: 1426, frq: 28735}, N: {rk: 5735, frq: 4285}
-burn-in <> N: {rk: 37132, frq: 108}
-burned <> J: {rk: 13586, frq: 957}
-burner <> N: {rk: 8369, frq: 2248}
-burning <> J: {rk: 4073, frq: 7143}, N: {rk: 27893, frq: 207}
-burnish <> V: {rk: 21691, frq: 364}
-burnished <> J: {rk: 25570, frq: 246}
-burnout <> N: {rk: 12573, frq: 1386}
-burnt <> J: {rk: 12309, frq: 1158}
-burnt-out <> J: {rk: 32547, frq: 124}
-burp <> V: {rk: 21595, frq: 385}, N: {rk: 26708, frq: 215}
-burrito <> N: {rk: 16570, frq: 705}
-burro <> N: {rk: 25433, frq: 322}
-burrow <> V: {rk: 12465, frq: 1130}, N: {rk: 14903, frq: 939}
-burrowing <> J: {rk: 40772, frq: 65}
-bursar <> N: {rk: 45729, frq: 52}
-bursitis <> N: {rk: 39686, frq: 66}
-burst <> V: {rk: 3586, frq: 9042}, N: {rk: 5395, frq: 4752}, J: {rk: 22454, frq: 346}
-burster <> N: {rk: 50228, frq: 35}
-bursting <> N: {rk: 34715, frq: 102}, J: {rk: 36805, frq: 89}
-bury <> V: {rk: 2414, frq: 15279}
-bus <> N: {rk: 1457, frq: 27677}, V: {rk: 18526, frq: 508}
-busboy <> N: {rk: 22605, frq: 332}
-bush <> V: {rk: 38875, frq: 70}
-bushel <> N: {rk: 14890, frq: 871}, V: {rk: 44187, frq: 50}
-bushing <> N: {rk: 33601, frq: 131}
-bushman <> N: {rk: 29187, frq: 235}
-bushmaster <> N: {rk: 55238, frq: 33}
-bushwhack <> V: {rk: 29731, frq: 167}
-bushwhacker <> N: {rk: 44990, frq: 73}
-bushy <> J: {rk: 16327, frq: 692}
-busily <> R: {rk: 16094, frq: 667}
-business <> N: {rk: 246, frq: 166478}
-businesslike <> J: {rk: 16866, frq: 617}
-businessman <> N: {rk: 3870, frq: 7679}
-businessperson <> N: {rk: 31696, frq: 130}
-businesswoman <> N: {rk: 20387, frq: 433}
-busing <> N: {rk: 33359, frq: 145}, J: {rk: 43178, frq: 55}
-busk <> V: {rk: 48538, frq: 37}
-busker <> N: {rk: 47953, frq: 62}
-busload <> N: {rk: 23584, frq: 280}
-busman <> N: {rk: 54484, frq: 28}
-buss <> V: {rk: 29026, frq: 164}
-bust <> V: {rk: 6784, frq: 3241}, N: {rk: 7931, frq: 2464}, J: {rk: 22705, frq: 322}
-bustard <> N: {rk: 52482, frq: 60}
-busted <> J: {rk: 17940, frq: 558}
-bustle <> V: {rk: 13902, frq: 928}, N: {rk: 21869, frq: 344}
-bustling <> J: {rk: 11716, frq: 1294}
-busty <> J: {rk: 27363, frq: 223}
-busy <> J: {rk: 1934, frq: 20125}, V: {rk: 11294, frq: 1363}
-busybody <> N: {rk: 29925, frq: 166}
-busyness <> N: {rk: 34211, frq: 112}
-busywork <> N: {rk: 42819, frq: 52}
-but <> C: {rk: 23, frq: 1933747}, I: {rk: 1711, frq: 22710}
-butadiene <> N: {rk: 52874, frq: 46}
-butane <> N: {rk: 30505, frq: 165}
-butch <> J: {rk: 27844, frq: 223}
-butcher <> N: {rk: 8576, frq: 3096}, V: {rk: 17316, frq: 608}
-butchered <> J: {rk: 37746, frq: 80}
-butchering <> N: {rk: 45403, frq: 51}
-butchery <> N: {rk: 32208, frq: 129}
-butt <> N: {rk: 4701, frq: 5933}, V: {rk: 12325, frq: 1185}
-butter <> N: {rk: 2418, frq: 17066}, V: {rk: 20263, frq: 425}
-butterball <> N: {rk: 41946, frq: 93}
-buttercup <> N: {rk: 27733, frq: 203}
-buttered <> J: {rk: 19822, frq: 477}
-butterfat <> N: {rk: 48918, frq: 44}
-butterfish <> N: {rk: 57452, frq: 24}
-butterflied <> J: {rk: 55468, frq: 34}
-butterfly <> N: {rk: 4971, frq: 5440}
-buttermilk <> N: {rk: 14312, frq: 1138}
-butternut <> N: {rk: 22068, frq: 465}
-butterscotch <> N: {rk: 30998, frq: 186}
-buttery <> J: {rk: 18397, frq: 550}, N: {rk: 34387, frq: 126}
-buttocks <> N: {rk: 10842, frq: 1454}
-button <> N: {rk: 2661, frq: 13695}, V: {rk: 11605, frq: 1350}
-button-down <> J: {rk: 21513, frq: 398}
-buttoned <> J: {rk: 42001, frq: 59}
-buttonhole <> N: {rk: 29858, frq: 157}, V: {rk: 42297, frq: 52}
-buttress <> V: {rk: 16986, frq: 613}, N: {rk: 27556, frq: 220}
-buxom <> J: {rk: 29037, frq: 183}
-buy <> V: {rk: 397, frq: 109080}, N: {rk: 11193, frq: 1370}
-buy-in <> N: {rk: 30599, frq: 202}
-buyback <> N: {rk: 23135, frq: 331}
-buyer <> N: {rk: 2971, frq: 11807}
-buying <> N: {rk: 6929, frq: 3065}
-buyout <> N: {rk: 10110, frq: 1650}
-buzz <> V: {rk: 8342, frq: 2435}, N: {rk: 35449, frq: 90}
-buzzard <> N: {rk: 21270, frq: 393}
-buzzer <> N: {rk: 14582, frq: 873}
-buzzing <> J: {rk: 16305, frq: 715}
-buzzsaw <> N: {rk: 52834, frq: 34}
-buzzword <> N: {rk: 19027, frq: 485}
-buzzy <> J: {rk: 44411, frq: 51}
-by <> I: {rk: 30, frq: 1608416}, R: {rk: 1187, frq: 35046}
-by-election <> N: {rk: 47200, frq: 49}
-by-product <> N: {rk: 9201, frq: 1923}
-bye <> N: {rk: 19365, frq: 689}
-bye-bye <> U: {rk: 12143, frq: 1421}
-bygone <> J: {rk: 18192, frq: 518}, N: {rk: 29636, frq: 163}
-bylaw <> N: {rk: 21414, frq: 376}
-byline <> N: {rk: 23919, frq: 285}
-bypass <> V: {rk: 7734, frq: 2515}, N: {rk: 10340, frq: 1557}
-bystander <> N: {rk: 12262, frq: 1176}
-byway <> N: {rk: 22223, frq: 366}
-byword <> N: {rk: 38362, frq: 76}
+baba <> N: {rk: 34537, frq: 253}
+babble <> V: {rk: 15277, frq: 1703}, N: {rk: 24526, frq: 615}
+babbling <> N: {rk: 37620, frq: 196}, J: {rk: 39308, frq: 171}
+babe <> N: {rk: 4688, frq: 13309}
+babesiosis <> N: {rk: 40225, frq: 160}
+baboon <> N: {rk: 17408, frq: 1315}
+babushka <> N: {rk: 42202, frq: 139}
+baby <> N: {rk: 464, frq: 207577}, V: {rk: 38745, frq: 179}
+baby-faced <> J: {rk: 39461, frq: 169}
+babyhood <> N: {rk: 44930, frq: 115}
+babyish <> J: {rk: 46188, frq: 106}
+babysit <> V: {rk: 39765, frq: 165}
+baccalaureate <> J: {rk: 23430, frq: 686}, N: {rk: 33419, frq: 277}
+baccarat <> N: {rk: 36097, frq: 222}
+bacchanal <> J: {rk: 49238, frq: 87}
+bacchanalia <> N: {rk: 57668, frq: 52}
+bacchanalian <> J: {rk: 58299, frq: 50}
+bachelor <> N: {rk: 5832, frq: 9404}
+bachelorette <> N: {rk: 20562, frq: 920}
+bachelorhood <> N: {rk: 49950, frq: 83}
+bacilli <> N: {rk: 42429, frq: 137}
+bacillus <> N: {rk: 29224, frq: 396}
+back <> R: {rk: 108, frq: 938649}, N: {rk: 331, frq: 302390}, V: {rk: 1808, frq: 50340}, J: {rk: 9043, frq: 4456}, I: {rk: 24005, frq: 648}
+back-bencher <> N: {rk: 44929, frq: 115}
+back-breaking <> J: {rk: 33626, frq: 272}
+back-stabbing <> J: {rk: 39400, frq: 170}
+back-to-back <> J: {rk: 11909, frq: 2752}
+back-up <> J: {rk: 48361, frq: 92}
+backache <> N: {rk: 35310, frq: 237}
+backbeat <> N: {rk: 45632, frq: 110}
+backbiting <> N: {rk: 50344, frq: 81}
+backboard <> N: {rk: 26248, frq: 523}
+backbone <> N: {rk: 9909, frq: 3768}
+backbreaking <> J: {rk: 39460, frq: 169}
+backburner <> N: {rk: 47070, frq: 100}
+backchannel <> N: {rk: 52793, frq: 70}
+backcountry <> N: {rk: 13130, frq: 2282}
+backcourt <> N: {rk: 23842, frq: 657}
+backdate <> V: {rk: 42428, frq: 137}
+backdoor <> N: {rk: 21907, frq: 804}
+backdrop <> N: {rk: 7681, frq: 5849}
+backed <> J: {rk: 37535, frq: 197}
+backer <> N: {rk: 9311, frq: 4222}
+backfield <> N: {rk: 18794, frq: 1114}
+backfill <> V: {rk: 46904, frq: 101}, N: {rk: 55521, frq: 59}
+backfire <> V: {rk: 10742, frq: 3278}
+backflip <> N: {rk: 37477, frq: 198}
+backflow <> N: {rk: 57309, frq: 53}
+backgammon <> N: {rk: 34486, frq: 254}
+background <> N: {rk: 1538, frq: 61431}
+backgrounder <> N: {rk: 45357, frq: 112}
+backhand <> J: {rk: 27584, frq: 462}, V: {rk: 39402, frq: 170}, R: {rk: 41485, frq: 146}
+backhanded <> J: {rk: 33544, frq: 274}
+backhoe <> N: {rk: 25967, frq: 537}
+backing <> N: {rk: 9092, frq: 4409}, J: {rk: 43264, frq: 129}
+backlash <> N: {rk: 8262, frq: 5171}, V: {rk: 33092, frq: 284}
+backless <> J: {rk: 40998, frq: 151}
+backlight <> N: {rk: 32212, frq: 307}
+backlighting <> N: {rk: 40383, frq: 158}
+backlist <> N: {rk: 46475, frq: 104}
+backlit <> J: {rk: 22990, frq: 717}
+backlog <> N: {rk: 15101, frq: 1742}
+backlogged <> J: {rk: 57028, frq: 54}
+backlot <> N: {rk: 57308, frq: 53}
+backpack <> N: {rk: 6466, frq: 7908}, V: {rk: 21129, frq: 867}
+backpacker <> N: {rk: 18680, frq: 1130}
+backpacking <> J: {rk: 31414, frq: 328}, N: {rk: 48202, frq: 93}
+backpedal <> V: {rk: 41175, frq: 149}
+backrest <> N: {rk: 33055, frq: 285}
+backroom <> N: {rk: 23242, frq: 700}
+backscatter <> N: {rk: 49442, frq: 86}
+backseat <> N: {rk: 11380, frq: 2973}
+backside <> N: {rk: 13880, frq: 2051}
+backslash <> N: {rk: 52996, frq: 69}
+backslide <> V: {rk: 33769, frq: 269}
+backsliding <> N: {rk: 46314, frq: 105}
+backspace <> N: {rk: 56104, frq: 57}
+backspin <> N: {rk: 39401, frq: 170}
+backsplash <> N: {rk: 34628, frq: 251}
+backstage <> R: {rk: 11694, frq: 2828}, J: {rk: 17836, frq: 1250}
+backstop <> N: {rk: 27382, frq: 471}
+backstory <> N: {rk: 17359, frq: 1324}
+backstreet <> N: {rk: 28868, frq: 410}
+backstretch <> N: {rk: 38685, frq: 180}
+backstroke <> N: {rk: 28589, frq: 420}, V: {rk: 45631, frq: 110}
+backswing <> N: {rk: 22749, frq: 735}
+backtalk <> N: {rk: 59166, frq: 47}
+backtrack <> V: {rk: 17743, frq: 1264}, N: {rk: 46313, frq: 105}
+backtracking <> N: {rk: 53950, frq: 65}
+backup <> N: {rk: 4365, frq: 14904}, V: {rk: 13237, frq: 2252}
+backward <> R: {rk: 6316, frq: 8265}, J: {rk: 12511, frq: 2515}
+backward-looking <> J: {rk: 42736, frq: 134}
+backwardness <> N: {rk: 28539, frq: 422}
+backwards <> R: {rk: 5867, frq: 9329}
+backwash <> N: {rk: 38684, frq: 180}
+backwater <> N: {rk: 18667, frq: 1131}
+backwood <> J: {rk: 23646, frq: 670}
+backyard <> N: {rk: 4817, frq: 12774}
+bacon <> N: {rk: 6067, frq: 8798}
+bacteremia <> N: {rk: 38535, frq: 182}
+bacteria <> N: {rk: 3851, frq: 17913}
+bacterial <> J: {rk: 8124, frq: 5326}
+bactericidal <> J: {rk: 49951, frq: 83}
+bacteriologic <> J: {rk: 59533, frq: 46}
+bacteriological <> J: {rk: 43833, frq: 124}
+bacteriology <> N: {rk: 47239, frq: 99}
+bacteriophage <> N: {rk: 47870, frq: 95}
+bad <> J: {rk: 229, frq: 426558}, R: {rk: 4613, frq: 13651}, N: {rk: 35757, frq: 228}
+bad-mouth <> V: {rk: 42847, frq: 133}, J: {rk: 51907, frq: 74}
+bad-tempered <> J: {rk: 49239, frq: 87}
+badass <> N: {rk: 16527, frq: 1462}
+baddie <> N: {rk: 42630, frq: 135}
+baddy <> N: {rk: 37811, frq: 193}
+badge <> N: {rk: 5844, frq: 9375}, V: {rk: 59532, frq: 46}
+badger <> N: {rk: 13494, frq: 2175}, V: {rk: 22433, frq: 761}
+badgering <> N: {rk: 56421, frq: 56}
+badlands <> N: {rk: 30021, frq: 369}
+badly <> R: {rk: 3234, frq: 23330}
+badminton <> N: {rk: 23144, frq: 706}
+badness <> N: {rk: 30783, frq: 346}
+baffle <> V: {rk: 12376, frq: 2564}, N: {rk: 29241, frq: 395}
+baffled <> J: {rk: 24491, frq: 617}
+bafflement <> N: {rk: 35209, frq: 239}
+baffling <> J: {rk: 16766, frq: 1423}
+bafflingly <> R: {rk: 59165, frq: 47}
+bag <> N: {rk: 1084, frq: 90234}, V: {rk: 12808, frq: 2404}
+bagasse <> N: {rk: 53949, frq: 65}
+bagel <> N: {rk: 12410, frq: 2550}
+bagful <> N: {rk: 47068, frq: 100}
+baggage <> N: {rk: 7972, frq: 5499}
+bagged <> J: {rk: 35513, frq: 233}
+bagger <> N: {rk: 27492, frq: 466}
+baggie <> N: {rk: 23841, frq: 658}
+bagging <> J: {rk: 53751, frq: 66}, N: {rk: 59869, frq: 45}
+baggy <> J: {rk: 13812, frq: 2072}
+bagman <> N: {rk: 41683, frq: 144}
+bagpipe <> N: {rk: 25723, frq: 549}
+bagpiper <> N: {rk: 46779, frq: 102}
+baguette <> N: {rk: 19776, frq: 1001}
+bah <> U: {rk: 16876, frq: 1407}
+baht <> N: {rk: 40223, frq: 160}
+bail <> V: {rk: 6472, frq: 7894}, N: {rk: 7174, frq: 6573}
+bailer <> N: {rk: 56707, frq: 55}
+bailiff <> N: {rk: 20565, frq: 920}
+bailiwick <> N: {rk: 43585, frq: 126}
+bailout <> N: {rk: 6825, frq: 7171}
+bairn <> N: {rk: 49434, frq: 86}
+bait <> N: {rk: 7109, frq: 6672}, V: {rk: 13128, frq: 2282}
+bait-and-switch <> N: {rk: 46177, frq: 106}, J: {rk: 52336, frq: 72}
+baited <> J: {rk: 40133, frq: 161}
+baiter <> N: {rk: 46468, frq: 104}
+baiting <> N: {rk: 47251, frq: 99}
+baize <> N: {rk: 49767, frq: 84}
+bake <> V: {rk: 3195, frq: 23686}
+bake-off <> N: {rk: 58277, frq: 50}
+baked <> J: {rk: 8599, frq: 4829}
+baker <> N: {rk: 10204, frq: 3579}
+bakery <> N: {rk: 8215, frq: 5216}
+baking <> N: {rk: 5797, frq: 9491}, J: {rk: 34339, frq: 257}
+baklava <> N: {rk: 38338, frq: 185}
+balaclava <> N: {rk: 39948, frq: 163}
+balalaika <> N: {rk: 57328, frq: 53}
+balance <> N: {rk: 1859, frq: 48537}, V: {rk: 3159, frq: 24104}
+balanced <> J: {rk: 5289, frq: 11082}
+balancer <> N: {rk: 39767, frq: 165}
+balancing <> N: {rk: 13331, frq: 2218}
+balcony <> N: {rk: 6675, frq: 7449}
+bald <> J: {rk: 6821, frq: 7185}
+balderdash <> N: {rk: 54475, frq: 63}
+balding <> J: {rk: 17669, frq: 1274}
+baldly <> R: {rk: 37329, frq: 200}
+baldness <> N: {rk: 26374, frq: 516}
+baldy <> N: {rk: 39181, frq: 173}
+bale <> N: {rk: 12121, frq: 2668}, V: {rk: 27140, frq: 482}
+baleen <> N: {rk: 39390, frq: 170}
+baleful <> J: {rk: 33013, frq: 286}
+balefully <> R: {rk: 47558, frq: 97}
+baler <> N: {rk: 47252, frq: 99}
+baling <> N: {rk: 59507, frq: 46}
+balk <> V: {rk: 12499, frq: 2520}, N: {rk: 42100, frq: 140}
+balkanized <> J: {rk: 51249, frq: 77}
+balky <> J: {rk: 35818, frq: 227}
+ball <> N: {rk: 877, frq: 110770}, V: {rk: 20306, frq: 945}
+ball-bearing <> J: {rk: 58885, frq: 48}
+ballad <> N: {rk: 10074, frq: 3667}
+balladeer <> N: {rk: 43269, frq: 129}
+balladry <> N: {rk: 51248, frq: 77}
+ballast <> N: {rk: 18083, frq: 1212}
+ballcarrier <> N: {rk: 54733, frq: 62}
+balled <> J: {rk: 51671, frq: 75}
+baller <> N: {rk: 36645, frq: 212}
+ballerina <> N: {rk: 16208, frq: 1516}
+ballet <> N: {rk: 5926, frq: 9149}
+balletic <> J: {rk: 44186, frq: 121}
+ballgame <> N: {rk: 18553, frq: 1147}
+ballhandler <> N: {rk: 51013, frq: 78}
+ballistic <> J: {rk: 10553, frq: 3365}
+ballistics <> N: {rk: 21090, frq: 872}
+balloon <> N: {rk: 4989, frq: 12102}, V: {rk: 18267, frq: 1185}
+ballooning <> J: {rk: 37960, frq: 191}, N: {rk: 52560, frq: 71}
+balloonist <> N: {rk: 41096, frq: 150}
+ballot <> N: {rk: 2952, frq: 26460}, V: {rk: 34280, frq: 258}
+balloting <> N: {rk: 26835, frq: 496}
+ballpark <> N: {rk: 10139, frq: 3622}, J: {rk: 36306, frq: 218}
+ballplayer <> N: {rk: 17938, frq: 1236}
+ballpoint <> N: {rk: 28782, frq: 413}
+ballroom <> N: {rk: 10195, frq: 3586}
+ballsy <> J: {rk: 34917, frq: 245}
+ballyhoo <> N: {rk: 44788, frq: 116}, V: {rk: 50147, frq: 82}
+ballyhooed <> J: {rk: 44789, frq: 116}
+balm <> N: {rk: 15916, frq: 1568}
+balmy <> J: {rk: 21126, frq: 868}
+baloney <> N: {rk: 19378, frq: 1048}
+balsa <> N: {rk: 35207, frq: 239}
+balsam <> N: {rk: 28484, frq: 424}
+balsamic <> J: {rk: 16103, frq: 1537}
+baluster <> N: {rk: 44941, frq: 115}
+balustrade <> N: {rk: 30055, frq: 368}
+bam <> U: {rk: 14449, frq: 1906}
+bamboo <> N: {rk: 9823, frq: 3818}
+bamboozle <> V: {rk: 33132, frq: 283}
+ban <> V: {rk: 3231, frq: 23359}, N: {rk: 4069, frq: 16560}
+banal <> J: {rk: 17756, frq: 1261}
+banality <> N: {rk: 23671, frq: 668}
+banana <> N: {rk: 5012, frq: 12015}
+band <> N: {rk: 1260, frq: 76423}, V: {rk: 10377, frq: 3467}
+banda <> N: {rk: 49956, frq: 83}
+bandage <> N: {rk: 10622, frq: 3329}, V: {rk: 21433, frq: 842}
+bandaged <> J: {rk: 29751, frq: 378}
+bandana <> N: {rk: 26164, frq: 527}
+bandanna <> N: {rk: 22670, frq: 741}
+bandbox <> N: {rk: 56404, frq: 56}
+bandeau <> N: {rk: 59892, frq: 45}
+banded <> J: {rk: 34179, frq: 260}
+bandgap <> N: {rk: 46178, frq: 106}
+banding <> N: {rk: 31163, frq: 335}
+bandit <> N: {rk: 11333, frq: 2992}
+bandito <> N: {rk: 52106, frq: 73}
+banditry <> N: {rk: 43469, frq: 127}
+bandleader <> N: {rk: 31525, frq: 325}
+bandolier <> N: {rk: 43060, frq: 131}
+bandpass <> N: {rk: 57955, frq: 51}
+bandstand <> N: {rk: 28535, frq: 422}
+bandwagon <> N: {rk: 14144, frq: 1986}
+bandwidth <> N: {rk: 11315, frq: 2998}
+bandy <> V: {rk: 26496, frq: 511}, J: {rk: 32043, frq: 311}
+bane <> N: {rk: 14994, frq: 1763}
+baneful <> J: {rk: 56403, frq: 56}
+bang <> V: {rk: 4739, frq: 13122}, N: {rk: 5680, frq: 9882}
+bang-up <> J: {rk: 37549, frq: 197}
+banger <> N: {rk: 24420, frq: 621}
+banging <> N: {rk: 28587, frq: 420}, J: {rk: 44942, frq: 115}
+bangladeshi <> J: {rk: 32892, frq: 289}, N: {rk: 55538, frq: 59}
+bangle <> N: {rk: 22343, frq: 768}
+banish <> V: {rk: 9411, frq: 4144}
+banished <> J: {rk: 35875, frq: 226}
+banishment <> N: {rk: 26497, frq: 511}
+banister <> N: {rk: 22992, frq: 717}
+banjo <> N: {rk: 16660, frq: 1439}
+bank <> N: {rk: 695, frq: 138673}, V: {rk: 9627, frq: 3963}
+bankable <> J: {rk: 39766, frq: 165}
+banked <> J: {rk: 41373, frq: 147}
+banker <> N: {rk: 4780, frq: 12931}
+banking <> N: {rk: 4094, frq: 16356}
+banknote <> N: {rk: 30513, frq: 354}
+bankroll <> V: {rk: 20342, frq: 941}, N: {rk: 39614, frq: 167}
+bankrupt <> J: {rk: 7929, frq: 5558}, V: {rk: 14499, frq: 1892}
+bankruptcy <> N: {rk: 3686, frq: 19151}
+bankrupted <> J: {rk: 38133, frq: 188}
+banned <> J: {rk: 13568, frq: 2147}
+banner <> N: {rk: 5619, frq: 10063}
+banning <> N: {rk: 27282, frq: 475}
+bannister <> N: {rk: 30310, frq: 360}
+bannock <> N: {rk: 51012, frq: 78}
+banquet <> N: {rk: 10469, frq: 3406}, V: {rk: 40822, frq: 153}
+banquette <> N: {rk: 29102, frq: 401}
+banshee <> N: {rk: 27257, frq: 476}
+bantam <> N: {rk: 40635, frq: 155}
+bantamweight <> N: {rk: 39112, frq: 174}
+banter <> N: {rk: 16975, frq: 1390}, V: {rk: 25036, frq: 585}
+bantering <> N: {rk: 59893, frq: 45}
+banyan <> J: {rk: 40471, frq: 157}, N: {rk: 56402, frq: 56}
+banzai <> N: {rk: 47880, frq: 95}
+baobab <> N: {rk: 48043, frq: 94}
+baptise <> V: {rk: 42853, frq: 133}
+baptism <> N: {rk: 9579, frq: 4012}
+baptismal <> J: {rk: 24759, frq: 601}
+baptistery <> N: {rk: 51898, frq: 74}
+baptize <> V: {rk: 10849, frq: 3221}
+baptized <> J: {rk: 24828, frq: 597}
+bar <> N: {rk: 1014, frq: 95305}, V: {rk: 5652, frq: 9956}
+barb <> N: {rk: 18312, frq: 1179}, V: {rk: 30271, frq: 361}
+barbarian <> N: {rk: 14304, frq: 1942}, J: {rk: 23566, frq: 675}
+barbaric <> J: {rk: 14702, frq: 1831}
+barbarism <> N: {rk: 22194, frq: 780}
+barbarity <> N: {rk: 32388, frq: 302}
+barbarous <> J: {rk: 27123, frq: 483}
+barbecue <> N: {rk: 7642, frq: 5904}, V: {rk: 16379, frq: 1487}
+barbecued <> J: {rk: 28057, frq: 441}
+barbed <> J: {rk: 13739, frq: 2096}
+barbell <> N: {rk: 25633, frq: 554}
+barbeque <> N: {rk: 25963, frq: 538}
+barber <> N: {rk: 10554, frq: 3364}, V: {rk: 52781, frq: 70}
+barberry <> N: {rk: 49955, frq: 83}
+barbershop <> N: {rk: 17950, frq: 1234}
+barbiturate <> N: {rk: 32387, frq: 302}
+barbwire <> N: {rk: 56120, frq: 57}
+bard <> N: {rk: 14339, frq: 1933}
+bardic <> J: {rk: 46637, frq: 103}
+bare <> J: {rk: 4028, frq: 16802}, V: {rk: 11229, frq: 3038}
+bare-knuckle <> J: {rk: 47718, frq: 96}
+bareback <> R: {rk: 39180, frq: 173}, J: {rk: 47559, frq: 97}
+bared <> J: {rk: 40313, frq: 159}
+barefoot <> J: {rk: 10468, frq: 3407}
+barefooted <> J: {rk: 34584, frq: 252}
+bareheaded <> J: {rk: 57329, frq: 53}
+barely <> R: {rk: 2083, frq: 42258}
+bareness <> N: {rk: 55271, frq: 60}
+barf <> V: {rk: 26864, frq: 495}, N: {rk: 36646, frq: 212}
+bargain <> N: {rk: 5636, frq: 10001}, V: {rk: 9808, frq: 3833}
+bargainer <> N: {rk: 52105, frq: 73}
+bargaining <> N: {rk: 7739, frq: 5795}
+barge <> N: {rk: 12202, frq: 2637}, V: {rk: 15581, frq: 1636}
+bariatric <> J: {rk: 32726, frq: 293}
+barista <> N: {rk: 25450, frq: 563}
+baritone <> N: {rk: 17668, frq: 1274}
+barium <> N: {rk: 30926, frq: 342}
+bark <> V: {rk: 6215, frq: 8473}, N: {rk: 8072, frq: 5381}
+barkeep <> N: {rk: 36521, frq: 214}
+barker <> N: {rk: 32121, frq: 309}
+barking <> N: {rk: 26115, frq: 530}, J: {rk: 31792, frq: 318}
+barley <> N: {rk: 13073, frq: 2302}
+barmaid <> N: {rk: 30538, frq: 353}
+barman <> N: {rk: 31607, frq: 323}
+barmy <> J: {rk: 56407, frq: 56}
+barn <> N: {rk: 4743, frq: 13093}
+barnacle <> N: {rk: 24523, frq: 615}
+barnstorm <> V: {rk: 37207, frq: 202}
+barnstorming <> J: {rk: 55011, frq: 61}
+barnyard <> N: {rk: 25360, frq: 568}
+barometer <> N: {rk: 18437, frq: 1164}
+barometric <> J: {rk: 33095, frq: 284}
+baron <> N: {rk: 7782, frq: 5736}
+baroness <> N: {rk: 27541, frq: 464}
+baronet <> N: {rk: 45496, frq: 111}
+baronial <> J: {rk: 44451, frq: 119}
+barony <> N: {rk: 51011, frq: 78}
+baroque <> N: {rk: 14472, frq: 1898}
+barque <> N: {rk: 55010, frq: 61}
+barracks <> N: {rk: 10561, frq: 3357}
+barracuda <> N: {rk: 30925, frq: 342}
+barrage <> N: {rk: 11508, frq: 2917}, V: {rk: 39183, frq: 173}
+barre <> N: {rk: 32849, frq: 290}
+barred <> J: {rk: 27795, frq: 453}
+barrel <> N: {rk: 3554, frq: 20229}, V: {rk: 18570, frq: 1145}
+barrel-chested <> J: {rk: 39184, frq: 173}
+barreled <> J: {rk: 54473, frq: 63}
+barren <> J: {rk: 10402, frq: 3454}, N: {rk: 31749, frq: 319}
+barrenness <> N: {rk: 41095, frq: 150}
+barrette <> N: {rk: 30272, frq: 361}
+barricade <> N: {rk: 13065, frq: 2305}, V: {rk: 20027, frq: 973}
+barricaded <> J: {rk: 49253, frq: 87}
+barrier <> N: {rk: 2872, frq: 27530}
+barring <> I: {rk: 15183, frq: 1724}
+barrister <> N: {rk: 27688, frq: 458}
+barroom <> N: {rk: 27055, frq: 486}
+barrow <> N: {rk: 30602, frq: 351}
+barstool <> N: {rk: 29246, frq: 395}
+bartender <> N: {rk: 7989, frq: 5478}
+barter <> V: {rk: 17745, frq: 1263}, N: {rk: 24929, frq: 591}
+bartered <> J: {rk: 56705, frq: 55}
+bartering <> N: {rk: 58278, frq: 50}
+baryon <> N: {rk: 38751, frq: 179}
+baryonic <> J: {rk: 49957, frq: 83}
+bas-relief <> N: {rk: 35309, frq: 237}
+basal <> J: {rk: 15512, frq: 1650}
+basalt <> N: {rk: 26682, frq: 503}
+basaltic <> J: {rk: 46179, frq: 106}
+base <> V: {rk: 491, frq: 195474}, N: {rk: 1072, frq: 90915}, J: {rk: 29031, frq: 404}
+baseball <> N: {rk: 1736, frq: 52864}
+baseboard <> N: {rk: 26745, frq: 500}
+baseless <> J: {rk: 19576, frq: 1025}
+baseline <> N: {rk: 5163, frq: 11522}
+baseload <> N: {rk: 42204, frq: 139}
+baseman <> N: {rk: 8931, frq: 4547}
+basement <> N: {rk: 3808, frq: 18210}
+baseness <> N: {rk: 49050, frq: 88}
+bash <> V: {rk: 8257, frq: 5177}, N: {rk: 16694, frq: 1433}
+basher <> N: {rk: 30821, frq: 345}
+bashful <> J: {rk: 27404, frq: 470}
+bashfully <> R: {rk: 48681, frq: 90}
+bashing <> N: {rk: 24894, frq: 593}, J: {rk: 54199, frq: 64}
+basic <> J: {rk: 1288, frq: 74208}
+basically <> R: {rk: 1530, frq: 62046}
+basics <> N: {rk: 6620, frq: 7541}
+basil <> N: {rk: 9091, frq: 4411}
+basilar <> J: {rk: 51900, frq: 74}
+basilica <> N: {rk: 19558, frq: 1026}
+basilisk <> N: {rk: 41477, frq: 146}
+basin <> N: {rk: 5716, frq: 9757}
+basis <> N: {rk: 1385, frq: 68758}
+bask <> V: {rk: 13361, frq: 2211}
+basket <> N: {rk: 3917, frq: 17488}
+basketball <> N: {rk: 2174, frq: 40007}
+basketful <> N: {rk: 53496, frq: 67}
+basketmaker <> N: {rk: 58279, frq: 50}
+basketry <> N: {rk: 38529, frq: 182}
+basking <> J: {rk: 52337, frq: 72}
+basmati <> N: {rk: 36834, frq: 208}
+bass <> N: {rk: 6342, frq: 8183}, J: {rk: 8137, frq: 5310}
+basset <> N: {rk: 38674, frq: 180}
+bassinet <> N: {rk: 31938, frq: 314}
+bassist <> N: {rk: 17273, frq: 1339}
+basso <> N: {rk: 39256, frq: 172}
+bassoon <> N: {rk: 37074, frq: 204}
+basswood <> N: {rk: 47720, frq: 96}
+bast <> N: {rk: 45495, frq: 111}
+bastard <> N: {rk: 4102, frq: 16320}
+bastardization <> N: {rk: 51899, frq: 74}
+bastardize <> V: {rk: 43727, frq: 125}
+bastardized <> J: {rk: 54474, frq: 63}
+baste <> V: {rk: 20540, frq: 923}
+baster <> N: {rk: 41178, frq: 149}
+basting <> N: {rk: 42434, frq: 137}
+bastion <> N: {rk: 14632, frq: 1849}
+bat <> N: {rk: 3821, frq: 18132}, V: {rk: 7012, frq: 6828}
+batboy <> N: {rk: 51250, frq: 77}
+batch <> N: {rk: 6602, frq: 7574}, V: {rk: 47557, frq: 97}
+bateau <> N: {rk: 59894, frq: 45}
+bated <> J: {rk: 40379, frq: 158}
+bath <> N: {rk: 4207, frq: 15725}, V: {rk: 11962, frq: 2729}
+bathe <> V: {rk: 8861, frq: 4602}
+bather <> N: {rk: 33282, frq: 280}
+bathhouse <> N: {rk: 23522, frq: 680}
+bathing <> J: {rk: 14174, frq: 1978}, N: {rk: 33891, frq: 266}
+bathrobe <> N: {rk: 16380, frq: 1487}
+bathroom <> N: {rk: 2228, frq: 38712}
+bathtub <> N: {rk: 9971, frq: 3729}
+bathwater <> N: {rk: 29781, frq: 377}
+batik <> N: {rk: 37958, frq: 191}
+batman <> N: {rk: 27934, frq: 447}
+baton <> N: {rk: 13716, frq: 2104}
+batsman <> N: {rk: 39043, frq: 175}
+batt <> N: {rk: 29719, frq: 379}
+battalion <> N: {rk: 8163, frq: 5281}
+batted <> J: {rk: 48348, frq: 92}
+batten <> V: {rk: 31344, frq: 330}, N: {rk: 32891, frq: 289}
+batter <> V: {rk: 8186, frq: 5247}, N: {rk: 8453, frq: 4964}
+battered <> J: {rk: 8996, frq: 4502}
+batterer <> N: {rk: 31274, frq: 332}
+battering <> N: {rk: 24484, frq: 617}
+battery <> N: {rk: 2744, frq: 28962}
+batting <> N: {rk: 11407, frq: 2960}
+battle <> N: {rk: 1286, frq: 74296}, V: {rk: 4807, frq: 12822}
+battlecruiser <> N: {rk: 56405, frq: 56}
+battlefield <> N: {rk: 6665, frq: 7460}
+battlefront <> N: {rk: 44943, frq: 115}
+battleground <> N: {rk: 10520, frq: 3382}
+battlement <> N: {rk: 27813, frq: 452}
+battler <> N: {rk: 43586, frq: 126}
+battleship <> N: {rk: 14620, frq: 1853}
+battling <> J: {rk: 40903, frq: 152}
+batty <> J: {rk: 31068, frq: 338}
+bauble <> N: {rk: 27283, frq: 475}
+baud <> N: {rk: 48216, frq: 93}
+bauxite <> N: {rk: 37739, frq: 194}
+bawd <> N: {rk: 57953, frq: 51}
+bawdy <> J: {rk: 27240, frq: 477}
+bawl <> V: {rk: 20075, frq: 968}
+bawling <> N: {rk: 53734, frq: 66}
+bay <> N: {rk: 1652, frq: 56420}, J: {rk: 18683, frq: 1129}, V: {rk: 19815, frq: 997}
+bayberry <> N: {rk: 57330, frq: 53}
+baying <> N: {rk: 53961, frq: 65}
+bayonet <> N: {rk: 15680, frq: 1617}
+bayou <> N: {rk: 16862, frq: 1409}
+bazaar <> N: {rk: 12275, frq: 2608}
+bazar <> N: {rk: 59505, frq: 46}
+bazillion <> N: {rk: 40037, frq: 162}
+bazooka <> N: {rk: 31894, frq: 315}
+be <> V: {rk: 2, frq: 32394756}
+beach <> N: {rk: 1394, frq: 68303}, V: {rk: 24345, frq: 625}
+beachcomber <> N: {rk: 41372, frq: 147}
+beached <> J: {rk: 37881, frq: 192}
+beachfront <> N: {rk: 22653, frq: 743}
+beachhead <> N: {rk: 27689, frq: 458}
+beachside <> N: {rk: 33984, frq: 264}
+beachy <> J: {rk: 49254, frq: 87}
+beacon <> N: {rk: 10296, frq: 3523}
+bead <> N: {rk: 6677, frq: 7440}, V: {rk: 20760, frq: 901}
+beaded <> J: {rk: 18886, frq: 1104}
+beading <> N: {rk: 36349, frq: 217}
+beadwork <> N: {rk: 29909, frq: 373}
+beady <> J: {rk: 26210, frq: 525}
+beady-eyed <> J: {rk: 56406, frq: 56}
+beagle <> N: {rk: 22416, frq: 763}
+beak <> N: {rk: 12120, frq: 2668}
+beaked <> J: {rk: 45070, frq: 114}
+beaker <> N: {rk: 25801, frq: 546}
+beam <> N: {rk: 4433, frq: 14505}, V: {rk: 7522, frq: 6077}
+beamed <> J: {rk: 38675, frq: 180}
+beamer <> N: {rk: 39702, frq: 166}
+beaming <> J: {rk: 23565, frq: 675}
+bean <> N: {rk: 2771, frq: 28639}
+beanbag <> N: {rk: 31205, frq: 334}
+beanie <> N: {rk: 28211, frq: 434}
+beanpole <> N: {rk: 47404, frq: 98}
+beanstalk <> N: {rk: 35469, frq: 234}
+bear <> V: {rk: 1870, frq: 48272}, N: {rk: 1982, frq: 45125}
+bearable <> J: {rk: 21175, frq: 864}
+bearcat <> N: {rk: 37825, frq: 193}
+beard <> N: {rk: 5083, frq: 11768}
+bearded <> J: {rk: 11771, frq: 2801}
+beardless <> J: {rk: 42433, frq: 137}
+bearer <> N: {rk: 13031, frq: 2320}
+bearing <> N: {rk: 7805, frq: 5707}
+bearish <> J: {rk: 24507, frq: 616}
+bearskin <> N: {rk: 38829, frq: 178}
+beast <> N: {rk: 3575, frq: 19956}
+beastie <> N: {rk: 37150, frq: 203}
+beastly <> J: {rk: 28588, frq: 420}
+beat <> V: {rk: 1018, frq: 94941}, N: {rk: 3135, frq: 24421}
+beat-up <> N: {rk: 22012, frq: 795}, J: {rk: 39538, frq: 168}
+beatable <> J: {rk: 41875, frq: 142}
+beaten <> J: {rk: 11842, frq: 2775}
+beater <> N: {rk: 20105, frq: 966}
+beatific <> J: {rk: 29998, frq: 370}
+beatifically <> R: {rk: 57008, frq: 54}
+beatification <> N: {rk: 37271, frq: 201}
+beatify <> V: {rk: 47717, frq: 96}
+beating <> N: {rk: 6465, frq: 7909}, J: {rk: 58572, frq: 49}
+beatitude <> N: {rk: 34279, frq: 258}
+beatnik <> N: {rk: 32269, frq: 305}
+beau <> N: {rk: 13090, frq: 2297}
+beaut <> N: {rk: 35569, frq: 232}
+beauteous <> J: {rk: 45342, frq: 112}
+beautician <> N: {rk: 33676, frq: 271}
+beautification <> N: {rk: 31244, frq: 333}
+beautiful <> J: {rk: 806, frq: 120679}
+beautifully <> R: {rk: 6247, frq: 8406}
+beautify <> V: {rk: 28837, frq: 411}
+beauty <> N: {rk: 1919, frq: 46819}
+beaver <> N: {rk: 10449, frq: 3420}
+bebop <> N: {rk: 34395, frq: 256}, V: {rk: 42098, frq: 140}
+becalmed <> J: {rk: 43268, frq: 129}
+because <> C: {rk: 88, frq: 1167024}, I: {rk: 540, frq: 178859}
+bechamel <> N: {rk: 55272, frq: 60}
+beck <> N: {rk: 24707, frq: 604}
+beckon <> V: {rk: 10850, frq: 3220}
+beckoning <> J: {rk: 46324, frq: 105}
+become <> V: {rk: 167, frq: 561963}
+bed <> N: {rk: 767, frq: 127232}, V: {rk: 22193, frq: 780}
+bed-and-breakfast <> N: {rk: 28379, frq: 428}, J: {rk: 40726, frq: 154}
+bed-wetting <> N: {rk: 54201, frq: 64}
+bedazzle <> V: {rk: 40904, frq: 152}
+bedazzled <> J: {rk: 52109, frq: 73}
+bedbug <> N: {rk: 23617, frq: 672}
+bedchamber <> N: {rk: 27239, frq: 477}
+bedcover <> N: {rk: 41375, frq: 147}
+bedding <> N: {rk: 13350, frq: 2213}
+bedeck <> V: {rk: 34625, frq: 251}
+bedevil <> V: {rk: 24297, frq: 629}
+bedfellow <> N: {rk: 28240, frq: 433}
+bedframe <> N: {rk: 58887, frq: 48}
+bedlam <> N: {rk: 31606, frq: 323}
+bedpan <> N: {rk: 31867, frq: 316}
+bedpost <> N: {rk: 33889, frq: 266}
+bedraggled <> J: {rk: 28210, frq: 434}
+bedridden <> J: {rk: 27166, frq: 481}
+bedrock <> N: {rk: 14150, frq: 1984}
+bedroll <> N: {rk: 35570, frq: 232}
+bedroom <> N: {rk: 2252, frq: 37979}
+bedsheet <> N: {rk: 26582, frq: 507}
+bedside <> N: {rk: 10303, frq: 3521}
+bedsore <> N: {rk: 45341, frq: 112}
+bedspread <> N: {rk: 21500, frq: 836}
+bedspring <> N: {rk: 43584, frq: 126}
+bedstead <> N: {rk: 43470, frq: 127}
+bedtime <> N: {rk: 9157, frq: 4349}
+bee <> N: {rk: 4198, frq: 15760}
+beech <> N: {rk: 19164, frq: 1073}
+beef <> N: {rk: 3802, frq: 18253}, V: {rk: 19661, frq: 1015}
+beefcake <> N: {rk: 50786, frq: 79}
+beefsteak <> N: {rk: 36305, frq: 218}
+beefy <> J: {rk: 20195, frq: 957}
+beehive <> N: {rk: 20413, frq: 934}
+beekeeper <> N: {rk: 24636, frq: 608}
+beekeeping <> N: {rk: 31206, frq: 334}
+beeline <> N: {rk: 25886, frq: 541}
+beep <> V: {rk: 10544, frq: 3369}, N: {rk: 13440, frq: 2189}
+beeper <> N: {rk: 19871, frq: 991}
+beeping <> N: {rk: 39317, frq: 171}, J: {rk: 44570, frq: 118}
+beer <> N: {rk: 1815, frq: 50024}
+beery <> J: {rk: 50145, frq: 82}
+beeswax <> N: {rk: 25962, frq: 538}
+beet <> N: {rk: 10398, frq: 3457}
+beetle <> N: {rk: 8155, frq: 5292}
+beetroot <> N: {rk: 54471, frq: 63}
+befall <> V: {rk: 15319, frq: 1692}
+befit <> V: {rk: 17599, frq: 1286}
+before <> I: {rk: 239, frq: 402959}, C: {rk: 360, frq: 276286}, R: {rk: 678, frq: 142673}
+beforehand <> R: {rk: 10140, frq: 3622}
+befoul <> V: {rk: 58282, frq: 50}
+befriend <> V: {rk: 12492, frq: 2522}
+befuddle <> V: {rk: 38336, frq: 185}
+befuddled <> J: {rk: 26269, frq: 522}
+befuddlement <> N: {rk: 45497, frq: 111}
+beg <> V: {rk: 3094, frq: 24867}
+beget <> V: {rk: 15962, frq: 1561}
+beggar <> N: {rk: 12841, frq: 2393}, V: {rk: 32474, frq: 300}
+begging <> N: {rk: 18185, frq: 1198}
+begin <> V: {rk: 232, frq: 421878}
+beginner <> N: {rk: 9273, frq: 4250}
+beginning <> N: {rk: 1293, frq: 73853}
+begonia <> N: {rk: 30158, frq: 365}
+begotten <> J: {rk: 38131, frq: 188}
+begrudge <> V: {rk: 20686, frq: 909}
+begrudgingly <> R: {rk: 31272, frq: 332}
+beguile <> V: {rk: 30311, frq: 360}
+beguiling <> J: {rk: 24708, frq: 604}
+behalf <> I: {rk: 4460, frq: 14387}, N: {rk: 6838, frq: 7146}
+behave <> V: {rk: 3602, frq: 19799}
+behavior <> N: {rk: 696, frq: 138400}
+behavioral <> J: {rk: 3985, frq: 17052}
+behaviorally <> R: {rk: 29146, frq: 399}
+behaviorism <> N: {rk: 39947, frq: 163}
+behaviorist <> N: {rk: 27731, frq: 456}
+behavioural <> J: {rk: 20485, frq: 928}
+behead <> V: {rk: 16075, frq: 1542}
+beheaded <> J: {rk: 56119, frq: 57}
+beheading <> N: {rk: 24472, frq: 618}
+behemoth <> N: {rk: 14652, frq: 1844}
+behest <> N: {rk: 18162, frq: 1200}
+behind <> I: {rk: 471, frq: 203530}, R: {rk: 2181, frq: 39874}, N: {rk: 17879, frq: 1243}
+behold <> V: {rk: 7770, frq: 5753}, U: {rk: 21176, frq: 863}
+beholden <> J: {rk: 18026, frq: 1221}
+beholder <> N: {rk: 19028, frq: 1087}
+behoove <> V: {rk: 23616, frq: 672}
+beige <> J: {rk: 13178, frq: 2267}, N: {rk: 40378, frq: 158}
+beignet <> N: {rk: 35115, frq: 241}
+being <> N: {rk: 1563, frq: 60354}
+bejesus <> N: {rk: 39855, frq: 164}
+bejeweled <> J: {rk: 32307, frq: 304}
+belated <> J: {rk: 20826, frq: 895}
+belatedly <> R: {rk: 20524, frq: 924}
+belay <> V: {rk: 40905, frq: 152}, N: {rk: 48042, frq: 94}
+belch <> V: {rk: 20382, frq: 938}, N: {rk: 33985, frq: 264}
+beleaguered <> J: {rk: 15681, frq: 1617}
+belfry <> N: {rk: 36422, frq: 216}
+belie <> V: {rk: 17429, frq: 1312}
+belief <> N: {rk: 1310, frq: 73067}
+believability <> N: {rk: 36107, frq: 222}
+believable <> J: {rk: 11811, frq: 2788}
+believably <> R: {rk: 44054, frq: 122}
+believe <> V: {rk: 189, frq: 500511}
+believer <> N: {rk: 4540, frq: 14032}
+believing <> J: {rk: 31868, frq: 316}
+belittle <> V: {rk: 14338, frq: 1933}
+belittling <> N: {rk: 57327, frq: 53}
+bell <> N: {rk: 3100, frq: 24813}
+bell-bottom <> J: {rk: 35206, frq: 239}
+belladonna <> N: {rk: 46176, frq: 106}
+bellboy <> N: {rk: 32961, frq: 287}
+belle <> N: {rk: 18448, frq: 1162}
+bellhop <> N: {rk: 32962, frq: 287}
+bellicose <> J: {rk: 28692, frq: 416}
+bellicosity <> N: {rk: 51897, frq: 74}
+belligerence <> N: {rk: 32122, frq: 309}
+belligerency <> N: {rk: 51010, frq: 78}
+belligerent <> J: {rk: 17449, frq: 1309}, N: {rk: 37398, frq: 199}
+belligerently <> R: {rk: 45911, frq: 108}
+bellman <> N: {rk: 30992, frq: 340}
+bellow <> V: {rk: 14858, frq: 1792}, N: {rk: 16034, frq: 1549}
+bellowing <> N: {rk: 48679, frq: 90}, J: {rk: 52107, frq: 73}
+bellwether <> N: {rk: 26608, frq: 506}
+belly <> N: {rk: 4093, frq: 16361}, V: {rk: 36794, frq: 209}
+bellyache <> N: {rk: 45789, frq: 109}
+bellybutton <> N: {rk: 38597, frq: 181}
+bellyful <> N: {rk: 53241, frq: 68}
+belong <> V: {rk: 1656, frq: 56342}
+belongingness <> N: {rk: 44790, frq: 116}
+belongings <> N: {rk: 9940, frq: 3742}
+beloved <> J: {rk: 4578, frq: 13852}, N: {rk: 23336, frq: 692}
+below <> R: {rk: 1526, frq: 62313}, I: {rk: 2260, frq: 37877}
+belowground <> J: {rk: 36644, frq: 212}, R: {rk: 59510, frq: 46}
+belt <> N: {rk: 2683, frq: 29548}, V: {rk: 17479, frq: 1304}
+belted <> J: {rk: 35508, frq: 233}
+belter <> N: {rk: 50353, frq: 81}
+beltway <> N: {rk: 14312, frq: 1940}
+beluga <> N: {rk: 20402, frq: 935}
+bemoan <> V: {rk: 16113, frq: 1535}
+bemuse <> V: {rk: 59511, frq: 46}
+bemused <> J: {rk: 19045, frq: 1086}
+bemusement <> N: {rk: 36520, frq: 214}
+bench <> N: {rk: 3219, frq: 23481}, V: {rk: 22234, frq: 777}
+benched <> J: {rk: 48882, frq: 89}
+benching <> N: {rk: 49958, frq: 83}
+benchmark <> N: {rk: 7568, frq: 6021}, V: {rk: 45217, frq: 113}
+benchmarking <> N: {rk: 28509, frq: 423}
+bend <> V: {rk: 2615, frq: 30768}, N: {rk: 7044, frq: 6780}
+bendable <> J: {rk: 49959, frq: 83}
+bended <> J: {rk: 38202, frq: 187}
+bender <> N: {rk: 17172, frq: 1356}
+bending <> N: {rk: 23964, frq: 650}
+bendy <> J: {rk: 42518, frq: 136}
+beneath <> I: {rk: 2404, frq: 34337}, R: {rk: 14739, frq: 1822}
+benediction <> N: {rk: 24893, frq: 593}
+benefaction <> N: {rk: 59180, frq: 47}
+benefactor <> N: {rk: 15011, frq: 1758}
+benefice <> N: {rk: 56703, frq: 55}
+beneficence <> N: {rk: 33890, frq: 266}
+beneficent <> J: {rk: 30124, frq: 366}
+beneficial <> J: {rk: 5014, frq: 12013}
+beneficially <> R: {rk: 45343, frq: 112}
+beneficiary <> N: {rk: 6597, frq: 7582}
+benefit <> N: {rk: 827, frq: 116806}, V: {rk: 2295, frq: 37025}
+benevolence <> N: {rk: 19575, frq: 1025}
+benevolent <> J: {rk: 12441, frq: 2539}
+benevolently <> R: {rk: 44428, frq: 119}
+bengal <> J: {rk: 30981, frq: 340}
+benighted <> J: {rk: 30891, frq: 343}
+benign <> J: {rk: 8463, frq: 4958}
+benignly <> R: {rk: 34679, frq: 250}
+bent <> J: {rk: 14358, frq: 1927}, N: {rk: 35119, frq: 241}
+benthic <> J: {rk: 27182, frq: 480}
+benthos <> N: {rk: 57040, frq: 54}
+bentonite <> N: {rk: 56678, frq: 55}
+bentwood <> N: {rk: 51637, frq: 75}
+benumb <> V: {rk: 59149, frq: 47}
+benzene <> N: {rk: 23780, frq: 661}
+benzodiazepine <> N: {rk: 32725, frq: 293}
+benzoyl <> N: {rk: 48702, frq: 90}
+bequeath <> V: {rk: 18884, frq: 1104}
+bequest <> N: {rk: 23009, frq: 715}
+berate <> V: {rk: 15779, frq: 1595}
+bereaved <> J: {rk: 22191, frq: 780}
+bereavement <> N: {rk: 21631, frq: 825}
+bereft <> J: {rk: 18621, frq: 1137}
+beret <> N: {rk: 15100, frq: 1742}
+berg <> N: {rk: 38267, frq: 186}
+bergamot <> N: {rk: 49067, frq: 88}
+beribboned <> J: {rk: 51472, frq: 76}
+berm <> N: {rk: 24067, frq: 644}
+berry <> N: {rk: 7150, frq: 6606}, V: {rk: 51217, frq: 77}
+berserk <> J: {rk: 49590, frq: 85}
+berserker <> N: {rk: 42964, frq: 132}
+berth <> N: {rk: 11282, frq: 3011}, V: {rk: 36966, frq: 206}
+beryllium <> N: {rk: 37144, frq: 203}
+beseech <> V: {rk: 19676, frq: 1013}
+beset <> V: {rk: 15997, frq: 1555}
+beside <> I: {rk: 2420, frq: 34005}, R: {rk: 35750, frq: 228}
+besides <> R: {rk: 2765, frq: 28711}, I: {rk: 4136, frq: 16135}
+besiege <> V: {rk: 17372, frq: 1321}
+besieged <> J: {rk: 26188, frq: 526}
+besieger <> N: {rk: 59553, frq: 46}
+besmirch <> V: {rk: 30184, frq: 364}
+besotted <> J: {rk: 31833, frq: 317}
+bespeak <> V: {rk: 29035, frq: 404}
+bespectacled <> J: {rk: 25755, frq: 548}
+best <> J: {rk: 281, frq: 348202}, R: {rk: 977, frq: 98807}, V: {rk: 8862, frq: 4601}
+best-seller <> N: {rk: 8957, frq: 4528}
+best-selling <> J: {rk: 7886, frq: 5614}
+bestial <> J: {rk: 34639, frq: 251}
+bestiality <> N: {rk: 33715, frq: 270}
+bestiary <> N: {rk: 46028, frq: 107}
+bestir <> V: {rk: 53265, frq: 68}
+bestow <> V: {rk: 9417, frq: 4140}
+bestowal <> N: {rk: 48514, frq: 91}
+bestride <> V: {rk: 54225, frq: 64}
+bet <> V: {rk: 2019, frq: 43896}, N: {rk: 4112, frq: 16276}
+beta <> N: {rk: 6186, frq: 8531}
+beta-blocker <> N: {rk: 38199, frq: 187}
+beta-carotene <> N: {rk: 30605, frq: 351}
+betake <> V: {rk: 54986, frq: 61}
+betel <> N: {rk: 45638, frq: 110}
+betide <> V: {rk: 53266, frq: 68}
+betoken <> V: {rk: 44804, frq: 116}
+betray <> V: {rk: 4778, frq: 12934}
+betrayal <> N: {rk: 7570, frq: 6018}
+betrayed <> J: {rk: 18552, frq: 1147}
+betrayer <> N: {rk: 32081, frq: 310}
+betroth <> V: {rk: 33939, frq: 265}
+betrothal <> N: {rk: 33179, frq: 282}
+betrothed <> J: {rk: 34234, frq: 259}
+better <> J: {rk: 391, frq: 247453}, R: {rk: 404, frq: 241827}, V: {rk: 9951, frq: 3737}
+betterment <> N: {rk: 20613, frq: 917}
+betting <> N: {rk: 17198, frq: 1351}, J: {rk: 38834, frq: 178}
+bettor <> N: {rk: 30892, frq: 343}
+between <> I: {rk: 169, frq: 558517}, R: {rk: 5164, frq: 11510}, J: {rk: 22071, frq: 790}
+betwixt <> I: {rk: 35823, frq: 227}
+bevel <> N: {rk: 37951, frq: 191}, V: {rk: 39391, frq: 170}
+beveled <> J: {rk: 38835, frq: 178}
+beverage <> N: {rk: 6903, frq: 7034}
+bevy <> N: {rk: 21585, frq: 828}
+bewail <> V: {rk: 45367, frq: 112}
+beware <> V: {rk: 9450, frq: 4117}
+bewilder <> V: {rk: 38836, frq: 178}
+bewildered <> J: {rk: 13260, frq: 2243}
+bewildering <> J: {rk: 18871, frq: 1105}
+bewilderingly <> R: {rk: 56675, frq: 55}
+bewilderment <> N: {rk: 20269, frq: 949}
+bewitch <> V: {rk: 26282, frq: 521}
+bewitched <> J: {rk: 35868, frq: 226}
+bewitching <> J: {rk: 45770, frq: 109}
+bey <> N: {rk: 43699, frq: 125}
+beyond <> I: {rk: 872, frq: 111221}, R: {rk: 5054, frq: 11858}, N: {rk: 26860, frq: 495}
+bezel <> N: {rk: 28382, frq: 428}
+biafran <> N: {rk: 51218, frq: 77}
+biannual <> J: {rk: 31453, frq: 327}
+bias <> N: {rk: 3495, frq: 20699}, V: {rk: 12221, frq: 2629}
+biased <> J: {rk: 8123, frq: 5327}
+biathlon <> N: {rk: 40560, frq: 156}
+bib <> N: {rk: 22571, frq: 749}, V: {rk: 59851, frq: 45}
+bible <> N: {rk: 2237, frq: 38492}
+biblical <> J: {rk: 5174, frq: 11479}
+biblically <> R: {rk: 28235, frq: 433}
+bibliographer <> N: {rk: 57682, frq: 52}
+bibliographic <> J: {rk: 20660, frq: 912}
+bibliographical <> J: {rk: 40123, frq: 161}
+bibliography <> N: {rk: 15138, frq: 1734}
+bibliophile <> N: {rk: 44805, frq: 116}
+bicameral <> J: {rk: 41692, frq: 144}
+bicarbonate <> N: {rk: 34080, frq: 262}
+bicentennial <> J: {rk: 25031, frq: 585}
+biceps <> N: {rk: 14281, frq: 1947}
+bicker <> V: {rk: 15689, frq: 1615}
+bickering <> N: {rk: 22371, frq: 766}, J: {rk: 45771, frq: 109}
+bicoastal <> J: {rk: 44806, frq: 116}
+bicultural <> J: {rk: 37818, frq: 193}
+bicycle <> N: {rk: 4936, frq: 12317}, V: {rk: 17782, frq: 1257}
+bicycling <> J: {rk: 40559, frq: 156}, N: {rk: 49941, frq: 83}
+bicyclist <> N: {rk: 18232, frq: 1190}
+bid <> N: {rk: 4396, frq: 14746}, V: {rk: 6312, frq: 8273}
+bidder <> N: {rk: 11781, frq: 2798}
+bidding <> N: {rk: 10182, frq: 3594}
+biddy <> N: {rk: 40302, frq: 159}
+bide <> V: {rk: 20770, frq: 900}
+bidet <> N: {rk: 38268, frq: 186}
+bidirectional <> J: {rk: 28486, frq: 424}
+biennial <> N: {rk: 18978, frq: 1093}
+biennially <> R: {rk: 53471, frq: 67}
+biennium <> N: {rk: 47538, frq: 97}
+bier <> N: {rk: 35988, frq: 224}
+biff <> V: {rk: 39392, frq: 170}
+bifocal <> J: {rk: 56430, frq: 56}
+bifocals <> N: {rk: 35357, frq: 236}
+bifurcate <> V: {rk: 35710, frq: 229}
+bifurcated <> J: {rk: 37212, frq: 202}
+bifurcation <> N: {rk: 24332, frq: 626}
+big <> J: {rk: 156, frq: 600364}, R: {rk: 20369, frq: 939}
+big-headed <> J: {rk: 49940, frq: 83}
+big-hearted <> J: {rk: 38594, frq: 181}
+big-ticket <> J: {rk: 25719, frq: 550}
+bigamist <> N: {rk: 48860, frq: 89}
+bigamy <> N: {rk: 39540, frq: 168}
+bigeye <> N: {rk: 59554, frq: 46}
+biggie <> N: {rk: 22801, frq: 731}
+bighorn <> N: {rk: 24788, frq: 599}
+bight <> N: {rk: 48057, frq: 94}
+bigness <> N: {rk: 35151, frq: 240}
+bigot <> N: {rk: 12229, frq: 2625}
+bigoted <> J: {rk: 15935, frq: 1565}
+bigotry <> N: {rk: 10213, frq: 3574}
+bigwig <> N: {rk: 28214, frq: 434}
+bijou <> N: {rk: 30921, frq: 342}
+bike <> N: {rk: 2220, frq: 38920}, V: {rk: 11410, frq: 2958}
+biker <> N: {rk: 10859, frq: 3214}
+bikeway <> N: {rk: 50327, frq: 81}
+biking <> N: {rk: 34972, frq: 244}, J: {rk: 39393, frq: 170}
+bikini <> N: {rk: 9987, frq: 3717}
+bilateral <> J: {rk: 8224, frq: 5207}
+bilateralism <> N: {rk: 59848, frq: 45}
+bilaterally <> R: {rk: 31380, frq: 329}
+bilayer <> N: {rk: 49066, frq: 88}
+bilberry <> N: {rk: 58317, frq: 50}
+bildungsroman <> N: {rk: 46302, frq: 105}
+bile <> N: {rk: 16268, frq: 1506}
+bilge <> N: {rk: 27775, frq: 454}
+biliary <> J: {rk: 38593, frq: 181}
+bilingual <> J: {rk: 10031, frq: 3695}, N: {rk: 39176, frq: 173}
+bilingualism <> N: {rk: 36037, frq: 223}
+bilious <> J: {rk: 39862, frq: 164}
+bilirubin <> N: {rk: 38837, frq: 178}
+bilk <> V: {rk: 29821, frq: 376}
+bill <> N: {rk: 761, frq: 127919}, V: {rk: 8848, frq: 4610}
+billable <> J: {rk: 29913, frq: 373}
+billabong <> N: {rk: 57298, frq: 53}
+billboard <> N: {rk: 7735, frq: 5798}
+billed <> J: {rk: 54764, frq: 62}
+billet <> N: {rk: 36196, frq: 220}
+billfish <> N: {rk: 33888, frq: 266}
+billfold <> N: {rk: 45480, frq: 111}
+billiards <> N: {rk: 21434, frq: 842}
+billing <> N: {rk: 9591, frq: 4003}
+billion <> M: {rk: 1360, frq: 70048}, N: {rk: 1756, frq: 52087}
+billionaire <> N: {rk: 7157, frq: 6596}
+billionth <> N: {rk: 33005, frq: 286}
+billow <> V: {rk: 15382, frq: 1677}, N: {rk: 43947, frq: 123}
+billowing <> J: {rk: 32854, frq: 290}
+billows <> N: {rk: 33677, frq: 271}
+billowy <> J: {rk: 36786, frq: 209}
+billy <> N: {rk: 21697, frq: 819}
+bimbo <> N: {rk: 20379, frq: 938}
+bimodal <> J: {rk: 34081, frq: 262}
+bimonthly <> R: {rk: 29034, frq: 404}
+binary <> J: {rk: 9988, frq: 3717}, N: {rk: 15309, frq: 1694}
+binational <> J: {rk: 28319, frq: 430}
+binaural <> J: {rk: 42745, frq: 134}
+bind <> V: {rk: 2579, frq: 31267}, N: {rk: 18314, frq: 1178}
+binder <> N: {rk: 11455, frq: 2942}
+bindi <> N: {rk: 51219, frq: 77}
+binding <> J: {rk: 8355, frq: 5065}, N: {rk: 14383, frq: 1923}
+binge <> N: {rk: 14298, frq: 1943}, V: {rk: 20910, frq: 887}
+bingeing <> N: {rk: 47865, frq: 95}
+bingo <> N: {rk: 9560, frq: 4034}
+binocular <> J: {rk: 25852, frq: 543}
+binoculars <> N: {rk: 9508, frq: 4076}
+binomial <> J: {rk: 30893, frq: 343}
+bio <> N: {rk: 12487, frq: 2523}
+bioaccumulation <> N: {rk: 52533, frq: 71}
+bioactive <> J: {rk: 42746, frq: 134}
+bioactivity <> N: {rk: 58921, frq: 48}
+bioassay <> N: {rk: 40910, frq: 152}
+bioavailability <> N: {rk: 36197, frq: 220}
+bioavailable <> J: {rk: 45201, frq: 113}
+biochemical <> J: {rk: 14473, frq: 1898}
+biochemically <> R: {rk: 44920, frq: 115}
+biochemist <> N: {rk: 26467, frq: 512}
+biochemistry <> N: {rk: 18787, frq: 1115}
+biochip <> N: {rk: 56679, frq: 55}
+biocide <> N: {rk: 50161, frq: 82}
+biocompatibility <> N: {rk: 57681, frq: 52}
+biocompatible <> J: {rk: 56429, frq: 56}
+biocontrol <> N: {rk: 40814, frq: 153}
+biodegradable <> J: {rk: 22651, frq: 743}
+biodegradation <> N: {rk: 49783, frq: 84}
+biodegrade <> V: {rk: 51471, frq: 76}
+biodiesel <> N: {rk: 23714, frq: 665}
+biodiverse <> J: {rk: 53941, frq: 65}
+biodiversity <> N: {rk: 8328, frq: 5095}
+biodynamic <> J: {rk: 41972, frq: 141}
+bioelectric <> J: {rk: 54448, frq: 63}
+bioenergy <> N: {rk: 34489, frq: 254}
+bioengineered <> J: {rk: 38198, frq: 187}
+bioengineering <> J: {rk: 52981, frq: 69}
+bioethical <> J: {rk: 42618, frq: 135}
+bioethicist <> N: {rk: 36195, frq: 220}
+bioethics <> N: {rk: 24044, frq: 645}
+biofeedback <> N: {rk: 27452, frq: 468}
+biofilm <> N: {rk: 29882, frq: 374}
+biofilter <> N: {rk: 34141, frq: 261}
+biofuel <> N: {rk: 14176, frq: 1977}
+biofuels <> N: {rk: 48859, frq: 89}
+biogas <> N: {rk: 36094, frq: 222}
+biogenesis <> N: {rk: 41970, frq: 141}
+biogenetic <> J: {rk: 54987, frq: 61}
+biogenic <> J: {rk: 42965, frq: 132}
+biogeochemical <> J: {rk: 40562, frq: 156}
+biogeochemistry <> N: {rk: 56681, frq: 55}
+biogeographic <> J: {rk: 40232, frq: 160}
+biogeographical <> J: {rk: 49226, frq: 87}
+biogeography <> N: {rk: 40233, frq: 160}
+biographer <> N: {rk: 11873, frq: 2765}
+biographical <> J: {rk: 14907, frq: 1783}
+biography <> N: {rk: 5576, frq: 10198}
+biohazard <> N: {rk: 33627, frq: 272}
+bioinformatics <> N: {rk: 34922, frq: 245}
+biologic <> J: {rk: 26085, frq: 531}
+biological <> J: {rk: 2955, frq: 26435}
+biologically <> R: {rk: 13244, frq: 2250}
+biologist <> N: {rk: 6105, frq: 8708}
+biology <> N: {rk: 4073, frq: 16518}
+bioluminescence <> N: {rk: 41771, frq: 143}
+bioluminescent <> J: {rk: 39758, frq: 165}
+biomarker <> N: {rk: 17170, frq: 1357}
+biomass <> N: {rk: 10480, frq: 3402}
+biomaterial <> N: {rk: 45202, frq: 113}
+biome <> N: {rk: 29787, frq: 377}
+biomechanical <> J: {rk: 27652, frq: 459}
+biomechanics <> N: {rk: 27005, frq: 488}
+biomedical <> J: {rk: 12345, frq: 2576}
+biomedicine <> N: {rk: 39394, frq: 170}
+biometric <> J: {rk: 22192, frq: 780}
+biometrics <> N: {rk: 29283, frq: 394}
+biomolecular <> J: {rk: 43700, frq: 125}
+biomolecule <> N: {rk: 38460, frq: 183}
+biomorphic <> J: {rk: 56428, frq: 56}
+bionic <> J: {rk: 24686, frq: 605}
+bionics <> N: {rk: 52980, frq: 69}
+biopharmaceutical <> J: {rk: 46485, frq: 104}
+biophysical <> J: {rk: 30155, frq: 365}
+biophysicist <> N: {rk: 51915, frq: 74}
+biophysics <> N: {rk: 40626, frq: 155}
+biopic <> N: {rk: 22372, frq: 766}
+biopolymer <> N: {rk: 58319, frq: 50}
+biopsy <> N: {rk: 10999, frq: 3146}, V: {rk: 48195, frq: 93}
+biopsychosocial <> J: {rk: 45366, frq: 112}
+bioreactor <> N: {rk: 38018, frq: 190}
+bioregion <> N: {rk: 54223, frq: 64}
+bioremediation <> N: {rk: 38136, frq: 188}
+biorhythm <> N: {rk: 56095, frq: 57}
+bios <> N: {rk: 23181, frq: 704}
+biosafety <> J: {rk: 46303, frq: 105}
+bioscience <> N: {rk: 29492, frq: 387}
+biosecurity <> N: {rk: 48703, frq: 90}
+biosensor <> N: {rk: 46892, frq: 101}
+biosolids <> N: {rk: 18300, frq: 1181}
+biosphere <> N: {rk: 16500, frq: 1467}
+biospherian <> N: {rk: 58320, frq: 50}
+biostatistics <> N: {rk: 46029, frq: 107}
+biosynthesis <> N: {rk: 31201, frq: 334}
+biosynthetic <> J: {rk: 42191, frq: 139}
+biota <> N: {rk: 24380, frq: 623}
+biotech <> J: {rk: 18165, frq: 1200}, N: {rk: 20870, frq: 891}
+biotechnological <> J: {rk: 50328, frq: 81}
+biotechnology <> N: {rk: 12042, frq: 2696}
+bioterrorism <> N: {rk: 26348, frq: 517}
+biotic <> J: {rk: 24275, frq: 630}
+biotin <> N: {rk: 43453, frq: 127}
+biowarfare <> N: {rk: 59849, frq: 45}
+bioweapon <> N: {rk: 32781, frq: 292}
+bipartisan <> J: {rk: 6022, frq: 8906}
+bipartisanship <> N: {rk: 18240, frq: 1189}
+bipartite <> J: {rk: 58546, frq: 49}
+biped <> J: {rk: 50329, frq: 81}, N: {rk: 50330, frq: 81}
+bipedal <> J: {rk: 32970, frq: 287}
+bipedalism <> N: {rk: 45772, frq: 109}
+biphasic <> J: {rk: 42836, frq: 133}
+biphenyl <> N: {rk: 32510, frq: 299}
+biplane <> N: {rk: 32811, frq: 291}
+bipolar <> J: {rk: 10858, frq: 3215}
+bipolarity <> N: {rk: 46789, frq: 102}
+biracial <> J: {rk: 20932, frq: 884}
+birch <> N: {rk: 14390, frq: 1922}
+birchbark <> N: {rk: 52808, frq: 70}
+bird <> N: {rk: 1368, frq: 69662}
+bird-watcher <> N: {rk: 35621, frq: 231}
+birdbath <> N: {rk: 33766, frq: 269}
+birdcage <> N: {rk: 36093, frq: 222}
+birdcall <> N: {rk: 50761, frq: 79}
+birder <> N: {rk: 26372, frq: 516}
+birdhouse <> N: {rk: 28806, frq: 412}
+birdie <> N: {rk: 12194, frq: 2640}, V: {rk: 37542, frq: 197}
+birding <> J: {rk: 41971, frq: 141}
+birdlike <> J: {rk: 31477, frq: 326}
+birdseed <> N: {rk: 37145, frq: 203}
+birdshot <> N: {rk: 47539, frq: 97}
+birdsong <> N: {rk: 27026, frq: 487}
+birdwatch <> V: {rk: 56094, frq: 57}
+birefringence <> N: {rk: 58922, frq: 48}
+birth <> N: {rk: 1558, frq: 60673}, V: {rk: 18574, frq: 1144}
+birthdate <> N: {rk: 36253, frq: 219}
+birthday <> N: {rk: 2068, frq: 42727}
+birthing <> J: {rk: 28350, frq: 429}, N: {rk: 41586, frq: 145}
+birthmark <> N: {rk: 24242, frq: 632}
+birthplace <> N: {rk: 13168, frq: 2272}
+birthrate <> N: {rk: 25248, frq: 574}
+birthright <> N: {rk: 17406, frq: 1315}
+birthweight <> N: {rk: 33091, frq: 284}
+biryani <> N: {rk: 57685, frq: 52}
+biscotti <> N: {rk: 29033, frq: 404}
+biscuit <> N: {rk: 8149, frq: 5299}
+bisect <> V: {rk: 24787, frq: 599}
+bisexual <> J: {rk: 10408, frq: 3450}, N: {rk: 32129, frq: 309}
+bisexuality <> N: {rk: 30642, frq: 350}
+bishop <> N: {rk: 3435, frq: 21282}
+bishopric <> N: {rk: 43704, frq: 125}
+bismuth <> N: {rk: 41171, frq: 149}
+bison <> N: {rk: 12432, frq: 2543}
+bisphosphonate <> N: {rk: 44675, frq: 117}
+bisque <> N: {rk: 29883, frq: 374}
+bistro <> N: {rk: 16149, frq: 1528}
+bit <> N: {rk: 808, frq: 120467}, R: {rk: 970, frq: 99520}
+bitch <> N: {rk: 2468, frq: 33157}, V: {rk: 9894, frq: 3775}
+bitchiness <> N: {rk: 51222, frq: 77}
+bitching <> N: {rk: 41694, frq: 144}
+bitchy <> J: {rk: 23368, frq: 689}
+bite <> V: {rk: 2943, frq: 26532}, N: {rk: 3924, frq: 17445}
+bite-sized <> J: {rk: 32082, frq: 310}
+biter <> N: {rk: 32469, frq: 300}
+biting <> J: {rk: 15565, frq: 1639}
+bitmap <> N: {rk: 38895, frq: 177}
+bitstream <> N: {rk: 54229, frq: 64}
+bitter <> J: {rk: 4014, frq: 16881}, N: {rk: 24537, frq: 614}
+bitterly <> R: {rk: 10827, frq: 3231}
+bitterness <> N: {rk: 9760, frq: 3868}
+bittersweet <> J: {rk: 13175, frq: 2268}
+bitty <> J: {rk: 25718, frq: 550}
+bitumen <> N: {rk: 35252, frq: 238}
+bituminous <> J: {rk: 49068, frq: 88}
+bivalent <> J: {rk: 58920, frq: 48}
+bivalve <> N: {rk: 37392, frq: 199}
+bivariate <> J: {rk: 22144, frq: 783}
+bivouac <> N: {rk: 38592, frq: 181}
+biweekly <> R: {rk: 26442, frq: 513}
+biz <> N: {rk: 14882, frq: 1787}
+bizarre <> J: {rk: 5050, frq: 11875}
+bizarrely <> R: {rk: 25552, frq: 557}
+blab <> V: {rk: 27472, frq: 467}
+blabbermouth <> N: {rk: 50589, frq: 80}
+black <> J: {rk: 340, frq: 293101}, N: {rk: 2515, frq: 32406}, V: {rk: 14380, frq: 1924}
+black-tie <> J: {rk: 27976, frq: 445}
+blackball <> V: {rk: 37469, frq: 198}, N: {rk: 54228, frq: 64}
+blackberry <> N: {rk: 7722, frq: 5809}
+blackbird <> N: {rk: 18720, frq: 1126}
+blackboard <> N: {rk: 16616, frq: 1447}
+blackbody <> N: {rk: 38973, frq: 176}
+blacken <> V: {rk: 18522, frq: 1152}
+blackened <> J: {rk: 17578, frq: 1290}
+blackface <> N: {rk: 27353, frq: 472}
+blackfish <> N: {rk: 46305, frq: 105}
+blackfly <> N: {rk: 53474, frq: 67}
+blackguard <> N: {rk: 40813, frq: 153}
+blackhead <> N: {rk: 43051, frq: 131}
+blackish <> J: {rk: 40386, frq: 158}
+blackjack <> N: {rk: 21063, frq: 874}, V: {rk: 37817, frq: 193}
+blacklist <> N: {rk: 24756, frq: 601}, V: {rk: 26901, frq: 493}
+blacklisted <> J: {rk: 46893, frq: 101}
+blackly <> R: {rk: 53937, frq: 65}
+blackmail <> V: {rk: 13248, frq: 2249}, N: {rk: 15998, frq: 1555}
+blackmailer <> N: {rk: 37079, frq: 204}
+blackness <> N: {rk: 11413, frq: 2957}
+blackout <> N: {rk: 10257, frq: 3551}
+blacksmith <> N: {rk: 17272, frq: 1339}
+blacktail <> N: {rk: 54770, frq: 62}
+blacktop <> N: {rk: 23217, frq: 701}
+bladder <> N: {rk: 9406, frq: 4150}
+blade <> N: {rk: 3631, frq: 19562}, V: {rk: 49069, frq: 88}
+bladed <> J: {rk: 48060, frq: 94}
+blah <> U: {rk: 6152, frq: 8616}
+blahs <> N: {rk: 50336, frq: 81}
+blame <> V: {rk: 1601, frq: 58815}, N: {rk: 4966, frq: 12192}
+blameless <> J: {rk: 23316, frq: 694}
+blameworthy <> J: {rk: 46194, frq: 106}
+blaming <> N: {rk: 46480, frq: 104}
+blanch <> V: {rk: 20585, frq: 918}
+blanched <> J: {rk: 33181, frq: 282}
+bland <> J: {rk: 10941, frq: 3173}
+blandishment <> N: {rk: 40048, frq: 162}
+blandly <> R: {rk: 31559, frq: 324}
+blandness <> N: {rk: 38019, frq: 190}
+blank <> J: {rk: 5013, frq: 12014}, N: {rk: 11904, frq: 2754}, V: {rk: 19703, frq: 1010}, R: {rk: 26859, frq: 495}
+blanket <> N: {rk: 3661, frq: 19318}, V: {rk: 16396, frq: 1485}
+blankly <> R: {rk: 18092, frq: 1211}
+blankness <> N: {rk: 33244, frq: 281}
+blare <> V: {rk: 13089, frq: 2299}, N: {rk: 31609, frq: 323}
+blaring <> J: {rk: 39936, frq: 163}, N: {rk: 58316, frq: 50}
+blarney <> N: {rk: 54984, frq: 61}
+blase <> J: {rk: 29244, frq: 395}
+blaspheme <> V: {rk: 40732, frq: 154}
+blasphemer <> N: {rk: 37950, frq: 191}
+blasphemous <> J: {rk: 23914, frq: 653}
+blasphemy <> N: {rk: 15804, frq: 1592}
+blast <> N: {rk: 4851, frq: 12661}, V: {rk: 5399, frq: 10704}
+blasted <> J: {rk: 23744, frq: 663}
+blaster <> N: {rk: 17847, frq: 1247}
+blasting <> J: {rk: 31381, frq: 329}, N: {rk: 54983, frq: 61}
+blastocyst <> N: {rk: 39710, frq: 166}
+blastomere <> N: {rk: 55306, frq: 60}
+blatant <> J: {rk: 9643, frq: 3954}
+blatantly <> R: {rk: 12980, frq: 2340}
+blather <> N: {rk: 31528, frq: 325}, V: {rk: 31989, frq: 313}
+blaxploitation <> N: {rk: 44427, frq: 119}
+blaze <> V: {rk: 9179, frq: 4328}, N: {rk: 9451, frq: 4117}
+blazer <> N: {rk: 9292, frq: 4240}
+blazing <> J: {rk: 17820, frq: 1252}
+blazingly <> R: {rk: 51223, frq: 77}
+blazon <> N: {rk: 56671, frq: 55}
+bleach <> N: {rk: 14527, frq: 1884}, V: {rk: 17192, frq: 1353}
+bleached <> J: {rk: 21401, frq: 844}
+bleachers <> N: {rk: 14630, frq: 1849}
+bleaching <> J: {rk: 46304, frq: 105}, N: {rk: 46787, frq: 102}
+bleak <> J: {rk: 8647, frq: 4781}
+bleakly <> R: {rk: 36738, frq: 210}
+bleakness <> N: {rk: 36095, frq: 222}
+blearily <> R: {rk: 47229, frq: 99}
+bleary <> J: {rk: 31785, frq: 318}
+bleary-eyed <> J: {rk: 30782, frq: 346}
+bleat <> V: {rk: 25934, frq: 539}, N: {rk: 37543, frq: 197}
+bleating <> N: {rk: 42534, frq: 136}, J: {rk: 54232, frq: 64}
+bleed <> V: {rk: 4369, frq: 14888}
+bleeder <> N: {rk: 36036, frq: 223}
+bleeding <> J: {rk: 6773, frq: 7263}, N: {rk: 50016, frq: 83}
+bleep <> N: {rk: 19687, frq: 1012}, V: {rk: 27332, frq: 473}
+bleeping <> J: {rk: 54664, frq: 62}
+blemish <> N: {rk: 19081, frq: 1082}, V: {rk: 39490, frq: 169}
+blemished <> J: {rk: 53069, frq: 69}
+blend <> V: {rk: 4672, frq: 13390}, N: {rk: 6996, frq: 6853}
+blended <> J: {rk: 16446, frq: 1476}
+blender <> N: {rk: 9752, frq: 3872}
+blending <> N: {rk: 23421, frq: 686}, J: {rk: 41029, frq: 151}
+bless <> V: {rk: 3235, frq: 23307}
+blessed <> J: {rk: 6900, frq: 7039}
+blessedly <> R: {rk: 32138, frq: 309}
+blessedness <> N: {rk: 39334, frq: 171}
+blessing <> N: {rk: 4199, frq: 15758}
+bleu <> N: {rk: 30546, frq: 353}
+blight <> N: {rk: 15965, frq: 1561}, V: {rk: 24387, frq: 623}
+blighted <> J: {rk: 30100, frq: 367}
+blighter <> N: {rk: 54026, frq: 65}
+blimey <> U: {rk: 40191, frq: 160}
+blimp <> N: {rk: 23890, frq: 655}
+blind <> J: {rk: 2708, frq: 29326}, V: {rk: 7860, frq: 5647}, N: {rk: 10199, frq: 3583}
+blinded <> J: {rk: 35744, frq: 228}
+blinders <> N: {rk: 23602, frq: 673}
+blindfold <> V: {rk: 18740, frq: 1123}, N: {rk: 21159, frq: 865}
+blindfolded <> J: {rk: 36948, frq: 206}
+blinding <> J: {rk: 13371, frq: 2207}
+blindingly <> R: {rk: 30376, frq: 358}
+blindly <> R: {rk: 11300, frq: 3005}
+blindness <> N: {rk: 9884, frq: 3782}
+blindside <> N: {rk: 40012, frq: 162}
+bling <> N: {rk: 35631, frq: 231}
+bling-bling <> N: {rk: 54542, frq: 63}
+blini <> N: {rk: 50402, frq: 81}
+blink <> V: {rk: 5185, frq: 11416}, N: {rk: 12645, frq: 2455}
+blinker <> N: {rk: 40877, frq: 152}, V: {rk: 47008, frq: 100}
+blinkered <> J: {rk: 46672, frq: 103}
+blinkers <> N: {rk: 43306, frq: 129}
+blinking <> J: {rk: 19686, frq: 1012}, N: {rk: 24458, frq: 619}
+blip <> N: {rk: 15906, frq: 1571}, V: {rk: 38485, frq: 183}
+bliss <> N: {rk: 9806, frq: 3833}
+blissful <> J: {rk: 19586, frq: 1023}
+blissfully <> R: {rk: 21368, frq: 847}
+blister <> N: {rk: 13292, frq: 2234}, V: {rk: 24561, frq: 613}
+blistered <> J: {rk: 40653, frq: 155}
+blistering <> J: {rk: 16999, frq: 1386}
+blisteringly <> R: {rk: 53668, frq: 66}
+blithe <> J: {rk: 29742, frq: 378}
+blithely <> R: {rk: 20002, frq: 976}
+blithering <> J: {rk: 39788, frq: 165}
+blitz <> N: {rk: 13077, frq: 2301}, V: {rk: 21187, frq: 862}
+blitzkrieg <> N: {rk: 34934, frq: 245}
+blizzard <> N: {rk: 9135, frq: 4368}
+bloat <> V: {rk: 26219, frq: 525}, N: {rk: 31538, frq: 325}
+bloated <> J: {rk: 11521, frq: 2909}
+bloating <> N: {rk: 48574, frq: 91}
+blob <> N: {rk: 14091, frq: 1999}
+blobby <> J: {rk: 54543, frq: 63}
+bloc <> N: {rk: 9396, frq: 4157}
+block <> N: {rk: 1311, frq: 73065}, V: {rk: 2389, frq: 34808}
+blockade <> N: {rk: 11376, frq: 2974}, V: {rk: 25121, frq: 581}
+blockage <> N: {rk: 17620, frq: 1283}
+blockbuster <> N: {rk: 9177, frq: 4331}
+blocked <> J: {rk: 15724, frq: 1606}
+blocker <> N: {rk: 13752, frq: 2089}
+blockhead <> N: {rk: 39370, frq: 170}
+blockhouse <> N: {rk: 44706, frq: 117}
+blocking <> J: {rk: 13316, frq: 2224}, N: {rk: 16893, frq: 1404}
+blocky <> J: {rk: 29395, frq: 390}
+blog <> N: {rk: 1307, frq: 73163}, V: {rk: 7114, frq: 6667}
+blogger <> N: {rk: 5197, frq: 11377}
+blogging <> N: {rk: 8057, frq: 5400}, J: {rk: 20110, frq: 966}
+blogosphere <> N: {rk: 17542, frq: 1295}
+blogroll <> J: {rk: 47671, frq: 96}
+bloke <> N: {rk: 17174, frq: 1356}
+blond <> J: {rk: 5673, frq: 9901}, N: {rk: 23203, frq: 702}
+blonde <> J: {rk: 6868, frq: 7108}, N: {rk: 13859, frq: 2058}
+blondish <> J: {rk: 56192, frq: 57}
+blood <> N: {rk: 705, frq: 137579}
+blood-borne <> J: {rk: 41253, frq: 148}
+blood-curdling <> J: {rk: 35630, frq: 231}
+blood-red <> J: {rk: 26412, frq: 515}
+bloodbath <> N: {rk: 22702, frq: 739}
+blooded <> J: {rk: 34050, frq: 263}
+bloodhound <> N: {rk: 27899, frq: 448}
+bloodied <> J: {rk: 21924, frq: 803}
+bloodily <> R: {rk: 55077, frq: 61}
+bloodless <> J: {rk: 22088, frq: 789}
+bloodletting <> N: {rk: 27568, frq: 463}
+bloodline <> N: {rk: 19845, frq: 993}
+bloodlust <> N: {rk: 34848, frq: 247}
+bloodroot <> N: {rk: 58060, frq: 51}
+bloodshed <> N: {rk: 12673, frq: 2448}
+bloodshot <> J: {rk: 22910, frq: 724}
+bloodstain <> N: {rk: 28924, frq: 408}
+bloodstream <> N: {rk: 13596, frq: 2139}
+bloodsucker <> N: {rk: 34356, frq: 257}
+bloodthirsty <> J: {rk: 20775, frq: 899}
+bloody <> J: {rk: 4087, frq: 16415}, R: {rk: 9433, frq: 4131}, V: {rk: 27799, frq: 453}
+bloody-minded <> J: {rk: 58798, frq: 48}
+bloom <> N: {rk: 7852, frq: 5657}, V: {rk: 8800, frq: 4643}
+bloomer <> N: {rk: 28356, frq: 429}
+bloomers <> N: {rk: 29922, frq: 373}
+blooming <> J: {rk: 19212, frq: 1067}
+bloop <> N: {rk: 51312, frq: 77}
+blooper <> N: {rk: 32230, frq: 306}
+blossom <> N: {rk: 7674, frq: 5860}, V: {rk: 13645, frq: 2125}
+blossoming <> J: {rk: 35425, frq: 235}, N: {rk: 37318, frq: 200}
+blot <> V: {rk: 15731, frq: 1605}, N: {rk: 19809, frq: 998}
+blotch <> N: {rk: 25900, frq: 541}, V: {rk: 54132, frq: 64}
+blotched <> J: {rk: 58799, frq: 48}
+blotchy <> J: {rk: 34242, frq: 259}
+blotter <> N: {rk: 26820, frq: 497}
+blotting <> N: {rk: 51400, frq: 76}
+blouse <> N: {rk: 7927, frq: 5560}
+blow <> V: {rk: 1301, frq: 73361}, N: {rk: 4004, frq: 16948}
+blow-by-blow <> J: {rk: 44218, frq: 121}
+blow-dried <> J: {rk: 50014, frq: 83}
+blow-dry <> V: {rk: 37188, frq: 202}, N: {rk: 55737, frq: 58}
+blow-dryer <> N: {rk: 38252, frq: 186}
+blow-up <> N: {rk: 22000, frq: 796}
+blowback <> N: {rk: 24632, frq: 608}
+blowdown <> N: {rk: 46952, frq: 101}
+blower <> N: {rk: 16839, frq: 1412}
+blowfish <> N: {rk: 34849, frq: 247}
+blowhard <> N: {rk: 27038, frq: 487}
+blowhole <> N: {rk: 44217, frq: 121}
+blowing <> N: {rk: 27101, frq: 484}
+blowjob <> N: {rk: 26018, frq: 535}
+blown <> J: {rk: 16805, frq: 1416}
+blowout <> N: {rk: 13398, frq: 2200}
+blowsy <> J: {rk: 55619, frq: 59}
+blowtorch <> N: {rk: 34933, frq: 245}
+blub <> V: {rk: 57424, frq: 53}
+blubber <> N: {rk: 26107, frq: 530}, V: {rk: 32679, frq: 294}
+blubbery <> J: {rk: 53162, frq: 68}
+bludgeon <> V: {rk: 22544, frq: 752}, N: {rk: 41400, frq: 147}
+blue <> J: {rk: 940, frq: 102172}, N: {rk: 3285, frq: 22857}, V: {rk: 42875, frq: 133}
+blue-black <> J: {rk: 30979, frq: 340}
+blue-blooded <> J: {rk: 48573, frq: 91}
+blue-chip <> J: {rk: 24056, frq: 645}
+blue-collar <> J: {rk: 13122, frq: 2285}
+blue-ribbon <> J: {rk: 33275, frq: 280}
+blue-sky <> J: {rk: 50085, frq: 82}
+bluebell <> N: {rk: 40654, frq: 155}
+blueberry <> N: {rk: 10228, frq: 3567}
+bluebird <> N: {rk: 24302, frq: 629}
+bluebonnet <> N: {rk: 44538, frq: 118}
+bluecoat <> N: {rk: 52624, frq: 71}
+bluefin <> N: {rk: 30435, frq: 356}
+bluefish <> N: {rk: 31537, frq: 325}
+bluegill <> N: {rk: 32766, frq: 292}
+bluegrass <> N: {rk: 16600, frq: 1449}
+bluejay <> N: {rk: 49005, frq: 88}
+blueness <> N: {rk: 47006, frq: 100}
+blueprint <> N: {rk: 8199, frq: 5239}
+bluesman <> N: {rk: 33619, frq: 272}
+bluestem <> N: {rk: 47988, frq: 94}
+bluestone <> N: {rk: 47007, frq: 100}
+bluesy <> J: {rk: 34357, frq: 257}
+bluff <> N: {rk: 9228, frq: 4285}, V: {rk: 14917, frq: 1781}
+bluish <> J: {rk: 20424, frq: 933}
+blunder <> N: {rk: 14163, frq: 1980}, V: {rk: 22677, frq: 740}
+blunderbuss <> N: {rk: 50086, frq: 82}
+blundering <> J: {rk: 56786, frq: 55}
+blunt <> J: {rk: 7465, frq: 6143}, V: {rk: 22444, frq: 760}
+blunted <> J: {rk: 35647, frq: 230}
+bluntly <> R: {rk: 14371, frq: 1925}, J: {rk: 38655, frq: 180}
+bluntness <> N: {rk: 32994, frq: 286}
+blur <> V: {rk: 7580, frq: 6000}, N: {rk: 10265, frq: 3546}
+blurb <> N: {rk: 19119, frq: 1078}
+blurred <> J: {rk: 20727, frq: 904}
+blurriness <> N: {rk: 51731, frq: 75}
+blurring <> N: {rk: 26592, frq: 506}, J: {rk: 52623, frq: 71}
+blurry <> J: {rk: 13484, frq: 2177}
+blurt <> V: {rk: 12035, frq: 2699}
+blush <> V: {rk: 9847, frq: 3803}, N: {rk: 12655, frq: 2452}
+blusher <> N: {rk: 50403, frq: 81}
+blushing <> J: {rk: 33362, frq: 278}
+bluster <> N: {rk: 23171, frq: 704}, V: {rk: 29727, frq: 379}
+blustering <> J: {rk: 57423, frq: 53}
+blustery <> J: {rk: 24836, frq: 597}
+boa <> N: {rk: 21210, frq: 860}
+boar <> N: {rk: 15601, frq: 1632}
+board <> N: {rk: 768, frq: 127202}, V: {rk: 5515, frq: 10377}, I: {rk: 20215, frq: 954}
+boarded <> J: {rk: 43797, frq: 124}
+boarder <> N: {rk: 20147, frq: 961}
+boarding <> N: {rk: 8760, frq: 4671}
+boarding-school <> J: {rk: 59415, frq: 46}
+boardinghouse <> N: {rk: 29811, frq: 376}
+boardroom <> N: {rk: 16542, frq: 1460}
+boardwalk <> N: {rk: 13544, frq: 2154}
+boast <> V: {rk: 5271, frq: 11130}, N: {rk: 18143, frq: 1203}
+boastful <> J: {rk: 30711, frq: 348}
+boasting <> N: {rk: 37069, frq: 204}
+boat <> N: {rk: 1491, frq: 64026}, V: {rk: 21810, frq: 811}
+boater <> N: {rk: 18249, frq: 1188}
+boathouse <> N: {rk: 27039, frq: 487}
+boating <> N: {rk: 17876, frq: 1243}
+boatlift <> N: {rk: 54027, frq: 65}
+boatload <> N: {rk: 23305, frq: 694}
+boatman <> N: {rk: 28864, frq: 410}
+boatswain <> N: {rk: 41850, frq: 142}
+boatyard <> N: {rk: 41851, frq: 142}
+bob <> V: {rk: 8766, frq: 4664}
+bobbed <> J: {rk: 51401, frq: 76}
+bobber <> N: {rk: 37043, frq: 205}
+bobbin <> N: {rk: 40878, frq: 152}
+bobbing <> J: {rk: 39092, frq: 174}, N: {rk: 51730, frq: 75}
+bobble <> V: {rk: 34174, frq: 260}, N: {rk: 41803, frq: 143}
+bobblehead <> N: {rk: 32137, frq: 309}
+bobby <> N: {rk: 20216, frq: 954}
+bobcat <> N: {rk: 18354, frq: 1174}
+bobsled <> J: {rk: 31927, frq: 314}, V: {rk: 48640, frq: 90}
+bobwhite <> N: {rk: 47923, frq: 95}
+bocce <> N: {rk: 46953, frq: 101}
+bodacious <> J: {rk: 39829, frq: 164}
+bode <> V: {rk: 15422, frq: 1668}
+bodega <> N: {rk: 24897, frq: 593}
+bodice <> N: {rk: 21727, frq: 817}
+bodiless <> J: {rk: 47672, frq: 96}
+bodily <> J: {rk: 8341, frq: 5083}, R: {rk: 25749, frq: 548}
+body <> N: {rk: 348, frq: 287817}
+bodybuilder <> N: {rk: 25120, frq: 581}
+bodybuilding <> N: {rk: 26362, frq: 516}
+bodyguard <> N: {rk: 9218, frq: 4291}
+bodysuit <> N: {rk: 33706, frq: 270}
+bodyweight <> N: {rk: 42874, frq: 133}
+bodywork <> N: {rk: 36698, frq: 211}
+boeuf <> N: {rk: 58662, frq: 49}
+boffo <> N: {rk: 48246, frq: 93}
+bog <> N: {rk: 13523, frq: 2163}, V: {rk: 16096, frq: 1539}
+bogey <> N: {rk: 16809, frq: 1415}, V: {rk: 42654, frq: 135}
+bogeyman <> N: {rk: 25225, frq: 575}
+boggle <> V: {rk: 18529, frq: 1150}
+boggy <> J: {rk: 35527, frq: 233}
+bogie <> N: {rk: 56899, frq: 54}
+bogus <> J: {rk: 9898, frq: 3773}
+bogy <> N: {rk: 50929, frq: 78}
+bohemian <> J: {rk: 16662, frq: 1438}, N: {rk: 34669, frq: 250}
+boil <> V: {rk: 4771, frq: 12959}, N: {rk: 8098, frq: 5351}
+boiled <> J: {rk: 15432, frq: 1666}
+boiler <> N: {rk: 12746, frq: 2425}
+boilermaker <> N: {rk: 32976, frq: 287}
+boilerplate <> N: {rk: 24764, frq: 601}
+boiling <> J: {rk: 9085, frq: 4417}
+boisterous <> J: {rk: 18466, frq: 1160}
+boisterously <> R: {rk: 55739, frq: 58}
+bola <> N: {rk: 47295, frq: 99}
+bold <> J: {rk: 4042, frq: 16726}
+boldface <> N: {rk: 33857, frq: 267}
+boldly <> R: {rk: 11777, frq: 2799}
+boldness <> N: {rk: 19303, frq: 1056}
+bole <> N: {rk: 44216, frq: 121}
+bolero <> N: {rk: 28978, frq: 406}
+bolivian <> J: {rk: 20965, frq: 882}, N: {rk: 34935, frq: 245}
+boll <> N: {rk: 27433, frq: 469}
+bollard <> N: {rk: 42014, frq: 141}
+bollock <> N: {rk: 25122, frq: 580}
+bollworm <> N: {rk: 49300, frq: 87}
+bolo <> N: {rk: 31337, frq: 330}
+bologna <> N: {rk: 26220, frq: 525}
+bolognese <> N: {rk: 44539, frq: 118}
+bolster <> V: {rk: 7458, frq: 6149}, N: {rk: 31173, frq: 335}
+bolt <> N: {rk: 5627, frq: 10025}, V: {rk: 9804, frq: 3834}
+bolt-action <> J: {rk: 44703, frq: 117}
+bolt-on <> J: {rk: 52723, frq: 70}
+bolted <> J: {rk: 44767, frq: 116}
+bolus <> N: {rk: 33065, frq: 285}
+bomb <> N: {rk: 2100, frq: 41679}, V: {rk: 5239, frq: 11239}
+bombard <> V: {rk: 13807, frq: 2074}, N: {rk: 25313, frq: 571}
+bombardier <> N: {rk: 28786, frq: 413}
+bombardment <> N: {rk: 14104, frq: 1996}
+bombast <> N: {rk: 34270, frq: 258}
+bombastic <> J: {rk: 25816, frq: 545}
+bombed <> J: {rk: 29063, frq: 403}
+bombed-out <> J: {rk: 34962, frq: 244}
+bomber <> N: {rk: 5722, frq: 9733}
+bombing <> N: {rk: 3995, frq: 16988}
+bomblet <> N: {rk: 50013, frq: 83}
+bombproof <> J: {rk: 44704, frq: 117}
+bombshell <> N: {rk: 15440, frq: 1665}
+bonanza <> N: {rk: 17307, frq: 1333}
+bonbon <> N: {rk: 33774, frq: 269}
+bond <> N: {rk: 2067, frq: 42742}, V: {rk: 6805, frq: 7218}
+bondage <> N: {rk: 15291, frq: 1698}
+bonded <> J: {rk: 29394, frq: 390}
+bondholder <> N: {rk: 22334, frq: 769}
+bonding <> N: {rk: 10174, frq: 3597}
+bondsman <> N: {rk: 28104, frq: 439}
+bone <> N: {rk: 1684, frq: 54911}, V: {rk: 41069, frq: 150}
+bone-tired <> J: {rk: 58800, frq: 48}
+boned <> J: {rk: 36697, frq: 211}
+bonefish <> N: {rk: 35526, frq: 233}
+bonehead <> N: {rk: 28159, frq: 436}
+boneheaded <> J: {rk: 42244, frq: 139}
+boneless <> J: {rk: 19691, frq: 1011}
+boner <> N: {rk: 23639, frq: 670}
+boney <> J: {rk: 32155, frq: 308}
+boneyard <> N: {rk: 41804, frq: 143}
+bonfire <> N: {rk: 13829, frq: 2066}
+bong <> N: {rk: 19470, frq: 1037}
+bongo <> N: {rk: 31384, frq: 329}
+bonhomie <> N: {rk: 41068, frq: 150}
+bonito <> N: {rk: 39679, frq: 166}
+bonk <> V: {rk: 33686, frq: 271}, N: {rk: 46432, frq: 104}
+bonkers <> N: {rk: 24801, frq: 598}
+bonnet <> N: {rk: 16289, frq: 1501}
+bonny <> J: {rk: 35350, frq: 236}
+bonobo <> N: {rk: 22213, frq: 779}
+bonsai <> N: {rk: 28514, frq: 423}
+bonus <> N: {rk: 3979, frq: 17099}
+bony <> J: {rk: 11925, frq: 2747}
+boo <> U: {rk: 11108, frq: 3095}, V: {rk: 12933, frq: 2356}, N: {rk: 14556, frq: 1875}
+boo-boo <> N: {rk: 30776, frq: 346}
+boob <> N: {rk: 9932, frq: 3748}
+booby <> N: {rk: 17833, frq: 1250}
+boogaloo <> N: {rk: 48929, frq: 89}
+booger <> N: {rk: 29513, frq: 386}
+boogeyman <> N: {rk: 31336, frq: 330}
+boogie <> N: {rk: 17061, frq: 1376}, V: {rk: 25944, frq: 539}
+boohoo <> N: {rk: 56900, frq: 54}
+booing <> N: {rk: 45824, frq: 109}
+book <> N: {rk: 218, frq: 435387}, V: {rk: 6017, frq: 8928}
+bookbinder <> N: {rk: 56901, frq: 54}
+bookbinding <> N: {rk: 46069, frq: 107}
+bookcase <> N: {rk: 14961, frq: 1770}
+booked <> J: {rk: 26363, frq: 516}
+bookend <> N: {rk: 29975, frq: 371}, V: {rk: 37319, frq: 200}
+booker <> N: {rk: 32768, frq: 292}
+bookie <> N: {rk: 21811, frq: 811}
+booking <> N: {rk: 13611, frq: 2133}
+bookish <> J: {rk: 27212, frq: 478}
+bookkeeper <> N: {rk: 22678, frq: 740}
+bookkeeping <> N: {rk: 22333, frq: 769}
+booklet <> N: {rk: 12030, frq: 2701}
+booklist <> N: {rk: 41849, frq: 142}
+bookmaker <> N: {rk: 34385, frq: 256}
+bookmark <> N: {rk: 15108, frq: 1741}, V: {rk: 27100, frq: 484}
+bookmobile <> N: {rk: 43345, frq: 128}
+bookseller <> N: {rk: 18626, frq: 1137}
+bookshelf <> N: {rk: 12053, frq: 2690}
+bookshop <> N: {rk: 22336, frq: 768}
+bookstore <> N: {rk: 6806, frq: 7215}
+bookworm <> N: {rk: 32817, frq: 291}
+boom <> N: {rk: 3400, frq: 21690}, V: {rk: 11065, frq: 3115}
+boombox <> N: {rk: 40193, frq: 160}
+boomer <> N: {rk: 8307, frq: 5110}
+boomerang <> N: {rk: 25325, frq: 570}, V: {rk: 38002, frq: 190}
+booming <> J: {rk: 11432, frq: 2950}, N: {rk: 29151, frq: 399}
+boomlet <> N: {rk: 49654, frq: 85}
+boomtown <> N: {rk: 35978, frq: 224}
+boon <> N: {rk: 12278, frq: 2606}
+boondocks <> N: {rk: 37600, frq: 196}
+boondoggle <> N: {rk: 26870, frq: 494}
+boonies <> N: {rk: 37690, frq: 195}
+boor <> N: {rk: 42283, frq: 138}
+boorish <> J: {rk: 31555, frq: 324}
+boost <> V: {rk: 3958, frq: 17241}, N: {rk: 6452, frq: 7929}
+boosted <> J: {rk: 43548, frq: 126}
+booster <> N: {rk: 8680, frq: 4750}
+boosterism <> N: {rk: 40192, frq: 160}
+boot <> N: {rk: 2627, frq: 30566}, V: {rk: 7784, frq: 5732}
+bootable <> J: {rk: 38003, frq: 190}
+booted <> J: {rk: 41802, frq: 143}
+booth <> N: {rk: 4714, frq: 13234}
+bootie <> N: {rk: 45823, frq: 109}
+bootleg <> N: {rk: 24933, frq: 591}, V: {rk: 35317, frq: 237}
+bootlegged <> J: {rk: 55613, frq: 59}
+bootlegger <> N: {rk: 32055, frq: 311}
+bootstrap <> N: {rk: 23073, frq: 710}, V: {rk: 40491, frq: 157}
+bootstrapping <> N: {rk: 38775, frq: 179}
+booty <> N: {rk: 11401, frq: 2963}
+booze <> N: {rk: 9464, frq: 4108}, V: {rk: 36295, frq: 218}
+boozer <> N: {rk: 41067, frq: 150}
+boozy <> J: {rk: 27099, frq: 484}
+bop <> V: {rk: 25429, frq: 565}, N: {rk: 25569, frq: 557}
+bopper <> N: {rk: 44024, frq: 122}
+borage <> N: {rk: 56328, frq: 56}
+borate <> N: {rk: 55187, frq: 60}
+borax <> N: {rk: 34737, frq: 249}
+bordello <> N: {rk: 35224, frq: 239}
+border <> N: {rk: 1468, frq: 65422}, V: {rk: 9391, frq: 4161}
+bordering <> J: {rk: 41030, frq: 151}
+borderland <> N: {rk: 19016, frq: 1088}
+borderless <> J: {rk: 37562, frq: 197}
+borderline <> N: {rk: 12450, frq: 2535}
+bore <> V: {rk: 5410, frq: 10672}, N: {rk: 14458, frq: 1904}
+boreal <> J: {rk: 27615, frq: 461}
+bored <> J: {rk: 5607, frq: 10129}
+boredom <> N: {rk: 9641, frq: 3955}
+borehole <> N: {rk: 33364, frq: 278}
+borer <> N: {rk: 30570, frq: 352}
+boric <> J: {rk: 50090, frq: 82}
+boring <> J: {rk: 3989, frq: 17020}
+boringly <> R: {rk: 47598, frq: 97}
+born <> V: {rk: 1120, frq: 86829}, J: {rk: 8825, frq: 4628}
+born-again <> J: {rk: 22156, frq: 783}
+borne <> J: {rk: 56906, frq: 54}
+boron <> N: {rk: 29514, frq: 386}
+borough <> N: {rk: 10998, frq: 3146}
+borrow <> V: {rk: 3109, frq: 24662}
+borrowed <> J: {rk: 14688, frq: 1837}
+borrower <> N: {rk: 8076, frq: 5379}
+borrowing <> N: {rk: 10559, frq: 3358}
+borscht <> N: {rk: 34649, frq: 251}
+bosom <> N: {rk: 13345, frq: 2214}
+boson <> N: {rk: 21726, frq: 817}
+boss <> N: {rk: 1891, frq: 47643}, V: {rk: 17773, frq: 1259}
+bossy <> J: {rk: 19112, frq: 1079}
+bosun <> N: {rk: 44215, frq: 121}
+botanic <> J: {rk: 24459, frq: 618}
+botanical <> J: {rk: 12110, frq: 2671}, N: {rk: 35225, frq: 239}
+botanically <> R: {rk: 51736, frq: 75}
+botanist <> N: {rk: 18559, frq: 1146}
+botany <> N: {rk: 19973, frq: 979}
+botch <> V: {rk: 19228, frq: 1065}, N: {rk: 50091, frq: 82}
+botched <> J: {rk: 18651, frq: 1132}
+both <> D: {rk: 291, frq: 338454}, R: {rk: 396, frq: 244397}
+bother <> V: {rk: 1962, frq: 45596}, N: {rk: 21244, frq: 858}
+bothered <> J: {rk: 27518, frq: 465}
+bothersome <> J: {rk: 23513, frq: 680}
+botnet <> N: {rk: 33363, frq: 278}
+bottle <> N: {rk: 1920, frq: 46801}, V: {rk: 15576, frq: 1637}
+bottle-fed <> J: {rk: 55186, frq: 60}
+bottled <> J: {rk: 12311, frq: 2593}
+bottleneck <> N: {rk: 16129, frq: 1530}
+bottlenose <> N: {rk: 36164, frq: 221}
+bottler <> N: {rk: 30775, frq: 346}
+bottling <> N: {rk: 24214, frq: 634}
+bottom <> N: {rk: 1690, frq: 54701}, J: {rk: 2821, frq: 28102}, V: {rk: 14061, frq: 2006}
+bottom-up <> J: {rk: 21849, frq: 808}
+bottomland <> N: {rk: 33066, frq: 285}
+bottomless <> J: {rk: 18078, frq: 1214}
+botulinum <> N: {rk: 37455, frq: 198}
+botulism <> N: {rk: 30641, frq: 350}
+boudin <> N: {rk: 50401, frq: 81}
+boudoir <> N: {rk: 30030, frq: 369}
+bouffant <> N: {rk: 47669, frq: 96}, J: {rk: 50400, frq: 81}
+bougainvillea <> N: {rk: 30606, frq: 351}
+bough <> N: {rk: 18854, frq: 1108}
+bougie <> J: {rk: 49653, frq: 85}
+bouillabaisse <> N: {rk: 39521, frq: 168}
+bouillon <> N: {rk: 30042, frq: 368}
+boulder <> N: {rk: 8761, frq: 4669}
+boulevard <> N: {rk: 13900, frq: 2044}
+bounce <> V: {rk: 4193, frq: 15792}, N: {rk: 11133, frq: 3084}
+bounced <> J: {rk: 47010, frq: 100}
+bouncer <> N: {rk: 17026, frq: 1381}
+bouncing <> J: {rk: 19116, frq: 1078}
+bouncy <> J: {rk: 20629, frq: 915}
+bound <> N: {rk: 7759, frq: 5769}, V: {rk: 10112, frq: 3642}, J: {rk: 19823, frq: 996}
+boundary <> N: {rk: 3014, frq: 25694}
+bounded <> J: {rk: 30851, frq: 344}
+bounder <> N: {rk: 53671, frq: 66}
+bounding <> J: {rk: 42705, frq: 134}
+boundless <> J: {rk: 17235, frq: 1345}
+bounteous <> J: {rk: 47365, frq: 98}
+bountiful <> J: {rk: 20964, frq: 882}
+bountifully <> R: {rk: 58199, frq: 50}
+bounty <> N: {rk: 8227, frq: 5204}
+bouquet <> N: {rk: 10760, frq: 3270}
+bourgeois <> J: {rk: 11113, frq: 3093}, N: {rk: 34386, frq: 256}
+bourgeoisie <> N: {rk: 18903, frq: 1102}
+bourse <> N: {rk: 56327, frq: 56}
+bout <> N: {rk: 5487, frq: 10457}
+boutique <> N: {rk: 9250, frq: 4267}
+boutonniere <> N: {rk: 58198, frq: 50}
+bovine <> J: {rk: 17861, frq: 1245}
+bow <> N: {rk: 4724, frq: 13189}, V: {rk: 5207, frq: 11336}
+bow-legged <> J: {rk: 45822, frq: 109}
+bowed <> J: {rk: 32837, frq: 290}
+bowel <> N: {rk: 9490, frq: 4086}
+bower <> N: {rk: 32660, frq: 295}
+bowerbird <> N: {rk: 57570, frq: 52}
+bowhead <> N: {rk: 34864, frq: 246}
+bowhunter <> N: {rk: 34847, frq: 247}
+bowhunting <> J: {rk: 57571, frq: 52}
+bowing <> N: {rk: 38081, frq: 189}
+bowl <> N: {rk: 1566, frq: 60234}, V: {rk: 12240, frq: 2621}
+bowler <> N: {rk: 16714, frq: 1431}
+bowlful <> N: {rk: 52272, frq: 72}
+bowline <> N: {rk: 45821, frq: 109}
+bowling <> N: {rk: 8075, frq: 5379}
+bowman <> N: {rk: 24092, frq: 642}
+bowrider <> N: {rk: 55185, frq: 60}
+bowsprit <> N: {rk: 51734, frq: 75}
+bowstring <> N: {rk: 43798, frq: 124}
+box <> N: {rk: 864, frq: 112035}, V: {rk: 9368, frq: 4182}
+boxcar <> N: {rk: 23448, frq: 684}
+boxed <> J: {rk: 19597, frq: 1022}
+boxer <> N: {rk: 6882, frq: 7081}
+boxful <> N: {rk: 58200, frq: 50}
+boxing <> N: {rk: 6115, frq: 8683}
+boxlike <> J: {rk: 41401, frq: 147}
+boxwood <> N: {rk: 27567, frq: 463}
+boxy <> J: {rk: 22249, frq: 776}
+boy <> N: {rk: 358, frq: 279283}
+boyar <> N: {rk: 38913, frq: 177}
+boycott <> N: {rk: 9457, frq: 4111}, V: {rk: 10677, frq: 3304}
+boyfriend <> N: {rk: 2549, frq: 31817}
+boyhood <> N: {rk: 15187, frq: 1723}
+boyish <> J: {rk: 17118, frq: 1367}
+boyishly <> R: {rk: 44969, frq: 115}
+boyo <> N: {rk: 39680, frq: 166}
+boysenberry <> N: {rk: 55614, frq: 59}
+bozo <> N: {rk: 20493, frq: 927}
+bra <> N: {rk: 7182, frq: 6554}
+brace <> V: {rk: 7526, frq: 6071}, N: {rk: 9871, frq: 3788}
+bracelet <> N: {rk: 7249, frq: 6449}
+bracero <> N: {rk: 38512, frq: 182}
+brachial <> J: {rk: 36722, frq: 210}
+brachialis <> N: {rk: 59273, frq: 47}
+brachiopod <> N: {rk: 54666, frq: 62}
+bracing <> J: {rk: 26413, frq: 515}, N: {rk: 35028, frq: 243}
+bracingly <> R: {rk: 52724, frq: 70}
+bracken <> N: {rk: 24974, frq: 588}
+bracket <> N: {rk: 7875, frq: 5629}, V: {rk: 22181, frq: 780}
+bracketed <> J: {rk: 50833, frq: 79}
+brackish <> J: {rk: 27348, frq: 472}
+bract <> N: {rk: 46134, frq: 106}
+brad <> N: {rk: 36803, frq: 209}
+bradycardia <> N: {rk: 53669, frq: 66}
+bradykinin <> N: {rk: 59981, frq: 45}
+brag <> V: {rk: 7406, frq: 6227}, N: {rk: 31554, frq: 324}
+braggadocio <> N: {rk: 38808, frq: 178}
+braggart <> N: {rk: 41852, frq: 142}
+bragging <> J: {rk: 35979, frq: 224}, N: {rk: 39237, frq: 172}
+brahma <> N: {rk: 59274, frq: 47}
+braid <> N: {rk: 11095, frq: 3099}, V: {rk: 17196, frq: 1351}
+braided <> J: {rk: 19747, frq: 1005}
+braiding <> N: {rk: 56326, frq: 56}
+braille <> N: {rk: 11964, frq: 2727}
+brain <> N: {rk: 961, frq: 100235}, V: {rk: 33687, frq: 271}
+brain-damaged <> J: {rk: 37601, frq: 196}
+brain-dead <> J: {rk: 26547, frq: 509}
+braincase <> N: {rk: 56191, frq: 57}
+brainchild <> N: {rk: 21461, frq: 839}
+brained <> J: {rk: 58802, frq: 48}
+brainiac <> N: {rk: 34964, frq: 244}
+brainless <> J: {rk: 26227, frq: 524}
+brainpower <> N: {rk: 31196, frq: 334}
+brainstem <> N: {rk: 32838, frq: 290}
+brainstorm <> V: {rk: 18803, frq: 1113}, N: {rk: 29028, frq: 404}
+brainstorming <> N: {rk: 18730, frq: 1125}
+brainwash <> V: {rk: 12843, frq: 2393}
+brainwashed <> J: {rk: 29270, frq: 394}
+brainwashing <> N: {rk: 34650, frq: 251}, J: {rk: 45253, frq: 113}
+brainwave <> N: {rk: 36949, frq: 206}
+brainy <> J: {rk: 22400, frq: 765}
+braise <> V: {rk: 28568, frq: 421}
+braised <> J: {rk: 23477, frq: 682}
+braising <> J: {rk: 58660, frq: 49}
+brake <> N: {rk: 5592, frq: 10163}, V: {rk: 12462, frq: 2532}
+brakeman <> N: {rk: 43799, frq: 124}
+braking <> J: {rk: 34446, frq: 255}, N: {rk: 34552, frq: 253}
+braless <> J: {rk: 54025, frq: 65}
+bramble <> N: {rk: 25314, frq: 571}
+bran <> N: {rk: 12687, frq: 2446}
+branch <> N: {rk: 2159, frq: 40300}, V: {rk: 12383, frq: 2561}
+branched <> J: {rk: 38001, frq: 190}
+branchial <> J: {rk: 33517, frq: 275}
+branching <> J: {rk: 19840, frq: 994}
+brand <> N: {rk: 2187, frq: 39754}, V: {rk: 8130, frq: 5318}
+brand-new <> J: {rk: 8297, frq: 5123}
+branded <> J: {rk: 18441, frq: 1163}
+branding <> N: {rk: 23638, frq: 670}, J: {rk: 26738, frq: 500}
+brandish <> V: {rk: 16056, frq: 1545}
+brandy <> N: {rk: 9479, frq: 4092}
+brane <> N: {rk: 36726, frq: 210}
+brash <> J: {rk: 15549, frq: 1641}
+brashly <> R: {rk: 50095, frq: 82}
+brashness <> N: {rk: 40332, frq: 159}
+brass <> N: {rk: 5758, frq: 9624}
+brasserie <> N: {rk: 32539, frq: 298}
+brassiere <> N: {rk: 29632, frq: 382}
+brassy <> J: {rk: 27754, frq: 455}
+brat <> N: {rk: 11130, frq: 3086}
+bratty <> J: {rk: 35423, frq: 235}
+bratwurst <> N: {rk: 36585, frq: 213}
+brava <> N: {rk: 39790, frq: 165}
+bravado <> N: {rk: 16774, frq: 1421}
+brave <> J: {rk: 3863, frq: 17860}, V: {rk: 10465, frq: 3408}
+bravely <> R: {rk: 15421, frq: 1668}
+bravery <> N: {rk: 11732, frq: 2816}
+bravo <> U: {rk: 10466, frq: 3408}, N: {rk: 13534, frq: 2159}
+bravura <> N: {rk: 32603, frq: 296}
+brawl <> N: {rk: 15047, frq: 1752}, V: {rk: 28298, frq: 431}
+brawler <> N: {rk: 33433, frq: 277}
+brawling <> N: {rk: 39373, frq: 170}
+brawn <> N: {rk: 28624, frq: 418}
+brawny <> J: {rk: 26505, frq: 511}
+bray <> V: {rk: 26777, frq: 498}, N: {rk: 35030, frq: 243}
+braying <> N: {rk: 54020, frq: 65}
+braze <> V: {rk: 58050, frq: 51}
+brazen <> J: {rk: 15426, frq: 1667}
+brazenly <> R: {rk: 24731, frq: 602}
+brazenness <> N: {rk: 45882, frq: 108}
+brazier <> N: {rk: 36083, frq: 222}
+breach <> N: {rk: 6411, frq: 8023}, V: {rk: 10773, frq: 3264}
+breached <> J: {rk: 50094, frq: 82}
+breaching <> N: {rk: 46746, frq: 102}
+bread <> N: {rk: 2386, frq: 34840}, V: {rk: 35029, frq: 243}
+bread-and-butter <> J: {rk: 33948, frq: 265}
+breadbasket <> N: {rk: 35940, frq: 225}
+breadboard <> N: {rk: 52170, frq: 73}
+breadbox <> N: {rk: 53170, frq: 68}
+breadcrumb <> N: {rk: 21443, frq: 840}
+breaded <> J: {rk: 41405, frq: 147}
+breadfruit <> N: {rk: 34551, frq: 253}
+breading <> N: {rk: 50511, frq: 80}
+breadline <> N: {rk: 58049, frq: 51}
+breadstick <> N: {rk: 36477, frq: 215}
+breadth <> N: {rk: 10049, frq: 3684}
+breadwinner <> N: {rk: 21761, frq: 814}
+break <> V: {rk: 450, frq: 213364}, N: {rk: 1189, frq: 81057}
+break-even <> N: {rk: 25312, frq: 571}
+break-in <> N: {rk: 13785, frq: 2080}, J: {rk: 55601, frq: 59}
+breakable <> J: {rk: 36584, frq: 213}
+breakage <> N: {rk: 26645, frq: 504}
+breakaway <> J: {rk: 23172, frq: 704}, N: {rk: 32680, frq: 294}
+breakdown <> N: {rk: 5451, frq: 10574}
+breaker <> N: {rk: 10643, frq: 3320}
+breakfast <> N: {rk: 2459, frq: 33309}, V: {rk: 16411, frq: 1482}
+breaking <> N: {rk: 8554, frq: 4863}
+breakneck <> J: {rk: 24234, frq: 633}
+breakout <> N: {rk: 12073, frq: 2684}
+breakpoint <> N: {rk: 34938, frq: 245}
+breakthrough <> N: {rk: 5896, frq: 9254}
+breakup <> N: {rk: 7840, frq: 5670}
+breakwater <> N: {rk: 34047, frq: 263}
+bream <> N: {rk: 28147, frq: 437}
+breast <> N: {rk: 2023, frq: 43780}, V: {rk: 46142, frq: 106}
+breastbone <> N: {rk: 31106, frq: 337}
+breasted <> J: {rk: 49008, frq: 88}
+breastfeed <> V: {rk: 16640, frq: 1444}
+breastplate <> N: {rk: 32071, frq: 310}
+breaststroke <> N: {rk: 29875, frq: 374}, V: {rk: 48924, frq: 89}
+breastwork <> N: {rk: 49383, frq: 86}
+breath <> N: {rk: 1751, frq: 52280}, V: {rk: 19409, frq: 1044}
+breathable <> J: {rk: 22129, frq: 785}
+breathalyzer <> N: {rk: 30422, frq: 357}
+breathe <> V: {rk: 2205, frq: 39322}
+breather <> N: {rk: 19603, frq: 1021}
+breathiness <> N: {rk: 40693, frq: 154}
+breathing <> N: {rk: 4987, frq: 12110}, J: {rk: 25495, frq: 560}
+breathless <> J: {rk: 12701, frq: 2441}
+breathlessly <> R: {rk: 22043, frq: 792}
+breathlessness <> N: {rk: 36727, frq: 210}
+breathtaking <> J: {rk: 10631, frq: 3326}
+breathtakingly <> R: {rk: 28979, frq: 406}
+breathy <> J: {rk: 27631, frq: 460}
+breccia <> N: {rk: 58658, frq: 49}
+breech <> N: {rk: 19541, frq: 1029}
+breed <> V: {rk: 6279, frq: 8343}, N: {rk: 6449, frq: 7938}
+breeder <> N: {rk: 10879, frq: 3203}
+breeding <> N: {rk: 6583, frq: 7620}
+breeze <> N: {rk: 4965, frq: 12205}, V: {rk: 25949, frq: 538}
+breezeway <> N: {rk: 39969, frq: 163}
+breezily <> R: {rk: 39825, frq: 164}
+breezy <> J: {rk: 16095, frq: 1539}
+breviary <> N: {rk: 50398, frq: 81}
+brevity <> N: {rk: 20554, frq: 921}
+brew <> V: {rk: 10587, frq: 3345}, N: {rk: 11733, frq: 2815}
+brewer <> N: {rk: 11008, frq: 3141}
+brewery <> N: {rk: 11492, frq: 2926}
+brewing <> N: {rk: 11210, frq: 3048}
+brewmaster <> N: {rk: 51836, frq: 74}
+brewpub <> N: {rk: 41447, frq: 146}
+briar <> N: {rk: 27804, frq: 452}
+bribe <> N: {rk: 10513, frq: 3385}, V: {rk: 11114, frq: 3093}
+bribery <> N: {rk: 12610, frq: 2471}
+bric-a-brac <> N: {rk: 37560, frq: 197}
+brick <> N: {rk: 3740, frq: 18730}, V: {rk: 39488, frq: 169}
+brickbat <> N: {rk: 51835, frq: 74}
+bricklayer <> N: {rk: 34480, frq: 254}
+brickwork <> N: {rk: 37603, frq: 196}
+brickyard <> N: {rk: 45881, frq: 108}
+bricolage <> N: {rk: 50005, frq: 83}
+bricoleur <> N: {rk: 59419, frq: 46}
+bridal <> J: {rk: 15317, frq: 1692}
+bride <> N: {rk: 4907, frq: 12400}
+bridegroom <> N: {rk: 27488, frq: 466}
+bridesmaid <> N: {rk: 15267, frq: 1705}
+bridge <> N: {rk: 1847, frq: 49030}, V: {rk: 8521, frq: 4893}
+bridgehead <> N: {rk: 43979, frq: 123}
+bridging <> J: {rk: 40881, frq: 152}, N: {rk: 55071, frq: 61}
+bridle <> N: {rk: 22902, frq: 725}, V: {rk: 39095, frq: 174}
+brie <> N: {rk: 29502, frq: 387}
+brief <> J: {rk: 2463, frq: 33229}, V: {rk: 7656, frq: 5876}, N: {rk: 9320, frq: 4214}, R: {rk: 19334, frq: 1053}
+briefcase <> N: {rk: 8946, frq: 4536}
+briefer <> N: {rk: 46744, frq: 102}
+briefing <> N: {rk: 6638, frq: 7508}
+briefly <> R: {rk: 3657, frq: 19353}
+brier <> N: {rk: 37458, frq: 198}
+brig <> N: {rk: 16412, frq: 1482}
+brigade <> N: {rk: 7530, frq: 6067}
+brigadier <> N: {rk: 19992, frq: 977}
+brigand <> N: {rk: 35144, frq: 240}
+brigantine <> N: {rk: 46745, frq: 102}
+bright <> J: {rk: 1588, frq: 59449}
+bright-eyed <> J: {rk: 29876, frq: 374}
+brighten <> V: {rk: 9175, frq: 4332}
+brightening <> N: {rk: 47292, frq: 99}, J: {rk: 47293, frq: 99}
+brightly <> R: {rk: 8668, frq: 4758}
+brightness <> N: {rk: 9126, frq: 4380}
+brights <> N: {rk: 44761, frq: 116}
+brilliance <> N: {rk: 10876, frq: 3205}
+brilliancy <> N: {rk: 50006, frq: 83}
+brilliant <> J: {rk: 2913, frq: 26970}
+brilliantly <> R: {rk: 11071, frq: 3111}
+brim <> N: {rk: 14588, frq: 1863}, V: {rk: 14693, frq: 1835}
+brimmed <> J: {rk: 53169, frq: 68}
+brimming <> J: {rk: 55189, frq: 60}
+brimstone <> N: {rk: 24562, frq: 613}
+brindle <> N: {rk: 53677, frq: 66}
+brine <> N: {rk: 16715, frq: 1431}, V: {rk: 34572, frq: 252}
+brined <> J: {rk: 54019, frq: 65}
+bring <> V: {rk: 213, frq: 439445}
+bringer <> N: {rk: 34939, frq: 245}
+bringing <> N: {rk: 39062, frq: 175}
+brink <> N: {rk: 8175, frq: 5266}
+brinkmanship <> N: {rk: 35525, frq: 233}
+briny <> J: {rk: 30778, frq: 346}
+brio <> N: {rk: 43552, frq: 126}
+brioche <> N: {rk: 33064, frq: 285}
+briquette <> N: {rk: 40656, frq: 155}
+bris <> N: {rk: 49294, frq: 87}
+brisk <> J: {rk: 11316, frq: 2998}
+brisket <> N: {rk: 19971, frq: 979}
+briskly <> R: {rk: 15021, frq: 1756}
+bristle <> V: {rk: 13754, frq: 2088}, N: {rk: 17958, frq: 1232}
+bristling <> J: {rk: 44710, frq: 117}
+bristly <> J: {rk: 30754, frq: 347}
+brit <> N: {rk: 7693, frq: 5837}
+britches <> N: {rk: 28841, frq: 411}
+brittle <> J: {rk: 12006, frq: 2712}
+brittleness <> N: {rk: 49009, frq: 88}
+bro <> N: {rk: 6457, frq: 7921}
+broach <> V: {rk: 18008, frq: 1223}, N: {rk: 44709, frq: 117}
+broad <> J: {rk: 1658, frq: 56310}, N: {rk: 27566, frq: 463}
+broad-brush <> J: {rk: 51404, frq: 76}
+broad-minded <> J: {rk: 42012, frq: 141}
+broad-spectrum <> J: {rk: 33877, frq: 266}
+broadband <> J: {rk: 12238, frq: 2622}, N: {rk: 16938, frq: 1396}
+broadcast <> N: {rk: 4373, frq: 14871}, V: {rk: 5446, frq: 10578}, J: {rk: 32156, frq: 308}
+broadcaster <> N: {rk: 9670, frq: 3930}
+broadcasting <> N: {rk: 7154, frq: 6602}, J: {rk: 38216, frq: 187}
+broadcloth <> N: {rk: 49293, frq: 87}
+broaden <> V: {rk: 7764, frq: 5763}
+broadened <> J: {rk: 39201, frq: 173}
+broadening <> N: {rk: 29934, frq: 372}, J: {rk: 34048, frq: 263}
+broadhead <> N: {rk: 48643, frq: 90}
+broadleaf <> N: {rk: 52728, frq: 70}
+broadly <> R: {rk: 6369, frq: 8099}
+broadness <> N: {rk: 58803, frq: 48}
+broadsheet <> N: {rk: 38515, frq: 182}
+broadside <> N: {rk: 20303, frq: 945}
+broadsword <> N: {rk: 39523, frq: 168}
+broadway <> N: {rk: 7647, frq: 5894}
+brocade <> N: {rk: 24457, frq: 619}
+brocaded <> J: {rk: 46667, frq: 103}
+broccoli <> N: {rk: 8955, frq: 4530}
+brochure <> N: {rk: 8305, frq: 5113}
+brogue <> N: {rk: 32001, frq: 313}
+broil <> V: {rk: 17893, frq: 1241}, N: {rk: 44213, frq: 121}
+broiled <> J: {rk: 33973, frq: 264}
+broiler <> N: {rk: 17340, frq: 1327}
+broiling <> J: {rk: 44974, frq: 115}
+broke <> J: {rk: 8279, frq: 5150}
+broken <> J: {rk: 2743, frq: 28965}
+broken-down <> J: {rk: 26869, frq: 495}
+broken-hearted <> J: {rk: 33974, frq: 264}
+brokenness <> N: {rk: 31761, frq: 319}
+broker <> N: {rk: 5059, frq: 11845}, V: {rk: 17787, frq: 1257}
+broker-dealer <> N: {rk: 42701, frq: 134}
+brokerage <> N: {rk: 11525, frq: 2908}
+brokered <> J: {rk: 34046, frq: 263}
+brokering <> N: {rk: 59269, frq: 47}
+bromance <> N: {rk: 41854, frq: 142}
+bromeliad <> N: {rk: 42491, frq: 136}
+bromide <> N: {rk: 25268, frq: 573}
+bromine <> N: {rk: 47597, frq: 97}
+bronc <> N: {rk: 41449, frq: 146}
+bronchi <> N: {rk: 50098, frq: 82}
+bronchial <> J: {rk: 28687, frq: 416}
+bronchiectasis <> N: {rk: 51838, frq: 74}
+bronchiole <> N: {rk: 54534, frq: 63}
+bronchitis <> N: {rk: 24603, frq: 610}
+bronchodilator <> N: {rk: 41206, frq: 149}
+bronchoscopy <> N: {rk: 54535, frq: 63}
+brontosaurus <> N: {rk: 44708, frq: 117}
+bronze <> N: {rk: 5984, frq: 8994}
+bronzed <> J: {rk: 27950, frq: 446}
+bronzer <> N: {rk: 32996, frq: 286}
+brooch <> N: {rk: 19388, frq: 1046}
+brood <> N: {rk: 16998, frq: 1386}, V: {rk: 19730, frq: 1008}
+brooder <> N: {rk: 43801, frq: 124}
+brooding <> J: {rk: 15540, frq: 1644}
+broody <> J: {rk: 38482, frq: 183}
+brook <> N: {rk: 14569, frq: 1870}, V: {rk: 27538, frq: 464}
+broom <> N: {rk: 10044, frq: 3689}
+broomstick <> N: {rk: 27300, frq: 474}
+broth <> N: {rk: 7053, frq: 6771}
+brothel <> N: {rk: 14389, frq: 1922}
+brother <> N: {rk: 574, frq: 167417}
+brother-in-law <> N: {rk: 11022, frq: 3133}
+brotherhood <> N: {rk: 6564, frq: 7651}
+brotherly <> J: {rk: 22155, frq: 783}
+brouhaha <> N: {rk: 28840, frq: 411}
+brow <> N: {rk: 6471, frq: 7895}
+browbeat <> V: {rk: 35858, frq: 226}
+brown <> J: {rk: 2076, frq: 42423}, N: {rk: 6693, frq: 7412}, V: {rk: 10273, frq: 3538}
+brown-bag <> J: {rk: 54021, frq: 65}
+browned <> J: {rk: 29027, frq: 404}
+brownfield <> N: {rk: 36946, frq: 206}
+brownian <> J: {rk: 39522, frq: 168}
+brownie <> N: {rk: 10391, frq: 3461}
+browning <> N: {rk: 43755, frq: 125}, J: {rk: 56333, frq: 56}
+brownish <> J: {rk: 25815, frq: 545}
+brownout <> N: {rk: 40331, frq: 159}
+brownstone <> N: {rk: 20662, frq: 912}
+browse <> V: {rk: 7797, frq: 5718}, N: {rk: 35353, frq: 236}
+browser <> N: {rk: 5021, frq: 11987}
+browsing <> N: {rk: 15203, frq: 1719}
+brucellosis <> N: {rk: 36188, frq: 220}
+bruise <> N: {rk: 8026, frq: 5433}, V: {rk: 12509, frq: 2516}
+bruised <> J: {rk: 13725, frq: 2099}
+bruiser <> N: {rk: 33273, frq: 280}
+bruising <> J: {rk: 17713, frq: 1268}
+brunch <> N: {rk: 13164, frq: 2273}, V: {rk: 23466, frq: 683}
+brunette <> N: {rk: 15300, frq: 1697}
+brunt <> N: {rk: 15149, frq: 1733}
+bruschetta <> N: {rk: 33519, frq: 275}
+brush <> V: {rk: 3739, frq: 18733}, N: {rk: 4387, frq: 14780}
+brush-off <> N: {rk: 48925, frq: 89}
+brushed <> J: {rk: 39968, frq: 163}
+brushfire <> N: {rk: 44479, frq: 119}
+brushing <> N: {rk: 34355, frq: 257}
+brushless <> J: {rk: 40528, frq: 156}
+brushstroke <> N: {rk: 26551, frq: 508}
+brushwood <> N: {rk: 52277, frq: 72}
+brushwork <> N: {rk: 31694, frq: 321}
+brushy <> J: {rk: 33520, frq: 275}
+brusque <> J: {rk: 27451, frq: 468}
+brusquely <> R: {rk: 32732, frq: 293}
+brusqueness <> N: {rk: 58805, frq: 48}
+brutal <> J: {rk: 4871, frq: 12526}
+brutality <> N: {rk: 9281, frq: 4245}
+brutalization <> N: {rk: 50096, frq: 82}
+brutalize <> V: {rk: 22222, frq: 778}
+brutalized <> J: {rk: 50937, frq: 78}
+brutally <> R: {rk: 10299, frq: 3522}
+brute <> N: {rk: 12025, frq: 2704}
+brutish <> J: {rk: 25653, frq: 553}
+bryozoan <> N: {rk: 52616, frq: 71}
+bub <> N: {rk: 52617, frq: 71}
+bubba <> N: {rk: 27209, frq: 479}
+bubble <> N: {rk: 3656, frq: 19365}, V: {rk: 11305, frq: 3003}
+bubblegum <> N: {rk: 33688, frq: 271}
+bubbler <> N: {rk: 58051, frq: 51}
+bubbling <> J: {rk: 19959, frq: 981}
+bubbly <> J: {rk: 16055, frq: 1545}, N: {rk: 58052, frq: 51}
+bubonic <> J: {rk: 33537, frq: 274}
+buccal <> J: {rk: 42877, frq: 133}
+buck <> N: {rk: 2362, frq: 35423}, V: {rk: 14053, frq: 2008}
+buck-toothed <> J: {rk: 54136, frq: 64}
+buckaroo <> N: {rk: 44536, frq: 118}
+buckboard <> N: {rk: 40492, frq: 157}
+bucket <> N: {rk: 4786, frq: 12920}
+bucketful <> N: {rk: 44762, frq: 116}
+bucking <> J: {rk: 38942, frq: 176}
+buckle <> V: {rk: 9546, frq: 4049}, N: {rk: 13191, frq: 2263}
+buckled <> J: {rk: 38217, frq: 187}
+buckler <> N: {rk: 59271, frq: 47}
+buckling <> N: {rk: 49382, frq: 86}
+bucko <> N: {rk: 48926, frq: 89}
+buckshot <> N: {rk: 31762, frq: 319}
+buckskin <> N: {rk: 28750, frq: 414}
+buckthorn <> N: {rk: 48309, frq: 92}
+buckwheat <> N: {rk: 28905, frq: 409}
+buckyball <> N: {rk: 37190, frq: 202}
+bucolic <> J: {rk: 23439, frq: 685}
+bud <> N: {rk: 6313, frq: 8270}, V: {rk: 29675, frq: 381}
+budding <> J: {rk: 12482, frq: 2526}
+buddy <> N: {rk: 2763, frq: 28763}
+buddy-buddy <> J: {rk: 49727, frq: 84}
+budge <> V: {rk: 12216, frq: 2631}
+budget <> N: {rk: 1107, frq: 88084}, V: {rk: 11602, frq: 2873}
+budgetary <> J: {rk: 14407, frq: 1916}
+budgeted <> J: {rk: 39826, frq: 164}
+budgeting <> N: {rk: 19321, frq: 1054}
+budgie <> N: {rk: 48567, frq: 91}
+buff <> N: {rk: 13100, frq: 2294}, V: {rk: 20570, frq: 920}, J: {rk: 25910, frq: 540}
+buffalo <> N: {rk: 8473, frq: 4942}
+buffed <> J: {rk: 49728, frq: 84}
+buffer <> N: {rk: 8555, frq: 4863}, V: {rk: 19622, frq: 1019}
+buffered <> J: {rk: 46743, frq: 102}
+buffering <> J: {rk: 46364, frq: 105}, N: {rk: 53066, frq: 69}
+buffet <> N: {rk: 8821, frq: 4632}, V: {rk: 22332, frq: 769}
+buffeting <> N: {rk: 58657, frq: 49}
+buffoon <> N: {rk: 21752, frq: 815}
+buffoonery <> N: {rk: 40694, frq: 154}
+buffoonish <> J: {rk: 55069, frq: 61}
+bug <> N: {rk: 3665, frq: 19312}, V: {rk: 7559, frq: 6027}
+bug-eyed <> J: {rk: 33689, frq: 271}
+bugaboo <> N: {rk: 36084, frq: 222}
+bugbear <> N: {rk: 49295, frq: 87}
+bugger <> N: {rk: 19076, frq: 1083}, V: {rk: 28191, frq: 435}
+buggery <> N: {rk: 58203, frq: 50}
+bugging <> N: {rk: 55070, frq: 61}
+buggy <> N: {rk: 13150, frq: 2277}
+bugle <> N: {rk: 25620, frq: 555}, V: {rk: 35055, frq: 242}
+bugler <> N: {rk: 38773, frq: 179}
+build <> V: {rk: 425, frq: 230071}, N: {rk: 9246, frq: 4270}
+buildable <> J: {rk: 56777, frq: 55}
+builder <> N: {rk: 5691, frq: 9836}
+building <> N: {rk: 588, frq: 164119}
+buildup <> N: {rk: 8901, frq: 4572}
+built-in <> J: {rk: 8064, frq: 5388}
+built-up <> J: {rk: 31338, frq: 330}
+bulb <> N: {rk: 5461, frq: 10547}
+bulbous <> J: {rk: 23957, frq: 651}
+bulgarian <> J: {rk: 22337, frq: 768}, N: {rk: 28625, frq: 418}
+bulge <> V: {rk: 12455, frq: 2534}, N: {rk: 13988, frq: 2021}
+bulging <> J: {rk: 22813, frq: 730}
+bulgur <> N: {rk: 33337, frq: 279}
+bulimia <> N: {rk: 22831, frq: 729}
+bulimic <> J: {rk: 35128, frq: 241}
+bulk <> N: {rk: 5264, frq: 11161}, V: {rk: 15211, frq: 1717}
+bulkhead <> N: {rk: 18111, frq: 1208}
+bulking <> J: {rk: 54670, frq: 62}
+bulky <> J: {rk: 11515, frq: 2912}
+bull <> N: {rk: 3486, frq: 20803}, V: {rk: 47366, frq: 98}
+bull's-eye <> N: {rk: 25385, frq: 567}, J: {rk: 46433, frq: 104}
+bull-headed <> J: {rk: 53547, frq: 67}
+bulldog <> N: {rk: 9525, frq: 4065}
+bulldoze <> V: {rk: 20057, frq: 970}
+bulldozer <> N: {rk: 14100, frq: 1998}
+bullet <> N: {rk: 2710, frq: 29277}
+bulleted <> J: {rk: 55072, frq: 61}
+bulletin <> N: {rk: 7270, frq: 6420}
+bulletproof <> J: {rk: 15036, frq: 1754}
+bullfight <> N: {rk: 29812, frq: 376}
+bullfighter <> N: {rk: 35828, frq: 227}
+bullfrog <> N: {rk: 33148, frq: 283}
+bullhead <> N: {rk: 51729, frq: 75}
+bullhorn <> N: {rk: 25861, frq: 543}
+bullied <> J: {rk: 45815, frq: 109}
+bullion <> N: {rk: 25352, frq: 569}
+bullish <> J: {rk: 16854, frq: 1410}
+bullock <> N: {rk: 28787, frq: 413}
+bullpen <> N: {rk: 10411, frq: 3448}
+bullring <> N: {rk: 43753, frq: 125}
+bullshit <> N: {rk: 4110, frq: 16278}, V: {rk: 24969, frq: 589}
+bullshitter <> N: {rk: 44285, frq: 120}
+bullwhip <> N: {rk: 45028, frq: 114}
+bully <> V: {rk: 6210, frq: 8480}, N: {rk: 6354, frq: 8149}
+bullying <> N: {rk: 7453, frq: 6156}
+bulrush <> N: {rk: 43980, frq: 123}
+bulwark <> N: {rk: 21303, frq: 853}
+bum <> N: {rk: 7350, frq: 6301}, V: {rk: 16611, frq: 1448}
+bumble <> V: {rk: 25706, frq: 550}
+bumblebee <> N: {rk: 24057, frq: 644}
+bumbler <> N: {rk: 50832, frq: 79}
+bumbling <> J: {rk: 29616, frq: 383}
+bummed <> J: {rk: 41450, frq: 146}
+bummer <> N: {rk: 15637, frq: 1624}
+bump <> N: {rk: 5600, frq: 10140}, V: {rk: 5871, frq: 9326}
+bumper <> J: {rk: 11827, frq: 2782}, N: {rk: 12026, frq: 2704}
+bumper-to-bumper <> J: {rk: 41205, frq: 149}
+bumping <> N: {rk: 43752, frq: 125}
+bumpkin <> N: {rk: 33449, frq: 276}
+bumptious <> J: {rk: 54024, frq: 65}
+bumpy <> J: {rk: 13575, frq: 2145}
+bun <> N: {rk: 9001, frq: 4499}
+bunch <> N: {rk: 2018, frq: 43989}, V: {rk: 16880, frq: 1406}
+bunched <> J: {rk: 47013, frq: 100}
+bunco <> N: {rk: 54536, frq: 63}
+bund <> N: {rk: 34574, frq: 252}
+bundle <> N: {rk: 6631, frq: 7517}, V: {rk: 11337, frq: 2991}
+bundled <> J: {rk: 23325, frq: 693}
+bundler <> N: {rk: 33272, frq: 280}
+bundling <> N: {rk: 47678, frq: 96}
+bung <> N: {rk: 43981, frq: 123}
+bungalow <> N: {rk: 12732, frq: 2429}
+bungee <> N: {rk: 23503, frq: 681}
+bunghole <> N: {rk: 52276, frq: 72}
+bungle <> V: {rk: 26028, frq: 534}, N: {rk: 51833, frq: 74}
+bungled <> J: {rk: 34271, frq: 258}
+bungler <> N: {rk: 59267, frq: 47}
+bungling <> N: {rk: 38810, frq: 178}, J: {rk: 45029, frq: 114}
+bunion <> N: {rk: 31383, frq: 329}
+bunk <> N: {rk: 9588, frq: 4006}, V: {rk: 26591, frq: 506}
+bunker <> N: {rk: 7698, frq: 5832}, V: {rk: 47596, frq: 97}
+bunkhouse <> N: {rk: 30510, frq: 354}
+bunkmate <> N: {rk: 47677, frq: 96}
+bunkum <> N: {rk: 58655, frq: 49}
+bunny <> N: {rk: 6961, frq: 6908}
+bunt <> N: {rk: 27349, frq: 472}, V: {rk: 35829, frq: 227}
+bunting <> N: {rk: 26914, frq: 493}
+buoy <> N: {rk: 15569, frq: 1638}, V: {rk: 18259, frq: 1186}
+buoyancy <> N: {rk: 23135, frq: 706}
+buoyant <> J: {rk: 18918, frq: 1101}
+buoyantly <> R: {rk: 56911, frq: 54}
+buprenorphine <> N: {rk: 37838, frq: 193}
+bupropion <> N: {rk: 54135, frq: 64}
+burb <> N: {rk: 29859, frq: 375}
+burble <> V: {rk: 31557, frq: 324}, N: {rk: 50935, frq: 78}
+burbling <> J: {rk: 55610, frq: 59}
+burden <> N: {rk: 2877, frq: 27443}, V: {rk: 10660, frq: 3312}
+burdened <> J: {rk: 45030, frq: 114}
+burdensome <> J: {rk: 17073, frq: 1374}
+burdock <> N: {rk: 46670, frq: 103}
+bureau <> N: {rk: 2734, frq: 29044}
+bureaucracy <> N: {rk: 6240, frq: 8420}
+bureaucrat <> N: {rk: 8085, frq: 5367}
+bureaucratic <> J: {rk: 8184, frq: 5252}
+bureaucratically <> R: {rk: 48571, frq: 91}
+bureaucratization <> N: {rk: 47369, frq: 98}
+burg <> N: {rk: 34354, frq: 257}
+burgeon <> V: {rk: 38516, frq: 182}
+burgeoning <> J: {rk: 11390, frq: 2970}
+burger <> N: {rk: 5037, frq: 11920}
+burgess <> N: {rk: 43501, frq: 127}
+burgher <> N: {rk: 37839, frq: 193}
+burglar <> N: {rk: 11948, frq: 2736}
+burglarize <> V: {rk: 29396, frq: 390}
+burglary <> N: {rk: 10198, frq: 3584}
+burgle <> V: {rk: 42657, frq: 135}
+burial <> N: {rk: 7058, frq: 6760}
+buried <> J: {rk: 14634, frq: 1848}
+burka <> N: {rk: 32733, frq: 293}
+burl <> N: {rk: 45534, frq: 111}
+burlap <> N: {rk: 22268, frq: 774}
+burlesque <> J: {rk: 27246, frq: 477}, N: {rk: 28752, frq: 414}
+burly <> J: {rk: 16433, frq: 1478}
+burn <> V: {rk: 1434, frq: 66886}, N: {rk: 5633, frq: 10006}
+burn-in <> N: {rk: 30895, frq: 343}
+burned <> J: {rk: 14960, frq: 1770}
+burner <> N: {rk: 9493, frq: 4085}
+burnet <> N: {rk: 52725, frq: 70}
+burning <> J: {rk: 4344, frq: 14976}, N: {rk: 30097, frq: 367}
+burnish <> V: {rk: 23657, frq: 669}
+burnished <> J: {rk: 30098, frq: 367}
+burnout <> N: {rk: 12957, frq: 2349}
+burnt <> J: {rk: 13069, frq: 2304}
+burnt-out <> J: {rk: 35145, frq: 240}
+burp <> V: {rk: 19958, frq: 981}, N: {rk: 26774, frq: 499}
+burr <> N: {rk: 15165, frq: 1730}
+burrito <> N: {rk: 14523, frq: 1886}
+burro <> N: {rk: 26506, frq: 510}
+burrow <> V: {rk: 14474, frq: 1898}, N: {rk: 17562, frq: 1292}
+burrower <> N: {rk: 55612, frq: 59}
+burrowing <> J: {rk: 47595, frq: 97}
+bursa <> N: {rk: 53167, frq: 68}
+bursar <> N: {rk: 48570, frq: 91}
+bursitis <> N: {rk: 39827, frq: 164}
+burst <> V: {rk: 4197, frq: 15772}, N: {rk: 6360, frq: 8123}, J: {rk: 21763, frq: 814}
+burster <> N: {rk: 54668, frq: 62}
+bursting <> N: {rk: 35243, frq: 238}, J: {rk: 40493, frq: 157}
+bury <> V: {rk: 2446, frq: 33531}
+bus <> N: {rk: 1605, frq: 58707}, V: {rk: 15529, frq: 1645}
+busboy <> N: {rk: 23324, frq: 693}
+bush <> N: {rk: 4291, frq: 15262}, V: {rk: 41025, frq: 151}
+bushel <> N: {rk: 16125, frq: 1532}
+bushing <> N: {rk: 39967, frq: 163}
+bushman <> N: {rk: 33254, frq: 281}
+bushmaster <> N: {rk: 53548, frq: 67}
+bushmeat <> N: {rk: 52618, frq: 71}
+bushwhack <> V: {rk: 35524, frq: 233}
+bushwhacker <> N: {rk: 49292, frq: 87}
+bushy <> J: {rk: 18407, frq: 1168}
+busily <> R: {rk: 19957, frq: 981}
+business <> N: {rk: 254, frq: 373744}
+businesslike <> J: {rk: 20774, frq: 900}
+businessman <> N: {rk: 4673, frq: 13380}
+businessperson <> N: {rk: 20938, frq: 884}
+businesswoman <> N: {rk: 20423, frq: 933}
+busing <> N: {rk: 35056, frq: 242}, J: {rk: 47995, frq: 94}
+busk <> V: {rk: 42071, frq: 140}
+busker <> N: {rk: 44471, frq: 119}
+busload <> N: {rk: 27041, frq: 487}
+buss <> V: {rk: 27333, frq: 473}, N: {rk: 43084, frq: 131}
+bust <> V: {rk: 5227, frq: 11264}, N: {rk: 8021, frq: 5436}, J: {rk: 24027, frq: 647}
+bustard <> N: {rk: 52159, frq: 73}
+busted <> J: {rk: 15024, frq: 1755}
+buster <> N: {rk: 13202, frq: 2262}
+bustle <> V: {rk: 15976, frq: 1558}, N: {rk: 24968, frq: 589}
+bustling <> J: {rk: 13610, frq: 2133}
+busty <> J: {rk: 28145, frq: 437}
+busy <> J: {rk: 1806, frq: 50363}, V: {rk: 10447, frq: 3424}
+busybody <> N: {rk: 29617, frq: 383}
+busyness <> N: {rk: 34450, frq: 255}
+busywork <> N: {rk: 45528, frq: 111}
+but <> C: {rk: 24, frq: 4523086}, I: {rk: 1737, frq: 52830}
+butadiene <> N: {rk: 54010, frq: 65}
+butane <> N: {rk: 33173, frq: 282}
+butch <> J: {rk: 24730, frq: 602}
+butcher <> N: {rk: 8939, frq: 4542}, V: {rk: 15988, frq: 1557}
+butchered <> J: {rk: 42287, frq: 138}
+butchering <> N: {rk: 46940, frq: 101}
+butchery <> N: {rk: 32601, frq: 296}
+butler <> N: {rk: 12871, frq: 2379}
+butt <> N: {rk: 3887, frq: 17681}, V: {rk: 11030, frq: 3131}
+butte <> N: {rk: 18693, frq: 1128}
+butted <> J: {rk: 47585, frq: 97}
+butter <> N: {rk: 2704, frq: 29372}, V: {rk: 22039, frq: 793}
+butterball <> N: {rk: 42927, frq: 132}
+buttercream <> N: {rk: 35059, frq: 242}
+buttercup <> N: {rk: 25528, frq: 558}
+buttered <> J: {rk: 22508, frq: 755}
+butterfat <> N: {rk: 52609, frq: 71}
+butterfly <> N: {rk: 5541, frq: 10292}
+buttermilk <> N: {rk: 16313, frq: 1496}
+butternut <> N: {rk: 22579, frq: 748}
+butterscotch <> N: {rk: 32834, frq: 290}
+buttery <> J: {rk: 18204, frq: 1195}
+buttocks <> N: {rk: 12999, frq: 2331}
+button <> N: {rk: 2317, frq: 36451}, V: {rk: 12050, frq: 2692}
+button-down <> J: {rk: 23070, frq: 711}
+buttoned <> J: {rk: 47278, frq: 99}
+buttonhole <> N: {rk: 35557, frq: 232}
+buttress <> V: {rk: 19771, frq: 1002}, N: {rk: 32374, frq: 302}
+butyrate <> N: {rk: 50390, frq: 81}
+buxom <> J: {rk: 32135, frq: 309}
+buy <> V: {rk: 375, frq: 260201}, N: {rk: 11429, frq: 2951}
+buy-in <> N: {rk: 19731, frq: 1008}
+buyback <> N: {rk: 20991, frq: 880}
+buyer <> N: {rk: 3253, frq: 23157}
+buying <> N: {rk: 7136, frq: 6627}
+buyout <> N: {rk: 11999, frq: 2713}
+buzz <> V: {rk: 8525, frq: 4887}, N: {rk: 33977, frq: 264}
+buzzard <> N: {rk: 21243, frq: 858}
+buzzer <> N: {rk: 15639, frq: 1623}
+buzzing <> J: {rk: 17251, frq: 1343}
+buzzkill <> N: {rk: 48316, frq: 92}
+buzzsaw <> N: {rk: 58218, frq: 50}
+buzzword <> N: {rk: 20287, frq: 947}
+buzzy <> J: {rk: 38509, frq: 182}
+by <> I: {rk: 33, frq: 3372222}, R: {rk: 1208, frq: 80074}
+by-catch <> N: {rk: 26643, frq: 504}
+by-election <> N: {rk: 45319, frq: 112}
+by-product <> N: {rk: 9966, frq: 3730}
+bye <> U: {rk: 3075, frq: 25081}, N: {rk: 11573, frq: 2884}
+bye-bye <> U: {rk: 8343, frq: 5082}
+bygone <> J: {rk: 19711, frq: 1009}, N: {rk: 26693, frq: 503}
+bylaw <> N: {rk: 18480, frq: 1157}
+byline <> N: {rk: 20528, frq: 924}
+bypass <> V: {rk: 8357, frq: 5062}, N: {rk: 12131, frq: 2662}
+byproduct <> N: {rk: 47279, frq: 99}
+bystander <> N: {rk: 11936, frq: 2743}
+byte <> N: {rk: 14014, frq: 2017}
+byway <> N: {rk: 25571, frq: 556}
+byword <> N: {rk: 42237, frq: 139}

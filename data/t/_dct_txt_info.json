@@ -27,7 +27,7 @@
     "freq": {
         "start": "ta",
         "end": "tyrosine",
-        "total": 2121
+        "total": 2222
     },
     "lgk_id": {
         "start": "ta-ta",
@@ -47,7 +47,7 @@
     "pos": {
         "start": "ta",
         "end": "tyrosine",
-        "total": 2171
+        "total": 2222
     },
     "redirect": {
         "start": "t-bars",

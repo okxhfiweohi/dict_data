@@ -26,8 +26,8 @@
     },
     "freq": {
         "start": "laager",
-        "end": "lytic",
-        "total": 1264
+        "end": "lysozyme",
+        "total": 1349
     },
     "lgk_id": {
         "start": "la-la land",
@@ -41,8 +41,8 @@
     },
     "pos": {
         "start": "laager",
-        "end": "lytic",
-        "total": 1305
+        "end": "lysozyme",
+        "total": 1349
     },
     "redirect": {
         "start": "l-plates",
