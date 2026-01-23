@@ -59,4 +59,4 @@ like <> V: {rk: 208, frq: 198134}, N: {rk: 5907, frq: 4143}
 
 - [skywind3000/ECDICT](https://github.com/skywind3000/ECDICT) :
   音标、简明释义及占比 [等](#数据分组) 内容的数据来源
-- [mahavivo/english-wordlists](https://github.com/mahavivo/english-wordlists.git) : 几乎所有 [标签](#标签) 的数据来源
+- [mahavivo/english-wordlists](https://github.com/mahavivo/english-wordlists.git) : 很多 [标签](#标签) 的数据来源
